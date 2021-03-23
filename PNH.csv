@@ -1,0 +1,1169 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,5:40 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Landed 5:33 AM,2020-10-03
+1,1,7:20 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Unknown,2020-10-03
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73F,Unknown,2020-10-03
+3,3,7:50 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 8:14 AM,2020-10-03
+4,4,8:30 AM,QD669,Taipei (TPE),JC Airlines 320,Canceled,2020-10-03
+5,5,9:05 AM 9C6191,,Chengdu (CTU),Spring Airlines 320,Unknown,2020-10-03
+6,6,6:30 PM KR506,,Sihanoukville (KOS),Cambodia Airways 319,Unknown,2020-10-03
+7,7,7:15 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JDR),Landed 9:53 PM,2020-10-03
+8,8,7:35 PM 9C8565,,Jieyang (SWA),Spring Airlines 320,Unknown,2020-10-03
+9,9,8:00 PM 9C8687,,Shenzhen (SZX),Spring Airlines 320,Unknown,2020-10-03
+10,10,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-10-03
+11,11,8:45 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Unknown,2020-10-03
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFI),Landed 5:34 PM,2020-10-04
+1,1,7:20 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Unknown,2020-10-04
+2,2,9:05 AM 9C6191,,Chengdu (CTU),Spring Airlines 320,Unknown,2020-10-04
+3,3,10:50 AM CI861,,Taipei (TPE),China Airlines A333 (B-18357),Landed 10:25 AM,2020-10-04
+4,4,11:05 AM MF8691,,Xiamen (XMN),Xiamen Air B738 (B-5382),Landed 11:17 AM,2020-10-04
+5,5,11:15 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 10:55 AM,2020-10-04
+6,6,2:50 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-237),Landed 2:36 PM,2020-10-04
+7,7,5:30 PM KR752,,Singapore (SIN),Cambodia Airways 319,Unknown,2020-10-04
+8,8,5:30 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 5:20 PM,2020-10-04
+9,9,7:35 PM 9C8565,,Jieyang (SWA),Spring Airlines 320,Unknown,2020-10-04
+10,10,7:50 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LID),Landed 7:23 PM,2020-10-04
+11,11,8:00 PM 9C8687,,Shenzhen (SZX),Spring Airlines 320,Unknown,2020-10-04
+12,12,8:45 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Unknown,2020-10-04
+13,13,10:10 PM,KE689,Seoul (ICN),Korean Air B739 (HL8273),Landed 10:06 PM,2020-10-04
+14,14,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8279),Landed 11:06 PM,2020-10-04
+0,0,7:20 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Unknown,2020-10-05
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73F,Unknown,2020-10-05
+2,2,8:00 AM,LQ761,Manila (MNL),Lanmei Airlines A321 (XU-919),Landed 7:51 AM,2020-10-05
+3,3,8:05 AM LQ884,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 7:45 AM,2020-10-05
+4,4,9:05 AM 9C6191,,Chengdu (CTU),Spring Airlines 320,Unknown,2020-10-05
+5,5,10:15 AM,KA208,Hong Kong (HKG),Cathay Dragon A333 (B-LBI),Landed 9:41 AM,2020-10-05
+6,6,10:30 AM CI861,,Taipei (TPE),China Airlines A333 (B-18302),Landed 10:05 AM,2020-10-05
+7,7,10:40 AM CZ8313,,Guangzhou (CAN),China Southern Airlines B789 (B-1297),Landed 10:44 AM,2020-10-05
+8,8,11:15 AM BR265,,Taipei (TPE),EVA Air A321 (B-16208),Landed 10:39 AM,2020-10-05
+9,9,12:35 PM K6907,,Manila (MNL),Cambodia Angkor Air A321 (XU-350),Landed 12:56 PM,2020-10-05
+10,10,7:20 PM LQ885,,Xi'an (XIY),Lanmei Airlines A321 (XU-919),Landed 7:57 PM,2020-10-05
+11,11,7:35 PM 9C8565,,Jieyang (SWA),Spring Airlines 320,Unknown,2020-10-05
+12,12,8:00 PM 9C8687,,Shenzhen (SZX),Spring Airlines 320,Unknown,2020-10-05
+13,13,8:45 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Unknown,2020-10-05
+14,14,10:10 PM DL7871,,Seoul (ICN),Delta Air Lines -,Canceled,2020-10-05
+15,15,10:50 PM K6895,,Zhengzhou (CGO),Cambodia Angkor Air A321 (XU-350),Landed 12:31 AM,2020-10-05
+16,16,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8004),Landed 10:37 PM,2020-10-05
+0,0,6:15 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFH),Landed 6:09 AM,2020-10-06
+1,1,7:20 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Unknown,2020-10-06
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:14 AM,2020-10-06
+3,3,9:05 AM 9C6191,,Chengdu (CTU),Spring Airlines 320,Unknown,2020-10-06
+4,4,10:00 AM,MH754,Kuala Lumpur (KUL),Malaysia Airlines 738,Unknown,2020-10-06
+5,5,10:40 AM CZ8313,,Guangzhou (CAN),China Southern Airlines B789 (B-1243),Landed 10:36 AM,2020-10-06
+6,6,12:50 PM MU2599,,Kunming (KMG),China Eastern Airlines B738 (B-5795),Landed 12:00 PM,2020-10-06
+7,7,5:20 PM,VN920,Ho Chi Minh City (SGN),Vietnam Airlines 321,Unknown,2020-10-06
+8,8,5:30 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGL),Landed 5:33 PM,2020-10-06
+9,9,6:05 PM QR8976,,Doha (DOH),Qatar Cargo B77L (A7-BFC),Delayed 7:34 AM,2020-10-06
+10,10,6:40 PM K6199,,Sihanoukville (KOS),Cambodia Angkor Air 320,Unknown,2020-10-06
+11,11,7:35 PM 9C8565,,Jieyang (SWA),Spring Airlines 320,Unknown,2020-10-06
+12,12,8:00 PM 9C8687,,Shenzhen (SZX),Spring Airlines 320,Unknown,2020-10-06
+13,13,8:45 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Unknown,2020-10-06
+14,14,10:10 PM DL7871,,Seoul (ICN),Delta Air Lines -,Canceled,2020-10-06
+15,15,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A333 (B-300P),Landed 11:31 PM,2020-10-06
+0,0,6:10 AM KR742,,Manila (MNL),Cambodia Airways A320 (XU-761),Landed 6:31 AM,2020-10-07
+1,1,7:20 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Unknown,2020-10-07
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:15 AM,2020-10-07
+3,3,9:05 AM 9C6191,,Chengdu (CTU),Spring Airlines 320,Unknown,2020-10-07
+4,4,10:15 AM KA208,,Hong Kong (HKG),Cathay Dragon A333 (B-LBI),Landed 2:33 PM,2020-10-07
+5,5,10:30 AM QD8663,,Manila (MNL),JC Airlines 320,Unknown,2020-10-07
+6,6,10:50 AM CI861,,Taipei (TPE),China Airlines B738 (B-18652),Landed 10:24 AM,2020-10-07
+7,7,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-10-07
+8,8,11:05 AM MF8691,,Xiamen (XMN),Xiamen Air (United Dream Livery) B789 (B-1356),Landed 11:24 AM,2020-10-07
+9,9,11:15 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Landed 10:55 AM,2020-10-07
+10,10,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 5:52 PM,2020-10-07
+11,11,6:45 PM K6199,,Sihanoukville (KOS),Cambodia Angkor Air 320,Unknown,2020-10-07
+12,12,7:25 PM TK6266,,Istanbul (ISL),AirACT B744 (TC-ACM),Landed 5:44 PM,2020-10-07
+13,13,7:35 PM 9C8565,,Jieyang (SWA),Spring Airlines 320,Unknown,2020-10-07
+14,14,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-998),Landed 7:47 PM,2020-10-07
+15,15,8:00 PM 9C8687,,Shenzhen (SZX),Spring Airlines 320,Unknown,2020-10-07
+16,16,8:45 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Canceled,2020-10-07
+17,17,10:10 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 9:58 PM,2020-10-07
+18,18,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:44 PM,2020-10-07
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-1067),Landed 12:18 AM,2020-10-08
+1,1,3:00 AM TK6476,,Muscat (MCT),Turkish Cargo A332 (TC-JOV),Diverted to HYD,2020-10-08
+2,2,7:20 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Unknown,2020-10-08
+3,3,7:35 AM K6907,,Manila (MNL),Cambodia Angkor Air A320 (XU-356),Landed 7:59 AM,2020-10-08
+4,4,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:26 AM,2020-10-08
+5,5,9:05 AM 9C6191,,Chengdu (CTU),Spring Airlines 320,Unknown,2020-10-08
+6,6,9:10 AM KR742,,Manila (MNL),Cambodia Airways 319,Unknown,2020-10-08
+7,7,10:50 AM CI861,,Taipei (TPE),China Airlines B738 (B-18612),Landed 10:27 AM,2020-10-08
+8,8,3:20 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-5345),Landed 2:35 PM,2020-10-08
+9,9,3:30 PM K6669,,Guangzhou (CAN),Cambodia Angkor Air A320 (XU-356),Landed 4:07 PM,2020-10-08
+10,10,5:05 PM 9C8533,,Shanghai (PVG),Spring Airlines A20N (B-306Z),Landed 5:03 PM,2020-10-08
+11,11,6:30 PM,K6140,Sihanoukville (KOS),Cambodia Angkor Air A320 (XU-356),Landed 6:42 PM,2020-10-08
+12,12,7:35 PM 9C8565,,Jieyang (SWA),Spring Airlines 320,Unknown,2020-10-08
+13,13,8:00 PM 9C8687,,Shenzhen (SZX),Spring Airlines 320,Unknown,2020-10-08
+14,14,8:30 PM,KR902,Fuzhou (FOC),Cambodia Airways A319 (XU-878),Landed 8:52 PM,2020-10-08
+15,15,10:10 PM,KE689,Seoul (ICN),Korean Air B739 (HL8272),Landed 10:04 PM,2020-10-08
+0,0,5:40 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Landed 5:27 AM,2020-10-10
+1,1,7:20 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Unknown,2020-10-10
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73F,Unknown,2020-10-10
+3,3,7:50 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 8:54 AM,2020-10-10
+4,4,8:30 AM,QD669,Taipei (TPE),JC Airlines 320,Canceled,2020-10-10
+5,5,9:05 AM 9C6191,,Chengdu (CTU),Spring Airlines 320,Unknown,2020-10-10
+6,6,6:30 PM KR506,,Sihanoukville (KOS),Cambodia Airways 319,Unknown,2020-10-10
+7,7,7:15 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOZ),Landed 12:37 AM,2020-10-10
+8,8,7:35 PM 9C8565,,Jieyang (SWA),Spring Airlines 320,Unknown,2020-10-10
+9,9,8:00 PM 9C8687,,Shenzhen (SZX),Spring Airlines 320,Unknown,2020-10-10
+10,10,8:35 PM,CX78,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-10-10
+11,11,8:45 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Unknown,2020-10-10
+0,0,7:20 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Unknown,2020-10-11
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 12:36 PM,2020-10-11
+2,2,9:05 AM 9C6191,,Chengdu (CTU),Spring Airlines 320,Unknown,2020-10-11
+3,3,10:50 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFR),Landed 4:02 PM,2020-10-11
+4,4,10:50 AM CI861,,Taipei (TPE),China Airlines A333 (B-18302),Landed 10:20 AM,2020-10-11
+5,5,11:05 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1566),Landed 11:12 AM,2020-10-11
+6,6,11:15 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Landed 10:52 AM,2020-10-11
+7,7,2:50 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-236),Landed 2:27 PM,2020-10-11
+8,8,5:30 PM KR752,,Singapore (SIN),Cambodia Airways 319,Unknown,2020-10-11
+9,9,5:30 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:29 PM,2020-10-11
+10,10,6:45 PM K6199,,Sihanoukville (KOS),Cambodia Angkor Air 320,Unknown,2020-10-11
+11,11,7:35 PM 9C8565,,Jieyang (SWA),Spring Airlines 320,Unknown,2020-10-11
+12,12,7:50 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 7:29 PM,2020-10-11
+13,13,8:00 PM 9C8687,,Shenzhen (SZX),Spring Airlines 320,Unknown,2020-10-11
+14,14,8:45 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Unknown,2020-10-11
+15,15,10:10 PM,KE689,Seoul (ICN),Korean Air B739 (HL8223),Landed 9:44 PM,2020-10-11
+16,16,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:37 PM,2020-10-11
+0,0,7:20 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Unknown,2020-10-12
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73F,Unknown,2020-10-12
+2,2,8:00 AM,LQ761,Manila (MNL),Lanmei Airlines A321 (XU-919),Landed 7:24 AM,2020-10-12
+3,3,8:05 AM LQ884,,Sihanoukville (KOS),Lanmei Airlines 321,Canceled,2020-10-12
+4,4,9:05 AM 9C6191,,Chengdu (CTU),Spring Airlines 320,Unknown,2020-10-12
+5,5,10:15 AM,KA208,Hong Kong (HKG),Cathay Dragon A333 (B-HLM),Landed 12:21 PM,2020-10-12
+6,6,10:40 AM CZ8313,,Guangzhou (CAN),China Southern Airlines (Guangdong Lychee Livery) A333 (B-8870),Landed 10:43 AM,2020-10-12
+7,7,11:15 AM BR265,,Taipei (TPE),EVA Air A321 (B-16227),Landed 10:38 AM,2020-10-12
+8,8,12:35 PM K6907,,Manila (MNL),Cambodia Angkor Air A320 (XU-356),Landed 12:47 PM,2020-10-12
+9,9,7:20 PM LQ885,,Xi'an (XIY),Lanmei Airlines A321 (XU-919),Landed 8:22 PM,2020-10-12
+10,10,7:35 PM 9C8565,,Jieyang (SWA),Spring Airlines 320,Unknown,2020-10-12
+11,11,8:00 PM 9C8687,,Shenzhen (SZX),Spring Airlines 320,Unknown,2020-10-12
+12,12,8:45 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Unknown,2020-10-12
+13,13,10:50 PM K6895,,Zhengzhou (CGO),Cambodia Angkor Air A320 (XU-356),Landed 11:57 PM,2020-10-12
+14,14,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:35 PM,2020-10-12
+0,0,6:10 AM KR742,,Manila (MNL),Cambodia Airways A320 (XU-761),Landed 7:24 AM,2020-10-14
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:17 AM,2020-10-14
+2,2,10:30 AM QD8663,,Manila (MNL),JC Airlines A320 (XU-996),Landed 10:06 AM,2020-10-14
+3,3,10:50 AM CI861,,Taipei (TPE),China Airlines B738 (B-18656),Estimated 10:29 AM,2020-10-14
+4,4,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Scheduled,2020-10-14
+5,5,11:05 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-7836),Delayed 11:26 AM,2020-10-14
+6,6,11:15 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Estimated 10:54 AM,2020-10-14
+7,7,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways 320,Scheduled,2020-10-14
+8,8,6:45 PM K6199,,Sihanoukville (KOS),Cambodia Angkor Air 320,Scheduled,2020-10-14
+9,9,7:25 PM TK6266,,Istanbul (ISL),AirACT B744 (TC-ACG),Scheduled,2020-10-14
+10,10,7:50 PM QD697,,Kunming (KMG),JC Airlines 320,Scheduled,2020-10-14
+11,11,10:10 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Scheduled,2020-10-14
+12,12,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines 32Q,Scheduled,2020-10-14
+0,0,6:10 AM KR742,,Manila (MNL),Cambodia Airways A320 (XU-761),Landed 7:24 AM,2020-10-14
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:17 AM,2020-10-14
+2,2,10:30 AM QD8663,,Manila (MNL),JC Airlines A320 (XU-996),Landed 10:06 AM,2020-10-14
+3,3,10:50 AM CI861,,Taipei (TPE),China Airlines B738 (B-18656),Landed 10:29 AM,2020-10-14
+4,4,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-10-14
+5,5,11:05 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-7836),Landed 11:28 AM,2020-10-14
+6,6,11:15 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Landed 10:59 AM,2020-10-14
+7,7,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 6:25 PM,2020-10-14
+8,8,6:45 PM K6199,,Sihanoukville (KOS),Cambodia Angkor Air 320,Unknown,2020-10-14
+9,9,7:25 PM TK6266,,Istanbul (ISL),AirACT B744 (TC-ACG),Landed 10:16 AM,2020-10-14
+10,10,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-996),Landed 8:15 PM,2020-10-14
+11,11,10:10 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 9:56 PM,2020-10-14
+12,12,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:35 PM,2020-10-14
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-305F),Landed 12:34 AM,2020-10-15
+1,1,7:35 AM K6907,,Manila (MNL),Cambodia Angkor Air A320 (XU-356),Landed 7:16 AM,2020-10-15
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:20 AM,2020-10-15
+3,3,9:10 AM KR742,,Manila (MNL),Cambodia Airways 319,Unknown,2020-10-15
+4,4,10:50 AM CI861,,Taipei (TPE),China Airlines B738 (B-18615),Landed 10:25 AM,2020-10-15
+5,5,3:20 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-1478),Landed 2:44 PM,2020-10-15
+6,6,3:30 PM K6669,,Guangzhou (CAN),Cambodia Angkor Air A320 (XU-356),Landed 3:26 PM,2020-10-15
+7,7,5:05 PM 9C8533,,Shanghai (PVG),Spring Airlines A20N (B-30DD),Landed 6:49 PM,2020-10-15
+8,8,6:30 PM,K6140,Sihanoukville (KOS),Cambodia Angkor Air A320 (XU-356),Landed 6:21 PM,2020-10-15
+9,9,6:45 PM K6199,,Sihanoukville (KOS),Cambodia Angkor Air 320,Unknown,2020-10-15
+10,10,8:30 PM,KR902,Fuzhou (FOC),Cambodia Airways A320 (XU-761),Landed 10:07 PM,2020-10-15
+11,11,10:10 PM,KE689,Seoul (ICN),Korean Air B739 (HL8272),Landed 9:56 PM,2020-10-15
+0,0,7:15 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFH),Landed 7:09 AM,2020-10-16
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:24 AM,2020-10-16
+2,2,9:15 AM K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2020-10-16
+3,3,11:15 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Landed 10:45 AM,2020-10-16
+4,4,2:40 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSK),Landed 2:13 PM,2020-10-16
+5,5,5:00 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air A321 (XU-350),Landed 5:17 PM,2020-10-16
+6,6,6:30 PM KR506,,Sihanoukville (KOS),Cambodia Airways 319,Unknown,2020-10-16
+7,7,7:15 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIF),Landed 6:55 PM,2020-10-16
+8,8,8:45 PM LQ9771,,Manila (MNL),Lanmei Airlines A321 (XU-919),Landed 8:55 PM,2020-10-16
+9,9,8:50 PM,LQ908,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 8:49 PM,2020-10-16
+10,10,9:30 PM QD8661,,Manila (MNL),JC Airlines A320 (XU-995),Landed 9:43 PM,2020-10-16
+11,11,10:10 PM,KE689,Seoul (ICN),Korean Air A333 (HL7554),Landed 10:12 PM,2020-10-16
+12,12,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8004),Landed 10:48 PM,2020-10-16
+0,0,5:40 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Landed 9:09 AM,2020-10-17
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73F,Unknown,2020-10-17
+2,2,7:50 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 8:11 AM,2020-10-17
+3,3,8:30 AM,QD669,Taipei (TPE),JC Airlines 320,Canceled,2020-10-17
+4,4,6:30 PM KR506,,Sihanoukville (KOS),Cambodia Airways 319,Unknown,2020-10-17
+5,5,7:15 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOV),Landed 12:43 AM,2020-10-17
+6,6,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-10-17
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFT),Landed 5:39 PM,2020-10-18
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 12:50 PM,2020-10-18
+2,2,10:50 AM CI861,,Taipei (TPE),China Airlines A333 (B-18308),Landed 10:33 AM,2020-10-18
+3,3,11:05 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1567),Landed 11:15 AM,2020-10-18
+4,4,11:15 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 11:07 AM,2020-10-18
+5,5,2:50 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-236),Landed 2:40 PM,2020-10-18
+6,6,5:30 PM KR752,,Singapore (SIN),Cambodia Airways 319,Unknown,2020-10-18
+7,7,5:30 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGL),Landed 5:25 PM,2020-10-18
+8,8,7:50 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIA),Landed 7:06 PM,2020-10-18
+9,9,10:10 PM,KE689,Seoul (ICN),Korean Air A332 (HL8228),Landed 10:09 PM,2020-10-18
+10,10,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:58 PM,2020-10-18
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73F,Unknown,2020-10-19
+1,1,8:00 AM,LQ761,Manila (MNL),Lanmei Airlines A321 (XU-919),Landed 7:21 AM,2020-10-19
+2,2,8:05 AM LQ884,,Sihanoukville (KOS),Lanmei Airlines A320 (XU-978),Landed 7:41 AM,2020-10-19
+3,3,10:15 AM,KA208,Hong Kong (HKG),Cathay Dragon A333 (B-LBF),Landed 12:20 PM,2020-10-19
+4,4,10:40 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5928),Landed 10:55 AM,2020-10-19
+5,5,11:00 AM,LQ222,Sihanoukville (KOS),Lanmei Airlines 320,Unknown,2020-10-19
+6,6,11:15 AM BR265,,Taipei (TPE),EVA Air A321 (B-16223),Landed 11:09 AM,2020-10-19
+7,7,12:35 PM K6907,,Manila (MNL),Cambodia Angkor Air A320 (XU-356),Landed 12:39 PM,2020-10-19
+8,8,7:20 PM LQ885,,Xi'an (XIY),Lanmei Airlines A321 (XU-919),Landed 8:31 PM,2020-10-19
+9,9,10:00 PM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFT),Delayed 8:40 AM,2020-10-19
+10,10,10:50 PM K6895,,Zhengzhou (CGO),Cambodia Angkor Air A320 (XU-356),Landed 11:15 PM,2020-10-19
+11,11,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:46 PM,2020-10-19
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:27 AM,2020-10-20
+1,1,10:40 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-8360),Landed 10:41 AM,2020-10-20
+2,2,12:50 PM MU2599,,Kunming (KMG),China Eastern Airlines B738 (B-5527),Landed 12:20 PM,2020-10-20
+3,3,2:20 PM AI1304,,Delhi (DEL),Air India A320 (VT-EXE),Landed 1:58 PM,2020-10-20
+4,4,5:30 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 5:20 PM,2020-10-20
+5,5,6:05 PM QR8976,,Doha (DOH),Qatar Cargo B77L (A7-BFI),Landed 5:52 PM,2020-10-20
+6,6,7:55 PM TG584,,Bangkok (BKK),Thai Airways 330,Canceled,2020-10-20
+7,7,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A333 (B-304A),Landed 11:06 PM,2020-10-20
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-30AF),Landed 12:44 AM,2020-10-21
+1,1,6:10 AM KR742,,Manila (MNL),Cambodia Airways A320 (XU-761),Landed 6:36 AM,2020-10-21
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:43 AM,2020-10-21
+3,3,10:30 AM QD8663,,Manila (MNL),JC Airlines 320,Unknown,2020-10-21
+4,4,10:50 AM CI861,,Taipei (TPE),China Airlines 738,Canceled,2020-10-21
+5,5,10:55 AM TK6476,,Dammam (DMM),Turkish Cargo A332 (TC-JOV),Unknown,2020-10-21
+6,6,11:05 AM MF8691,,Xiamen (XMN),Xiamen Air (United Dream Livery) B789 (B-1356),Landed 12:10 PM,2020-10-21
+7,7,11:15 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 10:55 AM,2020-10-21
+8,8,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 5:15 PM,2020-10-21
+9,9,7:25 PM TK6266,,Istanbul (ISL),AirACT B744 (TC-ACG),Landed 7:19 AM,2020-10-21
+10,10,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-997),Landed 8:11 PM,2020-10-21
+11,11,10:10 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:16 PM,2020-10-21
+12,12,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:50 PM,2020-10-21
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-305F),Landed 11:54 PM,2020-10-22
+1,1,7:35 AM K6907,,Manila (MNL),Cambodia Angkor Air A320 (XU-356),Landed 7:15 AM,2020-10-22
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:35 AM,2020-10-22
+3,3,9:10 AM KR742,,Manila (MNL),Cambodia Airways A320 (XU-761),Landed 9:29 AM,2020-10-22
+4,4,9:40 AM 9C8529,,Guangzhou (CAN),Spring Airlines 320,Canceled,2020-10-22
+5,5,10:50 AM CI861,,Taipei (TPE),China Airlines B738 (B-18612),Landed 10:31 AM,2020-10-22
+6,6,3:20 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-5772),Landed 2:41 PM,2020-10-22
+7,7,3:30 PM K6669,,Guangzhou (CAN),Cambodia Angkor Air A320 (XU-356),Landed 3:14 PM,2020-10-22
+8,8,4:15 PM VN920,,Ho Chi Minh City (SGN),Vietnam Airlines A21N (VN-A501),Landed 5:06 PM,2020-10-22
+9,9,5:00 PM VN5920,,Ho Chi Minh City (SGN),Vietnam Airlines 321,Unknown,2020-10-22
+10,10,5:05 PM 9C8533,,Shanghai (PVG),Spring Airlines A20N (B-308K),Landed 6:13 PM,2020-10-22
+11,11,6:30 PM,K6140,Sihanoukville (KOS),Cambodia Angkor Air A320 (XU-356),Landed 5:56 PM,2020-10-22
+12,12,8:30 PM,KR902,Fuzhou (FOC),Cambodia Airways A320 (XU-761),Landed 9:03 PM,2020-10-22
+13,13,10:10 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:18 PM,2020-10-22
+0,0,7:15 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFL),Landed 1:00 PM,2020-10-23
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:33 AM,2020-10-23
+2,2,9:15 AM K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2020-10-23
+3,3,11:15 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 11:07 AM,2020-10-23
+4,4,2:40 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 2:10 PM,2020-10-23
+5,5,5:00 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air A320 (XU-356),Landed 4:49 PM,2020-10-23
+6,6,6:30 PM KR506,,Sihanoukville (KOS),Cambodia Airways 319,Unknown,2020-10-23
+7,7,7:00 PM K6819,,Ho Chi Minh City (SGN),Cambodia Angkor Air AT7,Canceled,2020-10-23
+8,8,7:15 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIA),Landed 7:41 PM,2020-10-23
+9,9,8:45 PM LQ9771,,Manila (MNL),Lanmei Airlines A321 (XU-961),Landed 8:14 PM,2020-10-23
+10,10,8:50 PM,LQ908,Sihanoukville (KOS),Lanmei Airlines A321 (XU-919),Landed 7:55 PM,2020-10-23
+11,11,9:30 PM QD8661,,Manila (MNL),JC Airlines A320 (XU-995),Landed 9:42 PM,2020-10-23
+12,12,10:10 PM,KE689,Seoul (ICN),Korean Air A333 (HL8003),Landed 10:22 PM,2020-10-23
+13,13,10:55 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 11:52 PM,2020-10-23
+0,0,5:40 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 5:54 AM,2020-10-24
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73F,Unknown,2020-10-24
+2,2,7:50 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 8:32 AM,2020-10-24
+3,3,8:30 AM,QD669,Taipei (TPE),JC Airlines A320 (XU-996),Landed 8:14 AM,2020-10-24
+4,4,6:30 PM KR506,,Sihanoukville (KOS),Cambodia Airways 319,Unknown,2020-10-24
+5,5,7:15 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JDR),Landed 11:38 PM,2020-10-24
+6,6,7:55 PM TG584,,Bangkok (BKK),Thai Airways A333 (HS-TBB),Landed 7:27 PM,2020-10-24
+7,7,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-10-24
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-10-25
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 12:54 PM,2020-10-25
+2,2,8:25 AM FD608,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-25
+3,3,8:42 AM MI602,,Singapore (SIN),SilkAir -,Canceled,2020-10-25
+4,4,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1566),Landed 10:43 AM,2020-10-25
+5,5,11:15 AM CI861,,Taipei (TPE),China Airlines A333 (B-18351),Landed 11:02 AM,2020-10-25
+6,6,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 10:48 AM,2020-10-25
+7,7,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLU),Landed 11:22 AM,2020-10-25
+8,8,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-236),Landed 1:33 PM,2020-10-25
+9,9,4:25 PM FD606,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-25
+10,10,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 5:34 PM,2020-10-25
+11,11,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 7:54 PM,2020-10-25
+12,12,9:40 PM FD604,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-25
+13,13,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7553),Landed 9:44 PM,2020-10-25
+14,14,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:04 PM,2020-10-25
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73P,Unknown,2020-10-26
+1,1,8:00 AM,LQ761,Manila (MNL),Lanmei Airlines A321 (XU-961),Landed 10:19 AM,2020-10-26
+2,2,8:05 AM LQ884,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-919),Landed 7:58 AM,2020-10-26
+3,3,8:25 AM FD608,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-26
+4,4,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines (CIIE Livery) A333 (B-5940),Landed 10:06 AM,2020-10-26
+5,5,11:25 AM BR265,,Taipei (TPE),EVA Air A321 (B-16225),Landed 10:52 AM,2020-10-26
+6,6,12:35 PM K6907,,Manila (MNL),Cambodia Angkor Air A320 (XU-356),Landed 12:46 PM,2020-10-26
+7,7,4:25 PM FD606,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-26
+8,8,7:20 PM LQ885,,Xi'an (XIY),Lanmei Airlines A321 (XU-961),Landed 10:07 PM,2020-10-26
+9,9,8:50 PM,K6140,Sihanoukville (KOS),Cambodia Angkor Air 320,Unknown,2020-10-26
+10,10,9:40 PM FD604,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-26
+11,11,10:00 PM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFS),Landed 6:44 AM,2020-10-26
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 9:57 PM,2020-10-26
+13,13,10:55 PM K6895,,Zhengzhou (CGO),Cambodia Angkor Air A320 (XU-356),Landed 11:42 PM,2020-10-26
+0,0,7:25 AM FD640,,Phuket (HKT),Thai AirAsia 320,Unknown,2020-10-27
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:23 AM,2020-10-27
+2,2,8:25 AM FD608,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-27
+3,3,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines (CIIE Livery) A333 (B-5940),Landed 10:15 AM,2020-10-27
+4,4,4:25 PM FD606,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-27
+5,5,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGL),Landed 5:19 PM,2020-10-27
+6,6,6:05 PM QR8976,,Doha (DOH),Qatar Airways 77X,Unknown,2020-10-27
+7,7,9:40 PM FD604,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-27
+8,8,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A333 (B-1066),Landed 10:52 PM,2020-10-27
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-301E),Landed 11:47 PM,2020-10-28
+1,1,6:10 AM KR742,,Manila (MNL),Cambodia Airways A320 (XU-761),Landed 6:33 AM,2020-10-28
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:48 AM,2020-10-28
+3,3,8:25 AM FD608,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-28
+4,4,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-10-28
+5,5,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B788 (B-2762),Landed 11:17 AM,2020-10-28
+6,6,11:15 AM CI861,,Taipei (TPE),China Airlines A333 (B-18307),Landed 11:08 AM,2020-10-28
+7,7,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 10:59 AM,2020-10-28
+8,8,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 5:16 PM,2020-10-28
+9,9,4:25 PM FD606,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-28
+10,10,5:00 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air AT7,Unknown,2020-10-28
+11,11,7:25 PM TK6266,,Istanbul (ISL),AirACT B744 (TC-ACR),Diverted to MCT,2020-10-28
+12,12,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-998),Landed 7:47 PM,2020-10-28
+13,13,9:40 PM FD604,,Bangkok (DMK),Thai AirAsia 320,Unknown,2020-10-28
+14,14,10:25 PM,KE689,Seoul (ICN),Korean Air B739 (HL8272),Landed 10:11 PM,2020-10-28
+15,15,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:28 PM,2020-10-28
+0,0,7:15 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-10-30
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMC),Landed 7:51 AM,2020-10-30
+2,2,9:15 AM K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2020-10-30
+3,3,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 10:40 AM,2020-10-30
+4,4,2:05 PM,3K593,Singapore (SIN),Jetstar Asia 320,Unknown,2020-10-30
+5,5,5:00 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air A320 (XU-353),Landed 5:02 PM,2020-10-30
+6,6,6:25 PM,CX2074,Penang (PEN),Cathay Pacific Cargo B744 (B-LIA),Landed 7:22 PM,2020-10-30
+7,7,6:55 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-10-30
+8,8,8:45 PM LQ9771,,Manila (MNL),Lanmei Airlines A321 (XU-919),Landed 8:20 PM,2020-10-30
+9,9,8:55 PM,LQ908,Sihanoukville (KOS),Lanmei Airlines A320 (XU-903),Landed 8:46 PM,2020-10-30
+10,10,10:00 PM QD8661,,Manila (MNL),JC Airlines A320 (XU-995),Landed 10:22 PM,2020-10-30
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7709),Landed 9:21 PM,2020-10-30
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8018),Landed 10:08 PM,2020-10-30
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Landed 8:22 AM,2020-10-31
+1,1,7:25 AM FD640,,Phuket (HKT),Thai AirAsia 320,Unknown,2020-10-31
+2,2,7:45 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 8:29 AM,2020-10-31
+3,3,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air A40,Unknown,2020-10-31
+4,4,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNB),Landed 11:04 AM,2020-10-31
+5,5,4:45 PM VN920,,Ho Chi Minh City (SGN),Vietnam Airlines A21N (VN-A501),Landed 4:03 PM,2020-10-31
+6,6,7:15 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOV),Landed 6:13 PM,2020-10-31
+7,7,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-10-31
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-01
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 1:22 PM,2020-11-01
+2,2,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-7836),Landed 10:40 AM,2020-11-01
+3,3,11:15 AM CI861,,Taipei (TPE),China Airlines (三熊友達 - Buddy Bears Livery) B738 (B-18657),Landed 10:47 AM,2020-11-01
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Landed 10:57 AM,2020-11-01
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLY),Landed 11:22 AM,2020-11-01
+6,6,1:15 PM HX2729,,Hong Kong (HKG),Hong Kong Airlines A320 (B-LPL),Landed 12:49 PM,2020-11-01
+7,7,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-236),Landed 1:49 PM,2020-11-01
+8,8,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 5:30 PM,2020-11-01
+9,9,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIF),Scheduled,2020-11-01
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air A332 (HL8227),Estimated 9:58 PM,2020-11-01
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Estimated 10:06 PM,2020-11-01
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-01
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 1:22 PM,2020-11-01
+2,2,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-7836),Landed 10:40 AM,2020-11-01
+3,3,11:15 AM CI861,,Taipei (TPE),China Airlines (三熊友達 - Buddy Bears Livery) B738 (B-18657),Landed 10:47 AM,2020-11-01
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Landed 10:57 AM,2020-11-01
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLY),Landed 11:22 AM,2020-11-01
+6,6,1:15 PM HX2729,,Hong Kong (HKG),Hong Kong Airlines A320 (B-LPL),Landed 12:49 PM,2020-11-01
+7,7,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-236),Landed 1:49 PM,2020-11-01
+8,8,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 5:30 PM,2020-11-01
+9,9,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIF),Unknown,2020-11-01
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air A332 (HL8227),Landed 9:56 PM,2020-11-01
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:09 PM,2020-11-01
+0,0,7:45 AM,LQ761,Manila (MNL),Lanmei Airlines A321 (XU-919),Landed 1:53 PM,2020-11-02
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air A40,Unknown,2020-11-02
+2,2,8:05 AM LQ884,,Sihanoukville (KOS),Lanmei Airlines A320 (XU-903),Landed 1:39 PM,2020-11-02
+3,3,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5939),Landed 10:20 AM,2020-11-02
+4,4,12:30 PM RU748,,Bangkok (BKK),AirBridgeCargo B744 (VP-BIG),Landed 1:01 PM,2020-11-02
+5,5,12:35 PM K6907,,Manila (MNL),Cambodia Angkor Air A320 (XU-353),Landed 1:11 AM,2020-11-02
+6,6,3:50 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2020-11-02
+7,7,7:20 PM LQ885,,Xi'an (XIY),Lanmei Airlines A321 (XU-919),Landed 6:23 AM,2020-11-02
+8,8,10:00 PM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFM),Landed 6:10 AM,2020-11-02
+9,9,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:37 PM,2020-11-02
+10,10,10:55 PM K6895,,Zhengzhou (CGO),Cambodia Angkor Air 320,Canceled,2020-11-02
+0,0,7:25 AM FD640,,Phuket (HKT),Thai AirAsia 320,Unknown,2020-11-03
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:33 AM,2020-11-03
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5922),Landed 10:14 AM,2020-11-03
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:32 PM,2020-11-03
+4,4,6:05 PM QR8976,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-03
+5,5,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A321 (B-1679),Landed 11:11 PM,2020-11-03
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-301E),Landed 11:43 PM,2020-11-04
+1,1,6:10 AM KR742,,Manila (MNL),Cambodia Airways A320 (XU-761),Landed 6:30 AM,2020-11-04
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Unknown,2020-11-04
+3,3,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-11-04
+4,4,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1357),Landed 11:41 AM,2020-11-04
+5,5,11:15 AM CI861,,Taipei (TPE),China Airlines 738,Canceled,2020-11-04
+6,6,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 11:07 AM,2020-11-04
+7,7,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 5:42 PM,2020-11-04
+8,8,7:25 PM TK6266,,Istanbul (ISL),AirACT B744 (TC-ACR),Diverted to MCT,2020-11-04
+9,9,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-996),Landed 8:13 PM,2020-11-04
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air B739 (HL8272),Landed 10:07 PM,2020-11-04
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8038),Landed 10:16 PM,2020-11-04
+0,0,7:15 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-06
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:13 AM,2020-11-06
+2,2,9:15 AM K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2020-11-06
+3,3,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 10:56 AM,2020-11-06
+4,4,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSK),Landed 1:32 PM,2020-11-06
+5,5,4:45 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air A320 (XU-356),Landed 4:48 PM,2020-11-06
+6,6,6:25 PM,CX2074,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 6:51 PM,2020-11-06
+7,7,6:55 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-11-06
+8,8,8:45 PM LQ9771,,Manila (MNL),Lanmei Airlines A321 (XU-919),Landed 8:14 PM,2020-11-06
+9,9,8:55 PM,LQ908,Sihanoukville (KOS),Lanmei Airlines A320 (XU-903),Landed 8:25 PM,2020-11-06
+10,10,10:00 PM QD8661,,Manila (MNL),JC Airlines A320 (XU-995),Landed 10:16 PM,2020-11-06
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7540),Landed 10:21 PM,2020-11-06
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8018),Landed 10:27 PM,2020-11-06
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Landed 6:18 AM,2020-11-07
+1,1,7:45 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 8:05 AM,2020-11-07
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:02 PM,2020-11-07
+3,3,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (Manchester City Livery) B789 (A6-BND),Landed 11:04 AM,2020-11-07
+4,4,5:15 PM MU2599,,Kunming (KMG),China Eastern Airlines 73N,Unknown,2020-11-07
+5,5,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGL),Landed 5:59 PM,2020-11-07
+6,6,7:10 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOZ),Landed 8:13 PM,2020-11-07
+7,7,7:35 PM,TG584,Bangkok (BKK),Thai Airways A333 (HS-TBA),Landed 7:08 PM,2020-11-07
+8,8,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-11-07
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-08
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 1:24 PM,2020-11-08
+2,2,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1567),Landed 10:37 AM,2020-11-08
+3,3,11:15 AM CI861,,Taipei (TPE),China Airlines A333 (B-18352),Landed 10:46 AM,2020-11-08
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 11:19 AM,2020-11-08
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways 789,Unknown,2020-11-08
+6,6,12:10 PM QD8511,,Sihanoukville (KOS),JC Airlines A320 (XU-998),Landed 11:40 AM,2020-11-08
+7,7,1:15 PM HX2729,,Hong Kong (HKG),Hong Kong Airlines A320 (B-LPL),Landed 12:43 PM,2020-11-08
+8,8,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-236),Landed 1:34 PM,2020-11-08
+9,9,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGL),Landed 5:21 PM,2020-11-08
+10,10,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 7:43 PM,2020-11-08
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air A332 (HL8228),Landed 9:51 PM,2020-11-08
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:34 PM,2020-11-08
+0,0,7:45 AM,LQ761,Manila (MNL),Lanmei Airlines 321,Unknown,2020-11-09
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air A40,Unknown,2020-11-09
+2,2,8:05 AM LQ884,,Sihanoukville (KOS),Lanmei Airlines A320 (XU-903),Landed 7:38 AM,2020-11-09
+3,3,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5939),Landed 10:17 AM,2020-11-09
+4,4,12:35 PM K6907,,Manila (MNL),Cambodia Angkor Air 320,Unknown,2020-11-09
+5,5,7:20 PM LQ885,,Xi'an (XIY),Lanmei Airlines A321 (XU-919),Landed 7:27 PM,2020-11-09
+6,6,10:00 PM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-09
+7,7,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8018),Landed 10:40 PM,2020-11-09
+8,8,10:55 PM K6895,,Zhengzhou (CGO),Cambodia Angkor Air A320 (XU-356),Unknown,2020-11-09
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:36 AM,2020-11-10
+1,1,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5939),Landed 10:18 AM,2020-11-10
+2,2,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:18 PM,2020-11-10
+3,3,6:05 PM QR8976,,Doha (DOH),Qatar Airways B789 (A7-BHD),Unknown,2020-11-10
+4,4,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A333 (B-300P),Landed 11:15 PM,2020-11-10
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-30AF),Landed 11:49 PM,2020-11-11
+1,1,6:10 AM KR742,,Manila (MNL),Cambodia Airways 320,Unknown,2020-11-11
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:37 AM,2020-11-11
+3,3,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-11-11
+4,4,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1567),Landed 11:27 AM,2020-11-11
+5,5,11:15 AM CI861,,Taipei (TPE),China Airlines 738,Canceled,2020-11-11
+6,6,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 10:59 AM,2020-11-11
+7,7,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 6:06 PM,2020-11-11
+8,8,7:25 PM TK6266,,Istanbul (ISL),Turkish Airlines 74F,Unknown,2020-11-11
+9,9,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-996),Landed 7:35 PM,2020-11-11
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air B739 (HL8272),Landed 9:57 PM,2020-11-11
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines (Star Alliance Livery) A321 (HL8071),Landed 10:17 PM,2020-11-11
+12,12,11:00 PM TK6266,,Muscat (MCT),AirACT B744 (TC-ACM),Diverted to BKK,2020-11-11
+13,13,11:22 PM 9T6266,,Bangkok (BKK),AirACT B744 (TC-ACM),Landed 11:20 PM,2020-11-11
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-30C5),Landed 11:41 PM,2020-11-12
+1,1,7:30 AM K6907,,Manila (MNL),Cambodia Angkor Air 320,Unknown,2020-11-12
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:41 AM,2020-11-12
+3,3,9:10 AM KR742,,Manila (MNL),Cambodia Airways 320,Unknown,2020-11-12
+4,4,11:15 AM CI861,,Taipei (TPE),China Airlines (三熊友達 - Buddy Bears Livery) B738 (B-18657),Landed 10:48 AM,2020-11-12
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLZ),Landed 11:05 AM,2020-11-12
+6,6,3:35 PM K6669,,Guangzhou (CAN),Cambodia Angkor Air A320 (XU-356),Landed 3:49 PM,2020-11-12
+7,7,4:45 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-1478),Landed 4:17 PM,2020-11-12
+8,8,5:10 PM 9C8533,,Shanghai (PVG),Spring Airlines A320 (B-8435),Landed 5:14 PM,2020-11-12
+9,9,6:30 PM,K6140,Sihanoukville (KOS),Cambodia Angkor Air A320 (XU-356),Landed 6:57 PM,2020-11-12
+10,10,8:30 PM,KR902,Fuzhou (FOC),Cambodia Airways A320 (XU-761),Landed 8:51 PM,2020-11-12
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 9:59 PM,2020-11-12
+0,0,7:15 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-13
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:34 AM,2020-11-13
+2,2,9:15 AM K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2020-11-13
+3,3,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 11:21 AM,2020-11-13
+4,4,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSK),Landed 1:51 PM,2020-11-13
+5,5,4:45 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air A321 (XU-350),Landed 4:35 PM,2020-11-13
+6,6,6:25 PM,CX2074,Penang (PEN),Cathay Pacific Cargo B744 (B-LIB),Landed 6:10 PM,2020-11-13
+7,7,6:55 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-11-13
+8,8,8:45 PM LQ9771,,Manila (MNL),Lanmei Airlines 321,Unknown,2020-11-13
+9,9,8:55 PM,LQ908,Sihanoukville (KOS),Lanmei Airlines A321 (XU-919),Landed 8:36 PM,2020-11-13
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7540),Landed 9:52 PM,2020-11-13
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines (Star Alliance Livery) A321 (HL8071),Landed 10:26 PM,2020-11-13
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Landed 8:03 AM,2020-11-14
+1,1,7:45 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-997),Landed 8:58 AM,2020-11-14
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air A40,Unknown,2020-11-14
+3,3,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLP),Landed 11:07 AM,2020-11-14
+4,4,5:15 PM MU2599,,Kunming (KMG),China Eastern Airlines 73N,Unknown,2020-11-14
+5,5,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGF),Landed 5:11 PM,2020-11-14
+6,6,5:40 PM VN920,,Ho Chi Minh City (SGN),Vietnam Airlines 321,Unknown,2020-11-14
+7,7,7:10 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOO),Landed 7:51 PM,2020-11-14
+8,8,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-11-14
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-15
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 12:22 PM,2020-11-15
+2,2,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-7838),Landed 11:37 AM,2020-11-15
+3,3,11:15 AM CI861,,Taipei (TPE),China Airlines A333 (B-18306),Landed 11:04 AM,2020-11-15
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 11:14 AM,2020-11-15
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Singapore Livery) B789 (A6-BLR),Landed 10:54 AM,2020-11-15
+6,6,1:15 PM HX2729,,Hong Kong (HKG),Hong Kong Airlines A320 (B-LPL),Landed 12:32 PM,2020-11-15
+7,7,1:45 PM 9C6241,,Nanjing (NKG),Spring Airlines 320,Unknown,2020-11-15
+8,8,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-236),Landed 1:36 PM,2020-11-15
+9,9,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 5:28 PM,2020-11-15
+10,10,7:00 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air AT75 (XU-236),Landed 6:35 PM,2020-11-15
+11,11,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIF),Landed 8:18 PM,2020-11-15
+12,12,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7586),Landed 9:46 PM,2020-11-15
+13,13,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:25 PM,2020-11-15
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air A40,Unknown,2020-11-16
+1,1,8:05 AM LQ884,,Sihanoukville (KOS),Lanmei Airlines 321,Unknown,2020-11-16
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-8426),Landed 10:15 AM,2020-11-16
+3,3,7:20 PM LQ885,,Xi'an (XIY),Lanmei Airlines 321,Unknown,2020-11-16
+4,4,10:00 PM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFP),Landed 6:03 AM,2020-11-16
+5,5,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:13 PM,2020-11-16
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 8:01 AM,2020-11-17
+1,1,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines (Guangdong Lychee Livery) A333 (B-8870),Landed 10:23 AM,2020-11-17
+2,2,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGF),Landed 5:24 PM,2020-11-17
+3,3,5:40 PM VN920,,Ho Chi Minh City (SGN),Vietnam Airlines A21N (VN-A623),Landed 5:33 PM,2020-11-17
+4,4,6:05 PM QR8976,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-17
+5,5,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A321 (B-1679),Landed 11:04 PM,2020-11-17
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 8:01 AM,2020-11-17
+1,1,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines (Guangdong Lychee Livery) A333 (B-8870),Landed 10:23 AM,2020-11-17
+2,2,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGF),Landed 5:24 PM,2020-11-17
+3,3,5:40 PM VN920,,Ho Chi Minh City (SGN),Vietnam Airlines A21N (VN-A623),Landed 5:33 PM,2020-11-17
+4,4,6:05 PM QR8976,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-17
+5,5,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A321 (B-1679),Landed 11:04 PM,2020-11-17
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-30C5),Landed 12:03 AM,2020-11-18
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:38 AM,2020-11-18
+2,2,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-11-18
+3,3,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-7836),Landed 11:05 AM,2020-11-18
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 10:55 AM,2020-11-18
+5,5,11:30 AM LQ985,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-919),Landed 11:15 AM,2020-11-18
+6,6,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways 320,Unknown,2020-11-18
+7,7,7:30 PM LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Landed 7:57 PM,2020-11-18
+8,8,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-996),Landed 7:51 PM,2020-11-18
+9,9,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:39 PM,2020-11-18
+10,10,10:38 PM 9T6266,,Bangkok (BKK),AirACT B744 (TC-ACM),Landed 10:36 PM,2020-11-18
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines (Star Alliance Livery) A321 (HL8071),Landed 10:44 PM,2020-11-18
+12,12,11:00 PM TK6266,,Muscat (MCT),AirACT B744 (TC-ACM),Diverted to BKK,2020-11-18
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-305F),Landed 11:41 PM,2020-11-19
+1,1,7:30 AM PG927,,Bangkok (BKK),Bangkok Airways 319,Canceled,2020-11-19
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:45 AM,2020-11-19
+3,3,10:40 AM QD8611,,Sihanoukville (KOS),JC Airlines A320 (XU-995),Landed 10:56 AM,2020-11-19
+4,4,11:15 AM CI861,,Taipei (TPE),China Airlines B738 (B-18656),Landed 10:42 AM,2020-11-19
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNA),Landed 10:59 AM,2020-11-19
+6,6,12:30 PM PG939,,Bangkok (BKK),Bangkok Airways 319,Canceled,2020-11-19
+7,7,2:55 PM PG933,,Bangkok (BKK),Bangkok Airways 320,Canceled,2020-11-19
+8,8,4:45 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-5859),Landed 4:31 PM,2020-11-19
+9,9,5:05 PM 9C8533,,Shanghai (PVG),Spring Airlines A20N (B-30CM),Landed 5:43 PM,2020-11-19
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 9:51 PM,2020-11-19
+0,0,7:10 AM QD6703,,Guangzhou (CAN),JC Airlines A320 (XU-995),Landed 7:43 PM,2020-11-20
+1,1,7:15 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-20
+2,2,7:30 AM PG927,,Bangkok (BKK),Bangkok Airways 319,Canceled,2020-11-20
+3,3,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:35 AM,2020-11-20
+4,4,9:15 AM K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2020-11-20
+5,5,11:25 AM BR265,,Taipei (TPE),EVA Air A333 (B-16338),Landed 11:45 AM,2020-11-20
+6,6,12:30 PM PG939,,Bangkok (BKK),Bangkok Airways 319,Canceled,2020-11-20
+7,7,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 1:50 PM,2020-11-20
+8,8,2:55 PM PG933,,Bangkok (BKK),Bangkok Airways 320,Canceled,2020-11-20
+9,9,5:00 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air AT75 (XU-236),Landed 5:54 PM,2020-11-20
+10,10,6:25 PM,CX2074,Penang (PEN),Cathay Pacific Cargo B744 (B-LIE),Landed 7:34 PM,2020-11-20
+11,11,6:55 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-11-20
+12,12,8:55 PM,LQ908,Sihanoukville (KOS),Lanmei Airlines A321 (XU-919),Landed 8:30 PM,2020-11-20
+13,13,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7554),Landed 9:43 PM,2020-11-20
+14,14,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8004),Landed 10:27 PM,2020-11-20
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Landed 6:29 AM,2020-11-21
+1,1,7:30 AM PG927,,Bangkok (BKK),Bangkok Airways 319,Canceled,2020-11-21
+2,2,7:45 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 8:04 AM,2020-11-21
+3,3,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air A40,Unknown,2020-11-21
+4,4,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNA),Landed 10:58 AM,2020-11-21
+5,5,12:30 PM PG939,,Bangkok (BKK),Bangkok Airways 319,Canceled,2020-11-21
+6,6,2:55 PM PG933,,Bangkok (BKK),Bangkok Airways 320,Canceled,2020-11-21
+7,7,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGL),Landed 5:32 PM,2020-11-21
+8,8,5:40 PM VN920,,Ho Chi Minh City (SGN),Vietnam Airlines 321,Unknown,2020-11-21
+9,9,7:10 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JDR),Landed 5:18 PM,2020-11-21
+10,10,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-11-21
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-22
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMC),Landed 1:20 PM,2020-11-22
+2,2,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air (United Dream Livery) B789 (B-1356),Landed 10:54 AM,2020-11-22
+3,3,11:15 AM CI861,,Taipei (TPE),China Airlines A333 (B-18351),Landed 10:47 AM,2020-11-22
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Landed 11:00 AM,2020-11-22
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLP),Landed 11:03 AM,2020-11-22
+6,6,1:15 PM HX2729,,Hong Kong (HKG),Hong Kong Airlines A320 (B-LPL),Landed 12:16 PM,2020-11-22
+7,7,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-236),Landed 1:28 PM,2020-11-22
+8,8,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGD),Landed 5:59 PM,2020-11-22
+9,9,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIE),Landed 8:34 PM,2020-11-22
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air A332 (HL8228),Landed 9:45 PM,2020-11-22
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:21 PM,2020-11-22
+0,0,7:35 AM RU738,,Bangkok (BKK),AirBridgeCargo B744 (VP-BIK),Landed 7:15 AM,2020-11-23
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air A40,Unknown,2020-11-23
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-8360),Landed 10:15 AM,2020-11-23
+3,3,10:00 PM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFE),Landed 6:13 AM,2020-11-23
+4,4,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:36 PM,2020-11-23
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:30 AM,2020-11-24
+1,1,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-8360),Landed 10:11 AM,2020-11-24
+2,2,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 5:18 PM,2020-11-24
+3,3,6:05 PM QR8976,,Doha (DOH),Qatar Airways 77X,Unknown,2020-11-24
+4,4,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A321 (B-8979),Landed 11:04 PM,2020-11-24
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-301E),Landed 11:53 PM,2020-11-25
+1,1,6:00 AM LY87,,Tel Aviv (TLV),El Al Israel Airlines (Jerusalem of Gold Livery) B789 (4X-EDM),Landed 6:02 AM,2020-11-25
+2,2,6:10 AM KR742,,Manila (MNL),Cambodia Airways 320,Unknown,2020-11-25
+3,3,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMC),Landed 7:43 AM,2020-11-25
+4,4,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-11-25
+5,5,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air (United Dream Livery) B789 (B-1356),Landed 11:12 AM,2020-11-25
+6,6,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 11:19 AM,2020-11-25
+7,7,11:30 AM LQ985,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-919),Landed 11:26 AM,2020-11-25
+8,8,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 5:46 PM,2020-11-25
+9,9,7:30 PM LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Landed 8:06 PM,2020-11-25
+10,10,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-995),Landed 7:45 PM,2020-11-25
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air B739 (HL8272),Landed 9:52 PM,2020-11-25
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8004),Landed 10:20 PM,2020-11-25
+13,13,11:00 PM TK6266,,Muscat (MCT),AirACT B744 (TC-ACR),Diverted to BKK,2020-11-25
+14,14,11:32 PM 9T6266,,Bangkok (BKK),AirACT B744 (TC-ACR),Landed 11:25 PM,2020-11-25
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:37 AM,2020-11-26
+1,1,9:10 AM KR742,,Manila (MNL),Cambodia Airways 320,Unknown,2020-11-26
+2,2,9:40 AM 9C8529,,Guangzhou (CAN),Spring Airlines A20N (B-303U),Landed 9:59 AM,2020-11-26
+3,3,11:15 AM CI861,,Taipei (TPE),China Airlines A333 (B-18303),Landed 10:52 AM,2020-11-26
+4,4,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Italy Livery) B789 (A6-BLT),Landed 11:07 AM,2020-11-26
+5,5,4:45 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-5736),Landed 4:37 PM,2020-11-26
+6,6,5:10 PM 9C8533,,Shanghai (PVG),Spring Airlines A320 (B-8590),Landed 5:06 PM,2020-11-26
+7,7,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:07 PM,2020-11-26
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-919),Unknown,2020-11-28
+1,1,7:45 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 8:04 AM,2020-11-28
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air A40,Unknown,2020-11-28
+3,3,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Italy Livery) B789 (A6-BLT),Landed 11:08 AM,2020-11-28
+4,4,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:22 PM,2020-11-28
+5,5,5:40 PM VN920,,Ho Chi Minh City (SGN),Vietnam Airlines 321,Unknown,2020-11-28
+6,6,7:10 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOV),Landed 6:04 PM,2020-11-28
+7,7,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-11-28
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFU),Landed 6:53 AM,2020-11-29
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 1:00 PM,2020-11-29
+2,2,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air (United Dream Livery) B789 (B-1356),Landed 10:54 AM,2020-11-29
+3,3,11:15 AM CI861,,Taipei (TPE),China Airlines A333 (B-18305),Landed 10:58 AM,2020-11-29
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 11:16 AM,2020-11-29
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLQ),Landed 11:10 AM,2020-11-29
+6,6,1:15 PM HX2729,,Hong Kong (HKG),Hong Kong Airlines A320 (B-LPL),Landed 12:36 PM,2020-11-29
+7,7,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-236),Landed 1:28 PM,2020-11-29
+8,8,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGL),Landed 5:12 PM,2020-11-29
+9,9,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 8:00 PM,2020-11-29
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air A332 (HL8228),Landed 10:07 PM,2020-11-29
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:42 PM,2020-11-29
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 8:09 AM,2020-12-01
+1,1,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines (Guangdong Lychee Livery) A333 (B-8870),Landed 10:25 AM,2020-12-01
+2,2,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:22 PM,2020-12-01
+3,3,6:05 PM QR8976,,Doha (DOH),Qatar Airways 77X,Unknown,2020-12-01
+4,4,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A321 (B-9947),Landed 11:26 PM,2020-12-01
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-301E),Landed 11:59 PM,2020-12-02
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:44 AM,2020-12-02
+2,2,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-12-02
+3,3,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air (United Dream Livery) B789 (B-1356),Landed 11:11 AM,2020-12-02
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 11:02 AM,2020-12-02
+5,5,11:30 AM LQ985,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-919),Landed 11:18 AM,2020-12-02
+6,6,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A319 (XU-797),Landed 5:18 PM,2020-12-02
+7,7,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:23 PM,2020-12-02
+8,8,7:30 PM LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 8:20 PM,2020-12-02
+9,9,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-995),Landed 7:40 PM,2020-12-02
+10,10,9:00 PM,NH817,Tokyo (NRT),All Nippon Airways B788 (JA814A),Landed 8:46 PM,2020-12-02
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:40 PM,2020-12-02
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8039),Landed 10:50 PM,2020-12-02
+13,13,11:00 PM TK6266,,Muscat (MCT),AirACT B744 (TC-ACM),Diverted to BKK,2020-12-02
+14,14,11:17 PM 9T6266,,Bangkok (BKK),AirACT B744 (TC-ACM),Landed 11:17 PM,2020-12-02
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:52 AM,2020-12-03
+1,1,9:45 AM 9C8529,,Guangzhou (CAN),Spring Airlines A20N (B-306Z),Landed 9:37 AM,2020-12-03
+2,2,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLZ),Landed 10:54 AM,2020-12-03
+3,3,3:35 PM K6669,,Guangzhou (CAN),Cambodia Angkor Air A320 (XU-356),Landed 3:41 PM,2020-12-03
+4,4,4:45 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-5612),Landed 4:31 PM,2020-12-03
+5,5,5:05 PM 9C8533,,Shanghai (PVG),Spring Airlines A20N (B-308V),Landed 5:31 PM,2020-12-03
+6,6,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGF),Landed 5:20 PM,2020-12-03
+7,7,6:30 PM,K6140,Sihanoukville (KOS),Cambodia Angkor Air A320 (XU-356),Landed 6:18 PM,2020-12-03
+8,8,10:25 PM,KE689,Seoul (ICN),Korean Air B739 (HL8272),Landed 10:34 PM,2020-12-03
+0,0,7:10 AM QD6703,,Guangzhou (CAN),JC Airlines 320,Unknown,2020-12-04
+1,1,7:15 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-12-04
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:36 AM,2020-12-04
+3,3,9:15 AM K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2020-12-04
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 11:23 AM,2020-12-04
+5,5,1:35 PM AK538,,Kuala Lumpur (KUL),AirAsia 320,Unknown,2020-12-04
+6,6,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSK),Landed 1:47 PM,2020-12-04
+7,7,5:00 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air AT75 (XU-235),Landed 6:00 PM,2020-12-04
+8,8,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:11 PM,2020-12-04
+9,9,6:25 PM,CX2074,Penang (PEN),Cathay Pacific Cargo B744 (B-LIF),Landed 6:09 PM,2020-12-04
+10,10,6:55 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-12-04
+11,11,8:50 PM,LQ908,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 8:43 PM,2020-12-04
+12,12,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7524),Unknown,2020-12-04
+13,13,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:42 PM,2020-12-04
+14,14,11:45 PM PR521,,Manila (MNL),Philippine Airlines A321 (RP-C9928),Landed 11:27 PM,2020-12-04
+15,15,11:50 PM CA745,,Beijing (PEK),Air China A21N (B-301E),Landed 12:11 AM,2020-12-04
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 6:27 AM,2020-12-05
+1,1,7:45 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-998),Landed 7:57 AM,2020-12-05
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73P,Unknown,2020-12-05
+3,3,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (ADNOC - Choose the USA Livery) B789 (A6-BLE),Landed 11:01 AM,2020-12-05
+4,4,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:13 PM,2020-12-05
+5,5,7:20 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOV),Landed 5:55 PM,2020-12-05
+6,6,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-12-05
+7,7,9:00 PM,NH817,Tokyo (NRT),All Nippon Airways B788 (JA822A),Landed 8:27 PM,2020-12-05
+0,0,6:10 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-12-06
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Unknown,2020-12-06
+2,2,10:55 AM CI861,,Taipei (TPE),China Airlines B738 (B-18661),Landed 10:46 AM,2020-12-06
+3,3,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air (United Dream Livery) B789 (B-1356),Landed 10:32 AM,2020-12-06
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Landed 11:04 AM,2020-12-06
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (Manchester City Livery) B789 (A6-BND),Landed 10:55 AM,2020-12-06
+6,6,1:15 PM HX2729,,Hong Kong (HKG),Hong Kong Airlines A320 (B-LPL),Landed 12:36 PM,2020-12-06
+7,7,1:35 PM AK538,,Kuala Lumpur (KUL),AirAsia 320,Unknown,2020-12-06
+8,8,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-235),Landed 1:37 PM,2020-12-06
+9,9,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 5:16 PM,2020-12-06
+10,10,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 7:23 PM,2020-12-06
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL8027),Landed 10:00 PM,2020-12-06
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Unknown,2020-12-06
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-301E),Landed 12:04 AM,2020-12-09
+1,1,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 7:49 AM,2020-12-09
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:30 AM,2020-12-09
+3,3,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-12-09
+4,4,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1567),Landed 11:55 AM,2020-12-09
+5,5,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 11:07 AM,2020-12-09
+6,6,11:30 AM LQ985,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 11:21 AM,2020-12-09
+7,7,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 5:13 PM,2020-12-09
+8,8,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGD),Landed 6:01 PM,2020-12-09
+9,9,7:30 PM LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 8:14 PM,2020-12-09
+10,10,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-997),Landed 7:30 PM,2020-12-09
+11,11,9:00 PM,NH817,Tokyo (NRT),All Nippon Airways B788 (JA806A),Landed 8:33 PM,2020-12-09
+12,12,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:08 PM,2020-12-09
+13,13,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines (Star Alliance Livery) A321 (HL8071),Landed 10:32 PM,2020-12-09
+14,14,11:00 PM TK6266,,Muscat (MCT),AirACT B744 (TC-ACM),Diverted to BKK,2020-12-09
+0,0,12:26 AM 9T6266,,Bangkok (BKK),AirACT B744 (TC-ACM),Landed 12:31 AM,2020-12-10
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:40 AM,2020-12-10
+2,2,9:45 AM 9C8529,,Guangzhou (CAN),Spring Airlines A20N (B-30D7),Landed 9:45 AM,2020-12-10
+3,3,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (ADNOC- Choose Saudi Arabia Livery) B789 (A6-BLN),Landed 11:13 AM,2020-12-10
+4,4,3:35 PM K6669,,Guangzhou (CAN),Cambodia Angkor Air A320 (XU-356),Landed 3:33 PM,2020-12-10
+5,5,4:45 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-1711),Landed 4:36 PM,2020-12-10
+6,6,5:10 PM 9C8533,,Shanghai (PVG),Spring Airlines A320 (B-8646),Landed 5:30 PM,2020-12-10
+7,7,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 5:42 PM,2020-12-10
+8,8,6:30 PM,K6140,Sihanoukville (KOS),Cambodia Angkor Air A320 (XU-356),Landed 6:14 PM,2020-12-10
+9,9,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7554),Landed 10:13 PM,2020-12-10
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 9:18 AM,2020-12-13
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 1:00 PM,2020-12-13
+2,2,10:55 AM CI861,,Taipei (TPE),China Airlines A333 (B-18307),Landed 10:19 AM,2020-12-13
+3,3,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B788 (B-2763),Landed 10:53 AM,2020-12-13
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 11:21 AM,2020-12-13
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLP),Landed 11:10 AM,2020-12-13
+6,6,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2020-12-13
+7,7,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGF),Landed 5:19 PM,2020-12-13
+8,8,6:30 PM QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAP),Landed 6:52 PM,2020-12-13
+9,9,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIA),Landed 7:35 PM,2020-12-13
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7553),Landed 10:08 PM,2020-12-13
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:25 PM,2020-12-13
+0,0,7:30 AM QD6729,,Shenzhen (SZX),Dobrolet 320,Unknown,2020-12-14
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73P,Unknown,2020-12-14
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5922),Landed 10:25 AM,2020-12-14
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:04 PM,2020-12-14
+4,4,9:35 PM QR8476,,Doha (DOH),Qatar Airways 77W,Unknown,2020-12-14
+5,5,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:58 PM,2020-12-14
+0,0,6:15 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFI),Unknown,2020-12-15
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:38 AM,2020-12-15
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5922),Landed 10:34 AM,2020-12-15
+3,3,4:10 PM QR8476,,Doha (DOH),Qatar Airways 77W,Unknown,2020-12-15
+4,4,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 5:04 PM,2020-12-15
+5,5,6:05 PM QR8976,,Doha (DOH),Qatar Airways 77X,Unknown,2020-12-15
+6,6,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A321 (B-8406),Landed 11:25 PM,2020-12-15
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-301E),Landed 11:52 PM,2020-12-16
+1,1,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 8:12 AM,2020-12-16
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:57 AM,2020-12-16
+3,3,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-12-16
+4,4,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B788 (B-2769),Landed 10:58 AM,2020-12-16
+5,5,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 11:12 AM,2020-12-16
+6,6,11:30 AM LQ985,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 11:32 AM,2020-12-16
+7,7,12:35 PM QR8088,,Doha (DOH),Qatar Airways B77W (A7-BAH),Landed 12:06 PM,2020-12-16
+8,8,3:00 PM G89392,,Delhi (DEL),GoAir A320 (VT-GOJ),Landed 4:58 PM,2020-12-16
+9,9,3:35 PM RU348,,Bangkok (BKK),AirBridgeCargo B744 (VP-BIG),Landed 3:13 PM,2020-12-16
+10,10,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 4:55 PM,2020-12-16
+11,11,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:06 PM,2020-12-16
+12,12,7:30 PM LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 8:15 PM,2020-12-16
+13,13,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-997),Landed 7:35 PM,2020-12-16
+14,14,9:00 PM,NH817,Tokyo (NRT),All Nippon Airways B788 (JA814A),Landed 8:34 PM,2020-12-16
+15,15,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:22 PM,2020-12-16
+16,16,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8074),Landed 10:39 PM,2020-12-16
+17,17,11:00 PM TK6266,,Muscat (MCT),Turkish Airlines 74F,Unknown,2020-12-16
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:42 AM,2020-12-17
+1,1,9:45 AM 9C8529,,Guangzhou (CAN),Spring Airlines A320 (B-8872),Landed 9:36 AM,2020-12-17
+2,2,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Italy Livery) B789 (A6-BLT),Landed 10:58 AM,2020-12-17
+3,3,3:30 PM K6669,,Guangzhou (CAN),Cambodia Angkor Air A320 (XU-353),Landed 4:11 PM,2020-12-17
+4,4,4:45 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-1712),Landed 4:49 PM,2020-12-17
+5,5,5:10 PM 9C8533,,Shanghai (PVG),Spring Airlines A20N (B-30AD),Landed 5:17 PM,2020-12-17
+6,6,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:21 PM,2020-12-17
+7,7,6:30 PM,K6140,Sihanoukville (KOS),Cambodia Angkor Air 320,Canceled,2020-12-17
+8,8,7:10 PM SG733,,Hanoi (HAN),Hi Fly A343 (9H-JAI),Unknown,2020-12-17
+9,9,9:25 PM K6851,,Hanoi (HAN),Cambodia Angkor Air A320 (XU-353),Landed 9:30 PM,2020-12-17
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air A332 (HL8228),Unknown,2020-12-17
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 6:01 AM,2020-12-19
+1,1,7:30 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFR),Landed 7:12 AM,2020-12-19
+2,2,7:45 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 8:02 AM,2020-12-19
+3,3,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73P,Unknown,2020-12-19
+4,4,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLY),Landed 11:17 AM,2020-12-19
+5,5,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 5:06 PM,2020-12-19
+6,6,7:20 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JDR),Diverted to BAH,2020-12-19
+7,7,7:20 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JDR),Landed 9:33 PM,2020-12-19
+8,8,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-12-19
+9,9,9:00 PM,NH817,Tokyo (NRT),All Nippon Airways B788 (JA822A),Unknown,2020-12-19
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-997),Landed 9:30 AM,2020-12-20
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 1:16 PM,2020-12-20
+2,2,10:55 AM CI861,,Taipei (TPE),China Airlines B738 (B-18662),Landed 10:51 AM,2020-12-20
+3,3,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B788 (B-2761),Landed 10:42 AM,2020-12-20
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16311),Landed 11:16 AM,2020-12-20
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways 789,Unknown,2020-12-20
+6,6,12:30 PM 8M401,,Yangon (RGN),Myanmar Airways International 319,Unknown,2020-12-20
+7,7,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:13 PM,2020-12-20
+8,8,6:30 PM QR8846,,Doha (DOH),Qatar Airways (Oneworld Livery) B77W (A7-BAB),Landed 9:43 PM,2020-12-20
+9,9,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LID),Landed 9:57 PM,2020-12-20
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air A332 (HL8276),Landed 10:59 PM,2020-12-20
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:53 PM,2020-12-20
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 7:58 AM,2020-12-21
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73P,Unknown,2020-12-21
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5939),Landed 10:39 AM,2020-12-21
+3,3,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSM),Landed 1:40 PM,2020-12-21
+4,4,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 5:02 PM,2020-12-21
+5,5,9:35 PM QR8476,,Doha (DOH),Qatar Airways 77W,Unknown,2020-12-21
+6,6,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:34 PM,2020-12-21
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-30C5),Landed 12:03 AM,2020-12-23
+1,1,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-997),Landed 9:00 AM,2020-12-23
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:41 AM,2020-12-23
+3,3,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-12-23
+4,4,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B788 (B-2768),Landed 10:42 AM,2020-12-23
+5,5,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 10:58 AM,2020-12-23
+6,6,11:30 AM LQ985,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 11:24 AM,2020-12-23
+7,7,12:35 PM QR8088,,Doha (DOH),Qatar Airways B77W (A7-BAK),Landed 4:15 PM,2020-12-23
+8,8,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Landed 4:45 PM,2020-12-23
+9,9,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 5:29 PM,2020-12-23
+10,10,7:30 PM LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 7:46 PM,2020-12-23
+11,11,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-995),Landed 7:22 PM,2020-12-23
+12,12,10:19 PM TK6266,,Bangkok (BKK),AirACT B744 (TC-ACM),Landed 10:11 PM,2020-12-23
+13,13,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:30 PM,2020-12-23
+14,14,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8039),Landed 10:43 PM,2020-12-23
+15,15,11:00 PM TK6266,,Muscat (MCT),AirACT B744 (TC-ACM),Diverted to BKK,2020-12-23
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 5:38 AM,2020-12-26
+1,1,7:30 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFU),Landed 10:17 AM,2020-12-26
+2,2,7:45 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-995),Landed 7:31 AM,2020-12-26
+3,3,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73P,Unknown,2020-12-26
+4,4,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNB),Landed 10:53 AM,2020-12-26
+5,5,5:15 PM MU2599,,Kunming (KMG),China Eastern Airlines 73N,Unknown,2020-12-26
+6,6,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 5:21 PM,2020-12-26
+7,7,7:20 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOU),Landed 5:56 PM,2020-12-26
+8,8,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2020-12-26
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 7:27 AM,2020-12-27
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 12:51 PM,2020-12-27
+2,2,10:55 AM CI861,,Taipei (TPE),China Airlines A333 (B-18301),Landed 10:35 AM,2020-12-27
+3,3,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B788 (B-2768),Landed 11:27 AM,2020-12-27
+4,4,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 11:09 AM,2020-12-27
+5,5,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (Manchester City Livery) B789 (A6-BND),Landed 10:52 AM,2020-12-27
+6,6,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-235),Landed 1:29 PM,2020-12-27
+7,7,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:07 PM,2020-12-27
+8,8,6:30 PM QR8846,,Doha (DOH),Qatar Airways (Oneworld Livery) B77W (A7-BAB),Landed 6:14 PM,2020-12-27
+9,9,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 7:47 PM,2020-12-27
+10,10,10:25 PM,KE689,Seoul (ICN),Korean Air A332 (HL8228),Landed 10:13 PM,2020-12-27
+11,11,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:50 PM,2020-12-27
+0,0,6:15 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2020-12-29
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:24 AM,2020-12-29
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-8426),Landed 10:27 AM,2020-12-29
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:10 PM,2020-12-29
+4,4,7:50 PM QR8976,,Doha (DOH),Qatar Cargo B77L (A7-BFB),Landed 7:23 PM,2020-12-29
+5,5,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A321 (B-8653),Landed 11:44 PM,2020-12-29
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-1067),Landed 11:53 PM,2020-12-30
+1,1,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 7:01 AM,2020-12-30
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:49 AM,2020-12-30
+3,3,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2020-12-30
+4,4,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B788 (B-2768),Landed 10:47 AM,2020-12-30
+5,5,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16310),Landed 11:07 AM,2020-12-30
+6,6,11:30 AM LQ985,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 11:46 AM,2020-12-30
+7,7,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A319 (XU-878),Landed 4:45 PM,2020-12-30
+8,8,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGF),Landed 5:30 PM,2020-12-30
+9,9,7:30 PM LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 8:18 PM,2020-12-30
+10,10,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-997),Landed 7:19 PM,2020-12-30
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:21 PM,2020-12-30
+12,12,10:37 PM TK6266,,Bangkok (BKK),AirACT B744 (TC-ACR),Landed 10:29 PM,2020-12-30
+13,13,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:51 PM,2020-12-30
+14,14,11:00 PM TK6266,,Muscat (MCT),AirACT B744 (TC-ACR),Diverted to BKK,2020-12-30
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 5:42 AM,2021-01-02
+1,1,7:30 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFF),Unknown,2021-01-02
+2,2,7:45 AM,QD739,Chengdu (CTU),JC Airlines A320 (XU-997),Landed 7:55 AM,2021-01-02
+3,3,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73P,Unknown,2021-01-02
+4,4,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (Abu Dhabi Grand Prix Livery) B789 (A6-BLV),Landed 10:49 AM,2021-01-02
+5,5,5:15 PM MU2599,,Kunming (KMG),China Eastern Airlines B738 (B-7600),Landed 4:50 PM,2021-01-02
+6,6,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 5:05 PM,2021-01-02
+7,7,7:10 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOV),Landed 5:51 PM,2021-01-02
+8,8,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2021-01-02
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 7:26 AM,2021-01-03
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 12:40 PM,2021-01-03
+2,2,9:50 AM MH754,,Kuala Lumpur (KUL),Malaysia Airlines 738,Unknown,2021-01-03
+3,3,10:55 AM CI861,,Taipei (TPE),China Airlines B738 (B-18662),Landed 10:37 AM,2021-01-03
+4,4,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1567),Landed 10:42 AM,2021-01-03
+5,5,11:25 AM BR265,,Taipei (TPE),EVA Air 332,Canceled,2021-01-03
+6,6,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways 789,Unknown,2021-01-03
+7,7,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-235),Landed 1:32 PM,2021-01-03
+8,8,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGD),Landed 5:17 PM,2021-01-03
+9,9,6:30 PM QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAK),Landed 6:19 PM,2021-01-03
+10,10,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 7:35 PM,2021-01-03
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:25 PM,2021-01-03
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Unknown,2021-01-03
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines 320,Unknown,2021-01-04
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air 73P,Unknown,2021-01-04
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5939),Landed 10:17 AM,2021-01-04
+3,3,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 1:43 PM,2021-01-04
+4,4,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:08 PM,2021-01-04
+5,5,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:34 PM,2021-01-04
+0,0,6:15 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2021-01-05
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:31 AM,2021-01-05
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5922),Landed 10:18 AM,2021-01-05
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 4:58 PM,2021-01-05
+4,4,8:20 PM QR8976,,Doha (DOH),Qatar Cargo B77L (A7-BFV),Landed 7:45 PM,2021-01-05
+5,5,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:25 PM,2021-01-05
+6,6,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:31 PM,2021-01-05
+7,7,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A321 (B-9947),Landed 11:11 PM,2021-01-05
+0,0,12:10 AM CA745,,Beijing (PEK),Air China A21N (B-301E),Landed 11:51 PM,2021-01-06
+1,1,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 7:40 AM,2021-01-06
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:33 AM,2021-01-06
+3,3,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2021-01-06
+4,4,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-7836),Landed 11:03 AM,2021-01-06
+5,5,11:25 AM BR265,,Taipei (TPE),EVA Air A332 (B-16312),Landed 11:09 AM,2021-01-06
+6,6,11:30 AM LQ985,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 11:18 AM,2021-01-06
+7,7,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways A319 (XU-878),Landed 4:51 PM,2021-01-06
+8,8,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGH),Landed 5:08 PM,2021-01-06
+9,9,7:30 PM LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 8:24 PM,2021-01-06
+10,10,7:50 PM QD697,,Kunming (KMG),JC Airlines A320 (XU-998),Landed 7:15 PM,2021-01-06
+11,11,10:20 PM TK6266,,Bangkok (BKK),AirACT B744 (TC-ACR),Landed 10:10 PM,2021-01-06
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 11:31 PM,2021-01-06
+13,13,11:00 PM TK6266,,Muscat (MCT),AirACT B744 (TC-ACR),Diverted to BKK,2021-01-06
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 7:52 AM,2021-01-10
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 1:06 PM,2021-01-10
+2,2,10:55 AM CI861,,Taipei (TPE),China Airlines B738 (B-18662),Landed 10:42 AM,2021-01-10
+3,3,11:00 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1566),Landed 10:46 AM,2021-01-10
+4,4,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways 789,Unknown,2021-01-10
+5,5,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-235),Landed 1:43 PM,2021-01-10
+6,6,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:10 PM,2021-01-10
+7,7,6:30 PM QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAP),Unknown,2021-01-10
+8,8,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LID),Landed 7:47 PM,2021-01-10
+9,9,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7553),Unknown,2021-01-10
+10,10,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:45 PM,2021-01-10
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines 320,Unknown,2021-01-11
+1,1,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5939),Landed 10:24 AM,2021-01-11
+2,2,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSM),Landed 1:26 PM,2021-01-11
+3,3,3:00 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-7749),Landed 2:27 PM,2021-01-11
+4,4,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:00 PM,2021-01-11
+5,5,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:52 PM,2021-01-11
+0,0,6:15 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFX),Landed 6:03 AM,2021-01-12
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:27 AM,2021-01-12
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines (Guangdong Lychee Livery) A333 (B-8870),Landed 10:30 AM,2021-01-12
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 7:17 PM,2021-01-12
+4,4,8:20 PM QR8976,,Doha (DOH),Qatar Cargo B77L (A7-BFD),Landed 5:57 AM,2021-01-12
+5,5,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:48 PM,2021-01-12
+6,6,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Unknown,2021-01-12
+7,7,11:15 PM MU759,,Shanghai (PVG),China Eastern Airlines A321 (B-8575),Landed 11:26 PM,2021-01-12
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines 320,Canceled,2021-02-01
+1,1,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSM),Landed 1:49 PM,2021-02-01
+2,2,4:45 PM,ZH9045,Shenzhen (SZX),Shenzhen Airlines 738,Unknown,2021-02-01
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGH),Landed 5:08 PM,2021-02-01
+4,4,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:48 PM,2021-02-01
+0,0,6:15 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFI),Landed 6:00 AM,2021-02-02
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:21 AM,2021-02-02
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A320 (B-6776),Landed 10:06 AM,2021-02-02
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:06 PM,2021-02-02
+4,4,7:50 PM QR8976,,Doha (DOH),Qatar Cargo B77L (A7-BFA),Landed 7:17 PM,2021-02-02
+5,5,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8241),Landed 10:13 PM,2021-02-02
+6,6,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:35 PM,2021-02-02
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 7:16 AM,2021-02-03
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:39 AM,2021-02-03
+2,2,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2021-02-03
+3,3,11:30 AM LQ985,,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 11:17 AM,2021-02-03
+4,4,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways 320,Unknown,2021-02-03
+5,5,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:12 PM,2021-02-03
+6,6,7:30 PM LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 7:52 PM,2021-02-03
+7,7,8:22 PM NH817,,Tokyo (NRT),All Nippon Airways B788 (JA814A),Landed 8:22 PM,2021-02-03
+8,8,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:40 PM,2021-02-03
+9,9,11:00 PM TK6266,,Muscat (MCT),AirACT B744 (TC-ACM),Diverted to BKK,2021-02-03
+10,10,11:02 PM 9T6266,,Bangkok (BKK),AirACT B744 (TC-ACM),Landed 10:53 PM,2021-02-03
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:26 AM,2021-02-04
+1,1,9:45 AM 9C8529,,Guangzhou (CAN),Spring Airlines A20N (B-30AR),Landed 9:34 AM,2021-02-04
+2,2,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLD),Landed 10:47 AM,2021-02-04
+3,3,3:30 PM K6669,,Guangzhou (CAN),Cambodia Angkor Air A320 (XU-353),Landed 4:21 PM,2021-02-04
+4,4,5:10 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Canceled,2021-02-04
+5,5,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGG),Landed 5:17 PM,2021-02-04
+6,6,7:00 PM,K6140,Sihanoukville (KOS),Cambodia Angkor Air AT75 (XU-235),Landed 6:45 PM,2021-02-04
+7,7,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL8026),Unknown,2021-02-04
+0,0,7:10 AM QD6703,,Guangzhou (CAN),JC Airlines 320,Canceled,2021-02-05
+1,1,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 7:20 AM,2021-02-05
+2,2,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:33 AM,2021-02-05
+3,3,9:15 AM K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2021-02-05
+4,4,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSK),Landed 1:45 PM,2021-02-05
+5,5,5:00 PM,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air AT75 (XU-235),Landed 4:49 PM,2021-02-05
+6,6,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGG),Landed 4:56 PM,2021-02-05
+7,7,6:25 PM,CX2074,Penang (PEN),Cathay Pacific Cargo B744 (B-LID),Landed 6:12 PM,2021-02-05
+8,8,6:30 PM QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAK),Landed 5:45 PM,2021-02-05
+9,9,6:55 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2021-02-05
+10,10,8:50 PM,LQ908,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 8:36 PM,2021-02-05
+11,11,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7524),Landed 10:13 PM,2021-02-05
+12,12,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:48 PM,2021-02-05
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 6:21 AM,2021-02-06
+1,1,7:30 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFS),Landed 6:31 AM,2021-02-06
+2,2,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines 320,Canceled,2021-02-06
+3,3,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLP),Landed 11:46 AM,2021-02-06
+4,4,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGH),Landed 5:22 PM,2021-02-06
+5,5,7:20 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JDO),Landed 5:47 PM,2021-02-06
+6,6,8:21 PM NH817,,Tokyo (NRT),All Nippon Airways B789 (JA837A),Unknown,2021-02-06
+7,7,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2021-02-06
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-997),Landed 6:52 AM,2021-02-07
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:26 AM,2021-02-07
+2,2,10:40 AM MF8691,,Xiamen (XMN),Xiamen Air B738 (B-5532),Landed 10:29 AM,2021-02-07
+3,3,11:25 AM BR265,,Taipei (TPE),EVA Air A333 (B-16338),Landed 11:25 AM,2021-02-07
+4,4,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNC),Landed 10:45 AM,2021-02-07
+5,5,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-235),Landed 1:31 PM,2021-02-07
+6,6,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGC),Landed 5:40 PM,2021-02-07
+7,7,6:30 PM QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAK),Unknown,2021-02-07
+8,8,8:05 PM,CX78,Penang (PEN),Cathay Pacific Cargo B744 (B-LIE),Landed 8:25 PM,2021-02-07
+9,9,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7524),Landed 10:04 PM,2021-02-07
+10,10,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:49 PM,2021-02-07
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines 320,Canceled,2021-02-08
+1,1,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSM),Landed 1:33 PM,2021-02-08
+2,2,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGH),Landed 5:13 PM,2021-02-08
+3,3,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:51 PM,2021-02-08
+0,0,6:15 AM QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2021-02-09
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:35 AM,2021-02-09
+2,2,10:20 AM CZ8313,,Guangzhou (CAN),China Southern Airlines A21N (B-30E2),Landed 10:12 AM,2021-02-09
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGJ),Landed 5:03 PM,2021-02-09
+4,4,7:50 PM QR8976,,Doha (DOH),Qatar Cargo B77L (A7-BFB),Landed 7:24 PM,2021-02-09
+5,5,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A321 (HL8039),Landed 10:47 PM,2021-02-09
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines 320,Unknown,2021-02-10
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 7:36 AM,2021-02-10
+2,2,10:55 AM TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2021-02-10
+3,3,3:40 PM,KR962,Chengdu (CTU),Cambodia Airways 320,Unknown,2021-02-10
+4,4,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 5:11 PM,2021-02-10
+5,5,8:53 PM NH817,,Tokyo (NRT),All Nippon Airways B788 (JA806A),Landed 8:53 PM,2021-02-10
+6,6,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:44 PM,2021-02-10
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:37 AM,2021-02-11
+1,1,9:45 AM 9C8529,,Guangzhou (CAN),Spring Airlines A20N (B-308K),Landed 9:37 AM,2021-02-11
+2,2,11:40 AM EY9643,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Singapore Livery) B789 (A6-BLA),Landed 10:54 AM,2021-02-11
+3,3,5:10 PM 9C8533,,Shanghai (PVG),Spring Airlines 320,Canceled,2021-02-11
+4,4,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGF),Landed 5:14 PM,2021-02-11
+5,5,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL8001),Landed 10:34 PM,2021-02-11
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines 320,Unknown,2021-02-12
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMC),Landed 7:21 AM,2021-02-12
+2,2,9:15 AM K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2021-02-12
+3,3,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 1:45 PM,2021-02-12
+4,4,3:30 PM KR802,,Siem Reap (REP),Cambodia Airways 319,Unknown,2021-02-12
+5,5,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 4:59 PM,2021-02-12
+6,6,6:30 PM QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAK),Landed 6:15 PM,2021-02-12
+7,7,6:55 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2021-02-12
+8,8,8:50 PM,LQ908,Sihanoukville (KOS),Lanmei Airlines A321 (XU-961),Landed 8:58 PM,2021-02-12
+9,9,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL7553),Landed 10:04 PM,2021-02-12
+10,10,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:33 PM,2021-02-12
+0,0,6:00 AM,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 5:36 AM,2021-02-13
+1,1,7:30 AM QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFW),Landed 10:36 AM,2021-02-13
+2,2,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines 320,Unknown,2021-02-13
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGP),Landed 5:11 PM,2021-02-13
+4,4,7:20 PM TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JDR),Landed 5:31 PM,2021-02-13
+5,5,8:34 PM NH817,,Tokyo (NRT),All Nippon Airways B789 (JA837A),Unknown,2021-02-13
+6,6,8:35 PM CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2021-02-13
+0,0,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 1:38 PM,2021-02-14
+1,1,10:40 AM MF8691,,Xiamen (XMN),Xiamen Air B738 (B-5383),Landed 11:00 AM,2021-02-14
+2,2,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT75 (XU-235),Landed 1:44 PM,2021-02-14
+3,3,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGH),Landed 5:02 PM,2021-02-14
+4,4,6:30 PM QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAP),Landed 9:28 PM,2021-02-14
+5,5,10:25 PM,KE689,Seoul (ICN),Korean Air B738 (HL8240),Landed 10:20 PM,2021-02-14
+6,6,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:46 PM,2021-02-14
+0,0,2:05 PM,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSM),Landed 1:53 PM,2021-02-15
+1,1,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGF),Landed 5:01 PM,2021-02-15
+2,2,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 10:32 PM,2021-02-15
+0,0,07:30 QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 06:45,2021-03-12
+1,1,07:45 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 07:23,2021-03-12
+2,2,09:15 K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2021-03-12
+3,3,11:25 BR265,,Taipei (TPE),EVA Air A333 (B-16340),Landed 11:03,2021-03-12
+4,4,14:05,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSL),Landed 13:49,2021-03-12
+5,5,17:00,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air AT75 (XU-235),Landed 16:43,2021-03-12
+6,6,17:35,MI608,Singapore (SIN),SilkAir B738 (9V-MGI),Landed 17:20,2021-03-12
+7,7,18:30 QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAL),Landed 18:05,2021-03-12
+8,8,18:55 CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2021-03-12
+9,9,20:50,LQ908,Sihanoukville (KOS),Lanmei Airlines 321,Unknown,2021-03-12
+10,10,22:25,KE689,Seoul (ICN),Korean Air A333 (HL8027),Landed 21:54,2021-03-12
+11,11,22:45,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 22:39,2021-03-12
+0,0,06:00,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 07:52,2021-03-13
+1,1,07:30 QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFF),Landed 07:04,2021-03-13
+2,2,07:30 QD6729,,Shenzhen (SZX),JC Airlines 320,Unknown,2021-03-13
+3,3,07:45,QD739,Chengdu (CTU),JC Airlines A320 (XU-996),Landed 08:23,2021-03-13
+4,4,17:15 MU2599,,Kunming (KMG),China Eastern Airlines B789 (B-206K),Landed 17:31,2021-03-13
+5,5,17:35,MI608,Singapore (SIN),SilkAir B738 (9V-MGP),Landed 17:09,2021-03-13
+6,6,19:20 TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JOY),Landed 19:00,2021-03-13
+7,7,20:35 CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2021-03-13
+8,8,20:35 NH817,,Tokyo (NRT),All Nippon Airways B789 (JA875A),Landed 20:35,2021-03-13
+0,0,7:30 AM QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 6:21 AM,2021-03-14
+1,1,7:45 AM 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 7:42 AM,2021-03-14
+2,2,8:10 AM 9C8529,,Guangzhou (CAN),Spring Airlines A320 (B-6852),Unknown,2021-03-14
+3,3,10:40 AM MF8691,,Xiamen (XMN),Xiamen Air B789 (B-7838),Landed 10:33 AM,2021-03-14
+4,4,10:55 AM CI861,,Taipei (TPE),China Airlines B738 (B-18653),Landed 10:45 AM,2021-03-14
+5,5,1:55 PM,K6116,Siem Reap (REP),Cambodia Angkor Air AT7,Canceled,2021-03-14
+6,6,5:35 PM,MI608,Singapore (SIN),SilkAir B738 (9V-MGG),Landed 5:23 PM,2021-03-14
+7,7,6:30 PM QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAK),Landed 6:09 PM,2021-03-14
+8,8,10:25 PM,KE689,Seoul (ICN),Korean Air A333 (HL8025),Landed 10:01 PM,2021-03-14
+9,9,10:45 PM,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 10:19 PM,2021-03-14
+0,0,07:30 QD6729,,Shenzhen (SZX),JC Airlines 320,Unknown,2021-03-15
+1,1,10:20 CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5939),Landed 10:11,2021-03-15
+2,2,14:05,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSL),Landed 13:44,2021-03-15
+3,3,16:45,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-1376),Landed 16:13,2021-03-15
+4,4,17:35,MI608,Singapore (SIN),SilkAir B738 (9V-MGF),Landed 17:22,2021-03-15
+5,5,22:45,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 22:47,2021-03-15
+0,0,06:15 QR8974,,Doha (DOH),Qatar Airways 77X,Unknown,2021-03-16
+1,1,07:45 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 07:16,2021-03-16
+2,2,10:20 CZ8313,,Guangzhou (CAN),China Southern Airlines A333 (B-5917),Landed 10:13,2021-03-16
+3,3,17:35,MI608,Singapore (SIN),SilkAir B738 (9V-MGG),Landed 17:09,2021-03-16
+4,4,19:50 QR8976,,Doha (DOH),Qatar Cargo B77L (A7-BFK),Landed 19:45,2021-03-16
+5,5,22:25,KE689,Seoul (ICN),Korean Air B738 (HL8240),Unknown,2021-03-16
+6,6,22:45,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 22:11,2021-03-16
+7,7,23:15 MU759,,Shanghai (PVG),China Eastern Airlines A333 (B-300P),Landed 23:12,2021-03-16
+0,0,00:10 CA745,,Beijing (PEK),Air China A21N (B-30AF),Landed 00:10,2021-03-17
+1,1,07:30 QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 07:26,2021-03-17
+2,2,07:45 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 07:32,2021-03-17
+3,3,10:40 MF8691,,Xiamen (XMN),Xiamen Air B789 (B-1357),Landed 10:31,2021-03-17
+4,4,10:55 TK6476,,Dammam (DMM),Turkish Airlines 77X,Unknown,2021-03-17
+5,5,11:25 BR265,,Taipei (TPE),EVA Air A333 (B-16339),Landed 10:56,2021-03-17
+6,6,11:30 LQ985,,Sihanoukville (KOS),Lanmei Airlines 321,Unknown,2021-03-17
+7,7,15:40,KR962,Chengdu (CTU),Cambodia Airways A320 (XU-761),Unknown,2021-03-17
+8,8,17:35 SQ158,,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 17:48,2021-03-17
+9,9,19:30 LQ986,,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 19:50,2021-03-17
+10,10,19:50 QD697,,Kunming (KMG),JC Airlines A320 (XU-996),Landed 21:05,2021-03-17
+11,11,20:02 NH817,,Tokyo (NRT),All Nippon Airways B788 (JA805A),Landed 20:02,2021-03-17
+12,12,22:45,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 22:09,2021-03-17
+0,0,07:45 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 07:37,2021-03-18
+1,1,09:45 9C8529,,Guangzhou (CAN),Spring Airlines 320,Canceled,2021-03-18
+2,2,15:30 K6669,,Guangzhou (CAN),Cambodia Angkor Air A320 (XU-353),Landed 16:44,2021-03-18
+3,3,16:45,ZH9045,Shenzhen (SZX),Shenzhen Airlines B738 (B-5671),Landed 17:07,2021-03-18
+4,4,17:10 9C8533,,Shanghai (PVG),Spring Airlines A320 (B-1025),Landed 17:15,2021-03-18
+5,5,17:35 SQ158,,Singapore (SIN),Singapore Airlines B738 (9V-MGA),Landed 17:22,2021-03-18
+6,6,18:30,K6140,Sihanoukville (KOS),Cambodia Angkor Air A320 (XU-353),Landed 19:55,2021-03-18
+7,7,22:25,KE689,Seoul (ICN),Korean Air A333 (HL7710),Landed 21:47,2021-03-18
+8,8,22:45,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 22:26,2021-03-18
+0,0,07:30 QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 07:38,2021-03-19
+1,1,07:45 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMA),Landed 07:19,2021-03-19
+2,2,09:15 K6102,,Siem Reap (REP),Cambodia Angkor Air AT7,Unknown,2021-03-19
+3,3,11:25 BR265,,Taipei (TPE),EVA Air A333 (B-16340),Landed 11:15,2021-03-19
+4,4,14:05,3K593,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 13:33,2021-03-19
+5,5,17:15 CX605,,Hong Kong (HKG),Cathay Pacific A333 (B-LAN),Landed 17:40,2021-03-19
+6,6,17:35 SQ158,,Singapore (SIN),SilkAir B738 (9V-MGE),Landed 17:25,2021-03-19
+7,7,17:55,K6817,Ho Chi Minh City (SGN),Cambodia Angkor Air A320 (XU-356),Landed 17:31,2021-03-19
+8,8,18:30 QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAN),Landed 18:26,2021-03-19
+9,9,18:55 CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2021-03-19
+10,10,20:50,LQ908,Sihanoukville (KOS),Lanmei Airlines 321,Unknown,2021-03-19
+11,11,22:25,KE689,Seoul (ICN),Korean Air A333 (HL8025),Landed 21:54,2021-03-19
+12,12,22:45,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8364),Landed 22:18,2021-03-19
+0,0,06:00,LQ909,Guangzhou (CAN),Lanmei Airlines A321 (XU-961),Landed 05:44,2021-03-20
+1,1,07:30 QR8974,,Doha (DOH),Qatar Cargo B77L (A7-BFJ),Landed 07:20,2021-03-20
+2,2,07:30 QD6729,,Shenzhen (SZX),JC Airlines 320,Unknown,2021-03-20
+3,3,07:45,QD739,Chengdu (CTU),JC Airlines A320 (XU-996),Landed 08:44,2021-03-20
+4,4,17:15 MU2599,,Kunming (KMG),China Eastern Airlines B789 (B-208P),Landed 17:24,2021-03-20
+5,5,17:35 SQ158,,Singapore (SIN),Singapore Airlines B738 (9V-MGA),Landed 17:32,2021-03-20
+6,6,19:20 TK6578,,Bahrain (BAH),Turkish Cargo A332 (TC-JDO),Landed 19:16,2021-03-20
+7,7,19:56 NH817,,Tokyo (NRT),All Nippon Airways B789 (JA891A),Landed 19:56,2021-03-20
+8,8,20:35 CX78,,Penang (PEN),Cathay Pacific 74Y,Unknown,2021-03-20
+9,9,22:45,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 22:10,2021-03-20
+0,0,07:30 QD6729,,Shenzhen (SZX),JC Airlines A320 (XU-995),Landed 07:04,2021-03-21
+1,1,07:45 8K802,,Bangkok (BKK),K-Mile Air B734 (HS-KMB),Landed 08:08,2021-03-21
+2,2,08:10 9C8529,,Guangzhou (CAN),Spring Airlines A320 (B-8435),Landed 08:17,2021-03-21
+3,3,10:40 MF8691,,Xiamen (XMN),Xiamen Air B788 (B-2768),Landed 10:42,2021-03-21
+4,4,10:55 CI861,,Taipei (TPE),China Airlines B738 (B-18656),Landed 10:46,2021-03-21
+5,5,17:35 SQ158,,Singapore (SIN),Singapore Airlines B738 (9V-MGA),Landed 17:16,2021-03-21
+6,6,18:30 QR8846,,Doha (DOH),Qatar Airways B77W (A7-BAQ),Landed 18:01,2021-03-21
+7,7,22:25,KE689,Seoul (ICN),Korean Air A333 (HL8001),Landed 21:58,2021-03-21
+8,8,22:45,OZ739,Seoul (ICN),Asiana Airlines A21N (HL8371),Unknown,2021-03-21

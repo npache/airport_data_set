@@ -1,0 +1,610 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-10-04
+1,1,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-10-04
+2,2,10:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-10-04
+0,0,6:15 AM,UX23,Madrid (MAD),Air Europa 788,Unknown,2020-10-04
+1,1,6:15 AM UX323,,Madrid (MAD),Air Europa B788 (EC-MMX),Landed 5:23 AM,2020-10-04
+2,2,6:50 AM 2D162,,Miami (MIA),Eastern Airlines B762 (N603KW),Landed 7:44 AM,2020-10-04
+0,0,8:55 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FUB),Landed 8:31 AM,2020-10-05
+1,1,9:50 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 10:00 AM,2020-10-05
+2,2,5:00 PM Z7951,,Sao Paulo (GRU),Cristalux E90,Unknown,2020-10-05
+3,3,6:31 PM L72897,,Miami (MIA),LATAM Cargo B763 (N418LA),Landed 6:32 PM,2020-10-05
+0,0,8:55 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas 738,Canceled,2020-10-07
+1,1,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-10-07
+2,2,9:02 PM LA2851,,Lima (LIM),LATAM Airlines A319 (CC-CPO),Landed 9:26 PM,2020-10-07
+0,0,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N336QT),Landed 8:57 PM,2020-10-08
+1,1,6:10 PM,ZP848,Montevideo (MVD),Paranair CR2,Unknown,2020-10-08
+2,2,6:48 PM M38440,,Campinas (VCP),LATAM Cargo Brasil 76V,Unknown,2020-10-08
+0,0,2:42 AM L72841,,Miami (MIA),LATAM Cargo B763 (N534LA),Landed 7:29 AM,2020-10-09
+1,1,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-10-09
+2,2,8:55 AM AR1340,,Buenos Aires (EZE),Aerolineas Argentinas 738,Canceled,2020-10-09
+0,0,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-10-11
+1,1,11:04 AM LA1244,,Santiago (SCL),LATAM Airlines A320 (CC-BAA),Landed 11:14 AM,2020-10-11
+2,2,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-10-11
+3,3,10:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-10-11
+0,0,8:55 AM AR1340,,Buenos Aires (EZE),Aerolineas Argentinas 738,Canceled,2020-10-12
+0,0,8:30 AM LA1257,,El Vigia (VIG),LATAM Airlines A320 (CC-BAA),Landed 7:51 AM,2020-10-14
+1,1,8:55 AM AR1340,,Buenos Aires (EZE),Aerolineas Argentinas 738,Canceled,2020-10-14
+2,2,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo A332 (N331QT),Landed 9:20 PM,2020-10-14
+0,0,9:05 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 9:13 AM,2020-10-15
+1,1,12:00 PM LA9516,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHM),Landed 11:51 AM,2020-10-15
+2,2,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N332QT),Landed 8:26 PM,2020-10-15
+3,3,6:10 PM,ZP848,Montevideo (MVD),Paranair CR2,Unknown,2020-10-15
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (PR-ABB),Unknown,2020-10-15
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-10-16
+1,1,8:55 AM AR1340,,Buenos Aires (EZE),Aerolineas Argentinas 738,Canceled,2020-10-16
+2,2,10:46 AM L72841,,Miami (MIA),LATAM Cargo B763 (N542LA),Landed 10:49 AM,2020-10-16
+0,0,6:15 AM UX323,,Madrid (MAD),Air Europa B788 (EC-MOM),Landed 6:01 AM,2020-10-17
+0,0,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-10-18
+1,1,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-10-18
+2,2,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-10-18
+0,0,8:55 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FVO),Landed 8:36 AM,2020-10-19
+0,0,2:16 AM L72897,,Miami (MIA),LATAM Cargo B763 (N540LA),Landed 2:18 AM,2020-10-20
+1,1,6:50 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N705KW),Diverted to MIA,2020-10-20
+2,2,3:00 PM Z8950,,La Paz (LPB),Amaszonas CR2,Unknown,2020-10-20
+0,0,8:55 AM AR1340,,Buenos Aires (EZE),Aerolineas Argentinas 738,Canceled,2020-10-21
+1,1,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-10-21
+0,0,9:05 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 8:59 AM,2020-10-22
+1,1,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-10-22
+2,2,6:10 PM ZP848,,Montevideo (MVD),Paranair CR2,Unknown,2020-10-22
+3,3,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (PR-ABD),Unknown,2020-10-22
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-10-23
+1,1,8:55 AM AR1340,,Buenos Aires (EZE),Aerolineas Argentinas 738,Canceled,2020-10-23
+2,2,3:23 PM UC1741,,Miami (MIA),LATAM Cargo B763 (N536LA),Landed 3:22 PM,2020-10-23
+0,0,7:55 AM AR1260,,Buenos Aires (EZE),Aerolineas Argentinas 73R,Canceled,2020-10-25
+1,1,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-10-25
+2,2,6:55 PM AR1262,,Buenos Aires (EZE),Aerolineas Argentinas 73R,Canceled,2020-10-25
+3,3,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-10-25
+4,4,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-10-25
+0,0,7:55 AM AR1260,,Buenos Aires (EZE),Aerolineas Argentinas 73R,Canceled,2020-10-26
+1,1,6:54 PM L72897,,Miami (MIA),LATAM Cargo B763 (N542LA),Landed 6:42 PM,2020-10-26
+2,2,6:55 PM AR1262,,Buenos Aires (EZE),Aerolineas Argentinas 73R,Canceled,2020-10-26
+0,0,7:55 AM AR1260,,Buenos Aires (EZE),Aerolineas Argentinas 73R,Canceled,2020-10-27
+1,1,2:40 PM ZP821,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2020-10-27
+2,2,6:55 PM AR1262,,Buenos Aires (EZE),Aerolineas Argentinas 73R,Canceled,2020-10-27
+0,0,7:55 AM AR1260,,Buenos Aires (EZE),Aerolineas Argentinas 73R,Canceled,2020-10-28
+1,1,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-10-28
+2,2,6:55 PM AR1262,,Buenos Aires (EZE),Aerolineas Argentinas 73R,Canceled,2020-10-28
+0,0,9:05 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 8:53 AM,2020-10-29
+1,1,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N335QT),Landed 10:20 PM,2020-10-29
+2,2,6:10 PM Z7951,,Lima (LIM),Cristalux E90,Unknown,2020-10-29
+3,3,6:10 PM,ZP848,Montevideo (MVD),Paranair CR2,Unknown,2020-10-29
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo Brasil 76V,Unknown,2020-10-29
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-10-30
+1,1,7:59 AM L71834,,Miami (MIA),LATAM Cargo B763 (N542LA),Landed 7:35 AM,2020-10-30
+0,0,7:30 AM,UX23,Madrid (MAD),Air Europa B788 (EC-MNS),Unknown,2020-10-31
+0,0,9:00 AM LA8142,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHR),Landed 10:21 AM,2020-11-02
+1,1,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-02
+2,2,4:55 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHR),Landed 6:03 PM,2020-11-02
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1838CMP),Landed 2:18 AM,2020-11-03
+1,1,9:00 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 8:14 AM,2020-11-03
+2,2,2:30 PM Z7741,,Santa Cruz (VVI),Amas Uruguay E190 (CX-IVO),Landed 2:24 PM,2020-11-03
+3,3,10:00 PM ZP1819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2020-11-03
+0,0,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo A332 (N330QT),Delayed 4:21 AM,2020-11-04
+1,1,1:10 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-04
+0,0,1:00 PM ZP848,,Montevideo (MVD),Paranair CR2,Unknown,2020-11-05
+1,1,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N335QT),Landed 9:56 PM,2020-11-05
+2,2,6:48 PM M38440,,Campinas (VCP),LATAM Cargo Brasil 76V,Unknown,2020-11-05
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-11-06
+1,1,9:00 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 8:44 AM,2020-11-06
+2,2,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-06
+3,3,2:30 PM Z7741,,Santa Cruz (VVI),Amas Uruguay E190 (CX-IVO),Landed 2:12 PM,2020-11-06
+0,0,9:00 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHM),Landed 9:33 AM,2020-11-07
+1,1,4:55 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHM),Landed 4:55 PM,2020-11-07
+0,0,12:01 AM LA2375,,Lima (LIM),LATAM Airlines A320 (CC-BFT),Landed 11:55 PM,2020-11-08
+1,1,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1723CMP),Landed 2:37 AM,2020-11-08
+2,2,3:39 AM LA1321,,Lima (LIM),LATAM Airlines 320,Unknown,2020-11-08
+3,3,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-11-08
+4,4,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N705KW),Landed 11:53 AM,2020-11-08
+5,5,5:55 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-08
+6,6,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo A332 (N331QT),Unknown,2020-11-08
+7,7,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-11-08
+0,0,9:00 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHR),Landed 9:22 AM,2020-11-09
+1,1,10:19 AM UC1771,,Miami (MIA),LATAM Cargo B763 (N536LA),Diverted to VCP,2020-11-09
+2,2,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-09
+3,3,2:40 PM,ZP821,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2020-11-09
+4,4,4:55 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHR),Landed 4:49 PM,2020-11-09
+0,0,9:00 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 8:44 AM,2020-11-10
+1,1,2:30 PM Z7741,,Santa Cruz (VVI),Amas Uruguay E190 (CX-IVO),Landed 2:13 PM,2020-11-10
+0,0,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo A332 (N330QT),Landed 11:42 PM,2020-11-11
+1,1,1:10 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-11
+2,2,2:55 PM AR2990,,Buenos Aires (EZE),Austral E190 (LV-CIH),Unknown,2020-11-11
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1856CMP),Landed 1:56 AM,2020-11-12
+1,1,1:00 PM,ZP848,Montevideo (MVD),Paranair CR2,Unknown,2020-11-12
+2,2,4:30 PM,AR2340,Buenos Aires (EZE),Austral E190 (LV-CHR),Unknown,2020-11-12
+3,3,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-11-12
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (PR-ABD),Unknown,2020-11-12
+0,0,5:19 AM UC1401,,Miami (MIA),LATAM Cargo B763 (N532LA),Landed 5:18 AM,2020-11-13
+1,1,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-11-13
+2,2,9:00 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 8:37 AM,2020-11-13
+3,3,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-13
+4,4,2:30 PM Z7741,,Santa Cruz (VVI),Amas Uruguay E190 (CX-IVO),Landed 2:07 PM,2020-11-13
+5,5,3:25 PM AR2992,,Buenos Aires (EZE),Austral E190 (LV-CHR),Unknown,2020-11-13
+6,6,4:05 PM,ZP821,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2020-11-13
+0,0,7:30 AM,UX23,Madrid (MAD),Air Europa B789 (EC-NEI),Unknown,2020-11-14
+1,1,9:00 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHR),Landed 9:31 AM,2020-11-14
+2,2,4:55 PM LA1325,,Santiago (SCL),LATAM Airlines 320,Unknown,2020-11-14
+0,0,12:05 AM LA2375,,Lima (LIM),LATAM Airlines A320 (CC-BFI),Canceled,2020-11-15
+1,1,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1835CMP),Landed 2:43 AM,2020-11-15
+2,2,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-11-15
+3,3,4:30 PM,AR2340,Buenos Aires (EZE),Austral E190 (LV-GAQ),Unknown,2020-11-15
+4,4,5:55 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-15
+5,5,8:25 PM UX24,,Cordoba (COR),Air Europa 787,Unknown,2020-11-15
+6,6,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-11-15
+7,7,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-11-15
+0,0,6:15 AM UC1409,,Miami (MIA),LATAM Cargo B763 (N536LA),Landed 6:15 AM,2020-11-16
+1,1,9:00 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHM),Landed 9:16 AM,2020-11-16
+2,2,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-16
+3,3,4:30 PM,AR2340,Buenos Aires (EZE),Aerolineas Argentinas E90,Unknown,2020-11-16
+4,4,4:30 PM AR1340,,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GVA),Landed 4:31 PM,2020-11-16
+5,5,4:55 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHM),Landed 5:18 PM,2020-11-16
+0,0,9:00 AM Z7740,,Montevideo (MVD),Cristalux E90,Unknown,2020-11-17
+1,1,2:30 PM Z7741,,Santa Cruz (VVI),Cristalux E90,Unknown,2020-11-17
+2,2,2:40 PM,ZP821,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2020-11-17
+0,0,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-11-18
+1,1,1:10 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-18
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1857CMP),Landed 2:04 AM,2020-11-19
+1,1,1:00 PM,ZP848,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2020-11-19
+2,2,4:30 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FVM),Landed 4:20 PM,2020-11-19
+3,3,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N332QT),Landed 10:22 PM,2020-11-19
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo Brasil 76V,Unknown,2020-11-19
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-11-20
+1,1,9:00 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 8:43 AM,2020-11-20
+2,2,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-20
+3,3,2:30 PM Z7741,,Santa Cruz (VVI),Amas Uruguay E190 (CX-IVO),Landed 2:26 PM,2020-11-20
+4,4,2:40 PM,ZP821,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2020-11-20
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1727CMP),Landed 2:03 AM,2020-11-21
+1,1,9:03 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHM),Landed 9:06 AM,2020-11-21
+0,0,12:05 AM LA2375,,Lima (LIM),LATAM Airlines 320,Unknown,2020-11-22
+1,1,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1847CMP),Landed 2:16 AM,2020-11-22
+2,2,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-11-22
+3,3,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N703KW),Landed 12:38 PM,2020-11-22
+4,4,4:30 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FXQ),Landed 4:17 PM,2020-11-22
+5,5,5:55 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-22
+6,6,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo A332 (N332QT),Unknown,2020-11-22
+7,7,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-11-22
+0,0,10:18 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHM),Landed 10:09 AM,2020-11-23
+1,1,11:05 AM 2D162,,Miami (MIA),Eastern Airlines B763,Canceled,2020-11-23
+2,2,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-23
+3,3,1:29 PM UC1409,,Miami (MIA),LATAM Cargo B763 (N536LA),Landed 1:21 PM,2020-11-23
+4,4,4:30 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GVA),Landed 4:16 PM,2020-11-23
+5,5,4:55 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHM),Canceled,2020-11-23
+6,6,5:45 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHM),Landed 5:34 PM,2020-11-23
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines 738,Unknown,2020-11-24
+1,1,2:40 PM,ZP821,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2020-11-24
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines 738,Unknown,2020-11-25
+1,1,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo A332 (N336QT),Delayed 4:21 AM,2020-11-25
+2,2,1:10 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-25
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1837CMP),Landed 2:26 AM,2020-11-26
+1,1,1:00 PM,ZP848,Montevideo (MVD),Paranair CR2,Unknown,2020-11-26
+2,2,4:30 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FVM),Landed 4:32 PM,2020-11-26
+3,3,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N332QT),Delayed 1:41 AM,2020-11-26
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (PR-ACO),Unknown,2020-11-26
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-11-27
+1,1,9:00 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 9:05 AM,2020-11-27
+2,2,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-27
+3,3,2:30 PM Z7741,,Santa Cruz (VVI),Amas Uruguay E190 (CX-IVO),Landed 3:39 PM,2020-11-27
+4,4,4:05 PM,ZP821,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2020-11-27
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1838CMP),Landed 2:07 AM,2020-11-28
+1,1,7:30 AM,UX23,Madrid (MAD),Air Europa B789 (EC-MSZ),Landed 7:18 AM,2020-11-28
+2,2,9:26 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHQ),Unknown,2020-11-28
+0,0,12:05 AM LA2375,,Lima (LIM),LATAM Airlines 320,Unknown,2020-11-29
+1,1,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1821CMP),Landed 2:02 AM,2020-11-29
+2,2,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-11-29
+3,3,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B762 (N603KW),Landed 11:18 AM,2020-11-29
+4,4,4:30 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FXQ),Landed 4:18 PM,2020-11-29
+5,5,5:55 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-29
+6,6,8:25 PM UX24,,Cordoba (COR),Air Europa 787,Unknown,2020-11-29
+7,7,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-11-29
+8,8,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-11-29
+0,0,6:24 AM UC1409,,Miami (MIA),LATAM Cargo B763 (N532LA),Unknown,2020-11-30
+1,1,9:35 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHQ),Unknown,2020-11-30
+2,2,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-11-30
+3,3,2:40 PM,ZP821,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2020-11-30
+4,4,4:30 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GKU),Landed 4:38 PM,2020-11-30
+5,5,5:27 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHQ),Unknown,2020-11-30
+6,6,10:37 PM UC1109,,Miami (MIA),LATAM Cargo B763 (N538LA),Landed 10:38 PM,2020-11-30
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1857CMP),Landed 2:44 AM,2020-12-01
+1,1,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas 738,Canceled,2020-12-01
+2,2,3:00 PM Z8950,,Santa Cruz (VVI),Amaszonas CR2,Unknown,2020-12-01
+0,0,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GKT),Landed 11:12 AM,2020-12-02
+1,1,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo A332 (N335QT),Landed 6:23 PM,2020-12-02
+2,2,1:10 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-12-02
+0,0,4:04 AM UC1104,,Miami (MIA),LATAM Cargo B763 (N418LA),Landed 5:19 AM,2020-12-04
+1,1,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-12-04
+2,2,9:00 AM Z7740,,Montevideo (MVD),Amas Uruguay E190 (CX-IVO),Landed 9:03 AM,2020-12-04
+3,3,9:42 AM M38440,,Bogota (BOG),LATAM Cargo B763 (PR-ABB),Landed 9:30 AM,2020-12-04
+4,4,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FXQ),Landed 11:42 AM,2020-12-04
+5,5,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-12-04
+6,6,2:30 PM Z7741,,Santa Cruz (VVI),Amas Uruguay E190 (CX-IVO),Landed 3:13 PM,2020-12-04
+7,7,10:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2020-12-04
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1535CMP),Landed 1:47 AM,2020-12-05
+1,1,7:30 AM,UX23,Madrid (MAD),Air Europa B788 (EC-MNS),Landed 7:14 AM,2020-12-05
+2,2,9:39 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHQ),Unknown,2020-12-05
+3,3,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHQ),Unknown,2020-12-05
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1850CMP),Landed 1:48 AM,2020-12-06
+1,1,5:20 AM AV213,,Bogota (BOG),Avianca A319 (N753AV),Landed 4:53 AM,2020-12-06
+2,2,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-12-06
+3,3,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N706KW),Landed 10:47 AM,2020-12-06
+4,4,12:50 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-CXT),Landed 12:51 PM,2020-12-06
+5,5,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-12-06
+6,6,10:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Delayed 11:35 PM,2020-12-06
+7,7,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-12-06
+0,0,9:00 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHM),Unknown,2020-12-07
+1,1,10:44 AM UC1409,,Miami (MIA),LATAM Cargo B763 (N532LA),Landed 10:16 AM,2020-12-07
+2,2,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-CXT),Landed 11:16 AM,2020-12-07
+3,3,1:20 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-12-07
+4,4,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHM),Landed 5:49 PM,2020-12-07
+5,5,10:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Delayed 11:33 PM,2020-12-07
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1842CMP),Landed 2:01 AM,2020-12-08
+1,1,6:10 PM Z8400,,Santa Cruz (VVI),Amaszonas CR2,Unknown,2020-12-08
+0,0,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FVO),Landed 11:36 AM,2020-12-09
+1,1,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-12-09
+2,2,1:10 PM FO5600,,El Palomar (EPA),Flybondi 738,Unknown,2020-12-09
+0,0,1:55 AM,CM291,Panama City (PTY),Copa Airlines B738 (HP-1718CMP),Landed 1:50 AM,2020-12-10
+1,1,5:20 AM AV213,,Bogota (BOG),Avianca (Star Alliance Livery) A319 (N519AV),Landed 5:06 AM,2020-12-10
+2,2,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FXQ),Landed 12:04 PM,2020-12-10
+3,3,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-12-10
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (PR-ABB),Unknown,2020-12-10
+5,5,7:40 PM,ZP848,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2020-12-10
+0,0,7:30 AM,UX23,Madrid (MAD),Air Europa B788 (EC-MMX),Landed 7:59 AM,2020-12-12
+1,1,9:36 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHP),Landed 9:21 AM,2020-12-12
+2,2,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHP),Estimated 5:11 PM,2020-12-12
+3,3,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1839CMP),Landed 12:14 AM,2020-12-12
+0,0,5:20 AM AV213,,Bogota (BOG),Avianca A319 (N753AV),Landed 4:46 AM,2020-12-13
+1,1,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-12-13
+2,2,11:00 AM 2D162,,Miami (MIA),Eastern Airlines 763,Canceled,2020-12-13
+3,3,12:50 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FXQ),Landed 12:58 PM,2020-12-13
+4,4,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo A332 (N336QT),Delayed 3:02 AM,2020-12-13
+5,5,10:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2020-12-13
+6,6,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-12-13
+7,7,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1854CMP),Delayed 12:39 AM,2020-12-13
+8,8,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1854CMP),Delayed 12:39 AM,2020-12-13
+0,0,3:46 AM,CM207,Santa Cruz (VVI),Copa Airlines B738 (HP-1854CMP),Landed 4:15 AM,2020-12-14
+1,1,9:02 AM UC1409,,Miami (MIA),LATAM Cargo B763 (N532LA),Landed 9:03 AM,2020-12-14
+2,2,9:38 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHM),Landed 9:28 AM,2020-12-14
+3,3,10:40 AM,ZP845,Montevideo (MVD),Paranair CR2,Unknown,2020-12-14
+4,4,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FXQ),Landed 1:28 PM,2020-12-14
+5,5,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHM),Landed 5:23 PM,2020-12-14
+6,6,10:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2020-12-14
+0,0,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GKT),Landed 11:44 AM,2020-12-16
+1,1,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-12-16
+0,0,5:20 AM AV213,,Bogota (BOG),Avianca A319 (N557AV),Landed 5:05 AM,2020-12-17
+1,1,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FUB),Landed 11:21 AM,2020-12-17
+2,2,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-12-17
+3,3,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (PR-ACO),Unknown,2020-12-17
+4,4,7:40 PM,ZP848,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2020-12-17
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1719CMP),Delayed 3:06 AM,2020-12-17
+6,6,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1719CMP),Delayed 3:06 AM,2020-12-17
+0,0,7:30 AM,UX23,Madrid (MAD),Air Europa B788 (EC-MOM),Unknown,2020-12-19
+1,1,8:50 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHP),Delayed 9:58 AM,2020-12-19
+2,2,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FUB),Landed 11:20 AM,2020-12-19
+3,3,5:31 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHP),Landed 5:13 PM,2020-12-19
+4,4,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1842CMP),Landed 11:57 PM,2020-12-19
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1842CMP),Landed 11:57 PM,2020-12-19
+0,0,5:20 AM AV213,,Bogota (BOG),Avianca A319 (N741AV),Landed 5:23 AM,2020-12-20
+1,1,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-12-20
+2,2,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N706KW),Landed 3:39 PM,2020-12-20
+3,3,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FRQ),Landed 11:53 AM,2020-12-20
+4,4,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-12-20
+5,5,10:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2020-12-20
+6,6,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-12-20
+7,7,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Delayed 11:44 PM,2020-12-20
+8,8,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1851CMP),Landed 11:47 PM,2020-12-20
+9,9,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1851CMP),Landed 11:47 PM,2020-12-20
+0,0,9:21 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHQ),Unknown,2020-12-21
+1,1,10:40 AM,ZP845,Montevideo (MVD),Paranair CR2,Unknown,2020-12-21
+2,2,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GVA),Landed 11:59 AM,2020-12-21
+3,3,12:14 PM UC1409,,Miami (MIA),LATAM Cargo B763 (N418LA),Landed 11:55 AM,2020-12-21
+4,4,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHQ),Unknown,2020-12-21
+5,5,10:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2020-12-21
+6,6,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Delayed 11:37 PM,2020-12-21
+0,0,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FXQ),Landed 11:29 AM,2020-12-23
+1,1,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo A332 (N334QT),Delayed 12:24 AM,2020-12-23
+2,2,10:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2020-12-23
+3,3,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2020-12-23
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2020-12-25
+1,1,9:00 AM Z7740,,Montevideo (MVD),Cristalux E90,Unknown,2020-12-25
+2,2,2:30 PM Z7741,,Santa Cruz (VVI),Cristalux E90,Unknown,2020-12-25
+3,3,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Estimated 11:20 PM,2020-12-25
+4,4,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1844CMP),Landed 12:02 AM,2020-12-25
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1844CMP),Landed 12:02 AM,2020-12-25
+0,0,5:20 AM AV213,,Bogota (BOG),Avianca A319 (N753AV),Landed 4:59 AM,2020-12-27
+1,1,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2020-12-27
+2,2,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N700KW),Landed 10:49 AM,2020-12-27
+3,3,12:50 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GKT),Landed 12:31 PM,2020-12-27
+4,4,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2020-12-27
+5,5,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2020-12-27
+6,6,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2020-12-27
+7,7,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1725CMP),Estimated 12:07 AM,2020-12-27
+8,8,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1725CMP),Estimated 12:07 AM,2020-12-27
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2021-01-01
+1,1,9:00 AM Z7740,,Montevideo (MVD),Cristalux E90,Unknown,2021-01-01
+2,2,2:30 PM Z7741,,Santa Cruz (VVI),Cristalux E90,Unknown,2021-01-01
+3,3,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-01-01
+4,4,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1852CMP),Landed 12:02 AM,2021-01-01
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1852CMP),Landed 12:02 AM,2021-01-01
+0,0,5:50 AM AV213,,Bogota (BOG),Avianca A319 (N753AV),Landed 5:35 AM,2021-01-02
+1,1,7:30 AM,UX23,Madrid (MAD),Air Europa B788 (EC-MNS),Landed 6:56 AM,2021-01-02
+2,2,9:00 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHR),Unknown,2021-01-02
+3,3,11:10 AM,LA6027,Florianopolis (FLN),Paranair CRJ2 (ZP-CRR),Unknown,2021-01-02
+4,4,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FXQ),Estimated 11:13 AM,2021-01-02
+5,5,12:40 PM ZP897,,Florianopolis (FLN),Paranair CRJ2 (ZP-CRR),Unknown,2021-01-02
+6,6,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHR),Landed 5:29 PM,2021-01-02
+7,7,6:15 PM AR1342,,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CEV),Unknown,2021-01-02
+8,8,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1526CMP),Landed 11:58 PM,2021-01-02
+9,9,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1526CMP),Landed 11:58 PM,2021-01-02
+0,0,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2021-01-03
+1,1,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N706KW),Landed 11:05 AM,2021-01-03
+2,2,12:50 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-CXS),Landed 12:43 PM,2021-01-03
+3,3,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2021-01-03
+4,4,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2021-01-03
+5,5,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-01-03
+6,6,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1714CMP),Landed 11:53 PM,2021-01-03
+7,7,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1714CMP),Landed 11:53 PM,2021-01-03
+0,0,5:50 AM AV213,,Bogota (BOG),Avianca (Star Alliance Livery) A319 (N519AV),Landed 5:24 AM,2021-01-04
+1,1,9:42 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHR),Landed 9:29 AM,2021-01-04
+2,2,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-CXS),Landed 12:10 PM,2021-01-04
+3,3,1:04 PM UC1771,,Miami (MIA),LATAM Cargo B763 (N532LA),Landed 12:55 PM,2021-01-04
+4,4,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-01-04
+0,0,5:12 AM LA2375,,Lima (LIM),LATAM Airlines A320 (CC-BAD),Landed 5:25 AM,2021-01-05
+1,1,7:30 AM,UX23,Madrid (MAD),Air Europa B789 (EC-NGM),Landed 7:17 AM,2021-01-05
+2,2,10:40 AM,ZP845,Montevideo (MVD),Paranair CR2,Unknown,2021-01-05
+3,3,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B737 (LV-CAP),Landed 12:07 PM,2021-01-05
+4,4,6:10 PM Z8400,,Santa Cruz (VVI),Amaszonas E190 (CP-3145),Landed 6:04 PM,2021-01-05
+5,5,8:00 PM 2D162,,Miami (MIA),Eastern Airlines B763 (N706KW),Landed 8:08 PM,2021-01-05
+6,6,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1730CMP),Landed 11:46 PM,2021-01-05
+7,7,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1730CMP),Landed 11:46 PM,2021-01-05
+0,0,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CDY),Unknown,2021-01-06
+1,1,12:20 PM,LA6025,Rio de Janeiro (GIG),Paranair CRJ2 (ZP-CRR),Unknown,2021-01-06
+2,2,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2021-01-06
+3,3,1:50 PM ZP831,,Rio de Janeiro (GIG),Paranair CRJ2 (ZP-CRR),Unknown,2021-01-06
+0,0,9:00 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MAG),Unknown,2021-01-07
+1,1,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CDY),Unknown,2021-01-07
+2,2,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N332QT),Unknown,2021-01-07
+3,3,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MAG),Unknown,2021-01-07
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (PR-ABB),Diverted to MDE,2021-01-07
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1718CMP),Landed 11:38 PM,2021-01-07
+6,6,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1718CMP),Landed 11:38 PM,2021-01-07
+0,0,1:39 AM L72841,,Miami (MIA),LATAM Cargo B763 (N532LA),Landed 1:17 AM,2021-01-08
+1,1,4:42 AM UC8440,,Medellin (MDE),LATAM Cargo B763 (PR-ABB),Landed 3:55 AM,2021-01-08
+2,2,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2021-01-08
+3,3,9:00 AM Z7740,,Montevideo (MVD),Cristalux E90,Unknown,2021-01-08
+4,4,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CHR),Unknown,2021-01-08
+5,5,2:30 PM Z7741,,Santa Cruz (VVI),Cristalux E90,Unknown,2021-01-08
+6,6,5:00 PM,ZP848,Montevideo (MVD),Paranair CR2,Unknown,2021-01-08
+7,7,6:10 PM Z8400,,Santa Cruz (VVI),Amaszonas CR2,Unknown,2021-01-08
+8,8,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Estimated 11:25 PM,2021-01-08
+9,9,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1839CMP),Landed 11:50 PM,2021-01-08
+10,10,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1839CMP),Landed 11:50 PM,2021-01-08
+0,0,5:50 AM AV213,,Bogota (BOG),Avianca A319 (N690AV),Landed 5:23 AM,2021-01-09
+1,1,7:30 AM,UX23,Madrid (MAD),Air Europa 787,Unknown,2021-01-09
+2,2,9:32 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHU),Landed 9:29 AM,2021-01-09
+3,3,12:40 PM ZP897,,Florianopolis (FLN),Paranair CR2,Unknown,2021-01-09
+4,4,3:25 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CHS),Unknown,2021-01-09
+5,5,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHU),Unknown,2021-01-09
+6,6,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1717CMP),Landed 11:47 PM,2021-01-09
+7,7,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1717CMP),Landed 11:47 PM,2021-01-09
+0,0,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2021-01-10
+1,1,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N706KW),Landed 10:44 AM,2021-01-10
+2,2,1:15 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 1:09 PM,2021-01-10
+3,3,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2021-01-10
+4,4,11:20 PM,LA6014,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-01-10
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1714CMP),Landed 11:41 PM,2021-01-10
+6,6,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1714CMP),Landed 11:41 PM,2021-01-10
+0,0,5:50 AM AV213,,Bogota (BOG),Avianca A319 (N690AV),Landed 5:26 AM,2021-01-11
+1,1,9:56 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHU),Landed 9:44 AM,2021-01-11
+2,2,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-GBK),Unknown,2021-01-11
+3,3,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Delayed 11:37 PM,2021-01-11
+4,4,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1539CMP),Delayed 1:24 AM,2021-01-11
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1539CMP),Delayed 1:22 AM,2021-01-11
+0,0,5:39 AM LA2375,,Lima (LIM),LATAM Airlines A320 (CC-BFJ),Unknown,2021-01-12
+1,1,7:30 AM,UX23,Madrid (MAD),Air Europa B788 (EC-MPE),Unknown,2021-01-12
+2,2,10:40 AM,ZP845,Montevideo (MVD),Paranair CR2,Unknown,2021-01-12
+3,3,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GKU),Landed 11:20 AM,2021-01-12
+4,4,6:10 PM Z8400,,Santa Cruz (VVI),Amaszonas CR2,Unknown,2021-01-12
+5,5,8:00 PM 2D162,,Miami (MIA),Eastern Airlines 763,Canceled,2021-01-12
+6,6,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1719CMP),Landed 11:49 PM,2021-01-12
+7,7,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1719CMP),Landed 11:49 PM,2021-01-12
+0,0,5:50 AM AV213,,Bogota (BOG),Avianca A319 (N557AV),Landed 5:12 AM,2021-02-01
+1,1,9:20 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MAG),Unknown,2021-02-01
+2,2,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-02-01
+3,3,3:35 PM Z8400,,Santa Cruz (VVI),Amaszonas E190 (CP-3130),Landed 3:20 PM,2021-02-01
+4,4,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-02-01
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1852CMP),Landed 11:42 PM,2021-02-01
+0,0,3:19 AM UC1101,,Miami (MIA),LATAM Cargo B763 (N538LA),Landed 3:00 AM,2021-02-02
+1,1,7:30 AM,UX23,Madrid (MAD),Air Europa (Nicky Jam X J Balvin Livery) B788 (EC-MLT),Landed 7:17 AM,2021-02-02
+2,2,10:40 AM,ZP845,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2021-02-02
+3,3,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GKU),Landed 11:17 AM,2021-02-02
+4,4,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1526CMP),Landed 11:58 PM,2021-02-02
+0,0,12:40 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2021-02-03
+1,1,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-03
+2,2,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1714CMP),Landed 11:49 PM,2021-02-03
+0,0,9:37 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MAG),Unknown,2021-02-04
+1,1,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FVM),Landed 11:19 AM,2021-02-04
+2,2,5:10 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MAG),Unknown,2021-02-04
+3,3,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N331QT),Delayed 2:00 AM,2021-02-04
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (PR-ABB),Unknown,2021-02-04
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2021-02-05
+1,1,9:00 AM Z7740,,Montevideo (MVD),Cristalux E90,Unknown,2021-02-05
+2,2,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FVO),Landed 11:56 AM,2021-02-05
+3,3,2:30 PM Z7741,,Santa Cruz (VVI),Cristalux E90,Unknown,2021-02-05
+4,4,3:35 PM Z8400,,Santa Cruz (VVI),Amaszonas E190 (CP-3133),Landed 4:23 PM,2021-02-05
+5,5,5:00 PM,ZP848,Montevideo (MVD),Paranair CR2,Unknown,2021-02-05
+6,6,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Estimated 11:22 PM,2021-02-05
+7,7,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1720CMP),Landed 11:42 PM,2021-02-05
+8,8,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1720CMP),Landed 11:42 PM,2021-02-05
+0,0,7:05 AM AV213,,Bogota (BOG),Avianca A319 (N694AV),Landed 6:51 AM,2021-02-06
+1,1,7:30 AM,UX23,Madrid (MAD),Air Europa (Nicky Jam X J Balvin Livery) B788 (EC-MLT),Landed 6:56 AM,2021-02-06
+2,2,9:34 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHM),Landed 9:27 AM,2021-02-06
+3,3,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHM),Landed 4:51 PM,2021-02-06
+4,4,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1538CMP),Landed 12:08 AM,2021-02-06
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1538CMP),Estimated 12:08 AM,2021-02-06
+0,0,5:21 AM LA2375,,Lima (LIM),LATAM Airlines A319 (CC-BCE),Landed 5:25 AM,2021-02-07
+1,1,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2021-02-07
+2,2,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N705KW),Landed 10:50 AM,2021-02-07
+3,3,12:55 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CIE),Unknown,2021-02-07
+4,4,5:00 PM,ZP848,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2021-02-07
+5,5,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2021-02-07
+6,6,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2021-02-07
+7,7,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-07
+0,0,3:14 AM UC1107,,Miami (MIA),LATAM Cargo B763 (N532LA),Landed 7:19 PM,2021-02-08
+1,1,7:05 AM AV213,,Bogota (BOG),Avianca A319 (N690AV),Landed 6:42 AM,2021-02-08
+2,2,9:14 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHQ),Unknown,2021-02-08
+3,3,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CHS),Unknown,2021-02-08
+4,4,3:35 PM Z8400,,Santa Cruz (VVI),Amaszonas E190 (M-ABMI),Landed 3:18 PM,2021-02-08
+5,5,11:20 PM,ZP819,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-08
+6,6,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-08
+7,7,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1853CMP),Landed 11:45 PM,2021-02-08
+0,0,10:40 AM ZP845,,Montevideo (MVD),Paranair CR2,Unknown,2021-02-09
+1,1,10:40 AM LA6021,,Montevideo (MVD),LATAM Airlines CR2,Unknown,2021-02-09
+2,2,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CHS),Unknown,2021-02-09
+3,3,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-09
+4,4,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-09
+5,5,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1723CMP),Landed 11:44 PM,2021-02-09
+6,6,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1723CMP),Landed 11:44 PM,2021-02-09
+0,0,9:40 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHP),Landed 9:19 AM,2021-02-11
+1,1,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CKZ),Unknown,2021-02-11
+2,2,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N335QT),Landed 6:03 PM,2021-02-11
+3,3,5:15 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHP),Landed 5:29 PM,2021-02-11
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo Brasil 76V,Unknown,2021-02-11
+5,5,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-11
+6,6,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-11
+0,0,6:10 AM QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2021-02-12
+1,1,7:04 AM L72841,,Miami (MIA),LATAM Cargo B763 (CC-CZZ),Landed 6:54 AM,2021-02-12
+2,2,9:00 AM Z7740,,Montevideo (MVD),Cristalux E90,Unknown,2021-02-12
+3,3,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CDY),Unknown,2021-02-12
+4,4,2:30 PM Z7741,,Santa Cruz (VVI),Cristalux E90,Unknown,2021-02-12
+5,5,3:35 PM Z8400,,Santa Cruz (VVI),Amaszonas E190 (CP-3133),Landed 3:31 PM,2021-02-12
+6,6,5:00 PM ZP848,,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2021-02-12
+7,7,5:00 PM LA6023,,Montevideo (MVD),LATAM Airlines CR2,Unknown,2021-02-12
+8,8,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-02-12
+9,9,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-02-12
+10,10,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1853CMP),Landed 12:03 AM,2021-02-12
+0,0,7:05 AM AV213,,Bogota (BOG),Avianca A319 (N557AV),Landed 6:35 AM,2021-02-13
+1,1,7:30 AM,UX23,Madrid (MAD),Air Europa (Nicky Jam X J Balvin Livery) B788 (EC-MLT),Landed 7:24 AM,2021-02-13
+2,2,9:06 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHP),Landed 8:55 AM,2021-02-13
+3,3,4:59 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHP),Landed 5:04 PM,2021-02-13
+4,4,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-13
+5,5,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-02-13
+6,6,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1718CMP),Landed 11:50 PM,2021-02-13
+7,7,11:59 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1718CMP),Landed 11:50 PM,2021-02-13
+0,0,5:25 AM LA2375,,Lima (LIM),LATAM Airlines A319 (CC-CPM),Landed 5:24 AM,2021-02-14
+1,1,8:38 AM M38443,,Miami (MIA),LATAM Cargo B763 (PR-ABB),Unknown,2021-02-14
+2,2,11:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N700KW),Landed 11:12 AM,2021-02-14
+3,3,12:55 PM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CEV),Unknown,2021-02-14
+4,4,5:00 PM ZP848,,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2021-02-14
+5,5,5:00 PM LA6023,,Montevideo (MVD),LATAM Airlines CR2,Unknown,2021-02-14
+6,6,9:50 PM QT4089,,Bogota (BOG),Avianca Cargo 33X,Unknown,2021-02-14
+7,7,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2021-02-14
+8,8,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-02-14
+9,9,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-02-14
+0,0,23:59,CM207,Panama City (PTY),Copa (Panama National Football Team Livery) B738 (HP-1534CMP),Landed 23:43,2021-02-16
+0,0,23:59,CM207,Panama City (PTY),Copa Airlines B738 (HP-1853CMP),Landed 23:57,2021-02-17
+0,0,8:56 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHP),Landed 8:43 AM,2021-03-11
+1,1,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CHQ),Unknown,2021-03-11
+2,2,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N331QT),Landed 4:13 AM,2021-03-11
+3,3,5:16 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHP),Unknown,2021-03-11
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (CC-CZZ),Unknown,2021-03-11
+5,5,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-11
+6,6,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-11
+0,0,06:10 QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2021-03-12
+1,1,08:55 LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHU),Landed 08:39,2021-03-12
+2,2,10:30 ZP821,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-12
+3,3,10:30 LA6017,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-12
+4,4,11:20,AR1340,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-FUB),Landed 11:19,2021-03-12
+5,5,15:35 Z8400,,Santa Cruz (VVI),Amaszonas E190 (CP-3130),Landed 15:13,2021-03-12
+6,6,17:00 ZP848,,Montevideo (MVD),Paranair CR2,Unknown,2021-03-12
+7,7,17:00 LA6023,,Montevideo (MVD),LATAM Airlines CR2,Unknown,2021-03-12
+8,8,23:20 ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-12
+9,9,23:20 LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-12
+10,10,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1716CMP),Landed 23:29,2021-03-12
+11,11,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1716CMP),Landed 23:29,2021-03-12
+0,0,00:54 UC1105,,Miami (MIA),LATAM Cargo B763 (N418LA),Landed 00:36,2021-03-13
+1,1,09:00 LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHM),Unknown,2021-03-13
+2,2,17:15 LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHU),Landed 17:51,2021-03-13
+3,3,23:20 ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-13
+4,4,23:20 LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-13
+5,5,23:53,CM207,Panama City (PTY),Copa (Panama National Football Team Livery) B738 (HP-1534CMP),Landed 23:29,2021-03-13
+6,6,23:53,CM207,Panama City (PTY),Copa (Panama National Football Team Livery) B738 (HP-1534CMP),Landed 23:29,2021-03-13
+0,0,08:38 M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2021-03-14
+1,1,11:00 2D162,,Miami (MIA),Eastern Airlines B763 (N700KW),Landed 10:34,2021-03-14
+2,2,12:50,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CHQ),Unknown,2021-03-14
+3,3,17:00 ZP848,,Montevideo (MVD),Paranair CR2,Unknown,2021-03-14
+4,4,17:00 LA6023,,Montevideo (MVD),LATAM Airlines CR2,Unknown,2021-03-14
+5,5,17:10 ZP821,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-14
+6,6,17:10 LA6017,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-14
+7,7,21:50 QT4089,,Bogota (BOG),Avianca Cargo A332 (N330QT),Unknown,2021-03-14
+8,8,23:00 QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2021-03-14
+9,9,23:20 ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Estimated 23:16,2021-03-14
+10,10,23:20 LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Scheduled,2021-03-14
+0,0,8:34 AM UC1105,,Miami (MIA),LATAM Cargo B763 (N536LA),Landed 8:22 AM,2021-03-15
+1,1,8:54 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHP),Landed 8:49 AM,2021-03-15
+2,2,10:40 AM ZP821,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-15
+3,3,10:40 AM LA6017,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-15
+4,4,11:20 AM,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CEV),Unknown,2021-03-15
+5,5,5:07 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHP),Landed 5:02 PM,2021-03-15
+6,6,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-15
+7,7,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-15
+8,8,11:53 PM,CM207,Panama City (PTY),Copa Airlines B738 (HP-1857CMP),Landed 12:30 AM,2021-03-15
+0,0,07:30,UX23,Madrid (MAD),Air Europa (Nicky Jam X J Balvin Livery) B788 (EC-MLT),Landed 07:22,2021-03-16
+1,1,10:40 ZP845,,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-16
+2,2,10:40 LA6021,,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-16
+3,3,13:20,AR1340,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CKZ),Unknown,2021-03-16
+4,4,23:20 ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Estimated 23:20,2021-03-16
+5,5,23:20 LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Scheduled,2021-03-16
+6,6,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1716CMP),Landed 23:49,2021-03-16
+7,7,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1716CMP),Landed 23:49,2021-03-16
+0,0,10:30 ZP821,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-17
+1,1,10:30 LA6017,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-17
+2,2,12:40 QT4089,,Bogota (BOG),Avianca Cargo A332 (N332QT),Landed 15:02,2021-03-17
+3,3,23:20 ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Estimated 23:14,2021-03-17
+4,4,23:20 LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Scheduled,2021-03-17
+5,5,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1857CMP),Landed 23:50,2021-03-17
+6,6,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1857CMP),Landed 23:50,2021-03-17
+0,0,9:00 AM LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHU),Landed 8:46 AM,2021-03-18
+1,1,11:50 AM AR1340,,Buenos Aires (AEP),Aerolineas Argentinas E190 (LV-CEU),Unknown,2021-03-18
+2,2,5:10 PM QT4087,,Bogota (BOG),Avianca Cargo A332 (N330QT),Landed 11:47 PM,2021-03-18
+3,3,5:13 PM LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHU),Landed 5:08 PM,2021-03-18
+4,4,6:48 PM M38440,,Campinas (VCP),LATAM Cargo B763 (PR-ABD),Unknown,2021-03-18
+5,5,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-18
+6,6,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-18
+0,0,06:10 QT831,,Bogota (BOG),Avianca Cargo 33F,Unknown,2021-03-19
+1,1,06:59 UC1104,,Miami (MIA),LATAM Cargo B763 (N418LA),Landed 06:47,2021-03-19
+2,2,08:57 LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHR),Landed 08:43,2021-03-19
+3,3,10:30 ZP821,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-19
+4,4,10:30 LA6017,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-19
+5,5,11:50 AR1340,,Buenos Aires (AEP),Aerolineas Argentinas E190 (LV-CIE),Unknown,2021-03-19
+6,6,15:35 Z8400,,Santa Cruz (VVI),Amaszonas E190 (M-ABMI),Landed 15:30,2021-03-19
+7,7,17:00 ZP848,,Montevideo (MVD),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-19
+8,8,17:00 LA6023,,Montevideo (MVD),LATAM Airlines CR2,Unknown,2021-03-19
+9,9,23:20 ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Estimated 23:22,2021-03-19
+10,10,23:20 LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-19
+11,11,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1723CMP),Landed 23:48,2021-03-19
+12,12,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1723CMP),Landed 23:48,2021-03-19
+0,0,08:52 LA1300,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHR),Landed 08:35,2021-03-20
+1,1,17:15 LA1325,,Santiago (SCL),LATAM Airlines A320 (PR-MHR),Landed 17:02,2021-03-20
+2,2,23:20 ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-20
+3,3,23:20 LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-20
+4,4,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1852CMP),Landed 23:48,2021-03-20
+5,5,23:53,CM207,Panama City (PTY),Copa Airlines B738 (HP-1852CMP),Landed 23:48,2021-03-20
+0,0,08:38 M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2021-03-21
+1,1,10:00 2D162,,Miami (MIA),Eastern Airlines B763 (N705KW),Landed 09:46,2021-03-21
+2,2,12:50 AR1340,,Buenos Aires (AEP),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-03-21
+3,3,17:00 ZP848,,Montevideo (MVD),Paranair CR2,Unknown,2021-03-21
+4,4,17:00 LA6023,,Montevideo (MVD),LATAM Airlines CR2,Unknown,2021-03-21
+5,5,17:10 ZP821,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-21
+6,6,17:10 LA6017,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-21
+7,7,23:00 QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2021-03-21
+8,8,23:20 ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Estimated 23:10,2021-03-21
+9,9,23:20 LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Scheduled,2021-03-21
+0,0,8:38 AM M38443,,Miami (MIA),LATAM Cargo Brasil 76V,Unknown,2021-03-21
+1,1,10:00 AM 2D162,,Miami (MIA),Eastern Airlines B763 (N705KW),Landed 9:46 AM,2021-03-21
+2,2,12:50 PM AR1340,,Buenos Aires (AEP),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-03-21
+3,3,5:00 PM ZP848,,Montevideo (MVD),Paranair CR2,Unknown,2021-03-21
+4,4,5:00 PM LA6023,,Montevideo (MVD),LATAM Airlines CR2,Unknown,2021-03-21
+5,5,5:10 PM ZP821,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-21
+6,6,5:10 PM LA6017,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-21
+7,7,11:00 PM QCL110,,Buenos Aires (EZE),- 72Y,Unknown,2021-03-21
+8,8,11:20 PM ZP819,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-21
+9,9,11:20 PM LA6014,,Buenos Aires (EZE),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-21
