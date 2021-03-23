@@ -1,5 +1,8 @@
-# avionesPorDia
-avionesPorDia es un bot que diariamente extrae datos de los vuelos recibidos en aeropuertos de todo el mundo de https://www.flightradar24.com/ y los tuitea. Tambien en este repositorio estaran disponibles los dataset de la informacion de cada aeropuerto. Se actualizara diariamente. 
+# Airport dataset
 
+The Airport dataset is build using data from https://www.flightradar24.com/. It provides daily information about arrivals in differents airports in the world. 
+The data may contain errors. The data from  https://www.flightradar24.com/ is not perfect. If you want new airports ask me and I will be very glad to add them.
+
+In Twitter:
 
 https://twitter.com/BotVuelos
