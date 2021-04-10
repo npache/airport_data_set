@@ -6933,3 +6933,547 @@
 65,65,10:35 PM AR1451,,Salta (SLA),Aerolineas Argentinas B738 (LV-GKT),Landed 10:29 PM,2021-03-21
 66,66,10:55 PM,AR1265,Rio de Janeiro (GIG),Aerolineas Argentinas A332 (LV-FNI),Landed 10:34 PM,2021-03-21
 67,67,11:30 PM AR1305,,Miami (MIA),Aerolineas Argentinas A332 (LV-FNK),Landed 11:04 PM,2021-03-21
+0,0,00:10 AR1861,,El Calafate (FTE),Aerolineas Argentinas B738 (LV-FUA),Landed 00:03,2021-03-22
+1,1,00:10 AR1881,,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GGK),Landed 23:39,2021-03-22
+2,2,00:15,AR1735,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-GKU),Landed 23:44,2021-03-22
+3,3,00:41 CM279,,Panama City (PTY),Copa Airlines B738 (HP-1729CMP),Landed 00:21,2021-03-22
+4,4,01:30 QCL111,,Asuncion (ASU),- 72Y,Unknown,2021-03-22
+5,5,01:45 AR1823,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B737 (LV-CBT),Landed 01:28,2021-03-22
+6,6,02:00 AR1687,,San Carlos de Bariloche (BRC),Aerolineas Argentinas B738 (LV-FVO),Landed 01:30,2021-03-22
+7,7,02:15 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 02:06,2021-03-22
+8,8,03:24,CM454,Panama City (PTY),Copa Airlines B738 (HP-1834CMP),Landed 03:00,2021-03-22
+9,9,04:40,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-GKP),Landed 04:04,2021-03-22
+10,10,04:55 QR8148,,Santiago (SCL),Qatar Cargo B77L (A7-BFA),Landed 04:29,2021-03-22
+11,11,06:05 AV87,,Bogota (BOG),Avianca A319 (N751AV),Landed 05:54,2021-03-22
+12,12,06:13 LA2565,,Lima (LIM),LATAM Airlines A320 (CC-BAC),Landed 06:07,2021-03-22
+13,13,06:50 AA907,,Miami (MIA),American Airlines B77W (N735AT),Landed 06:32,2021-03-22
+14,14,07:10,KL701,Amsterdam (AMS),KLM B789 (PH-BHI),Landed 06:58,2021-03-22
+15,15,07:20 ZP820,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-22
+16,16,07:20 LA6015,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-22
+17,17,07:40 LH510,,Frankfurt (FRA),Lufthansa B748 (D-ABYJ),Unknown,2021-03-22
+18,18,08:40,IB6841,Madrid (MAD),Iberia A359 (EC-NJM),Landed 08:03,2021-03-22
+19,19,09:20 LA8012,,Sao Paulo (GRU),LATAM Airlines 320,Unknown,2021-03-22
+20,20,09:20 AF5300,,Paris (CDG),Air France B789 (F-HRBG),Landed 08:57,2021-03-22
+21,21,09:40 AA997,,Dallas (DFW),American Airlines -,Canceled,2021-03-22
+22,22,10:25,AM28,Mexico City (MEX),Aeromexico B789 (XA-MFG),Landed 10:03,2021-03-22
+23,23,10:35,AR1651,Neuquen (NQN),Aerolineas Argentinas B738 (LV-GKS),Landed 10:16,2021-03-22
+24,24,10:36 LA475,,Santiago (SCL),LATAM Airlines A321 (CC-BEL),Landed 10:27,2021-03-22
+25,25,11:25 FO5271,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HFR),Landed 10:57,2021-03-22
+26,26,11:40 AR1843,,Rio Grande (RGA),Aerolineas Argentinas B738 (LV-FVM),Landed 11:13,2021-03-22
+27,27,12:00 AR1483,,Tucuman (TUC),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 11:23,2021-03-22
+28,28,12:00 FO5161,,Salta (SLA),Flybondi B738 (LV-HKN),Landed 11:39,2021-03-22
+29,29,12:15,AR1501,Cordoba (COR),Aerolineas Argentinas B738 (LV-GGK),Unknown,2021-03-22
+30,30,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-22
+31,31,14:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-3138),Landed 13:51,2021-03-22
+32,32,14:25 LA9571,,Miami (MIA),LATAM Airlines B789 (CC-BGB),Landed 13:47,2021-03-22
+33,33,15:50 FO5151,,Corrientes (CNQ),Flybondi B738 (LV-HFR),Landed 15:18,2021-03-22
+34,34,16:05 FO5015,,Cordoba (COR),Flybondi B738 (LV-HKN),Landed 15:58,2021-03-22
+35,35,16:07 LA2465,,Lima (LIM),LATAM Airlines A320 (CC-BFR),Landed 16:01,2021-03-22
+36,36,17:15 H2503,,Santiago (SCL),Sky Airline A20N (CC-AZR),Landed 17:14,2021-03-22
+37,37,17:56 LA477,,Santiago (SCL),LATAM Airlines 320,Unknown,2021-03-22
+38,38,19:30 ZP818,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-22
+39,39,19:30 LA6012,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Landed 19:20,2021-03-22
+40,40,20:45 FO5303,,Neuquen (NQN),Flybondi B738 (LV-HFR),Landed 20:15,2021-03-22
+41,41,21:00 ET506,,Sao Paulo (GRU),Ethiopian Airlines B788 (ET-ASI),Landed 20:36,2021-03-22
+42,42,21:25 FO5311,,Trelew (REL),Flybondi B738 (LV-HKN),Landed 20:55,2021-03-22
+43,43,23:44 M38490,,Campinas (VCP),LATAM Cargo B763 (CC-CZZ),Landed 23:29,2021-03-22
+0,0,00:11 UC1101,,Miami (MIA),LATAM Cargo B763 (N418LA),Landed 00:05,2021-03-23
+1,1,00:41 CM279,,Panama City (PTY),Copa Airlines B738 (HP-1836CMP),Landed 00:31,2021-03-23
+2,2,01:30 FO5051,,Mendoza (MDZ),Flybondi B738 (LV-HKN),Landed 05:16,2021-03-23
+3,3,02:10 AR1305,,Miami (MIA),Aerolineas Argentinas A332 (LV-FNK),Landed 01:49,2021-03-23
+4,4,03:00 QR8157,,Sao Paulo (GRU),Qatar Cargo B77L (A7-BFE),Landed 02:19,2021-03-23
+5,5,03:24 CM454,,Panama City (PTY),Copa Airlines B738 (HP-1821CMP),Landed 03:36,2021-03-23
+6,6,05:00,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FVH),Landed 05:03,2021-03-23
+7,7,06:05 AV87,,Bogota (BOG),Avianca A320,Unknown,2021-03-23
+8,8,07:10 UC1503,,Sao Paulo (GRU),LATAM Cargo B763 (N540LA),Diverted to SCL,2021-03-23
+9,9,07:25 AA907,,Miami (MIA),American Airlines B77W (N722AN),Landed 07:19,2021-03-23
+10,10,08:25,IB6841,Madrid (MAD),Iberia A332 (EC-MLP),Landed 08:36,2021-03-23
+11,11,08:50,UX41,Madrid (MAD),Air Europa B789 (EC-MSZ),Landed 08:21,2021-03-23
+12,12,09:45,LH8266,Sao Paulo (GRU),Lufthansa Cargo (Cargo Human Care Livery) B77L (D-ALFI),Landed 09:26,2021-03-23
+13,13,10:05 AA997,,Dallas (DFW),American Airlines -,Canceled,2021-03-23
+14,14,10:25,AM28,Mexico City (MEX),Aeromexico B789 (N438AM),Landed 10:22,2021-03-23
+15,15,11:05 MP6912,,Campinas (VCP),KLM Cargo B744 (PH-CKC),Landed 11:07,2021-03-23
+16,16,11:10,IB2601,Barcelona (BCN),LEVEL A332 (EC-MOU),Landed 10:59,2021-03-23
+17,17,11:25 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 11:16,2021-03-23
+18,18,11:50 FO5121,,Posadas (PSS),Flybondi B738 (LV-HFR),Landed 11:38,2021-03-23
+19,19,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion 763,Unknown,2021-03-23
+20,20,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-23
+21,21,16:06 LA2465,,Lima (LIM),LATAM Airlines A319 (CC-CPM),Landed 15:54,2021-03-23
+22,22,16:30 FO5101,,Puerto Iguazu (IGR),Flybondi B738 (LV-HKN),Landed 16:25,2021-03-23
+23,23,16:35 FO5231,,Santiago del Estero (SDE),Flybondi B738 (LV-HFR),Landed 16:18,2021-03-23
+24,24,17:08,LA8003,Sao Paulo (GRU),LATAM Airlines A321 (PT-MXE),Landed 16:51,2021-03-23
+25,25,17:50 LA477,,Santiago (SCL),LATAM Airlines A320 (CC-BAJ),Landed 17:41,2021-03-23
+26,26,19:30 ZP818,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-23
+27,27,19:30 LA6012,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Landed 19:22,2021-03-23
+28,28,21:35 FO5221,,Tucuman (TUC),Flybondi B738 (LV-HKN),Landed 21:33,2021-03-23
+29,29,22:15 TK15,,Sao Paulo (GRU),Turkish Airlines B789 (TC-LLD),Landed 21:45,2021-03-23
+30,30,22:20 FO5191,,Jujuy (JUJ),Flybondi B738 (LV-HFR),Landed 22:12,2021-03-23
+31,31,22:45 GG4541,,Miami (MIA),Sky Lease Cargo B744 (N904AR),Landed 22:17,2021-03-23
+32,32,23:44 M38492,,Campinas (VCP),LATAM Cargo B763 (PR-ABD),Landed 23:32,2021-03-23
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B738 (HP-1834CMP),Landed 00:22,2021-03-24
+1,1,01:40 FO5017,,Cordoba (COR),Flybondi B738 (LV-HKN),Landed 01:18,2021-03-24
+2,2,03:05 QR8155,,Sao Paulo (GRU),Qatar Cargo B77L (A7-BFJ),Landed 02:31,2021-03-24
+3,3,03:24 CM454,,Panama City (PTY),Copa Airlines B738 (HP-1833CMP),Landed 02:53,2021-03-24
+4,4,04:20,AR1133,Madrid (MAD),Aerolineas Argentinas 330,Canceled,2021-03-24
+5,5,06:05 AV87,,Bogota (BOG),Avianca A332 (N973AV),Landed 05:22,2021-03-24
+6,6,07:10,KL701,Amsterdam (AMS),KLM B789 (PH-BHL),Landed 07:18,2021-03-24
+7,7,07:30 AA907,,Miami (MIA),American Airlines B77W (N720AN),Landed 08:36,2021-03-24
+8,8,07:50 ZP820,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-24
+9,9,07:50 LA6015,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-24
+10,10,08:10 UA2847,,Houston (IAH),United Airlines B789 (N29975),Landed 07:57,2021-03-24
+11,11,08:50,IB6841,Madrid (MAD),Iberia A332 (EC-MMG),Landed 08:55,2021-03-24
+12,12,09:10 AA997,,Dallas (DFW),American Airlines B789,Canceled,2021-03-24
+13,13,10:22,,Santiago (SCL),- A320,Canceled,2021-03-24
+14,14,10:37 WJ3015,,Santiago (SCL),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Diverted to AEP,2021-03-24
+15,15,10:48 LA475,,Santiago (SCL),LATAM Airlines A320 (CC-BFE),Landed 10:38,2021-03-24
+16,16,11:10 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HFR),Landed 10:56,2021-03-24
+17,17,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-2925),Landed 13:46,2021-03-24
+18,18,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-24
+19,19,15:35 FO5151,,Corrientes (CNQ),Flybondi B738 (LV-HFR),Landed 15:14,2021-03-24
+20,20,17:00 FO5191,,Jujuy (JUJ),Flybondi B738 (LV-HKN),Landed 16:46,2021-03-24
+21,21,17:35 AR1325,,Punta Cana (PUJ),Aerolineas Argentinas A332 (LV-GHQ),Landed 17:40,2021-03-24
+22,22,17:56 LA477,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-03-24
+23,23,18:13 5Y33,,Miami (MIA),Atlas Air B748 (N850GT),Landed 18:07,2021-03-24
+24,24,19:30 ZP818,,Asuncion (ASU),Paranair CRJ2 (ZP-CRR),Landed 19:17,2021-03-24
+25,25,19:30 LA6012,,Asuncion (ASU),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-24
+26,26,21:10 FO5161,,Salta (SLA),Flybondi B738 (LV-HFR),Landed 21:01,2021-03-24
+27,27,22:45,LH8264,Montevideo (MVD),Lufthansa Cargo (Cargo Human Care Livery) B77L (D-ALFI),Landed 22:43,2021-03-24
+28,28,23:44 M38492,,Campinas (VCP),LATAM Cargo Brasil 76V,Scheduled,2021-03-24
+0,0,12:41 AM CM279,,Panama City (PTY),Copa Airlines B39M (HP-9904CMP),Landed 12:20 AM,2021-03-25
+1,1,2:15 AM,AR1361,Bogota (BOG),Aerolineas Argentinas A332 (LV-GKP),Landed 2:07 AM,2021-03-25
+2,2,3:24 AM,CM454,Panama City (PTY),Copa Airlines B738 (HP-1730CMP),Landed 3:01 AM,2021-03-25
+3,3,5:00 AM,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNK),Landed 4:53 AM,2021-03-25
+4,4,6:30 AM LA2565,,Lima (LIM),LATAM Airlines 320,Unknown,2021-03-25
+5,5,6:50 AM AA907,,Miami (MIA),American Airlines B77W (N722AN),Landed 7:16 AM,2021-03-25
+6,6,7:40 AM LH510,,Frankfurt (FRA),Lufthansa B748 (D-ABYQ),Landed 7:28 AM,2021-03-25
+7,7,8:20 AM UC1507,,Campinas (VCP),LATAM Cargo B763 (N532LA),Diverted to SCL,2021-03-25
+8,8,8:25 AM,IB6841,Madrid (MAD),Iberia A359 (EC-NDR),Landed 8:44 AM,2021-03-25
+9,9,8:51 AM LA8012,,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYP),Landed 8:32 AM,2021-03-25
+10,10,9:25 AM,AF228,Paris (CDG),Air France B789 (F-HRBD),Landed 9:46 AM,2021-03-25
+11,11,10:05 AM AA997,,Dallas (DFW),American Airlines -,Canceled,2021-03-25
+12,12,10:25 AM,AM28,Mexico City (MEX),Aeromexico B789 (XA-ADH),Landed 9:56 AM,2021-03-25
+13,13,10:33 AM LA475,,Santiago (SCL),LATAM Airlines A321 (CC-BEM),Landed 10:26 AM,2021-03-25
+14,14,11:50 AM FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HFR),Landed 11:21 AM,2021-03-25
+15,15,1:15 PM FO5221,,Tucuman (TUC),Flybondi B738 (LV-HKN),Landed 1:02 PM,2021-03-25
+16,16,1:55 PM LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-25
+17,17,2:00 PM OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-3138),Landed 1:58 PM,2021-03-25
+18,18,2:10 PM LA9581,,Miami (MIA),LATAM Airlines B789 (CC-BGN),Landed 1:32 PM,2021-03-25
+19,19,4:18 PM LA2465,,Lima (LIM),LATAM Airlines A320 (CC-BAC),Landed 4:10 PM,2021-03-25
+20,20,4:35 PM FO5231,,Santiago del Estero (SDE),Flybondi B738 (LV-HFR),Landed 4:02 PM,2021-03-25
+21,21,4:50 PM LA9585,,Miami (MIA),LATAM Airlines B789 (CC-BGM),Landed 3:57 PM,2021-03-25
+22,22,6:20 PM FO5101,,Puerto Iguazu (IGR),Flybondi B738 (LV-HKN),Landed 5:59 PM,2021-03-25
+23,23,7:10 PM,AR1371,Cancun (CUN),Aerolineas Argentinas A332 (LV-GHQ),Landed 6:57 PM,2021-03-25
+24,24,7:30 PM ZP818,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Landed 7:35 PM,2021-03-25
+25,25,7:30 PM LA6012,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-25
+26,26,10:20 PM FO5191,,Jujuy (JUJ),Flybondi 738,Unknown,2021-03-25
+27,27,11:05 PM FO5051,,Mendoza (MDZ),Flybondi B738 (LV-HKN),Landed 10:50 PM,2021-03-25
+28,28,11:44 PM M38494,,Campinas (VCP),LATAM Cargo Brasil 76V,Unknown,2021-03-25
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9907CMP),Landed 00:38,2021-03-26
+1,1,03:00 QR8157,,Sao Paulo (GRU),Qatar Cargo B77L (A7-BFP),Landed 04:02,2021-03-26
+2,2,03:24 CM454,,Panama City (PTY),Copa Airlines B738 (HP-1843CMP),Landed 02:57,2021-03-26
+3,3,04:20,AR1133,Madrid (MAD),Aerolineas Argentinas A332 (LV-FVH),Landed 03:45,2021-03-26
+4,4,05:00,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNL),Landed 04:56,2021-03-26
+5,5,06:05 AV87,,Bogota (BOG),Avianca A20N (N765AV),Landed 05:22,2021-03-26
+6,6,06:30,DL101,Atlanta (ATL),Delta Air Lines B763 (N1602),Landed 06:23,2021-03-26
+7,7,07:10,KL701,Amsterdam (AMS),KLM B789 (PH-BHM),Landed 07:17,2021-03-26
+8,8,07:30 AA907,,Miami (MIA),American Airlines B77W (N729AN),Landed 08:48,2021-03-26
+9,9,07:50 ZP820,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Landed 08:07,2021-03-26
+10,10,07:50 LA6015,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-26
+11,11,08:10 UA819,,Houston (IAH),United Airlines B789 (N29975),Landed 10:38,2021-03-26
+12,12,09:10 AA997,,Dallas (DFW),American Airlines B789 (N824AN),Landed 08:43,2021-03-26
+13,13,09:50 MP7341,,Campinas (VCP),Martinair Holland 74Y,Unknown,2021-03-26
+14,14,10:36 LA475,,Santiago (SCL),LATAM Airlines A321 (CC-BEM),Landed 10:28,2021-03-26
+15,15,10:40 FO5161,,Salta (SLA),Flybondi B738 (LV-HKN),Landed 10:44,2021-03-26
+16,16,11:10,IB2601,Barcelona (BCN),LEVEL A332 (EC-MOU),Landed 10:49,2021-03-26
+17,17,11:50 FO5271,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HFR),Landed 11:36,2021-03-26
+18,18,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-3138),Unknown,2021-03-26
+19,19,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-26
+20,20,15:05 FO5121,,Posadas (PSS),Flybondi B738 (LV-HKN),Landed 15:06,2021-03-26
+21,21,16:20 LA2465,,Lima (LIM),LATAM Airlines A320 (CC-BFG),Landed 16:04,2021-03-26
+22,22,16:30 FO5151,,Corrientes (CNQ),Flybondi B738 (LV-HFR),Landed 16:07,2021-03-26
+23,23,16:55 LA1959,,Miami (MIA),LATAM Airlines B789 (CC-BGJ),Landed 16:22,2021-03-26
+24,24,17:55 LA477,,Santiago (SCL),LATAM Airlines A321 (CC-BEM),Landed 17:45,2021-03-26
+25,25,18:14 JA1003,,Santiago (SCL),JetSMART (Tortuga Verde Livery) A20N (CC-AWO),Landed 18:03,2021-03-26
+26,26,20:00 FO5303,,Neuquen (NQN),Flybondi B738 (LV-HKN),Landed 19:42,2021-03-26
+27,27,21:50 FO5311,,Trelew (REL),Flybondi B738 (LV-HFR),Landed 20:52,2021-03-26
+28,28,23:44 M38496,,Campinas (VCP),LATAM Cargo Brasil 76V,Scheduled,2021-03-26
+0,0,00:05 FO5015,,Cordoba (COR),Flybondi B738 (LV-HKN),Landed 23:51,2021-03-27
+1,1,00:41 CM279,,Panama City (PTY),Copa Airlines B738 (HP-1847CMP),Landed 00:26,2021-03-27
+2,2,03:14,CM454,Panama City (PTY),Copa Airlines B738 (HP-1730CMP),Landed 02:39,2021-03-27
+3,3,06:40 UC1106,,Miami (MIA),LATAM Cargo B763 (N536LA),Landed 06:00,2021-03-27
+4,4,07:10 AA907,,Miami (MIA),American Airlines B77W (N725AN),Landed 06:59,2021-03-27
+5,5,07:40 LH510,,Frankfurt (FRA),Lufthansa B748 (D-ABYL),Landed 07:58,2021-03-27
+6,6,08:10,WK90,Zurich (ZRH),Swiss B77W (HB-JNG),Landed 18:07,2021-03-27
+7,7,08:30,IB6841,Madrid (MAD),Iberia A359 (EC-NBE),Landed 08:46,2021-03-27
+8,8,08:44 LA2565,,Lima (LIM),LATAM Airlines A320 (CC-BFV),Landed 08:31,2021-03-27
+9,9,08:50,UX41,Madrid (MAD),Air Europa B789 (EC-NEI),Landed 08:35,2021-03-27
+10,10,09:20,AF228,Paris (CDG),Air France B77W (F-GZNA),Landed 08:53,2021-03-27
+11,11,10:30 AA997,,Dallas (DFW),American Airlines -,Canceled,2021-03-27
+12,12,10:35 FO5101,,Puerto Iguazu (IGR),Flybondi B738 (LV-HKN),Landed 10:05,2021-03-27
+13,13,10:50 LA475,,Santiago (SCL),LATAM Airlines 320,Unknown,2021-03-27
+14,14,11:05 GG4871,,Miami (MIA),Sky Lease Cargo B744 (N903AR),Landed 10:52,2021-03-27
+15,15,11:10,AM28,Mexico City (MEX),Aeromexico B789 (XA-ADH),Landed 10:58,2021-03-27
+16,16,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-2925),Unknown,2021-03-27
+17,17,13:55 FO5191,,Jujuy (JUJ),Flybondi B738 (LV-HFR),Landed 13:47,2021-03-27
+18,18,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-27
+19,19,16:20 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 15:59,2021-03-27
+20,20,17:05 LA477,,Santiago (SCL),LATAM Airlines A321 (CC-BEB),Landed 16:52,2021-03-27
+21,21,17:15 H2503,,Santiago (SCL),Sky Airline A20N (CC-AZG),Landed 15:14,2021-03-27
+22,22,17:35 AR1325,,Punta Cana (PUJ),Aerolineas Argentinas A332 (LV-GKP),Landed 17:37,2021-03-27
+23,23,18:40 FO5051,,Mendoza (MDZ),Flybondi B738 (LV-HFR),Landed 18:23,2021-03-27
+24,24,19:10,AR1371,Cancun (CUN),Aerolineas Argentinas A332 (LV-FVH),Landed 19:54,2021-03-27
+25,25,19:31 LA8003,,Sao Paulo (GRU),LATAM Airlines A321 (PT-MXJ),Landed 19:10,2021-03-27
+26,26,20:05,LH8264,Montevideo (MVD),Lufthansa Cargo B77L (D-ALFC),Landed 19:49,2021-03-27
+27,27,23:45 FO5221,,Tucuman (TUC),Flybondi B738 (LV-HFR),Landed 23:53,2021-03-27
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B738 (HP-1847CMP),Landed 00:22,2021-03-28
+1,1,03:12 K4539,,Miami (MIA),Kalitta Air B744 (N710CK),Landed 03:00,2021-03-28
+2,2,03:24 CM454,,Panama City (PTY),Copa Airlines B738 (HP-1843CMP),Landed 03:06,2021-03-28
+3,3,05:00,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNL),Landed 04:36,2021-03-28
+4,4,06:30 DL3469,,Atlanta (ATL),Delta Air Lines B763,Canceled,2021-03-28
+5,5,07:05 AV87,,Bogota (BOG),Avianca A20N (N764AV),Landed 06:41,2021-03-28
+6,6,07:10,KL701,Amsterdam (AMS),KLM B789 (PH-BHF),Landed 08:27,2021-03-28
+7,7,07:50 UA819,,Houston (IAH),United Airlines B789 (N19951),Landed 09:48,2021-03-28
+8,8,08:20 AA907,,Miami (MIA),American Airlines B77W (N721AN),Landed 11:26,2021-03-28
+9,9,09:00 AA931,,Miami (MIA),American Airlines 772,Canceled,2021-03-28
+10,10,09:20 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-03-28
+11,11,10:25,AM28,Mexico City (MEX),Aeromexico B789 (XA-ADC),Landed 14:59,2021-03-28
+12,12,11:05 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HFR),Landed 10:47,2021-03-28
+13,13,11:55 FO5101,,Puerto Iguazu (IGR),Flybondi B738 (LV-HKN),Landed 11:37,2021-03-28
+14,14,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion 738,Unknown,2021-03-28
+15,15,13:48 LA475,,Santiago (SCL),LATAM Airlines A321 (CC-BEP),Landed 13:40,2021-03-28
+16,16,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-28
+17,17,15:05,AR1885,Ushuaia (USH),Aerolineas Argentinas A332 (LV-GKP),Landed 14:26,2021-03-28
+18,18,15:20 ZP820,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-28
+19,19,15:20 LA6015,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-28
+20,20,15:30 FO5121,,Posadas (PSS),Flybondi B738 (LV-HFR),Landed 15:17,2021-03-28
+21,21,16:20 FO5015,,Cordoba (COR),Flybondi B738 (LV-HKN),Landed 15:57,2021-03-28
+22,22,17:50 LA477,,Santiago (SCL),LATAM Airlines 320,Unknown,2021-03-28
+23,23,18:14 JA1005,,Santiago (SCL),JetSMART 320,Unknown,2021-03-28
+24,24,18:18 LA2465,,Lima (LIM),LATAM Airlines A320 (CC-BAD),Landed 18:05,2021-03-28
+25,25,18:50 LA9585,,Miami (MIA),LATAM Airlines B789 (CC-BGB),Landed 18:08,2021-03-28
+26,26,19:10,AR1371,Cancun (CUN),Aerolineas Argentinas A332 (LV-FNK),Landed 19:32,2021-03-28
+27,27,19:30 QCL100,,Montevideo (MVD),- 72Y,Unknown,2021-03-28
+28,28,21:05 5Y33,,Miami (MIA),Atlas Air B748 (N850GT),Landed 20:57,2021-03-28
+29,29,21:55 FO5161,,Salta (SLA),Flybondi B738 (LV-HKN),Landed 21:36,2021-03-28
+30,30,22:05 TK15,,Sao Paulo (GRU),Turkish Airlines 359,Canceled,2021-03-28
+31,31,22:10 CU360,,Havana (HAV),Cubana IL9,Unknown,2021-03-28
+32,32,23:35 GG4551,,Miami (MIA),Sky Lease Cargo B744,Scheduled,2021-03-28
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9907CMP),Landed 00:47,2021-03-29
+1,1,01:30 QCL111,,Asuncion (ASU),- 72Y,Unknown,2021-03-29
+2,2,01:30 QCL111,,Asuncion (ASU),- 72Y,Unknown,2021-03-29
+3,3,03:24,CM454,Panama City (PTY),Copa Airlines 738,Canceled,2021-03-29
+4,4,03:45 QR8148,,Santiago (SCL),Qatar Cargo B77L (A7-BFK),Landed 04:53,2021-03-29
+5,5,06:00 AF5300,,Paris (CDG),Air France B789 (F-HRBH),Landed 05:49,2021-03-29
+6,6,06:15,KL701,Amsterdam (AMS),KLM B789 (PH-BHA),Landed 06:13,2021-03-29
+7,7,06:30 LA2565,,Lima (LIM),LATAM Airlines A321 (CC-BED),Canceled,2021-03-29
+8,8,06:40 LH510,,Frankfurt (FRA),Lufthansa B748 (D-ABYS),Landed 06:31,2021-03-29
+9,9,06:50 AA907,,Miami (MIA),American Airlines B77W (N725AN),Landed 07:53,2021-03-29
+10,10,07:05 AV87,,Bogota (BOG),Avianca (Star Alliance Livery) A332 (N280AV),Landed 10:12,2021-03-29
+11,11,07:35,IB6841,Madrid (MAD),Iberia A359 (EC-NCX),Unknown,2021-03-29
+12,12,08:10 ZP820,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-29
+13,13,08:10 LA6015,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-29
+14,14,09:31 GG4551,,Miami (MIA),Sky Lease Cargo B744 (N903AR),Landed 09:32,2021-03-29
+15,15,09:40 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-03-29
+16,16,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-03-29
+17,17,10:25,AM28,Mexico City (MEX),Aeromexico B789 (XA-ADH),Canceled,2021-03-29
+18,18,10:45 LA475,,Santiago (SCL),LATAM Airlines A320 (CC-CQM),Canceled,2021-03-29
+19,19,11:25 FO5271,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 10:57,2021-03-29
+20,20,12:00 FO5161,,Salta (SLA),Flybondi B738 (LV-HFR),Landed 11:42,2021-03-29
+21,21,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-3138),Landed 14:54,2021-03-29
+22,22,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-29
+23,23,15:50 FO5151,,Corrientes (CNQ),Flybondi B738 (LV-HKN),Landed 15:29,2021-03-29
+24,24,16:05 FO5015,,Cordoba (COR),Flybondi B738 (LV-HFR),Landed 15:46,2021-03-29
+25,25,17:15 H2503,,Santiago (SCL),Sky Airline 320,Canceled,2021-03-29
+26,26,20:25,ET506,Sao Paulo (GRU),Ethiopian Airlines B788 (ET-ASH),Delayed 01:37,2021-03-29
+27,27,20:45 FO5303,,Neuquen (NQN),Flybondi B738 (LV-HKN),Landed 20:26,2021-03-29
+28,28,21:25 FO5311,,Trelew (REL),Flybondi B738 (LV-HFR),Landed 20:51,2021-03-29
+29,29,23:44 M38490,,Campinas (VCP),LATAM Cargo B763 (PR-ABD),Landed 23:40,2021-03-29
+0,0,00:10 IB6841,,Madrid (MAD),Iberia A359 (EC-NCX),Landed 00:33,2021-03-30
+1,1,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9911CMP),Canceled,2021-03-30
+2,2,01:30 FO5051,,Mendoza (MDZ),Flybondi B738 (LV-HKN),Landed 05:20,2021-03-30
+3,3,02:21 UC1101,,Miami (MIA),LATAM Cargo B763 (N534LA),Landed 02:15,2021-03-30
+4,4,03:00 QR8157,,Sao Paulo (GRU),Qatar Cargo B77L (A7-BFL),Landed 02:26,2021-03-30
+5,5,03:24 CM454,,Panama City (PTY),Copa Airlines 738,Canceled,2021-03-30
+6,6,05:00,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNL),Landed 04:42,2021-03-30
+7,7,07:05 AV87,,Bogota (BOG),Avianca A20N (N764AV),Landed 08:47,2021-03-30
+8,8,07:08 LA2565,,Lima (LIM),LATAM Airlines A321 (CC-BED),Landed 06:59,2021-03-30
+9,9,07:10 UC1503,,Sao Paulo (GRU),LATAM Cargo Chile 77F,Unknown,2021-03-30
+10,10,07:25 AA907,,Miami (MIA),American Airlines B77W (N731AN),Delayed 00:58,2021-03-30
+11,11,07:35,UX41,Madrid (MAD),Air Europa B789 (EC-NGN),Unknown,2021-03-30
+12,12,07:50 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-03-30
+13,13,08:45,LH8266,Sao Paulo (GRU),Lufthansa Cargo B77L (D-ALFD),Landed 08:29,2021-03-30
+14,14,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-03-30
+15,15,10:05,IB2601,Barcelona (BCN),LEVEL A332 (EC-MOU),Landed 10:58,2021-03-30
+16,16,10:05 MP6912,,Campinas (VCP),KLM Cargo B744 (PH-CKC),Landed 09:31,2021-03-30
+17,17,10:25,AM28,Mexico City (MEX),Aeromexico B789,Canceled,2021-03-30
+18,18,11:25 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 11:08,2021-03-30
+19,19,11:50 FO5121,,Posadas (PSS),Flybondi B738 (LV-HFR),Landed 11:43,2021-03-30
+20,20,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion 763,Unknown,2021-03-30
+21,21,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-30
+22,22,16:30 FO5101,,Puerto Iguazu (IGR),Flybondi B738 (LV-HKN),Landed 16:22,2021-03-30
+23,23,16:30 AR1067,,Moscow (SVO),Aerolineas Argentinas A332 (LV-GIF),Landed 15:31,2021-03-30
+24,24,16:35 FO5231,,Santiago del Estero (SDE),Flybondi B738 (LV-HFR),Landed 16:18,2021-03-30
+25,25,17:56 LA477,,Santiago (SCL),LATAM Airlines A320 (CC-BAJ),Canceled,2021-03-30
+26,26,20:30 ZP818,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Landed 20:24,2021-03-30
+27,27,20:30 LA6012,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-03-30
+28,28,21:35 FO5221,,Tucuman (TUC),Flybondi B738 (LV-HKN),Landed 21:47,2021-03-30
+29,29,22:00 TK15,,Sao Paulo (GRU),Turkish Airlines A359 (TC-LGC),Landed 22:40,2021-03-30
+30,30,22:20 FO5191,,Jujuy (JUJ),Flybondi B738 (LV-HFR),Landed 21:55,2021-03-30
+31,31,23:44 M38492,,Campinas (VCP),LATAM Cargo B763 (PR-ACO),Landed 23:43,2021-03-30
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9911CMP),Landed 05:59,2021-03-31
+1,1,01:40 FO5017,,Cordoba (COR),Flybondi B738 (LV-HKN),Landed 01:36,2021-03-31
+2,2,03:00 QR8155,,Sao Paulo (GRU),Qatar Cargo B77L (A7-BFT),Landed 02:28,2021-03-31
+3,3,03:24 CM454,,Panama City (PTY),Copa Airlines 738,Canceled,2021-03-31
+4,4,04:20,AR1133,Madrid (MAD),Aerolineas Argentinas A332 (LV-FVH),Landed 03:54,2021-03-31
+5,5,06:15,KL701,Amsterdam (AMS),KLM B789 (PH-BHE),Landed 08:40,2021-03-31
+6,6,06:45 AA907,,Miami (MIA),American Airlines B77W (N736AT),Landed 11:51,2021-03-31
+7,7,07:05 LA2565,,Lima (LIM),LATAM Airlines A321 (CC-BED),Canceled,2021-03-31
+8,8,07:35,IB6841,Madrid (MAD),Iberia A359 (EC-NDR),Landed 16:27,2021-03-31
+9,9,07:55 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-03-31
+10,10,08:15 UA2847,,Houston (IAH),United Airlines B789 (N36962),Landed 08:05,2021-03-31
+11,11,08:15 ZP820,,Asuncion (ASU),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-31
+12,12,08:15 LA6015,,Asuncion (ASU),Paranair CRJ2 (ZP-CRR),Unknown,2021-03-31
+13,13,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-03-31
+14,14,10:22,,Santiago (SCL),- A320,Canceled,2021-03-31
+15,15,10:28 LA475,,Santiago (SCL),LATAM Airlines A320 (CC-CQM),Canceled,2021-03-31
+16,16,10:30 LX92,,Sao Paulo (GRU),Swiss B77W (HB-JNC),Landed 10:09,2021-03-31
+17,17,10:37 WJ3015,,Santiago (SCL),JetSMART Argentina 320,Canceled,2021-03-31
+18,18,11:10 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HFR),Landed 10:46,2021-03-31
+19,19,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-3151),Landed 13:58,2021-03-31
+20,20,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-03-31
+21,21,15:35 FO5151,,Corrientes (CNQ),Flybondi B738 (LV-HFR),Landed 15:16,2021-03-31
+22,22,17:00 FO5191,,Jujuy (JUJ),Flybondi B738 (LV-HKN),Landed 16:53,2021-03-31
+23,23,17:05 5Y33,,Miami (MIA),Atlas Air B748 (N850GT),Landed 16:01,2021-03-31
+24,24,17:35 AR1325,,Punta Cana (PUJ),Aerolineas Argentinas A332 (LV-GKP),Landed 18:31,2021-03-31
+25,25,20:25,ET506,Sao Paulo (GRU),Ethiopian Airlines 788,Unknown,2021-03-31
+26,26,21:10 FO5161,,Salta (SLA),Flybondi B738 (LV-HFR),Landed 20:55,2021-03-31
+27,27,22:50,LH8264,Montevideo (MVD),Lufthansa Cargo B77L (D-ALFD),Landed 22:42,2021-03-31
+28,28,23:25,AR1245,Sao Paulo (GRU),Aerolineas Argentinas A332 (LV-FVH),Landed 23:57,2021-03-31
+29,29,23:44 M38492,,Campinas (VCP),LATAM Cargo Brasil 76V,Scheduled,2021-03-31
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9902CMP),Canceled,2021-04-01
+1,1,03:24,CM454,Panama City (PTY),Copa Airlines 738,Canceled,2021-04-01
+2,2,05:00,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNL),Landed 04:46,2021-04-01
+3,3,06:00,AF228,Paris (CDG),Air France B789 (F-HRBF),Landed 06:37,2021-04-01
+4,4,06:40 LH510,,Frankfurt (FRA),Lufthansa B748 (D-ABYL),Landed 07:00,2021-04-01
+5,5,06:50 AA931,,Miami (MIA),American Airlines B77W (N731AN),Landed 08:51,2021-04-01
+6,6,07:05 AV87,,Bogota (BOG),Avianca A20N (N764AV),Landed 10:02,2021-04-01
+7,7,07:35,IB6841,Madrid (MAD),Iberia A359 (EC-NDR),Unknown,2021-04-01
+8,8,08:02 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-04-01
+9,9,08:20 UC1507,,Campinas (VCP),LATAM Cargo Chile 77F,Unknown,2021-04-01
+10,10,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-04-01
+11,11,10:25,AM28,Mexico City (MEX),Aeromexico B789,Canceled,2021-04-01
+12,12,10:25 AR1042,,Buenos Aires (AEP),Aerolineas Argentinas B738 (LV-CXT),Landed 10:27,2021-04-01
+13,13,12:40 IB6843,,Madrid (MAD),Iberia A359 (EC-MYX),Landed 13:00,2021-04-01
+14,14,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-01
+15,15,14:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-3151),Landed 14:48,2021-04-01
+16,16,17:15 LA8132,,Sao Paulo (GRU),LATAM Airlines 320,Canceled,2021-04-01
+17,17,17:33,AR1885,Ushuaia (USH),Aerolineas Argentinas A332 (LV-FNK),Landed 17:02,2021-04-01
+18,18,17:53 LA477,,Santiago (SCL),LATAM Airlines A320 (CC-BAZ),Canceled,2021-04-01
+19,19,19:34 JA1003,,Santiago (SCL),JetSMART 320,Unknown,2021-04-01
+20,20,22:00 TK15,,Sao Paulo (GRU),Turkish Airlines 359,Unknown,2021-04-01
+21,21,23:44 M38494,,Campinas (VCP),LATAM Cargo Brasil 76V,Scheduled,2021-04-01
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9904CMP),Canceled,2021-04-02
+1,1,01:28 LA2469,,Lima (LIM),LATAM Airlines A320 (CC-BFN),Canceled,2021-04-02
+2,2,02:55 QR8157,,Sao Paulo (GRU),Qatar Cargo B77L (A7-BFB),Landed 04:29,2021-04-02
+3,3,03:00 CM454,,Panama City (PTY),Copa Airlines 738,Unknown,2021-04-02
+4,4,06:10,KL701,Amsterdam (AMS),KLM B789 (PH-BHD),Landed 04:20,2021-04-02
+5,5,06:13 LA2467,,Lima (LIM),LATAM Airlines 320,Canceled,2021-04-02
+6,6,06:30,DL101,Atlanta (ATL),Delta Air Lines B763 (N195DN),Landed 06:31,2021-04-02
+7,7,06:50 AA931,,Miami (MIA),American Airlines B772 (N761AJ),Canceled,2021-04-02
+8,8,07:35,IB6841,Madrid (MAD),Iberia 359,Unknown,2021-04-02
+9,9,07:50 UA819,,Houston (IAH),United Airlines B789 (N27964),Landed 10:55,2021-04-02
+10,10,07:50,ZP820,Asuncion (ASU),Paranair CR2,Unknown,2021-04-02
+11,11,08:10 AA997,,Dallas (DFW),American Airlines B772 (N767AJ),Unknown,2021-04-02
+12,12,09:50 MP7341,,Campinas (VCP),KLM Cargo B744 (PH-CKB),Unknown,2021-04-02
+13,13,10:15,IB2601,Barcelona (BCN),LEVEL A332 (EC-MOU),Landed 12:35,2021-04-02
+14,14,10:27 LA475,,Santiago (SCL),LATAM Airlines A320 (CC-CQO),Canceled,2021-04-02
+15,15,11:55 UC1104,,Miami (MIA),LATAM Cargo B763 (N538LA),Landed 11:36,2021-04-02
+16,16,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-02
+17,17,14:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion 738,Unknown,2021-04-02
+18,18,17:15 H2503,,Santiago (SCL),Sky Airline 320,Unknown,2021-04-02
+19,19,17:33,AR1885,Ushuaia (USH),Aerolineas Argentinas A332 (LV-FNK),Landed 16:47,2021-04-02
+20,20,17:53 LA477,,Santiago (SCL),LATAM Airlines A320 (CC-BAC),Canceled,2021-04-02
+21,21,17:56 LA1107,,Santiago (SCL),LATAM Airlines A320 (CC-BAJ),Landed 17:41,2021-04-02
+22,22,22:05,AM30,Mexico City (MEX),Aeromexico 789,Unknown,2021-04-02
+23,23,22:35 AR1283,,Santiago (SCL),Aerolineas Argentinas A332 (LV-GKP),Landed 22:19,2021-04-02
+24,24,23:44 M38496,,Campinas (VCP),LATAM Cargo Brasil 76V,Scheduled,2021-04-02
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9910CMP),Landed 02:29,2021-04-03
+1,1,03:00,CM454,Panama City (PTY),Copa Airlines 738,Unknown,2021-04-03
+2,2,04:40,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNL),Landed 04:14,2021-04-03
+3,3,06:00 AF5306,,Paris (CDG),Air France B789 (F-HRBH),Landed 06:33,2021-04-03
+4,4,06:10,AF228,Paris (CDG),Air France 789,Canceled,2021-04-03
+5,5,06:13 LA2467,,Lima (LIM),LATAM Airlines A320 (CC-BFI),Landed 08:48,2021-04-03
+6,6,06:40 LH510,,Frankfurt (FRA),Lufthansa B748 (D-ABYK),Landed 06:57,2021-04-03
+7,7,06:50 AA931,,Miami (MIA),American Airlines B772 (N756AM),Canceled,2021-04-03
+8,8,06:50 AA9707,,Miami (MIA),American Airlines 772,Canceled,2021-04-03
+9,9,07:35,IB6841,Madrid (MAD),Iberia 359,Canceled,2021-04-03
+10,10,07:35,UX41,Madrid (MAD),Air Europa B789 (EC-NGM),Landed 11:08,2021-04-03
+11,11,08:01 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-04-03
+12,12,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-04-03
+13,13,10:30 LX92,,Sao Paulo (GRU),Swiss B77W (HB-JNE),Landed 10:05,2021-04-03
+14,14,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-03
+15,15,14:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-3151),Landed 13:50,2021-04-03
+16,16,16:28 LA2429,,Lima (LIM),LATAM Airlines 320,Unknown,2021-04-03
+17,17,17:15 H2503,,Santiago (SCL),Sky Airline 320,Unknown,2021-04-03
+18,18,17:15,LA8132,Sao Paulo (GRU),LATAM Airlines 320,Unknown,2021-04-03
+19,19,17:33,AR1885,Ushuaia (USH),Aerolineas Argentinas A332 (LV-FNL),Landed 16:54,2021-04-03
+20,20,17:53 LA477,,Santiago (SCL),LATAM Airlines 320,Unknown,2021-04-03
+21,21,19:30,AR1371,Cancun (CUN),Aerolineas Argentinas A332 (LV-FNK),Landed 19:02,2021-04-03
+22,22,20:10,LH8264,Montevideo (MVD),Lufthansa Cargo B77L (D-ALFC),Landed 20:11,2021-04-03
+23,23,20:30,ZP818,Asuncion (ASU),Paranair CR2,Unknown,2021-04-03
+24,24,21:50 K4539,,Miami (MIA),Kalitta Air B744 (N710CK),Landed 21:30,2021-04-03
+25,25,22:05,AM30,Mexico City (MEX),Aeromexico 789,Unknown,2021-04-03
+26,26,23:17 AR1044,,Buenos Aires (AEP),Aerolineas Argentinas B738 (LV-FVM),Landed 23:19,2021-04-03
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9901CMP),Landed 00:25,2021-04-04
+1,1,01:28 LA2469,,Lima (LIM),LATAM Airlines A319 (CC-BCE),Canceled,2021-04-04
+2,2,03:00 CM454,,Panama City (PTY),Copa Airlines 738,Unknown,2021-04-04
+3,3,04:20,AR1133,Madrid (MAD),Aerolineas Argentinas A332 (LV-FVH),Landed 04:13,2021-04-04
+4,4,06:10,KL701,Amsterdam (AMS),KLM B789 (PH-BHG),Landed 06:16,2021-04-04
+5,5,06:30,DL101,Atlanta (ATL),Delta Air Lines B763 (N195DN),Landed 07:23,2021-04-04
+6,6,06:50 AA931,,Miami (MIA),American Airlines B772 (N756AM),Canceled,2021-04-04
+7,7,06:50 AA9707,,Miami (MIA),American Airlines B772 (N756AM),Landed 08:00,2021-04-04
+8,8,06:50 AA9818,,Miami (MIA),American Airlines 772,Canceled,2021-04-04
+9,9,07:05 AV87,,Bogota (BOG),Avianca A20N (N762AV),Canceled,2021-04-04
+10,10,07:30 IB6843,,Madrid (MAD),Iberia 359,Unknown,2021-04-04
+11,11,07:35,IB6841,Madrid (MAD),Iberia 359,Unknown,2021-04-04
+12,12,08:10 AA997,,Dallas (DFW),American Airlines B772,Canceled,2021-04-04
+13,13,08:30 UA819,,Houston (IAH),United Airlines B789 (N27964),Landed 08:20,2021-04-04
+14,14,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-04-04
+15,15,11:27 LA475,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-04
+16,16,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion 738,Unknown,2021-04-04
+17,17,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-04
+18,18,15:20,ZP820,Asuncion (ASU),Paranair CR2,Unknown,2021-04-04
+19,19,17:33,AR1885,Ushuaia (USH),Aerolineas Argentinas A332 (LV-FVH),Landed 16:54,2021-04-04
+20,20,18:55 AD9571,,Sao Paulo (GRU),Azul Linhas Aereas E195 (PR-AYW),Landed 16:59,2021-04-04
+21,21,19:30,AR1371,Cancun (CUN),Aerolineas Argentinas A332 (LV-FNK),Landed 18:48,2021-04-04
+22,22,19:30 QCL100,,Montevideo (MVD),- 72Y,Unknown,2021-04-04
+23,23,20:14 JA1005,,Santiago (SCL),JetSMART 320,Unknown,2021-04-04
+24,24,22:05 TK15,,Sao Paulo (GRU),Turkish Airlines 359,Canceled,2021-04-04
+25,25,22:05 5Y33,,Miami (MIA),Atlas Air B748 (N850GT),Diverted to MIA,2021-04-04
+26,26,22:10 CU360,,Havana (HAV),Cubana IL9,Unknown,2021-04-04
+27,27,22:35,AR1361,Bogota (BOG),Aerolineas Argentinas A332 (LV-GHQ),Landed 22:28,2021-04-04
+0,0,00:23 AR1046,,Buenos Aires (AEP),Aerolineas Argentinas B738 (LV-FVM),Landed 23:55,2021-04-05
+1,1,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9906CMP),Landed 00:27,2021-04-05
+2,2,01:30 QCL111,,Asuncion (ASU),- 72Y,Unknown,2021-04-05
+3,3,03:00,CM454,Panama City (PTY),Copa Airlines 738,Unknown,2021-04-05
+4,4,03:45 QR8148,,Santiago (SCL),Qatar Cargo B77L (A7-BFN),Landed 04:05,2021-04-05
+5,5,04:40,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNL),Landed 04:14,2021-04-05
+6,6,05:50 LA2467,,Lima (LIM),LATAM Airlines A320 (CC-BAD),Landed 06:07,2021-04-05
+7,7,06:00 AF5306,,Paris (CDG),Air France B789 (F-HRBI),Landed 05:57,2021-04-05
+8,8,06:10,KL701,Amsterdam (AMS),KLM B789 (PH-BHN),Landed 06:41,2021-04-05
+9,9,06:40 LH510,,Frankfurt (FRA),Lufthansa 74H,Canceled,2021-04-05
+10,10,06:50 AA931,,Miami (MIA),American Airlines B772 (N751AN),Landed 12:32,2021-04-05
+11,11,06:50 AA9707,,Miami (MIA),American Airlines 772,Canceled,2021-04-05
+12,12,07:05 AV87,,Bogota (BOG),Avianca A20N (N765AV),Landed 08:25,2021-04-05
+13,13,07:35,IB6841,Madrid (MAD),Iberia A359 (EC-NDR),Unknown,2021-04-05
+14,14,07:50 UA819,,Houston (IAH),United Airlines B789 (N19951),Canceled,2021-04-05
+15,15,07:50,ZP820,Asuncion (ASU),Paranair CR2,Unknown,2021-04-05
+16,16,08:01 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-04-05
+17,17,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-04-05
+18,18,10:00,LA8012,Sao Paulo (GRU),LATAM Airlines 320,Unknown,2021-04-05
+19,19,10:40,IB6841,Madrid (MAD),Iberia A359 (EC-NDR),Landed 10:37,2021-04-05
+20,20,11:27 LA475,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-05
+21,21,11:35 GG4551,,Miami (MIA),Sky Lease Cargo B744 (N903AR),Landed 11:24,2021-04-05
+22,22,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-05
+23,23,14:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion 738,Unknown,2021-04-05
+24,24,17:33,AR1885,Ushuaia (USH),Aerolineas Argentinas A332 (LV-FNL),Landed 16:47,2021-04-05
+25,25,17:35 AR1325,,Punta Cana (PUJ),Aerolineas Argentinas A332 (LV-GKP),Landed 17:59,2021-04-05
+26,26,20:25,ET506,Sao Paulo (GRU),Ethiopian Airlines B788 (ET-AOU),Landed 20:46,2021-04-05
+27,27,22:55 UC1101,,Miami (MIA),LATAM Cargo B763 (N532LA),Landed 22:27,2021-04-05
+28,28,23:44 M38490,,Campinas (VCP),LATAM Cargo B763 (PR-ABD),Landed 23:30,2021-04-05
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B738 (HP-1730CMP),Landed 00:17,2021-04-06
+1,1,02:55 QR8157,,Sao Paulo (GRU),Qatar Cargo B77L (A7-BFT),Landed 02:41,2021-04-06
+2,2,03:00 CM454,,Panama City (PTY),Copa Airlines 738,Unknown,2021-04-06
+3,3,04:40,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNK),Landed 04:20,2021-04-06
+4,4,06:50 AA931,,Miami (MIA),American Airlines B772 (N799AN),Landed 06:41,2021-04-06
+5,5,07:05 AV87,,Bogota (BOG),Avianca (Star Alliance Livery) A332 (N280AV),Landed 08:24,2021-04-06
+6,6,07:10 UC1503,,Sao Paulo (GRU),LATAM Cargo Chile 77F,Unknown,2021-04-06
+7,7,07:30 IB6843,,Madrid (MAD),Iberia A359 (EC-NDR),Canceled,2021-04-06
+8,8,07:35,UX41,Madrid (MAD),Air Europa B789 (EC-NEI),Landed 10:46,2021-04-06
+9,9,07:50 UA819,,Houston (IAH),United Airlines B789,Canceled,2021-04-06
+10,10,08:01 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-04-06
+11,11,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-04-06
+12,12,10:05 MP6912,,Campinas (VCP),KLM Cargo B744 (PH-CKB),Landed 09:30,2021-04-06
+13,13,10:15,IB2601,Barcelona (BCN),Iberia 332,Canceled,2021-04-06
+14,14,13:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion 763,Unknown,2021-04-06
+15,15,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-06
+16,16,16:28 LA2429,,Lima (LIM),LATAM Airlines 320,Unknown,2021-04-06
+17,17,17:33,AR1885,Ushuaia (USH),Aerolineas Argentinas A332 (LV-FNK),Landed 17:13,2021-04-06
+18,18,18:53 LA477,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-06
+19,19,20:30 ZP818,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Unknown,2021-04-06
+20,20,20:30 0Z818,,Asuncion (ASU),- CR2,Unknown,2021-04-06
+21,21,20:30 LA6012,,Asuncion (ASU),Paranair CRJ2 (ZP-CRS),Landed 20:23,2021-04-06
+22,22,22:00 TK15,,Sao Paulo (GRU),Turkish Airlines A359 (TC-LGB),Landed 22:40,2021-04-06
+23,23,23:44 M38492,,Campinas (VCP),LATAM Cargo B763 (PR-ACO),Landed 23:33,2021-04-06
+0,0,00:05 AR1092,,Buenos Aires (AEP),Aerolineas Argentinas B738 (LV-FVO),Landed 00:07,2021-04-07
+1,1,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9904CMP),Landed 00:24,2021-04-07
+2,2,02:55 QR8155,,Sao Paulo (GRU),Qatar Cargo B77L (A7-BFQ),Landed 02:35,2021-04-07
+3,3,03:00 CM454,,Panama City (PTY),Copa Airlines 738,Unknown,2021-04-07
+4,4,04:20,AR1133,Madrid (MAD),Aerolineas Argentinas A332 (LV-GHQ),Landed 03:39,2021-04-07
+5,5,06:10,KL701,Amsterdam (AMS),KLM B789 (PH-BHH),Landed 06:10,2021-04-07
+6,6,06:20,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNL),Landed 05:59,2021-04-07
+7,7,06:40 LA2467,,Lima (LIM),LATAM Airlines A320 (CC-BFK),Canceled,2021-04-07
+8,8,06:50 AA931,,Miami (MIA),American Airlines B772 (N751AN),Landed 11:49,2021-04-07
+9,9,07:50,0Z820,Asuncion (ASU),- CR2,Unknown,2021-04-07
+10,10,07:50 ZP820,,Asuncion (ASU),Paranair CR2,Unknown,2021-04-07
+11,11,08:01 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-04-07
+12,12,08:10 UA819,,Houston (IAH),United Airlines B789 (N24976),Canceled,2021-04-07
+13,13,08:10 UA2847,,Houston (IAH),United Airlines B789 (N24976),Landed 08:01,2021-04-07
+14,14,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-04-07
+15,15,10:30 LX92,,Sao Paulo (GRU),Swiss B77W (HB-JNE),Landed 09:54,2021-04-07
+16,16,11:27 LA475,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-07
+17,17,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-07
+18,18,14:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion 738,Unknown,2021-04-07
+19,19,16:45 5Y33,,Miami (MIA),Atlas Air B748 (N850GT),Landed 16:29,2021-04-07
+20,20,17:33,AR1885,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FVO),Landed 17:02,2021-04-07
+21,21,17:35 AR1325,,Punta Cana (PUJ),Aerolineas Argentinas A332 (LV-FVH),Landed 17:43,2021-04-07
+22,22,17:50 GG4551,,Miami (MIA),Sky Lease Cargo B744 (N903AR),Landed 17:24,2021-04-07
+23,23,21:13 AR1040,,Buenos Aires (AEP),Aerolineas Argentinas B738 (LV-FUA),Landed 21:14,2021-04-07
+24,24,21:21 AR1041,,Buenos Aires (AEP),Aerolineas Argentinas B738 (LV-GKS),Landed 21:23,2021-04-07
+25,25,22:50,LH8264,Montevideo (MVD),Lufthansa Cargo B77L (D-ALFB),Landed 22:27,2021-04-07
+26,26,23:44 M38492,,Campinas (VCP),LATAM Cargo Brasil 76V,Scheduled,2021-04-07
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines B39M (HP-9907CMP),Landed 00:11,2021-04-08
+1,1,03:00,CM454,Panama City (PTY),Copa Airlines 738,Unknown,2021-04-08
+2,2,06:00 AF5306,,Paris (CDG),Air France B789 (F-HRBE),Landed 06:13,2021-04-08
+3,3,06:40 LH510,,Frankfurt (FRA),Lufthansa B748 (D-ABYS),Landed 07:20,2021-04-08
+4,4,06:50 AA931,,Miami (MIA),American Airlines B772 (N772AN),Landed 06:32,2021-04-08
+5,5,07:05 AV87,,Bogota (BOG),Avianca (Star Alliance Livery) A332 (N280AV),Landed 08:02,2021-04-08
+6,6,08:01 AA997,,Dallas (DFW),American Airlines 772,Canceled,2021-04-08
+7,7,08:20 UC1507,,Campinas (VCP),LATAM Cargo Chile 77F,Unknown,2021-04-08
+8,8,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-04-08
+9,9,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-08
+10,10,14:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-2925),Landed 14:34,2021-04-08
+11,11,17:12 LA9460,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHW),Landed 17:06,2021-04-08
+12,12,17:15 LA8132,,Sao Paulo (GRU),LATAM Airlines 320,Unknown,2021-04-08
+13,13,17:33,AR1885,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FVO),Landed 17:10,2021-04-08
+14,14,18:53 LA477,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-08
+15,15,22:45 AR1265,,Rio de Janeiro (GIG),Aerolineas Argentinas B738 (LV-FUA),Landed 22:32,2021-04-08
+16,16,23:30 UC1104,,Miami (MIA),LATAM Cargo B763 (N540LA),Landed 21:38,2021-04-08
+17,17,23:44 M38494,,Campinas (VCP),LATAM Cargo Brasil 76V,Scheduled,2021-04-08
+0,0,00:41 CM279,,Panama City (PTY),Copa Airlines 738,Unknown,2021-04-09
+1,1,01:28 LA2469,,Lima (LIM),LATAM Airlines 320,Unknown,2021-04-09
+2,2,01:50 GG4515,,Miami (MIA),Sky Lease Cargo B744 (N903AR),Landed 01:37,2021-04-09
+3,3,02:55 QR8157,,Sao Paulo (GRU),Qatar Cargo B77L (A7-BFW),Landed 03:38,2021-04-09
+4,4,03:00 CM454,,Panama City (PTY),Copa Airlines 738,Unknown,2021-04-09
+5,5,04:40,AR1303,Miami (MIA),Aerolineas Argentinas A332 (LV-FNL),Landed 04:08,2021-04-09
+6,6,06:13 LA2467,,Lima (LIM),LATAM Airlines 320,Unknown,2021-04-09
+7,7,06:30,DL101,Atlanta (ATL),Delta Air Lines B763,Canceled,2021-04-09
+8,8,06:40,KL701,Amsterdam (AMS),KLM B789 (PH-BHI),Landed 06:55,2021-04-09
+9,9,06:50 AA931,,Miami (MIA),American Airlines B772 (N760AN),Landed 08:25,2021-04-09
+10,10,07:35,IB6841,Madrid (MAD),Iberia 359,Unknown,2021-04-09
+11,11,07:50,0Z820,Asuncion (ASU),- CR2,Unknown,2021-04-09
+12,12,07:50 ZP820,,Asuncion (ASU),Paranair CR2,Unknown,2021-04-09
+13,13,08:10 AA997,,Dallas (DFW),American Airlines B772,Canceled,2021-04-09
+14,14,08:10 AA9717,,Dallas (DFW),American Airlines B772 (N771AN),Landed 07:41,2021-04-09
+15,15,09:50 MP7341,,Campinas (VCP),Martinair Holland 74Y,Unknown,2021-04-09
+16,16,09:50 AA953,,New York (JFK),American Airlines 772,Canceled,2021-04-09
+17,17,10:40 UA819,,Houston (IAH),United Airlines B789 (N36962),Landed 10:27,2021-04-09
+18,18,12:40,IB2601,Barcelona (BCN),LEVEL A332 (EC-MOU),Landed 12:18,2021-04-09
+19,19,13:55 LA223,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-09
+20,20,14:00 OB708,,Santa Cruz (VVI),Boliviana de Aviacion B738 (CP-3138),Landed 14:07,2021-04-09
+21,21,17:33,AR1885,Ushuaia (USH),Aerolineas Argentinas A332 (LV-GKP),Landed 21:13,2021-04-09
+22,22,18:53 LA1101,,Santiago (SCL),LATAM Airlines 320,Unknown,2021-04-09
+23,23,19:30 AR1919,,El Calafate (FTE),Aerolineas Argentinas B738 (LV-FQZ),Delayed 00:29,2021-04-09
+24,24,21:19 AR1051,,Buenos Aires (AEP),Aerolineas Argentinas B738 (LV-GKU),Landed 21:21,2021-04-09
+25,25,21:35 LA1955,,Miami (MIA),LATAM Airlines B788 (CC-BBB),Landed 20:44,2021-04-09
+26,26,23:44 M38496,,Campinas (VCP),LATAM Cargo Brasil 76V,Scheduled,2021-04-09
