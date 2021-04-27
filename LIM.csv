@@ -14185,3 +14185,1806 @@
 111,111,23:00 VV391,,Tarapoto (TPP),Viva Air A320 (HK-5307),Estimated 22:31,2021-04-09
 112,112,23:35 LA2451,,Punta Cana (PUJ),LATAM Airlines A320 (CC-BFV),Canceled,2021-04-09
 113,113,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1855CMP),Estimated 23:22,2021-04-09
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N804AN),Landed 01:28,2021-04-10
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N139AN),Landed 00:08,2021-04-10
+2,2,01:25 H25363,,Iquitos (IQT),SKY Airline A20N (CC-AZD),Landed 00:58,2021-04-10
+3,3,06:00,IB6659,Madrid (MAD),Iberia A359 (EC-NCX),Landed 05:50,2021-04-10
+4,4,06:05 LA2381,,New York (JFK),LATAM Airlines B763 (CC-CXI),Landed 06:09,2021-04-10
+5,5,09:20,LA2180,Ayacucho (AYP),LATAM Airlines A320 (CC-BFJ),Landed 09:04,2021-04-10
+6,6,09:40 LA2478,,Santiago (SCL),LATAM Airlines 320,Unknown,2021-04-10
+7,7,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-10
+8,8,09:40 LA9583,,Miami (MIA),LATAM Airlines B789 (CC-BGK),Landed 11:52,2021-04-10
+9,9,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-10
+10,10,10:14 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFW),Landed 10:10,2021-04-10
+11,11,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-10
+12,12,10:20 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFI),Landed 09:54,2021-04-10
+13,13,10:30 H25006,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Unknown,2021-04-10
+14,14,10:30 H25263,,Trujillo (TRU),SKY Airline A20N (CC-AZD),Landed 10:01,2021-04-10
+15,15,10:32 LA2104,,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Landed 10:25,2021-04-10
+16,16,10:40 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-BCE),Landed 10:32,2021-04-10
+17,17,10:45 LA2468,,Buenos Aires (EZE),LATAM Airlines A320 (CC-BFK),Unknown,2021-04-10
+18,18,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-10
+19,19,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-10
+20,20,11:16 CM492,,Panama City (PTY),Copa Airlines B738 (HP-1714CMP),Landed 11:09,2021-04-10
+21,21,11:20 H25225,,Piura (PIU),SKY Airline A20N (CC-AZL),Landed 10:54,2021-04-10
+22,22,11:20 H25361,,Iquitos (IQT),SKY Airline A20N (CC-AZJ),Landed 11:02,2021-04-10
+23,23,11:21 LA2722,,Cusco (CUZ),LATAM Airlines A320 (CC-BFR),Unknown,2021-04-10
+24,24,11:25 LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BJE),Landed 11:17,2021-04-10
+25,25,11:45 LA2096,,Juliaca (JUL),LATAM Airlines A320 (CC-BFS),Landed 11:38,2021-04-10
+26,26,11:51 LA2257,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFQ),Landed 11:43,2021-04-10
+27,27,11:55 H25104,,Arequipa (AQP),Sky Airline 320,Unknown,2021-04-10
+28,28,11:56 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BJD),Landed 11:49,2021-04-10
+29,29,12:00 VV921,,Ilo (ILQ),Viva Air A320 (HK-5308),Landed 11:11,2021-04-10
+30,30,12:02 LA2333,,Tumbes (TBP),LATAM Airlines A319 (CC-CPM),Landed 11:56,2021-04-10
+31,31,12:09 LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BFT),Landed 12:04,2021-04-10
+32,32,12:18 LA2213,,Trujillo (TRU),LATAM Airlines A320 (CC-BFL),Landed 12:07,2021-04-10
+33,33,12:43 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-CPI),Landed 12:48,2021-04-10
+34,34,12:43 LA2315,,Piura (PIU),LATAM Airlines A319 (CC-CQL),Landed 12:33,2021-04-10
+35,35,12:53 LA2357,,Pucallpa (PCL),LATAM Airlines A20N (CC-BHC),Landed 12:41,2021-04-10
+36,36,13:00 LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BFN),Landed 13:08,2021-04-10
+37,37,13:00 4A101,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-10
+38,38,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-10
+39,39,13:07 LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BJF),Landed 13:00,2021-04-10
+40,40,13:20 VV923,,Ilo (ILQ),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Unknown,2021-04-10
+41,41,13:41 LA2217,,Talara (TYL),LATAM Airlines A320 (CC-BFV),Landed 13:31,2021-04-10
+42,42,13:43 LA2295,,Cajamarca (CJA),LATAM Airlines A319 (CC-CPO),Unknown,2021-04-10
+43,43,13:45 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-10
+44,44,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-10
+45,45,14:15 LA2331,,Tumbes (TBP),LATAM Airlines A320 (CC-BAD),Landed 14:08,2021-04-10
+46,46,14:25 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFH),Landed 15:39,2021-04-10
+47,47,14:25 VV912,,Arequipa (AQP),Viva Air A320 (HK-5307),Landed 14:20,2021-04-10
+48,48,14:27 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BFJ),Landed 14:18,2021-04-10
+49,49,14:35 2I4223,,Huanuco (HUU),Star Peru DH8D (N689AC),Landed 14:22,2021-04-10
+50,50,14:43 LA2062,,Cusco (CUZ),LATAM Airlines A320 (CC-BFI),Landed 14:31,2021-04-10
+51,51,14:45 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BFO),Landed 14:39,2021-04-10
+52,52,14:59 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFG),Landed 15:03,2021-04-10
+53,53,15:00 LA2525,,Cusco (CUZ),LATAM Airlines 320,Unknown,2021-04-10
+54,54,15:15 H25210,,Ayacucho (AYP),SKY Airline A20N (CC-AZJ),Landed 15:07,2021-04-10
+55,55,15:35 H25164,,Juliaca (JUL),Sky Airline A20N (CC-AZI),Diverted to JUL,2021-04-10
+56,56,15:40 H25106,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 15:43,2021-04-10
+57,57,15:50 4A4012,,Tullahoma (AYX),Aerodynamics BE1,Unknown,2021-04-10
+58,58,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-10
+59,59,16:10 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFW),Landed 16:02,2021-04-10
+60,60,16:26 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFK),Landed 16:19,2021-04-10
+61,61,16:35 H25012,,Cusco (CUZ),Sky Airline 320,Unknown,2021-04-10
+62,62,16:45 H25323,,Tumbes (TBP),SKY Airline A20N (CC-AZL),Landed 16:22,2021-04-10
+63,63,16:45 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFT),Landed 16:38,2021-04-10
+64,64,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-10
+65,65,16:55 AA379,,Miami (MIA),American Airlines A321 (N141NN),Landed 16:48,2021-04-10
+66,66,17:05,LA2124,Arequipa (AQP),LATAM Airlines A320 (CC-BFS),Landed 16:32,2021-04-10
+67,67,17:27 LA2279,,Chiclayo (CIX),LATAM Airlines A319 (CC-CPI),Landed 17:31,2021-04-10
+68,68,17:30,LA2064,Cusco (CUZ),LATAM Airlines A320 (CC-BFL),Landed 16:57,2021-04-10
+69,69,17:30 QT601,,Medellin (MDE),Avianca Cargo 33F,Unknown,2021-04-10
+70,70,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-10
+71,71,17:45 NC860,,Miami (MIA),Northern Air Cargo B763 (N321CM),Landed 17:39,2021-04-10
+72,72,17:48 LA2641,,Tarapoto (TPP),LATAM Airlines A319 (CC-CQL),Landed 17:42,2021-04-10
+73,73,17:50 VV101,,Chiclayo (CIX),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Unknown,2021-04-10
+74,74,18:00,DL151,Atlanta (ATL),Delta Air Lines B763 (N177DZ),Landed 18:38,2021-04-10
+75,75,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-10
+76,76,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVF),Landed 18:01,2021-04-10
+77,77,18:15,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BJD),Landed 17:50,2021-04-10
+78,78,18:38,,Bogota (BOG),- A320,Canceled,2021-04-10
+79,79,18:40 LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BFV),Landed 18:34,2021-04-10
+80,80,18:55,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BJF),Landed 18:18,2021-04-10
+81,81,19:10 VH316,,Bogota (BOG),Viva Air A320 (HK-5320),Landed 18:50,2021-04-10
+82,82,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A320 (CC-BAD),Landed 19:02,2021-04-10
+83,83,19:29 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFG),Landed 19:15,2021-04-10
+84,84,19:30,LA2233,Iquitos (IQT),LATAM Airlines A319 (CC-BCE),Landed 19:07,2021-04-10
+85,85,19:30 X82262,,Miami (MIA),Icaro 76Y,Unknown,2021-04-10
+86,86,19:44 LA2215,,Talara (TYL),LATAM Airlines A319 (CC-CPM),Landed 19:36,2021-04-10
+87,87,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZJ),Landed 19:24,2021-04-10
+88,88,19:57 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFO),Landed 19:44,2021-04-10
+89,89,20:00 VV919,,Arequipa (AQP),Viva Air A320 (HK-5308),Landed 19:41,2021-04-10
+90,90,20:35 H25142,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 20:23,2021-04-10
+91,91,20:40 AA1307,,Miami (MIA),American Airlines A321 (N910AU),Landed 20:27,2021-04-10
+92,92,20:45 H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 20:54,2021-04-10
+93,93,20:53,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BFJ),Landed 20:48,2021-04-10
+94,94,20:55 H25411,,Tarapoto (TPP),SKY Airline A20N (CC-AZJ),Unknown,2021-04-10
+95,95,20:55,LA2447,Bogota (BOG),LATAM Airlines A20N (CC-BHB),Landed 20:43,2021-04-10
+96,96,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-10
+97,97,21:20 LA2415,,Guayaquil (GYE),LATAM Airlines A320 (CC-BFN),Landed 21:15,2021-04-10
+98,98,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CWF),Landed 21:12,2021-04-10
+99,99,21:20 M38488,,Manaus (MAO),LATAM Cargo B763 (PR-ABB),Delayed 23:48,2021-04-10
+100,100,21:40,AM18,Mexico City (MEX),Aeromexico B738 (XA-AMJ),Landed 21:46,2021-04-10
+101,101,22:15 LA2376,,Santiago (SCL),LATAM Airlines 789,Scheduled,2021-04-10
+102,102,22:19 AA917,,Miami (MIA),American Airlines B788 (N817AN),Estimated 22:07,2021-04-10
+103,103,22:30,B61825,Fort Lauderdale (FLL),JetBlue Airways A21N (N2084J),Delayed 23:07,2021-04-10
+104,104,23:00,UA854,Houston (IAH),United Airlines B763 (N651UA),Delayed 23:43,2021-04-10
+105,105,23:00 EF5139,,Bogota (BOG),- 737,Scheduled,2021-04-10
+106,106,23:02 AC7257,,Toronto (YYZ),Air Canada A333 (C-GOFW),Estimated 22:44,2021-04-10
+107,107,23:10 VV421,,Iquitos (IQT),Viva Air A320 (HK-5307),Estimated 22:50,2021-04-10
+108,108,23:13 LA2457,,Cancun (CUN),LATAM Airlines A319 (CC-BCF),Estimated 23:24,2021-04-10
+109,109,23:19 LA2451,,Punta Cana (PUJ),LATAM Airlines A319 (CC-CYJ),Estimated 23:24,2021-04-10
+110,110,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1539CMP),Estimated 23:11,2021-04-10
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N872AN),Landed 00:14,2021-04-11
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N931AM),Landed 00:02,2021-04-11
+2,2,01:25 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Landed 01:21,2021-04-11
+3,3,03:35 UC8488,,Bogota (BOG),LATAM Cargo B763 (PR-ABB),Unknown,2021-04-11
+4,4,04:25 KE274,,Santiago (SCL),Korean Air Cargo B77L (HL8252),Landed 05:20,2021-04-11
+5,5,06:17 LA2401,,La Paz (LPB),LATAM Airlines A320 (CC-BFM),Landed 06:10,2021-04-11
+6,6,06:30 4L321,,Bogota (BOG),Palau National Airlines 72F,Unknown,2021-04-11
+7,7,07:26 LA2407,,Santa Cruz (VVI),LATAM Airlines A319 (CC-CQL),Landed 07:10,2021-04-11
+8,8,07:50 H2802,,Santiago (SCL),Sky Airline 320,Unknown,2021-04-11
+9,9,08:45 4A4052,,Andahuaylas (ANS),Aerodynamics BE1,Unknown,2021-04-11
+10,10,09:20 LA2180,,Ayacucho (AYP),LATAM Airlines A320 (CC-BFK),Unknown,2021-04-11
+11,11,09:30 M62260,,Miami (MIA),Amerijet International B762,Unknown,2021-04-11
+12,12,09:40 LA2478,,Santiago (SCL),LATAM Airlines A319,Unknown,2021-04-11
+13,13,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-11
+14,14,09:50 LA2088,,Juliaca (JUL),LATAM Airlines A319 (CC-CPM),Canceled,2021-04-11
+15,15,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-11
+16,16,10:08 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFI),Landed 10:01,2021-04-11
+17,17,10:14 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFJ),Unknown,2021-04-11
+18,18,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-11
+19,19,10:30 H25006,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 09:55,2021-04-11
+20,20,10:30 H25263,,Trujillo (TRU),Sky Airline 320,Unknown,2021-04-11
+21,21,10:30 MP7762,,Campinas (VCP),KLM Cargo B744 (PH-CKA),Landed 11:03,2021-04-11
+22,22,10:38 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-CYJ),Landed 10:31,2021-04-11
+23,23,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-11
+24,24,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-11
+25,25,11:08 LA2018,,Cusco (CUZ),LATAM Airlines A319 (CC-CPI),Landed 10:56,2021-04-11
+26,26,11:20 H25225,,Piura (PIU),SKY Airline A20N (CC-AZL),Landed 10:50,2021-04-11
+27,27,11:20 H25361,,Iquitos (IQT),SKY Airline A20N (CC-AZJ),Landed 11:00,2021-04-11
+28,28,11:55 H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 11:29,2021-04-11
+29,29,12:03 LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BFH),Landed 11:53,2021-04-11
+30,30,12:20 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFN),Canceled,2021-04-11
+31,31,12:40 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-CPM),Landed 12:45,2021-04-11
+32,32,12:45 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BAD),Landed 12:35,2021-04-11
+33,33,12:53 LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BJE),Landed 13:01,2021-04-11
+34,34,13:00 VV151,,Juliaca (JUL),Viva Air A320 (HK-5308),Landed 12:41,2021-04-11
+35,35,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-11
+36,36,13:10 VV715,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 12:52,2021-04-11
+37,37,13:20 LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BJF),Canceled,2021-04-11
+38,38,13:30 LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BFP),Canceled,2021-04-11
+39,39,13:37 LA2667,,Jaen (JAE),LATAM Airlines A320 (CC-BFG),Landed 13:35,2021-04-11
+40,40,13:42 LA2217,,Talara (TYL),LATAM Airlines A319 (CC-BCE),Landed 13:32,2021-04-11
+41,41,13:44 LA2295,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFK),Landed 13:27,2021-04-11
+42,42,13:45 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-11
+43,43,13:53 LA2574,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-CQL),Landed 13:41,2021-04-11
+44,44,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-11
+45,45,14:00 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFP),Landed 14:13,2021-04-11
+46,46,14:05 LA2225,,Trujillo (TRU),LATAM Airlines A319 (CC-CPM),Canceled,2021-04-11
+47,47,14:24 LA2331,,Tumbes (TBP),LATAM Airlines A320 (CC-BFM),Landed 14:17,2021-04-11
+48,48,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-11
+49,49,14:41 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BFQ),Landed 14:36,2021-04-11
+50,50,14:47 LA2600,,Tacna (TCQ),LATAM Airlines A319 (CC-CPO),Landed 14:48,2021-04-11
+51,51,15:15 QT601,,Miami (MIA),Avianca Cargo 33F,Unknown,2021-04-11
+52,52,15:45 H25227,,Piura (PIU),Sky Airline A20N (CC-AZI),Landed 15:16,2021-04-11
+53,53,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-11
+54,54,15:57 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFI),Landed 15:48,2021-04-11
+55,55,16:02,LA2124,Arequipa (AQP),LATAM Airlines A319 (CC-CPI),Landed 15:54,2021-04-11
+56,56,16:05 LA2219,,Talara (TYL),LATAM Airlines A320 (CC-BFJ),Landed 15:59,2021-04-11
+57,57,16:30,LA2393,Bogota (BOG),LATAM Airlines A320 (CC-BFS),Landed 16:15,2021-04-11
+58,58,16:33 LA2359,,Pucallpa (PCL),LATAM Airlines A20N (CC-BHG),Landed 16:26,2021-04-11
+59,59,16:35 H25012,,Cusco (CUZ),Sky Airline 320,Unknown,2021-04-11
+60,60,16:40,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BFH),Landed 16:05,2021-04-11
+61,61,16:45 H25323,,Tumbes (TBP),Sky Airline 320,Canceled,2021-04-11
+62,62,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-11
+63,63,16:55 AA379,,Miami (MIA),American Airlines A321 (N908AA),Landed 17:16,2021-04-11
+64,64,17:00 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFI),Canceled,2021-04-11
+65,65,17:17,,Medellin (EOH),- A320,Unknown,2021-04-11
+66,66,17:22 LA2279,,Chiclayo (CIX),LATAM Airlines A319 (CC-CPM),Landed 17:22,2021-04-11
+67,67,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-11
+68,68,17:46 VH360,,Medellin (MDE),Viva Air A20N (HK-5352),Landed 17:19,2021-04-11
+69,69,17:47 LA2335,,Tumbes (TBP),LATAM Airlines A319 (CC-CYJ),Landed 17:39,2021-04-11
+70,70,18:00,DL151,Atlanta (ATL),Delta Air Lines B763 (N1200K),Landed 18:20,2021-04-11
+71,71,18:00 LA2148,,Arequipa (AQP),LATAM Airlines A320 (CC-BAD),Canceled,2021-04-11
+72,72,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-11
+73,73,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVI),Landed 18:07,2021-04-11
+74,74,18:05 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BJF),Canceled,2021-04-11
+75,75,18:15,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BFG),Canceled,2021-04-11
+76,76,18:16 NC862,,Miami (MIA),Northern Air Cargo B763 (N321CM),Landed 17:59,2021-04-11
+77,77,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5307),Landed 17:56,2021-04-11
+78,78,18:44 LA2665,,Jaen (JAE),LATAM Airlines A319 (CC-BCE),Landed 18:41,2021-04-11
+79,79,18:55,LA2064,Cusco (CUZ),LATAM Airlines A320 (CC-BFO),Landed 18:47,2021-04-11
+80,80,18:59,LA2144,Arequipa (AQP),LATAM Airlines A320 (CC-BFG),Landed 18:31,2021-04-11
+81,81,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A320 (CC-BFK),Landed 18:57,2021-04-11
+82,82,19:25 LA2255,,Tarapoto (TPP),LATAM Airlines A319 (CC-CPO),Landed 19:12,2021-04-11
+83,83,19:30,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BAD),Unknown,2021-04-11
+84,84,19:30 X82260,,Miami (MIA),Icaro 76Y,Unknown,2021-04-11
+85,85,19:50 H25425,,Pucallpa (PCL),Sky Airline A20N (CC-AZI),Landed 19:15,2021-04-11
+86,86,19:50 5Y56,,Campinas (VCP),Atlas Air 74F,Unknown,2021-04-11
+87,87,20:00 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFH),Canceled,2021-04-11
+88,88,20:00 VV851,,Arequipa (AQP),Viva Air A320 (HK-5308),Landed 19:35,2021-04-11
+89,89,20:10,LA2020,Cusco (CUZ),LATAM Airlines A319 (CC-CQL),Landed 19:40,2021-04-11
+90,90,20:30,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BFM),Landed 20:05,2021-04-11
+91,91,20:40 AA1307,,Miami (MIA),American Airlines A321 (N992AU),Canceled,2021-04-11
+92,92,20:45 H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZD),Landed 20:13,2021-04-11
+93,93,20:55 H25411,,Tarapoto (TPP),Sky Airline 320,Unknown,2021-04-11
+94,94,20:55,LA2447,Bogota (BOG),LATAM Airlines A320 (CC-BFV),Landed 20:40,2021-04-11
+95,95,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-11
+96,96,21:17 LA2439,,Quito (UIO),LATAM Airlines A20N (CC-BHA),Landed 21:07,2021-04-11
+97,97,21:20 H25142,,Arequipa (AQP),SKY Airline A20N (CC-AZL),Landed 21:00,2021-04-11
+98,98,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXJ),Landed 21:14,2021-04-11
+99,99,21:25,LA2311,Piura (PIU),LATAM Airlines A319 (CC-CPI),Landed 21:03,2021-04-11
+100,100,21:30 LA2459,,Cancun (CUN),LATAM Airlines A319 (CC-BCF),Landed 21:48,2021-04-11
+101,101,21:40,AM18,Mexico City (MEX),Aeromexico B738 (XA-AMN),Landed 21:31,2021-04-11
+102,102,22:15 LA2376,,Santiago (SCL),LATAM Airlines B789,Scheduled,2021-04-11
+103,103,22:15 LA2471,,Mexico City (MEX),LATAM Airlines B763 (CC-CWV),Estimated 22:09,2021-04-11
+104,104,22:19 AA917,,Miami (MIA),American Airlines B788 (N808AN),Scheduled,2021-04-11
+105,105,22:25 H25363,,Iquitos (IQT),SKY Airline A20N (CC-AZJ),Landed 21:55,2021-04-11
+106,106,22:35 AC7257,,Toronto (YYZ),Air Canada A333 (C-GOFW),Delayed 22:56,2021-04-11
+107,107,23:00 VV391,,Tarapoto (TPP),Viva Air A320 (HK-5307),Estimated 22:24,2021-04-11
+108,108,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1535CMP),Estimated 23:18,2021-04-11
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N813AN),Landed 00:46,2021-04-12
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N147AA),Landed 01:55,2021-04-12
+2,2,04:25 KE274,,Santiago (SCL),Korean Air Cargo B77L (HL8005),Landed 05:12,2021-04-12
+3,3,06:00,IB6659,Madrid (MAD),Iberia A359 (EC-NDR),Landed 06:06,2021-04-12
+4,4,06:05 LA2381,,New York (JFK),LATAM Airlines B763 (CC-CXG),Landed 06:20,2021-04-12
+5,5,07:15,LA2477,Los Angeles (LAX),LATAM Airlines B763 (CC-CXI),Landed 07:03,2021-04-12
+6,6,07:35 LA2370,,Santiago (SCL),LATAM Airlines 320,Unknown,2021-04-12
+7,7,07:50 H2802,,Santiago (SCL),Sky Airline 320,Unknown,2021-04-12
+8,8,09:10,LA2180,Ayacucho (AYP),LATAM Airlines A319 (CC-BCF),Landed 09:08,2021-04-12
+9,9,09:24 JA402,,Santiago (SCL),JetSMART 320,Unknown,2021-04-12
+10,10,09:40,LA2010,Cusco (CUZ),LATAM Airlines A319 (CC-CYJ),Landed 09:04,2021-04-12
+11,11,09:40 LA2478,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-12
+12,12,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-12
+13,13,09:50,LA2088,Juliaca (JUL),LATAM Airlines A320 (CC-BFM),Landed 09:28,2021-04-12
+14,14,10:00 VV707,,Cusco (CUZ),Viva Air Peru 320,Unknown,2021-04-12
+15,15,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-12
+16,16,10:14 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFN),Landed 10:14,2021-04-12
+17,17,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-12
+18,18,10:20 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BAD),Landed 09:42,2021-04-12
+19,19,10:20 LA2468,,Buenos Aires (EZE),LATAM Airlines A320 (CC-BFK),Canceled,2021-04-12
+20,20,10:30 H25263,,Trujillo (TRU),Sky Airline 32N,Canceled,2021-04-12
+21,21,10:38 LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BFK),Landed 10:23,2021-04-12
+22,22,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-12
+23,23,10:49 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-BCE),Landed 10:41,2021-04-12
+24,24,11:00 LA2162,,Tacna (TCQ),LATAM Airlines A320 (CC-BFP),Landed 10:59,2021-04-12
+25,25,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-12
+26,26,11:14 LA2221,,Talara (TYL),LATAM Airlines A319 (CC-CPM),Landed 11:08,2021-04-12
+27,27,11:20 H25361,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Landed 10:52,2021-04-12
+28,28,11:41 LA2096,,Juliaca (JUL),LATAM Airlines A320 (CC-BFG),Landed 11:43,2021-04-12
+29,29,11:55 H25104,,Arequipa (AQP),Sky Airline 320,Unknown,2021-04-12
+30,30,12:04 LA2333,,Tumbes (TBP),LATAM Airlines A319 (CC-CPO),Landed 11:54,2021-04-12
+31,31,12:07 LA2012,,Cusco (CUZ),LATAM Airlines A20N (CC-BHG),Landed 11:59,2021-04-12
+32,32,12:11 LA2029,,Cusco (CUZ),LATAM Airlines A320 (CC-BFL),Landed 12:02,2021-04-12
+33,33,12:11 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFV),Landed 12:06,2021-04-12
+34,34,12:20 LA2257,,Tarapoto (TPP),LATAM Airlines A320 (CC-BJD),Landed 12:14,2021-04-12
+35,35,12:45 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFT),Landed 12:33,2021-04-12
+36,36,12:47 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BJE),Landed 12:52,2021-04-12
+37,37,12:49 VH316,,Bogota (BOG),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 12:25,2021-04-12
+38,38,12:55 LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFO),Landed 12:49,2021-04-12
+39,39,12:55 VV151,,Juliaca (JUL),Viva Air A320 (HK-5307),Landed 12:31,2021-04-12
+40,40,13:00 4A101,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-12
+41,41,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-12
+42,42,13:06 LA2164,,Tacna (TCQ),LATAM Airlines A319 (CC-CPI),Landed 13:12,2021-04-12
+43,43,13:08 LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BFW),Landed 13:00,2021-04-12
+44,44,13:10 4A4002,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-12
+45,45,13:16 LA2213,,Trujillo (TRU),LATAM Airlines A320 (CC-BFU),Landed 13:05,2021-04-12
+46,46,13:20 H25602,,Cusco (CUZ),SKY Airline A20N (CC-AZD),Landed 13:25,2021-04-12
+47,47,13:45 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-12
+48,48,13:45 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-12
+49,49,13:50 VV101,,Chiclayo (CIX),Viva Air A320 (HK-5308),Landed 13:08,2021-04-12
+50,50,13:51 LA2667,,Jaen (JAE),LATAM Airlines A320 (CC-BFQ),Landed 13:47,2021-04-12
+51,51,13:53 LA2018,,Cusco (CUZ),LATAM Airlines A319 (CC-CYJ),Landed 13:54,2021-04-12
+52,52,13:53 LA2295,,Cajamarca (CJA),LATAM Airlines A319 (CC-BCF),Landed 13:36,2021-04-12
+53,53,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-12
+54,54,14:11 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFF),Landed 14:22,2021-04-12
+55,55,14:13 LA2331,,Tumbes (TBP),LATAM Airlines A320 (CC-BFJ),Landed 14:04,2021-04-12
+56,56,14:30 4A501,,Talara (TYL),Aerodynamics DH4,Unknown,2021-04-12
+57,57,14:31 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BFM),Landed 14:28,2021-04-12
+58,58,14:35 2I4223,,Huanuco (HUU),Star Peru DH8D (N689AC),Landed 14:10,2021-04-12
+59,59,14:46 LA2094,,Juliaca (JUL),LATAM Airlines A320 (CC-BFR),Landed 14:34,2021-04-12
+60,60,14:51 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BJF),Landed 14:53,2021-04-12
+61,61,15:00 QT605,,Bogota (BOG),Avianca Cargo 33F,Unknown,2021-04-12
+62,62,15:21 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BFH),Landed 15:11,2021-04-12
+63,63,15:35 H25164,,Juliaca (JUL),SKY Airline A20N (CC-AZJ),Landed 15:31,2021-04-12
+64,64,15:41 LA2417,,Guayaquil (GYE),LATAM Airlines A319 (CC-CQL),Landed 15:37,2021-04-12
+65,65,15:45 H25227,,Piura (PIU),SKY Airline A20N (CC-AZL),Landed 15:24,2021-04-12
+66,66,15:55 LA2219,,Talara (TYL),LATAM Airlines A320 (CC-BFK),Landed 15:48,2021-04-12
+67,67,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-12
+68,68,16:14,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BJD),Landed 16:06,2021-04-12
+69,69,16:15 PU301,,Madrid (MAD),Plus Ultra A343 (EC-MQM),Landed 17:58,2021-04-12
+70,70,16:22 LA2574,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-CPM),Landed 16:19,2021-04-12
+71,71,16:34 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BAD),Landed 16:24,2021-04-12
+72,72,16:35 H25012,,Cusco (CUZ),Sky Airline 320,Unknown,2021-04-12
+73,73,16:44 LA2124,,Arequipa (AQP),LATAM Airlines A319 (CC-BCE),Landed 16:38,2021-04-12
+74,74,16:45 H25323,,Tumbes (TBP),Sky Airline A20N (CC-AZI),Landed 16:29,2021-04-12
+75,75,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-12
+76,76,16:49 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFG),Landed 16:42,2021-04-12
+77,77,16:55 AA379,,Miami (MIA),American Airlines A321 (N907AA),Unknown,2021-04-12
+78,78,16:57 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFP),Landed 16:54,2021-04-12
+79,79,17:03 LA2064,,Cusco (CUZ),LATAM Airlines A320 (CC-BFV),Landed 16:57,2021-04-12
+80,80,17:27 LA2279,,Chiclayo (CIX),LATAM Airlines A319 (CC-CPI),Landed 17:27,2021-04-12
+81,81,17:44 LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BFL),Landed 17:40,2021-04-12
+82,82,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-12
+83,83,17:47,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BFW),Landed 17:34,2021-04-12
+84,84,17:49 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFU),Landed 17:43,2021-04-12
+85,85,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-12
+86,86,18:05,KL743,Amsterdam (AMS),KLM (Orange Pride‬ Livery) B77W (PH-BVA),Landed 18:26,2021-04-12
+87,87,18:14 VV711,,Cusco (CUZ),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 18:12,2021-04-12
+88,88,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5307),Landed 18:01,2021-04-12
+89,89,18:32 LA2665,,Jaen (JAE),LATAM Airlines A319 (CC-CPO),Landed 18:30,2021-04-12
+90,90,18:38,,Bogota (BOG),- A320,Canceled,2021-04-12
+91,91,18:45,LA2144,Arequipa (AQP),LATAM Airlines A320 (CC-BFQ),Landed 18:38,2021-04-12
+92,92,18:50,LA2277,Chiclayo (CIX),LATAM Airlines A319 (CC-BCF),Landed 18:49,2021-04-12
+93,93,19:18 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFJ),Landed 19:06,2021-04-12
+94,94,19:26,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BFF),Landed 19:20,2021-04-12
+95,95,19:48 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFM),Landed 19:35,2021-04-12
+96,96,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZJ),Landed 19:28,2021-04-12
+97,97,19:51 LA2215,,Talara (TYL),LATAM Airlines A320 (CC-BJF),Landed 19:44,2021-04-12
+98,98,20:00,LA2020,Cusco (CUZ),LATAM Airlines A319 (CC-CYJ),Landed 19:53,2021-04-12
+99,99,20:00 VV851,,Arequipa (AQP),Viva Air A320 (HK-5308),Landed 19:48,2021-04-12
+100,100,20:35,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BFH),Landed 20:21,2021-04-12
+101,101,20:40 AA1307,,Miami (MIA),American Airlines A321 (N996AN),Landed 20:52,2021-04-12
+102,102,20:45 H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 20:08,2021-04-12
+103,103,20:55 H25411,,Tarapoto (TPP),SKY Airline A20N (CC-AZD),Landed 20:35,2021-04-12
+104,104,20:55,LA2447,Bogota (BOG),LATAM Airlines A320 (CC-BFN),Landed 20:42,2021-04-12
+105,105,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-12
+106,106,21:20 H25142,,Arequipa (AQP),Sky Airline A20N (CC-AZI),Landed 21:01,2021-04-12
+107,107,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CWY),Landed 21:40,2021-04-12
+108,108,21:40,AM18,Mexico City (MEX),Aeromexico B738 (N958AM),Landed 21:34,2021-04-12
+109,109,22:15 LA2391,,Santiago (SCL),LATAM Airlines B763,Scheduled,2021-04-12
+110,110,22:19 AA917,,Miami (MIA),American Airlines B788 (N804AN),Estimated 22:16,2021-04-12
+111,111,22:25 H25363,,Iquitos (IQT),Sky Airline 320,Scheduled,2021-04-12
+112,112,22:30,B61825,Fort Lauderdale (FLL),JetBlue Airways A21N (N2027J),Delayed 00:28,2021-04-12
+113,113,23:00,UA854,Houston (IAH),United Airlines B763 (N657UA),Delayed 23:16,2021-04-12
+114,114,23:00 VV391,,Tarapoto (TPP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Estimated 22:33,2021-04-12
+115,115,23:30 LA2457,,Cancun (CUN),LATAM Airlines A320,Scheduled,2021-04-12
+116,116,23:38 CM337,,Panama City (PTY),Copa Airlines (Star Alliance Livery) B738 (HP-1728CMP),Estimated 23:13,2021-04-12
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N817AN),Landed 00:31,2021-04-13
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N139AN),Landed 00:14,2021-04-13
+2,2,01:34,CM760,Panama City (PTY),Copa Airlines B738 (HP-1721CMP),Landed 01:22,2021-04-13
+3,3,05:10,UX175,Madrid (MAD),Air Europa B789 (EC-NCY),Landed 05:41,2021-04-13
+4,4,06:00,IB6659,Madrid (MAD),Iberia A332 (EC-MLP),Landed 06:02,2021-04-13
+5,5,07:15,LA2477,Los Angeles (LAX),LATAM Airlines B763 (CC-CWV),Landed 07:07,2021-04-13
+6,6,07:35 LA2370,,Santiago (SCL),LATAM Airlines A319,Unknown,2021-04-13
+7,7,09:20,LA2180,Ayacucho (AYP),LATAM Airlines A319 (CC-BCE),Landed 09:02,2021-04-13
+8,8,09:40,LA2010,Cusco (CUZ),LATAM Airlines A319 (CC-CYJ),Landed 08:58,2021-04-13
+9,9,09:40 LA2478,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-13
+10,10,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-13
+11,11,09:50,LA2088,Juliaca (JUL),LATAM Airlines A320 (CC-BJE),Landed 09:25,2021-04-13
+12,12,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-13
+13,13,10:10 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFJ),Landed 10:06,2021-04-13
+14,14,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-13
+15,15,10:19 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFT),Landed 10:12,2021-04-13
+16,16,10:30 H25006,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 10:15,2021-04-13
+17,17,10:30 H25263,,Trujillo (TRU),SKY Airline A20N (CC-AZL),Landed 11:48,2021-04-13
+18,18,10:39 LA2104,,Arequipa (AQP),LATAM Airlines A319 (CC-CPI),Landed 10:28,2021-04-13
+19,19,10:40 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-BCF),Landed 10:34,2021-04-13
+20,20,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-13
+21,21,10:46 LA2162,,Tacna (TCQ),LATAM Airlines A320 (CC-BJF),Landed 10:42,2021-04-13
+22,22,11:01 LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BFG),Landed 10:52,2021-04-13
+23,23,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-13
+24,24,11:20 H25225,,Piura (PIU),SKY Airline A20N (CC-AZJ),Landed 10:47,2021-04-13
+25,25,11:20 H25361,,Iquitos (IQT),SKY Airline A20N (CC-AZD),Landed 10:58,2021-04-13
+26,26,11:23 LA2221,,Talara (TYL),LATAM Airlines A320 (CC-BFO),Landed 11:18,2021-04-13
+27,27,11:50 LA2257,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFF),Landed 11:45,2021-04-13
+28,28,11:55 H25104,,Arequipa (AQP),Sky Airline 320,Canceled,2021-04-13
+29,29,12:42 LA2315,,Piura (PIU),LATAM Airlines A319 (CC-CPM),Landed 12:33,2021-04-13
+30,30,12:50 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BFP),Landed 12:55,2021-04-13
+31,31,13:00 LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BAD),Landed 12:51,2021-04-13
+32,32,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-13
+33,33,13:25 VV945,,Cajamarca (CJA),Viva Air A320 (HK-5307),Landed 14:12,2021-04-13
+34,34,13:42 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFN),Unknown,2021-04-13
+35,35,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-13
+36,36,14:00 LA2295,,Cajamarca (CJA),LATAM Airlines A319 (CC-CYJ),Landed 13:44,2021-04-13
+37,37,14:26 LA2331,,Tumbes (TBP),LATAM Airlines A319 (CC-CQL),Landed 14:20,2021-04-13
+38,38,14:27 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFH),Landed 14:43,2021-04-13
+39,39,14:30 VV717,,Cusco (CUZ),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 14:02,2021-04-13
+40,40,14:32 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BFL),Landed 14:24,2021-04-13
+41,41,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-13
+42,42,14:36 LA2590,,Arequipa (AQP),LATAM Airlines A319 (CC-BCE),Landed 14:28,2021-04-13
+43,43,14:51 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BJE),Landed 14:59,2021-04-13
+44,44,14:56 LA2062,,Cusco (CUZ),LATAM Airlines A320 (CC-BFT),Landed 14:47,2021-04-13
+45,45,15:15 H25210,,Ayacucho (AYP),SKY Airline A20N (CC-AZJ),Landed 15:05,2021-04-13
+46,46,15:18 LA2016,,Cusco (CUZ),LATAM Airlines A319 (CC-CPO),Unknown,2021-04-13
+47,47,15:45 H25227,,Piura (PIU),SKY Airline A20N (CC-AZD),Landed 15:28,2021-04-13
+48,48,15:45 VV715,,Cusco (CUZ),Viva Air A320 (HK-5308),Landed 15:23,2021-04-13
+49,49,15:50 4A4012,,Tullahoma (AYX),Aerodynamics BE1,Unknown,2021-04-13
+50,50,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-13
+51,51,16:02 LA2219,,Talara (TYL),LATAM Airlines A319 (CC-BCF),Landed 15:57,2021-04-13
+52,52,16:20 H25106,,Arequipa (AQP),SKY Airline A20N (CC-AZL),Landed 16:39,2021-04-13
+53,53,16:30,LA2393,Bogota (BOG),LATAM Airlines A20N (CC-BHB),Landed 16:19,2021-04-13
+54,54,16:35 H25012,,Cusco (CUZ),Sky Airline A20N (CC-AZR),Landed 16:09,2021-04-13
+55,55,16:35 LA2124,,Arequipa (AQP),LATAM Airlines A320 (CC-BFG),Landed 16:26,2021-04-13
+56,56,16:37 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFF),Landed 16:29,2021-04-13
+57,57,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-13
+58,58,16:55 AA379,,Miami (MIA),American Airlines A321 (N145AN),Landed 16:31,2021-04-13
+59,59,16:56 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFJ),Landed 16:56,2021-04-13
+60,60,17:30,LA2064,Cusco (CUZ),LATAM Airlines A319 (CC-CPI),Landed 17:04,2021-04-13
+61,61,17:42 LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BJF),Landed 17:33,2021-04-13
+62,62,17:44 LA2279,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFN),Landed 17:46,2021-04-13
+63,63,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-13
+64,64,17:55 5Y32,,Campinas (VCP),Atlas Air B748 (N850GT),Delayed 23:22,2021-04-13
+65,65,18:00,DL151,Atlanta (ATL),Delta Air Lines B764 (N834MH),Landed 18:06,2021-04-13
+66,66,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-13
+67,67,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVN),Landed 18:51,2021-04-13
+68,68,18:15,LA2014,Cusco (CUZ),LATAM Airlines A319 (CC-CPM),Landed 17:29,2021-04-13
+69,69,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5307),Landed 18:40,2021-04-13
+70,70,18:36,,Bogota (BOG),- A320,Canceled,2021-04-13
+71,71,18:42 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFP),Landed 18:33,2021-04-13
+72,72,18:48 LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BAD),Landed 18:47,2021-04-13
+73,73,18:59,LA2144,Arequipa (AQP),LATAM Airlines A320 (CC-BFM),Landed 18:27,2021-04-13
+74,74,19:10 VH316,,Bogota (BOG),Viva Air A20N (HK-5353),Landed 18:36,2021-04-13
+75,75,19:15,LA2229,Trujillo (TRU),LATAM Airlines A320 (CC-BFL),Landed 18:55,2021-04-13
+76,76,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A319 (CC-CYJ),Landed 18:59,2021-04-13
+77,77,19:22 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFH),Landed 19:10,2021-04-13
+78,78,19:30,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BFO),Landed 19:30,2021-04-13
+79,79,19:44 LA2309,,Piura (PIU),LATAM Airlines A319 (CC-CQL),Landed 19:33,2021-04-13
+80,80,19:50 H25425,,Pucallpa (PCL),Sky Airline A20N (CC-AZI),Landed 19:36,2021-04-13
+81,81,20:00 VV421,,Iquitos (IQT),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 19:39,2021-04-13
+82,82,20:35 H25142,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 20:14,2021-04-13
+83,83,20:40 AA1307,,Miami (MIA),American Airlines A321 (N164NN),Landed 20:19,2021-04-13
+84,84,20:45 H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZJ),Landed 20:09,2021-04-13
+85,85,20:49 LA2453,,Punta Cana (PUJ),LATAM Airlines A320 (CC-BFK),Landed 20:42,2021-04-13
+86,86,20:55 H25411,,Tarapoto (TPP),SKY Airline A20N (CC-AZL),Landed 20:50,2021-04-13
+87,87,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-13
+88,88,21:15,LA2142,Arequipa (AQP),LATAM Airlines A319 (CC-BCE),Landed 20:45,2021-04-13
+89,89,21:45 AR1364,,Buenos Aires (AEP),Aerolineas Argentinas B738 (LV-FUC),Landed 21:15,2021-04-13
+90,90,22:07 K4539,,Miami (MIA),Kalitta Air B744 (N710CK),Estimated 22:06,2021-04-13
+91,91,22:15 LA2391,,Santiago (SCL),LATAM Airlines B763,Scheduled,2021-04-13
+92,92,22:19 AA917,,Miami (MIA),American Airlines B788 (N812AA),Landed 22:04,2021-04-13
+93,93,22:25 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZR),Estimated 22:11,2021-04-13
+94,94,23:00 VV391,,Tarapoto (TPP),Viva Air Peru 320,Scheduled,2021-04-13
+95,95,23:00 EF5139,,Bogota (BOG),- 737,Scheduled,2021-04-13
+96,96,23:30 LA2457,,Cancun (CUN),LATAM Airlines A320,Scheduled,2021-04-13
+97,97,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1721CMP),Estimated 23:22,2021-04-13
+0,0,12:20 AM AA909,,Dallas (DFW),American Airlines B788 (N809AA),Landed 12:08 AM,2021-04-14
+1,1,12:24 AM,AA385,Miami (MIA),American Airlines A321 (N142AN),Landed 12:05 AM,2021-04-14
+2,2,1:06 AM 5Y32,,Campinas (VCP),Atlas Air B748 (N850GT),Diverted to MIA,2021-04-14
+3,3,1:34 AM,CM760,Panama City (PTY),Copa Airlines B738 (HP-1716CMP),Landed 1:14 AM,2021-04-14
+4,4,4:30 AM 4L321,,Bogota (BOG),Palau National Airlines 72F,Unknown,2021-04-14
+5,5,5:40 AM LA2461,,Miami (MIA),LATAM Airlines B763 (CC-CXC),Landed 5:28 AM,2021-04-14
+6,6,6:00 AM,IB6659,Madrid (MAD),Iberia A332 (EC-MIL),Landed 6:12 AM,2021-04-14
+7,7,6:05 AM LA2381,,New York (JFK),LATAM Airlines B763 (CC-CXI),Landed 5:57 AM,2021-04-14
+8,8,7:29 AM LA2407,,Santa Cruz (VVI),LATAM Airlines A320 (CC-BFM),Landed 7:13 AM,2021-04-14
+9,9,7:35 AM LA2370,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-14
+10,10,7:50 AM H2802,,Santiago (SCL),Sky Airline 320,Unknown,2021-04-14
+11,11,8:21 AM GG4551,,Miami (MIA),Sky Lease Cargo B744 (N903AR),Landed 8:02 AM,2021-04-14
+12,12,8:44 AM JA402,,Santiago (SCL),JetSMART 320,Unknown,2021-04-14
+13,13,8:45 AM 4A4052,,Andahuaylas (ANS),Aerodynamics BE1,Unknown,2021-04-14
+14,14,9:20 AM,LA2180,Ayacucho (AYP),LATAM Airlines A319 (CC-BCE),Landed 9:06 AM,2021-04-14
+15,15,9:20 AM L71835,,Miami (MIA),LATAM Cargo B763 (N532LA),Landed 8:26 AM,2021-04-14
+16,16,9:40 AM,LA2010,Cusco (CUZ),LATAM Airlines A319 (CC-CYJ),Landed 8:59 AM,2021-04-14
+17,17,9:40 AM LA2478,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-14
+18,18,9:40 AM 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-14
+19,19,10:00 AM 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-14
+20,20,10:09 AM LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFH),Landed 10:08 AM,2021-04-14
+21,21,10:15 AM 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-14
+22,22,10:20 AM LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFI),Landed 9:59 AM,2021-04-14
+23,23,10:30 AM M62260,,Miami (MIA),Amerijet International B762,Unknown,2021-04-14
+24,24,10:39 AM LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BFG),Landed 10:38 AM,2021-04-14
+25,25,10:45 AM 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-14
+26,26,10:53 AM LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-CPM),Landed 10:46 AM,2021-04-14
+27,27,11:05 AM 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-14
+28,28,11:07 AM LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BFJ),Landed 10:58 AM,2021-04-14
+29,29,11:18 AM LA2170,,Ilo (ILQ),LATAM Airlines A319 (CC-CPI),Landed 11:10 AM,2021-04-14
+30,30,11:20 AM H25225,,Piura (PIU),SKY Airline A20N (CC-AZJ),Landed 10:55 AM,2021-04-14
+31,31,11:20 AM H25361,,Iquitos (IQT),Sky Airline A20N (CC-AZR),Landed 11:03 AM,2021-04-14
+32,32,11:33 AM LA2363,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFS),Landed 11:29 AM,2021-04-14
+33,33,11:40 AM VV853,,Arequipa (AQP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 11:16 AM,2021-04-14
+34,34,11:49 AM LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BFQ),Landed 11:41 AM,2021-04-14
+35,35,11:55 AM H25104,,Arequipa (AQP),Sky Airline A20N (CC-AZI),Landed 11:33 AM,2021-04-14
+36,36,11:56 AM LA2257,,Tarapoto (TPP),LATAM Airlines A319 (CC-CQL),Landed 11:51 AM,2021-04-14
+37,37,11:59 AM LA2096,,Juliaca (JUL),LATAM Airlines A319 (CC-CPO),Landed 11:54 AM,2021-04-14
+38,38,12:00 PM VV921,,Ilo (ILQ),Viva Air A320 (HK-5307),Landed 12:15 PM,2021-04-14
+39,39,12:10 PM LA2333,,Tumbes (TBP),LATAM Airlines A320 (CC-BFK),Unknown,2021-04-14
+40,40,12:40 PM LA2213,,Trujillo (TRU),LATAM Airlines A320 (CC-BJF),Landed 12:12 PM,2021-04-14
+41,41,12:42 PM LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFL),Landed 12:31 PM,2021-04-14
+42,42,12:47 PM LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFF),Landed 12:43 PM,2021-04-14
+43,43,12:56 PM LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BJD),Landed 12:48 PM,2021-04-14
+44,44,12:59 PM LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BFV),Landed 12:59 PM,2021-04-14
+45,45,1:03 PM LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BFN),Landed 1:09 PM,2021-04-14
+46,46,1:05 PM 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-14
+47,47,1:20 PM H25602,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 1:14 PM,2021-04-14
+48,48,1:41 PM LA2217,,Talara (TYL),LATAM Airlines A320 (CC-BFP),Landed 1:29 PM,2021-04-14
+49,49,1:45 PM 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-14
+50,50,1:45 PM 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-14
+51,51,1:55 PM LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-14
+52,52,1:59 PM LA2295,,Cajamarca (CJA),LATAM Airlines A319 (CC-CYJ),Landed 1:43 PM,2021-04-14
+53,53,2:08 PM LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFM),Landed 2:26 PM,2021-04-14
+54,54,2:20 PM LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BFW),Landed 2:14 PM,2021-04-14
+55,55,2:24 PM LA2313,,Piura (PIU),LATAM Airlines A20N (CC-BHC),Landed 2:16 PM,2021-04-14
+56,56,2:35 PM 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-14
+57,57,2:46 PM LA2062,,Cusco (CUZ),LATAM Airlines A320 (CC-BFI),Landed 2:36 PM,2021-04-14
+58,58,2:47 PM LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFO),Landed 2:50 PM,2021-04-14
+59,59,2:55 PM H25409,,Tarapoto (TPP),Sky Airline 320,Unknown,2021-04-14
+60,60,3:15 PM H25210,,Ayacucho (AYP),Sky Airline A20N (CC-AZR),Landed 3:08 PM,2021-04-14
+61,61,3:15 PM QT601,,Miami (MIA),Avianca Cargo 33F,Unknown,2021-04-14
+62,62,3:55 PM LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFG),Landed 3:49 PM,2021-04-14
+63,63,3:55 PM 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-14
+64,64,4:20 PM H25106,,Arequipa (AQP),SKY Airline A20N (CC-AZJ),Landed 3:58 PM,2021-04-14
+65,65,4:30 PM X82260,,Miami (MIA),Icaro 76Y,Unknown,2021-04-14
+66,66,4:35 PM H25012,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 4:19 PM,2021-04-14
+67,67,4:35 PM LA2124,,Arequipa (AQP),LATAM Airlines A319 (CC-CPO),Landed 4:24 PM,2021-04-14
+68,68,4:37 PM LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFH),Landed 4:29 PM,2021-04-14
+69,69,4:45 PM 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-14
+70,70,4:50 PM LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFQ),Landed 4:42 PM,2021-04-14
+71,71,4:50 PM VV951,,Tacna (TCQ),Viva Air Peru 320,Unknown,2021-04-14
+72,72,4:55 PM AA379,,Miami (MIA),American Airlines A321 (N904AA),Landed 4:38 PM,2021-04-14
+73,73,5:02 PM LA2468,,Buenos Aires (EZE),LATAM Airlines A320 (CC-BFT),Landed 4:44 PM,2021-04-14
+74,74,5:08 PM LA2064,,Cusco (CUZ),LATAM Airlines A319 (CC-CPM),Landed 4:59 PM,2021-04-14
+75,75,5:16 PM,,Medellin (EOH),- A320,Canceled,2021-04-14
+76,76,5:29 PM LA2279,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFN),Landed 5:27 PM,2021-04-14
+77,77,5:33 PM LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BJE),Landed 5:24 PM,2021-04-14
+78,78,5:45 PM 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-14
+79,79,5:45 PM NC860,,Miami (MIA),Northern Air Cargo B763 (N379CX),Landed 3:46 PM,2021-04-14
+80,80,5:46 PM VH360,,Medellin (MDE),Viva Air A20N (HK-5352),Landed 5:13 PM,2021-04-14
+81,81,5:51 PM LA2148,,Arequipa (AQP),LATAM Airlines A320 (CC-BFV),Landed 5:40 PM,2021-04-14
+82,82,5:53 PM LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BJF),Landed 5:53 PM,2021-04-14
+83,83,5:56 PM LA2014,,Cusco (CUZ),LATAM Airlines A320 (CC-BFL),Landed 5:37 PM,2021-04-14
+84,84,6:00 PM 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-14
+85,85,6:05 PM,KL743,Amsterdam (AMS),KLM B77W (PH-BVG),Landed 6:06 PM,2021-04-14
+86,86,6:30 PM VV907,,Cusco (CUZ),Viva Air A320 (HK-5308),Landed 6:13 PM,2021-04-14
+87,87,6:36 PM,,Bogota (BOG),- A320,Canceled,2021-04-14
+88,88,6:40 PM LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BFP),Landed 6:34 PM,2021-04-14
+89,89,6:45 PM 5Y64,,Campinas (VCP),Atlas Air B744 (N418MC),Diverted to UIO,2021-04-14
+90,90,6:46 PM LA2229,,Trujillo (TRU),LATAM Airlines A319 (CC-BCE),Landed 6:38 PM,2021-04-14
+91,91,6:57 PM LA2144,,Arequipa (AQP),LATAM Airlines A320 (CC-BFK),Landed 6:51 PM,2021-04-14
+92,92,7:10 PM LA2277,,Chiclayo (CIX),LATAM Airlines A320 (CC-BJD),Landed 7:07 PM,2021-04-14
+93,93,7:10 PM VH316,,Bogota (BOG),Viva Air A20N (HK-5353),Landed 6:42 PM,2021-04-14
+94,94,7:21 PM LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFO),Landed 7:11 PM,2021-04-14
+95,95,7:36 PM LA2233,,Iquitos (IQT),LATAM Airlines A320 (CC-BFM),Landed 7:41 PM,2021-04-14
+96,96,7:50 PM H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZD),Landed 7:29 PM,2021-04-14
+97,97,7:51 PM LA2215,,Talara (TYL),LATAM Airlines A319 (CC-CQL),Landed 7:45 PM,2021-04-14
+98,98,8:00 PM LA2309,,Piura (PIU),LATAM Airlines A319 (CC-CYJ),Landed 7:37 PM,2021-04-14
+99,99,8:00 PM VV919,,Arequipa (AQP),Viva Air A320 (HK-5307),Landed 7:53 PM,2021-04-14
+100,100,8:35 PM,LA2142,Arequipa (AQP),LATAM Airlines A319 (CC-CPI),Landed 8:07 PM,2021-04-14
+101,101,8:40 PM AA1307,,Miami (MIA),American Airlines A321 (N907AA),Landed 8:17 PM,2021-04-14
+102,102,8:45 PM H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 8:02 PM,2021-04-14
+103,103,8:55 PM H25289,,Trujillo (TRU),Sky Airline A20N (CC-AZI),Landed 8:20 PM,2021-04-14
+104,104,8:55 PM,LA2447,Bogota (BOG),LATAM Airlines A319 (CC-BCF),Landed 8:33 PM,2021-04-14
+105,105,8:55 PM 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-14
+106,106,9:08 PM LA2439,,Quito (UIO),LATAM Airlines A320 (CC-BFJ),Landed 8:56 PM,2021-04-14
+107,107,9:20 PM H25142,,Arequipa (AQP),Sky Airline A20N (CC-AZR),Landed 9:00 PM,2021-04-14
+108,108,9:20 PM LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CWY),Landed 9:03 PM,2021-04-14
+109,109,9:30 PM LA2459,,Cancun (CUN),LATAM Airlines A320 (CC-BAD),Unknown,2021-04-14
+110,110,9:40 PM,AM18,Mexico City (MEX),Aeromexico B738 (XA-AMO),Landed 9:41 PM,2021-04-14
+111,111,9:58 PM LA2471,,Mexico City (MEX),LATAM Airlines B763 (CC-CXI),Landed 9:54 PM,2021-04-14
+112,112,10:19 PM AA917,,Miami (MIA),American Airlines B788 (N815AA),Landed 11:43 PM,2021-04-14
+113,113,11:00 PM,UA854,Houston (IAH),United Airlines B763 (N655UA),Landed 10:54 PM,2021-04-14
+114,114,11:05 PM H25363,,Iquitos (IQT),SKY Airline A20N (CC-AZJ),Landed 10:46 PM,2021-04-14
+115,115,11:35 PM LA2451,,Punta Cana (PUJ),LATAM Airlines 320,Unknown,2021-04-14
+116,116,11:38 PM CM337,,Panama City (PTY),Copa Airlines B738 (HP-1721CMP),Landed 11:23 PM,2021-04-14
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N801AC),Landed 00:28,2021-04-15
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N151AN),Landed 23:50,2021-04-15
+2,2,01:34,CM760,Panama City (PTY),Copa Airlines B738 (HP-1857CMP),Landed 00:59,2021-04-15
+3,3,06:00,IB6659,Madrid (MAD),Iberia A332 (EC-MMG),Landed 06:21,2021-04-15
+4,4,07:15,LA2477,Los Angeles (LAX),LATAM Airlines B763 (CC-CWV),Landed 06:57,2021-04-15
+5,5,07:35 LA2370,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-15
+6,6,07:50 LA2374,,Asuncion (ASU),LATAM Airlines A320 (CC-BFV),Landed 07:43,2021-04-15
+7,7,09:03,LA2180,Ayacucho (AYP),LATAM Airlines A320 (CC-BJE),Landed 08:55,2021-04-15
+8,8,09:40,LA2010,Cusco (CUZ),LATAM Airlines A320 (CC-BFL),Landed 09:07,2021-04-15
+9,9,09:40 LA2478,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-04-15
+10,10,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-15
+11,11,09:50,LA2088,Juliaca (JUL),LATAM Airlines A320 (CC-BFJ),Landed 09:38,2021-04-15
+12,12,10:00 VV707,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 09:32,2021-04-15
+13,13,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-15
+14,14,10:13 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFN),Landed 10:12,2021-04-15
+15,15,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-15
+16,16,10:20 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BAD),Landed 09:49,2021-04-15
+17,17,10:30 H25006,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 10:05,2021-04-15
+18,18,10:30 H25263,,Trujillo (TRU),SKY Airline A20N (CC-AZJ),Landed 09:56,2021-04-15
+19,19,10:31 LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BFM),Landed 10:25,2021-04-15
+20,20,10:43 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-CQL),Landed 10:29,2021-04-15
+21,21,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-15
+22,22,10:54 LA2162,,Tacna (TCQ),LATAM Airlines A319 (CC-CYJ),Landed 10:55,2021-04-15
+23,23,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-15
+24,24,11:14 LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BFK),Landed 11:06,2021-04-15
+25,25,11:20 H25225,,Piura (PIU),Sky Airline A20N (CC-AZR),Landed 10:58,2021-04-15
+26,26,11:20 H25361,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Landed 11:10,2021-04-15
+27,27,11:44 LA2363,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFF),Landed 11:39,2021-04-15
+28,28,11:55 H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 11:41,2021-04-15
+29,29,11:59 LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BJF),Landed 11:50,2021-04-15
+30,30,12:00 LA2333,,Tumbes (TBP),LATAM Airlines A320 (CC-BFO),Landed 11:53,2021-04-15
+31,31,12:04 LA2257,,Tarapoto (TPP),LATAM Airlines A319 (CC-CPO),Landed 11:58,2021-04-15
+32,32,12:40 LA2213,,Trujillo (TRU),LATAM Airlines A319 (CC-CPM),Landed 12:05,2021-04-15
+33,33,12:42 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFH),Landed 12:31,2021-04-15
+34,34,13:00 VV151,,Juliaca (JUL),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 12:38,2021-04-15
+35,35,13:00 4A101,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-15
+36,36,13:03 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A20N (CC-BHG),Landed 13:08,2021-04-15
+37,37,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-15
+38,38,13:08 LA2016,,Cusco (CUZ),LATAM Airlines A319 (CC-BCE),Landed 13:05,2021-04-15
+39,39,13:10 4A4002,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-15
+40,40,13:11 LA2164,,Tacna (TCQ),LATAM Airlines A319 (CC-CPI),Landed 13:21,2021-04-15
+41,41,13:20 VV101,,Chiclayo (CIX),Viva Air A320 (HK-5308),Landed 13:13,2021-04-15
+42,42,13:46 LA2667,,Jaen (JAE),LATAM Airlines A319 (CC-BCF),Landed 13:39,2021-04-15
+43,43,13:47 LA2217,,Talara (TYL),LATAM Airlines A320 (CC-BFS),Landed 13:34,2021-04-15
+44,44,13:49 LA2295,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFL),Landed 13:29,2021-04-15
+45,45,13:50 LA2225,,Trujillo (TRU),LATAM Airlines A320 (CC-BFQ),Unknown,2021-04-15
+46,46,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-15
+47,47,14:14 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BJE),Landed 14:04,2021-04-15
+48,48,14:14 LA2331,,Tumbes (TBP),LATAM Airlines A320 (CC-BFI),Landed 14:08,2021-04-15
+49,49,14:25 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFG),Landed 14:21,2021-04-15
+50,50,14:35 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BFJ),Landed 14:27,2021-04-15
+51,51,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-15
+52,52,14:50 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFP),Landed 14:56,2021-04-15
+53,53,15:15 H25210,,Ayacucho (AYP),Sky Airline A20N (CC-AZI),Landed 14:59,2021-04-15
+54,54,15:35 H25164,,Juliaca (JUL),SKY Airline A20N (CC-AZJ),Landed 15:25,2021-04-15
+55,55,15:45 H25227,,Piura (PIU),SKY Airline A20N (CC-AZL),Landed 15:18,2021-04-15
+56,56,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-15
+57,57,16:05 LA2275,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFN),Landed 15:55,2021-04-15
+58,58,16:15 LA2098,,Juliaca (JUL),LATAM Airlines A319 (CC-CYJ),Landed 15:52,2021-04-15
+59,59,16:25 LA2219,,Talara (TYL),LATAM Airlines A320 (CC-BFM),Landed 15:48,2021-04-15
+60,60,16:35 H25012,,Cusco (CUZ),SKY Airline A20N (CC-AZD),Landed 16:17,2021-04-15
+61,61,16:40,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BFO),Landed 16:05,2021-04-15
+62,62,16:42 LA2124,,Arequipa (AQP),LATAM Airlines A320 (CC-BFK),Landed 16:32,2021-04-15
+63,63,16:45 H25323,,Tumbes (TBP),Sky Airline A20N (CC-AZR),Landed 16:08,2021-04-15
+64,64,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-15
+65,65,16:55 AA379,,Miami (MIA),American Airlines A321 (N164NN),Landed 16:46,2021-04-15
+66,66,17:00 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BAD),Landed 16:28,2021-04-15
+67,67,17:04 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFF),Landed 16:55,2021-04-15
+68,68,17:24 LA2279,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFH),Landed 17:22,2021-04-15
+69,69,17:30,LA2064,Cusco (CUZ),LATAM Airlines A320 (CC-BFT),Landed 17:40,2021-04-15
+70,70,17:34 LA2641,,Tarapoto (TPP),LATAM Airlines A319 (CC-CPM),Landed 17:27,2021-04-15
+71,71,17:42 LA2148,,Arequipa (AQP),LATAM Airlines A319 (CC-CPO),Landed 17:35,2021-04-15
+72,72,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-15
+73,73,17:53 LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BJF),Unknown,2021-04-15
+74,74,18:00,DL151,Atlanta (ATL),Delta Air Lines B764 (N831MH),Landed 18:04,2021-04-15
+75,75,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-15
+76,76,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVO),Landed 18:18,2021-04-15
+77,77,18:12 LA2193,,Jauja (JAU),LATAM Airlines A319 (CC-CPI),Landed 18:08,2021-04-15
+78,78,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5308),Landed 18:01,2021-04-15
+79,79,18:30 VV421,,Iquitos (IQT),Viva Air A320 (HK-5307),Landed 18:22,2021-04-15
+80,80,18:33,,Bogota (BOG),- A320,Canceled,2021-04-15
+81,81,18:46 LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BFL),Landed 18:39,2021-04-15
+82,82,18:59,LA2144,Arequipa (AQP),LATAM Airlines A320 (CC-BFQ),Landed 18:30,2021-04-15
+83,83,19:10 VH316,,Bogota (BOG),Viva Air A20N (HK-5368),Landed 18:34,2021-04-15
+84,84,19:20 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFG),Landed 19:04,2021-04-15
+85,85,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A319 (CC-BCE),Landed 18:58,2021-04-15
+86,86,19:30,LA2233,Iquitos (IQT),LATAM Airlines A319 (CC-BCF),Landed 19:10,2021-04-15
+87,87,19:44 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFJ),Landed 19:32,2021-04-15
+88,88,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZJ),Landed 19:52,2021-04-15
+89,89,20:00 VV851,,Arequipa (AQP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 19:44,2021-04-15
+90,90,20:10,LA2020,Cusco (CUZ),LATAM Airlines A320 (CC-BJE),Landed 19:46,2021-04-15
+91,91,20:10 L71807,,Miami (MIA),LATAM Cargo B763 (N418LA),Landed 19:48,2021-04-15
+92,92,20:35 H25142,,Arequipa (AQP),Sky Airline A20N (CC-AZI),Landed 20:20,2021-04-15
+93,93,20:40 AA1307,,Miami (MIA),American Airlines A321 (N988AL),Landed 20:35,2021-04-15
+94,94,20:45 H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 20:17,2021-04-15
+95,95,20:55 H25411,,Tarapoto (TPP),SKY Airline A20N (CC-AZD),Landed 20:29,2021-04-15
+96,96,20:55,LA2447,Bogota (BOG),LATAM Airlines A319 (CC-CQL),Landed 20:40,2021-04-15
+97,97,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-15
+98,98,21:15,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BFM),Landed 20:49,2021-04-15
+99,99,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXF),Landed 20:57,2021-04-15
+100,100,21:25 LA2453,,Punta Cana (PUJ),LATAM Airlines 320,Scheduled,2021-04-15
+101,101,22:15 LA2391,,Santiago (SCL),LATAM Airlines B763,Scheduled,2021-04-15
+102,102,22:15 LA2481,,Santiago (SCL),LATAM Airlines B763 (CC-CWV),Landed 21:53,2021-04-15
+103,103,22:19 AA917,,Miami (MIA),American Airlines B788 (N815AA),Delayed 22:48,2021-04-15
+104,104,22:25 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZR),Estimated 22:05,2021-04-15
+105,105,22:30,B61825,Fort Lauderdale (FLL),JetBlue Airways A21N (N2016J),Delayed 23:33,2021-04-15
+106,106,22:50,LA8039,Sao Paulo (GRU),LATAM Airlines 320,Canceled,2021-04-15
+107,107,23:00,UA854,Houston (IAH),United Airlines B763 (N648UA),Estimated 23:13,2021-04-15
+108,108,23:00 VV391,,Tarapoto (TPP),Viva Air A320 (HK-5307),Estimated 22:33,2021-04-15
+109,109,23:00 EF5139,,Bogota (BOG),- 737,Scheduled,2021-04-15
+110,110,23:30 LA2457,,Cancun (CUN),LATAM Airlines A320,Scheduled,2021-04-15
+111,111,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1727CMP),Estimated 23:18,2021-04-15
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B789 (N829AN),Landed 01:51,2021-04-16
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N161AA),Landed 00:02,2021-04-16
+2,2,01:30 M62260,,Miami (MIA),Amerijet International B762,Unknown,2021-04-16
+3,3,01:34 CM760,,Panama City (PTY),Copa Airlines B738 (HP-1522CMP),Landed 00:58,2021-04-16
+4,4,04:25 KE274,,Santiago (SCL),Korean Air Cargo B77L (HL8077),Landed 05:13,2021-04-16
+5,5,06:00,IB6659,Madrid (MAD),Iberia (Madrid Livery) A332 (EC-MJA),Landed 06:23,2021-04-16
+6,6,07:10,LA8036,Sao Paulo (GRU),LATAM Airlines 320,Unknown,2021-04-16
+7,7,07:50 H2802,,Santiago (SCL),Sky Airline A20N (CC-AZQ),Landed 07:30,2021-04-16
+8,8,09:40,LA2010,Cusco (CUZ),LATAM Airlines A319 (CC-CPM),Unknown,2021-04-16
+9,9,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-16
+10,10,09:50,LA2088,Juliaca (JUL),LATAM Airlines A320 (CC-BFK),Landed 09:31,2021-04-16
+11,11,10:00 VV707,,Cusco (CUZ),Viva Air A320 (HK-5308),Landed 09:40,2021-04-16
+12,12,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-16
+13,13,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-16
+14,14,10:20 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFP),Landed 09:53,2021-04-16
+15,15,10:20 LA2383,,Sao Paulo (GRU),LATAM Airlines 763,Unknown,2021-04-16
+16,16,10:23 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFI),Landed 10:23,2021-04-16
+17,17,10:30 H25006,,Cusco (CUZ),SKY Airline A20N (CC-AZD),Landed 10:03,2021-04-16
+18,18,10:30 H25263,,Trujillo (TRU),SKY Airline A20N (CC-AZL),Landed 10:07,2021-04-16
+19,19,10:35 LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BAD),Landed 10:28,2021-04-16
+20,20,10:42 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-CQL),Landed 10:33,2021-04-16
+21,21,10:45,LA2180,Ayacucho (AYP),LATAM Airlines A320 (CC-BFM),Landed 10:38,2021-04-16
+22,22,10:45 QT601,,Miami (MIA),Avianca Cargo 33F,Unknown,2021-04-16
+23,23,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-16
+24,24,10:46 LA2162,,Tacna (TCQ),LATAM Airlines A320 (CC-BFL),Landed 10:46,2021-04-16
+25,25,11:00 GG4541,,Miami (MIA),Sky Lease Cargo B744 (N903AR),Landed 10:10,2021-04-16
+26,26,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-16
+27,27,11:15 LA2221,,Talara (TYL),LATAM Airlines A320 (CC-BFF),Landed 11:09,2021-04-16
+28,28,11:20 H25361,,Iquitos (IQT),SKY Airline A20N (CC-AZJ),Landed 10:54,2021-04-16
+29,29,11:29 LA2363,,Pucallpa (PCL),LATAM Airlines A320 (CC-BJE),Landed 11:25,2021-04-16
+30,30,11:43 LA2096,,Juliaca (JUL),LATAM Airlines A319 (CC-CPO),Landed 11:39,2021-04-16
+31,31,11:47 LA2257,,Tarapoto (TPP),LATAM Airlines A319 (CC-CYJ),Landed 11:42,2021-04-16
+32,32,11:48 LA2101,,Arequipa (AQP),LATAM Airlines A320 (CC-BFG),Landed 11:36,2021-04-16
+33,33,11:55 H25104,,Arequipa (AQP),Sky Airline A20N (CC-AZI),Landed 11:54,2021-04-16
+34,34,11:56 LA2297,,Cajamarca (CJA),LATAM Airlines A319 (CC-BCE),Landed 11:51,2021-04-16
+35,35,12:05 LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BFV),Landed 11:57,2021-04-16
+36,36,12:10 LA2213,,Trujillo (TRU),LATAM Airlines A320 (CC-BFS),Landed 12:01,2021-04-16
+37,37,12:44 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFJ),Landed 12:34,2021-04-16
+38,38,12:44 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-BCF),Landed 12:51,2021-04-16
+39,39,13:01 LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFO),Landed 12:53,2021-04-16
+40,40,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-16
+41,41,13:08 LA2164,,Tacna (TCQ),LATAM Airlines A319 (CC-CPI),Landed 13:15,2021-04-16
+42,42,13:10 VV715,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 12:58,2021-04-16
+43,43,13:11 LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BJF),Landed 13:10,2021-04-16
+44,44,13:44 LA2217,,Talara (TYL),LATAM Airlines A320 (CC-BFN),Landed 13:31,2021-04-16
+45,45,13:44 LA2295,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFU),Landed 13:24,2021-04-16
+46,46,13:45 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-16
+47,47,13:45 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-16
+48,48,13:50 K4539,,Miami (MIA),Kalitta Air B744 (N710CK),Landed 13:00,2021-04-16
+49,49,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-16
+50,50,14:05 LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BFT),Unknown,2021-04-16
+51,51,14:16 LA2331,,Tumbes (TBP),LATAM Airlines A320 (CC-BFQ),Landed 14:08,2021-04-16
+52,52,14:25 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFW),Landed 14:29,2021-04-16
+53,53,14:26 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BJD),Landed 14:16,2021-04-16
+54,54,14:30 4A501,,Talara (TYL),Aerodynamics DH4,Unknown,2021-04-16
+55,55,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-16
+56,56,14:45 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BFH),Landed 14:39,2021-04-16
+57,57,14:52 LA2062,,Cusco (CUZ),LATAM Airlines A320 (CC-BFK),Landed 14:47,2021-04-16
+58,58,14:55 H25409,,Tarapoto (TPP),Sky Airline A20N (CC-AZR),Landed 14:34,2021-04-16
+59,59,14:56 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFP),Landed 14:58,2021-04-16
+60,60,15:35 H25164,,Juliaca (JUL),SKY Airline A20N (CC-AZD),Landed 15:17,2021-04-16
+61,61,15:45 H25227,,Piura (PIU),SKY Airline A20N (CC-AZL),Landed 15:22,2021-04-16
+62,62,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-16
+63,63,16:00 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFL),Landed 15:54,2021-04-16
+64,64,16:10 LA2219,,Talara (TYL),LATAM Airlines A320 (CC-BAD),Landed 16:03,2021-04-16
+65,65,16:31 LA2574,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-CQL),Landed 16:27,2021-04-16
+66,66,16:32 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFI),Landed 16:24,2021-04-16
+67,67,16:34 H2800,,Santiago (SCL),SKY Airline A20N (CC-AZM),Canceled,2021-04-16
+68,68,16:35 H25012,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 16:05,2021-04-16
+69,69,16:41,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BFF),Landed 16:33,2021-04-16
+70,70,16:42 LA2124,,Arequipa (AQP),LATAM Airlines A319 (CC-CPO),Landed 16:37,2021-04-16
+71,71,16:45 H25323,,Tumbes (TBP),SKY Airline A20N (CC-AZJ),Landed 16:20,2021-04-16
+72,72,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-16
+73,73,16:55 AA379,,Miami (MIA),American Airlines A321 (N155NN),Landed 16:58,2021-04-16
+74,74,17:11,,Medellin (EOH),- A320,Canceled,2021-04-16
+75,75,17:30,LA2064,Cusco (CUZ),LATAM Airlines A319 (CC-BCE),Landed 17:03,2021-04-16
+76,76,17:41 LA2279,,Chiclayo (CIX),LATAM Airlines A319 (CC-CPI),Landed 17:44,2021-04-16
+77,77,17:42 LA2148,,Arequipa (AQP),LATAM Airlines A319 (CC-BCF),Landed 17:37,2021-04-16
+78,78,17:44 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFJ),Landed 17:35,2021-04-16
+79,79,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-16
+80,80,17:46 VH360,,Medellin (MDE),Viva Air A20N (HK-5352),Landed 17:15,2021-04-16
+81,81,17:47 LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BJE),Landed 17:40,2021-04-16
+82,82,18:00,DL151,Atlanta (ATL),Delta Air Lines B764 (N839MH),Landed 17:51,2021-04-16
+83,83,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-16
+84,84,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVR),Landed 17:59,2021-04-16
+85,85,18:15,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BFS),Landed 17:28,2021-04-16
+86,86,18:18 LA2193,,Jauja (JAU),LATAM Airlines A319 (CC-CYJ),Landed 18:13,2021-04-16
+87,87,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5307),Landed 18:02,2021-04-16
+88,88,18:30 VV421,,Iquitos (IQT),Viva Air A320 (HK-5308),Landed 18:10,2021-04-16
+89,89,18:42 LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BFG),Landed 18:39,2021-04-16
+90,90,18:59,LA2144,Arequipa (AQP),LATAM Airlines A320 (CC-BJF),Landed 18:28,2021-04-16
+91,91,19:15,LA2229,Trujillo (TRU),LATAM Airlines A320 (CC-BFH),Landed 18:43,2021-04-16
+92,92,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A320 (CC-BFQ),Landed 18:58,2021-04-16
+93,93,19:23 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFM),Landed 19:09,2021-04-16
+94,94,19:30,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BFO),Landed 20:39,2021-04-16
+95,95,19:42 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFN),Landed 19:29,2021-04-16
+96,96,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZD),Landed 19:37,2021-04-16
+97,97,20:00 VV851,,Arequipa (AQP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 19:45,2021-04-16
+98,98,20:35,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BFK),Landed 20:06,2021-04-16
+99,99,20:40 AA1307,,Miami (MIA),American Airlines A321 (N986AN),Landed 20:28,2021-04-16
+100,100,20:45 H25080,,Cusco (CUZ),Sky Airline A20N (CC-AZR),Landed 20:17,2021-04-16
+101,101,20:55,LA2447,Bogota (BOG),LATAM Airlines A319 (CC-CPM),Landed 20:36,2021-04-16
+102,102,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-16
+103,103,21:20 H25142,,Arequipa (AQP),SKY Airline A20N (CC-AZL),Landed 20:57,2021-04-16
+104,104,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXG),Landed 21:04,2021-04-16
+105,105,21:30,LA2311,Piura (PIU),LATAM Airlines A319 (CC-CQL),Landed 21:01,2021-04-16
+106,106,21:30 LA2459,,Cancun (CUN),LATAM Airlines 320,Scheduled,2021-04-16
+107,107,21:40,AM18,Mexico City (MEX),Aeromexico B738 (XA-AMA),Landed 21:30,2021-04-16
+108,108,21:54 NK977,,Fort Lauderdale (FLL),Spirit Airlines A20N (N931NK),Landed 21:49,2021-04-16
+109,109,21:54 NK977,,Fort Lauderdale (FLL),Spirit Airlines A20N (N931NK),Landed 21:49,2021-04-16
+110,110,22:17 LA2471,,Mexico City (MEX),LATAM Airlines B763 (CC-CXI),Canceled,2021-04-16
+111,111,22:19 AA917,,Miami (MIA),American Airlines B788 (N871AY),Delayed 22:41,2021-04-16
+112,112,23:00,UA854,Houston (IAH),United Airlines B763 (N648UA),Estimated 22:56,2021-04-16
+113,113,23:00 VV391,,Tarapoto (TPP),Viva Air A320 (HK-5308),Estimated 22:16,2021-04-16
+114,114,23:05 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Estimated 22:58,2021-04-16
+115,115,23:35 LA2451,,Punta Cana (PUJ),LATAM Airlines 320,Scheduled,2021-04-16
+116,116,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1535CMP),Estimated 23:11,2021-04-16
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B789 (N823AN),Landed 00:09,2021-04-17
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N142AN),Unknown,2021-04-17
+2,2,01:34,CM760,Panama City (PTY),Copa Airlines B738 (HP-1719CMP),Landed 00:56,2021-04-17
+3,3,06:00,IB6659,Madrid (MAD),Iberia A332 (EC-MNK),Landed 05:35,2021-04-17
+4,4,06:03 L71815,,Miami (MIA),LATAM Cargo B763 (N534LA),Landed 06:01,2021-04-17
+5,5,06:05 LA2381,,New York (JFK),LATAM Airlines B763 (CC-CWV),Landed 06:04,2021-04-17
+6,6,07:05 LA2468,,Buenos Aires (EZE),LATAM Airlines A320 (CC-BFI),Landed 06:42,2021-04-17
+7,7,09:20,LA2180,Ayacucho (AYP),LATAM Airlines A320 (CC-BFG),Landed 09:16,2021-04-17
+8,8,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-17
+9,9,10:00 VV707,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 09:31,2021-04-17
+10,10,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-17
+11,11,10:01 LA9572,,Santiago (SCL),LATAM Airlines B788 (CC-BBG),Diverted to MIA,2021-04-17
+12,12,10:09 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFN),Landed 10:08,2021-04-17
+13,13,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-17
+14,14,10:20 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFS),Landed 09:57,2021-04-17
+15,15,10:20 LA2383,,Sao Paulo (GRU),LATAM Airlines 763,Unknown,2021-04-17
+16,16,10:29 LA2104,,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Landed 10:21,2021-04-17
+17,17,10:30 H25263,,Trujillo (TRU),Sky Airline 32N,Canceled,2021-04-17
+18,18,10:30 H25006,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 10:02,2021-04-17
+19,19,10:38 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-BCE),Landed 10:31,2021-04-17
+20,20,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-17
+21,21,11:00 LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BFL),Landed 10:53,2021-04-17
+22,22,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-17
+23,23,11:16 LA2103,,Arequipa (AQP),LATAM Airlines A320 (CC-BFT),Landed 11:13,2021-04-17
+24,24,11:20 H25225,,Piura (PIU),Sky Airline A20N (CC-AZR),Landed 11:09,2021-04-17
+25,25,11:20 H25361,,Iquitos (IQT),SKY Airline A20N (CC-AZJ),Landed 10:56,2021-04-17
+26,26,11:45 LA2096,,Juliaca (JUL),LATAM Airlines A319 (CC-CQL),Landed 11:38,2021-04-17
+27,27,11:50 LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BJF),Landed 11:42,2021-04-17
+28,28,11:55 H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 11:32,2021-04-17
+29,29,11:58 LA2257,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFV),Landed 11:54,2021-04-17
+30,30,12:00 VV921,,Ilo (ILQ),Viva Air A320 (HK-5308),Landed 11:45,2021-04-17
+31,31,12:05 LA2333,,Tumbes (TBP),LATAM Airlines A320 (CC-BJD),Landed 11:57,2021-04-17
+32,32,12:12 LA2213,,Trujillo (TRU),LATAM Airlines A320 (CC-BFI),Landed 12:03,2021-04-17
+33,33,12:20 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFM),Unknown,2021-04-17
+34,34,12:29 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFR),Landed 12:21,2021-04-17
+35,35,12:46 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BJE),Landed 12:54,2021-04-17
+36,36,12:58 LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFP),Landed 12:48,2021-04-17
+37,37,13:00 4A101,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-17
+38,38,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-17
+39,39,13:08 LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BFU),Landed 12:59,2021-04-17
+40,40,13:13 LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BFQ),Landed 13:22,2021-04-17
+41,41,13:20 VV923,,Ilo (ILQ),Viva Air A320 (HK-5307),Landed 14:40,2021-04-17
+42,42,13:39 LA2541,,Cusco (CUZ),LATAM Airlines A320 (CC-BFG),Landed 13:34,2021-04-17
+43,43,13:40 LA2217,,Talara (TYL),LATAM Airlines A319 (CC-CPI),Landed 13:28,2021-04-17
+44,44,13:45 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-17
+45,45,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-17
+46,46,14:01 LA2295,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFO),Landed 13:43,2021-04-17
+47,47,14:24 LA2313,,Piura (PIU),LATAM Airlines A319 (CC-CPM),Landed 14:15,2021-04-17
+48,48,14:25 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFJ),Landed 14:18,2021-04-17
+49,49,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-17
+50,50,14:47 LA2062,,Cusco (CUZ),LATAM Airlines A320 (CC-BFS),Landed 14:36,2021-04-17
+51,51,14:58 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BFF),Landed 14:47,2021-04-17
+52,52,15:02 LA2600,,Tacna (TCQ),LATAM Airlines A319 (CC-CPO),Landed 15:06,2021-04-17
+53,53,15:15 H25210,,Ayacucho (AYP),Sky Airline A20N (CC-AZI),Landed 14:56,2021-04-17
+54,54,15:35 H25164,,Juliaca (JUL),SKY Airline A20N (CC-AZL),Landed 15:16,2021-04-17
+55,55,15:40 H25106,,Arequipa (AQP),SKY Airline A20N (CC-AZJ),Landed 15:26,2021-04-17
+56,56,15:50 4A4012,,Tullahoma (AYX),Aerodynamics BE1,Unknown,2021-04-17
+57,57,15:51 LA2275,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFT),Landed 15:51,2021-04-17
+58,58,15:51 LA2331,,Tumbes (TBP),LATAM Airlines A20N (CC-BHG),Landed 15:45,2021-04-17
+59,59,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-17
+60,60,16:15 LA2098,,Juliaca (JUL),LATAM Airlines A319 (CC-CYJ),Landed 15:59,2021-04-17
+61,61,16:33 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BJF),Landed 16:29,2021-04-17
+62,62,16:35 H25012,,Cusco (CUZ),SKY Airline A20N (CC-AZD),Landed 16:12,2021-04-17
+63,63,16:45 H25323,,Tumbes (TBP),Sky Airline A20N (CC-AZR),Landed 16:20,2021-04-17
+64,64,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-17
+65,65,16:49 LA2124,,Arequipa (AQP),LATAM Airlines A319 (CC-CQL),Landed 16:42,2021-04-17
+66,66,16:55 AA379,,Miami (MIA),American Airlines A321 (N996AN),Landed 16:37,2021-04-17
+67,67,17:00 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFN),Landed 16:25,2021-04-17
+68,68,17:29 LA2279,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFQ),Landed 17:28,2021-04-17
+69,69,17:30,LA2064,Cusco (CUZ),LATAM Airlines A320 (CC-BJE),Landed 17:04,2021-04-17
+70,70,17:30 QT601,,Medellin (MDE),Avianca Cargo 33F,Unknown,2021-04-17
+71,71,17:40 VV101,,Chiclayo (CIX),Viva Air Peru 320,Unknown,2021-04-17
+72,72,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-17
+73,73,17:49 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFI),Landed 17:38,2021-04-17
+74,74,18:00,DL151,Atlanta (ATL),Delta Air Lines B764 (N839MH),Landed 18:07,2021-04-17
+75,75,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-17
+76,76,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVB),Landed 18:21,2021-04-17
+77,77,18:15,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BJD),Landed 17:31,2021-04-17
+78,78,18:34,,Bogota (BOG),- A320,Canceled,2021-04-17
+79,79,18:41 LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BFP),Landed 18:37,2021-04-17
+80,80,18:55,LA2227,Trujillo (TRU),LATAM Airlines A20N (CC-BHC),Canceled,2021-04-17
+81,81,18:59,LA2144,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Canceled,2021-04-17
+82,82,19:10 VH316,,Bogota (BOG),Viva Air A320 (HK-5319),Landed 18:46,2021-04-17
+83,83,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A319 (CC-CPM),Landed 19:04,2021-04-17
+84,84,19:30,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BFM),Landed 19:16,2021-04-17
+85,85,19:30 X82262,,Miami (MIA),Icaro 76Y,Unknown,2021-04-17
+86,86,19:43 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFJ),Landed 19:31,2021-04-17
+87,87,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZL),Landed 19:22,2021-04-17
+88,88,19:55 LA2215,,Talara (TYL),LATAM Airlines A320 (CC-BFO),Landed 19:51,2021-04-17
+89,89,19:59 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFF),Landed 19:55,2021-04-17
+90,90,20:00 VV851,,Arequipa (AQP),Viva Air A320 (HK-5308),Landed 19:45,2021-04-17
+91,91,20:35 H25142,,Arequipa (AQP),Sky Airline A20N (CC-AZI),Landed 20:22,2021-04-17
+92,92,20:40 AA1307,,Miami (MIA),American Airlines A321 (N998AN),Landed 20:16,2021-04-17
+93,93,20:45 H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZJ),Landed 20:19,2021-04-17
+94,94,20:55 H25411,,Tarapoto (TPP),SKY Airline A20N (CC-AZD),Landed 20:30,2021-04-17
+95,95,20:55,LA2447,Bogota (BOG),LATAM Airlines A20N (CC-BHA),Landed 20:52,2021-04-17
+96,96,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-17
+97,97,21:15,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BFG),Landed 20:33,2021-04-17
+98,98,21:17 LA2415,,Guayaquil (GYE),LATAM Airlines A320 (CC-BFL),Landed 21:12,2021-04-17
+99,99,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXI),Landed 21:02,2021-04-17
+100,100,21:20 M38488,,Manaus (MAO),LATAM Cargo Brasil 76V,Scheduled,2021-04-17
+101,101,21:34 NC860,,Miami (MIA),Northern Air Cargo B763 (N379CX),Landed 21:21,2021-04-17
+102,102,21:40,AM18,Mexico City (MEX),Aeromexico B738 (N958AM),Landed 21:47,2021-04-17
+103,103,22:19 AA917,,Miami (MIA),American Airlines B788 (N814AA),Estimated 22:05,2021-04-17
+104,104,22:19 LA2482,,Santiago (SCL),LATAM Airlines B789 (CC-BGJ),Landed 21:57,2021-04-17
+105,105,22:25 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZR),Estimated 22:08,2021-04-17
+106,106,22:30,B61825,Fort Lauderdale (FLL),JetBlue Airways A21N (N2048J),Estimated 22:37,2021-04-17
+107,107,22:41 AC7257,,Toronto (YYZ),Air Canada (Star Alliance Livery) A333 (C-GEGI),Delayed 00:56,2021-04-17
+108,108,23:00,UA854,Houston (IAH),United Airlines B763 (N660UA),Delayed 23:16,2021-04-17
+109,109,23:00 EF5139,,Bogota (BOG),- 737,Scheduled,2021-04-17
+110,110,23:08 LA2451,,Punta Cana (PUJ),LATAM Airlines A319 (CC-BCF),Estimated 23:01,2021-04-17
+111,111,23:10 LA2457,,Cancun (CUN),LATAM Airlines A320 (CC-BFK),Estimated 23:16,2021-04-17
+112,112,23:10 VV421,,Iquitos (IQT),Viva Air A320 (HK-5307),Estimated 22:48,2021-04-17
+113,113,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1727CMP),Estimated 23:13,2021-04-17
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B789 (N832AA),Landed 00:40,2021-04-18
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N997AA),Landed 00:11,2021-04-18
+2,2,01:34 CM760,,Panama City (PTY),Copa Airlines B738 (HP-1855CMP),Landed 01:07,2021-04-18
+3,3,04:25 KE274,,Santiago (SCL),Korean Air Cargo B77L (HL8251),Landed 05:06,2021-04-18
+4,4,06:00,IB6659,Madrid (MAD),Iberia A332 (EC-MLP),Landed 05:38,2021-04-18
+5,5,06:09 LA2401,,La Paz (LPB),LATAM Airlines A320 (CC-BFO),Landed 06:05,2021-04-18
+6,6,06:30 4L321,,Bogota (BOG),Palau National Airlines 72F,Unknown,2021-04-18
+7,7,07:10,LA8036,Sao Paulo (GRU),LATAM Airlines 320,Unknown,2021-04-18
+8,8,07:26 LA2407,,Santa Cruz (VVI),LATAM Airlines A320 (CC-BFM),Unknown,2021-04-18
+9,9,08:45 4A4052,,Andahuaylas (ANS),Aerodynamics BE1,Unknown,2021-04-18
+10,10,09:15,LA2180,Ayacucho (AYP),LATAM Airlines A319 (CC-CPI),Landed 09:10,2021-04-18
+11,11,09:30 M62260,,Miami (MIA),Amerijet International B762,Unknown,2021-04-18
+12,12,09:35,LA2088,Juliaca (JUL),LATAM Airlines A319 (CC-CYJ),Landed 09:30,2021-04-18
+13,13,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-18
+14,14,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-18
+15,15,10:06 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFJ),Landed 10:06,2021-04-18
+16,16,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-18
+17,17,10:20 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFP),Landed 10:00,2021-04-18
+18,18,10:30 H25006,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 10:03,2021-04-18
+19,19,10:30 H25263,,Trujillo (TRU),SKY Airline A20N (CC-AZJ),Landed 10:09,2021-04-18
+20,20,10:30 MP7762,,Campinas (VCP),KLM Cargo B744 (PH-CKB),Landed 10:43,2021-04-18
+21,21,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-18
+22,22,10:46 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-BCF),Landed 10:38,2021-04-18
+23,23,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-18
+24,24,11:07 LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BFI),Landed 11:00,2021-04-18
+25,25,11:20 H25225,,Piura (PIU),SKY Airline A20N (CC-AZL),Landed 10:56,2021-04-18
+26,26,11:20 H25361,,Iquitos (IQT),Sky Airline A20N (CC-AZR),Landed 11:03,2021-04-18
+27,27,11:44 LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BJD),Landed 11:34,2021-04-18
+28,28,11:54 LA2101,,Arequipa (AQP),LATAM Airlines A320 (CC-BFW),Landed 11:41,2021-04-18
+29,29,11:55 H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 11:28,2021-04-18
+30,30,11:56 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFG),Landed 11:50,2021-04-18
+31,31,12:38 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BFU),Landed 12:45,2021-04-18
+32,32,12:44 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFL),Landed 12:33,2021-04-18
+33,33,12:58 LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BFQ),Landed 13:06,2021-04-18
+34,34,13:00 VV151,,Juliaca (JUL),Viva Air A320 (HK-5307),Landed 12:39,2021-04-18
+35,35,13:04 LA2016,,Cusco (CUZ),LATAM Airlines A20N (CC-BHG),Landed 12:57,2021-04-18
+36,36,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-18
+37,37,13:10 VV715,,Cusco (CUZ),Viva Air A320 (HK-5308),Landed 12:52,2021-04-18
+38,38,13:12 LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFO),Landed 13:03,2021-04-18
+39,39,13:35 LA2667,,Jaen (JAE),LATAM Airlines A320 (CC-BJF),Landed 13:33,2021-04-18
+40,40,13:44 LA2295,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFM),Landed 13:31,2021-04-18
+41,41,13:45 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-18
+42,42,13:46 LA2574,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-CQL),Landed 13:37,2021-04-18
+43,43,13:51 LA2217,,Talara (TYL),LATAM Airlines A319 (CC-BCE),Landed 13:41,2021-04-18
+44,44,13:53 LA2225,,Trujillo (TRU),LATAM Airlines A320 (CC-BFK),Landed 13:47,2021-04-18
+45,45,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-18
+46,46,14:11 LA2331,,Tumbes (TBP),LATAM Airlines A319 (CC-CPM),Landed 14:06,2021-04-18
+47,47,14:25 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFS),Landed 14:29,2021-04-18
+48,48,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-18
+49,49,14:40 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BFG),Canceled,2021-04-18
+50,50,14:41 LA2590,,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Landed 14:34,2021-04-18
+51,51,14:49 LA2600,,Tacna (TCQ),LATAM Airlines A319 (CC-CPI),Landed 14:54,2021-04-18
+52,52,15:15 QT601,,Miami (MIA),Avianca Cargo 33F,Unknown,2021-04-18
+53,53,15:45 H25227,,Piura (PIU),SKY Airline A20N (CC-AZJ),Landed 15:27,2021-04-18
+54,54,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-18
+55,55,15:56 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFJ),Landed 15:48,2021-04-18
+56,56,16:00 LA2219,,Talara (TYL),LATAM Airlines A319 (CC-CPO),Landed 15:52,2021-04-18
+57,57,16:30,LA2393,Bogota (BOG),LATAM Airlines A320 (CC-BFV),Landed 16:06,2021-04-18
+58,58,16:35 H25012,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 16:19,2021-04-18
+59,59,16:40,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BFP),Canceled,2021-04-18
+60,60,16:41 LA2359,,Pucallpa (PCL),LATAM Airlines A319 (CC-BCF),Landed 16:34,2021-04-18
+61,61,16:45 H25323,,Tumbes (TBP),Sky Airline A20N (CC-AZR),Landed 16:12,2021-04-18
+62,62,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-18
+63,63,16:55 AA379,,Miami (MIA),American Airlines A321 (N161AA),Landed 16:46,2021-04-18
+64,64,17:00 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFH),Landed 16:26,2021-04-18
+65,65,17:08,LA2064,Cusco (CUZ),LATAM Airlines A320 (CC-BFG),Landed 17:01,2021-04-18
+66,66,17:13,,Medellin (EOH),- A320,Canceled,2021-04-18
+67,67,17:23 LA2124,,Arequipa (AQP),LATAM Airlines A320 (CC-BFW),Landed 17:17,2021-04-18
+68,68,17:40 LA2148,,Arequipa (AQP),LATAM Airlines A320 (CC-BFL),Landed 17:32,2021-04-18
+69,69,17:43 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFO),Landed 17:43,2021-04-18
+70,70,17:45 LA2279,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFQ),Landed 17:27,2021-04-18
+71,71,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-18
+72,72,17:45 NC862,,Miami (MIA),Northern Air Cargo B763 (N379CX),Landed 17:35,2021-04-18
+73,73,17:46 LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BJD),Landed 17:38,2021-04-18
+74,74,17:46 VH360,,Medellin (MDE),Viva Air A20N (HK-5352),Landed 17:22,2021-04-18
+75,75,18:00,DL151,Atlanta (ATL),Delta Air Lines B764 (N829MH),Landed 17:50,2021-04-18
+76,76,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-18
+77,77,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVI),Landed 18:02,2021-04-18
+78,78,18:15,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BFU),Landed 17:54,2021-04-18
+79,79,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5308),Landed 18:06,2021-04-18
+80,80,18:43 LA2665,,Jaen (JAE),LATAM Airlines A319 (CC-BCE),Landed 18:40,2021-04-18
+81,81,18:59,LA2144,Arequipa (AQP),LATAM Airlines A320 (CC-BJF),Landed 18:31,2021-04-18
+82,82,19:19 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFS),Landed 19:06,2021-04-18
+83,83,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A319 (CC-CPM),Landed 19:10,2021-04-18
+84,84,19:30,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BFM),Landed 19:13,2021-04-18
+85,85,19:30 X82260,,Miami (MIA),Icaro 76Y,Unknown,2021-04-18
+86,86,19:48 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFK),Landed 19:36,2021-04-18
+87,87,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZD),Landed 19:23,2021-04-18
+88,88,19:50 5Y56,,Campinas (VCP),Atlas Air 74F,Unknown,2021-04-18
+89,89,20:00 VV851,,Arequipa (AQP),Viva Air A320 (HK-5307),Landed 19:39,2021-04-18
+90,90,20:10,LA2020,Cusco (CUZ),LATAM Airlines A319 (CC-CQL),Unknown,2021-04-18
+91,91,20:35,LA2142,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Landed 19:56,2021-04-18
+92,92,20:40 AA1307,,Miami (MIA),American Airlines A321 (N988AL),Landed 20:25,2021-04-18
+93,93,20:45 H25080,,Cusco (CUZ),Sky Airline 320,Unknown,2021-04-18
+94,94,20:55 H25411,,Tarapoto (TPP),SKY Airline A20N (CC-AZL),Landed 20:45,2021-04-18
+95,95,20:55,LA2447,Bogota (BOG),LATAM Airlines A320 (CC-BAD),Landed 20:49,2021-04-18
+96,96,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-18
+97,97,21:09 LA2439,,Quito (UIO),LATAM Airlines A20N (CC-BHB),Landed 20:57,2021-04-18
+98,98,21:20 H25142,,Arequipa (AQP),SKY Airline A20N (CC-AZJ),Landed 21:11,2021-04-18
+99,99,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXJ),Landed 21:00,2021-04-18
+100,100,21:30,LA2311,Piura (PIU),LATAM Airlines A320 (CC-BFJ),Landed 20:53,2021-04-18
+101,101,21:30 LA2459,,Cancun (CUN),LATAM Airlines A320 (CC-BFN),Landed 21:04,2021-04-18
+102,102,21:40,AM18,Mexico City (MEX),Aeromexico B738 (XA-AMG),Landed 21:36,2021-04-18
+103,103,22:15 LA2471,,Mexico City (MEX),LATAM Airlines B763 (CC-CXC),Estimated 22:05,2021-04-18
+104,104,22:19 AA917,,Miami (MIA),American Airlines B788 (N804AN),Estimated 22:15,2021-04-18
+105,105,22:25 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZR),Landed 22:01,2021-04-18
+106,106,22:30 AC7257,,Toronto (YYZ),Air Canada (Star Alliance Livery) A333 (C-GEGI),Delayed 04:53,2021-04-18
+107,107,22:50,LA8039,Sao Paulo (GRU),LATAM Airlines 320,Scheduled,2021-04-18
+108,108,23:00 VV391,,Tarapoto (TPP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Estimated 22:33,2021-04-18
+109,109,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1538CMP),Estimated 23:20,2021-04-18
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N806AA),Landed 00:11,2021-04-19
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N153AN),Landed 00:16,2021-04-19
+2,2,00:46,,Cleveland (CLE),- GL5T (N95783),Landed 00:29,2021-04-19
+3,3,01:34,CM760,Panama City (PTY),Copa Airlines B738 (HP-1526CMP),Landed 01:03,2021-04-19
+4,4,04:25 KE274,,Santiago (SCL),Korean Air Cargo B77L (HL8076),Landed 05:18,2021-04-19
+5,5,06:00,IB6659,Madrid (MAD),Iberia A359 (EC-MYX),Landed 04:59,2021-04-19
+6,6,06:05 LA2381,,New York (JFK),LATAM Airlines B763 (CC-CXF),Landed 06:09,2021-04-19
+7,7,07:15,LA2477,Los Angeles (LAX),LATAM Airlines B763 (CC-CXI),Landed 06:45,2021-04-19
+8,8,09:05 LA2383,,Sao Paulo (GRU),LATAM Airlines 320,Unknown,2021-04-19
+9,9,09:20,LA2180,Ayacucho (AYP),LATAM Airlines A320 (CC-BFU),Landed 09:15,2021-04-19
+10,10,09:40,LA2010,Cusco (CUZ),LATAM Airlines A319 (CC-CYJ),Landed 09:03,2021-04-19
+11,11,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-19
+12,12,09:50,LA2088,Juliaca (JUL),LATAM Airlines A320 (CC-BFG),Landed 09:32,2021-04-19
+13,13,10:00 VV707,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 09:29,2021-04-19
+14,14,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-19
+15,15,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-19
+16,16,10:20 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFW),Landed 10:02,2021-04-19
+17,17,10:20 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFJ),Landed 10:19,2021-04-19
+18,18,10:30 H25263,,Trujillo (TRU),Sky Airline A20N (CC-AZR),Landed 10:05,2021-04-19
+19,19,10:34 LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BFT),Landed 10:22,2021-04-19
+20,20,10:45 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-CQL),Landed 10:35,2021-04-19
+21,21,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-19
+22,22,10:51 LA2162,,Tacna (TCQ),LATAM Airlines A320 (CC-BFK),Landed 10:53,2021-04-19
+23,23,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-19
+24,24,11:20 H25361,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Landed 11:01,2021-04-19
+25,25,11:24 LA2221,,Talara (TYL),LATAM Airlines A320 (CC-BFH),Landed 11:20,2021-04-19
+26,26,11:36 LA2096,,Juliaca (JUL),LATAM Airlines A320 (CC-BFM),Landed 11:36,2021-04-19
+27,27,11:47 LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BFO),Landed 11:39,2021-04-19
+28,28,11:52 LA2333,,Tumbes (TBP),LATAM Airlines A320 (CC-BFQ),Landed 11:44,2021-04-19
+29,29,11:54 LA2257,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFN),Landed 11:52,2021-04-19
+30,30,11:55 H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZL),Landed 11:30,2021-04-19
+31,31,12:03 LA2297,,Cajamarca (CJA),LATAM Airlines A319 (CC-BCE),Landed 11:58,2021-04-19
+32,32,12:12 LA2213,,Trujillo (TRU),LATAM Airlines A320 (CC-BFV),Landed 12:02,2021-04-19
+33,33,12:16 LA2029,,Cusco (CUZ),LATAM Airlines A320 (CC-BJD),Landed 12:08,2021-04-19
+34,34,12:44 LA2315,,Piura (PIU),LATAM Airlines A319 (CC-BCF),Landed 12:36,2021-04-19
+35,35,12:53 LA2357,,Pucallpa (PCL),LATAM Airlines A20N (CC-BHG),Landed 12:47,2021-04-19
+36,36,12:55 VV151,,Juliaca (JUL),Viva Air A320 (HK-5308),Landed 12:40,2021-04-19
+37,37,13:00 4A101,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-19
+38,38,13:01 LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BFP),Landed 13:09,2021-04-19
+39,39,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-19
+40,40,13:10 4A4002,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-19
+41,41,13:23 LA2016,,Cusco (CUZ),LATAM Airlines A319 (CC-CPI),Landed 13:14,2021-04-19
+42,42,13:29 LA2667,,Jaen (JAE),LATAM Airlines A320 (CC-BFS),Landed 13:25,2021-04-19
+43,43,13:33 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BFL),Landed 13:28,2021-04-19
+44,44,13:35 LA2148,,Arequipa (AQP),LATAM Airlines A20N (CC-BHC),Landed 13:30,2021-04-19
+45,45,13:40 H25602,,Cusco (CUZ),SKY Airline A20N (CC-AZD),Landed 13:42,2021-04-19
+46,46,13:45 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-19
+47,47,13:45 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-19
+48,48,13:48 LA2018,,Cusco (CUZ),LATAM Airlines A319 (CC-CYJ),Landed 13:50,2021-04-19
+49,49,13:50 VV101,,Chiclayo (CIX),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 13:01,2021-04-19
+50,50,13:52 LA2295,,Cajamarca (CJA),LATAM Airlines A320 (CC-BJF),Landed 13:33,2021-04-19
+51,51,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-19
+52,52,14:06 LA2331,,Tumbes (TBP),LATAM Airlines A319 (CC-CPM),Landed 13:56,2021-04-19
+53,53,14:06 LA2489,,Trujillo (TRU),LATAM Airlines A320 (CC-BFW),Landed 14:01,2021-04-19
+54,54,14:20 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BFU),Unknown,2021-04-19
+55,55,14:30 4A501,,Talara (TYL),Aerodynamics DH4,Unknown,2021-04-19
+56,56,14:34 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BAD),Landed 14:27,2021-04-19
+57,57,14:35 2I4223,,Huanuco (HUU),Star Peru DH8D (N689AC),Unknown,2021-04-19
+58,58,14:44 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFF),Landed 14:36,2021-04-19
+59,59,14:50 LA2094,,Juliaca (JUL),LATAM Airlines A320 (CC-BFG),Landed 14:40,2021-04-19
+60,60,15:00 QT605,,Bogota (BOG),Avianca Cargo 33F,Unknown,2021-04-19
+61,61,15:10 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFR),Landed 14:59,2021-04-19
+62,62,15:35 H25164,,Juliaca (JUL),SKY Airline A20N (CC-AZJ),Landed 15:23,2021-04-19
+63,63,15:45 H25227,,Piura (PIU),Sky Airline A20N (CC-AZR),Landed 15:26,2021-04-19
+64,64,15:48 LA2417,,Guayaquil (GYE),LATAM Airlines A20N (CC-BHB),Landed 15:41,2021-04-19
+65,65,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-19
+66,66,16:10 LA2574,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BFH),Landed 16:08,2021-04-19
+67,67,16:17,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BFN),Landed 16:11,2021-04-19
+68,68,16:25 LA2219,,Talara (TYL),LATAM Airlines A320 (CC-BFT),Landed 15:51,2021-04-19
+69,69,16:30 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFO),Landed 16:22,2021-04-19
+70,70,16:35 H25012,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 16:14,2021-04-19
+71,71,16:41 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFK),Landed 16:33,2021-04-19
+72,72,16:45 H25323,,Tumbes (TBP),Sky Airline A20N (CC-AZI),Landed 16:40,2021-04-19
+73,73,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-19
+74,74,16:50 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFM),Landed 16:43,2021-04-19
+75,75,16:54 LA2124,,Arequipa (AQP),LATAM Airlines A319 (CC-CQL),Landed 16:48,2021-04-19
+76,76,16:55 AA379,,Miami (MIA),American Airlines A321 (N161AA),Landed 16:27,2021-04-19
+77,77,16:58 LA2468,,Buenos Aires (EZE),LATAM Airlines A320 (CC-BFI),Landed 16:30,2021-04-19
+78,78,17:00 LA2064,,Cusco (CUZ),LATAM Airlines A320 (CC-BFV),Landed 16:53,2021-04-19
+79,79,17:31 LA2279,,Chiclayo (CIX),LATAM Airlines A319 (CC-BCF),Landed 17:29,2021-04-19
+80,80,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-19
+81,81,17:48 LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BJD),Landed 17:41,2021-04-19
+82,82,17:51,LA2014,Cusco (CUZ),LATAM Airlines A319 (CC-BCE),Landed 17:38,2021-04-19
+83,83,17:51 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFP),Landed 17:44,2021-04-19
+84,84,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-19
+85,85,18:05,KL743,Amsterdam (AMS),KLM (SkyTeam Livery) B77W (PH-BVD),Landed 17:53,2021-04-19
+86,86,18:14 VV711,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 18:03,2021-04-19
+87,87,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5308),Landed 17:58,2021-04-19
+88,88,18:34,,Bogota (BOG),- A320,Canceled,2021-04-19
+89,89,18:43,LA2144,Arequipa (AQP),LATAM Airlines A320 (CC-BJF),Landed 18:33,2021-04-19
+90,90,18:48 LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BFS),Landed 18:44,2021-04-19
+91,91,18:55,LA2277,Chiclayo (CIX),LATAM Airlines A320 (CC-BFQ),Landed 18:52,2021-04-19
+92,92,19:10 VH316,,Bogota (BOG),Viva Air A320 (HK-5320),Landed 18:49,2021-04-19
+93,93,19:18 LA2255,,Tarapoto (TPP),LATAM Airlines A319 (CC-CPI),Landed 19:06,2021-04-19
+94,94,19:30,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BFL),Landed 19:11,2021-04-19
+95,95,19:42 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFG),Landed 19:31,2021-04-19
+96,96,19:47,LA2020,Cusco (CUZ),LATAM Airlines A319 (CC-CPM),Landed 19:38,2021-04-19
+97,97,19:47 LA2215,,Talara (TYL),LATAM Airlines A320 (CC-BFR),Landed 19:44,2021-04-19
+98,98,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZJ),Landed 19:27,2021-04-19
+99,99,20:00 VV851,,Arequipa (AQP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 19:53,2021-04-19
+100,100,20:35,LA2142,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Landed 20:09,2021-04-19
+101,101,20:40 AA1307,,Miami (MIA),American Airlines A321 (N994AN),Landed 20:36,2021-04-19
+102,102,20:45 H25080,,Cusco (CUZ),Sky Airline A20N (CC-AZR),Landed 20:15,2021-04-19
+103,103,20:55 H25411,,Tarapoto (TPP),SKY Airline A20N (CC-AZL),Landed 20:29,2021-04-19
+104,104,20:55,LA2447,Bogota (BOG),LATAM Airlines A20N (CC-BHA),Landed 20:40,2021-04-19
+105,105,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-19
+106,106,21:10,LA2311,Piura (PIU),LATAM Airlines A320 (CC-BFH),Landed 21:04,2021-04-19
+107,107,21:20 H25142,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 20:57,2021-04-19
+108,108,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXG),Landed 21:00,2021-04-19
+109,109,21:40,AM18,Mexico City (MEX),Aeromexico B738 (N825AM),Landed 22:02,2021-04-19
+110,110,22:19 AA917,,Miami (MIA),American Airlines B788 (N817AN),Landed 21:59,2021-04-19
+111,111,22:25 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Estimated 22:06,2021-04-19
+112,112,22:29 LA9518,,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYH),Landed 19:41,2021-04-19
+113,113,22:30,B61825,Fort Lauderdale (FLL),JetBlue Airways A21N (N2027J),Delayed 23:09,2021-04-19
+114,114,22:40 LA9575,,Miami (MIA),LATAM Airlines B789 (CC-BGL),Landed 21:38,2021-04-19
+115,115,23:00,UA854,Houston (IAH),United Airlines B763 (N642UA),Estimated 22:54,2021-04-19
+116,116,23:00 VV391,,Tarapoto (TPP),Viva Air A320 (HK-5307),Estimated 22:20,2021-04-19
+117,117,23:30 LA2457,,Cancun (CUN),LATAM Airlines 320,Scheduled,2021-04-19
+118,118,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1539CMP),Estimated 23:22,2021-04-19
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N816AA),Landed 00:08,2021-04-21
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N167AN),Landed 00:04,2021-04-21
+2,2,01:34,CM760,Panama City (PTY),Copa Airlines B738 (HP-1716CMP),Landed 00:58,2021-04-21
+3,3,04:30 4L321,,Bogota (BOG),Palau National Airlines 72F,Unknown,2021-04-21
+4,4,05:40 LA2461,,Miami (MIA),LATAM Airlines B763 (CC-CWF),Landed 05:13,2021-04-21
+5,5,06:00,IB6659,Madrid (MAD),Iberia A359 (EC-MYX),Landed 05:09,2021-04-21
+6,6,06:05 LA2381,,New York (JFK),LATAM Airlines B763 (CC-CXI),Landed 05:57,2021-04-21
+7,7,07:23 LA2407,,Santa Cruz (VVI),LATAM Airlines A319 (CC-BCF),Landed 07:17,2021-04-21
+8,8,07:30 VH318,,Bogota (BOG),Viva Air A320 (HK-5308),Landed 07:27,2021-04-21
+9,9,08:45 4A4052,,Andahuaylas (ANS),Aerodynamics BE1,Unknown,2021-04-21
+10,10,09:20,LA2180,Ayacucho (AYP),LATAM Airlines A320 (CC-BFS),Landed 08:58,2021-04-21
+11,11,09:40,LA2010,Cusco (CUZ),LATAM Airlines A320 (CC-BFG),Landed 09:01,2021-04-21
+12,12,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-21
+13,13,10:00 VV707,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 09:37,2021-04-21
+14,14,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-21
+15,15,10:13 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BAD),Landed 10:16,2021-04-21
+16,16,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-21
+17,17,10:20 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFP),Landed 09:46,2021-04-21
+18,18,10:30 M62260,,Miami (MIA),Amerijet International B762,Unknown,2021-04-21
+19,19,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-21
+20,20,10:47 LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BJE),Landed 10:42,2021-04-21
+21,21,10:51 LA2170,,Ilo (ILQ),LATAM Airlines A319 (CC-CQL),Landed 10:45,2021-04-21
+22,22,11:01 L71835,,Miami (MIA),LATAM Cargo B763 (N418LA),Landed 10:38,2021-04-21
+23,23,11:02 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-CPI),Landed 10:53,2021-04-21
+24,24,11:04 LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BFU),Landed 10:58,2021-04-21
+25,25,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-21
+26,26,11:20 H25225,,Piura (PIU),Sky Airline A20N (CC-AZR),Landed 10:49,2021-04-21
+27,27,11:20 H25361,,Iquitos (IQT),SKY Airline A20N (CC-AZL),Landed 11:04,2021-04-21
+28,28,11:29 LA2363,,Pucallpa (PCL),LATAM Airlines A319 (CC-BCE),Landed 11:23,2021-04-21
+29,29,11:35 LA2103,,Arequipa (AQP),LATAM Airlines 320,Unknown,2021-04-21
+30,30,11:45 LA2096,,Juliaca (JUL),LATAM Airlines A319 (CC-CPM),Landed 11:45,2021-04-21
+31,31,11:55 H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 11:52,2021-04-21
+32,32,11:58 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BJD),Landed 11:49,2021-04-21
+33,33,12:00 VV921,,Ilo (ILQ),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 12:09,2021-04-21
+34,34,12:02 LA2333,,Tumbes (TBP),LATAM Airlines A320 (CC-BFW),Landed 11:55,2021-04-21
+35,35,12:15 LA2012,,Cusco (CUZ),LATAM Airlines 320,Unknown,2021-04-21
+36,36,12:15 LA2257,,Tarapoto (TPP),LATAM Airlines 320,Unknown,2021-04-21
+37,37,12:40 LA2213,,Trujillo (TRU),LATAM Airlines A319 (CC-CYJ),Landed 14:48,2021-04-21
+38,38,12:44 LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFR),Landed 12:37,2021-04-21
+39,39,12:46 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFV),Landed 12:34,2021-04-21
+40,40,12:51 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BFO),Landed 12:53,2021-04-21
+41,41,12:58 LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BFI),Landed 13:14,2021-04-21
+42,42,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-21
+43,43,13:12 LA2016,,Cusco (CUZ),LATAM Airlines A20N (CC-BHC),Landed 13:11,2021-04-21
+44,44,13:20 H25602,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 13:19,2021-04-21
+45,45,13:45 LA2217,,Talara (TYL),LATAM Airlines A320 (CC-BFJ),Landed 13:32,2021-04-21
+46,46,13:45 LA2295,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFG),Landed 13:24,2021-04-21
+47,47,13:45 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-21
+48,48,13:45 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-21
+49,49,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-21
+50,50,14:18 LA2313,,Piura (PIU),LATAM Airlines A319 (CC-BCF),Landed 14:07,2021-04-21
+51,51,14:25 LA2235,,Iquitos (IQT),LATAM Airlines 319,Unknown,2021-04-21
+52,52,14:30 LA2331,,Tumbes (TBP),LATAM Airlines 320,Unknown,2021-04-21
+53,53,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-21
+54,54,14:45 LA2062,,Cusco (CUZ),LATAM Airlines A320 (CC-BAD),Landed 14:41,2021-04-21
+55,55,14:54 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFQ),Landed 15:00,2021-04-21
+56,56,14:55 H25409,,Tarapoto (TPP),Sky Airline A20N (CC-AZR),Landed 14:36,2021-04-21
+57,57,15:02 LA2468,,Buenos Aires (EZE),LATAM Airlines A320 (CC-BFM),Landed 14:53,2021-04-21
+58,58,15:10 VV951,,Tacna (TCQ),Viva Air A320 (HK-5307),Landed 15:12,2021-04-21
+59,59,15:15 H25210,,Ayacucho (AYP),Sky Airline 320,Unknown,2021-04-21
+60,60,15:15 QT601,,Miami (MIA),Avianca Cargo 33F,Unknown,2021-04-21
+61,61,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-21
+62,62,16:15 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BJE),Landed 16:11,2021-04-21
+63,63,16:20 H25106,,Arequipa (AQP),Sky Airline 320,Unknown,2021-04-21
+64,64,16:30 X82260,,Miami (MIA),Icaro 76Y,Unknown,2021-04-21
+65,65,16:35 H25012,,Cusco (CUZ),Sky Airline 320,Unknown,2021-04-21
+66,66,16:36 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFS),Landed 16:27,2021-04-21
+67,67,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-21
+68,68,16:50 LA2124,,Arequipa (AQP),LATAM Airlines A320 (CC-BFH),Landed 16:44,2021-04-21
+69,69,16:55 AA379,,Miami (MIA),American Airlines A321 (N928AM),Landed 16:37,2021-04-21
+70,70,17:00 LA2247,,Iquitos (IQT),LATAM Airlines A20N (CC-BHG),Landed 16:32,2021-04-21
+71,71,17:09,LA2064,Cusco (CUZ),LATAM Airlines A319 (CC-BCE),Landed 17:07,2021-04-21
+72,72,17:11,,Medellin (EOH),- A320,Canceled,2021-04-21
+73,73,17:28 LA2279,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFO),Landed 17:26,2021-04-21
+74,74,17:39 LA2148,,Arequipa (AQP),LATAM Airlines A320 (CC-BFV),Landed 17:34,2021-04-21
+75,75,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-21
+76,76,17:46 VH360,,Medellin (MDE),Viva Air A20N (HK-5361),Landed 17:11,2021-04-21
+77,77,17:51 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BJD),Landed 17:47,2021-04-21
+78,78,17:53 LA2335,,Tumbes (TBP),LATAM Airlines A319 (CC-CPI),Landed 17:44,2021-04-21
+79,79,17:56,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BFI),Unknown,2021-04-21
+80,80,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-21
+81,81,18:05,KL743,Amsterdam (AMS),KLM (Orange Pride‬ Livery) B77W (PH-BVA),Landed 18:12,2021-04-21
+82,82,18:30 VV907,,Cusco (CUZ),Viva Air A320 (HK-5308),Landed 18:28,2021-04-21
+83,83,18:33,,Bogota (BOG),- A320,Canceled,2021-04-21
+84,84,18:38 LA2665,,Jaen (JAE),LATAM Airlines A319 (CC-CPM),Landed 18:33,2021-04-21
+85,85,18:45 5Y64,,Campinas (VCP),Atlas Air B744 (N476MC),Diverted to UIO,2021-04-21
+86,86,18:57,LA2229,Trujillo (TRU),LATAM Airlines A320 (CC-BFQ),Landed 18:51,2021-04-21
+87,87,19:00,LA2144,Arequipa (AQP),LATAM Airlines 320,Unknown,2021-04-21
+88,88,19:06,LA2277,Chiclayo (CIX),LATAM Airlines A320 (CC-BFR),Landed 18:57,2021-04-21
+89,89,19:10 VH316,,Bogota (BOG),Viva Air A320 (HK-5318),Landed 19:01,2021-04-21
+90,90,19:18,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BFJ),Landed 19:25,2021-04-21
+91,91,19:18 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFW),Landed 19:06,2021-04-21
+92,92,19:47 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFG),Landed 19:34,2021-04-21
+93,93,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZJ),Landed 19:29,2021-04-21
+94,94,19:52 LA2215,,Talara (TYL),LATAM Airlines A319 (CC-BCF),Landed 19:48,2021-04-21
+95,95,20:00 VV851,,Arequipa (AQP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 19:51,2021-04-21
+96,96,20:35,LA2142,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Landed 20:02,2021-04-21
+97,97,20:40 AA1307,,Miami (MIA),American Airlines A321 (N167AN),Landed 20:40,2021-04-21
+98,98,20:45 H25080,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 20:18,2021-04-21
+99,99,20:50 LA2465,,Miami (MIA),LATAM Airlines B763,Unknown,2021-04-21
+100,100,20:55 H25289,,Trujillo (TRU),SKY Airline A20N (CC-AZD),Landed 20:53,2021-04-21
+101,101,20:55,LA2447,Bogota (BOG),LATAM Airlines A320 (CC-BFP),Landed 20:28,2021-04-21
+102,102,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-21
+103,103,20:59 LA2439,,Quito (UIO),LATAM Airlines A319 (CC-CQL),Landed 20:43,2021-04-21
+104,104,21:20 H25142,,Arequipa (AQP),SKY Airline A20N (CC-AZL),Landed 21:10,2021-04-21
+105,105,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXJ),Landed 21:05,2021-04-21
+106,106,21:30,LA2311,Piura (PIU),LATAM Airlines A320 (CC-BFM),Landed 20:57,2021-04-21
+107,107,21:30 LA2459,,Cancun (CUN),LATAM Airlines A320 (CC-BFK),Landed 21:01,2021-04-21
+108,108,21:38 NC860,,Miami (MIA),Northern Air Cargo B763 (N379CX),Landed 21:35,2021-04-21
+109,109,21:40,AM18,Mexico City (MEX),Aeromexico B738 (XA-AMM),Landed 21:15,2021-04-21
+110,110,22:15 LA2471,,Mexico City (MEX),LATAM Airlines B763 (CC-CXI),Canceled,2021-04-21
+111,111,22:19 AA917,,Miami (MIA),American Airlines B788 (N813AN),Landed 21:59,2021-04-21
+112,112,23:00,UA854,Houston (IAH),United Airlines B763 (N654UA),Estimated 22:37,2021-04-21
+113,113,23:05 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZR),Estimated 22:52,2021-04-21
+114,114,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1717CMP),Estimated 23:26,2021-04-21
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N811AB),Landed 06:13,2021-04-22
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N153AN),Landed 23:53,2021-04-22
+2,2,01:34,CM760,Panama City (PTY),Copa Airlines B738 (HP-1522CMP),Landed 01:00,2021-04-22
+3,3,05:14 LA2465,,Miami (MIA),LATAM Airlines B763 (CC-CXC),Landed 05:01,2021-04-22
+4,4,06:00,IB6659,Madrid (MAD),Iberia (Madrid Livery) A332 (EC-MJA),Landed 06:00,2021-04-22
+5,5,07:15,LA2477,Los Angeles (LAX),LATAM Airlines B763 (CC-CXG),Landed 07:10,2021-04-22
+6,6,08:04 LA2374,,Asuncion (ASU),LATAM Airlines A320 (CC-BFH),Landed 07:52,2021-04-22
+7,7,09:19,LA2180,Ayacucho (AYP),LATAM Airlines A319 (CC-BCE),Landed 09:15,2021-04-22
+8,8,09:40,LA2010,Cusco (CUZ),LATAM Airlines A320 (CC-BFM),Landed 09:12,2021-04-22
+9,9,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-22
+10,10,09:50,LA2088,Juliaca (JUL),LATAM Airlines A319 (CC-CYJ),Landed 09:36,2021-04-22
+11,11,10:00 VV707,,Cusco (CUZ),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Unknown,2021-04-22
+12,12,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-22
+13,13,10:10 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFI),Landed 10:02,2021-04-22
+14,14,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-22
+15,15,10:18 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFW),Landed 10:17,2021-04-22
+16,16,10:30 H25006,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 10:07,2021-04-22
+17,17,10:30 H25263,,Trujillo (TRU),Sky Airline 32N,Canceled,2021-04-22
+18,18,10:32 LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BFG),Landed 10:28,2021-04-22
+19,19,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-22
+20,20,10:49 LA2162,,Tacna (TCQ),LATAM Airlines A320 (CC-BFJ),Landed 10:52,2021-04-22
+21,21,11:00 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-BCF),Landed 10:39,2021-04-22
+22,22,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-22
+23,23,11:10 LA2103,,Arequipa (AQP),LATAM Airlines A319 (CC-CPI),Landed 11:14,2021-04-22
+24,24,11:14 LA2018,,Cusco (CUZ),LATAM Airlines A319 (CC-CQL),Landed 11:06,2021-04-22
+25,25,11:20 H25361,,Iquitos (IQT),SKY Airline A20N (CC-AZL),Landed 11:10,2021-04-22
+26,26,11:20 H25225,,Piura (PIU),SKY Airline A20N (CC-AZD),Landed 10:47,2021-04-22
+27,27,11:34 LA2363,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFS),Landed 11:27,2021-04-22
+28,28,11:45 LA2257,,Tarapoto (TPP),LATAM Airlines A320 (CC-BJD),Landed 11:35,2021-04-22
+29,29,11:55 H25104,,Arequipa (AQP),Sky Airline A20N (CC-AZR),Landed 11:45,2021-04-22
+30,30,12:02 LA2333,,Tumbes (TBP),LATAM Airlines A320 (CC-BFO),Landed 11:53,2021-04-22
+31,31,12:07 LA2012,,Cusco (CUZ),LATAM Airlines A319 (CC-CPM),Landed 12:03,2021-04-22
+32,32,12:43 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BFQ),Landed 12:52,2021-04-22
+33,33,12:49 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFV),Landed 12:38,2021-04-22
+34,34,13:00 VV151,,Juliaca (JUL),Viva Air A320 (HK-5308),Landed 12:41,2021-04-22
+35,35,13:00 4A101,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-22
+36,36,13:04 LA2016,,Cusco (CUZ),LATAM Airlines A20N (CC-BHG),Landed 12:59,2021-04-22
+37,37,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-22
+38,38,13:10 4A4002,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-22
+39,39,13:20 LA2213,,Trujillo (TRU),LATAM Airlines A320 (CC-BFP),Landed 13:11,2021-04-22
+40,40,13:35 LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BFH),Landed 13:49,2021-04-22
+41,41,13:37 LA2667,,Jaen (JAE),LATAM Airlines A320 (CC-BAD),Landed 13:33,2021-04-22
+42,42,13:41 LA2217,,Talara (TYL),LATAM Airlines A320 (CC-BFF),Landed 13:27,2021-04-22
+43,43,13:42 LA2295,,Cajamarca (CJA),LATAM Airlines A319 (CC-BCE),Landed 13:22,2021-04-22
+44,44,13:55 LA2225,,Trujillo (TRU),LATAM Airlines A319 (CC-CYJ),Landed 13:46,2021-04-22
+45,45,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-22
+46,46,14:14 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BJF),Landed 14:28,2021-04-22
+47,47,14:18 LA2331,,Tumbes (TBP),LATAM Airlines A320 (CC-BFT),Landed 14:09,2021-04-22
+48,48,14:26 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BJE),Landed 14:13,2021-04-22
+49,49,14:30 VV101,,Chiclayo (CIX),Viva Air Peru 320,Unknown,2021-04-22
+50,50,14:35 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BFK),Landed 14:31,2021-04-22
+51,51,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-22
+52,52,14:40 LA1955,,Miami (MIA),LATAM Airlines B788 (CC-BBA),Landed 13:37,2021-04-22
+53,53,14:54 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFM),Landed 15:05,2021-04-22
+54,54,15:15 H25210,,Ayacucho (AYP),SKY Airline A20N (CC-AZD),Landed 14:54,2021-04-22
+55,55,15:35 H25164,,Juliaca (JUL),SKY Airline A20N (CC-AZJ),Landed 15:26,2021-04-22
+56,56,15:45 H25227,,Piura (PIU),Sky Airline A20N (CC-AZI),Landed 15:23,2021-04-22
+57,57,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-22
+58,58,15:58 LA2275,,Chiclayo (CIX),LATAM Airlines A319 (CC-CPI),Landed 15:57,2021-04-22
+59,59,16:00 LA2219,,Talara (TYL),LATAM Airlines A320 (CC-BFG),Landed 15:51,2021-04-22
+60,60,16:07,,Cleveland (CLE),- GL5T (N95783),Landed 16:05,2021-04-22
+61,61,16:12 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFJ),Landed 15:53,2021-04-22
+62,62,16:33 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFW),Landed 16:35,2021-04-22
+63,63,16:35 H25012,,Cusco (CUZ),Sky Airline A20N (CC-AZR),Landed 16:08,2021-04-22
+64,64,16:40,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BJD),Landed 16:11,2021-04-22
+65,65,16:45 H25323,,Tumbes (TBP),SKY Airline A20N (CC-AZL),Landed 16:32,2021-04-22
+66,66,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-22
+67,67,16:55 AA379,,Miami (MIA),American Airlines A321 (N932AM),Landed 16:29,2021-04-22
+68,68,17:01 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFS),Landed 16:57,2021-04-22
+69,69,17:11 LA2124,,Arequipa (AQP),LATAM Airlines A319 (CC-CQL),Landed 17:08,2021-04-22
+70,70,17:24 LA2279,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFQ),Landed 17:23,2021-04-22
+71,71,17:30,LA2064,Cusco (CUZ),LATAM Airlines A320 (CC-BFV),Landed 17:12,2021-04-22
+72,72,17:41 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFU),Landed 17:31,2021-04-22
+73,73,17:44 LA2148,,Arequipa (AQP),LATAM Airlines A319 (CC-BCF),Landed 17:44,2021-04-22
+74,74,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-22
+75,75,17:51 LA2335,,Tumbes (TBP),LATAM Airlines A319 (CC-CPM),Landed 17:40,2021-04-22
+76,76,18:00,DL151,Atlanta (ATL),Delta Air Lines B764 (N827MH),Landed 18:15,2021-04-22
+77,77,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-22
+78,78,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVP),Landed 17:57,2021-04-22
+79,79,18:07 LA2193,,Jauja (JAU),LATAM Airlines A319 (CC-CYJ),Landed 18:04,2021-04-22
+80,80,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5308),Landed 18:00,2021-04-22
+81,81,18:34,,Bogota (BOG),- A320,Canceled,2021-04-22
+82,82,18:37 LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BAD),Landed 18:36,2021-04-22
+83,83,18:42,LA2144,Arequipa (AQP),LATAM Airlines A320 (CC-BFF),Landed 18:33,2021-04-22
+84,84,19:10 VH316,,Bogota (BOG),Viva Air 320,Unknown,2021-04-22
+85,85,19:10 UC1401,,Miami (MIA),LATAM Cargo B763 (N536LA),Landed 18:30,2021-04-22
+86,86,19:20 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFH),Landed 19:09,2021-04-22
+87,87,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A320 (CC-BJF),Landed 19:02,2021-04-22
+88,88,19:30,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BFO),Landed 19:14,2021-04-22
+89,89,19:41 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BJE),Landed 19:29,2021-04-22
+90,90,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZJ),Landed 19:33,2021-04-22
+91,91,20:00 VV851,,Arequipa (AQP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 19:45,2021-04-22
+92,92,20:10,LA2020,Cusco (CUZ),LATAM Airlines A320 (CC-BFM),Landed 19:40,2021-04-22
+93,93,20:35 H25142,,Arequipa (AQP),Sky Airline A20N (CC-AZI),Landed 20:16,2021-04-22
+94,94,20:40 AA1307,,Miami (MIA),American Airlines A321 (N159AN),Landed 20:05,2021-04-22
+95,95,20:45 H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZD),Landed 20:11,2021-04-22
+96,96,20:55 H25411,,Tarapoto (TPP),Sky Airline A20N (CC-AZR),Landed 20:28,2021-04-22
+97,97,20:55,LA2447,Bogota (BOG),LATAM Airlines A320 (CC-BFI),Landed 20:57,2021-04-22
+98,98,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-22
+99,99,21:15,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BFK),Landed 20:49,2021-04-22
+100,100,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXF),Landed 20:46,2021-04-22
+101,101,22:15 LA2481,,Santiago (SCL),LATAM Airlines B763 (CC-CWV),Canceled,2021-04-22
+102,102,22:19 AA917,,Miami (MIA),American Airlines B788 (N809AA),Estimated 21:45,2021-04-22
+103,103,22:25 H25363,,Iquitos (IQT),SKY Airline A20N (CC-AZL),Estimated 22:20,2021-04-22
+104,104,22:30,B61825,Fort Lauderdale (FLL),JetBlue Airways A21N (N2038J),Delayed 22:48,2021-04-22
+105,105,23:00,UA854,Houston (IAH),United Airlines B763 (N651UA),Estimated 22:44,2021-04-22
+106,106,23:00 VV391,,Tarapoto (TPP),Viva Air A320 (HK-5308),Estimated 22:39,2021-04-22
+107,107,23:00 EF5139,,Bogota (BOG),- 737,Scheduled,2021-04-22
+108,108,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1852CMP),Delayed 00:26,2021-04-22
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N804AN),Landed 23:57,2021-04-23
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N118NN),Unknown,2021-04-23
+2,2,01:30 M62260,,Miami (MIA),Amerijet International B762,Unknown,2021-04-23
+3,3,01:34 CM760,,Panama City (PTY),Copa Airlines B738 (HP-1720CMP),Landed 01:08,2021-04-23
+4,4,04:25 KE274,,Santiago (SCL),Korean Air Cargo B77L (HL8226),Landed 05:10,2021-04-23
+5,5,06:00,IB6659,Madrid (MAD),Iberia A359 (EC-MYX),Landed 05:29,2021-04-23
+6,6,06:54,,Bogota (BOG),- A320,Canceled,2021-04-23
+7,7,07:30 VH316,,Bogota (BOG),Viva Air A320 (HK-5307),Landed 07:15,2021-04-23
+8,8,07:50 H2802,,Santiago (SCL),Sky Airline A20N (CC-AZP),Unknown,2021-04-23
+9,9,09:20,LA2180,Ayacucho (AYP),LATAM Airlines A320 (CC-BFJ),Landed 09:09,2021-04-23
+10,10,09:40,LA2010,Cusco (CUZ),LATAM Airlines A320 (CC-BFP),Landed 09:14,2021-04-23
+11,11,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-23
+12,12,09:50,LA2088,Juliaca (JUL),LATAM Airlines A320 (CC-BFG),Landed 09:32,2021-04-23
+13,13,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-23
+14,14,10:12 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BJF),Landed 10:09,2021-04-23
+15,15,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-23
+16,16,10:20 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFK),Landed 09:58,2021-04-23
+17,17,10:30 H25006,,Cusco (CUZ),Sky Airline A20N (CC-AZR),Landed 10:12,2021-04-23
+18,18,10:30 H25263,,Trujillo (TRU),SKY Airline A20N (CC-AZD),Unknown,2021-04-23
+19,19,10:32 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-BCF),Landed 10:27,2021-04-23
+20,20,10:35 LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BFT),Landed 10:32,2021-04-23
+21,21,10:39 LA2722,,Montevideo (MVD),LATAM Airlines A20N (CC-BHA),Landed 10:51,2021-04-23
+22,22,10:45 QT601,,Miami (MIA),Avianca Cargo 33F,Unknown,2021-04-23
+23,23,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-23
+24,24,11:00 LA2162,,Tacna (TCQ),LATAM Airlines A320 (CC-BFV),Landed 11:07,2021-04-23
+25,25,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-23
+26,26,11:14 LA2221,,Talara (TYL),LATAM Airlines A319 (CC-CYJ),Landed 11:10,2021-04-23
+27,27,11:20 H25361,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Landed 11:53,2021-04-23
+28,28,11:20 K4539D,,Miami (MIA),Kalitta Air B744 (N710CK),Landed 10:58,2021-04-23
+29,29,11:34 LA2363,,Pucallpa (PCL),LATAM Airlines A20N (CC-BHG),Landed 11:33,2021-04-23
+30,30,11:42 LA2096,,Juliaca (JUL),LATAM Airlines A320 (CC-BFO),Landed 11:41,2021-04-23
+31,31,11:53 LA2257,,Tarapoto (TPP),LATAM Airlines A20N (CC-BHC),Landed 11:48,2021-04-23
+32,32,11:55 H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZL),Landed 11:44,2021-04-23
+33,33,11:58 LA2101,,Arequipa (AQP),LATAM Airlines A319 (CC-CPM),Landed 11:51,2021-04-23
+34,34,12:03 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFU),Landed 11:57,2021-04-23
+35,35,12:16 LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BJD),Unknown,2021-04-23
+36,36,12:38 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-CPI),Landed 12:47,2021-04-23
+37,37,12:44 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFI),Landed 12:33,2021-04-23
+38,38,12:55 VV707,,Cusco (CUZ),Viva Air A320 (HK-5308),Landed 13:42,2021-04-23
+39,39,12:56 LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BAD),Landed 12:51,2021-04-23
+40,40,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-23
+41,41,13:07 LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BFS),Landed 13:00,2021-04-23
+42,42,13:13 LA2213,,Trujillo (TRU),LATAM Airlines A320 (CC-BFQ),Landed 13:04,2021-04-23
+43,43,13:29 LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BFF),Landed 13:17,2021-04-23
+44,44,13:40 LA2217,,Talara (TYL),LATAM Airlines A320 (CC-BFW),Landed 13:30,2021-04-23
+45,45,13:45 LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BFP),Landed 13:49,2021-04-23
+46,46,13:45 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-23
+47,47,13:45 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-23
+48,48,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-23
+49,49,14:25 VV912,,Arequipa (AQP),Viva Air Peru 320,Unknown,2021-04-23
+50,50,14:27 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BFH),Landed 14:17,2021-04-23
+51,51,14:30 LA2331,,Tumbes (TBP),LATAM Airlines A320 (CC-BFJ),Landed 14:21,2021-04-23
+52,52,14:30 4A501,,Talara (TYL),Aerodynamics DH4,Unknown,2021-04-23
+53,53,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-23
+54,54,14:45 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BFM),Landed 14:45,2021-04-23
+55,55,14:49 LA2062,,Cusco (CUZ),LATAM Airlines A320 (CC-BFK),Landed 14:48,2021-04-23
+56,56,14:55 H25409,,Tarapoto (TPP),SKY Airline A20N (CC-AZJ),Landed 14:33,2021-04-23
+57,57,14:58 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFG),Landed 15:06,2021-04-23
+58,58,15:09 LA2295,,Cajamarca (CJA),LATAM Airlines A319 (CC-BCF),Landed 14:52,2021-04-23
+59,59,15:35 H25164,,Juliaca (JUL),Sky Airline A20N (CC-AZR),Landed 15:23,2021-04-23
+60,60,15:45 H25227,,Piura (PIU),SKY Airline A20N (CC-AZD),Landed 15:31,2021-04-23
+61,61,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-23
+62,62,16:02 LA2574,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-CYJ),Landed 16:05,2021-04-23
+63,63,16:05 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFV),Landed 15:59,2021-04-23
+64,64,16:06 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BJE),Landed 16:23,2021-04-23
+65,65,16:09 LA2219,,Talara (TYL),LATAM Airlines A320 (CC-BFT),Unknown,2021-04-23
+66,66,16:35 H25012,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 16:36,2021-04-23
+67,67,16:42 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BJF),Landed 16:40,2021-04-23
+68,68,16:45 H25323,,Tumbes (TBP),SKY Airline A20N (CC-AZL),Landed 16:31,2021-04-23
+69,69,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-23
+70,70,16:50 LA2124,,Arequipa (AQP),LATAM Airlines A320 (CC-BFO),Unknown,2021-04-23
+71,71,16:55 AA379,,Miami (MIA),American Airlines A321 (N907AA),Landed 16:27,2021-04-23
+72,72,16:56,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BJD),Landed 16:48,2021-04-23
+73,73,17:10,,Medellin (EOH),- A320,Canceled,2021-04-23
+74,74,17:30,LA2064,Cusco (CUZ),LATAM Airlines A319 (CC-CPI),Landed 16:54,2021-04-23
+75,75,17:36 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFI),Landed 17:28,2021-04-23
+76,76,17:41 LA2279,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFF),Landed 17:31,2021-04-23
+77,77,17:42 LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BFU),Landed 17:34,2021-04-23
+78,78,17:43 LA2148,,Arequipa (AQP),LATAM Airlines A319 (CC-BCE),Landed 17:39,2021-04-23
+79,79,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-23
+80,80,17:46 VH360,,Medellin (MDE),Viva Air A20N (HK-5361),Landed 17:17,2021-04-23
+81,81,18:00,DL151,Atlanta (ATL),Delta Air Lines B764 (N828MH),Landed 17:47,2021-04-23
+82,82,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-23
+83,83,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVN),Landed 17:57,2021-04-23
+84,84,18:08 LA2193,,Jauja (JAU),LATAM Airlines A319 (CC-CPM),Landed 18:08,2021-04-23
+85,85,18:15,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BFQ),Landed 17:43,2021-04-23
+86,86,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5307),Landed 18:05,2021-04-23
+87,87,18:34 LA2665,,Jaen (JAE),LATAM Airlines A20N (CC-BHG),Landed 18:30,2021-04-23
+88,88,18:59,LA2144,Arequipa (AQP),LATAM Airlines A320 (CC-BFS),Landed 18:37,2021-04-23
+89,89,19:15,LA2229,Trujillo (TRU),LATAM Airlines A320 (CC-BFM),Landed 18:52,2021-04-23
+90,90,19:16 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFG),Landed 19:05,2021-04-23
+91,91,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A320 (CC-BFJ),Landed 18:58,2021-04-23
+92,92,19:30,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BAD),Landed 19:28,2021-04-23
+93,93,19:45 LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFP),Landed 19:33,2021-04-23
+94,94,19:50 H25425,,Pucallpa (PCL),Sky Airline A20N (CC-AZR),Landed 19:43,2021-04-23
+95,95,20:00 VV421,,Iquitos (IQT),Viva Air A320 (HK-5308),Landed 19:37,2021-04-23
+96,96,20:00 VV919,,Arequipa (AQP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 19:41,2021-04-23
+97,97,20:35,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BJE),Landed 20:58,2021-04-23
+98,98,20:40 AA1307,,Miami (MIA),American Airlines A321 (N987AM),Landed 20:31,2021-04-23
+99,99,20:45 H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZJ),Landed 20:11,2021-04-23
+100,100,20:55,LA2447,Bogota (BOG),LATAM Airlines A20N (CC-BHC),Landed 21:28,2021-04-23
+101,101,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-23
+102,102,21:20 H25142,,Arequipa (AQP),SKY Airline A20N (CC-AZL),Landed 21:11,2021-04-23
+103,103,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CWY),Landed 20:55,2021-04-23
+104,104,21:30,LA2311,Piura (PIU),LATAM Airlines A319 (CC-CYJ),Landed 21:04,2021-04-23
+105,105,21:40,AM18,Mexico City (MEX),Aeromexico B738 (XA-AME),Landed 21:24,2021-04-23
+106,106,21:54 NK977,,Fort Lauderdale (FLL),Spirit Airlines A20N (N913NK),Landed 21:40,2021-04-23
+107,107,21:54 NK977,,Fort Lauderdale (FLL),Spirit Airlines A20N (N913NK),Landed 21:40,2021-04-23
+108,108,22:15 LA2471,,Mexico City (MEX),LATAM Airlines B763 (CC-CXI),Canceled,2021-04-23
+109,109,22:19 AA917,,Miami (MIA),American Airlines B788 (N818AL),Landed 22:01,2021-04-23
+110,110,23:00,UA854,Houston (IAH),United Airlines B763 (N641UA),Estimated 23:03,2021-04-23
+111,111,23:00 VV391,,Tarapoto (TPP),Viva Air A320 (HK-5307),Estimated 22:31,2021-04-23
+112,112,23:05 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Estimated 22:46,2021-04-23
+113,113,23:38 CM337,,Panama City (PTY),Copa Airlines (Star Alliance Livery) B738 (HP-1728CMP),Estimated 23:11,2021-04-23
+0,0,12:20 AM AA909,,Dallas (DFW),American Airlines B788 (N802AN),Landed 12:23 AM,2021-04-24
+1,1,12:24 AM,AA385,Miami (MIA),American Airlines A321 (N140AN),Unknown,2021-04-24
+2,2,1:34 AM,CM760,Panama City (PTY),Copa Airlines B738 (HP-1539CMP),Landed 1:19 AM,2021-04-24
+3,3,5:20 AM LA2465,,Miami (MIA),LATAM Airlines B763 (CC-CXF),Landed 5:13 AM,2021-04-24
+4,4,6:00 AM,IB6659,Madrid (MAD),Iberia A359 (EC-NIS),Landed 5:36 AM,2021-04-24
+5,5,6:05 AM LA2381,,New York (JFK),LATAM Airlines B763 (CC-CXG),Landed 5:57 AM,2021-04-24
+6,6,7:10 AM LA1957,,Miami (MIA),LATAM Airlines B789 (CC-BGL),Landed 7:08 AM,2021-04-24
+7,7,9:10 AM,LA2180,Ayacucho (AYP),LATAM Airlines A320 (CC-BFU),Landed 9:04 AM,2021-04-24
+8,8,9:40 AM 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-24
+9,9,10:00 AM 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-24
+10,10,10:06 AM LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFS),Landed 10:01 AM,2021-04-24
+11,11,10:13 AM LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFI),Landed 10:11 AM,2021-04-24
+12,12,10:15 AM 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-24
+13,13,10:20 AM LA2468,,Buenos Aires (EZE),LATAM Airlines 320,Unknown,2021-04-24
+14,14,10:30 AM H25006,,Cusco (CUZ),SKY Airline A20N (CC-AZJ),Landed 10:14 AM,2021-04-24
+15,15,10:30 AM H25263,,Trujillo (TRU),Sky Airline A20N (CC-AZI),Landed 10:30 AM,2021-04-24
+16,16,10:33 AM LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BJD),Landed 10:25 AM,2021-04-24
+17,17,10:43 AM LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-CPI),Landed 10:36 AM,2021-04-24
+18,18,10:45 AM 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-24
+19,19,10:58 AM LA2018,,Cusco (CUZ),LATAM Airlines A320 (CC-BFV),Landed 11:04 AM,2021-04-24
+20,20,11:05 AM 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-24
+21,21,11:09 AM LA2530,,Cusco (CUZ),LATAM Airlines A320 (CC-BFT),Landed 11:04 AM,2021-04-24
+22,22,11:20 AM H25225,,Piura (PIU),Sky Airline A20N (CC-AZR),Landed 10:59 AM,2021-04-24
+23,23,11:20 AM H25361,,Iquitos (IQT),SKY Airline A20N (CC-AZL),Landed 11:11 AM,2021-04-24
+24,24,11:25 AM LA2103,,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Landed 11:23 AM,2021-04-24
+25,25,11:42 AM LA2257,,Tarapoto (TPP),LATAM Airlines A319 (CC-BCE),Landed 11:36 AM,2021-04-24
+26,26,11:48 AM LA2096,,Juliaca (JUL),LATAM Airlines A320 (CC-BFG),Landed 11:47 AM,2021-04-24
+27,27,11:48 AM LA2333,,Tumbes (TBP),LATAM Airlines A319 (CC-CPM),Landed 11:39 AM,2021-04-24
+28,28,11:55 AM H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 11:32 AM,2021-04-24
+29,29,11:57 AM LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BFM),Unknown,2021-04-24
+30,30,12:00 PM LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFO),Landed 11:54 AM,2021-04-24
+31,31,12:00 PM VV921,,Ilo (ILQ),Viva Air Peru 320,Unknown,2021-04-24
+32,32,12:14 PM LA2213,,Trujillo (TRU),LATAM Airlines A320 (CC-BJE),Landed 12:04 PM,2021-04-24
+33,33,12:35 PM VV101,,Chiclayo (CIX),Viva Air A320 (HK-5307),Landed 12:20 PM,2021-04-24
+34,34,12:42 PM LA2572,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-CQL),Landed 12:50 PM,2021-04-24
+35,35,12:43 PM LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFW),Landed 12:31 PM,2021-04-24
+36,36,12:53 PM LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BJF),Landed 12:44 PM,2021-04-24
+37,37,1:00 PM 4A101,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-24
+38,38,1:05 PM 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-24
+39,39,1:06 PM LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BFF),Landed 12:55 PM,2021-04-24
+40,40,1:07 PM LA2164,,Tacna (TCQ),LATAM Airlines A320 (CC-BFQ),Landed 1:16 PM,2021-04-24
+41,41,1:20 PM VV923,,Ilo (ILQ),Viva Air A320 (HK-5308),Landed 6:14 PM,2021-04-24
+42,42,1:45 PM 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-24
+43,43,1:46 PM LA2217,,Talara (TYL),LATAM Airlines A320 (CC-BFK),Landed 1:35 PM,2021-04-24
+44,44,1:47 PM LA2295,,Cajamarca (CJA),LATAM Airlines A319 (CC-CPO),Landed 1:30 PM,2021-04-24
+45,45,1:55 PM LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-24
+46,46,2:06 PM LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFJ),Landed 2:22 PM,2021-04-24
+47,47,2:20 PM LA2331,,Tumbes (TBP),LATAM Airlines A20N (CC-BHG),Landed 2:15 PM,2021-04-24
+48,48,2:25 PM VV912,,Arequipa (AQP),Viva Air Peru 320,Unknown,2021-04-24
+49,49,2:35 PM 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-24
+50,50,2:38 PM LA2590,,Arequipa (AQP),LATAM Airlines A319 (CC-BCF),Landed 2:34 PM,2021-04-24
+51,51,2:49 PM LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFH),Landed 2:51 PM,2021-04-24
+52,52,2:51 PM LA2062,,Cusco (CUZ),LATAM Airlines A320 (CC-BFS),Landed 2:44 PM,2021-04-24
+53,53,3:08 PM LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BFU),Landed 2:59 PM,2021-04-24
+54,54,3:15 PM H25210,,Ayacucho (AYP),SKY Airline A20N (CC-AZL),Landed 3:03 PM,2021-04-24
+55,55,3:35 PM H25164,,Juliaca (JUL),SKY Airline A20N (CC-AZJ),Landed 3:14 PM,2021-04-24
+56,56,3:37 PM LA2275,,Chiclayo (CIX),LATAM Airlines A319 (CC-CYJ),Landed 3:38 PM,2021-04-24
+57,57,3:40 PM H25106,,Arequipa (AQP),Sky Airline A20N (CC-AZR),Landed 3:26 PM,2021-04-24
+58,58,3:50 PM 4A4012,,Tullahoma (AYX),Aerodynamics BE1,Unknown,2021-04-24
+59,59,3:54 PM LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BJD),Landed 3:49 PM,2021-04-24
+60,60,3:55 PM 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-24
+61,61,4:35 PM H25012,,Cusco (CUZ),Sky Airline A20N (CC-AZI),Landed 4:15 PM,2021-04-24
+62,62,4:36 PM LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFM),Landed 4:33 PM,2021-04-24
+63,63,4:40 PM LA2124,,Arequipa (AQP),LATAM Airlines A320 (CC-BFG),Landed 4:36 PM,2021-04-24
+64,64,4:45 PM H25323,,Tumbes (TBP),SKY Airline A20N (CC-AZD),Landed 4:10 PM,2021-04-24
+65,65,4:45 PM 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-24
+66,66,4:55 PM AA379,,Miami (MIA),American Airlines A321 (N990AU),Landed 4:47 PM,2021-04-24
+67,67,5:00 PM LA2247,,Iquitos (IQT),LATAM Airlines A319 (CC-CPI),Landed 4:26 PM,2021-04-24
+68,68,5:15 PM GG4525,,Miami (MIA),Sky Lease Cargo B744 (N903AR),Landed 4:51 PM,2021-04-24
+69,69,5:30 PM,LA2064,Cusco (CUZ),LATAM Airlines A319 (CC-CQL),Landed 4:59 PM,2021-04-24
+70,70,5:30 PM QT601,,Medellin (MDE),Avianca Cargo 33F,Unknown,2021-04-24
+71,71,5:31 PM LA2279,,Chiclayo (CIX),LATAM Airlines A319 (CC-CPM),Landed 5:31 PM,2021-04-24
+72,72,5:42 PM LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BJE),Landed 5:37 PM,2021-04-24
+73,73,5:45 PM 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-24
+74,74,6:00 PM,DL151,Atlanta (ATL),Delta Air Lines B764 (N825MH),Landed 6:18 PM,2021-04-24
+75,75,6:00 PM 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-24
+76,76,6:05 PM,KL743,Amsterdam (AMS),KLM B77W (PH-BVI),Landed 6:00 PM,2021-04-24
+77,77,6:15 PM,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BFO),Landed 5:34 PM,2021-04-24
+78,78,6:49 PM LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BFK),Landed 6:47 PM,2021-04-24
+79,79,6:59 PM,LA2144,Arequipa (AQP),LATAM Airlines A319 (CC-BCE),Unknown,2021-04-24
+80,80,7:13 PM,LA2227,Trujillo (TRU),LATAM Airlines A319 (CC-CPO),Landed 6:57 PM,2021-04-24
+81,81,7:20 PM LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFH),Landed 7:06 PM,2021-04-24
+82,82,7:20 PM,LA2277,Chiclayo (CIX),LATAM Airlines A319 (CC-BCF),Landed 7:09 PM,2021-04-24
+83,83,7:30 PM,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BJF),Landed 7:21 PM,2021-04-24
+84,84,7:30 PM X82262,,Miami (MIA),Icaro 76Y,Unknown,2021-04-24
+85,85,7:43 PM LA2309,,Piura (PIU),LATAM Airlines A320 (CC-BFJ),Landed 7:33 PM,2021-04-24
+86,86,7:45 PM NC860,,Miami (MIA),Northern Air Cargo B763 (N321CM),Landed 7:02 PM,2021-04-24
+87,87,7:46 PM LA2215,,Talara (TYL),LATAM Airlines A320 (CC-BFF),Landed 7:39 PM,2021-04-24
+88,88,7:50 PM H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZJ),Landed 7:28 PM,2021-04-24
+89,89,8:00 PM VV919,,Arequipa (AQP),Viva Air A320 (HK-5307),Landed 7:50 PM,2021-04-24
+90,90,8:35 PM H25142,,Arequipa (AQP),Sky Airline A20N (CC-AZR),Landed 8:16 PM,2021-04-24
+91,91,8:40 PM AA1307,,Miami (MIA),American Airlines A321 (N902AA),Landed 8:13 PM,2021-04-24
+92,92,8:45 PM H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 8:20 PM,2021-04-24
+93,93,8:53 PM LA2142,,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Landed 8:48 PM,2021-04-24
+94,94,8:55 PM H25411,,Tarapoto (TPP),SKY Airline A20N (CC-AZD),Landed 8:31 PM,2021-04-24
+95,95,8:55 PM,LA2447,Bogota (BOG),LATAM Airlines A20N (CC-BHB),Landed 8:42 PM,2021-04-24
+96,96,8:55 PM 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-24
+97,97,9:11 PM LA2415,,Guayaquil (GYE),LATAM Airlines A320 (CC-BFT),Landed 9:01 PM,2021-04-24
+98,98,9:20 PM LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXJ),Landed 8:45 PM,2021-04-24
+99,99,9:20 PM M38488,,Manaus (MAO),LATAM Cargo B763 (PR-ABD),Diverted to BOG,2021-04-24
+100,100,9:40 PM,AM18,Mexico City (MEX),Aeromexico B738 (N950AM),Landed 9:21 PM,2021-04-24
+101,101,10:15 PM LA2482,,Santiago (SCL),LATAM Airlines B789 (CC-BGL),Landed 10:13 PM,2021-04-24
+102,102,10:19 PM AA917,,Miami (MIA),American Airlines B788 (N872AN),Landed 10:10 PM,2021-04-24
+103,103,10:25 PM H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Landed 10:02 PM,2021-04-24
+104,104,10:30 PM,B61825,Fort Lauderdale (FLL),JetBlue Airways A21N (N2043J),Landed 11:29 PM,2021-04-24
+105,105,10:32 PM AC7257,,Toronto (YYZ),Air Canada A333 (C-GOFW),Landed 11:42 PM,2021-04-24
+106,106,10:55 PM LA2451,,Punta Cana (PUJ),LATAM Airlines A320 (CC-BFI),Landed 10:43 PM,2021-04-24
+107,107,11:00 PM,UA854,Houston (IAH),United Airlines B763 (N654UA),Landed 11:04 PM,2021-04-24
+108,108,11:00 PM VV421,,Iquitos (IQT),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 10:47 PM,2021-04-24
+109,109,11:00 PM EF5139,,Bogota (BOG),- 737,Unknown,2021-04-24
+110,110,11:38 PM CM337,,Panama City (PTY),Copa Airlines (Star Alliance Livery) B738 (HP-1728CMP),Landed 11:18 PM,2021-04-24
+111,111,11:45 PM LA2457,,Cancun (CUN),LATAM Airlines A320 (CC-BAD),Landed 11:51 PM,2021-04-24
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B789 (N826AN),Landed 00:06,2021-04-25
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N159AN),Landed 00:01,2021-04-25
+2,2,01:34 CM760,,Panama City (PTY),Copa Airlines B738 (HP-1838CMP),Landed 01:00,2021-04-25
+3,3,04:25 KE274,,Santiago (SCL),Korean Air Cargo B77L (HL8076),Landed 05:25,2021-04-25
+4,4,06:25 LA2401,,La Paz (LPB),LATAM Airlines A320 (CC-BFI),Landed 06:27,2021-04-25
+5,5,06:30 4L321,,Bogota (BOG),Palau National Airlines 72F,Unknown,2021-04-25
+6,6,06:32 UC8488,,Bogota (BOG),LATAM Cargo B763 (PR-ABD),Unknown,2021-04-25
+7,7,06:36 LA2521,,Madrid (MAD),LATAM Airlines B763 (CC-CXH),Landed 06:59,2021-04-25
+8,8,07:21 LA2407,,Santa Cruz (VVI),LATAM Airlines A319 (CC-CYJ),Landed 07:16,2021-04-25
+9,9,08:45 4A4052,,Andahuaylas (ANS),Aerodynamics BE1,Unknown,2021-04-25
+10,10,09:10 LA2180,,Ayacucho (AYP),LATAM Airlines A320 (CC-BFJ),Landed 09:07,2021-04-25
+11,11,09:30 M62260,,Miami (MIA),Amerijet International B762,Unknown,2021-04-25
+12,12,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-25
+13,13,09:50 LA2088,,Juliaca (JUL),LATAM Airlines A320 (CC-BFM),Landed 09:43,2021-04-25
+14,14,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-25
+15,15,10:12 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BAD),Landed 10:06,2021-04-25
+16,16,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-25
+17,17,10:30 H25263,,Trujillo (TRU),SKY Airline A20N (CC-AZJ),Landed 12:11,2021-04-25
+18,18,10:30 H25006,,Cusco (CUZ),Sky Airline A20N (CC-AZR),Landed 09:52,2021-04-25
+19,19,10:30 MP7762,,Campinas (VCP),KLM Cargo B744 (PH-CKC),Landed 10:51,2021-04-25
+20,20,10:35 LA2273,,Chiclayo (CIX),LATAM Airlines A319 (CC-CPI),Landed 10:10,2021-04-25
+21,21,10:43 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-CPO),Landed 10:35,2021-04-25
+22,22,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-25
+23,23,11:04 LA2018,,Cusco (CUZ),LATAM Airlines A319 (CC-CQL),Landed 10:57,2021-04-25
+24,24,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-25
+25,25,11:20 H25225,,Piura (PIU),SKY Airline A20N (CC-AZL),Landed 10:40,2021-04-25
+26,26,11:20 H25361,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Landed 10:48,2021-04-25
+27,27,11:51 LA2101,,Arequipa (AQP),LATAM Airlines A319 (CC-BCF),Landed 11:38,2021-04-25
+28,28,11:55 H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 11:31,2021-04-25
+29,29,12:02 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFT),Landed 11:56,2021-04-25
+30,30,12:15 LA2012,,Cusco (CUZ),LATAM Airlines A320 (CC-BFI),Landed 11:44,2021-04-25
+31,31,12:43 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFU),Landed 12:33,2021-04-25
+32,32,12:55 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BJE),Landed 13:01,2021-04-25
+33,33,13:00 VV151,,Juliaca (JUL),Viva Air A320 (HK-5308),Landed 12:35,2021-04-25
+34,34,13:02 LA2164,,Tacna (TCQ),LATAM Airlines A319 (CC-CYJ),Landed 13:25,2021-04-25
+35,35,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-25
+36,36,13:10 VV715,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 12:47,2021-04-25
+37,37,13:20 LA2357,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFR),Canceled,2021-04-25
+38,38,13:25 LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BFQ),Landed 13:28,2021-04-25
+39,39,13:39 LA2667,,Jaen (JAE),LATAM Airlines A320 (CC-BJF),Landed 13:37,2021-04-25
+40,40,13:45 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-25
+41,41,13:49 LA2217,,Talara (TYL),LATAM Airlines A319 (CC-CPM),Landed 13:39,2021-04-25
+42,42,13:51 LA2225,,Trujillo (TRU),LATAM Airlines A320 (CC-BFM),Landed 13:47,2021-04-25
+43,43,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-25
+44,44,13:58 LA2295,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFO),Landed 13:43,2021-04-25
+45,45,14:01 LA2574,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BFF),Landed 13:51,2021-04-25
+46,46,14:12 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFH),Landed 14:29,2021-04-25
+47,47,14:18 LA2331,,Tumbes (TBP),LATAM Airlines A320 (CC-BJD),Landed 14:10,2021-04-25
+48,48,14:26 LA2313,,Piura (PIU),LATAM Airlines A319 (CC-BCE),Landed 14:15,2021-04-25
+49,49,14:31 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BFG),Landed 14:26,2021-04-25
+50,50,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-25
+51,51,14:49 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFJ),Landed 14:53,2021-04-25
+52,52,15:15 QT601,,Miami (MIA),Avianca Cargo 33F,Unknown,2021-04-25
+53,53,15:45 H25227,,Piura (PIU),Sky Airline A20N (CC-AZR),Landed 15:26,2021-04-25
+54,54,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-25
+55,55,16:00 LA2124,,Arequipa (AQP),LATAM Airlines A319 (CC-CQL),Landed 15:53,2021-04-25
+56,56,16:01 LA2219,,Talara (TYL),LATAM Airlines A319 (CC-CPI),Landed 15:49,2021-04-25
+57,57,16:03 LA2098,,Juliaca (JUL),LATAM Airlines A319 (CC-CPO),Landed 16:01,2021-04-25
+58,58,16:30,LA2393,Bogota (BOG),LATAM Airlines A320 (CC-BFS),Landed 16:07,2021-04-25
+59,59,16:32 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFW),Landed 16:27,2021-04-25
+60,60,16:32 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFU),Landed 16:23,2021-04-25
+61,61,16:35 H25012,,Cusco (CUZ),Sky Airline 32N,Canceled,2021-04-25
+62,62,16:40,LA2227,Trujillo (TRU),LATAM Airlines A320 (CC-BJE),Landed 16:31,2021-04-25
+63,63,16:45 H25323,,Tumbes (TBP),Sky Airline A20N (CC-AZI),Landed 15:55,2021-04-25
+64,64,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-25
+65,65,16:55 AA379,,Miami (MIA),American Airlines A321 (N905AU),Landed 16:40,2021-04-25
+66,66,17:15,LA2064,Cusco (CUZ),LATAM Airlines A320 (CC-BFI),Landed 17:10,2021-04-25
+67,67,17:15,,Medellin (EOH),- A320,Canceled,2021-04-25
+68,68,17:21 LA2279,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFP),Landed 17:22,2021-04-25
+69,69,17:27 UC1403,,Miami (MIA),LATAM Cargo B763 (N536LA),Landed 17:24,2021-04-25
+70,70,17:45 LA2148,,Arequipa (AQP),LATAM Airlines A319 (CC-BCF),Landed 17:39,2021-04-25
+71,71,17:45 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFQ),Landed 17:37,2021-04-25
+72,72,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-25
+73,73,17:46 VH360,,Medellin (MDE),Viva Air A20N (HK-5361),Landed 17:07,2021-04-25
+74,74,17:49 LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BFT),Landed 17:43,2021-04-25
+75,75,18:00,DL151,Atlanta (ATL),Delta Air Lines B764 (N836MH),Landed 18:16,2021-04-25
+76,76,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-25
+77,77,18:05,KL743,Amsterdam (AMS),KLM B77W (PH-BVU),Landed 18:05,2021-04-25
+78,78,18:15,LA2014,Cusco (CUZ),LATAM Airlines A319 (CC-CYJ),Landed 17:28,2021-04-25
+79,79,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5307),Landed 17:58,2021-04-25
+80,80,18:27 LA2665,,Jaen (JAE),LATAM Airlines A320 (CC-BFF),Unknown,2021-04-25
+81,81,19:00,LA2144,Arequipa (AQP),LATAM Airlines A319 (CC-CPM),Landed 18:28,2021-04-25
+82,82,19:20,LA2277,Chiclayo (CIX),LATAM Airlines A320 (CC-BJD),Landed 19:02,2021-04-25
+83,83,19:30,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BJF),Landed 19:08,2021-04-25
+84,84,19:30 X82260,,Miami (MIA),Icaro 76Y,Unknown,2021-04-25
+85,85,19:41 LA2309,,Piura (PIU),LATAM Airlines A319 (CC-BCE),Landed 19:32,2021-04-25
+86,86,19:50 H25425,,Pucallpa (PCL),SKY Airline A20N (CC-AZJ),Landed 19:20,2021-04-25
+87,87,19:50 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFG),Landed 19:04,2021-04-25
+88,88,19:50 5Y56,,Campinas (VCP),Atlas Air 74F,Unknown,2021-04-25
+89,89,20:00 VV851,,Arequipa (AQP),Viva Air A320 (HK-5308),Landed 19:53,2021-04-25
+90,90,20:10,LA2020,Cusco (CUZ),LATAM Airlines A320 (CC-BFH),Landed 19:44,2021-04-25
+91,91,20:35,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BFO),Landed 20:08,2021-04-25
+92,92,20:40 AA1307,,Miami (MIA),American Airlines A321 (N907AA),Landed 20:17,2021-04-25
+93,93,20:45 H25080,,Cusco (CUZ),Sky Airline A20N (CC-AZR),Landed 20:24,2021-04-25
+94,94,20:55 H25411,,Tarapoto (TPP),SKY Airline A20N (CC-AZL),Landed 20:21,2021-04-25
+95,95,20:55,LA2447,Bogota (BOG),LATAM Airlines A320 (CC-BAD),Landed 20:45,2021-04-25
+96,96,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-25
+97,97,21:08 LA2439,,Quito (UIO),LATAM Airlines A20N (CC-BHA),Landed 21:01,2021-04-25
+98,98,21:20 H25142,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 20:57,2021-04-25
+99,99,21:30,LA2311,Piura (PIU),LATAM Airlines A319 (CC-CPI),Landed 21:04,2021-04-25
+100,100,21:30 LA2459,,Cancun (CUN),LATAM Airlines A320 (CC-BFK),Landed 21:24,2021-04-25
+101,101,21:40,AM18,Mexico City (MEX),Aeromexico B738 (XA-AMJ),Landed 21:44,2021-04-25
+102,102,21:42 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXI),Landed 21:33,2021-04-25
+103,103,22:15 LA2471,,Mexico City (MEX),LATAM Airlines B763 (CC-CWV),Estimated 22:15,2021-04-25
+104,104,22:15 LA2471,,Mexico City (MEX),LATAM Airlines B763 (CC-CWV),Canceled,2021-04-25
+105,105,22:19 AA917,,Miami (MIA),American Airlines B788 (N803AL),Estimated 22:12,2021-04-25
+106,106,22:25 H25363,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Landed 21:41,2021-04-25
+107,107,23:00 VV391,,Tarapoto (TPP),Viva Air A320 (HK-5307),Estimated 22:07,2021-04-25
+108,108,23:10 AC7257,,Toronto (YYZ),Air Canada A333 (C-GOFW),Estimated 23:22,2021-04-25
+109,109,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1843CMP),Estimated 23:26,2021-04-25
+0,0,00:20 AA909,,Dallas (DFW),American Airlines B788 (N806AA),Landed 23:47,2021-04-26
+1,1,00:24,AA385,Miami (MIA),American Airlines A321 (N154AA),Landed 05:06,2021-04-26
+2,2,01:34,CM760,Panama City (PTY),Copa Airlines B738 (HP-1854CMP),Landed 01:22,2021-04-26
+3,3,04:25 KE274,,Santiago (SCL),Korean Air Cargo B77L (HL8251),Landed 05:13,2021-04-26
+4,4,05:20 LA2465,,Miami (MIA),LATAM Airlines B763 (CC-CXJ),Landed 07:17,2021-04-26
+5,5,06:00,IB6659,Madrid (MAD),Iberia A359 (EC-MYX),Landed 05:18,2021-04-26
+6,6,06:05 BA2239,,London (LGW),British Airways B772 (G-YMMF),Landed 05:54,2021-04-26
+7,7,06:05 LA2381,,New York (JFK),LATAM Airlines B763 (CC-CXG),Landed 05:49,2021-04-26
+8,8,07:15,LA2477,Los Angeles (LAX),LATAM Airlines B763 (CC-CWY),Landed 07:00,2021-04-26
+9,9,07:26 LA2465,,Miami (MIA),LATAM Airlines B763 (CC-CXJ),Unknown,2021-04-26
+10,10,09:10,LA2180,Ayacucho (AYP),LATAM Airlines A320 (CC-BFK),Landed 09:05,2021-04-26
+11,11,09:38,LA2088,Juliaca (JUL),LATAM Airlines A320 (CC-BJD),Landed 09:32,2021-04-26
+12,12,09:40,LA2010,Cusco (CUZ),LATAM Airlines A320 (CC-BFW),Landed 09:02,2021-04-26
+13,13,09:40 4A4030,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-26
+14,14,09:45 NC862,,Miami (MIA),Northern Air Cargo B763 (N321CM),Landed 09:08,2021-04-26
+15,15,10:00 VV707,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 09:29,2021-04-26
+16,16,10:00 2I3134,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-26
+17,17,10:09 LA2273,,Chiclayo (CIX),LATAM Airlines A320 (CC-BFM),Landed 10:10,2021-04-26
+18,18,10:15 4A201,,Huanuco (HUU),Aerodynamics DH4,Unknown,2021-04-26
+19,19,10:19 LA2231,,Iquitos (IQT),LATAM Airlines A320 (CC-BFG),Landed 10:15,2021-04-26
+20,20,10:20 LA2468,,Buenos Aires (EZE),LATAM Airlines 319,Unknown,2021-04-26
+21,21,10:30 H25263,,Trujillo (TRU),SKY Airline A20N (CC-AZL),Landed 12:14,2021-04-26
+22,22,10:40 LA2104,,Arequipa (AQP),LATAM Airlines A320 (CC-BFJ),Landed 10:28,2021-04-26
+23,23,10:45 2I1152,,Ayacucho (AYP),Star Peru 73C,Unknown,2021-04-26
+24,24,10:46 LA2191,,Jauja (JAU),LATAM Airlines A319 (CC-CYJ),Landed 10:37,2021-04-26
+25,25,11:05 2I4121,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-26
+26,26,11:15 LA2162,,Tacna (TCQ),LATAM Airlines A320 (CC-BFF),Landed 11:04,2021-04-26
+27,27,11:20 H25361,,Iquitos (IQT),Sky Airline A20N (CC-AZI),Landed 10:55,2021-04-26
+28,28,11:31 LA2221,,Talara (TYL),LATAM Airlines A319 (CC-BCE),Landed 11:27,2021-04-26
+29,29,11:38 LA2096,,Juliaca (JUL),LATAM Airlines A320 (CC-BFQ),Landed 11:40,2021-04-26
+30,30,11:41 LA2012,,Cusco (CUZ),LATAM Airlines A319 (CC-CPO),Landed 11:35,2021-04-26
+31,31,11:55 H25104,,Arequipa (AQP),SKY Airline A20N (CC-AZD),Landed 11:54,2021-04-26
+32,32,11:56 LA2297,,Cajamarca (CJA),LATAM Airlines A320 (CC-BFI),Landed 11:51,2021-04-26
+33,33,12:03 LA2333,,Tumbes (TBP),LATAM Airlines A320 (CC-BFH),Landed 11:57,2021-04-26
+34,34,12:09 LA2029,,Cusco (CUZ),LATAM Airlines A320 (CC-BFV),Landed 12:01,2021-04-26
+35,35,12:09 LA2257,,Tarapoto (TPP),LATAM Airlines A20N (CC-BHG),Landed 12:07,2021-04-26
+36,36,12:42 LA2315,,Piura (PIU),LATAM Airlines A320 (CC-BFP),Landed 12:34,2021-04-26
+37,37,12:55 VV151,,Juliaca (JUL),Viva Air A320 (HK-5308),Landed 12:40,2021-04-26
+38,38,12:56 LA2213,,Trujillo (TRU),LATAM Airlines A319 (CC-CPM),Landed 12:46,2021-04-26
+39,39,12:57 LA2572,,Puerto Maldonado (PEM),LATAM Airlines A320 (CC-BJE),Landed 13:06,2021-04-26
+40,40,13:00 4A101,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-26
+41,41,13:01 LA2016,,Cusco (CUZ),LATAM Airlines A320 (CC-BFO),Landed 12:55,2021-04-26
+42,42,13:05 2I3116,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-26
+43,43,13:06 LA2164,,Tacna (TCQ),LATAM Airlines A319 (CC-CPI),Landed 13:18,2021-04-26
+44,44,13:10 4A4002,,Chachapoyas (CHH),Aerodynamics DH4,Unknown,2021-04-26
+45,45,13:14 LA2357,,Pucallpa (PCL),LATAM Airlines A319 (CC-CQL),Landed 13:09,2021-04-26
+46,46,13:34 LA2148,,Arequipa (AQP),LATAM Airlines A319 (CC-BCF),Landed 13:28,2021-04-26
+47,47,13:38 LA2667,,Jaen (JAE),LATAM Airlines A320 (CC-BFS),Landed 13:35,2021-04-26
+48,48,13:40 H25602,,Cusco (CUZ),Sky Airline A20N (CC-AZR),Landed 13:15,2021-04-26
+49,49,13:45 4A601,,Tingo Maria (TGI),Aerodynamics BEH,Unknown,2021-04-26
+50,50,13:45 4A4022,,Tingo Maria (TGI),Aerodynamics F5F,Unknown,2021-04-26
+51,51,13:50 VV101,,Chiclayo (CIX),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 13:04,2021-04-26
+52,52,13:55 LA222,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-26
+53,53,13:56 LA2295,,Cajamarca (CJA),LATAM Airlines A320 (CC-BJF),Landed 13:39,2021-04-26
+54,54,14:08 LA2235,,Iquitos (IQT),LATAM Airlines A320 (CC-BFR),Landed 14:26,2021-04-26
+55,55,14:10 LA2018,,Cusco (CUZ),LATAM Airlines A20N (CC-BHC),Landed 14:18,2021-04-26
+56,56,14:22 LA2313,,Piura (PIU),LATAM Airlines A320 (CC-BFK),Landed 14:12,2021-04-26
+57,57,14:30 4A501,,Talara (TYL),Aerodynamics DH4,Unknown,2021-04-26
+58,58,14:35 2I4223,,Huanuco (HUU),Star Peru DH4,Unknown,2021-04-26
+59,59,14:36 LA2331,,Tumbes (TBP),LATAM Airlines A320 (CC-BAD),Landed 14:32,2021-04-26
+60,60,14:42 LA2590,,Arequipa (AQP),LATAM Airlines A320 (CC-BJD),Landed 14:39,2021-04-26
+61,61,14:53 LA2600,,Tacna (TCQ),LATAM Airlines A320 (CC-BFW),Landed 15:00,2021-04-26
+62,62,14:54 WQ9807,,Miami (MIA),iAero Airways B734 (N807TJ),Landed 14:49,2021-04-26
+63,63,14:56 LA2094,,Juliaca (JUL),LATAM Airlines A320 (CC-BFG),Landed 14:44,2021-04-26
+64,64,15:00 QT605,,Bogota (BOG),Avianca Cargo 33F,Unknown,2021-04-26
+65,65,15:35 H25164,,Juliaca (JUL),SKY Airline A20N (CC-AZJ),Landed 15:11,2021-04-26
+66,66,15:37 LA2417,,Guayaquil (GYE),LATAM Airlines A20N (CC-BHA),Landed 15:37,2021-04-26
+67,67,15:45 H25227,,Piura (PIU),Sky Airline A20N (CC-AZI),Landed 15:30,2021-04-26
+68,68,15:55 2I3142,,Tarapoto (TPP),Star Peru 73C,Unknown,2021-04-26
+69,69,16:11 LA2219,,Talara (TYL),LATAM Airlines A320 (CC-BFJ),Landed 16:07,2021-04-26
+70,70,16:18 LA2574,,Puerto Maldonado (PEM),LATAM Airlines A319 (CC-BCE),Landed 16:17,2021-04-26
+71,71,16:35 H25012,,Cusco (CUZ),Sky Airline 320,Canceled,2021-04-26
+72,72,16:38,LA2227,Trujillo (TRU),LATAM Airlines A20N (CC-BHG),Landed 16:28,2021-04-26
+73,73,16:39 LA2359,,Pucallpa (PCL),LATAM Airlines A320 (CC-BFH),Landed 16:32,2021-04-26
+74,74,16:42 LA2124,,Arequipa (AQP),LATAM Airlines A319 (CC-CYJ),Landed 16:39,2021-04-26
+75,75,16:45 H25323,,Tumbes (TBP),SKY Airline A20N (CC-AZD),Landed 16:47,2021-04-26
+76,76,16:45 2I2234,,Cajamarca (CJA),Star Peru 73C,Unknown,2021-04-26
+77,77,16:52 LA2247,,Iquitos (IQT),LATAM Airlines A320 (CC-BFF),Landed 16:44,2021-04-26
+78,78,16:55 AA379,,Miami (MIA),American Airlines A321 (N902AA),Landed 16:37,2021-04-26
+79,79,17:08 LA2064,,Cusco (CUZ),LATAM Airlines A319 (CC-CPO),Landed 17:01,2021-04-26
+80,80,17:36 LA2098,,Juliaca (JUL),LATAM Airlines A320 (CC-BFV),Landed 17:33,2021-04-26
+81,81,17:40 LA2641,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFO),Landed 17:29,2021-04-26
+82,82,17:43 LA2279,,Chiclayo (CIX),LATAM Airlines A319 (CC-CPM),Landed 17:45,2021-04-26
+83,83,17:45 4A4042,,Huanuco (HUU),Aerodynamics F5F,Unknown,2021-04-26
+84,84,17:55 LA2335,,Tumbes (TBP),LATAM Airlines A320 (CC-BFI),Landed 17:52,2021-04-26
+85,85,18:00 2I3132,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-26
+86,86,18:05,KL743,Amsterdam (AMS),KLM (Orange Pride‬ Livery) B77W (PH-BVA),Landed 17:56,2021-04-26
+87,87,18:14 VV711,,Cusco (CUZ),Viva Air A320 (HK-5307),Landed 17:59,2021-04-26
+88,88,18:20 VV551,,Piura (PIU),Viva Air A320 (HK-5308),Landed 18:04,2021-04-26
+89,89,18:34 LA2665,,Jaen (JAE),LATAM Airlines A319 (CC-CQL),Landed 18:31,2021-04-26
+90,90,18:39,LA2144,Arequipa (AQP),LATAM Airlines A319 (CC-BCF),Landed 18:35,2021-04-26
+91,91,18:40,,Bogota (BOG),- A320,Canceled,2021-04-26
+92,92,18:59,LA2014,Cusco (CUZ),LATAM Airlines A320 (CC-BFP),Landed 18:44,2021-04-26
+93,93,19:03,LA2277,Chiclayo (CIX),LATAM Airlines A320 (CC-BAD),Landed 19:04,2021-04-26
+94,94,19:10 VH316,,Bogota (BOG),Viva Air A20N (HK-5353),Landed 18:49,2021-04-26
+95,95,19:15,LA2233,Iquitos (IQT),LATAM Airlines A320 (CC-BJF),Landed 19:23,2021-04-26
+96,96,19:40,LA2020,Cusco (CUZ),LATAM Airlines A320 (CC-BFG),Landed 19:29,2021-04-26
+97,97,19:40 LA2255,,Tarapoto (TPP),LATAM Airlines A320 (CC-BFS),Landed 19:27,2021-04-26
+98,98,19:49 LA2215,,Talara (TYL),LATAM Airlines A320 (CC-BJD),Landed 19:47,2021-04-26
+99,99,19:50 H25425,,Pucallpa (PCL),Sky Airline A20N (CC-AZR),Landed 19:39,2021-04-26
+100,100,19:53 LA2309,,Piura (PIU),LATAM Airlines A319 (CC-CPI),Landed 19:43,2021-04-26
+101,101,20:00 VV851,,Arequipa (AQP),Viva Air (Breast Cancer Prevention Livery) A320 (HK-5273),Landed 19:55,2021-04-26
+102,102,20:35,LA2142,Arequipa (AQP),LATAM Airlines A320 (CC-BFK),Landed 20:01,2021-04-26
+103,103,20:40 AA1307,,Miami (MIA),American Airlines A321 (N146AA),Landed 20:12,2021-04-26
+104,104,20:45 H25080,,Cusco (CUZ),SKY Airline A20N (CC-AZL),Landed 20:15,2021-04-26
+105,105,20:55 H25411,,Tarapoto (TPP),Sky Airline A20N (CC-AZI),Landed 20:30,2021-04-26
+106,106,20:55,LA2447,Bogota (BOG),LATAM Airlines A20N (CC-BHB),Landed 21:08,2021-04-26
+107,107,20:55 2I3234,,Pucallpa (PCL),Star Peru 73C,Unknown,2021-04-26
+108,108,21:20 H25142,,Arequipa (AQP),Sky Airline 320,Canceled,2021-04-26
+109,109,21:20 LA2463,,Miami (MIA),LATAM Airlines B763 (CC-CXF),Landed 21:04,2021-04-26
+110,110,21:30,LA2311,Piura (PIU),LATAM Airlines A320 (CC-BFW),Landed 20:59,2021-04-26
+111,111,21:40,AM18,Mexico City (MEX),Aeromexico B738 (XA-AMJ),Landed 22:01,2021-04-26
+112,112,22:19 AA917,,Miami (MIA),American Airlines B788 (N818AL),Landed 21:49,2021-04-26
+113,113,22:25 H25363,,Iquitos (IQT),Sky Airline 320,Canceled,2021-04-26
+114,114,22:30,B61825,Fort Lauderdale (FLL),JetBlue Airways A21N (N2086J),Delayed 23:11,2021-04-26
+115,115,23:00,UA854,Houston (IAH),United Airlines B763 (N654UA),Estimated 22:54,2021-04-26
+116,116,23:00 VV391,,Tarapoto (TPP),Viva Air A320 (HK-5307),Estimated 22:33,2021-04-26
+117,117,23:13 LA2457,,Cancun (CUN),LATAM Airlines A320 (CC-BFM),Estimated 23:18,2021-04-26
+118,118,23:38 CM337,,Panama City (PTY),Copa Airlines B738 (HP-1729CMP),Estimated 23:24,2021-04-26

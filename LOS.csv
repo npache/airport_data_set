@@ -12497,3 +12497,1220 @@
 89,89,22:45 N2144,,Kano (KAN),Aero B735 (5N-BKR),Landed 22:40,2021-04-09
 90,90,23:00 ET3911,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-ARK),Diverted to LFW,2021-04-09
 91,91,23:00 ET3913,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-09
+0,0,03:20 TK6501,,Istanbul (ISL),Turkish Airlines 33X,Unknown,2021-04-10
+1,1,04:50 TK6501,,Istanbul (IST),Turkish Airlines 33F,Unknown,2021-04-10
+2,2,05:15,VS411,London (LHR),Virgin Atlantic A333 (G-VWAG),Landed 05:02,2021-04-10
+3,3,05:25 AT555,,Casablanca (CMN),Royal Air Maroc B738 (CN-RGH),Landed 04:55,2021-04-10
+4,4,06:15 TK625,,Istanbul (IST),Turkish Airlines A333 (TC-JNL),Landed 06:16,2021-04-10
+5,5,07:35 QR1415,,Doha (DOH),Qatar Airways B788 (A7-BCO),Landed 07:39,2021-04-10
+6,6,08:25 DL54,,Atlanta (ATL),Delta Air Lines A333 (N825NW),Landed 07:57,2021-04-10
+7,7,08:30 ET3904,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-10
+8,8,08:45 AW208,,Accra (ACC),Africa World Airlines E145 (9G-AFK),Unknown,2021-04-10
+9,9,09:00 ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-10
+10,10,09:15 ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-10
+11,11,09:30 P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-10
+12,12,09:40 P47751,,Accra (ACC),Invalid transponder code 0000 (00000000),Unknown,2021-04-10
+13,13,09:40 P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-10
+14,14,09:45 P47121,,Abuja (ABV),Air Peace 777,Unknown,2021-04-10
+15,15,10:00 QI106,,Uyo (QUO),- CRJ,Unknown,2021-04-10
+16,16,10:15 W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:10,2021-04-10
+17,17,10:25 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-10
+18,18,10:50 N2312,,Port Harcourt (PHC),Aero B735 (5N-BLE),Landed 09:32,2021-04-10
+19,19,11:10 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-10
+20,20,11:30 KQ532,,Nairobi (NBO),Kenya Airways B738 (5Y-KYD),Landed 11:27,2021-04-10
+21,21,11:45 QI307,,Abuja (ABV),- CRJ,Unknown,2021-04-10
+22,22,11:55 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-10
+23,23,12:10 QI403,,Calabar (CBQ),- CRJ,Unknown,2021-04-10
+24,24,12:20 ZQ2323,,Abuja (ABV),Azman Air 735,Unknown,2021-04-10
+25,25,12:20 P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-10
+26,26,12:25,ET901,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANN),Landed 12:09,2021-04-10
+27,27,12:40 P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-10
+28,28,12:45 9J402,,Abuja (ABV),Dana Air M83,Canceled,2021-04-10
+29,29,12:50 P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-10
+30,30,12:55 N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-10
+31,31,13:00 GHN110,,Lome (LFW),- 73P,Unknown,2021-04-10
+32,32,13:00 MS875,,Cairo (CAI),EgyptAir B738 (SU-GEM),Landed 13:14,2021-04-10
+33,33,13:00 P47558,,Sharjah (SHJ),Air Peace 777,Unknown,2021-04-10
+34,34,13:45 W3623,,Benin (BNI),Eznis Airways B737 (EI-ULN),Landed 13:25,2021-04-10
+35,35,13:55 W3741,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-10
+36,36,14:10 N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-10
+37,37,14:20 N2122,,Abuja (ABV),Aero B735 (5N-BKR),Landed 13:04,2021-04-10
+38,38,14:30 QI605,,Enugu (ENU),- CR9,Unknown,2021-04-10
+39,39,14:35 9J336,,Abuja (ABV),Dana Air M83,Unknown,2021-04-10
+40,40,14:35 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-10
+41,41,15:00,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-10
+42,42,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-10
+43,43,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-10
+44,44,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATU),Landed 16:29,2021-04-10
+45,45,16:01 ET3739,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-10
+46,46,16:40 N2126,,Abuja (ABV),Aero B735 (5N-BLE),Landed 16:26,2021-04-10
+47,47,16:40 9J354,,Abuja (ABV),Dana Air M83,Canceled,2021-04-10
+48,48,16:50 OF1192,,Ibadan (IBA),Overland Airways ATR,Unknown,2021-04-10
+49,49,17:15 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-10
+50,50,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-10
+51,51,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-10
+52,52,17:45 W3743,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-10
+53,53,17:50 N2124,,Abuja (ABV),Aero 735,Unknown,2021-04-10
+54,54,17:55 BA75,,London (LHR),British Airways B77W (G-STBA),Landed 17:59,2021-04-10
+55,55,18:00 9J372,,Enugu (ENU),Dana Air 73G,Unknown,2021-04-10
+56,56,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-10
+57,57,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-10
+58,58,18:35,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKK),Landed 19:04,2021-04-10
+59,59,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-10
+60,60,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-10
+61,61,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-10
+62,62,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-10
+63,63,18:50 9J344,,Port Harcourt (PHC),Dana Air M83,Unknown,2021-04-10
+64,64,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-10
+65,65,19:00 N2162,,Benin (BNI),Aero B735 (5N-BKR),Landed 19:07,2021-04-10
+66,66,19:05 N2354,,Warri (QRW),Aero DH3,Unknown,2021-04-10
+67,67,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-10
+68,68,19:15 QR1416,,Accra (ACC),Qatar Airways B788 (A7-BCO),Landed 18:59,2021-04-10
+69,69,19:20 QI305,,Abuja (ABV),- CR9,Unknown,2021-04-10
+70,70,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-10
+71,71,20:10 AW222,,Accra (ACC),Africa World Airlines E145 (9G-AFI),Unknown,2021-04-10
+72,72,20:20 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-10
+73,73,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-10
+74,74,21:15 W3727,,Abuja (ABV),Arik Air 73G,Unknown,2021-04-10
+75,75,21:50 HF530,,Abidjan (ABJ),Air Cote d'Ivoire A319 (TU-TRC),Unknown,2021-04-10
+76,76,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-10
+77,77,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-10
+78,78,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-10
+0,0,15:00,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-10
+1,1,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-10
+2,2,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-10
+3,3,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATU),Landed 16:29,2021-04-10
+4,4,16:01 ET3739,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-10
+5,5,16:40 N2126,,Abuja (ABV),Aero B735 (5N-BLE),Landed 16:26,2021-04-10
+6,6,16:40 9J354,,Abuja (ABV),Dana Air M83,Canceled,2021-04-10
+7,7,16:50 OF1192,,Ibadan (IBA),Overland Airways ATR,Unknown,2021-04-10
+8,8,17:15 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-10
+9,9,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-10
+10,10,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-10
+11,11,17:45 W3743,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-10
+12,12,17:50 N2124,,Abuja (ABV),Aero 735,Unknown,2021-04-10
+13,13,17:55 BA75,,London (LHR),British Airways B77W (G-STBA),Landed 17:59,2021-04-10
+14,14,18:00 9J372,,Enugu (ENU),Dana Air 73G,Unknown,2021-04-10
+15,15,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-10
+16,16,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-10
+17,17,18:35,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKK),Landed 19:04,2021-04-10
+18,18,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-10
+19,19,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-10
+20,20,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-10
+21,21,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-10
+22,22,18:50 9J344,,Port Harcourt (PHC),Dana Air M83,Unknown,2021-04-10
+23,23,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-10
+24,24,19:00 N2162,,Benin (BNI),Aero B735 (5N-BKR),Landed 19:07,2021-04-10
+25,25,19:05 N2354,,Warri (QRW),Aero DH3,Unknown,2021-04-10
+26,26,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-10
+27,27,19:15 QR1416,,Accra (ACC),Qatar Airways B788 (A7-BCO),Landed 18:59,2021-04-10
+28,28,19:20 QI305,,Abuja (ABV),- CR9,Unknown,2021-04-10
+29,29,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-10
+30,30,20:10 AW222,,Accra (ACC),Africa World Airlines E145 (9G-AFI),Unknown,2021-04-10
+31,31,20:20 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-10
+32,32,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-10
+33,33,21:15 W3727,,Abuja (ABV),Arik Air 73G,Unknown,2021-04-10
+34,34,21:50 HF530,,Abidjan (ABJ),Air Cote d'Ivoire A319 (TU-TRC),Unknown,2021-04-10
+35,35,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-10
+36,36,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-10
+37,37,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-10
+0,0,15:00,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-11
+1,1,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-11
+2,2,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-11
+3,3,16:00 ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-11
+4,4,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATV),Landed 16:23,2021-04-11
+5,5,16:15 QI403,,Calabar (CBQ),- CR9,Unknown,2021-04-11
+6,6,16:15 QI405,,Calabar (CBQ),- CRJ,Unknown,2021-04-11
+7,7,16:35 P47564,,Johannesburg (JNB),Air Peace B772 (5N-BVE),Landed 16:12,2021-04-11
+8,8,16:40 9J354,,Abuja (ABV),Dana Air M83,Canceled,2021-04-11
+9,9,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-11
+10,10,17:10 N2314,,Port Harcourt (PHC),Aero B735 (5N-BKR),Landed 16:07,2021-04-11
+11,11,17:30 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Unknown,2021-04-11
+12,12,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-11
+13,13,17:45 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-11
+14,14,17:45 W3733,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 18:34,2021-04-11
+15,15,17:50 ZQ2333,,Abuja (ABV),Azman Air 733,Unknown,2021-04-11
+16,16,17:50 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-11
+17,17,17:55 BA75,,London (LHR),British Airways B77W (G-STBD),Landed 17:58,2021-04-11
+18,18,18:00 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-11
+19,19,18:05 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-11
+20,20,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-11
+21,21,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-11
+22,22,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-11
+23,23,18:40 P47159,,Owerri (QOW),Air Peace B735 (5N-BQR),Unknown,2021-04-11
+24,24,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-11
+25,25,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-11
+26,26,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-11
+27,27,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-11
+28,28,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-11
+29,29,19:10 N2164,,Benin (BNI),Aero B735 (5N-BKR),Landed 19:11,2021-04-11
+30,30,19:15 QR1420,,Abuja (ABV),Qatar Airways B788 (A7-BCI),Landed 19:16,2021-04-11
+31,31,19:20 QI305,,Abuja (ABV),- CR9,Unknown,2021-04-11
+32,32,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-11
+33,33,20:00 ET3507,,Santiago (SCL),Ethiopian Airlines 77X,Unknown,2021-04-11
+34,34,20:10 AW222,,Accra (ACC),Africa World Airlines E145 (9G-AEU),Unknown,2021-04-11
+35,35,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-11
+36,36,20:50 N2130,,Abuja (ABV),Aero B735 (5N-BLE),Landed 21:03,2021-04-11
+37,37,21:00 W3736,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-11
+38,38,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-11
+39,39,21:45 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 23:28,2021-04-11
+40,40,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-11
+41,41,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-11
+42,42,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-11
+0,0,15:00,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-12
+1,1,15:35 QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-12
+2,2,15:40 P47101,,Enugu (ENU),Air Peace B772 (5N-BVE),Landed 19:04,2021-04-12
+3,3,15:45 P47197,,Port Harcourt (PHC),Air Peace B733 (5N-BQP),Landed 17:00,2021-04-12
+4,4,15:50 ZQ2335,,Abuja (ABV),Azman Air 733,Unknown,2021-04-12
+5,5,16:00 ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-12
+6,6,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATV),Landed 15:42,2021-04-12
+7,7,16:25 N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-12
+8,8,16:40 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 22:02,2021-04-12
+9,9,16:40 9J354,,Abuja (ABV),Dana Air M83,Canceled,2021-04-12
+10,10,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-12
+11,11,17:15 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-12
+12,12,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-12
+13,13,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-12
+14,14,17:45 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-12
+15,15,17:55 BA75,,London (LHR),British Airways B77W (G-STBD),Landed 17:54,2021-04-12
+16,16,18:00 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-12
+17,17,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-12
+18,18,18:30 P47173,,Benin (BNI),Air Peace B733 (5N-BQP),Landed 19:31,2021-04-12
+19,19,18:35,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKO),Landed 19:00,2021-04-12
+20,20,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-12
+21,21,18:40 P47159,,Owerri (QOW),Air Peace B735 (5N-BQR),Unknown,2021-04-12
+22,22,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-12
+23,23,18:45 N2162,,Benin (BNI),Aero B735 (5N-BKR),Landed 18:50,2021-04-12
+24,24,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-12
+25,25,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-12
+26,26,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-12
+27,27,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-12
+28,28,19:15 QR1416,,Accra (ACC),Qatar Airways B788 (A7-BCR),Landed 19:37,2021-04-12
+29,29,19:20 QI803,,Abuja (ABV),- CR9,Unknown,2021-04-12
+30,30,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-12
+31,31,19:35,KL587,Amsterdam (AMS),KLM A332 (PH-AOF),Landed 19:24,2021-04-12
+32,32,19:45 QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-12
+33,33,20:10 AW222,,Accra (ACC),Africa World Airlines E145 (9G-AEU),Unknown,2021-04-12
+34,34,20:10 N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-12
+35,35,20:35,AF104,Paris (CDG),Air France A332 (F-GZCG),Landed 20:37,2021-04-12
+36,36,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-12
+37,37,21:00 W3736,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-12
+38,38,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-12
+39,39,21:30 KQ534,,Nairobi (NBO),Kenya Airways B738 (5Y-KYD),Landed 21:13,2021-04-12
+40,40,21:55 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 22:21,2021-04-12
+41,41,22:00 HF530,,Abidjan (ABJ),Air Cote d'Ivoire DH8D (TU-TSL),Unknown,2021-04-12
+42,42,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-12
+43,43,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-12
+44,44,22:30 P47425,,Kano (KAN),Air Peace B733 (5N-BQP),Landed 00:01,2021-04-12
+0,0,15:00,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-13
+1,1,15:35 QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-13
+2,2,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-13
+3,3,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-13
+4,4,15:50 ZQ2335,,Abuja (ABV),Azman Air 733,Unknown,2021-04-13
+5,5,15:50 ET3651,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-13
+6,6,16:00 ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-13
+7,7,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATV),Landed 15:37,2021-04-13
+8,8,16:25 N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-13
+9,9,16:40 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 16:53,2021-04-13
+10,10,16:40 9J354,,Abuja (ABV),Dana Air M83,Canceled,2021-04-13
+11,11,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-13
+12,12,17:15 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-13
+13,13,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-13
+14,14,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-13
+15,15,17:45 W3743,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-13
+16,16,17:55 BA75,,London (LHR),British Airways B77W (G-STBD),Landed 17:53,2021-04-13
+17,17,18:00 9J372,,Enugu (ENU),Dana Air M83,Canceled,2021-04-13
+18,18,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-13
+19,19,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-13
+20,20,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-13
+21,21,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-13
+22,22,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-13
+23,23,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-13
+24,24,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-13
+25,25,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-13
+26,26,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-13
+27,27,19:10 N2164,,Benin (BNI),Aero B735 (5N-BLE),Landed 19:30,2021-04-13
+28,28,19:15 QR1416,,Accra (ACC),Qatar Airways B788 (A7-BCB),Landed 18:54,2021-04-13
+29,29,19:20 QI803,,Abuja (ABV),- CR9,Unknown,2021-04-13
+30,30,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-13
+31,31,19:35,KL587,Amsterdam (AMS),KLM A332 (PH-AOD),Landed 19:16,2021-04-13
+32,32,19:45 QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-13
+33,33,20:10 AW222,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-13
+34,34,20:10 N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-13
+35,35,20:10 TK6503,,Istanbul (ISL),Turkish Cargo A332 (TC-JOY),Unknown,2021-04-13
+36,36,20:20 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-13
+37,37,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-13
+38,38,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-13
+39,39,21:15 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 23:02,2021-04-13
+40,40,22:00 HF530,,Abidjan (ABJ),Air Cote d'Ivoire DH8D (TU-TSL),Unknown,2021-04-13
+41,41,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-13
+42,42,22:30 9J360,,Abuja (ABV),Dana Air 73G,Canceled,2021-04-13
+0,0,2:30 AM 4W2611,,Liege (LGG),Allied Air 74Y,Unknown,2021-04-14
+1,1,3:10 AM VR628,,Espargos (SID),Cabo Verde Airlines 752,Unknown,2021-04-14
+2,2,5:15 AM,VS411,London (LHR),Virgin Atlantic A333 (G-VSXY),Landed 4:38 AM,2021-04-14
+3,3,6:15 AM TK625,,Istanbul (IST),Turkish Airlines A333 (TC-JNH),Landed 6:11 AM,2021-04-14
+4,4,7:35 AM QR1419,,Doha (DOH),Qatar Airways B788 (A7-BCA),Landed 7:23 AM,2021-04-14
+5,5,8:25 AM DL54,,Atlanta (ATL),Delta Air Lines A333 (N831NW),Landed 8:33 AM,2021-04-14
+6,6,8:45 AM AW208,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-14
+7,7,8:45 AM ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-14
+8,8,8:45 AM ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-14
+9,9,9:00 AM QI100,,Uyo (QUO),- CRJ,Unknown,2021-04-14
+10,10,9:30 AM OF1169,,Akure (AKR),Overland Airways AT4,Unknown,2021-04-14
+11,11,9:30 AM P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-14
+12,12,9:40 AM P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-14
+13,13,9:40 AM P47751,,Accra (ACC),Air Peace 737,Unknown,2021-04-14
+14,14,9:45 AM P47121,,Abuja (ABV),Air Peace 777,Unknown,2021-04-14
+15,15,9:50 AM N2312,,Port Harcourt (PHC),Aero B735 (5N-BLE),Landed 9:35 AM,2021-04-14
+16,16,10:05 AM W3741,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-14
+17,17,10:15 AM QI301,,Abuja (ABV),- CRJ,Unknown,2021-04-14
+18,18,10:15 AM W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:26 AM,2021-04-14
+19,19,10:25 AM 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-14
+20,20,11:10 AM 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-14
+21,21,11:30 AM KQ532,,Nairobi (NBO),Kenya Airways B738 (5Y-CYC),Landed 11:29 AM,2021-04-14
+22,22,11:55 AM 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-14
+23,23,12:05 PM GHN110,,Accra (ACC),- 73P,Unknown,2021-04-14
+24,24,12:20 PM P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-14
+25,25,12:25 PM,ET901,Addis Ababa (ADD),Ethiopian Airlines B77W (ET-APX),Landed 12:09 PM,2021-04-14
+26,26,12:40 PM P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-14
+27,27,12:45 PM 9J402,,Abuja (ABV),Dana Air M83,Unknown,2021-04-14
+28,28,12:50 PM P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-14
+29,29,12:55 PM N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-14
+30,30,1:00 PM MS875,,Cairo (CAI),EgyptAir B738 (SU-GEJ),Landed 1:32 PM,2021-04-14
+31,31,1:00 PM P47558,,Sharjah (SHJ),Air Peace 777,Unknown,2021-04-14
+32,32,1:00 PM QI102,,Uyo (QUO),- CRJ,Unknown,2021-04-14
+33,33,1:05 PM N2122,,Abuja (ABV),Aero B735 (5N-BKR),Landed 12:57 PM,2021-04-14
+34,34,1:30 PM QI601,,Enugu (ENU),- CR9,Unknown,2021-04-14
+35,35,1:30 PM N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-14
+36,36,1:45 PM W3623,,Benin (BNI),Eznis Airways B737 (EI-ULN),Landed 2:14 PM,2021-04-14
+37,37,2:15 PM QI303,,Abuja (ABV),- CRJ,Unknown,2021-04-14
+38,38,2:15 PM W3663,,Jos (JOS),Arik Air DH8,Unknown,2021-04-14
+39,39,2:35 PM 9J336,,Abuja (ABV),Dana Air M83,Unknown,2021-04-14
+40,40,2:35 PM 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-14
+41,41,3:00 PM,EK783,Dubai (DXB),Emirates 77W,Canceled,2021-04-14
+42,42,3:10 PM WB202,,Accra (ACC),RwandAir 738,Unknown,2021-04-14
+43,43,3:30 PM ET3739,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-ARK),Landed 11:32 PM,2021-04-14
+44,44,3:35 PM QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-14
+45,45,3:40 PM P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-14
+46,46,3:45 PM P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-14
+47,47,4:00 PM,KP62,Lome (LFW),Asky Airlines B737 (ET-AVO),Landed 3:32 PM,2021-04-14
+48,48,4:25 PM N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-14
+49,49,4:30 PM N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 10:29 PM,2021-04-14
+50,50,4:40 PM 9J354,,Abuja (ABV),Dana Air M83,Canceled,2021-04-14
+51,51,4:50 PM OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-14
+52,52,5:30 PM QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-14
+53,53,5:45 PM ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-14
+54,54,5:45 PM OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-14
+55,55,5:50 PM ZQ2333,,Abuja (ABV),Azman Air 733,Unknown,2021-04-14
+56,56,5:55 PM BA75,,London (LHR),British Airways B77W (G-STBD),Landed 5:32 PM,2021-04-14
+57,57,6:00 PM 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-14
+58,58,6:05 PM W3745,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 7:35 PM,2021-04-14
+59,59,6:20 PM P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-14
+60,60,6:30 PM P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-14
+61,61,6:35 PM,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKQ),Landed 6:34 PM,2021-04-14
+62,62,6:40 PM 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-14
+63,63,6:40 PM P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-14
+64,64,6:40 PM P47159,,Owerri (QOW),Air Peace B733 (5N-BQP),Landed 7:20 PM,2021-04-14
+65,65,6:45 PM N2162,,Benin (BNI),Aero B735 (5N-BKR),Landed 6:51 PM,2021-04-14
+66,66,6:45 PM 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-14
+67,67,6:50 PM 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-14
+68,68,6:50 PM P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-14
+69,69,7:05 PM N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-14
+70,70,7:15 PM QR1420,,Abuja (ABV),Qatar Airways B788 (A7-BCA),Landed 7:10 PM,2021-04-14
+71,71,7:20 PM QI803,,Abuja (ABV),- CR9,Unknown,2021-04-14
+72,72,7:30 PM P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-14
+73,73,7:35 PM,KL587,Amsterdam (AMS),KLM A333 (PH-AKB),Landed 7:30 PM,2021-04-14
+74,74,7:45 PM QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-14
+75,75,8:10 PM AW222,,Accra (ACC),Africa World Airlines E145 (9G-AFI),Unknown,2021-04-14
+76,76,8:10 PM N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-14
+77,77,8:35 PM,AF104,Paris (CDG),Air France A332 (F-GZCN),Landed 8:42 PM,2021-04-14
+78,78,8:40 PM 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-14
+79,79,9:00 PM W3736,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-14
+80,80,9:00 PM N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-14
+81,81,9:55 PM W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:11 PM,2021-04-14
+82,82,10:00 PM HF530,,Abidjan (ABJ),Air Cote d'Ivoire DH8D (TU-TSL),Unknown,2021-04-14
+83,83,10:00 PM P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-14
+84,84,10:30 PM 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-14
+85,85,10:30 PM P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-14
+0,0,3:35 PM QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-16
+1,1,3:40 PM P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-16
+2,2,3:45 PM P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-16
+3,3,3:50 PM ET3651,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-16
+4,4,4:00 PM ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-16
+5,5,4:00 PM,KP62,Lome (LFW),Asky Airlines B738 (ET-AXO),Landed 3:30 PM,2021-04-16
+6,6,4:25 PM N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-16
+7,7,4:30 PM 4W2613,,Liege (LGG),Allied Air 74Y,Unknown,2021-04-16
+8,8,4:35 PM P47564,,Johannesburg (JNB),Air Peace B772 (5N-BVE),Landed 3:56 PM,2021-04-16
+9,9,4:40 PM 9J354,,Abuja (ABV),Dana Air M83,Canceled,2021-04-16
+10,10,4:40 PM N2128,,Abuja (ABV),Aero B735 (5N-BKR),Landed 10:02 PM,2021-04-16
+11,11,4:50 PM OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-16
+12,12,5:30 PM QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-16
+13,13,5:45 PM ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-16
+14,14,5:45 PM OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-16
+15,15,5:45 PM W3743,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 5:39 PM,2021-04-16
+16,16,5:50 PM ZQ2333,,Abuja (ABV),Azman Air 733,Unknown,2021-04-16
+17,17,5:55 PM BA75,,London (LHR),British Airways B77W (G-STBD),Landed 5:42 PM,2021-04-16
+18,18,6:00 PM 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-16
+19,19,6:20 PM P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-16
+20,20,6:30 PM P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-16
+21,21,6:35 PM,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKP),Landed 7:00 PM,2021-04-16
+22,22,6:40 PM 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-16
+23,23,6:40 PM P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-16
+24,24,6:40 PM P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-16
+25,25,6:45 PM 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-16
+26,26,6:50 PM 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-16
+27,27,6:50 PM P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-16
+28,28,7:05 PM N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-16
+29,29,7:15 PM QR1416,,Accra (ACC),Qatar Airways B788 (A7-BCF),Landed 6:58 PM,2021-04-16
+30,30,7:20 PM QI803,,Abuja (ABV),- CR9,Unknown,2021-04-16
+31,31,7:30 PM P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-16
+32,32,7:35 PM,KL587,Amsterdam (AMS),KLM A332 (PH-AOC),Landed 7:47 PM,2021-04-16
+33,33,7:45 PM QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-16
+34,34,8:10 PM AW222,,Accra (ACC),Africa World Airlines E145 (9G-AET),Unknown,2021-04-16
+35,35,8:10 PM N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-16
+36,36,8:20 PM W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-16
+37,37,8:40 PM 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-16
+38,38,9:00 PM N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-16
+39,39,9:30 PM KQ534,,Nairobi (NBO),Kenya Airways (SkyTeam Livery) B738 (5Y-CYE),Landed 9:16 PM,2021-04-16
+40,40,9:45 PM W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:11 PM,2021-04-16
+41,41,10:00 PM P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-16
+42,42,10:30 PM 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-16
+43,43,10:30 PM P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-16
+0,0,15:00,EK783,Dubai (DXB),Emirates 77W,Canceled,2021-04-17
+1,1,15:35 QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-17
+2,2,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-17
+3,3,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-17
+4,4,16:00 ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-17
+5,5,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATV),Landed 15:08,2021-04-17
+6,6,16:25 N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-17
+7,7,16:40 N2128,,Abuja (ABV),Aero B735 (5N-BKR),Landed 22:49,2021-04-17
+8,8,16:40 9J354,,Abuja (ABV),Dana Air M83,Canceled,2021-04-17
+9,9,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-17
+10,10,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-17
+11,11,17:45 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-17
+12,12,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-17
+13,13,17:50 ZQ2333,,Abuja (ABV),Azman Air 733,Unknown,2021-04-17
+14,14,17:55 BA75,,London (LHR),British Airways B77W (G-STBG),Landed 17:48,2021-04-17
+15,15,18:00 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-17
+16,16,18:05 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-17
+17,17,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-17
+18,18,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-17
+19,19,18:35,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKI),Landed 18:49,2021-04-17
+20,20,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-17
+21,21,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-17
+22,22,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-17
+23,23,18:45 N2162,,Benin (BNI),Aero B735 (5N-BLE),Landed 19:13,2021-04-17
+24,24,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-17
+25,25,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-17
+26,26,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-17
+27,27,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-17
+28,28,19:15 QR1420,,Abuja (ABV),Qatar Airways B788 (A7-BCC),Landed 20:57,2021-04-17
+29,29,19:20 QI803,,Abuja (ABV),- CR9,Unknown,2021-04-17
+30,30,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-17
+31,31,19:35,KL587,Amsterdam (AMS),KLM A332 (PH-AOD),Landed 19:43,2021-04-17
+32,32,19:45 QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-17
+33,33,19:57 ET3914,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-17
+34,34,20:10 AW222,,Accra (ACC),Africa World Airlines E145 (9G-AFI),Unknown,2021-04-17
+35,35,20:10 N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-17
+36,36,20:35,AF104,Paris (CDG),Air France A332 (F-GZCA),Landed 20:38,2021-04-17
+37,37,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-17
+38,38,21:00 W3736,,Abuja (ABV),Arik Air B737 (5N-MJF),Landed 20:45,2021-04-17
+39,39,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-17
+40,40,21:55 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 21:55,2021-04-17
+41,41,22:00 HF530,,Abidjan (ABJ),Air Cote d'Ivoire DH8D (TU-TSK),Unknown,2021-04-17
+42,42,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-17
+43,43,22:30 ET3911,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-17
+44,44,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-17
+45,45,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-17
+46,46,22:45 N2144,,Kano (KAN),Aero B735 (5N-BLE),Landed 23:21,2021-04-17
+47,47,23:00 ET3913,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-17
+0,0,03:10 VR628,,Espargos (SID),Cabo Verde Airlines 752,Unknown,2021-04-18
+1,1,05:15,VS411,London (LHR),Virgin Atlantic A333 (G-VSXY),Landed 04:45,2021-04-18
+2,2,06:15 TK625,,Istanbul (IST),Turkish Airlines A333 (TC-JNM),Landed 06:41,2021-04-18
+3,3,07:35 QR1419,,Doha (DOH),Qatar Airways B788 (A7-BCN),Landed 07:20,2021-04-18
+4,4,08:25 DL54,,Atlanta (ATL),Delta Air Lines A333 (N823NW),Landed 08:38,2021-04-18
+5,5,08:45 AW208,,Accra (ACC),Africa World Airlines E145 (9G-AFI),Unknown,2021-04-18
+6,6,08:45 ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-18
+7,7,08:45 ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-18
+8,8,09:30 OF1169,,Akure (AKR),Overland Airways AT4,Unknown,2021-04-18
+9,9,09:30 P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-18
+10,10,09:40 P47751,,Accra (ACC),Invalid transponder code 0000 (00000000),Unknown,2021-04-18
+11,11,09:40 P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-18
+12,12,09:45 P47121,,Abuja (ABV),Air Peace 777,Unknown,2021-04-18
+13,13,10:00 QI106,,Uyo (QUO),- CRJ,Unknown,2021-04-18
+14,14,10:05 W3741,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-18
+15,15,10:15 W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:58,2021-04-18
+16,16,10:25 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-18
+17,17,10:30 N2142,,Kano (KAN),Aero B735 (5N-BLE),Landed 10:16,2021-04-18
+18,18,10:50 N2312,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-18
+19,19,11:10 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-18
+20,20,11:30 KQ532,,Nairobi (NBO),Kenya Airways E190 (5Y-FFG),Landed 11:27,2021-04-18
+21,21,11:45 QI307,,Abuja (ABV),- CRJ,Unknown,2021-04-18
+22,22,11:55 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-18
+23,23,12:20 P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-18
+24,24,12:25,ET901,Addis Ababa (ADD),Ethiopian Airlines B77W (ET-APY),Landed 11:56,2021-04-18
+25,25,12:30 TK6321,,Istanbul (ISL),Turkish Cargo A332 (TC-JOV),Landed 00:35,2021-04-18
+26,26,12:40 WB202,,Kigali (KGL),RwandAir 738,Unknown,2021-04-18
+27,27,12:40 P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-18
+28,28,12:45 9J402,,Abuja (ABV),Dana Air M83,Unknown,2021-04-18
+29,29,12:50 P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-18
+30,30,12:55 N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-18
+31,31,13:00 MS875,,Cairo (CAI),EgyptAir B738 (SU-GEN),Landed 13:02,2021-04-18
+32,32,13:45 W3623,,Benin (BNI),Eznis Airways B737 (EI-ULN),Landed 14:18,2021-04-18
+33,33,13:55 W3743,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-18
+34,34,14:10 N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-18
+35,35,14:15 W3663,,Jos (JOS),Arik Air DH8,Unknown,2021-04-18
+36,36,14:15 W3725,,Abuja (ABV),Arik Air 73G,Unknown,2021-04-18
+37,37,14:30 QI605,,Enugu (ENU),- CR9,Unknown,2021-04-18
+38,38,14:35 9J336,,Abuja (ABV),Dana Air M83,Canceled,2021-04-18
+39,39,14:35 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-18
+40,40,15:00,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-18
+41,41,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-18
+42,42,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-18
+43,43,16:00 ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-18
+44,44,16:00,KP62,Lome (LFW),Asky Airlines B737 (ET-AOK),Landed 16:21,2021-04-18
+45,45,16:15 QI403,,Calabar (CBQ),- CR9,Unknown,2021-04-18
+46,46,16:15 QI405,,Calabar (CBQ),- CRJ,Unknown,2021-04-18
+47,47,16:35 P47564,,Johannesburg (JNB),Air Peace B772 (5N-BVE),Landed 16:55,2021-04-18
+48,48,16:40 9J354,,Abuja (ABV),Dana Air M83,Unknown,2021-04-18
+49,49,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-18
+50,50,17:10 N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-18
+51,51,17:30 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 23:10,2021-04-18
+52,52,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-18
+53,53,17:45 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-18
+54,54,17:45 W3733,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 18:32,2021-04-18
+55,55,17:50 ZQ2333,,Abuja (ABV),Azman Air 733,Unknown,2021-04-18
+56,56,17:50 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-18
+57,57,17:55 BA75,,London (LHR),British Airways B772 (G-VIIS),Landed 17:34,2021-04-18
+58,58,18:00 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-18
+59,59,18:05 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-18
+60,60,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-18
+61,61,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-18
+62,62,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-18
+63,63,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-18
+64,64,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-18
+65,65,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-18
+66,66,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-18
+67,67,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-18
+68,68,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-18
+69,69,19:10 N2164,,Benin (BNI),Aero 734,Unknown,2021-04-18
+70,70,19:15 QR1420,,Abuja (ABV),Qatar Airways B788 (A7-BCN),Landed 18:58,2021-04-18
+71,71,19:20 QI305,,Abuja (ABV),- CR9,Unknown,2021-04-18
+72,72,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-18
+73,73,20:10 AW222,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-18
+74,74,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-18
+75,75,20:50 N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-18
+76,76,21:00 W3736,,Abuja (ABV),Arik Air B737 (5N-MJF),Landed 20:31,2021-04-18
+77,77,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-18
+78,78,21:45 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 22:46,2021-04-18
+79,79,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-18
+80,80,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-18
+81,81,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-18
+0,0,5:15 AM,VS411,London (LHR),Virgin Atlantic A333 (G-VWAG),Landed 4:40 AM,2021-04-19
+1,1,6:15 AM TK625,,Istanbul (IST),Turkish Airlines A333 (TC-JNH),Landed 6:22 AM,2021-04-19
+2,2,7:35 AM QR1415,,Doha (DOH),Qatar Airways B788 (A7-BCF),Landed 7:06 AM,2021-04-19
+3,3,8:25 AM DL54,,Atlanta (ATL),Delta Air Lines A333 (N831NW),Landed 8:07 AM,2021-04-19
+4,4,8:45 AM AW208,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-19
+5,5,8:45 AM ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-19
+6,6,8:45 AM ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-19
+7,7,9:00 AM QI100,,Uyo (QUO),- CRJ,Unknown,2021-04-19
+8,8,9:30 AM OF1169,,Akure (AKR),Overland Airways AT4,Unknown,2021-04-19
+9,9,9:30 AM P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-19
+10,10,9:40 AM P47751,,Accra (ACC),Air Peace 737,Unknown,2021-04-19
+11,11,9:40 AM P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-19
+12,12,9:45 AM W3629,,Asaba (ABB),Arik Air DH4,Unknown,2021-04-19
+13,13,9:45 AM P47121,,Abuja (ABV),Air Peace B772 (5N-BVE),Landed 10:13 AM,2021-04-19
+14,14,9:55 AM QR8721,,Doha (DOH),Qatar Cargo B77L (A7-BFL),Landed 12:05 PM,2021-04-19
+15,15,10:00 AM N2142,,Kano (KAN),Aero B735 (5N-BLE),Landed 9:50 AM,2021-04-19
+16,16,10:05 AM W3741,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 9:59 AM,2021-04-19
+17,17,10:15 AM QI301,,Abuja (ABV),- CRJ,Unknown,2021-04-19
+18,18,10:15 AM W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:30 AM,2021-04-19
+19,19,10:25 AM 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-19
+20,20,11:10 AM 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-19
+21,21,11:55 AM 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-19
+22,22,12:10 PM GHN110,,Lome (LFW),- 73P,Unknown,2021-04-19
+23,23,12:20 PM P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-19
+24,24,12:25 PM,ET901,Addis Ababa (ADD),Ethiopian Airlines B77W (ET-APY),Landed 12:01 PM,2021-04-19
+25,25,12:40 PM P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-19
+26,26,12:45 PM 9J402,,Abuja (ABV),Dana Air M83,Unknown,2021-04-19
+27,27,12:50 PM P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-19
+28,28,12:55 PM N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-19
+29,29,1:00 PM MS875,,Cairo (CAI),EgyptAir B738 (SU-GEN),Landed 12:53 PM,2021-04-19
+30,30,1:00 PM QI102,,Uyo (QUO),- CRJ,Unknown,2021-04-19
+31,31,1:05 PM N2122,,Abuja (ABV),Aero 735,Unknown,2021-04-19
+32,32,1:30 PM QI601,,Enugu (ENU),- CR9,Unknown,2021-04-19
+33,33,1:30 PM N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-19
+34,34,1:35 PM W3623,,Benin (BNI),Arik Air B737 (5N-MJF),Landed 1:28 PM,2021-04-19
+35,35,1:55 PM W3743,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-19
+36,36,1:55 PM W3663,,Jos (JOS),Arik Air DH4,Unknown,2021-04-19
+37,37,2:15 PM QI303,,Abuja (ABV),- CRJ,Unknown,2021-04-19
+38,38,2:15 PM W3725,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 2:43 PM,2021-04-19
+39,39,2:30 PM 4W2618,,Liege (LGG),Allied Air 74Y,Unknown,2021-04-19
+40,40,2:35 PM 9J336,,Abuja (ABV),Dana Air M83,Canceled,2021-04-19
+41,41,2:35 PM 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-19
+42,42,3:00 PM,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-19
+43,43,3:35 PM QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-19
+44,44,3:40 PM P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-19
+45,45,3:45 PM P47197,,Port Harcourt (PHC),Air Peace B772 (5N-BVE),Landed 7:08 PM,2021-04-19
+46,46,3:50 PM ZQ2335,,Abuja (ABV),Azman Air 733,Unknown,2021-04-19
+47,47,4:00 PM ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-19
+48,48,4:00 PM,KP62,Lome (LFW),Asky Airlines B738 (ET-AXO),Landed 3:39 PM,2021-04-19
+49,49,4:25 PM N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-19
+50,50,4:40 PM N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 10:29 PM,2021-04-19
+51,51,4:40 PM 9J354,,Abuja (ABV),Dana Air M83,Unknown,2021-04-19
+52,52,4:50 PM OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-19
+53,53,5:15 PM ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-19
+54,54,5:25 PM W3745,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 5:51 PM,2021-04-19
+55,55,5:25 PM W3625,,Benin (BNI),Arik Air DH4,Unknown,2021-04-19
+56,56,5:30 PM QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-19
+57,57,5:45 PM OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-19
+58,58,5:55 PM BA75,,London (LHR),British Airways B77W (G-STBK),Landed 5:27 PM,2021-04-19
+59,59,6:00 PM 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-19
+60,60,6:20 PM P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-19
+61,61,6:30 PM P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-19
+62,62,6:35 PM,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKI),Landed 6:40 PM,2021-04-19
+63,63,6:40 PM 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-19
+64,64,6:40 PM P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-19
+65,65,6:40 PM P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-19
+66,66,6:45 PM N2162,,Benin (BNI),Aero 734,Unknown,2021-04-19
+67,67,6:45 PM 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-19
+68,68,6:50 PM 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-19
+69,69,6:50 PM P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-19
+70,70,7:05 PM N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-19
+71,71,7:15 PM QR1416,,Accra (ACC),Qatar Airways B788 (A7-BCF),Landed 7:13 PM,2021-04-19
+72,72,7:20 PM QI803,,Abuja (ABV),- CR9,Unknown,2021-04-19
+73,73,7:30 PM P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-19
+74,74,7:35 PM,KL587,Amsterdam (AMS),KLM A332 (PH-AOA),Landed 7:24 PM,2021-04-19
+75,75,7:45 PM QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-19
+76,76,8:10 PM AW222,,Accra (ACC),Africa World Airlines E145 (9G-AFQ),Unknown,2021-04-19
+77,77,8:10 PM N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-19
+78,78,8:35 PM,AF104,Paris (CDG),Air France A332 (F-GZCJ),Landed 8:27 PM,2021-04-19
+79,79,8:40 PM 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-19
+80,80,9:00 PM W3736,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-19
+81,81,9:00 PM N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-19
+82,82,9:15 PM W3747,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 9:08 PM,2021-04-19
+83,83,9:30 PM KQ534,,Nairobi (NBO),Kenya Airways B788 (5Y-KZF),Landed 9:22 PM,2021-04-19
+84,84,10:00 PM HF530,,Abidjan (ABJ),Air Cote d'Ivoire DH8D (TU-TSQ),Landed 10:05 PM,2021-04-19
+85,85,10:00 PM P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-19
+86,86,10:25 PM W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:58 PM,2021-04-19
+87,87,10:30 PM 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-19
+88,88,10:30 PM P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-19
+0,0,04:25 VR628,,Espargos (SID),Cabo Verde Airlines 752,Unknown,2021-04-20
+1,1,05:15,VS411,London (LHR),Virgin Atlantic A333 (G-VWAG),Unknown,2021-04-20
+2,2,06:15 TK625,,Istanbul (IST),Turkish Airlines A333 (TC-JNP),Landed 06:28,2021-04-20
+3,3,07:35 QR1415,,Doha (DOH),Qatar Airways B788 (A7-BCQ),Landed 06:49,2021-04-20
+4,4,08:25 DL54,,Atlanta (ATL),Delta Air Lines A333 (N823NW),Landed 08:05,2021-04-20
+5,5,08:45 AW208,,Accra (ACC),Africa World Airlines E145 (9G-AFQ),Unknown,2021-04-20
+6,6,08:45 ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-20
+7,7,08:45 ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-20
+8,8,09:00 QI100,,Uyo (QUO),- CRJ,Unknown,2021-04-20
+9,9,09:30 OF1169,,Akure (AKR),Overland Airways AT4,Unknown,2021-04-20
+10,10,09:30 P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-20
+11,11,09:40 P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-20
+12,12,09:40 P47751,,Accra (ACC),Invalid transponder code 0000 (00000000),Unknown,2021-04-20
+13,13,09:45 P47121,,Abuja (ABV),Air Peace B772 (5N-BVE),Landed 10:29,2021-04-20
+14,14,09:50 N2312,,Port Harcourt (PHC),Aero B735 (5N-BLE),Landed 10:07,2021-04-20
+15,15,10:05 W3741,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 10:32,2021-04-20
+16,16,10:15 QI301,,Abuja (ABV),- CRJ,Unknown,2021-04-20
+17,17,10:15 W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:04,2021-04-20
+18,18,10:25 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-20
+19,19,10:55 TK6503,,Istanbul (IST),Turkish Airlines 31Y,Unknown,2021-04-20
+20,20,11:10 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-20
+21,21,11:30 KQ532,,Nairobi (NBO),Kenya Airways E90,Canceled,2021-04-20
+22,22,11:40 GHN110,,Abidjan (ABJ),- 73P,Unknown,2021-04-20
+23,23,11:55 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-20
+24,24,12:20 P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-20
+25,25,12:25,ET901,Addis Ababa (ADD),Ethiopian Airlines B77W (ET-APX),Landed 11:49,2021-04-20
+26,26,12:40 P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-20
+27,27,12:45 9J402,,Abuja (ABV),Dana Air M83,Unknown,2021-04-20
+28,28,12:50 P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-20
+29,29,12:55 N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-20
+30,30,13:00 MS875,,Cairo (CAI),EgyptAir B738 (SU-GEK),Unknown,2021-04-20
+31,31,13:00 QI102,,Uyo (QUO),- CRJ,Unknown,2021-04-20
+32,32,13:05 N2122,,Abuja (ABV),Aero 735,Unknown,2021-04-20
+33,33,13:25 TK6514,,Istanbul (ISL),Turkish Cargo B77L (TC-LJM),Landed 12:57,2021-04-20
+34,34,13:30 QI601,,Enugu (ENU),- CR9,Unknown,2021-04-20
+35,35,13:30 N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-20
+36,36,13:35 W3623,,Benin (BNI),Arik Air B737 (5N-MJF),Landed 14:00,2021-04-20
+37,37,14:15 QI303,,Abuja (ABV),- CRJ,Unknown,2021-04-20
+38,38,14:15 W3725,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 14:07,2021-04-20
+39,39,14:35 9J336,,Abuja (ABV),Dana Air M83,Canceled,2021-04-20
+40,40,14:35 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-20
+41,41,15:00,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-20
+42,42,15:35 QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-20
+43,43,15:40 P47101,,Enugu (ENU),Air Peace B772 (5N-BVE),Landed 18:05,2021-04-20
+44,44,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-20
+45,45,15:50 ZQ2335,,Abuja (ABV),Azman Air 733,Unknown,2021-04-20
+46,46,15:50 ET3651,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-20
+47,47,16:00 ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-20
+48,48,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATV),Landed 15:48,2021-04-20
+49,49,16:25 N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-20
+50,50,16:40 9J354,,Abuja (ABV),Dana Air M83,Unknown,2021-04-20
+51,51,16:40 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 22:52,2021-04-20
+52,52,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-20
+53,53,17:15 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-20
+54,54,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-20
+55,55,17:35 W3734,,Abuja (ABV),Arik Air B737 (5N-MJF),Landed 17:53,2021-04-20
+56,56,17:40 W3723,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-20
+57,57,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-20
+58,58,17:45 W3743,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-20
+59,59,17:45 W3613,,Kano (KAN),Arik Air 73G,Unknown,2021-04-20
+60,60,17:55 BA75,,London (LHR),British Airways B77W (G-STBK),Landed 17:34,2021-04-20
+61,61,18:00 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-20
+62,62,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-20
+63,63,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-20
+64,64,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-20
+65,65,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-20
+66,66,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-20
+67,67,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-20
+68,68,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-20
+69,69,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-20
+70,70,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-20
+71,71,19:10 N2164,,Benin (BNI),Aero 734,Unknown,2021-04-20
+72,72,19:10 N2194,,Asaba (ABB),Aero 735,Unknown,2021-04-20
+73,73,19:15 QR1416,,Accra (ACC),Qatar Airways B788 (A7-BCQ),Landed 18:57,2021-04-20
+74,74,19:20 QI803,,Abuja (ABV),- CR9,Unknown,2021-04-20
+75,75,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-20
+76,76,19:35,KL587,Amsterdam (AMS),KLM A332 (PH-AOC),Landed 19:14,2021-04-20
+77,77,19:45 QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-20
+78,78,20:10 AW222,,Accra (ACC),Africa World Airlines E145 (9G-AFR),Unknown,2021-04-20
+79,79,20:10 N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-20
+80,80,20:10 TK6503,,Istanbul (ISL),Turkish Cargo A332 (TC-JOZ),Delayed 03:44,2021-04-20
+81,81,20:30 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-20
+82,82,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-20
+83,83,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-20
+84,84,21:35 W3738,,Abuja (ABV),Arik Air B737 (5N-MJF),Landed 21:28,2021-04-20
+85,85,21:45 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 21:52,2021-04-20
+86,86,22:00 HF530,,Abidjan (ABJ),Air Cote d'Ivoire DH8D (TU-TSL),Unknown,2021-04-20
+87,87,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-20
+88,88,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-20
+0,0,02:30 4W2611,,Liege (LGG),Allied Air 74Y,Unknown,2021-04-21
+1,1,03:10 VR628,,Espargos (SID),Cabo Verde Airlines 752,Unknown,2021-04-21
+2,2,05:15,VS411,London (LHR),Virgin Atlantic A333 (G-VINE),Landed 04:41,2021-04-21
+3,3,06:15 TK625,,Istanbul (IST),Turkish Airlines A333 (TC-LNE),Unknown,2021-04-21
+4,4,07:35 QR1419,,Doha (DOH),Qatar Airways B788 (A7-BCG),Landed 07:38,2021-04-21
+5,5,08:25 DL54,,Atlanta (ATL),Delta Air Lines A333 (N831NW),Landed 08:45,2021-04-21
+6,6,08:45 AW208,,Accra (ACC),Africa World Airlines E145 (9G-AFK),Unknown,2021-04-21
+7,7,08:45 ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-21
+8,8,08:45 ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-21
+9,9,09:00 QI100,,Uyo (QUO),- CRJ,Unknown,2021-04-21
+10,10,09:30 OF1169,,Akure (AKR),Overland Airways AT4,Unknown,2021-04-21
+11,11,09:30 P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-21
+12,12,09:40 P47751,,Accra (ACC),Air Peace 737,Unknown,2021-04-21
+13,13,09:40 P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-21
+14,14,09:45 W3629,,Asaba (ABB),Arik Air DH4,Unknown,2021-04-21
+15,15,09:45 P47121,,Abuja (ABV),Air Peace 777,Unknown,2021-04-21
+16,16,09:50 N2312,,Port Harcourt (PHC),Aero B735 (5N-BLE),Landed 09:31,2021-04-21
+17,17,10:05 W3741,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 10:08,2021-04-21
+18,18,10:15 QI301,,Abuja (ABV),- CRJ,Unknown,2021-04-21
+19,19,10:15 W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:31,2021-04-21
+20,20,10:25 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-21
+21,21,11:05 W3723,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-21
+22,22,11:10 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-21
+23,23,11:30 KQ532,,Nairobi (NBO),Kenya Airways B738 (5Y-CYC),Landed 11:16,2021-04-21
+24,24,11:55 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-21
+25,25,12:05 GHN110,,Accra (ACC),- 73P,Unknown,2021-04-21
+26,26,12:20 P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-21
+27,27,12:25,ET901,Addis Ababa (ADD),Ethiopian Airlines B77W (ET-APY),Landed 12:12,2021-04-21
+28,28,12:40 P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-21
+29,29,12:45 9J402,,Abuja (ABV),Dana Air M83,Unknown,2021-04-21
+30,30,12:50 P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-21
+31,31,12:55 N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-21
+32,32,13:00 MS875,,Cairo (CAI),EgyptAir B738 (SU-GEK),Landed 13:22,2021-04-21
+33,33,13:00 P47558,,Sharjah (SHJ),Air Peace 777,Unknown,2021-04-21
+34,34,13:00 QI102,,Uyo (QUO),- CRJ,Unknown,2021-04-21
+35,35,13:05 N2122,,Abuja (ABV),Aero 735,Unknown,2021-04-21
+36,36,13:30 QI601,,Enugu (ENU),- CR9,Unknown,2021-04-21
+37,37,13:30 N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-21
+38,38,13:35 W3623,,Benin (BNI),Arik Air B737 (5N-MJF),Landed 13:46,2021-04-21
+39,39,13:55 W3743,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-21
+40,40,14:15 QI303,,Abuja (ABV),- CRJ,Unknown,2021-04-21
+41,41,14:15 W3663,,Jos (JOS),Arik Air B737 (5N-MJF),Landed 17:41,2021-04-21
+42,42,14:15 W3725,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 14:55,2021-04-21
+43,43,14:35 9J336,,Abuja (ABV),Dana Air M83,Canceled,2021-04-21
+44,44,14:35 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-21
+45,45,15:00,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-21
+46,46,15:10 WB202,,Accra (ACC),RwandAir 738,Unknown,2021-04-21
+47,47,15:35 QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-21
+48,48,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-21
+49,49,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-21
+50,50,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATV),Landed 15:42,2021-04-21
+51,51,16:25 N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-21
+52,52,16:30 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 22:21,2021-04-21
+53,53,16:40 9J354,,Abuja (ABV),Dana Air M83,Unknown,2021-04-21
+54,54,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-21
+55,55,17:25 W3745,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 21:08,2021-04-21
+56,56,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-21
+57,57,17:45 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-21
+58,58,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-21
+59,59,17:50 ZQ2333,,Abuja (ABV),Azman Air 733,Unknown,2021-04-21
+60,60,17:55 BA75,,London (LHR),British Airways B77W (G-STBE),Landed 17:38,2021-04-21
+61,61,18:00 ET3739,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVN),Landed 01:18,2021-04-21
+62,62,18:00 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-21
+63,63,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-21
+64,64,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-21
+65,65,18:35,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKH),Landed 18:46,2021-04-21
+66,66,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-21
+67,67,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-21
+68,68,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-21
+69,69,18:45 N2162,,Benin (BNI),Aero 734,Unknown,2021-04-21
+70,70,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-21
+71,71,18:45 W3625,,Benin (BNI),Arik Air DH4,Unknown,2021-04-21
+72,72,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-21
+73,73,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-21
+74,74,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-21
+75,75,19:15 QR1420,,Abuja (ABV),Qatar Airways B788 (A7-BCG),Landed 18:59,2021-04-21
+76,76,19:20 QI803,,Abuja (ABV),- CR9,Unknown,2021-04-21
+77,77,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-21
+78,78,19:35,KL587,Amsterdam (AMS),KLM A332 (PH-AOD),Landed 19:24,2021-04-21
+79,79,19:45 QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-21
+80,80,20:10 AW222,,Accra (ACC),Africa World Airlines E145 (9G-AFQ),Unknown,2021-04-21
+81,81,20:10 N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-21
+82,82,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-21
+83,83,21:00,AF148,Abuja (ABV),Air France 332,Unknown,2021-04-21
+84,84,21:00 W3736,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-21
+85,85,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-21
+86,86,21:15 W3747,,Port Harcourt (PHC),Arik Air 73G,Unknown,2021-04-21
+87,87,22:00 HF530,,Abidjan (ABJ),Air Cote d'Ivoire DH8D (TU-TSL),Unknown,2021-04-21
+88,88,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-21
+89,89,22:25 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 01:07,2021-04-21
+90,90,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-21
+91,91,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-21
+0,0,04:25 VR628,,Espargos (SID),Cabo Verde Airlines 752,Unknown,2021-04-22
+1,1,05:15,VS411,London (LHR),Virgin Atlantic A333 (G-VWAG),Landed 04:55,2021-04-22
+2,2,06:15 TK625,,Istanbul (IST),Turkish Airlines A333 (TC-JNL),Landed 06:01,2021-04-22
+3,3,07:35 QR1415,,Doha (DOH),Qatar Airways B788 (A7-BDC),Landed 07:35,2021-04-22
+4,4,08:25 DL54,,Atlanta (ATL),Delta Air Lines A333 (N823NW),Unknown,2021-04-22
+5,5,08:45 AW208,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-22
+6,6,08:45 ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-22
+7,7,08:45 ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-22
+8,8,09:00 QI100,,Uyo (QUO),- CRJ,Unknown,2021-04-22
+9,9,09:30 OF1169,,Akure (AKR),Overland Airways AT4,Unknown,2021-04-22
+10,10,09:30 P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-22
+11,11,09:40 P47751,,Accra (ACC),Air Peace 737,Unknown,2021-04-22
+12,12,09:40 P47815,,Asaba (ABB),Air Peace B735 (5N-BQR),Unknown,2021-04-22
+13,13,09:45 P47121,,Abuja (ABV),Air Peace 777,Unknown,2021-04-22
+14,14,10:00 N2142,,Kano (KAN),Aero B735 (5N-BLE),Landed 09:54,2021-04-22
+15,15,10:05 W3741,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 09:46,2021-04-22
+16,16,10:15 QI301,,Abuja (ABV),- CRJ,Unknown,2021-04-22
+17,17,10:15 W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:17,2021-04-22
+18,18,10:25 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-22
+19,19,11:10 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-22
+20,20,11:55 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-22
+21,21,12:05 GHN110,,Accra (ACC),- 73P,Unknown,2021-04-22
+22,22,12:20 P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-22
+23,23,12:25,ET901,Addis Ababa (ADD),Ethiopian Airlines B77W (ET-APX),Landed 12:19,2021-04-22
+24,24,12:40 P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-22
+25,25,12:45 9J402,,Abuja (ABV),Dana Air M83,Unknown,2021-04-22
+26,26,12:50 P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-22
+27,27,12:55 N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-22
+28,28,13:00 MS875,,Cairo (CAI),EgyptAir B738 (SU-GEK),Landed 13:23,2021-04-22
+29,29,13:00 QI102,,Uyo (QUO),- CRJ,Unknown,2021-04-22
+30,30,13:05 N2122,,Abuja (ABV),Aero 735,Unknown,2021-04-22
+31,31,13:30 QI601,,Enugu (ENU),- CR9,Unknown,2021-04-22
+32,32,13:30 N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-22
+33,33,13:45 W3623,,Benin (BNI),Arik Air B737 (5N-MJF),Landed 13:19,2021-04-22
+34,34,14:15 QI303,,Abuja (ABV),- CRJ,Unknown,2021-04-22
+35,35,14:15 W3725,,Abuja (ABV),Arik Air 73G,Unknown,2021-04-22
+36,36,14:35 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-22
+37,37,14:35 9J336,,Abuja (ABV),Dana Air M83,Canceled,2021-04-22
+38,38,15:00,EK783,Dubai (DXB),Emirates 77W,Unknown,2021-04-22
+39,39,15:05 ME571,,Beirut (BEY),MEA A332 (OD-MEA),Landed 15:28,2021-04-22
+40,40,15:35 QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-22
+41,41,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-22
+42,42,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-22
+43,43,15:50 ET3651,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-ARJ),Landed 18:18,2021-04-22
+44,44,16:00 ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-22
+45,45,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-AXI),Landed 15:32,2021-04-22
+46,46,16:25 N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-22
+47,47,16:30 4W2613,,Liege (LGG),Allied Air 74Y,Unknown,2021-04-22
+48,48,16:35 P47564,,Johannesburg (JNB),Air Peace B772 (5N-BVE),Landed 16:09,2021-04-22
+49,49,16:40 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 23:24,2021-04-22
+50,50,16:40 9J354,,Abuja (ABV),Dana Air M83,Unknown,2021-04-22
+51,51,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-22
+52,52,17:05 W3629,,Asaba (ABB),Arik Air 73G,Unknown,2021-04-22
+53,53,17:25 MS512,,Cairo (CAI),EgyptAir Cargo A332 (SU-GCF),Landed 17:12,2021-04-22
+54,54,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-22
+55,55,17:35 W3743,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 17:19,2021-04-22
+56,56,17:40 W3723,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-22
+57,57,17:45 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-22
+58,58,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-22
+59,59,17:45 W3613,,Kano (KAN),Arik Air 73G,Unknown,2021-04-22
+60,60,17:50 ZQ2333,,Abuja (ABV),Azman Air 733,Unknown,2021-04-22
+61,61,17:55 BA75,,London (LHR),British Airways B77W (G-STBC),Landed 17:40,2021-04-22
+62,62,18:00 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-22
+63,63,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-22
+64,64,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-22
+65,65,18:35,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKM),Landed 18:53,2021-04-22
+66,66,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-22
+67,67,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-22
+68,68,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-22
+69,69,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-22
+70,70,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-22
+71,71,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-22
+72,72,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-22
+73,73,19:15 QR1416,,Accra (ACC),Qatar Airways B788 (A7-BDC),Landed 19:08,2021-04-22
+74,74,19:20 N2194,,Asaba (ABB),Aero 735,Unknown,2021-04-22
+75,75,19:20 QI803,,Abuja (ABV),- CR9,Unknown,2021-04-22
+76,76,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-22
+77,77,19:35,KL587,Amsterdam (AMS),KLM A332 (PH-AOA),Landed 19:19,2021-04-22
+78,78,19:45 QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-22
+79,79,20:10 AW222,,Accra (ACC),Africa World Airlines E145 (9G-AFK),Unknown,2021-04-22
+80,80,20:10 N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-22
+81,81,20:30 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-22
+82,82,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-22
+83,83,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-22
+84,84,21:05 W3738,,Abuja (ABV),Arik Air 73G,Unknown,2021-04-22
+85,85,21:30 KQ534,,Nairobi (NBO),Kenya Airways (SkyTeam Livery) E190 (5Y-FFB),Landed 22:01,2021-04-22
+86,86,21:45 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 22:54,2021-04-22
+87,87,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-22
+88,88,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-22
+89,89,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-22
+0,0,03:10 VR628,,Espargos (SID),Cabo Verde Airlines 752,Unknown,2021-04-23
+1,1,05:15,VS411,London (LHR),Virgin Atlantic A333 (G-VSXY),Landed 04:45,2021-04-23
+2,2,05:55 QR8721,,Doha (DOH),Qatar Cargo B77L (A7-BFA),Landed 05:40,2021-04-23
+3,3,06:15 TK625,,Istanbul (IST),Turkish Airlines A333 (TC-JNK),Unknown,2021-04-23
+4,4,07:35 QR1419,,Doha (DOH),Qatar Airways B788 (A7-BCC),Landed 07:33,2021-04-23
+5,5,08:25 DL54,,Atlanta (ATL),Delta Air Lines A333 (N831NW),Landed 08:36,2021-04-23
+6,6,08:45 AW208,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-23
+7,7,08:45 ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-23
+8,8,08:45 ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-23
+9,9,09:00 QI100,,Uyo (QUO),- CRJ,Unknown,2021-04-23
+10,10,09:30 OF1169,,Akure (AKR),Overland Airways AT4,Unknown,2021-04-23
+11,11,09:30 P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-23
+12,12,09:40 P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-23
+13,13,09:40 P47751,,Accra (ACC),Air Peace E145 (5N-BXF),Unknown,2021-04-23
+14,14,09:45 W3629,,Asaba (ABB),Arik Air DH4,Unknown,2021-04-23
+15,15,09:45 W3621,,Benin (BNI),Arik Air DH4,Unknown,2021-04-23
+16,16,09:45 P47121,,Abuja (ABV),Air Peace B772 (5N-BVE),Landed 10:05,2021-04-23
+17,17,09:50 N2312,,Port Harcourt (PHC),Aero B735 (5N-BLE),Landed 09:28,2021-04-23
+18,18,10:05 W3741,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Unknown,2021-04-23
+19,19,10:15 QI301,,Abuja (ABV),- CRJ,Unknown,2021-04-23
+20,20,10:15 W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:14,2021-04-23
+21,21,10:25 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-23
+22,22,11:10 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-23
+23,23,11:30,KQ532,Nairobi (NBO),Kenya Airways E90,Canceled,2021-04-23
+24,24,11:55 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-23
+25,25,12:20 P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-23
+26,26,12:25,ET901,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANP),Landed 12:06,2021-04-23
+27,27,12:40 WB202,,Kigali (KGL),RwandAir 738,Unknown,2021-04-23
+28,28,12:40 P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-23
+29,29,12:45 9J402,,Abuja (ABV),Dana Air M83,Unknown,2021-04-23
+30,30,12:50 P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-23
+31,31,12:55 N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-23
+32,32,13:00 ME572,,Abidjan (ABJ),MEA A332 (OD-MEA),Landed 13:25,2021-04-23
+33,33,13:00 MS875,,Cairo (CAI),EgyptAir (85 Years Livery) B738 (SU-GEH),Landed 13:11,2021-04-23
+34,34,13:00 QI102,,Uyo (QUO),- CRJ,Unknown,2021-04-23
+35,35,13:05 N2122,,Abuja (ABV),Aero 735,Unknown,2021-04-23
+36,36,13:30 QI601,,Enugu (ENU),- CR9,Unknown,2021-04-23
+37,37,13:30 N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-23
+38,38,13:35 W3623,,Benin (BNI),Arik Air B737 (5N-MJF),Landed 13:27,2021-04-23
+39,39,14:15 QI303,,Abuja (ABV),- CRJ,Unknown,2021-04-23
+40,40,14:15 W3663,,Jos (JOS),Arik Air B737 (5N-MJF),Landed 17:24,2021-04-23
+41,41,14:15 W3725,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 14:35,2021-04-23
+42,42,14:35 9J336,,Abuja (ABV),Dana Air M83,Canceled,2021-04-23
+43,43,14:35 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-23
+44,44,15:35 QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-23
+45,45,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-23
+46,46,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-23
+47,47,16:00 ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-23
+48,48,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATV),Landed 16:00,2021-04-23
+49,49,16:25 N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-23
+50,50,16:40 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Diverted to BNI,2021-04-23
+51,51,16:40 9J354,,Abuja (ABV),Dana Air M83,Unknown,2021-04-23
+52,52,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-23
+53,53,17:25 W3745,,Port Harcourt (PHC),Arik Air 73G,Unknown,2021-04-23
+54,54,17:25 W3625,,Benin (BNI),Arik Air DH4,Unknown,2021-04-23
+55,55,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-23
+56,56,17:45 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-23
+57,57,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-23
+58,58,17:50 ZQ2333,,Abuja (ABV),Azman Air 733,Unknown,2021-04-23
+59,59,17:55 BA75,,London (LHR),British Airways B77W (G-STBC),Landed 17:45,2021-04-23
+60,60,18:00 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-23
+61,61,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-23
+62,62,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-23
+63,63,18:35,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKK),Landed 18:28,2021-04-23
+64,64,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-23
+65,65,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-23
+66,66,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-23
+67,67,18:45 N2162,,Benin (BNI),Aero 734,Unknown,2021-04-23
+68,68,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-23
+69,69,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-23
+70,70,18:50 P47105,,Enugu (ENU),Air Peace B772 (5N-BVE),Landed 18:11,2021-04-23
+71,71,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-23
+72,72,19:15 QR1420,,Abuja (ABV),Qatar Airways B788 (A7-BCC),Landed 18:47,2021-04-23
+73,73,19:20 QI803,,Abuja (ABV),- CR9,Unknown,2021-04-23
+74,74,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-23
+75,75,19:35,KL587,Amsterdam (AMS),KLM A332 (PH-AOE),Landed 19:36,2021-04-23
+76,76,19:40 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 22:17,2021-04-23
+77,77,19:45 QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-23
+78,78,19:57 ET3914,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-23
+79,79,20:10 AW222,,Accra (ACC),Africa World Airlines E145 (9G-AFK),Unknown,2021-04-23
+80,80,20:10 N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-23
+81,81,20:35,AF104,Paris (CDG),Air France A332 (F-GZCA),Landed 20:42,2021-04-23
+82,82,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-23
+83,83,21:00 W3736,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-23
+84,84,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-23
+85,85,21:15 W3747,,Port Harcourt (PHC),Arik Air 73G,Unknown,2021-04-23
+86,86,22:00 HF530,,Abidjan (ABJ),Air Cote d'Ivoire DH8D (TU-TSL),Unknown,2021-04-23
+87,87,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-23
+88,88,22:25 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 22:10,2021-04-23
+89,89,22:30 ET3911,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-23
+90,90,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-23
+91,91,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-23
+92,92,22:45 N2144,,Kano (KAN),Aero 734,Unknown,2021-04-23
+93,93,23:00 ET3913,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-23
+0,0,03:20 TK6501,,Istanbul (ISL),Turkish Airlines 33X,Unknown,2021-04-24
+1,1,04:50 TK6501,,Istanbul (IST),Turkish Airlines 33F,Unknown,2021-04-24
+2,2,05:15,VS411,London (LHR),Virgin Atlantic A333 (G-VSXY),Landed 04:48,2021-04-24
+3,3,06:15 TK625,,Istanbul (IST),Turkish Airlines A333 (TC-JNP),Landed 05:56,2021-04-24
+4,4,07:35 QR1415,,Doha (DOH),Qatar Airways B788 (A7-BCS),Landed 07:31,2021-04-24
+5,5,08:25 DL54,,Atlanta (ATL),Delta Air Lines A333 (N823NW),Landed 08:12,2021-04-24
+6,6,08:45 AW208,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-24
+7,7,09:00 ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-24
+8,8,09:15 ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-24
+9,9,09:30 P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-24
+10,10,09:40 P47751,,Accra (ACC),Air Peace 737,Unknown,2021-04-24
+11,11,09:40 P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-24
+12,12,09:45 P47121,,Abuja (ABV),Air Peace 777,Unknown,2021-04-24
+13,13,10:00 QI106,,Uyo (QUO),- CRJ,Unknown,2021-04-24
+14,14,10:05 W3741,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 09:46,2021-04-24
+15,15,10:15 W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:01,2021-04-24
+16,16,10:25 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-24
+17,17,10:50 N2312,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-24
+18,18,11:10 9J332,,Owerri (QOW),Dana Air M83,Unknown,2021-04-24
+19,19,11:30,KQ532,Nairobi (NBO),Kenya Airways E190 (5Y-FFJ),Landed 11:21,2021-04-24
+20,20,11:40 TK6426,,Istanbul (ISL),Turkish Cargo A332 (TC-JOZ),Landed 13:07,2021-04-24
+21,21,11:45 QI307,,Abuja (ABV),- CRJ,Unknown,2021-04-24
+22,22,11:55 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-24
+23,23,12:10 QI403,,Calabar (CBQ),- CRJ,Unknown,2021-04-24
+24,24,12:15 QI207,,Abuja (ABV),- CRJ,Unknown,2021-04-24
+25,25,12:20 ZQ2323,,Abuja (ABV),Azman Air 735,Unknown,2021-04-24
+26,26,12:20 P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-24
+27,27,12:25,ET901,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AXS),Landed 12:11,2021-04-24
+28,28,12:40 P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-24
+29,29,12:45 9J402,,Abuja (ABV),Dana Air M83,Canceled,2021-04-24
+30,30,12:50 P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-24
+31,31,12:55 N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-24
+32,32,13:00 GHN110,,Lome (LFW),- 73P,Unknown,2021-04-24
+33,33,13:00 MS875,,Cairo (CAI),EgyptAir B738 (SU-GEA),Landed 13:30,2021-04-24
+34,34,13:00 P47558,,Sharjah (SHJ),Air Peace 777,Unknown,2021-04-24
+35,35,13:35 W3623,,Benin (BNI),Arik Air B737 (5N-MJF),Landed 13:20,2021-04-24
+36,36,14:10 N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-24
+37,37,14:15 W3725,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 14:25,2021-04-24
+38,38,14:20 N2122,,Abuja (ABV),Aero B735 (5N-BLE),Landed 13:07,2021-04-24
+39,39,14:30 QI605,,Enugu (ENU),- CR9,Unknown,2021-04-24
+40,40,14:35 9J336,,Abuja (ABV),Dana Air M83,Unknown,2021-04-24
+41,41,14:35 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-24
+42,42,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-24
+43,43,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-24
+44,44,16:00,KP62,Lome (LFW),Asky Airlines B738 (ET-ATV),Landed 15:38,2021-04-24
+45,45,16:40 N2126,,Abuja (ABV),Aero B735 (5N-BLE),Landed 23:05,2021-04-24
+46,46,16:40 9J354,,Abuja (ABV),Dana Air M83,Canceled,2021-04-24
+47,47,16:50 OF1192,,Ibadan (IBA),Overland Airways ATR,Unknown,2021-04-24
+48,48,17:05 W3629,,Asaba (ABB),Arik Air 73G,Unknown,2021-04-24
+49,49,17:15 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-24
+50,50,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-24
+51,51,17:35 W3743,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 17:06,2021-04-24
+52,52,17:40 W3723,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-24
+53,53,17:45 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-24
+54,54,17:50 N2124,,Abuja (ABV),Aero 735,Unknown,2021-04-24
+55,55,17:55 BA75,,London (LHR),British Airways B77W (G-STBC),Landed 17:42,2021-04-24
+56,56,18:00 9J372,,Enugu (ENU),Dana Air 73G,Unknown,2021-04-24
+57,57,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-24
+58,58,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-24
+59,59,18:35,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKS),Landed 18:42,2021-04-24
+60,60,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-24
+61,61,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-24
+62,62,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-24
+63,63,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-24
+64,64,18:50 9J344,,Port Harcourt (PHC),Dana Air M83,Unknown,2021-04-24
+65,65,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-24
+66,66,19:00 N2162,,Benin (BNI),Aero 734,Unknown,2021-04-24
+67,67,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-24
+68,68,19:05 N2354,,Warri (QRW),Aero DH3,Unknown,2021-04-24
+69,69,19:15 QR1416,,Accra (ACC),Qatar Airways B788 (A7-BCS),Landed 19:22,2021-04-24
+70,70,19:20 QI305,,Abuja (ABV),- CR9,Unknown,2021-04-24
+71,71,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-24
+72,72,20:10 AW222,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-24
+73,73,20:30 W3745,,Port Harcourt (PHC),Arik Air DH4,Unknown,2021-04-24
+74,74,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-24
+75,75,21:05 W3738,,Abuja (ABV),Arik Air B737 (5N-MJF),Landed 21:04,2021-04-24
+76,76,21:45 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 21:38,2021-04-24
+77,77,21:50 HF530,,Abidjan (ABJ),Air Cote d'Ivoire A319 (TU-TRC),Unknown,2021-04-24
+78,78,22:00 ET3915,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-04-24
+79,79,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-24
+80,80,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-24
+81,81,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-24
+0,0,03:10 VR628,,Espargos (SID),Cabo Verde Airlines 752,Unknown,2021-04-25
+1,1,05:15,VS411,London (LHR),Virgin Atlantic A333 (G-VWAG),Landed 04:56,2021-04-25
+2,2,05:25 AT555,,Casablanca (CMN),Royal Air Maroc B738 (CN-RGG),Landed 04:43,2021-04-25
+3,3,06:15 TK625,,Istanbul (IST),Turkish Airlines A333 (TC-LNC),Landed 06:03,2021-04-25
+4,4,07:35 QR1419,,Doha (DOH),Qatar Airways B788 (A7-BDD),Landed 07:50,2021-04-25
+5,5,08:25 DL54,,Atlanta (ATL),Delta Air Lines A333 (N826NW),Landed 08:07,2021-04-25
+6,6,08:45 AW208,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-25
+7,7,08:45 ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-25
+8,8,08:45 ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-25
+9,9,09:30 OF1169,,Akure (AKR),Overland Airways AT4,Unknown,2021-04-25
+10,10,09:30 P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-25
+11,11,09:40 P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-25
+12,12,09:40 P47751,,Accra (ACC),Air Peace 737,Unknown,2021-04-25
+13,13,09:45 W3629,,Asaba (ABB),Arik Air DH4,Unknown,2021-04-25
+14,14,09:45 P47121,,Abuja (ABV),Air Peace 777,Unknown,2021-04-25
+15,15,10:00 QI106,,Uyo (QUO),- CRJ,Unknown,2021-04-25
+16,16,10:05 W3741,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 10:09,2021-04-25
+17,17,10:15 W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:17,2021-04-25
+18,18,10:25 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-25
+19,19,10:30 N2142,,Kano (KAN),Aero B735 (5N-BLE),Landed 10:12,2021-04-25
+20,20,10:35,,Atlanta (ATL),- GLF5 (N169SD),Diverted to ATL,2021-04-25
+21,21,10:50 N2312,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-25
+22,22,11:05 W3723,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-25
+23,23,11:10 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-25
+24,24,11:30,KQ532,Nairobi (NBO),Kenya Airways B738 (5Y-CYC),Landed 13:04,2021-04-25
+25,25,11:45 QI307,,Abuja (ABV),- CRJ,Unknown,2021-04-25
+26,26,11:55 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-25
+27,27,12:15 QI207,,Abuja (ABV),- CRJ,Unknown,2021-04-25
+28,28,12:20 P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-25
+29,29,12:25,ET901,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANO),Landed 12:15,2021-04-25
+30,30,12:30 TK6321,,Istanbul (ISL),Turkish Cargo A332 (TC-JOZ),Landed 00:38,2021-04-25
+31,31,12:40 WB202,,Kigali (KGL),RwandAir 738,Unknown,2021-04-25
+32,32,12:40 P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-25
+33,33,12:45 9J402,,Abuja (ABV),Dana Air M83,Unknown,2021-04-25
+34,34,12:50 P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-25
+35,35,12:55 N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-25
+36,36,13:00 MS875,,Cairo (CAI),EgyptAir B738 (SU-GEE),Landed 12:59,2021-04-25
+37,37,13:35 W3623,,Benin (BNI),Arik Air B737 (5N-MJF),Landed 13:30,2021-04-25
+38,38,14:10 N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-25
+39,39,14:15 W3663,,Jos (JOS),Arik Air DH8,Unknown,2021-04-25
+40,40,14:15 W3725,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 14:23,2021-04-25
+41,41,14:30 QI605,,Enugu (ENU),- CR9,Unknown,2021-04-25
+42,42,14:35 9J336,,Abuja (ABV),Dana Air M83,Canceled,2021-04-25
+43,43,14:35 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-25
+44,44,15:40 P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-25
+45,45,15:45 P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-25
+46,46,16:00 ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-25
+47,47,16:00,KP62,Lome (LFW),Asky Airlines B737 (ET-AOK),Landed 16:12,2021-04-25
+48,48,16:15 QI403,,Calabar (CBQ),- CR9,Unknown,2021-04-25
+49,49,16:15 QI405,,Calabar (CBQ),- CRJ,Unknown,2021-04-25
+50,50,16:35 P47564,,Johannesburg (JNB),Air Peace B772 (5N-BVE),Landed 16:39,2021-04-25
+51,51,16:40 9J354,,Abuja (ABV),Dana Air M83,Unknown,2021-04-25
+52,52,16:50 OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-25
+53,53,17:10 N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-25
+54,54,17:25 W3745,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Delayed 02:55,2021-04-25
+55,55,17:30 N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 23:13,2021-04-25
+56,56,17:30 QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-25
+57,57,17:45 ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-25
+58,58,17:50 ZQ2333,,Abuja (ABV),Azman Air 733,Unknown,2021-04-25
+59,59,17:50 OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-25
+60,60,17:55 BA75,,London (LHR),British Airways B772 (G-YMMJ),Landed 18:15,2021-04-25
+61,61,18:00 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-25
+62,62,18:20 P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-25
+63,63,18:30 P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-25
+64,64,18:40 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-25
+65,65,18:40 P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-25
+66,66,18:40 P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-25
+67,67,18:45 W3625,,Benin (BNI),Arik Air DH4,Unknown,2021-04-25
+68,68,18:45 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-25
+69,69,18:50 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-25
+70,70,18:50 P47105,,Enugu (ENU),Air Peace 737,Unknown,2021-04-25
+71,71,19:05 N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-25
+72,72,19:10 N2164,,Benin (BNI),Aero 734,Unknown,2021-04-25
+73,73,19:15 QR1420,,Abuja (ABV),Qatar Airways B788 (A7-BDD),Landed 19:04,2021-04-25
+74,74,19:20 QI305,,Abuja (ABV),- CR9,Unknown,2021-04-25
+75,75,19:30 P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-25
+76,76,20:10 AW222,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-25
+77,77,20:40 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-25
+78,78,20:50 N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-25
+79,79,21:00 W3736,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-25
+80,80,21:00 N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-25
+81,81,21:05 W3738,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Delayed 02:23,2021-04-25
+82,82,22:00 P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-25
+83,83,22:25 W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 22:50,2021-04-25
+84,84,22:30 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-25
+85,85,22:30 P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-25
+0,0,5:15 AM,VS411,London (LHR),Virgin Atlantic A333 (G-VSXY),Landed 5:22 AM,2021-04-26
+1,1,6:15 AM TK625,,Istanbul (IST),Turkish Airlines A333 (TC-JOJ),Landed 5:55 AM,2021-04-26
+2,2,7:35 AM QR1415,,Doha (DOH),Qatar Airways B788 (A7-BCN),Landed 7:23 AM,2021-04-26
+3,3,8:25 AM DL54,,Atlanta (ATL),Delta Air Lines A333 (N831NW),Landed 8:02 AM,2021-04-26
+4,4,8:45 AM AW208,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-26
+5,5,8:45 AM ZQ2310,,Kano (KAN),Azman Air 735,Unknown,2021-04-26
+6,6,8:45 AM ZQ2318,,Kaduna (KAD),Azman Air 733,Unknown,2021-04-26
+7,7,9:00 AM QI100,,Uyo (QUO),- CRJ,Unknown,2021-04-26
+8,8,9:30 AM OF1169,,Akure (AKR),Overland Airways AT4,Unknown,2021-04-26
+9,9,9:30 AM P47157,,Owerri (QOW),Air Peace 733,Unknown,2021-04-26
+10,10,9:40 AM P47751,,Accra (ACC),Air Peace 737,Unknown,2021-04-26
+11,11,9:40 AM P47815,,Asaba (ABB),Air Peace 735,Unknown,2021-04-26
+12,12,9:45 AM W3629,,Asaba (ABB),Arik Air DH4,Unknown,2021-04-26
+13,13,9:45 AM P47121,,Abuja (ABV),Air Peace B772 (5N-BVE),Landed 10:11 AM,2021-04-26
+14,14,9:55 AM QR8721,,Doha (DOH),Qatar Cargo B77L (A7-BFO),Landed 12:31 PM,2021-04-26
+15,15,10:00 AM N2142,,Kano (KAN),Aero B735 (5N-BLE),Landed 9:53 AM,2021-04-26
+16,16,10:05 AM W3741,,Port Harcourt (PHC),Arik Air 73G,Unknown,2021-04-26
+17,17,10:15 AM QI301,,Abuja (ABV),- CRJ,Unknown,2021-04-26
+18,18,10:15 AM W3721,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 10:28 AM,2021-04-26
+19,19,10:25 AM 9J352,,Abuja (ABV),Dana Air M83,Unknown,2021-04-26
+20,20,11:10 AM 9J332,,Owerri (QOW),Dana Air 73G,Unknown,2021-04-26
+21,21,11:55 AM 9J338,,Owerri (QOW),Dana Air 733,Canceled,2021-04-26
+22,22,12:10 PM GHN110,,Lome (LFW),- 73P,Unknown,2021-04-26
+23,23,12:20 PM P47001,,Akure (AKR),Air Peace ERJ,Unknown,2021-04-26
+24,24,12:25 PM,ET901,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANO),Landed 12:06 PM,2021-04-26
+25,25,12:40 PM P47153,,Owerri (QOW),Air Peace 733,Unknown,2021-04-26
+26,26,12:45 PM 9J402,,Abuja (ABV),Dana Air M83,Unknown,2021-04-26
+27,27,12:50 PM P47377,,Kaduna (KAD),Air Peace ERJ,Unknown,2021-04-26
+28,28,12:55 PM N2196,,Asaba (ABB),Aero DH3,Unknown,2021-04-26
+29,29,1:00 PM MS875,,Cairo (CAI),EgyptAir B738 (SU-GEG),Unknown,2021-04-26
+30,30,1:00 PM QI102,,Uyo (QUO),- CRJ,Unknown,2021-04-26
+31,31,1:05 PM N2122,,Abuja (ABV),Aero 735,Unknown,2021-04-26
+32,32,1:30 PM QI601,,Enugu (ENU),- CR9,Unknown,2021-04-26
+33,33,1:30 PM N2152,,Uyo (QUO),Aero 734,Unknown,2021-04-26
+34,34,1:35 PM W3623,,Benin (BNI),Arik Air B737 (5N-MJF),Landed 1:19 PM,2021-04-26
+35,35,1:55 PM W3663,,Jos (JOS),Arik Air DH4,Unknown,2021-04-26
+36,36,2:15 PM QI303,,Abuja (ABV),- CRJ,Unknown,2021-04-26
+37,37,2:15 PM W3725,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 2:54 PM,2021-04-26
+38,38,2:30 PM 4W2618,,Liege (LGG),Allied Air 74Y,Unknown,2021-04-26
+39,39,2:35 PM 9J342,,Port Harcourt (PHC),Dana Air M83,Canceled,2021-04-26
+40,40,2:35 PM 9J336,,Abuja (ABV),Dana Air M83,Canceled,2021-04-26
+41,41,3:35 PM QI401,,Calabar (CBQ),- CRJ,Unknown,2021-04-26
+42,42,3:40 PM P47101,,Enugu (ENU),Air Peace 737,Unknown,2021-04-26
+43,43,3:45 PM P47197,,Port Harcourt (PHC),Air Peace 737,Unknown,2021-04-26
+44,44,3:50 PM ZQ2335,,Abuja (ABV),Azman Air 733,Unknown,2021-04-26
+45,45,4:00 PM ZQ2327,,Maiduguri (MIU),Azman Air 733,Unknown,2021-04-26
+46,46,4:00 PM,KP62,Lome (LFW),Asky Airlines B738 (ET-ATV),Landed 3:21 PM,2021-04-26
+47,47,4:25 PM N2314,,Port Harcourt (PHC),Aero 735,Unknown,2021-04-26
+48,48,4:40 PM N2128,,Abuja (ABV),Aero B735 (5N-BLE),Landed 12:16 AM,2021-04-26
+49,49,4:40 PM 9J354,,Abuja (ABV),Dana Air M83,Unknown,2021-04-26
+50,50,4:50 PM OF1192,,Ibadan (IBA),Overland Airways AT4,Unknown,2021-04-26
+51,51,5:15 PM ZQ2314,,Kano (KAN),Azman Air 735,Unknown,2021-04-26
+52,52,5:25 PM W3625,,Benin (BNI),Arik Air DH4,Unknown,2021-04-26
+53,53,5:25 PM W3745,,Port Harcourt (PHC),Arik Air B737 (5N-MJF),Landed 5:10 PM,2021-04-26
+54,54,5:30 PM QI104,,Uyo (QUO),- CRJ,Unknown,2021-04-26
+55,55,5:45 PM OF1188,,Ilorin (ILR),Overland Airways AT4,Unknown,2021-04-26
+56,56,5:55 PM BA75,,London (LHR),British Airways B77W (G-STBG),Landed 5:43 PM,2021-04-26
+57,57,6:00 PM 9J372,,Enugu (ENU),Dana Air M83,Unknown,2021-04-26
+58,58,6:20 PM P47863,,Asaba (ABB),Air Peace 733,Unknown,2021-04-26
+59,59,6:30 PM P47173,,Benin (BNI),Air Peace 733,Unknown,2021-04-26
+60,60,6:35 PM,LH568,Frankfurt (FRA),Lufthansa A333 (D-AIKB),Landed 6:53 PM,2021-04-26
+61,61,6:40 PM 9J356,,Abuja (ABV),Dana Air M83,Unknown,2021-04-26
+62,62,6:40 PM P47181,,Calabar (CBQ),Air Peace 737,Unknown,2021-04-26
+63,63,6:40 PM P47159,,Owerri (QOW),Air Peace 733,Unknown,2021-04-26
+64,64,6:45 PM N2162,,Benin (BNI),Aero 734,Unknown,2021-04-26
+65,65,6:45 PM 9J374,,Enugu (ENU),Dana Air 733,Canceled,2021-04-26
+66,66,6:50 PM 9J344,,Port Harcourt (PHC),Dana Air 73G,Unknown,2021-04-26
+67,67,6:50 PM P47105,,Enugu (ENU),Air Peace B772 (5N-BVE),Landed 5:58 PM,2021-04-26
+68,68,7:05 PM N2352,,Warri (QRW),Aero DH3,Unknown,2021-04-26
+69,69,7:15 PM QR1416,,Accra (ACC),Qatar Airways B788 (A7-BCN),Landed 7:08 PM,2021-04-26
+70,70,7:20 PM QI803,,Abuja (ABV),- CR9,Unknown,2021-04-26
+71,71,7:30 PM P47143,,Uyo (QUO),Air Peace 737,Unknown,2021-04-26
+72,72,7:35 PM,KL587,Amsterdam (AMS),KLM A332 (PH-AOE),Landed 7:36 PM,2021-04-26
+73,73,7:45 PM QI305,,Abuja (ABV),- CRJ,Unknown,2021-04-26
+74,74,8:10 PM AW222,,Accra (ACC),Africa World Airlines ER4,Unknown,2021-04-26
+75,75,8:10 PM N2130,,Abuja (ABV),Aero 735,Unknown,2021-04-26
+76,76,8:35 PM,AF104,Paris (CDG),Air France A332 (F-GZCF),Landed 8:48 PM,2021-04-26
+77,77,8:40 PM 9J358,,Abuja (ABV),Dana Air M83,Unknown,2021-04-26
+78,78,9:00 PM W3736,,Abuja (ABV),Arik Air DH4,Unknown,2021-04-26
+79,79,9:00 PM N2318,,Port Harcourt (PHC),Aero DH3,Unknown,2021-04-26
+80,80,9:15 PM W3747,,Port Harcourt (PHC),Arik Air 73G,Unknown,2021-04-26
+81,81,9:30 PM,KQ534,Nairobi (NBO),Kenya Airways E190 (5Y-FFD),Landed 9:27 PM,2021-04-26
+82,82,10:00 PM HF530,,Abidjan (ABJ),Air Cote d'Ivoire DH8D (TU-TSI),Landed 10:07 PM,2021-04-26
+83,83,10:00 PM P47125,,Abuja (ABV),Air Peace 737,Unknown,2021-04-26
+84,84,10:25 PM W3727,,Abuja (ABV),Eznis Airways B737 (EI-ULN),Landed 11:33 PM,2021-04-26
+85,85,10:30 PM 9J360,,Abuja (ABV),Dana Air 733,Canceled,2021-04-26
+86,86,10:30 PM P47425,,Kano (KAN),Air Peace 777,Unknown,2021-04-26

@@ -21985,3 +21985,1433 @@
 203,203,23:30,TP1022,Lisbon (LIS),TAP Express AT76 (CS-DJB),Landed 23:08,2021-04-09
 204,204,23:35,LH1120,Frankfurt (FRA),Lufthansa A20N (D-AIJA),Landed 23:25,2021-04-09
 205,205,23:45 WT102,,Palma de Mallorca (PMI),Swiftair AT75 (EC-LYJ),Landed 23:23,2021-04-09
+0,0,00:30 WT183,,Tenerife (TFN),Swiftair 75C,Unknown,2021-04-10
+1,1,03:13 IB2857,,Alicante (ALC),Iberia A320 (EC-LXQ),Landed 02:55,2021-04-10
+2,2,04:40 UX16,,San Pedro Sula (SAP),Air Europa B789 (EC-NBM),Landed 02:43,2021-04-10
+3,3,04:40 UX52,,Havana (HAV),Air Europa B789 (EC-MTI),Landed 03:56,2021-04-10
+4,4,05:00 WT182,,Toulouse (TLS),Swiftair B734 (EC-NLS),Landed 05:03,2021-04-10
+5,5,05:05 UX198,,Medellin (MDE),Air Europa B788 (EC-MMY),Landed 03:54,2021-04-10
+6,6,05:10 UX40,,Guayaquil (GYE),Air Europa B789 (EC-NEI),Landed 04:10,2021-04-10
+7,7,06:00 IB6400,,Mexico City (MEX),Iberia A359 (EC-NIG),Landed 05:05,2021-04-10
+8,8,06:05 IB6830,,Santiago (SCL),Iberia A359 (EC-NBE),Landed 05:36,2021-04-10
+9,9,06:05 IB6856,,Buenos Aires (EZE),Iberia 359,Unknown,2021-04-10
+10,10,06:30 WT117,,Palma de Mallorca (PMI),Swiftair E120 (EC-JBD),Landed 06:01,2021-04-10
+11,11,06:47 AC7230,,Toronto (YYZ),Air Canada A333 (C-GOFW),Landed 08:47,2021-04-10
+12,12,07:10 AA9729,,New York (JFK),American Airlines B772,Unknown,2021-04-10
+13,13,07:10 IB8881,,Valencia (VLC),Iberia Regional CRJX (EC-LJR),Landed 06:43,2021-04-10
+14,14,07:14 NJE23B,,La Romana (LRM),NetJets Europe GLEX (CS-GLI),Landed 07:11,2021-04-10
+15,15,07:45 AV26,,Bogota (BOG),Avianca B788 (N780AV),Landed 06:31,2021-04-10
+16,16,07:50 IB3917,,Palma de Mallorca (PMI),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 07:25,2021-04-10
+17,17,07:50 QR147,,Doha (DOH),Qatar Airways B788 (A7-BDC),Landed 07:32,2021-04-10
+18,18,08:40 IB8967,,Mahon (MAH),Iberia Regional CRJX (EC-MVC),Landed 08:23,2021-04-10
+19,19,09:05 AA36,,Dallas (DFW),American Airlines B789 (N833AA),Landed 09:05,2021-04-10
+20,20,09:15 DL126,,New York (JFK),Delta Air Lines B763 (N174DZ),Landed 08:59,2021-04-10
+21,21,09:15 AR1132,,Buenos Aires (EZE),Aerolineas Argentinas A332 (LV-GHQ),Landed 09:51,2021-04-10
+22,22,09:25 UX6012,,Palma de Mallorca (PMI),Air Europa B738 (EC-LYR),Landed 08:57,2021-04-10
+23,23,09:59 QT4142,,Barranquilla (BAQ),Avianca Cargo A332 (N335QT),Landed 10:00,2021-04-10
+24,24,10:00 0B103,,Bucharest (OTP),Blue Air 738,Unknown,2021-04-10
+25,25,10:20 IB3835,,Gran Canaria (LPA),Iberia Express A320 (EC-JFG),Landed 09:59,2021-04-10
+26,26,10:25 TP1016,,Lisbon (LIS),TAP Express E195 (CS-TTZ),Landed 10:05,2021-04-10
+27,27,10:30 IB6250,,New York (JFK),Iberia A333 (EC-LZX),Landed 10:33,2021-04-10
+28,28,10:30 IB561,,Seville (SVQ),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 10:11,2021-04-10
+29,29,10:30 IB571,,Santiago (SCQ),Iberia A320 (EC-LUL),Landed 10:07,2021-04-10
+30,30,10:30 IB8899,,Asturias (OVD),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 10:19,2021-04-10
+31,31,10:30 TK1857,,Istanbul (IST),Turkish Airlines A21N (TC-LSZ),Landed 10:30,2021-04-10
+32,32,10:35 IB423,,Bilbao (BIO),Iberia A20N (EC-NCM),Landed 10:05,2021-04-10
+33,33,10:35 IB8291,,Melilla (MLN),Iberia Regional AT76 (EC-LRU),Landed 13:02,2021-04-10
+34,34,10:35 IB8903,,Jerez (XRY),Iberia Regional CRJX (EC-MJQ),Landed 10:14,2021-04-10
+35,35,10:40 IB519,,A Coruna (LCG),Iberia A20N (EC-NDN),Landed 10:28,2021-04-10
+36,36,10:40 IB531,,Vigo (VGO),Iberia A319 (EC-JAZ),Landed 10:21,2021-04-10
+37,37,10:40 IB3945,,Tenerife (TFN),Iberia Express A320 (EC-LVQ),Landed 10:34,2021-04-10
+38,38,10:40 IB8737,,Toulouse (TLS),Iberia Regional CRJX (EC-MSL),Landed 10:22,2021-04-10
+39,39,10:40 IB8777,,Porto (OPO),Iberia Regional CRJX (EC-MRI),Landed 10:23,2021-04-10
+40,40,10:40 IB8859,,Alicante (ALC),Iberia Regional (Islas Cíes Livery) CRJX (EC-MNQ),Landed 10:10,2021-04-10
+41,41,10:40 IB8873,,Valencia (VLC),Iberia Regional CRJX (EC-MTZ),Landed 10:16,2021-04-10
+42,42,10:45 IB3913,,Palma de Mallorca (PMI),Iberia Express A321 (EC-JDM),Landed 10:27,2021-04-10
+43,43,10:55 IB3111,,Lisbon (LIS),Iberia A319 (EC-JDL),Landed 10:26,2021-04-10
+44,44,11:00 IB935,,Barcelona (BCN),Iberia A320 (EC-MCS),Landed 10:38,2021-04-10
+45,45,11:05 LH1800,,Munich (MUC),Air Dolomiti E195 (I-ADJM),Landed 10:53,2021-04-10
+46,46,11:15 FB471,,Sofia (SOF),Bulgaria Air E190 (LZ-SOF),Landed 11:07,2021-04-10
+47,47,11:15 RO415,,Bucharest (OTP),Tarom (Happy 66 Years Livery) B737 (YR-BGG),Landed 10:55,2021-04-10
+48,48,11:25 AF1300,,Paris (CDG),Air France A320 (F-HEPF),Landed 11:12,2021-04-10
+49,49,11:25 IB8747,,Marseille (MRS),Iberia Regional CRJX (EC-MJP),Landed 11:16,2021-04-10
+50,50,11:30 UX34,,Punta Cana (PUJ),Air Europa B788 (EC-MOM),Landed 10:17,2021-04-10
+51,51,11:30 AZ58,,Rome (FCO),Alitalia E75S (EI-RDF),Landed 11:18,2021-04-10
+52,52,11:45 IB8717,,Lyon (LYS),Iberia Regional CRJX (EC-LJX),Landed 11:33,2021-04-10
+53,53,11:45 3O395,,Casablanca (CMN),Air Arabia Maroc -,Canceled,2021-04-10
+54,54,12:05 KL1701,,Amsterdam (AMS),KLM B737 (PH-BGH),Landed 11:49,2021-04-10
+55,55,12:05 LH1112,,Frankfurt (FRA),Lufthansa A319 (D-AILD),Landed 12:26,2021-04-10
+56,56,12:05 UX1028,,Paris (ORY),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 11:55,2021-04-10
+57,57,12:15 IB6500,,Santo Domingo (SDQ),Iberia A333 (EC-LYF),Landed 11:53,2021-04-10
+58,58,12:45 BA9012,,Tenerife (TFN),British Airways 75F,Unknown,2021-04-10
+59,59,12:45 IB9012,,Tenerife (TFN),Iberia 75F,Unknown,2021-04-10
+60,60,12:50 CA1028,,Liege (LGG),Air China Cargo B77L (B-2092),Landed 12:57,2021-04-10
+61,61,13:00 E9814,,Cancun (CUN),Evelop Airlines A359 (EC-NGY),Landed 12:34,2021-04-10
+62,62,13:00 UX1066,,Milan (MXP),Air Europa B738 (EC-MUZ),Landed 12:49,2021-04-10
+63,63,13:05 UX1040,,Rome (FCO),Air Europa B738 (EC-MVY),Landed 12:43,2021-04-10
+64,64,13:10 UX1172,,Brussels (BRU),Air Europa Express E195 (EC-LLR),Landed 13:00,2021-04-10
+65,65,13:10 UX4064,,Valencia (VLC),Air Europa Express E195 (EC-LEK),Landed 12:54,2021-04-10
+66,66,13:15 EY75,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNB),Landed 13:06,2021-04-10
+67,67,13:25 EK141,,Dubai (DXB),Emirates B77W (A6-ECH),Landed 13:28,2021-04-10
+68,68,13:25 UX1516,,Munich (MUC),Air Europa B738 (EC-LUT),Landed 13:49,2021-04-10
+69,69,13:25 UX7706,,Barcelona (BCN),Air Europa B788 (EC-MMY),Landed 12:52,2021-04-10
+70,70,13:30 UX1014,,London (LGW),Air Europa B738 (EC-MJU),Landed 13:11,2021-04-10
+71,71,13:30 UX5036,,Malaga (AGP),Air Europa Express AT75 (EC-MZJ),Landed 13:26,2021-04-10
+72,72,13:35 UX1502,,Frankfurt (FRA),Air Europa B738 (EC-MKL),Landed 13:24,2021-04-10
+73,73,13:35 UX7234,,A Coruna (LCG),Air Europa B738 (EC-IDA),Landed 13:21,2021-04-10
+74,74,13:40 IB8675,,Geneva (GVA),Iberia Regional CRJX (EC-MSB),Landed 13:31,2021-04-10
+75,75,13:40 UX1098,,Amsterdam (AMS),Air Europa B738 (EC-MXM),Landed 13:20,2021-04-10
+76,76,13:40 UX1676,,Zurich (ZRH),Air Europa B738 (EC-MPG),Landed 13:47,2021-04-10
+77,77,13:40 UX4042,,Alicante (ALC),Air Europa Express AT75 (EC-MSN),Landed 13:40,2021-04-10
+78,78,13:40 UX9047,,Tenerife (TFN),Air Europa B738 (EC-MQP),Landed 13:34,2021-04-10
+79,79,13:45 UX1150,,Lisbon (LIS),Air Europa Express E195 (EC-LKM),Landed 13:30,2021-04-10
+80,80,13:45 UX9161,,Gran Canaria (LPA),Air Europa B738 (EC-LQX),Landed 13:27,2021-04-10
+81,81,13:45 UX7315,,Vigo (VGO),Air Europa Express E195 (EC-LIN),Landed 13:39,2021-04-10
+82,82,13:45 WT8157,,Algiers (ALG),Air Europa Express AT75 (EC-LYB),Landed 14:06,2021-04-10
+83,83,13:50 UX6048,,Palma de Mallorca (PMI),Air Europa B738 (EC-LYR),Landed 13:35,2021-04-10
+84,84,13:50,UX7158,Bilbao (BIO),Air Europa Express E195 (EC-LKX),Landed 13:17,2021-04-10
+85,85,13:55 IB3251,,Milan (LIN),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 13:38,2021-04-10
+86,86,14:00 IB3163,,London (LHR),Iberia A359 (EC-NGT),Landed 13:50,2021-04-10
+87,87,14:10 CA907,,Beijing (PEK),Air China A332 (B-6130),Landed 14:41,2021-04-10
+88,88,14:10 IB3231,,Rome (FCO),Iberia A20N (EC-MXY),Landed 13:53,2021-04-10
+89,89,14:15 IB3243,,Venice (VCE),Iberia A20N (EC-NJY),Landed 14:03,2021-04-10
+90,90,14:15 IB3203,,Brussels (BRU),Iberia A20N (EC-NJU),Landed 14:00,2021-04-10
+91,91,14:15 IB3477,,Zurich (ZRH),Iberia A319 (EC-JEI),Landed 13:58,2021-04-10
+92,92,14:15 IB8707,,Frankfurt (FRA),Iberia Regrional CRJX (EC-MLC),Landed 14:16,2021-04-10
+93,93,14:30 IB6586,,Bogota (BOG),Iberia A359 (EC-MYX),Landed 14:22,2021-04-10
+94,94,14:30 MS753,,Cairo (CAI),EgyptAir B738 (SU-GEK),Landed 14:28,2021-04-10
+95,95,14:35 QR149,,Doha (DOH),Qatar Airways B77W (A7-BAT),Landed 14:45,2021-04-10
+96,96,14:40 IB3943,,Tenerife (TFN),Iberia Express A21N (EC-NIA),Landed 14:27,2021-04-10
+97,97,14:40 IB3901,,Fuerteventura (FUE),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 14:30,2021-04-10
+98,98,14:45 IB507,,San Sebastian (EAS),Iberia A319 (EC-JAZ),Landed 14:26,2021-04-10
+99,99,14:45 IB3807,,Ibiza (IBZ),Iberia Express A320 (EC-MUK),Landed 14:33,2021-04-10
+100,100,14:45 IB3827,,Gran Canaria (LPA),Iberia Express A320 (EC-LUS),Landed 14:34,2021-04-10
+101,101,14:45 IB3979,,Tenerife (TFS),Iberia Express A21N (EC-NJI),Landed 14:44,2021-04-10
+102,102,14:45 IB8699,,Bordeaux (BOD),Iberia Regional CRJX (EC-MRI),Landed 14:20,2021-04-10
+103,103,14:45 TP1024,,Lisbon (LIS),TAP Express AT76 (CS-DJC),Unknown,2021-04-10
+104,104,14:50 IB3061,,Amsterdam (AMS),Iberia A333 (EC-LUK),Landed 14:23,2021-04-10
+105,105,14:50 IB3435,,Paris (ORY),Iberia A321 (EC-HUH),Landed 14:56,2021-04-10
+106,106,14:55 IB1331,,Barcelona (BCN),Iberia A20N (EC-NDN),Landed 14:43,2021-04-10
+107,107,14:55 IB3067,,Berlin (BER),Iberia A20N (EC-NER),Landed 14:31,2021-04-10
+108,108,14:55 IB3919,,Palma de Mallorca (PMI),Iberia Express A320 (EC-LYE),Landed 14:37,2021-04-10
+109,109,14:55 IB8947,,Malaga (AGP),Iberia Regional CRJX (EC-MSL),Landed 14:41,2021-04-10
+110,110,15:10 IB6314,,San Jose (SJO),Iberia A332 (EC-MIL),Landed 14:08,2021-04-10
+111,111,15:15 IB6454,,Quito (UIO),Iberia A359 (EC-NJM),Landed 14:50,2021-04-10
+112,112,15:15 LX2026,,Zurich (ZRH),Helvetic Airways E190 (HB-JVM),Landed 15:18,2021-04-10
+113,113,15:55 FR5353,,Rabat (RBA),Ryanair 73H,Unknown,2021-04-10
+114,114,16:06 3V4610,,Porto (OPO),ASL Airlines Belgium 73P,Unknown,2021-04-10
+115,115,16:25 IB3417,,Paris (ORY),Iberia A20N (EC-NCM),Landed 16:12,2021-04-10
+116,116,16:25 KL1703,,Amsterdam (AMS),KLM E75L (PH-EXS),Landed 16:18,2021-04-10
+117,117,16:30 AM21,,Mexico City (MEX),Aeromexico (Quetzalcoatl Livery) B789 (XA-ADL),Landed 16:28,2021-04-10
+118,118,16:55,AF1800,Paris (CDG),Air France A320 (F-GKXO),Landed 16:38,2021-04-10
+119,119,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-10
+120,120,16:57 LA9572,,Lima (LIM),LATAM Airlines B788 (CC-BBE),Landed 16:54,2021-04-10
+121,121,17:10,LA706,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-10
+122,122,17:20 3O542,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-04-10
+123,123,17:55,IB3937,Tenerife (TFN),Iberia Express A320 (EC-LVQ),Landed 17:35,2021-04-10
+124,124,17:55 0B2903,,Bacau (BCM),Blue Air 738,Unknown,2021-04-10
+125,125,18:05,IB3823,Gran Canaria (LPA),Iberia Express A320 (EC-JFG),Landed 17:42,2021-04-10
+126,126,18:10,UX6066,Palma de Mallorca (PMI),Air Europa B738 (EC-MKL),Landed 17:58,2021-04-10
+127,127,18:35,IB3059,Copenhagen (CPH),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 18:43,2021-04-10
+128,128,18:45,IB449,Bilbao (BIO),Iberia A20N (EC-MXY),Landed 18:09,2021-04-10
+129,129,18:45,IB8935,Granada (GRX),Iberia Regional CRJX (EC-MSL),Landed 18:37,2021-04-10
+130,130,18:50,IB575,Santiago (SCQ),Iberia A320 (EC-MCS),Landed 18:30,2021-04-10
+131,131,18:50 IB3151,,Athens (ATH),Iberia A20N (EC-MXU),Landed 19:22,2021-04-10
+132,132,18:50,IB3803,Ibiza (IBZ),Iberia Express A320 (EC-LYE),Landed 18:33,2021-04-10
+133,133,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-10
+134,134,18:50,IB8877,Valencia (VLC),Iberia Regional CRJX (EC-MVZ),Landed 18:35,2021-04-10
+135,135,18:50 IB8969,,Santander (SDR),Iberia Regional CRJX (EC-LJX),Landed 18:21,2021-04-10
+136,136,18:55,IB8775,Lisbon (LIS),Iberia Regional CRJX (EC-MJP),Landed 18:49,2021-04-10
+137,137,18:55,IB8997,Seville (SVQ),Iberia Regional CRJX (EC-MJQ),Landed 18:45,2021-04-10
+138,138,19:00,IB3925,Palma de Mallorca (PMI),Iberia Express A320 (EC-MUK),Landed 18:47,2021-04-10
+139,139,19:00,UX9076,Lanzarote (ACE),Air Europa B738 (EC-LVR),Landed 18:25,2021-04-10
+140,140,19:10 FR2529,,Berlin (BER),Ryanair B738 (EI-DLF),Landed 18:58,2021-04-10
+141,141,19:30 IB8691,,Nantes (NTE),Iberia Regional CRJX (EC-MTZ),Landed 19:10,2021-04-10
+142,142,19:50 IB8721,,Lyon (LYS),Iberia Regional CRJX (EC-MSB),Landed 19:40,2021-04-10
+143,143,19:50 TK6437,,Istanbul (ISL),Turkish Cargo B77L (TC-LJN),Diverted to IST,2021-04-10
+144,144,21:05 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRU),Landed 20:38,2021-04-10
+145,145,21:10,TP1014,Lisbon (LIS),TAP Express AT76 (CS-DJC),Landed 21:00,2021-04-10
+146,146,21:20,IB3445,Paris (ORY),Iberia A321 (EC-IJN),Landed 20:57,2021-04-10
+147,147,21:25 FR7156,,Dublin (DUB),Ryanair B738 (EI-EBM),Landed 21:03,2021-04-10
+148,148,21:25,IB3493,Geneva (GVA),Iberia A20N (EC-NDN),Landed 20:53,2021-04-10
+149,149,21:40 AT676,,Tangier (TNG),Royal Air Maroc E90,Canceled,2021-04-10
+150,150,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-MQP),Landed 21:16,2021-04-10
+151,151,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-MXM),Landed 21:19,2021-04-10
+152,152,22:00 IB8761,,Bologna (BLQ),Iberia Regional (Islas Cíes Livery) CRJX (EC-MNQ),Landed 21:32,2021-04-10
+153,153,22:05 IB3255,,Milan (LIN),Iberia A319 (EC-JEI),Landed 21:50,2021-04-10
+154,154,22:05 IB8695,,Brussels (BRU),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 21:48,2021-04-10
+155,155,22:10,IB3167,London (LHR),Iberia A359 (EC-NIG),Landed 21:29,2021-04-10
+156,156,22:10 IB3335,,Florence (FLR),Iberia A319 (EC-JAZ),Landed 21:39,2021-04-10
+157,157,22:20 IB3855,,Lanzarote (ACE),Iberia Express A21N (EC-NIF),Landed 21:59,2021-04-10
+158,158,22:25,IB3237,Rome (FCO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 22:03,2021-04-10
+159,159,22:30,IB3471,Zurich (ZRH),Iberia A332 (EC-MLP),Landed 22:09,2021-04-10
+160,160,22:30,IB3791,Dublin (DUB),Iberia Express A320 (EC-LUS),Landed 21:56,2021-04-10
+161,161,22:35 SU2604,,Moscow (SVO),Aeroflot B738 (VP-BZA),Landed 22:18,2021-04-10
+162,162,22:45 BA9048,,Milan (MXP),British Airways 75F,Unknown,2021-04-10
+163,163,22:45,IB8865,Alicante (ALC),Iberia Regional CRJX (EC-MVZ),Landed 22:14,2021-04-10
+164,164,22:45 IB8885,,Asturias (OVD),Iberia CRK,Canceled,2021-04-10
+165,165,22:50,IB3123,Vienna (VIE),Iberia A20N (EC-NER),Landed 22:29,2021-04-10
+166,166,22:50 IB8909,,Jerez (XRY),Iberia Regional CRJX (EC-MJQ),Landed 22:27,2021-04-10
+167,167,22:50,IB8923,Almeria (LEI),Iberia Regional CRJX (EC-LJX),Landed 22:29,2021-04-10
+168,168,22:50,IB8951,Malaga (AGP),Iberia Regional CRJX (EC-MSL),Landed 22:24,2021-04-10
+169,169,22:55,IB3833,Gran Canaria (LPA),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 22:33,2021-04-10
+170,170,22:55,IB3939,Tenerife (TFN),Iberia Express A21N (EC-NGP),Landed 22:44,2021-04-10
+171,171,22:55 IB8771,,Turin (TRN),Iberia Regional CRJX (EC-MVC),Landed 22:37,2021-04-10
+172,172,23:00 BA9040,,Frankfurt (FRA),British Airways AB6,Unknown,2021-04-10
+173,173,23:00,IB521,A Coruna (LCG),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 22:31,2021-04-10
+174,174,23:00,IB539,Vigo (VGO),Iberia A319 (EC-JDL),Landed 22:38,2021-04-10
+175,175,23:00,IB585,La Palma (SPC),Iberia A20N (EC-NJU),Landed 22:53,2021-04-10
+176,176,23:00,IB2135,Barcelona (BCN),Iberia A20N (EC-MXY),Landed 22:40,2021-04-10
+177,177,23:00,IB8851,Pamplona (PNA),Iberia Regional CRJX (EC-MSB),Landed 22:35,2021-04-10
+178,178,23:00 IB9048,,Milan (MXP),Iberia 75F,Unknown,2021-04-10
+179,179,23:00 IB9040,,Frankfurt (FRA),Iberia ABF,Unknown,2021-04-10
+180,180,23:10,AF1400,Paris (CDG),Air France A321 (F-GTAD),Landed 23:23,2021-04-10
+181,181,23:25,KL1707,Amsterdam (AMS),KLM B737 (PH-BGW),Landed 23:00,2021-04-10
+182,182,23:30,TP1022,Lisbon (LIS),TAP Express AT76 (CS-DJE),Landed 23:21,2021-04-10
+0,0,15:10 IB6314,,San Jose (SJO),Iberia A332 (EC-MIL),Landed 14:08,2021-04-10
+1,1,15:15 IB6454,,Quito (UIO),Iberia A359 (EC-NJM),Landed 14:50,2021-04-10
+2,2,15:15 LX2026,,Zurich (ZRH),Helvetic Airways E190 (HB-JVM),Landed 15:18,2021-04-10
+3,3,15:55 FR5353,,Rabat (RBA),Ryanair 73H,Unknown,2021-04-10
+4,4,16:06 3V4610,,Porto (OPO),ASL Airlines Belgium 73P,Unknown,2021-04-10
+5,5,16:25 IB3417,,Paris (ORY),Iberia A20N (EC-NCM),Landed 16:12,2021-04-10
+6,6,16:25 KL1703,,Amsterdam (AMS),KLM E75L (PH-EXS),Landed 16:18,2021-04-10
+7,7,16:30 AM21,,Mexico City (MEX),Aeromexico (Quetzalcoatl Livery) B789 (XA-ADL),Landed 16:28,2021-04-10
+8,8,16:55 AF1800,,Paris (CDG),Air France A320 (F-GKXO),Landed 16:38,2021-04-10
+9,9,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-10
+10,10,16:57 LA9572,,Lima (LIM),LATAM Airlines B788 (CC-BBE),Landed 16:54,2021-04-10
+11,11,17:10 LA706,,Santiago (SCL),LATAM Airlines 788,Unknown,2021-04-10
+12,12,17:20 3O542,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-04-10
+13,13,17:55 IB3937,,Tenerife (TFN),Iberia Express A320 (EC-LVQ),Landed 17:35,2021-04-10
+14,14,17:55 0B2903,,Bacau (BCM),Blue Air 738,Unknown,2021-04-10
+15,15,18:05 IB3823,,Gran Canaria (LPA),Iberia Express A320 (EC-JFG),Landed 17:42,2021-04-10
+16,16,18:10 UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-MKL),Landed 17:58,2021-04-10
+17,17,18:35 IB3059,,Copenhagen (CPH),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 18:43,2021-04-10
+18,18,18:45 IB449,,Bilbao (BIO),Iberia A20N (EC-MXY),Landed 18:09,2021-04-10
+19,19,18:45 IB8935,,Granada (GRX),Iberia Regional CRJX (EC-MSL),Landed 18:37,2021-04-10
+20,20,18:50 IB575,,Santiago (SCQ),Iberia A320 (EC-MCS),Landed 18:30,2021-04-10
+21,21,18:50 IB3151,,Athens (ATH),Iberia A20N (EC-MXU),Landed 19:22,2021-04-10
+22,22,18:50 IB3803,,Ibiza (IBZ),Iberia Express A320 (EC-LYE),Landed 18:33,2021-04-10
+23,23,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-10
+24,24,18:50 IB8877,,Valencia (VLC),Iberia Regional CRJX (EC-MVZ),Landed 18:35,2021-04-10
+25,25,18:50 IB8969,,Santander (SDR),Iberia Regional CRJX (EC-LJX),Landed 18:21,2021-04-10
+26,26,18:55 IB8775,,Lisbon (LIS),Iberia Regional CRJX (EC-MJP),Landed 18:49,2021-04-10
+27,27,18:55 IB8997,,Seville (SVQ),Iberia Regional CRJX (EC-MJQ),Landed 18:45,2021-04-10
+28,28,19:00 IB3925,,Palma de Mallorca (PMI),Iberia Express A320 (EC-MUK),Landed 18:47,2021-04-10
+29,29,19:00 UX9076,,Lanzarote (ACE),Air Europa B738 (EC-LVR),Landed 18:25,2021-04-10
+30,30,19:10 FR2529,,Berlin (BER),Ryanair B738 (EI-DLF),Landed 18:58,2021-04-10
+31,31,19:30 IB8691,,Nantes (NTE),Iberia Regional CRJX (EC-MTZ),Landed 19:10,2021-04-10
+32,32,19:50 IB8721,,Lyon (LYS),Iberia Regional CRJX (EC-MSB),Landed 19:40,2021-04-10
+33,33,19:50 TK6437,,Istanbul (ISL),Turkish Cargo B77L (TC-LJN),Diverted to IST,2021-04-10
+34,34,21:05 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRU),Landed 20:38,2021-04-10
+35,35,21:10 TP1014,,Lisbon (LIS),TAP Express AT76 (CS-DJC),Landed 21:00,2021-04-10
+36,36,21:20 IB3445,,Paris (ORY),Iberia A321 (EC-IJN),Landed 20:57,2021-04-10
+37,37,21:25 FR7156,,Dublin (DUB),Ryanair B738 (EI-EBM),Landed 21:03,2021-04-10
+38,38,21:25 IB3493,,Geneva (GVA),Iberia A20N (EC-NDN),Landed 20:53,2021-04-10
+39,39,21:40 AT676,,Tangier (TNG),Royal Air Maroc E90,Canceled,2021-04-10
+40,40,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-MQP),Landed 21:16,2021-04-10
+41,41,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-MXM),Landed 21:19,2021-04-10
+42,42,22:00 IB8761,,Bologna (BLQ),Iberia Regional (Islas Cíes Livery) CRJX (EC-MNQ),Landed 21:32,2021-04-10
+43,43,22:05 IB3255,,Milan (LIN),Iberia A319 (EC-JEI),Landed 21:50,2021-04-10
+44,44,22:05 IB8695,,Brussels (BRU),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 21:48,2021-04-10
+45,45,22:10 IB3167,,London (LHR),Iberia A359 (EC-NIG),Landed 21:29,2021-04-10
+46,46,22:10 IB3335,,Florence (FLR),Iberia A319 (EC-JAZ),Landed 21:39,2021-04-10
+47,47,22:20 IB3855,,Lanzarote (ACE),Iberia Express A21N (EC-NIF),Landed 21:59,2021-04-10
+48,48,22:25 IB3237,,Rome (FCO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 22:03,2021-04-10
+49,49,22:30 IB3471,,Zurich (ZRH),Iberia A332 (EC-MLP),Landed 22:09,2021-04-10
+50,50,22:30 IB3791,,Dublin (DUB),Iberia Express A320 (EC-LUS),Landed 21:56,2021-04-10
+51,51,22:35 SU2604,,Moscow (SVO),Aeroflot B738 (VP-BZA),Landed 22:18,2021-04-10
+52,52,22:45 BA9048,,Milan (MXP),British Airways 75F,Unknown,2021-04-10
+53,53,22:45 IB8865,,Alicante (ALC),Iberia Regional CRJX (EC-MVZ),Landed 22:14,2021-04-10
+54,54,22:45 IB8885,,Asturias (OVD),Iberia CRK,Canceled,2021-04-10
+55,55,22:50 IB3123,,Vienna (VIE),Iberia A20N (EC-NER),Landed 22:29,2021-04-10
+56,56,22:50 IB8909,,Jerez (XRY),Iberia Regional CRJX (EC-MJQ),Landed 22:27,2021-04-10
+57,57,22:50 IB8923,,Almeria (LEI),Iberia Regional CRJX (EC-LJX),Landed 22:29,2021-04-10
+58,58,22:50 IB8951,,Malaga (AGP),Iberia Regional CRJX (EC-MSL),Landed 22:24,2021-04-10
+59,59,22:55 IB3833,,Gran Canaria (LPA),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 22:33,2021-04-10
+60,60,22:55 IB3939,,Tenerife (TFN),Iberia Express A21N (EC-NGP),Landed 22:44,2021-04-10
+61,61,22:55 IB8771,,Turin (TRN),Iberia Regional CRJX (EC-MVC),Landed 22:37,2021-04-10
+62,62,23:00 BA9040,,Frankfurt (FRA),British Airways AB6,Unknown,2021-04-10
+63,63,23:00 IB521,,A Coruna (LCG),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 22:31,2021-04-10
+64,64,23:00 IB539,,Vigo (VGO),Iberia A319 (EC-JDL),Landed 22:38,2021-04-10
+65,65,23:00 IB585,,La Palma (SPC),Iberia A20N (EC-NJU),Landed 22:53,2021-04-10
+66,66,23:00 IB2135,,Barcelona (BCN),Iberia A20N (EC-MXY),Landed 22:40,2021-04-10
+67,67,23:00 IB8851,,Pamplona (PNA),Iberia Regional CRJX (EC-MSB),Landed 22:35,2021-04-10
+68,68,23:00 IB9048,,Milan (MXP),Iberia 75F,Unknown,2021-04-10
+69,69,23:00 IB9040,,Frankfurt (FRA),Iberia ABF,Unknown,2021-04-10
+70,70,23:10 AF1400,,Paris (CDG),Air France A321 (F-GTAD),Landed 23:23,2021-04-10
+71,71,23:25 KL1707,,Amsterdam (AMS),KLM B737 (PH-BGW),Landed 23:00,2021-04-10
+72,72,23:30 TP1022,,Lisbon (LIS),TAP Express AT76 (CS-DJE),Landed 23:21,2021-04-10
+0,0,15:20 QR8211,,Doha (DOH),Qatar Cargo B77L (A7-BFO),Landed 16:21,2021-04-11
+1,1,15:30 SV227,,Jeddah (JED),Saudia B789 (HZ-ARE),Landed 15:54,2021-04-11
+2,2,15:55 U21115,,Basel (BSL),easyJet A320 (HB-JXN),Landed 15:27,2021-04-11
+3,3,16:15 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRR),Landed 15:59,2021-04-11
+4,4,16:25 IB3417,,Paris (ORY),Iberia A20N (EC-MXU),Landed 16:06,2021-04-11
+5,5,16:25 KL1703,,Amsterdam (AMS),KLM (SkyTeam Livery) E190 (PH-EZX),Landed 16:19,2021-04-11
+6,6,16:30 AM21,,Mexico City (MEX),Aeromexico B789 (XA-ADG),Landed 16:10,2021-04-11
+7,7,16:30 W63401,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LYK),Landed 16:10,2021-04-11
+8,8,16:40 TK1859,,Istanbul (IST),Turkish Airlines A333 (TC-JNM),Landed 16:18,2021-04-11
+9,9,16:55 AF1800,,Paris (CDG),Air France A320 (F-HEPF),Landed 16:48,2021-04-11
+10,10,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-11
+11,11,17:15 TK6417,,Istanbul (ISL),Turkish Airlines 33X,Unknown,2021-04-11
+12,12,17:25 FB471,,Sofia (SOF),Bulgaria Air E190 (LZ-SOF),Landed 17:21,2021-04-11
+13,13,17:55 IB3937,,Tenerife (TFN),Iberia Express A320 (EC-LVQ),Landed 17:28,2021-04-11
+14,14,18:05 IB3823,,Gran Canaria (LPA),Iberia Express A320 (EC-JFG),Landed 17:50,2021-04-11
+15,15,18:10 UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-MKL),Landed 17:48,2021-04-11
+16,16,18:20 IB1655,,Barcelona (BCN),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 17:59,2021-04-11
+17,17,18:45 AT970,,Casablanca (CMN),Royal Air Maroc 73H,Canceled,2021-04-11
+18,18,18:45 IB449,,Bilbao (BIO),Iberia A319 (EC-JEI),Landed 18:24,2021-04-11
+19,19,18:45 IB3315,,Stockholm (ARN),Iberia A20N (EC-MXY),Landed 18:42,2021-04-11
+20,20,18:45 IB8937,,Granada (GRX),Iberia Regional CRJX (EC-MVZ),Landed 18:27,2021-04-11
+21,21,18:50 IB3151,,Athens (ATH),Iberia A20N (EC-NER),Landed 18:38,2021-04-11
+22,22,18:50 IB3803,,Ibiza (IBZ),Iberia Express A21N (EC-NGP),Landed 18:34,2021-04-11
+23,23,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-11
+24,24,18:50 IB8877,,Valencia (VLC),Iberia Regional CRJX (EC-MRI),Landed 18:22,2021-04-11
+25,25,18:50 IB8969,,Santander (SDR),Iberia Regional CRJX (EC-MSL),Landed 18:44,2021-04-11
+26,26,18:55 IB8741,,Toulouse (TLS),Iberia Regional CRJX (EC-MTO),Landed 18:28,2021-04-11
+27,27,19:00 IB523,,A Coruna (LCG),Iberia A320 (EC-MCS),Landed 18:39,2021-04-11
+28,28,19:00 IB535,,Vigo (VGO),Iberia A319 (EC-JDL),Landed 18:41,2021-04-11
+29,29,19:00 IB3925,,Palma de Mallorca (PMI),Iberia Express A320 (EC-LYE),Landed 18:46,2021-04-11
+30,30,19:00 IB8665,,Porto (OPO),Iberia Regional CRJX (EC-MSB),Landed 18:32,2021-04-11
+31,31,19:10 IB3103,,Lisbon (LIS),Iberia A320 (EC-LXQ),Landed 18:45,2021-04-11
+32,32,19:25 LG3837,,Luxembourg (LUX),Luxair B737 (LX-LGQ),Landed 19:02,2021-04-11
+33,33,19:30 FR5469,,Fuerteventura (FUE),Ryanair B738 (EI-DPF),Landed 19:28,2021-04-11
+34,34,19:35 FR2514,,Bucharest (OTP),Ryanair B738 (9H-QEN),Landed 19:27,2021-04-11
+35,35,19:45 IB8751,,Marseille (MRS),Air Nostrum CRJX (EC-MPA),Landed 19:30,2021-04-11
+36,36,19:50 IB8721,,Lyon (LYS),Iberia Regional CRJX (EC-MJQ),Landed 19:52,2021-04-11
+37,37,19:55 TO3182,,Paris (ORY),Transavia B738 (F-GZHU),Landed 19:45,2021-04-11
+38,38,20:05 U21417,,Geneva (GVA),easyJet A320 (HB-JYD),Landed 19:48,2021-04-11
+39,39,20:25 FR7755,,Tangier (TNG),Ryanair 73H,Canceled,2021-04-11
+40,40,20:30 UX1016,,London (LGW),Air Europa B738 (EC-MJU),Landed 19:42,2021-04-11
+41,41,20:35 UX1062,,Milan (MXP),Air Europa B738 (EC-MVY),Landed 20:09,2021-04-11
+42,42,20:40 UX6078,,Palma de Mallorca (PMI),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 20:12,2021-04-11
+43,43,21:00 IB8333,,Badajoz (BJZ),Iberia Regional CRJ2 (EC-MNB),Landed 20:33,2021-04-11
+44,44,21:00 UX1048,,Rome (FCO),Air Europa B738 (EC-MXM),Landed 20:30,2021-04-11
+45,45,21:10 TP1014,,Lisbon (LIS),TAP Express AT76 (CS-DJE),Landed 20:47,2021-04-11
+46,46,21:15 IB2824,,Hangzhou (HGH),Iberia A332 (EC-MSY),Landed 21:35,2021-04-11
+47,47,21:20 IB3445,,Paris (ORY),Iberia A321 (EC-JQZ),Landed 21:03,2021-04-11
+48,48,21:20 UX4060,,Valencia (VLC),Air Europa B738 (EC-LYR),Landed 21:01,2021-04-11
+49,49,21:20 U27615,,Lisbon (LIS),easyJet A320 (OE-IZH),Landed 20:55,2021-04-11
+50,50,21:25 IB3493,,Geneva (GVA),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 20:53,2021-04-11
+51,51,21:40 UX1094,,Amsterdam (AMS),Air Europa B738 (EC-MPG),Landed 21:21,2021-04-11
+52,52,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-LQX),Landed 21:12,2021-04-11
+53,53,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-LVR),Landed 21:23,2021-04-11
+54,54,21:50 IB8783,,Zurich (ZRH),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 21:47,2021-04-11
+55,55,21:55 IB2031,,Barcelona (BCN),Iberia A20N (EC-MXU),Landed 21:32,2021-04-11
+56,56,21:55 UX1506,,Frankfurt (FRA),Air Europa B738 (EC-MUZ),Landed 21:29,2021-04-11
+57,57,21:55 UX7319,,Vigo (VGO),Air Europa Express E195 (EC-LLR),Landed 21:30,2021-04-11
+58,58,22:00 FR5279,,Tenerife (TFN),Ryanair B738 (EI-EKR),Landed 21:48,2021-04-11
+59,59,22:05 IB3255,,Milan (LIN),Iberia A319 (EC-JAZ),Landed 21:52,2021-04-11
+60,60,22:05 IB8695,,Brussels (BRU),Iberia Regional CRJX (EC-MVC),Landed 21:50,2021-04-11
+61,61,22:05 UX7708,,Barcelona (BCN),Air Europa B788 (EC-MMY),Landed 21:20,2021-04-11
+62,62,22:10 IB3167,,London (LHR),Iberia A359 (EC-MYX),Landed 21:54,2021-04-11
+63,63,22:10 UX1026,,Paris (ORY),Air Europa B738 (EC-MQP),Landed 21:44,2021-04-11
+64,64,22:15 IB3855,,Lanzarote (ACE),Iberia Express A320 (EC-MUK),Landed 21:51,2021-04-11
+65,65,22:15 UX1142,,Porto (OPO),Air Europa Express E195 (EC-LKM),Landed 21:45,2021-04-11
+66,66,22:15 UX1160,,Lisbon (LIS),Air Europa Express E195 (EC-LKX),Landed 21:40,2021-04-11
+67,67,22:15 UX7160,,Bilbao (BIO),Air Europa B738 (EC-LUT),Landed 21:42,2021-04-11
+68,68,22:25 IB3237,,Rome (FCO),Iberia A320 (EC-LUL),Landed 21:56,2021-04-11
+69,69,22:30 IB3245,,Venice (VCE),Iberia A20N (EC-NJU),Landed 21:59,2021-04-11
+70,70,22:35 IB567,,Seville (SVQ),Iberia A320 (EC-MCS),Landed 22:15,2021-04-11
+71,71,22:35 IB3133,,Dusseldorf (DUS),Iberia A20N (EC-NDN),Landed 22:30,2021-04-11
+72,72,22:35 IB3905,,Fuerteventura (FUE),Iberia Express A320 (EC-LUS),Landed 22:08,2021-04-11
+73,73,22:40 IB3377,,Naples (NAP),Iberia A320 (EC-LVD),Landed 22:33,2021-04-11
+74,74,22:45 IB577,,Santiago (SCQ),Iberia A320 (EC-LXQ),Landed 22:36,2021-04-11
+75,75,22:45 IB8711,,Frankfurt (FRA),Iberia Regional (Islas Cies Livery) CRJX (EC-MLO),Landed 22:17,2021-04-11
+76,76,22:45 IB8865,,Alicante (ALC),Iberia Regional CRJX (EC-MSL),Landed 22:14,2021-04-11
+77,77,22:50 IB3293,,Dubrovnik (DBV),Iberia A20N (EC-NCM),Landed 22:23,2021-04-11
+78,78,22:50 IB8909,,Jerez (XRY),Iberia Regional CRJX (EC-MSB),Landed 22:20,2021-04-11
+79,79,22:50 IB8923,,Almeria (LEI),Iberia Regional CRJX (EC-MVZ),Landed 22:32,2021-04-11
+80,80,22:50 IB8951,,Malaga (AGP),Iberia Regional CRJX (EC-MTO),Landed 22:18,2021-04-11
+81,81,22:55 IB481,,Asturias (OVD),Iberia A319 (EC-JDL),Landed 22:27,2021-04-11
+82,82,22:55 IB3269,,Hamburg (HAM),Iberia A20N (EC-NJY),Landed 22:41,2021-04-11
+83,83,22:55 IB3833,,Gran Canaria (LPA),Iberia Express A21N (EC-NJI),Landed 22:29,2021-04-11
+84,84,22:55 IB3921,,Palma de Mallorca (PMI),Iberia Express A320 (EC-JFG),Landed 22:44,2021-04-11
+85,85,22:55 IB3929,,Tenerife (TFS),Iberia Express A21N (EC-NIF),Landed 22:25,2021-04-11
+86,86,22:55 IB3939,,Tenerife (TFN),Iberia Express A21N (EC-NIA),Landed 22:34,2021-04-11
+87,87,22:55 IB8771,,Turin (TRN),Iberia Regrional CRJX (EC-MLC),Landed 22:25,2021-04-11
+88,88,22:55 CA1028,,Liege (LGG),Air China Cargo B77L (B-2092),Landed 22:38,2021-04-11
+89,89,23:00 IB8851,,Pamplona (PNA),Iberia Regional CRJX (EC-MJQ),Landed 22:52,2021-04-11
+90,90,23:10 AF1400,,Paris (CDG),Air France A320 (F-GKXL),Landed 22:45,2021-04-11
+91,91,23:25 KL1707,,Amsterdam (AMS),KLM B737 (PH-BGX),Landed 23:09,2021-04-11
+92,92,23:30 TP1022,,Lisbon (LIS),TAP Express AT76 (CS-DJB),Landed 23:06,2021-04-11
+93,93,23:35 LH1120,,Frankfurt (FRA),Lufthansa A20N (D-AINJ),Landed 23:30,2021-04-11
+0,0,15:10 IB6314,,San Jose (SJO),Iberia A332 (EC-MNK),Landed 14:31,2021-04-12
+1,1,15:15 IB6454,,Quito (UIO),Iberia A359 (EC-NCX),Landed 14:51,2021-04-12
+2,2,16:25 IB3417,,Paris (ORY),Iberia A320 (EC-LVD),Landed 16:03,2021-04-12
+3,3,16:30 AM21,,Mexico City (MEX),Aeromexico B789 (N128AM),Landed 16:20,2021-04-12
+4,4,16:40 TK1859,,Istanbul (IST),Turkish Airlines A21N (TC-LSD),Landed 16:34,2021-04-12
+5,5,16:55 AF1800,,Paris (CDG),Air France A319 (F-GRHZ),Landed 16:36,2021-04-12
+6,6,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-12
+7,7,17:10 LA706,,Santiago (SCL),LATAM Airlines B788,Unknown,2021-04-12
+8,8,17:55 IB3937,,Tenerife (TFN),Iberia Express A320 (EC-LUS),Landed 17:37,2021-04-12
+9,9,17:55 0B2903,,Bacau (BCM),Blue Air 738,Unknown,2021-04-12
+10,10,18:05 IB3823,,Gran Canaria (LPA),Iberia Express A21N (EC-NGP),Landed 17:45,2021-04-12
+11,11,18:10 UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-MJU),Landed 17:52,2021-04-12
+12,12,18:20 IB1655,,Barcelona (BCN),Iberia A20N (EC-NCM),Landed 18:08,2021-04-12
+13,13,18:45 AT970,,Casablanca (CMN),Royal Air Maroc 73H,Canceled,2021-04-12
+14,14,18:45 IB449,,Bilbao (BIO),Iberia A20N (EC-NJU),Landed 18:20,2021-04-12
+15,15,18:50 IB3803,,Ibiza (IBZ),Iberia Express A21N (EC-NIA),Landed 18:29,2021-04-12
+16,16,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-12
+17,17,18:50 IB8877,,Valencia (VLC),Iberia Regional CRJX (EC-MTZ),Landed 18:40,2021-04-12
+18,18,18:50 IB8969,,Santander (SDR),Iberia Regional CRJX (EC-MUG),Landed 18:34,2021-04-12
+19,19,18:55 IB3059,,Copenhagen (CPH),Iberia A20N (EC-NJY),Landed 18:31,2021-04-12
+20,20,18:55 IB8741,,Toulouse (TLS),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 18:27,2021-04-12
+21,21,18:55 IB8775,,Lisbon (LIS),Iberia Regional CRJX (EC-MTO),Landed 18:25,2021-04-12
+22,22,18:55 IB8997,,Seville (SVQ),Iberia Regional (Islas Cies Livery) CRJX (EC-MLO),Landed 18:46,2021-04-12
+23,23,19:00 IB535,,Vigo (VGO),Iberia A319 (EC-JEI),Landed 18:43,2021-04-12
+24,24,19:00 IB523,,A Coruna (LCG),Iberia A319 (EC-JDL),Landed 18:28,2021-04-12
+25,25,19:00 IB3925,,Palma de Mallorca (PMI),Iberia Express A320 (EC-MUK),Landed 18:50,2021-04-12
+26,26,19:00 IB8665,,Porto (OPO),Iberia Regional CRJX (EC-MRI),Landed 18:33,2021-04-12
+27,27,19:00 UX9076,,Lanzarote (ACE),Air Europa B738 (EC-LYR),Landed 18:41,2021-04-12
+28,28,19:10 IB8701,,Bordeaux (BOD),Iberia Regional CRJX (EC-MJQ),Landed 18:44,2021-04-12
+29,29,19:25 LG3837,,Luxembourg (LUX),Luxair B737 (LX-LBT),Landed 18:58,2021-04-12
+30,30,19:30 WT154,,Casablanca (CMN),Swiftair AT4,Unknown,2021-04-12
+31,31,19:40 FR5447,,Marseille (MRS),Ryanair B738 (EI-DHS),Landed 19:20,2021-04-12
+32,32,19:50 IB8721,,Lyon (LYS),Iberia Regional CRJX (EC-MVC),Landed 19:40,2021-04-12
+33,33,20:00 IB1835,,Barcelona (BCN),Iberia A20N (EC-MXU),Landed 19:37,2021-04-12
+34,34,20:05 U23907,,Paris (CDG),easyJet 320,Unknown,2021-04-12
+35,35,20:25 FR1063,,Warsaw (WMI),Ryanair B738 (SP-RKR),Landed 20:02,2021-04-12
+36,36,20:30 UX1016,,London (LGW),Air Europa B738 (EC-MVY),Landed 19:41,2021-04-12
+37,37,20:35 UX1062,,Milan (MXP),Air Europa B738 (EC-MUZ),Landed 20:12,2021-04-12
+38,38,21:00 UX1048,,Rome (FCO),Air Europa B738 (EC-MXM),Landed 20:37,2021-04-12
+39,39,21:00 UX1672,,Zurich (ZRH),Air Europa B738 (EC-LVR),Landed 20:28,2021-04-12
+40,40,21:05 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 20:35,2021-04-12
+41,41,21:10 TP1014,,Lisbon (LIS),TAP Express AT76 (CS-DJE),Landed 20:56,2021-04-12
+42,42,21:20 IB3445,,Paris (ORY),Iberia A321 (EC-HUI),Landed 20:48,2021-04-12
+43,43,21:20 UX1174,,Brussels (BRU),Air Europa B738 (EC-LPR),Landed 20:45,2021-04-12
+44,44,21:20 UX4060,,Valencia (VLC),Air Europa Express E195 (EC-LCQ),Landed 21:01,2021-04-12
+45,45,21:25 IB3493,,Geneva (GVA),Iberia A20N (EC-NER),Landed 20:51,2021-04-12
+46,46,21:40 UX1094,,Amsterdam (AMS),Air Europa B738 (EC-MQP),Landed 21:06,2021-04-12
+47,47,21:40 UX5038,,Malaga (AGP),Air Europa Express AT75 (EC-MZJ),Landed 21:20,2021-04-12
+48,48,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-LQX),Landed 21:04,2021-04-12
+49,49,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-IDA),Landed 21:18,2021-04-12
+50,50,21:50 IB8783,,Zurich (ZRH),Iberia Regional CRJX (EC-LJX),Landed 21:30,2021-04-12
+51,51,21:50 UX1304,,Tel Aviv (TLV),Air Europa B738 (EC-LUT),Landed 21:42,2021-04-12
+52,52,21:55 UX1506,,Frankfurt (FRA),Air Europa Express E195 (EC-LEK),Landed 21:31,2021-04-12
+53,53,21:55 UX7238,,A Coruna (LCG),Air Europa B738 (EC-LXV),Landed 21:37,2021-04-12
+54,54,21:55 UX7319,,Vigo (VGO),Air Europa Express E195 (EC-LKM),Landed 21:27,2021-04-12
+55,55,22:05 IB3063,,Amsterdam (AMS),Iberia A20N (EC-NDN),Landed 21:33,2021-04-12
+56,56,22:05 IB8695,,Brussels (BRU),Iberia Regional CRJX (EC-MVZ),Landed 21:41,2021-04-12
+57,57,22:05 UX4050,,Alicante (ALC),Air Europa Express AT75 (EC-MSN),Landed 21:18,2021-04-12
+58,58,22:05 UX7708,,Barcelona (BCN),Air Europa (Nicky Jam X J Balvin Livery) B788 (EC-MLT),Landed 21:25,2021-04-12
+59,59,22:10 IB3167,,London (LHR),Iberia A359 (EC-NJM),Landed 21:39,2021-04-12
+60,60,22:10 IB3255,,Milan (LIN),Iberia A321 (EC-HUH),Landed 21:50,2021-04-12
+61,61,22:10 IB3335,,Florence (FLR),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 21:46,2021-04-12
+62,62,22:10 UX1026,,Paris (ORY),Air Europa B738 (EC-MPG),Landed 21:51,2021-04-12
+63,63,22:10 UX1518,,Munich (MUC),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 21:35,2021-04-12
+64,64,22:15 UX1160,,Lisbon (LIS),Air Europa Express E195 (EC-LFZ),Landed 21:47,2021-04-12
+65,65,22:15 UX1142,,Porto (OPO),Air Europa Express E195 (EC-LKX),Landed 21:53,2021-04-12
+66,66,22:15 UX7160,,Bilbao (BIO),Air Europa Express E195 (EC-LIN),Landed 22:02,2021-04-12
+67,67,22:25 IB3237,,Rome (FCO),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 21:48,2021-04-12
+68,68,22:30 IB3245,,Venice (VCE),Iberia A20N (EC-MXY),Landed 22:00,2021-04-12
+69,69,22:30 IB3791,,Dublin (DUB),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 21:55,2021-04-12
+70,70,22:30 IB8937,,Granada (GRX),Iberia Regional CRJX (EC-MUG),Landed 22:04,2021-04-12
+71,71,22:35 IB3905,,Fuerteventura (FUE),Iberia Express A320 (EC-LVQ),Landed 22:07,2021-04-12
+72,72,22:45 IB577,,Santiago (SCQ),Iberia A320 (EC-LVD),Landed 22:26,2021-04-12
+73,73,22:45 IB8885,,Asturias (OVD),Iberia Regional CRJX (EC-MTO),Landed 22:45,2021-04-12
+74,74,22:45 IB8865,,Alicante (ALC),Iberia Regional CRJX (EC-MRI),Landed 22:15,2021-04-12
+75,75,22:50 IB8923,,Almeria (LEI),Air Nostrum CRJX (EC-MPA),Landed 22:23,2021-04-12
+76,76,22:50 IB8909,,Jerez (XRY),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 22:24,2021-04-12
+77,77,22:50 IB8951,,Malaga (AGP),Iberia Regional CRJX (EC-MTZ),Landed 22:16,2021-04-12
+78,78,22:55 IB3833,,Gran Canaria (LPA),Iberia Express A21N (EC-NJI),Landed 22:34,2021-04-12
+79,79,22:55 IB3929,,Tenerife (TFS),Iberia Express A320 (EC-LYE),Landed 22:21,2021-04-12
+80,80,22:55 IB3939,,Tenerife (TFN),Iberia Express A320 (EC-JFG),Landed 22:29,2021-04-12
+81,81,22:55 WT105,,Palma de Mallorca (PMI),Swiftair ATF,Unknown,2021-04-12
+82,82,23:00 IB8851,,Pamplona (PNA),Iberia Regional CRJX (EC-MVC),Landed 22:40,2021-04-12
+83,83,23:10 AF1400,,Paris (CDG),Air France A319 (F-GRXM),Landed 22:52,2021-04-12
+84,84,23:25 KL1707,,Amsterdam (AMS),KLM B737 (PH-BGG),Landed 22:47,2021-04-12
+85,85,23:45 WT102,,Palma de Mallorca (PMI),Swiftair AT43 (EC-JBN),Landed 23:52,2021-04-12
+0,0,15:10 IB6314,,San Jose (SJO),Iberia A332 (EC-MIL),Landed 14:33,2021-04-13
+1,1,15:15 IB6454,,Quito (UIO),Iberia A359 (EC-NBE),Landed 14:47,2021-04-13
+2,2,15:30 SV227,,Riyadh (RUH),Saudia B789 (HZ-AR11),Landed 15:24,2021-04-13
+3,3,15:40 LH1114,,Frankfurt (FRA),Lufthansa A20N (D-AINF),Landed 15:28,2021-04-13
+4,4,16:10 CA1028,,Liege (LGG),Air China Cargo B77L (B-2092),Landed 15:31,2021-04-13
+5,5,16:15 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LSQ),Landed 15:46,2021-04-13
+6,6,16:25 IB3417,,Paris (ORY),Iberia A20N (EC-MXY),Landed 16:04,2021-04-13
+7,7,16:30 AM21,,Mexico City (MEX),Aeromexico B789 (N183AM),Landed 16:06,2021-04-13
+8,8,16:40 TK1859,,Istanbul (IST),Turkish Airlines A21N (TC-LSC),Landed 16:30,2021-04-13
+9,9,16:55 AF1800,,Paris (CDG),Air France A319 (F-GRHH),Landed 16:45,2021-04-13
+10,10,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-13
+11,11,17:25 FB471,,Sofia (SOF),Bulgaria Air E190 (LZ-BUR),Landed 17:16,2021-04-13
+12,12,17:55 IB3937,,Tenerife (TFN),Iberia Express A320 (EC-LUS),Landed 17:19,2021-04-13
+13,13,18:05 IB3823,,Gran Canaria (LPA),Iberia Express A320 (EC-MUK),Landed 17:30,2021-04-13
+14,14,18:10 UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-MKL),Landed 17:48,2021-04-13
+15,15,18:20 IB1655,,Barcelona (BCN),Iberia A20N (EC-NDN),Landed 18:02,2021-04-13
+16,16,18:45 AT970,,Casablanca (CMN),Royal Air Maroc 73H,Canceled,2021-04-13
+17,17,18:45 IB449,,Bilbao (BIO),Iberia A320 (EC-MCS),Landed 18:31,2021-04-13
+18,18,18:45 IB3315,,Stockholm (ARN),Iberia A20N (EC-NJY),Landed 18:23,2021-04-13
+19,19,18:45 IB8851,,Pamplona (PNA),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 18:37,2021-04-13
+20,20,18:50 IB575,,Santiago (SCQ),Iberia A320 (EC-LVD),Landed 18:33,2021-04-13
+21,21,18:50 IB3803,,Ibiza (IBZ),Iberia Express A320 (EC-JFG),Landed 18:32,2021-04-13
+22,22,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-13
+23,23,18:50 IB8877,,Valencia (VLC),Iberia Regional CRJX (EC-MTZ),Landed 18:35,2021-04-13
+24,24,18:50 IB8969,,Santander (SDR),Iberia Regional CRJX (EC-MSB),Landed 18:20,2021-04-13
+25,25,18:55 IB8775,,Lisbon (LIS),Iberia Regional CRJX (EC-MRI),Landed 18:40,2021-04-13
+26,26,19:00 IB523,,A Coruna (LCG),Iberia A319 (EC-JAZ),Landed 18:35,2021-04-13
+27,27,19:00 IB535,,Vigo (VGO),Iberia A319 (EC-JDL),Landed 18:47,2021-04-13
+28,28,19:00 IB3925,,Palma de Mallorca (PMI),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 18:39,2021-04-13
+29,29,19:30 WT154,,Casablanca (CMN),Swiftair AT4,Unknown,2021-04-13
+30,30,19:45 IB8751,,Marseille (MRS),Iberia Regional CRJX (EC-MVZ),Landed 19:29,2021-04-13
+31,31,20:00 IB1835,,Barcelona (BCN),Iberia A20N (EC-NJU),Landed 19:55,2021-04-13
+32,32,20:15 FR7156,,Dublin (DUB),Ryanair B738 (EI-DHV),Landed 19:58,2021-04-13
+33,33,20:25 IB8241,,Strasbourg (SXB),Iberia Regional CRJ2 (EC-MNB),Unknown,2021-04-13
+34,34,21:20 IB3445,,Paris (ORY),Iberia A20N (EC-NCM),Landed 20:53,2021-04-13
+35,35,21:25 IB8679,,Geneva (GVA),Iberia Regional CRJX (EC-MTO),Landed 21:04,2021-04-13
+36,36,21:40 AT676,,Tangier (TNG),Royal Air Maroc E90,Canceled,2021-04-13
+37,37,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-MPG),Landed 21:13,2021-04-13
+38,38,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-MXM),Landed 21:28,2021-04-13
+39,39,21:50 IB8783,,Zurich (ZRH),Iberia Regional (Islas Cíes Livery) CRJX (EC-MNQ),Landed 21:34,2021-04-13
+40,40,22:00 IB8761,,Bologna (BLQ),Air Nostrum CRJX (EC-MPA),Landed 21:42,2021-04-13
+41,41,22:05 IB8695,,Brussels (BRU),Iberia Regional CRJX (EC-MUG),Landed 21:44,2021-04-13
+42,42,22:05 UX7708,,Barcelona (BCN),Air Europa B738 (EC-MUZ),Landed 21:25,2021-04-13
+43,43,22:10 IB3167,,London (LHR),Iberia A359 (EC-NIS),Landed 21:37,2021-04-13
+44,44,22:10 IB3255,,Milan (LIN),Iberia A20N (EC-MXU),Landed 21:48,2021-04-13
+45,45,22:15 WT123,,Tenerife (TFN),Swiftair 73P,Unknown,2021-04-13
+46,46,22:20 IB3855,,Lanzarote (ACE),Iberia Express A21N (EC-NGP),Landed 21:58,2021-04-13
+47,47,22:25 IB3237,,Rome (FCO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 21:56,2021-04-13
+48,48,22:25 IB8731,,Nice (NCE),Iberia Regional CRJX (EC-LJX),Landed 22:10,2021-04-13
+49,49,22:35 IB567,,Seville (SVQ),Iberia A320 (EC-MCS),Landed 22:18,2021-04-13
+50,50,22:40 IB3905,,Fuerteventura (FUE),Iberia Express A320 (EC-LYE),Landed 22:08,2021-04-13
+51,51,22:45 IB8865,,Alicante (ALC),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 22:05,2021-04-13
+52,52,22:50 IB3123,,Vienna (VIE),Iberia A20N (EC-NER),Landed 22:12,2021-04-13
+53,53,22:50 IB8909,,Jerez (XRY),Iberia Regional CRJX (EC-MTZ),Landed 22:25,2021-04-13
+54,54,22:50 IB8951,,Malaga (AGP),Iberia Regional CRJX (EC-MSB),Landed 22:13,2021-04-13
+55,55,22:55 IB3833,,Gran Canaria (LPA),Iberia Express A21N (EC-NJI),Landed 22:33,2021-04-13
+56,56,22:55 IB3921,,Palma de Mallorca (PMI),Iberia Express A320 (EC-MUK),Landed 22:24,2021-04-13
+57,57,22:55 IB3929,,Tenerife (TFS),Iberia Express A320 (EC-LVQ),Landed 22:31,2021-04-13
+58,58,22:55 IB3939,,Tenerife (TFN),Iberia Express A21N (EC-NIA),Landed 22:26,2021-04-13
+59,59,22:55 IB8771,,Turin (TRN),Iberia Regional CRJX (EC-MJP),Landed 22:27,2021-04-13
+60,60,22:55 WT105,,Palma de Mallorca (PMI),Swiftair ATF,Unknown,2021-04-13
+61,61,23:00 IB3069,,Berlin (BER),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 23:32,2021-04-13
+62,62,23:10 AF1400,,Paris (CDG),Air France A318 (F-GUGK),Landed 22:46,2021-04-13
+63,63,23:15 WT125,,Gran Canaria (LPA),Swiftair 73P,Unknown,2021-04-13
+64,64,23:25 KL1707,,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 22:59,2021-04-13
+65,65,23:45 WT102,,Palma de Mallorca (PMI),Swiftair AT43 (EC-JBN),Landed 23:45,2021-04-13
+0,0,4:45 AM WT119,,Palma de Mallorca (PMI),Swiftair EM2,Unknown,2021-04-14
+1,1,5:00 AM 8L9000,,-,Lucky Air 736,Unknown,2021-04-14
+2,2,5:35 AM IB6342,,San Salvador (SAL),Iberia A332 (EC-MNK),Landed 4:53 AM,2021-04-14
+3,3,5:45 AM WT117,,Palma de Mallorca (PMI),Swiftair AT43 (EC-JBN),Landed 5:50 AM,2021-04-14
+4,4,5:50 AM IB6824,,Sao Paulo (GRU),Iberia A333 (EC-LZJ),Landed 5:18 AM,2021-04-14
+5,5,6:00 AM IB6400,,Mexico City (MEX),Iberia A359 (EC-NCX),Landed 5:09 AM,2021-04-14
+6,6,6:05 AM IB6830,,Santiago (SCL),Iberia A359 (EC-NJM),Landed 5:24 AM,2021-04-14
+7,7,6:10 AM,IB6650,Lima (LIM),Iberia A332 (EC-MLP),Landed 5:34 AM,2021-04-14
+8,8,6:35 AM 3V4037,,Liege (LGG),FedEX B734 (OE-IAR),Landed 6:17 AM,2021-04-14
+9,9,7:25 AM PU302,,Lima (LIM),Plus Ultra A343 (EC-MQM),Landed 7:35 AM,2021-04-14
+10,10,7:35 AM WT101,,Palma de Mallorca (PMI),Swiftair AT75 (EC-MIY),Diverted to IBZ,2021-04-14
+11,11,7:50 AM IB511,,A Coruna (LCG),Iberia A320 (EC-LVD),Landed 7:33 AM,2021-04-14
+12,12,7:50 AM IB537,,Vigo (VGO),Iberia A319 (EC-JDL),Landed 7:30 AM,2021-04-14
+13,13,7:55 AM IB443,,Bilbao (BIO),Iberia A20N (EC-NJY),Landed 7:20 AM,2021-04-14
+14,14,7:56 AM AC7230,,Toronto (YYZ),Air Canada A333 (C-GOFW),Landed 7:43 AM,2021-04-14
+15,15,8:40 AM IB715,,Barcelona (BCN),Iberia A20N (EC-NDN),Landed 8:27 AM,2021-04-14
+16,16,8:40 AM,IB8967,Mahon (MAH),Iberia Regional CRJX (EC-MRI),Landed 8:19 AM,2021-04-14
+17,17,9:05 AM,AA36,Dallas (DFW),American Airlines B789 (N821AN),Landed 9:19 AM,2021-04-14
+18,18,9:10 AM FR6992,,Milan (BGY),Ryanair B738 (9H-QAU),Landed 9:00 AM,2021-04-14
+19,19,9:15 AM DL3458,,New York (JFK),Delta Air Lines B763 (N174DZ),Landed 8:45 AM,2021-04-14
+20,20,9:20 AM 3O391,,Tangier (TNG),Air Arabia Maroc 320,Unknown,2021-04-14
+21,21,9:25 AM,UX6012,Palma de Mallorca (PMI),Air Europa B738 (EC-MJU),Landed 9:04 AM,2021-04-14
+22,22,10:00 AM MU7146,,Hangzhou (HGH),China Eastern Airlines 320,Unknown,2021-04-14
+23,23,10:20 AM,IB3835,Gran Canaria (LPA),Iberia Express A320 (EC-JFG),Landed 9:52 AM,2021-04-14
+24,24,10:25 AM E9802,,Punta Cana (PUJ),Evelop Airlines A359 (EC-NGY),Landed 9:43 AM,2021-04-14
+25,25,10:25 AM,TP1016,Lisbon (LIS),TAP Air Portugal (Star Alliance Livery) A20N (CS-TVF),Landed 10:10 AM,2021-04-14
+26,26,10:30 AM,IB561,Seville (SVQ),Iberia A320 (EC-MCS),Landed 10:16 AM,2021-04-14
+27,27,10:30 AM IB8971,,Santander (SDR),Iberia Regional CRJX (EC-MTO),Landed 10:24 AM,2021-04-14
+28,28,10:30 AM TK1857,,Istanbul (IST),Turkish Airlines A333 (TC-JNS),Landed 10:26 AM,2021-04-14
+29,29,10:35 AM,IB423,Bilbao (BIO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 10:19 AM,2021-04-14
+30,30,10:35 AM,IB8291,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 9:58 AM,2021-04-14
+31,31,10:35 AM,IB8903,Jerez (XRY),Iberia Regional CRJX (EC-MSB),Landed 10:28 AM,2021-04-14
+32,32,10:35 AM W63173,,Bucharest (OTP),Wizz Air A21N (HA-LVI),Landed 10:07 AM,2021-04-14
+33,33,10:40 AM,IB519,A Coruna (LCG),Iberia A20N (EC-MXY),Landed 10:12 AM,2021-04-14
+34,34,10:40 AM,IB531,Vigo (VGO),Iberia A319 (EC-JAZ),Landed 10:20 AM,2021-04-14
+35,35,10:40 AM IB3913,,Palma de Mallorca (PMI),Iberia Express A320 (EC-MUK),Landed 10:22 AM,2021-04-14
+36,36,10:40 AM,IB3945,Tenerife (TFN),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 10:31 AM,2021-04-14
+37,37,10:40 AM IB8737,,Toulouse (TLS),Air Nostrum CRJX (EC-MPA),Landed 10:30 AM,2021-04-14
+38,38,10:40 AM IB8859,,Alicante (ALC),Iberia Regional CRJX (EC-MTZ),Landed 10:17 AM,2021-04-14
+39,39,10:40 AM IB8873,,Valencia (VLC),Iberia Regional CRJX (EC-MUG),Landed 10:14 AM,2021-04-14
+40,40,10:45 AM IB8553,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-14
+41,41,10:50 AM IB8765,,Lisbon (LIS),Iberia Regional CRJX (EC-LJX),Landed 10:37 AM,2021-04-14
+42,42,11:00 AM UX88,,Santo Domingo (SDQ),Air Europa B789 (EC-NGN),Landed 10:33 AM,2021-04-14
+43,43,11:00 AM IB935,,Barcelona (BCN),Iberia A20N (EC-MXU),Landed 10:41 AM,2021-04-14
+44,44,11:05 AM LH1800,,Munich (MUC),Lufthansa E95,Canceled,2021-04-14
+45,45,11:15 AM RO415,,Bucharest (OTP),Tarom B738 (YR-BGM),Landed 11:06 AM,2021-04-14
+46,46,11:25 AM AF1300,,Paris (CDG),Air France E170 (F-HBXO),Landed 11:19 AM,2021-04-14
+47,47,11:25 AM IB8747,,Marseille (MRS),Iberia Regional CRJX (EC-MVC),Landed 11:10 AM,2021-04-14
+48,48,11:27 AM IB3321,,Tel Aviv (TLV),Iberia A332 (EC-MLB),Landed 10:57 AM,2021-04-14
+49,49,11:30 AM AZ58,,Rome (FCO),Alitalia E75S (EI-RDN),Landed 12:04 PM,2021-04-14
+50,50,12:00 PM FR9673,,Rome (CIA),Ryanair B738 (EI-DLF),Landed 11:38 AM,2021-04-14
+51,51,12:00 PM IB1035,,Barcelona (BCN),Iberia A320 (EC-LUL),Landed 11:35 AM,2021-04-14
+52,52,12:05 PM KL1701,,Amsterdam (AMS),KLM B737 (PH-BGM),Landed 11:42 AM,2021-04-14
+53,53,12:15 PM IB6500,,Santo Domingo (SDQ),Iberia A333 (EC-LUK),Landed 11:37 AM,2021-04-14
+54,54,12:15 PM FR5994,,London (STN),Ryanair B738 (EI-DCX),Landed 11:58 AM,2021-04-14
+55,55,12:20 PM IB3403,,Paris (ORY),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 12:06 PM,2021-04-14
+56,56,12:45 PM BA9012,,Tenerife (TFN),British Airways 75F,Unknown,2021-04-14
+57,57,12:45 PM IB9012,,Tenerife (TFN),Iberia 75F,Unknown,2021-04-14
+58,58,1:05 PM UX58,,Sao Paulo (GRU),Air Europa B789 (EC-NGM),Landed 12:24 PM,2021-04-14
+59,59,1:15 PM UX42,,Buenos Aires (EZE),Air Europa B789 (EC-NEI),Landed 12:35 PM,2021-04-14
+60,60,1:25 PM EK141,,Dubai (DXB),Emirates (Expo 2020 - Sustainability Livery) B77W (A6-EPI),Landed 1:39 PM,2021-04-14
+61,61,1:30 PM UX26,,Santa Cruz (VVI),Air Europa B789 (EC-NBM),Landed 1:34 PM,2021-04-14
+62,62,1:40 PM IB3483,,Geneva (GVA),Iberia A319 (EC-JDL),Landed 1:12 PM,2021-04-14
+63,63,1:40 PM UX9047,,Tenerife (TFN),Air Europa B738 (EC-MQP),Landed 1:23 PM,2021-04-14
+64,64,1:45 PM IB8727,,Nice (NCE),Iberia Regional CRJX (EC-MJP),Landed 1:47 PM,2021-04-14
+65,65,1:45 PM UX6024,,Ibiza (IBZ),Air Europa B738 (EC-MXM),Landed 1:20 PM,2021-04-14
+66,66,1:45 PM UX6048,,Palma de Mallorca (PMI),Air Europa B738 (EC-IDT),Landed 1:32 PM,2021-04-14
+67,67,1:45 PM UX9161,,Gran Canaria (LPA),Air Europa B738 (EC-MUZ),Landed 1:30 PM,2021-04-14
+68,68,1:49 PM GES41L,,Toluca (TLC),- GLF6 (EC-LYK),Landed 12:19 PM,2021-04-14
+69,69,2:00 PM IB3163,,London (LHR),Iberia A359 (EC-NDR),Landed 1:44 PM,2021-04-14
+70,70,2:00 PM PC1099,,Istanbul (SAW),Pegasus A20N (TC-NBU),Landed 1:38 PM,2021-04-14
+71,71,2:00 PM WT8735,,Casablanca (CMN),Swiftair AT75 (EC-KVI),Landed 4:39 PM,2021-04-14
+72,72,2:05 PM IB8781,,Zurich (ZRH),Iberia Regional (Islas Cíes Livery) CRJX (EC-MNQ),Landed 2:00 PM,2021-04-14
+73,73,2:15 PM OB776,,Santa Cruz (VVI),Boliviana de Aviacion 763,Unknown,2021-04-14
+74,74,2:15 PM IB3121,,Vienna (VIE),Iberia A20N (EC-NCM),Landed 2:03 PM,2021-04-14
+75,75,2:25 PM IB3203,,Brussels (BRU),Iberia A20N (EC-NJY),Landed 1:55 PM,2021-04-14
+76,76,2:30 PM IB6586,,Bogota (BOG),Iberia A359 (EC-NGT),Landed 1:51 PM,2021-04-14
+77,77,2:35 PM IB3251,,Milan (LIN),Iberia A20N (EC-NDN),Landed 2:13 PM,2021-04-14
+78,78,2:35 PM QR149,,Doha (DOH),Qatar Airways B77W (A7-BEX),Landed 2:52 PM,2021-04-14
+79,79,2:40 PM IB3901,,Fuerteventura (FUE),Iberia Express A320 (EC-LUS),Landed 2:15 PM,2021-04-14
+80,80,2:40 PM IB3943,,Tenerife (TFN),Iberia Express A21N (EC-NJI),Landed 2:36 PM,2021-04-14
+81,81,2:40 PM IB8933,,Granada (GRX),Iberia Regional CRJX (EC-MTZ),Landed 2:07 PM,2021-04-14
+82,82,2:45 PM IB507,,San Sebastian (EAS),Iberia A319 (EC-JAZ),Landed 2:35 PM,2021-04-14
+83,83,2:45 PM IB573,,Santiago (SCQ),Iberia A320 (EC-LXQ),Landed 2:30 PM,2021-04-14
+84,84,2:45 PM IB3231,,Rome (FCO),Iberia A20N (EC-NJU),Landed 2:28 PM,2021-04-14
+85,85,2:45 PM IB3827,,Gran Canaria (LPA),Iberia Express A21N (EC-NIF),Landed 2:21 PM,2021-04-14
+86,86,2:45 PM TP1024,,Lisbon (LIS),TAP Express AT76 (CS-DJC),Landed 2:26 PM,2021-04-14
+87,87,2:50 PM IB3141,,Dusseldorf (DUS),Iberia A20N (EC-NER),Landed 2:23 PM,2021-04-14
+88,88,2:50 PM IB3317,,Tel Aviv (TLV),Iberia A332 (EC-MMG),Landed 2:41 PM,2021-04-14
+89,89,2:54 PM IB35,,Shannon (SNN),Iberia A319 (EC-KUB),Landed 2:50 PM,2021-04-14
+90,90,2:55 PM IB581,,La Palma (SPC),Iberia A319 (EC-JEI),Landed 2:43 PM,2021-04-14
+91,91,2:55 PM IB1331,,Barcelona (BCN),Iberia A20N (EC-MXY),Landed 2:38 PM,2021-04-14
+92,92,2:55 PM IB3375,,Naples (NAP),Iberia A320 (EC-LVD),Landed 2:47 PM,2021-04-14
+93,93,2:55 PM IB3919,,Palma de Mallorca (PMI),Iberia Express A21N (EC-NGP),Landed 2:31 PM,2021-04-14
+94,94,2:55 PM IB8919,,Almeria (LEI),Iberia Regional CRJX (EC-LJX),Landed 2:46 PM,2021-04-14
+95,95,2:55 PM IB8947,,Malaga (AGP),Iberia Regional CRJX (EC-MSB),Landed 2:33 PM,2021-04-14
+96,96,3:00 PM IB8757,,Bologna (BLQ),Iberia Regional CRJX (EC-MRI),Landed 2:44 PM,2021-04-14
+97,97,3:15 PM IB6454,,Quito (UIO),Iberia A359 (EC-MXV),Landed 2:54 PM,2021-04-14
+98,98,3:40 PM LH1114,,Frankfurt (FRA),Lufthansa A20N (D-AIJB),Landed 3:31 PM,2021-04-14
+99,99,3:50 PM QR8211,,Doha (DOH),Qatar Cargo B77L (A7-BFT),Landed 5:00 PM,2021-04-14
+100,100,4:13 PM IB3319,,Tel Aviv (TLV),Iberia A333 (EC-LXK),Landed 3:51 PM,2021-04-14
+101,101,4:15 PM IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 3:47 PM,2021-04-14
+102,102,4:25 PM IB3417,,Paris (ORY),Iberia A320 (EC-MCS),Landed 4:02 PM,2021-04-14
+103,103,4:30 PM AM21,,Mexico City (MEX),Aeromexico B789 (XA-ADH),Landed 4:03 PM,2021-04-14
+104,104,4:30 PM FR5469,,Fuerteventura (FUE),Ryanair B738 (EI-DPF),Landed 4:06 PM,2021-04-14
+105,105,4:55 PM AF1800,,Paris (CDG),Air France A318 (F-GUGR),Landed 4:33 PM,2021-04-14
+106,106,4:55 PM AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-14
+107,107,5:10 PM LA706,,Santiago (SCL),LATAM Airlines B788,Unknown,2021-04-14
+108,108,5:40 PM VY1006,,Barcelona (BCN),Vueling A319 (EC-NGB),Landed 5:20 PM,2021-04-14
+109,109,5:45 PM TK6415,,Istanbul (ISL),Turkish Cargo A332 (TC-JCI),Landed 12:50 AM,2021-04-14
+110,110,5:55 PM IB3937,,Tenerife (TFN),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 5:24 PM,2021-04-14
+111,111,6:05 PM IB3823,,Gran Canaria (LPA),Iberia Express A320 (EC-LYE),Landed 5:42 PM,2021-04-14
+112,112,6:10 PM UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-IDA),Landed 5:48 PM,2021-04-14
+113,113,6:20 PM IB1655,,Barcelona (BCN),Iberia A20N (EC-MXU),Landed 5:56 PM,2021-04-14
+114,114,6:45 PM AT970,,Casablanca (CMN),Royal Air Maroc 73H,Canceled,2021-04-14
+115,115,6:45 PM IB449,,Bilbao (BIO),Iberia A319 (EC-JAZ),Landed 6:22 PM,2021-04-14
+116,116,6:50 PM IB3803,,Ibiza (IBZ),Iberia Express A21N (EC-NIA),Landed 6:30 PM,2021-04-14
+117,117,6:50 PM IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-14
+118,118,6:50 PM IB8877,,Valencia (VLC),Iberia Regional CRJX (EC-MSL),Landed 6:28 PM,2021-04-14
+119,119,6:55 PM IB8741,,Toulouse (TLS),Iberia Regional CRJX (EC-MUG),Landed 6:40 PM,2021-04-14
+120,120,6:55 PM IB8775,,Lisbon (LIS),Iberia Regional CRJX (EC-MVC),Landed 6:35 PM,2021-04-14
+121,121,6:55 PM IB8997,,Seville (SVQ),Iberia Regional CRJX (EC-MTZ),Landed 6:53 PM,2021-04-14
+122,122,7:00 PM IB523,,A Coruna (LCG),Iberia A20N (EC-NJU),Landed 6:45 PM,2021-04-14
+123,123,7:00 PM IB535,,Vigo (VGO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 6:38 PM,2021-04-14
+124,124,7:00 PM IB8665,,Porto (OPO),Iberia Regional CRJX (EC-LJX),Landed 6:32 PM,2021-04-14
+125,125,7:15 PM IB1751,,Barcelona (BCN),Iberia A20N (EC-NDN),Landed 6:51 PM,2021-04-14
+126,126,7:25 PM LG3837,,Luxembourg (LUX),Luxair B737 (LX-LGQ),Landed 6:55 PM,2021-04-14
+127,127,7:30 PM WT154,,Casablanca (CMN),Swiftair AT4,Unknown,2021-04-14
+128,128,7:45 PM IB9040,,Frankfurt (FRA),Iberia ABF,Unknown,2021-04-14
+129,129,7:50 PM IB8721,,Lyon (LYS),Iberia Regional CRJX (EC-MRI),Landed 7:51 PM,2021-04-14
+130,130,8:05 PM BA9040,,Frankfurt (FRA),British Airways AB6,Unknown,2021-04-14
+131,131,8:30 PM UX1016,,London (LGW),Air Europa B738 (EC-MVY),Landed 7:43 PM,2021-04-14
+132,132,8:35 PM FR2012,,Gran Canaria (LPA),Ryanair B738 (EI-DLF),Landed 8:10 PM,2021-04-14
+133,133,8:35 PM UX1062,,Milan (MXP),Air Europa B738 (EC-MUZ),Landed 8:18 PM,2021-04-14
+134,134,9:00 PM IB1935,,Barcelona (BCN),Iberia A320 (EC-MCS),Landed 8:38 PM,2021-04-14
+135,135,9:00 PM UX1048,,Rome (FCO),Air Europa B738 (EC-MQP),Landed 8:47 PM,2021-04-14
+136,136,9:00 PM UX1672,,Zurich (ZRH),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 8:28 PM,2021-04-14
+137,137,9:00 PM AH2206,,Algiers (ALG),Air Algerie 73K,Unknown,2021-04-14
+138,138,9:20 PM IB3445,,Paris (ORY),Iberia A20N (EC-NCM),Landed 9:15 PM,2021-04-14
+139,139,9:20 PM UX1174,,Brussels (BRU),Air Europa Express E195 (EC-LKX),Landed 8:53 PM,2021-04-14
+140,140,9:20 PM UX4060,,Valencia (VLC),Air Europa Express E195 (EC-LCQ),Landed 9:08 PM,2021-04-14
+141,141,9:25 PM IB3493,,Geneva (GVA),Iberia A20N (EC-NJY),Landed 9:06 PM,2021-04-14
+142,142,9:40 PM UX1094,,Amsterdam (AMS),Air Europa B738 (EC-MPG),Landed 9:04 PM,2021-04-14
+143,143,9:40 PM UX5038,,Malaga (AGP),Air Europa Express AT75 (EC-MZJ),Landed 9:35 PM,2021-04-14
+144,144,9:40 PM UX9117,,Tenerife (TFN),Air Europa B738 (EC-LXV),Landed 9:32 PM,2021-04-14
+145,145,9:45 PM UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-IDT),Landed 9:36 PM,2021-04-14
+146,146,9:55 PM FR2514,,Bucharest (OTP),Ryanair B738 (EI-EMC),Landed 9:50 PM,2021-04-14
+147,147,9:55 PM UX1506,,Frankfurt (FRA),Air Europa B738 (EC-LQX),Landed 9:23 PM,2021-04-14
+148,148,9:55 PM UX7238,,A Coruna (LCG),Air Europa B738 (EC-LPR),Landed 9:39 PM,2021-04-14
+149,149,9:55 PM UX7319,,Vigo (VGO),Air Europa Express E195 (EC-LKM),Landed 9:27 PM,2021-04-14
+150,150,10:00 PM IB8783,,Zurich (ZRH),Iberia Regional (Islas Cíes Livery) CRJX (EC-MNQ),Landed 9:35 PM,2021-04-14
+151,151,10:05 PM IB8695,,Brussels (BRU),Iberia Regional CRJX (EC-MJP),Landed 9:49 PM,2021-04-14
+152,152,10:05 PM UX4050,,Alicante (ALC),Air Europa Express AT75 (EC-MSN),Landed 9:43 PM,2021-04-14
+153,153,10:05 PM UX7708,,Barcelona (BCN),Air Europa B788 (EC-MOM),Landed 9:28 PM,2021-04-14
+154,154,10:10 PM IB3167,,London (LHR),Iberia A359 (EC-NDR),Landed 9:30 PM,2021-04-14
+155,155,10:10 PM IB3255,,Milan (LIN),Iberia A20N (EC-MXY),Landed 9:57 PM,2021-04-14
+156,156,10:10 PM UX1026,,Paris (ORY),Air Europa B738 (EC-MXM),Landed 10:12 PM,2021-04-14
+157,157,10:10 PM UX1518,,Munich (MUC),Air Europa B738 (EC-LVR),Landed 9:55 PM,2021-04-14
+158,158,10:15 PM UX1142,,Porto (OPO),Air Europa Express E195 (EC-LFZ),Landed 10:02 PM,2021-04-14
+159,159,10:15 PM UX1160,,Lisbon (LIS),Air Europa Express E195 (EC-LIN),Landed 9:58 PM,2021-04-14
+160,160,10:15 PM UX7160,,Bilbao (BIO),Air Europa B738 (EC-LUT),Landed 9:42 PM,2021-04-14
+161,161,10:15 PM WT123,,Tenerife (TFN),Swiftair 73P,Unknown,2021-04-14
+162,162,10:20 PM IB3855,,Lanzarote (ACE),Iberia Express A21N (EC-NJI),Landed 9:53 PM,2021-04-14
+163,163,10:25 PM IB3237,,Rome (FCO),Iberia A319 (EC-JEI),Landed 10:01 PM,2021-04-14
+164,164,10:30 PM IB3245,,Venice (VCE),Iberia A319 (EC-JDL),Landed 10:12 PM,2021-04-14
+165,165,10:30 PM IB3791,,Dublin (DUB),Iberia Express A320 (EC-MUK),Landed 10:19 PM,2021-04-14
+166,166,10:35 PM IB3063,,Amsterdam (AMS),Iberia A332 (EC-MUD),Landed 10:08 PM,2021-04-14
+167,167,10:45 PM IB425,,Bilbao (BIO),Iberia A20N (EC-NJU),Landed 10:16 PM,2021-04-14
+168,168,10:45 PM IB577,,Santiago (SCQ),Iberia A320 (EC-LVD),Landed 10:40 PM,2021-04-14
+169,169,10:45 PM IB8711,,Frankfurt (FRA),Air Nostrum CRJX (EC-MPA),Landed 10:05 PM,2021-04-14
+170,170,10:45 PM IB8865,,Alicante (ALC),Iberia Regional CRJX (EC-MVC),Landed 10:07 PM,2021-04-14
+171,171,10:50 PM IB8909,,Jerez (XRY),Iberia Regional CRJX (EC-MUG),Landed 10:28 PM,2021-04-14
+172,172,10:50 PM IB8923,,Almeria (LEI),Iberia Regional CRJX (EC-MTZ),Landed 10:26 PM,2021-04-14
+173,173,10:50 PM IB8951,,Malaga (AGP),Iberia Regional CRJX (EC-MSL),Landed 10:24 PM,2021-04-14
+174,174,10:55 PM IB3269,,Hamburg (HAM),Iberia A20N (EC-NER),Landed 10:14 PM,2021-04-14
+175,175,10:55 PM IB3921,,Palma de Mallorca (PMI),Iberia Express A21N (EC-NGP),Landed 10:32 PM,2021-04-14
+176,176,10:55 PM IB3833,,Gran Canaria (LPA),Iberia Express A21N (EC-NIF),Landed 10:32 PM,2021-04-14
+177,177,10:55 PM IB3929,,Tenerife (TFS),Iberia Express A320 (EC-JFG),Landed 10:30 PM,2021-04-14
+178,178,10:55 PM IB3939,,Tenerife (TFN),Iberia Express A320 (EC-LUS),Landed 10:37 PM,2021-04-14
+179,179,10:55 PM IB8771,,Turin (TRN),Iberia Regional CRJX (EC-MTO),Landed 10:09 PM,2021-04-14
+180,180,10:55 PM WT105,,Palma de Mallorca (PMI),Swiftair ATF,Unknown,2021-04-14
+181,181,11:00 PM IB521,,A Coruna (LCG),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 10:35 PM,2021-04-14
+182,182,11:00 PM IB539,,Vigo (VGO),Iberia A320 (EC-LXQ),Landed 10:46 PM,2021-04-14
+183,183,11:00 PM IB2135,,Barcelona (BCN),Iberia A20N (EC-MXU),Landed 10:34 PM,2021-04-14
+184,184,11:00 PM IB3069,,Berlin (BER),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 10:40 PM,2021-04-14
+185,185,11:00 PM IB8851,,Pamplona (PNA),Iberia Regional CRJX (EC-MRI),Landed 10:44 PM,2021-04-14
+186,186,11:10 PM AF1400,,Paris (CDG),Air France A319 (F-GRXJ),Landed 10:41 PM,2021-04-14
+187,187,11:15 PM WT125,,Gran Canaria (LPA),Swiftair 73P,Unknown,2021-04-14
+188,188,11:25 PM KL1707,,Amsterdam (AMS),KLM B737 (PH-BGL),Landed 10:58 PM,2021-04-14
+189,189,11:30 PM FR2085,,Ibiza (IBZ),Ryanair B738 (EI-EBM),Landed 11:08 PM,2021-04-14
+190,190,11:30 PM TP1022,,Lisbon (LIS),TAP Express AT76 (CS-DJB),Landed 11:18 PM,2021-04-14
+191,191,11:35 PM LH1120,,Frankfurt (FRA),Lufthansa A20N (D-AIJC),Landed 11:12 PM,2021-04-14
+192,192,11:45 PM WT102,,Palma de Mallorca (PMI),Swiftair AT75 (EC-MIY),Landed 11:24 PM,2021-04-14
+0,0,15:15 IB6454,,Quito (UIO),Iberia A359 (EC-MXV),Landed 14:54,2021-04-14
+1,1,15:40 LH1114,,Frankfurt (FRA),Lufthansa A20N (D-AIJB),Landed 15:31,2021-04-14
+2,2,15:50 QR8211,,Doha (DOH),Qatar Cargo B77L (A7-BFT),Landed 17:00,2021-04-14
+3,3,16:13 IB3319,,Tel Aviv (TLV),Iberia A333 (EC-LXK),Landed 15:51,2021-04-14
+4,4,16:15 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 15:47,2021-04-14
+5,5,16:25 IB3417,,Paris (ORY),Iberia A320 (EC-MCS),Landed 16:02,2021-04-14
+6,6,16:30 AM21,,Mexico City (MEX),Aeromexico B789 (XA-ADH),Landed 16:03,2021-04-14
+7,7,16:30 FR5469,,Fuerteventura (FUE),Ryanair B738 (EI-DPF),Landed 16:06,2021-04-14
+8,8,16:55 AF1800,,Paris (CDG),Air France A318 (F-GUGR),Landed 16:33,2021-04-14
+9,9,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-14
+10,10,17:10 LA706,,Santiago (SCL),LATAM Airlines B788,Unknown,2021-04-14
+11,11,17:40 VY1006,,Barcelona (BCN),Vueling A319 (EC-NGB),Landed 17:20,2021-04-14
+12,12,17:45 TK6415,,Istanbul (ISL),Turkish Cargo A332 (TC-JCI),Landed 00:50,2021-04-14
+13,13,17:55 IB3937,,Tenerife (TFN),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 17:24,2021-04-14
+14,14,18:05 IB3823,,Gran Canaria (LPA),Iberia Express A320 (EC-LYE),Landed 17:42,2021-04-14
+15,15,18:10 UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-IDA),Landed 17:48,2021-04-14
+16,16,18:20 IB1655,,Barcelona (BCN),Iberia A20N (EC-MXU),Landed 17:56,2021-04-14
+17,17,18:45 AT970,,Casablanca (CMN),Royal Air Maroc 73H,Canceled,2021-04-14
+18,18,18:45 IB449,,Bilbao (BIO),Iberia A319 (EC-JAZ),Landed 18:22,2021-04-14
+19,19,18:50 IB3803,,Ibiza (IBZ),Iberia Express A21N (EC-NIA),Landed 18:30,2021-04-14
+20,20,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-14
+21,21,18:50 IB8877,,Valencia (VLC),Iberia Regional CRJX (EC-MSL),Landed 18:28,2021-04-14
+22,22,18:55 IB8741,,Toulouse (TLS),Iberia Regional CRJX (EC-MUG),Landed 18:40,2021-04-14
+23,23,18:55 IB8775,,Lisbon (LIS),Iberia Regional CRJX (EC-MVC),Landed 18:35,2021-04-14
+24,24,18:55 IB8997,,Seville (SVQ),Iberia Regional CRJX (EC-MTZ),Landed 18:53,2021-04-14
+25,25,19:00 IB523,,A Coruna (LCG),Iberia A20N (EC-NJU),Landed 18:45,2021-04-14
+26,26,19:00 IB535,,Vigo (VGO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 18:38,2021-04-14
+27,27,19:00 IB8665,,Porto (OPO),Iberia Regional CRJX (EC-LJX),Landed 18:32,2021-04-14
+28,28,19:15 IB1751,,Barcelona (BCN),Iberia A20N (EC-NDN),Landed 18:51,2021-04-14
+29,29,19:25 LG3837,,Luxembourg (LUX),Luxair B737 (LX-LGQ),Landed 18:55,2021-04-14
+30,30,19:30 WT154,,Casablanca (CMN),Swiftair AT4,Unknown,2021-04-14
+31,31,19:45 IB9040,,Frankfurt (FRA),Iberia ABF,Unknown,2021-04-14
+32,32,19:50 IB8721,,Lyon (LYS),Iberia Regional CRJX (EC-MRI),Landed 19:51,2021-04-14
+33,33,20:05 BA9040,,Frankfurt (FRA),British Airways AB6,Unknown,2021-04-14
+34,34,20:30 UX1016,,London (LGW),Air Europa B738 (EC-MVY),Landed 19:43,2021-04-14
+35,35,20:35 FR2012,,Gran Canaria (LPA),Ryanair B738 (EI-DLF),Landed 20:10,2021-04-14
+36,36,20:35 UX1062,,Milan (MXP),Air Europa B738 (EC-MUZ),Landed 20:18,2021-04-14
+37,37,21:00 IB1935,,Barcelona (BCN),Iberia A320 (EC-MCS),Landed 20:38,2021-04-14
+38,38,21:00 UX1048,,Rome (FCO),Air Europa B738 (EC-MQP),Landed 20:47,2021-04-14
+39,39,21:00 UX1672,,Zurich (ZRH),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 20:28,2021-04-14
+40,40,21:00 AH2206,,Algiers (ALG),Air Algerie 73K,Unknown,2021-04-14
+41,41,21:20 IB3445,,Paris (ORY),Iberia A20N (EC-NCM),Landed 21:15,2021-04-14
+42,42,21:20 UX1174,,Brussels (BRU),Air Europa Express E195 (EC-LKX),Landed 20:53,2021-04-14
+43,43,21:20 UX4060,,Valencia (VLC),Air Europa Express E195 (EC-LCQ),Landed 21:08,2021-04-14
+44,44,21:25 IB3493,,Geneva (GVA),Iberia A20N (EC-NJY),Landed 21:06,2021-04-14
+45,45,21:40 UX1094,,Amsterdam (AMS),Air Europa B738 (EC-MPG),Landed 21:04,2021-04-14
+46,46,21:40 UX5038,,Malaga (AGP),Air Europa Express AT75 (EC-MZJ),Landed 21:35,2021-04-14
+47,47,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-LXV),Landed 21:32,2021-04-14
+48,48,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-IDT),Landed 21:36,2021-04-14
+49,49,21:55 FR2514,,Bucharest (OTP),Ryanair B738 (EI-EMC),Landed 21:50,2021-04-14
+50,50,21:55 UX1506,,Frankfurt (FRA),Air Europa B738 (EC-LQX),Landed 21:23,2021-04-14
+51,51,21:55 UX7238,,A Coruna (LCG),Air Europa B738 (EC-LPR),Landed 21:39,2021-04-14
+52,52,21:55 UX7319,,Vigo (VGO),Air Europa Express E195 (EC-LKM),Landed 21:27,2021-04-14
+53,53,22:00 IB8783,,Zurich (ZRH),Iberia Regional (Islas Cíes Livery) CRJX (EC-MNQ),Landed 21:35,2021-04-14
+54,54,22:05 IB8695,,Brussels (BRU),Iberia Regional CRJX (EC-MJP),Landed 21:49,2021-04-14
+55,55,22:05 UX4050,,Alicante (ALC),Air Europa Express AT75 (EC-MSN),Landed 21:43,2021-04-14
+56,56,22:05 UX7708,,Barcelona (BCN),Air Europa B788 (EC-MOM),Landed 21:28,2021-04-14
+57,57,22:10 IB3167,,London (LHR),Iberia A359 (EC-NDR),Landed 21:30,2021-04-14
+58,58,22:10 IB3255,,Milan (LIN),Iberia A20N (EC-MXY),Landed 21:57,2021-04-14
+59,59,22:10 UX1026,,Paris (ORY),Air Europa B738 (EC-MXM),Landed 22:12,2021-04-14
+60,60,22:10 UX1518,,Munich (MUC),Air Europa B738 (EC-LVR),Landed 21:55,2021-04-14
+61,61,22:15 UX1142,,Porto (OPO),Air Europa Express E195 (EC-LFZ),Landed 22:02,2021-04-14
+62,62,22:15 UX1160,,Lisbon (LIS),Air Europa Express E195 (EC-LIN),Landed 21:58,2021-04-14
+63,63,22:15 UX7160,,Bilbao (BIO),Air Europa B738 (EC-LUT),Landed 21:42,2021-04-14
+64,64,22:15 WT123,,Tenerife (TFN),Swiftair 73P,Unknown,2021-04-14
+65,65,22:20 IB3855,,Lanzarote (ACE),Iberia Express A21N (EC-NJI),Landed 21:53,2021-04-14
+66,66,22:25 IB3237,,Rome (FCO),Iberia A319 (EC-JEI),Landed 22:01,2021-04-14
+67,67,22:30 IB3245,,Venice (VCE),Iberia A319 (EC-JDL),Landed 22:12,2021-04-14
+68,68,22:30 IB3791,,Dublin (DUB),Iberia Express A320 (EC-MUK),Landed 22:19,2021-04-14
+69,69,22:35 IB3063,,Amsterdam (AMS),Iberia A332 (EC-MUD),Landed 22:08,2021-04-14
+70,70,22:45 IB425,,Bilbao (BIO),Iberia A20N (EC-NJU),Landed 22:16,2021-04-14
+71,71,22:45 IB577,,Santiago (SCQ),Iberia A320 (EC-LVD),Landed 22:40,2021-04-14
+72,72,22:45 IB8711,,Frankfurt (FRA),Air Nostrum CRJX (EC-MPA),Landed 22:05,2021-04-14
+73,73,22:45 IB8865,,Alicante (ALC),Iberia Regional CRJX (EC-MVC),Landed 22:07,2021-04-14
+74,74,22:50 IB8909,,Jerez (XRY),Iberia Regional CRJX (EC-MUG),Landed 22:28,2021-04-14
+75,75,22:50 IB8923,,Almeria (LEI),Iberia Regional CRJX (EC-MTZ),Landed 22:26,2021-04-14
+76,76,22:50 IB8951,,Malaga (AGP),Iberia Regional CRJX (EC-MSL),Landed 22:24,2021-04-14
+77,77,22:55 IB3269,,Hamburg (HAM),Iberia A20N (EC-NER),Landed 22:14,2021-04-14
+78,78,22:55 IB3921,,Palma de Mallorca (PMI),Iberia Express A21N (EC-NGP),Landed 22:32,2021-04-14
+79,79,22:55 IB3833,,Gran Canaria (LPA),Iberia Express A21N (EC-NIF),Landed 22:32,2021-04-14
+80,80,22:55 IB3929,,Tenerife (TFS),Iberia Express A320 (EC-JFG),Landed 22:30,2021-04-14
+81,81,22:55 IB3939,,Tenerife (TFN),Iberia Express A320 (EC-LUS),Landed 22:37,2021-04-14
+82,82,22:55 IB8771,,Turin (TRN),Iberia Regional CRJX (EC-MTO),Landed 22:09,2021-04-14
+83,83,22:55 WT105,,Palma de Mallorca (PMI),Swiftair ATF,Unknown,2021-04-14
+84,84,23:00 IB521,,A Coruna (LCG),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 22:35,2021-04-14
+85,85,23:00 IB539,,Vigo (VGO),Iberia A320 (EC-LXQ),Landed 22:46,2021-04-14
+86,86,23:00 IB2135,,Barcelona (BCN),Iberia A20N (EC-MXU),Landed 22:34,2021-04-14
+87,87,23:00 IB3069,,Berlin (BER),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 22:40,2021-04-14
+88,88,23:00 IB8851,,Pamplona (PNA),Iberia Regional CRJX (EC-MRI),Landed 22:44,2021-04-14
+89,89,23:10 AF1400,,Paris (CDG),Air France A319 (F-GRXJ),Landed 22:41,2021-04-14
+90,90,23:15 WT125,,Gran Canaria (LPA),Swiftair 73P,Unknown,2021-04-14
+91,91,23:25 KL1707,,Amsterdam (AMS),KLM B737 (PH-BGL),Landed 22:58,2021-04-14
+92,92,23:30 FR2085,,Ibiza (IBZ),Ryanair B738 (EI-EBM),Landed 23:08,2021-04-14
+93,93,23:30 TP1022,,Lisbon (LIS),TAP Express AT76 (CS-DJB),Landed 23:18,2021-04-14
+94,94,23:35 LH1120,,Frankfurt (FRA),Lufthansa A20N (D-AIJC),Landed 23:12,2021-04-14
+95,95,23:45 WT102,,Palma de Mallorca (PMI),Swiftair AT75 (EC-MIY),Landed 23:24,2021-04-14
+0,0,15:10 IB6314,,San Jose (SJO),Iberia A332 (EC-MKI),Landed 14:53,2021-04-15
+1,1,15:40 LH1114,,Frankfurt (FRA),Lufthansa A20N (D-AINF),Landed 15:28,2021-04-15
+2,2,16:10 CA1028,,Liege (LGG),Air China Cargo B77L (B-2092),Landed 15:31,2021-04-15
+3,3,16:25 IB3417,,Paris (ORY),Iberia A20N (EC-MXU),Landed 16:14,2021-04-15
+4,4,16:30 AM21,,Mexico City (MEX),Aeromexico B789 (N128AM),Landed 15:41,2021-04-15
+5,5,16:40 TK1859,,Istanbul (IST),Turkish Airlines A21N (TC-LSY),Landed 16:35,2021-04-15
+6,6,16:55 AF1800,,Paris (CDG),Air France A321 (F-GTAZ),Landed 16:48,2021-04-15
+7,7,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-15
+8,8,17:55 IB3937,,Tenerife (TFN),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 17:31,2021-04-15
+9,9,18:05 IB3823,,Gran Canaria (LPA),Iberia Express A320 (EC-MUK),Landed 17:44,2021-04-15
+10,10,18:10 UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-MVY),Landed 17:58,2021-04-15
+11,11,18:20 IB1655,,Barcelona (BCN),Iberia A20N (EC-NJY),Landed 18:15,2021-04-15
+12,12,18:35,UX6024,Ibiza (IBZ),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 18:13,2021-04-15
+13,13,18:45 AT970,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-04-15
+14,14,18:45 IB449,,Bilbao (BIO),Iberia A319 (EC-JDL),Landed 18:09,2021-04-15
+15,15,18:45 IB3315,,Stockholm (ARN),Iberia A332 (EC-MNK),Landed 18:11,2021-04-15
+16,16,18:50 IB3803,,Ibiza (IBZ),Iberia Express A21N (EC-NJI),Landed 18:33,2021-04-15
+17,17,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-15
+18,18,18:50 IB8877,,Valencia (VLC),Iberia Regional (Islas Cies Livery) CRJX (EC-MLO),Landed 18:29,2021-04-15
+19,19,18:50 IB8969,,Santander (SDR),Iberia Regional CRJX (EC-MVC),Landed 18:35,2021-04-15
+20,20,18:55 IB3059,,Copenhagen (CPH),Iberia A20N (EC-NJU),Landed 18:24,2021-04-15
+21,21,18:55 IB8741,,Toulouse (TLS),Iberia Regional CRJX (EC-MUG),Landed 18:37,2021-04-15
+22,22,18:55 IB8775,,Lisbon (LIS),Iberia Regional CRJX (EC-MSL),Landed 18:31,2021-04-15
+23,23,19:00 IB523,,A Coruna (LCG),Iberia A20N (EC-MXY),Landed 18:44,2021-04-15
+24,24,19:00 IB535,,Vigo (VGO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 18:38,2021-04-15
+25,25,19:00 IB3925,,Palma de Mallorca (PMI),Iberia Express A320 (EC-LUS),Landed 18:46,2021-04-15
+26,26,19:15 IB1751,,Barcelona (BCN),Iberia A320 (EC-MCS),Landed 18:55,2021-04-15
+27,27,19:30 IB8691,,Nantes (NTE),Iberia Regional CRJX (EC-MRI),Landed 19:00,2021-04-15
+28,28,19:30 WT154,,Casablanca (CMN),Swiftair AT4,Unknown,2021-04-15
+29,29,19:35 EK9180,,Amsterdam (AMS),Emirates 74Y,Unknown,2021-04-15
+30,30,19:45 IB8751,,Marseille (MRS),Iberia Regional CRJX (EC-MVZ),Landed 19:43,2021-04-15
+31,31,19:50 IB8721,,Lyon (LYS),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 19:22,2021-04-15
+32,32,20:25 IB8241,,Strasbourg (SXB),Air Nostrum CRJ2 (EC-NHU),Landed 20:00,2021-04-15
+33,33,21:00 IB1935,,Barcelona (BCN),Iberia A321 (EC-IJN),Landed 20:43,2021-04-15
+34,34,21:05 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 20:59,2021-04-15
+35,35,21:10 TP1014,,Lisbon (LIS),TAP Express AT76 (CS-DJB),Landed 21:10,2021-04-15
+36,36,21:20 IB3445,,Paris (ORY),Iberia A320 (EC-LXQ),Landed 20:50,2021-04-15
+37,37,21:25 IB3493,,Geneva (GVA),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 20:52,2021-04-15
+38,38,21:40 AT676,,Tangier (TNG),Royal Air Maroc E90,Unknown,2021-04-15
+39,39,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-MQP),Landed 21:19,2021-04-15
+40,40,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-MPG),Landed 21:37,2021-04-15
+41,41,21:50 IB8783,,Zurich (ZRH),Iberia Regional CRJX (EC-MTZ),Landed 21:26,2021-04-15
+42,42,22:05 IB3255,,Milan (LIN),Iberia A319 (EC-JEI),Landed 21:41,2021-04-15
+43,43,22:05 IB8695,,Brussels (BRU),Iberia Regional CRJX (EC-MTO),Landed 21:35,2021-04-15
+44,44,22:10 IB3167,,London (LHR),Iberia A359 (EC-NJM),Landed 21:33,2021-04-15
+45,45,22:15 IB3855,,Lanzarote (ACE),Iberia Express A320 (EC-JFG),Landed 21:58,2021-04-15
+46,46,22:15 WT123,,Tenerife (TFN),Swiftair 73P,Unknown,2021-04-15
+47,47,22:25 IB3237,,Rome (FCO),Iberia A321 (EC-HUI),Landed 21:55,2021-04-15
+48,48,22:30 IB3905,,Fuerteventura (FUE),Iberia Express A320 (EC-LYE),Landed 22:09,2021-04-15
+49,49,22:30 IB8937,,Granada (GRX),Iberia Regional CRJX (EC-MSL),Landed 22:11,2021-04-15
+50,50,22:35 IB567,,Seville (SVQ),Iberia A20N (EC-NJU),Landed 22:44,2021-04-15
+51,51,22:35 IB3133,,Dusseldorf (DUS),Iberia A20N (EC-NER),Landed 21:51,2021-04-15
+52,52,22:45 IB425,,Bilbao (BIO),Iberia A20N (EC-MXY),Landed 22:07,2021-04-15
+53,53,22:45 IB577,,Santiago (SCQ),Iberia A319 (EC-JAZ),Landed 22:25,2021-04-15
+54,54,22:45 IB8711,,Frankfurt (FRA),Iberia Regional CRJX (EC-MSB),Landed 22:14,2021-04-15
+55,55,22:45 IB8865,,Alicante (ALC),Iberia Regional (Aviacion Sin Fronteras Livery) CRJX (EC-LJS),Landed 22:18,2021-04-15
+56,56,22:50 BA9042,,Frankfurt (FRA),British Airways 75F,Unknown,2021-04-15
+57,57,22:50 IB8909,,Jerez (XRY),Iberia Regional CRJX (EC-MUG),Landed 22:33,2021-04-15
+58,58,22:50 IB8923,,Almeria (LEI),Iberia Regional (Islas Cies Livery) CRJX (EC-MLO),Landed 22:46,2021-04-15
+59,59,22:50 IB9042,,Frankfurt (FRA),Iberia 75F,Unknown,2021-04-15
+60,60,22:50 IB8951,,Malaga (AGP),Iberia Regional CRJX (EC-MVC),Landed 22:35,2021-04-15
+61,61,22:55 IB481,,Asturias (OVD),Iberia A319 (EC-JDL),Landed 22:29,2021-04-15
+62,62,22:55 IB3833,,Gran Canaria (LPA),Iberia Express A21N (EC-NIF),Landed 22:51,2021-04-15
+63,63,22:55 IB3929,,Tenerife (TFS),Iberia Express A21N (EC-NGP),Landed 22:48,2021-04-15
+64,64,22:55 IB3939,,Tenerife (TFN),Iberia Express A21N (EC-NIA),Landed 22:37,2021-04-15
+65,65,22:55 IB3921,,Palma de Mallorca (PMI),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 22:41,2021-04-15
+66,66,22:55 WT105,,Palma de Mallorca (PMI),Swiftair ATF,Unknown,2021-04-15
+67,67,23:00 IB521,,A Coruna (LCG),Iberia A320 (EC-LUL),Landed 22:40,2021-04-15
+68,68,23:00 IB539,,Vigo (VGO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 22:27,2021-04-15
+69,69,23:00 IB585,,La Palma (SPC),Iberia A20N (EC-NCM),Landed 22:53,2021-04-15
+70,70,23:00 IB2135,,Barcelona (BCN),Iberia A20N (EC-NJY),Landed 22:38,2021-04-15
+71,71,23:00 IB3069,,Berlin (BER),Iberia A20N (EC-NDN),Landed 22:31,2021-04-15
+72,72,23:00 IB8851,,Pamplona (PNA),Iberia Regional CRJX (EC-MVZ),Landed 22:34,2021-04-15
+73,73,23:10 AF1400,,Paris (CDG),Air France A318 (F-GUGN),Landed 22:54,2021-04-15
+74,74,23:15 WT125,,Gran Canaria (LPA),Swiftair 73P,Unknown,2021-04-15
+75,75,23:25 KL1707,,Amsterdam (AMS),KLM B737 (PH-BGF),Landed 22:50,2021-04-15
+76,76,23:30 TP1022,,Lisbon (LIS),TAP Express AT76 (CS-DJC),Landed 23:21,2021-04-15
+77,77,23:35 LH1120,,Frankfurt (FRA),Lufthansa A20N (D-AING),Landed 23:19,2021-04-15
+78,78,23:45 WT102,,Palma de Mallorca (PMI),Swiftair AT43 (EC-JBN),Landed 23:43,2021-04-15
+0,0,3:40 PM LH1114,,Frankfurt (FRA),Lufthansa A20N (D-AINF),Landed 3:28 PM,2021-04-16
+1,1,4:10 PM CA1028,,Liege (LGG),Air China Cargo B77L (B-2092),Landed 3:31 PM,2021-04-16
+2,2,4:25 PM IB3417,,Paris (ORY),Iberia A20N (EC-MXU),Landed 4:14 PM,2021-04-16
+3,3,4:30 PM AM21,,Mexico City (MEX),Aeromexico B789 (N128AM),Landed 3:41 PM,2021-04-16
+4,4,4:40 PM TK1859,,Istanbul (IST),Turkish Airlines A21N (TC-LSY),Landed 4:35 PM,2021-04-16
+5,5,4:55 PM AF1800,,Paris (CDG),Air France A321 (F-GTAZ),Landed 4:48 PM,2021-04-16
+6,6,4:55 PM AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-16
+7,7,5:55 PM IB3937,,Tenerife (TFN),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 5:31 PM,2021-04-16
+8,8,6:05 PM IB3823,,Gran Canaria (LPA),Iberia Express A320 (EC-MUK),Landed 5:44 PM,2021-04-16
+9,9,6:10 PM UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-MVY),Landed 5:58 PM,2021-04-16
+10,10,6:20 PM IB1655,,Barcelona (BCN),Iberia A20N (EC-NJY),Landed 6:15 PM,2021-04-16
+11,11,6:35 PM,UX6024,Ibiza (IBZ),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 6:13 PM,2021-04-16
+12,12,6:45 PM AT970,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-04-16
+13,13,6:45 PM IB449,,Bilbao (BIO),Iberia A319 (EC-JDL),Landed 6:09 PM,2021-04-16
+14,14,6:45 PM IB3315,,Stockholm (ARN),Iberia A332 (EC-MNK),Landed 6:11 PM,2021-04-16
+15,15,6:50 PM IB3803,,Ibiza (IBZ),Iberia Express A21N (EC-NJI),Landed 6:33 PM,2021-04-16
+16,16,6:50 PM IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-16
+17,17,6:50 PM IB8877,,Valencia (VLC),Iberia Regional (Islas Cies Livery) CRJX (EC-MLO),Landed 6:29 PM,2021-04-16
+18,18,6:50 PM IB8969,,Santander (SDR),Iberia Regional CRJX (EC-MVC),Landed 6:35 PM,2021-04-16
+19,19,6:55 PM IB3059,,Copenhagen (CPH),Iberia A20N (EC-NJU),Landed 6:24 PM,2021-04-16
+20,20,6:55 PM IB8741,,Toulouse (TLS),Iberia Regional CRJX (EC-MUG),Landed 6:37 PM,2021-04-16
+21,21,6:55 PM IB8775,,Lisbon (LIS),Iberia Regional CRJX (EC-MSL),Landed 6:31 PM,2021-04-16
+22,22,7:00 PM IB523,,A Coruna (LCG),Iberia A20N (EC-MXY),Landed 6:44 PM,2021-04-16
+23,23,7:00 PM IB535,,Vigo (VGO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 6:38 PM,2021-04-16
+24,24,7:00 PM IB3925,,Palma de Mallorca (PMI),Iberia Express A320 (EC-LUS),Landed 6:46 PM,2021-04-16
+25,25,7:15 PM IB1751,,Barcelona (BCN),Iberia A320 (EC-MCS),Landed 6:55 PM,2021-04-16
+26,26,7:30 PM IB8691,,Nantes (NTE),Iberia Regional CRJX (EC-MRI),Landed 7:00 PM,2021-04-16
+27,27,7:30 PM WT154,,Casablanca (CMN),Swiftair AT4,Unknown,2021-04-16
+28,28,7:35 PM EK9180,,Amsterdam (AMS),Emirates 74Y,Unknown,2021-04-16
+29,29,7:45 PM IB8751,,Marseille (MRS),Iberia Regional CRJX (EC-MVZ),Landed 7:43 PM,2021-04-16
+30,30,7:50 PM IB8721,,Lyon (LYS),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 7:22 PM,2021-04-16
+31,31,8:25 PM IB8241,,Strasbourg (SXB),Air Nostrum CRJ2 (EC-NHU),Landed 8:00 PM,2021-04-16
+32,32,9:00 PM IB1935,,Barcelona (BCN),Iberia A321 (EC-IJN),Landed 8:43 PM,2021-04-16
+33,33,9:05 PM IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 8:59 PM,2021-04-16
+34,34,9:10 PM TP1014,,Lisbon (LIS),TAP Express AT76 (CS-DJB),Landed 9:10 PM,2021-04-16
+35,35,9:20 PM IB3445,,Paris (ORY),Iberia A320 (EC-LXQ),Landed 8:50 PM,2021-04-16
+36,36,9:25 PM IB3493,,Geneva (GVA),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 8:52 PM,2021-04-16
+37,37,9:40 PM AT676,,Tangier (TNG),Royal Air Maroc E90,Unknown,2021-04-16
+38,38,9:40 PM UX9117,,Tenerife (TFN),Air Europa B738 (EC-MQP),Landed 9:19 PM,2021-04-16
+39,39,9:45 PM UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-MPG),Landed 9:37 PM,2021-04-16
+40,40,9:50 PM IB8783,,Zurich (ZRH),Iberia Regional CRJX (EC-MTZ),Landed 9:26 PM,2021-04-16
+41,41,10:05 PM IB3255,,Milan (LIN),Iberia A319 (EC-JEI),Landed 9:41 PM,2021-04-16
+42,42,10:05 PM IB8695,,Brussels (BRU),Iberia Regional CRJX (EC-MTO),Landed 9:35 PM,2021-04-16
+43,43,10:10 PM IB3167,,London (LHR),Iberia A359 (EC-NJM),Landed 9:33 PM,2021-04-16
+44,44,10:15 PM IB3855,,Lanzarote (ACE),Iberia Express A320 (EC-JFG),Landed 9:58 PM,2021-04-16
+45,45,10:15 PM WT123,,Tenerife (TFN),Swiftair 73P,Unknown,2021-04-16
+46,46,10:25 PM IB3237,,Rome (FCO),Iberia A321 (EC-HUI),Landed 9:55 PM,2021-04-16
+47,47,10:30 PM IB3905,,Fuerteventura (FUE),Iberia Express A320 (EC-LYE),Landed 10:09 PM,2021-04-16
+48,48,10:30 PM IB8937,,Granada (GRX),Iberia Regional CRJX (EC-MSL),Landed 10:11 PM,2021-04-16
+49,49,10:35 PM IB567,,Seville (SVQ),Iberia A20N (EC-NJU),Landed 10:44 PM,2021-04-16
+50,50,10:35 PM IB3133,,Dusseldorf (DUS),Iberia A20N (EC-NER),Landed 9:51 PM,2021-04-16
+51,51,10:45 PM IB425,,Bilbao (BIO),Iberia A20N (EC-MXY),Landed 10:07 PM,2021-04-16
+52,52,10:45 PM IB577,,Santiago (SCQ),Iberia A319 (EC-JAZ),Landed 10:25 PM,2021-04-16
+53,53,10:45 PM IB8711,,Frankfurt (FRA),Iberia Regional CRJX (EC-MSB),Landed 10:14 PM,2021-04-16
+54,54,10:45 PM IB8865,,Alicante (ALC),Iberia Regional (Aviacion Sin Fronteras Livery) CRJX (EC-LJS),Landed 10:18 PM,2021-04-16
+55,55,10:50 PM BA9042,,Frankfurt (FRA),British Airways 75F,Unknown,2021-04-16
+56,56,10:50 PM IB8909,,Jerez (XRY),Iberia Regional CRJX (EC-MUG),Landed 10:33 PM,2021-04-16
+57,57,10:50 PM IB8923,,Almeria (LEI),Iberia Regional (Islas Cies Livery) CRJX (EC-MLO),Landed 10:46 PM,2021-04-16
+58,58,10:50 PM IB9042,,Frankfurt (FRA),Iberia 75F,Unknown,2021-04-16
+59,59,10:50 PM IB8951,,Malaga (AGP),Iberia Regional CRJX (EC-MVC),Landed 10:35 PM,2021-04-16
+60,60,10:55 PM IB481,,Asturias (OVD),Iberia A319 (EC-JDL),Landed 10:29 PM,2021-04-16
+61,61,10:55 PM IB3833,,Gran Canaria (LPA),Iberia Express A21N (EC-NIF),Landed 10:51 PM,2021-04-16
+62,62,10:55 PM IB3929,,Tenerife (TFS),Iberia Express A21N (EC-NGP),Landed 10:48 PM,2021-04-16
+63,63,10:55 PM IB3939,,Tenerife (TFN),Iberia Express A21N (EC-NIA),Landed 10:37 PM,2021-04-16
+64,64,10:55 PM IB3921,,Palma de Mallorca (PMI),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 10:41 PM,2021-04-16
+65,65,10:55 PM WT105,,Palma de Mallorca (PMI),Swiftair ATF,Unknown,2021-04-16
+66,66,11:00 PM IB521,,A Coruna (LCG),Iberia A320 (EC-LUL),Landed 10:40 PM,2021-04-16
+67,67,11:00 PM IB539,,Vigo (VGO),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 10:27 PM,2021-04-16
+68,68,11:00 PM IB585,,La Palma (SPC),Iberia A20N (EC-NCM),Landed 10:53 PM,2021-04-16
+69,69,11:00 PM IB2135,,Barcelona (BCN),Iberia A20N (EC-NJY),Landed 10:38 PM,2021-04-16
+70,70,11:00 PM IB3069,,Berlin (BER),Iberia A20N (EC-NDN),Landed 10:31 PM,2021-04-16
+71,71,11:00 PM IB8851,,Pamplona (PNA),Iberia Regional CRJX (EC-MVZ),Landed 10:34 PM,2021-04-16
+72,72,11:10 PM AF1400,,Paris (CDG),Air France A318 (F-GUGN),Landed 10:54 PM,2021-04-16
+73,73,11:15 PM WT125,,Gran Canaria (LPA),Swiftair 73P,Unknown,2021-04-16
+74,74,11:25 PM KL1707,,Amsterdam (AMS),KLM B737 (PH-BGF),Landed 10:50 PM,2021-04-16
+75,75,11:30 PM TP1022,,Lisbon (LIS),TAP Express AT76 (CS-DJC),Landed 11:21 PM,2021-04-16
+76,76,11:35 PM LH1120,,Frankfurt (FRA),Lufthansa A20N (D-AING),Landed 11:19 PM,2021-04-16
+77,77,11:45 PM WT102,,Palma de Mallorca (PMI),Swiftair AT43 (EC-JBN),Landed 11:43 PM,2021-04-16
+0,0,15:30 SV227,,Riyadh (RUH),Saudia B789 (HZ-AR23),Landed 15:14,2021-04-17
+1,1,15:40 LH1114,,Frankfurt (FRA),Lufthansa A20N (D-AIJB),Landed 15:18,2021-04-17
+2,2,15:55 U21115,,Basel (BSL),easyJet A320 (HB-JXQ),Landed 15:15,2021-04-17
+3,3,16:25 IB3417,,Paris (ORY),Iberia A320 (EC-MCS),Landed 15:54,2021-04-17
+4,4,16:30 AM21,,Mexico City (MEX),Aeromexico B788 (N783AM),Landed 16:02,2021-04-17
+5,5,16:40 TK1859,,Istanbul (IST),Turkish Airlines A333 (TC-JNS),Landed 16:15,2021-04-17
+6,6,16:50 TO3186,,Paris (ORY),Transavia France 73H,Unknown,2021-04-17
+7,7,16:55 AF1800,,Paris (CDG),Air France A319 (F-GRXJ),Landed 16:40,2021-04-17
+8,8,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-17
+9,9,17:20 U27613,,Lisbon (LIS),easyJet A320 (OE-IVL),Landed 16:58,2021-04-17
+10,10,17:35 VY1006,,Barcelona (BCN),Vueling A319 (EC-MIR),Landed 17:19,2021-04-17
+11,11,17:55 IB3937,,Tenerife (TFN),Iberia Express A320 (EC-LUS),Landed 17:50,2021-04-17
+12,12,18:05 IB3823,,Gran Canaria (LPA),Iberia Express A320 (EC-MUK),Landed 18:04,2021-04-17
+13,13,18:10 UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-LXV),Landed 17:59,2021-04-17
+14,14,18:20 IB1655,,Barcelona (BCN),Iberia A20N (EC-NJU),Landed 17:57,2021-04-17
+15,15,18:45 AT970,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-04-17
+16,16,18:45 IB449,,Bilbao (BIO),Iberia A320 (EC-LVD),Landed 18:10,2021-04-17
+17,17,18:50 IB3803,,Ibiza (IBZ),Iberia Express A21N (EC-NIF),Landed 18:36,2021-04-17
+18,18,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-17
+19,19,18:50 IB8877,,Valencia (VLC),Iberia Regional CRJX (EC-MSB),Landed 18:33,2021-04-17
+20,20,18:50 IB8969,,Santander (SDR),Iberia Regional CRJX (EC-MUG),Landed 18:26,2021-04-17
+21,21,18:55 IB565,,Seville (SVQ),Iberia A20N (EC-MXU),Landed 18:42,2021-04-17
+22,22,18:55 IB8741,,Toulouse (TLS),Iberia Regional CRJX (EC-MVC),Landed 18:29,2021-04-17
+23,23,18:55 IB8775,,Lisbon (LIS),Air Nostrum CRJX (EC-MPA),Landed 18:45,2021-04-17
+24,24,18:55 W63777,,Sibiu (SBZ),Wizz Air 320,Unknown,2021-04-17
+25,25,19:00 IB523,,A Coruna (LCG),Iberia A320 (EC-LXQ),Landed 18:48,2021-04-17
+26,26,19:00 IB535,,Vigo (VGO),Iberia A319 (EC-JDL),Landed 18:23,2021-04-17
+27,27,19:00 IB3925,,Palma de Mallorca (PMI),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 18:50,2021-04-17
+28,28,19:00 IB8665,,Porto (OPO),Iberia Regional CRJX (EC-MSL),Landed 18:39,2021-04-17
+29,29,19:10 IB8701,,Bordeaux (BOD),Iberia Regional CRJX (EC-MVZ),Landed 18:54,2021-04-17
+30,30,19:15 IB1751,,Barcelona (BCN),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 19:03,2021-04-17
+31,31,19:25 LG3837,,Luxembourg (LUX),Luxair B737 (LX-LGS),Landed 19:00,2021-04-17
+32,32,19:30 WT154,,Casablanca (CMN),Swiftair AT4,Unknown,2021-04-17
+33,33,19:35 TK6385,,Istanbul (ISL),Turkish Cargo A332 (TC-JCI),Landed 23:11,2021-04-17
+34,34,19:45 IB8751,,Marseille (MRS),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 19:17,2021-04-17
+35,35,19:50 IB8721,,Lyon (LYS),Iberia Regional CRJX (EC-LJT),Landed 19:36,2021-04-17
+36,36,19:50 TO3188,,Paris (ORY),Transavia B738 (F-GZHE),Unknown,2021-04-17
+37,37,20:20 IB2871,,Casablanca (CMN),Iberia A359 (EC-NDR),Landed 20:10,2021-04-17
+38,38,20:27 AC7260,,Toronto (YYZ),Air Canada B789 (C-FSBV),Landed 19:57,2021-04-17
+39,39,20:30 UX1016,,London (LGW),Air Europa B738 (EC-LVR),Landed 19:48,2021-04-17
+40,40,20:30 AH2206,,Algiers (ALG),Air Algerie AT75 (7T-VUJ),Landed 00:04,2021-04-17
+41,41,20:35 UX1062,,Milan (MXP),Air Europa B738 (EC-MXM),Landed 20:00,2021-04-17
+42,42,21:00 IB8333,,Badajoz (BJZ),Iberia Regional CRJ2 (EC-MNB),Landed 20:38,2021-04-17
+43,43,21:00 UX1048,,Rome (FCO),Air Europa B738 (EC-MUZ),Landed 20:13,2021-04-17
+44,44,21:00 UX1672,,Zurich (ZRH),Air Europa B738 (EC-IDA),Landed 20:18,2021-04-17
+45,45,21:05 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRR),Landed 20:44,2021-04-17
+46,46,21:10 TP1014,,Lisbon (LIS),TAP Express AT76 (CS-DJE),Landed 20:55,2021-04-17
+47,47,21:20 IB3445,,Paris (ORY),Iberia A321 (EC-JQZ),Landed 20:53,2021-04-17
+48,48,21:20 UX1174,,Brussels (BRU),Air Europa Express E195 (EC-LIN),Landed 20:51,2021-04-17
+49,49,21:20 UX4060,,Valencia (VLC),Air Europa Express E195 (EC-LKM),Landed 21:10,2021-04-17
+50,50,21:25 IB3493,,Geneva (GVA),Iberia A20N (EC-NER),Landed 20:58,2021-04-17
+51,51,21:40 FR5469,,Fuerteventura (FUE),Ryanair B738 (EI-DLF),Landed 21:37,2021-04-17
+52,52,21:40 UX1094,,Amsterdam (AMS),Air Europa B738 (EC-MPG),Landed 20:59,2021-04-17
+53,53,21:40 UX5038,,Malaga (AGP),Air Europa Express AT75 (EC-MZJ),Landed 21:22,2021-04-17
+54,54,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-LQX),Landed 21:46,2021-04-17
+55,55,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-LYR),Landed 21:57,2021-04-17
+56,56,21:50 IB8783,,Zurich (ZRH),Iberia Regional CRJX (EC-MTO),Landed 21:27,2021-04-17
+57,57,21:55 IB2031,,Barcelona (BCN),Iberia A320 (EC-MCS),Landed 21:24,2021-04-17
+58,58,21:55 UX1506,,Frankfurt (FRA),Air Europa B738 (EC-LPR),Landed 21:03,2021-04-17
+59,59,21:55 UX7238,,A Coruna (LCG),Air Europa B738 (EC-IDT),Landed 21:24,2021-04-17
+60,60,21:55 UX7319,,Vigo (VGO),Air Europa Express E195 (EC-LCQ),Landed 21:34,2021-04-17
+61,61,22:00 IB8761,,Bologna (BLQ),Iberia Regional CRJX (EC-MTZ),Landed 21:31,2021-04-17
+62,62,22:05 IB3205,,Brussels (BRU),Iberia A20N (EC-NCM),Landed 21:33,2021-04-17
+63,63,22:05 UX4050,,Alicante (ALC),Air Europa Express AT75 (EC-MSN),Landed 21:49,2021-04-17
+64,64,22:05 UX7708,,Barcelona (BCN),Air Europa B788 (EC-MPE),Landed 21:14,2021-04-17
+65,65,22:10 IB3167,,London (LHR),Iberia A359 (EC-MXV),Landed 21:44,2021-04-17
+66,66,22:10 UX1026,,Paris (ORY),Air Europa B738 (EC-MQP),Landed 21:42,2021-04-17
+67,67,22:10 UX1518,,Munich (MUC),Air Europa B738 (EC-LTM),Landed 21:41,2021-04-17
+68,68,22:15 IB3855,,Lanzarote (ACE),Iberia Express A320 (EC-JFG),Landed 22:00,2021-04-17
+69,69,22:15 UX1160,,Lisbon (LIS),Air Europa Express E195 (EC-LFZ),Landed 21:52,2021-04-17
+70,70,22:15 UX1142,,Porto (OPO),Air Europa Express E195 (EC-LKX),Landed 21:39,2021-04-17
+71,71,22:15 UX7160,,Bilbao (BIO),Air Europa Express E195 (EC-LEK),Landed 21:48,2021-04-17
+72,72,22:15 WT123,,Tenerife (TFN),Swiftair 73P,Unknown,2021-04-17
+73,73,22:25 IB3237,,Rome (FCO),Iberia A320 (EC-LUL),Landed 21:46,2021-04-17
+74,74,22:30 IB3245,,Venice (VCE),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 21:50,2021-04-17
+75,75,22:30 IB8937,,Granada (GRX),Iberia Regional CRJX (EC-MUG),Landed 22:05,2021-04-17
+76,76,22:35 IB3133,,Dusseldorf (DUS),Iberia A20N (EC-NJY),Landed 21:53,2021-04-17
+77,77,22:40 IB3377,,Naples (NAP),Iberia A20N (EC-MXY),Landed 22:08,2021-04-17
+78,78,22:40 IB3905,,Fuerteventura (FUE),Iberia Express A21N (EC-NIA),Landed 22:54,2021-04-17
+79,79,22:45 IB425,,Bilbao (BIO),Iberia A320 (EC-LXQ),Landed 22:09,2021-04-17
+80,80,22:45 IB3193,,Munich (MUC),Iberia A319 (EC-JAZ),Landed 22:15,2021-04-17
+81,81,22:45 IB8865,,Alicante (ALC),Iberia Regrional CRJX (EC-MLC),Landed 22:14,2021-04-17
+82,82,22:45 IB8885,,Asturias (OVD),Air Nostrum CRJX (EC-MPA),Landed 22:39,2021-04-17
+83,83,22:50 BA9042,,Frankfurt (FRA),British Airways 75F,Unknown,2021-04-17
+84,84,22:50 IB3293,,Dubrovnik (DBV),Iberia A20N (EC-NDN),Landed 22:10,2021-04-17
+85,85,22:50 IB8909,,Jerez (XRY),Iberia Regional CRJX (EC-MVC),Landed 22:17,2021-04-17
+86,86,22:50 IB8923,,Almeria (LEI),Iberia Regional CRJX (EC-MVZ),Landed 22:26,2021-04-17
+87,87,22:50 IB9042,,Frankfurt (FRA),Iberia 75F,Unknown,2021-04-17
+88,88,22:50 IB8951,,Malaga (AGP),Iberia Regional CRJX (EC-MSL),Landed 22:21,2021-04-17
+89,89,22:55 IB3131,,Frankfurt (FRA),Iberia A332 (EC-MKI),Landed 22:20,2021-04-17
+90,90,22:55 IB3255,,Milan (MXP),Iberia A332 (EC-MNL),Landed 22:33,2021-04-17
+91,91,22:55 IB3833,,Gran Canaria (LPA),Iberia Express A21N (EC-NGP),Landed 22:49,2021-04-17
+92,92,22:55 IB3939,,Tenerife (TFN),Iberia Express A21N (EC-NJI),Landed 22:56,2021-04-17
+93,93,22:55 IB3921,,Palma de Mallorca (PMI),Iberia Express A321 (EC-JDR),Landed 22:48,2021-04-17
+94,94,22:55 IB3929,,Tenerife (TFS),Iberia Express A320 (EC-LYE),Landed 22:52,2021-04-17
+95,95,22:55 WT105,,Palma de Mallorca (PMI),Swiftair ATF,Unknown,2021-04-17
+96,96,23:00 IB521,,A Coruna (LCG),Iberia A20N (EC-MXU),Landed 22:32,2021-04-17
+97,97,23:00 IB539,,Vigo (VGO),Iberia A319 (EC-JDL),Landed 22:22,2021-04-17
+98,98,23:00 IB577,,Santiago (SCQ),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 22:35,2021-04-17
+99,99,23:00 IB2135,,Barcelona (BCN),Iberia A20N (EC-NJU),Landed 22:40,2021-04-17
+100,100,23:00 IB8851,,Pamplona (PNA),Iberia Regional CRJX (EC-LJT),Landed 22:25,2021-04-17
+101,101,23:10 AF1400,,Paris (CDG),Air France A321 (F-GTAZ),Landed 22:41,2021-04-17
+102,102,23:10 FR2012,,Gran Canaria (LPA),Ryanair B738 (EI-DPF),Landed 23:08,2021-04-17
+103,103,23:15 WT125,,Gran Canaria (LPA),Swiftair 73P,Unknown,2021-04-17
+104,104,23:25 FR2016,,Lanzarote (ACE),Ryanair B738 (EI-DHS),Landed 23:37,2021-04-17
+105,105,23:25 KL1707,,Amsterdam (AMS),KLM B737 (PH-BGL),Landed 23:05,2021-04-17
+106,106,23:30 TP1022,,Lisbon (LIS),TAP Express AT76 (CS-DJB),Landed 23:13,2021-04-17
+107,107,23:35 LH1120,,Frankfurt (FRA),Lufthansa A20N (D-AIJB),Landed 23:17,2021-04-17
+108,108,23:45 WT102,,Palma de Mallorca (PMI),Swiftair AT75 (EC-LYJ),Landed 23:15,2021-04-17
+0,0,04:05 IB3329,,Dakar (DSS),Iberia A333 (EC-LYF),Landed 04:08,2021-04-18
+1,1,05:35 IB6342,,San Salvador (SAL),Iberia A332 (EC-MIL),Landed 05:43,2021-04-18
+2,2,05:50 IB6824,,Sao Paulo (GRU),Iberia A333 (EC-LZJ),Landed 05:20,2021-04-18
+3,3,06:00 IB6400,,Mexico City (MEX),Iberia A359 (EC-NDR),Landed 05:08,2021-04-18
+4,4,06:05 IB6856,,Buenos Aires (EZE),Iberia A359 (EC-NIS),Landed 05:40,2021-04-18
+5,5,06:05 IB6830,,Santiago (SCL),Iberia A359 (EC-NBE),Landed 05:25,2021-04-18
+6,6,06:10 IB6650,,Lima (LIM),Iberia A332 (EC-MNK),Landed 06:02,2021-04-18
+7,7,08:25 TO3180,,Paris (ORY),Transavia B738 (F-GZHC),Landed 07:50,2021-04-18
+8,8,08:35 WT117,,Ibiza (IBZ),Swiftair EM2,Unknown,2021-04-18
+9,9,08:40 IB8967,,Mahon (MAH),Iberia Regional CRJX (EC-LPN),Landed 08:19,2021-04-18
+10,10,09:05 AA36,,Dallas (DFW),American Airlines B789 (N841AN),Unknown,2021-04-18
+11,11,09:10 FR6992,,Milan (BGY),Ryanair B738 (9H-QDO),Landed 08:41,2021-04-18
+12,12,09:13 AC7230,,Toronto (YYZ),Air Canada A333 (C-GHKC),Landed 09:17,2021-04-18
+13,13,09:15 DL3458,,New York (JFK),Delta Air Lines B763 (N184DN),Landed 08:20,2021-04-18
+14,14,09:20 3O391,,Tangier (TNG),Air Arabia Maroc 320,Unknown,2021-04-18
+15,15,10:20 IB3835,,Gran Canaria (LPA),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 10:00,2021-04-18
+16,16,10:25 E9802,,Punta Cana (PUJ),Evelop Airlines A359 (EC-NBO),Landed 09:48,2021-04-18
+17,17,10:25 TP1016,,Lisbon (LIS),TAP Air Portugal A20N (CS-TVG),Landed 10:08,2021-04-18
+18,18,10:30 IB571,,Santiago (SCQ),Iberia A319 (EC-JEI),Landed 10:06,2021-04-18
+19,19,10:30 IB8899,,Asturias (OVD),Iberia Regional CRJX (EC-MJO),Landed 10:14,2021-04-18
+20,20,10:30 IB8971,,Santander (SDR),Iberia Regional CRJX (EC-MSL),Landed 10:22,2021-04-18
+21,21,10:30 TK1857,,Istanbul (IST),Turkish Airlines A333 (TC-JOG),Landed 10:03,2021-04-18
+22,22,10:35 IB423,,Bilbao (BIO),Iberia A20N (EC-NER),Landed 10:04,2021-04-18
+23,23,10:35 IB8291,,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 10:24,2021-04-18
+24,24,10:35 IB8903,,Jerez (XRY),Iberia Regional CRJX (EC-LJT),Landed 10:36,2021-04-18
+25,25,10:35 W63173,,Bucharest (OTP),Wizz Air A21N (HA-LVB),Landed 09:56,2021-04-18
+26,26,10:40 IB519,,A Coruna (LCG),Iberia A20N (EC-MXU),Landed 10:20,2021-04-18
+27,27,10:40 IB531,,Vigo (VGO),Iberia A319 (EC-JDL),Landed 10:29,2021-04-18
+28,28,10:40 IB3913,,Palma de Mallorca (PMI),Iberia Express A320 (EC-MUK),Landed 10:23,2021-04-18
+29,29,10:40 IB3945,,Tenerife (TFN),Iberia Express A320 (EC-LUS),Landed 10:32,2021-04-18
+30,30,10:40 IB8859,,Alicante (ALC),Iberia Regional CRJX (EC-MVZ),Landed 10:18,2021-04-18
+31,31,10:40 IB8873,,Valencia (VLC),Iberia Regional CRJX (EC-MJP),Landed 10:45,2021-04-18
+32,32,10:50 IB8765,,Lisbon (LIS),Iberia Regional CRJX (EC-MTZ),Landed 10:27,2021-04-18
+33,33,11:00 UX88,,Santo Domingo (SDQ),Air Europa B789 (EC-NGM),Landed 10:30,2021-04-18
+34,34,11:00 IB935,,Barcelona (BCN),Iberia A20N (EC-MXY),Landed 10:37,2021-04-18
+35,35,11:05 LH1800,,Munich (MUC),Lufthansa CRJ9 (D-ACND),Landed 10:26,2021-04-18
+36,36,11:15 RO415,,Bucharest (OTP),Tarom (SkyTeam Livery) B737 (YR-BGF),Landed 10:42,2021-04-18
+37,37,11:20 AT684,,Marrakesh (RAK),Royal Air Maroc 73H,Unknown,2021-04-18
+38,38,11:20 FR5994,,London (STN),Ryanair B738 (EI-DWO),Unknown,2021-04-18
+39,39,11:25 AF1300,,Paris (CDG),Air France A320 (F-GKXH),Landed 11:05,2021-04-18
+40,40,11:30 AZ58,,Rome (FCO),Alitalia E75S (EI-RDE),Landed 11:00,2021-04-18
+41,41,11:45 IB8717,,Lyon (LYS),Air Nostrum CRJX (EC-MPA),Landed 11:22,2021-04-18
+42,42,11:55 FR9673,,Rome (CIA),Ryanair B738 (EI-DLW),Landed 12:09,2021-04-18
+43,43,11:55 VY1008,,Barcelona (BCN),Vueling A319 (EC-MKV),Landed 11:32,2021-04-18
+44,44,12:05 KL1701,,Amsterdam (AMS),KLM E190 (PH-EZS),Landed 11:41,2021-04-18
+45,45,12:05 LH1112,,Frankfurt (FRA),Lufthansa A20N (D-AINI),Landed 11:46,2021-04-18
+46,46,12:15 IB6500,,Santo Domingo (SDQ),Iberia A333 (EC-LUK),Landed 12:15,2021-04-18
+47,47,12:35 EK9906,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFL),Diverted to AMS,2021-04-18
+48,48,13:00 UX194,,Bogota (BOG),Air Europa B788 (EC-MOM),Landed 12:31,2021-04-18
+49,49,13:05 UX58,,Sao Paulo (GRU),Air Europa B789 (EC-NGN),Landed 12:19,2021-04-18
+50,50,13:10 UX64,,Cancun (CUN),Air Europa B789 (EC-MSZ),Landed 12:10,2021-04-18
+51,51,13:15 EY75,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Italy Livery) B789 (A6-BLT),Landed 12:58,2021-04-18
+52,52,13:20 IB6124,,Miami (MIA),Iberia A359 (EC-MXV),Landed 12:35,2021-04-18
+53,53,13:25 EK141,,Dubai (DXB),Emirates B77W (A6-ENZ),Landed 13:20,2021-04-18
+54,54,13:25 UX7706,,Barcelona (BCN),Air Europa B738 (EC-LTM),Landed 12:44,2021-04-18
+55,55,13:35 LX2020,,Zurich (ZRH),Swiss BCS3 (HB-JCQ),Landed 13:11,2021-04-18
+56,56,13:40 IB3483,,Geneva (GVA),Iberia A319 (EC-JAZ),Landed 13:08,2021-04-18
+57,57,13:40 UX9047,,Tenerife (TFN),Air Europa B738 (EC-MKL),Landed 13:21,2021-04-18
+58,58,13:45 UX6048,,Palma de Mallorca (PMI),Air Europa B738 (EC-MVY),Landed 13:25,2021-04-18
+59,59,13:45 UX6024,,Ibiza (IBZ),Air Europa B738 (EC-MUZ),Landed 13:17,2021-04-18
+60,60,13:45 UX9161,,Gran Canaria (LPA),Air Europa B738 (EC-MXM),Landed 13:29,2021-04-18
+61,61,13:55 IB3251,,Milan (LIN),Iberia A321 (EC-HUI),Landed 13:27,2021-04-18
+62,62,14:00 IB3163,,London (LHR),Iberia A359 (EC-NGT),Landed 13:24,2021-04-18
+63,63,14:00 PC1099,,Istanbul (SAW),Pegasus A20N (TC-NCN),Landed 13:51,2021-04-18
+64,64,14:05 IB8781,,Zurich (ZRH),Iberia Regional CRJX (EC-MRI),Landed 13:39,2021-04-18
+65,65,14:10 IB3231,,Rome (FCO),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 13:41,2021-04-18
+66,66,14:15 OB776,,Santa Cruz (VVI),Boliviana de Aviacion B763 (CP-2881),Landed 14:23,2021-04-18
+67,67,14:15 IB3121,,Vienna (VIE),Iberia A20N (EC-NJU),Landed 13:43,2021-04-18
+68,68,14:15 IB3203,,Brussels (BRU),Iberia A20N (EC-NDN),Landed 13:49,2021-04-18
+69,69,14:15 IB3439,,Florence (FLR),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 13:47,2021-04-18
+70,70,14:30 IB6586,,Bogota (BOG),Iberia A359 (EC-NCX),Landed 13:57,2021-04-18
+71,71,14:35 QR149,,Doha (DOH),Qatar Airways B77W (A7-BAY),Landed 14:36,2021-04-18
+72,72,14:40 IB563,,Seville (SVQ),Iberia A20N (EC-MXY),Landed 14:30,2021-04-18
+73,73,14:40 IB3943,,Tenerife (TFN),Iberia Express A21N (EC-NIA),Landed 14:37,2021-04-18
+74,74,14:40 IB8933,,Granada (GRX),Iberia Regional CRJX (EC-LJT),Landed 14:26,2021-04-18
+75,75,14:40 LO433,,Warsaw (WAW),LOT E190 (SP-LMB),Landed 13:53,2021-04-18
+76,76,14:40 TP1024,,Lisbon (LIS),TAP Express E195 (CS-TTZ),Landed 14:16,2021-04-18
+77,77,14:41 IB2857,,Bilbao (BIO),Iberia A320 (EC-LXQ),Landed 14:29,2021-04-18
+78,78,14:45,IB507,San Sebastian (EAS),Iberia A319 (EC-JDL),Landed 14:28,2021-04-18
+79,79,14:45,IB3317,Tel Aviv (TLV),Iberia A332 (EC-MMG),Landed 14:25,2021-04-18
+80,80,14:45,IB3827,Gran Canaria (LPA),Iberia Express A21N (EC-NGP),Landed 14:28,2021-04-18
+81,81,14:45,IB3901,Fuerteventura (FUE),Iberia Express A320 (EC-LVQ),Landed 14:20,2021-04-18
+82,82,14:50,IB3435,Paris (ORY),Iberia A321 (EC-JQZ),Landed 14:09,2021-04-18
+83,83,14:50,IB3853,Lanzarote (ACE),Iberia Express A320 (EC-JFG),Landed 14:17,2021-04-18
+84,84,14:55,IB581,La Palma (SPC),Iberia A320 (EC-LVD),Landed 14:35,2021-04-18
+85,85,14:55,IB1331,Barcelona (BCN),Iberia A20N (EC-NER),Landed 14:34,2021-04-18
+86,86,14:55,IB3067,Berlin (BER),Iberia A320 (EC-MCS),Landed 14:13,2021-04-18
+87,87,14:55,IB3919,Palma de Mallorca (PMI),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 14:31,2021-04-18
+88,88,14:55,IB8847,Pamplona (PNA),Iberia Regional CRJX (EC-MJO),Landed 14:39,2021-04-18
+89,89,14:55,IB8919,Almeria (LEI),Iberia Regional CRJX (EC-MVZ),Landed 14:40,2021-04-18
+90,90,14:55,IB8947,Malaga (AGP),Iberia Regional CRJX (EC-MJP),Landed 14:33,2021-04-18
+91,91,15:00 IB8551,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-18
+92,92,15:00 IB8757,,Bologna (BLQ),Iberia Regional CRJX (EC-LPN),Landed 14:18,2021-04-18
+93,93,15:20 QR8211,,Doha (DOH),Qatar Cargo B77L (A7-BFG),Landed 16:39,2021-04-18
+94,94,15:30 SV227,,Jeddah (JED),Saudia B789 (HZ-ARE),Landed 15:38,2021-04-18
+95,95,15:55 U21115,,Basel (BSL),easyJet A320 (HB-JXI),Landed 15:10,2021-04-18
+96,96,16:25 IB3417,,Paris (ORY),Iberia A20N (EC-MXU),Landed 15:48,2021-04-18
+97,97,16:25 KL1703,,Amsterdam (AMS),KLM E190 (PH-EZG),Landed 16:00,2021-04-18
+98,98,16:30 AM21,,Mexico City (MEX),Aeromexico B789 (N183AM),Landed 16:14,2021-04-18
+99,99,16:30 W63401,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LYV),Landed 15:46,2021-04-18
+100,100,16:40 TK1859,,Istanbul (IST),Turkish Airlines A21N (TC-LST),Landed 16:09,2021-04-18
+101,101,16:55 AF1800,,Paris (CDG),Air France A321 (F-GTAZ),Landed 16:35,2021-04-18
+102,102,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-18
+103,103,17:15 TK6417,,Istanbul (ISL),Turkish Airlines 33X,Unknown,2021-04-18
+104,104,17:25 FB471,,Sofia (SOF),Bulgaria Air E190 (LZ-SOF),Landed 16:58,2021-04-18
+105,105,17:55 IB3937,,Tenerife (TFN),Iberia Express A320 (EC-LUS),Landed 17:36,2021-04-18
+106,106,18:05 IB3823,,Gran Canaria (LPA),Iberia Express A21N (EC-NIF),Landed 17:44,2021-04-18
+107,107,18:10 UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-LPR),Landed 17:52,2021-04-18
+108,108,18:20 IB1655,,Barcelona (BCN),Iberia A319 (EC-JEI),Landed 17:55,2021-04-18
+109,109,18:45 AT970,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-04-18
+110,110,18:45 IB449,,Bilbao (BIO),Iberia A320 (EC-LVD),Landed 18:22,2021-04-18
+111,111,18:45 IB3315,,Stockholm (ARN),Iberia A20N (EC-NCM),Landed 18:17,2021-04-18
+112,112,18:45 IB8937,,Granada (GRX),Iberia Regional CRJX (EC-MTZ),Landed 18:19,2021-04-18
+113,113,18:50 IB3151,,Athens (ATH),Iberia A20N (EC-NJY),Landed 18:25,2021-04-18
+114,114,18:50 IB3803,,Ibiza (IBZ),Iberia Express A21N (EC-NIA),Landed 18:26,2021-04-18
+115,115,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-18
+116,116,18:50 IB8877,,Valencia (VLC),Iberia Regional CRJX (EC-MUG),Landed 18:30,2021-04-18
+117,117,18:50 IB8969,,Santander (SDR),Iberia Regional CRJX (EC-MVZ),Landed 18:27,2021-04-18
+118,118,18:55 IB8741,,Toulouse (TLS),Iberia Regional CRJX (EC-MJO),Landed 18:21,2021-04-18
+119,119,19:00 IB523,,A Coruna (LCG),Iberia A20N (EC-NDN),Landed 18:38,2021-04-18
+120,120,19:00,IB535,Vigo (VGO),Iberia A319 (EC-JDL),Landed 18:31,2021-04-18
+121,121,19:00,IB3925,Palma de Mallorca (PMI),Iberia Express A320 (EC-JFG),Landed 18:43,2021-04-18
+122,122,19:00 IB8665,,Porto (OPO),Iberia Regional CRJX (EC-MRI),Landed 18:14,2021-04-18
+123,123,19:10,IB3103,Lisbon (LIS),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 18:36,2021-04-18
+124,124,19:25 LG3837,,Luxembourg (LUX),Luxair B737 (LX-LBT),Landed 19:01,2021-04-18
+125,125,19:30 FR5469,,Fuerteventura (FUE),Ryanair B738 (EI-EBM),Landed 19:34,2021-04-18
+126,126,19:35 FR2514,,Bucharest (OTP),Ryanair B738 (9H-QEI),Landed 19:14,2021-04-18
+127,127,19:45 IB8751,,Marseille (MRS),Iberia Regional CRJX (EC-LJR),Landed 19:24,2021-04-18
+128,128,19:50 IB8721,,Lyon (LYS),Iberia Regional CRJX (EC-LJT),Landed 19:50,2021-04-18
+129,129,19:55 TO3182,,Paris (ORY),Transavia B738 (F-HTVL),Landed 19:36,2021-04-18
+130,130,20:05 U21417,,Geneva (GVA),easyJet A320 (HB-JYA),Landed 19:33,2021-04-18
+131,131,20:10 IB6178,,Los Angeles (LAX),Iberia A332 (EC-MLB),Landed 20:20,2021-04-18
+132,132,20:25 FR7755,,Tangier (TNG),Ryanair 73H,Unknown,2021-04-18
+133,133,20:30,UX1016,London (LGW),Air Europa B738 (EC-MPG),Landed 19:52,2021-04-18
+134,134,20:35,UX1062,Milan (MXP),Air Europa B738 (EC-IDT),Landed 20:13,2021-04-18
+135,135,20:40,UX6078,Palma de Mallorca (PMI),Air Europa B738 (EC-LTM),Landed 20:23,2021-04-18
+136,136,20:49 IB2853,,Alicante (ALC),Iberia A320 (EC-LUL),Landed 20:39,2021-04-18
+137,137,21:00,IB8333,Badajoz (BJZ),Iberia Regional CRJ2 (EC-MNB),Landed 20:39,2021-04-18
+138,138,21:00,UX1048,Rome (FCO),Air Europa B738 (EC-MUZ),Landed 20:21,2021-04-18
+139,139,21:05 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 20:41,2021-04-18
+140,140,21:10,TP1014,Lisbon (LIS),TAP Express AT76 (CS-DJC),Landed 20:52,2021-04-18
+141,141,21:15 IB2824,,Hangzhou (HGH),Iberia A332 (EC-MSY),Landed 21:01,2021-04-18
+142,142,21:20,IB3445,Paris (ORY),Iberia A321 (EC-HUI),Landed 21:03,2021-04-18
+143,143,21:20,UX4060,Valencia (VLC),Air Europa B738 (EC-LQX),Landed 20:45,2021-04-18
+144,144,21:20 U27615,,Lisbon (LIS),easyJet A320 (OE-IJX),Landed 21:06,2021-04-18
+145,145,21:25,IB3493,Geneva (GVA),Iberia A320 (EC-LXQ),Landed 20:58,2021-04-18
+146,146,21:40,UX1094,Amsterdam (AMS),Air Europa B738 (EC-MVY),Landed 20:54,2021-04-18
+147,147,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-MKL),Landed 21:13,2021-04-18
+148,148,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-MQP),Landed 21:23,2021-04-18
+149,149,21:50 IB8783,,Zurich (ZRH),Iberia Regional CRJX (EC-MJP),Landed 21:19,2021-04-18
+150,150,21:55,IB2031,Barcelona (BCN),Iberia A20N (EC-MXU),Landed 21:26,2021-04-18
+151,151,21:55,UX1506,Frankfurt (FRA),Air Europa B738 (EC-MJU),Landed 21:12,2021-04-18
+152,152,21:55,UX7319,Vigo (VGO),Air Europa B738 (EC-LUT),Landed 21:32,2021-04-18
+153,153,22:00 FR5279,,Tenerife (TFN),Ryanair B738 (EI-ENK),Landed 23:12,2021-04-18
+154,154,22:05 IB3255,,Milan (LIN),Iberia A319 (EC-JAZ),Landed 21:35,2021-04-18
+155,155,22:05 IB8695,,Brussels (BRU),Iberia Regional CRJX (EC-MTO),Landed 21:38,2021-04-18
+156,156,22:05,UX7708,Barcelona (BCN),Air Europa B788 (EC-MMY),Landed 21:36,2021-04-18
+157,157,22:10,IB3167,London (LHR),Iberia A359 (EC-MXV),Landed 21:42,2021-04-18
+158,158,22:10 UX1026,,Paris (ORY),Air Europa B738 (EC-MXM),Landed 21:43,2021-04-18
+159,159,22:15,IB3855,Lanzarote (ACE),Iberia Express A320 (EC-MUK),Landed 21:58,2021-04-18
+160,160,22:15 UX1142,,Porto (OPO),Air Europa Express E195 (EC-LKM),Landed 21:53,2021-04-18
+161,161,22:15 UX1160,,Lisbon (LIS),Air Europa B738 (EC-LYR),Landed 21:46,2021-04-18
+162,162,22:15,UX7160,Bilbao (BIO),Air Europa B738 (EC-IDA),Landed 21:48,2021-04-18
+163,163,22:25,IB3237,Rome (FCO),Iberia A321 (EC-JQZ),Landed 21:41,2021-04-18
+164,164,22:30,IB3245,Venice (VCE),Iberia A20N (EC-MXY),Landed 21:54,2021-04-18
+165,165,22:35,IB567,Seville (SVQ),Iberia A320 (EC-LVD),Landed 22:15,2021-04-18
+166,166,22:35,IB3133,Dusseldorf (DUS),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 22:00,2021-04-18
+167,167,22:35,IB3905,Fuerteventura (FUE),Iberia Express A320 (EC-LYE),Landed 22:13,2021-04-18
+168,168,22:40,IB3377,Naples (NAP),Iberia A320 (EC-MCS),Landed 22:08,2021-04-18
+169,169,22:45 IB577,,Santiago (SCQ),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 22:29,2021-04-18
+170,170,22:45,IB8711,Frankfurt (FRA),Iberia Regional CRJX (EC-LPN),Landed 22:02,2021-04-18
+171,171,22:45,IB8865,Alicante (ALC),Iberia Regional CRJX (EC-MVZ),Landed 22:11,2021-04-18
+172,172,22:50,IB3293,Dubrovnik (DBV),Iberia A20N (EC-NJU),Landed 21:52,2021-04-18
+173,173,22:50,IB8909,Jerez (XRY),Iberia Regional CRJX (EC-MRI),Landed 22:26,2021-04-18
+174,174,22:50,IB8923,Almeria (LEI),Iberia Regional CRJX (EC-MTZ),Landed 22:24,2021-04-18
+175,175,22:50,IB8951,Malaga (AGP),Iberia Regional CRJX (EC-MJO),Landed 22:21,2021-04-18
+176,176,22:55,IB481,Asturias (OVD),Iberia A319 (EC-JDL),Landed 22:18,2021-04-18
+177,177,22:55 IB3269,,Hamburg (HAM),Iberia A20N (EC-NER),Landed 22:17,2021-04-18
+178,178,22:55,IB3833,Gran Canaria (LPA),Iberia Express A21N (EC-NGP),Landed 22:31,2021-04-18
+179,179,22:55,IB3929,Tenerife (TFS),Iberia Express A320 (EC-LVQ),Landed 22:27,2021-04-18
+180,180,22:55,IB3939,Tenerife (TFN),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 22:35,2021-04-18
+181,181,22:55 IB8771,,Turin (TRN),Iberia Regional CRJX (EC-MSL),Landed 22:21,2021-04-18
+182,182,22:55 CA1028,,Liege (LGG),Air China Cargo B77L (B-2092),Landed 22:13,2021-04-18
+183,183,23:00,IB3921,Palma de Mallorca (PMI),Iberia Express A21N (EC-NIF),Landed 22:33,2021-04-18
+184,184,23:00,IB8851,Pamplona (PNA),Iberia Regional CRJX (EC-LJT),Landed 22:38,2021-04-18
+185,185,23:10,AF1400,Paris (CDG),Air France A320 (F-HEPJ),Landed 22:40,2021-04-18
+186,186,23:25,KL1707,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 22:48,2021-04-18
+187,187,23:30,TP1022,Lisbon (LIS),TAP Express AT76 (CS-DJB),Landed 23:11,2021-04-18
+188,188,23:35,LH1120,Frankfurt (FRA),Lufthansa A20N (D-AINJ),Landed 23:00,2021-04-18
+0,0,00:30 FR2085,,Ibiza (IBZ),Ryanair B738 (EI-DPF),Landed 00:02,2021-04-19
+1,1,01:45 BA9000,,Gran Canaria (LPA),British Airways 75F,Unknown,2021-04-19
+2,2,04:45 3V4037,,Liege (LGG),FedEX B734 (OE-IAR),Landed 04:11,2021-04-19
+3,3,05:25 QY929,,Miami (MIA),DHL A332 (D-ALMA),Landed 04:41,2021-04-19
+4,4,06:00 IB6400,,Mexico City (MEX),Iberia A359 (EC-NIG),Landed 05:14,2021-04-19
+5,5,06:05 IB6830,,Santiago (SCL),Iberia A359 (EC-NJM),Landed 05:26,2021-04-19
+6,6,06:05 IB6856,,Buenos Aires (EZE),Iberia 359,Unknown,2021-04-19
+7,7,06:10 IB6650,,Lima (LIM),Iberia A332 (EC-MLP),Landed 05:29,2021-04-19
+8,8,06:15 IB6012,,Montevideo (MVD),Iberia A332 (EC-MKI),Landed 06:00,2021-04-19
+9,9,07:50 FR2052,,Palma de Mallorca (PMI),Ryanair B738 (EI-DHA),Landed 07:32,2021-04-19
+10,10,07:50 IB511,,A Coruna (LCG),Iberia A20N (EC-NDN),Landed 07:33,2021-04-19
+11,11,07:50 IB537,,Vigo (VGO),Iberia A319 (EC-JEI),Landed 07:29,2021-04-19
+12,12,07:50 IB3917,,Palma de Mallorca (PMI),Iberia Express A320 (EC-JFG),Landed 07:28,2021-04-19
+13,13,07:55 IB443,,Bilbao (BIO),Iberia A20N (EC-NJY),Landed 07:36,2021-04-19
+14,14,08:40 IB715,,Barcelona (BCN),Iberia A20N (EC-NCM),Landed 08:18,2021-04-19
+15,15,08:40 IB8967,,Mahon (MAH),Iberia Regional CRJX (EC-MSB),Landed 08:20,2021-04-19
+16,16,09:05 AA36,,Dallas (DFW),American Airlines B789 (N823AN),Landed 08:14,2021-04-19
+17,17,09:15 DL126,,New York (JFK),Delta Air Lines B763 (N181DN),Landed 08:28,2021-04-19
+18,18,09:25 UX6012,,Palma de Mallorca (PMI),Air Europa B738 (EC-LVR),Landed 08:58,2021-04-19
+19,19,09:50 3O391,,Tangier (TNG),Air Arabia Maroc 320,Unknown,2021-04-19
+20,20,10:20 IB3835,,Gran Canaria (LPA),Iberia Express A21N (EC-NIA),Landed 09:53,2021-04-19
+21,21,10:25 TP1016,,Lisbon (LIS),TAP Express AT76 (CS-DJE),Landed 10:04,2021-04-19
+22,22,10:30 IB6250,,New York (JFK),Iberia A333 (EC-MAA),Landed 09:43,2021-04-19
+23,23,10:30 IB561,,Seville (SVQ),Iberia A320 (EC-MCS),Landed 10:17,2021-04-19
+24,24,10:30 IB905,,Barcelona (BCN),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 10:10,2021-04-19
+25,25,10:30 IB3865,,Malaga (AGP),Iberia Express A320 (EC-MUK),Landed 10:12,2021-04-19
+26,26,10:30 IB8899,,Asturias (OVD),Iberia Regional CRJX (EC-MTO),Landed 10:26,2021-04-19
+27,27,10:30 IB8971,,Santander (SDR),Iberia Regional CRJX (EC-LPN),Landed 10:23,2021-04-19
+28,28,10:30 TK1857,,Istanbul (IST),Turkish Airlines A21N (TC-LSJ),Landed 10:07,2021-04-19
+29,29,10:35 IB423,,Bilbao (BIO),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 10:16,2021-04-19
+30,30,10:35 IB8291,,Melilla (MLN),Iberia Regional AT76 (EC-LSQ),Landed 10:36,2021-04-19
+31,31,10:35 IB8903,,Jerez (XRY),Iberia Regional CRJX (EC-LJT),Landed 10:13,2021-04-19
+32,32,10:40 IB519,,A Coruna (LCG),Iberia A20N (EC-MXY),Landed 10:31,2021-04-19
+33,33,10:40 IB531,,Vigo (VGO),Iberia A319 (EC-JAZ),Landed 10:29,2021-04-19
+34,34,10:40 IB3945,,Tenerife (TFN),Iberia Express A321 (EC-JDM),Landed 10:41,2021-04-19
+35,35,10:40 IB8737,,Toulouse (TLS),Iberia Regional CRJX (EC-MRI),Landed 10:25,2021-04-19
+36,36,10:40 IB8859,,Alicante (ALC),Iberia Regional CRJX (EC-MVZ),Landed 10:15,2021-04-19
+37,37,10:40 IB8873,,Valencia (VLC),Iberia Regional CRJX (EC-MJQ),Landed 10:20,2021-04-19
+38,38,10:45 IB3913,,Palma de Mallorca (PMI),Iberia Express A320 (EC-LUS),Landed 10:21,2021-04-19
+39,39,10:50 UX9045,,Tenerife (TFN),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 10:39,2021-04-19
+40,40,10:55 IB3111,,Lisbon (LIS),Iberia A319 (EC-JDL),Landed 10:28,2021-04-19
+41,41,11:00 UX88,,Santo Domingo (SDQ),Air Europa B789 (EC-NBM),Landed 10:33,2021-04-19
+42,42,11:00 IB935,,Barcelona (BCN),Iberia A20N (EC-MXU),Landed 10:38,2021-04-19
+43,43,11:05 LH1800,,Munich (MUC),Air Dolomiti E195 (I-ADJK),Landed 10:35,2021-04-19
+44,44,11:10 E9826,,Havana (HAV),Evelop Airlines A333 (EC-MII),Landed 11:34,2021-04-19
+45,45,11:15 RO415,,Bucharest (OTP),Tarom B737 (YR-BGI),Landed 10:56,2021-04-19
+46,46,11:25 AF1300,,Paris (CDG),Air France A318 (F-GUGP),Landed 11:02,2021-04-19
+47,47,11:25 IB8747,,Marseille (MRS),Iberia Regional CRJX (EC-MTZ),Landed 11:05,2021-04-19
+48,48,11:30 AZ58,,Rome (FCO),Alitalia E75S (EI-RDD),Landed 10:59,2021-04-19
+49,49,11:40 A3700,,Athens (ATH),Aegean Airlines A21N (SX-NAC),Landed 11:16,2021-04-19
+50,50,11:45 UX24,,Asuncion (ASU),Air Europa B789 (EC-NCY),Landed 10:20,2021-04-19
+51,51,12:00 IB1035,,Barcelona (BCN),Iberia A20N (EC-NER),Landed 11:33,2021-04-19
+52,52,12:05 KL1701,,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 11:36,2021-04-19
+53,53,12:05 LH1112,,Frankfurt (FRA),Lufthansa A319 (D-AILL),Landed 11:44,2021-04-19
+54,54,12:10 IB6116,,Miami (MIA),Iberia A333 (EC-LXK),Landed 11:58,2021-04-19
+55,55,12:15 IB6500,,Santo Domingo (SDQ),Iberia A333 (EC-LUB),Landed 12:04,2021-04-19
+56,56,12:20 IB3403,,Paris (ORY),Iberia A321 (EC-IJN),Landed 12:00,2021-04-19
+57,57,12:21 UX194,,Bogota (BOG),Air Europa B788,Canceled,2021-04-19
+58,58,12:50 IB8203,,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 12:33,2021-04-19
+59,59,13:00 FR2012,,Gran Canaria (LPA),Ryanair B738 (EI-DCZ),Landed 12:42,2021-04-19
+60,60,13:00 WT8735,,Casablanca (CMN),Swiftair AT75 (EC-LYJ),Landed 15:30,2021-04-19
+61,61,13:20 UX46,,Montevideo (MVD),Air Europa B788 (EC-MPE),Landed 12:11,2021-04-19
+62,62,13:25 UX7706,,Barcelona (BCN),Air Europa Express E195 (EC-LEK),Landed 12:37,2021-04-19
+63,63,13:35 IB6124,,Miami (MIA),Iberia A333 (EC-LZJ),Landed 13:24,2021-04-19
+64,64,13:40 IB3483,,Geneva (GVA),Iberia A320 (EC-LVD),Landed 13:02,2021-04-19
+65,65,13:40 UX9047,,Tenerife (TFN),Air Europa B738 (EC-MPG),Landed 13:35,2021-04-19
+66,66,13:45 IB8727,,Nice (NCE),Iberia Regional CRJX (EC-MJO),Landed 13:36,2021-04-19
+67,67,13:45 UX6024,,Ibiza (IBZ),Air Europa B738 (EC-MKL),Landed 13:28,2021-04-19
+68,68,13:45 UX6048,,Palma de Mallorca (PMI),Air Europa B738 (EC-LVR),Landed 13:22,2021-04-19
+69,69,13:45 UX9161,,Gran Canaria (LPA),Air Europa B738 (EC-MXM),Landed 13:15,2021-04-19
+70,70,13:50 FR6409,,Sofia (SOF),Ryanair B738 (EI-DLW),Landed 13:55,2021-04-19
+71,71,13:55 LA712,,Sao Paulo (GRU),LATAM Airlines B788 (CC-BBJ),Landed 13:33,2021-04-19
+72,72,14:00 IB3163,,London (LHR),Iberia A359 (EC-NIS),Landed 13:37,2021-04-19
+73,73,14:05 IB8781,,Zurich (ZRH),Iberia Regional CRJX (EC-MJP),Landed 13:44,2021-04-19
+74,74,14:25 IB3203,,Brussels (BRU),Iberia A20N (EC-NJY),Landed 13:45,2021-04-19
+75,75,14:30 IB6586,,Bogota (BOG),Iberia A359 (EC-NGT),Landed 14:04,2021-04-19
+76,76,14:35 IB3251,,Milan (LIN),Iberia A20N (EC-NCM),Landed 14:13,2021-04-19
+77,77,14:35 QR149,,Doha (DOH),Qatar Airways (FIFA World Cup 2022 Livery) B77W (A7-BEB),Landed 14:21,2021-04-19
+78,78,14:40 FR5279,,Tenerife (TFN),Ryanair B738 (EI-DCX),Landed 14:29,2021-04-19
+79,79,14:40,IB3943,Tenerife (TFN),Iberia Express A320 (EC-LVQ),Landed 14:21,2021-04-19
+80,80,14:40,IB8933,Granada (GRX),Iberia Regional CRJX (EC-MRI),Landed 14:23,2021-04-19
+81,81,14:40,TP1024,Lisbon (LIS),TAP Express E195 (CS-TTZ),Landed 14:18,2021-04-19
+82,82,14:45 IB6620,,Havana (HAV),Iberia A332 (EC-MNL),Landed 13:54,2021-04-19
+83,83,14:45,IB3231,Rome (FCO),Iberia A321 (EC-HUI),Landed 14:17,2021-04-19
+84,84,14:45,IB3317,Tel Aviv (TLV),Iberia A332 (EC-MIL),Landed 13:59,2021-04-19
+85,85,14:45,IB507,San Sebastian (EAS),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 14:31,2021-04-19
+86,86,14:45 IB573,,Santiago (SCQ),Iberia A20N (EC-MXU),Landed 14:35,2021-04-19
+87,87,14:45 IB3827,,Gran Canaria (LPA),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Landed 14:27,2021-04-19
+88,88,14:45 IB3979,,Tenerife (TFS),Iberia Express A320 (EC-LYE),Landed 14:25,2021-04-19
+89,89,14:50 IB3141,,Dusseldorf (DUS),Iberia A20N (EC-NDN),Landed 14:15,2021-04-19
+90,90,14:50 IB3853,,Lanzarote (ACE),Iberia Express A21N (EC-NIF),Landed 14:37,2021-04-19
+91,91,14:55 IB581,,La Palma (SPC),Iberia A20N (EC-NJU),Landed 14:41,2021-04-19
+92,92,14:55 IB1331,,Barcelona (BCN),Iberia A20N (EC-MXY),Landed 14:46,2021-04-19
+93,93,14:55 IB3067,,Berlin (BER),Iberia A320 (EC-LXQ),Landed 14:19,2021-04-19
+94,94,14:55 IB3919,,Palma de Mallorca (PMI),Iberia Express A320 (EC-JFG),Landed 14:28,2021-04-19
+95,95,14:55 IB8847,,Pamplona (PNA),Iberia Regional CRJX (EC-MTZ),Landed 15:23,2021-04-19
+96,96,14:55 IB8919,,Almeria (LEI),Iberia Regional CRJX (EC-LJT),Landed 14:32,2021-04-19
+97,97,15:00 IB3191,,Munich (MUC),Iberia A319 (EC-JEI),Landed 14:25,2021-04-19
+98,98,15:00 IB8551,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-19
+99,99,15:00 IB8707,,Frankfurt (FRA),Iberia Regional CRJX (EC-MSL),Landed 14:34,2021-04-19
+100,100,15:00 IB8757,,Bologna (BLQ),Iberia Regional CRJX (EC-MSB),Landed 14:43,2021-04-19
+101,101,15:10 IB6314,,San Jose (SJO),Iberia A332 (EC-MNK),Landed 14:45,2021-04-19
+102,102,15:15 IB6454,,Quito (UIO),Iberia A359 (EC-NDR),Landed 15:01,2021-04-19
+103,103,16:25 IB3417,,Paris (ORY),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 16:00,2021-04-19
+104,104,16:30 AM21,,Mexico City (MEX),Aeromexico B789 (XA-ADD),Landed 15:45,2021-04-19
+105,105,16:40 TK1859,,Istanbul (IST),Turkish Airlines A21N (TC-LSC),Landed 16:55,2021-04-19
+106,106,16:45 SN3727,,Brussels (BRU),Brussels Airlines A319 (OO-SSB),Landed 16:15,2021-04-19
+107,107,16:55 AF1800,,Paris (CDG),Air France A319 (F-GRXC),Landed 16:40,2021-04-19
+108,108,16:55 AZ240,,Rome (FCO),Alitalia 32S,Unknown,2021-04-19
+109,109,17:55 IB3937,,Tenerife (TFN),Iberia Express A320 (EC-MUK),Landed 17:35,2021-04-19
+110,110,18:05 IB3823,,Gran Canaria (LPA),Iberia Express A320 (EC-LUS),Landed 17:41,2021-04-19
+111,111,18:10 UX6066,,Palma de Mallorca (PMI),Air Europa B738 (EC-MPG),Landed 17:52,2021-04-19
+112,112,18:20 IB1655,,Barcelona (BCN),Iberia A20N (EC-NER),Landed 18:06,2021-04-19
+113,113,18:45 IB449,,Bilbao (BIO),Iberia A20N (EC-MXY),Landed 18:29,2021-04-19
+114,114,18:50 IB3803,,Ibiza (IBZ),Iberia Express A21N (EC-NIF),Landed 18:30,2021-04-19
+115,115,18:50 IB8555,,Bordeaux (BOD),Iberia CRK,Unknown,2021-04-19
+116,116,18:50 IB8877,,Valencia (VLC),Iberia Regional CRJX (EC-MRI),Landed 18:37,2021-04-19
+117,117,18:50 IB8969,,Santander (SDR),Iberia Regional CRJX (EC-MSB),Landed 18:25,2021-04-19
+118,118,18:55,IB3059,Copenhagen (CPH),Iberia A320 (EC-MCS),Landed 18:33,2021-04-19
+119,119,18:55 IB8741,,Toulouse (TLS),Iberia Regional CRJX (EC-MSL),Landed 18:35,2021-04-19
+120,120,18:55,IB8775,Lisbon (LIS),Iberia Regional CRJX (EC-MJP),Landed 18:39,2021-04-19
+121,121,18:55,IB8997,Seville (SVQ),Iberia Regional CRJX (EC-MTO),Landed 18:49,2021-04-19
+122,122,19:00,IB523,A Coruna (LCG),Iberia A20N (EC-NJY),Landed 18:41,2021-04-19
+123,123,19:00,IB535,Vigo (VGO),Iberia (Oneworld Livery) A319 (EC-KHM),Unknown,2021-04-19
+124,124,19:00 IB8665,,Porto (OPO),Iberia Regional CRJX (EC-LJT),Landed 18:38,2021-04-19
+125,125,19:00,UX9076,Lanzarote (ACE),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 18:43,2021-04-19
+126,126,19:05,IB3925,Palma de Mallorca (PMI),Iberia Express A21N (EC-NGP),Landed 19:00,2021-04-19
+127,127,19:10 IB8701,,Bordeaux (BOD),Iberia Regrional CRJX (EC-MLC),Landed 18:52,2021-04-19
+128,128,19:25 LG3837,,Luxembourg (LUX),Luxair B737 (LX-LBR),Landed 18:55,2021-04-19
+129,129,19:30 WT154,,Casablanca (CMN),Swiftair AT4,Unknown,2021-04-19
+130,130,19:40 FR5447,,Marseille (MRS),Ryanair B738 (EI-DLF),Landed 19:16,2021-04-19
+131,131,19:50 IB8721,,Lyon (LYS),Iberia Regional CRJX (EC-MVZ),Landed 19:35,2021-04-19
+132,132,20:00,IB1835,Barcelona (BCN),Iberia A20N (EC-NCM),Landed 19:38,2021-04-19
+133,133,20:25 FR1063,,Warsaw (WMI),Ryanair B738 (SP-RKR),Landed 19:50,2021-04-19
+134,134,20:30,UX1016,London (LGW),Air Europa B738 (EC-MUZ),Landed 19:54,2021-04-19
+135,135,20:35,UX1062,Milan (MXP),Air Europa B738 (EC-MVY),Landed 20:08,2021-04-19
+136,136,21:00,UX1048,Rome (FCO),Air Europa B738 (EC-MXM),Landed 20:28,2021-04-19
+137,137,21:00,UX1672,Zurich (ZRH),Air Europa B738 (EC-LYR),Landed 20:23,2021-04-19
+138,138,21:05 IB8295,,Melilla (MLN),Iberia Regional AT76 (EC-LRH),Landed 20:37,2021-04-19
+139,139,21:10,TP1014,Lisbon (LIS),TAP Express AT76 (CS-DJF),Landed 21:10,2021-04-19
+140,140,21:20,IB3445,Paris (ORY),Iberia A321 (EC-HUI),Landed 20:54,2021-04-19
+141,141,21:20,UX1174,Brussels (BRU),Air Europa B738 (EC-LVR),Landed 20:40,2021-04-19
+142,142,21:20,UX4060,Valencia (VLC),Air Europa Express E195 (EC-LLR),Landed 21:01,2021-04-19
+143,143,21:25,IB3493,Geneva (GVA),Iberia A20N (EC-NDN),Landed 20:56,2021-04-19
+144,144,21:40,UX1094,Amsterdam (AMS),Air Europa B738 (EC-IDT),Landed 21:07,2021-04-19
+145,145,21:40,UX5038,Malaga (AGP),Air Europa Express AT75 (EC-MZJ),Landed 21:23,2021-04-19
+146,146,21:40 UX9117,,Tenerife (TFN),Air Europa B738 (EC-MJU),Landed 21:14,2021-04-19
+147,147,21:45 UX9165,,Gran Canaria (LPA),Air Europa B738 (EC-LTM),Landed 21:32,2021-04-19
+148,148,21:50,IB3477,Zurich (ZRH),Iberia A319 (EC-JAZ),Landed 21:33,2021-04-19
+149,149,21:50 UX1304,,Tel Aviv (TLV),Air Europa B738 (EC-LQX),Landed 21:24,2021-04-19
+150,150,21:55,UX1506,Frankfurt (FRA),Air Europa Express E195 (EC-LKM),Landed 21:27,2021-04-19
+151,151,21:55 UX7238,,A Coruna (LCG),Air Europa B738 (EC-IDA),Landed 21:34,2021-04-19
+152,152,21:55,UX7319,Vigo (VGO),Air Europa Express E195 (EC-LIN),Landed 21:48,2021-04-19
+153,153,22:05 IB3063,,Amsterdam (AMS),Iberia A320 (EC-LXQ),Landed 21:30,2021-04-19
+154,154,22:05 IB8695,,Brussels (BRU),Iberia Regional CRJX (EC-LPN),Landed 21:42,2021-04-19
+155,155,22:05 UX4050,,Alicante (ALC),Air Europa Express AT75 (EC-MSN),Landed 21:42,2021-04-19
+156,156,22:05,UX7708,Barcelona (BCN),Air Europa B788 (EC-MMY),Landed 21:30,2021-04-19
+157,157,22:10 IB3255,,Milan (LIN),Iberia A321 (EC-IJN),Landed 21:47,2021-04-19
+158,158,22:10 IB3335,,Florence (FLR),Iberia A319 (EC-JDL),Landed 21:36,2021-04-19
+159,159,22:10,IB3167,London (LHR),Iberia A359 (EC-NIS),Landed 21:39,2021-04-19
+160,160,22:10 UX1026,,Paris (ORY),Air Europa B738 (EC-MQP),Landed 21:41,2021-04-19
+161,161,22:10,UX1518,Munich (MUC),Air Europa B738 (EC-MKL),Landed 21:37,2021-04-19
+162,162,22:15 UX1142,,Porto (OPO),Air Europa Express E195 (EC-LFZ),Landed 21:43,2021-04-19
+163,163,22:15 UX1160,,Lisbon (LIS),Air Europa Express E195 (EC-LCQ),Landed 21:45,2021-04-19
+164,164,22:15,UX7160,Bilbao (BIO),Air Europa B738 (EC-LUT),Landed 21:36,2021-04-19
+165,165,22:25,IB3237,Rome (FCO),Iberia A20N (EC-NJU),Landed 21:53,2021-04-19
+166,166,22:30,IB3245,Venice (VCE),Iberia A20N (EC-MXU),Landed 21:50,2021-04-19
+167,167,22:30,IB3791,Dublin (DUB),Iberia Express A320 (EC-LYE),Landed 21:51,2021-04-19
+168,168,22:30,IB8937,Granada (GRX),Iberia Regional CRJX (EC-MSB),Landed 22:10,2021-04-19
+169,169,22:40,IB3905,Fuerteventura (FUE),Iberia Express A320 (EC-LVQ),Landed 22:12,2021-04-19
+170,170,22:45 IB577,,Santiago (SCQ),Iberia A20N (EC-MXY),Landed 22:28,2021-04-19
+171,171,22:45,IB8865,Alicante (ALC),Iberia Regional CRJX (EC-LJT),Landed 22:20,2021-04-19
+172,172,22:45 IB8885,,Asturias (OVD),Iberia Regional CRJX (EC-MJP),Landed 22:34,2021-04-19
+173,173,22:50,IB8909,Jerez (XRY),Iberia Regional CRJX (EC-MSL),Landed 22:25,2021-04-19
+174,174,22:50,IB8923,Almeria (LEI),Iberia Regional CRJX (EC-MJO),Landed 22:49,2021-04-19
+175,175,22:50,IB8951,Malaga (AGP),Iberia Regional CRJX (EC-MRI),Landed 22:19,2021-04-19
+176,176,22:55,IB3833,Gran Canaria (LPA),Iberia Express A21N (EC-NIA),Landed 22:43,2021-04-19
+177,177,22:55,IB3929,Tenerife (TFS),Iberia Express (Madrid te abraza Livery) A320 (EC-MUF),Unknown,2021-04-19
+178,178,22:55,IB3939,Tenerife (TFN),Iberia Express A320 (EC-JFG),Landed 22:31,2021-04-19
+179,179,22:55 WT105,,Palma de Mallorca (PMI),Swiftair ATF,Unknown,2021-04-19
+180,180,23:00,IB8851,Pamplona (PNA),Iberia Regional CRJX (EC-MVZ),Landed 22:33,2021-04-19
+181,181,23:10,AF1400,Paris (CDG),Air France A320 (F-GKXP),Landed 22:37,2021-04-19
+182,182,23:25,KL1707,Amsterdam (AMS),KLM B737 (PH-BGU),Landed 22:58,2021-04-19
+183,183,23:45 WT102,,Palma de Mallorca (PMI),Swiftair AT43 (EC-JBN),Landed 23:44,2021-04-19
