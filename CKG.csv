@@ -1,0 +1,1809 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:05 G52786,,Quzhou (JUZ),China Express A20N (B-30F5),Landed 00:29,2021-04-29
+1,1,00:05 JD5613,,Haikou (HAK),Capital Airlines (Guangdong Meizhou Pomelo Livery) A320 (B-6725),Landed 00:02,2021-04-29
+2,2,00:05 MU5433,,Shanghai (PVG),China Eastern Airlines A319 (B-6430),Landed 00:24,2021-04-29
+3,3,00:05 NS3242,,Shijiazhuang (SJW),Hebei Airlines B738 (B-1446),Landed 23:46,2021-04-29
+4,4,00:05 OQ2332,,Sanya (SYX),Chongqing Airlines A21N (B-30E8),Landed 23:52,2021-04-29
+5,5,00:10 MF8455,,Beijing (PKX),Xiamen Air B738 (B-5751),Landed 00:00,2021-04-29
+6,6,00:10 OQ2326,,Guangzhou (CAN),Chongqing Airlines A319 (B-6190),Landed 00:10,2021-04-29
+7,7,00:10 OQ2348,,Dali (DLU),Chongqing Airlines A319 (B-6247),Landed 23:59,2021-04-29
+8,8,00:10 OQ2368,,Wushan (WSK),Chongqing Airlines 319,Canceled,2021-04-29
+9,9,00:10,3U8850,Taiyuan (TYN),Sichuan Airlines A321 (B-8601),Landed 23:56,2021-04-29
+10,10,00:10 OQ2346,,Wenzhou (WNZ),Chongqing Airlines A21N (B-30E3),Landed 00:44,2021-04-29
+11,11,00:15,CA4542,Shanghai (SHA),Air China B789 (B-7879),Landed 23:51,2021-04-29
+12,12,00:15,CA4598,Changsha (CSX),Air China B738 (B-5682),Landed 23:56,2021-04-29
+13,13,00:15 GS7905,,Tianjin (TSN),Tianjin Airlines A332 (B-8659),Landed 23:58,2021-04-29
+14,14,00:15,G54142,Ordos (DSN),China Express Airlines A320 (B-306X),Landed 00:05,2021-04-29
+15,15,00:15 PN6292,,Xiamen (XMN),West Air A20N (B-306W),Landed 00:26,2021-04-29
+16,16,00:20,CA4358,Jieyang (SWA),Air China B738 (B-1416),Landed 00:13,2021-04-29
+17,17,00:20,G54178,Baotou (BAV),China Express Airlines CRJ9 (B-3297),Landed 00:31,2021-04-29
+18,18,00:20 JD5607,,Lijiang (LJG),Capital Airlines 319,Canceled,2021-04-29
+19,19,00:20 QR8352,,Doha (DOH),Qatar Airways B77W (A7-BEV),Landed 00:45,2021-04-29
+20,20,00:30 OQ2022,,Yangzhou (YTY),Chongqing Airlines A319 (B-6407),Landed 02:08,2021-04-29
+21,21,00:30 OQ2344,,Zhengzhou (CGO),Chongqing Airlines A20N (B-302L),Landed 00:20,2021-04-29
+22,22,00:30,SC4732,Shanghai (SHA),Shandong Airlines B738 (B-1441),Landed 00:27,2021-04-29
+23,23,00:30,3U8746,Guangzhou (CAN),Sichuan Airlines A321 (B-6920),Landed 01:08,2021-04-29
+24,24,00:35 CX52,,Hong Kong (HKG),Cathay Pacific 74Y,Unknown,2021-04-29
+25,25,00:35,G52744,Yiwu (YIW),China Express Airlines (Yang Nai Shijia Livery) A20N (B-320V),Landed 01:04,2021-04-29
+26,26,00:35,SC4800,Jinan (TNA),Shandong Airlines (DEEJ Livery) B738 (B-1932),Landed 00:15,2021-04-29
+27,27,00:40,CA4002,Tianjin (TSN),Air China B738 (B-1531),Landed 00:11,2021-04-29
+28,28,00:45,G52654,Yongzhou (LLF),China Express Airlines A320 (B-304T),Unknown,2021-04-29
+29,29,00:45,SC1156,Beijing (PEK),Shandong Airlines B738 (B-5490),Landed 00:50,2021-04-29
+30,30,00:45,TV9814,Lhasa (LXA),Tibet Airlines A319 (B-6436),Landed 00:19,2021-04-29
+31,31,00:45,3U8832,Beijing (PEK),Sichuan Airlines A321 (B-8438),Landed 00:16,2021-04-29
+32,32,00:50,G54442,Aksu (AKU),China Express Airlines A320 (B-8697),Landed 02:12,2021-04-29
+33,33,00:55 GS6596,,Haikou (HAK),Tianjin Airlines A333 (B-302D),Landed 00:49,2021-04-29
+34,34,00:55,G52814,Hohhot (HET),China Express Airlines A320 (B-307X),Unknown,2021-04-29
+35,35,00:55 G56063,,Hohhot (HET),China Express Airlines 320,Unknown,2021-04-29
+36,36,00:55 G56065,,Hohhot (HET),China Express Airlines 320,Unknown,2021-04-29
+37,37,00:55 G56064,,Hohhot (HET),China Express Airlines 320,Unknown,2021-04-29
+38,38,00:55 G56320,,Hohhot (HET),China Express Airlines 320,Unknown,2021-04-29
+39,39,00:55 HU7367,,Beijing (PEK),Hainan Airlines B738 (B-5520),Landed 00:47,2021-04-29
+40,40,00:55 OQ2338,,Huizhou (HUZ),Chongqing Airlines A320 (B-9976),Landed 01:01,2021-04-29
+41,41,01:00 CA4360,,Zhanjiang (ZHA),Air China B737 (B-5803),Landed 00:42,2021-04-29
+42,42,01:00 3U8544,,Nanjing (NKG),Sichuan Airlines A319 (B-6175),Landed 01:28,2021-04-29
+43,43,01:05 PN6388,,Korla (KRL),West Air A320 (B-8893),Landed 00:51,2021-04-29
+44,44,01:10 PN6284,,Wenzhou (WNZ),West Air A320 (B-9969),Landed 00:56,2021-04-29
+45,45,01:10 PN6366,,Dalian (DLC),West Air A320 (B-8421),Landed 00:54,2021-04-29
+46,46,01:15 CA4568,,Hohhot (HET),Air China 738,Unknown,2021-04-29
+47,47,01:15 G52838,,Meixian (MXZ),China Express Airlines (Courtesy Quzhou Livery) A320 (B-8695),Unknown,2021-04-29
+48,48,01:15 HU7557,,Shenzhen (SZX),Hainan Airlines B738 (B-5478),Landed 01:29,2021-04-29
+49,49,01:15 ZH9464,,Nanjing (NKG),Shenzhen Airlines B738 (B-5773),Landed 01:04,2021-04-29
+50,50,01:20 PN6260,,Nanjing (NKG),West Air A320 (B-8286),Landed 01:43,2021-04-29
+51,51,01:20 3U8012,,Lijiang (LJG),Sichuan Airlines A319 (B-6448),Landed 01:06,2021-04-29
+52,52,01:25 PN6254,,Guangzhou (CAN),West Air A20N (B-306U),Landed 02:40,2021-04-29
+53,53,01:25 PN6328,,Jinan (TNA),West Air A320 (B-8110),Landed 01:26,2021-04-29
+54,54,01:25 3U8180,,Nanchang (KHN),Sichuan Airlines A320 (B-8323),Landed 01:12,2021-04-29
+55,55,01:30 HU7406,,Zhuhai (ZUH),Hainan Airlines B738 (B-5540),Landed 01:50,2021-04-29
+56,56,01:35 PN6264,,Zhuhai (ZUH),West Air A320 (B-1898),Landed 02:52,2021-04-29
+57,57,01:40 PN6206,,Guangzhou (CAN),China West Air A321 (B-321S),Landed 01:45,2021-04-29
+58,58,01:40 PN6276,,Hohhot (HET),West Air A320 (B-8642),Landed 01:32,2021-04-29
+59,59,01:40 PN6350,,Shijiazhuang (SJW),West Air A320 (B-6790),Landed 01:20,2021-04-29
+60,60,01:40 SC4768,,Jinan (TNA),Shandong Airlines B738 (B-7566),Landed 01:18,2021-04-29
+61,61,01:40 3U8936,,Hangzhou (HGH),Sichuan Airlines A320 (B-6325),Landed 01:48,2021-04-29
+62,62,01:45 PN6406,,Ningbo (NGB),West Air (U-FLY Alliance Livery) A320 (B-1897),Landed 01:54,2021-04-29
+63,63,01:50 CZ457,,Guangzhou (CAN),China Southern Cargo B77L (B-2081),Landed 03:57,2021-04-29
+64,64,01:55 PN6230,,Shenzhen (SZX),West Air A320 (B-8102),Landed 01:40,2021-04-29
+65,65,01:55 PN6252,,Hefei (HFE),West Air (Happy Valley Livery) A320 (B-9982),Landed 03:06,2021-04-29
+66,66,01:55 PN6256,,Nanchang (KHN),West Air A319 (B-6420),Landed 01:38,2021-04-29
+67,67,01:55 3U8232,,Qingdao (TAO),Sichuan Airlines A21N (B-300D),Landed 01:35,2021-04-29
+68,68,01:55 3U8830,,Beijing (PEK),Sichuan Airlines A320 (B-8499),Landed 01:57,2021-04-29
+69,69,02:00 HO1267,,Shanghai (SHA),Juneyao Air (Chinese Peony Livery) B789 (B-209R),Landed 02:01,2021-04-29
+70,70,02:05 9C6107,,Shanghai (PVG),Spring Airlines A320 (B-9920),Landed 02:04,2021-04-29
+71,71,02:40 CA1031,,Shanghai (PVG),Air China Cargo B77L (B-2094),Landed 02:20,2021-04-29
+72,72,02:50 CA1037,,Shanghai (PVG),Air China 77F,Unknown,2021-04-29
+73,73,07:00 O36905,,Hangzhou (HGH),SF Airlines 73F,Unknown,2021-04-29
+74,74,07:50 O36904,,Shenzhen (SZX),SF Airlines 737,Unknown,2021-04-29
+75,75,07:50 3U8279,,Kunming (KMG),Sichuan Airlines A320 (B-1887),Landed 07:26,2021-04-29
+76,76,08:05 9H8333,,Xi'an (XIY),Air Changan B738 (B-5116),Landed 07:23,2021-04-29
+77,77,08:10 SC4814,,Kunming (KMG),Shandong Airlines B738 (B-1226),Landed 07:51,2021-04-29
+78,78,08:35 9C8613,,Shenzhen (SZX),Spring Airlines A320 (B-8371),Landed 08:34,2021-04-29
+79,79,08:40 G54662,,Xingyi (ACX),China Express Airlines CRJ9 (B-3298),Landed 08:19,2021-04-29
+80,80,08:40 G56078,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+81,81,08:40 G56125,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+82,82,08:40 G56127,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+83,83,08:40 G56129,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+84,84,08:40 G56126,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+85,85,08:40 G56130,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+86,86,08:40 G56131,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+87,87,08:40 G56132,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+88,88,08:40 G56133,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+89,89,08:40 G56271,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+90,90,08:40 G56338,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+91,91,08:40 G56401,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+92,92,08:40 G56404,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+93,93,08:40 G56443,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+94,94,08:40 G56489,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+95,95,08:40 G56578,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+96,96,08:40 G56594,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+97,97,08:40 G56654,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+98,98,08:40 G56656,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+99,99,08:40 G56643,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+100,100,08:40 G56746,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+101,101,08:40 G56803,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+102,102,08:40 G56850,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-29
+103,103,08:45 G56817,,Jinghong (JHG),China Express Airlines 320,Unknown,2021-04-29
+104,104,08:45,3U8035,Jinghong (JHG),Sichuan Airlines A320 (B-8330),Landed 08:27,2021-04-29
+105,105,08:45,3U8513,Kunming (KMG),Sichuan Airlines A321 (B-8378),Landed 08:44,2021-04-29
+106,106,08:50,BK2921,Changsha (CSX),OKAir B739 (B-1581),Landed 15:51,2021-04-29
+107,107,08:50 G56554,,Nanchang (KHN),China Express Airlines 320,Unknown,2021-04-29
+108,108,08:50,ZH8809,Nanchang (KHN),Shenzhen Airlines B738 (B-1972),Landed 09:02,2021-04-29
+109,109,08:55 CZ6175,,Wuhan (WUH),China Southern Airlines B737 (B-5069),Landed 08:57,2021-04-29
+110,110,08:55 OQ2083,,Zhuhai (ZUH),Chongqing Airlines A319 (B-6190),Landed 08:55,2021-04-29
+111,111,08:55,ZH8515,Wuxi (WUX),Shenzhen Airlines B738 (B-1937),Landed 08:52,2021-04-29
+112,112,09:00 8L9817,,Lijiang (LJG),Lucky Air A320 (B-8446),Landed 08:41,2021-04-29
+113,113,09:05 JD5227,,Guangzhou (CAN),Capital Airlines A321 (B-300G),Landed 09:08,2021-04-29
+114,114,09:15,DR5331,Mangshi (LUM),Ruili Airlines B737 (B-5812),Landed 08:49,2021-04-29
+115,115,09:20 GX2035,,Yulin (UYN),GX Airlines E190 (B-3179),Landed 08:47,2021-04-29
+116,116,09:30 CF9008,,Changsha (CSX),China Postal Airlines 73F,Unknown,2021-04-29
+117,117,09:30 G56419,,Shenzhen (SZX),China Express Airlines 320,Unknown,2021-04-29
+118,118,09:30 HU7157,,Shenzhen (SZX),Hainan Airlines B789 (B-208T),Landed 09:14,2021-04-29
+119,119,09:30,MU2261,Xi'an (XIY),China Eastern Airlines A20N (B-308A),Landed 09:12,2021-04-29
+120,120,09:30,SC2263,Jinan (TNA),Shandong Airlines (DEEJ Livery) B738 (B-1931),Landed 09:00,2021-04-29
+121,121,09:30,3U3163,Hangzhou (HGH),Sichuan Airlines A319 (B-6453),Landed 10:00,2021-04-29
+122,122,09:35 G56309,,Kunming (KMG),China Express Airlines 320,Unknown,2021-04-29
+123,123,09:35 G56349,,Kunming (KMG),China Express Airlines 320,Unknown,2021-04-29
+124,124,09:35 MU2903,,Changzhou (CZX),China Eastern Airlines A320 (B-8018),Landed 10:07,2021-04-29
+125,125,09:35,MU5863,Kunming (KMG),China Eastern Airlines B738 (B-1256),Landed 09:42,2021-04-29
+126,126,09:35,ZH9421,Shenzhen (SZX),Shenzhen Airlines B739 (B-5102),Landed 09:34,2021-04-29
+127,127,09:40,MF8467,Xiamen (XMN),Xiamen Air B737 (B-5278),Landed 09:46,2021-04-29
+128,128,09:40 MF8611,,Quanzhou (JJN),Xiamen Air B738 (B-1550),Landed 09:49,2021-04-29
+129,129,09:40 MU9765,,Wuxi (WUX),China Eastern Airlines A321 (B-2292),Landed 09:40,2021-04-29
+130,130,09:45,CA1437,Beijing (PEK),Air China B77W (B-2033),Landed 09:22,2021-04-29
+131,131,09:45 OQ2356,,Guangzhou (CAN),Chongqing Airlines A20N (B-305M),Landed 09:58,2021-04-29
+132,132,09:50 CZ6797,,Nanning (NNG),China Southern Airlines B738 (B-5738),Landed 09:41,2021-04-29
+133,133,09:50 G56312,,Nanning (NNG),China Express Airlines 320,Unknown,2021-04-29
+134,134,09:50 G56480,,Haikou (HAK),China Express Airlines 320,Unknown,2021-04-29
+135,135,09:50 HU7171,,Haikou (HAK),Hainan Airlines B738 (B-1215),Landed 09:54,2021-04-29
+136,136,09:50,SC2199,Qingdao (TAO),Shandong Airlines B738 (B-5450),Landed 10:02,2021-04-29
+137,137,09:55 CA1759,,Hangzhou (HGH),Air China A320 (B-8743),Landed 10:14,2021-04-29
+138,138,09:55 CZ8817,,Beijing (PKX),China Southern Airlines A321 (B-6342),Landed 09:18,2021-04-29
+139,139,09:55 OQ2328,,Zhanjiang (ZHA),Chongqing Airlines (Flower Livery) A320 (B-6576),Landed 09:45,2021-04-29
+140,140,10:00 G56605,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-04-29
+141,141,10:00 HU7141,,Guangzhou (CAN),Hainan Airlines B738 (B-1373),Landed 09:52,2021-04-29
+142,142,10:00 MU6681,,Beijing (PKX),China Eastern Airlines A333 (B-8972),Landed 09:26,2021-04-29
+143,143,10:05 DR5303,,Wuxi (WUX),Ruili Airlines B738 (B-7865),Landed 11:10,2021-04-29
+144,144,10:10 CZ3463,,Guangzhou (CAN),China Southern Airlines A319 (B-6203),Landed 10:09,2021-04-29
+145,145,10:10 G56603,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-04-29
+146,146,10:15 CZ6227,,Sanya (SYX),China Southern Airlines A332 (B-6531),Landed 10:12,2021-04-29
+147,147,10:15 GY7177,,Huai'an (HIA),Colorful Guizhou Airlines A20N (B-321V),Landed 10:29,2021-04-29
+148,148,10:15 G56313,,Sanya (SYX),China Express Airlines 320,Unknown,2021-04-29
+149,149,10:20 JD5267,,Nanjing (NKG),Capital Airlines A319 (B-6180),Landed 10:00,2021-04-29
+150,150,10:20 9C8897,,Shanghai (SHA),Spring Airlines A21N (B-322P),Landed 10:21,2021-04-29
+151,151,10:25 G56484,,Fuzhou (FOC),China Express Airlines 320,Unknown,2021-04-29
+152,152,10:25 G56562,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-04-29
+153,153,10:25 MF8445,,Fuzhou (FOC),Xiamen Air B738 (B-1352),Landed 11:34,2021-04-29
+154,154,10:25 MU2925,,Nanjing (NKG),China Eastern Airlines A320 (B-6891),Landed 10:04,2021-04-29
+155,155,10:25 MU5483,,Hefei (HFE),China Eastern Airlines A320 (B-6559),Landed 10:16,2021-04-29
+156,156,10:30 CA8651,,Beijing (PKX),Air China B738 (B-5621),Landed 09:53,2021-04-29
+157,157,10:30 CZ3887,,Yiwu (YIW),China Southern Airlines B738 (B-5719),Landed 10:46,2021-04-29
+158,158,10:30 CZ6313,,Haikou (HAK),China Southern Airlines A320 (B-6975),Landed 10:19,2021-04-29
+159,159,10:35 CZ3465,,Shenzhen (SZX),China Southern Airlines A321 (B-6687),Landed 10:53,2021-04-29
+160,160,10:35 G56305,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-29
+161,161,10:35 G56311,,Shenzhen (SZX),China Express Airlines 320,Unknown,2021-04-29
+162,162,10:35 G56510,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-29
+163,163,10:35 G56492,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-29
+164,164,10:35 G56494,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-29
+165,165,10:35 G56534,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-29
+166,166,10:35 G56539,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-29
+167,167,10:35 G56557,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-29
+168,168,10:35 G56581,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-29
+169,169,10:35 G56586,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-29
+170,170,10:35 HO1245,,Shanghai (PVG),Juneyao Air A320 (B-6949),Landed 10:51,2021-04-29
+171,171,10:40 CA1679,,Tianjin (TSN),Air China B738 (B-1762),Landed 10:53,2021-04-29
+172,172,10:40 CA1953,,Wenzhou (WNZ),Air China A320 (B-6745),Landed 12:25,2021-04-29
+173,173,10:40 CZ6353,,Zhengzhou (CGO),China Southern Airlines (Hometown Henan Livery) B738 (B-1979),Landed 10:10,2021-04-29
+174,174,10:40 CZ8285,,Zhuhai (ZUH),China Southern Airlines B738 (B-5166),Landed 10:49,2021-04-29
+175,175,10:40 G56498,,Zhuhai (ZUH),China Express Airlines 320,Unknown,2021-04-29
+176,176,10:40 MU5421,,Shanghai (SHA),China Eastern Airlines A321 (B-2289),Landed 11:00,2021-04-29
+177,177,10:40 NX182,,Macau (MFM),Air Macau A20N (B-MCL),Landed 10:45,2021-04-29
+178,178,10:45 FU6507,,Fuzhou (FOC),Fuzhou Airlines B738 (B-1348),Landed 11:10,2021-04-29
+179,179,10:45 3U8775,,Hangzhou (HGH),Sichuan Airlines A332 (B-8962),Landed 10:58,2021-04-29
+180,180,10:50 CZ8917,,Beijing (PKX),China Southern Airlines 332,Canceled,2021-04-29
+181,181,10:50 HU7267,,Beijing (PEK),Hainan Airlines B738 (B-5852),Landed 10:17,2021-04-29
+182,182,10:50 MF8803,,Hangzhou (HGH),Xiamen Air B737 (B-5279),Landed 11:04,2021-04-29
+183,183,10:50 MU6683,,Beijing (PKX),China Eastern Airlines A20N (B-302H),Landed 10:26,2021-04-29
+184,184,10:50 3U8106,,Xining (XNN),Sichuan Airlines A320 (B-6325),Landed 10:37,2021-04-29
+185,185,10:55 CA1431,,Beijing (PEK),Air China A333 (B-8386),Landed 10:48,2021-04-29
+186,186,10:55 MF8582,,Shanghai (SHA),Xiamen Air B738 (B-5708),Landed 11:18,2021-04-29
+187,187,10:55 PN6256,,Nanchang (KHN),West Air (Happy Valley Livery) A320 (B-9982),Landed 11:02,2021-04-29
+188,188,10:55 3U8138,,Nanning (NNG),Sichuan Airlines A320 (B-1881),Landed 10:41,2021-04-29
+189,189,11:00 CA4488,,Yinchuan (INC),Air China (Gold Peony Livery) B738 (B-5390),Landed 10:32,2021-04-29
+190,190,11:00 G56486,,Yinchuan (INC),China Express Airlines 320,Unknown,2021-04-29
+191,191,11:00 OQ2014,,Huangyan (HYN),Chongqing Airlines A20N (B-305P),Landed 11:22,2021-04-29
+192,192,11:00 PN6216,,Qamdo (BPX),West Air A319 (B-6413),Landed 10:39,2021-04-29
+193,193,11:05 ZH9423,,Shenzhen (SZX),Shenzhen Airlines B739 (B-5103),Landed 11:25,2021-04-29
+194,194,11:10 CZ6307,,Sanya (SYX),China Southern Airlines A320 (B-8357),Landed 11:05,2021-04-29
+195,195,11:10 TV9904,,Qamdo (BPX),Tibet Airlines A319 (B-1008),Landed 10:56,2021-04-29
+196,196,11:20 CA4354,,Guangzhou (CAN),Air China B738 (B-5392),Landed 11:08,2021-04-29
+197,197,11:25 KN5717,,Beijing (PKX),China United Airlines (Qingyang Apple Manor) B738 (B-5471),Landed 11:12,2021-04-29
+198,198,11:30 PN6396,,Taiyuan (TYN),China West Air A321 (B-321R),Landed 11:16,2021-04-29
+199,199,11:40 G52634,,Qianjiang (JIQ),China Express Airlines AJ27 (B-650Q),Landed 11:23,2021-04-29
+200,200,11:40 G56247,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-04-29
+201,201,11:40 G56395,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-04-29
+202,202,11:40 G56475,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-04-29
+203,203,11:40 G56553,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-04-29
+204,204,11:40 G56720,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-04-29
+205,205,11:40 G56785,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-04-29
+206,206,11:40 CA8291,,Wuhan (WUH),Air China A320 (B-6607),Landed 11:45,2021-04-29
+207,207,11:40 9C6195,,Yangzhou (YTY),Spring Airlines A320 (B-6840),Landed 11:29,2021-04-29
+208,208,11:45 PN6236,,Nanjing (NKG),West Air A320 (B-8249),Landed 12:21,2021-04-29
+209,209,11:50,CA1943,Shanghai (PVG),Air China A332 (B-6132),Landed 12:10,2021-04-29
+210,210,11:50,EU2717,Beihai (BHY),Chengdu Airlines A320 (B-9985),Landed 11:31,2021-04-29
+211,211,11:50 G56392,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-29
+212,212,11:50,MF8403,Xiamen (XMN),Xiamen Air B738 (B-1371),Landed 11:42,2021-04-29
+213,213,11:55,CA1429,Beijing (PEK),Air China (Star Alliance livery) A332 (B-6091),Landed 11:38,2021-04-29
+214,214,11:55 CZ6579,,Tianjin (TSN),China Southern Airlines A320 (B-9912),Landed 11:51,2021-04-29
+215,215,11:55,FM9421,Shanghai (SHA),Shanghai Airlines B738 (B-5523),Landed 12:27,2021-04-29
+216,216,11:55 G56343,,Tianjin (TSN),China Express Airlines 320,Unknown,2021-04-29
+217,217,11:55 G56473,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-29
+218,218,11:55 G56628,,Sanya (SYX),China Express Airlines 320,Unknown,2021-04-29
+219,219,11:55,3U8048,Zhuhai (ZUH),Sichuan Airlines A321 (B-6810),Landed 12:10,2021-04-29
+220,220,11:55,3U8759,Sanya (SYX),Sichuan Airlines A21N (B-307D),Landed 12:01,2021-04-29
+221,221,12:00 OQ2002,,Beijing (PKX),Chongqing Airlines A20N (B-305N),Landed 11:41,2021-04-29
+222,222,12:05 CZ6403,,Shenyang (SHE),China Southern Airlines A20N (B-30A8),Landed 11:44,2021-04-29
+223,223,12:05,3U8793,Guangzhou (CAN),Sichuan Airlines A321 (B-6920),Landed 12:15,2021-04-29
+224,224,12:10 G56455,,Tianjin (TSN),China Express Airlines 320,Unknown,2021-04-29
+225,225,12:10,3U8461,Tianjin (TSN),Sichuan Airlines A321 (B-300A),Landed 11:57,2021-04-29
+226,226,12:15,CZ3405,Guangzhou (CAN),China Southern Airlines A320 (B-6739),Landed 12:04,2021-04-29
+227,227,12:15 GJ6017,,Qianjiang (JIQ),Loong Air (Picturesque Zhejiang Livery) A320 (B-8593),Unknown,2021-04-29
+228,228,12:15 PN6218,,Xuzhou (XUZ),West Air A320 (B-8110),Landed 12:41,2021-04-29
+229,229,12:15,3U8819,Zhongwei (ZHY),Sichuan Airlines A319 (B-2299),Landed 11:48,2021-04-29
+230,230,12:20 CZ6363,,Changchun (CGQ),China Southern Airlines A320 (B-6826),Landed 12:16,2021-04-29
+231,231,12:20,TV9834,Nyingchi (LZY),Tibet Airlines A319 (B-309V),Landed 12:30,2021-04-29
+232,232,12:25 GS6584,,Zhengzhou (CGO),Tianjin Airlines A333 (B-1045),Landed 12:27,2021-04-29
+233,233,12:25 PN6348,,Haikou (HAK),West Air (Pand-Auto Livery) A320 (B-9949),Landed 12:34,2021-04-29
+234,234,12:30,3U8006,Jieyang (SWA),Sichuan Airlines A320 (B-6621),Landed 12:43,2021-04-29
+235,235,12:30,3U8030,Nyingchi (LZY),Sichuan Airlines A319 (B-6185),Landed 12:19,2021-04-29
+236,236,12:40,CA4546,Nanjing (NKG),Air China B738 (B-1738),Landed 12:37,2021-04-29
+237,237,12:40 OQ2165,,Ningbo (NGB),Chongqing Airlines A20N (B-302J),Landed 11:54,2021-04-29
+238,238,12:40 PN6450,,Shigatse (RKZ),West Air A319 (B-6421),Landed 12:23,2021-04-29
+239,239,12:45 CZ6985,,Urumqi (URC),China Southern Airlines B737 (B-5241),Landed 12:10,2021-04-29
+240,240,12:45 G56157,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-29
+241,241,12:45 MU5493,,Shanghai (PVG),China Eastern Airlines A319 (B-6450),Landed 12:48,2021-04-29
+242,242,12:50 HU7371,,Haikou (HAK),Hainan Airlines B738 (B-5540),Landed 12:53,2021-04-29
+243,243,12:50 MU5425,,Shanghai (SHA),China Eastern Airlines A320 (B-8391),Landed 12:51,2021-04-29
+244,244,12:50 3U8782,,Shenzhen (SZX),Sichuan Airlines A321 (B-8601),Landed 12:37,2021-04-29
+245,245,12:55 3U8634,,Lhasa (LXA),Sichuan Airlines A319 (B-6175),Landed 12:57,2021-04-29
+246,246,13:00 CA4562,,Nanchang (KHN),Air China B738 (B-1419),Landed 12:45,2021-04-29
+247,247,13:00 CZ3475,,Zhengzhou (CGO),China Southern Airlines B737 (B-2916),Landed 12:36,2021-04-29
+248,248,13:00 CZ8911,,Beijing (PKX),China Southern Airlines A321 (B-6353),Landed 12:13,2021-04-29
+249,249,13:00 OQ2052,,Hohhot (HET),Chongqing Airlines A20N (B-302K),Landed 12:39,2021-04-29
+250,250,13:00 OQ2306,,Guangzhou (CAN),Chongqing Airlines A20N (B-302L),Landed 12:59,2021-04-29
+251,251,13:00 3U8984,,Ningbo (NGB),Sichuan Airlines A21N (B-309C),Landed 13:27,2021-04-29
+252,252,13:05 G56209,,Jinan (TNA),China Express Airlines 320,Unknown,2021-04-29
+253,253,13:05 G56221,,Jinan (TNA),China Express Airlines 320,Unknown,2021-04-29
+254,254,13:05 3U8198,,Hefei (HFE),Sichuan Airlines A21N (B-8599),Landed 13:01,2021-04-29
+255,255,13:05 3U8508,,Jinan (TNA),Sichuan Airlines A21N (B-8598),Landed 12:49,2021-04-29
+256,256,13:05 OQ2304,,Wenzhou (WNZ),Chongqing Airlines A319 (B-6407),Landed 13:23,2021-04-29
+257,257,13:15 MF8407,,Hangzhou (HGH),Xiamen Air B738 (B-7825),Landed 13:15,2021-04-29
+258,258,13:15 G56889,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-04-29
+259,259,13:20 MF8772,,Qingdao (TAO),Xiamen Air B738 (B-6818),Landed 13:03,2021-04-29
+260,260,13:20 PN6214,,Sanya (SYX),China West Air A321 (B-321S),Landed 13:11,2021-04-29
+261,261,13:20 SC4950,,Shanghai (SHA),Shandong Airlines B738 (B-7566),Landed 13:13,2021-04-29
+262,262,13:25 G56190,,Shanghai (PVG),China Express Airlines 320,Canceled,2021-04-29
+263,263,13:25 OQ2378,,Wuhan (WUH),Chongqing Airlines A319 (B-6183),Landed 13:19,2021-04-29
+264,264,13:35 CA4419,,Lhasa (LXA),Air China A332 (B-6072),Landed 13:38,2021-04-29
+265,265,13:35 CA4554,,Hangzhou (HGH),Air China B738 (B-1416),Landed 13:54,2021-04-29
+266,266,13:35 G56641,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-04-29
+267,267,13:35 G56770,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-04-29
+268,268,13:40 CA4320,,Guangzhou (CAN),Air China B789 (B-7879),Landed 13:29,2021-04-29
+269,269,13:40 G56258,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-04-29
+270,270,13:40 G56256,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-04-29
+271,271,13:45 G56380,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-29
+272,272,13:45 3U8749,,Beijing (PEK),Sichuan Airlines A320 (B-6323),Landed 13:34,2021-04-29
+273,273,13:50 CA4552,,Dali (DLU),Air China B737 (B-5220),Landed 13:25,2021-04-29
+274,274,13:50 CA4574,,Zhengzhou (CGO),Air China B738 (B-5582),Landed 13:30,2021-04-29
+275,275,13:50 CZ6949,,Urumqi (URC),China Southern Airlines B738 (B-5761),Landed 13:07,2021-04-29
+276,276,13:50 HU7339,,Sanya (SYX),Hainan Airlines (Hainan Free Trade Port Livery) B789 (B-1540),Unknown,2021-04-29
+277,277,13:55 G56391,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-29
+278,278,13:55 3U8950,,Wuxi (WUX),Sichuan Airlines A321 (B-6551),Landed 16:03,2021-04-29
+279,279,13:55 3U8972,,Shanghai (PVG),Sichuan Airlines A321 (B-8438),Landed 13:47,2021-04-29
+280,280,14:00 CA4344,,Shenzhen (SZX),Air China B789 (B-1469),Landed 13:51,2021-04-29
+281,281,14:00 CA4560,,Zhuhai (ZUH),Air China B737 (B-2613),Landed 13:56,2021-04-29
+282,282,14:00 G56170,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-29
+283,283,14:00 MU5427,,Shanghai (PVG),China Eastern Airlines A321 (B-9903),Landed 14:09,2021-04-29
+284,284,14:00 OQ2380,,Hangzhou (HGH),Chongqing Airlines A20N (B-307R),Landed 14:05,2021-04-29
+285,285,14:05 CA1445,,Beijing (PEK),Air China A332 (B-6131),Landed 13:41,2021-04-29
+286,286,14:05 G56382,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-29
+287,287,14:05 3U3164,,Daocheng (DCY),Sichuan Airlines A319 (B-6453),Landed 14:29,2021-04-29
+288,288,14:10 MU5865,,Zhaotong (ZAT),China Eastern Airlines B737 (B-5245),Landed 14:07,2021-04-29
+289,289,14:10 OQ2324,,Guangzhou (CAN),Chongqing Airlines A21N (B-30E3),Landed 13:59,2021-04-29
+290,290,14:15 CA4124,,Xiamen (XMN),Air China B738 (B-1976),Landed 14:16,2021-04-29
+291,291,14:15 G56618,,Fuzhou (FOC),China Express Airlines 320,Unknown,2021-04-29
+292,292,14:15 MF8613,,Fuzhou (FOC),Xiamen Air B738 (B-6889),Landed 15:33,2021-04-29
+293,293,14:15 OQ2342,,Shangri-La (DIG),Chongqing Airlines A319 (B-6246),Landed 14:03,2021-04-29
+294,294,14:20,MF8265,Quanzhou (JJN),Xiamen Air B738 (B-5595),Landed 14:50,2021-04-29
+295,295,14:20,SC4781,Qingdao (TAO),Shandong Airlines B738 (B-20EZ),Landed 14:00,2021-04-29
+296,296,14:25,CA4332,Hangzhou (HGH),Air China B738 (B-1531),Landed 14:29,2021-04-29
+297,297,14:30 QW6115,,Luoyang (LYA),Qingdao Airlines A320 (B-1693),Landed 14:01,2021-04-29
+298,298,14:30,3U8514,Lanzhou (LHW),Sichuan Airlines A321 (B-8378),Landed 14:11,2021-04-29
+299,299,14:35,CA4340,Nanjing (NKG),Air China B737 (B-5297),Landed 14:55,2021-04-29
+300,300,14:35,CA4544,Shanghai (SHA),Air China B789 (B-1368),Landed 14:19,2021-04-29
+301,301,14:40 CZ8537,,Zhengzhou (CGO),China Southern Airlines B738 (B-5745),Landed 14:25,2021-04-29
+302,302,14:40 HU7457,,Shenzhen (SZX),Hainan Airlines B789 (B-207V),Landed 14:24,2021-04-29
+303,303,14:45 OQ2302,,Beijing (PKX),Chongqing Airlines A21N (B-30E8),Landed 14:13,2021-04-29
+304,304,14:45,ZH9425,Shenzhen (SZX),Kunming Airlines B738 (B-5672),Landed 14:32,2021-04-29
+305,305,14:45,3U8125,Yantai (YNT),Sichuan Airlines A321 (B-1890),Landed 14:35,2021-04-29
+306,306,14:50,HO1053,Shanghai (PVG),Juneyao Air A20N (B-321A),Landed 14:59,2021-04-29
+307,307,14:50 OQ2084,,Daocheng (DCY),Chongqing Airlines A319 (B-6187),Landed 14:23,2021-04-29
+308,308,14:55,CA4130,Beijing (PEK),Air China B738 (B-2672),Landed 15:04,2021-04-29
+309,309,14:55 HU7472,,Wenzhou (WNZ),Hainan Airlines B738 (B-1501),Landed 15:48,2021-04-29
+310,310,15:00,DR5358,Lancang (JMJ),Ruili Airlines B737 (B-5812),Landed 15:05,2021-04-29
+311,311,15:00 GX8891,,Nanning (NNG),GX Airlines E190 (B-3179),Landed 14:48,2021-04-29
+312,312,15:00,G52782,Tianshui (THQ),China Express Airlines CRJ9 (B-3229),Landed 14:38,2021-04-29
+313,313,15:00 G56034,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-29
+314,314,15:00 G56039,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-29
+315,315,15:00 G56040,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-29
+316,316,15:00 G56187,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-29
+317,317,15:00 G56191,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-29
+318,318,15:00 G56246,,Lancang (JMJ),China Express Airlines 320,Unknown,2021-04-29
+319,319,15:00 G56468,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-29
+320,320,15:00 OQ2308,,Shanghai (PVG),Chongqing Airlines A320 (B-1827),Landed 14:53,2021-04-29
+321,321,15:10 G56488,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-04-29
+322,322,15:10 HU7341,,Guangzhou (CAN),Hainan Airlines (Blue & White Lange Livery) B789 (B-6969),Landed 14:44,2021-04-29
+323,323,15:10,3U8594,Changzhou (CZX),Sichuan Airlines A320 (B-1887),Landed 19:32,2021-04-29
+324,324,15:15 GS6590,,Hangzhou (HGH),Tianjin Airlines A320 (B-8069),Landed 15:22,2021-04-29
+325,325,15:15,MU5429,Shanghai (SHA),China Eastern Airlines A321 (B-1680),Landed 15:11,2021-04-29
+326,326,15:20,G52720,Changzhi (CIH),China Express Airlines A20N (B-320P),Landed 15:30,2021-04-29
+327,327,15:20,G52768,Liuzhou (LZH),China Express Airlines A320 (B-307T),Landed 15:11,2021-04-29
+328,328,15:20 G56198,,Korla (KRL),China Express Airlines 320,Canceled,2021-04-29
+329,329,15:20 G56205,,Korla (KRL),China Express Airlines 320,Canceled,2021-04-29
+330,330,15:20 G56242,,Korla (KRL),China Express Airlines 320,Canceled,2021-04-29
+331,331,15:20 G56243,,Korla (KRL),China Express Airlines 320,Canceled,2021-04-29
+332,332,15:20 G56286,,Korla (KRL),China Express Airlines 320,Canceled,2021-04-29
+333,333,15:20 G56394,,Korla (KRL),China Express Airlines 320,Canceled,2021-04-29
+334,334,15:20 G56393,,Korla (KRL),China Express Airlines 320,Canceled,2021-04-29
+335,335,15:20 G56606,,Liuzhou (LZH),China Express Airlines 320,Unknown,2021-04-29
+336,336,15:25,CZ3455,Shenzhen (SZX),China Southern Airlines A321 (B-6379),Landed 17:01,2021-04-29
+337,337,15:25 PN6444,,Nanning (NNG),West Air A320 (B-1629),Landed 15:17,2021-04-29
+338,338,15:30 GT1067,,Zhengzhou (CGO),Air Guilin (Guilin Rice Noodles - 桂林米粉 Livery) A320 (B-1039),Landed 15:13,2021-04-29
+339,339,15:30 PN6306,,Jieyang (SWA),West Air A320 (B-8422),Landed 15:37,2021-04-29
+340,340,15:35 3U8036,,Yangzhou (YTY),Sichuan Airlines A320 (B-8330),Landed 20:08,2021-04-29
+341,341,15:45 HU7412,,Xiamen (XMN),Hainan Airlines B738 (B-5520),Landed 16:23,2021-04-29
+342,342,15:45 ZH8671,,Nantong (NTG),Shenzhen Airlines A20N (B-30CL),Landed 17:16,2021-04-29
+343,343,16:00 CA4596,,Shanghai (PVG),Air China B738 (B-7181),Landed 15:41,2021-04-29
+344,344,16:00 CZ3425,,Guangzhou (CAN),China Southern Airlines A332 (B-6515),Landed 15:53,2021-04-29
+345,345,16:00 CZ6291,,Wuhan (WUH),China Southern Airlines B737 (B-5069),Landed 15:38,2021-04-29
+346,346,16:00 PN6438,,Shanghai (PVG),West Air (Pand-Auto Livery) A320 (B-9949),Landed 20:30,2021-04-29
+347,347,16:05 CA4138,,Beijing (PEK),Air China B738 (B-5622),Landed 15:35,2021-04-29
+348,348,16:05 CA4498,,Dali (DLU),Air China B737 (B-5803),Landed 16:07,2021-04-29
+349,349,16:05 CZ8815,,Beijing (PKX),China Southern Airlines A321 (B-8677),Landed 15:24,2021-04-29
+350,350,16:05 G56524,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-29
+351,351,16:05 MU2737,,Nanjing (NKG),China Eastern Airlines A320 (B-6639),Landed 15:49,2021-04-29
+352,352,16:10 PN6220,,Wuhan (WUH),China West Air A321 (B-321T),Landed 16:09,2021-04-29
+353,353,16:15 CZ3479,,Zhengzhou (CGO),China Southern Airlines B738 (B-2696),Landed 16:03,2021-04-29
+354,354,16:15 CZ6345,,Harbin (HRB),China Southern Airlines A320 (B-6289),Landed 15:44,2021-04-29
+355,355,16:15 G56767,,Harbin (HRB),China Express Airlines 320,Unknown,2021-04-29
+356,356,16:15 QW9831,,Qianjiang (JIQ),Qingdao Airlines A320 (B-8586),Landed 15:58,2021-04-29
+357,357,16:20 G56526,,Xiamen (XMN),China Express Airlines 320,Unknown,2021-04-29
+358,358,16:20 MF8491,,Xiamen (XMN),Xiamen Air B738 (B-5382),Landed 16:50,2021-04-29
+359,359,16:20 MU2785,,Changzhou (CZX),China Eastern Airlines A320 (B-6796),Landed 16:58,2021-04-29
+360,360,16:25 MU9775,,Wuxi (WUX),China Eastern Airlines A320 (B-6872),Landed 18:52,2021-04-29
+361,361,16:25 9C8867,,Shanghai (PVG),Spring Airlines A320 (B-1896),Landed 16:29,2021-04-29
+362,362,16:30 HU7257,,Shenzhen (SZX),Hainan Airlines B789 (B-208T),Landed 16:54,2021-04-29
+363,363,16:35 FM9419,,Shanghai (SHA),Shanghai Airlines B738 (B-5549),Unknown,2021-04-29
+364,364,16:35 3U8362,,Changsha (CSX),Sichuan Airlines A21N (B-305S),Landed 18:27,2021-04-29
+365,365,16:35 G56873,,Changsha (CSX),China Express Airlines 320,Unknown,2021-04-29
+366,366,16:40 PN6412,,Nanchang (KHN),West Air (Happy Valley Livery) A320 (B-9982),Landed 16:31,2021-04-29
+367,367,16:45 MU2395,,Ningbo (NGB),China Eastern Airlines A320 (B-6001),Landed 18:29,2021-04-29
+368,368,16:50 G54862,,Lyuliang (LLV),China Express A20N (B-30F5),Unknown,2021-04-29
+369,369,16:55 NS8035,,Beijing (PKX),Hebei Airlines B738 (B-1171),Landed 16:52,2021-04-29
+370,370,16:55 SC4838,,Qingdao (TAO),Shandong Airlines B738 (B-1441),Landed 16:48,2021-04-29
+371,371,17:00 CA1439,,Beijing (PEK),Air China B789 (B-1431),Landed 16:47,2021-04-29
+372,372,17:00 G56457,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-29
+373,373,17:00 G56568,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-29
+374,374,17:00 G56722,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-04-29
+375,375,17:00 HO1249,,Shanghai (PVG),Juneyao Air A320 (B-6640),Landed 17:08,2021-04-29
+376,376,17:00 MF8468,,Lhasa (LXA),Xiamen Air B737 (B-5278),Unknown,2021-04-29
+377,377,17:00 OQ2048,,Nanchang (KHN),Chongqing Airlines (Flower Livery) A320 (B-6576),Landed 16:59,2021-04-29
+378,378,17:00 OQ2374,,Jinghong (JHG),Chongqing Airlines A319 (B-6191),Landed 18:01,2021-04-29
+379,379,17:05 BK3122,,Quanzhou (JJN),OKAir B739 (B-1581),Landed 23:30,2021-04-29
+380,380,17:05 MF8804,,Xichang (XIC),Xiamen Air B737 (B-5279),Landed 16:44,2021-04-29
+381,381,17:05 OQ2152,,Wuhai (WUA),Chongqing Airlines A20N (B-305Q),Landed 16:38,2021-04-29
+382,382,17:10 CA4364,,Harbin (HRB),Air China B738 (B-6497),Landed 16:46,2021-04-29
+383,383,17:10 OQ2318,,Guangzhou (CAN),Chongqing Airlines A21N (B-30EL),Landed 17:14,2021-04-29
+384,384,17:10,SC4990,Zhuhai (ZUH),Shandong Airlines B738 (B-5450),Landed 17:10,2021-04-29
+385,385,17:15,CA4526,Changchun (CGQ),Air China B738 (B-5329),Landed 17:03,2021-04-29
+386,386,17:20,G54902,Nanyang (NNY),China Express Airlines AJ27 (B-650P),Landed 18:47,2021-04-29
+387,387,17:20 OQ2364,,Linyi (LYI),Chongqing Airlines A20N (B-307S),Landed 17:58,2021-04-29
+388,388,17:25 CZ3464,,Lhasa (LXA),China Southern Airlines A319 (B-6203),Landed 17:18,2021-04-29
+389,389,17:25 CZ6404,,Kunming (KMG),China Southern Airlines A20N (B-30A8),Landed 17:19,2021-04-29
+390,390,17:25 G56607,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-04-29
+391,391,17:30,MF8390,Shenzhen (SZX),Xiamen Air B738 (B-1708),Landed 18:36,2021-04-29
+392,392,17:30,3U8156,Wuhan (WUH),Sichuan Airlines A321 (B-1057),Landed 17:12,2021-04-29
+393,393,17:40,HO1247,Shanghai (PVG),Juneyao Air (Chinese Silk Ribbon Livery) B789 (B-208A),Landed 17:33,2021-04-29
+394,394,17:40 MU6381,,Xinyang (XAI),China Eastern Airlines A20N (B-30DR),Unknown,2021-04-29
+395,395,17:40,SC4613,Jinan (TNA),Shandong Airlines (DEEJ Livery) B738 (B-1931),Landed 17:21,2021-04-29
+396,396,17:45,G54636,Rizhao (RIZ),China Express Airlines (Yang Nai Shijia Livery) A20N (B-320V),Unknown,2021-04-29
+397,397,17:45,SC8879,Hefei (HFE),Shandong Airlines B738 (B-5118),Landed 20:02,2021-04-29
+398,398,17:45,3U8794,Yinchuan (INC),Sichuan Airlines A321 (B-6920),Landed 17:58,2021-04-29
+399,399,17:50,FM9423,Shanghai (SHA),Shanghai Airlines B738 (B-5610),Landed 18:11,2021-04-29
+400,400,17:50 GS7432,,Changsha (CSX),Tianjin Airlines A333 (B-1045),Landed 18:09,2021-04-29
+401,401,17:50 9C8752,,Ji'an (JGS),Spring Airlines A20N (B-30D7),Landed 18:18,2021-04-29
+402,402,17:55 OQ2190,,Liping (HZH),Chongqing Airlines A319 (B-6248),Landed 19:00,2021-04-29
+403,403,18:00,CA1411,Beijing (PEK),Air China A333 (B-5906),Landed 18:40,2021-04-29
+404,404,18:00,CZ3259,Beijing (PKX),China Southern Airlines A21N (B-306J),Landed 17:23,2021-04-29
+405,405,18:05 MU5494,,Baise (AEB),China Eastern Airlines A319 (B-6450),Landed 17:46,2021-04-29
+406,406,18:10,CA4156,Urumqi (URC),Air China B738 (B-5583),Landed 17:27,2021-04-29
+407,407,18:10 G56727,,Urumqi (URC),China Express Airlines 320,Unknown,2021-04-29
+408,408,18:10 MU5253,,Zhengzhou (CGO),China Eastern Airlines A321 (B-8648),Landed 18:16,2021-04-29
+409,409,18:10 PN6248,,Hefei (HFE),West Air A320 (B-8642),Landed 20:10,2021-04-29
+410,410,18:10,3U8462,Beihai (BHY),Sichuan Airlines A321 (B-300A),Landed 17:49,2021-04-29
+411,411,18:20,CA4580,Haikou (HAK),Air China B738 (B-2657),Landed 18:25,2021-04-29
+412,412,18:20 G56427,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-04-29
+413,413,18:20,MF8415,Hangzhou (HGH),Xiamen Air (SkyTeam Livery) B738 (B-5302),Landed 19:49,2021-04-29
+414,414,18:20 3U8176,,-,Sichuan Airlines A319 (B-6175),Landed 17:54,2021-04-29
+415,415,18:30 G56792,,Beijing (PKX),China Express Airlines 320,Unknown,2021-04-29
+416,416,18:30 MU6685,,Beijing (PKX),China Eastern Airlines A333 (B-8972),Landed 18:13,2021-04-29
+417,417,18:35,3U8784,Shenzhen (SZX),Sichuan Airlines A321 (B-6810),Landed 18:49,2021-04-29
+418,418,18:35 9C8629,,Qianjiang (JIQ),Spring Airlines A320 (B-6705),Landed 18:22,2021-04-29
+419,419,18:40 CZ3476,,Beihai (BHY),China Southern Airlines B737 (B-2916),Landed 18:36,2021-04-29
+420,420,18:45,CZ3411,Guangzhou (CAN),China Southern Airlines B788 (B-2725),Landed 18:44,2021-04-29
+421,421,18:45 OQ2350,,Jieyang (SWA),Chongqing Airlines A320 (B-9976),Landed 19:05,2021-04-29
+422,422,18:45 PN6302,,Quanzhou (JJN),West Air A20N (B-302F),Landed 19:15,2021-04-29
+423,423,18:50,CA8337,Wenzhou (WNZ),Air China A320 (B-8493),Landed 19:25,2021-04-29
+424,424,18:50 G56071,,Wenzhou (WNZ),China Express Airlines 320,Unknown,2021-04-29
+425,425,18:50 HU7441,,Guangzhou (CAN),Hainan Airlines A332 (B-6519),Landed 18:38,2021-04-29
+426,426,18:50,3U8776,Lhasa (LXA),Sichuan Airlines A332 (B-8962),Landed 18:20,2021-04-29
+427,427,18:55 G56099,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-04-29
+428,428,18:55,HO1693,Nanjing (NKG),Juneyao Air A20N (B-30FQ),Landed 20:54,2021-04-29
+429,429,18:55 PN6232,,Fuyang (FUG),West Air A320 (B-6790),Landed 20:01,2021-04-29
+430,430,18:55 PN6406,,Ningbo (NGB),West Air A320 (B-9969),Landed 19:21,2021-04-29
+431,431,19:00,CA4164,Yuncheng (YCU),Air China B738 (B-5679),Canceled,2021-04-29
+432,432,19:00,CA4576,Aksu (AKU),Air China B738 (B-5682),Landed 18:45,2021-04-29
+433,433,19:00,FM9425,Shanghai (SHA),Shanghai Airlines B738 (B-1451),Landed 19:11,2021-04-29
+434,434,19:00 G56296,,Shanghai (SHA),China Express Airlines 320,Unknown,2021-04-29
+435,435,19:00 G56601,,Aksu (AKU),China Express Airlines 320,Unknown,2021-04-29
+436,436,19:00 G56667,,Shijiazhuang (SJW),China Express Airlines 320,Unknown,2021-04-29
+437,437,19:00 NS3242,,Shijiazhuang (SJW),Hebei Airlines B738 (B-1446),Landed 19:41,2021-04-29
+438,438,19:00 ZH9427,,Shenzhen (SZX),Shenzhen Airlines B738 (B-1935),Landed 18:55,2021-04-29
+439,439,19:05 CA1409,,Beijing (PEK),Air China B738 (B-2645),Landed 19:04,2021-04-29
+440,440,19:05 G56328,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-29
+441,441,19:05 OQ2390,,Hangzhou (HGH),Chongqing Airlines A20N (B-302J),Landed 20:52,2021-04-29
+442,442,19:10 GS7867,,Ankang (AKA),Tianjin Airlines A320 (B-1030),Landed 18:57,2021-04-29
+443,443,19:10 PN6268,,Qingdao (TAO),West Air A320 (B-8421),Landed 19:30,2021-04-29
+444,444,19:10 8L9582,,Xuzhou (XUZ),Lucky Air B738 (B-1588),Landed 19:43,2021-04-29
+445,445,19:15 KY8331,,Baoshan (BSD),Kunming Airlines B737 (B-1461),Landed 19:03,2021-04-29
+446,446,19:20 PN6204,,Sanya (SYX),China West Air A321 (B-321R),Landed 20:21,2021-04-29
+447,447,19:25 G56097,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-04-29
+448,448,19:25 HU7426,,Nanjing (NKG),Hainan Airlines B738 (B-5540),Landed 21:34,2021-04-29
+449,449,19:25 9C8995,,Shanghai (SHA),Spring Airlines A20N (B-308V),Landed 19:08,2021-04-29
+450,450,19:30 CZ3825,,Changsha (CSX),China Southern Airlines B738 (B-5740),Landed 19:28,2021-04-29
+451,451,19:35 CZ6950,,Kunming (KMG),China Southern Airlines B738 (B-5761),Landed 19:46,2021-04-29
+452,452,19:35 3U8750,,Jinghong (JHG),Sichuan Airlines A320 (B-6323),Landed 19:18,2021-04-29
+453,453,19:40 CZ6465,,Shenyang (SHE),China Southern Airlines A20N (B-8545),Landed 20:37,2021-04-29
+454,454,19:40 GS7917,,Tianjin (TSN),Tianjin Airlines A332 (B-8659),Landed 19:57,2021-04-29
+455,455,19:40 G56686,,Tianjin (TSN),China Express Airlines 320,Unknown,2021-04-29
+456,456,19:40 SC4716,,Qingdao (TAO),Shandong Airlines (DEEJ Livery) B738 (B-1932),Landed 19:47,2021-04-29
+457,457,19:40 G56872,,Shenyang (SHE),China Express Airlines 320,Unknown,2021-04-29
+458,458,19:45 OQ2316,,Ningbo (NGB),Chongqing Airlines A20N (B-305P),Landed 21:20,2021-04-29
+459,459,19:45 SC4724,,Xiamen (XMN),Shandong Airlines B738 (B-5725),Landed 20:06,2021-04-29
+460,460,19:50 OQ2026,,Dayong (DYG),Chongqing Airlines A319 (B-6190),Landed 22:17,2021-04-29
+461,461,19:55 G56093,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-04-29
+462,462,19:55 G56331,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-29
+463,463,19:55 HU7497,,Hangzhou (HGH),Hainan Airlines B738 (B-1795),Landed 21:32,2021-04-29
+464,464,19:55 MU2845,,Nanjing (NKG),China Eastern Airlines A20N (B-1292),Landed 22:05,2021-04-29
+465,465,20:00 CA1435,,Beijing (PEK),Air China B738 (B-1768),Landed 19:49,2021-04-29
+466,466,20:00 FM9427,,Shanghai (SHA),Shanghai Airlines B789 (B-208X),Landed 20:11,2021-04-29
+467,467,20:00 G54302,,Handan (HDG),China Express Airlines CRJ9 (B-3297),Landed 00:25,2021-04-29
+468,468,20:00 G56096,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-04-29
+469,469,20:00 G56273,,Handan (HDG),China Express Airlines 320,Unknown,2021-04-29
+470,470,20:00 G56301,,Shanghai (SHA),China Express Airlines 320,Unknown,2021-04-29
+471,471,20:00 9C8925,,Luoyang (LYA),Spring Airlines A320 (B-9965),Landed 19:38,2021-04-29
+472,472,20:05 GJ8533,,Wushan (WSK),Loong Air (Tide Xiaoshan Livery) A320 (B-1866),Landed 19:53,2021-04-29
+473,473,20:05 HU7167,,Beijing (PEK),Hainan Airlines A333 (B-1048),Landed 22:11,2021-04-29
+474,474,20:10 MU9982,,Huangshan City (TXN),China Eastern Airlines A320 (B-6832),Landed 23:31,2021-04-29
+475,475,20:10 SC4762,,Jinan (TNA),Shandong Airlines B738 (B-5727),Landed 20:02,2021-04-29
+476,476,20:15 CZ6798,,Urumqi (URC),China Southern Airlines B738 (B-5738),Landed 19:51,2021-04-29
+477,477,20:15 3U8190,,Nanning (NNG),Sichuan Airlines A21N (B-309C),Landed 19:56,2021-04-29
+478,478,20:20 G56094,,Wuxi (WUX),China Express Airlines 320,Unknown,2021-04-29
+479,479,20:20 MF8266,,Xining (XNN),Xiamen Air B738 (B-5595),Landed 20:43,2021-04-29
+480,480,20:20 MU9785,,Wuxi (WUX),China Eastern Airlines A320 (B-6637),Landed 00:07,2021-04-29
+481,481,20:20 PN6272,,Lhasa (LXA),West Air A319 (B-6412),Unknown,2021-04-29
+482,482,20:25,MF8449,Xiamen (XMN),Xiamen Air B738 (B-7197),Landed 21:02,2021-04-29
+483,483,20:25,MU2267,Xi'an (XIY),China Eastern (SkyTeam Livery A321 (B-8977),Landed 20:06,2021-04-29
+484,484,20:25 OQ2340,,Guangzhou (CAN),Chongqing Airlines A21N (B-30E3),Landed 20:15,2021-04-29
+485,485,20:35,CA4350,Guangzhou (CAN),Air China B789 (B-7879),Landed 20:16,2021-04-29
+486,486,20:35,GJ8691,Hangzhou (HGH),Loong Air A20N (B-320E),Landed 21:43,2021-04-29
+487,487,20:35,3U8032,Xiamen (XMN),Sichuan Airlines A320 (B-6325),Landed 21:28,2021-04-29
+488,488,20:45 HU7271,,Haikou (HAK),Hainan Airlines B738 (B-5375),Landed 20:43,2021-04-29
+489,489,20:50 OQ2322,,Nanjing (NKG),Chongqing Airlines A319 (B-6247),Landed 21:54,2021-04-29
+490,490,20:50 9C6153,,Shanghai (PVG),Spring Airlines A20N (B-306Z),Landed 20:47,2021-04-29
+491,491,20:50 OQ2012,,Wenzhou (WNZ),Chongqing Airlines A20N (B-302L),Landed 21:09,2021-04-29
+492,492,20:55,CA4016,Hefei (HFE),Air China B738 (B-1531),Landed 23:12,2021-04-29
+493,493,20:55 GS6582,,Hangzhou (HGH),Tianjin Airlines A332 (B-8776),Landed 21:59,2021-04-29
+494,494,20:55 G56059,,Jinan (TNA),China Express Airlines 320,Unknown,2021-04-29
+495,495,20:55 OQ2166,,Lhasa (LXA),Chongqing Airlines A319 (B-6183),Landed 21:15,2021-04-29
+496,496,20:55,3U8054,Jinan (TNA),Sichuan Airlines A21N (B-8598),Landed 20:45,2021-04-29
+497,497,21:00 CZ6308,,Urumqi (URC),China Southern Airlines A320 (B-8357),Landed 21:11,2021-04-29
+498,498,21:00,SC8792,Jinan (TNA),Shandong Airlines B738 (B-1730),Landed 21:26,2021-04-29
+499,499,21:05 MU6687,,Beijing (PKX),China Eastern Airlines A333 (B-1041),Landed 20:39,2021-04-29
+500,500,21:05,ZH9429,Shenzhen (SZX),Shenzhen Airlines A333 (B-303N),Landed 21:05,2021-04-29
+501,501,21:05,ZH9462,Nanjing (NKG),Shenzhen Airlines B738 (B-1993),Landed 22:14,2021-04-29
+502,502,21:10 CZ6292,,Lijiang (LJG),China Southern Airlines B737 (B-5069),Landed 21:01,2021-04-29
+503,503,21:10,HU7493,Shanghai (PVG),Hainan Airlines B738 (B-5855),Landed 21:24,2021-04-29
+504,504,21:10,ZH8811,Nanchang (KHN),Shenzhen Airlines B738 (B-1516),Landed 20:58,2021-04-29
+505,505,21:10,3U8636,Lhasa (LXA),Sichuan Airlines A319 (B-6185),Landed 20:50,2021-04-29
+506,506,21:15 PN6266,,Jinan (TNA),West Air A320 (B-9981),Landed 20:27,2021-04-29
+507,507,21:15,3U8510,Zhengzhou (CGO),Sichuan Airlines A321 (B-6957),Landed 20:52,2021-04-29
+508,508,21:15,3U8840,Nanjing (NKG),Sichuan Airlines A320 (B-6771),Landed 22:25,2021-04-29
+509,509,21:25,CA1449,Beijing (PEK),Air China (50° Anniversaire Chine-France Livery) B77W (B-2047),Landed 21:22,2021-04-29
+510,510,21:30 CZ3480,,Nanning (NNG),China Southern Airlines B738 (B-2696),Landed 21:22,2021-04-29
+511,511,21:30 MU2539,,Wuhan (WUH),China Eastern Airlines B738 (B-1537),Landed 21:13,2021-04-29
+512,512,21:30 PN6374,,Shanghai (PVG),China West Air A321 (B-321S),Landed 21:36,2021-04-29
+513,513,21:30,3U8010,Changsha (CSX),Sichuan Airlines A21N (B-305S),Landed 23:09,2021-04-29
+514,514,21:35 JD5695,,Hangzhou (HGH),Capital Airlines A321 (B-8189),Landed 22:46,2021-04-29
+515,515,21:35,SC8866,Taiyuan (TYN),Shandong Airlines B738 (B-1226),Landed 21:35,2021-04-29
+516,516,21:35 9C8993,,Shijiazhuang (SJW),Spring Airlines A320 (B-1893),Landed 21:23,2021-04-29
+517,517,21:40,3U8494,Xi'an (XIY),Sichuan Airlines A320 (B-8323),Landed 21:09,2021-04-29
+518,518,21:40,3U8974,Shanghai (PVG),Sichuan Airlines A21N (B-8599),Landed 21:50,2021-04-29
+519,519,21:45,ZH8517,Wuxi (WUX),Shenzhen Airlines B738 (B-5619),Landed 00:17,2021-04-29
+520,520,21:50 AQ1199,,Guangzhou (CAN),9 Air B738 (B-7113),Landed 22:18,2021-04-29
+521,521,21:50 CZ6649,,Zhengzhou (CGO),China Southern Airlines B738 (B-2697),Landed 21:44,2021-04-29
+522,522,21:50,MU2835,Nanjing (NKG),China Eastern Airlines A20N (B-306D),Landed 00:34,2021-04-29
+523,523,21:50,SC4795,Qingdao (TAO),Shandong Airlines B738 (B-20EZ),Landed 00:51,2021-04-29
+524,524,21:50,TV9936,Lhasa (LXA),Tibet Airlines A319 (B-1010),Landed 21:54,2021-04-29
+525,525,21:50 8L9857,,Kunming (KMG),Lucky Air A20N (B-307U),Landed 21:56,2021-04-29
+526,526,21:55,CA4342,Guangzhou (CAN),Air China (Gold Peony Livery) B738 (B-5390),Landed 21:38,2021-04-29
+527,527,21:55 CZ5870,,Korla (KRL),China Southern Airlines B737 (B-5236),Landed 21:30,2021-04-29
+528,528,21:55,CZ8813,Beijing (PKX),China Southern Airlines A333 (B-8358),Landed 21:32,2021-04-29
+529,529,21:55,G54506,Shiyan (WDS),China Express Airlines CRJ9 (B-3231),Landed 21:40,2021-04-29
+530,530,22:00 HU7409,,Changsha (CSX),Hainan Airlines B738 (B-5465),Landed 23:45,2021-04-29
+531,531,22:05 GS6596,,Haikou (HAK),Tianjin Airlines A320 (B-6903),Landed 22:09,2021-04-29
+532,532,22:05 GT1068,,Beihai (BHY),Air Guilin (Guilin Rice Noodles - 桂林米粉 Livery) A320 (B-1039),Landed 21:46,2021-04-29
+533,533,22:05 HU7241,,Guangzhou (CAN),Hainan Airlines B789 (B-207V),Landed 22:05,2021-04-29
+534,534,22:05,MF8028,Yinchuan (INC),Xiamen Air B738 (B-6849),Landed 22:14,2021-04-29
+535,535,22:05 MU6995,,Taiyuan (TYN),China Eastern Airlines B738 (B-6166),Landed 22:17,2021-04-29
+536,536,22:05 PN6392,,Lhasa (LXA),West Air A319 (B-6420),Landed 21:48,2021-04-29
+537,537,22:10 CA4006,,Jinghong (JHG),Air China B737 (B-5803),Landed 22:16,2021-04-29
+538,538,22:10 MU6419,,Hangzhou (HGH),China Eastern Airlines A320 (B-1019),Landed 01:04,2021-04-29
+539,539,22:10 3U8760,,Urumqi (URC),Sichuan Airlines A21N (B-307D),Landed 21:42,2021-04-29
+540,540,22:15 CA4144,,Beijing (PEK),Air China B738 (B-1956),Landed 21:51,2021-04-29
+541,541,22:15 CA4578,,Hangzhou (HGH),Air China B789 (B-1469),Landed 22:02,2021-04-29
+542,542,22:15 3U8028,,Wuxi (WUX),Sichuan Airlines A321 (B-6551),Landed 01:07,2021-04-29
+543,543,22:20 GS6516,,Sanya (SYX),Tianjin Airlines A320 (B-8069),Landed 22:37,2021-04-29
+544,544,22:20 MU5431,,Shanghai (SHA),China Eastern Airlines A321 (B-9903),Landed 22:08,2021-04-29
+545,545,22:20 MU5471,,Jinan (TNA),China Eastern Airlines A320 (B-2335),Landed 21:59,2021-04-29
+546,546,22:25 G54054,,Ordos (DSN),China Express Airlines CRJ9 (B-3141),Landed 22:21,2021-04-29
+547,547,22:25 NS3228,,Lanzhou (LHW),Hebei Airlines B738 (B-1171),Landed 22:35,2021-04-29
+548,548,22:25 G56836,,Hohhot (HET),China Express Airlines 320,Unknown,2021-04-29
+549,549,22:30 CA4360,,Zhanjiang (ZHA),Air China B738 (B-1419),Landed 22:21,2021-04-29
+550,550,22:30 CA4550,,Ningbo (NGB),Air China B738 (B-7180),Landed 23:20,2021-04-29
+551,551,22:30 ZH9373,,Nanning (NNG),Shenzhen Airlines B738 (B-1518),Landed 22:25,2021-04-29
+552,552,22:35 CA4558,,Nanjing (NKG),Air China B738 (B-5392),Landed 00:17,2021-04-29
+553,553,22:35 CA8674,,Beijing (PKX),Air China B737 (B-5220),Landed 22:29,2021-04-29
+554,554,22:35,3U8066,Haikou (HAK),Sichuan Airlines A321 (B-8438),Landed 22:27,2021-04-29
+555,555,22:40,CZ3439,Guangzhou (CAN),China Southern Airlines B738 (B-5598),Landed 22:32,2021-04-29
+556,556,22:45 PN6448,,Yinchuan (INC),West Air (Happy Valley Livery) A320 (B-9982),Landed 22:23,2021-04-29
+557,557,22:50 CZ3643,,Wuhan (WUH),China Southern Airlines B737 (B-5070),Landed 22:38,2021-04-29
+558,558,22:50,EU2000,Yichang (YIH),Chengdu Airlines AJ27 (B-605M),Unknown,2021-04-29
+559,559,22:50 OQ2310,,Shanghai (PVG),Chongqing Airlines A21N (B-30E8),Landed 22:50,2021-04-29
+560,560,22:55,CA4136,Beijing (PEK),Air China B738 (B-1417),Landed 22:45,2021-04-29
+561,561,22:55,CA4556,Shanghai (PVG),Air China B738 (B-1416),Landed 22:41,2021-04-29
+562,562,23:00 HU7264,,Fuzhou (FOC),Hainan Airlines B738 (B-1501),Landed 23:26,2021-04-29
+563,563,23:00 HU7349,,Sanya (SYX),Hainan Airlines (Hainan Free Trade Port Livery) B789 (B-1540),Landed 22:50,2021-04-29
+564,564,23:00 MF8622,,Tianjin (TSN),Xiamen Air B738 (B-1915),Diverted to XIY,2021-04-29
+565,565,23:00 MU5366,,Hefei (HFE),China Eastern Airlines A320 (B-6559),Landed 02:15,2021-04-29
+566,566,23:00 OQ2094,,Changzhou (CZX),Chongqing Airlines A20N (B-305N),Landed 01:33,2021-04-29
+567,567,23:00,3U8588,Changzhou (CZX),Sichuan Airlines A321 (B-6718),Landed 01:02,2021-04-29
+568,568,23:05 GS7905,,Tianjin (TSN),Tianjin Airlines A333 (B-302D),Landed 23:17,2021-04-29
+569,569,23:05 OQ2386,,Zhuhai (ZUH),Chongqing Airlines A319 (B-6187),Landed 22:50,2021-04-29
+570,570,23:05,3U8786,Shenzhen (SZX),Sichuan Airlines A320 (B-1887),Landed 01:16,2021-04-29
+571,571,23:10,MF8477,Hangzhou (HGH),Xiamen Air B738 (B-5307),Landed 22:54,2021-04-29
+572,572,23:10 MU6689,,Beijing (PKX),China Eastern Airlines A320 (B-8391),Landed 22:41,2021-04-29
+573,573,23:15 G56114,,Dalian (DLC),China Express Airlines 320,Unknown,2021-04-29
+574,574,23:15 G56780,,Dalian (DLC),China Express Airlines 320,Unknown,2021-04-29
+575,575,23:15,NS3249,Shijiazhuang (SJW),Hebei Airlines B738 (B-1560),Landed 00:48,2021-04-29
+576,576,23:15,ZH8805,Nanchang (KHN),Shenzhen Airlines B738 (B-1972),Landed 22:56,2021-04-29
+577,577,23:15,ZH9431,Shenzhen (SZX),Shenzhen Airlines B738 (B-5771),Landed 23:20,2021-04-29
+578,578,23:15,3U8008,Dalian (DLC),Sichuan Airlines A321 (B-8601),Landed 23:42,2021-04-29
+579,579,23:20,CZ3641,Shenzhen (SZX),China Southern Airlines A21N (B-303H),Landed 22:54,2021-04-29
+580,580,23:20,G52764,Shaoyang (WGN),China Express Airlines CRJ9 (B-3229),Landed 23:08,2021-04-29
+581,581,23:25,G54890,Wenshan (WNH),China Express Airlines CRJ9 (B-602P),Landed 23:00,2021-04-29
+582,582,23:25 HU7357,,Shenzhen (SZX),Hainan Airlines (Blue & White Lange Livery) B789 (B-6969),Landed 23:26,2021-04-29
+583,583,23:25,MF8419,Wuhan (WUH),Xiamen Air B738 (B-7826),Landed 00:25,2021-04-29
+584,584,23:25 OQ2136,,Wuhan (WUH),Chongqing Airlines A320 (B-6641),Landed 23:55,2021-04-29
+585,585,23:30,CA4382,Wuhan (WUH),Air China B738 (B-5583),Landed 23:18,2021-04-29
+586,586,23:30,G52736,Yangzhou (YTY),China Express Airlines AJ27 (B-650Q),Landed 23:36,2021-04-29
+587,587,23:30,G54366,Jingdezhen (JDZ),China Express Airlines CRJ9 (B-3363),Landed 23:56,2021-04-29
+588,588,23:30,TV9926,Dali (DLU),Tibet Airlines A319 (B-309V),Landed 23:12,2021-04-29
+589,589,23:35 PN6238,,Tianjin (TSN),China West Air A321 (B-321T),Landed 23:22,2021-04-29
+590,590,23:40,CA4346,Shenzhen (SZX),Air China B738 (B-1976),Landed 23:40,2021-04-29
+591,591,23:40,G52744,Yiwu (YIW),China Express Airlines A20N (B-320P),Landed 23:48,2021-04-29
+592,592,23:50,MU5450,Kunming (KMG),China Eastern Airlines A320 (B-1862),Landed 23:35,2021-04-29
+593,593,23:50 PN6292,,Xiamen (XMN),West Air A20N (B-8867),Landed 00:20,2021-04-29
+594,594,23:55,CA4020,Lianyungang (LYG),Air China B738 (B-5622),Landed 01:38,2021-04-29
+595,595,23:55 OQ2020,,Yancheng (YNZ),Chongqing Airlines A320 (B-6761),Landed 01:57,2021-04-29
+596,596,23:55 PN6274,,Zhengzhou (CGO),West Air A319 (B-6413),Landed 23:50,2021-04-29
+597,597,23:55 OQ2346,,Wenzhou (WNZ),Chongqing Airlines (Flower Livery) A320 (B-6576),Landed 00:55,2021-04-29
+0,0,00:05 CX3262,,Hong Kong (HKG),Cathay Pacific Cargo B748 (B-LJD),Landed 23:52,2021-04-30
+1,1,00:05 GS7665,,Xi'an (XIY),Tianjin Airlines A320 (B-1030),Landed 03:13,2021-04-30
+2,2,00:05 JD5613,,Haikou (HAK),Capital Airlines (Guangdong Meizhou Pomelo Livery) A320 (B-6725),Landed 00:01,2021-04-30
+3,3,00:05 MF8455,,Beijing (PKX),Xiamen Air B738 (B-5382),Landed 23:38,2021-04-30
+4,4,00:05 MU5433,,Shanghai (PVG),China Eastern Airlines A321 (B-6927),Landed 23:44,2021-04-30
+5,5,00:05 OQ2332,,Sanya (SYX),Chongqing Airlines A21N (B-30EL),Landed 00:07,2021-04-30
+6,6,00:10 MU5506,,Shanghai (PVG),China Eastern Airlines A321 (B-8652),Landed 00:38,2021-04-30
+7,7,00:10 OQ2326,,Guangzhou (CAN),Chongqing Airlines A319 (B-6191),Landed 00:04,2021-04-30
+8,8,00:10 OQ2348,,Dali (DLU),Chongqing Airlines 319,Canceled,2021-04-30
+9,9,00:10 3U8850,,Taiyuan (TYN),Sichuan Airlines A320 (B-6621),Landed 00:40,2021-04-30
+10,10,00:15 CA4542,,Shanghai (SHA),Air China B789 (B-1368),Landed 00:21,2021-04-30
+11,11,00:15 CA4598,,Changsha (CSX),Air China B738 (B-5682),Landed 23:59,2021-04-30
+12,12,00:15 MF8471,,Xiamen (XMN),Xiamen Air B738 (B-7179),Landed 02:43,2021-04-30
+13,13,00:15 OQ2334,,Xinzhou (WUT),Chongqing Airlines 320,Canceled,2021-04-30
+14,14,00:20 JD5607,,Lijiang (LJG),Capital Airlines A320 (B-1623),Landed 00:09,2021-04-30
+15,15,00:25 G54422,,Baotou (BAV),China Express Airlines A320 (B-304S),Landed 01:14,2021-04-30
+16,16,00:25 G54860,,Jining (JNG),China Express Airlines A320 (B-307T),Landed 23:53,2021-04-30
+17,17,00:25 OQ2352,,Hengyang (HNY),Chongqing Airlines A20N (B-307R),Landed 01:42,2021-04-30
+18,18,00:25 PN6330,,Anqing (AQG),West Air A320 (B-8110),Landed 00:17,2021-04-30
+19,19,00:30 SC4732,,Shanghai (SHA),Shandong Airlines B738 (B-5450),Landed 00:46,2021-04-30
+20,20,00:30 3U8182,,Nanchang (KHN),Sichuan Airlines A320 (B-1881),Landed 00:04,2021-04-30
+21,21,00:30 3U8746,,Guangzhou (CAN),Sichuan Airlines A321 (B-6920),Landed 00:29,2021-04-30
+22,22,00:35 G54188,,Jinghong (JHG),China Express Airlines A320 (B-306X),Landed 00:22,2021-04-30
+23,23,00:35 G54246,,Zhanjiang (ZHA),China Express Airlines A320 (B-304T),Landed 00:27,2021-04-30
+24,24,00:35 G56363,,Jinghong (JHG),China Express Airlines 320,Unknown,2021-04-30
+25,25,00:35 OQ2388,,Qingdao (TAO),Chongqing Airlines A319 (B-6407),Landed 02:49,2021-04-30
+26,26,00:35 PN6372,,Ningbo (NGB),West Air A320 (B-8422),Landed 00:53,2021-04-30
+27,27,00:35 SC4800,,Jinan (TNA),Shandong Airlines B738 (B-5592),Landed 00:34,2021-04-30
+28,28,00:40 CA4002,,Tianjin (TSN),Air China B738 (B-7181),Landed 00:13,2021-04-30
+29,29,00:45 GS6586,,Shenzhen (SZX),Tianjin Airlines A333 (B-1045),Landed 00:42,2021-04-30
+30,30,00:45 G52734,,Huangyan (HYN),China Express Airlines (Courtesy Quzhou Livery) A320 (B-8695),Landed 02:24,2021-04-30
+31,31,00:45 SC1156,,Beijing (PEK),Shandong Airlines B738 (B-5350),Landed 02:08,2021-04-30
+32,32,00:45 TV9814,,Lhasa (LXA),Tibet Airlines A319 (B-6425),Landed 00:31,2021-04-30
+33,33,00:50 PN6388,,Korla (KRL),West Air A320 (B-8286),Landed 01:09,2021-04-30
+34,34,00:55 G52814,,Hohhot (HET),China Express Airlines A320 (B-30AZ),Landed 00:38,2021-04-30
+35,35,00:55 G56063,,Hohhot (HET),China Express Airlines 320,Unknown,2021-04-30
+36,36,00:55 G56065,,Hohhot (HET),China Express Airlines 320,Unknown,2021-04-30
+37,37,00:55 G56320,,Hohhot (HET),China Express Airlines 320,Unknown,2021-04-30
+38,38,00:55 HU7367,,Beijing (PEK),Hainan Airlines B738 (B-5520),Landed 00:43,2021-04-30
+39,39,00:55 OQ2336,,Shenzhen (SZX),Chongqing Airlines A20N (B-305M),Landed 01:11,2021-04-30
+40,40,01:00 3U8012,,Lijiang (LJG),Sichuan Airlines A319 (B-6175),Landed 00:36,2021-04-30
+41,41,01:00 3U8832,,Beijing (PEK),Sichuan Airlines 32B,Unknown,2021-04-30
+42,42,01:15 HU7557,,Shenzhen (SZX),Hainan Airlines B738 (B-5580),Landed 00:58,2021-04-30
+43,43,01:15,ZH9464,Nanjing (NKG),Shenzhen Airlines B738 (B-5617),Landed 01:14,2021-04-30
+44,44,01:20 PN6260,,Nanjing (NKG),West Air A320 (B-8249),Landed 01:35,2021-04-30
+45,45,01:20,3U8716,Sanya (SYX),Sichuan Airlines A320 (B-6321),Landed 00:49,2021-04-30
+46,46,01:25 PN6254,,Guangzhou (CAN),West Air A20N (B-306U),Landed 01:00,2021-04-30
+47,47,01:25 PN6328,,Jinan (TNA),West Air A320 (B-8893),Unknown,2021-04-30
+48,48,01:30 HU7406,,Zhuhai (ZUH),Hainan Airlines B738 (B-5540),Landed 03:10,2021-04-30
+49,49,01:30,3U8936,Hangzhou (HGH),Sichuan Airlines A320 (B-8948),Landed 01:18,2021-04-30
+50,50,01:35 PN6264,,Zhuhai (ZUH),West Air A320 (B-1817),Landed 01:24,2021-04-30
+51,51,01:40 PN6206,,Guangzhou (CAN),China West Air A321 (B-321R),Landed 01:30,2021-04-30
+52,52,01:40 PN6276,,Hohhot (HET),West Air A319 (B-6421),Landed 01:40,2021-04-30
+53,53,01:40 PN6284,,Wenzhou (WNZ),West Air (Pand-Auto Livery) A320 (B-9949),Landed 02:52,2021-04-30
+54,54,01:40 PN6350,,Shijiazhuang (SJW),West Air A320 (B-8421),Landed 01:26,2021-04-30
+55,55,01:40 SC4768,,Jinan (TNA),Shandong Airlines B738 (B-7566),Landed 01:20,2021-04-30
+56,56,01:50 G54442,,Aksu (AKU),China Express Airlines A320 (B-8697),Landed 01:52,2021-04-30
+57,57,01:55 CZ2698,,Dunhuang (DNH),Chongqing Airlines A319 (B-6246),Landed 01:22,2021-04-30
+58,58,01:55 PN6210,,Quanzhou (JJN),West Air A20N (B-302F),Landed 01:50,2021-04-30
+59,59,01:55 PN6230,,Shenzhen (SZX),West Air A320 (B-1629),Landed 01:59,2021-04-30
+60,60,01:55 PN6252,,Hefei (HFE),West Air A320 (B-6743),Landed 03:48,2021-04-30
+61,61,01:55 3U8232,,Qingdao (TAO),Sichuan Airlines A321 (B-1057),Unknown,2021-04-30
+62,62,01:55 3U8830,,Beijing (PEK),Sichuan Airlines A320 (B-1819),Landed 01:55,2021-04-30
+63,63,02:00 CZ457,,Guangzhou (CAN),China Southern Airlines 77F,Unknown,2021-04-30
+64,64,02:00 HO1243,,Shanghai (PVG),Juneyao Air A320 (B-6640),Landed 02:06,2021-04-30
+65,65,02:00 HO1267,,Shanghai (SHA),Juneyao Air (Chinese Peony Livery) B789 (B-20DT),Landed 01:32,2021-04-30
+66,66,02:05 9C6107,,Shanghai (PVG),Spring Airlines A320 (B-6612),Landed 02:19,2021-04-30
+67,67,02:20 OZ956,,Hanoi (HAN),Asiana Airlines 74F,Unknown,2021-04-30
+68,68,02:35 CA1037,,Shanghai (PVG),Air China Cargo B77L (B-2092),Landed 08:45,2021-04-30
+69,69,05:35 OZ956,,Hanoi (HAN),Asiana Airlines B744 (HL7421),Landed 06:12,2021-04-30
+70,70,07:00 O36905,,Hangzhou (HGH),SF Airlines 73F,Unknown,2021-04-30
+71,71,07:50 G56098,,Kunming (KMG),China Express Airlines 320,Unknown,2021-04-30
+72,72,07:50 O36904,,Shenzhen (SZX),SF Airlines 737,Unknown,2021-04-30
+73,73,07:50 3U8279,,Kunming (KMG),Sichuan Airlines A320 (B-1885),Landed 07:17,2021-04-30
+74,74,07:55 BK2921,,Changsha (CSX),OKAir B739 (B-1291),Landed 07:36,2021-04-30
+75,75,08:10 SC4814,,Kunming (KMG),Shandong Airlines B738 (B-1745),Landed 07:42,2021-04-30
+76,76,08:35 G54662,,Xingyi (ACX),China Express Airlines CRJ9 (B-3231),Landed 08:25,2021-04-30
+77,77,08:35 G56078,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+78,78,08:35 G56126,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+79,79,08:35 G56128,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+80,80,08:35 G56129,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+81,81,08:35 G56131,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+82,82,08:35 G56132,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+83,83,08:35 G56133,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+84,84,08:35 G56127,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+85,85,08:35 G56271,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+86,86,08:35 G56338,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+87,87,08:35 G56336,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+88,88,08:35 G56401,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+89,89,08:35 G56437,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+90,90,08:35 G56439,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+91,91,08:35 G56442,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+92,92,08:35 G56443,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+93,93,08:35 G56490,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+94,94,08:35 G56404,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+95,95,08:35 G56578,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+96,96,08:35 G56643,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+97,97,08:35 G56654,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+98,98,08:35 G56657,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+99,99,08:35 G56746,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+100,100,08:35 G56803,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+101,101,08:35 9C8613,,Shenzhen (SZX),Spring Airlines A320 (B-6840),Landed 08:39,2021-04-30
+102,102,08:35 G56850,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-04-30
+103,103,08:45 G56816,,Jinghong (JHG),China Express Airlines 320,Unknown,2021-04-30
+104,104,08:45 3U8035,,Jinghong (JHG),Sichuan Airlines A320 (B-1886),Landed 08:30,2021-04-30
+105,105,08:45 3U8513,,Kunming (KMG),Sichuan Airlines A320 (B-1665),Landed 08:27,2021-04-30
+106,106,08:45 8L9817,,Lijiang (LJG),Lucky Air A320 (B-8732),Landed 08:15,2021-04-30
+107,107,08:50 DZ6215,,Shenzhen (SZX),Donghai Airlines B738 (B-6982),Landed 09:03,2021-04-30
+108,108,08:50 KY3005,,Taiyuan (TYN),Kunming Airlines B738 (B-1330),Landed 08:34,2021-04-30
+109,109,08:50 OQ2081,,Zhuhai (ZUH),Chongqing Airlines A319 (B-6183),Landed 08:52,2021-04-30
+110,110,08:50 ZH8809,,Nanchang (KHN),Shenzhen Airlines B738 (B-1516),Landed 08:49,2021-04-30
+111,111,08:55 CZ6175,,Wuhan (WUH),China Southern Airlines B737 (B-2917),Landed 08:46,2021-04-30
+112,112,08:55 ZH8515,,Wuxi (WUX),Shenzhen Airlines B738 (B-5413),Landed 08:53,2021-04-30
+113,113,09:05 JD5227,,Guangzhou (CAN),Capital Airlines A321 (B-8187),Landed 09:07,2021-04-30
+114,114,09:10 OQ2131,,Guangzhou (CAN),Chongqing Airlines A21N (B-30E3),Landed 09:04,2021-04-30
+115,115,09:15 DR5331,,Mangshi (LUM),Ruili Airlines B737 (B-5812),Landed 08:56,2021-04-30
+116,116,09:20 GX8891,,Nanning (NNG),GX Airlines A320 (B-8388),Landed 09:00,2021-04-30
+117,117,09:30 CF9008,,Changsha (CSX),China Postal Airlines 73F,Unknown,2021-04-30
+118,118,09:30 GT1075,,Xuzhou (XUZ),Air Guilin A319 (B-6417),Landed 09:20,2021-04-30
+119,119,09:30 HU7157,,Shenzhen (SZX),Hainan Airlines B788 (B-2728),Landed 09:13,2021-04-30
+120,120,09:30 MU2261,,Xi'an (XIY),China Eastern (SkyTeam Livery) A321 (B-1838),Landed 09:31,2021-04-30
+121,121,09:30 3U3163,,Hangzhou (HGH),Sichuan Airlines A319 (B-6453),Landed 09:37,2021-04-30
+122,122,09:35 MU2903,,Changzhou (CZX),China Eastern Airlines A320 (B-9950),Landed 09:10,2021-04-30
+123,123,09:35 MU5863,,Kunming (KMG),China Eastern Airlines B738 (B-1307),Landed 09:26,2021-04-30
+124,124,09:35 ZH9421,,Shenzhen (SZX),Shenzhen Airlines B738 (B-5411),Landed 09:24,2021-04-30
+125,125,09:40 MF8611,,Quanzhou (JJN),Xiamen Air B738 (B-7177),Landed 09:46,2021-04-30
+126,126,09:40 MU9765,,Wuxi (WUX),China Eastern Airlines A320 (B-8498),Landed 09:54,2021-04-30
+127,127,09:45 CA1437,,Beijing (PEK),Air China B77W (B-2046),Landed 10:03,2021-04-30
+128,128,09:45 3U8515,,Beijing (PEK),Sichuan Airlines A319 (B-2299),Landed 09:35,2021-04-30
+129,129,09:50 CZ6797,,Nanning (NNG),China Southern Airlines B738 (B-5738),Landed 09:46,2021-04-30
+130,130,09:50 HU7171,,Haikou (HAK),Hainan Airlines B738 (B-1489),Landed 09:40,2021-04-30
+131,131,09:50 MF8805,,Hangzhou (HGH),Xiamen Air B737 (B-5277),Landed 09:57,2021-04-30
+132,132,09:50 SC2199,,Qingdao (TAO),Shandong Airlines B738 (B-5758),Landed 09:54,2021-04-30
+133,133,09:55 OQ2328,,Zhanjiang (ZHA),Chongqing Airlines A320 (B-9976),Landed 09:29,2021-04-30
+134,134,10:00 CA1759,,Hangzhou (HGH),Air China A320 (B-6773),Landed 10:06,2021-04-30
+135,135,10:00 CZ8817,,Beijing (PKX),China Southern Airlines A21N (B-309J),Landed 09:41,2021-04-30
+136,136,10:00 MU6681,,Beijing (PKX),China Eastern Airlines A333 (B-8972),Landed 09:48,2021-04-30
+137,137,10:05 DR5303,,Wuxi (WUX),Ruili Airlines B738 (B-7865),Landed 10:35,2021-04-30
+138,138,10:10 CZ3463,,Guangzhou (CAN),China Southern Airlines A319 (B-6202),Landed 10:32,2021-04-30
+139,139,10:15 CA8291,,Wuhan (WUH),Air China B737 (B-5297),Landed 10:06,2021-04-30
+140,140,10:15 CZ6227,,Sanya (SYX),China Southern Airlines A332 (B-6547),Landed 10:09,2021-04-30
+141,141,10:15 GY7177,,Huai'an (HIA),Colorful Guizhou Airlines A20N (B-321V),Landed 11:03,2021-04-30
+142,142,10:15 G56642,,Sanya (SYX),China Express Airlines 320,Unknown,2021-04-30
+143,143,10:20 JD5267,,Nanjing (NKG),Capital Airlines A319 (B-6180),Landed 09:50,2021-04-30
+144,144,10:20 9C8897,,Shanghai (SHA),Spring Airlines A21N (B-30EU),Landed 10:11,2021-04-30
+145,145,10:25 G56483,,Fuzhou (FOC),China Express Airlines 320,Unknown,2021-04-30
+146,146,10:25 MF8445,,Fuzhou (FOC),Xiamen Air B738 (B-1913),Landed 11:06,2021-04-30
+147,147,10:25 MU2925,,Nanjing (NKG),China Eastern Airlines A320 (B-1655),Landed 10:01,2021-04-30
+148,148,10:30 CA8651,,Beijing (PKX),Air China B738 (B-1762),Landed 09:57,2021-04-30
+149,149,10:30 CZ3859,,Jieyang (SWA),China Southern (SkyTeam Livery) B738 (B-5640),Landed 10:21,2021-04-30
+150,150,10:30 CZ6313,,Haikou (HAK),China Southern Airlines A321 (B-1848),Landed 10:14,2021-04-30
+151,151,10:30 G56764,,Haikou (HAK),China Express Airlines 320,Unknown,2021-04-30
+152,152,10:30 MU5483,,Hefei (HFE),China Eastern Airlines A320 (B-6002),Landed 10:18,2021-04-30
+153,153,10:35 CZ3465,,Shenzhen (SZX),China Southern Airlines A20N (B-30FX),Landed 10:39,2021-04-30
+154,154,10:40 CA1679,,Tianjin (TSN),Air China B738 (B-5447),Landed 11:11,2021-04-30
+155,155,10:40 CZ6353,,Zhengzhou (CGO),China Southern Airlines B738 (B-5042),Landed 10:16,2021-04-30
+156,156,10:40 CZ8285,,Zhuhai (ZUH),China Southern Airlines B738 (B-5165),Landed 10:54,2021-04-30
+157,157,10:40 HO1245,,Shanghai (SHA),Juneyao Air A320 (B-1871),Landed 10:50,2021-04-30
+158,158,10:40 MU5421,,Shanghai (SHA),China Eastern Airlines A321 (B-2289),Landed 10:59,2021-04-30
+159,159,10:45 CA1953,,Wenzhou (WNZ),Air China A320 (B-8582),Landed 10:51,2021-04-30
+160,160,10:45 MF8261,,Xiamen (XMN),Xiamen Air B737 (B-5278),Landed 10:26,2021-04-30
+161,161,10:50 CZ8917,,Beijing (PKX),China Southern Airlines A21N (B-30E5),Landed 10:45,2021-04-30
+162,162,10:50 G54144,,Guyuan (GYU),China Express A20N (B-30F5),Unknown,2021-04-30
+163,163,10:50 G56305,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-04-30
+164,164,10:50 G56492,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-04-30
+165,165,10:50 G56494,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-04-30
+166,166,10:50 G56509,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-04-30
+167,167,10:50 G56533,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-04-30
+168,168,10:50 G56539,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-04-30
+169,169,10:50 G56557,,Guyuan (GYU),China Express Airlines 320,Canceled,2021-04-30
+170,170,10:50 G56581,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-04-30
+171,171,10:50 G56586,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-04-30
+172,172,10:50 HU7267,,Beijing (PEK),Hainan Airlines B738 (B-5853),Landed 10:33,2021-04-30
+173,173,10:50 3U8106,,Xining (XNN),Sichuan Airlines A320 (B-6321),Landed 10:39,2021-04-30
+174,174,10:55 MU6683,,Beijing (PKX),China Eastern Airlines A20N (B-1292),Landed 10:29,2021-04-30
+175,175,10:55 3U8138,,Nanning (NNG),Sichuan Airlines A21N (B-8598),Landed 10:54,2021-04-30
+176,176,10:55 3U8775,,Hangzhou (HGH),Sichuan Airlines A332 (B-8962),Landed 10:57,2021-04-30
+177,177,11:00 CA1431,,Beijing (PEK),Air China A332 (B-5933),Landed 10:51,2021-04-30
+178,178,11:00 CA4488,,Yinchuan (INC),Air China B738 (B-6496),Landed 10:27,2021-04-30
+179,179,11:00 MF8582,,Shanghai (SHA),Xiamen Air B738 (B-5389),Landed 11:16,2021-04-30
+180,180,11:00 OQ2014,,Huangyan (HYN),Chongqing Airlines A20N (B-302K),Landed 11:14,2021-04-30
+181,181,11:00 PN6216,,Qamdo (BPX),West Air A319 (B-6421),Landed 10:48,2021-04-30
+182,182,11:05 ZH9423,,Shenzhen (SZX),Shenzhen Airlines B739 (B-5109),Landed 10:47,2021-04-30
+183,183,11:10 CZ6307,,Sanya (SYX),China Southern Airlines A320 (B-6577),Landed 10:59,2021-04-30
+184,184,11:10 TV9904,,Qamdo (BPX),Tibet Airlines A319 (B-1008),Landed 11:07,2021-04-30
+185,185,11:20 CA4354,,Guangzhou (CAN),Air China B738 (B-5327),Landed 11:21,2021-04-30
+186,186,11:25 KN5717,,Beijing (PKX),China United Airlines B738 (B-209G),Landed 11:13,2021-04-30
+187,187,11:30 PN6396,,Taiyuan (TYN),China West Air A321 (B-321T),Landed 11:27,2021-04-30
+188,188,11:30 Y87537,,Shenzhen (SZX),Suparna Airlines B789 (B-20AF),Landed 11:46,2021-04-30
+189,189,11:40 HU7541,,Qianjiang (JIQ),Hainan Airlines B738 (B-5479),Landed 12:24,2021-04-30
+190,190,11:40 9C6195,,Yangzhou (YTY),Spring Airlines A320 (B-1895),Landed 11:34,2021-04-30
+191,191,11:45 G52634,,Qianjiang (JIQ),China Express Airlines CRJ9 (B-3229),Landed 11:39,2021-04-30
+192,192,11:45 PN6236,,Nanjing (NKG),West Air A320 (B-6790),Landed 11:54,2021-04-30
+193,193,11:50 CA1429,,Beijing (PEK),Air China (Star Alliance Livery) B77W (B-2032),Landed 11:31,2021-04-30
+194,194,11:50 CA1943,,Shanghai (PVG),Air China A333 (B-5978),Landed 12:15,2021-04-30
+195,195,11:50 EU2717,,Beihai (BHY),Chengdu Airlines A320 (B-8608),Landed 11:43,2021-04-30
+196,196,11:50 G56392,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-30
+197,197,11:50 G56747,,Beihai (BHY),China Express Airlines 320,Unknown,2021-04-30
+198,198,11:50 MF8403,,Xiamen (XMN),Xiamen Air B738 (B-1303),Landed 11:41,2021-04-30
+199,199,11:55 CZ6579,,Tianjin (TSN),China Southern Airlines A320 (B-6896),Landed 12:04,2021-04-30
+200,200,11:55 FM9421,,Shanghai (SHA),Shanghai Airlines B738 (B-1949),Landed 12:12,2021-04-30
+201,201,11:55 MU5423,,Shanghai (PVG),China Eastern Airlines A20N (B-307Z),Landed 12:07,2021-04-30
+202,202,12:00 G56213,,Zhuhai (ZUH),China Express Airlines 320,Unknown,2021-04-30
+203,203,12:00 OQ2002,,Beijing (PKX),Chongqing Airlines A20N (B-302J),Landed 11:37,2021-04-30
+204,204,12:00 3U8048,,Zhuhai (ZUH),Sichuan Airlines A321 (B-8438),Landed 12:09,2021-04-30
+205,205,12:05 CZ6403,,Shenyang (SHE),China Southern Airlines A20N (B-8671),Landed 11:57,2021-04-30
+206,206,12:05 3U8759,,Sanya (SYX),Sichuan Airlines A21N (B-300D),Landed 11:48,2021-04-30
+207,207,12:05 3U8793,,Guangzhou (CAN),Sichuan Airlines A321 (B-6718),Landed 12:01,2021-04-30
+208,208,12:10 3U8461,,Tianjin (TSN),Sichuan Airlines A321 (B-305U),Landed 12:07,2021-04-30
+209,209,12:15 CZ3405,,Guangzhou (CAN),China Southern Airlines A320 (B-6785),Landed 11:56,2021-04-30
+210,210,12:15 PN6434,,Wenzhou (WNZ),West Air A320 (B-1817),Landed 11:59,2021-04-30
+211,211,12:20 CZ6363,,Changchun (CGQ),China Southern Airlines A320 (B-6252),Landed 12:16,2021-04-30
+212,212,12:20 TV9834,,Nyingchi (LZY),Tibet Airlines A319 (B-8691),Landed 12:24,2021-04-30
+213,213,12:25 GS6584,,Zhengzhou (CGO),Tianjin Airlines A333 (B-1045),Landed 12:28,2021-04-30
+214,214,12:25 PN6348,,Haikou (HAK),West Air A20N (B-306W),Landed 12:30,2021-04-30
+215,215,12:30 3U8006,,Jieyang (SWA),Sichuan Airlines A320 (B-8323),Landed 12:20,2021-04-30
+216,216,12:30 3U8030,,Nyingchi (LZY),Sichuan Airlines A319 (B-6175),Landed 12:13,2021-04-30
+217,217,12:40 CA4546,,Nanjing (NKG),Air China B738 (B-1417),Landed 12:42,2021-04-30
+218,218,12:40 OQ2165,,Ningbo (NGB),Chongqing Airlines A20N (B-302L),Landed 11:52,2021-04-30
+219,219,12:40 PN6450,,Shigatse (RKZ),West Air A319 (B-6420),Landed 12:19,2021-04-30
+220,220,12:45 CZ6985,,Urumqi (URC),China Southern Airlines B738 (B-7971),Landed 12:22,2021-04-30
+221,221,12:50 G56477,,Haikou (HAK),China Express Airlines 320,Unknown,2021-04-30
+222,222,12:50 HU7371,,Haikou (HAK),Hainan Airlines B738 (B-5540),Landed 12:38,2021-04-30
+223,223,12:50 MU5425,,Shanghai (SHA),China Eastern Airlines A320 (B-1862),Landed 12:28,2021-04-30
+224,224,12:50 3U8782,,Shenzhen (SZX),Sichuan Airlines A320 (B-1661),Landed 12:34,2021-04-30
+225,225,12:55 CA4562,,Nanchang (KHN),Air China B738 (B-1419),Landed 12:43,2021-04-30
+226,226,12:55 G56555,,Nanchang (KHN),China Express Airlines 320,Unknown,2021-04-30
+227,227,12:55 OQ2052,,Hohhot (HET),Chongqing Airlines A20N (B-305Q),Landed 12:32,2021-04-30
+228,228,12:55 3U8510,,Zhengzhou (CGO),Sichuan Airlines A321 (B-1677),Landed 13:36,2021-04-30
+229,229,12:55 3U8819,,Zhongwei (ZHY),Sichuan Airlines A320 (B-8470),Landed 12:48,2021-04-30
+230,230,13:00 CA9603,,Beijing (PEK),Air China B77W (B-2033),Landed 12:43,2021-04-30
+231,231,13:00 CZ8911,,Beijing (PKX),China Southern Airlines A321 (B-6356),Landed 12:36,2021-04-30
+232,232,13:00 OQ2306,,Guangzhou (CAN),Chongqing Airlines A319 (B-6407),Landed 12:50,2021-04-30
+233,233,13:00 3U8984,,Ningbo (NGB),Sichuan Airlines A321 (B-6920),Landed 13:02,2021-04-30
+234,234,13:00 OQ2304,,Wenzhou (WNZ),Chongqing Airlines A319 (B-6190),Landed 12:46,2021-04-30
+235,235,13:05,G52820,Weifang (WEF),China Express Airlines A320 (B-306X),Landed 13:21,2021-04-30
+236,236,13:05 G56209,,Jinan (TNA),China Express Airlines 320,Unknown,2021-04-30
+237,237,13:05,3U8198,Hefei (HFE),Sichuan Airlines A21N (B-8599),Landed 13:21,2021-04-30
+238,238,13:05,3U8508,Jinan (TNA),Sichuan Airlines A320 (B-8948),Landed 13:23,2021-04-30
+239,239,13:05,3U8634,Lhasa (LXA),Sichuan Airlines A319 (B-6185),Landed 12:59,2021-04-30
+240,240,13:15,MF8407,Hangzhou (HGH),Xiamen Air B738 (B-1706),Landed 13:07,2021-04-30
+241,241,13:15 G56889,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-04-30
+242,242,13:20,MF8772,Qingdao (TAO),Xiamen Air B738 (B-7816),Landed 13:32,2021-04-30
+243,243,13:20,SC4950,Shanghai (SHA),Shandong Airlines B738 (B-5727),Landed 13:11,2021-04-30
+244,244,13:20 PN6214,,Sanya (SYX),China West Air A321 (B-321S),Landed 12:57,2021-04-30
+245,245,13:35,CA4419,Lhasa (LXA),Air China A332 (B-6070),Unknown,2021-04-30
+246,246,13:35 G56641,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-04-30
+247,247,13:35 G56740,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-04-30
+248,248,13:40,CA4320,Guangzhou (CAN),Air China B789 (B-7879),Landed 13:25,2021-04-30
+249,249,13:40 G56251,,Fuzhou (FOC),China Express Airlines 320,Unknown,2021-04-30
+250,250,13:40 G56258,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-04-30
+251,251,13:40 G56256,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-04-30
+252,252,13:40,3U8506,Fuzhou (FOC),Sichuan Airlines A321 (B-8601),Landed 13:38,2021-04-30
+253,253,13:45,3U8803,Beijing (PEK),Sichuan Airlines A320 (B-1819),Landed 13:29,2021-04-30
+254,254,13:50,CA4552,Dali (DLU),Air China (Pink Peony Livery) B737 (B-5214),Landed 13:45,2021-04-30
+255,255,13:50 CA4554,,Hangzhou (HGH),Air China B738 (B-1768),Landed 13:30,2021-04-30
+256,256,13:50 CZ6949,,Urumqi (URC),China Southern Airlines B738 (B-5761),Landed 13:26,2021-04-30
+257,257,13:50 HU7339,,Sanya (SYX),Hainan Airlines (Hainan Free Trade Port Livery) B789 (B-1540),Landed 13:53,2021-04-30
+258,258,13:55 CA4344,,Shenzhen (SZX),Air China B789 (B-7877),Landed 14:02,2021-04-30
+259,259,13:55 OQ2380,,Hangzhou (HGH),Chongqing Airlines (Flower Livery) A320 (B-6576),Landed 13:59,2021-04-30
+260,260,13:55 3U8950,,Wuxi (WUX),Sichuan Airlines A21N (B-307D),Landed 14:37,2021-04-30
+261,261,14:00 G54006,,Lijiang (LJG),China Express Airlines A320 (B-30AZ),Landed 14:11,2021-04-30
+262,262,14:00 G56017,,Lancang (JMJ),China Express Airlines 320,Unknown,2021-04-30
+263,263,14:00 G56390,,Lijiang (LJG),China Express Airlines 320,Unknown,2021-04-30
+264,264,14:00 G56391,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-30
+265,265,14:00 3U8972,,Shanghai (PVG),Sichuan Airlines A21N (B-305S),Landed 13:59,2021-04-30
+266,266,14:05 CA1445,,Beijing (PEK),Air China B738 (B-5398),Landed 13:40,2021-04-30
+267,267,14:05 GS7713,,Tianjin (TSN),Tianjin Airlines E195 (B-3236),Landed 14:34,2021-04-30
+268,268,14:05 G56170,,Shanghai (PVG),China Express Airlines 320,Canceled,2021-04-30
+269,269,14:05 MU5427,,Shanghai (PVG),China Eastern Airlines A321 (B-8406),Landed 14:09,2021-04-30
+270,270,14:05 3U3164,,Daocheng (DCY),Sichuan Airlines A319 (B-6453),Landed 13:51,2021-04-30
+271,271,14:10 GJ8855,,Qianjiang (JIQ),Loong Air A20N (B-306A),Landed 13:47,2021-04-30
+272,272,14:10 MU5865,,Zhaotong (ZAT),China Eastern Airlines B737 (B-5245),Landed 14:25,2021-04-30
+273,273,14:10 OQ2324,,Guangzhou (CAN),Chongqing Airlines A21N (B-30EL),Landed 14:05,2021-04-30
+274,274,14:15 CA4124,,Xiamen (XMN),Air China B738 (B-1942),Landed 14:06,2021-04-30
+275,275,14:15 G52764,,Shaoyang (WGN),China Express Airlines CRJ9 (B-602P),Landed 13:54,2021-04-30
+276,276,14:15 G56618,,Fuzhou (FOC),China Express Airlines 320,Unknown,2021-04-30
+277,277,14:15 MF8613,,Fuzhou (FOC),Xiamen Air B738 (B-1352),Landed 13:54,2021-04-30
+278,278,14:15 OQ2132,,Ninglang (NLH),Chongqing Airlines A319 (B-6187),Unknown,2021-04-30
+279,279,14:20 MF8265,,Quanzhou (JJN),Xiamen Air B738 (B-5595),Landed 14:34,2021-04-30
+280,280,14:20 SC4781,,Qingdao (TAO),Shandong Airlines (DEEJ Livery) B738 (B-1932),Landed 14:42,2021-04-30
+281,281,14:25 CA4332,,Hangzhou (HGH),Air China B738 (B-1531),Landed 14:23,2021-04-30
+282,282,14:30 QW6111,,Linfen (LFQ),Qingdao Airlines A320 (B-1693),Landed 14:41,2021-04-30
+283,283,14:30 3U8514,,Lanzhou (LHW),Sichuan Airlines A320 (B-1665),Landed 14:13,2021-04-30
+284,284,14:35 CA4340,,Nanjing (NKG),Air China B738 (B-2657),Landed 14:46,2021-04-30
+285,285,14:35 CA4544,,Shanghai (SHA),Air China B789 (B-1368),Landed 14:16,2021-04-30
+286,286,14:40 CZ8537,,Zhengzhou (CGO),China Southern Airlines B738 (B-1406),Landed 14:50,2021-04-30
+287,287,14:40 HU7457,,Shenzhen (SZX),Hainan Airlines B789 (B-207V),Landed 14:52,2021-04-30
+288,288,14:45 CA4028,,Yiwu (YIW),Air China B738 (B-1956),Landed 15:01,2021-04-30
+289,289,14:45 OQ2302,,Beijing (PKX),Chongqing Airlines A21N (B-30E8),Landed 14:44,2021-04-30
+290,290,14:45 ZH9425,,Shenzhen (SZX),Shenzhen Airlines B738 (B-5410),Landed 14:43,2021-04-30
+291,291,14:45 3U8125,,Yantai (YNT),Sichuan Airlines A321 (B-9967),Landed 16:08,2021-04-30
+292,292,14:50 CA4130,,Beijing (PEK),Air China B789 (B-7832),Landed 14:36,2021-04-30
+293,293,14:50 HO1053,,Shanghai (PVG),Juneyao Air A321 (B-8537),Landed 14:54,2021-04-30
+294,294,14:50 PN6306,,Jieyang (SWA),West Air A320 (B-8643),Landed 14:29,2021-04-30
+295,295,14:55 HU7472,,Wenzhou (WNZ),Hainan Airlines B738 (B-5580),Landed 14:52,2021-04-30
+296,296,15:00 DR5358,,Lancang (JMJ),Ruili Airlines B737 (B-5812),Landed 15:13,2021-04-30
+297,297,15:00 G52782,,Tianshui (THQ),China Express Airlines CRJ9 (B-3363),Landed 14:47,2021-04-30
+298,298,15:00 G56034,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-30
+299,299,15:00 G56039,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-30
+300,300,15:00 G56040,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-30
+301,301,15:00 G54874,,Changde (CGD),China Express Airlines A320 (B-307T),Landed 14:58,2021-04-30
+302,302,15:00 G56191,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-04-30
+303,303,15:00 G56786,,Lancang (JMJ),China Express Airlines 320,Unknown,2021-04-30
+304,304,15:00 OQ2184,,Kaili (KJH),Chongqing Airlines A319 (B-6247),Landed 15:05,2021-04-30
+305,305,15:05 G56567,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-30
+306,306,15:05 MF8594,,Shanghai (PVG),Xiamen Air B738 (B-5382),Landed 15:21,2021-04-30
+307,307,15:05 OQ2308,,Shanghai (PVG),Chongqing Airlines A320 (B-6761),Landed 15:06,2021-04-30
+308,308,15:10 HU7341,,Guangzhou (CAN),Hainan Airlines (Blue & White Lange Livery) B789 (B-6969),Landed 14:28,2021-04-30
+309,309,15:15 GS6590,,Hangzhou (HGH),Tianjin Airlines A320 (B-8069),Landed 15:24,2021-04-30
+310,310,15:15 MU5429,,Shanghai (SHA),China Eastern Airlines A333 (B-300P),Landed 15:27,2021-04-30
+311,311,15:20,G52720,Changzhi (CIH),China Express Airlines A20N (B-320P),Landed 15:37,2021-04-30
+312,312,15:20,G54852,Korla (KRL),China Express Airlines A320 (B-8696),Landed 15:22,2021-04-30
+313,313,15:20 G56205,,Korla (KRL),China Express Airlines 320,Unknown,2021-04-30
+314,314,15:20 G56242,,Korla (KRL),China Express Airlines 320,Unknown,2021-04-30
+315,315,15:20 G56243,,Korla (KRL),China Express Airlines 320,Unknown,2021-04-30
+316,316,15:20 G56286,,Korla (KRL),China Express Airlines 320,Unknown,2021-04-30
+317,317,15:20 G56393,,Korla (KRL),China Express Airlines 320,Unknown,2021-04-30
+318,318,15:20 G56394,,Korla (KRL),China Express Airlines 320,Unknown,2021-04-30
+319,319,15:20 QW9851,,Ganzhou (KOW),Qingdao Airlines A320 (B-8586),Landed 15:06,2021-04-30
+320,320,15:25,CZ3455,Shenzhen (SZX),China Southern Airlines A321 (B-6630),Landed 15:17,2021-04-30
+321,321,15:25,G54154,Bijie (BFJ),China Express Airlines AJ27 (B-650Q),Landed 15:02,2021-04-30
+322,322,15:25 G56076,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+323,323,15:25 G56013,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+324,324,15:25 G56014,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+325,325,15:25 G56018,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+326,326,15:25 G56020,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+327,327,15:25 G56021,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+328,328,15:25 G56023,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+329,329,15:25 G56379,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+330,330,15:25 G56396,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+331,331,15:25 G56397,,Bijie (BFJ),China Express Airlines 320,Unknown,2021-04-30
+332,332,15:25 PN6444,,Nanning (NNG),West Air A320 (B-9981),Landed 15:09,2021-04-30
+333,333,15:30 GX2026,,Jining (JNG),GX Airlines A320 (B-8388),Landed 15:15,2021-04-30
+334,334,15:35,3U8036,Yangzhou (YTY),Sichuan Airlines A320 (B-1886),Landed 16:52,2021-04-30
+335,335,15:45,HU7412,Xiamen (XMN),Hainan Airlines B738 (B-5520),Landed 15:46,2021-04-30
+336,336,15:45,ZH8671,Nantong (NTG),Shenzhen Airlines A20N (B-30FP),Landed 16:38,2021-04-30
+337,337,15:55,CA4138,Beijing (PEK),Air China B738 (B-7180),Landed 15:39,2021-04-30
+338,338,15:55,CA4596,Shanghai (PVG),Air China B738 (B-1416),Landed 15:44,2021-04-30
+339,339,15:55 CZ6291,,Wuhan (WUH),China Southern Airlines B737 (B-5069),Landed 15:54,2021-04-30
+340,340,15:55 G56524,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-30
+341,341,15:55 PN6438,,Shanghai (PVG),West Air A20N (B-302F),Landed 15:49,2021-04-30
+342,342,16:00,CZ3425,Guangzhou (CAN),China Southern Airlines A332 (B-6531),Landed 15:36,2021-04-30
+343,343,16:00 OQ2082,,Nyingchi (LZY),Chongqing Airlines A319 (B-6183),Landed 14:56,2021-04-30
+344,344,16:05,CZ8815,Beijing (PKX),China Southern Airlines A321 (B-6353),Landed 16:00,2021-04-30
+345,345,16:05,KY3006,Huangyan (HYN),Kunming Airlines B738 (B-1330),Landed 16:05,2021-04-30
+346,346,16:05,MU2737,Nanjing (NKG),China Eastern Airlines A20N (B-306D),Landed 16:12,2021-04-30
+347,347,16:10 PN6220,,Wuhan (WUH),China West Air A321 (B-321R),Landed 16:09,2021-04-30
+348,348,16:15 CZ3479,,Zhengzhou (CGO),China Southern Airlines B738 (B-5698),Landed 15:50,2021-04-30
+349,349,16:15 CZ6345,,Harbin (HRB),China Southern Airlines A320 (B-6680),Landed 15:41,2021-04-30
+350,350,16:15,G52696,Xiangyang (XFN),China Express Airlines A320 (B-304T),Landed 16:06,2021-04-30
+351,351,16:15 G56767,,Harbin (HRB),China Express Airlines 320,Unknown,2021-04-30
+352,352,16:15,3U8516,Panzhihua (PZI),Sichuan Airlines A319 (B-2298),Landed 16:01,2021-04-30
+353,353,16:20 G56526,,Xiamen (XMN),China Express Airlines 320,Unknown,2021-04-30
+354,354,16:20,MF8491,Xiamen (XMN),Xiamen Air B738 (B-1970),Landed 15:58,2021-04-30
+355,355,16:20 MU2785,,Changzhou (CZX),China Eastern Airlines A320 (B-2410),Landed 17:11,2021-04-30
+356,356,16:20 MU5506,,Shanghai (PVG),China Eastern Airlines A20N (B-30DK),Landed 16:32,2021-04-30
+357,357,16:25 MU9775,,Wuxi (WUX),China Eastern Airlines A320 (B-6879),Landed 17:26,2021-04-30
+358,358,16:25 9C8867,,Shanghai (PVG),Spring Airlines A320 (B-9940),Landed 16:27,2021-04-30
+359,359,16:30 HU7257,,Shenzhen (SZX),Hainan Airlines B788 (B-2728),Landed 16:18,2021-04-30
+360,360,16:35 G56809,,Changsha (CSX),China Express Airlines 320,Unknown,2021-04-30
+361,361,16:35 3U8362,,Changsha (CSX),Sichuan Airlines A320 (B-6348),Landed 16:54,2021-04-30
+362,362,16:40 PN6270,,Urumqi (URC),West Air A20N (B-8867),Landed 16:22,2021-04-30
+363,363,16:45 MU2395,,Ningbo (NGB),China Eastern Airlines A320 (B-2415),Landed 16:49,2021-04-30
+364,364,16:50 CA1761,,Hangzhou (HGH),Air China A319 (B-2404),Landed 16:41,2021-04-30
+365,365,16:55 CA1439,,Beijing (PEK),Air China B77W (B-2031),Landed 17:32,2021-04-30
+366,366,16:55 GS6592,,Urumqi (URC),Tianjin Airlines A320 (B-1030),Unknown,2021-04-30
+367,367,16:55 NS8035,,Beijing (PKX),Hebei Airlines B738 (B-1129),Landed 16:24,2021-04-30
+368,368,16:55 SC4838,,Qingdao (TAO),Shandong Airlines B738 (B-5349),Landed 17:00,2021-04-30
+369,369,17:00 MF8806,,Lhasa (LXA),Xiamen Air B737 (B-5277),Unknown,2021-04-30
+370,370,17:00 OQ2040,,Wuhan (WUH),Chongqing Airlines A319 (B-6191),Landed 16:34,2021-04-30
+371,371,17:00 OQ2374,,Jinghong (JHG),Chongqing Airlines A319 (B-6190),Landed 18:33,2021-04-30
+372,372,17:00 3U8220,,Wuhan (WUH),Sichuan Airlines A319 (B-6448),Landed 16:47,2021-04-30
+373,373,17:05 CA4054,,Hotan (HTN),Air China B738 (B-5583),Landed 17:53,2021-04-30
+374,374,17:05 G56566,,Hotan (HTN),China Express Airlines 320,Unknown,2021-04-30
+375,375,17:05 MF8262,,Xichang (XIC),Xiamen Air B737 (B-5278),Landed 16:46,2021-04-30
+376,376,17:05 OQ2152,,Wuhai (WUA),Chongqing Airlines A20N (B-305N),Landed 17:02,2021-04-30
+377,377,17:10 CA4364,,Harbin (HRB),Air China (Gold Peony Livery) B738 (B-5390),Landed 16:43,2021-04-30
+378,378,17:10 G56487,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-04-30
+379,379,17:10 OQ2318,,Guangzhou (CAN),Chongqing Airlines A21N (B-30E3),Landed 17:10,2021-04-30
+380,380,17:10 SC4990,,Zhuhai (ZUH),Shandong Airlines B738 (B-5758),Landed 17:28,2021-04-30
+381,381,17:25 CZ3464,,Lhasa (LXA),China Southern Airlines A319 (B-6202),Landed 18:23,2021-04-30
+382,382,17:25 CZ6404,,Kunming (KMG),China Southern Airlines A20N (B-8671),Landed 17:07,2021-04-30
+383,383,17:25 G56607,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-04-30
+384,384,17:30 MF8390,,Shenzhen (SZX),Xiamen Air B738 (B-5658),Landed 17:24,2021-04-30
+385,385,17:40 GS7432,,Changsha (CSX),Tianjin Airlines A333 (B-302D),Landed 23:23,2021-04-30
+386,386,17:40 G54636,,Rizhao (RIZ),China Express Airlines (Yang Nai Shijia Livery) A20N (B-320V),Landed 18:56,2021-04-30
+387,387,17:40 MU6381,,Xinyang (XAI),China Eastern Airlines A320 (B-6799),Landed 17:20,2021-04-30
+388,388,17:45 G56458,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-04-30
+389,389,17:45 SC8879,,Hefei (HFE),Shandong Airlines B738 (B-5111),Landed 17:47,2021-04-30
+390,390,17:45 3U8794,,Yinchuan (INC),Sichuan Airlines A321 (B-6718),Landed 17:45,2021-04-30
+391,391,17:45 HO1247,,Shanghai (PVG),Juneyao Air (All Red Livery) A321 (B-8068),Landed 17:48,2021-04-30
+392,392,17:50 FM9423,,Shanghai (SHA),Shanghai Airlines B738 (B-5316),Landed 18:00,2021-04-30
+393,393,17:50 G52798,,Handan (HDG),China Express Airlines CRJ9 (B-3379),Landed 17:44,2021-04-30
+394,394,17:50 G56274,,Handan (HDG),China Express Airlines 320,Unknown,2021-04-30
+395,395,17:50 G56275,,Handan (HDG),China Express Airlines 320,Unknown,2021-04-30
+396,396,17:50 G56276,,Handan (HDG),China Express Airlines 320,Unknown,2021-04-30
+397,397,17:50 G56277,,Handan (HDG),China Express Airlines 320,Unknown,2021-04-30
+398,398,17:50 G56421,,Shanghai (SHA),China Express Airlines 320,Unknown,2021-04-30
+399,399,17:50 UQ2529,,Urumqi (URC),Urumqi Air B738 (B-1570),Landed 17:30,2021-04-30
+400,400,17:55,CA1411,Beijing (PEK),Air China B77W (B-2046),Landed 17:53,2021-04-30
+401,401,17:55,CA4156,Urumqi (URC),Air China B738 (B-5622),Landed 18:05,2021-04-30
+402,402,17:55,CA4498,Dali (DLU),Air China B737 (B-5297),Landed 17:43,2021-04-30
+403,403,17:55 G56424,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-30
+404,404,17:55 G56727,,Urumqi (URC),China Express Airlines 320,Unknown,2021-04-30
+405,405,18:00,CZ3259,Beijing (PKX),China Southern Airlines A21N (B-306J),Landed 17:22,2021-04-30
+406,406,18:00,G54120,Zhangjiakou (ZQZ),China Express Airlines A320 (B-8697),Unknown,2021-04-30
+407,407,18:00 G56704,,Zhangjiakou (ZQZ),China Express Airlines 320,Unknown,2021-04-30
+408,408,18:00 G56825,,Zhangjiakou (ZQZ),China Express Airlines 320,Unknown,2021-04-30
+409,409,18:00 OQ2364,,Linyi (LYI),Chongqing Airlines A20N (B-307R),Unknown,2021-04-30
+410,410,18:00 9C6592,,Ji'an (JGS),Spring Airlines A320 (B-6820),Landed 18:13,2021-04-30
+411,411,18:05,G54034,Yangzhou (YTY),China Express Airlines A320 (B-304S),Landed 18:07,2021-04-30
+412,412,18:05 G56282,,Yangzhou (YTY),China Express Airlines 320,Unknown,2021-04-30
+413,413,18:10 PN6248,,Hefei (HFE),West Air A320 (B-8286),Landed 18:03,2021-04-30
+414,414,18:10,3U8462,Beihai (BHY),Sichuan Airlines A321 (B-305U),Landed 17:39,2021-04-30
+415,415,18:15,G52752,Shiyan (WDS),China Express Airlines CRJ9 (B-3231),Landed 17:55,2021-04-30
+416,416,18:15 G56503,,Qingdao (TAO),China Express Airlines 320,Unknown,2021-04-30
+417,417,18:15 G56600,,Shiyan (WDS),China Express Airlines 320,Unknown,2021-04-30
+418,418,18:15 MU6329,,Qingdao (TAO),China Eastern Airlines A320 (B-9900),Landed 18:11,2021-04-30
+419,419,18:20 G56427,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-04-30
+420,420,18:20,MF8415,Hangzhou (HGH),Xiamen Air B737 (B-5279),Landed 18:44,2021-04-30
+421,421,18:20 3U8176,,-,Sichuan Airlines A319 (B-6185),Landed 18:09,2021-04-30
+422,422,18:30 MU6685,,Beijing (PKX),China Eastern Airlines A333 (B-8972),Landed 17:57,2021-04-30
+423,423,18:35,CA4526,Changchun (CGQ),Air China B738 (B-5392),Landed 18:00,2021-04-30
+424,424,18:35 G56332,,Jinan (TNA),China Express Airlines 320,Unknown,2021-04-30
+425,425,18:35,SC4613,Jinan (TNA),Shandong Airlines B738 (B-7978),Landed 21:28,2021-04-30
+426,426,18:40,RY6681,Nanchang (KHN),Jiangxi Air B738 (B-5512),Landed 19:05,2021-04-30
+427,427,18:40,3U8784,Shenzhen (SZX),Sichuan Airlines A21N (B-8598),Landed 18:39,2021-04-30
+428,428,18:45,CZ3411,Guangzhou (CAN),China Southern Airlines B789 (B-1167),Landed 19:19,2021-04-30
+429,429,18:45 OQ2350,,Jieyang (SWA),Chongqing Airlines A319 (B-6248),Landed 18:38,2021-04-30
+430,430,18:50,CA8337,Wenzhou (WNZ),Air China A320 (B-8337),Landed 19:01,2021-04-30
+431,431,18:50 HU7441,,Guangzhou (CAN),Hainan Airlines B738 (B-1928),Landed 18:29,2021-04-30
+432,432,18:50,NS3249,Shijiazhuang (SJW),Hebei Airlines B738 (B-1158),Landed 18:47,2021-04-30
+433,433,18:50,3U8776,Lhasa (LXA),Sichuan Airlines A332 (B-8962),Landed 18:51,2021-04-30
+434,434,18:55,CA4164,Yuncheng (YCU),Air China B738 (B-5682),Landed 18:33,2021-04-30
+435,435,18:55 G56099,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-04-30
+436,436,18:55,HO1693,Nanjing (NKG),Juneyao Air A320 (B-6922),Landed 18:53,2021-04-30
+437,437,18:55 PN6232,,Fuyang (FUG),West Air A320 (B-8421),Landed 18:54,2021-04-30
+438,438,19:00 G56296,,Shanghai (SHA),China Express Airlines 320,Unknown,2021-04-30
+439,439,19:00 G56515,,Shenzhen (SZX),China Express Airlines 320,Unknown,2021-04-30
+440,440,19:00,ZH9427,Shenzhen (SZX),Shenzhen Airlines B738 (B-5378),Landed 19:26,2021-04-30
+441,441,19:00,FM9425,Shanghai (SHA),Shanghai Airlines B738 (B-7863),Landed 19:08,2021-04-30
+442,442,19:05,CA1409,Beijing (PEK),Air China B738 (B-7897),Landed 18:44,2021-04-30
+443,443,19:05 OQ2390,,Hangzhou (HGH),Chongqing Airlines A20N (B-302L),Landed 19:32,2021-04-30
+444,444,19:05 PN6302,,Quanzhou (JJN),West Air (Happy Valley Livery) A320 (B-9982),Landed 18:49,2021-04-30
+445,445,19:10 PN6268,,Qingdao (TAO),West Air A320 (B-8249),Landed 18:58,2021-04-30
+446,446,19:10 8L9582,,Xuzhou (XUZ),Lucky Air B738 (B-1208),Landed 19:55,2021-04-30
+447,447,19:15,KY8331,Baoshan (BSD),Kunming Airlines B737 (B-1461),Landed 19:04,2021-04-30
+448,448,19:20 PN6204,,Sanya (SYX),China West Air A321 (B-321T),Landed 19:18,2021-04-30
+449,449,19:25 G56097,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-04-30
+450,450,19:25 HU7426,,Nanjing (NKG),Hainan Airlines B738 (B-5540),Landed 20:02,2021-04-30
+451,451,19:25 9C8995,,Shanghai (SHA),Spring Airlines A20N (B-320L),Landed 19:35,2021-04-30
+452,452,19:25 9C8925,,Luoyang (LYA),Spring Airlines A320 (B-8817),Landed 19:07,2021-04-30
+453,453,19:30 CZ3825,,Changsha (CSX),China Southern Airlines B738 (B-5740),Landed 19:28,2021-04-30
+454,454,19:35 CZ6950,,Kunming (KMG),China Southern Airlines B738 (B-5761),Landed 19:30,2021-04-30
+455,455,19:35 3U8804,,Baise (AEB),Sichuan Airlines A320 (B-1819),Landed 19:13,2021-04-30
+456,456,19:40 CZ6465,,Shenyang (SHE),China Southern Airlines A20N (B-8545),Landed 19:21,2021-04-30
+457,457,19:40 GS7917,,Tianjin (TSN),Tianjin Airlines (100th Aircraft Livery) A321 (B-302X),Landed 22:49,2021-04-30
+458,458,19:40 G56686,,Tianjin (TSN),China Express Airlines 320,Unknown,2021-04-30
+459,459,19:40 SC4716,,Qingdao (TAO),Shandong Airlines B738 (B-5450),Landed 20:25,2021-04-30
+460,460,19:40 G56872,,Shenyang (SHE),China Express Airlines 320,Unknown,2021-04-30
+461,461,19:45 G56430,,Fuzhou (FOC),China Express Airlines 320,Unknown,2021-04-30
+462,462,19:45 MF8615,,Fuzhou (FOC),Xiamen Air B738 (B-6889),Landed 19:47,2021-04-30
+463,463,19:45 OQ2316,,Ningbo (NGB),Chongqing Airlines A319 (B-6247),Landed 23:55,2021-04-30
+464,464,19:45 SC4724,,Xiamen (XMN),Shandong Airlines (Expo 2014 Livery) B738 (B-5787),Landed 19:39,2021-04-30
+465,465,19:50 OQ2024,,Yueyang (YYA),Chongqing Airlines A20N (B-305M),Unknown,2021-04-30
+466,466,19:55 CA4560,,Zhuhai (ZUH),Air China B737 (B-5803),Landed 19:50,2021-04-30
+467,467,19:55 FU6507,,Fuzhou (FOC),Fuzhou Airlines B738 (B-5503),Landed 20:15,2021-04-30
+468,468,19:55 G56093,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-04-30
+469,469,19:55 G56331,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-30
+470,470,19:55 HU7497,,Hangzhou (HGH),Hainan Airlines B738 (B-5521),Landed 20:08,2021-04-30
+471,471,19:55 MU2845,,Nanjing (NKG),China Eastern Airlines A20N (B-302H),Landed 20:13,2021-04-30
+472,472,20:00 CA1435,,Beijing (PEK),Air China B77W (B-2037),Landed 19:45,2021-04-30
+473,473,20:00 FM9427,,Shanghai (SHA),Shanghai Airlines B789 (B-1112),Landed 20:18,2021-04-30
+474,474,20:00 G56061,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-04-30
+475,475,20:00 G56096,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-04-30
+476,476,20:00 G56301,,Shanghai (SHA),China Express Airlines 320,Unknown,2021-04-30
+477,477,20:00 3U8542,,Nanjing (NKG),Sichuan Airlines A321 (B-8438),Landed 20:23,2021-04-30
+478,478,20:05 HU7167,,Beijing (PEK),Hainan Airllines B789 (B-1133),Landed 19:39,2021-04-30
+479,479,20:10 G56329,,Jinan (TNA),China Express Airlines 320,Unknown,2021-04-30
+480,480,20:10 MU9982,,Huangshan City (TXN),China Eastern Airlines A320 (B-6832),Landed 20:03,2021-04-30
+481,481,20:10 SC4762,,Jinan (TNA),Shandong Airlines B738 (B-5490),Landed 20:59,2021-04-30
+482,482,20:10 8L9529,,Zhengzhou (CGO),Lucky Air B738 (B-1798),Landed 20:13,2021-04-30
+483,483,20:15 CZ6798,,Urumqi (URC),China Southern Airlines B738 (B-5738),Landed 19:57,2021-04-30
+484,484,20:20 G56094,,Wuxi (WUX),China Express Airlines 320,Unknown,2021-04-30
+485,485,20:20 MF8266,,Xining (XNN),Xiamen Air B738 (B-5595),Landed 19:59,2021-04-30
+486,486,20:20 MU9785,,Wuxi (WUX),China Eastern Airlines A320 (B-6891),Landed 21:08,2021-04-30
+487,487,20:20 PN6272,,Lhasa (LXA),West Air A319 (B-6412),Landed 19:49,2021-04-30
+488,488,20:25 MF8449,,Xiamen (XMN),Xiamen Air B738 (B-7816),Landed 21:06,2021-04-30
+489,489,20:25 MU2267,,Xi'an (XIY),China Eastern Airlines A321 (B-9905),Landed 20:18,2021-04-30
+490,490,20:25 OQ2340,,Guangzhou (CAN),Chongqing Airlines A21N (B-30EL),Landed 20:06,2021-04-30
+491,491,20:35 CA4350,,Guangzhou (CAN),Air China B738 (B-1419),Landed 20:21,2021-04-30
+492,492,20:35 GJ8691,,Hangzhou (HGH),Loong Air A320 (B-8868),Landed 20:45,2021-04-30
+493,493,20:35 G56092,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-04-30
+494,494,20:35 3U8032,,Xiamen (XMN),Sichuan Airlines A320 (B-6321),Landed 20:34,2021-04-30
+495,495,20:45 GY7213,,Zunyi (WMT),Colorful Guizhou Airlines E190 (B-3242),Landed 20:35,2021-04-30
+496,496,20:45 G56793,,Beijing (PKX),China Express Airlines 320,Unknown,2021-04-30
+497,497,20:45 HU7271,,Haikou (HAK),Hainan Airlines B738 (B-5852),Landed 20:51,2021-04-30
+498,498,20:45 OQ2004,,Beijing (PKX),Chongqing Airlines A20N (B-305P),Landed 20:21,2021-04-30
+499,499,20:50 OQ2322,,Nanjing (NKG),Chongqing Airlines A319 (B-6246),Landed 20:28,2021-04-30
+500,500,20:50 PN6266,,Jinan (TNA),West Air A320 (B-8102),Landed 21:15,2021-04-30
+501,501,20:50 9C6153,,Shanghai (PVG),Spring Airlines A20N (B-30DD),Landed 20:40,2021-04-30
+502,502,20:55 CA4142,,Beijing (PEK),Air China B737 (B-2613),Landed 20:32,2021-04-30
+503,503,20:55 CZ6308,,Urumqi (URC),China Southern Airlines A320 (B-6577),Landed 20:55,2021-04-30
+504,504,20:55 G56330,,Beijing (PEK),China Express Airlines 320,Unknown,2021-04-30
+505,505,20:55 OQ2166,,Lhasa (LXA),Chongqing Airlines A319 (B-6187),Landed 20:50,2021-04-30
+506,506,21:00,CA4016,Hefei (HFE),Air China B738 (B-5398),Landed 21:03,2021-04-30
+507,507,21:00,SC8792,Jinan (TNA),Shandong Airlines B738 (B-20EZ),Landed 21:34,2021-04-30
+508,508,21:00,3U8636,Lhasa (LXA),Sichuan Airlines A319 (B-6175),Landed 20:46,2021-04-30
+509,509,21:05 G56464,,Ningbo (NGB),China Express Airlines 320,Unknown,2021-04-30
+510,510,21:05 MU6687,,Beijing (PKX),China Eastern Airlines A333 (B-1041),Landed 20:29,2021-04-30
+511,511,21:05,ZH9429,Shenzhen (SZX),Shenzhen Airlines A333 (B-1036),Landed 21:12,2021-04-30
+512,512,21:05,ZH9462,Nanjing (NKG),Shenzhen Airlines B738 (B-5617),Landed 21:03,2021-04-30
+513,513,21:05,3U8110,Ningbo (NGB),Sichuan Airlines A320 (B-1887),Landed 20:57,2021-04-30
+514,514,21:10 CZ6292,,Lijiang (LJG),China Southern Airlines B737 (B-5069),Landed 20:56,2021-04-30
+515,515,21:10,HU7493,Shanghai (PVG),Hainan Airlines B738 (B-5855),Landed 22:32,2021-04-30
+516,516,21:10,ZH8811,Nanchang (KHN),Shenzhen Airlines B738 (B-5381),Landed 21:14,2021-04-30
+517,517,21:15 G56060,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-04-30
+518,518,21:15 MU6995,,Taiyuan (TYN),China Eastern Airlines B738 (B-6166),Landed 20:42,2021-04-30
+519,519,21:15,3U8840,Nanjing (NKG),Sichuan Airlines A21N (B-309C),Landed 00:48,2021-04-30
+520,520,21:25,CA1449,Beijing (PEK),Air China A332 (B-6131),Landed 21:47,2021-04-30
+521,521,21:30 CZ3480,,Nanning (NNG),China Southern Airlines B738 (B-5698),Landed 21:25,2021-04-30
+522,522,21:30 MU2539,,Wuhan (WUH),China Eastern Airlines B738 (B-1965),Landed 21:21,2021-04-30
+523,523,21:30 PN6374,,Shanghai (PVG),China West Air A321 (B-321S),Landed 21:16,2021-04-30
+524,524,21:30,3U8010,Changsha (CSX),Sichuan Airlines A321 (B-6920),Landed 21:54,2021-04-30
+525,525,21:35 JD5695,,Hangzhou (HGH),Capital Airlines A320 (B-6898),Landed 21:33,2021-04-30
+526,526,21:35,SC8866,Taiyuan (TYN),Shandong Airlines B738 (B-1745),Landed 21:19,2021-04-30
+527,527,21:35 9C8993,,Shijiazhuang (SJW),Spring Airlines A320 (B-8873),Landed 21:11,2021-04-30
+528,528,21:45,ZH8517,Wuxi (WUX),Shenzhen Airlines B738 (B-1710),Landed 22:27,2021-04-30
+529,529,21:45,3U8974,Shanghai (PVG),Sichuan Airlines A21N (B-305S),Landed 23:52,2021-04-30
+530,530,21:50 CZ6649,,Zhengzhou (CGO),China Southern Airlines B738 (B-1406),Landed 21:37,2021-04-30
+531,531,21:50,MU2835,Nanjing (NKG),China Eastern Airlines A20N (B-306F),Landed 23:39,2021-04-30
+532,532,21:50,SC4795,Qingdao (TAO),Shandong Airlines (DEEJ Livery) B738 (B-1932),Landed 01:37,2021-04-30
+533,533,21:50 TV9936,,Lhasa (LXA),Tibet Airlines A319 (B-6438),Landed 22:04,2021-04-30
+534,534,21:50 8L9857,,Kunming (KMG),Lucky Air B738 (B-7988),Landed 22:01,2021-04-30
+535,535,21:55,CA4342,Guangzhou (CAN),Air China B738 (B-1956),Landed 21:43,2021-04-30
+536,536,21:55,MF8028,Yinchuan (INC),Xiamen Air B738 (B-7826),Landed 22:00,2021-04-30
+537,537,22:00,BK3122,Quanzhou (JJN),OKAir B739 (B-1291),Landed 23:41,2021-04-30
+538,538,22:00 HU7409,,Changsha (CSX),Hainan Airlines B738 (B-1496),Landed 22:08,2021-04-30
+539,539,22:00,3U8594,Changzhou (CZX),Sichuan Airlines A320 (B-1885),Landed 23:05,2021-04-30
+540,540,22:05 HU7241,,Guangzhou (CAN),Hainan Airlines B789 (B-207V),Landed 21:37,2021-04-30
+541,541,22:05 MU9918,,Hefei (HFE),China Eastern Airlines A320 (B-6002),Landed 23:37,2021-04-30
+542,542,22:05 PN6392,,Lhasa (LXA),West Air A319 (B-6413),Landed 21:51,2021-04-30
+543,543,22:10,3U8760,Urumqi (URC),Sichuan Airlines A21N (B-300D),Landed 21:41,2021-04-30
+544,544,22:15,CA4144,Beijing (PEK),Air China B738 (B-1768),Landed 21:44,2021-04-30
+545,545,22:15,CA4578,Hangzhou (HGH),Air China B789 (B-7879),Landed 21:53,2021-04-30
+546,546,22:15,3U8028,Wuxi (WUX),Sichuan Airlines A21N (B-8599),Landed 22:55,2021-04-30
+547,547,22:20,MU5431,Shanghai (SHA),China Eastern Airlines A321 (B-8406),Landed 21:59,2021-04-30
+548,548,22:20 MU5471,,Jinan (TNA),China Eastern Airlines A20N (B-30FE),Landed 22:16,2021-04-30
+549,549,22:25 CZ8751,,Aksu (AKU),China Southern Airlines B737 (B-5236),Landed 21:57,2021-04-30
+550,550,22:25 GS6582,,Hangzhou (HGH),Tianjin Airlines A333 (B-1045),Landed 08:04,2021-04-30
+551,551,22:25,G52706,Nanyang (NNY),China Express Airlines AJ27 (B-650P),Landed 21:39,2021-04-30
+552,552,22:25,NS3228,Lanzhou (LHW),Hebei Airlines B738 (B-1129),Landed 22:23,2021-04-30
+553,553,22:30,CA4550,Ningbo (NGB),Air China B738 (B-1976),Landed 22:29,2021-04-30
+554,554,22:30,ZH9373,Nanning (NNG),Shenzhen Airlines B738 (B-1758),Landed 22:10,2021-04-30
+555,555,22:35 CA4558,,Nanjing (NKG),Air China B738 (B-5327),Landed 23:10,2021-04-30
+556,556,22:35 CA8674,,Beijing (PKX),Air China (Pink Peony Livery) B737 (B-5214),Landed 22:11,2021-04-30
+557,557,22:35 3U8066,,Haikou (HAK),Sichuan Airlines A21N (B-307D),Landed 22:13,2021-04-30
+558,558,22:40 CZ3439,,Guangzhou (CAN),China Southern Airlines B77W (B-20C5),Landed 22:39,2021-04-30
+559,559,22:40 GS6516,,Sanya (SYX),Tianjin Airlines A320 (B-8069),Landed 22:45,2021-04-30
+560,560,22:45 MF8622,,Tianjin (TSN),Xiamen Air B738 (B-5382),Landed 22:35,2021-04-30
+561,561,22:50 MU6689,,Beijing (PKX),China Eastern Airlines A320 (B-1862),Landed 22:30,2021-04-30
+562,562,22:50 PN6436,,Hangzhou (HGH),West Air A320 (B-8643),Landed 22:57,2021-04-30
+563,563,22:55 CA4136,,Beijing (PEK),Air China B738 (B-7181),Landed 22:42,2021-04-30
+564,564,22:55 CA4556,,Shanghai (PVG),Air China B738 (B-2657),Landed 22:40,2021-04-30
+565,565,22:55 OQ2038,,Yichun (YIC),Chongqing Airlines A20N (B-302J),Landed 22:20,2021-04-30
+566,566,23:00 CZ3643,,Wuhan (WUH),China Southern Airlines B737 (B-5068),Landed 22:39,2021-04-30
+567,567,23:00 HU7264,,Fuzhou (FOC),Hainan Airlines B738 (B-5580),Landed 23:02,2021-04-30
+568,568,23:00 HU7349,,Sanya (SYX),Hainan Airlines (Hainan Free Trade Port Livery) B789 (B-1540),Unknown,2021-04-30
+569,569,23:00 MF8477,,Hangzhou (HGH),Xiamen Air B738 (B-5706),Landed 22:35,2021-04-30
+570,570,23:00 3U8588,,Changzhou (CZX),Sichuan Airlines A321 (B-6551),Landed 00:11,2021-04-30
+571,571,23:05 EU1998,,Guilin (KWL),Chengdu Airlines AJ27 (B-605M),Landed 22:49,2021-04-30
+572,572,23:05,NS3242,Shijiazhuang (SJW),Hebei Airlines B738 (B-1560),Landed 23:00,2021-04-30
+573,573,23:05 OQ2310,,Shanghai (PVG),Chongqing Airlines A21N (B-30E8),Landed 22:55,2021-04-30
+574,574,23:05,3U8786,Shenzhen (SZX),Sichuan Airlines A321 (B-9967),Landed 23:07,2021-04-30
+575,575,23:10 PN6218,,Xuzhou (XUZ),West Air A320 (B-1817),Landed 23:36,2021-04-30
+576,576,23:15 OQ2386,,Zhuhai (ZUH),Chongqing Airlines A319 (B-6183),Landed 23:00,2021-04-30
+577,577,23:15,ZH8805,Nanchang (KHN),Shenzhen Airlines B738 (B-1476),Landed 00:41,2021-04-30
+578,578,23:15,ZH9431,Shenzhen (SZX),Shenzhen Airlines B738 (B-5608),Landed 23:12,2021-04-30
+579,579,23:15,3U8008,Dalian (DLC),Sichuan Airlines A320 (B-1661),Landed 22:46,2021-04-30
+580,580,23:20,CA4570,Fuzhou (FOC),Air China B738 (B-1942),Landed 23:34,2021-04-30
+581,581,23:20,CZ3641,Shenzhen (SZX),China Southern Airlines A21N (B-30E7),Landed 23:05,2021-04-30
+582,582,23:20,G52930,Bayannur (RLK),China Express Airlines CRJ9 (B-7692),Landed 22:52,2021-04-30
+583,583,23:25 GS7706,,Ganzhou (KOW),Tianjin Airlines A320 (B-1030),Landed 23:31,2021-04-30
+584,584,23:25 HU7357,,Shenzhen (SZX),Hainan Airlines (Blue & White Lange Livery) B789 (B-6969),Landed 23:30,2021-04-30
+585,585,23:25,MF8419,Wuhan (WUH),Xiamen Air B738 (B-7178),Landed 23:16,2021-04-30
+586,586,23:30,CA4382,Wuhan (WUH),Air China B738 (B-5622),Landed 23:10,2021-04-30
+587,587,23:30,TV9926,Dali (DLU),Tibet Airlines A319 (B-8691),Landed 23:19,2021-04-30
+588,588,23:35,G54078,Yulin (YLX),China Express Airlines CRJ9 (B-3379),Landed 23:13,2021-04-30
+589,589,23:35,G54216,Hengyang (HNY),China Express Airlines CRJ9 (B-3229),Landed 00:07,2021-04-30
+590,590,23:35,MF8471,Xiamen (XMN),Xiamen Air B738 (B-1301),Landed 00:03,2021-04-30
+591,591,23:35 PN6238,,Tianjin (TSN),China West Air A321 (B-321R),Landed 23:48,2021-04-30
+592,592,23:40,CA4346,Shenzhen (SZX),Air China B789 (B-1368),Unknown,2021-04-30
+593,593,23:40,G54176,Sanming (SQJ),China Express Airlines A320 (B-306X),Landed 23:45,2021-04-30
+594,594,23:45,G54986,Yan'an (ENY),China Express Airlines AJ27 (B-650Q),Landed 23:20,2021-04-30
+595,595,23:50,G54046,Huangyan (HYN),China Express Airlines A320 (B-307T),Landed 00:18,2021-04-30
+596,596,23:50,MU5450,Kunming (KMG),China Eastern Airlines A320 (B-6559),Landed 23:37,2021-04-30
+597,597,23:50 OQ2078,,Nanchang (KHN),Chongqing Airlines A320 (B-9976),Landed 02:21,2021-04-30
+598,598,23:55,CA4020,Lianyungang (LYG),Air China (Gold Peony Livery) B738 (B-5390),Landed 02:08,2021-04-30
+599,599,23:55 OQ2020,,Yancheng (YNZ),Chongqing Airlines A320 (B-6761),Landed 01:46,2021-04-30
+600,600,23:55 OQ2128,,Dayong (DYG),Chongqing Airlines A20N (B-307S),Landed 23:47,2021-04-30
+0,0,00:05 G52786,,Quzhou (JUZ),China Express Airlines (Yang Nai Shijia Livery) A20N (B-320V),Landed 02:16,2021-05-01
+1,1,00:05 JD5613,,Haikou (HAK),Capital Airlines A320 (B-6709),Landed 00:09,2021-05-01
+2,2,00:05 MU5433,,Shanghai (PVG),China Eastern Airlines A321 (B-1640),Landed 01:49,2021-05-01
+3,3,00:05 OQ2332,,Sanya (SYX),Chongqing Airlines A21N (B-30E3),Unknown,2021-05-01
+4,4,00:05 PN6274,,Zhengzhou (CGO),West Air A319 (B-6421),Landed 23:43,2021-05-01
+5,5,00:05 OQ2346,,Wenzhou (WNZ),Chongqing Airlines A319 (B-6191),Landed 00:25,2021-05-01
+6,6,00:10 MF8455,,Beijing (PKX),Xiamen Air B738 (B-1970),Landed 23:39,2021-05-01
+7,7,00:10 OQ2326,,Guangzhou (CAN),Chongqing Airlines A319 (B-6407),Landed 23:57,2021-05-01
+8,8,00:10 OQ2368,,Wushan (WSK),Chongqing Airlines (Flower Livery) A320 (B-6576),Landed 23:51,2021-05-01
+9,9,00:10 3U8850,,Taiyuan (TYN),Sichuan Airlines A321 (B-1057),Landed 23:55,2021-05-01
+10,10,00:15 CA4542,,Shanghai (SHA),Air China B789 (B-7832),Landed 01:56,2021-05-01
+11,11,00:15 CA4598,,Changsha (CSX),Air China B738 (B-5682),Landed 00:00,2021-05-01
+12,12,00:15 DZ6278,,Nantong (NTG),Donghai Airlines B738 (B-6982),Landed 02:41,2021-05-01
+13,13,00:15 GS7905,,Tianjin (TSN),Tianjin Airlines A332 (B-8776),Landed 23:57,2021-05-01
+14,14,00:15 G54142,,Ordos (DSN),China Express A20N (B-30F5),Landed 00:29,2021-05-01
+15,15,00:15 OQ2348,,Dali (DLU),Chongqing Airlines A319 (B-6248),Landed 00:06,2021-05-01
+16,16,00:15 PN6292,,Xiamen (XMN),West Air A320 (B-1629),Landed 00:04,2021-05-01
+17,17,00:20,CA4358,Jieyang (SWA),Air China B738 (B-7180),Landed 00:13,2021-05-01
+18,18,00:20,G54178,Baotou (BAV),China Express Airlines CRJ9 (B-602P),Landed 00:25,2021-05-01
+19,19,00:20 JD5607,,Lijiang (LJG),Capital Airlines A319 (B-6416),Unknown,2021-05-01
+20,20,00:20 QR8352,,Doha (DOH),Qatar Airways B77W (A7-BEA),Landed 00:36,2021-05-01
+21,21,00:30,CA4360,Zhanjiang (ZHA),Air China B738 (B-5583),Landed 00:15,2021-05-01
+22,22,00:30 CX3260,,Hong Kong (HKG),Cathay Pacific 74Y,Unknown,2021-05-01
+23,23,00:30 GS7665,,Xi'an (XIY),Tianjin Airlines A320 (B-1619),Landed 01:57,2021-05-01
+24,24,00:30 OQ2022,,Yangzhou (YTY),Chongqing Airlines A20N (B-307R),Landed 02:38,2021-05-01
+25,25,00:30 OQ2344,,Zhengzhou (CGO),Chongqing Airlines A20N (B-302K),Landed 01:02,2021-05-01
+26,26,00:30,SC4732,Shanghai (SHA),Shandong Airlines B738 (B-5758),Landed 02:43,2021-05-01
+27,27,00:30,3U8746,Guangzhou (CAN),Sichuan Airlines A321 (B-6718),Landed 00:20,2021-05-01
+28,28,00:35,G52744,Yiwu (YIW),China Express Airlines A320 (B-8697),Landed 00:15,2021-05-01
+29,29,00:35,SC4800,Jinan (TNA),Shandong Airlines B738 (B-7565),Landed 01:07,2021-05-01
+30,30,00:40,CA4002,Tianjin (TSN),Air China B738 (B-1416),Landed 00:22,2021-05-01
+31,31,00:45,G52654,Yongzhou (LLF),China Express Airlines A320 (B-30AZ),Landed 00:27,2021-05-01
+32,32,00:45,SC1156,Beijing (PEK),Shandong Airlines B738 (B-5333),Landed 01:20,2021-05-01
+33,33,00:45,TV9814,Lhasa (LXA),Tibet Airlines A319 (B-6440),Landed 00:34,2021-05-01
+34,34,00:45,3U8832,Beijing (PEK),Sichuan Airlines A20N (B-30DZ),Landed 00:32,2021-05-01
+35,35,00:55 GS6596,,Haikou (HAK),Tianjin Airlines A332 (B-8776),Landed 06:21,2021-05-01
+36,36,00:55,G52814,Hohhot (HET),China Express Airlines A320 (B-307X),Landed 01:01,2021-05-01
+37,37,00:55 G56063,,Hohhot (HET),China Express Airlines 320,Unknown,2021-05-01
+38,38,00:55 G56064,,Hohhot (HET),China Express Airlines 320,Unknown,2021-05-01
+39,39,00:55 G56065,,Hohhot (HET),China Express Airlines 320,Unknown,2021-05-01
+40,40,00:55 G56320,,Hohhot (HET),China Express Airlines 320,Unknown,2021-05-01
+41,41,00:55 HU7367,,Beijing (PEK),Shan Xi Airlines B738 (B-5135),Landed 01:30,2021-05-01
+42,42,00:55 OQ2338,,Huizhou (HUZ),Chongqing Airlines A320 (B-6641),Landed 00:39,2021-05-01
+43,43,01:00 CZ496,,Amsterdam (AMS),China Southern Airlines 77F,Unknown,2021-05-01
+44,44,01:00,3U8544,Nanjing (NKG),Sichuan Airlines A320 (B-6348),Landed 02:13,2021-05-01
+45,45,01:05 PN6388,,Korla (KRL),West Air A320 (B-8892),Landed 00:36,2021-05-01
+46,46,01:10 PN6284,,Wenzhou (WNZ),West Air A20N (B-8867),Landed 01:16,2021-05-01
+47,47,01:10 PN6366,,Dalian (DLC),West Air A320 (B-1898),Landed 00:55,2021-05-01
+48,48,01:15,CA4568,Hohhot (HET),Air China B738 (B-6496),Landed 00:46,2021-05-01
+49,49,01:15,G52838,Meixian (MXZ),China Express Airlines A20N (B-320P),Landed 01:10,2021-05-01
+50,50,01:15 HU7557,,Shenzhen (SZX),Hainan Airlines B738 (B-7616),Landed 02:06,2021-05-01
+51,51,01:15,ZH9464,Nanjing (NKG),Shenzhen Airlines B738 (B-5776),Landed 01:59,2021-05-01
+52,52,01:20 PN6260,,Nanjing (NKG),West Air A320 (B-6790),Landed 04:48,2021-05-01
+53,53,01:20,3U8012,Lijiang (LJG),Sichuan Airlines A319 (B-6185),Landed 00:45,2021-05-01
+54,54,01:25 PN6254,,Guangzhou (CAN),West Air A20N (B-306U),Landed 00:53,2021-05-01
+55,55,01:25 PN6328,,Jinan (TNA),West Air A20N (B-306W),Landed 01:12,2021-05-01
+56,56,01:25,3U8180,Nanchang (KHN),Sichuan Airlines A21N (B-8598),Landed 01:06,2021-05-01
+57,57,01:30 HU7406,,Zhuhai (ZUH),Hainan Airlines B738 (B-5540),Landed 02:11,2021-05-01
+58,58,01:35 PN6264,,Zhuhai (ZUH),West Air A320 (B-8846),Landed 01:27,2021-05-01
+59,59,01:40 PN6206,,Guangzhou (CAN),China West Air A321 (B-321T),Landed 01:24,2021-05-01
+60,60,01:40 PN6276,,Hohhot (HET),West Air A319 (B-6420),Landed 01:18,2021-05-01
+61,61,01:40 PN6350,,Shijiazhuang (SJW),West Air A20N (B-302F),Landed 01:22,2021-05-01
+62,62,01:40 SC4768,,Jinan (TNA),Shandong Airlines B738 (B-5727),Landed 01:39,2021-05-01
+63,63,01:40 3U8936,,Hangzhou (HGH),Sichuan Airlines A321 (B-6906),Landed 03:13,2021-05-01
+64,64,01:45 PN6406,,Ningbo (NGB),West Air A320 (B-9969),Landed 01:43,2021-05-01
+65,65,01:50 CZ457,,Guangzhou (CAN),China Southern Cargo B77L (B-2081),Landed 14:46,2021-05-01
+66,66,01:55 PN6230,,Shenzhen (SZX),West Air A320 (B-9981),Landed 01:54,2021-05-01
+67,67,01:55 PN6252,,Hefei (HFE),West Air (U-FLY Alliance Livery) A320 (B-1897),Landed 02:50,2021-05-01
+68,68,01:55 PN6256,,Nanchang (KHN),West Air A319 (B-6412),Landed 01:44,2021-05-01
+69,69,01:55 3U8232,,Qingdao (TAO),Sichuan Airlines A320 (B-8323),Landed 05:01,2021-05-01
+70,70,01:55 3U8830,,Beijing (PEK),Sichuan Airlines A320 (B-6322),Landed 01:48,2021-05-01
+71,71,02:00 HO1243,,Shanghai (PVG),Juneyao Airlines 320,Canceled,2021-05-01
+72,72,02:00 HO1267,,Shanghai (SHA),Juneyao Air (Chinese Peony - Livery) B789 (B-1115),Landed 03:39,2021-05-01
+73,73,02:05 9C6107,,Shanghai (PVG),Spring Airlines A320 (B-6667),Landed 04:30,2021-05-01
+74,74,02:30 CI5997,,Taipei (TPE),China Airlines Cargo B744 (B-18716),Landed 05:07,2021-05-01
+75,75,02:50 CA1037,,Shanghai (PVG),Air China 77F,Unknown,2021-05-01
+76,76,03:40 QF7557,,Sydney (SYD),Atlas Air B748 (N854GT),Landed 16:03,2021-05-01
+77,77,07:15 O36905,,Hangzhou (HGH),SF Airlines B752 (B-7082),Landed 15:46,2021-05-01
+78,78,07:40 O36904,,Shenzhen (SZX),SF Airlines B752 (B-2844),Landed 17:51,2021-05-01
+79,79,07:50 3U8279,,Kunming (KMG),Sichuan Airlines A320 (B-8500),Landed 07:28,2021-05-01
+80,80,08:01 ET3779,,Shanghai (PVG),Ethiopian Airlines 77X,Unknown,2021-05-01
+81,81,08:01 9H8333,,Xi'an (XIY),Air Changan B738 (B-1163),Landed 07:31,2021-05-01
+82,82,08:10 SC4814,,Kunming (KMG),Shandong Airlines B738 (B-1985),Landed 07:42,2021-05-01
+83,83,08:35 9C8613,,Shenzhen (SZX),Spring Airlines A320 (B-1026),Landed 08:37,2021-05-01
+84,84,08:40 G54662,,Xingyi (ACX),China Express Airlines CRJ9 (B-3363),Landed 08:09,2021-05-01
+85,85,08:40 G56078,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+86,86,08:40 G56125,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+87,87,08:40 G56126,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+88,88,08:40 G56129,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+89,89,08:40 G56130,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+90,90,08:40 G56131,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+91,91,08:40 G56132,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+92,92,08:40 G56133,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+93,93,08:40 G56127,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+94,94,08:40 G56271,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+95,95,08:40 G56338,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+96,96,08:40 G56404,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+97,97,08:40 G56401,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+98,98,08:40 G56443,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+99,99,08:40 G56489,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+100,100,08:40 G56578,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+101,101,08:40 G56594,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+102,102,08:40 G56643,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+103,103,08:40 G56656,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+104,104,08:40 G56654,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+105,105,08:40 G56746,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+106,106,08:40 G56803,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+107,107,08:40 G56850,,Xingyi (ACX),China Express Airlines 320,Unknown,2021-05-01
+108,108,08:45 G56817,,Jinghong (JHG),China Express Airlines 320,Unknown,2021-05-01
+109,109,08:45 3U8035,,Jinghong (JHG),Sichuan Airlines A320 (B-1886),Landed 08:33,2021-05-01
+110,110,08:45 3U8513,,Kunming (KMG),Sichuan Airlines A321 (B-305T),Landed 08:19,2021-05-01
+111,111,08:50 BK2921,,Changsha (CSX),OKAir B739 (B-1420),Landed 08:38,2021-05-01
+112,112,08:50 DZ6215,,Shenzhen (SZX),Donghai Airlines 738,Unknown,2021-05-01
+113,113,08:50 G56554,,Nanchang (KHN),China Express Airlines 320,Unknown,2021-05-01
+114,114,08:50 ZH8809,,Nanchang (KHN),Shenzhen Airlines B738 (B-1972),Landed 08:40,2021-05-01
+115,115,08:55 CZ6175,,Wuhan (WUH),China Southern Airlines B737 (B-5069),Landed 08:45,2021-05-01
+116,116,08:55,ZH8515,Wuxi (WUX),Shenzhen Airlines B738 (B-5778),Landed 08:47,2021-05-01
+117,117,08:55 OQ2083,,Zhuhai (ZUH),Chongqing Airlines A319 (B-6187),Landed 08:50,2021-05-01
+118,118,09:00 8L9817,,Lijiang (LJG),Lucky Air A320 (B-8445),Landed 08:30,2021-05-01
+119,119,09:05 JD5227,,Guangzhou (CAN),Capital Airlines A321 (B-302V),Landed 09:05,2021-05-01
+120,120,09:15,DR5331,Mangshi (LUM),Ruili Airlines B737 (B-5812),Landed 08:43,2021-05-01
+121,121,09:20 GX2035,,Yulin (UYN),GX Airlines E90,Unknown,2021-05-01
+122,122,09:20 HU7481,,Changsha (CSX),Hainan Airlines B738 (B-5520),Landed 08:59,2021-05-01
+123,123,09:30 CF9008,,Changsha (CSX),China Postal Airlines 73F,Unknown,2021-05-01
+124,124,09:30 G56419,,Shenzhen (SZX),China Express Airlines 320,Unknown,2021-05-01
+125,125,09:30 HU7157,,Shenzhen (SZX),Hainan Airlines B789 (B-208T),Landed 09:17,2021-05-01
+126,126,09:30,MU2261,Xi'an (XIY),China Eastern (SkyTeam Livery) A321 (B-1838),Landed 09:30,2021-05-01
+127,127,09:30,SC2263,Jinan (TNA),Shandong Airlines (DEEJ Livery) B738 (B-1931),Landed 09:01,2021-05-01
+128,128,09:30,3U3165,Hangzhou (HGH),Sichuan Airlines A319 (B-6453),Landed 09:46,2021-05-01
+129,129,09:35 G56309,,Kunming (KMG),China Express Airlines 320,Unknown,2021-05-01
+130,130,09:35 G56349,,Kunming (KMG),China Express Airlines 320,Unknown,2021-05-01
+131,131,09:35 MU2903,,Changzhou (CZX),China Eastern Airlines A320 (B-9970),Landed 09:22,2021-05-01
+132,132,09:35,MU5863,Kunming (KMG),China Eastern Airlines B738 (B-1308),Landed 09:35,2021-05-01
+133,133,09:35,ZH9421,Shenzhen (SZX),Shenzhen Airlines B738 (B-5670),Landed 09:26,2021-05-01
+134,134,09:40,MF8467,Xiamen (XMN),Xiamen Air B737 (B-5278),Landed 09:41,2021-05-01
+135,135,09:40 MF8611,,Quanzhou (JJN),Xiamen Air B738 (B-7831),Landed 09:29,2021-05-01
+136,136,09:40 MU9765,,Wuxi (WUX),China Eastern Airlines A320 (B-6637),Landed 09:38,2021-05-01
+137,137,09:45,CA1437,Beijing (PEK),Air China B77W (B-2085),Landed 09:55,2021-05-01
+138,138,09:45 OQ2356,,Guangzhou (CAN),Chongqing Airlines A21N (B-30EL),Landed 09:32,2021-05-01
+139,139,09:50 CZ6797,,Nanning (NNG),China Southern Airlines B738 (B-5738),Landed 09:51,2021-05-01
+140,140,09:50 G56312,,Nanning (NNG),China Express Airlines 320,Unknown,2021-05-01
+141,141,09:50 G56480,,Haikou (HAK),China Express Airlines 320,Unknown,2021-05-01
+142,142,09:50 HU7171,,Haikou (HAK),Hainan Airlines B738 (B-5709),Landed 09:48,2021-05-01
+143,143,09:50,SC2199,Qingdao (TAO),Shandong Airlines B738 (B-5627),Landed 10:16,2021-05-01
+144,144,09:55,CZ8817,Beijing (PKX),China Southern Airlines B738 (B-1780),Landed 09:24,2021-05-01
+145,145,09:55,SC8725,Xiamen (XMN),Shandong Airlines (Zhongtai Securities Livery) B738 (B-5651),Landed 09:48,2021-05-01
+146,146,09:55 OQ2328,,Zhanjiang (ZHA),Chongqing Airlines A20N (B-305M),Landed 09:38,2021-05-01
+147,147,10:00,CA1759,Hangzhou (HGH),Air China A320 (B-6677),Landed 09:58,2021-05-01
+148,148,10:00 G56605,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-05-01
+149,149,10:00 HU7141,,Guangzhou (CAN),Hainan Airlines B738 (B-7886),Landed 09:44,2021-05-01
+150,150,10:00 MU6681,,Beijing (PKX),China Eastern Airlines A333 (B-1041),Landed 09:41,2021-05-01
+151,151,10:05,DR5303,Wuxi (WUX),Ruili Airlines B738 (B-7866),Landed 10:34,2021-05-01
+152,152,10:10,CZ3463,Guangzhou (CAN),China Southern Airlines A319 (B-6208),Landed 10:06,2021-05-01
+153,153,10:10 G56603,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-05-01
+154,154,10:15 CZ6227,,Sanya (SYX),China Southern Airlines A332 (B-6526),Landed 10:20,2021-05-01
+155,155,10:15 GY7177,,Huai'an (HIA),Colorful Guizhou Airlines A20N (B-321V),Landed 10:02,2021-05-01
+156,156,10:15 G56313,,Sanya (SYX),China Express Airlines 320,Unknown,2021-05-01
+157,157,10:20 JD5267,,Nanjing (NKG),Capital Airlines A319 (B-6180),Landed 09:54,2021-05-01
+158,158,10:20 9C8897,,Shanghai (SHA),Spring Airlines A21N (B-322P),Landed 10:11,2021-05-01
+159,159,10:25 G56484,,Fuzhou (FOC),China Express Airlines 320,Unknown,2021-05-01
+160,160,10:25 G56562,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-05-01
+161,161,10:25 MF8445,,Fuzhou (FOC),Xiamen Air B738 (B-6889),Landed 10:44,2021-05-01
+162,162,10:25 MU2925,,Nanjing (NKG),China Eastern Airlines A321 (B-6366),Landed 10:34,2021-05-01
+163,163,10:25 MU5483,,Hefei (HFE),China Eastern Airlines A320 (B-8557),Landed 10:28,2021-05-01
+164,164,10:30 CA8651,,Beijing (PKX),Air China B738 (B-5447),Landed 09:51,2021-05-01
+165,165,10:30 CZ3887,,Yiwu (YIW),China Southern Airlines B738 (B-1920),Landed 10:24,2021-05-01
+166,166,10:30 CZ6313,,Haikou (HAK),China Southern Airlines A320 (B-6627),Landed 10:30,2021-05-01
+167,167,10:30 G56893,,Haikou (HAK),China Express Airlines 320,Unknown,2021-05-01
+168,168,10:35 CZ3465,,Shenzhen (SZX),China Southern Airlines A21N (B-303K),Landed 10:16,2021-05-01
+169,169,10:35 G54144,,Guyuan (GYU),China Express Airlines A320 (B-304S),Landed 10:22,2021-05-01
+170,170,10:35 G56305,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-05-01
+171,171,10:35 G56311,,Shenzhen (SZX),China Express Airlines 320,Unknown,2021-05-01
+172,172,10:35 G56492,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-05-01
+173,173,10:35 G56494,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-05-01
+174,174,10:35 G56510,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-05-01
+175,175,10:35 G56534,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-05-01
+176,176,10:35 G56539,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-05-01
+177,177,10:35 G56557,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-05-01
+178,178,10:35 G56581,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-05-01
+179,179,10:35 G56586,,Guyuan (GYU),China Express Airlines 320,Unknown,2021-05-01
+180,180,10:40 CA1679,,Tianjin (TSN),Air China B738 (B-7182),Landed 11:09,2021-05-01
+181,181,10:40 CZ6353,,Zhengzhou (CGO),China Southern Airlines B738 (B-1980),Landed 10:13,2021-05-01
+182,182,10:40 CZ8285,,Zhuhai (ZUH),China Southern Airlines B738 (B-1525),Landed 10:56,2021-05-01
+183,183,10:40 G56498,,Zhuhai (ZUH),China Express Airlines 320,Unknown,2021-05-01
+184,184,10:40 HO1245,,Shanghai (PVG),Juneyao Air A320 (B-6962),Landed 10:20,2021-05-01
+185,185,10:40 MU5421,,Shanghai (SHA),China Eastern Airlines A332 (B-6099),Landed 10:41,2021-05-01
+186,186,10:40 NX182,,Macau (MFM),Air Macau A320 (B-MBC),Landed 10:38,2021-05-01
+187,187,10:45 CA1953,,Wenzhou (WNZ),Air China A320 (B-8337),Landed 10:59,2021-05-01
+188,188,10:45 FU6507,,Fuzhou (FOC),Fuzhou Airlines B738 (B-1906),Landed 11:22,2021-05-01
+189,189,10:50 CZ8917,,Beijing (PKX),China Southern Airlines A320 (B-1802),Landed 10:09,2021-05-01
+190,190,10:50 HU7267,,Beijing (PEK),Hainan Airlines B738 (B-5481),Landed 10:24,2021-05-01
+191,191,10:50 MF8803,,Hangzhou (HGH),Xiamen Air B737 (B-5277),Landed 11:08,2021-05-01
+192,192,10:50 MU6683,,Beijing (PKX),China Eastern Airlines A20N (B-302H),Landed 10:31,2021-05-01
+193,193,10:55 MF8582,,Shanghai (SHA),Xiamen Air B738 (B-6482),Landed 10:50,2021-05-01
+194,194,10:55 PN6256,,Nanchang (KHN),West Air A320 (B-1898),Landed 10:57,2021-05-01
+195,195,10:55 3U8138,,Nanning (NNG),Sichuan Airlines A320 (B-1822),Landed 10:54,2021-05-01
+196,196,10:55 3U8775,,Hangzhou (HGH),Sichuan Airlines (Summer Universiade 2021 Livery) A333 (B-5945),Landed 10:48,2021-05-01
+197,197,11:00 CA1431,,Beijing (PEK),Air China B789 (B-1466),Landed 10:53,2021-05-01
+198,198,11:00 CA4488,,Yinchuan (INC),Air China B738 (B-1527),Landed 10:38,2021-05-01
+199,199,11:00 G56486,,Yinchuan (INC),China Express Airlines 320,Unknown,2021-05-01
+200,200,11:00 PN6216,,Qamdo (BPX),West Air A319 (B-6420),Landed 10:28,2021-05-01
+201,201,11:00 OQ2014,,Huangyan (HYN),Chongqing Airlines A20N (B-305Q),Landed 11:05,2021-05-01
+202,202,11:05 ZH9423,,Shenzhen (SZX),Shenzhen Airlines B739 (B-5103),Landed 10:42,2021-05-01
+203,203,11:10 CZ6307,,Sanya (SYX),China Southern Airlines A320 (B-6577),Landed 11:12,2021-05-01
+204,204,11:10 TV9904,,Qamdo (BPX),Tibet Airlines A319 (B-322D),Landed 11:06,2021-05-01
+205,205,11:20 CA4354,,Guangzhou (CAN),Air China B738 (B-1531),Landed 11:31,2021-05-01
+206,206,11:20 PN6362,,Kunming (KMG),West Air A320 (B-8422),Landed 11:01,2021-05-01
+207,207,11:25 KN5717,,Beijing (PKX),China United Airlines B738 (B-5547),Landed 11:03,2021-05-01
+208,208,11:30 PN6396,,Taiyuan (TYN),China West Air A321 (B-321T),Landed 11:26,2021-05-01
+209,209,11:40 G52634,,Qianjiang (JIQ),China Express Airlines CRJ9 (B-3297),Unknown,2021-05-01
+210,210,11:40 G56247,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-05-01
+211,211,11:40 G56395,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-05-01
+212,212,11:40 G56475,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-05-01
+213,213,11:40 G56553,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-05-01
+214,214,11:40 G56720,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-05-01
+215,215,11:40 G56785,,Qianjiang (JIQ),China Express Airlines 320,Unknown,2021-05-01
+216,216,11:40 3U8106,,Xining (XNN),Sichuan Airlines A320 (B-1885),Landed 11:20,2021-05-01
+217,217,11:40 9C6195,,Yangzhou (YTY),Spring Airlines A320 (B-6971),Landed 11:41,2021-05-01
+218,218,11:45 PN6236,,Nanjing (NKG),West Air A320 (B-8110),Landed 11:51,2021-05-01
+219,219,11:50 CA1943,,Shanghai (PVG),Air China A333 (B-8579),Landed 12:02,2021-05-01
+220,220,11:50 EU2717,,Beihai (BHY),Chengdu Airlines A320 (B-8162),Landed 11:34,2021-05-01
+221,221,11:50 G56392,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-05-01
+222,222,11:50 MF8403,,Xiamen (XMN),Xiamen Air B788 (B-2762),Landed 11:57,2021-05-01
+223,223,11:55 CZ6579,,Tianjin (TSN),China Southern Airlines A321 (B-2285),Landed 11:49,2021-05-01
+224,224,11:55 FM9421,,Shanghai (SHA),China Eastern Airlines A333 (B-304A),Landed 11:29,2021-05-01
+225,225,11:55 G56343,,Tianjin (TSN),China Express Airlines 320,Unknown,2021-05-01
+226,226,11:55 3U8048,,Zhuhai (ZUH),Sichuan Airlines A321 (B-6920),Landed 11:59,2021-05-01
+227,227,12:00 DZ6293,,Nantong (NTG),Donghai Airlines B738 (B-6983),Landed 12:26,2021-05-01
+228,228,12:00 OQ2002,,Beijing (PKX),Chongqing Airlines A20N (B-302L),Landed 11:35,2021-05-01
+229,229,12:05,CA1429,Beijing (PEK),Air China B77W (B-1282),Landed 11:43,2021-05-01
+230,230,12:05 CZ6403,,Shenyang (SHE),China Southern Airlines A321 (B-2288),Landed 11:42,2021-05-01
+231,231,12:05 G56473,,Beijing (PEK),China Express Airlines 320,Unknown,2021-05-01
+232,232,12:05 G56674,,Sanya (SYX),China Express Airlines 320,Unknown,2021-05-01
+233,233,12:05,3U8759,Sanya (SYX),Sichuan Airlines A21N (B-1056),Landed 11:46,2021-05-01
+234,234,12:05,3U8793,Guangzhou (CAN),Sichuan Airlines A21N (B-309C),Landed 12:05,2021-05-01
+235,235,12:10 G56455,,Tianjin (TSN),China Express Airlines 320,Unknown,2021-05-01
+236,236,12:10,3U8461,Tianjin (TSN),Sichuan Airlines A321 (B-300A),Landed 12:18,2021-05-01
+237,237,12:15,CZ3405,Guangzhou (CAN),China Southern Airlines B77W (B-2008),Landed 12:33,2021-05-01
+238,238,12:15 GJ6017,,Qianjiang (JIQ),Loong Air A320 (B-8243),Landed 11:55,2021-05-01
+239,239,12:15 PN6218,,Xuzhou (XUZ),West Air A320 (B-8892),Landed 12:43,2021-05-01
+240,240,12:15,3U8819,Zhongwei (ZHY),Sichuan Airlines A319 (B-2298),Landed 11:48,2021-05-01
+241,241,12:20 CZ6363,,Changchun (CGQ),China Southern Airlines A320 (B-6678),Landed 12:08,2021-05-01
+242,242,12:20,TV9834,Nyingchi (LZY),Tibet Airlines A319 (B-6473),Landed 12:25,2021-05-01
+243,243,12:25 GS6584,,Zhengzhou (CGO),Tianjin Airlines A333 (B-302D),Landed 12:14,2021-05-01
+244,244,12:25 PN6348,,Haikou (HAK),West Air A320 (B-8286),Landed 12:12,2021-05-01
+245,245,12:30,3U8006,Jieyang (SWA),Sichuan Airlines A321 (B-1823),Landed 12:22,2021-05-01
+246,246,12:30,3U8030,Nyingchi (LZY),Sichuan Airlines A319 (B-6410),Landed 12:03,2021-05-01
+247,247,12:40,CA4546,Nanjing (NKG),Air China B738 (B-1768),Landed 12:54,2021-05-01
+248,248,12:40 PN6450,,Shigatse (RKZ),West Air A319 (B-6421),Landed 12:16,2021-05-01
+249,249,12:40 OQ2165,,Ningbo (NGB),Chongqing Airlines A20N (B-305P),Landed 11:59,2021-05-01
+250,250,12:45 CZ6985,,Urumqi (URC),China Southern Airlines B738 (B-5761),Landed 12:28,2021-05-01
+251,251,12:45 G56157,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-05-01
+252,252,12:45,MU5493,Shanghai (PVG),China Eastern Airlines A319 (B-6446),Landed 12:34,2021-05-01
+253,253,12:50 HU7371,,Haikou (HAK),Hainan Airlines B738 (B-5580),Landed 13:00,2021-05-01
+254,254,12:50,3U8782,Shenzhen (SZX),Sichuan Airlines A321 (B-8438),Landed 12:43,2021-05-01
+255,255,12:55,3U8634,Lhasa (LXA),Sichuan Airlines A319 (B-6175),Landed 12:38,2021-05-01
+256,256,13:00,CA4562,Nanchang (KHN),Air China B738 (B-7180),Landed 12:36,2021-05-01
+257,257,13:00 CZ3475,,Zhengzhou (CGO),China Southern Airlines B738 (B-5042),Landed 12:47,2021-05-01
+258,258,13:00 CZ8911,,Beijing (PKX),China Southern Airlines A321 (B-6353),Landed 12:22,2021-05-01
+259,259,13:00 MU5425,,Shanghai (SHA),China Eastern Airlines A320 (B-6559),Landed 13:09,2021-05-01
+260,260,13:00 3U8984,,Ningbo (NGB),Sichuan Airlines A321 (B-9967),Landed 13:05,2021-05-01
+261,261,13:00 OQ2306,,Guangzhou (CAN),Chongqing Airlines A20N (B-302K),Unknown,2021-05-01
+262,262,13:00 OQ2052,,Hohhot (HET),Chongqing Airlines A20N (B-305N),Landed 12:30,2021-05-01
+263,263,13:05 G56209,,Jinan (TNA),China Express Airlines 320,Unknown,2021-05-01
+264,264,13:05 G56221,,Jinan (TNA),China Express Airlines 320,Unknown,2021-05-01
+265,265,13:05 3U8198,,Hefei (HFE),Sichuan Airlines A21N (B-8599),Landed 12:45,2021-05-01
+266,266,13:05 3U8508,,Jinan (TNA),Sichuan Airlines A21N (B-305S),Landed 12:52,2021-05-01
+267,267,13:05 OQ2304,,Wenzhou (WNZ),Chongqing Airlines A319 (B-6407),Unknown,2021-05-01
+268,268,13:15 MF8407,,Hangzhou (HGH),Xiamen Air B738 (B-1456),Landed 13:41,2021-05-01
+269,269,13:15 G56889,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-05-01
+270,270,13:20 MF8772,,Qingdao (TAO),Xiamen Air B738 (B-1580),Landed 13:23,2021-05-01
+271,271,13:20 PN6214,,Sanya (SYX),China West Air A321 (B-321R),Landed 13:10,2021-05-01
+272,272,13:20 SC4950,,Shanghai (SHA),Shandong Airlines (DEEJ Livery) B738 (B-1932),Landed 13:04,2021-05-01
+273,273,13:25 G54192,,Shanghai (PVG),China Express Airlines AJ27 (B-650Q),Landed 13:25,2021-05-01
+274,274,13:25 G56190,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-05-01
+275,275,13:25 OQ2378,,Wuhan (WUH),Chongqing Airlines A319 (B-6246),Landed 13:15,2021-05-01
+276,276,13:35 CA4419,,Lhasa (LXA),Air China A332 (B-6081),Unknown,2021-05-01
+277,277,13:35 CA4554,,Hangzhou (HGH),Air China B738 (B-7181),Landed 13:33,2021-05-01
+278,278,13:35 G56641,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-05-01
+279,279,13:35 G56770,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-05-01
+280,280,13:40 CA4320,,Guangzhou (CAN),Air China B789 (B-7832),Landed 13:23,2021-05-01
+281,281,13:40 G56256,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-05-01
+282,282,13:40 G56258,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-05-01
+283,283,13:45 G56380,,Beijing (PEK),China Express Airlines 320,Unknown,2021-05-01
+284,284,13:45 3U8749,,Beijing (PEK),Sichuan Airlines A320 (B-6322),Landed 13:17,2021-05-01
+285,285,13:50 CA4574,,Zhengzhou (CGO),Air China B737 (B-2613),Landed 13:45,2021-05-01
+286,286,13:50 CA4552,,Dali (DLU),Air China B737 (B-5220),Landed 13:27,2021-05-01
+287,287,13:50 CZ6949,,Urumqi (URC),China Southern Airlines B738 (B-7972),Landed 13:41,2021-05-01
+288,288,13:50 3U3166,,Kangding (KGT),Sichuan Airlines A319 (B-6453),Landed 13:39,2021-05-01
+289,289,13:55 G56391,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-05-01
+290,290,13:55 3U8972,,Shanghai (PVG),Sichuan Airlines A321 (B-1057),Landed 13:48,2021-05-01
+291,291,14:00 CA4344,,Shenzhen (SZX),Air China B789 (B-1368),Landed 13:37,2021-05-01
+292,292,14:00 HU7339,,Sanya (SYX),Hainan Airlines (Hainan Free Trade Port Livery) B789 (B-1540),Landed 13:30,2021-05-01
+293,293,14:00 3U8950,,Wuxi (WUX),Sichuan Airlines A21N (B-307D),Landed 14:57,2021-05-01
+294,294,14:00 OQ2380,,Hangzhou (HGH),Chongqing Airlines A20N (B-307R),Landed 14:14,2021-05-01
+295,295,14:05 CA1445,,Beijing (PEK),Air China B738 (B-5426),Landed 13:52,2021-05-01
+296,296,14:05 CA4560,,Zhuhai (ZUH),Air China (Gold Peony Livery) B738 (B-5390),Landed 13:44,2021-05-01
+297,297,14:05 G56382,,Beijing (PEK),China Express Airlines 320,Unknown,2021-05-01
+298,298,14:05 MU5427,,Shanghai (PVG),China Eastern Airlines A321 (B-8406),Landed 14:06,2021-05-01
+299,299,14:10 MU5865,,Zhaotong (ZAT),China Eastern (Yunnan Peacock Livery) B737 (B-5807),Landed 14:19,2021-05-01
+300,300,14:10 OQ2324,,Guangzhou (CAN),Chongqing Airlines A21N (B-30E8),Landed 13:47,2021-05-01
+301,301,14:15 CA4124,,Xiamen (XMN),Air China B738 (B-1765),Landed 14:28,2021-05-01
+302,302,14:15 G56618,,Fuzhou (FOC),China Express Airlines 320,Unknown,2021-05-01
+303,303,14:15 MF8613,,Fuzhou (FOC),Xiamen Air B738 (B-7176),Landed 13:51,2021-05-01
+304,304,14:15 OQ2342,,Shangri-La (DIG),Chongqing Airlines A319 (B-6183),Landed 13:58,2021-05-01
+305,305,14:20 MF8265,,Quanzhou (JJN),Xiamen Air B738 (B-5595),Landed 14:11,2021-05-01
+306,306,14:20 SC4781,,Qingdao (TAO),Shandong Airlines B738 (B-5450),Landed 14:41,2021-05-01
+307,307,14:25,CA4332,Hangzhou (HGH),Air China B738 (B-1956),Landed 14:37,2021-05-01
+308,308,14:30,3U8514,Lanzhou (LHW),Sichuan Airlines A321 (B-305T),Landed 14:23,2021-05-01
+309,309,14:35,CA4340,Nanjing (NKG),Air China B738 (B-2657),Landed 14:35,2021-05-01
+310,310,14:35,CA4544,Shanghai (SHA),Air China B789 (B-1469),Landed 14:32,2021-05-01
+311,311,14:40 CZ8537,,Zhengzhou (CGO),China Southern Airlines B738 (B-1400),Landed 14:30,2021-05-01
+312,312,14:40 HU7457,,Shenzhen (SZX),Hainan Airlines (Blue & White Lange Livery) B789 (B-6969),Landed 14:29,2021-05-01
+313,313,14:45,ZH9425,Shenzhen (SZX),Shenzhen Airlines B738 (B-5772),Landed 14:25,2021-05-01
+314,314,14:45,3U8125,Yantai (YNT),Sichuan Airlines A321 (B-1890),Landed 15:52,2021-05-01
+315,315,14:45 OQ2302,,Beijing (PKX),Chongqing Airlines A21N (B-30E3),Landed 14:26,2021-05-01
+316,316,14:50,HO1053,Shanghai (PVG),Juneyao Air A321 (B-1005),Landed 16:53,2021-05-01
+317,317,14:50 OQ2084,,Daocheng (DCY),Chongqing Airlines A319 (B-6187),Landed 14:19,2021-05-01
+318,318,14:55,CA4130,Beijing (PEK),Air China B77W (B-2045),Landed 14:51,2021-05-01
+319,319,14:55,G52782,Tianshui (THQ),China Express Airlines CRJ9 (B-602P),Landed 14:39,2021-05-01
+320,320,14:55 G56034,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-05-01
+321,321,14:55 G56039,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-05-01
+322,322,14:55 G56040,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-05-01
+323,323,14:55 G56187,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-05-01
+324,324,14:55 G56191,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-05-01
+325,325,14:55 G56468,,Tianshui (THQ),China Express Airlines 320,Unknown,2021-05-01
+326,326,14:55 HU7472,,Wenzhou (WNZ),Hainan Airlines B738 (B-7616),Landed 15:15,2021-05-01
+327,327,15:00,DR5358,Lancang (JMJ),Ruili Airlines B737 (B-5812),Landed 14:52,2021-05-01
+328,328,15:00 GX8891,,Nanning (NNG),GX Airlines E90,Unknown,2021-05-01
+329,329,15:00 G56246,,Lancang (JMJ),China Express Airlines 320,Unknown,2021-05-01
+330,330,15:00 OQ2308,,Shanghai (PVG),Chongqing Airlines A320 (B-6641),Landed 15:21,2021-05-01
+331,331,15:10 G56488,,Guangzhou (CAN),China Express Airlines 320,Unknown,2021-05-01
+332,332,15:10 HU7341,,Guangzhou (CAN),Hainan Airlines B789 (B-207V),Landed 14:49,2021-05-01
+333,333,15:10,3U8594,Changzhou (CZX),Sichuan Airlines A21N (B-8598),Landed 15:23,2021-05-01
+334,334,15:15 GS6590,,Hangzhou (HGH),Tianjin Airlines A332 (B-8776),Landed 15:28,2021-05-01
+335,335,15:15,G52768,Liuzhou (LZH),China Express Airlines A320 (B-307X),Landed 14:50,2021-05-01
+336,336,15:15 G56606,,Liuzhou (LZH),China Express Airlines 320,Unknown,2021-05-01
+337,337,15:15,MU5429,Shanghai (SHA),China Eastern Airlines A333 (B-8863),Landed 16:58,2021-05-01
+338,338,15:20,G52720,Changzhi (CIH),China Express Airlines A320 (B-307T),Landed 15:17,2021-05-01
+339,339,15:20 G56198,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+340,340,15:20 G56205,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+341,341,15:20 G56242,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+342,342,15:20 G56243,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+343,343,15:20 G56286,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+344,344,15:20 G56393,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+345,345,15:20 G56394,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+346,346,15:20 G56669,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+347,347,15:20 G56670,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+348,348,15:20 G56685,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+349,349,15:25,CZ3455,Shenzhen (SZX),China Southern Airlines A21N (B-303G),Landed 15:27,2021-05-01
+350,350,15:25 PN6444,,Nanning (NNG),West Air A320 (B-8643),Landed 15:01,2021-05-01
+351,351,15:30 GT1067,,Zhengzhou (CGO),Air Guilin A320 (B-1061),Landed 15:10,2021-05-01
+352,352,15:30 PN6306,,Jieyang (SWA),West Air A320 (B-8642),Landed 15:12,2021-05-01
+353,353,15:35,3U8036,Yangzhou (YTY),Sichuan Airlines A320 (B-1886),Landed 16:16,2021-05-01
+354,354,15:45,HU7412,Xiamen (XMN),Shan Xi Airlines B738 (B-5135),Landed 16:06,2021-05-01
+355,355,15:45,ZH8671,Nantong (NTG),Shenzhen Airlines A20N (B-30CL),Landed 16:11,2021-05-01
+356,356,15:50 CZ6291,,Wuhan (WUH),China Southern Airlines B737 (B-5068),Landed 15:49,2021-05-01
+357,357,15:50 G54852,,Korla (KRL),China Express Airlines A320 (B-8696),Landed 15:32,2021-05-01
+358,358,15:50 9C8752,,Ji'an (JGS),Spring Airlines A320 (B-1023),Landed 15:55,2021-05-01
+359,359,15:50 G56895,,Korla (KRL),China Express Airlines 320,Unknown,2021-05-01
+360,360,15:55 CA4138,,Beijing (PEK),Air China B738 (B-1419),Landed 15:49,2021-05-01
+361,361,15:55 G56524,,Beijing (PEK),China Express Airlines 320,Unknown,2021-05-01
+362,362,16:00 CA4596,,Shanghai (PVG),Air China B738 (B-1416),Landed 16:30,2021-05-01
+363,363,16:00 CZ3425,,Guangzhou (CAN),China Southern Airlines A332 (B-6531),Landed 15:31,2021-05-01
+364,364,16:00 PN6438,,Shanghai (PVG),West Air A320 (B-8102),Landed 15:41,2021-05-01
+365,365,16:05 CA4498,,Dali (DLU),Air China B737 (B-5803),Landed 16:00,2021-05-01
+366,366,16:05 CZ8815,,Beijing (PKX),China Southern Airlines A321 (B-6356),Landed 15:38,2021-05-01
+367,367,16:05 MU2737,,Nanjing (NKG),China Eastern Airlines A320 (B-2221),Landed 15:52,2021-05-01
+368,368,16:10 PN6220,,Wuhan (WUH),China West Air A321 (B-321S),Landed 15:57,2021-05-01
+369,369,16:15 CZ3479,,Zhengzhou (CGO),China Southern Airlines B738 (B-2696),Landed 16:01,2021-05-01
+370,370,16:15 CZ6345,,Harbin (HRB),China Southern Airlines A320 (B-2406),Landed 15:34,2021-05-01
+371,371,16:15 G56767,,Harbin (HRB),China Express Airlines 320,Unknown,2021-05-01
+372,372,16:15 QW9831,,Qianjiang (JIQ),Qingdao Airlines A20N (B-304R),Landed 16:27,2021-05-01
+373,373,16:20 G56526,,Xiamen (XMN),China Express Airlines 320,Unknown,2021-05-01
+374,374,16:20 MF8491,,Xiamen (XMN),Xiamen Air B738 (B-5655),Landed 16:14,2021-05-01
+375,375,16:20 MU2785,,Changzhou (CZX),China Eastern Airlines A320 (B-1635),Landed 17:13,2021-05-01
+376,376,16:25 MU9775,,Wuxi (WUX),China Eastern Airlines A320 (B-6891),Landed 17:31,2021-05-01
+377,377,16:25 9C8867,,Shanghai (PVG),Spring Airlines A20N (B-30DD),Landed 20:30,2021-05-01
+378,378,16:30 HU7257,,Shenzhen (SZX),Hainan Airlines B789 (B-208T),Landed 16:23,2021-05-01
+379,379,16:35 FM9419,,Shanghai (SHA),Shanghai Airlines B738 (B-5691),Landed 16:45,2021-05-01
+380,380,16:35 3U8362,,Changsha (CSX),Sichuan Airlines A320 (B-1661),Landed 16:20,2021-05-01
+381,381,16:35 G56873,,Changsha (CSX),China Express Airlines 320,Unknown,2021-05-01
+382,382,16:40 PN6412,,Nanchang (KHN),West Air A320 (B-1898),Landed 16:32,2021-05-01
+383,383,16:45 MU2395,,Ningbo (NGB),China Eastern Airlines A20N (B-30DT),Landed 17:01,2021-05-01
+384,384,16:50 CA1761,,Hangzhou (HGH),Air China A319 (B-6236),Landed 17:48,2021-05-01
+385,385,16:50 G54862,,Lyuliang (LLV),China Express Airlines A320 (B-30AZ),Landed 16:42,2021-05-01
+386,386,16:50 G56457,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-05-01
+387,387,16:50 G56568,,Shanghai (PVG),China Express Airlines 320,Unknown,2021-05-01
+388,388,16:50 HO1249,,Shanghai (PVG),Juneyao Air A20N (B-30EP),Landed 16:41,2021-05-01
+389,389,16:55 NS8035,,Beijing (PKX),Hebei Airlines B738 (B-1328),Landed 16:24,2021-05-01
+390,390,16:55 SC4838,,Qingdao (TAO),Shandong Airlines B738 (B-5758),Landed 16:48,2021-05-01
+391,391,17:00 CA1439,,Beijing (PEK),Air China B77W (B-2089),Landed 16:44,2021-05-01
+392,392,17:00 G56722,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-05-01
+393,393,17:00 MF8468,,Lhasa (LXA),Xiamen Air B737 (B-5278),Unknown,2021-05-01
+394,394,17:00 OQ2374,,Jinghong (JHG),Chongqing Airlines 319,Canceled,2021-05-01
+395,395,17:00 OQ2048,,Nanchang (KHN),Chongqing Airlines A20N (B-305M),Landed 16:50,2021-05-01
+396,396,17:05 BK3122,,Quanzhou (JJN),OKAir B739 (B-1420),Landed 17:22,2021-05-01
+397,397,17:05 MF8804,,Xichang (XIC),Xiamen Air B737 (B-5277),Landed 16:36,2021-05-01
+398,398,17:05 OQ2152,,Wuhai (WUA),Chongqing Airlines A20N (B-302J),Landed 16:36,2021-05-01
+399,399,17:10 CA4364,,Harbin (HRB),Air China B738 (B-1942),Landed 16:38,2021-05-01
+400,400,17:10 SC4990,,Zhuhai (ZUH),Shandong Airlines B738 (B-5627),Landed 16:55,2021-05-01
+401,401,17:10 OQ2318,,Guangzhou (CAN),Chongqing Airlines A21N (B-30EL),Landed 16:47,2021-05-01
+402,402,17:15,CA4526,Changchun (CGQ),Air China B738 (B-6496),Landed 16:55,2021-05-01
+403,403,17:20,G54902,Nanyang (NNY),China Express Airlines AJ27 (B-650P),Landed 18:27,2021-05-01
+404,404,17:20 OQ2364,,Linyi (LYI),Chongqing Airlines A20N (B-307S),Landed 17:07,2021-05-01
+405,405,17:25 CZ3464,,Lhasa (LXA),China Southern Airlines A319 (B-6208),Landed 17:07,2021-05-01
+406,406,17:25 CZ6404,,Kunming (KMG),China Southern Airlines A321 (B-6356),Landed 22:20,2021-05-01
+407,407,17:25 G56607,,Lhasa (LXA),China Express Airlines 320,Unknown,2021-05-01
+408,408,17:30,MF8390,Shenzhen (SZX),Xiamen Air B738 (B-1708),Landed 17:19,2021-05-01
+409,409,17:30,3U8156,Wuhan (WUH),Sichuan Airlines A320 (B-1885),Landed 17:09,2021-05-01
+410,410,17:40 MU6381,,Xinyang (XAI),China Eastern Airlines A320 (B-2338),Landed 17:16,2021-05-01
+411,411,17:40,SC4613,Jinan (TNA),Shandong Airlines (DEEJ Livery) B738 (B-1931),Landed 17:32,2021-05-01
+412,412,17:45,SC8879,Hefei (HFE),Shandong Airlines B738 (B-5561),Landed 17:38,2021-05-01
+413,413,17:45,3U8794,Yinchuan (INC),Sichuan Airlines A21N (B-309C),Landed 17:36,2021-05-01
+414,414,17:50,FM9423,Shanghai (SHA),Shanghai Airlines B738 (B-5831),Landed 18:45,2021-05-01
+415,415,17:50 GS7432,,Changsha (CSX),Tianjin Airlines A333 (B-302D),Landed 17:42,2021-05-01
+416,416,17:50,HO1247,Shanghai (PVG),Juneyao Air A321 (B-8315),Landed 17:42,2021-05-01
+417,417,17:55,3U8462,Beihai (BHY),Sichuan Airlines A321 (B-300A),Landed 17:35,2021-05-01
+418,418,17:55 OQ2190,,Liping (HZH),Chongqing Airlines A319 (B-6191),Landed 17:29,2021-05-01
+419,419,18:00,CZ3259,Beijing (PKX),China Southern Airlines A21N (B-306J),Landed 17:25,2021-05-01
+420,420,18:00,G54636,Rizhao (RIZ),China Express A20N (B-30F5),Landed 17:45,2021-05-01
+421,421,18:05,CA1411,Beijing (PEK),Air China A333 (B-5946),Landed 18:07,2021-05-01
+422,422,18:05,CA4576,Aksu (AKU),Air China B738 (B-5622),Landed 17:48,2021-05-01
+423,423,18:05 MU5494,,Baise (AEB),China Eastern Airlines A319 (B-6446),Landed 17:45,2021-05-01
+424,424,18:10,CA4156,Urumqi (URC),Air China B738 (B-5583),Landed 17:39,2021-05-01
+425,425,18:10 G56727,,Urumqi (URC),China Express Airlines 320,Unknown,2021-05-01
+426,426,18:10 MU5253,,Zhengzhou (CGO),China Eastern Airlines A321 (B-8651),Landed 18:02,2021-05-01
+427,427,18:10 PN6248,,Hefei (HFE),West Air A20N (B-8867),Landed 17:55,2021-05-01
+428,428,18:20,CA4580,Haikou (HAK),Air China B738 (B-1527),Landed 18:13,2021-05-01
+429,429,18:20 G56427,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-05-01
+430,430,18:20,MF8415,Hangzhou (HGH),Xiamen Air B738 (B-1706),Landed 18:51,2021-05-01
+431,431,18:20 3U8176,,-,Sichuan Airlines A319 (B-6175),Landed 17:53,2021-05-01
+432,432,18:30 G56792,,Beijing (PKX),China Express Airlines 320,Unknown,2021-05-01
+433,433,18:30 MU6685,,Beijing (PKX),China Eastern Airlines A333 (B-1041),Landed 19:03,2021-05-01
+434,434,18:35,3U8784,Shenzhen (SZX),Sichuan Airlines A321 (B-6920),Landed 18:57,2021-05-01
+435,435,18:35 9C8629,,Qianjiang (JIQ),Spring Airlines A320 (B-8700),Landed 19:18,2021-05-01
+436,436,18:40 CZ3476,,Beihai (BHY),China Southern Airlines B738 (B-5042),Landed 18:40,2021-05-01
+437,437,18:45,CZ3411,Guangzhou (CAN),China Southern Airlines B738 (B-1917),Landed 18:43,2021-05-01
+438,438,18:45 PN6302,,Quanzhou (JJN),West Air A20N (B-306W),Landed 18:32,2021-05-01
+439,439,18:45 OQ2350,,Jieyang (SWA),Chongqing Airlines A319 (B-6248),Landed 18:36,2021-05-01
+440,440,18:50 GT1095,,Panzhihua (PZI),Air Guilin A319 (B-6193),Landed 18:30,2021-05-01
+441,441,18:50 HU7441,,Guangzhou (CAN),Hainan Airlines A332 (B-6519),Landed 18:54,2021-05-01
+442,442,18:50,3U8776,Lhasa (LXA),Sichuan Airlines (Summer Universiade 2021 Livery) A333 (B-5945),Landed 18:21,2021-05-01
+443,443,18:55 G56099,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-05-01
+444,444,18:55,HO1693,Nanjing (NKG),Juneyao Air A20N (B-30FQ),Landed 19:00,2021-05-01
+445,445,18:55 PN6232,,Fuyang (FUG),West Air A320 (B-1629),Landed 18:37,2021-05-01
+446,446,19:00,CA4164,Yuncheng (YCU),Air China B738 (B-5682),Landed 19:00,2021-05-01
+447,447,19:00,CA8337,Wenzhou (WNZ),Air China A20N (B-308S),Landed 19:07,2021-05-01
+448,448,19:00,FM9425,Shanghai (SHA),Shanghai Airlines B789 (B-1112),Landed 21:00,2021-05-01
+449,449,19:00 G56071,,Wenzhou (WNZ),China Express Airlines 320,Unknown,2021-05-01
+450,450,19:00 G56296,,Shanghai (SHA),China Express Airlines 320,Unknown,2021-05-01
+451,451,19:00 G56667,,Shijiazhuang (SJW),China Express Airlines 320,Unknown,2021-05-01
+452,452,19:00,NS3242,Shijiazhuang (SJW),Hebei Airlines B738 (B-1560),Landed 18:52,2021-05-01
+453,453,19:00,ZH9427,Shenzhen (SZX),Shenzhen Airlines B738 (B-5775),Landed 19:07,2021-05-01
+454,454,19:05,CA1409,Beijing (PEK),Air China B738 (B-1763),Landed 18:48,2021-05-01
+455,455,19:05 G56328,,Beijing (PEK),China Express Airlines 320,Unknown,2021-05-01
+456,456,19:05 OQ2390,,Hangzhou (HGH),Chongqing Airlines A20N (B-302L),Landed 19:28,2021-05-01
+457,457,19:10 GS7867,,Ankang (AKA),Tianjin Airlines A320 (B-1619),Landed 18:55,2021-05-01
+458,458,19:10 PN6268,,Qingdao (TAO),West Air (Happy Valley Livery) A320 (B-9982),Landed 19:07,2021-05-01
+459,459,19:10 8L9582,,Xuzhou (XUZ),Lucky Air B738 (B-5409),Landed 19:09,2021-05-01
+460,460,19:15 KY8331,,Baoshan (BSD),Kunming Airlines B737 (B-7872),Landed 18:47,2021-05-01
+461,461,19:15 PN6406,,Ningbo (NGB),West Air A20N (B-302F),Landed 19:21,2021-05-01
+462,462,19:20 PN6204,,Sanya (SYX),China West Air A321 (B-321T),Landed 19:13,2021-05-01
+463,463,19:25 G56097,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-05-01
+464,464,19:25 HU7426,,Nanjing (NKG),Hainan Airlines B738 (B-5580),Landed 20:24,2021-05-01
+465,465,19:25 9C8995,,Shanghai (SHA),Spring Airlines A20N (B-308V),Landed 19:16,2021-05-01
+466,466,19:30 CZ3825,,Changsha (CSX),China Southern Airlines B738 (B-5718),Landed 19:12,2021-05-01
+467,467,19:35 CZ6950,,Kunming (KMG),China Southern Airlines B738 (B-7972),Landed 20:39,2021-05-01
+468,468,19:35 3U8750,,Jinghong (JHG),Sichuan Airlines A320 (B-6322),Landed 19:31,2021-05-01
+469,469,19:40 CZ6465,,Shenyang (SHE),China Southern Airlines A20N (B-8672),Landed 19:35,2021-05-01
+470,470,19:40 GS7917,,Tianjin (TSN),Tianjin Airlines A332 (B-8959),Landed 20:32,2021-05-01
+471,471,19:40 G56686,,Tianjin (TSN),China Express Airlines 320,Unknown,2021-05-01
+472,472,19:40 SC4716,,Qingdao (TAO),Shandong Airlines B738 (B-7565),Landed 19:28,2021-05-01
+473,473,19:40 G56872,,Shenyang (SHE),China Express Airlines 320,Unknown,2021-05-01
+474,474,19:45 SC4724,,Xiamen (XMN),Shandong Airlines B738 (B-5725),Landed 19:38,2021-05-01
+475,475,19:45 OQ2316,,Ningbo (NGB),Chongqing Airlines A319 (B-6246),Landed 20:35,2021-05-01
+476,476,19:50 OQ2026,,Dayong (DYG),Chongqing Airlines A320 (B-6761),Landed 19:52,2021-05-01
+477,477,19:55 G56093,,Nanjing (NKG),China Express Airlines 320,Unknown,2021-05-01
+478,478,19:55 G56331,,Beijing (PEK),China Express Airlines 320,Unknown,2021-05-01
+479,479,19:55 HU7497,,Hangzhou (HGH),Hainan Airlines B738 (B-5466),Landed 20:05,2021-05-01
+480,480,19:55 MU2845,,Nanjing (NKG),China Eastern Airlines A20N (B-306D),Landed 19:57,2021-05-01
+481,481,20:00 CA1435,,Beijing (PEK),Air China B789 (B-1466),Landed 19:57,2021-05-01
+482,482,20:00 FM9427,,Shanghai (SHA),Shanghai Airlines B737 (B-2577),Landed 20:01,2021-05-01
+483,483,20:00 G54302,,Handan (HDG),China Express Airlines CRJ9 (B-3363),Landed 20:05,2021-05-01
+484,484,20:00 G56096,,Hangzhou (HGH),China Express Airlines 320,Unknown,2021-05-01
+485,485,20:00 G56273,,Handan (HDG),China Express Airlines 320,Unknown,2021-05-01
+486,486,20:00 G56301,,Shanghai (SHA),China Express Airlines 320,Unknown,2021-05-01
+487,487,20:00 9C8925,,Luoyang (LYA),Spring Airlines A320 (B-6932),Landed 21:34,2021-05-01
+488,488,20:05 GJ8533,,Wushan (WSK),Loong Air A20N (B-1232),Landed 19:52,2021-05-01
+489,489,20:05 HU7167,,Beijing (PEK),Hainan Airlines B788 (B-2750),Landed 19:48,2021-05-01
+490,490,20:10 MU9982,,Huangshan City (TXN),China Eastern Airlines A320 (B-1862),Landed 19:42,2021-05-01
+491,491,20:10 SC4762,,Jinan (TNA),Shandong Airlines B738 (B-5490),Landed 19:54,2021-05-01
+492,492,20:15 CZ6798,,Urumqi (URC),China Southern Airlines B738 (B-5738),Landed 19:44,2021-05-01
+493,493,20:15 3U8190,,Nanning (NNG),Sichuan Airlines A321 (B-9967),Landed 19:46,2021-05-01
+494,494,20:20 G56094,,Wuxi (WUX),China Express Airlines 320,Unknown,2021-05-01
+495,495,20:20 MF8266,,Xining (XNN),Xiamen Air B738 (B-5595),Landed 20:01,2021-05-01
+496,496,20:20 MU9785,,Wuxi (WUX),China Eastern Airlines A320 (B-2230),Landed 21:49,2021-05-01
+497,497,20:20 PN6272,,Lhasa (LXA),West Air A319 (B-6412),Landed 19:52,2021-05-01
+498,498,20:25 MF8449,,Xiamen (XMN),Xiamen Air B738 (B-1457),Landed 20:28,2021-05-01
+499,499,20:25 MU2267,,Xi'an (XIY),China Eastern (SkyTeam Livery) A321 (B-1837),Landed 20:17,2021-05-01
+500,500,20:25 OQ2340,,Guangzhou (CAN),Chongqing Airlines A21N (B-30E8),Unknown,2021-05-01
+501,501,20:35,CA4350,Guangzhou (CAN),Air China B738 (B-7181),Landed 20:19,2021-05-01
+502,502,20:35,GJ8691,Hangzhou (HGH),Loong Air A20N (B-1077),Landed 20:58,2021-05-01
+503,503,20:35,3U8032,Xiamen (XMN),Sichuan Airlines A321 (B-8438),Landed 21:10,2021-05-01
+504,504,20:45 HU7271,,Haikou (HAK),Hainan Airlines B738 (B-5406),Landed 20:42,2021-05-01
+505,505,20:50 9C6153,,Shanghai (PVG),Spring Airlines A20N (B-303U),Landed 02:26,2021-05-01
+506,506,20:50 OQ2322,,Nanjing (NKG),Chongqing Airlines A319 (B-6247),Landed 21:13,2021-05-01
+507,507,20:50 OQ2012,,Wenzhou (WNZ),Chongqing Airlines A20N (B-302K),Landed 21:37,2021-05-01
+508,508,20:55 GS6582,,Hangzhou (HGH),Tianjin Airlines A332 (B-8659),Landed 21:27,2021-05-01
+509,509,20:55 OQ2166,,Lhasa (LXA),Chongqing Airlines A319 (B-6183),Landed 20:44,2021-05-01
+510,510,21:00,CA4016,Hefei (HFE),Air China (Gold Peony Livery) B738 (B-5390),Landed 20:50,2021-05-01
+511,511,21:00 G56059,,Jinan (TNA),China Express Airlines 320,Unknown,2021-05-01
+512,512,21:00,SC8792,Jinan (TNA),Shandong Airlines (Zhongtai Securities Livery) B738 (B-5651),Landed 20:24,2021-05-01
+513,513,21:00,3U8054,Jinan (TNA),Sichuan Airlines A320 (B-1822),Landed 21:02,2021-05-01
+514,514,21:05 CZ6308,,Urumqi (URC),China Southern Airlines A320 (B-6577),Landed 20:37,2021-05-01
+515,515,21:05 MU6687,,Beijing (PKX),China Eastern Airlines A333 (B-8972),Landed 20:21,2021-05-01
+516,516,21:05,ZH9429,Shenzhen (SZX),Shenzhen Airlines A333 (B-1072),Landed 21:04,2021-05-01
+517,517,21:05,ZH9462,Nanjing (NKG),Shenzhen Airlines B738 (B-1758),Landed 20:42,2021-05-01
+518,518,21:10 CZ6292,,Lijiang (LJG),China Southern Airlines B737 (B-5068),Landed 21:25,2021-05-01
+519,519,21:10,HU7493,Shanghai (PVG),Hainan Airlines B738 (B-1101),Landed 22:53,2021-05-01
+520,520,21:10,ZH8811,Nanchang (KHN),Shenzhen Airlines B738 (B-5402),Landed 21:09,2021-05-01
+521,521,21:10,3U8636,Lhasa (LXA),Sichuan Airlines A319 (B-2298),Landed 20:56,2021-05-01
+522,522,21:15 MU6995,,Taiyuan (TYN),China Eastern Airlines B738 (B-5858),Landed 20:47,2021-05-01
+523,523,21:15 PN6266,,Jinan (TNA),West Air A320 (B-8421),Landed 20:34,2021-05-01
+524,524,21:15,3U8510,Zhengzhou (CGO),Sichuan Airlines A321 (B-6551),Landed 20:51,2021-05-01
+525,525,21:15,3U8840,Nanjing (NKG),Sichuan Airlines A320 (B-6348),Landed 20:54,2021-05-01
+526,526,21:25,CA1449,Beijing (PEK),Air China A332 (B-6131),Landed 21:17,2021-05-01
+527,527,21:30 CZ3480,,Nanning (NNG),China Southern Airlines B738 (B-2696),Landed 21:19,2021-05-01
+528,528,21:30 MU2539,,Wuhan (WUH),China Eastern Airlines B738 (B-7375),Landed 21:15,2021-05-01
+529,529,21:30 PN6374,,Shanghai (PVG),China West Air A321 (B-321R),Landed 21:48,2021-05-01
+530,530,21:30,3U8010,Changsha (CSX),Sichuan Airlines A20N (B-30DZ),Landed 21:21,2021-05-01
+531,531,21:35 JD5695,,Hangzhou (HGH),Capital Airlines A321 (B-300F),Landed 21:49,2021-05-01
+532,532,21:35,SC8866,Taiyuan (TYN),Shandong Airlines B738 (B-1985),Landed 21:07,2021-05-01
+533,533,21:40,3U8494,Xi'an (XIY),Sichuan Airlines A320 (B-8323),Landed 21:28,2021-05-01
+534,534,21:40,3U8974,Shanghai (PVG),Sichuan Airlines A21N (B-8599),Landed 21:46,2021-05-01
+535,535,21:45,ZH8517,Wuxi (WUX),Shenzhen Airlines B738 (B-1710),Landed 23:03,2021-05-01
+536,536,21:50 AQ1199,,Guangzhou (CAN),9 Air B738 (B-7105),Landed 21:46,2021-05-01
+537,537,21:50 CZ6649,,Zhengzhou (CGO),China Southern Airlines B738 (B-1405),Landed 21:38,2021-05-01
+538,538,21:50,MU2835,Nanjing (NKG),China Eastern Airlines A319 (B-8017),Landed 21:33,2021-05-01
+539,539,21:50,SC4795,Qingdao (TAO),Shandong Airlines B738 (B-5450),Landed 00:02,2021-05-01
+540,540,21:50,TV9936,Lhasa (LXA),Tibet Airlines A319 (B-306S),Landed 22:09,2021-05-01
+541,541,21:50 8L9857,,Kunming (KMG),Lucky Air A20N (B-307U),Landed 22:33,2021-05-01
+542,542,21:55,CA4342,Guangzhou (CAN),Air China B737 (B-2612),Landed 21:40,2021-05-01
+543,543,21:55 CZ5870,,Korla (KRL),China Southern Airlines B737 (B-5236),Unknown,2021-05-01
+544,544,21:55,G54506,Shiyan (WDS),China Express Airlines CRJ9 (B-3297),Landed 21:30,2021-05-01
+545,545,22:00,CZ8813,Beijing (PKX),China Southern Airlines A332 (B-6058),Landed 21:41,2021-05-01
+546,546,22:00 HU7409,,Changsha (CSX),Hainan Airlines B738 (B-5465),Landed 21:53,2021-05-01
+547,547,22:00 9C8993,,Shijiazhuang (SJW),Spring Airlines A320 (B-8873),Landed 23:40,2021-05-01
+548,548,22:05 GS6596,,Haikou (HAK),Tianjin Airlines A320 (B-6903),Landed 22:12,2021-05-01
+549,549,22:05 GT1068,,Beihai (BHY),Air Guilin A320 (B-1061),Landed 21:56,2021-05-01
+550,550,22:05 HU7241,,Guangzhou (CAN),Hainan Airlines (Blue & White Lange Livery) B789 (B-6969),Landed 22:06,2021-05-01
+551,551,22:05,MF8028,Yinchuan (INC),Xiamen Air B738 (B-7826),Landed 21:43,2021-05-01
+552,552,22:05 PN6392,,Lhasa (LXA),West Air A319 (B-6413),Landed 21:54,2021-05-01
+553,553,22:10,CA4006,Jinghong (JHG),Air China B737 (B-2613),Landed 22:00,2021-05-01
+554,554,22:10,3U8760,Urumqi (URC),Sichuan Airlines A21N (B-1056),Landed 22:15,2021-05-01
+555,555,22:15,CA4144,Beijing (PEK),Air China B738 (B-7596),Landed 22:00,2021-05-01
+556,556,22:15,CA4578,Hangzhou (HGH),Air China B789 (B-1368),Landed 22:17,2021-05-01
+557,557,22:15,G52786,Quzhou (JUZ),China Express Airlines A320 (B-307T),Landed 22:02,2021-05-01
+558,558,22:15 3U8028,,Wuxi (WUX),Sichuan Airlines A21N (B-307D),Landed 22:27,2021-05-01
+559,559,22:20 GS6516,,Sanya (SYX),Tianjin Airlines A332 (B-8776),Landed 22:58,2021-05-01
+560,560,22:20 MU5366,,Hefei (HFE),China Eastern Airlines A320 (B-8557),Landed 22:02,2021-05-01
+561,561,22:20 MU5431,,Shanghai (SHA),China Eastern Airlines A321 (B-8406),Landed 22:22,2021-05-01
+562,562,22:20 MU5471,,Jinan (TNA),China Eastern Airlines A320 (B-2335),Landed 21:57,2021-05-01
+563,563,22:25 NS3228,,Lanzhou (LHW),Hebei Airlines B738 (B-1328),Landed 22:20,2021-05-01
+564,564,22:30 CA4360,,Zhanjiang (ZHA),Air China B738 (B-1531),Landed 22:09,2021-05-01
+565,565,22:30 CA4550,,Ningbo (NGB),Air China B738 (B-1976),Landed 22:25,2021-05-01
+566,566,22:30 ZH9373,,Nanning (NNG),Shenzhen Airlines B738 (B-1519),Landed 22:21,2021-05-01
+567,567,22:35 CA4558,,Nanjing (NKG),Air China B738 (B-2657),Landed 23:12,2021-05-01
+568,568,22:35 CA8674,,Beijing (PKX),Air China B737 (B-5220),Landed 22:06,2021-05-01
+569,569,22:35 3U8066,,Haikou (HAK),Sichuan Airlines A321 (B-1057),Landed 22:40,2021-05-01
+570,570,22:40 CZ3439,,Guangzhou (CAN),China Southern Airlines B789 (B-209E),Landed 22:31,2021-05-01
+571,571,22:45 PN6448,,Yinchuan (INC),West Air A320 (B-1898),Landed 22:17,2021-05-01
+572,572,22:50 EU2000,,Yichang (YIH),Chengdu Airlines AJ27 (B-605M),Unknown,2021-05-01
+573,573,22:55,CA4136,Beijing (PEK),Air China (Star Alliance livery) A332 (B-6091),Landed 23:06,2021-05-01
+574,574,22:55,CA4556,Shanghai (PVG),Air China B738 (B-1419),Landed 00:22,2021-05-01
+575,575,23:00 CZ3643,,Wuhan (WUH),China Southern Airlines B738 (B-1737),Landed 22:42,2021-05-01
+576,576,23:00 HU7264,,Fuzhou (FOC),Hainan Airlines B738 (B-7616),Landed 23:04,2021-05-01
+577,577,23:00 HU7349,,Sanya (SYX),Hainan Airlines (Hainan Free Trade Port Livery) B789 (B-1540),Landed 22:36,2021-05-01
+578,578,23:00 MF8622,,Tianjin (TSN),Xiamen Air B738 (B-1970),Landed 22:31,2021-05-01
+579,579,23:00,3U8588,Changzhou (CZX),Sichuan Airlines A321 (B-6906),Landed 22:46,2021-05-01
+580,580,23:05 GS7905,,Tianjin (TSN),Tianjin Airlines A320 (B-1658),Landed 22:43,2021-05-01
+581,581,23:05,3U8786,Shenzhen (SZX),Sichuan Airlines A21N (B-8598),Landed 22:49,2021-05-01
+582,582,23:05 OQ2310,,Shanghai (PVG),Chongqing Airlines A21N (B-30E3),Landed 22:52,2021-05-01
+583,583,23:05 OQ2386,,Zhuhai (ZUH),Chongqing Airlines A319 (B-6187),Landed 22:45,2021-05-01
+584,584,23:10,MF8477,Hangzhou (HGH),Xiamen Air B738 (B-5489),Landed 23:08,2021-05-01
+585,585,23:10 MU6689,,Beijing (PKX),China Eastern Airlines A320 (B-6559),Landed 22:28,2021-05-01
+586,586,23:15 G56114,,Dalian (DLC),China Express Airlines 320,Unknown,2021-05-01
+587,587,23:15 G56780,,Dalian (DLC),China Express Airlines 320,Unknown,2021-05-01
+588,588,23:15,ZH8805,Nanchang (KHN),Shenzhen Airlines B738 (B-1972),Landed 22:57,2021-05-01
+589,589,23:15,ZH9431,Shenzhen (SZX),Shenzhen Airlines B738 (B-1757),Landed 23:09,2021-05-01
+590,590,23:15,3U8008,Dalian (DLC),Sichuan Airlines A319 (B-6185),Landed 22:38,2021-05-01
+591,591,23:15 OQ2094,,Changzhou (CZX),Chongqing Airlines A20N (B-305P),Landed 23:14,2021-05-01
+592,592,23:20,CA4570,Fuzhou (FOC),Air China B738 (B-1956),Landed 23:17,2021-05-01
+593,593,23:20,CZ3641,Shenzhen (SZX),China Southern Airlines A21N (B-30E6),Landed 23:12,2021-05-01
+594,594,23:20,G52764,Shaoyang (WGN),China Express Airlines AJ27 (B-650Q),Landed 22:55,2021-05-01
+595,595,23:25,G54890,Wenshan (WNH),China Express Airlines CRJ9 (B-3379),Landed 23:34,2021-05-01
+596,596,23:25 HU7357,,Shenzhen (SZX),Hainan Airlines B789 (B-207V),Landed 23:28,2021-05-01
+597,597,23:25,MF8419,Wuhan (WUH),Xiamen Air B738 (B-7849),Landed 23:22,2021-05-01
+598,598,23:25 OQ2136,,Wuhan (WUH),Chongqing Airlines A320 (B-9976),Landed 23:06,2021-05-01
+599,599,23:30,CA4382,Wuhan (WUH),Air China B738 (B-5583),Landed 23:00,2021-05-01
+600,600,23:30,G54366,Jingdezhen (JDZ),China Express Airlines CRJ9 (B-3382),Landed 23:19,2021-05-01
+601,601,23:30,TV9926,Dali (DLU),Tibet Airlines A319 (B-6473),Landed 23:25,2021-05-01
+602,602,23:35 PN6238,,Tianjin (TSN),China West Air A321 (B-321S),Landed 23:17,2021-05-01
+603,603,23:40,CA4346,Shenzhen (SZX),Air China B789 (B-7832),Landed 23:38,2021-05-01
+604,604,23:40,G52744,Yiwu (YIW),China Express Airlines A320 (B-8696),Landed 23:30,2021-05-01
+605,605,23:50,MU5450,Kunming (KMG),China Eastern Airlines A320 (B-6002),Landed 00:24,2021-05-01
+606,606,23:50 PN6292,,Xiamen (XMN),West Air A20N (B-306V),Landed 23:50,2021-05-01
+607,607,23:55,CA4020,Lianyungang (LYG),Air China B738 (B-1416),Landed 00:06,2021-05-01
+608,608,23:55 PN6274,,Zhengzhou (CGO),West Air A319 (B-6420),Landed 23:32,2021-05-01

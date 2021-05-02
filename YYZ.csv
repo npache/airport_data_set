@@ -18054,3 +18054,567 @@
 105,105,23:28,DL5531,Atlanta (ATL),Delta Connection CRJ9 (N301PQ),Landed 23:14,2021-04-26
 106,106,23:44 MAL7054,,Montreal (YMX),FedEx B752 (C-FMOC),Landed 23:30,2021-04-26
 107,107,23:45 AA2702,,Miami (MIA),American Airlines 319,Canceled,2021-04-26
+0,0,00:00 MAL7082,,Montreal (YMX),FedEx B752 (N976FD),Landed 00:01,2021-04-27
+1,1,00:27 WS720,,Vancouver (YVR),WestJet B38M (C-FCTK),Landed 00:31,2021-04-27
+2,2,01:20,AC124,Vancouver (YVR),Air Canada BCS3 (C-GROV),Landed 01:17,2021-04-27
+3,3,03:04,,White Plains (HPN),- CRJ2 (N711WS),Landed 03:56,2021-04-27
+4,4,03:14 MAL8079,,Vancouver (YVR),FedEx B752 (C-FMFG),Landed 02:58,2021-04-27
+5,5,03:16 MAL7070,,Winnipeg (YWG),FedEx B752 (C-FMEP),Landed 03:05,2021-04-27
+6,6,04:17 MAL7062,,Calgary (YYC),FedEx B752 (C-FMAI),Landed 04:01,2021-04-27
+7,7,05:31 FX150,,Indianapolis (IND),FedEx DC10 (N307FE),Landed 05:53,2021-04-27
+8,8,05:38 5X488,,Louisville (SDF),UPS B763 (N305UP),Landed 06:09,2021-04-27
+9,9,05:45,AC43,Delhi (DEL),Air Canada 77W,Canceled,2021-04-27
+10,10,05:45 AC994,,Mexico City (MEX),Air Canada B789 (C-FNOG),Landed 05:29,2021-04-27
+11,11,06:30 AC158,,Calgary (YYC),Air Canada B38M (C-FSIQ),Landed 06:13,2021-04-27
+12,12,07:01 FX148,,Memphis (MEM),FedEx MD11 (N596FE),Landed 06:58,2021-04-27
+13,13,07:04 AC128,,Vancouver (YVR),Air Canada B789 (C-FVLU),Landed 06:37,2021-04-27
+14,14,07:04 AC8498,,Windsor (YQG),Air Canada Express DH8C (C-GABO),Landed 06:41,2021-04-27
+15,15,07:05,AC469,Ottawa (YOW),Air Canada A321 (C-FGKN),Landed 06:43,2021-04-27
+16,16,07:07 AC8007,,Deer Lake (YDF),Air Canada Express CRJ9 (C-FJZD),Unknown,2021-04-27
+17,17,07:10 AC8282,,Timmins (YTS),Air Canada Express DH8C (C-GTAQ),Landed 06:46,2021-04-27
+18,18,07:10,AC8642,London (YXU),Air Canada Express DH8C (C-GEWQ),Landed 07:02,2021-04-27
+19,19,07:11,AC8911,Moncton (YQM),Air Canada Express CRJ9 (C-FLJZ),Landed 06:48,2021-04-27
+20,20,07:15,AC8602,Sudbury (YSB),Air Canada Express DH8D (C-GGAH),Landed 06:50,2021-04-27
+21,21,07:22 AC481,,Montreal (YUL),Air Canada B38M (C-FSDB),Landed 07:00,2021-04-27
+22,22,07:48 WS3457,,Ottawa (YOW),WestJet DH8D (C-GEEN),Landed 07:18,2021-04-27
+23,23,08:10 ET552,,Dublin (DUB),Ethiopian Airlines B788 (ET-AOU),Landed 07:42,2021-04-27
+24,24,08:12 WS3543,,Montreal (YUL),WestJet DH8D (C-GENK),Landed 07:41,2021-04-27
+25,25,08:28 FX136,,Memphis (MEM),FedEx B752 (N782FD),Landed 08:24,2021-04-27
+26,26,08:45 AI187,,Delhi (DEL),Air India 773,Unknown,2021-04-27
+27,27,09:14 KE8079,,Seoul (ICN),Korean Air B789 (HL8084),Landed 09:15,2021-04-27
+28,28,11:15 DL4662,,Detroit (DTW),Delta Connection CRJ2 (N835AY),Landed 10:48,2021-04-27
+29,29,11:45 AA1270,,Charlotte (CLT),American Airlines A319 (N821AW),Landed 11:26,2021-04-27
+30,30,12:34 AC21,,New York (EWR),Air Canada Express CRJ9 (C-FJZD),Landed 12:31,2021-04-27
+31,31,12:35 AC7311,,Frankfurt (FRA),Air Canada B77W (C-FRAM),Landed 12:21,2021-04-27
+32,32,12:36 AA771,,Dallas (DFW),American Airlines 319,Canceled,2021-04-27
+33,33,12:44 AC8021,,New York (EWR),Air Canada Express CRJ9 (C-FJZD),Unknown,2021-04-27
+34,34,12:45 KL691,,Amsterdam (AMS),KLM B77W (PH-BVF),Landed 12:22,2021-04-27
+35,35,12:50 AC256,,Winnipeg (YWG),Air Canada BCS3 (C-GJXY),Landed 12:28,2021-04-27
+36,36,13:02 AC7982,,Chicago (ORD),Air Canada CR9,Unknown,2021-04-27
+37,37,13:04 AC700,,Chicago (ORD),Air Canada B38M (C-FSNU),Landed 13:00,2021-04-27
+38,38,13:05,AC451,Ottawa (YOW),Air Canada B38M (C-FSIP),Landed 12:46,2021-04-27
+39,39,13:08,AC162,Edmonton (YEG),Air Canada BCS3 (C-GJXW),Landed 12:45,2021-04-27
+40,40,13:14 AC385,,Thunder Bay (YQT),Air Canada A320 (C-FGJI),Landed 12:56,2021-04-27
+41,41,13:16 AC8322,,Sault Ste. Marie (YAM),Air Canada Express DH8C (C-GEWQ),Landed 12:49,2021-04-27
+42,42,13:21,AC8620,Saskatoon (YXE),Air Canada Express CRJ9 (C-GJZT),Landed 13:14,2021-04-27
+43,43,13:23 AC8284,,Timmins (YTS),Air Canada Express DH8D (C-GGAH),Landed 12:42,2021-04-27
+44,44,13:28,AC7915,Thunder Bay (YQT),Air Canada Express DH8D (C-GGAH),Landed 13:08,2021-04-27
+45,45,13:37,AC611,Halifax (YHZ),Air Canada B38M (C-FSCY),Landed 13:20,2021-04-27
+46,46,14:24 AA2644,,Charlotte (CLT),American Airlines 320,Canceled,2021-04-27
+47,47,14:26,,Sudbury (YSB),- SW4 (C-GTIM),Landed 14:09,2021-04-27
+48,48,14:46 HRT510,,Bedford (BED),Chartright Air C560 (C-FCAG),Unknown,2021-04-27
+49,49,14:49,AC104,Vancouver (YVR),Air Canada B788 (C-GHPU),Landed 14:14,2021-04-27
+50,50,14:52,AC433,Montreal (YUL),Air Canada BCS3 (C-GNBE),Landed 14:34,2021-04-27
+51,51,14:55,WS3343,Halifax (YHZ),WestJet DH8D (C-GENK),Landed 14:44,2021-04-27
+52,52,15:02 AC7543,,Deer Lake (YDF),Air Canada Express CRJ9 (C-GPJZ),Landed 14:27,2021-04-27
+53,53,15:05,EY141,Abu Dhabi (AUH),Etihad (ADNOC - Choose Italy Livery) B789 (A6-BLT),Landed 16:57,2021-04-27
+54,54,15:10,WS662,Calgary (YYC),WestJet B737 (C-GSWJ),Landed 15:04,2021-04-27
+55,55,15:15 HU7975,,Beijing (PEK),Hainan Airlines B789 (B-207J),Landed 15:17,2021-04-27
+56,56,15:36 AC7284,,Tokyo (NRT),Air Canada B789 (C-FRSE),Landed 15:30,2021-04-27
+57,57,15:53 1I206,,Lexington (LEX),Netjets CL60 (N206QS),Landed 15:25,2021-04-27
+58,58,15:55 PK781,,Islamabad (ISB),Pakistan International Airlines 777,Unknown,2021-04-27
+59,59,15:55 PK1781,,Islamabad (ISB),Pakistan International Airlines 777,Canceled,2021-04-27
+60,60,15:55 AC2340,,San Antonio (SAT),Air Canada B789 (C-FNOE),Landed 16:29,2021-04-27
+61,61,16:00 AC7272,,Bogota (BOG),Air Canada (Star Alliance Livery) A333 (C-GEGI),Landed 16:08,2021-04-27
+62,62,16:06,DL4664,Detroit (DTW),SkyWest Airlines CRJ2 (N8965E),Landed 15:39,2021-04-27
+63,63,16:10 AF5398,,Paris (CDG),Air France A359 (F-HTYC),Landed 15:14,2021-04-27
+64,64,16:15 AC7211,,Frankfurt (FRA),Air Canada B77W (C-FIUV),Landed 15:53,2021-04-27
+65,65,16:20,LH470,Frankfurt (FRA),Lufthansa A333 (D-AIKK),Landed 16:02,2021-04-27
+66,66,16:23 AC7310,,Los Angeles (LAX),Air Canada B789 (C-FVNB),Landed 16:04,2021-04-27
+67,67,16:25,WS706,Vancouver (YVR),WestJet B38M (C-GDDR),Landed 16:06,2021-04-27
+68,68,16:27 AC7258,,Lima (LIM),Air Canada A333 (C-GOFW),Landed 16:15,2021-04-27
+69,69,16:29 AA1111,,Dallas (DFW),American Airlines 319,Canceled,2021-04-27
+70,70,16:45,AC857,London (LHR),Air Canada B789 (C-FVLQ),Landed 16:20,2021-04-27
+71,71,17:00,AC8652,London (YXU),Air Canada Express DH8C (C-GABO),Landed 16:32,2021-04-27
+72,72,17:17,AC613,Halifax (YHZ),Air Canada BCS3 (C-GJXV),Landed 16:55,2021-04-27
+73,73,17:20,AC264,Winnipeg (YWG),Air Canada BCS3 (C-GJYI),Landed 17:12,2021-04-27
+74,74,17:22,AC419,Montreal (YUL),Air Canada BCS3 (C-GNGV),Landed 17:13,2021-04-27
+75,75,17:23 AC168,,Edmonton (YEG),Air Canada B38M (C-FSDW),Landed 17:02,2021-04-27
+76,76,17:25,AC459,Ottawa (YOW),Air Canada B38M (C-FSIP),Landed 17:10,2021-04-27
+77,77,17:59,AC7948,Regina (YQR),Air Canada Express CRJ9 (C-FUJZ),Landed 17:37,2021-04-27
+78,78,18:00,AC144,Calgary (YYC),Air Canada B789 (C-FGHZ),Landed 17:31,2021-04-27
+79,79,18:25 MAL7095,,North Bay (YYB),FedEx C208 (C-FEXO),Landed 18:19,2021-04-27
+80,80,18:28 FX248,,Memphis (MEM),FedEx DC10 (N311FE),Landed 20:54,2021-04-27
+81,81,18:34 AC7326,,Seoul (ICN),Air Canada B789 (C-FVLZ),Landed 18:34,2021-04-27
+82,82,18:35,TK17,Istanbul (IST),Turkish Airlines B789 (TC-LLB),Landed 18:45,2021-04-27
+83,83,18:49,AC8025,New York (EWR),Air Canada CR9,Unknown,2021-04-27
+84,84,18:50,AC705,New York (EWR),Air Canada BCS3 (C-GMYU),Landed 18:32,2021-04-27
+85,85,18:56 MAL7056,,Sudbury (YSB),FedEx C208 (C-FEXF),Landed 18:49,2021-04-27
+86,86,19:08 MAL7084,,Sault Ste. Marie (YAM),Morningstar Air Express C208,Landed 19:01,2021-04-27
+87,87,19:10,AC387,Thunder Bay (YQT),Air Canada 320,Unknown,2021-04-27
+88,88,19:16 WS670,,Calgary (YYC),WestJet B38M (C-GZSG),Landed 18:55,2021-04-27
+89,89,19:20 MAL8090,,Vancouver (YVR),FedEx B752 (N976FD),Landed 18:56,2021-04-27
+90,90,19:22,AC423,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 19:02,2021-04-27
+91,91,19:28 AC7917,,Thunder Bay (YQT),Air Canada Express DH8D (C-GGAH),Landed 19:09,2021-04-27
+92,92,19:38,AC170,Edmonton (YEG),Air Canada B38M (C-FSES),Landed 19:15,2021-04-27
+93,93,19:41 AC7327,,Buenos Aires (EZE),Air Canada B77W,Unknown,2021-04-27
+94,94,19:55,BA99,London (LHR),British Airways B788 (G-ZBJE),Landed 19:18,2021-04-27
+95,95,20:15,,Nassau (NAS),- CL60 (N372MZ),Landed 20:07,2021-04-27
+96,96,20:30 AC7325,,Buenos Aires (EZE),Air Canada B77W (C-FIVR),Landed 20:28,2021-04-27
+97,97,20:34,AC116,Vancouver (YVR),Air Canada B788 (C-GHQQ),Landed 20:05,2021-04-27
+98,98,21:08,,Sudbury (YSB),- BE10 (C-GJLJ),Landed 22:00,2021-04-27
+99,99,21:25 AZ80,,Rome (FCO),Alitalia 32S,Unknown,2021-04-27
+100,100,22:13,UA4552,Chicago (ORD),United Express CRJ7 (N535GJ),Landed 20:10,2021-04-27
+101,101,22:23 AA1638,,Charlotte (CLT),American Airlines 32S,Canceled,2021-04-27
+102,102,22:45 AA2804,,Dallas (DFW),American Airlines 319,Canceled,2021-04-27
+103,103,22:48 AC7319,,Atlanta (ATL),Air Canada B789 (C-FSBV),Landed 21:39,2021-04-27
+104,104,22:52 MAL7054,,Montreal (YMX),FedEx B752 (C-FMOC),Landed 22:44,2021-04-27
+105,105,23:00 AC7306,,Vancouver (YVR),Air Canada B77W (C-FNNW),Landed 22:42,2021-04-27
+106,106,23:25 AC150,,Calgary (YYC),Air Canada A321 (C-GJWI),Landed 23:02,2021-04-27
+107,107,23:28,DL5531,Atlanta (ATL),Delta Connection CRJ9 (N307PQ),Landed 23:00,2021-04-27
+108,108,23:28 MAL7082,,Montreal (YMX),FedEx B752 (C-FMFG),Landed 23:21,2021-04-27
+109,109,23:30 AC7320,,Vancouver (YVR),Air Canada B77W (C-FIVQ),Landed 23:14,2021-04-27
+110,110,23:45,CX85,New York (JFK),Cathay Pacific Cargo B748 (B-LJF),Landed 23:54,2021-04-27
+111,111,23:45 AA2702,,Miami (MIA),American Airlines 319,Canceled,2021-04-27
+0,0,00:19 WS720,,Vancouver (YVR),WestJet B38M,Unknown,2021-04-28
+1,1,01:20 AC124,,Vancouver (YVR),Air Canada 223,Unknown,2021-04-28
+2,2,02:46 MAL8079,,Vancouver (YVR),FedEx B752 (C-FMAI),Landed 02:14,2021-04-28
+3,3,03:54 MAL7062,,Calgary (YYC),FedEx B752 (C-FMEU),Landed 03:08,2021-04-28
+4,4,05:30 AC81,,Tel Aviv (TLV),Air Canada B789 (C-FRTU),Landed 05:25,2021-04-28
+5,5,05:30 FX150,,Indianapolis (IND),FedEx DC10 (N311FE),Landed 05:31,2021-04-28
+6,6,05:38 5X488,,Louisville (SDF),UPS MD11 (N295UP),Landed 05:48,2021-04-28
+7,7,05:39 MAL7945,,Winnipeg (YWG),FedEx B752 (C-FMEK),Landed 04:38,2021-04-28
+8,8,05:45,AC43,Delhi (DEL),Air Canada 77W,Canceled,2021-04-28
+9,9,06:30 AC158,,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 06:13,2021-04-28
+10,10,06:43 FX148,,Memphis (MEM),FedEx MD11 (N625FE),Landed 07:27,2021-04-28
+11,11,06:57 QK7,,Deer Lake (YDF),Air Canada Express CRJ9 (C-FJGZ),Landed 06:41,2021-04-28
+12,12,07:04 AC128,,Vancouver (YVR),Air Canada B789 (C-FRSI),Landed 06:34,2021-04-28
+13,13,07:04 AC8498,,Windsor (YQG),Air Canada Express DH8C (C-GTAQ),Landed 06:39,2021-04-28
+14,14,07:05,AC469,Ottawa (YOW),Air Canada A321 (C-GIUF),Landed 06:47,2021-04-28
+15,15,07:07 AC8007,,Deer Lake (YDF),Air Canada Express CRJ9 (C-FJGZ),Unknown,2021-04-28
+16,16,07:10 AC8282,,Timmins (YTS),Air Canada Express DH8C (C-FTAK),Landed 06:54,2021-04-28
+17,17,07:10,AC8642,London (YXU),Air Canada Express DH8C (C-GEWQ),Landed 06:45,2021-04-28
+18,18,07:11,AC8911,Moncton (YQM),Air Canada Express CRJ9 (C-FNJZ),Landed 06:58,2021-04-28
+19,19,07:22 AC481,,Montreal (YUL),Air Canada B38M (C-FSES),Landed 07:04,2021-04-28
+20,20,07:48,WS3457,Ottawa (YOW),WestJet DH8D (C-GENK),Landed 07:30,2021-04-28
+21,21,07:53 FX136,,Memphis (MEM),FedEx B752 (N958FD),Landed 08:19,2021-04-28
+22,22,08:12,WS3543,Montreal (YUL),WestJet DH8D (C-GEEN),Landed 07:40,2021-04-28
+23,23,08:45 AI187,,Delhi (DEL),Air India 773,Unknown,2021-04-28
+24,24,09:33 LXJ528,,Cleveland (CGF),Flexjet CL30,Unknown,2021-04-28
+25,25,09:55 KE73,,Seoul (ICN),Korean Air B789 (HL7209),Landed 09:48,2021-04-28
+26,26,11:15,DL4662,Detroit (DTW),Delta Connection CRJ2 (N8847A),Landed 10:42,2021-04-28
+27,27,11:45 AA1270,,Charlotte (CLT),American Airlines A319 (N807AW),Landed 11:34,2021-04-28
+28,28,12:34 AC21,,New York (EWR),Air Canada Express CRJ9 (C-GJZT),Landed 12:26,2021-04-28
+29,29,12:35,AC841,Frankfurt (FRA),Air Canada B77W (C-FIVM),Landed 12:17,2021-04-28
+30,30,12:36 AA771,,Dallas (DFW),American Airlines 319,Canceled,2021-04-28
+31,31,12:44,AC8021,New York (EWR),Air Canada Express CRJ9 (C-GJZT),Unknown,2021-04-28
+32,32,12:45,KL691,Amsterdam (AMS),KLM B78X (PH-BKC),Landed 12:24,2021-04-28
+33,33,12:50,AC256,Winnipeg (YWG),Air Canada BCS3 (C-GNBE),Landed 12:34,2021-04-28
+34,34,13:02,AC7982,Chicago (ORD),Air Canada CR9,Unknown,2021-04-28
+35,35,13:04,AC700,Chicago (ORD),Air Canada BCS3 (C-GJXY),Landed 12:32,2021-04-28
+36,36,13:05 AC451,,Ottawa (YOW),Air Canada B38M (C-FSCY),Landed 12:52,2021-04-28
+37,37,13:08 AC162,,Edmonton (YEG),Air Canada BCS3 (C-GJYI),Landed 12:38,2021-04-28
+38,38,13:14 AC385,,Thunder Bay (YQT),Air Canada A320 (C-FGJI),Landed 12:54,2021-04-28
+39,39,13:21,AC8620,Saskatoon (YXE),Air Canada Express CRJ9 (C-FLJZ),Landed 12:58,2021-04-28
+40,40,13:23 AC8284,,Timmins (YTS),Air Canada Express DH8D (C-GKUK),Landed 12:49,2021-04-28
+41,41,13:28,AC7915,Thunder Bay (YQT),Air Canada DH4,Unknown,2021-04-28
+42,42,13:37,AC611,Halifax (YHZ),Air Canada B38M (C-FSIP),Landed 13:21,2021-04-28
+43,43,13:44 MU7207,,Shanghai (PVG),China Eastern Airlines B77W (B-2005),Landed 13:38,2021-04-28
+44,44,14:20 AC7323,,Frankfurt (FRA),Air Canada B789 (C-FGDZ),Landed 13:43,2021-04-28
+45,45,14:24 AA2644,,Charlotte (CLT),American Airlines 320,Canceled,2021-04-28
+46,46,14:32 AC7231,,Madrid (MAD),Air Canada (Star Alliance Livery) A333 (C-GEGI),Landed 14:07,2021-04-28
+47,47,14:38 AC7282,,Seoul (ICN),Air Canada B77W (C-FIVS),Landed 15:07,2021-04-28
+48,48,14:49,AC104,Vancouver (YVR),Air Canada B789 (C-FVLU),Landed 14:24,2021-04-28
+49,49,14:52,AC433,Montreal (YUL),Air Canada A321 (C-GIUF),Landed 14:23,2021-04-28
+50,50,14:55,WS3343,Halifax (YHZ),WestJet DH8D (C-GENM),Landed 14:32,2021-04-28
+51,51,15:02 AC7543,,Deer Lake (YDF),Air Canada Express CRJ9 (C-FJGZ),Landed 14:27,2021-04-28
+52,52,15:05 EY141,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Italy Livery) B789 (A6-BLH),Landed 18:06,2021-04-28
+53,53,15:10,EK241,Dubai (DXB),Emirates B77W (A6-ECF),Landed 15:04,2021-04-28
+54,54,15:12,WS662,Calgary (YYC),WestJet B789 (C-GURP),Landed 14:54,2021-04-28
+55,55,15:59 AC7284,,Tokyo (NRT),Air Canada B789 (C-FGEI),Landed 15:48,2021-04-28
+56,56,16:06,DL4664,Detroit (DTW),SkyWest Airlines CRJ2 (N8965E),Landed 15:45,2021-04-28
+57,57,16:10,AF356,Paris (CDG),Air France A359 (F-HTYB),Landed 15:22,2021-04-28
+58,58,16:15 AC7211,,Frankfurt (FRA),Air Canada B77W (C-FITW),Landed 15:42,2021-04-28
+59,59,16:25,WS706,Vancouver (YVR),WestJet B737 (C-GWBJ),Landed 16:08,2021-04-28
+60,60,16:25 AC7258,,Lima (LIM),Air Canada A333 (C-GOFW),Landed 16:05,2021-04-28
+61,61,16:29 AA1111,,Dallas (DFW),American Airlines 319,Canceled,2021-04-28
+62,62,16:31 AC7298,,Seoul (ICN),Air Canada B77W (C-FNNU),Landed 16:46,2021-04-28
+63,63,16:45,AC857,London (LHR),Air Canada B789 (C-FVLQ),Landed 16:15,2021-04-28
+64,64,17:13 AC7272,,Bogota (BOG),Air Canada A333 (C-GEFA),Landed 15:29,2021-04-28
+65,65,17:17,AC613,Halifax (YHZ),Air Canada BCS3 (C-GJXV),Unknown,2021-04-28
+66,66,17:20,AC264,Winnipeg (YWG),Air Canada BCS3 (C-GJXW),Landed 17:11,2021-04-28
+67,67,17:22,AC419,Montreal (YUL),Air Canada (Trans-Canada Air Lines Livery) BCS3 (C-GNBN),Landed 17:07,2021-04-28
+68,68,17:23,AC168,Edmonton (YEG),Air Canada B38M (C-FSDB),Landed 17:32,2021-04-28
+69,69,17:24 HRT510,,Bedford (BED),Chartright Air C560 (C-FCAG),Unknown,2021-04-28
+70,70,17:25,AC459,Ottawa (YOW),Air Canada B38M (C-FSCY),Landed 17:08,2021-04-28
+71,71,17:59,AC7948,Regina (YQR),Air Canada Express CRJ9 (C-FJZD),Unknown,2021-04-28
+72,72,17:59 MAL7095,,North Bay (YYB),FedEx C208 (C-FEXO),Landed 18:01,2021-04-28
+73,73,18:00,AC144,Calgary (YYC),Air Canada B789 (C-FSBV),Landed 19:24,2021-04-28
+74,74,18:10 AC1255,,Kingston (KIN),Air Canada B788 (C-GHPY),Landed 18:17,2021-04-28
+75,75,18:35,TK17,Istanbul (IST),Turkish Airlines B789 (TC-LLM),Landed 18:26,2021-04-28
+76,76,18:38 WO182,,Edmonton (YEG),Swoop B738 (C-GXRW),Landed 18:12,2021-04-28
+77,77,18:49,AC8025,New York (EWR),Air Canada CR9,Unknown,2021-04-28
+78,78,18:49,,Montreal (YUL),- B732 (C-FFAL),Landed 18:53,2021-04-28
+79,79,18:50,AC705,New York (EWR),Air Canada BCS3 (C-GJXY),Landed 18:45,2021-04-28
+80,80,19:02,,Nassau (NAS),- CRJ2,Canceled,2021-04-28
+81,81,19:13 FX248,,Memphis (MEM),FedEx MD11 (N616FE),Landed 20:32,2021-04-28
+82,82,19:13,,Niagara Falls (IAG),- CRJ2,Canceled,2021-04-28
+83,83,19:13 MAL7084,,Sault Ste. Marie (YAM),FedEx C208 (C-FEXX),Landed 19:07,2021-04-28
+84,84,19:14 MAL7056,,Sudbury (YSB),Morningstar Air Express C208,Landed 18:56,2021-04-28
+85,85,19:16 WS670,,Calgary (YYC),WestJet B38M (C-FCTK),Landed 18:47,2021-04-28
+86,86,19:20 MAL8090,,Vancouver (YVR),FedEx B752 (C-FMFG),Landed 18:14,2021-04-28
+87,87,19:22,AC423,Montreal (YUL),Air Canada B789 (C-FGFZ),Landed 19:04,2021-04-28
+88,88,19:28,AC7917,Thunder Bay (YQT),Air Canada Express DH8D (C-GGAH),Landed 19:13,2021-04-28
+89,89,19:28,,Buffalo (BUF),- PA46 (C-FDIL),Landed 18:46,2021-04-28
+90,90,19:38,AC170,Edmonton (YEG),Air Canada B38M (C-FSEQ),Landed 19:29,2021-04-28
+91,91,19:55,BA99,London (LHR),British Airways B788 (G-ZBJC),Landed 19:31,2021-04-28
+92,92,19:55 PR118,,Manila (MNL),Philippine Airlines B77W (RP-C7772),Landed 19:26,2021-04-28
+93,93,20:15 TP259,,Lisbon (LIS),TAP Air Portugal A339 (CS-TUI),Landed 19:46,2021-04-28
+94,94,20:34,AC116,Vancouver (YVR),Air Canada B788 (C-GHPX),Landed 19:54,2021-04-28
+95,95,20:36,UA4552,Chicago (ORD),United Express CRJ7 (N533GJ),Landed 20:18,2021-04-28
+96,96,20:42,WS442,Edmonton (YEG),WestJet B737 (C-GWJO),Landed 20:06,2021-04-28
+97,97,20:45,LO45,Warsaw (WAW),LOT B788 (SP-LRG),Landed 21:25,2021-04-28
+98,98,20:50 AC7290,,Hong Kong (HKG),Air Canada B789 (C-FPQB),Landed 20:20,2021-04-28
+99,99,21:25 AZ80,,Rome (FCO),Alitalia 32S,Unknown,2021-04-28
+100,100,21:55,BR36,Taipei (TPE),EVA Air B77W (B-16718),Landed 21:42,2021-04-28
+101,101,22:23 AA1638,,Charlotte (CLT),American Airlines 32S,Canceled,2021-04-28
+102,102,22:40 AC7038,,Ottawa (YOW),Air Canada Jetz A319 (C-GBHN),Landed 22:25,2021-04-28
+103,103,22:45 AA2804,,Dallas (DFW),American Airlines 319,Canceled,2021-04-28
+104,104,22:48 AC7319,,Atlanta (ATL),Air Canada B789 (C-FGEO),Landed 22:10,2021-04-28
+105,105,22:52 MAL7054,,Montreal (YMX),FedEx B752 (C-FMOC),Landed 22:44,2021-04-28
+106,106,23:22 MAL7082,,Montreal (YMX),FedEx B752 (C-FMAI),Landed 23:16,2021-04-28
+107,107,23:25 AC150,,Calgary (YYC),Air Canada A321 (C-GJWI),Landed 23:02,2021-04-28
+108,108,23:28,DL5531,Atlanta (ATL),Delta Connection CRJ9 (N315PQ),Landed 22:58,2021-04-28
+109,109,23:45 AA2702,,Miami (MIA),American Airlines 319,Canceled,2021-04-28
+0,0,01:05 AC7046,,Montreal (YUL),Air Canada Jetz A319 (C-GBIK),Landed 00:50,2021-04-29
+1,1,01:20,AC124,Vancouver (YVR),Air Canada BCS3 (C-GMZY),Landed 00:58,2021-04-29
+2,2,02:46 MAL8079,,Vancouver (YVR),FedEx B752 (N976FD),Landed 02:15,2021-04-29
+3,3,03:16 MAL7070,,Winnipeg (YWG),FedEx B752 (C-FMEP),Landed 02:33,2021-04-29
+4,4,03:54 MAL7062,,Calgary (YYC),FedEx B752 (N978FD),Landed 03:20,2021-04-29
+5,5,04:40 KE284,,Chicago (ORD),Korean Air Cargo B748 (HL7624),Landed 05:13,2021-04-29
+6,6,05:30 FX150,,Indianapolis (IND),FedEx DC10 (N383FE),Landed 06:02,2021-04-29
+7,7,05:38 5X488,,Louisville (SDF),UPS B763 (N329UP),Landed 05:56,2021-04-29
+8,8,05:45,AC43,Delhi (DEL),Air Canada 77W,Unknown,2021-04-29
+9,9,05:45 AC994,,Mexico City (MEX),Air Canada B789 (C-FGDT),Landed 05:43,2021-04-29
+10,10,06:30 AC158,,Calgary (YYC),Air Canada B38M (C-FSCY),Landed 06:15,2021-04-29
+11,11,07:01 BFF100,,Oshawa (YOO),Air Nunavut FA10 (C-GSXC),Landed 07:19,2021-04-29
+12,12,07:04 AC128,,Vancouver (YVR),Air Canada B788 (C-GHQQ),Landed 06:34,2021-04-29
+13,13,07:04 AC8498,,Windsor (YQG),Air Canada Express DH8C (C-GEWQ),Landed 06:47,2021-04-29
+14,14,07:05,AC469,Ottawa (YOW),Air Canada A321 (C-GIUF),Landed 06:53,2021-04-29
+15,15,07:06 FX148,,Memphis (MEM),FedEx MD11 (N597FE),Landed 07:32,2021-04-29
+16,16,07:07 AC8007,,Deer Lake (YDF),Air Canada Express CRJ9 (C-FJGZ),Unknown,2021-04-29
+17,17,07:10 AC8282,,Timmins (YTS),Air Canada Express DH8C (C-GABO),Landed 06:51,2021-04-29
+18,18,07:10,AC8642,London (YXU),Air Canada Express DH8C (C-GTAQ),Landed 06:51,2021-04-29
+19,19,07:11,AC8911,Moncton (YQM),Air Canada Express CRJ9 (C-FJZD),Landed 07:00,2021-04-29
+20,20,07:22 AC481,,Montreal (YUL),Air Canada B38M (C-FSNQ),Landed 07:03,2021-04-29
+21,21,07:48,WS3457,Ottawa (YOW),WestJet DH8D (C-GENM),Landed 07:39,2021-04-29
+22,22,07:49 FX136,,Memphis (MEM),FedEx B752 (N958FD),Landed 08:24,2021-04-29
+23,23,08:10 ET552,,Dublin (DUB),Ethiopian Airlines B789 (ET-AXL),Landed 08:09,2021-04-29
+24,24,08:12 WS3543,,Montreal (YUL),WestJet DH8D (C-GENK),Landed 07:43,2021-04-29
+25,25,08:20 KE8079,,Seoul (ICN),Korean Air B789 (HL8082),Landed 09:21,2021-04-29
+26,26,08:45 AI187,,Delhi (DEL),Air India 77W,Unknown,2021-04-29
+27,27,11:15 DL4662,,Detroit (DTW),Delta Connection CRJ2 (N8783E),Landed 10:50,2021-04-29
+28,28,11:45 AA1270,,Charlotte (CLT),American Airlines A319 (N813AW),Landed 11:21,2021-04-29
+29,29,12:34 AC21,,New York (EWR),Air Canada Express CRJ9 (C-FJGZ),Landed 12:30,2021-04-29
+30,30,12:34 AC7190,,Montreal (YUL),Air Canada Express CRJ9 (C-FJQZ),Landed 12:32,2021-04-29
+31,31,12:35 AC7311,,Frankfurt (FRA),Air Canada B77W (C-FIVM),Landed 12:09,2021-04-29
+32,32,12:36 AA771,,Dallas (DFW),American Airlines 319,Canceled,2021-04-29
+33,33,12:44 AC8021,,New York (EWR),Air Canada Express CRJ9 (C-FJGZ),Unknown,2021-04-29
+34,34,12:45 KL691,,Amsterdam (AMS),KLM B789 (PH-BHL),Landed 12:25,2021-04-29
+35,35,12:50 AC256,,Winnipeg (YWG),Air Canada BCS3 (C-GJYA),Landed 12:28,2021-04-29
+36,36,13:04 AC700,,Chicago (ORD),Air Canada B38M (C-FSNU),Landed 13:05,2021-04-29
+37,37,13:05 AC451,,Ottawa (YOW),Air Canada B38M (C-FSDB),Landed 12:59,2021-04-29
+38,38,13:16 AC8322,,Sault Ste. Marie (YAM),Air Canada Express DH8C (C-GEWQ),Landed 12:58,2021-04-29
+39,39,13:21,AC8620,Saskatoon (YXE),Air Canada Express CRJ9 (C-FNJZ),Landed 13:01,2021-04-29
+40,40,13:23 AC8284,,Timmins (YTS),Air Canada Express DH8D (C-GGAH),Landed 12:35,2021-04-29
+41,41,13:28,AC7915,Thunder Bay (YQT),Air Canada Express DH8D (C-GKUK),Landed 13:09,2021-04-29
+42,42,13:37,AC611,Halifax (YHZ),Air Canada B38M (C-FSDW),Landed 13:33,2021-04-29
+43,43,13:54 AC7300,,Tokyo (NRT),Air Canada B789 (C-FVNF),Landed 13:47,2021-04-29
+44,44,14:07 HRT285,,Buffalo (BUF),Chartright Air A109,Unknown,2021-04-29
+45,45,14:12 AC7231,,Madrid (MAD),Air Canada A333 (C-GOFW),Landed 13:57,2021-04-29
+46,46,14:14 AC7135,,Halifax (YHZ),Air Canada Express CRJ2 (C-GOJA),Landed 14:00,2021-04-29
+47,47,14:24 AA2644,,Charlotte (CLT),American Airlines 320,Canceled,2021-04-29
+48,48,14:32 AC7282,,Seoul (ICN),Air Canada B77W (C-FRAM),Landed 14:58,2021-04-29
+49,49,14:50,AC104,Vancouver (YVR),Air Canada B788 (C-GHPU),Landed 14:23,2021-04-29
+50,50,14:52,AC433,Montreal (YUL),Air Canada BCS3 (C-GJXW),Landed 14:35,2021-04-29
+51,51,14:55,WS3343,Halifax (YHZ),WestJet DH8D (C-GENK),Landed 14:38,2021-04-29
+52,52,15:02 AC7543,,Deer Lake (YDF),Air Canada Express CRJ9 (C-GPJZ),Landed 14:49,2021-04-29
+53,53,15:05,EY141,Abu Dhabi (AUH),Etihad (ADNOC- Choose Saudi Arabia Livery) B789 (A6-BLN),Landed 17:38,2021-04-29
+54,54,15:10,AC59,Doha (DOH),Air Canada B789 (C-FVNB),Landed 15:58,2021-04-29
+55,55,15:10,WS662,Calgary (YYC),WestJet B737 (C-GWAZ),Landed 14:52,2021-04-29
+56,56,15:27 AC7201,,London (LHR),Air Canada B77W (C-FIVS),Landed 15:09,2021-04-29
+57,57,15:53 AC7284,,Tokyo (NRT),Air Canada B789 (C-FRTU),Landed 15:52,2021-04-29
+58,58,16:06,DL4664,Detroit (DTW),Delta Connection CRJ2 (N8869B),Landed 15:29,2021-04-29
+59,59,16:15 AC7211,,Frankfurt (FRA),Air Canada B77W (C-FIUW),Landed 15:42,2021-04-29
+60,60,16:20,LH470,Frankfurt (FRA),Lufthansa A333 (D-AIKE),Landed 16:03,2021-04-29
+61,61,16:23 AC7310,,Los Angeles (LAX),Air Canada B789 (C-FRSE),Landed 15:54,2021-04-29
+62,62,16:25 WS706,,Vancouver (YVR),WestJet B737 (C-GYWJ),Landed 16:10,2021-04-29
+63,63,16:29 AA1111,,Dallas (DFW),American Airlines 319,Canceled,2021-04-29
+64,64,16:45,AC857,London (LHR),Air Canada B789 (C-FNOE),Landed 16:12,2021-04-29
+65,65,16:55 HRT373,,Centralia (YCE),Chartright Air C560,Landed 16:38,2021-04-29
+66,66,17:00,AC8652,London (YXU),Air Canada Express DH8C (C-GTAQ),Landed 16:34,2021-04-29
+67,67,17:05 AC7327,,Buenos Aires (EZE),Air Canada 789,Unknown,2021-04-29
+68,68,17:17,AC613,Halifax (YHZ),Air Canada A320 (C-FGJI),Landed 17:23,2021-04-29
+69,69,17:20,AC264,Winnipeg (YWG),Air Canada BCS3 (C-GMZY),Landed 17:04,2021-04-29
+70,70,17:20 MAL7056,,Timmins (YTS),Morningstar Air Express C208,Landed 18:37,2021-04-29
+71,71,17:22,AC419,Montreal (YUL),Air Canada BCS3 (C-GMZR),Landed 17:03,2021-04-29
+72,72,17:23 AC168,,Edmonton (YEG),Air Canada B38M (C-FSES),Landed 17:10,2021-04-29
+73,73,17:25,AC459,Ottawa (YOW),Air Canada B38M (C-FSDB),Landed 17:16,2021-04-29
+74,74,17:25 AC7330,,Tokyo (NRT),Air Canada B77W (C-FIVW),Landed 17:47,2021-04-29
+75,75,17:51,AC8614,Saskatoon (YXE),Air Canada Express CRJ9 (C-FJZD),Landed 17:21,2021-04-29
+76,76,17:59,AC7948,Regina (YQR),Air Canada Express CRJ9 (C-GJZT),Unknown,2021-04-29
+77,77,18:00,AC144,Calgary (YYC),Air Canada B789 (C-FSBV),Landed 17:35,2021-04-29
+78,78,18:35,TK17,Istanbul (IST),Turkish Airlines B789 (TC-LLE),Landed 18:17,2021-04-29
+79,79,18:50,AC705,New York (EWR),Air Canada BCS3 (C-GJXY),Landed 19:16,2021-04-29
+80,80,18:58 MAL7084,,Sault Ste. Marie (YAM),Morningstar Air Express C208,Landed 18:39,2021-04-29
+81,81,19:01 HRT445,,Kapuskasing (YYU),Chartright Air C560,Unknown,2021-04-29
+82,82,19:16 WS670,,Calgary (YYC),WestJet B38M (C-GZSG),Landed 18:47,2021-04-29
+83,83,19:17 MAL7056,,Sudbury (YSB),Morningstar Air Express C208,Canceled,2021-04-29
+84,84,19:22,AC423,Montreal (YUL),Air Canada B788 (C-GHQY),Landed 18:58,2021-04-29
+85,85,19:22 MAL8090,,Vancouver (YVR),FedEx B752 (C-FMAI),Landed 18:15,2021-04-29
+86,86,19:24 FX248,,Memphis (MEM),FedEx MD11 (N631FE),Unknown,2021-04-29
+87,87,19:28,AC7917,Thunder Bay (YQT),Air Canada Express DH8D (C-GGAH),Landed 19:04,2021-04-29
+88,88,19:38,AC170,Edmonton (YEG),Air Canada B38M (C-FSCY),Landed 19:44,2021-04-29
+89,89,19:51 AC7325,,Buenos Aires (EZE),Air Canada B789 (C-FVLZ),Landed 19:49,2021-04-29
+90,90,19:55,BA99,London (LHR),British Airways B788 (G-ZBJE),Landed 19:07,2021-04-29
+91,91,20:23 MAL7095,,Sudbury (YSB),Morningstar Air Express C208,Landed 19:59,2021-04-29
+92,92,20:29,WS714,Vancouver (YVR),WestJet B737 (C-GWSQ),Landed 20:04,2021-04-29
+93,93,20:34,AC116,Vancouver (YVR),Air Canada B788 (C-GHQQ),Landed 20:09,2021-04-29
+94,94,20:42,WS442,Edmonton (YEG),WestJet B738 (C-FWIJ),Landed 20:13,2021-04-29
+95,95,21:08,,Sudbury (YSB),- BE10 (C-GJLJ),Landed 20:50,2021-04-29
+96,96,21:25 AZ80,,Rome (FCO),Alitalia 32S,Unknown,2021-04-29
+97,97,21:35,F8101,Edmonton (YEG),Flair Airlines B738 (C-FFLC),Landed 20:55,2021-04-29
+98,98,21:52 HRT85,,Los Angeles (LAX),Chartright Air CL60 (C-FNBM),Landed 21:53,2021-04-29
+99,99,22:13,UA4552,Chicago (ORD),United Express CRJ7 (N543GJ),Landed 20:26,2021-04-29
+100,100,22:23 AA1638,,Charlotte (CLT),American Airlines 32S,Canceled,2021-04-29
+101,101,22:45 AA2804,,Dallas (DFW),American Airlines 319,Canceled,2021-04-29
+102,102,22:47 MAL7054,,Montreal (YMX),FedEx B752 (C-FMOC),Landed 22:40,2021-04-29
+103,103,22:48 AC7319,,Atlanta (ATL),Air Canada B789 (C-FGEI),Landed 21:11,2021-04-29
+104,104,23:14 MAL7082,,Montreal (YMX),FedEx B752 (N976FD),Landed 23:07,2021-04-29
+105,105,23:25 AC150,,Calgary (YYC),Air Canada A321 (C-GJWI),Landed 23:15,2021-04-29
+106,106,23:28,DL5531,Atlanta (ATL),Delta Connection CRJ9 (N310PQ),Landed 22:48,2021-04-29
+107,107,23:35 AC7239,,Istanbul (IST),Air Canada B77W (C-FNNW),Landed 22:55,2021-04-29
+108,108,23:45,CX85,New York (JFK),Cathay Pacific Cargo B748 (B-LJL),Landed 00:01,2021-04-29
+109,109,23:45 AA2702,,Miami (MIA),American Airlines 319,Canceled,2021-04-29
+0,0,00:17 WO419,,Kelowna (YLW),Swoop B738 (C-FLBV),Landed 23:54,2021-04-30
+1,1,00:27,WS720,Vancouver (YVR),WestJet B737 (C-GWJG),Landed 23:52,2021-04-30
+2,2,00:38 CM470,,Panama City (PTY),Copa Airlines B738 (HP-1726CMP),Landed 00:33,2021-04-30
+3,3,01:20 AC124,,Vancouver (YVR),Air Canada BCS3 (C-GNGV),Landed 00:53,2021-04-30
+4,4,01:44 AC7264,,Miami (MIA),Air Canada B789 (C-FGDT),Landed 01:10,2021-04-30
+5,5,03:16 MAL7070,,Winnipeg (YWG),FedEx B752 (C-FMEK),Landed 02:14,2021-04-30
+6,6,03:54 MAL7062,,Calgary (YYC),FedEx B752 (C-FMEU),Landed 03:05,2021-04-30
+7,7,05:30 AC81,,Tel Aviv (TLV),Air Canada B789 (C-FRTW),Landed 04:59,2021-04-30
+8,8,05:33 FX150,,Indianapolis (IND),FedEx DC10 (N311FE),Landed 06:03,2021-04-30
+9,9,05:38 5X488,,Louisville (SDF),UPS MD11 (N253UP),Landed 06:00,2021-04-30
+10,10,05:45,AC43,Delhi (DEL),Air Canada 77W,Unknown,2021-04-30
+11,11,05:48 WS652,,Calgary (YYC),WestJet B737 (C-GWBX),Landed 05:17,2021-04-30
+12,12,06:30 AC158,,Calgary (YYC),Air Canada B38M (C-FSES),Landed 06:07,2021-04-30
+13,13,06:46 FX148,,Memphis (MEM),FedEx MD11 (N585FE),Landed 07:08,2021-04-30
+14,14,07:04 AC128,,Vancouver (YVR),Air Canada B789 (C-FGFZ),Landed 06:42,2021-04-30
+15,15,07:04 AC8498,,Windsor (YQG),Air Canada Express DH8C (C-FTAK),Landed 11:07,2021-04-30
+16,16,07:05,AC469,Ottawa (YOW),Air Canada A321 (C-FGKN),Landed 06:51,2021-04-30
+17,17,07:07 AC8007,,Deer Lake (YDF),Air Canada Express CRJ9 (C-FJZD),Unknown,2021-04-30
+18,18,07:10 AC8282,,Timmins (YTS),Air Canada Express DH8C (C-GABO),Landed 06:59,2021-04-30
+19,19,07:10,AC8642,London (YXU),Air Canada Express DH8C (C-FTAK),Landed 06:56,2021-04-30
+20,20,07:11,AC8911,Moncton (YQM),Air Canada Express CRJ9 (C-GJZT),Landed 06:45,2021-04-30
+21,21,07:15,AC8602,Sudbury (YSB),Air Canada Express DH8D (C-GKUK),Landed 06:48,2021-04-30
+22,22,07:22 AC481,,Montreal (YUL),Air Canada B38M (C-FSDB),Landed 07:07,2021-04-30
+23,23,07:48,WS3457,Ottawa (YOW),WestJet DH8D (C-GENM),Landed 07:13,2021-04-30
+24,24,07:55 BW606,,Georgetown (GEO),Caribbean Airlines B738 (9Y-KIN),Landed 07:47,2021-04-30
+25,25,08:12,WS3543,Montreal (YUL),WestJet DH8D (C-GENK),Landed 07:39,2021-04-30
+26,26,08:17 FX136,,Memphis (MEM),FedEx B752 (N940FD),Landed 08:14,2021-04-30
+27,27,08:45 AI187,,Delhi (DEL),Air India 77W,Unknown,2021-04-30
+28,28,09:20 KE8079,,Seoul (ICN),Korean Air B789 (HL8085),Landed 09:03,2021-04-30
+29,29,11:15,DL4662,Detroit (DTW),Delta Connection CRJ2 (N8980A),Landed 10:54,2021-04-30
+30,30,11:24,,Buffalo (BUF),- C750 (N998CX),Unknown,2021-04-30
+31,31,11:45 AA1270,,Charlotte (CLT),American Airlines A319 (N829AW),Landed 11:26,2021-04-30
+32,32,12:19 AC7190,,Montreal (YUL),Air Canada Express CRJ9 (C-GCJZ),Landed 12:10,2021-04-30
+33,33,12:35,AC841,Frankfurt (FRA),Air Canada B77W (C-FIVM),Landed 12:02,2021-04-30
+34,34,12:36 AA771,,Dallas (DFW),American Airlines 319,Canceled,2021-04-30
+35,35,12:44,AC8021,New York (EWR),Air Canada CR9,Unknown,2021-04-30
+36,36,12:45,KL691,Amsterdam (AMS),KLM B772 (PH-BQN),Landed 12:19,2021-04-30
+37,37,12:50,AC256,Winnipeg (YWG),Air Canada BCS3 (C-GMZR),Landed 12:39,2021-04-30
+38,38,12:50 AC703,,New York (EWR),Air Canada BCS3 (C-GMYU),Landed 12:42,2021-04-30
+39,39,13:04,AC700,Chicago (ORD),Air Canada B38M (C-FSNU),Landed 13:13,2021-04-30
+40,40,13:04,AC7944,Regina (YQR),Air Canada Express CRJ9 (C-FLJZ),Landed 12:43,2021-04-30
+41,41,13:05,AC451,Ottawa (YOW),Air Canada B38M (C-FSEQ),Landed 12:50,2021-04-30
+42,42,13:08,AC162,Edmonton (YEG),Air Canada BCS3 (C-GJYA),Landed 12:45,2021-04-30
+43,43,13:21,AC8620,Saskatoon (YXE),Air Canada Express CRJ9 (C-FNJZ),Landed 12:58,2021-04-30
+44,44,13:23 AC8284,,Timmins (YTS),Air Canada Express DH8C (C-GABO),Landed 12:48,2021-04-30
+45,45,13:25 CZ311,,Guangzhou (CAN),China Southern Airlines B789 (B-1297),Landed 12:53,2021-04-30
+46,46,13:28,AC7915,Thunder Bay (YQT),Air Canada Express DH8D (C-GKUK),Landed 13:31,2021-04-30
+47,47,13:37,AC611,Halifax (YHZ),Air Canada B38M (C-FSCY),Landed 13:14,2021-04-30
+48,48,14:24 AA2644,,Charlotte (CLT),American Airlines 320,Canceled,2021-04-30
+49,49,14:25 MU207,,Shanghai (PVG),China Eastern Airlines B77W (B-2003),Landed 13:28,2021-04-30
+50,50,14:42,WS476,Winnipeg (YWG),WestJet B737 (C-FMWJ),Landed 14:29,2021-04-30
+51,51,14:45 AC7282,,Seoul (ICN),Air Canada B77W (C-FIVR),Landed 14:37,2021-04-30
+52,52,14:45 HRT445,,Hyannis (HYA),Chartright Air C560,Unknown,2021-04-30
+53,53,14:46 AC7272,,Bogota (BOG),Air Canada A333 (C-GOFW),Landed 14:55,2021-04-30
+54,54,14:49,AC104,Vancouver (YVR),Air Canada B789 (C-FVLX),Landed 14:27,2021-04-30
+55,55,14:52,AC433,Montreal (YUL),Air Canada BCS3 (C-GROV),Landed 14:32,2021-04-30
+56,56,14:55,WS3475,Halifax (YHZ),WestJet DH8D (C-GENM),Landed 14:59,2021-04-30
+57,57,15:05 EY141,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLM),Landed 17:07,2021-04-30
+58,58,15:10,EK241,Dubai (DXB),Emirates (Expo 2020 - Mobility Livery) B77W (A6-ECQ),Landed 14:52,2021-04-30
+59,59,15:10,WS662,Calgary (YYC),WestJet B789 (C-GURP),Landed 14:49,2021-04-30
+60,60,15:35 AC7284,,Tokyo (NRT),Air Canada B789 (C-FGEO),Landed 15:43,2021-04-30
+61,61,15:49 AC2342,,San Antonio (SAT),Air Canada B789 (C-FRSA),Landed 15:32,2021-04-30
+62,62,15:50 QK7191,,Toronto (YYZ),Air Canada Express E75S (C-FEKD),Landed 17:10,2021-04-30
+63,63,15:56,,Nassau (NAS),- (C-FTJB),Landed 16:17,2021-04-30
+64,64,16:01 AC7258,,Lima (LIM),Air Canada A333 (C-GHKC),Landed 16:00,2021-04-30
+65,65,16:06,DL4664,Detroit (DTW),Delta Connection CRJ9 (N303PQ),Landed 15:38,2021-04-30
+66,66,16:10,AF356,Paris (CDG),Air France A359 (F-HTYF),Landed 15:28,2021-04-30
+67,67,16:15 AC7211,,Frankfurt (FRA),Air Canada B77W (C-FITW),Landed 15:34,2021-04-30
+68,68,16:25,WS706,Vancouver (YVR),WestJet B737 (C-GVWJ),Landed 16:03,2021-04-30
+69,69,16:29 AA1111,,Dallas (DFW),American Airlines 319,Canceled,2021-04-30
+70,70,16:45,AC857,London (LHR),Air Canada B789 (C-FVNB),Landed 16:08,2021-04-30
+71,71,16:56 TK6695,,Istanbul (ISL),Turkish Cargo A332 (TC-JCI),Landed 16:56,2021-04-30
+72,72,17:00,AC8652,London (YXU),Air Canada Express DH8C (C-FTAK),Landed 16:41,2021-04-30
+73,73,17:00 PK797,,Karachi (KHI),Pakistan International Airlines B77L (AP-BGY),Unknown,2021-04-30
+74,74,17:00 PK1797,,Karachi (KHI),Pakistan International Airlines B77L (AP-BGY),Canceled,2021-04-30
+75,75,17:10 AC7085,,Calgary (YYC),Air Canada Jetz A319 (C-FYKR),Landed 16:33,2021-04-30
+76,76,17:17,AC613,Halifax (YHZ),Air Canada BCS3 (C-GNBE),Landed 16:50,2021-04-30
+77,77,17:18 ASP826,,Muskoka (YQA),AirSprint E545 (C-GXAS),Unknown,2021-04-30
+78,78,17:20,AC264,Winnipeg (YWG),Air Canada BCS3 (C-GJXV),Landed 17:11,2021-04-30
+79,79,17:22,AC419,Montreal (YUL),Air Canada BCS3 (C-GNGV),Landed 17:00,2021-04-30
+80,80,17:23,AC168,Edmonton (YEG),Air Canada B38M (C-FSIQ),Landed 17:05,2021-04-30
+81,81,17:25,AC459,Ottawa (YOW),Air Canada B38M (C-FSEQ),Landed 17:13,2021-04-30
+82,82,17:55,,Hamilton (YHM),- F900 (C-FXXU),Landed 18:01,2021-04-30
+83,83,17:59,AC7948,Regina (YQR),Air Canada Express CRJ9 (C-FJZD),Landed 17:32,2021-04-30
+84,84,18:00,AC144,Calgary (YYC),Air Canada B789 (C-FGDT),Landed 17:43,2021-04-30
+85,85,18:10 AC1255,,Kingston (KIN),Air Canada 321,Unknown,2021-04-30
+86,86,18:30 WS8956,,Marana (MZJ),Westjet B38M (C-GCAM),Landed 17:53,2021-04-30
+87,87,18:36 MAL7056,,Sudbury (YSB),Morningstar Air Express C208,Landed 18:38,2021-04-30
+88,88,18:38 WO182,,Edmonton (YEG),Swoop B738 (C-GXRW),Landed 18:13,2021-04-30
+89,89,18:39,,Quebec (YQB),- B732,Unknown,2021-04-30
+90,90,18:46 AC7300,,Tokyo (NRT),Air Canada B77W (C-FIVQ),Landed 18:50,2021-04-30
+91,91,18:47 MAL7084,,Sault Ste. Marie (YAM),FedEx C208 (C-FEXX),Landed 18:44,2021-04-30
+92,92,18:50,AC705,New York (EWR),Air Canada A320 (C-FGJI),Landed 19:10,2021-04-30
+93,93,19:15 MAL7095,,North Bay (YYB),FedEx C208 (C-FEXO),Landed 19:10,2021-04-30
+94,94,19:22,AC423,Montreal (YUL),Air Canada B788 (C-GHPY),Landed 19:00,2021-04-30
+95,95,19:28,AC7917,Thunder Bay (YQT),Air Canada Express DH8D (C-GGAH),Landed 19:04,2021-04-30
+96,96,19:33 WS9515,,London (LGW),WestJet B789 (C-GYRS),Landed 18:48,2021-04-30
+97,97,19:38,AC170,Edmonton (YEG),Air Canada A321 (C-GJWI),Landed 19:15,2021-04-30
+98,98,19:43 FX248,,Memphis (MEM),FedEx MD11 (N576FE),Landed 20:22,2021-04-30
+99,99,19:55,BA99,London (LHR),British Airways B788 (G-ZBJE),Landed 19:18,2021-04-30
+100,100,19:55 QK7133,,Windsor (YQG),Air Canada Express DH8C (C-GTAQ),Landed 19:35,2021-04-30
+101,101,20:15 TP259,,Lisbon (LIS),TAP Air Portugal A339 (CS-TUL),Landed 19:42,2021-04-30
+102,102,20:16 FSY285,,Oakland County (PTK),Private Air C550 (C-GQCC),Landed 20:19,2021-04-30
+103,103,20:22,AC425,Montreal (YUL),Air Canada B38M (C-FSNU),Landed 20:11,2021-04-30
+104,104,20:29 WS714,,Vancouver (YVR),WestJet B738 (C-GJWS),Landed 20:10,2021-04-30
+105,105,20:34,AC116,Vancouver (YVR),Air Canada B788 (C-GHPU),Landed 20:04,2021-04-30
+106,106,20:36,UA1265,Chicago (ORD),United Airlines A320 (N412UA),Landed 20:57,2021-04-30
+107,107,20:40,WS3122,Thunder Bay (YQT),WestJet DH8D (C-GENM),Unknown,2021-04-30
+108,108,20:45,LO45,Warsaw (WAW),LOT B788 (SP-LRH),Landed 20:07,2021-04-30
+109,109,21:20 VI4514,,Anchorage (ANC),Volga-Dnepr Airlines A124 (RA-82077),Landed 21:21,2021-04-30
+110,110,21:25 AZ80,,Rome (FCO),Alitalia 32S,Unknown,2021-04-30
+111,111,21:27 AC7298,,Seoul (ICN),Air Canada B77W (C-FNNU),Landed 21:51,2021-04-30
+112,112,21:35,F8822,Calgary (YYC),Flair Airlines B738 (C-FFLC),Landed 21:32,2021-04-30
+113,113,21:40 BR36,,Taipei (TPE),EVA Air (Star Alliance Livery) B77W (B-16715),Landed 21:37,2021-04-30
+114,114,22:13 UA4552,,Chicago (ORD),United Airlines A320 (N412UA),Unknown,2021-04-30
+115,115,22:16 WS672,,Calgary (YYC),WestJet B737 (C-GWJG),Landed 21:55,2021-04-30
+116,116,22:23 AA1638,,Charlotte (CLT),American Airlines 32S,Canceled,2021-04-30
+117,117,22:45 AA2804,,Dallas (DFW),American Airlines 319,Canceled,2021-04-30
+118,118,22:48 AC7319,,Atlanta (ATL),Air Canada B789 (C-FRTU),Landed 21:18,2021-04-30
+119,119,23:15 F8888,,Calgary (YYC),Flair Airlines B738 (C-FFLA),Landed 22:54,2021-04-30
+120,120,23:25 AC150,,Calgary (YYC),Air Canada A321 (C-FGKN),Landed 23:18,2021-04-30
+121,121,23:28,DL5531,Atlanta (ATL),Delta Connection CRJ9 (N691CA),Landed 23:21,2021-04-30
+122,122,23:45 AA2702,,Miami (MIA),American Airlines 319,Canceled,2021-04-30
+0,0,12:28 AM WS676,,Calgary (YYC),WestJet B737 (C-GWBJ),Landed 1:20 AM,2021-05-01
+1,1,12:38 AM CM470,,Panama City (PTY),Copa Airlines (Star Alliance Livery) B738 (HP-1823CMP),Landed 12:28 AM,2021-05-01
+2,2,1:20 AM,AC124,Vancouver (YVR),Air Canada A320 (C-GKOE),Landed 12:41 AM,2021-05-01
+3,3,4:20 AM MAL8091,,Calgary (YYC),FedEx B752 (C-FMFG),Landed 3:45 AM,2021-05-01
+4,4,5:15 AM,AC43,Delhi (DEL),Air Canada 77W,Unknown,2021-05-01
+5,5,5:48 AM,WS652,Calgary (YYC),WestJet B738 (C-GWWJ),Landed 5:31 AM,2021-05-01
+6,6,5:55 AM AC992,,Mexico City (MEX),Air Canada B789 (C-FVNB),Landed 6:19 AM,2021-05-01
+7,7,6:02 AM,WS724,Vancouver (YVR),WestJet B737 (C-GVWJ),Landed 5:36 AM,2021-05-01
+8,8,6:45 AM MS995,,Cairo (CAI),EgyptAir B789 (SU-GEV),Landed 6:55 AM,2021-05-01
+9,9,6:47 AM FX148,,Memphis (MEM),FedEx MD11 (N585FE),Landed 7:14 AM,2021-05-01
+10,10,6:50 AM,AC471,Ottawa (YOW),Air Canada B38M (C-FSIQ),Landed 6:58 AM,2021-05-01
+11,11,7:04 AM AC8498,,Windsor (YQG),Air Canada Express DH8C (C-FTAK),Landed 7:11 AM,2021-05-01
+12,12,7:07 AM AC8007,,Deer Lake (YDF),Air Canada Express CRJ9 (C-FJGZ),Unknown,2021-05-01
+13,13,7:07 AM AC7276,,Sao Paulo (GRU),Air Canada B789 (C-FVLU),Landed 7:08 AM,2021-05-01
+14,14,7:10 AM AC128,,Vancouver (YVR),Air Canada BCS3 (C-GJYE),Landed 7:04 AM,2021-05-01
+15,15,7:10 AM AC8282,,Timmins (YTS),Air Canada Express DH8C (C-GEWQ),Landed 6:49 AM,2021-05-01
+16,16,7:10 AM,AC8642,London (YXU),Air Canada Express DH8C (C-FACT),Landed 6:53 AM,2021-05-01
+17,17,7:11 AM,AC8911,Moncton (YQM),Air Canada Express CRJ9 (C-FUJZ),Landed 6:46 AM,2021-05-01
+18,18,7:20 AM AC481,,Montreal (YUL),Air Canada B38M (C-FSDQ),Landed 7:00 AM,2021-05-01
+19,19,7:48 AM,WS3457,Ottawa (YOW),WestJet DH8D (C-GENM),Landed 7:15 AM,2021-05-01
+20,20,8:10 AM ET552,,Dublin (DUB),Ethiopian Airlines B789 (ET-AUP),Landed 7:51 AM,2021-05-01
+21,21,8:12 AM,WS3543,Montreal (YUL),WestJet DH8D (C-GVWE),Landed 7:37 AM,2021-05-01
+22,22,8:20 AM WS3218,,Thunder Bay (YQT),WestJet -,Canceled,2021-05-01
+23,23,8:45 AM AI187,,Delhi (DEL),Air India 77W,Unknown,2021-05-01
+24,24,9:20 AM,,Chicago (MDW),- GLF4 (N448QS),Landed 8:49 AM,2021-05-01
+25,25,9:31 AM GAJ890,,Waterville (WVL),Wheels Up B350 (N890UP),Landed 10:16 AM,2021-05-01
+26,26,9:55 AM KE73,,Seoul (ICN),Korean Air B789 (HL8084),Landed 9:02 AM,2021-05-01
+27,27,11:15 AM DL4662,,Detroit (DTW),Delta Connection CRJ2 (N820AY),Landed 10:51 AM,2021-05-01
+28,28,11:45 AM AA1270,,Charlotte (CLT),American Airlines (Allegehny Heritage Livery) A319 (N745VJ),Landed 11:31 AM,2021-05-01
+29,29,12:35 PM AC841,,Frankfurt (FRA),Air Canada B77W (C-FIUV),Landed 12:24 PM,2021-05-01
+30,30,12:36 PM AA771,,Dallas (DFW),American Airlines 319,Canceled,2021-05-01
+31,31,12:38 PM,AC162,Edmonton (YEG),Air Canada B38M (C-FSDB),Landed 12:18 PM,2021-05-01
+32,32,12:44 PM,AC8021,New York (EWR),Air Canada CR9,Unknown,2021-05-01
+33,33,12:45 PM,KL691,Amsterdam (AMS),KLM B78X (PH-BKD),Landed 12:10 PM,2021-05-01
+34,34,12:49 PM HRT101,,Providence (PVD),Chartright Air C56X (C-FCGF),Unknown,2021-05-01
+35,35,12:50 PM AC703,,New York (EWR),Air Canada B38M (C-FSIQ),Landed 1:11 PM,2021-05-01
+36,36,12:56 PM AC8322,,Sault Ste. Marie (YAM),Air Canada Express DH8C (C-FACT),Landed 12:30 PM,2021-05-01
+37,37,1:00 PM,AC260,Winnipeg (YWG),Air Canada BCS3 (C-GNBE),Landed 12:56 PM,2021-05-01
+38,38,1:00 PM,AC700,Chicago (ORD),Air Canada B38M (C-FSNU),Landed 1:21 PM,2021-05-01
+39,39,1:05 PM,AC451,Ottawa (YOW),Air Canada BCS3 (C-GMZY),Landed 12:45 PM,2021-05-01
+40,40,1:10 PM,AC8648,London (YXU),Air Canada Express DH8C (C-GABO),Landed 12:52 PM,2021-05-01
+41,41,1:21 PM,AC8620,Saskatoon (YXE),Air Canada Express CRJ9 (C-GJZT),Landed 1:02 PM,2021-05-01
+42,42,1:23 PM AC8284,,Timmins (YTS),Air Canada Express DH8C (C-GEWQ),Landed 12:54 PM,2021-05-01
+43,43,1:28 PM,AC7915,Thunder Bay (YQT),Air Canada Express DH8D (C-GKUK),Landed 1:14 PM,2021-05-01
+44,44,2:06 PM HRT119,,Scottsdale (SCF),Chartright Air GALX (C-GWPB),Unknown,2021-05-01
+45,45,2:24 PM AA2644,,Charlotte (CLT),American Airlines 320,Canceled,2021-05-01
+46,46,2:49 PM,,Hamilton (YHM),- ASTR,Canceled,2021-05-01
+47,47,3:10 PM,AC59,Doha (DOH),Air Canada B789 (C-FVNF),Landed 6:05 PM,2021-05-01
+48,48,3:10 PM,EK241,Dubai (DXB),Emirates A388 (A6-EVC),Landed 3:01 PM,2021-05-01
+49,49,3:15 PM HU7975,,Beijing (PEK),Hainan Airlines B789 (B-207J),Landed 3:21 PM,2021-05-01
+50,50,3:20 PM,,Windsor (YQG),- E75S,Canceled,2021-05-01
+51,51,3:22 PM,AC415,Montreal (YUL),Air Canada BCS3 (C-GMZN),Landed 3:05 PM,2021-05-01
+52,52,3:39 PM,AC104,Vancouver (YVR),Air Canada B789 (C-FGEO),Landed 3:15 PM,2021-05-01
+53,53,3:46 PM AC7258,,Lima (LIM),Air Canada (Star Alliance Livery) A333 (C-GEGI),Landed 3:41 PM,2021-05-01
+54,54,3:48 PM AC7272,,Bogota (BOG),Air Canada A333 (C-GFUR),Landed 7:10 AM,2021-05-01
+55,55,3:50 PM QK7191,,Toronto (YYZ),Air Canada Express E75S (C-FEKS),Landed 4:04 PM,2021-05-01
+56,56,3:57 PM AC7284,,Tokyo (NRT),Air Canada B788 (C-GHPX),Landed 3:53 PM,2021-05-01
+57,57,4:06 PM,DL4664,Detroit (DTW),Delta Connection CRJ2 (N8894A),Landed 3:51 PM,2021-05-01
+58,58,4:15 PM AC7211,,Frankfurt (FRA),Air Canada B77W (C-FITW),Landed 4:01 PM,2021-05-01
+59,59,4:17 PM,AC913,Fort Lauderdale (FLL),Air Canada B789 (C-FRTU),Landed 4:24 PM,2021-05-01
+60,60,4:20 PM,LH470,Frankfurt (FRA),Lufthansa A359 (D-AIXP),Landed 3:59 PM,2021-05-01
+61,61,4:23 PM AC7310,,Los Angeles (LAX),Air Canada B789 (C-FSBV),Landed 4:30 PM,2021-05-01
+62,62,4:25 PM,WS706,Vancouver (YVR),WestJet B738 (C-FWJS),Landed 4:16 PM,2021-05-01
+63,63,4:29 PM AA1111,,Dallas (DFW),American Airlines 319,Canceled,2021-05-01
+64,64,4:45 PM,AC857,London (LHR),Air Canada B789 (C-FRTG),Landed 4:07 PM,2021-05-01
+65,65,4:49 PM,AC110,Vancouver (YVR),Air Canada B789 (C-FPQB),Landed 4:20 PM,2021-05-01
+66,66,4:57 PM,WS1175,Fort Myers (RSW),WestJet B38M (C-GDDR),Landed 4:50 PM,2021-05-01
+67,67,5:03 PM,AC168,Edmonton (YEG),Air Canada (Trans-Canada Air Lines Livery) BCS3 (C-GNBN),Landed 5:08 PM,2021-05-01
+68,68,5:11 PM AC7330,,Tokyo (NRT),Air Canada B77W (C-FNNW),Landed 5:11 PM,2021-05-01
+69,69,5:15 PM,AC459,Ottawa (YOW),Air Canada BCS3 (C-GNBE),Landed 5:15 PM,2021-05-01
+70,70,5:17 PM,AC611,Halifax (YHZ),Air Canada A321 (C-GIUF),Landed 5:20 PM,2021-05-01
+71,71,5:25 PM AC112,,Vancouver (YVR),Air Canada B38M (C-FSOC),Landed 5:05 PM,2021-05-01
+72,72,5:25 PM,AC138,Calgary (YYC),Air Canada B789 (C-FRSA),Landed 5:03 PM,2021-05-01
+73,73,5:40 PM QK7117,,London (YXU),Air Canada Express E75S (C-FEKD),Landed 6:24 PM,2021-05-01
+74,74,5:40 PM ASP519,,Buffalo (BUF),AirSprint C25A (C-FASP),Unknown,2021-05-01
+75,75,5:51 PM AC8614,,Saskatoon (YXE),Air Canada Express CRJ9 (C-FUJZ),Landed 5:23 PM,2021-05-01
+76,76,5:59 PM AC7948,,Regina (YQR),Air Canada Express CRJ9 (C-FNJZ),Landed 5:42 PM,2021-05-01
+77,77,6:16 PM AC7244,,Punta Cana (PUJ),Air Canada B789 (C-FKSV),Landed 6:14 PM,2021-05-01
+78,78,6:19 PM LXJ455,,Chicago (UGN),Flexjet GLF4 (N455FX),Landed 5:57 PM,2021-05-01
+79,79,6:35 PM,TK17,Istanbul (IST),Turkish Airlines B77W (TC-LJH),Landed 6:29 PM,2021-05-01
+80,80,6:42 PM,WS438,Edmonton (YEG),WestJet B737 (C-FKIW),Landed 6:27 PM,2021-05-01
+81,81,6:55 PM,AC266,Winnipeg (YWG),Air Canada BCS3 (C-GJYI),Landed 6:41 PM,2021-05-01
+82,82,7:05 PM,AC114,Vancouver (YVR),Air Canada B77W (C-FRAM),Landed 7:03 PM,2021-05-01
+83,83,7:05 PM,AC705,New York (EWR),Air Canada A320 (C-FGJI),Landed 7:16 PM,2021-05-01
+84,84,7:10 PM,WS670,Calgary (YYC),WestJet B38M (C-FNWD),Landed 7:01 PM,2021-05-01
+85,85,7:18 PM,,Boston (BOS),- C680 (N382QS),Canceled,2021-05-01
+86,86,7:20 PM QK7118,,London (YXU),Air Canada Express E75S (C-FEKD),Landed 8:23 PM,2021-05-01
+87,87,7:22 PM,AC423,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 7:05 PM,2021-05-01
+88,88,7:28 PM,AC170,Edmonton (YEG),Air Canada BCS3 (C-GMYU),Landed 7:08 PM,2021-05-01
+89,89,7:28 PM,AC7917,Thunder Bay (YQT),Air Canada Express DH8D (C-GKUK),Landed 6:53 PM,2021-05-01
+90,90,7:55 PM,BA99,London (LHR),British Airways B788 (G-ZBJM),Landed 7:14 PM,2021-05-01
+91,91,8:04 PM AC7261,,Chicago (ORD),Air Canada B789 (C-FVLZ),Landed 7:34 PM,2021-05-01
+92,92,8:55 PM,AC116,Vancouver (YVR),Air Canada BCS3 (C-GNAM),Landed 8:49 PM,2021-05-01
+93,93,9:10 PM,F8155,Regina (YQR),Flair Airlines B738 (C-FFLA),Landed 8:58 PM,2021-05-01
+94,94,9:12 PM BR36,,Taipei (TPE),EVA Air B77W (B-16730),Landed 9:12 PM,2021-05-01
+95,95,9:22 PM AC427,,Montreal (YUL),Air Canada B788 (C-GHPQ),Landed 9:04 PM,2021-05-01
+96,96,9:25 PM AZ80,,Rome (FCO),Alitalia 32S,Unknown,2021-05-01
+97,97,9:31 PM TK6079,,New York (JFK),Turkish Airlines B77W (TC-JJN),Landed 9:09 PM,2021-05-01
+98,98,9:48 PM AC7319,,Atlanta (ATL),Air Canada B789 (C-FVLQ),Landed 9:36 PM,2021-05-01
+99,99,9:52 PM HRT373,,Montreal (YUL),Chartright Air C560,Unknown,2021-05-01
+100,100,10:13 PM,UA4552,Chicago (ORD),United Express CRJ7 (N536GJ),Landed 9:07 PM,2021-05-01
+101,101,10:23 PM AA1638,,Charlotte (CLT),American Airlines 32S,Canceled,2021-05-01
+102,102,10:25 PM,F8417,Fort McMurray (YMM),Flair Airlines B738 (C-FFLC),Landed 10:06 PM,2021-05-01
+103,103,10:45 PM AA2804,,Dallas (DFW),American Airlines 319,Canceled,2021-05-01
+104,104,10:47 PM,,North Platte (LBF),- HDJT (C-FBGN),Landed 10:25 PM,2021-05-01
+105,105,11:24 PM AC148,,Calgary (YYC),Air Canada B38M (C-FSDB),Landed 11:02 PM,2021-05-01
+106,106,11:25 PM,AC122,Vancouver (YVR),Air Canada A320 (C-FZQS),Landed 10:46 PM,2021-05-01
+107,107,11:28 PM,DL5531,Atlanta (ATL),Delta Connection CRJ9 (N606LR),Landed 11:13 PM,2021-05-01
+108,108,11:45 PM AA2702,,Miami (MIA),American Airlines 319,Canceled,2021-05-01

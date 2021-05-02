@@ -1,0 +1,884 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:05 TK2519,,Bodrum (BJV),Turkish Airlines A321 (TC-JRC),Landed 23:42,2021-04-29
+1,1,00:05,TK2341,Izmir (ADB),Turkish Airlines 319,Unknown,2021-04-29
+2,2,00:25 TK2469,,Adana (ADA),Turkish Airlines 320,Unknown,2021-04-29
+3,3,00:30 TK2831,,Trabzon (TZX),Turkish Airlines 73H,Unknown,2021-04-29
+4,4,00:55 TK2229,,Gaziantep (GZT),Turkish Airlines 319,Unknown,2021-04-29
+5,5,01:45 7L1401,,Baku (GYD),Silk Way West Airlines B744 (4K-SW888),Landed 04:20,2021-04-29
+6,6,02:30 YL100,,Tripoli (MJI),Libyan Wings A319 (5A-WLD),Landed 02:16,2021-04-29
+7,7,02:50 TK4911,,Moscow (VKO),Turkish Airlines A333 (TC-JOD),Landed 02:29,2021-04-29
+8,8,03:05 UZ115,,Misrata (MRA),Buraq Air 737,Unknown,2021-04-29
+9,9,04:00,TK1984,London (LHR),Turkish Airlines A333 (TC-JOA),Landed 03:38,2021-04-29
+10,10,04:30 TK1430,,Hurghada (HRG),Turkish Airlines B738 (TC-JVY),Landed 03:46,2021-04-29
+11,11,04:35,ET720,Addis Ababa (ADD),Ethiopian Airlines B738 (ET-ASJ),Landed 04:27,2021-04-29
+12,12,04:40,TK815,Amman (AMM),Turkish Airlines A333 (TC-JOI),Landed 04:18,2021-04-29
+13,13,04:45,TK85,Manila (MNL),Turkish Airlines A359 (TC-LGC),Landed 04:03,2021-04-29
+14,14,04:50,TK43,Johannesburg (JNB),Turkish Airlines A333 (TC-JOG),Landed 04:55,2021-04-29
+15,15,04:55,TK2403,Antalya (AYT),Turkish Airlines 320,Unknown,2021-04-29
+16,16,05:00,TK57,Jakarta (CGK),Turkish Airlines B789 (TC-LLD),Landed 05:06,2021-04-29
+17,17,05:05,TK2185,Ankara (ESB),Turkish Airlines A21N (TC-LST),Landed 04:53,2021-04-29
+18,18,05:10 TK45,,Cape Town (CPT),Turkish Airlines A333 (TC-LNG),Landed 04:47,2021-04-29
+19,19,05:15,TK61,Kuala Lumpur (KUL),Turkish Airlines B77W (TC-JJG),Landed 04:15,2021-04-29
+20,20,05:15 TK2451,,Adana (ADA),Turkish Airlines A321 (TC-JTL),Landed 04:45,2021-04-29
+21,21,05:20,TK4,New York (JFK),Turkish Airlines B77W (TC-LJC),Landed 06:02,2021-04-29
+22,22,05:20 TK199,,Tokyo (HND),Turkish Airlines B789 (TC-LLH),Landed 06:00,2021-04-29
+23,23,05:20 TK624,,Abuja (ABV),Turkish Airlines A333 (TC-JOF),Landed 04:51,2021-04-29
+24,24,05:20 TK885,,Shiraz (SYZ),Turkish Airlines A21N (TC-LSV),Landed 05:04,2021-04-29
+25,25,05:20 TK893,,Isfahan (IFN),Turkish Airlines A21N (TC-LSA),Landed 05:10,2021-04-29
+26,26,05:25 TK626,,Lagos (LOS),Turkish Airlines A333 (TC-JNI),Landed 05:24,2021-04-29
+27,27,05:25 TK630,,Accra (ACC),Turkish Airlines B739 (TC-JYJ),Landed 04:57,2021-04-29
+28,28,05:25 TK387,,Tbilisi (TBS),Turkish Airlines A21N (TC-LSP),Landed 05:27,2021-04-29
+29,29,05:25 TK875,,Tehran (IKA),Turkish Airlines A21N (TC-LSG),Landed 04:49,2021-04-29
+30,30,05:30 TK2305,,Izmir (ADB),Turkish Airlines 321,Unknown,2021-04-29
+31,31,05:30 TK6512,,Nairobi (NBO),Turkish Cargo A332 (TC-JOO),Landed 06:15,2021-04-29
+32,32,05:35 TK761,,Dubai (DXB),Turkish Airlines A359 (TC-LGB),Landed 05:31,2021-04-29
+33,33,05:40 TK2237,,Gaziantep (GZT),Turkish Airlines (Star Alliance livery) A321 (TC-JRA),Landed 05:35,2021-04-29
+34,34,05:45 TK827,,Beirut (BEY),Turkish Airlines (Retro Livery) A332 (TC-JNC),Landed 05:19,2021-04-29
+35,35,05:50 TK681,,Khartoum (KRT),Turkish Airlines A21N (TC-LSR),Landed 05:33,2021-04-29
+36,36,05:55 TK371,,Tashkent (TAS),Turkish Airlines B789 (TC-LLK),Landed 05:57,2021-04-29
+37,37,05:55 TK889,,Mashhad (MHD),Turkish Airlines B738 (TC-JVS),Landed 05:16,2021-04-29
+38,38,06:00 TK697,,Alexandria (HBE),Turkish Airlines A319 (TC-JLS),Landed 05:38,2021-04-29
+39,39,06:10 TK693,,Cairo (CAI),Turkish Airlines A21N (TC-LSH),Landed 05:48,2021-04-29
+40,40,06:15 TK677,,Addis Ababa (ADD),Turkish Airlines B738 (TC-JVE),Canceled,2021-04-29
+41,41,06:45 TK699,,Sharm el-Sheikh (SSH),Turkish Airlines (Star Alliance Livery) A319 (TC-JLU),Landed 06:20,2021-04-29
+42,42,07:00 TK349,,Bishkek (FRU),Turkish Airlines A21N (TC-LSS),Landed 07:10,2021-04-29
+43,43,07:10 TK793,,Tel Aviv (TLV),Turkish Airlines A333 (TC-LOF),Landed 07:07,2021-04-29
+44,44,08:08 MB6122,,Cologne (CGN),MNG Airlines A306 (TC-MNV),Landed 07:43,2021-04-29
+45,45,08:10 TK703,,Hurghada (HRG),Turkish Airlines B738 (TC-JVP),Landed 07:32,2021-04-29
+46,46,08:10 TK2111,,Ankara (ESB),Turkish Airlines B738 (TC-JHM),Landed 07:54,2021-04-29
+47,47,08:15 PC3300,,Izmir (ADB),Pegasus A20N (TC-NBM),Landed 08:21,2021-04-29
+48,48,08:25 TK255,,Dushanbe (DYU),Turkish Airlines A21N (TC-LSU),Landed 08:15,2021-04-29
+49,49,08:30 TK2435,,Antalya (AYT),Turkish Airlines A321 (TC-JTO),Landed 07:57,2021-04-29
+50,50,08:35 W5112,,Tehran (IKA),Mahan Air A310 (EP-MMJ),Landed 08:38,2021-04-29
+51,51,09:05 TK711,,Islamabad (ISB),Turkish Airlines A333 (TC-JNK),Landed 08:30,2021-04-29
+52,52,09:20 TK351,,Almaty (ALA),Turkish Airlines 789,Unknown,2021-04-29
+53,53,09:45 TK2505,,Bodrum (BJV),Turkish Airlines (Star Alliance Livery) A321 (TC-JRB),Landed 09:36,2021-04-29
+54,54,09:50 RO261,,Bucharest (OTP),Tarom B737 (YR-BGI),Landed 09:50,2021-04-29
+55,55,09:50 TK813,,Amman (AMM),Turkish Airlines A21N (TC-LSK),Landed 09:29,2021-04-29
+56,56,10:10 TK803,,Baghdad (BGW),Turkish Airlines A21N (TC-LTB),Landed 09:44,2021-04-29
+57,57,10:15 TK805,,Arbil (EBL),Turkish Airlines A21N (TC-LSE),Landed 09:47,2021-04-29
+58,58,10:15 TK2807,,Samsun (SZF),Turkish Airlines A321 (TC-JRE),Landed 10:03,2021-04-29
+59,59,10:20 ME265,,Beirut (BEY),MEA A21N (T7-ME7),Landed 09:59,2021-04-29
+60,60,10:20 TK337,,Baku (GYD),Turkish Airlines A333 (TC-JNT),Landed 10:02,2021-04-29
+61,61,10:20 TK783,,Doha (DOH),Turkish Airlines A21N (TC-LSD),Landed 10:51,2021-04-29
+62,62,10:25 TK879,,Tehran (IKA),Turkish Airlines A21N (TC-LSF),Landed 10:06,2021-04-29
+63,63,10:25 TK2011,,Kayseri (ASR),Turkish Airlines A321 (TC-JRK),Landed 10:16,2021-04-29
+64,64,10:30 TK829,,Beirut (BEY),Turkish Airlines A21N (TC-LTA),Landed 09:53,2021-04-29
+65,65,10:40 TK606,,Entebbe (EBB),Turkish Airlines B739 (TC-JYB),Landed 11:18,2021-04-29
+66,66,10:45 W5116,,Tehran (IKA),Mahan Air 343,Canceled,2021-04-29
+67,67,10:50,B2783,Minsk (MSQ),Belavia B738 (EW-457PA),Landed 10:26,2021-04-29
+68,68,10:50 TK2553,,Dalaman (DLM),Turkish Airlines A321 (TC-JRV),Landed 10:54,2021-04-29
+69,69,10:55 TK604,,Dar-es-Salaam (DAR),Turkish Airlines B739 (TC-JYF),Landed 10:47,2021-04-29
+70,70,11:00 HY271,,Tashkent (TAS),Uzbekistan Airways A20N (UK32022),Landed 11:26,2021-04-29
+71,71,11:00 TK709,,Karachi (KHI),Turkish Airlines A332 (TC-JNB),Landed 10:29,2021-04-29
+72,72,11:05 TK541,,Bamako (BKO),Turkish Airlines B739 (TC-JYH),Landed 10:37,2021-04-29
+73,73,11:05 TK608,,Nairobi (NBO),Turkish Airlines A333 (TC-LND),Landed 10:40,2021-04-29
+74,74,11:05 TK715,,Lahore (LHE),Turkish Airlines A333 (TC-JNP),Landed 14:03,2021-04-29
+75,75,11:10 TK667,,Yaounde (NSI),Turkish Airlines B739 (TC-JYE),Landed 11:32,2021-04-29
+76,76,11:10 TK763,,Dubai (DXB),Turkish Airlines B77W (TC-LJA),Landed 11:16,2021-04-29
+77,77,11:15 TK73,,Guangzhou (CAN),Turkish Airlines B77W (TC-JJK),Landed 11:48,2021-04-29
+78,78,11:15 TK2603,,Diyarbakir (DIY),Turkish Airlines A21N (TC-LSJ),Landed 11:10,2021-04-29
+79,79,11:20 TK961,,Tymvou (ECN),Turkish Airlines A320 (TC-JPL),Landed 11:07,2021-04-29
+80,80,11:20 TK1004,,Skopje (SKP),Turkish Airlines B738 (TC-JHY),Landed 10:43,2021-04-29
+81,81,11:20 TK2459,,Adana (ADA),Turkish Airlines B738 (TC-JVN),Landed 11:12,2021-04-29
+82,82,11:30 PQ497,,Odesa (ODS),SkyUp Airlines (FC Shakhtar Livery) B737 (UR-SQE),Landed 11:42,2021-04-29
+83,83,11:30 TK466,,Odesa (ODS),Turkish Airlines A21N (TC-LSC),Landed 11:56,2021-04-29
+84,84,11:30 TK561,,Abidjan (ABJ),Turkish Airlines B739 (TC-JYG),Landed 11:54,2021-04-29
+85,85,11:40 IA219,,Najaf (NJF),Iraqi Airways B738 (YI-ASH),Landed 11:30,2021-04-29
+86,86,11:40 TK2109,,Ankara (ESB),Turkish Airlines (Discover the Potential Livery) A321 (TC-JRG),Landed 11:22,2021-04-29
+87,87,11:40 TK2221,,Gaziantep (GZT),Turkish Airlines (Teknofest Livery) A321 (TC-JTR),Landed 11:39,2021-04-29
+88,88,11:45 TK2321,,Izmir (ADB),Turkish Airlines B77W (TC-JJR),Landed 11:27,2021-04-29
+89,89,11:50 KU155,,Kuwait City (KWI),Kuwait Airways 332,Canceled,2021-04-29
+90,90,11:50 TK771,,Kuwait City (KWI),Turkish Airlines A333 (TC-LNF),Landed 11:37,2021-04-29
+91,91,11:55 TK2007,,Nevsehir (NAV),Turkish Airlines A21N (TC-LSS),Landed 11:34,2021-04-29
+92,92,11:55 TK2033,,Konya (KYA),Turkish Airlines A320 (TC-JPM),Landed 12:02,2021-04-29
+93,93,11:55 TK2253,,Antakya (HTY),Turkish Airlines A21N (TC-LSY),Landed 11:57,2021-04-29
+94,94,12:00 TK2577,,Cardak (DNZ),Turkish Airlines 320,Unknown,2021-04-29
+95,95,12:00,ZB1001,Tirana (TIA),Air Albania B738 (TC-JZG),Landed 11:43,2021-04-29
+96,96,12:10,QR239,Doha (DOH),Qatar Airways B77W (A7-BEX),Landed 11:46,2021-04-29
+97,97,12:10,TK458,Kyiv (KBP),Turkish Airlines A333 (TC-JNH),Landed 12:00,2021-04-29
+98,98,12:10,TK691,Cairo (CAI),Turkish Airlines B738 (TC-JVY),Landed 12:18,2021-04-29
+99,99,12:10 TK713,,Dhaka (DAC),Turkish Airlines 333,Canceled,2021-04-29
+100,100,12:10 TK1018,,Pristina (PRN),Turkish Airlines B738 (TC-JVS),Landed 11:50,2021-04-29
+101,101,12:10,TK1022,Sarajevo (SJJ),Turkish Airlines A21N (TC-LSV),Landed 11:20,2021-04-29
+102,102,12:10 TK1474,,Kharkiv (HRK),Turkish Airlines A21N (TC-LSZ),Landed 12:04,2021-04-29
+103,103,12:15 TK707,,Kabul (KBL),Turkish Airlines A333 (TC-JOJ),Landed 12:15,2021-04-29
+104,104,12:15 TK2593,,Gazipasa (GZP),Turkish Airlines A320 (TC-JPN),Landed 12:06,2021-04-29
+105,105,12:20 TK2829,,Trabzon (TZX),Turkish Airlines A321 (TC-JTG),Landed 12:10,2021-04-29
+106,106,12:30 IA221,,Basra (BSR),Iraqi Airways B738 (YI-ASJ),Landed 12:08,2021-04-29
+107,107,12:30 TK2247,,Sanliurfa (GNY),Turkish Airlines 320,Unknown,2021-04-29
+108,108,12:30 8U970,,Tripoli (TIP),Afriqiyah Airways 320,Unknown,2021-04-29
+109,109,12:35 TK2675,,Mardin (MQM),Turkish Airlines A321 (TC-JSN),Landed 12:22,2021-04-29
+110,110,12:35 TK2659,,Sivas (VAS),Turkish Airlines A321 (TC-JML),Landed 12:24,2021-04-29
+111,111,12:40,TK2473,Adana (ADA),Turkish Airlines A321 (TC-JSA),Landed 12:20,2021-04-29
+112,112,12:40 TK2849,,Ordu (OGU),Turkish Airlines (Star Alliance Livery) A321 (TC-JRL),Landed 12:29,2021-04-29
+113,113,12:45,TK2411,Antalya (AYT),Turkish Airlines A333 (TC-LOC),Landed 12:52,2021-04-29
+114,114,12:45 TK2631,,Malatya (MLX),Turkish Airlines (Star Alliance Livery) A320 (TC-JPS),Landed 12:37,2021-04-29
+115,115,12:50,PS711,Kyiv (KBP),Ukraine International Airlines B738 (UR-PSY),Landed 12:31,2021-04-29
+116,116,12:55,TK2139,Ankara (ESB),Turkish Airlines A333 (TC-JOD),Landed 13:07,2021-04-29
+117,117,13:00,MS737,Cairo (CAI),EgyptAir A20N (SU-GFM),Landed 13:05,2021-04-29
+118,118,13:00 TK345,,Bishkek (FRU),Turkish Airlines A21N (TC-LSO),Landed 12:26,2021-04-29
+119,119,13:00 GHT560,,Misrata (MRA),- 737,Unknown,2021-04-29
+120,120,13:05 TK2217,,Adiyaman (ADF),Turkish Airlines A320 (TC-JPO),Landed 12:58,2021-04-29
+121,121,13:10,EY97,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLB),Landed 12:41,2021-04-29
+122,122,13:15 YL102,,Tripoli (MJI),Libyan Wings A319 (5A-WLD),Landed 13:00,2021-04-29
+123,123,13:20 TK2643,,Elazig (EZS),Turkish Airlines A320 (TC-JPR),Landed 13:38,2021-04-29
+124,124,13:20 TK2705,,Erzurum (ERZ),Turkish Airlines A320 (TC-JPJ),Landed 13:02,2021-04-29
+125,125,13:35 TK2657,,Siirt (SXZ),Turkish Airlines A319 (TC-JLY),Landed 13:28,2021-04-29
+126,126,13:40 W5120,,Tehran (IKA),Mahan Air 343,Canceled,2021-04-29
+127,127,13:45,SV257,Jeddah (JED),Saudia A320 (HZ-ASA),Landed 13:56,2021-04-29
+128,128,13:45 TK2719,,Igdir (IGD),Turkish Airlines A321 (TC-JRI),Landed 13:45,2021-04-29
+129,129,13:50,J2175,Baku (GYD),Azerbaijan Airlines A319 (4K-AZ05),Canceled,2021-04-29
+130,130,13:55 TK2715,,Kars (KSY),Turkish Airlines 320,Unknown,2021-04-29
+131,131,14:00,TK333,Baku (GYD),Turkish Airlines A21N (TC-LSL),Landed 14:10,2021-04-29
+132,132,14:00 TK534,,Ouagadougou (OUA),Turkish Airlines B739 (TC-JYI),Unknown,2021-04-29
+133,133,14:00 8U970,,Tripoli (MJI),Afriqiyah Airways A333 (5A-ONR),Landed 13:42,2021-04-29
+134,134,14:15,TK2413,Antalya (AYT),Turkish Airlines A333 (TC-JOF),Landed 14:25,2021-04-29
+135,135,14:20 TK2747,,Van (VAN),Turkish Airlines (Star Alliance livery) A321 (TC-JRA),Landed 15:04,2021-04-29
+136,136,14:20 QB2213,,Tehran (IKA),Qeshm Airlines AB6,Unknown,2021-04-29
+137,137,14:25,TK701,Sharm el-Sheikh (SSH),Turkish Airlines A21N (TC-LST),Landed 14:14,2021-04-29
+138,138,14:30 IR719,,Tehran (IKA),Iran Air AB6,Unknown,2021-04-29
+139,139,14:30 R5263,,Amman (AMM),Jordan Aviation 320,Unknown,2021-04-29
+140,140,14:45 EK123,,Dubai (DXB),Emirates A388 (A6-EUV),Unknown,2021-04-29
+141,141,14:55,A3992,Athens (ATH),Aegean Airlines A319 (SX-DGF),Landed 14:20,2021-04-29
+142,142,15:00 TK36,,Montreal (YUL),Turkish Airlines A359 (TC-LGA),Landed 14:57,2021-04-29
+143,143,15:00 TK1722,,Berlin (BER),Turkish Airlines A21N (TC-LSH),Landed 14:28,2021-04-29
+144,144,15:10 TK1662,,Hamburg (HAM),Turkish Airlines A21N (TC-LTC),Landed 14:47,2021-04-29
+145,145,15:10,TK1908,Zurich (ZRH),Turkish Airlines A333 (TC-LNG),Landed 14:50,2021-04-29
+146,146,15:15,TK825,Beirut (BEY),Turkish Airlines A21N (TC-LSR),Landed 15:09,2021-04-29
+147,147,15:15,TK18,Toronto (YYZ),Turkish Airlines B789 (TC-LLM),Unknown,2021-04-29
+148,148,15:20,TK78,Miami (MIA),Turkish Airlines B77W (TC-JJU),Landed 15:29,2021-04-29
+149,149,15:20,TK800,Panama City (PTY),Turkish Airlines B789 (TC-LLI),Landed 14:35,2021-04-29
+150,150,15:20,TK1524,Dusseldorf (DUS),Turkish Airlines A21N (TC-LSA),Landed 14:39,2021-04-29
+151,151,15:20 9U745,,Chisinau (KIV),Air Moldova 319,Unknown,2021-04-29
+152,152,15:25,SV263,Riyadh (RUH),Saudia B789 (HZ-AR22),Landed 15:37,2021-04-29
+153,153,15:30 TK2557,,Dalaman (DLM),Turkish Airlines A21N (TC-LSK),Landed 15:24,2021-04-29
+154,154,15:35 TK1784,,Copenhagen (CPH),Turkish Airlines A21N (TC-LSM),Landed 15:22,2021-04-29
+155,155,15:45 TK1588,,Frankfurt (FRA),Turkish Airlines A333 (TC-JOA),Landed 15:34,2021-04-29
+156,156,15:50 JU802,,Belgrade (BEG),AirSERBIA A319 (YU-APC),Landed 15:31,2021-04-29
+157,157,15:50 TK1822,,Paris (CDG),Turkish Airlines A21N (TC-LSG),Landed 15:26,2021-04-29
+158,158,15:50 TK1952,,Amsterdam (AMS),Turkish Airlines A359 (TC-LGB),Landed 15:19,2021-04-29
+159,159,16:00 TK12,,New York (JFK),Turkish Airlines B77W (TC-JJL),Landed 15:55,2021-04-29
+160,160,16:00 TK82,,Boston (BOS),Turkish Airlines A333 (TC-JNS),Unknown,2021-04-29
+161,161,16:05 TK6,,Chicago (ORD),Turkish Airlines B77W (TC-JJY),Landed 15:44,2021-04-29
+162,162,16:05 TK8,,Washington (IAD),Turkish Airlines B77W (TC-JJE),Landed 15:53,2021-04-29
+163,163,16:05 TK32,,Atlanta (ATL),Turkish Airlines B789 (TC-LLG),Landed 15:50,2021-04-29
+164,164,16:05 PC3304,,Izmir (ADB),Pegasus A20N (TC-NBI),Landed 15:49,2021-04-29
+165,165,16:10 TK2325,,Izmir (ADB),Turkish Airlines A321 (TC-JRE),Landed 15:47,2021-04-29
+166,166,16:37,,San Francisco (SFO),- B789 (TC-LLA),Landed 17:01,2021-04-29
+167,167,16:40 TK34,,Houston (IAH),Turkish Airlines B789 (TC-LLF),Landed 17:13,2021-04-29
+168,168,16:40 LH1300,,Frankfurt (FRA),Lufthansa A21N (D-AIEC),Landed 16:28,2021-04-29
+169,169,16:40 TK2223,,Gaziantep (GZT),Turkish Airlines A321 (TC-JRK),Landed 16:30,2021-04-29
+170,170,16:45 LO135,,Warsaw (WAW),LOT E75S (SP-LID),Landed 16:08,2021-04-29
+171,171,17:00 TK2155,,Ankara (ESB),Turkish Airlines A332 (TC-JNB),Landed 16:54,2021-04-29
+172,172,17:00 I36619,,Tehran (IKA),ATA Airlines 320,Unknown,2021-04-29
+173,173,17:10 TK1980,,London (LHR),Turkish Airlines A333 (TC-JOI),Landed 16:51,2021-04-29
+174,174,17:10 TK2417,,Antalya (AYT),Turkish Airlines A333 (TC-LOG),Landed 17:09,2021-04-29
+175,175,17:15 TK80,,San Francisco (SFO),Turkish Airlines B789 (TC-LLA),Unknown,2021-04-29
+176,176,17:25 TK2693,,Mus (MSR),Turkish Airlines A21N (TC-LSE),Landed 17:20,2021-04-29
+177,177,17:35 TK10,,Los Angeles (LAX),Turkish Airlines B77W (TC-LJH),Landed 17:54,2021-04-29
+178,178,17:35 MS735,,Cairo (CAI),EgyptAir A20N (SU-GFN),Landed 17:29,2021-04-29
+179,179,17:45 TK2667,,Sirnak (NKT),Turkish Airlines A321 (TC-JSP),Landed 17:47,2021-04-29
+180,180,17:55 EK121,,Dubai (DXB),Emirates B77W (A6-EGZ),Landed 17:38,2021-04-29
+181,181,18:00 TK2463,,Adana (ADA),Turkish Airlines A333 (TC-LOA),Landed 17:51,2021-04-29
+182,182,18:30 ME267,,Beirut (BEY),MEA A21N (T7-ME6),Landed 18:21,2021-04-29
+183,183,18:35 IF221,,Baghdad (BGW),Fly Baghdad CRJ2 (YI-BAH),Landed 18:17,2021-04-29
+184,184,18:40 EP512,,Tehran (IKA),Iran Aseman Airlines A343 (EP-APA),Landed 17:34,2021-04-29
+185,185,18:45 QR245,,Doha (DOH),Qatar Airways B77W (A7-BAM),Landed 18:13,2021-04-29
+186,186,18:55 TK687,,Djibouti (JIB),Turkish Airlines B739 (TC-JYD),Unknown,2021-04-29
+187,187,19:00 TK2163,,Ankara (ESB),Turkish Airlines (Retro Livery) A332 (TC-JNC),Landed 18:45,2021-04-29
+188,188,19:00 W5114,,Tehran (IKA),Mahan Air 310,Unknown,2021-04-29
+189,189,19:10 TK2329,,Izmir (ADB),Turkish Airlines A21N (TC-LSN),Landed 19:20,2021-04-29
+190,190,19:30 RJ167,,Amman (AMM),Royal Jordanian E75,Canceled,2021-04-29
+191,191,20:00 TK2421,,Antalya (AYT),Turkish Airlines A333 (TC-LOC),Landed 19:48,2021-04-29
+192,192,20:05 TK2467,,Adana (ADA),Turkish Airlines A321 (TC-JRC),Landed 20:01,2021-04-29
+193,193,20:20 HY273,,Tashkent (TAS),Uzbekistan Airways B752 (UK75702),Landed 20:00,2021-04-29
+194,194,20:20 QB2215,,Tehran (IKA),Qeshm Airlines AB6,Unknown,2021-04-29
+195,195,20:25 TK474,,Kherson (KHE),Turkish Airlines A319 (TC-JLY),Landed 20:16,2021-04-29
+196,196,20:40 TK2751,,Van (VAN),Turkish Airlines A321 (TC-JRI),Landed 20:30,2021-04-29
+197,197,20:44 TK6012,,Chicago (ORD),Turkish Airlines A333 (TC-LOD),Landed 20:18,2021-04-29
+198,198,20:45 TK618,,Casablanca (CMN),Turkish Airlines B77W (TC-LJK),Landed 21:10,2021-04-29
+199,199,20:50 MB6121,,Tel Aviv (TLV),MNG Airlines A306 (TC-MNV),Landed 20:42,2021-04-29
+200,200,20:55,ET722,Addis Ababa (ADD),Ethiopian Airlines B738 (ET-ASJ),Landed 21:02,2021-04-29
+201,201,21:00 DV485,,Shymkent (CIT),SCAT Airlines B737 (UP-B3725),Landed 21:19,2021-04-29
+202,202,21:00 TK2559,,Dalaman (DLM),Turkish Airlines A333 (TC-LOF),Landed 20:55,2021-04-29
+203,203,21:10,KC917,Nur-Sultan (NQZ),Air Astana A21N (P4-KGE),Landed 21:06,2021-04-29
+204,204,21:10 IR769,,Tehran (IKA),Iran Air AB6,Unknown,2021-04-29
+205,205,21:20 TK2853,,Ordu (OGU),Turkish Airlines 320,Unknown,2021-04-29
+206,206,21:30 TU216,,Tunis (TUN),Tunisair A332 (TS-IFM),Landed 21:29,2021-04-29
+207,207,21:40 TK2811,,Samsun (SZF),Turkish Airlines 320,Unknown,2021-04-29
+208,208,21:45,TK2171,Ankara (ESB),Turkish Airlines A333 (TC-JNJ),Landed 21:25,2021-04-29
+209,209,21:45 TK2579,,Cardak (DNZ),Turkish Airlines 320,Unknown,2021-04-29
+210,210,21:55 TK664,,Tunis (TUN),Turkish Airlines A321 (TC-JTJ),Landed 21:38,2021-04-29
+211,211,22:00 TK2009,,Nevsehir (NAV),Turkish Airlines 320,Unknown,2021-04-29
+212,212,22:05 TK2685,,Batman (BAL),Turkish Airlines A321 (TC-JRH),Landed 22:10,2021-04-29
+213,213,22:05 TK2835,,Trabzon (TZX),Turkish Airlines A321 (TC-JRE),Landed 21:57,2021-04-29
+214,214,22:05,TK2227,Gaziantep (GZT),Turkish Airlines A321 (TC-JTG),Landed 21:43,2021-04-29
+215,215,22:10,TK1796,Stockholm (ARN),Turkish Airlines A21N (TC-LSD),Landed 21:59,2021-04-29
+216,216,22:10 TK2021,,Kayseri (ASR),Turkish Airlines A321 (TC-JTE),Landed 22:12,2021-04-29
+217,217,22:10 TK2249,,Sanliurfa (GNY),Turkish Airlines (Star Alliance livery) A321 (TC-JRA),Landed 21:48,2021-04-29
+218,218,22:15,TK1368,Marseille (MRS),Turkish Airlines B738 (TC-JVI),Landed 21:45,2021-04-29
+219,219,22:15 TK2255,,Antakya (HTY),Turkish Airlines 321,Canceled,2021-04-29
+220,220,22:20,TK1636,Munich (MUC),Turkish Airlines A21N (TC-LSL),Landed 21:52,2021-04-29
+221,221,22:20,TK1806,Toulouse (TLS),Turkish Airlines B38M (TC-LCA),Landed 21:54,2021-04-29
+222,222,22:25 TK1424,,Tallinn (TLL),Turkish Airlines B738 (TC-JHY),Landed 22:04,2021-04-29
+223,223,22:25,TK1800,Gothenburg (GOT),Turkish Airlines A21N (TC-LSV),Landed 22:02,2021-04-29
+224,224,22:25,TK1920,Geneva (GVA),Turkish Airlines A21N (TC-LSO),Landed 21:50,2021-04-29
+225,225,22:30 TK1408,,Vilnius (VNO),Turkish Airlines B738 (TC-JVS),Landed 22:28,2021-04-29
+226,226,22:35 TK1326,,Bologna (BLQ),Turkish Airlines A320 (TC-JPO),Landed 22:26,2021-04-29
+227,227,22:35 TK1506,,Nurnberg (NUE),Turkish Airlines A21N (TC-LSH),Landed 22:08,2021-04-29
+228,228,22:35 TK1996,,Manchester (MAN),Turkish Airlines A21N (TC-LSS),Landed 22:15,2021-04-29
+229,229,22:40 TK1314,,Valencia (VLC),Turkish Airlines B739 (TC-JYF),Landed 22:19,2021-04-29
+230,230,22:40 TK1776,,Riga (RIX),Turkish Airlines B739 (TC-JYG),Landed 22:39,2021-04-29
+231,231,22:45 TK1396,,Catania (CTA),Turkish Airlines B738 (TC-JVR),Landed 22:17,2021-04-29
+232,232,22:45,TK1664,Hamburg (HAM),Turkish Airlines A21N (TC-LTB),Landed 22:21,2021-04-29
+233,233,22:45,TK1754,Oslo (OSL),Turkish Airlines A21N (TC-LSY),Landed 22:23,2021-04-29
+234,234,22:45 TK2439,,Antalya (AYT),Turkish Airlines A321 (TC-JSR),Landed 22:25,2021-04-29
+235,235,22:45 TK2637,,Malatya (MLX),Turkish Airlines 73H,Canceled,2021-04-29
+236,236,22:55,TK468,Odesa (ODS),Turkish Airlines B738 (TC-JVD),Landed 22:38,2021-04-29
+237,237,22:55 TK1030,,Sofia (SOF),Turkish Airlines (Star Alliance Livery) A321 (TC-JRB),Landed 23:17,2021-04-29
+238,238,22:55,TK1594,Frankfurt (FRA),Turkish Airlines A21N (TC-LSJ),Landed 22:33,2021-04-29
+239,239,22:55 TK1454,,Naples (NAP),Turkish Airlines B738 (TC-JVA),Landed 22:23,2021-04-29
+240,240,22:55,TK1954,Amsterdam (AMS),Turkish Airlines A333 (TC-JOG),Landed 22:31,2021-04-29
+241,241,22:55,TK2337,Izmir (ADB),Turkish Airlines B77W (TC-JJU),Landed 22:37,2021-04-29
+242,242,23:00,TK1372,Luqa (MLA),Turkish Airlines A321 (TC-JSL),Landed 22:36,2021-04-29
+243,243,23:05 TK272,,Chisinau (KIV),Turkish Airlines A321 (TC-JSP),Landed 23:00,2021-04-29
+244,244,23:05,TK1084,Belgrade (BEG),Turkish Airlines B738 (TC-JHU),Landed 22:33,2021-04-29
+245,245,23:05,TK1528,Dusseldorf (DUS),Turkish Airlines A321 (TC-JSD),Landed 22:48,2021-04-29
+246,246,23:10,TK1046,Bucharest (OTP),Turkish Airlines A333 (TC-LNF),Landed 23:02,2021-04-29
+247,247,23:10,TK1556,Hannover (HAJ),Turkish Airlines B738 (TC-JVG),Landed 23:10,2021-04-29
+248,248,23:10,TK1760,Lisbon (LIS),Turkish Airlines A21N (TC-LSF),Landed 22:45,2021-04-29
+249,249,23:10,TK1888,Vienna (VIE),Turkish Airlines A21N (TC-LSG),Landed 22:42,2021-04-29
+250,250,23:10 TK1970,,Birmingham (BHX),Turkish Airlines A21N (TC-LSP),Landed 23:15,2021-04-29
+251,251,23:15 TK1006,,Skopje (SKP),Turkish Airlines (Star Alliance Livery) A319 (TC-JLU),Landed 22:49,2021-04-29
+252,252,23:15,TK1706,Stuttgart (STR),Turkish Airlines A21N (TC-LSU),Landed 22:56,2021-04-29
+253,253,23:15,TK1038,Budapest (BUD),Turkish Airlines A321 (TC-JSF),Landed 22:54,2021-04-29
+254,254,23:20 TK1304,,Malaga (AGP),Turkish Airlines A21N (TC-LSZ),Landed 23:02,2021-04-29
+255,255,23:20 TK1910,,Zurich (ZRH),Turkish Airlines A21N (TC-LTC),Landed 22:51,2021-04-29
+256,256,23:20 TK1978,,Dublin (DUB),Turkish Airlines A333 (TC-JNL),Landed 22:28,2021-04-29
+257,257,23:20,TK1856,Barcelona (BCN),Turkish Airlines A333 (TC-JNT),Landed 22:47,2021-04-29
+258,258,23:25,TK1972,London (LHR),Turkish Airlines B77W (TC-LJC),Landed 22:59,2021-04-29
+259,259,23:25,TK1860,Madrid (MAD),Turkish Airlines A21N (TC-LSC),Landed 22:54,2021-04-29
+260,260,23:25,TK1864,Rome (FCO),Turkish Airlines A333 (TC-JOF),Landed 22:58,2021-04-29
+261,261,23:30,TK1056,Zagreb (ZAG),Turkish Airlines B738 (TC-JHV),Landed 23:06,2021-04-29
+262,262,23:30 TK1088,,Podgorica (TGD),Turkish Airlines A321 (TC-JTH),Landed 23:08,2021-04-29
+263,263,23:35,TK460,Kyiv (KBP),Turkish Airlines B789 (TC-LLG),Landed 23:10,2021-04-29
+264,264,23:35 TK1676,,Cologne (CGN),Turkish Airlines B738 (TC-JHL),Landed 00:56,2021-04-29
+265,265,23:35,TK1724,Berlin (BER),Turkish Airlines A21N (TC-LSR),Landed 23:13,2021-04-29
+266,266,23:35,TK1876,Milan (MXP),Turkish Airlines A333 (TC-LNC),Landed 23:13,2021-04-29
+267,267,23:40,TK286,Minsk (MSQ),Turkish Airlines A321 (TC-JRJ),Landed 23:25,2021-04-29
+268,268,23:40 TK444,,Lviv (LWO),Turkish Airlines A321 (TC-JSB),Landed 23:30,2021-04-29
+269,269,23:40 TK1026,,Sarajevo (SJJ),Turkish Airlines A321 (TC-JRR),Landed 23:04,2021-04-29
+270,270,23:40 TK1348,,Cluj-Napoca (CLJ),Turkish Airlines A319 (TC-JLZ),Landed 23:08,2021-04-29
+271,271,23:40 TK1470,,Zaporizhzhia (OZH),Turkish Airlines A321 (TC-JSJ),Landed 23:43,2021-04-29
+272,272,23:40 TK1476,,Kharkiv (HRK),Turkish Airlines A321 (TC-JTP),Landed 23:16,2021-04-29
+273,273,23:40 TK1940,,Brussels (BRU),Turkish Airlines A21N (TC-LSB),Landed 23:20,2021-04-29
+274,274,23:40 ZB1003,,Tirana (TIA),Air Albania 319,Unknown,2021-04-29
+275,275,23:45 TK6387,,Budapest (BUD),Turkish Airlines 31Y,Unknown,2021-04-29
+276,276,23:50 TK2611,,Diyarbakir (DIY),Turkish Airlines (Discover the Potential Livery) A321 (TC-JRG),Landed 23:53,2021-04-29
+277,277,23:55,TK695,Cairo (CAI),Turkish Airlines A21N (TC-LTA),Landed 23:35,2021-04-29
+278,278,23:55 TK1828,,Paris (CDG),Turkish Airlines A333 (TC-JNK),Landed 23:22,2021-04-29
+0,0,00:05 TK2341,,Izmir (ADB),Turkish Airlines 321,Unknown,2021-04-30
+1,1,00:05 TK2519,,Bodrum (BJV),Turkish Airlines (Star Alliance Livery) A321 (TC-JRL),Landed 23:39,2021-04-30
+2,2,00:25 TK2469,,Adana (ADA),Turkish Airlines 320,Unknown,2021-04-30
+3,3,00:30 TK2831,,Trabzon (TZX),Turkish Airlines 321,Unknown,2021-04-30
+4,4,00:30 I36601,,Tabriz (TBZ),ATA Airlines 320,Unknown,2021-04-30
+5,5,00:55 TK2229,,Gaziantep (GZT),Turkish Airlines 321,Unknown,2021-04-30
+6,6,01:20 YK775,,Bishkek (FRU),Avia Traffic 737,Unknown,2021-04-30
+7,7,02:25 LO137,,Warsaw (WAW),LOT E170 (SP-LDI),Landed 01:59,2021-04-30
+8,8,02:30 YL100,,Tripoli (MJI),Libyan Wings A319 (5A-WLD),Landed 03:25,2021-04-30
+9,9,02:50 TK4911,,Moscow (VKO),Turkish Airlines (Star Alliance Livery) A320 (TC-JPS),Landed 02:28,2021-04-30
+10,10,04:00 TK1984,,London (LHR),Turkish Airlines A21N (TC-LSK),Landed 03:17,2021-04-30
+11,11,04:30 TK1430,,Hurghada (HRG),Turkish Airlines A21N (TC-LSA),Landed 03:51,2021-04-30
+12,12,04:40 TK815,,Amman (AMM),Turkish Airlines A333 (TC-LOA),Landed 04:12,2021-04-30
+13,13,04:45 TK85,,Manila (MNL),Turkish Airlines A359 (TC-LGD),Landed 04:02,2021-04-30
+14,14,04:55 TK2403,,Antalya (AYT),Turkish Airlines (Star Alliance livery) A321 (TC-JRA),Landed 04:24,2021-04-30
+15,15,05:00 TK57,,Jakarta (CGK),Turkish Airlines B789 (TC-LLJ),Landed 04:35,2021-04-30
+16,16,05:05 TK2185,,Ankara (ESB),Turkish Airlines A320 (TC-JPO),Landed 04:48,2021-04-30
+17,17,05:05 TK2573,,Dalaman (DLM),Turkish Airlines A21N (TC-LTA),Landed 04:47,2021-04-30
+18,18,05:15 TK224,,Caracas (CCS),Turkish Airlines B789 (TC-LLC),Landed 04:59,2021-04-30
+19,19,05:15 TK2451,,Adana (ADA),Turkish Airlines (Teknofest Livery) A321 (TC-JTR),Landed 04:57,2021-04-30
+20,20,05:20 TK4,,New York (JFK),Turkish Airlines B789 (TC-LLD),Landed 05:13,2021-04-30
+21,21,05:20 TK624,,Abuja (ABV),Turkish Airlines B739 (TC-JYC),Landed 04:54,2021-04-30
+22,22,05:25 TK55,,Singapore (SIN),Turkish Airlines B789 (TC-LLB),Landed 05:24,2021-04-30
+23,23,05:25 TK626,,Lagos (LOS),Turkish Airlines A333 (TC-JOB),Landed 06:05,2021-04-30
+24,24,05:25 TK731,,Male (MLE),Turkish Airlines B77W (TC-JJO),Landed 05:19,2021-04-30
+25,25,05:25 TK387,,Tbilisi (TBS),Turkish Airlines (Star Alliance Livery) A320 (TC-JPP),Landed 05:12,2021-04-30
+26,26,05:25 TK875,,Tehran (IKA),Turkish Airlines A21N (TC-LSE),Landed 05:39,2021-04-30
+27,27,05:30 TK595,,Dakar (DSS),Turkish Airlines B739 (TC-JYJ),Landed 05:01,2021-04-30
+28,28,05:30,TK2305,Izmir (ADB),Turkish Airlines A320 (TC-JPI),Landed 04:50,2021-04-30
+29,29,05:35,TK761,Dubai (DXB),Turkish Airlines A333 (TC-JOD),Landed 06:39,2021-04-30
+30,30,05:40 TK2237,,Gaziantep (GZT),Turkish Airlines 320,Canceled,2021-04-30
+31,31,05:45,TK827,Beirut (BEY),Turkish Airlines A333 (TC-JNI),Landed 05:17,2021-04-30
+32,32,05:45 TK2597,,Gazipasa (GZP),Turkish Airlines 320,Unknown,2021-04-30
+33,33,05:50 TK681,,Khartoum (KRT),Turkish Airlines A333 (TC-LNE),Landed 05:55,2021-04-30
+34,34,05:50,TK869,Abu Dhabi (AUH),Turkish Airlines A21N (TC-LSM),Landed 05:33,2021-04-30
+35,35,05:55,TK371,Tashkent (TAS),Turkish Airlines B789 (TC-LLI),Landed 05:31,2021-04-30
+36,36,05:55,TK775,Muscat (MCT),Turkish Airlines B739 (TC-JYI),Landed 05:44,2021-04-30
+37,37,06:00,TK355,Nur-Sultan (NQZ),Turkish Airlines B739 (TC-JYP),Landed 05:42,2021-04-30
+38,38,06:00,TK697,Alexandria (HBE),Turkish Airlines A319 (TC-JLY),Landed 05:45,2021-04-30
+39,39,06:10,TK693,Cairo (CAI),Turkish Airlines A21N (TC-LSL),Landed 05:58,2021-04-30
+40,40,06:15,TK677,Addis Ababa (ADD),Turkish Airlines B738 (TC-JHM),Landed 06:08,2021-04-30
+41,41,06:25 TK807,,Sulaimaniyah (ISU),Turkish Airlines A21N (TC-LSS),Landed 06:02,2021-04-30
+42,42,06:45,TK699,Sharm el-Sheikh (SSH),Turkish Airlines A319 (TC-JLS),Landed 06:24,2021-04-30
+43,43,07:10 TK793,,Tel Aviv (TLV),Turkish Airlines A333 (TC-JNJ),Landed 06:44,2021-04-30
+44,44,07:50 TK590,,Kinshasa (FIH),Turkish Airlines 73J,Unknown,2021-04-30
+45,45,08:08 MB6122,,Cologne (CGN),MNG Airlines A306 (TC-MNV),Landed 07:58,2021-04-30
+46,46,08:10,TK703,Hurghada (HRG),Turkish Airlines A21N (TC-LTB),Landed 07:43,2021-04-30
+47,47,08:10 TK2111,,Ankara (ESB),Turkish Airlines A321 (TC-JRM),Landed 07:55,2021-04-30
+48,48,08:15 PC3300,,Izmir (ADB),Pegasus Airlines 320,Canceled,2021-04-30
+49,49,08:15 TK6462,,Nairobi (NBO),Turkish Cargo A332 (TC-JOU),Landed 08:04,2021-04-30
+50,50,08:30 TK2435,,Antalya (AYT),Turkish Airlines B739 (TC-JYN),Landed 08:06,2021-04-30
+51,51,09:05 TK711,,Islamabad (ISB),Turkish Airlines A333 (TC-JNH),Landed 09:03,2021-04-30
+52,52,09:20 TK351,,Almaty (ALA),Turkish Airlines B789 (TC-LLA),Landed 08:42,2021-04-30
+53,53,09:35 TK181,,Cancun (CUN),Turkish Airlines B789 (TC-LLN),Landed 09:45,2021-04-30
+54,54,09:40 SZ103,,Dushanbe (DYU),Somon Air B739 (VQ-BBL),Landed 09:28,2021-04-30
+55,55,09:50 RO261,,Bucharest (OTP),Tarom AT76 (YR-ATJ),Landed 09:51,2021-04-30
+56,56,09:50 TK813,,Amman (AMM),Turkish Airlines A21N (TC-LSZ),Landed 09:32,2021-04-30
+57,57,09:55 TK538,,Ouagadougou (OUA),Turkish Airlines B739 (TC-JYE),Unknown,2021-04-30
+58,58,10:10 TK803,,Baghdad (BGW),Turkish Airlines A321 (TC-JSB),Landed 09:35,2021-04-30
+59,59,10:15 TK805,,Arbil (EBL),Turkish Airlines A21N (TC-LSH),Landed 10:10,2021-04-30
+60,60,10:20 ME265,,Beirut (BEY),MEA A21N (T7-ME1),Landed 10:17,2021-04-30
+61,61,10:20 TK337,,Baku (GYD),Turkish Airlines A333 (TC-JNK),Landed 10:02,2021-04-30
+62,62,10:20 TK377,,Tbilisi (TBS),Turkish Airlines A21N (TC-LSG),Landed 10:00,2021-04-30
+63,63,10:20 TK783,,Doha (DOH),Turkish Airlines A21N (TC-LSF),Landed 10:41,2021-04-30
+64,64,10:20 TK883,,Tabriz (TBZ),Turkish Airlines A21N (TC-LTC),Landed 10:05,2021-04-30
+65,65,10:25 TK879,,Tehran (IKA),Turkish Airlines A21N (TC-LSB),Landed 10:12,2021-04-30
+66,66,10:25 TK2011,,Kayseri (ASR),Turkish Airlines A319 (TC-JLZ),Landed 09:55,2021-04-30
+67,67,10:30 TK829,,Beirut (BEY),Turkish Airlines A21N (TC-LSU),Landed 10:07,2021-04-30
+68,68,10:45 TK791,,Tel Aviv (TLV),Turkish Airlines A321 (TC-JTJ),Landed 10:36,2021-04-30
+69,69,10:45 W5116,,Tehran (IKA),Mahan Air 343,Canceled,2021-04-30
+70,70,10:50 B2783,,Minsk (MSQ),Belavia (World of Tanks Livery) B733 (EW-254PA),Landed 10:52,2021-04-30
+71,71,10:50 TK2553,,Dalaman (DLM),Turkish Airlines 321,Canceled,2021-04-30
+72,72,11:00 HY271,,Tashkent (TAS),Uzbekistan Airways A20N (UK32023),Landed 10:34,2021-04-30
+73,73,11:00 TK543,,Niamey (NIM),Turkish Airlines B739 (TC-JYB),Landed 10:42,2021-04-30
+74,74,11:00 TK709,,Karachi (KHI),Turkish Airlines A332 (TC-JNB),Landed 10:24,2021-04-30
+75,75,11:05 TK608,,Nairobi (NBO),Turkish Airlines B738 (TC-JVY),Landed 10:54,2021-04-30
+76,76,11:05 TK715,,Lahore (LHE),Turkish Airlines A333 (TC-JNM),Landed 10:32,2021-04-30
+77,77,11:05 TK1070,,Varna (VAR),Turkish Airlines A319 (TC-JLY),Landed 10:39,2021-04-30
+78,78,11:10 TK472,,Kherson (KHE),Turkish Airlines (Star Alliance Livery) A319 (TC-JLU),Landed 10:49,2021-04-30
+79,79,11:10 TK763,,Dubai (DXB),Turkish Airlines B77W (TC-JJL),Landed 11:41,2021-04-30
+80,80,11:10 TK1028,,Sofia (SOF),Turkish Airlines B738 (TC-JVD),Landed 10:46,2021-04-30
+81,81,11:10 TK1044,,Bucharest (OTP),Turkish Airlines A333 (TC-JOG),Landed 11:44,2021-04-30
+82,82,11:15 TK2603,,Diyarbakir (DIY),Turkish Airlines A319 (TC-JLT),Landed 11:19,2021-04-30
+83,83,11:20 TK961,,Tymvou (ECN),Turkish Airlines A333 (TC-LOA),Landed 11:47,2021-04-30
+84,84,11:20 TK1004,,Skopje (SKP),Turkish Airlines B739 (TC-JYJ),Landed 10:45,2021-04-30
+85,85,11:20 TK2459,,Adana (ADA),Turkish Airlines 321,Canceled,2021-04-30
+86,86,11:25 TK737,,Mazar-I-Sharif (MZR),Turkish Airlines B739 (TC-JYF),Landed 11:43,2021-04-30
+87,87,11:30 PQ497,,Odesa (ODS),SkyUp Airlines (FC Shakhtar Livery) B737 (UR-SQE),Landed 11:36,2021-04-30
+88,88,11:30 TK466,,Odesa (ODS),Turkish Airlines A321 (TC-JRY),Landed 11:07,2021-04-30
+89,89,11:35 KU155,,Kuwait City (KWI),Kuwait Airways B77W (9K-AOL),Landed 11:16,2021-04-30
+90,90,11:40 TK2109,,Ankara (ESB),Turkish Airlines 321,Canceled,2021-04-30
+91,91,11:40 TK2221,,Gaziantep (GZT),Turkish Airlines A320 (TC-JPR),Landed 11:32,2021-04-30
+92,92,11:45 TK1082,,Belgrade (BEG),Turkish Airlines A21N (TC-LSM),Landed 11:21,2021-04-30
+93,93,11:45 TK2261,,Edremit (EDO),Turkish Airlines A321 (TC-JSR),Landed 11:25,2021-04-30
+94,94,11:45 TK2321,,Izmir (ADB),Turkish Airlines B77W (TC-JJO),Landed 11:37,2021-04-30
+95,95,11:50 TK1480,,Zaporizhzhia (OZH),Turkish Airlines (Star Alliance Livery) A321 (TC-JRB),Landed 11:34,2021-04-30
+96,96,11:50 TK1846,,Athens (ATH),Turkish Airlines A333 (TC-JOA),Landed 11:23,2021-04-30
+97,97,11:55 TK799,,Basra (BSR),Turkish Airlines A21N (TC-LSP),Landed 12:02,2021-04-30
+98,98,11:55 TK2007,,Nevsehir (NAV),Turkish Airlines 73H,Canceled,2021-04-30
+99,99,11:55 TK2033,,Konya (KYA),Turkish Airlines A320 (TC-JPM),Landed 11:54,2021-04-30
+100,100,11:55 TK2253,,Antakya (HTY),Turkish Airlines A321 (TC-JRK),Landed 11:55,2021-04-30
+101,101,12:00 TK2577,,Cardak (DNZ),Turkish Airlines A321 (TC-JSA),Landed 12:04,2021-04-30
+102,102,12:00 ZB1001,,Tirana (TIA),Air Albania B738 (TC-JZG),Landed 11:39,2021-04-30
+103,103,12:05 TK2843,,Sinop (NOP),Turkish Airlines A320 (TC-JPI),Landed 11:57,2021-04-30
+104,104,12:10 QR239,,Doha (DOH),Qatar Airways B77W (A7-BEX),Landed 11:59,2021-04-30
+105,105,12:10 TK458,,Kyiv (KBP),Turkish Airlines B77W (TC-JJH),Landed 11:51,2021-04-30
+106,106,12:10 TK691,,Cairo (CAI),Turkish Airlines A21N (TC-LSK),Landed 12:08,2021-04-30
+107,107,12:10 TK713,,Dhaka (DAC),Turkish Airlines 333,Canceled,2021-04-30
+108,108,12:10 TK1022,,Sarajevo (SJJ),Turkish Airlines B738 (TC-JVA),Landed 11:28,2021-04-30
+109,109,12:15 TK707,,Kabul (KBL),Turkish Airlines A333 (TC-JOJ),Landed 12:09,2021-04-30
+110,110,12:15 TK1054,,Zagreb (ZAG),Turkish Airlines A21N (TC-LSY),Landed 11:30,2021-04-30
+111,111,12:15 TK1086,,Podgorica (TGD),Turkish Airlines B738 (TC-JVL),Landed 11:49,2021-04-30
+112,112,12:15 TK2593,,Gazipasa (GZP),Turkish Airlines A320 (TC-JPN),Landed 12:31,2021-04-30
+113,113,12:20 TK2829,,Trabzon (TZX),Turkish Airlines A321 (TC-JTG),Canceled,2021-04-30
+114,114,12:30 PQ491,,Kyiv (KBP),SkyUp Airlines B739 (UR-SQI),Landed 12:21,2021-04-30
+115,115,12:30 TK2247,,Sanliurfa (GNY),Turkish Airlines 321,Canceled,2021-04-30
+116,116,12:30 8U974,,Misrata (MRA),Afriqiyah Airways 320,Unknown,2021-04-30
+117,117,12:35 TK2659,,Sivas (VAS),Turkish Airlines 321,Canceled,2021-04-30
+118,118,12:35 TK2675,,Mardin (MQM),Turkish Airlines A320 (TC-JPL),Landed 12:19,2021-04-30
+119,119,12:35 TK2855,,Merzifon (MZH),Turkish Airlines A320 (TC-JPO),Landed 12:40,2021-04-30
+120,120,12:40 IA229,,Arbil (EBL),Iraqi Airways CRJ9 (YI-AQA),Unknown,2021-04-30
+121,121,12:40 TK2473,,Adana (ADA),Turkish Airlines B738 (TC-JHM),Landed 12:22,2021-04-30
+122,122,12:40 TK2849,,Ordu (OGU),Turkish Airlines A321 (TC-JSZ),Landed 12:13,2021-04-30
+123,123,12:45 TK2201,,Kahramanmaras (KCM),Turkish Airlines (Star Alliance Livery) A320 (TC-JPP),Landed 12:45,2021-04-30
+124,124,12:45 TK2411,,Antalya (AYT),Turkish Airlines (Star Alliance livery) A321 (TC-JRA),Landed 12:25,2021-04-30
+125,125,12:45 TK2509,,Bodrum (BJV),Turkish Airlines A321 (TC-JML),Landed 12:15,2021-04-30
+126,126,12:45 TK2631,,Malatya (MLX),Turkish Airlines B738 (TC-JVZ),Landed 12:28,2021-04-30
+127,127,12:45 TK2807,,Samsun (SZF),Turkish Airlines A321 (TC-JRV),Landed 12:39,2021-04-30
+128,128,12:50,PS711,Kyiv (KBP),Ukraine International Airlines B739 (UR-PSI),Landed 12:34,2021-04-30
+129,129,12:50,RJ165,Amman (AMM),Royal Jordanian E195 (JY-EMA),Landed 12:52,2021-04-30
+130,130,12:52 TK6107,,Montreal (YUL),Turkish Airlines B77W (TC-LJI),Landed 12:36,2021-04-30
+131,131,12:55 PQ495,,Lviv (LWO),SkyUp Airlines B738 (UR-SQA),Landed 12:33,2021-04-30
+132,132,12:55,TK2139,Ankara (ESB),Turkish Airlines A321 (TC-JTD),Landed 12:55,2021-04-30
+133,133,12:55 TK2655,,Erzincan (ERC),Turkish Airlines 321,Canceled,2021-04-30
+134,134,13:00,MS737,Cairo (CAI),EgyptAir B738 (SU-GDE),Landed 13:03,2021-04-30
+135,135,13:00 TK345,,Bishkek (FRU),Turkish Airlines A21N (TC-LSR),Landed 12:57,2021-04-30
+136,136,13:00 GHT560,,Misrata (MRA),- 737,Unknown,2021-04-30
+137,137,13:05,TK284,Minsk (MSQ),Turkish Airlines (Discover the Potential Livery) A321 (TC-JRG),Landed 12:50,2021-04-30
+138,138,13:05 TK2217,,Adiyaman (ADF),Turkish Airlines B738 (TC-JHR),Landed 12:49,2021-04-30
+139,139,13:10,EY97,Abu Dhabi (AUH),Etihad (Greenliner Livery) B78X (A6-BMH),Landed 12:42,2021-04-30
+140,140,13:15 YL102,,Tripoli (MJI),Libyan Wings 319,Canceled,2021-04-30
+141,141,13:15 R5263,,Amman (AMM),Jordan Aviation 320,Unknown,2021-04-30
+142,142,13:20 TK2643,,Elazig (EZS),Turkish Airlines B739 (TC-JYL),Landed 13:06,2021-04-30
+143,143,13:20 TK2705,,Erzurum (ERZ),Turkish Airlines A320 (TC-JPJ),Landed 13:09,2021-04-30
+144,144,13:35 TK2731,,Agri (AJI),Turkish Airlines A321 (TC-JTO),Landed 13:35,2021-04-30
+145,145,13:40 W5120,,Tehran (IKA),Mahan Air 343,Canceled,2021-04-30
+146,146,13:45 PQ499,,Kharkiv (HRK),SkyUp Airlines B738 (UR-SQH),Landed 13:45,2021-04-30
+147,147,13:45,SU2136,Moscow (SVO),Aeroflot B77W (VQ-BFL),Landed 13:38,2021-04-30
+148,148,13:45 TK2719,,Igdir (IGD),Turkish Airlines 320,Canceled,2021-04-30
+149,149,13:50,J2175,Baku (GYD),Azerbaijan Airlines A320 (4K-AZ83),Canceled,2021-04-30
+150,150,13:55 TK2715,,Kars (KSY),Turkish Airlines 320,Canceled,2021-04-30
+151,151,14:00 IA223,,Baghdad (BGW),Iraqi Airways B738 (YI-ASR),Landed 13:14,2021-04-30
+152,152,14:00 LN192,,Tripoli (MJI),Libyan Airlines A332 (5A-LAR),Landed 14:03,2021-04-30
+153,153,14:00,TK333,Baku (GYD),Turkish Airlines A333 (TC-JOI),Landed 13:52,2021-04-30
+154,154,14:00,TK1630,Munich (MUC),Turkish Airlines A321 (TC-JTE),Landed 13:20,2021-04-30
+155,155,14:15,TK2413,Antalya (AYT),Turkish Airlines 321,Canceled,2021-04-30
+156,156,14:20 TK2671,,Yuksekova (YKO),Turkish Airlines (Star Alliance Livery) A320 (TC-JPS),Landed 14:06,2021-04-30
+157,157,14:20 TK2747,,Van (VAN),Turkish Airlines 320,Canceled,2021-04-30
+158,158,14:20 QB2213,,Tehran (IKA),Qeshm Airlines AB6,Unknown,2021-04-30
+159,159,14:25,TK701,Sharm el-Sheikh (SSH),Turkish Airlines A21N (TC-LSJ),Landed 14:11,2021-04-30
+160,160,14:25 TK2737,,Kastamonu (KFS),Turkish Airlines 321,Canceled,2021-04-30
+161,161,14:30 IR719,,Tehran (IKA),Iran Air AB6,Canceled,2021-04-30
+162,162,14:45,EK123,Dubai (DXB),Emirates (Expo 2020 - Sustainability Livery) B77W (A6-EPU),Landed 14:32,2021-04-30
+163,163,14:55,JU802,Belgrade (BEG),AirSERBIA A319 (YU-APK),Landed 14:29,2021-04-30
+164,164,15:00 TK1722,,Berlin (BER),Turkish Airlines A21N (TC-LSD),Landed 14:22,2021-04-30
+165,165,15:00,TK1862,Rome (FCO),Turkish Airlines A21N (TC-LSV),Landed 14:24,2021-04-30
+166,166,15:00,TK2119,Ankara (ESB),Turkish Airlines 319,Canceled,2021-04-30
+167,167,15:10 BJ640,,Tunis (TUN),Nouvelair Tunisie 320,Unknown,2021-04-30
+168,168,15:10 TK1662,,Hamburg (HAM),Turkish Airlines B738 (TC-JHL),Landed 14:34,2021-04-30
+169,169,15:10,TK1908,Zurich (ZRH),Turkish Airlines A21N (TC-LSS),Landed 14:35,2021-04-30
+170,170,15:15,TK18,Toronto (YYZ),Turkish Airlines B789 (TC-LLE),Landed 14:50,2021-04-30
+171,171,15:15,TK825,Beirut (BEY),Turkish Airlines A21N (TC-LTB),Landed 15:00,2021-04-30
+172,172,15:20,TK1524,Dusseldorf (DUS),Turkish Airlines A21N (TC-LSE),Landed 14:42,2021-04-30
+173,173,15:20 9U745,,Chisinau (KIV),Air Moldova A319 (ER-AXM),Landed 14:55,2021-04-30
+174,174,15:25,TK1918,Geneva (GVA),Turkish Airlines A21N (TC-LSL),Landed 15:20,2021-04-30
+175,175,15:30,TK2557,Dalaman (DLM),Turkish Airlines 321,Canceled,2021-04-30
+176,176,15:35 TK662,,Tunis (TUN),Turkish Airlines A321 (TC-JTP),Landed 15:24,2021-04-30
+177,177,15:35,TK1794,Stockholm (ARN),Turkish Airlines A21N (TC-LTA),Landed 14:57,2021-04-30
+178,178,15:45,TK1588,Frankfurt (FRA),Turkish Airlines A333 (TC-JNL),Landed 15:29,2021-04-30
+179,179,15:50,TK1822,Paris (CDG),Turkish Airlines A21N (TC-LSC),Landed 15:57,2021-04-30
+180,180,15:50 TK1938,,Brussels (BRU),Turkish Airlines A333 (TC-JNP),Landed 15:15,2021-04-30
+181,181,15:50,TK1952,Amsterdam (AMS),Turkish Airlines A333 (TC-JNS),Landed 15:21,2021-04-30
+182,182,16:00,TK12,New York (JFK),Turkish Airlines B77W (TC-JJG),Landed 15:26,2021-04-30
+183,183,16:05,TK6,Chicago (ORD),Turkish Airlines B77W (TC-JJR),Landed 15:11,2021-04-30
+184,184,16:05,TK8,Washington (IAD),Turkish Airlines B789 (TC-LLK),Landed 15:34,2021-04-30
+185,185,16:05,KL1613,Amsterdam (AMS),KLM B737 (PH-BGM),Landed 15:51,2021-04-30
+186,186,16:05 PC3304,,Izmir (ADB),Pegasus A20N (TC-NBH),Landed 15:43,2021-04-30
+187,187,16:10 MS542,,Cairo (CAI),EgyptAir Cargo A332 (SU-GCJ),Diverted to OST,2021-04-30
+188,188,16:10 TK2325,,Izmir (ADB),Turkish Airlines A320 (TC-JPR),Landed 15:49,2021-04-30
+189,189,16:15 TK1854,,Barcelona (BCN),Turkish Airlines A333 (TC-JNI),Landed 15:38,2021-04-30
+190,190,16:40 LH1300,,Frankfurt (FRA),Lufthansa A21N (D-AIEC),Landed 16:28,2021-04-30
+191,191,16:40 TK2223,,Gaziantep (GZT),Turkish Airlines B738 (TC-JHP),Landed 16:23,2021-04-30
+192,192,16:45 LO135,,Warsaw (WAW),LOT E170 (SP-LDI),Landed 16:04,2021-04-30
+193,193,16:50 TK464,,Odesa (ODS),Turkish Airlines B738 (TC-JVB),Landed 16:36,2021-04-30
+194,194,17:00 TK2155,,Ankara (ESB),Turkish Airlines 321,Canceled,2021-04-30
+195,195,17:05 TK2013,,Kayseri (ASR),Turkish Airlines A21N (TC-LSP),Landed 16:42,2021-04-30
+196,196,17:10 TK1980,,London (LHR),Turkish Airlines A333 (TC-LNE),Landed 16:44,2021-04-30
+197,197,17:10 TK2417,,Antalya (AYT),Turkish Airlines A321 (TC-JRK),Landed 16:54,2021-04-30
+198,198,17:15 TK1858,,Madrid (MAD),Turkish Airlines A21N (TC-LSA),Landed 16:46,2021-04-30
+199,199,17:25 TK2649,,Bingol (BGG),Turkish Airlines B738 (TC-JVD),Landed 17:04,2021-04-30
+200,200,17:25 TK2693,,Mus (MSR),Turkish Airlines A21N (TC-LSB),Landed 17:29,2021-04-30
+201,201,17:30 TK2861,,Isparta (ISE),Turkish Airlines A320 (TC-JPI),Landed 17:28,2021-04-30
+202,202,17:30 TK6793,,Almaty (ALA),Turkish Airlines 33F,Unknown,2021-04-30
+203,203,17:35 TK10,,Los Angeles (LAX),Turkish Airlines B789 (TC-LLH),Landed 17:41,2021-04-30
+204,204,17:35 MS735,,Cairo (CAI),EgyptAir B738 (SU-GCN),Landed 17:31,2021-04-30
+205,205,17:45 B2785,,Minsk (MSQ),Belavia E295 (EW-555PO),Landed 17:34,2021-04-30
+206,206,17:45 TK2667,,Sirnak (NKT),Turkish Airlines (Star Alliance Livery) A319 (TC-JLU),Landed 17:40,2021-04-30
+207,207,17:55 EK121,,Dubai (DXB),Emirates B77W (A6-EGY),Landed 17:45,2021-04-30
+208,208,17:55 TK1256,,Kyiv (KBP),Turkish Airlines A21N (TC-LTC),Landed 17:38,2021-04-30
+209,209,18:00 TK2245,,Sanliurfa (GNY),Turkish Airlines A320 (TC-JPM),Landed 18:05,2021-04-30
+210,210,18:00 TK2463,,Adana (ADA),Turkish Airlines A333 (TC-JNM),Landed 17:56,2021-04-30
+211,211,18:25 TK311,,Nakhchivan (NAJ),Turkish Airlines A319 (TC-JLZ),Landed 18:08,2021-04-30
+212,212,18:30 ME267,,Beirut (BEY),MEA A332 (OD-MEE),Landed 18:19,2021-04-30
+213,213,18:30 MB6121,,Tel Aviv (TLV),MNG Airlines ABF,Unknown,2021-04-30
+214,214,18:45 QR245,,Doha (DOH),Qatar Airways B77W (A7-BEE),Landed 18:17,2021-04-30
+215,215,18:55 TK687,,Djibouti (JIB),Turkish Airlines B739 (TC-JYD),Landed 19:21,2021-04-30
+216,216,19:00 TK2163,,Ankara (ESB),Turkish Airlines 321,Canceled,2021-04-30
+217,217,19:00 W5114,,Tehran (IKA),Mahan Airlines A346 (EP-MME),Landed 18:43,2021-04-30
+218,218,19:10 TK391,,Batumi (BUS),Turkish Airlines A319 (TC-JLY),Canceled,2021-04-30
+219,219,19:10 TK2329,,Izmir (ADB),Turkish Airlines 321,Canceled,2021-04-30
+220,220,19:25 PC3306,,Izmir (ADB),Pegasus Airlines 320,Canceled,2021-04-30
+221,221,19:35 PS713,,Kyiv (KBP),Ukraine International Airlines B739 (UR-PSI),Landed 19:09,2021-04-30
+222,222,19:50 IF221,,Baghdad (BGW),Fly Baghdad B737 (YI-AQL),Landed 19:25,2021-04-30
+223,223,20:00 TK2421,,Antalya (AYT),Turkish Airlines 321,Canceled,2021-04-30
+224,224,20:00 R5275,,Amman (AMM),Jordan Aviation 320,Unknown,2021-04-30
+225,225,20:05 TK2467,,Adana (ADA),Turkish Airlines 321,Canceled,2021-04-30
+226,226,20:20 HY273,,Tashkent (TAS),Uzbekistan Airways B752 (UK75703),Landed 20:00,2021-04-30
+227,227,20:30 TK2677,,Mardin (MQM),Turkish Airlines 320,Canceled,2021-04-30
+228,228,20:30 QB2215,,Tehran (IKA),Qeshm Airlines AB6,Unknown,2021-04-30
+229,229,20:55,KC911,Almaty (ALA),Air Astana 321,Canceled,2021-04-30
+230,230,21:00 TK2559,,Dalaman (DLM),Turkish Airlines (Star Alliance livery) A321 (TC-JRA),Landed 20:33,2021-04-30
+231,231,21:10 IR769,,Tehran (IKA),Iran Air AB6,Unknown,2021-04-30
+232,232,21:15 TK2661,,Sivas (VAS),Turkish Airlines 320,Unknown,2021-04-30
+233,233,21:20 MS542,,Ostend (OST),EgyptAir Cargo A332 (SU-GCJ),Landed 20:39,2021-04-30
+234,234,21:30 FG719,,Kabul (KBL),Ariana Afghan Airlines B734 (YA-PID),Diverted to HEA,2021-04-30
+235,235,21:40 TK2811,,Samsun (SZF),Turkish Airlines A21N (TC-LTA),Landed 22:11,2021-04-30
+236,236,21:45,TK2171,Ankara (ESB),Turkish Airlines B77W (TC-JJG),Landed 21:32,2021-04-30
+237,237,21:50 TK2039,,Konya (KYA),Turkish Airlines 321,Unknown,2021-04-30
+238,238,21:55 TK664,,Tunis (TUN),Turkish Airlines A321 (TC-JTO),Landed 21:30,2021-04-30
+239,239,22:00 J4690,,Khartoum (KRT),Badr Airlines B738 (OM-KEX),Landed 22:01,2021-04-30
+240,240,22:00 TK2009,,Nevsehir (NAV),Turkish Airlines A21N (TC-LSN),Landed 21:35,2021-04-30
+241,241,22:00 TK2707,,Erzurum (ERZ),Turkish Airlines A319 (TC-JLY),Landed 21:06,2021-04-30
+242,242,22:05 TK2685,,Batman (BAL),Turkish Airlines A320 (TC-JPJ),Landed 22:14,2021-04-30
+243,243,22:05 TK2835,,Trabzon (TZX),Turkish Airlines A321 (TC-JSR),Landed 21:59,2021-04-30
+244,244,22:05,TK2227,Gaziantep (GZT),Turkish Airlines A320 (TC-JPR),Landed 11:32,2021-04-30
+245,245,22:05 TK2225,,Gaziantep (GZT),Turkish Airlines B738 (TC-JVR),Landed 21:50,2021-04-30
+246,246,22:10 TK2021,,Kayseri (ASR),Turkish Airlines 73H,Canceled,2021-04-30
+247,247,22:15,TK1356,Luxembourg (LUX),Turkish Airlines A21N (TC-LSO),Landed 21:47,2021-04-30
+248,248,22:15 TK2255,,Antakya (HTY),Turkish Airlines 321,Canceled,2021-04-30
+249,249,22:20,TK16,Sao Paulo (GRU),Turkish Airlines A359 (TC-LGC),Landed 21:28,2021-04-30
+250,250,22:25,TK1800,Gothenburg (GOT),Turkish Airlines A21N (TC-LSK),Landed 21:54,2021-04-30
+251,251,22:25 TK1926,,Basel (BSL),Turkish Airlines B38M (TC-LCA),Landed 22:15,2021-04-30
+252,252,22:30 TK1408,,Vilnius (VNO),Turkish Airlines B738 (TC-JZF),Landed 22:05,2021-04-30
+253,253,22:35,TK1810,Lyon (LYS),Turkish Airlines B38M (TC-LCE),Landed 22:10,2021-04-30
+254,254,22:35,TK1786,Copenhagen (CPH),Turkish Airlines B739 (TC-JYE),Landed 22:03,2021-04-30
+255,255,22:40 TK1314,,Valencia (VLC),Turkish Airlines B739 (TC-JYP),Landed 22:18,2021-04-30
+256,256,22:45,TK1664,Hamburg (HAM),Turkish Airlines A21N (TC-LSH),Landed 22:07,2021-04-30
+257,257,22:45,TK1754,Oslo (OSL),Turkish Airlines A21N (TC-LSY),Landed 23:07,2021-04-30
+258,258,22:45,TK1764,Helsinki (HEL),Turkish Airlines B738 (TC-JVF),Landed 22:44,2021-04-30
+259,259,22:45 TK2439,,Antalya (AYT),Turkish Airlines A333 (TC-JOG),Landed 22:29,2021-04-30
+260,260,22:45 TK2637,,Malatya (MLX),Turkish Airlines B738 (TC-JVM),Landed 22:42,2021-04-30
+261,261,22:55,TK468,Odesa (ODS),Turkish Airlines B738 (TC-JHR),Landed 22:37,2021-04-30
+262,262,22:55 TK1030,,Sofia (SOF),Turkish Airlines (Star Alliance Livery) A319 (TC-JLU),Landed 22:26,2021-04-30
+263,263,22:55,TK1594,Frankfurt (FRA),Turkish Airlines A21N (TC-LSF),Landed 22:09,2021-04-30
+264,264,22:55,TK1954,Amsterdam (AMS),Turkish Airlines A333 (TC-JOA),Landed 22:21,2021-04-30
+265,265,22:55,TK2337,Izmir (ADB),Turkish Airlines B77W (TC-JJR),Landed 22:28,2021-04-30
+266,266,23:05,HY275,Samarkand (SKD),Uzbekistan Airways 320,Unknown,2021-04-30
+267,267,23:05 TK272,,Chisinau (KIV),Turkish Airlines A321 (TC-JRH),Landed 22:55,2021-04-30
+268,268,23:05,TK1084,Belgrade (BEG),Turkish Airlines B739 (TC-JYL),Landed 22:24,2021-04-30
+269,269,23:05,TK1528,Dusseldorf (DUS),Turkish Airlines A21N (TC-LSZ),Landed 22:31,2021-04-30
+270,270,23:05,TK1766,Warsaw (WAW),Turkish Airlines A333 (TC-JNK),Landed 22:36,2021-04-30
+271,271,23:05 TK1996,,Manchester (MAN),Turkish Airlines A333 (TC-JNJ),Landed 22:12,2021-04-30
+272,272,23:05 FG719,,Herat (HEA),Ariana Afghan Airlines B734 (YA-PID),Landed 23:29,2021-04-30
+273,273,23:10,TK1046,Bucharest (OTP),Turkish Airlines A333 (TC-LNE),Landed 22:49,2021-04-30
+274,274,23:10,TK1556,Hannover (HAJ),Turkish Airlines A21N (TC-LSJ),Landed 22:33,2021-04-30
+275,275,23:10,TK1760,Lisbon (LIS),Turkish Airlines A21N (TC-LSU),Landed 22:54,2021-04-30
+276,276,23:10,TK1888,Vienna (VIE),Turkish Airlines A321 (TC-JSF),Landed 22:23,2021-04-30
+277,277,23:15 TK1006,,Skopje (SKP),Turkish Airlines A319 (TC-JLZ),Landed 23:13,2021-04-30
+278,278,23:15 TK1064,,Ljubljana (LJU),Turkish Airlines A319 (TC-JLV),Landed 22:49,2021-04-30
+279,279,23:15,TK1706,Stuttgart (STR),Turkish Airlines A21N (TC-LSS),Landed 22:44,2021-04-30
+280,280,23:15,TK1038,Budapest (BUD),Turkish Airlines A320 (TC-JPL),Landed 22:34,2021-04-30
+281,281,23:20 TK1304,,Malaga (AGP),Turkish Airlines A21N (TC-LSM),Landed 22:57,2021-04-30
+282,282,23:20,TK1856,Barcelona (BCN),Turkish Airlines A21N (TC-LSR),Landed 22:46,2021-04-30
+283,283,23:20 TK1910,,Zurich (ZRH),Turkish Airlines B738 (TC-JVL),Landed 23:03,2021-04-30
+284,284,23:25,TK416,Moscow (VKO),Turkish Airlines B77W (TC-JJV),Landed 23:07,2021-04-30
+285,285,23:25 TK1020,,Pristina (PRN),Turkish Airlines A320 (TC-JPI),Landed 22:59,2021-04-30
+286,286,23:25,TK1770,Prague (PRG),Turkish Airlines A333 (TC-JOI),Landed 22:42,2021-04-30
+287,287,23:25,TK1860,Madrid (MAD),Turkish Airlines A333 (TC-JNH),Landed 23:01,2021-04-30
+288,288,23:25,TK1972,London (LHR),Turkish Airlines B77W (TC-JJF),Landed 22:47,2021-04-30
+289,289,23:30,PS717,Odesa (ODS),Ukraine International Airlines B738 (UR-PSO),Landed 23:26,2021-04-30
+290,290,23:30 TK1088,,Podgorica (TGD),Turkish Airlines A319 (TC-JLS),Landed 22:51,2021-04-30
+291,291,23:35,TK460,Kyiv (KBP),Turkish Airlines B789 (TC-LLE),Landed 23:01,2021-04-30
+292,292,23:35 TK1676,,Cologne (CGN),Turkish Airlines B738 (TC-JHZ),Landed 23:05,2021-04-30
+293,293,23:35,TK1724,Berlin (BER),Turkish Airlines A333 (TC-JOB),Landed 22:58,2021-04-30
+294,294,23:35,TK1876,Milan (MXP),Turkish Airlines A21N (TC-LSD),Landed 22:52,2021-04-30
+295,295,23:40 RQ909,,Kabul (KBL),Kam Air B763 (UR-CSX),Landed 23:42,2021-04-30
+296,296,23:40 TK444,,Lviv (LWO),Turkish Airlines A21N (TC-LSE),Landed 23:32,2021-04-30
+297,297,23:40 TK1476,,Kharkiv (HRK),Turkish Airlines A321 (TC-JRI),Landed 23:04,2021-04-30
+298,298,23:40,TK1870,Venice (VCE),Turkish Airlines (Star Alliance Livery) A320 (TC-JPP),Landed 23:23,2021-04-30
+299,299,23:40 TK1940,,Brussels (BRU),Turkish Airlines A21N (TC-LSV),Landed 23:09,2021-04-30
+300,300,23:40 ZB1003,,Tirana (TIA),Air Albania 319,Unknown,2021-04-30
+301,301,23:50 TK2611,,Diyarbakir (DIY),Turkish Airlines B738 (TC-JVD),Landed 23:34,2021-04-30
+302,302,23:55,TK695,Cairo (CAI),Turkish Airlines A21N (TC-LSL),Landed 23:44,2021-04-30
+303,303,23:55 TK1828,,Paris (CDG),Turkish Airlines B789 (TC-LLN),Landed 23:10,2021-04-30
+0,0,00:05 TK2519,,Bodrum (BJV),Turkish Airlines 321,Canceled,2021-05-01
+1,1,00:25 TK2469,,Adana (ADA),Turkish Airlines 319,Canceled,2021-05-01
+2,2,00:30 TK2831,,Trabzon (TZX),Turkish Airlines 321,Unknown,2021-05-01
+3,3,00:55 TK2229,,Gaziantep (GZT),Turkish Airlines 321,Unknown,2021-05-01
+4,4,02:30 YL100,,Tripoli (MJI),Libyan Wings A319 (5A-WLC),Landed 02:24,2021-05-01
+5,5,02:35 TK6466,,Mumbai (BOM),Turkish Airlines 33F,Unknown,2021-05-01
+6,6,02:50 TK589,,Libreville (LBV),Turkish Airlines A332 (TC-JNE),Landed 02:28,2021-05-01
+7,7,02:50 TK4911,,Moscow (VKO),Turkish Airlines A320 (TC-JPM),Landed 02:17,2021-05-01
+8,8,03:05 UZ115,,Misrata (MRA),Buraq Air 737,Unknown,2021-05-01
+9,9,03:15 AF1390,,Paris (CDG),Air France (Skyteam Livery) A320 (F-HEPI),Landed 02:35,2021-05-01
+10,10,03:35 TK1956,,Amsterdam (AMS),Turkish Airlines A21N (TC-LSA),Landed 02:47,2021-05-01
+11,11,04:00 TK1984,,London (LHR),Turkish Airlines A333 (TC-LNG),Landed 03:18,2021-05-01
+12,12,04:20 TK303,,Baghdad (BGW),Turkish Airlines B738 (TC-JHL),Landed 03:57,2021-05-01
+13,13,04:30 TK1430,,Hurghada (HRG),Turkish Airlines A333 (TC-LOA),Landed 04:18,2021-05-01
+14,14,04:35 ET720,,Addis Ababa (ADD),Ethiopian Airlines B738 (ET-AQP),Landed 04:56,2021-05-01
+15,15,04:35 TK71,,Hong Kong (HKG),Turkish Airlines B77W (TC-JJK),Landed 04:13,2021-05-01
+16,16,04:40 TK815,,Amman (AMM),Turkish Airlines A333 (TC-JNI),Landed 04:43,2021-05-01
+17,17,04:45 TK85,,Manila (MNL),Turkish Airlines A359 (TC-LGA),Landed 04:45,2021-05-01
+18,18,04:45 TK749,,Victoria (SEZ),Turkish Airlines A333 (TC-LND),Landed 05:26,2021-05-01
+19,19,04:50 TK43,,Johannesburg (JNB),Turkish Airlines A333 (TC-JNT),Landed 06:25,2021-05-01
+20,20,04:50 TK727,,Kathmandu (KTM),Turkish Airlines A333 (TC-JOF),Landed 04:02,2021-05-01
+21,21,04:55,TK2403,Antalya (AYT),Turkish Airlines A321 (TC-JRK),Landed 04:26,2021-05-01
+22,22,04:55 TK4902,,St. Petersburg (LED),Turkish Airlines A333 (TC-JNL),Landed 04:30,2021-05-01
+23,23,05:00,TK57,Jakarta (CGK),Turkish Airlines B789 (TC-LLG),Landed 04:50,2021-05-01
+24,24,05:05,TK25,Taipei (TPE),Turkish Airlines B789 (TC-LLM),Landed 04:53,2021-05-01
+25,25,05:05,TK2185,Ankara (ESB),Turkish Airlines B738 (TC-JHS),Landed 04:59,2021-05-01
+26,26,05:05,TK2573,Dalaman (DLM),Turkish Airlines A21N (TC-LST),Landed 04:58,2021-05-01
+27,27,05:10 TK45,,Cape Town (CPT),Turkish Airlines A333 (TC-LNC),Landed 05:35,2021-05-01
+28,28,05:10,TK69,Bangkok (BKK),Turkish Airlines A333 (TC-LNF),Landed 04:48,2021-05-01
+29,29,05:10,TK91,Seoul (ICN),Turkish Airlines B77W (TC-LJH),Landed 04:38,2021-05-01
+30,30,05:15,TK61,Kuala Lumpur (KUL),Turkish Airlines B77W (TC-LJK),Landed 04:34,2021-05-01
+31,31,05:15 TK2023,,Kayseri (ASR),Turkish Airlines B738 (TC-JVB),Landed 05:09,2021-05-01
+32,32,05:15 TK2451,,Adana (ADA),Turkish Airlines A321 (TC-JSV),Landed 05:05,2021-05-01
+33,33,05:20,TK4,New York (JFK),Turkish Airlines B77W (TC-JJP),Landed 04:40,2021-05-01
+34,34,05:20,TK199,Tokyo (HND),Turkish Airlines B789 (TC-LLF),Landed 05:33,2021-05-01
+35,35,05:20 TK624,,Abuja (ABV),Turkish Airlines B739 (TC-JYH),Landed 05:03,2021-05-01
+36,36,05:20 TK885,,Shiraz (SYZ),Turkish Airlines 321,Unknown,2021-05-01
+37,37,05:25 TK630,,Accra (ACC),Turkish Airlines (Retro Livery) A332 (TC-JNC),Landed 05:20,2021-05-01
+38,38,05:25 TK626,,Lagos (LOS),Turkish Airlines A333 (TC-JNO),Landed 05:13,2021-05-01
+39,39,05:25 TK731,,Male (MLE),Turkish Airlines B77W (TC-JJE),Landed 05:23,2021-05-01
+40,40,05:25,TK387,Tbilisi (TBS),Turkish Airlines A21N (TC-LSB),Landed 05:30,2021-05-01
+41,41,05:25 TK875,,Tehran (IKA),Turkish Airlines A21N (TC-LSG),Landed 05:02,2021-05-01
+42,42,05:30,TK2305,Izmir (ADB),Turkish Airlines 321,Unknown,2021-05-01
+43,43,05:30,TK2539,Bodrum (BJV),Turkish Airlines 320,Unknown,2021-05-01
+44,44,05:35,TK761,Dubai (DXB),Turkish Airlines A333 (TC-LOG),Landed 05:46,2021-05-01
+45,45,05:40 TK2237,,Gaziantep (GZT),Turkish Airlines 319,Unknown,2021-05-01
+46,46,05:40 TK2819,,Samsun (SZF),Turkish Airlines 321,Unknown,2021-05-01
+47,47,05:40 TK4945,,Jeddah (JED),Turkish Airlines A321 (TC-JSS),Landed 21:15,2021-05-01
+48,48,05:45,TK827,Beirut (BEY),Turkish Airlines A333 (TC-JNS),Landed 05:48,2021-05-01
+49,49,05:45 TK2597,,Gazipasa (GZP),Turkish Airlines 320,Unknown,2021-05-01
+50,50,05:50 TK681,,Khartoum (KRT),Turkish Airlines A21N (TC-LSC),Landed 05:51,2021-05-01
+51,51,05:55,TK371,Tashkent (TAS),Turkish Airlines B789 (TC-LLK),Landed 05:40,2021-05-01
+52,52,05:55,TK775,Muscat (MCT),Turkish Airlines 321,Canceled,2021-05-01
+53,53,05:55 TK889,,Mashhad (MHD),Turkish Airlines 321,Unknown,2021-05-01
+54,54,06:00 TK584,,Nouakchott (NKC),Turkish Airlines A333 (TC-JOD),Landed 06:19,2021-05-01
+55,55,06:00,TK697,Alexandria (HBE),Turkish Airlines A319 (TC-JLY),Landed 05:43,2021-05-01
+56,56,06:10,TK693,Cairo (CAI),Turkish Airlines A21N (TC-LSD),Landed 06:22,2021-05-01
+57,57,06:15,TK677,Addis Ababa (ADD),Turkish Airlines B738 (TC-JVI),Landed 06:33,2021-05-01
+58,58,06:25 TK807,,Sulaimaniyah (ISU),Turkish Airlines A21N (TC-LSH),Landed 05:57,2021-05-01
+59,59,06:45,TK699,Sharm el-Sheikh (SSH),Turkish Airlines A21N (TC-LSN),Landed 06:44,2021-05-01
+60,60,06:50 TK781,,Doha (DOH),Turkish Airlines A21N (TC-LTC),Landed 07:00,2021-05-01
+61,61,07:00 TK349,,Bishkek (FRU),Turkish Airlines A21N (TC-LTB),Landed 07:12,2021-05-01
+62,62,08:00 5F325,,Chisinau (KIV),Fly One A319 (ER-00002),Landed 07:54,2021-05-01
+63,63,08:08 MB6122,,Cologne (CGN),MNG Airlines A306 (TC-MNV),Landed 07:46,2021-05-01
+64,64,08:10,TK703,Hurghada (HRG),Turkish Airlines A21N (TC-LSU),Landed 07:49,2021-05-01
+65,65,08:10 TK2111,,Ankara (ESB),Turkish Airlines 73H,Unknown,2021-05-01
+66,66,08:30 TK2435,,Antalya (AYT),Turkish Airlines 321,Unknown,2021-05-01
+67,67,08:35,TK373,Samarkand (SKD),Turkish Airlines A21N (TC-LSP),Landed 08:46,2021-05-01
+68,68,09:05,TK711,Islamabad (ISB),Turkish Airlines A333 (TC-JNM),Landed 08:36,2021-05-01
+69,69,09:35 W5112,,Tehran (IKA),Mahan Air A310 (EP-MMJ),Landed 08:16,2021-05-01
+70,70,09:45,TK2505,Bodrum (BJV),Turkish Airlines B738 (TC-JHO),Landed 09:13,2021-05-01
+71,71,09:50,TK813,Amman (AMM),Turkish Airlines A21N (TC-LSZ),Landed 09:32,2021-05-01
+72,72,10:05,TK2553,Dalaman (DLM),Turkish Airlines 73H,Unknown,2021-05-01
+73,73,10:10 MB656,,Navoiy (NVI),MNG Airlines 33X,Unknown,2021-05-01
+74,74,10:15 TK805,,Arbil (EBL),Turkish Airlines A321 (TC-JSF),Landed 09:56,2021-05-01
+75,75,10:15,TK2409,Antalya (AYT),Turkish Airlines 73H,Unknown,2021-05-01
+76,76,10:15,TK2807,Samsun (SZF),Turkish Airlines 319,Canceled,2021-05-01
+77,77,10:20,ME265,Beirut (BEY),MEA A21N (T7-ME6),Landed 10:03,2021-05-01
+78,78,10:20,TK337,Baku (GYD),Turkish Airlines A321 (TC-JSI),Landed 09:42,2021-05-01
+79,79,10:20,TK377,Tbilisi (TBS),Turkish Airlines A321 (TC-JRH),Landed 09:45,2021-05-01
+80,80,10:25,RO261,Bucharest (OTP),Tarom AT76 (YR-ATL),Landed 09:40,2021-05-01
+81,81,10:25 TK879,,Tehran (IKA),Turkish Airlines A321 (TC-JTP),Landed 10:04,2021-05-01
+82,82,10:25,TK2011,Kayseri (ASR),Turkish Airlines 73H,Unknown,2021-05-01
+83,83,10:25,TK2459,Adana (ADA),Turkish Airlines 73H,Canceled,2021-05-01
+84,84,10:30,TK829,Beirut (BEY),Turkish Airlines A321 (TC-JSL),Landed 10:07,2021-05-01
+85,85,10:45 W5116,,Tehran (IKA),Mahan Air 343,Canceled,2021-05-01
+86,86,10:50,B2783,Minsk (MSQ),Belavia E295 (EW-555PO),Landed 10:28,2021-05-01
+87,87,10:50,TK2221,Gaziantep (GZT),Turkish Airlines B738 (TC-JHN),Landed 10:47,2021-05-01
+88,88,11:00 HY271,,Tashkent (TAS),Uzbekistan Airways A20N (UK32023),Landed 10:42,2021-05-01
+89,89,11:00 TK709,,Karachi (KHI),Turkish Airlines A332 (TC-JNB),Landed 10:24,2021-05-01
+90,90,11:05 TK541,,Bamako (BKO),Turkish Airlines B739 (TC-JYJ),Landed 10:44,2021-05-01
+91,91,11:05 TK715,,Lahore (LHE),Turkish Airlines A333 (TC-JNP),Landed 10:22,2021-05-01
+92,92,11:10 TK763,,Dubai (DXB),Turkish Airlines A333 (TC-JOH),Landed 11:14,2021-05-01
+93,93,11:10 TK961,,Tymvou (ECN),Turkish Airlines A320 (TC-JPM),Landed 11:20,2021-05-01
+94,94,11:10 TK1028,,Sofia (SOF),Turkish Airlines (Star Alliance Livery) A319 (TC-JLU),Landed 10:50,2021-05-01
+95,95,11:10 TK1044,,Bucharest (OTP),Turkish Airlines A333 (TC-LNE),Landed 10:32,2021-05-01
+96,96,11:15 IR719,,Tehran (IKA),Iran Air AB6,Unknown,2021-05-01
+97,97,11:20 TK2247,,Sanliurfa (GNY),Turkish Airlines 73H,Unknown,2021-05-01
+98,98,11:30 TK466,,Odesa (ODS),Turkish Airlines A321 (TC-JTJ),Landed 11:54,2021-05-01
+99,99,11:30 TK561,,Abidjan (ABJ),Turkish Airlines B739 (TC-JYF),Landed 11:41,2021-05-01
+100,100,11:40 TK2109,,Ankara (ESB),Turkish Airlines A321 (TC-JSG),Landed 11:16,2021-05-01
+101,101,11:40 IA219,,Najaf (NJF),Iraqi Airways 320,Unknown,2021-05-01
+102,102,11:45 TK2313,,Izmir (ADB),Turkish Airlines B77W (TC-LJK),Landed 11:17,2021-05-01
+103,103,11:50 KU155,,Kuwait City (KWI),Kuwait Airways B77W (9K-AOJ),Landed 11:23,2021-05-01
+104,104,11:50 TK771,,Kuwait City (KWI),Turkish Airlines A21N (TC-LSR),Landed 11:32,2021-05-01
+105,105,11:55 TK2007,,Nevsehir (NAV),Turkish Airlines 320,Unknown,2021-05-01
+106,106,11:55 TK2033,,Konya (KYA),Turkish Airlines A320 (TC-JPR),Landed 11:34,2021-05-01
+107,107,12:00 TK2577,,Cardak (DNZ),Turkish Airlines A320 (TC-JPT),Landed 11:47,2021-05-01
+108,108,12:00 ZB1001,,Tirana (TIA),Air Albania A319 (ZA-BEL),Landed 11:22,2021-05-01
+109,109,12:05 TK369,,Tashkent (TAS),Turkish Airlines A333 (TC-JNJ),Landed 11:39,2021-05-01
+110,110,12:10 QR239,,Doha (DOH),Qatar Airways B77W (A7-BEI),Landed 11:58,2021-05-01
+111,111,12:10 TK458,,Kyiv (KBP),Turkish Airlines B77W (TC-LJH),Landed 11:59,2021-05-01
+112,112,12:10 TK691,,Cairo (CAI),Turkish Airlines A21N (TC-LSF),Landed 12:13,2021-05-01
+113,113,12:10 TK713,,Dhaka (DAC),Turkish Airlines 333,Canceled,2021-05-01
+114,114,12:10 TK1022,,Sarajevo (SJJ),Turkish Airlines B739 (TC-JYP),Landed 11:36,2021-05-01
+115,115,12:15 TK707,,Kabul (KBL),Turkish Airlines A333 (TC-JOA),Landed 11:52,2021-05-01
+116,116,12:15 TK1036,,Budapest (BUD),Turkish Airlines A319 (TC-JLT),Landed 12:12,2021-05-01
+117,117,12:15 TK2593,,Gazipasa (GZP),Turkish Airlines A320 (TC-JPL),Landed 12:04,2021-05-01
+118,118,12:20 TK2555,,Dalaman (DLM),Turkish Airlines A319 (TC-JLV),Landed 12:01,2021-05-01
+119,119,12:30 HY277,,Fergana (FEG),Uzbekistan Airways 32A,Canceled,2021-05-01
+120,120,12:30 IA221,,Basra (BSR),Iraqi Airways 738,Unknown,2021-05-01
+121,121,12:35 TK2659,,Sivas (VAS),Turkish Airlines (Star Alliance Livery) A320 (TC-JPS),Landed 12:17,2021-05-01
+122,122,12:35 TK2855,,Merzifon (MZH),Turkish Airlines 73H,Unknown,2021-05-01
+123,123,12:40,TK2473,Adana (ADA),Turkish Airlines B738 (TC-JHZ),Landed 12:21,2021-05-01
+124,124,12:40 TK2849,,Ordu (OGU),Turkish Airlines 320,Unknown,2021-05-01
+125,125,12:45 TK2253,,Antakya (HTY),Turkish Airlines B738 (TC-JVS),Landed 12:31,2021-05-01
+126,126,12:45,TK2411,Antalya (AYT),Turkish Airlines A321 (TC-JRE),Landed 12:18,2021-05-01
+127,127,12:50,PS711,Kyiv (KBP),Ukraine International Airlines B738 (UR-PSZ),Landed 12:39,2021-05-01
+128,128,12:50,RJ165,Amman (AMM),Royal Jordanian E195 (JY-EMA),Landed 12:45,2021-05-01
+129,129,12:55,TK2139,Ankara (ESB),Turkish Airlines A321 (TC-JRC),Landed 12:40,2021-05-01
+130,130,13:00,MS737,Cairo (CAI),EgyptAir B738 (SU-GCS),Landed 13:03,2021-05-01
+131,131,13:00 TK345,,Bishkek (FRU),Turkish Airlines A21N (TC-LSS),Landed 12:52,2021-05-01
+132,132,13:00 GHT560,,Misrata (MRA),- 737,Unknown,2021-05-01
+133,133,13:00 B99700,,Tehran (IKA),Iran Airtour A30,Unknown,2021-05-01
+134,134,13:05,TK284,Minsk (MSQ),Turkish Airlines A21N (TC-LSK),Landed 12:35,2021-05-01
+135,135,13:05 TK2217,,Adiyaman (ADF),Turkish Airlines 73H,Unknown,2021-05-01
+136,136,13:10,TK1768,Prague (PRG),Turkish Airlines A319 (TC-JLZ),Landed 12:37,2021-05-01
+137,137,13:15 YL102,,Tripoli (MJI),Libyan Wings A319 (5A-WLC),Landed 12:58,2021-05-01
+138,138,13:20 TK2613,,Diyarbakir (DIY),Turkish Airlines 73H,Unknown,2021-05-01
+139,139,13:20 TK2705,,Erzurum (ERZ),Turkish Airlines 319,Unknown,2021-05-01
+140,140,13:30,TK1370,Luqa (MLA),Turkish Airlines A321 (TC-JRZ),Landed 13:39,2021-05-01
+141,141,13:30,TK1884,Vienna (VIE),Turkish Airlines A21N (TC-LSO),Landed 12:50,2021-05-01
+142,142,13:30 TK2683,,Batman (BAL),Turkish Airlines 319,Unknown,2021-05-01
+143,143,13:35 TK2657,,Siirt (SXZ),Turkish Airlines 319,Unknown,2021-05-01
+144,144,13:35 TK2731,,Agri (AJI),Turkish Airlines 73H,Unknown,2021-05-01
+145,145,13:40 W5120,,Tehran (IKA),Mahan Air 343,Canceled,2021-05-01
+146,146,13:45,SV257,Jeddah (JED),Saudia B789 (HZ-AR11),Landed 14:11,2021-05-01
+147,147,13:45 TK2719,,Igdir (IGD),Turkish Airlines 321,Unknown,2021-05-01
+148,148,13:45 TK2829,,Trabzon (TZX),Turkish Airlines 320,Canceled,2021-05-01
+149,149,13:50,J2175,Baku (GYD),Azerbaijan Airlines 320,Canceled,2021-05-01
+150,150,13:50,TK1266,Warsaw (WAW),Turkish Airlines A321 (TC-JSV),Landed 13:07,2021-05-01
+151,151,14:00 IA223,,Baghdad (BGW),Iraqi Airways B738 (YI-ASQ),Landed 14:09,2021-05-01
+152,152,14:00,TK333,Baku (GYD),Turkish Airlines A21N (TC-LSG),Landed 13:49,2021-05-01
+153,153,14:00,TK1630,Munich (MUC),Turkish Airlines B738 (TC-JHL),Landed 13:22,2021-05-01
+154,154,14:15,TK2413,Antalya (AYT),Turkish Airlines 321,Unknown,2021-05-01
+155,155,14:20 TK2747,,Van (VAN),Turkish Airlines A319 (TC-JLY),Landed 14:05,2021-05-01
+156,156,14:20 QB2213,,Tehran (IKA),Qeshm Airlines AB6,Unknown,2021-05-01
+157,157,14:30 R5263,,Amman (AMM),Jordan Aviation 320,Unknown,2021-05-01
+158,158,14:35 TK1322,,Bologna (BLQ),Turkish Airlines A321 (TC-JTE),Landed 14:16,2021-05-01
+159,159,14:40 TK1410,,Vilnius (VNO),Turkish Airlines B38M (TC-LCA),Landed 14:19,2021-05-01
+160,160,14:40 TK1554,,Hannover (HAJ),Turkish Airlines A21N (TC-LSC),Landed 14:14,2021-05-01
+161,161,14:45,EK123,Dubai (DXB),Emirates (Expo 2020 - Mobility Livery) B77W (A6-EPB),Landed 14:36,2021-05-01
+162,162,14:55,A3992,Athens (ATH),Aegean Airlines A320 (SX-DGY),Landed 14:26,2021-05-01
+163,163,14:55 TK1504,,Nurnberg (NUE),Turkish Airlines A21N (TC-LSJ),Landed 14:23,2021-05-01
+164,164,14:55 TK1672,,Cologne (CGN),Turkish Airlines B738 (TC-JVB),Landed 14:46,2021-05-01
+165,165,14:55,TK1702,Stuttgart (STR),Turkish Airlines A21N (TC-LSE),Landed 14:41,2021-05-01
+166,166,15:00,TK36,Montreal (YUL),Turkish Airlines A359 (TC-LGD),Landed 14:30,2021-05-01
+167,167,15:00 TK1722,,Berlin (BER),Turkish Airlines A333 (TC-JOF),Landed 14:21,2021-05-01
+168,168,15:00,TK1862,Rome (FCO),Turkish Airlines (Teknofest Livery) A321 (TC-JTR),Landed 14:28,2021-05-01
+169,169,15:05,TK1874,Milan (MXP),Turkish Airlines A333 (TC-JNO),Landed 15:31,2021-05-01
+170,170,15:05 TK2037,,Konya (KYA),Turkish Airlines 319,Unknown,2021-05-01
+171,171,15:10 TK1662,,Hamburg (HAM),Turkish Airlines A21N (TC-LSL),Landed 14:54,2021-05-01
+172,172,15:10,TK1814,Nice (NCE),Turkish Airlines B738 (TC-JHS),Landed 14:44,2021-05-01
+173,173,15:10,TK1908,Zurich (ZRH),Turkish Airlines A333 (TC-JNK),Landed 15:33,2021-05-01
+174,174,15:15,TK825,Beirut (BEY),Turkish Airlines A21N (TC-LSP),Landed 15:00,2021-05-01
+175,175,15:15 TK1758,,Riga (RIX),Turkish Airlines B738 (TC-JVP),Landed 14:49,2021-05-01
+176,176,15:20,TK78,Miami (MIA),Turkish Airlines B77W (TC-LJJ),Landed 15:47,2021-05-01
+177,177,15:20,TK800,Panama City (PTY),Turkish Airlines B789 (TC-LLJ),Landed 15:09,2021-05-01
+178,178,15:20,TK1524,Dusseldorf (DUS),Turkish Airlines A321 (TC-JRU),Landed 15:04,2021-05-01
+179,179,15:20 9U745,,Chisinau (KIV),Air Moldova 319,Unknown,2021-05-01
+180,180,15:25,SV263,Riyadh (RUH),Saudia B789 (HZ-AR23),Landed 15:49,2021-05-01
+181,181,15:25,TK1918,Geneva (GVA),Turkish Airlines A21N (TC-LSN),Landed 15:06,2021-05-01
+182,182,15:35 TK662,,Tunis (TUN),Turkish Airlines A321 (TC-JTL),Landed 15:11,2021-05-01
+183,183,15:35,TK1784,Copenhagen (CPH),Turkish Airlines A21N (TC-LSH),Landed 14:57,2021-05-01
+184,184,15:35,TK1794,Stockholm (ARN),Turkish Airlines A21N (TC-LST),Landed 15:25,2021-05-01
+185,185,15:45,TK1588,Frankfurt (FRA),Turkish Airlines B77W (TC-JJF),Landed 15:22,2021-05-01
+186,186,15:50,TK1354,Luxembourg (LUX),Turkish Airlines B738 (TC-JHR),Landed 15:38,2021-05-01
+187,187,15:50,TK1366,Marseille (MRS),Turkish Airlines A21N (TC-LTB),Landed 15:51,2021-05-01
+188,188,15:50,TK1798,Gothenburg (GOT),Turkish Airlines A21N (TC-LTA),Landed 15:21,2021-05-01
+189,189,15:50,TK1808,Lyon (LYS),Turkish Airlines B38M (TC-LCE),Landed 15:29,2021-05-01
+190,190,15:50,TK1822,Paris (CDG),Turkish Airlines A333 (TC-LNG),Landed 16:05,2021-05-01
+191,191,15:50 TK1938,,Brussels (BRU),Turkish Airlines A333 (TC-LNF),Landed 16:01,2021-05-01
+192,192,15:50,TK1952,Amsterdam (AMS),Turkish Airlines A359 (TC-LGA),Landed 15:35,2021-05-01
+193,193,15:55 JU802,,Belgrade (BEG),AirSERBIA AT75 (YU-ALU),Landed 15:53,2021-05-01
+194,194,15:55 TK1422,,Tallinn (TLL),Turkish Airlines A21N (TC-LTC),Landed 15:43,2021-05-01
+195,195,16:00 TK12,,New York (JFK),Turkish Airlines B77W (TC-JJH),Landed 15:40,2021-05-01
+196,196,16:00 TK82,,Boston (BOS),Turkish Airlines A333 (TC-JOJ),Unknown,2021-05-01
+197,197,16:02,,Boston (BOS),- A333 (TC-JOJ),Landed 16:03,2021-05-01
+198,198,16:05 TK6,,Chicago (ORD),Turkish Airlines B77W (TC-JJS),Landed 15:55,2021-05-01
+199,199,16:05 TK32,,Atlanta (ATL),Turkish Airlines B789 (TC-LLD),Landed 15:26,2021-05-01
+200,200,16:05 TK8,,Washington (IAD),Turkish Airlines B789 (TC-LLC),Landed 15:46,2021-05-01
+201,201,16:05 KL1613,,Amsterdam (AMS),KLM B737 (PH-BGW),Landed 15:37,2021-05-01
+202,202,16:05 PC3304,,Izmir (ADB),Pegasus Airlines 320,Canceled,2021-05-01
+203,203,16:10 TK1752,,Oslo (OSL),Turkish Airlines A21N (TC-LSB),Landed 15:59,2021-05-01
+204,204,16:10 TK2325,,Izmir (ADB),Turkish Airlines (Star Alliance Livery) A321 (TC-JRB),Landed 16:06,2021-05-01
+205,205,16:15 TK1854,,Barcelona (BCN),Turkish Airlines A21N (TC-LSD),Landed 15:44,2021-05-01
+206,206,16:25 TK1804,,Toulouse (TLS),Turkish Airlines B739 (TC-JYD),Landed 15:57,2021-05-01
+207,207,16:30,,San Francisco (SFO),- B789 (TC-LLB),Landed 17:18,2021-05-01
+208,208,16:40 TK34,,Houston (IAH),Turkish Airlines B789 (TC-LLA),Landed 16:14,2021-05-01
+209,209,16:40 LH1300,,Frankfurt (FRA),Lufthansa A321 (D-AIDD),Landed 16:17,2021-05-01
+210,210,16:40 TK1762,,Helsinki (HEL),Turkish Airlines A333 (TC-JNS),Landed 16:12,2021-05-01
+211,211,16:40 TK2223,,Gaziantep (GZT),Turkish Airlines B738 (TC-JHO),Landed 16:42,2021-05-01
+212,212,16:45 LO135,,Warsaw (WAW),LOT E170 (SP-LDE),Landed 16:09,2021-05-01
+213,213,16:50 TK1302,,Valencia (VLC),Turkish Airlines B738 (TC-JVI),Landed 16:23,2021-05-01
+214,214,16:50 TK1994,,Manchester (MAN),Turkish Airlines A21N (TC-LSM),Landed 16:38,2021-05-01
+215,215,17:00 TK2155,,Ankara (ESB),Turkish Airlines 321,Unknown,2021-05-01
+216,216,17:10 TK1980,,London (LHR),Turkish Airlines B77W (TC-JJK),Landed 16:57,2021-05-01
+217,217,17:10 TK2417,,Antalya (AYT),Turkish Airlines A333 (TC-LNC),Landed 17:02,2021-05-01
+218,218,17:15 TK80,,San Francisco (SFO),Turkish Airlines B789 (TC-LLB),Unknown,2021-05-01
+219,219,17:15 TK1306,,Malaga (AGP),Turkish Airlines A21N (TC-LSA),Landed 16:29,2021-05-01
+220,220,17:15 TK1858,,Madrid (MAD),Turkish Airlines A21N (TC-LSY),Landed 16:41,2021-05-01
+221,221,17:15 7L1403,,Baku (GYD),Silk Way West Airlines 74Y,Unknown,2021-05-01
+222,222,17:25,TK2529,Bodrum (BJV),Turkish Airlines A321 (TC-JRH),Landed 17:05,2021-05-01
+223,223,17:25 TK2649,,Bingol (BGG),Turkish Airlines 73H,Unknown,2021-05-01
+224,224,17:25 TK2693,,Mus (MSR),Turkish Airlines A319 (TC-JLS),Landed 17:11,2021-05-01
+225,225,17:30 TK2717,,Kars (KSY),Turkish Airlines (Star Alliance Livery) A319 (TC-JLU),Landed 17:08,2021-05-01
+226,226,17:35,TK10,Los Angeles (LAX),Turkish Airlines B77W (TC-LJC),Landed 17:21,2021-05-01
+227,227,17:35,MS735,Cairo (CAI),EgyptAir B738 (SU-GCM),Landed 17:26,2021-05-01
+228,228,17:35 TK1976,,Dublin (DUB),Turkish Airlines B77W (TC-JJG),Landed 17:28,2021-05-01
+229,229,17:45 TK2667,,Sirnak (NKT),Turkish Airlines 73J,Unknown,2021-05-01
+230,230,17:55,EK121,Dubai (DXB),Emirates B77W (A6-EPJ),Landed 17:41,2021-05-01
+231,231,18:00,TK2463,Adana (ADA),Turkish Airlines A333 (TC-JNP),Landed 17:55,2021-05-01
+232,232,18:15 TK583,,Dakar (DSS),Turkish Airlines B739 (TC-JYC),Landed 18:28,2021-05-01
+233,233,18:15,TK1452,Porto (OPO),Turkish Airlines B739 (TC-JYI),Landed 17:49,2021-05-01
+234,234,18:15,TK1756,Lisbon (LIS),Turkish Airlines A333 (TC-JNI),Landed 18:23,2021-05-01
+235,235,18:30,ME267,Beirut (BEY),MEA A21N (T7-ME5),Landed 18:13,2021-05-01
+236,236,18:35 IF221,,Baghdad (BGW),Fly Baghdad B737 (YI-AQL),Landed 18:33,2021-05-01
+237,237,18:35 TK2607,,Diyarbakir (DIY),Turkish Airlines 320,Unknown,2021-05-01
+238,238,18:45,QR245,Doha (DOH),Qatar Airways B77W (A7-BEL),Landed 18:12,2021-05-01
+239,239,18:50 TK2013,,Kayseri (ASR),Turkish Airlines B738 (TC-JHZ),Landed 18:31,2021-05-01
+240,240,18:55,TK335,Baku (GYD),Turkish Airlines A21N (TC-LSU),Landed 18:44,2021-05-01
+241,241,18:55 TK687,,Djibouti (JIB),Turkish Airlines B739 (TC-JYL),Landed 18:57,2021-05-01
+242,242,19:00 TK2163,,Ankara (ESB),Turkish Airlines 73H,Unknown,2021-05-01
+243,243,19:00 W5114,,Tehran (IKA),Mahan Air 310,Unknown,2021-05-01
+244,244,19:35,PS713,Kyiv (KBP),Ukraine International Airlines B739 (UR-PSI),Landed 19:17,2021-05-01
+245,245,20:00,TK2421,Antalya (AYT),Turkish Airlines 321,Unknown,2021-05-01
+246,246,20:05 TK2467,,Adana (ADA),Turkish Airlines 73H,Unknown,2021-05-01
+247,247,20:15 TK2833,,Trabzon (TZX),Turkish Airlines 73H,Unknown,2021-05-01
+248,248,20:30 TK2677,,Mardin (MQM),Turkish Airlines 73H,Unknown,2021-05-01
+249,249,20:30 QB2215,,Tehran (IKA),Qeshm Airlines AB6,Unknown,2021-05-01
+250,250,20:40 TK2751,,Van (VAN),Turkish Airlines 319,Unknown,2021-05-01
+251,251,20:55,ET722,Addis Ababa (ADD),Ethiopian Airlines B738 (ET-AQP),Landed 21:04,2021-05-01
+252,252,21:00 TK2559,,Dalaman (DLM),Turkish Airlines (Star Alliance Livery) A321 (TC-JRL),Landed 20:36,2021-05-01
+253,253,21:10 IR769,,Tehran (IKA),Iran Air AB6,Unknown,2021-05-01
+254,254,21:40 TK2811,,Samsun (SZF),Turkish Airlines 321,Unknown,2021-05-01
+255,255,21:45 TK2171,,Ankara (ESB),Turkish Airlines A321 (TC-JRC),Landed 21:27,2021-05-01
+256,256,21:50 TK2843,,Sinop (NOP),Turkish Airlines 73H,Unknown,2021-05-01
+257,257,22:00 TK2009,,Nevsehir (NAV),Turkish Airlines A319 (TC-JLV),Landed 21:40,2021-05-01
+258,258,22:00 TK2707,,Erzurum (ERZ),Turkish Airlines 319,Unknown,2021-05-01
+259,259,22:05 TK2655,,Erzincan (ERC),Turkish Airlines A319 (TC-JLZ),Landed 22:15,2021-05-01
+260,260,22:05 TK2685,,Batman (BAL),Turkish Airlines 319,Unknown,2021-05-01
+261,261,22:05 TK2835,,Trabzon (TZX),Turkish Airlines 321,Canceled,2021-05-01
+262,262,22:05 TK2225,,Gaziantep (GZT),Turkish Airlines 321,Canceled,2021-05-01
+263,263,22:05,TK2227,Gaziantep (GZT),Turkish Airlines B738 (TC-JHN),Canceled,2021-05-01
+264,264,22:10 TK2021,,Kayseri (ASR),Turkish Airlines 73H,Unknown,2021-05-01
+265,265,22:10 TK2249,,Sanliurfa (GNY),Turkish Airlines A319 (TC-JLY),Landed 21:53,2021-05-01
+266,266,22:10 TK2479,,Adana (ADA),Turkish Airlines 320,Unknown,2021-05-01
+267,267,22:15,TK1796,Stockholm (ARN),Turkish Airlines A21N (TC-LSF),Landed 22:05,2021-05-01
+268,268,22:15 TK2255,,Antakya (HTY),Turkish Airlines 321,Unknown,2021-05-01
+269,269,22:20,TK1636,Munich (MUC),Turkish Airlines A333 (TC-JOA),Landed 21:44,2021-05-01
+270,270,22:20,TK1986,London (LHR),Turkish Airlines A21N (TC-LSZ),Landed 21:31,2021-05-01
+271,271,22:35 TK1996,,Manchester (MAN),Turkish Airlines A21N (TC-LSR),Landed 21:59,2021-05-01
+272,272,22:45,TK1664,Hamburg (HAM),Turkish Airlines A333 (TC-LND),Landed 22:08,2021-05-01
+273,273,22:45 TK2439,,Antalya (AYT),Turkish Airlines B77W (TC-LJJ),Landed 22:17,2021-05-01
+274,274,22:45 TK2637,,Malatya (MLX),Turkish Airlines A319 (TC-JLT),Landed 22:44,2021-05-01
+275,275,22:50,TK1894,Thessaloniki (SKG),Turkish Airlines B738 (TC-JHS),Landed 22:24,2021-05-01
+276,276,22:55,TK468,Odesa (ODS),Turkish Airlines A21N (TC-LSL),Landed 22:41,2021-05-01
+277,277,22:55 TK1030,,Sofia (SOF),Turkish Airlines B738 (TC-JZF),Landed 22:13,2021-05-01
+278,278,22:55,TK1594,Frankfurt (FRA),Turkish Airlines A21N (TC-LSO),Landed 22:30,2021-05-01
+279,279,22:55,TK1954,Amsterdam (AMS),Turkish Airlines B789 (TC-LLG),Landed 22:26,2021-05-01
+280,280,22:55,TK2337,Izmir (ADB),Turkish Airlines B77W (TC-JJS),Landed 22:18,2021-05-01
+281,281,23:05 TK272,,Chisinau (KIV),Turkish Airlines A321 (TC-JML),Landed 22:49,2021-05-01
+282,282,23:05,TK1084,Belgrade (BEG),Turkish Airlines B738 (TC-JVP),Landed 22:35,2021-05-01
+283,283,23:05,TK1528,Dusseldorf (DUS),Turkish Airlines A21N (TC-LSK),Landed 22:33,2021-05-01
+284,284,23:05,TK2183,Ankara (ESB),Turkish Airlines 73H,Unknown,2021-05-01
+285,285,23:10,TK1046,Bucharest (OTP),Turkish Airlines A333 (TC-LNG),Landed 22:38,2021-05-01
+286,286,23:10,TK1888,Vienna (VIE),Turkish Airlines B738 (TC-JHK),Landed 22:21,2021-05-01
+287,287,23:20 TK1910,,Zurich (ZRH),Turkish Airlines A21N (TC-LSE),Landed 23:01,2021-05-01
+288,288,23:25,TK1972,London (LHR),Turkish Airlines B77W (TC-JJE),Landed 23:16,2021-05-01
+289,289,23:30 TK1088,,Podgorica (TGD),Turkish Airlines A321 (TC-JTL),Landed 22:58,2021-05-01
+290,290,23:30,TK1844,Athens (ATH),Turkish Airlines A333 (TC-JNZ),Landed 23:03,2021-05-01
+291,291,23:35,TK460,Kyiv (KBP),Turkish Airlines B789 (TC-LLA),Landed 22:55,2021-05-01
+292,292,23:35,TK1724,Berlin (BER),Turkish Airlines A21N (TC-LSC),Landed 23:08,2021-05-01
+293,293,23:40,TK286,Minsk (MSQ),Turkish Airlines A320 (TC-JPI),Landed 23:06,2021-05-01
+294,294,23:40 TK444,,Lviv (LWO),Turkish Airlines (Star Alliance Livery) A319 (TC-JLU),Landed 23:11,2021-05-01
+295,295,23:40,TK1870,Venice (VCE),Turkish Airlines A320 (TC-JPO),Landed 23:29,2021-05-01
+296,296,23:40 TK1940,,Brussels (BRU),Turkish Airlines A21N (TC-LSG),Landed 23:14,2021-05-01
+297,297,23:40 ZB1003,,Tirana (TIA),Air Albania 319,Unknown,2021-05-01
+298,298,23:55,TK695,Cairo (CAI),Turkish Airlines A21N (TC-LST),Landed 23:54,2021-05-01
+299,299,23:55 TK1828,,Paris (CDG),Turkish Airlines A21N (TC-LSS),Landed 23:52,2021-05-01

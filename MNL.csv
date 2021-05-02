@@ -1,0 +1,415 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,01:00 Y87909,,Xiamen (XMN),Suparna Airlines 73F,Unknown,2021-04-29
+1,1,02:35 I99805,,Fuzhou (FOC),- 73F,Unknown,2021-04-29
+2,2,03:30 YG9049,,Yiwu (YIW),YTO Cargo Airlines 73F,Unknown,2021-04-29
+3,3,03:40 YG9079,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2812),Landed 07:20,2021-04-29
+4,4,03:50 PR103,,Los Angeles (LAX),Philippine Airlines 773,Unknown,2021-04-29
+5,5,03:55 PR8103,,Los Angeles (LAX),Philippine Airlines B77W,Canceled,2021-04-29
+6,6,04:00 GI4039,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-04-29
+7,7,04:00 YG9041,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-04-29
+8,8,04:10 PR5103,,Los Angeles (LAX),Philippine Airlines B77W (RP-C7773),Landed 04:39,2021-04-29
+9,9,04:32 HX781,,Hong Kong (HKG),Hong Kong Airlines A333 (B-LNQ),Landed 04:13,2021-04-29
+10,10,04:40 GI4217,,Shenzhen (SZX),Longhao Airlines 73F,Unknown,2021-04-29
+11,11,05:00 YG9025,,Changsha (CSX),YTO Cargo Airlines 73F,Unknown,2021-04-29
+12,12,05:10 YG9113,,Nanning (NNG),YTO Cargo Airlines 73F,Unknown,2021-04-29
+13,13,05:50 LD3349,,Hong Kong (HKG),DHL A306 (B-LDG),Landed 05:06,2021-04-29
+14,14,07:00 Y87905,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-04-29
+15,15,07:40 O37355,,Shenzhen (SZX),SF Airlines B752 (B-2840),Landed 13:13,2021-04-29
+16,16,07:45 LD3357,,Hong Kong (HKG),DHL A306 (B-LDF),Landed 07:09,2021-04-29
+17,17,08:35,PR2520,Cagayan de Oro (CGY),Philippine Airlines DH8D (RP-C5905),Landed 07:43,2021-04-29
+18,18,08:45 PR2836,,Cebu (CEB),Philippine Airlines DH8,Unknown,2021-04-29
+19,19,08:50 5J382,,Cagayan de Oro (CGY),Cebu Pacific A21N (RP-C4118),Landed 08:13,2021-04-29
+20,20,08:55 PR659,,Dubai (DXB),Philippine Airlines A333 (RP-C8783),Landed 08:15,2021-04-29
+21,21,09:30 PR2558,,Dipolog (DPL),Philippine Airlines A320 (RP-C8606),Landed 09:28,2021-04-29
+22,22,09:35,CI701,Taipei (TPE),China Airlines 333,Unknown,2021-04-29
+23,23,09:40 Z2652,,Zamboanga (ZAM),Philippines AirAsia 320,Unknown,2021-04-29
+24,24,09:45 5J772,,Pagadian (PAG),Cebu Pacific A320 (RP-C4107),Landed 09:21,2021-04-29
+25,25,09:50,PR1846,Cebu (CEB),Philippine Airlines A321 (RP-C9902),Landed 09:13,2021-04-29
+26,26,10:05 5J892,,Caticlan (MPH),Cebu Pacific 32N,Unknown,2021-04-29
+27,27,10:10 DG6032,,San Jose (SJI),Cebgo AT7,Unknown,2021-04-29
+28,28,10:15 5J552,,Cebu (CEB),Cebu Pacific A20N (RP-C4110),Landed 09:43,2021-04-29
+29,29,10:20,PR2982,Tacloban (TAC),Philippine Airlines A320 (RP-C8398),Landed 09:54,2021-04-29
+30,30,10:20 5J792,,Butuan (BXU),Cebu Pacific 320,Unknown,2021-04-29
+31,31,10:30 CI5880,,Singapore (SIN),China Airlines Cargo B744 (B-18715),Landed 10:06,2021-04-29
+32,32,10:40 PR1812,,Davao City (DVO),Philippine Airlines A321 (RP-C9905),Landed 10:15,2021-04-29
+33,33,10:50 Z2323,,Tacloban (TAC),AirAsia A320 (RP-C8948),Landed 10:34,2021-04-29
+34,34,10:55 5J484,,Bacolod City (BCD),Cebu Pacific A21N (RP-C4125),Landed 10:11,2021-04-29
+35,35,11:15 5J197,,Cauayan (CYZ),Cebu Pacific 320,Unknown,2021-04-29
+36,36,11:25 CX901,,Hong Kong (HKG),Cathay Pacific 359,Unknown,2021-04-29
+37,37,11:25 5J886,,Cotabato (CBO),Cebu Pacific A320 (RP-C4108),Landed 10:56,2021-04-29
+38,38,11:30,GF154,Bahrain (BAH),Gulf Air B789 (A9C-FE),Landed 10:19,2021-04-29
+39,39,11:30 CI5841,,Taipei (TPE),China Airlines 74Y,Unknown,2021-04-29
+40,40,11:30,PR2142,Iloilo (ILO),Philippine Airlines A321 (RP-C9927),Landed 10:44,2021-04-29
+41,41,11:35 PR2890,,Ozamiz (OZC),Philippine Airlines DH8D (RP-C5901),Landed 11:04,2021-04-29
+42,42,11:40,PR891,Taipei (TPE),Philippine Airlines A333 (RP-C8780),Landed 11:39,2021-04-29
+43,43,11:45,PR2522,Cagayan de Oro (CGY),Philippine Airlines A320 (RP-C8612),Unknown,2021-04-29
+44,44,11:45 5J273,,Hong Kong (HKG),Cebu Pacific A333 (RP-C3347),Landed 11:18,2021-04-29
+45,45,11:50 5J860,,Zamboanga (ZAM),Cebu Pacific A20N (RP-C3239),Landed 11:21,2021-04-29
+46,46,11:55 5J896,,Caticlan (MPH),Cebu Pacific 32N,Unknown,2021-04-29
+47,47,12:00 Z2692,,Cagayan de Oro (CGY),AirAsia A320 (RP-C8966),Landed 11:23,2021-04-29
+48,48,12:05 5J644,,Puerto Princesa City (PPS),Cebu Pacific A21N (RP-C4120),Landed 11:35,2021-04-29
+49,49,12:20 DG5680,,Zamboanga (ZAM),Cebu Pacific AT75 (RP-C7253),Unknown,2021-04-29
+50,50,12:20 PR2784,,Pagadian (PAG),Philippine Airlines DH8D (RP-C5907),Landed 11:52,2021-04-29
+51,51,12:20 PR2924,,Legazpi (LGP),Philippine Airlines DH4,Unknown,2021-04-29
+52,52,12:25,PR2774,Panglao (TAG),Philippine Airlines A320 (RP-C8610),Landed 11:50,2021-04-29
+53,53,12:35 PR2672,,Calbayog (CYP),Philippine Airlines DH8,Unknown,2021-04-29
+54,54,12:50 5J464,,Iloilo (ILO),Cebu Pacific A21N (RP-C4118),Landed 12:23,2021-04-29
+55,55,13:00 DG5944,,Butuan (BXU),Cebgo ATF,Unknown,2021-04-29
+56,56,13:05,SQ910,Singapore (SIN),Singapore Airlines A359 (9V-SHM),Landed 12:40,2021-04-29
+57,57,13:05 5J626,,Dumaguete City (DGT),Cebu Pacific A20N (RP-C4109),Landed 12:49,2021-04-29
+58,58,13:15 5J384,,Cagayan de Oro (CGY),Cebu Pacific A20N (RP-C3287),Landed 12:37,2021-04-29
+59,59,13:20 PR2972,,Del Carmin (IAO),Philippine Airlines DH8,Unknown,2021-04-29
+60,60,13:25 5J652,,Tacloban (TAC),Cebu Pacific A320 (RP-C3264),Landed 13:04,2021-04-29
+61,61,13:25 5J782,,Ozamiz (OZC),Cebu Pacific A320 (RP-C3265),Landed 13:07,2021-04-29
+62,62,13:25 NH869,,Tokyo (HND),All Nippon Airways B789 (JA886A),Landed 13:25,2021-04-29
+63,63,13:30 PR2935,,Butuan (BXU),Philippine Airlines A321 (RP-C9921),Landed 12:58,2021-04-29
+64,64,13:35 DG6196,,Legazpi (LGP),Cebu Pacific AT76 (RP-C7290),Landed 12:57,2021-04-29
+65,65,13:40,PR454,General Santos (GES),Philippine Airlines A333 (RP-C8763),Landed 13:18,2021-04-29
+66,66,13:40 PR2960,,Cotabato (CBO),Philippine Airlines A320 (RP-C8397),Landed 13:01,2021-04-29
+67,67,13:45 PR2964,,Busuanga (USU),Philippine Airlines DH8D (RP-C5905),Landed 12:52,2021-04-29
+68,68,13:55,PR1850,Cebu (CEB),Philippine Airlines A321 (RP-C9928),Landed 13:47,2021-04-29
+69,69,14:00 DG6882,,Surigao (SUG),Cebu Pacific AT76 (RP-C7292),Landed 13:44,2021-04-29
+70,70,14:00 5J900,,Caticlan (MPH),Cebu Pacific 32N,Unknown,2021-04-29
+71,71,14:05 5J376,,Roxas City (RXS),Cebu Pacific A320 (RP-C4107),Landed 13:50,2021-04-29
+72,72,14:10 DG6044,,Busuanga (USU),Cebgo AT7,Unknown,2021-04-29
+73,73,14:15 5J566,,Cebu (CEB),Cebu Pacific A21N (RP-C4123),Landed 13:56,2021-04-29
+74,74,14:20 DG6112,,Naga (WNP),Cebgo AT7,Unknown,2021-04-29
+75,75,14:25 Z2776,,Cebu (CEB),AirAsia A320 (RP-C8976),Landed 14:01,2021-04-29
+76,76,14:40 PR2986,,Tacloban (TAC),Philippine Airlines A320 (RP-C8606),Landed 14:06,2021-04-29
+77,77,14:55,PR1814,Davao City (DVO),Philippine Airlines A321 (RP-C9903),Landed 14:45,2021-04-29
+78,78,15:20,EY424,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMG),Landed 14:37,2021-04-29
+79,79,15:45,CI703,Taipei (TPE),China Airlines A333 (B-18305),Landed 15:36,2021-04-29
+80,80,16:00 5J996,,General Santos (GES),Cebu Pacific A333 (RP-C3345),Landed 15:42,2021-04-29
+81,81,16:05 5J902,,Caticlan (MPH),Cebu Pacific 32N,Unknown,2021-04-29
+82,82,16:15,EK332,Dubai (DXB),Emirates B77W (A6-EPQ),Landed 16:00,2021-04-29
+83,83,16:20 5J788,,Butuan (BXU),Cebu Pacific A20N (RP-C4110),Landed 16:09,2021-04-29
+84,84,16:25 5J17,,Dubai (DXB),Cebu Pacific A333 (RP-C3343),Landed 15:29,2021-04-29
+85,85,16:30 QR932,,Doha (DOH),Qatar Airways B77W (A7-BAU),Landed 16:02,2021-04-29
+86,86,16:55,PR2786,Puerto Princesa City (PPS),Philippine Airlines 320,Unknown,2021-04-29
+87,87,16:55 PR2526,,Cagayan de Oro (CGY),Philippine Airlines A321 (RP-C9927),Landed 16:17,2021-04-29
+88,88,17:00 PR5854,,Cebu (CEB),Philippine Airlines -,Canceled,2021-04-29
+89,89,17:00 PR4854,,Cebu (CEB),Philippine Airlines A320 (RP-C8398),Landed 16:14,2021-04-29
+90,90,17:05 5J5037,,Nagoya (NGO),Cebu Pacific A21N (RP-C4121),Landed 16:38,2021-04-29
+91,91,17:10 5J618,,Panglao (TAG),Cebu Pacific 32Q,Unknown,2021-04-29
+92,92,17:20 DG6048,,Busuanga (USU),Cebgo AT7,Unknown,2021-04-29
+93,93,17:20,PR2546,Dumaguete City (DGT),Philippine Airlines DH8D (RP-C5901),Landed 16:53,2021-04-29
+94,94,17:20 RH351,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNY),Landed 19:06,2021-04-29
+95,95,17:20 5J554,,Cebu (CEB),Cebu Pacific 32Q,Unknown,2021-04-29
+96,96,17:35 5J906,,Caticlan (MPH),Cebu Pacific 32N,Unknown,2021-04-29
+97,97,17:40 PR2998,,Zamboanga (ZAM),Philippine Airlines A321 (RP-C9911),Landed 17:08,2021-04-29
+98,98,17:40 5J978,,Davao City (DVO),Cebu Pacific A21N (RP-C4125),Landed 17:04,2021-04-29
+99,99,17:55 5J392,,Cagayan de Oro (CGY),Cebu Pacific A20N (RP-C3287),Landed 17:26,2021-04-29
+100,100,18:35 DG5482,,Bacolod City (BCD),Cebu Pacific Cargo AT75 (RP-C7252),Unknown,2021-04-29
+101,101,18:40 DG6198,,Legazpi (LGP),Cebgo AT7,Unknown,2021-04-29
+102,102,18:45 KL803,,Bangkok (BKK),KLM B789 (PH-BHF),Landed 18:26,2021-04-29
+103,103,18:45 TG624,,Bangkok (BKK),Thai Airways B77W (HS-TKP),Landed 18:10,2021-04-29
+104,104,19:00 5J654,,Tacloban (TAC),Cebu Pacific A320 (RP-C3264),Landed 18:22,2021-04-29
+105,105,19:05 5J560,,Cebu (CEB),Cebu Pacific 32N,Unknown,2021-04-29
+106,106,19:10,TK84,Istanbul (IST),Turkish Airlines A359 (TC-LGD),Landed 17:57,2021-04-29
+107,107,19:15,PR1860,Cebu (CEB),Philippine Airlines A321 (RP-C9917),Landed 18:44,2021-04-29
+108,108,19:40 DG5714,,Cagayan de Oro (CGY),Cebu Pacific AT75 (RP-C7253),Landed 18:57,2021-04-29
+109,109,19:40 PR528,,Kuala Lumpur (KUL),Philippine Airlines 320,Unknown,2021-04-29
+110,110,20:40 PR6144,,Panglao (TAG),Philippine Airlines -,Canceled,2021-04-29
+111,111,20:40 PR4144,,Panglao (TAG),Philippine Airlines A321 (RP-C9921),Landed 19:42,2021-04-29
+112,112,20:55,NH819,Tokyo (NRT),All Nippon Airways B789 (JA883A),Landed 20:47,2021-04-29
+113,113,21:10 UA2858,,Guam (GUM),United Airlines B738 (N73278),Landed 20:56,2021-04-29
+114,114,21:20 LD456,,Cebu (CEB),DHL A306 (B-LDA),Landed 19:45,2021-04-29
+115,115,21:40 JL745,,Tokyo (NRT),Japan Airlines B788 (JA830J),Landed 21:35,2021-04-29
+116,116,21:50 WY843,,Muscat (MCT),Oman Air A333 (A4O-DJ),Landed 21:00,2021-04-29
+117,117,22:05 KE623,,Seoul (ICN),Korean Air B77W (HL7202),Landed 21:38,2021-04-29
+118,118,22:20 7C2305,,Seoul (ICN),Jeju Air 738,Unknown,2021-04-29
+119,119,22:25 OZ703,,Seoul (ICN),Asiana Airlines A333 (HL8259),Landed 22:08,2021-04-29
+120,120,22:45 QR928,,Doha (DOH),Qatar Airways B77W (A7-BAZ),Landed 21:46,2021-04-29
+121,121,22:45 5J189,,Seoul (ICN),Cebu Pacific A333 (RP-C3348),Landed 22:30,2021-04-29
+122,122,22:49 PR8113,,Los Angeles (LAX),Philippine Airlines B77W (RP-C7778),Landed 23:30,2021-04-29
+123,123,23:45 PR2530,,Cagayan de Oro (CGY),Philippine Airlines 321,Unknown,2021-04-29
+0,0,01:00 Y87909,,Xiamen (XMN),Suparna Airlines 73F,Unknown,2021-04-30
+1,1,02:35 I99805,,Fuzhou (FOC),- 73F,Unknown,2021-04-30
+2,2,03:30 YG9049,,Yiwu (YIW),YTO Cargo Airlines B752 (B-2812),Landed 03:35,2021-04-30
+3,3,03:35 PR105,,San Francisco (SFO),Philippine Airlines B773,Unknown,2021-04-30
+4,4,04:00 GI4039,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-04-30
+5,5,04:00 YG9041,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-04-30
+6,6,04:10 YG9111,,Shenzhen (SZX),YTO Cargo Airlines 73F,Unknown,2021-04-30
+7,7,04:40 GI4217,,Shenzhen (SZX),Longhao Airlines 73F,Unknown,2021-04-30
+8,8,05:00 YG9025,,Changsha (CSX),YTO Cargo Airlines 73F,Unknown,2021-04-30
+9,9,05:10 YG9113,,Nanning (NNG),YTO Cargo Airlines 73F,Unknown,2021-04-30
+10,10,05:24 PR8125,,New York (JFK),Philippine Airlines A359 (RP-C3501),Landed 06:24,2021-04-30
+11,11,05:25 5J804,,Singapore (SIN),Cebu Pacific A333 (RP-C3343),Landed 04:33,2021-04-30
+12,12,05:50 LD3365,,Hong Kong (HKG),DHL A306 (B-LDA),Landed 05:03,2021-04-30
+13,13,07:00 Y87905,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-04-30
+14,14,07:40 O37355,,Shenzhen (SZX),SF Airlines B752 (B-2839),Landed 15:28,2021-04-30
+15,15,07:45 LD3357,,Hong Kong (HKG),DHL A332 (B-LDP),Landed 07:12,2021-04-30
+16,16,08:35,PR2520,Cagayan de Oro (CGY),Philippine Airlines DH8D (RP-C5901),Landed 07:55,2021-04-30
+17,17,08:50 5J382,,Cagayan de Oro (CGY),Cebu Pacific A21N (RP-C4123),Landed 08:13,2021-04-30
+18,18,08:55,PR1810,Davao City (DVO),Philippine Airlines A321 (RP-C9902),Landed 08:47,2021-04-30
+19,19,09:05 DG6178,,Masbate (MBT),Cebu Pacific AT76 (RP-C7292),Landed 08:31,2021-04-30
+20,20,09:30 DG6164,,Virac (VRC),Cebgo AT7,Unknown,2021-04-30
+21,21,09:35,CI701,Taipei (TPE),China Airlines A333 (B-18351),Landed 09:27,2021-04-30
+22,22,09:45 5J772,,Pagadian (PAG),Cebu Pacific A320 (RP-C4107),Landed 09:16,2021-04-30
+23,23,09:50,PR1846,Cebu (CEB),Philippine Airlines A321 (RP-C9906),Landed 09:33,2021-04-30
+24,24,09:50 3K761,,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 09:18,2021-04-30
+25,25,10:05 5J892,,Caticlan (MPH),Cebu Pacific 32N,Unknown,2021-04-30
+26,26,10:15 5J552,,Cebu (CEB),Cebu Pacific A21N (RP-C4121),Landed 09:54,2021-04-30
+27,27,10:20,PR2982,Tacloban (TAC),Philippine Airlines A320 (RP-C8397),Landed 09:58,2021-04-30
+28,28,10:25 Z2433,,Puerto Princesa City (PPS),AirAsia A320 (9M-AJB),Landed 09:30,2021-04-30
+29,29,10:30 CI5880,,Singapore (SIN),China Airlines Cargo B744 (B-18712),Landed 18:11,2021-04-30
+30,30,10:50 Z2323,,Tacloban (TAC),AirAsia A320 (RP-C8976),Landed 10:28,2021-04-30
+31,31,11:00 5J962,,Davao City (DVO),Cebu Pacific A333 (RP-C3348),Landed 10:22,2021-04-30
+32,32,11:15 5J197,,Cauayan (CYZ),Cebu Pacific A320 (RP-C4105),Landed 10:38,2021-04-30
+33,33,11:20 PR2130,,Bacolod City (BCD),Philippine Airlines A321 (RP-C9927),Landed 10:44,2021-04-30
+34,34,11:25 5J886,,Cotabato (CBO),Cebu Pacific A320 (RP-C4108),Landed 10:41,2021-04-30
+35,35,11:30,GF154,Bahrain (BAH),Gulf Air B789 (A9C-FA),Landed 10:35,2021-04-30
+36,36,11:30,PR2142,Iloilo (ILO),Philippine Airlines A321 (RP-C9921),Landed 11:17,2021-04-30
+37,37,11:35 PR2890,,Ozamiz (OZC),Philippine Airlines DH8D (RP-C5907),Landed 10:52,2021-04-30
+38,38,11:40 BR271,,Taipei (TPE),EVA Air B77W (B-16726),Landed 11:22,2021-04-30
+39,39,11:45,PR2522,Cagayan de Oro (CGY),Philippine Airlines A320 (RP-C8610),Landed 11:19,2021-04-30
+40,40,11:50 PR2080,,Catarman (CRM),Philippine Airlines DH8D (RP-C5903),Landed 11:09,2021-04-30
+41,41,11:50 5J704,,Dipolog (DPL),Cebu Pacific A320 (RP-C3265),Landed 11:28,2021-04-30
+42,42,11:50 5J854,,Zamboanga (ZAM),Cebu Pacific A21N (RP-C4125),Landed 11:33,2021-04-30
+43,43,11:55 5J896,,Caticlan (MPH),Cebu Pacific 32N,Unknown,2021-04-30
+44,44,12:05 5J644,,Puerto Princesa City (PPS),Cebu Pacific 32Q,Unknown,2021-04-30
+45,45,12:10 Z2662,,General Santos (GES),AirAsia A320 (RP-C8948),Landed 11:50,2021-04-30
+46,46,12:20 DG5680,,Zamboanga (ZAM),Cebgo ATF,Unknown,2021-04-30
+47,47,12:20 PR2784,,Pagadian (PAG),Philippine Airlines DH8D (RP-C5902),Landed 11:53,2021-04-30
+48,48,12:20 PR2924,,Legazpi (LGP),Philippine Airlines DH8D (RP-C3036),Unknown,2021-04-30
+49,49,12:25 DG5088,,Puerto Princesa City (PPS),Cebu Pacific AT75 (RP-C7253),Landed 10:49,2021-04-30
+50,50,12:25,PR2546,Dumaguete City (DGT),Philippine Airlines A320 (RP-C8398),Landed 11:41,2021-04-30
+51,51,12:25,PR2774,Panglao (TAG),Philippine Airlines A320 (RP-C8606),Landed 12:04,2021-04-30
+52,52,12:28 PR8119,,Toronto (YYZ),Philippine Airlines B77W (RP-C7782),Landed 13:16,2021-04-30
+53,53,12:45 DG6838,,Del Carmin (IAO),Cebu Pacific AT76 (RP-C7289),Landed 11:46,2021-04-30
+54,54,12:50 5J464,,Iloilo (ILO),Cebu Pacific A21N (RP-C4123),Landed 12:19,2021-04-30
+55,55,13:03 NH869,,Tokyo (HND),All Nippon Airways B789 (JA888A),Landed 13:04,2021-04-30
+56,56,13:05,SQ910,Singapore (SIN),Singapore Airlines A359 (9V-SHP),Landed 12:53,2021-04-30
+57,57,13:15 5J384,,Cagayan de Oro (CGY),Cebu Pacific A21N (RP-C4118),Landed 12:31,2021-04-30
+58,58,13:25,PR2970,Kalibo (KLO),Philippine Airlines DH8D (RP-C5905),Landed 12:39,2021-04-30
+59,59,13:25 5J652,,Tacloban (TAC),Cebu Pacific A320 (RP-C3264),Landed 12:51,2021-04-30
+60,60,13:25 5J782,,Ozamiz (OZC),Cebu Pacific A320 (RP-C3275),Landed 12:49,2021-04-30
+61,61,13:30 PR2935,,Butuan (BXU),Philippine Airlines A321 (RP-C9924),Landed 13:07,2021-04-30
+62,62,13:30 PR301,,Hong Kong (HKG),Philippine Airlines A333 (RP-C8789),Landed 12:59,2021-04-30
+63,63,13:35 DG6196,,Legazpi (LGP),Cebgo AT7,Canceled,2021-04-30
+64,64,13:55,PR1850,Cebu (CEB),Philippine Airlines A321 (RP-C9905),Landed 13:24,2021-04-30
+65,65,14:00 5J507,,Tuguegarao (TUG),Cebu Pacific A320 (RP-C4107),Landed 13:30,2021-04-30
+66,66,14:00 5J900,,Caticlan (MPH),Cebu Pacific 32N,Unknown,2021-04-30
+67,67,14:05,MH704,Kuala Lumpur (KUL),Malaysia Airlines A333 (9M-MTI),Landed 14:38,2021-04-30
+68,68,14:10 DG6044,,Busuanga (USU),Cebgo AT7,Unknown,2021-04-30
+69,69,14:20 PR2960,,Cotabato (CBO),Philippine Airlines DH8D (RP-C5910),Landed 13:44,2021-04-30
+70,70,14:20 Z2310,,Iloilo (ILO),AirAsia A320 (9M-AJB),Landed 13:56,2021-04-30
+71,71,14:25 PR2998,,Zamboanga (ZAM),Philippine Airlines A321 (RP-C9911),Landed 13:53,2021-04-30
+72,72,14:25 Z2776,,Cebu (CEB),AirAsia A320 (RP-C8940),Landed 14:05,2021-04-30
+73,73,14:35 5J618,,Panglao (TAG),Cebu Pacific A21N (RP-C4119),Landed 14:09,2021-04-30
+74,74,14:39 PR5105,,San Francisco (SFO),Philippine Airlines B77W (RP-C7776),Landed 15:24,2021-04-30
+75,75,14:40 PR2986,,Tacloban (TAC),Philippine Airlines DH8D (RP-C5901),Landed 14:02,2021-04-30
+76,76,14:50 5J566,,Cebu (CEB),Cebu Pacific A21N (RP-C4121),Landed 14:20,2021-04-30
+77,77,15:10 Z2359,,Panglao (TAG),AirAsia A320 (RP-C8976),Landed 14:53,2021-04-30
+78,78,15:15 PR119,,Toronto (YYZ),Philippine Airlines B77W (RP-C7772),Landed 15:12,2021-04-30
+79,79,15:20,EY424,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMF),Landed 14:43,2021-04-30
+80,80,15:30,PR2132,Bacolod City (BCD),Philippine Airlines A321 (RP-C9927),Landed 15:07,2021-04-30
+81,81,16:05 5J902,,Caticlan (MPH),Cebu Pacific 320,Unknown,2021-04-30
+82,82,16:10 PR526,,Kuala Lumpur (KUL),Philippine Airlines 320,Unknown,2021-04-30
+83,83,16:15,EK332,Dubai (DXB),Emirates B77W (A6-ENY),Landed 15:52,2021-04-30
+84,84,16:20 5J774,,Pagadian (PAG),Cebu Pacific 320,Unknown,2021-04-30
+85,85,16:20 5J788,,Butuan (BXU),Cebu Pacific A20N (RP-C3239),Landed 16:06,2021-04-30
+86,86,16:25 5J17,,Dubai (DXB),Cebu Pacific A333 (RP-C3347),Landed 15:40,2021-04-30
+87,87,16:30 CX919,,Hong Kong (HKG),Cathay Pacific 350,Unknown,2021-04-30
+88,88,16:30 QR932,,Doha (DOH),Qatar Airways B77W (A7-BAS),Landed 15:21,2021-04-30
+89,89,16:55 PR2526,,Cagayan de Oro (CGY),Philippine Airlines A320 (RP-C8610),Landed 16:16,2021-04-30
+90,90,16:55,PR2786,Puerto Princesa City (PPS),Philippine Airlines A321 (RP-C9921),Landed 16:34,2021-04-30
+91,91,17:00,MF819,Xiamen (XMN),Xiamen Air 738,Canceled,2021-04-30
+92,92,17:00 PR4854,,Cebu (CEB),Philippine Airlines A320 (RP-C8397),Landed 16:00,2021-04-30
+93,93,17:05 5J5037,,Nagoya (NGO),Cebu Pacific 32N,Unknown,2021-04-30
+94,94,17:20 DG6048,,Busuanga (USU),Cebgo AT7,Unknown,2021-04-30
+95,95,17:20 RH351,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNW),Landed 17:58,2021-04-30
+96,96,17:20 5J554,,Cebu (CEB),Cebu Pacific 320,Canceled,2021-04-30
+97,97,17:35 5J906,,Caticlan (MPH),Cebu Pacific 320,Unknown,2021-04-30
+98,98,17:40 5J860,,Zamboanga (ZAM),Cebu Pacific A21N (RP-C4123),Landed 17:24,2021-04-30
+99,99,17:45 PR2206,,Roxas City (RXS),Philippine Airlines A320 (RP-C8398),Landed 18:00,2021-04-30
+100,100,17:55 5J392,,Cagayan de Oro (CGY),Cebu Pacific A21N (RP-C4118),Landed 17:31,2021-04-30
+101,101,18:05 DG6318,,Kalibo (KLO),Cebgo AT7,Unknown,2021-04-30
+102,102,18:20 5J626,,Dumaguete City (DGT),Cebu Pacific A20N (RP-C4110),Landed 17:53,2021-04-30
+103,103,18:25,PR425,Fukuoka (FUK),Philippine Airlines A21N (RP-C9933),Landed 18:03,2021-04-30
+104,104,18:30 Y87473,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-04-30
+105,105,18:35 DG5482,,Bacolod City (BCD),Cebu Pacific AT75 (RP-C7253),Unknown,2021-04-30
+106,106,18:45 KL803,,Bangkok (BKK),KLM (SkyTeam Livery) B77W (PH-BVD),Landed 18:05,2021-04-30
+107,107,19:00 5J654,,Tacloban (TAC),Cebu Pacific A320 (RP-C4107),Landed 18:15,2021-04-30
+108,108,19:05 5J560,,Cebu (CEB),Cebu Pacific A320 (RP-C4104),Landed 18:41,2021-04-30
+109,109,19:10,TK84,Istanbul (IST),Turkish Airlines A359 (TC-LGA),Landed 17:55,2021-04-30
+110,110,19:15,PR1860,Cebu (CEB),Philippine Airlines A321 (RP-C9906),Landed 18:53,2021-04-30
+111,111,19:40 DG5714,,Cagayan de Oro (CGY),Cebu Pacific Cargo AT75 (RP-C7252),Landed 20:28,2021-04-30
+112,112,20:10 PX10,,Port Moresby (POM),Air Niugini B738 (P2-PXC),Landed 19:45,2021-04-30
+113,113,20:45 Z2614,,Davao City (DVO),AirAsia A320 (RP-C8966),Landed 19:58,2021-04-30
+114,114,20:50 UA183,,Guam (GUM),United Airlines B738 (N73278),Landed 20:38,2021-04-30
+115,115,20:55,NH819,Tokyo (NRT),All Nippon Airways B789 (JA883A),Landed 20:45,2021-04-30
+116,116,21:40 JL745,,Tokyo (NRT),Japan Airlines B788 (JA826J),Landed 21:26,2021-04-30
+117,117,22:05 KE623,,Seoul (ICN),Korean Air B77W (HL8008),Landed 21:38,2021-04-30
+118,118,22:10 PR4998,,Cagayan de Oro (CGY),Philippine Airlines -,Canceled,2021-04-30
+119,119,22:25 OZ703,,Seoul (ICN),Asiana Airlines A333 (HL7794),Landed 21:56,2021-04-30
+120,120,22:45 QR928,,Doha (DOH),Qatar Airways B77W (A7-BAZ),Landed 21:32,2021-04-30
+121,121,23:00,SQ918,Singapore (SIN),Singapore Airlines A359 (9V-SHN),Landed 22:40,2021-04-30
+122,122,23:25 5J978,,Davao City (DVO),Cebu Pacific 32Q,Unknown,2021-04-30
+123,123,23:45 PR2530,,Cagayan de Oro (CGY),Philippine Airlines 321,Unknown,2021-04-30
+0,0,01:00 Y87909,,Xiamen (XMN),Suparna Airlines 73F,Unknown,2021-05-01
+1,1,03:30 YG9049,,Yiwu (YIW),YTO Cargo Airlines 73F,Unknown,2021-05-01
+2,2,03:40 PR117,,Vancouver (YVR),Philippine Airlines 350,Unknown,2021-05-01
+3,3,04:00 GI4039,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-05-01
+4,4,04:00 YG9041,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-05-01
+5,5,04:15 PR103,,Los Angeles (LAX),Philippine Airlines B773,Canceled,2021-05-01
+6,6,04:38 HX781,,Hong Kong (HKG),Hong Kong Airlines A333 (B-LNN),Landed 04:26,2021-05-01
+7,7,04:40 PR522,,Phnom Penh (PNH),Philippine Airlines 321,Unknown,2021-05-01
+8,8,04:40 GI4217,,Shenzhen (SZX),Longhao Airlines 73F,Unknown,2021-05-01
+9,9,05:00 YG9025,,Changsha (CSX),YTO Cargo Airlines 73F,Unknown,2021-05-01
+10,10,05:10 YG9113,,Nanning (NNG),YTO Cargo Airlines 73F,Unknown,2021-05-01
+11,11,07:00 Y87905,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-01
+12,12,07:20 5J322,,Legazpi (LGP),Cebu Pacific 320,Unknown,2021-05-01
+13,13,08:35,PR2520,Cagayan de Oro (CGY),Philippine Airlines A320 (RP-C8606),Landed 07:19,2021-05-01
+14,14,08:55,PR1810,Davao City (DVO),Philippine Airlines A333 (RP-C8789),Landed 08:44,2021-05-01
+15,15,09:05 5J382,,Cagayan de Oro (CGY),Cebu Pacific A21N (RP-C4119),Landed 08:24,2021-05-01
+16,16,09:10 5J358,,Roxas City (RXS),Cebu Pacific 320,Unknown,2021-05-01
+17,17,09:25 Z2323,,Tacloban (TAC),AirAsia A320 (RP-C8948),Landed 08:59,2021-05-01
+18,18,09:30 PR2558,,Dipolog (DPL),Philippine Airlines A320 (RP-C8398),Landed 08:55,2021-05-01
+19,19,09:30 5J636,,Puerto Princesa City (PPS),Cebu Pacific 320,Unknown,2021-05-01
+20,20,09:30 5J776,,Pagadian (PAG),Cebu Pacific A320 (RP-C4104),Landed 09:15,2021-05-01
+21,21,09:35,CI701,Taipei (TPE),China Airlines A333 (B-18310),Landed 09:18,2021-05-01
+22,22,09:40 T6121,,El Nido (ENI),AirSWIFT AT3,Unknown,2021-05-01
+23,23,09:40 5J892,,Caticlan (MPH),Cebu Pacific 320,Unknown,2021-05-01
+24,24,09:50 CX907,,Hong Kong (HKG),Cathay Pacific A359 (B-LRU),Landed 09:30,2021-05-01
+25,25,09:50,PR1846,Cebu (CEB),Philippine Airlines A321 (RP-C9903),Landed 09:25,2021-05-01
+26,26,09:55 Z2652,,Zamboanga (ZAM),AirAsia A320 (RP-C8976),Landed 09:07,2021-05-01
+27,27,10:05 DG6042,,Busuanga (USU),Cebgo AT7,Unknown,2021-05-01
+28,28,10:15 5J552,,Cebu (CEB),Cebu Pacific A21N (RP-C4118),Landed 09:37,2021-05-01
+29,29,10:20 DG6032,,San Jose (SJI),Cebgo AT7,Unknown,2021-05-01
+30,30,10:20,PR2982,Tacloban (TAC),Philippine Airlines DH8D (RP-C5906),Landed 10:06,2021-05-01
+31,31,10:20 5J484,,Bacolod City (BCD),Cebu Pacific 32Q,Canceled,2021-05-01
+32,32,10:25 Z2433,,Puerto Princesa City (PPS),Philippines AirAsia 320,Unknown,2021-05-01
+33,33,10:30 PR2040,,Caticlan (MPH),Philippine Airlines 321,Unknown,2021-05-01
+34,34,10:50 Z2351,,Panglao (TAG),Philippines AirAsia 320,Unknown,2021-05-01
+35,35,11:00 5J197,,Cauayan (CYZ),Cebu Pacific 320,Canceled,2021-05-01
+36,36,11:20 Z2612,,Davao City (DVO),Philippines AirAsia 320,Unknown,2021-05-01
+37,37,11:25 DG6838,,Del Carmin (IAO),Cebgo AT7,Unknown,2021-05-01
+38,38,11:25 5J886,,Cotabato (CBO),Cebu Pacific A320 (RP-C3275),Landed 10:49,2021-05-01
+39,39,11:30,GF154,Bahrain (BAH),Gulf Air B789 (A9C-FA),Landed 10:15,2021-05-01
+40,40,11:30,PR2142,Iloilo (ILO),Philippine Airlines A321 (RP-C9921),Landed 10:55,2021-05-01
+41,41,11:30 PR2890,,Ozamiz (OZC),Philippine Airlines DH8D (RP-C5905),Landed 10:59,2021-05-01
+42,42,11:35 5J772,,Pagadian (PAG),Cebu Pacific 320,Unknown,2021-05-01
+43,43,11:45,PR2522,Cagayan de Oro (CGY),Philippine Airlines A321 (RP-C9911),Landed 11:19,2021-05-01
+44,44,11:45 NH8595,,Tokyo (NRT),ANA Cargo B763 (JA8358),Landed 11:46,2021-05-01
+45,45,11:50 PR2784,,Pagadian (PAG),Philippine Airlines A320 (RP-C8610),Landed 11:28,2021-05-01
+46,46,11:50 5J644,,Puerto Princesa City (PPS),Cebu Pacific A21N (RP-C4124),Landed 11:32,2021-05-01
+47,47,12:00 Z2692,,Cagayan de Oro (CGY),AirAsia A320 (RP-C8940),Landed 11:34,2021-05-01
+48,48,12:05 5J896,,Caticlan (MPH),Cebu Pacific 32N,Canceled,2021-05-01
+49,49,12:10 PR2906,,San Jose de Buenavista (EUQ),Philippine Airlines DH8D (RP-C5902),Landed 11:25,2021-05-01
+50,50,12:20 PR2924,,Legazpi (LGP),Philippine Airlines DH8,Unknown,2021-05-01
+51,51,12:25,PR2774,Panglao (TAG),Philippine Airlines A321 (RP-C9924),Landed 11:57,2021-05-01
+52,52,12:30,PR454,General Santos (GES),Philippine Airlines A333 (RP-C8783),Landed 13:12,2021-05-01
+53,53,12:35 DG6058,,Busuanga (USU),Cebgo AT7,Unknown,2021-05-01
+54,54,12:40 Z2712,,Kalibo (KLO),Philippines AirAsia 320,Unknown,2021-05-01
+55,55,12:55 5J962,,Davao City (DVO),Cebu Pacific A333 (RP-C3347),Landed 12:41,2021-05-01
+56,56,13:00 5J376,,Roxas City (RXS),Cebu Pacific A320 (RP-C4104),Landed 12:46,2021-05-01
+57,57,13:00 5J464,,Iloilo (ILO),Cebu Pacific A21N (RP-C4119),Landed 12:24,2021-05-01
+58,58,13:05,PR2970,Kalibo (KLO),Philippine Airlines DH8D (RP-C5903),Landed 12:53,2021-05-01
+59,59,13:05,SQ910,Singapore (SIN),Singapore Airlines A359 (9V-SHA),Landed 12:44,2021-05-01
+60,60,13:10,PR592,Ho Chi Minh City (SGN),Philippine Airlines A333 (RP-C8780),Landed 13:15,2021-05-01
+61,61,13:15 5J384,,Cagayan de Oro (CGY),Cebu Pacific A21N (RP-C4121),Landed 12:30,2021-05-01
+62,62,13:17 NH869,,Tokyo (HND),All Nippon Airways B789 (JA888A),Landed 13:18,2021-05-01
+63,63,13:20 PR2972,,Del Carmin (IAO),Philippine Airlines DH8,Unknown,2021-05-01
+64,64,13:25 5J626,,Dumaguete City (DGT),Cebu Pacific 320,Unknown,2021-05-01
+65,65,13:25 5J652,,Tacloban (TAC),Cebu Pacific A320 (RP-C4108),Landed 13:05,2021-05-01
+66,66,13:25 5J782,,Ozamiz (OZC),Cebu Pacific A320 (RP-C3274),Landed 13:00,2021-05-01
+67,67,13:30 PR2935,,Butuan (BXU),Philippine Airlines A321 (RP-C9927),Landed 13:10,2021-05-01
+68,68,13:35 DG6196,,Legazpi (LGP),Cebu Pacific AT76 (RP-C7288),Landed 13:02,2021-05-01
+69,69,13:35 5J326,,Legazpi (LGP),Cebu Pacific 320,Unknown,2021-05-01
+70,70,13:40,PR2546,Dumaguete City (DGT),Philippine Airlines 320,Canceled,2021-05-01
+71,71,13:40 PR2960,,Cotabato (CBO),Philippine Airlines A320 (RP-C8606),Landed 12:57,2021-05-01
+72,72,13:40 Z2222,,Caticlan (MPH),Philippines AirAsia 320,Unknown,2021-05-01
+73,73,13:45 PR2964,,Busuanga (USU),Philippine Airlines DH8,Unknown,2021-05-01
+74,74,13:45 T6571,,Busuanga (USU),AirSWIFT AT3,Unknown,2021-05-01
+75,75,13:55,PR1850,Cebu (CEB),Philippine Airlines A321 (RP-C9905),Landed 13:24,2021-05-01
+76,76,14:05 DG6882,,Surigao (SUG),Cebgo AT7,Unknown,2021-05-01
+77,77,14:05 5J900,,Caticlan (MPH),Cebu Pacific 32N,Canceled,2021-05-01
+78,78,14:10 DG6044,,Busuanga (USU),Cebgo AT7,Canceled,2021-05-01
+79,79,14:15 5J332,,Kalibo (KLO),Cebu Pacific 320,Unknown,2021-05-01
+80,80,14:20 PR2986,,Tacloban (TAC),Philippine Airlines A320 (RP-C8398),Landed 13:42,2021-05-01
+81,81,14:20 Z2310,,Iloilo (ILO),Philippines AirAsia 320,Unknown,2021-05-01
+82,82,14:20 5J486,,Bacolod City (BCD),Cebu Pacific 32Q,Canceled,2021-05-01
+83,83,14:25 DG6112,,Naga (WNP),Cebu Pacific AT76 (RP-C7292),Landed 13:34,2021-05-01
+84,84,14:25 Z2776,,Cebu (CEB),AirAsia A320 (RP-C8966),Landed 13:44,2021-05-01
+85,85,14:35 5J618,,Panglao (TAG),Cebu Pacific A21N (RP-C4118),Landed 13:57,2021-05-01
+86,86,14:35 MH6070,,Kuching (KCH),Malaysia Airlines 33X,Unknown,2021-05-01
+87,87,14:40,PR2042,Caticlan (MPH),Philippine Airlines 321,Unknown,2021-05-01
+88,88,14:45 DG6842,,Del Carmin (IAO),Cebgo AT7,Unknown,2021-05-01
+89,89,14:45 5J854,,Zamboanga (ZAM),Cebu Pacific A320 (RP-C3265),Landed 14:28,2021-05-01
+90,90,15:05 5J888,,Cotabato (CBO),Cebu Pacific 320,Unknown,2021-05-01
+91,91,15:10 Z2359,,Panglao (TAG),AirAsia A320 (RP-C8948),Landed 14:37,2021-05-01
+92,92,15:15 Z2226,,Caticlan (MPH),Philippines AirAsia 320,Unknown,2021-05-01
+93,93,15:20,EY424,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMB),Landed 14:17,2021-05-01
+94,94,15:30 5J996,,General Santos (GES),Cebu Pacific A333 (RP-C3345),Landed 15:57,2021-05-01
+95,95,15:45,CI703,Taipei (TPE),China Airlines 333,Canceled,2021-05-01
+96,96,15:45,PR2132,Bacolod City (BCD),Philippine Airlines 321,Canceled,2021-05-01
+97,97,15:50 Z2694,,Cagayan de Oro (CGY),Philippines AirAsia 320,Unknown,2021-05-01
+98,98,16:00 DG6048,,Busuanga (USU),Cebgo AT7,Unknown,2021-05-01
+99,99,16:05 Z2782,,Cebu (CEB),Philippines AirAsia 320,Unknown,2021-05-01
+100,100,16:05 5J704,,Dipolog (DPL),Cebu Pacific 320,Unknown,2021-05-01
+101,101,16:05 5J902,,Caticlan (MPH),Cebu Pacific 32N,Canceled,2021-05-01
+102,102,16:15,EK332,Dubai (DXB),Emirates (Expo 2020 - Sustainability Livery) B77W (A6-ENH),Landed 15:54,2021-05-01
+103,103,16:20 5J788,,Butuan (BXU),Cebu Pacific A20N (RP-C4110),Landed 16:00,2021-05-01
+104,104,16:30 CX919,,Hong Kong (HKG),Cathay Pacific A35K (B-LXB),Landed 15:47,2021-05-01
+105,105,16:30 QR932,,Doha (DOH),Qatar Airways B77W (A7-BAV),Landed 15:42,2021-05-01
+106,106,16:35 PR2044,,Caticlan (MPH),Philippine Airlines DH8,Unknown,2021-05-01
+107,107,16:40,,Anchorage (ANC),- GLEX (N152QS),Landed 16:37,2021-05-01
+108,108,16:45,PR427,Tokyo (NRT),Philippine Airlines A321 (RP-C9906),Landed 17:10,2021-05-01
+109,109,16:45 5J566,,Cebu (CEB),Cebu Pacific A21N (RP-C4125),Landed 12:35,2021-05-01
+110,110,16:55 PR2526,,Cagayan de Oro (CGY),Philippine Airlines A321 (RP-C9911),Landed 16:40,2021-05-01
+111,111,16:55,PR2786,Puerto Princesa City (PPS),Philippine Airlines A321 (RP-C9924),Landed 16:23,2021-05-01
+112,112,17:00,PR437,Nagoya (NGO),Philippine Airlines A21N (RP-C9933),Landed 17:34,2021-05-01
+113,113,17:00 Z2224,,Caticlan (MPH),Philippines AirAsia 320,Unknown,2021-05-01
+114,114,17:00 PR5854,,Cebu (CEB),Philippine Airlines A333 (RP-C8781),Landed 16:18,2021-05-01
+115,115,17:05 Z2716,,Kalibo (KLO),Philippines AirAsia 320,Unknown,2021-05-01
+116,116,17:05 PR5117,,Vancouver (YVR),Philippine Airlines A359 (RP-C3508),Landed 17:13,2021-05-01
+117,117,17:15 T6143,,El Nido (ENI),AirSWIFT AT7,Unknown,2021-05-01
+118,118,17:15 Z2431,,Puerto Princesa City (PPS),Philippines AirAsia 320,Unknown,2021-05-01
+119,119,17:20 5J554,,Cebu (CEB),Cebu Pacific 32Q,Canceled,2021-05-01
+120,120,17:35 5J906,,Caticlan (MPH),Cebu Pacific 32N,Canceled,2021-05-01
+121,121,17:40 5J860,,Zamboanga (ZAM),Cebu Pacific A21N (RP-C4124),Landed 17:16,2021-05-01
+122,122,17:55 PR2926,,Legazpi (LGP),Philippine Airlines DH8D (RP-C5901),Landed 17:04,2021-05-01
+123,123,17:55 5J392,,Cagayan de Oro (CGY),Cebu Pacific A21N (RP-C4121),Landed 17:31,2021-05-01
+124,124,18:00 DG6840,,Del Carmin (IAO),Cebgo AT7,Unknown,2021-05-01
+125,125,18:05 PR508,,Singapore (SIN),Philippine Airlines -,Canceled,2021-05-01
+126,126,18:10 T6149,,El Nido (ENI),AirSWIFT AT3,Unknown,2021-05-01
+127,127,18:15,PR411,Osaka (KIX),Philippine Airlines A21N (RP-C9936),Landed 18:26,2021-05-01
+128,128,18:35 Z2778,,Cebu (CEB),Philippines AirAsia 320,Unknown,2021-05-01
+129,129,18:38,,Tokyo (NRT),- FA8X,Landed 18:56,2021-05-01
+130,130,18:45 ET644,,Bangkok (BKK),Ethiopian Airlines B788 (ET-ASH),Landed 18:20,2021-05-01
+131,131,18:55 T6147,,El Nido (ENI),AirSWIFT AT7,Unknown,2021-05-01
+132,132,19:00 5J560,,Cebu (CEB),Cebu Pacific 32Q,Canceled,2021-05-01
+133,133,19:00 5J654,,Tacloban (TAC),Cebu Pacific A320 (RP-C3274),Landed 18:13,2021-05-01
+134,134,19:10,TK84,Istanbul (IST),Turkish Airlines A359 (TC-LGC),Landed 17:51,2021-05-01
+135,135,19:15,PR1860,Cebu (CEB),Philippine Airlines A321 (RP-C9902),Landed 18:50,2021-05-01
+136,136,19:25,PR1818,Davao City (DVO),Philippine Airlines A321 (RP-C9903),Landed 19:10,2021-05-01
+137,137,19:35 Z2328,,Tacloban (TAC),Philippines AirAsia 320,Unknown,2021-05-01
+138,138,19:35 Z2606,,Bacolod City (BCD),AirAsia A320 (RP-C8940),Landed 19:13,2021-05-01
+139,139,20:05 5J5057,,Tokyo (NRT),Cebu Pacific A20N (RP-C3239),Landed 20:36,2021-05-01
+140,140,20:25 Z2314,,Iloilo (ILO),Philippines AirAsia 320,Unknown,2021-05-01
+141,141,20:25 5J19,,Dubai (DXB),Cebu Pacific A333 (RP-C3343),Landed 19:23,2021-05-01
+142,142,20:30 DG6198,,Legazpi (LGP),Cebgo AT7,Unknown,2021-05-01
+143,143,20:40 Z2614,,Davao City (DVO),Philippines AirAsia 320,Unknown,2021-05-01
+144,144,20:45 SV870,,Jeddah (JED),Saudia B78X (HZ-AR28),Landed 20:06,2021-05-01
+145,145,20:55,NH819,Tokyo (NRT),All Nippon Airways B789 (JA883A),Landed 21:04,2021-05-01
+146,146,21:00 3K765,,Singapore (SIN),Jetstar Airways A320 (9V-JSL),Landed 20:46,2021-05-01
+147,147,21:00,LD456,Cebu (CEB),DHL A306 (B-LDD),Landed 20:22,2021-05-01
+148,148,21:00 PR4146,,Panglao (TAG),Philippine Airlines -,Canceled,2021-05-01
+149,149,21:05 5J570,,Cebu (CEB),Cebu Pacific 32Q,Canceled,2021-05-01
+150,150,21:10 DG6318,,Kalibo (KLO),Cebgo AT7,Unknown,2021-05-01
+151,151,21:10 UA2858,,Guam (GUM),United Airlines B738 (N37281),Landed 20:56,2021-05-01
+152,152,21:30 5J978,,Davao City (DVO),Cebu Pacific A21N (RP-C4125),Landed 21:08,2021-05-01
+153,153,21:30 5J328,,Legazpi (LGP),Cebu Pacific 320,Unknown,2021-05-01
+154,154,21:40 JL745,,Tokyo (NRT),Japan Airlines B788 (JA828J),Landed 21:56,2021-05-01
+155,155,21:50 PR5103,,Cebu (CEB),Philippine Airlines B77W (RP-C7773),Landed 21:01,2021-05-01
+156,156,21:50 WY843,,Muscat (MCT),Oman Air A333 (A4O-DI),Landed 20:52,2021-05-01
+157,157,22:05 KE623,,Seoul (ICN),Korean Air B77W (HL8007),Landed 21:17,2021-05-01
+158,158,22:25 OZ703,,Seoul (ICN),Asiana Airlines A333 (HL7794),Landed 21:53,2021-05-01
+159,159,22:45 QR928,,Doha (DOH),Qatar Airways B77W (A7-BEA),Landed 21:48,2021-05-01
+160,160,22:45 5J189,,Seoul (ICN),Cebu Pacific A333 (RP-C3348),Landed 22:42,2021-05-01
+161,161,23:00,SQ918,Singapore (SIN),Singapore Airlines A359 (9V-SHO),Landed 22:34,2021-05-01
+162,162,23:20 PR8113,,Los Angeles (LAX),Philippine Airlines B77W (RP-C7778),Landed 00:37,2021-05-01
+163,163,23:35 PR469,,Seoul (ICN),Philippine Airlines 333,Unknown,2021-05-01
+164,164,23:45 Z2608,,Bacolod City (BCD),Philippines AirAsia 320,Unknown,2021-05-01
+165,165,23:45 PR2530,,Cagayan de Oro (CGY),Philippine Airlines 321,Unknown,2021-05-01

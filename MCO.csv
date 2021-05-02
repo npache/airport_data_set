@@ -1,0 +1,1646 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:04,DL1114,Atlanta (ATL),Delta Air Lines B753 (N583NW),Landed 23:53,2021-04-28
+1,1,00:07 BVN7522,,Tallahassee (TLH),FedEx C208 (N934FE),Landed 00:01,2021-04-28
+2,2,00:16 C27522,,Tallahassee (TLH),Mountain Air Cargo C208,Unknown,2021-04-28
+3,3,00:19 NK38,,Dallas (DFW),Spirit Airlines A319 (N502NK),Landed 23:39,2021-04-28
+4,4,00:22 AA2092,,Charlotte (CLT),American Airlines A321 (N164NN),Landed 23:43,2021-04-28
+5,5,00:45 DL1427,,Minneapolis (MSP),Delta Air Lines B752 (N693DL),Landed 00:09,2021-04-28
+6,6,00:45 NK9110,,Melbourne (MLB),Spirit Airlines 321,Unknown,2021-04-28
+7,7,05:00 NK143,,Aguadilla (BQN),Spirit Airlines A320 (N620NK),Landed 04:25,2021-04-28
+8,8,05:01 B6802,,Salt Lake City (SLC),JetBlue Airways A321 (N950JT),Landed 04:33,2021-04-28
+9,9,05:12 FX1409,,Memphis (MEM),FedEx B752 (N950FD),Landed 05:51,2021-04-28
+10,10,05:17,F91102,Las Vegas (LAS),Frontier (Hazel the Chipmunk Livery) A20N (N332FR),Landed 05:09,2021-04-28
+11,11,05:18 NK893,,San Juan (SJU),Spirit Airlines A320 (N609NK),Landed 04:46,2021-04-28
+12,12,05:19 5X1328,,Albany (ABY),UPS B752 (N409UP),Landed 04:40,2021-04-28
+13,13,05:26 5X1324,,Philadelphia (PHL),UPS A306 (N127UP),Landed 05:46,2021-04-28
+14,14,05:42 5X1326,,Louisville (SDF),UPS MD11 (N274UP),Landed 05:47,2021-04-28
+15,15,06:00,F9678,Denver (DEN),Frontier (Gordon The Golden Eagle Livery) A321 (N723FR),Landed 05:37,2021-04-28
+16,16,06:00 5X1336,,Dallas (DFW),UPS B752 (N459UP),Landed 05:40,2021-04-28
+17,17,06:04 FX1458,,Memphis (MEM),FedEx MD11 (N523FE),Landed 06:46,2021-04-28
+18,18,06:17 F9105,,San Juan (SJU),Frontier (Ichabod the Whooping Crane Livery) A20N (N358FR),Landed 05:57,2021-04-28
+19,19,06:24,UA2410,Los Angeles (LAX),United Airlines B738 (N73283),Landed 05:53,2021-04-28
+20,20,06:31,AS38,Seattle (SEA),Alaska Airlines B739 (N267AK),Landed 06:11,2021-04-28
+21,21,07:30 DL543,,Los Angeles (LAX),Delta Air Lines B739 (N857DZ),Landed 07:00,2021-04-28
+22,22,07:36 F99001,,Tampa (TPA),Frontier (Jack the Rabbit Livery) A20N (N304FR),Landed 07:33,2021-04-28
+23,23,07:57 5X9817,,West Palm Beach (PBI),UPS B763 (N336UP),Landed 07:37,2021-04-28
+24,24,08:18 DL1763,,Cincinnati (CVG),Delta Air Lines B738 (N371DA),Landed 07:54,2021-04-28
+25,25,08:29 NK1095,,Philadelphia (PHL),Spirit Airlines A320 (N623NK),Landed 08:02,2021-04-28
+26,26,08:35 NK1101,,Charlotte (CLT),Spiriti Airlines A20N (N906NK),Landed 08:13,2021-04-28
+27,27,08:36 NK1227,,New York (EWR),Spirit Airlines A20N (N903NK),Landed 08:10,2021-04-28
+28,28,08:39 NK1209,,Atlanta (ATL),Spirit Airlines A320 (N633NK),Landed 08:25,2021-04-28
+29,29,08:40 NK576,,Detroit (DTW),Spirit Airlines A320 (N628NK),Landed 08:16,2021-04-28
+30,30,08:43 B6327,,New York (EWR),JetBlue Airways A321 (N958JB),Landed 08:04,2021-04-28
+31,31,09:01 B6737,,Windsor Locks (BDL),JetBlue Airways (JetBlue for Good Livery) A320 (N809JB),Landed 08:20,2021-04-28
+32,32,09:05 WN4433,,Baltimore (BWI),Southwest Airlines B738 (N8626B),Landed 08:44,2021-04-28
+33,33,09:05,,Nassau (NAS),- LJ60,Unknown,2021-04-28
+34,34,09:07 2I565,,Cincinnati (CVG),21 Air B762 (N999YV),Landed 08:53,2021-04-28
+35,35,09:09 B6227,,San Juan (SJU),JetBlue Airways A320 (N589JB),Landed 08:56,2021-04-28
+36,36,09:14 B6151,,Boston (BOS),JetBlue Airways A321 (N954JB),Landed 08:32,2021-04-28
+37,37,09:15 WN3744,,Fort Lauderdale (FLL),Southwest Airlines B737 (N294WN),Landed 09:01,2021-04-28
+38,38,09:34 F91010,,Atlanta (ATL),Frontier (Ruby the Reindeer Livery) A20N (N360FR),Landed 09:07,2021-04-28
+39,39,09:35 WN4350,,Philadelphia (PHL),Southwest Airlines B738 (N8693A),Landed 09:06,2021-04-28
+40,40,09:35 3M67,,Fort Lauderdale (FLL),Silver Airways AT76 (N703SV),Landed 09:13,2021-04-28
+41,41,09:36 AA1715,,Charlotte (CLT),American Airlines A321 (N926UW),Landed 09:07,2021-04-28
+42,42,09:40 DL1746,,Detroit (DTW),Delta Air Lines B739 (N855DN),Landed 09:18,2021-04-28
+43,43,09:43 AA1712,,Miami (MIA),American Airlines B738 (N811NN),Landed 09:16,2021-04-28
+44,44,09:45 WN4098,,Chicago (MDW),Southwest Airlines B737 (N452WN),Landed 09:20,2021-04-28
+45,45,09:50 F91259,,New York (EWR),Frontier (Ward the Beaver Livery) A20N (N363FR),Landed 09:15,2021-04-28
+46,46,09:50 NK317,,Indianapolis (IND),Spirit Airlines A320 (N622NK),Landed 09:40,2021-04-28
+47,47,09:51 F99678,,Orlando (MCO),Frontier Airlines (N378FR),Landed 10:11,2021-04-28
+48,48,09:53 DL1533,,Atlanta (ATL),Delta Air Lines B752 (N692DL),Landed 09:44,2021-04-28
+49,49,09:55 NK708,,Cleveland (CLE),Spirit Airlines A320 (N697NK),Landed 09:44,2021-04-28
+50,50,09:55 WN4413,,Providence (PVD),Southwest Airlines B737 (N556WN),Landed 09:40,2021-04-28
+51,51,09:56 DL2058,,Raleigh-Durham (RDU),Delta Air Lines A319 (N345NB),Landed 09:32,2021-04-28
+52,52,10:01 NK198,,Fort Lauderdale (FLL),Spirit Airlines A20N (N931NK),Landed 09:46,2021-04-28
+53,53,10:03 DL1094,,New York (LGA),Delta Air Lines B738 (N3745B),Landed 09:22,2021-04-28
+54,54,10:05 WN5420,,Buffalo (BUF),Southwest Airlines B737 (N238WN),Landed 09:41,2021-04-28
+55,55,10:10 WN2244,,Manchester (MHT),Southwest Airlines B737 (N209WN),Landed 09:34,2021-04-28
+56,56,10:10 WN4399,,Pittsburgh (PIT),Southwest Airlines B737 (N746SW),Landed 09:36,2021-04-28
+57,57,10:10 WN4745,,Columbus (CMH),Southwest Airlines B737 (N7886A),Landed 10:02,2021-04-28
+58,58,10:11 B61406,,Santo Domingo (SDQ),JetBlue Airways A321 (N959JB),Landed 10:06,2021-04-28
+59,59,10:12 AA1647,,Chicago (ORD),American Airlines A321 (N166NN),Unknown,2021-04-28
+60,60,10:15 WN3404,,San Juan (SJU),Southwest Airlines B737 (N204WN),Landed 10:01,2021-04-28
+61,61,10:19 F91065,,Cincinnati (CVG),Frontier Airlines (Cortez the Green Turtle Livery) A20N (N368FR),Landed 09:54,2021-04-28
+62,62,10:20 WN3683,,St. Louis (STL),Southwest Airlines B737 (N734SA),Landed 09:52,2021-04-28
+63,63,10:22 DL1442,,Boston (BOS),Delta Air Lines B738 (N3730B),Landed 09:48,2021-04-28
+64,64,10:23 B61223,,Washington (DCA),JetBlue Airways A320 (N517JB),Landed 09:38,2021-04-28
+65,65,10:24 NK830,,Houston (IAH),Spirit Airlines A320 (N641NK),Landed 09:57,2021-04-28
+66,66,10:35 WN4793,,Houston (HOU),Southwest Airlines B738 (N8563Z),Landed 10:09,2021-04-28
+67,67,10:37 NK1042,,San Juan (SJU),Spirit Airlines A321 (N677NK),Landed 10:16,2021-04-28
+68,68,10:40 WN4031,,Kansas City (MCI),Southwest Airlines B738 (N8512U),Landed 10:14,2021-04-28
+69,69,10:41 NK2962,,Dallas (DFW),Spirit Airlines A320 (N606NK),Landed 10:11,2021-04-28
+70,70,10:41 FX2773,,Indianapolis (IND),FedEx A306 (N692FE),Landed 10:32,2021-04-28
+71,71,10:44 AA2695,,Charlotte (CLT),American Airlines A321 (N183UW),Landed 10:14,2021-04-28
+72,72,10:45 WN3339,,Nashville (BNA),Southwest Airlines B737 (N7742B),Landed 10:20,2021-04-28
+73,73,10:45 WN4040,,San Antonio (SAT),Southwest Airlines B38M (N8724J),Landed 10:26,2021-04-28
+74,74,10:50 WN1374,,Milwaukee (MKE),Southwest Airlines B738 (N8637A),Landed 10:27,2021-04-28
+75,75,10:50 WN2849,,Austin (AUS),Southwest Airlines B38M (N8702L),Landed 10:34,2021-04-28
+76,76,10:50 WN3562,,Dallas (DAL),Southwest Airlines B737 (N948WN),Landed 10:17,2021-04-28
+77,77,10:54 UA2079,,Cleveland (CLE),United Airlines B738 (N73299),Landed 10:29,2021-04-28
+78,78,10:55 DL1575,,Atlanta (ATL),Delta Air Lines B753 (N595NW),Landed 10:38,2021-04-28
+79,79,11:01 B61697,,Philadelphia (PHL),JetBlue Airways A320 (N558JB),Landed 10:21,2021-04-28
+80,80,11:03 AA1666,,Washington (DCA),American Airlines A319 (N829AW),Landed 10:55,2021-04-28
+81,81,11:03,,Tampa (TPA),- LJ60,Unknown,2021-04-28
+82,82,11:07 DL656,,Detroit (DTW),Delta Air Lines B752 (N684DA),Landed 10:41,2021-04-28
+83,83,11:08 F91155,,Chicago (ORD),Frontier (Scarlet the Tanager Livery) A20N (N354FR),Landed 10:35,2021-04-28
+84,84,11:10 WN2988,,Birmingham (BHM),Southwest Airlines B737 (N469WN),Landed 10:53,2021-04-28
+85,85,11:10 WN3655,,Atlanta (ATL),Southwest Airlines (Missouri One Livery) B737 (N280WN),Landed 10:57,2021-04-28
+86,86,11:14 B62751,,Boston (BOS),JetBlue Airways A320 (N652JB),Unknown,2021-04-28
+87,87,11:15 UA1890,,New York (EWR),United Airlines B738 (N76514),Landed 10:59,2021-04-28
+88,88,11:15 WN2914,,Windsor Locks (BDL),Southwest Airlines B38M (N8713M),Landed 10:50,2021-04-28
+89,89,11:15 WN4133,,Baltimore (BWI),Southwest Airlines B737 (N7730A),Landed 10:47,2021-04-28
+90,90,11:15 WN4342,,Philadelphia (PHL),Southwest Airlines B738 (N8553W),Landed 10:34,2021-04-28
+91,91,11:18 F91280,,Miami (MIA),Frontier (Ed. Edwin & Eddie The Penguins Livery) A20N (N344FR),Landed 11:02,2021-04-28
+92,92,11:19 AA1684,,Philadelphia (PHL),American Airlines A321 (N167US),Unknown,2021-04-28
+93,93,11:20 WN3838,,Indianapolis (IND),Southwest Airlines B737 (N223WN),Landed 11:00,2021-04-28
+94,94,11:20 WN4105,,Chicago (MDW),Southwest Airlines B737 (N210WN),Landed 10:51,2021-04-28
+95,95,11:23 DL1065,,New York (JFK),Delta Air Lines A320 (N361NW),Landed 10:43,2021-04-28
+96,96,11:24 DL407,,Minneapolis (MSP),Delta Air Lines A321 (N359DN),Landed 11:03,2021-04-28
+97,97,11:25 WN3595,,Washington (DCA),Southwest Airlines B737 (N498WN),Landed 10:45,2021-04-28
+98,98,11:25 WN3989,,New York (LGA),Southwest Airlines B737 (N438WN),Landed 10:49,2021-04-28
+99,99,11:30 B683,,New York (JFK),JetBlue Airways A320 (N561JB),Landed 10:56,2021-04-28
+100,100,11:30 WN4825,,Fort Myers (RSW),Southwest Airlines B737 (N940WN),Landed 11:16,2021-04-28
+101,101,11:35 SY341,,Minneapolis (MSP),Sun Country Airlines B738 (N838SY),Landed 11:04,2021-04-28
+102,102,11:39 F91043,,Cleveland (CLE),Frontier (Kit the Kermode Bear Livery) A20N (N366FR),Landed 11:09,2021-04-28
+103,103,11:48 NK1217,,Columbus (CMH),Spirit Airlines A320 (N642NK),Landed 11:24,2021-04-28
+104,104,11:55 DL1774,,Atlanta (ATL),Delta Air Lines B753 (N591NW),Landed 11:41,2021-04-28
+105,105,12:00 UA2403,,New York (EWR),United Airlines B738 (N11206),Landed 11:32,2021-04-28
+106,106,12:02 B62327,,New York (EWR),JetBlue Airways A320 (N621JB),Landed 11:15,2021-04-28
+107,107,12:06 NK2848,,Detroit (DTW),Spirit Airlines A321 (N684NK),Landed 12:19,2021-04-28
+108,108,12:11 NK321,,Raleigh-Durham (RDU),Spirit Airlines A20N (N924NK),Landed 11:58,2021-04-28
+109,109,12:15 F91163,,Philadelphia (PHL),Frontier (Seymour the Walrus Livery) A321 (N716FR),Landed 11:59,2021-04-28
+110,110,12:15 WN5744,,Columbus (CMH),Southwest Airlines B737 (N448WN),Landed 11:43,2021-04-28
+111,111,12:25 B61334,,San Juan (SJU),JetBlue Airways A320 (N554JB),Landed 12:09,2021-04-28
+112,112,12:25 3M75,,Key West (EYW),Silver Airways AT46 (N407SV),Landed 12:06,2021-04-28
+113,113,12:30 WN3830,,New Orleans (MSY),Southwest Airlines B737 (N251WN),Landed 12:11,2021-04-28
+114,114,12:31 AA1710,,Dallas (DFW),American Airlines A321 (N929AA),Landed 12:04,2021-04-28
+115,115,12:35 DL2076,,Minneapolis (MSP),Delta Air Lines B753 (N589NW),Landed 12:08,2021-04-28
+116,116,12:36 NK2077,,Baltimore (BWI),Spirit Airlines A321 (N676NK),Landed 12:18,2021-04-28
+117,117,12:38 DL2081,,Detroit (DTW),Delta Air Lines A321 (N365DN),Landed 12:21,2021-04-28
+118,118,12:40 NK929,,Chicago (ORD),Spirit Airlines A321 (N665NK),Landed 12:34,2021-04-28
+119,119,12:45 UA2425,,New York (EWR),United Airlines B738 (N14231),Landed 12:05,2021-04-28
+120,120,12:46 B6351,,Boston (BOS),JetBlue Airways A320 (N662JB),Unknown,2021-04-28
+121,121,12:50 WN5238,,St. Louis (STL),Southwest Airlines B737 (N7823A),Landed 12:23,2021-04-28
+122,122,12:50 WN5759,,Nashville (BNA),Southwest Airlines B737 (N256WN),Landed 12:32,2021-04-28
+123,123,12:57 UA510,,Chicago (ORD),United Airlines B753 (N75858),Landed 12:55,2021-04-28
+124,124,12:58 AA1649,,Charlotte (CLT),American Airlines (US Airways Heritage Livery) A321 (N578UW),Landed 12:40,2021-04-28
+125,125,12:58 DL2420,,Atlanta (ATL),Delta Air Lines B752 (N671DN),Landed 12:44,2021-04-28
+126,126,13:00 WN5219,,Baltimore (BWI),Southwest Airlines B737 (N440LV),Landed 12:37,2021-04-28
+127,127,13:02 F91051,,Charlotte (CLT),Frontier (Cliff the Mountain Goat Livery) A20N (N305FR),Landed 12:57,2021-04-28
+128,128,13:04 NK303,,Atlantic City (ACY),Spirit Airlines A320 (N639NK),Landed 12:35,2021-04-28
+129,129,13:05 F9680,,Denver (DEN),Frontier (Otto the Owl Livery) A321 (N701FR),Landed 12:42,2021-04-28
+130,130,13:09 UA413,,Houston (IAH),United Airlines B738 (N27213),Landed 12:53,2021-04-28
+131,131,13:15 WN5768,,Pittsburgh (PIT),Southwest Airlines B738 (N8658A),Landed 12:39,2021-04-28
+132,132,13:15 WN4771,,Denver (DEN),Southwest Airlines (California One Livery) B737 (N943WN),Unknown,2021-04-28
+133,133,13:23 AA1121,,Chicago (ORD),American Airlines B738 (N959NN),Landed 13:00,2021-04-28
+134,134,13:31 AA2495,,Miami (MIA),American Airlines B738 (N819NN),Landed 13:15,2021-04-28
+135,135,13:35 M6881,,New York (EWR),Amerijet International B763 (N378CX),Landed 13:26,2021-04-28
+136,136,13:42 NK246,,Boston (BOS),Spirit Airlines A20N (N929NK),Landed 13:27,2021-04-28
+137,137,13:42 NK542,,Cancun (CUN),Spirit Airlines A319 (N536NK),Landed 13:41,2021-04-28
+138,138,13:50 AM434,,Mexico City (MEX),Aeromexico B738 (XA-AML),Landed 13:33,2021-04-28
+139,139,13:55 WN4695,,Raleigh-Durham (RDU),Southwest Airlines (Classic Retro Livery) B737 (N711HK),Landed 13:23,2021-04-28
+140,140,13:56 DL1600,,Atlanta (ATL),Delta Air Lines B739 (N881DN),Landed 13:39,2021-04-28
+141,141,13:58 NK732,,Austin (AUS),Spirit Airlines A321 (N670NK),Landed 13:32,2021-04-28
+142,142,14:00 WN4194,,Houston (HOU),Southwest Airlines B737 (N463WN),Landed 14:34,2021-04-28
+143,143,14:00 WN5750,,Austin (AUS),Southwest Airlines B737 (N441WN),Landed 13:48,2021-04-28
+144,144,14:05 WN4719,,Memphis (MEM),Southwest Airlines B738 (N8541W),Landed 13:35,2021-04-28
+145,145,14:05 WN5266,,Chicago (MDW),Southwest Airlines B737 (N960WN),Landed 13:37,2021-04-28
+146,146,14:05 WN3583,,Louisville (SDF),Southwest Airlines B737 (N7844A),Landed 13:34,2021-04-28
+147,147,14:06 DL2398,,New York (LGA),Delta Air Lines A320 (N321US),Landed 13:19,2021-04-28
+148,148,14:09 NK117,,Detroit (DTW),Spirit Airlines A321 (N658NK),Landed 14:02,2021-04-28
+149,149,14:12 B6927,,New York (EWR),JetBlue Airways A320 (N807JB),Landed 13:43,2021-04-28
+150,150,14:12 F91111,,New York (LGA),Frontier (Betty the Bluebird Livery) A320 (N230FR),Landed 13:02,2021-04-28
+151,151,14:15 WN3686,,Atlanta (ATL),Southwest Airlines B738 (N8510E),Landed 13:55,2021-04-28
+152,152,14:15 WN4285,,St. Louis (STL),Southwest Airlines B737 (N286WN),Landed 13:50,2021-04-28
+153,153,14:20 AA1716,,Dallas (DFW),American Airlines A321 (N174US),Landed 14:33,2021-04-28
+154,154,14:20 NK959,,Windsor Locks (BDL),Spirit Airlines A20N (N932NK),Landed 13:41,2021-04-28
+155,155,14:20 WN1260,,San Juan (SJU),Southwest Airlines B737 (N248WN),Landed 14:11,2021-04-28
+156,156,14:20 WN5737,,Buffalo (BUF),Southwest Airlines B737 (N716SW),Landed 13:51,2021-04-28
+157,157,14:21 B6789,,New York (JFK),JetBlue Airways A321 (N966JT),Landed 13:44,2021-04-28
+158,158,14:22 F91207,,Windsor Locks (BDL),Frontier (Ichabod the Whooping Crane Livery) A20N (N358FR),Landed 13:46,2021-04-28
+159,159,14:24 B6114,,Cancun (CUN),JetBlue Airways A320 (N656JB),Landed 14:11,2021-04-28
+160,160,14:30 WN5702,,Dallas (DAL),Southwest Airlines B737 (N426WN),Landed 14:06,2021-04-28
+161,161,14:34 DL2157,,Minneapolis (MSP),Delta Air Lines B752 (N6716C),Landed 13:58,2021-04-28
+162,162,14:34 DL2541,,Salt Lake City (SLC),Delta Air Lines B739 (N813DN),Landed 14:37,2021-04-28
+163,163,14:35 DL1426,,New York (JFK),Delta Air Lines A320 (N371NW),Landed 14:01,2021-04-28
+164,164,14:39 B6451,,Boston (BOS),JetBlue Airways A320 (N784JB),Landed 14:31,2021-04-28
+165,165,14:40 AA656,,New York (LGA),American Airlines B738 (N854NN),Landed 13:48,2021-04-28
+166,166,14:40 WN4328,,Islip (ISP),Southwest Airlines (Classic Retro Livery) B737 (N714CB),Landed 14:27,2021-04-28
+167,167,14:42 SY343,,Minneapolis (MSP),Sun Country Airlines B738 (N819SY),Landed 14:17,2021-04-28
+168,168,14:42 UA730,,Chicago (ORD),United Airlines B753 (N75853),Landed 14:13,2021-04-28
+169,169,14:46 F91127,,Milwaukee (MKE),Frontier (North the Harp Seal Livery) A20N (N338FR),Landed 14:23,2021-04-28
+170,170,14:47 AA2544,,Charlotte (CLT),American Airlines A321 (N583UW),Landed 14:06,2021-04-28
+171,171,14:48,,Miami (OPF),- BE9L (N74B),Landed 14:50,2021-04-28
+172,172,14:49 F91039,,Buffalo (BUF),Frontier (Spot the Jaguar Livery) A321 (N712FR),Landed 14:25,2021-04-28
+173,173,14:52 F91183,,Providence (PVD),Frontier (Yukon the Caribou Livery) A320 (N201FR),Unknown,2021-04-28
+174,174,14:54 AA1159,,Miami (MIA),American Airlines B38M (N302SA),Landed 14:36,2021-04-28
+175,175,14:57 NK372,,Houston (IAH),Spirit Airlines A319 (N535NK),Landed 14:41,2021-04-28
+176,176,15:00 WN5751,,Phoenix (PHX),Southwest Airlines B737 (N7878A),Landed 14:43,2021-04-28
+177,177,15:03 DL1722,,Cincinnati (CVG),Delta Air Lines B738 (N371DA),Landed 14:40,2021-04-28
+178,178,15:05 WN273,,Montego Bay (MBJ),Southwest Airlines B737 (N754SW),Landed 14:47,2021-04-28
+179,179,15:10 3M61,,Pensacola (PNS),Silver Airways AT76 (N703SV),Landed 14:53,2021-04-28
+180,180,15:16 DL1088,,Detroit (DTW),Delta Air Lines B753 (N583NW),Landed 14:59,2021-04-28
+181,181,15:16 NK863,,Latrobe (LBE),Spirit Airlines A320 (N609NK),Landed 14:44,2021-04-28
+182,182,15:17 CM478,,Panama City (PTY),Copa Airlines B738 (HP-1716CMP),Landed 15:01,2021-04-28
+183,183,15:18 NK1947,,Nashville (BNA),Spirit Airlines A320 (N697NK),Landed 14:57,2021-04-28
+184,184,15:19 UA755,,Denver (DEN),United Airlines B753 (N75851),Landed 15:11,2021-04-28
+185,185,15:20 WN5743,,Birmingham (BHM),Southwest Airlines (Tennessee One Livery) B737 (N922WN),Landed 15:10,2021-04-28
+186,186,15:20 WN5765,,Houston (HOU),Southwest Airlines B737 (N961WN),Landed 14:48,2021-04-28
+187,187,15:23 UA1217,,Houston (IAH),United Airlines B738 (N87513),Landed 14:55,2021-04-28
+188,188,15:30 AS782,,Portland (PDX),Alaska Airlines B739 (N214AK),Landed 15:44,2021-04-28
+189,189,15:30 WN4584,,Baltimore (BWI),Southwest Airlines B737 (N247WN),Landed 15:05,2021-04-28
+190,190,15:33 F91286,,Phoenix (PHX),Frontier (Chocolate the Moose Livery) A20N (N312FR),Landed 15:08,2021-04-28
+191,191,15:38 DL1072,,Atlanta (ATL),Delta Air Lines B752 (N554NW),Landed 15:33,2021-04-28
+192,192,15:39 UA1836,,New York (EWR),United Airlines B752 (N14107),Landed 15:12,2021-04-28
+193,193,15:40 NK58,,New York (EWR),Spirit Airlines A321 (N682NK),Landed 15:14,2021-04-28
+194,194,15:50 WN3552,,Dallas (DAL),Southwest Airlines B738 (N8575Z),Landed 15:51,2021-04-28
+195,195,15:52 NK173,,Minneapolis (MSP),Spirit Airlines A20N (N919NK),Landed 15:55,2021-04-28
+196,196,16:00 NK1310,,San Jose (SJO),Spirit Airlines A321 (N669NK),Landed 16:03,2021-04-28
+197,197,16:03 DL854,,Raleigh-Durham (RDU),Delta Air Lines A319 (N363NB),Landed 15:32,2021-04-28
+198,198,16:10 NK1322,,Kansas City (MCI),Spirit Airlines A20N (N903NK),Landed 15:53,2021-04-28
+199,199,16:12 F91187,,Portland (PWM),Frontier (Mitch the Wolverine Livery) A321 (N713FR),Landed 15:40,2021-04-28
+200,200,16:14 B61451,,Boston (BOS),JetBlue Airways A320 (N568JB),Landed 15:34,2021-04-28
+201,201,16:15 WN4933,,Buffalo (BUF),Southwest Airlines B737 (N908WN),Landed 15:41,2021-04-28
+202,202,16:15 K4364,,Los Angeles (LAX),Kalitta Air B744 (N715CK),Landed 16:06,2021-04-28
+203,203,16:17 B61527,,New York (EWR),JetBlue Airways A321 (N994JL),Landed 15:37,2021-04-28
+204,204,16:20 NK884,,San Juan (SJU),Spirit Airlines A320 (N633NK),Landed 16:14,2021-04-28
+205,205,16:21 DL797,,Salt Lake City (SLC),Delta Air Lines A321 (N378DN),Landed 16:18,2021-04-28
+206,206,16:25 WN3527,,Nashville (BNA),Southwest Airlines B737 (N7743B),Landed 16:00,2021-04-28
+207,207,16:25 WN5754,,Windsor Locks (BDL),Southwest Airlines B737 (N411WN),Landed 16:11,2021-04-28
+208,208,16:27 B61001,,New York (JFK),JetBlue Airways A320 (N706JB),Landed 15:49,2021-04-28
+209,209,16:29 5X5528,,Louisville (SDF),UPS B752 (N410UP),Landed 16:13,2021-04-28
+210,210,16:30 5X2292,,Dallas (DFW),UPS B763 (N355UP),Landed 16:44,2021-04-28
+211,211,16:33 NK726,,Las Vegas (LAS),Spirit Airlines A20N (N907NK),Landed 16:17,2021-04-28
+212,212,16:35 WN5731,,Manchester (MHT),Southwest Airlines B738 (N8515X),Landed 16:04,2021-04-28
+213,213,16:37 AA1705,,Dallas (DFW),American Airlines A321 (N140AN),Landed 16:40,2021-04-28
+214,214,16:40 WN3582,,Providence (PVD),Southwest Airlines B738 (N8533S),Landed 16:12,2021-04-28
+215,215,16:40 WN4050,,Albany (ALB),Southwest Airlines B738 (N8537Z),Landed 16:32,2021-04-28
+216,216,16:40 WN5740,,Memphis (MEM),Southwest Airlines B738 (N8684F),Landed 16:15,2021-04-28
+217,217,16:44 F91075,,Grand Rapids (GRR),Frontier (Yukon the Caribou Livery) A320 (N201FR),Landed 16:08,2021-04-28
+218,218,16:45 WN3367,,Columbus (CMH),Southwest Airlines B738 (N8551Q),Landed 16:21,2021-04-28
+219,219,16:50 AS760,,San Diego (SAN),Alaska Airlines B739 (N274AK),Landed 16:21,2021-04-28
+220,220,16:52 DL1546,,Atlanta (ATL),Delta Air Lines B752 (N822DX),Landed 16:25,2021-04-28
+221,221,16:55 WN3977,,Denver (DEN),Southwest Airlines B738 (N8524Z),Landed 16:46,2021-04-28
+222,222,16:55 WN4412,,San Juan (SJU),Southwest Airlines B738 (N8502Z),Landed 16:43,2021-04-28
+223,223,16:56 DL2538,,Detroit (DTW),Delta Air Lines B752 (N6711M),Landed 16:35,2021-04-28
+224,224,16:56 NK277,,St. Thomas (STT),Spirit Airlines A319 (N502NK),Landed 16:51,2021-04-28
+225,225,16:57 AA2214,,Charlotte (CLT),American Airlines A321 (N917UY),Landed 16:26,2021-04-28
+226,226,17:00 WN3438,,Las Vegas (LAS),Southwest Airlines B738 (N8570W),Landed 16:48,2021-04-28
+227,227,17:02 F91045,,Cleveland (CLE),Frontier (Ferndale the Pygmy Owl Livery) A321 (N705FR),Landed 16:56,2021-04-28
+228,228,17:03 F91239,,Boston (BOS),Frontier (Jo Jo the Grizzly Bear Livery) A20N (N335FR),Landed 16:30,2021-04-28
+229,229,17:04 DL502,,Seattle (SEA),Delta Air Lines B739 (N914DU),Landed 17:03,2021-04-28
+230,230,17:05 WN5703,,New Orleans (MSY),Southwest Airlines B737 (N448WN),Landed 16:41,2021-04-28
+231,231,17:20 AS16,,Seattle (SEA),Alaska Airlines B739 (N407AS),Landed 16:53,2021-04-28
+232,232,17:20 B61034,,San Juan (SJU),JetBlue Airways A320 (N789JB),Landed 17:14,2021-04-28
+233,233,17:20 WN4043,,Baltimore (BWI),Southwest Airlines B737 (N415WN),Landed 17:28,2021-04-28
+234,234,17:20 WN4180,,Kansas City (MCI),Southwest Airlines B737 (N466WN),Landed 17:05,2021-04-28
+235,235,17:20 WN4616,,Chicago (MDW),Southwest Airlines B737 (N262WN),Landed 17:35,2021-04-28
+236,236,17:24 AA2547,,Phoenix (PHX),American Airlines A320 (N601AW),Landed 17:03,2021-04-28
+237,237,17:25 F9107,,San Juan (SJU),Frontier (Stretch the Great Blue Heron Livery) A20N (N334FR),Landed 17:36,2021-04-28
+238,238,17:27 AA2503,,Washington (DCA),American Airlines A319 (N829AW),Landed 16:54,2021-04-28
+239,239,17:28 DL2077,,Minneapolis (MSP),Delta Air Lines B739 (N823DN),Landed 16:59,2021-04-28
+240,240,17:30 F91095,,Islip (ISP),Frontier (Skye the Blue Jay Livery) A20N (N326FR),Landed 17:24,2021-04-28
+241,241,17:32 AA483,,Philadelphia (PHL),American Airlines B738 (N831NN),Landed 17:34,2021-04-28
+242,242,17:43 B61696,,San Jose (SJO),JetBlue Airways A320 (N589JB),Landed 17:18,2021-04-28
+243,243,17:43 UA311,,Houston (IAH),United Airlines B738 (N14240),Landed 17:26,2021-04-28
+244,244,17:44 B6119,,Albany (ALB),JetBlue Airways E190 (N368JB),Landed 17:23,2021-04-28
+245,245,17:47,,Tampa (VDF),- BE20 (N115CT),Landed 17:59,2021-04-28
+246,246,17:50 DL541,,New York (LGA),Delta Air Lines A320 (N351NW),Landed 17:07,2021-04-28
+247,247,17:59 DL1749,,Los Angeles (LAX),Delta Air Lines B739 (N808DN),Landed 18:02,2021-04-28
+248,248,18:00,DL1553,Atlanta (ATL),Delta Air Lines B753 (N591NW),Landed 17:43,2021-04-28
+249,249,18:00 WN4700,,Houston (HOU),Southwest Airlines B738 (N8668A),Landed 17:43,2021-04-28
+250,250,18:05 DPJ497,,Louisville (SDF),Private owner BE40 (N497TM),Landed 17:53,2021-04-28
+251,251,18:07 5X2326,,Louisville (SDF),UPS MD11 (N256UP),Landed 19:13,2021-04-28
+252,252,18:08 B6495,,White Plains (HPN),JetBlue Airways A320 (N766JB),Landed 17:26,2021-04-28
+253,253,18:14,UA272,New York (EWR),United Airlines B738 (N77536),Landed 17:56,2021-04-28
+254,254,18:20 WN3151,,Phoenix (PHX),Southwest Airlines B738 (N8543Z),Landed 19:11,2021-04-28
+255,255,18:21,F91243,Baltimore (BWI),Frontier Airlines (Cortez the Green Turtle Livery) A20N (N368FR),Landed 17:54,2021-04-28
+256,256,18:25,AS1302,San Francisco (SFO),Alaska Airlines B738 (N549AS),Landed 18:19,2021-04-28
+257,257,18:30 WN3508,,Dallas (DAL),Southwest Airlines B737 (N496WN),Landed 18:24,2021-04-28
+258,258,18:30 WN5738,,Providence (PVD),Southwest Airlines B737 (N238WN),Landed 17:49,2021-04-28
+259,259,18:31,UA622,Chicago (ORD),United Airlines B753 (N74856),Landed 18:43,2021-04-28
+260,260,18:34 F91063,,Cincinnati (CVG),Frontier (Cubby the Bear Livery) A321 (N714FR),Landed 18:16,2021-04-28
+261,261,18:37 AA2490,,Dallas (DFW),American Airlines A321 (N127AA),Landed 18:01,2021-04-28
+262,262,18:37 DL760,,New York (JFK),Delta Air Lines B738 (N397DA),Landed 17:45,2021-04-28
+263,263,18:39 B6199,,San Juan (SJU),JetBlue Airways A321 (N954JB),Landed 18:21,2021-04-28
+264,264,18:40 WN3864,,Nashville (BNA),Southwest Airlines B738 (N8536Z),Landed 18:55,2021-04-28
+265,265,18:40 WN4165,,Baltimore (BWI),Southwest Airlines B737 (N7733B),Landed 18:07,2021-04-28
+266,266,18:40 WN4657,,New Orleans (MSY),Southwest Airlines B738 (N8694E),Landed 18:22,2021-04-28
+267,267,18:41 FX3712,,Indianapolis (IND),FedEx B752 (N933FD),Landed 19:23,2021-04-28
+268,268,18:41 GAJ802,,Panama City (ECP),Wheels Up B350 (N802UP),Landed 19:02,2021-04-28
+269,269,18:42 B684,,New York (JFK),JetBlue Airways A21N (N2002J),Landed 18:04,2021-04-28
+270,270,18:43 NK2004,,Baltimore (BWI),Spirit Airlines A20N (N927NK),Landed 18:31,2021-04-28
+271,271,18:46 AA2380,,Charlotte (CLT),American Airlines B738 (N864NN),Landed 18:27,2021-04-28
+272,272,18:49 NK1922,,Bogota (BOG),Spiriti Airlines A20N (N906NK),Landed 18:35,2021-04-28
+273,273,18:51 FX563,,Memphis (MEM),FedEx B752 (N979FD),Landed 17:50,2021-04-28
+274,274,18:54 NK433,,Boston (BOS),Spirit Airlines A20N (N931NK),Landed 18:25,2021-04-28
+275,275,19:00 WN4184,,Milwaukee (MKE),Southwest Airlines B738 (N8663A),Landed 18:37,2021-04-28
+276,276,19:01 B61075,,Providence (PVD),JetBlue Airways A320 (N561JB),Landed 18:32,2021-04-28
+277,277,19:01 DL1398,,Boston (BOS),Delta Air Lines A320 (N333NW),Landed 18:22,2021-04-28
+278,278,19:05 DL2422,,Atlanta (ATL),Delta Air Lines B752 (N671DN),Landed 18:39,2021-04-28
+279,279,19:09 B6551,,Boston (BOS),JetBlue Airways A320 (N653JB),Landed 18:29,2021-04-28
+280,280,19:11 UA1683,,Denver (DEN),United Airlines B738 (N33264),Landed 19:20,2021-04-28
+281,281,19:15 NK9950,,Lake City (LCQ),Spirit Airlines A319,Unknown,2021-04-28
+282,282,19:20 WN4897,,Chicago (MDW),Southwest Airlines B737 (N243WN),Landed 19:59,2021-04-28
+283,283,19:20 NK9150,,Lake City (LCQ),Spirit Airlines A319 (N524NK),Landed 18:49,2021-04-28
+284,284,19:24 B6399,,New York (LGA),JetBlue Airways A320 (N621JB),Landed 19:00,2021-04-28
+285,285,19:24 NK1691,,Pittsburgh (PIT),Spirit Airlines A320 (N630NK),Landed 18:57,2021-04-28
+286,286,19:27 5X2344,,Ontario (ONT),UPS A306 (N143UP),Landed 18:57,2021-04-28
+287,287,19:33 DL2070,,Detroit (DTW),Delta Air Lines B753 (N582NW),Landed 19:09,2021-04-28
+288,288,19:35 F91071,,Detroit (DTW),Frontier (Gordon The Golden Eagle Livery) A321 (N723FR),Landed 19:17,2021-04-28
+289,289,19:35 WN4344,,San Juan (SJU),Southwest Airlines B738 (N8553W),Landed 19:15,2021-04-28
+290,290,19:35 FX358,,Memphis (MEM),FedEx B763 (N128FE),Landed 19:29,2021-04-28
+291,291,19:37 F91191,,Raleigh-Durham (RDU),Frontier (Cliff the Mountain Goat Livery) A20N (N305FR),Landed 19:13,2021-04-28
+292,292,19:40 3M76,,Fort Lauderdale (FLL),Silver Airways AT76 (N703SV),Landed 19:20,2021-04-28
+293,293,19:47 F99308,,Providence (PVD),Frontier (Flo the Flamingo Livery) A20N (N308FR),Landed 19:39,2021-04-28
+294,294,19:56 DL2022,,Minneapolis (MSP),Delta Air Lines B752 (N676DL),Landed 19:36,2021-04-28
+295,295,19:56 F9801,,Trenton (TTN),Frontier (Marshall the Ring-tailed Cat Livery) A20N (N365FR),Landed 19:32,2021-04-28
+296,296,20:01 DL1477,,Atlanta (ATL),Delta Air Lines B739 (N827DN),Landed 19:34,2021-04-28
+297,297,20:04 DL1101,,New York (LGA),Delta Air Lines B738 (N3730B),Landed 19:11,2021-04-28
+298,298,20:08 DL1291,,New York (JFK),Delta Air Lines B739 (N909DN),Landed 19:27,2021-04-28
+299,299,20:09 B61837,,Windsor Locks (BDL),JetBlue Airways A320 (N828JB),Landed 19:49,2021-04-28
+300,300,20:10 WN1904,,Baltimore (BWI),Southwest Airlines (Classic Retro Livery) B737 (N711HK),Landed 19:50,2021-04-28
+301,301,20:10 WN3871,,St. Louis (STL),Southwest Airlines B737 (N7727A),Landed 19:47,2021-04-28
+302,302,20:12 UA2268,,Washington (IAD),United Airlines B753 (N57857),Landed 19:46,2021-04-28
+303,303,20:25 F91134,,Minneapolis (MSP),Frontier (Kit the Kermode Bear Livery) A20N (N366FR),Landed 21:14,2021-04-28
+304,304,20:27 B62427,,New York (EWR),JetBlue Airways (NYC Fire Department Livery) A320 (N615JB),Landed 19:45,2021-04-28
+305,305,20:28 AA424,,Dallas (DFW),American Airlines B738 (N931NN),Landed 21:20,2021-04-28
+306,306,20:28 F91012,,Atlanta (ATL),Frontier (Chocolate the Moose Livery) A20N (N312FR),Landed 19:57,2021-04-28
+307,307,20:31 B6651,,Boston (BOS),JetBlue Airways (I ♥ NY Livery) A320 (N586JB),Landed 20:11,2021-04-28
+308,308,20:35 UA2496,,Houston (IAH),United Airlines B739 (N75426),Landed 20:24,2021-04-28
+309,309,20:35 WN4449,,Indianapolis (IND),Southwest Airlines B738 (N8556Z),Landed 20:07,2021-04-28
+310,310,20:37 AA1842,,Charlotte (CLT),American Airlines A321 (N560UW),Landed 20:57,2021-04-28
+311,311,20:42 NK753,,Philadelphia (PHL),Spirit Airlines A321 (N660NK),Landed 20:30,2021-04-28
+312,312,20:45 WN3001,,Denver (DEN),Southwest Airlines B738 (N8645A),Landed 20:34,2021-04-28
+313,313,20:57 AA463,,Miami (MIA),American Airlines B38M (N304RB),Landed 20:37,2021-04-28
+314,314,20:58 NK535,,Cleveland (CLE),Spirit Airlines A321 (N665NK),Landed 20:47,2021-04-28
+315,315,21:00 NK618,,New Orleans (MSY),Spirit Airlines A320 (N697NK),Landed 20:32,2021-04-28
+316,316,21:00 WN4669,,Washington (DCA),Southwest Airlines B737 (N550WN),Landed 20:26,2021-04-28
+317,317,21:05 NK1693,,Houston (IAH),Spirit Airlines A320 (N615NK),Landed 20:45,2021-04-28
+318,318,21:10 WN3933,,Chicago (MDW),Southwest Airlines B737 (N215WN),Landed 21:06,2021-04-28
+319,319,21:13 NK1103,,Atlantic City (ACY),Spirit Airlines A320 (N628NK),Landed 20:48,2021-04-28
+320,320,21:15 WN3448,,Nashville (BNA),Southwest Airlines B737 (N427WN),Landed 20:44,2021-04-28
+321,321,21:20 WN3646,,Pittsburgh (PIT),Southwest Airlines B738 (N8558Z),Landed 21:03,2021-04-28
+322,322,21:27 AA411,,Phoenix (PHX),American Airlines A321 (N182UW),Landed 21:10,2021-04-28
+323,323,21:28 DL2490,,Atlanta (ATL),Delta Air Lines B752 (N554NW),Landed 21:12,2021-04-28
+324,324,21:33 UA327,,Denver (DEN),United Airlines B738 (N35204),Landed 21:22,2021-04-28
+325,325,21:35 WN4027,,Houston (HOU),Southwest Airlines B738 (N8664J),Landed 21:19,2021-04-28
+326,326,21:40 WN3988,,Baltimore (BWI),Southwest Airlines B38M (N8727M),Landed 21:12,2021-04-28
+327,327,21:45 DL2308,,Raleigh-Durham (RDU),Delta Air Lines A319 (N345NB),Landed 21:24,2021-04-28
+328,328,21:45 WN935,,San Juan (SJU),Southwest Airlines B737 (N286WN),Landed 21:16,2021-04-28
+329,329,21:47 F91097,,Islip (ISP),Frontier (Betty the Bluebird Livery) A320 (N230FR),Landed 21:19,2021-04-28
+330,330,21:49 F91278,,Miami (MIA),Frontier (O'Malley the Mallard Duck Livery) A20N (N356FR),Landed 22:48,2021-04-28
+331,331,21:50 WN3904,,Atlanta (ATL),Southwest Airlines B738 (N8560Z),Landed 21:29,2021-04-28
+332,332,21:52 F91091,,Indianapolis (IND),Frontier (Spot the Jaguar Livery) A321 (N712FR),Landed 21:16,2021-04-28
+333,333,22:00 LBQ783,,Tampa (TPA),Quest Diagnostics PC12 (N589AC),Landed 21:52,2021-04-28
+334,334,22:11 NK1614,,Baltimore (BWI),Spirit Airlines A321 (N676NK),Landed 21:39,2021-04-28
+335,335,22:13 AA2497,,Washington (DCA),American Airlines A319 (N820AW),Landed 21:38,2021-04-28
+336,336,22:18 F91261,,New York (EWR),Frontier (Ichabod the Whooping Crane Livery) A20N (N358FR),Landed 21:45,2021-04-28
+337,337,22:27 NK135,,Minneapolis (MSP),Spirit Airlines A320 (N639NK),Landed 21:57,2021-04-28
+338,338,22:28 AA598,,Dallas (DFW),American Airlines A321 (N160AN),Landed 23:47,2021-04-28
+339,339,22:28 B6901,,New York (JFK),JetBlue Airways A321 (N907JB),Landed 21:49,2021-04-28
+340,340,22:30 AA1879,,Charlotte (CLT),American Airlines A321 (N507AY),Landed 21:58,2021-04-28
+341,341,22:30 B61134,,San Juan (SJU),JetBlue Airways A320 (N651JB),Landed 22:16,2021-04-28
+342,342,22:33 F91018,,Austin (AUS),Frontier (North the Harp Seal Livery) A20N (N338FR),Landed 22:04,2021-04-28
+343,343,22:35 WN8507,,Charleston (CHS),Southwest Airlines B737 (N211WN),Landed 22:31,2021-04-28
+344,344,22:36 NK1481,,Detroit (DTW),Spirit Airlines A321 (N662NK),Landed 22:25,2021-04-28
+345,345,22:37 CM811,,Panama City (PTY),Copa Airlines B738 (HP-1821CMP),Landed 22:29,2021-04-28
+346,346,22:38 DL1555,,Atlanta (ATL),Delta Air Lines B752 (N6705Y),Landed 22:11,2021-04-28
+347,347,22:39 DL1543,,Los Angeles (LAX),Delta Air Lines B739 (N882DN),Landed 22:33,2021-04-28
+348,348,22:45,CM285,Panama City (PTY),Copa Airlines B738 (HP-1724CMP),Landed 22:32,2021-04-28
+349,349,22:45 WN4488,,Dallas (DAL),Southwest Airlines B737 (N962WN),Landed 22:36,2021-04-28
+350,350,22:46,,Appleton (ATW),- PC24 (N114HA),Landed 22:46,2021-04-28
+351,351,22:48 NK431,,Kansas City (MCI),Spirit Airlines A20N (N932NK),Landed 22:39,2021-04-28
+352,352,22:49 DL1268,,Minneapolis (MSP),Delta Air Lines B753 (N589NW),Landed 22:06,2021-04-28
+353,353,22:50 WN3935,,Denver (DEN),Southwest Airlines B737 (N420WN),Landed 22:49,2021-04-28
+354,354,22:55 AA4967,,Key West (EYW),American Eagle E75S (N124HQ),Landed 22:35,2021-04-28
+355,355,23:00,DL2520,New York (LGA),Delta Air Lines A320 (N332NW),Landed 22:01,2021-04-28
+356,356,23:02,UA1954,Houston (IAH),United Airlines B738 (N33209),Landed 23:02,2021-04-28
+357,357,23:03 NK676,,Fort Lauderdale (FLL),Spirit Airlines A20N (N929NK),Landed 22:47,2021-04-28
+358,358,23:05,AA2803,Miami (MIA),American Airlines B38M (N341RW),Landed 22:44,2021-04-28
+359,359,23:09 BVN7520,,Tallahassee (TLH),FedEx C208 (N741FX),Landed 22:52,2021-04-28
+360,360,23:11,DL1473,Boston (BOS),Delta Air Lines A320 (N319US),Landed 23:09,2021-04-28
+361,361,23:13,DL2354,New York (JFK),Delta Air Lines B738 (N384DA),Landed 22:25,2021-04-28
+362,362,23:17,AA1673,Philadelphia (PHL),American Airlines A320 (N122US),Landed 22:42,2021-04-28
+363,363,23:20 WN4690,,Chicago (MDW),Southwest Airlines B738 (N8695D),Landed 23:14,2021-04-28
+364,364,23:24 BVN7521,,Tallahassee (TLH),Baron Aviation Services C208,Landed 23:09,2021-04-28
+365,365,23:45 C27521,,Tallahassee (TLH),Mountain Air Cargo C208,Unknown,2021-04-28
+366,366,23:52 DL1162,,Salt Lake City (SLC),Delta Air Lines B739 (N930DZ),Landed 23:38,2021-04-28
+367,367,23:53,UA259,Denver (DEN),United Airlines B752 (N17104),Landed 23:28,2021-04-28
+368,368,23:53 BVN7522,,Tallahassee (TLH),FedEx C208 (N934FE),Landed 23:39,2021-04-28
+369,369,23:54 AA2188,,Miami (MIA),American Airlines B738 (N934NN),Landed 23:33,2021-04-28
+370,370,23:55 DL2117,,Detroit (DTW),Delta Air Lines A321 (N336DX),Landed 23:44,2021-04-28
+371,371,23:59 F91210,,St. Louis (STL),Frontier (Parish&Daisy the Burrowing Owls Livery) A20N (N371FR),Landed 23:21,2021-04-28
+372,372,23:59 NK1264,,San Juan (SJU),Spirit Airlines A320 (N644NK),Landed 00:16,2021-04-28
+0,0,00:04,DL1114,Atlanta (ATL),Delta Air Lines B753 (N595NW),Landed 23:51,2021-04-29
+1,1,00:16 C27522,,Tallahassee (TLH),Mountain Air Cargo C208,Unknown,2021-04-29
+2,2,00:19 NK38,,Dallas (DFW),Spirit Airlines A319 (N535NK),Landed 01:02,2021-04-29
+3,3,00:22 AA2092,,Charlotte (CLT),American Airlines A321 (N586UW),Landed 23:58,2021-04-29
+4,4,00:45 DL1427,,Minneapolis (MSP),Delta Air Lines B752 (N6716C),Landed 00:06,2021-04-29
+5,5,01:00 NK9110,,Melbourne (MLB),Spirit Airlines A321 (N678NK),Landed 00:25,2021-04-29
+6,6,05:00 NK143,,Aguadilla (BQN),Spirit Airlines A320 (N615NK),Landed 04:26,2021-04-29
+7,7,05:01 B6802,,Salt Lake City (SLC),JetBlue Airways A321 (N994JL),Landed 04:56,2021-04-29
+8,8,05:03,F91102,Las Vegas (LAS),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 04:33,2021-04-29
+9,9,05:18 NK893,,San Juan (SJU),Spirit Airlines A320 (N629NK),Landed 04:44,2021-04-29
+10,10,05:19 5X1328,,Albany (ABY),UPS B752 (N470UP),Landed 04:37,2021-04-29
+11,11,05:26 5X1324,,Philadelphia (PHL),UPS A306 (N143UP),Landed 05:07,2021-04-29
+12,12,05:42 5X1326,,Louisville (SDF),UPS MD11 (N281UP),Landed 06:12,2021-04-29
+13,13,05:43 FX1409,,Memphis (MEM),FedEx B752 (N993FD),Landed 05:47,2021-04-29
+14,14,06:00,F9678,Denver (DEN),Frontier (Cubby the Bear Livery) A321 (N714FR),Landed 05:50,2021-04-29
+15,15,06:00 5X1336,,Dallas (DFW),UPS B752 (N410UP),Landed 07:04,2021-04-29
+16,16,06:15 FX1458,,Memphis (MEM),FedEx MD11 (N523FE),Landed 06:30,2021-04-29
+17,17,06:17 F9105,,San Juan (SJU),Frontier (Ichabod the Whooping Crane Livery) A20N (N358FR),Landed 05:44,2021-04-29
+18,18,06:24,UA2410,Los Angeles (LAX),United Airlines B738 (N14240),Landed 06:20,2021-04-29
+19,19,06:31 AS38,,Seattle (SEA),Alaska Airlines B739 (N413AS),Landed 06:56,2021-04-29
+20,20,07:30,DL543,Los Angeles (LAX),Delta Air Lines B739 (N823DN),Landed 07:21,2021-04-29
+21,21,08:04 AA9781,,Philadelphia (PHL),American Airlines A321 (N904AA),Landed 07:21,2021-04-29
+22,22,08:18 DL1763,,Cincinnati (CVG),Delta Air Lines B738 (N3752),Landed 08:02,2021-04-29
+23,23,08:29 NK1095,,Philadelphia (PHL),Spirit Airlines A320 (N696NK),Landed 08:00,2021-04-29
+24,24,08:35 NK1101,,Charlotte (CLT),Spirit Airlines A20N (N931NK),Landed 08:02,2021-04-29
+25,25,08:35 WN992,,Fort Lauderdale (FLL),Southwest Airlines B737 (N465WN),Landed 08:16,2021-04-29
+26,26,08:36 NK1227,,New York (EWR),Spirit Airlines A20N (N903NK),Landed 08:07,2021-04-29
+27,27,08:38 DL651,,Detroit (DTW),Delta Air Lines B752 (N688DL),Landed 08:17,2021-04-29
+28,28,08:39 NK1209,,Atlanta (ATL),Spirit Airlines A320 (N617NK),Landed 08:27,2021-04-29
+29,29,08:40 NK576,,Detroit (DTW),Spirit Airlines A320 (N614NK),Landed 08:29,2021-04-29
+30,30,08:43,B6327,New York (EWR),JetBlue Airways A321 (N973JT),Landed 08:06,2021-04-29
+31,31,08:43,F91165,Philadelphia (PHL),Frontier (Miracle the Seagull Livery) A20N (N350FR),Landed 09:16,2021-04-29
+32,32,08:45 WN377,,Baltimore (BWI),Southwest Airlines B738 (N8519R),Landed 08:18,2021-04-29
+33,33,08:52 DL1633,,Atlanta (ATL),Delta Air Lines B739 (N890DN),Landed 09:30,2021-04-29
+34,34,08:55 WN158,,Atlanta (ATL),Southwest Airlines B737 (N951WN),Landed 08:41,2021-04-29
+35,35,09:01 B6737,,Windsor Locks (BDL),JetBlue Airways (Boston Bruins Livery) A320 (N632JB),Landed 08:32,2021-04-29
+36,36,09:09 B6227,,San Juan (SJU),JetBlue Airways (Boston Red Sox livery) A320 (N605JB),Landed 08:53,2021-04-29
+37,37,09:10 WN1552,,Philadelphia (PHL),Southwest Airlines B38M (N8716B),Landed 08:38,2021-04-29
+38,38,09:14,B6151,Boston (BOS),JetBlue Airways A321 (N997JL),Landed 08:47,2021-04-29
+39,39,09:34,F91010,Atlanta (ATL),Frontier (Wylie the Coati Livery) A20N (N361FR),Landed 09:10,2021-04-29
+40,40,09:35 WN280,,Nashville (BNA),Southwest Airlines B737 (N219WN),Landed 09:32,2021-04-29
+41,41,09:35 WN310,,Buffalo (BUF),Southwest Airlines B738 (N8520Q),Landed 09:14,2021-04-29
+42,42,09:35 WN3244,,New Orleans (MSY),Southwest Airlines B38M (N8725L),Landed 11:30,2021-04-29
+43,43,09:36 AA1715,,Charlotte (CLT),American Airlines A321 (N583UW),Landed 09:09,2021-04-29
+44,44,09:38 NK1673,,Columbus (CMH),Spirit Airlines A320 (N635NK),Landed 09:11,2021-04-29
+45,45,09:40 DL1746,,Detroit (DTW),Delta Air Lines B739 (N805DN),Landed 09:17,2021-04-29
+46,46,09:40 WN1971,,St. Louis (STL),Southwest Airlines B738 (N8646B),Landed 09:19,2021-04-29
+47,47,09:43,AA1712,Miami (MIA),American Airlines B738 (N866NN),Landed 09:40,2021-04-29
+48,48,09:44,AA1979,Philadelphia (PHL),American Airlines A321 (N191UW),Landed 09:13,2021-04-29
+49,49,09:46 2I565,,Cincinnati (CVG),21 Air B762 (N999YV),Landed 09:35,2021-04-29
+50,50,09:50 B6195,,White Plains (HPN),JetBlue Airways E190 (N279JB),Landed 09:11,2021-04-29
+51,51,09:50,F91259,New York (EWR),Frontier (Cliff the Mountain Goat Livery) A20N (N305FR),Landed 09:18,2021-04-29
+52,52,09:50 NK317,,Indianapolis (IND),Spirit Airlines A320 (N603NK),Landed 09:24,2021-04-29
+53,53,09:50 WN532,,Indianapolis (IND),Southwest Airlines B737 (N248WN),Landed 09:28,2021-04-29
+54,54,09:50 WN1141,,Chicago (MDW),Southwest Airlines B737 (N965WN),Unknown,2021-04-29
+55,55,09:50 WN5636,,Baltimore (BWI),Southwest Airlines B737 (N758SW),Landed 09:21,2021-04-29
+56,56,09:53 DL1533,,Atlanta (ATL),Delta Air Lines B752 (N671DN),Landed 09:39,2021-04-29
+57,57,09:55 NK708,,Cleveland (CLE),Spirit Airlines A320 (N633NK),Landed 09:52,2021-04-29
+58,58,09:56 DL2058,,Raleigh-Durham (RDU),Delta Air Lines A319 (N363NB),Landed 09:34,2021-04-29
+59,59,10:00 WN5867,,Louisville (SDF),Southwest Airlines B737 (N961WN),Landed 09:37,2021-04-29
+60,60,10:01 NK198,,Fort Lauderdale (FLL),Spirit Airlines A20N (N936NK),Landed 09:49,2021-04-29
+61,61,10:03,DL1094,New York (LGA),Delta Air Lines B738 (N373DA),Landed 09:27,2021-04-29
+62,62,10:10 WN127,,Albany (ALB),Southwest Airlines B737 (N7734H),Landed 09:44,2021-04-29
+63,63,10:10 WN1345,,Manchester (MHT),Southwest Airlines B737 (N210WN),Landed 09:56,2021-04-29
+64,64,10:10 WN1640,,Pittsburgh (PIT),Southwest Airlines B737 (N929WN),Landed 09:47,2021-04-29
+65,65,10:10 WN1663,,Providence (PVD),Southwest Airlines B738 (N8659D),Landed 09:42,2021-04-29
+66,66,10:12,AA1647,Chicago (ORD),American Airlines A321 (N118NN),Landed 09:50,2021-04-29
+67,67,10:15 WN1855,,San Juan (SJU),Southwest Airlines B737 (N262WN),Landed 10:01,2021-04-29
+68,68,10:19,F91065,Cincinnati (CVG),Frontier (Grizwald the Grizzly Bear Livery) A320 (N211FR),Unknown,2021-04-29
+69,69,10:22 DL1442,,Boston (BOS),Delta Air Lines (SkyTeam Livery) B738 (N3761R),Landed 10:50,2021-04-29
+70,70,10:23 B61223,,Washington (DCA),JetBlue Airways A320 (N561JB),Landed 09:46,2021-04-29
+71,71,10:23 DL1044,,Minneapolis (MSP),Delta Air Lines B739 (N898DN),Landed 09:55,2021-04-29
+72,72,10:24 NK830,,Houston (IAH),Spirit Airlines A320 (N604NK),Landed 10:03,2021-04-29
+73,73,10:24 UA2079,,Cleveland (CLE),United Airlines B738 (N73299),Landed 10:06,2021-04-29
+74,74,10:25 WN212,,Dallas (DAL),Southwest Airlines B738 (N8562Z),Landed 10:14,2021-04-29
+75,75,10:37 DL656,,Detroit (DTW),Delta Air Lines B752 (N6711M),Landed 10:28,2021-04-29
+76,76,10:37 NK1042,,San Juan (SJU),Spirit Airlines A321 (N669NK),Landed 10:24,2021-04-29
+77,77,10:41 NK2962,,Dallas (DFW),Spirit Airlines A320 (N642NK),Landed 10:21,2021-04-29
+78,78,10:42 NK2848,,Detroit (DTW),Spirit Airlines A321 (N677NK),Landed 10:26,2021-04-29
+79,79,10:43 FX2773,,Indianapolis (IND),FedEx A306 (N692FE),Landed 11:15,2021-04-29
+80,80,10:44 AA2695,,Charlotte (CLT),American Airlines A321 (N194UW),Landed 10:12,2021-04-29
+81,81,10:50 WN588,,Washington (DCA),Southwest Airlines B737 (N479WN),Landed 16:47,2021-04-29
+82,82,10:50 WN1179,,Kansas City (MCI),Southwest Airlines B738 (N8550Q),Landed 10:33,2021-04-29
+83,83,10:50 WN1374,,Milwaukee (MKE),Southwest Airlines B737 (N7837A),Landed 10:30,2021-04-29
+84,84,10:50 WN1554,,Philadelphia (PHL),Southwest Airlines B738 (N8536Z),Landed 10:10,2021-04-29
+85,85,10:55 DL1575,,Atlanta (ATL),Delta Air Lines B753 (N590NW),Landed 12:00,2021-04-29
+86,86,10:57 SY341,,Minneapolis (MSP),Sun Country Airlines B738 (N834SY),Landed 10:40,2021-04-29
+87,87,11:01 B61697,,Philadelphia (PHL),JetBlue Airways A320 (N621JB),Landed 10:32,2021-04-29
+88,88,11:03 AA1666,,Washington (DCA),American Airlines A319 (N814AW),Unknown,2021-04-29
+89,89,11:08,F91155,Chicago (ORD),Frontier (Sammy the Squirrel Livery) A320 (N232FR),Landed 10:48,2021-04-29
+90,90,11:13 NK554,,New Orleans (MSY),Spirit Airlines A320 (N616NK),Landed 10:53,2021-04-29
+91,91,11:14 B62751,,Boston (BOS),JetBlue Airways (Inspiring Humanity Livery) A320 (N598JB),Landed 10:46,2021-04-29
+92,92,11:15,UA1890,New York (EWR),United Airlines B738 (N14235),Landed 10:56,2021-04-29
+93,93,11:15 WN246,,Grand Rapids (GRR),Southwest Airlines B738 (N8686A),Landed 10:57,2021-04-29
+94,94,11:18,F91280,Miami (MIA),Frontier (Sheldon the Sea Turtle Livery) A320 (N210FR),Landed 10:49,2021-04-29
+95,95,11:19,AA1684,Philadelphia (PHL),American Airlines A321 (N167US),Landed 10:41,2021-04-29
+96,96,11:23,DL1065,New York (JFK),Delta Air Lines B738 (N3750D),Landed 10:38,2021-04-29
+97,97,11:25,3M75,Key West (EYW),Silver Airways AT46 (N403SV),Landed 11:09,2021-04-29
+98,98,11:25,,St. Augustine (UST),- SR22 (N469CD),Landed 11:12,2021-04-29
+99,99,11:30,B683,New York (JFK),JetBlue Airways A320 (N580JB),Landed 11:01,2021-04-29
+100,100,11:30 WN213,,Houston (HOU),Southwest Airlines B738 (N8654B),Landed 11:17,2021-04-29
+101,101,11:30 WN711,,Chicago (MDW),Southwest Airlines B737 (N752SW),Landed 11:20,2021-04-29
+102,102,11:31 B6655,,Syracuse (SYR),JetBlue Airways A320 (N653JB),Landed 11:20,2021-04-29
+103,103,11:35 WN682,,Baltimore (BWI),Southwest Airlines B737 (N420WN),Landed 11:18,2021-04-29
+104,104,11:39,F91043,Cleveland (CLE),Frontier (Wilbur the Whitetail Livery) A20N (N301FR),Landed 11:24,2021-04-29
+105,105,11:46 NK929,,Chicago (ORD),Spirit Airlines A321 (N680NK),Landed 11:32,2021-04-29
+106,106,11:47,F91087,Washington (IAD),Frontier (Marshall the Ring-tailed Cat Livery) A20N (N365FR),Landed 11:16,2021-04-29
+107,107,11:48 NK1217,,Columbus (CMH),Spirit Airlines A320 (N644NK),Landed 11:35,2021-04-29
+108,108,11:51,F91051,Charlotte (CLT),Frontier Airlines (N378FR),Landed 11:27,2021-04-29
+109,109,11:55,DL1774,Atlanta (ATL),Delta Air Lines B753 (N588NW),Landed 11:48,2021-04-29
+110,110,12:00,UA2403,New York (EWR),United Airlines B738 (N33286),Landed 11:28,2021-04-29
+111,111,12:00 WN1041,,Denver (DEN),Southwest Airlines B738 (N8643A),Landed 11:37,2021-04-29
+112,112,12:02,B62327,New York (EWR),JetBlue Airways A320 (N599JB),Landed 11:22,2021-04-29
+113,113,12:10,,Tampa (TPA),- PAY1 (N96JE),Landed 12:33,2021-04-29
+114,114,12:11 NK321,,Raleigh-Durham (RDU),Spiriti Airlines A20N (N906NK),Landed 12:05,2021-04-29
+115,115,12:13 B685,,Buffalo (BUF),JetBlue Airways E190 (N306JB),Landed 11:34,2021-04-29
+116,116,12:15,F91163,Philadelphia (PHL),Frontier (Seymour the Walrus Livery) A321 (N716FR),Landed 12:03,2021-04-29
+117,117,12:15 WN5426,,Pittsburgh (PIT),Southwest Airlines B737 (N481WN),Landed 11:50,2021-04-29
+118,118,12:15 WN5455,,Dallas (DAL),Southwest Airlines B737 (N940WN),Landed 11:56,2021-04-29
+119,119,12:19,Y4980,Mexico City (MEX),Volaris A320 (XA-VLP),Landed 11:57,2021-04-29
+120,120,12:20 WN806,,Atlanta (ATL),Southwest Airlines B738 (N8609A),Landed 12:14,2021-04-29
+121,121,12:25 B61334,,San Juan (SJU),JetBlue Airways A320 (N589JB),Landed 12:23,2021-04-29
+122,122,12:26 NK309,,Philadelphia (PHL),Spirit Airlines A321 (N662NK),Landed 11:53,2021-04-29
+123,123,12:29,F91198,San Antonio (SAT),Frontier (Yukon the Caribou Livery) A320 (N201FR),Landed 12:25,2021-04-29
+124,124,12:31,AA1710,Dallas (DFW),American Airlines A21N (N402AN),Landed 12:21,2021-04-29
+125,125,12:35 DL2076,,Minneapolis (MSP),Delta Air Lines B752 (N676DL),Landed 12:10,2021-04-29
+126,126,12:35 WN392,,Raleigh-Durham (RDU),Southwest Airlines B737 (N440LV),Landed 12:11,2021-04-29
+127,127,12:36 NK2077,,Baltimore (BWI),Spirit Airlines A321 (N660NK),Landed 12:31,2021-04-29
+128,128,12:38 DL2081,,Detroit (DTW),Delta Air Lines A321 (N375DN),Landed 12:28,2021-04-29
+129,129,12:45 B6107,,Ponce (PSE),JetBlue Airways E190 (N231JB),Landed 12:20,2021-04-29
+130,130,12:45,F91250,Houston (IAH),Frontier (Cubby the Bear Livery) A321 (N714FR),Landed 13:07,2021-04-29
+131,131,12:45,UA2425,New York (EWR),United Airlines B752 (N12109),Landed 12:18,2021-04-29
+132,132,12:46,B6351,Boston (BOS),JetBlue Airways A320 (N639JB),Landed 12:20,2021-04-29
+133,133,12:50 WN240,,Baltimore (BWI),Southwest Airlines B738 (N8553W),Landed 12:31,2021-04-29
+134,134,12:50 WN5227,,St. Louis (STL),Southwest Airlines B737 (N944WN),Landed 12:28,2021-04-29
+135,135,12:55 WN1220,,Dallas (DAL),Southwest Airlines (Classic Retro Livery) B737 (N711HK),Landed 12:35,2021-04-29
+136,136,12:55 WN1351,,Louisville (SDF),Southwest Airlines B737 (N968WN),Landed 12:47,2021-04-29
+137,137,12:55 WN1649,,Fort Myers (RSW),Southwest Airlines B737 (N7741C),Landed 12:36,2021-04-29
+138,138,12:57 UA510,,Chicago (ORD),United Airlines B753 (N78866),Landed 12:52,2021-04-29
+139,139,12:58 AA1649,,Charlotte (CLT),American Airlines A321 (N917UY),Landed 12:39,2021-04-29
+140,140,12:58 DL2420,,Atlanta (ATL),Delta Air Lines B763 (N175DN),Landed 12:38,2021-04-29
+141,141,13:04 NK303,,Atlantic City (ACY),Spirit Airlines A20N (N907NK),Landed 12:50,2021-04-29
+142,142,13:05 F9680,,Denver (DEN),Frontier (Powder the Polar Bear Livery) A321 (N711FR),Landed 12:42,2021-04-29
+143,143,13:05 WN1716,,Chicago (MDW),Southwest Airlines B737 (N927WN),Landed 12:46,2021-04-29
+144,144,13:05 WN5425,,Houston (HOU),Southwest Airlines (Arizona One Livery) B737 (N955WN),Landed 12:41,2021-04-29
+145,145,13:13 UA2098,,Washington (IAD),United Airlines B753 (N57857),Landed 12:55,2021-04-29
+146,146,13:15 UA413,,Houston (IAH),United Airlines B39M (N47505),Landed 13:23,2021-04-29
+147,147,13:20 3M146,,Greenville-Spartanburg (GSP),Silver Airways AT76 (N703SV),Landed 13:10,2021-04-29
+148,148,13:23 AA1121,,Chicago (ORD),American Airlines B738 (N305NX),Landed 13:01,2021-04-29
+149,149,13:24,,New Orleans (MSY),- C240 (N469TX),Landed 13:33,2021-04-29
+150,150,13:31 AA2495,,Miami (MIA),American Airlines B738 (N819NN),Landed 13:07,2021-04-29
+151,151,13:31 F91212,,St. Louis (STL),Frontier (Betty the Bluebird Livery) A320 (N230FR),Landed 13:26,2021-04-29
+152,152,13:33 DL407,,Minneapolis (MSP),Delta Air Lines A321 (N376DN),Landed 13:03,2021-04-29
+153,153,13:40 WN1102,,Memphis (MEM),Southwest Airlines B737 (N498WN),Landed 13:34,2021-04-29
+154,154,13:42 NK246,,Boston (BOS),Spirit Airlines A20N (N932NK),Landed 13:48,2021-04-29
+155,155,13:42 NK542,,Cancun (CUN),Spirit Airlines A319 (N504NK),Landed 13:41,2021-04-29
+156,156,13:43 B61736,,Aguadilla (BQN),JetBlue Airways (I ♥ NY Livery) A320 (N586JB),Landed 13:35,2021-04-29
+157,157,13:45 WN661,,Denver (DEN),Southwest Airlines B738 (N8559Q),Landed 13:29,2021-04-29
+158,158,13:45 WN5015,,Raleigh-Durham (RDU),Southwest Airlines (Missouri One Livery) B737 (N280WN),Landed 13:30,2021-04-29
+159,159,13:49 NK841,,Richmond (RIC),Spirit Airlines A20N (N915NK),Landed 13:21,2021-04-29
+160,160,13:50 AM434,,Mexico City (MEX),Aeromexico B738 (N377AR),Landed 13:50,2021-04-29
+161,161,13:50 WN1276,,Columbus (CMH),Southwest Airlines B737 (N7880D),Landed 13:31,2021-04-29
+162,162,13:53 F91127,,Milwaukee (MKE),Frontier (Colorado the Bighorn Sheep Livery) A320 (N202FR),Landed 13:42,2021-04-29
+163,163,13:55 WN933,,Houston (HOU),Southwest Airlines B737 (N269WN),Landed 14:24,2021-04-29
+164,164,13:56 DL1600,,Atlanta (ATL),Delta Air Lines B739 (N818DA),Landed 13:39,2021-04-29
+165,165,13:58 NK732,,Austin (AUS),Spirit Airlines A321 (N663NK),Landed 13:36,2021-04-29
+166,166,14:04,,Brunswick (SSI),- M20T (N1022U),Landed 13:45,2021-04-29
+167,167,14:05 WN5210,,Baltimore (BWI),Southwest Airlines B737 (N436WN),Landed 14:02,2021-04-29
+168,168,14:06 DL2398,,New York (LGA),Delta Air Lines A320 (N354NW),Landed 13:17,2021-04-29
+169,169,14:06 F91255,,Wilmington (ILG),Frontier (Skye the Blue Jay Livery) A20N (N326FR),Landed 13:33,2021-04-29
+170,170,14:09 NK117,,Detroit (DTW),Spirit Airlines A321 (N657NK),Landed 13:57,2021-04-29
+171,171,14:12 B6927,,New York (EWR),JetBlue Airways A320 (N807JB),Landed 13:37,2021-04-29
+172,172,14:12 F91039,,Buffalo (BUF),Frontier (Max the Lynx Livery) A321 (N706FR),Landed 13:39,2021-04-29
+173,173,14:12 F91111,,New York (LGA),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 13:12,2021-04-29
+174,174,14:13 SY347,,Minneapolis (MSP),Sun Country Airlines B738 (N820SY),Landed 13:52,2021-04-29
+175,175,14:15 WN1192,,St. Louis (STL),Southwest Airlines B737 (N422WN),Landed 14:00,2021-04-29
+176,176,14:20 AA1716,,Dallas (DFW),American Airlines A321 (N537UW),Landed 14:08,2021-04-29
+177,177,14:20 NK959,,Windsor Locks (BDL),Spirit Airlines A20N (N920NK),Landed 13:52,2021-04-29
+178,178,14:20 WN1260,,San Juan (SJU),Southwest Airlines B737 (N286WN),Landed 13:55,2021-04-29
+179,179,14:20 WN1720,,Milwaukee (MKE),Southwest Airlines B737 (N239WN),Landed 14:09,2021-04-29
+180,180,14:20 WN5630,,Chicago (MDW),Southwest Airlines B737 (N7743B),Landed 14:02,2021-04-29
+181,181,14:21 B6789,,New York (JFK),JetBlue Airways A321 (N994JL),Landed 13:59,2021-04-29
+182,182,14:21 DL1398,,Boston (BOS),Delta Air Lines A320 (N319US),Landed 14:58,2021-04-29
+183,183,14:24 K4364,,Los Angeles (LAX),Kalitta Air B744 (N715CK),Landed 14:18,2021-04-29
+184,184,14:29 F91266,,Kansas City (MCI),Frontier (Georgia the Painted Bunting Livery) A20N (N317FR),Landed 14:20,2021-04-29
+185,185,14:34 DL2157,,Minneapolis (MSP),Delta Air Lines B752 (N697DL),Landed 14:10,2021-04-29
+186,186,14:34 DL2541,,Salt Lake City (SLC),Delta Air Lines B739 (N856DN),Landed 14:21,2021-04-29
+187,187,14:35 DL1426,,New York (JFK),Delta Air Lines A320 (N350NA),Landed 13:57,2021-04-29
+188,188,14:39 B6451,,Boston (BOS),JetBlue Airways A320 (N834JB),Landed 14:07,2021-04-29
+189,189,14:40 AA656,,New York (LGA),American Airlines B738 (N923AN),Landed 13:54,2021-04-29
+190,190,14:40 DL542,,Los Angeles (LAX),Delta Air Lines B739 (N855DN),Landed 15:01,2021-04-29
+191,191,14:40 UP237,,Nassau (NAS),Bahamasair B735 (C6-BFD),Landed 14:21,2021-04-29
+192,192,14:42 UA730,,Chicago (ORD),United Airlines B753 (N75858),Landed 14:16,2021-04-29
+193,193,14:47 AA2544,,Charlotte (CLT),American Airlines A321 (N914UY),Landed 14:24,2021-04-29
+194,194,14:50 WN5624,,Houston (HOU),Southwest Airlines B737 (N7867A),Landed 14:27,2021-04-29
+195,195,14:50 WN5995,,Raleigh-Durham (RDU),Southwest Airlines B737 (N961WN),Landed 14:29,2021-04-29
+196,196,14:52 F91183,,Providence (PVD),Frontier (Jack the Rabbit Livery) A20N (N304FR),Landed 14:37,2021-04-29
+197,197,14:52 M6881,,New York (EWR),Amerijet International B763 (N378CX),Landed 14:52,2021-04-29
+198,198,14:53 UA1836,,New York (EWR),United Airlines B739 (N38467),Landed 14:27,2021-04-29
+199,199,14:54 AA1159,,Miami (MIA),American Airlines B38M (N316RK),Landed 15:54,2021-04-29
+200,200,14:59 NK882,,Santo Domingo (SDQ),Spirit Airlines A321 (N665NK),Landed 14:44,2021-04-29
+201,201,15:00 WN522,,Baltimore (BWI),Southwest Airlines B738 (N8695D),Landed 14:38,2021-04-29
+202,202,15:03 DL1722,,Cincinnati (CVG),Delta Air Lines B738 (N3752),Landed 14:39,2021-04-29
+203,203,15:05 WN273,,Montego Bay (MBJ),Southwest Airlines B737 (N496WN),Landed 14:54,2021-04-29
+204,204,15:09 F91215,,Syracuse (SYR),Frontier (Powder the Polar Bear Livery) A321 (N711FR),Landed 21:43,2021-04-29
+205,205,15:10 3M61,,Pensacola (PNS),Silver Airways AT76 (N702SV),Landed 15:08,2021-04-29
+206,206,15:16 DL1088,,Detroit (DTW),Delta Air Lines B753 (N595NW),Landed 15:12,2021-04-29
+207,207,15:16 NK863,,Latrobe (LBE),Spirit Airlines A320 (N614NK),Landed 15:03,2021-04-29
+208,208,15:17 CM478,,Panama City (PTY),Copa Airlines B738 (HP-1724CMP),Landed 15:15,2021-04-29
+209,209,15:18 NK1947,,Nashville (BNA),Spirit Airlines A320 (N633NK),Landed 15:10,2021-04-29
+210,210,15:19 UA755,,Denver (DEN),United Airlines B753 (N77871),Landed 14:54,2021-04-29
+211,211,15:23 UA1217,,Houston (IAH),United Airlines B738 (N79521),Landed 15:06,2021-04-29
+212,212,15:30 AS782,,Portland (PDX),Alaska Airlines B739 (N495AS),Landed 15:14,2021-04-29
+213,213,15:33 F91286,,Phoenix (PHX),Frontier (Stretch the Great Blue Heron Livery) A20N (N334FR),Landed 15:31,2021-04-29
+214,214,15:38 DL1072,,Atlanta (ATL),Delta Air Lines B752 (N659DL),Landed 15:21,2021-04-29
+215,215,15:40 NK58,,New York (EWR),Spirit Airlines A321 (N684NK),Landed 15:19,2021-04-29
+216,216,15:40 WN856,,Nashville (BNA),Southwest Airlines B738 (N8508W),Landed 15:23,2021-04-29
+217,217,15:40 WN1145,,Indianapolis (IND),Southwest Airlines B737 (N203WN),Landed 15:18,2021-04-29
+218,218,15:51 F99210,,Huntsville (HSV),Frontier Airlines A320,Canceled,2021-04-29
+219,219,15:55 WN177,,Norfolk (ORF),Southwest Airlines B738 (N8679A),Landed 15:32,2021-04-29
+220,220,16:03 DL854,,Raleigh-Durham (RDU),Delta Air Lines A319 (N330NB),Landed 15:35,2021-04-29
+221,221,16:05 WN1367,,Providence (PVD),Southwest Airlines B737 (N7845A),Landed 16:08,2021-04-29
+222,222,16:05 WN1712,,Islip (ISP),Southwest Airlines B737 (N967WN),Landed 15:50,2021-04-29
+223,223,16:10 NK1322,,Kansas City (MCI),Spirit Airlines A20N (N931NK),Landed 15:46,2021-04-29
+224,224,16:11 NK1746,,Charleston (CRW),Spirit Airlines A320 (N642NK),Landed 15:37,2021-04-29
+225,225,16:14 B61451,,Boston (BOS),JetBlue Airways (Boston Celtics Livery) A320 (N595JB),Landed 15:45,2021-04-29
+226,226,16:17 B61527,,New York (EWR),JetBlue Airways A321 (N950JT),Landed 15:40,2021-04-29
+227,227,16:20 NK884,,San Juan (SJU),Spirit Airlines A320 (N696NK),Landed 15:51,2021-04-29
+228,228,16:20 3M70,,Key West (EYW),Silver Airways AT46 (N407SV),Landed 16:03,2021-04-29
+229,229,16:23 F91187,,Portland (PWM),Frontier (Crockett the Raccoon Livery) A321 (N720FR),Landed 16:12,2021-04-29
+230,230,16:27 B61001,,New York (JFK),JetBlue Airways A320 (N579JB),Landed 16:42,2021-04-29
+231,231,16:29 5X5528,,Louisville (SDF),UPS B752 (N450UP),Landed 16:37,2021-04-29
+232,232,16:30 DL797,,Salt Lake City (SLC),Delta Air Lines B739 (N820DN),Landed 16:16,2021-04-29
+233,233,16:30 WN549,,Cincinnati (CVG),Southwest Airlines B738 (N8562Z),Landed 16:30,2021-04-29
+234,234,16:30 5X2292,,Dallas (DFW),UPS B763 (N342UP),Landed 16:23,2021-04-29
+235,235,16:33 NK726,,Las Vegas (LAS),Spirit Airlines A20N (N904NK),Landed 16:14,2021-04-29
+236,236,16:35 NK927,,Chicago (ORD),Spirit Airlines A321 (N675NK),Landed 16:47,2021-04-29
+237,237,16:35 WN5974,,Birmingham (BHM),Southwest Airlines B38M (N8725L),Landed 16:18,2021-04-29
+238,238,16:37 AA1705,,Dallas (DFW),American Airlines A321 (N544UW),Landed 16:58,2021-04-29
+239,239,16:38 B6969,,Richmond (RIC),JetBlue Airways A321 (N997JL),Landed 16:40,2021-04-29
+240,240,16:40 NK1021,,Punta Cana (PUJ),Spirit Airlines A319 (N535NK),Landed 16:22,2021-04-29
+241,241,16:47 AA2525,,Chicago (ORD),American Airlines A321 (N979UY),Landed 16:10,2021-04-29
+242,242,16:50 AS760,,San Diego (SAN),Alaska Airlines B739 (N407AS),Landed 16:44,2021-04-29
+243,243,16:52 DL1546,,Atlanta (ATL),Delta Air Lines B752 (N823DX),Landed 16:29,2021-04-29
+244,244,16:55 WN408,,San Juan (SJU),Southwest Airlines B738 (N500WR),Landed 16:27,2021-04-29
+245,245,16:56 DL2538,,Detroit (DTW),Delta Air Lines B752 (N674DL),Landed 16:42,2021-04-29
+246,246,16:56 NK277,,St. Thomas (STT),Spirit Airlines A20N (N903NK),Landed 17:21,2021-04-29
+247,247,16:57 AA2214,,Charlotte (CLT),American Airlines A321 (N924US),Landed 16:50,2021-04-29
+248,248,17:02 F91045,,Cleveland (CLE),Frontier (Otto the Owl Livery) A321 (N701FR),Landed 16:49,2021-04-29
+249,249,17:03 F91239,,Boston (BOS),Frontier (Eccles the Ermine Livery) A20N (N339FR),Landed 16:34,2021-04-29
+250,250,17:04 DL502,,Seattle (SEA),Delta Air Lines B739 (N814DN),Landed 16:32,2021-04-29
+251,251,17:06 F91167,,Philadelphia (PHL),Frontier (Xavier the Mountain Goat Livery) A321 (N722FR),Landed 16:33,2021-04-29
+252,252,17:10 WN591,,St. Louis (STL),Southwest Airlines B737 (N427WN),Landed 17:30,2021-04-29
+253,253,17:15 WN1056,,Austin (AUS),Southwest Airlines B737 (N952WN),Landed 17:03,2021-04-29
+254,254,17:15 WN1684,,San Antonio (SAT),Southwest Airlines B737 (N432WN),Landed 16:59,2021-04-29
+255,255,17:18,,Nassau (NAS),- E55P,Unknown,2021-04-29
+256,256,17:20 AS16,,Seattle (SEA),Alaska Airlines (Boeing 100 years strong Livery) B739 (N248AK),Landed 17:02,2021-04-29
+257,257,17:20 B61034,,San Juan (SJU),JetBlue Airways A320 (N568JB),Landed 16:53,2021-04-29
+258,258,17:20 WN517,,Baltimore (BWI),Southwest Airlines B737 (N240WN),Landed 16:56,2021-04-29
+259,259,17:24 AA2547,,Phoenix (PHX),American Airlines A320 (N680AW),Landed 17:11,2021-04-29
+260,260,17:25 F9107,,San Juan (SJU),Frontier (Flower the Hummingbird Livery) A20N (N318FR),Landed 17:01,2021-04-29
+261,261,17:25 WN370,,Windsor Locks (BDL),Southwest Airlines B737 (N7734H),Landed 17:45,2021-04-29
+262,262,17:25 WN752,,Houston (HOU),Southwest Airlines B737 (N7736A),Landed 17:24,2021-04-29
+263,263,17:25 WN930,,New Orleans (MSY),Southwest Airlines B737 (N941WN),Landed 17:09,2021-04-29
+264,264,17:26 AA398,,Dallas (DFW),American Airlines A321 (N188US),Landed 17:12,2021-04-29
+265,265,17:27 AA2503,,Washington (DCA),American Airlines A319 (N814AW),Landed 16:54,2021-04-29
+266,266,17:28 DL2077,,Minneapolis (MSP),Delta Air Lines B739 (N889DN),Landed 17:05,2021-04-29
+267,267,17:30 F91095,,Islip (ISP),Frontier (Watson the Key Deer Livery) A20N (N372FR),Landed 16:58,2021-04-29
+268,268,17:32 AA483,,Philadelphia (PHL),American Airlines B738 (N964NN),Landed 17:03,2021-04-29
+269,269,17:35 WN1140,,New York (LGA),Southwest Airlines B737 (N283WN),Landed 16:55,2021-04-29
+270,270,17:37 AA2512,,Los Angeles (LAX),American Airlines A321 (N134AN),Landed 17:19,2021-04-29
+271,271,17:43 UA311,,Houston (IAH),United Airlines B738 (N37290),Landed 17:31,2021-04-29
+272,272,17:44 B6119,,Albany (ALB),JetBlue Airways E190 (N279JB),Landed 17:15,2021-04-29
+273,273,17:45 WN1326,,Chicago (MDW),Southwest Airlines B738 (N8607M),Landed 17:29,2021-04-29
+274,274,17:50 DL541,,New York (LGA),Delta Air Lines A320 (N343NW),Landed 17:28,2021-04-29
+275,275,17:50 WN695,,Nashville (BNA),Southwest Airlines B738 (N8513F),Landed 17:34,2021-04-29
+276,276,17:55 WN368,,Dallas (DAL),Southwest Airlines B737 (N733SA),Landed 18:16,2021-04-29
+277,277,17:59 DL1749,,Los Angeles (LAX),Delta Air Lines B739 (N830DN),Landed 17:52,2021-04-29
+278,278,18:00 DL1553,,Atlanta (ATL),Delta Air Lines B753 (N586NW),Landed 18:17,2021-04-29
+279,279,18:00 UA1432,,Los Angeles (LAX),United Airlines B739 (N66803),Landed 17:47,2021-04-29
+280,280,18:00 WN5905,,Buffalo (BUF),Southwest Airlines B738 (N8536Z),Landed 17:51,2021-04-29
+281,281,18:01 AM436,,Mexico City (MEX),Aeromexico Connect E190 (XA-JAC),Landed 18:07,2021-04-29
+282,282,18:03 NK1474,,Medellin (MDE),Spirit Airlines A320 (N617NK),Landed 18:22,2021-04-29
+283,283,18:07 5X2326,,Louisville (SDF),UPS MD11 (N253UP),Landed 18:31,2021-04-29
+284,284,18:08 B6495,,White Plains (HPN),JetBlue Airways A320 (N646JB),Landed 18:00,2021-04-29
+285,285,18:08 B62093,,Raleigh-Durham (RDU),JetBlue Airways E190 (N298JB),Landed 17:40,2021-04-29
+286,286,18:11 F91243,,Baltimore (BWI),Frontier (Sammy the Squirrel Livery) A320 (N232FR),Landed 17:55,2021-04-29
+287,287,18:14 UA272,,New York (EWR),United Airlines B738 (N14242),Landed 18:01,2021-04-29
+288,288,18:15 WN238,,Denver (DEN),Southwest Airlines B737 (N908WN),Landed 17:50,2021-04-29
+289,289,18:17 NK629,,New York (LGA),Spirit Airlines A321 (N669NK),Landed 17:38,2021-04-29
+290,290,18:23 F930,,Cancun (CUN),Frontier (Yukon the Caribou Livery) A320 (N201FR),Landed 19:29,2021-04-29
+291,291,18:25 AS1302,,San Francisco (SFO),Alaska Airlines B738 (N556AS),Landed 18:18,2021-04-29
+292,292,18:25 F91012,,Atlanta (ATL),Frontier (Betty the Bluebird Livery) A320 (N230FR),Landed 18:13,2021-04-29
+293,293,18:25 NK229,,Myrtle Beach (MYR),Spirit Airlines A320 (N640NK),Landed 18:34,2021-04-29
+294,294,18:30 WN1974,,Birmingham (BHM),Southwest Airlines B738 (N8646B),Landed 18:23,2021-04-29
+295,295,18:31 UA622,,Chicago (ORD),United Airlines B753 (N57852),Landed 18:40,2021-04-29
+296,296,18:34 DL2200,,Cincinnati (CVG),Delta Air Lines B738 (N3766),Landed 18:33,2021-04-29
+297,297,18:34 F91063,,Cincinnati (CVG),Frontier (Mitch the Wolverine Livery) A321 (N713FR),Landed 20:00,2021-04-29
+298,298,18:35 WN401,,Fort Lauderdale (FLL),Southwest Airlines B737 (N7751A),Landed 18:07,2021-04-29
+299,299,18:37 AA2490,,Dallas (DFW),American Airlines A321 (N155NN),Landed 18:25,2021-04-29
+300,300,18:37 DL760,,New York (JFK),Delta Air Lines B738 (N371DA),Landed 17:53,2021-04-29
+301,301,18:39 B6199,,San Juan (SJU),JetBlue Airways A321 (N954JB),Landed 18:11,2021-04-29
+302,302,18:40 WN5255,,Chicago (MDW),Southwest Airlines B737 (N7837A),Landed 18:20,2021-04-29
+303,303,18:40 WN5962,,Austin (AUS),Southwest Airlines B738 (N8502Z),Landed 18:14,2021-04-29
+304,304,18:40 3M144,,Columbia (CAE),Silver Airways AT76 (N703SV),Landed 18:27,2021-04-29
+305,305,18:42 B684,,New York (JFK),JetBlue Airways A21N (N2017J),Landed 18:53,2021-04-29
+306,306,18:42 FX3712,,Indianapolis (IND),FedEx B752 (N772FD),Unknown,2021-04-29
+307,307,18:43 NK2004,,Baltimore (BWI),Spirit Airlines A320 (N627NK),Landed 18:30,2021-04-29
+308,308,18:46 AA2380,,Charlotte (CLT),American Airlines B738 (N832NN),Landed 18:25,2021-04-29
+309,309,18:52 F91138,,New Orleans (MSY),Frontier (Cubby the Bear Livery) A321 (N714FR),Landed 18:29,2021-04-29
+310,310,18:54 NK433,,Boston (BOS),Spirit Airlines A20N (N936NK),Landed 18:37,2021-04-29
+311,311,19:01 B61075,,Providence (PVD),JetBlue Airways A320 (N524JB),Landed 18:47,2021-04-29
+312,312,19:05,DL2422,Atlanta (ATL),Delta Air Lines B763 (N175DN),Landed 18:45,2021-04-29
+313,313,19:09,B6551,Boston (BOS),JetBlue Airways A320 (N569JB),Unknown,2021-04-29
+314,314,19:10 B62223,,Washington (DCA),JetBlue Airways E190 (N238JB),Landed 18:43,2021-04-29
+315,315,19:11,UA1683,Denver (DEN),United Airlines B738 (N76502),Landed 19:00,2021-04-29
+316,316,19:13 F921,,Punta Cana (PUJ),Frontier (Wilbur the Whitetail Livery) A20N (N301FR),Landed 18:53,2021-04-29
+317,317,19:15 F999,,Santo Domingo (SDQ),Frontier (Marshall the Ring-tailed Cat Livery) A20N (N365FR),Landed 18:37,2021-04-29
+318,318,19:15 WN2345,,Phoenix (PHX),Southwest Airlines B738 (N8552Z),Landed 19:10,2021-04-29
+319,319,19:15 WN5936,,New Orleans (MSY),Southwest Airlines (Arizona One Livery) B737 (N955WN),Landed 18:49,2021-04-29
+320,320,19:15,,Nassau (NAS),- BE20 (N115CT),Landed 19:22,2021-04-29
+321,321,19:20 WN1275,,Baltimore (BWI),Southwest Airlines B737 (N237WN),Landed 19:14,2021-04-29
+322,322,19:24 NK1691,,Pittsburgh (PIT),Spirit Airlines A320 (N650NK),Landed 19:11,2021-04-29
+323,323,19:24 B6399,,New York (LGA),JetBlue Airways A320 (N599JB),Landed 18:57,2021-04-29
+324,324,19:25 WN1210,,Atlanta (ATL),Southwest Airlines B737 (N461WN),Landed 19:06,2021-04-29
+325,325,19:27 5X2344,,Ontario (ONT),UPS A306 (N142UP),Landed 19:23,2021-04-29
+326,326,19:30 NK387,,Akron (CAK),Spirit Airlines A20N (N907NK),Landed 19:40,2021-04-29
+327,327,19:33 DL2070,,Detroit (DTW),Delta Air Lines B753 (N585NW),Landed 20:50,2021-04-29
+328,328,19:35 WN1222,,Indianapolis (IND),Southwest Airlines B737 (N929WN),Landed 19:08,2021-04-29
+329,329,19:35 WN790,,San Juan (SJU),Southwest Airlines B737 (N448WN),Landed 19:18,2021-04-29
+330,330,19:36 F91191,,Raleigh-Durham (RDU),Frontier (Skye the Blue Jay Livery) A20N (N326FR),Landed 19:17,2021-04-29
+331,331,19:39 FX358,,Memphis (MEM),FedEx B763 (N180FE),Landed 20:23,2021-04-29
+332,332,19:43 F91082,,Huntsville (HSV),Frontier (Watson the Key Deer Livery) A20N (N372FR),Landed 22:09,2021-04-29
+333,333,19:48 1I619,,Nantucket (ACK),NetJets C56X,Unknown,2021-04-29
+334,334,19:50 WN365,,St. Louis (STL),Southwest Airlines B38M (N8702L),Landed 19:55,2021-04-29
+335,335,19:55 WN1542,,Chicago (MDW),Southwest Airlines B737 (N7721E),Landed 19:47,2021-04-29
+336,336,19:56 DL2022,,Minneapolis (MSP),Delta Air Lines B739 (N898DN),Landed 19:35,2021-04-29
+337,337,20:01 DL1477,,Atlanta (ATL),Delta Air Lines B739 (N893DN),Landed 21:36,2021-04-29
+338,338,20:03 SY345,,Minneapolis (MSP),Sun Country Airlines B738 (N804SY),Landed 19:38,2021-04-29
+339,339,20:04 DL1101,,New York (LGA),Delta Air Lines (SkyTeam Livery) B738 (N3761R),Landed 19:28,2021-04-29
+340,340,20:05 WN980,,Washington (DCA),Southwest Airlines B737 (N205WN),Landed 19:30,2021-04-29
+341,341,20:05 WN1105,,Houston (HOU),Southwest Airlines B737 (N498WN),Landed 19:32,2021-04-29
+342,342,20:05 WN1687,,Kansas City (MCI),Southwest Airlines B738 (N8650F),Landed 19:53,2021-04-29
+343,343,20:07 B62416,,Austin (AUS),JetBlue Airways A320 (N607JB),Landed 20:31,2021-04-29
+344,344,20:08 DL1291,,New York (JFK),Delta Air Lines B739 (N901DN),Landed 19:24,2021-04-29
+345,345,20:09 B61837,,Windsor Locks (BDL),JetBlue Airways A320 (N662JB),Landed 19:51,2021-04-29
+346,346,20:09 F91169,,Philadelphia (PHL),Frontier (Seymour the Walrus Livery) A321 (N716FR),Landed 19:46,2021-04-29
+347,347,20:10 WN663,,Nashville (BNA),Southwest Airlines B737 (N401WN),Landed 19:51,2021-04-29
+348,348,20:12 UA2268,,Washington (IAD),United Airlines B753 (N57857),Canceled,2021-04-29
+349,349,20:23 AA1919,,Philadelphia (PHL),American Airlines A321 (N562UW),Landed 19:58,2021-04-29
+350,350,20:26 F9801,,Trenton (TTN),Frontier Airlines (Cortez the Green Turtle Livery) A20N (N368FR),Landed 19:33,2021-04-29
+351,351,20:27 B62427,,New York (EWR),JetBlue Airways A320 (N580JB),Landed 20:03,2021-04-29
+352,352,20:28 AA2791,,Dallas (DFW),American Airlines A321 (N133AN),Landed 20:02,2021-04-29
+353,353,20:30 WN1988,,Dallas (DAL),Southwest Airlines B738 (N8511K),Landed 20:26,2021-04-29
+354,354,20:31 B6651,,Boston (BOS),JetBlue Airways (NYC Fire Department Livery) A320 (N615JB),Landed 21:11,2021-04-29
+355,355,20:35 UA2496,,Houston (IAH),United Airlines B39M (N37502),Landed 20:26,2021-04-29
+356,356,20:37 AA1842,,Charlotte (CLT),American Airlines A321 (N975UY),Landed 20:21,2021-04-29
+357,357,20:42 NK753,,Philadelphia (PHL),Spirit Airlines A321 (N674NK),Landed 20:50,2021-04-29
+358,358,20:54 UA1819,,New York (EWR),United Airlines B752 (N17105),Landed 20:54,2021-04-29
+359,359,20:57 AA463,,Miami (MIA),American Airlines B738 (N895NN),Landed 20:35,2021-04-29
+360,360,20:58 NK535,,Cleveland (CLE),Spirit Airlines A321 (N663NK),Landed 21:42,2021-04-29
+361,361,21:00 NK618,,New Orleans (MSY),Spirit Airlines A320 (N633NK),Landed 20:29,2021-04-29
+362,362,21:00 WN1915,,Columbus (CMH),Southwest Airlines B738 (N8539V),Landed 21:21,2021-04-29
+363,363,21:04 NK520,,Windsor Locks (BDL),Spirit Airlines A319 (N504NK),Landed 20:56,2021-04-29
+364,364,21:10 NK1156,,Houston (IAH),Spirit Airlines A320 (N639NK),Landed 20:46,2021-04-29
+365,365,21:11 AA424,,Dallas (DFW),American Airlines B738 (N884NN),Landed 21:06,2021-04-29
+366,366,21:13 NK1103,,Atlantic City (ACY),Spirit Airlines A319 (N502NK),Landed 20:59,2021-04-29
+367,367,21:15 UA1852,,San Francisco (SFO),United Airlines B739 (N45440),Landed 21:31,2021-04-29
+368,368,21:21 EK9904,,Columbus (LCK),Emirates B77W (A6-EGD),Landed 21:15,2021-04-29
+369,369,21:27 AA411,,Phoenix (PHX),American Airlines A321 (N974UY),Landed 20:52,2021-04-29
+370,370,21:28 DL2490,,Atlanta (ATL),Delta Air Lines B752 (N659DL),Landed 21:09,2021-04-29
+371,371,21:30 F91159,,Norfolk (ORF),Frontier (Stretch the Great Blue Heron Livery) A20N (N334FR),Landed 21:13,2021-04-29
+372,372,21:33 UA327,,Denver (DEN),United Airlines B738 (N76265),Landed 22:31,2021-04-29
+373,373,21:36 F91007,,Albany (ALB),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 21:16,2021-04-29
+374,374,21:45 DL2308,,Raleigh-Durham (RDU),Delta Air Lines A319 (N363NB),Landed 21:19,2021-04-29
+375,375,21:45 WN935,,San Juan (SJU),Southwest Airlines (Classic Retro Livery) B737 (N714CB),Landed 21:23,2021-04-29
+376,376,21:46 UA2173,,Chicago (ORD),United Airlines B739 (N64809),Landed 21:39,2021-04-29
+377,377,21:47 F91097,,Islip (ISP),Frontier (Jack the Rabbit Livery) A20N (N304FR),Landed 21:24,2021-04-29
+378,378,21:49 F91278,,Miami (MIA),Frontier (Finn the Tiger Shark Livery) A320 (N220FR),Landed 21:26,2021-04-29
+379,379,21:57 LBQ783,,Tampa (TPA),Quest Diagnostics PC12 (N338QD),Landed 21:58,2021-04-29
+380,380,22:05 WN450,,Milwaukee (MKE),Southwest Airlines B737 (N260WN),Landed 22:03,2021-04-29
+381,381,22:10 WN1718,,Baltimore (BWI),Southwest Airlines B737 (N248WN),Landed 21:59,2021-04-29
+382,382,22:11 NK1614,,Baltimore (BWI),Spirit Airlines A321 (N668NK),Landed 21:52,2021-04-29
+383,383,22:13 AA2497,,Washington (DCA),American Airlines A319 (N705UW),Unknown,2021-04-29
+384,384,22:15 WN660,,Chicago (MDW),Southwest Airlines B738 (N8553W),Landed 22:11,2021-04-29
+385,385,22:16 UA3025,,Washington (IAD),United Airlines B738 (N76288),Landed 22:30,2021-04-29
+386,386,22:18 F91261,,New York (EWR),Frontier (Max the Lynx Livery) A321 (N706FR),Landed 21:47,2021-04-29
+387,387,22:21 F91071,,Detroit (DTW),Frontier (Georgia the Painted Bunting Livery) A20N (N317FR),Landed 21:56,2021-04-29
+388,388,22:25 WN155,,Nashville (BNA),Southwest Airlines B737 (N420WN),Landed 22:24,2021-04-29
+389,389,22:25 WN189,,Atlanta (ATL),Southwest Airlines B737 (N7875A),Landed 22:19,2021-04-29
+390,390,22:25 WN1272,,Pittsburgh (PIT),Southwest Airlines B737 (N948WN),Landed 22:14,2021-04-29
+391,391,22:27 NK135,,Minneapolis (MSP),Spirit Airlines A20N (N932NK),Landed 00:09,2021-04-29
+392,392,22:28 AA598,,Dallas (DFW),American Airlines A321 (N909AM),Landed 22:07,2021-04-29
+393,393,22:28 B6901,,New York (JFK),JetBlue Airways A321 (N975JT),Landed 22:52,2021-04-29
+394,394,22:30 AA1879,,Charlotte (CLT),American Airlines A321 (N150UW),Landed 22:16,2021-04-29
+395,395,22:30 B61134,,San Juan (SJU),JetBlue Airways (Puerto Rico - Bluericua Livery) A320 (N779JB),Landed 21:54,2021-04-29
+396,396,22:30 WN298,,Houston (HOU),Southwest Airlines B738 (N8533S),Landed 22:14,2021-04-29
+397,397,22:35 WN861,,Denver (DEN),Southwest Airlines B737 (N7827A),Landed 22:13,2021-04-29
+398,398,22:36 F91032,,Nashville (BNA),Frontier (Eccles the Ermine Livery) A20N (N339FR),Landed 22:22,2021-04-29
+399,399,22:36 NK1481,,Detroit (DTW),Spirit Airlines A321 (N678NK),Landed 22:28,2021-04-29
+400,400,22:37 CM811,,Panama City (PTY),Copa Airlines B738 (HP-1834CMP),Landed 22:18,2021-04-29
+401,401,22:38 DL1555,,Atlanta (ATL),Delta Air Lines B752 (N6705Y),Landed 22:26,2021-04-29
+402,402,22:39 DL1543,,Los Angeles (LAX),Delta Air Lines B739 (N831DN),Landed 22:38,2021-04-29
+403,403,22:45 CM285,,Panama City (PTY),Copa Airlines B738 (HP-1720CMP),Landed 22:27,2021-04-29
+404,404,22:49 DL1268,,Minneapolis (MSP),Delta Air Lines B752 (N676DL),Landed 22:18,2021-04-29
+405,405,22:55 AA4967,,Key West (EYW),American Eagle E75S (N119HQ),Landed 22:29,2021-04-29
+406,406,23:00 DL2520,,New York (LGA),Delta Air Lines A320 (N340NW),Landed 22:22,2021-04-29
+407,407,23:00 WN553,,Dallas (DAL),Southwest Airlines B738 (N8566Z),Landed 22:59,2021-04-29
+408,408,23:02 UA1954,,Houston (IAH),United Airlines B738 (N34222),Landed 22:43,2021-04-29
+409,409,23:03 NK676,,Fort Lauderdale (FLL),Spirit Airlines A20N (N920NK),Landed 22:43,2021-04-29
+410,410,23:05 AA2803,,Miami (MIA),American Airlines B738 (N992NN),Landed 22:35,2021-04-29
+411,411,23:05 BVN7520,,Tallahassee (TLH),FedEx C208 (N741FX),Landed 22:48,2021-04-29
+412,412,23:08 F91203,,Louisville (SDF),Frontier (Otto the Owl Livery) A321 (N701FR),Landed 22:47,2021-04-29
+413,413,23:11,DL1473,Boston (BOS),Delta Air Lines A320 (N319US),Landed 22:54,2021-04-29
+414,414,23:13 NK431,,Kansas City (MCI),Spirit Airlines A321 (N684NK),Landed 22:58,2021-04-29
+415,415,23:13,DL2354,New York (JFK),Delta Air Lines B738 (N3730B),Landed 22:34,2021-04-29
+416,416,23:17,AA1673,Philadelphia (PHL),American Airlines A320 (N125UW),Landed 23:04,2021-04-29
+417,417,23:20 WN519,,Las Vegas (LAS),Southwest Airlines B38M (N8732S),Landed 23:40,2021-04-29
+418,418,23:20 BVN7521,,Tallahassee (TLH),Baron Aviation Services C208,Landed 23:13,2021-04-29
+419,419,23:36 F99203,,Huntsville (HSV),Frontier Airlines A320,Canceled,2021-04-29
+420,420,23:38 UA3023,,Washington (IAD),United Airlines B763 (N675UA),Landed 23:34,2021-04-29
+421,421,23:45 C27521,,Tallahassee (TLH),Mountain Air Cargo C208,Unknown,2021-04-29
+422,422,23:52 DL1162,,Salt Lake City (SLC),Delta Air Lines B739 (N919DU),Landed 23:45,2021-04-29
+423,423,23:52 BVN7522,,Tallahassee (TLH),FedEx C208 (N934FE),Landed 23:37,2021-04-29
+424,424,23:53,UA259,Denver (DEN),United Airlines B752 (N13138),Landed 23:31,2021-04-29
+425,425,23:54 AA2188,,Miami (MIA),American Airlines B38M (N326RP),Landed 23:25,2021-04-29
+426,426,23:55 DL2117,,Detroit (DTW),Delta Air Lines A321 (N322DN),Landed 23:41,2021-04-29
+427,427,23:59 NK1264,,San Juan (SJU),Spirit Airlines A320 (N642NK),Landed 23:29,2021-04-29
+0,0,00:04,DL1114,Atlanta (ATL),Delta Air Lines B753 (N588NW),Landed 23:49,2021-04-30
+1,1,00:16 C27522,,Tallahassee (TLH),Mountain Air Cargo C208,Unknown,2021-04-30
+2,2,00:19 NK38,,Dallas (DFW),Spirit Airlines A319 (N535NK),Landed 23:58,2021-04-30
+3,3,00:20 WN1413,,Chicago (MDW),Southwest Airlines B738 (N8673F),Landed 00:49,2021-04-30
+4,4,00:22 AA2092,,Charlotte (CLT),American Airlines A321 (N920US),Landed 00:17,2021-04-30
+5,5,00:30 WN1912,,Denver (DEN),Southwest Airlines B738 (N8520Q),Landed 00:24,2021-04-30
+6,6,00:45 DL1427,,Minneapolis (MSP),Delta Air Lines B752 (N697DL),Landed 00:04,2021-04-30
+7,7,05:00 NK143,,Aguadilla (BQN),Spirit Airlines A320 (N633NK),Landed 04:21,2021-04-30
+8,8,05:01 B6802,,Salt Lake City (SLC),JetBlue Airways A321 (N997JL),Landed 04:38,2021-04-30
+9,9,05:17,F91102,Las Vegas (LAS),Frontier (Luna and Lilly the Wolves Livery) A321 (N717FR),Landed 05:01,2021-04-30
+10,10,05:17 FX1409,,Memphis (MEM),FedEx B752 (N993FD),Landed 05:41,2021-04-30
+11,11,05:18 NK893,,San Juan (SJU),Spirit Airlines A320 (N691NK),Landed 04:41,2021-04-30
+12,12,05:19 5X1328,,Albany (ABY),UPS B752 (N453UP),Landed 04:34,2021-04-30
+13,13,05:26 5X1324,,Philadelphia (PHL),UPS A306 (N168UP),Landed 05:39,2021-04-30
+14,14,05:42 DL572,,Salt Lake City (SLC),Delta Air Lines B739 (N830DN),Landed 05:21,2021-04-30
+15,15,05:42 5X1326,,Louisville (SDF),UPS MD11 (N258UP),Unknown,2021-04-30
+16,16,05:50 FX1458,,Memphis (MEM),FedEx DC10 (N321FE),Landed 06:36,2021-04-30
+17,17,06:00,F9678,Denver (DEN),Frontier (Mitch the Wolverine Livery) A321 (N713FR),Landed 05:33,2021-04-30
+18,18,06:00 5X1336,,Dallas (DFW),UPS B752 (N422UP),Landed 05:36,2021-04-30
+19,19,06:17 F9105,,San Juan (SJU),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 06:02,2021-04-30
+20,20,06:24,UA2410,Los Angeles (LAX),United Airlines B738 (N37290),Landed 06:24,2021-04-30
+21,21,06:31,AS38,Seattle (SEA),Alaska Airlines B738 (N577AS),Landed 06:26,2021-04-30
+22,22,06:51 DL1652,,Seattle (SEA),Delta Air Lines B739 (N805DN),Landed 06:54,2021-04-30
+23,23,06:59 5X9732,,West Palm Beach (PBI),UPS B752 (N463UP),Landed 06:38,2021-04-30
+24,24,07:00,HA86,Honolulu (HNL),Hawaiian Airlines A332 (N375HA),Landed 07:04,2021-04-30
+25,25,07:18,B6132,Los Angeles (LAX),JetBlue Airways A320 (N524JB),Landed 07:14,2021-04-30
+26,26,07:30,DL543,Los Angeles (LAX),Delta Air Lines B739 (N930DZ),Landed 07:13,2021-04-30
+27,27,08:18 DL1763,,Cincinnati (CVG),Delta Air Lines B738 (N3766),Landed 08:36,2021-04-30
+28,28,08:29 NK1095,,Philadelphia (PHL),Spirit Airlines A320 (N692NK),Landed 08:10,2021-04-30
+29,29,08:35 NK1101,,Charlotte (CLT),Spirit Airlines A20N (N929NK),Landed 08:27,2021-04-30
+30,30,08:35 WN992,,Fort Lauderdale (FLL),Southwest Airlines B737 (N7862A),Landed 08:51,2021-04-30
+31,31,08:36 NK1227,,New York (EWR),Spirit Airlines A20N (N904NK),Landed 08:31,2021-04-30
+32,32,08:36 F99201,,Syracuse (SYR),Frontier (Gordon The Golden Eagle Livery) A321 (N723FR),Landed 10:58,2021-04-30
+33,33,08:38 DL651,,Detroit (DTW),Delta Air Lines B752 (N555NW),Landed 08:27,2021-04-30
+34,34,08:39 NK1209,,Atlanta (ATL),Spirit Airlines A320 (N611NK),Landed 08:29,2021-04-30
+35,35,08:40 NK576,,Detroit (DTW),Spirit Airlines A320 (N632NK),Landed 08:23,2021-04-30
+36,36,08:43,F91165,Philadelphia (PHL),Frontier (Hudson the Bog Turtle Livery) A20N (N379FR),Landed 08:15,2021-04-30
+37,37,08:43 B6327,,New York (EWR),JetBlue Airways A321 (N950JT),Landed 08:33,2021-04-30
+38,38,08:45 WN377,,Baltimore (BWI),Southwest Airlines B738 (N8667D),Landed 08:34,2021-04-30
+39,39,08:52 DL1633,,Atlanta (ATL),Delta Air Lines B739 (N863DN),Landed 08:43,2021-04-30
+40,40,08:55 WN158,,Atlanta (ATL),Southwest Airlines B737 (N762SW),Landed 08:48,2021-04-30
+41,41,09:01 B6737,,Windsor Locks (BDL),JetBlue Airways A320 (N646JB),Landed 08:49,2021-04-30
+42,42,09:09 B6227,,San Juan (SJU),JetBlue Airways A320 (N653JB),Unknown,2021-04-30
+43,43,09:10 WN1552,,Philadelphia (PHL),Southwest Airlines B38M (N8729H),Landed 08:50,2021-04-30
+44,44,09:14,B6151,Boston (BOS),JetBlue Airways A321 (N952JB),Landed 09:04,2021-04-30
+45,45,09:16 2I565,,Cincinnati (CVG),21 Air B762 (N999YV),Landed 09:08,2021-04-30
+46,46,09:34,F91010,Atlanta (ATL),Frontier Airlines (Cortez the Green Turtle Livery) A20N (N368FR),Landed 09:01,2021-04-30
+47,47,09:35 WN280,,Nashville (BNA),Southwest Airlines B737 (N258WN),Landed 09:19,2021-04-30
+48,48,09:35 WN310,,Buffalo (BUF),Southwest Airlines B738 (N8534Z),Landed 09:15,2021-04-30
+49,49,09:35 WN3244,,New Orleans (MSY),Southwest Airlines B738 (N8626B),Landed 09:16,2021-04-30
+50,50,09:35,3M67,Fort Lauderdale (FLL),Silver Airways AT76 (N702SV),Landed 09:12,2021-04-30
+51,51,09:36 AA1715,,Charlotte (CLT),American Airlines A321 (N161UW),Landed 09:13,2021-04-30
+52,52,09:40 DL1746,,Detroit (DTW),Delta Air Lines B739 (N853DN),Landed 11:30,2021-04-30
+53,53,09:40 WN1971,,St. Louis (STL),Southwest Airlines B738 (N8600F),Landed 09:12,2021-04-30
+54,54,09:40 UA2746,,New York (EWR),United Airlines B737 (N23721),Diverted to IAD,2021-04-30
+55,55,09:43,AA1712,Miami (MIA),American Airlines B738 (N869NN),Landed 10:08,2021-04-30
+56,56,09:44,AA1979,Philadelphia (PHL),American Airlines A321 (N560UW),Landed 09:22,2021-04-30
+57,57,09:50 B6195,,White Plains (HPN),JetBlue Airways E190 (N296JB),Landed 09:35,2021-04-30
+58,58,09:50,F91259,New York (EWR),Frontier (Marshall the Ring-tailed Cat Livery) A20N (N365FR),Landed 10:46,2021-04-30
+59,59,09:50 NK317,,Indianapolis (IND),Spirit Airlines A320 (N630NK),Landed 09:26,2021-04-30
+60,60,09:50 WN532,,Indianapolis (IND),Southwest Airlines B737 (N233LV),Landed 09:31,2021-04-30
+61,61,09:50 WN1141,,Chicago (MDW),Southwest Airlines B737 (N566WN),Landed 10:25,2021-04-30
+62,62,09:50 WN5636,,Baltimore (BWI),Southwest Airlines B737 (N413WN),Landed 10:00,2021-04-30
+63,63,09:53 DL1533,,Atlanta (ATL),Delta Air Lines B752 (N658DL),Landed 09:44,2021-04-30
+64,64,09:55 NK708,,Cleveland (CLE),Spirit Airlines A320 (N696NK),Landed 10:02,2021-04-30
+65,65,09:56 DL2058,,Raleigh-Durham (RDU),Delta Air Lines A319 (N330NB),Landed 09:40,2021-04-30
+66,66,10:01 NK198,,Fort Lauderdale (FLL),Spirit Airlines A320 (N698NK),Landed 09:41,2021-04-30
+67,67,10:03,DL1094,New York (LGA),Delta Air Lines B738 (N379DA),Landed 09:44,2021-04-30
+68,68,10:10 WN127,,Albany (ALB),Southwest Airlines B737 (N404WN),Landed 14:47,2021-04-30
+69,69,10:10 WN1345,,Manchester (MHT),Southwest Airlines B737 (N966WN),Landed 09:56,2021-04-30
+70,70,10:10 WN1640,,Pittsburgh (PIT),Southwest Airlines B737 (N495WN),Landed 09:50,2021-04-30
+71,71,10:10 WN1663,,Providence (PVD),Southwest Airlines B738 (N8574Z),Landed 10:06,2021-04-30
+72,72,10:11,B61406,Santo Domingo (SDQ),JetBlue Airways A321 (N954JB),Unknown,2021-04-30
+73,73,10:12,AA1647,Chicago (ORD),American Airlines A321 (N120EE),Landed 09:45,2021-04-30
+74,74,10:15 WN1855,,San Juan (SJU),Southwest Airlines B737 (N7742B),Landed 09:48,2021-04-30
+75,75,10:19,F91065,Cincinnati (CVG),Frontier (Cookie the Oriole Livery) A20N (N359FR),Landed 09:55,2021-04-30
+76,76,10:22 DL1044,,Minneapolis (MSP),Delta Air Lines B752 (N671DN),Landed 09:53,2021-04-30
+77,77,10:22 DL1442,,Boston (BOS),Delta Air Lines B738 (N3735D),Landed 10:13,2021-04-30
+78,78,10:23 B61223,,Washington (DCA),JetBlue Airways A320 (N589JB),Landed 09:59,2021-04-30
+79,79,10:24 NK830,,Houston (IAH),Spirit Airlines A320 (N627NK),Landed 10:13,2021-04-30
+80,80,10:24,UA2079,Cleveland (CLE),United Airlines B738 (N24224),Landed 10:04,2021-04-30
+81,81,10:25 WN212,,Dallas (DAL),Southwest Airlines B737 (N299WN),Landed 09:57,2021-04-30
+82,82,10:37 DL656,,Detroit (DTW),Delta Air Lines B752 (N674DL),Landed 10:21,2021-04-30
+83,83,10:37 NK1042,,San Juan (SJU),Spirit Airlines A321 (N669NK),Landed 10:10,2021-04-30
+84,84,10:41 NK2962,,Dallas (DFW),Spirit Airlines A320 (N694NK),Landed 10:19,2021-04-30
+85,85,10:41 FX2773,,Indianapolis (IND),FedEx A306 (N681FE),Landed 10:33,2021-04-30
+86,86,10:42 NK2848,,Detroit (DTW),Spirit Airlines A321 (N680NK),Landed 10:31,2021-04-30
+87,87,10:44 AA2695,,Charlotte (CLT),American Airlines A321 (N150UW),Landed 10:16,2021-04-30
+88,88,10:50,F91051,Charlotte (CLT),Frontier (Otto the Owl Livery) A321 (N701FR),Landed 10:24,2021-04-30
+89,89,10:50 WN588,,Washington (DCA),Southwest Airlines B737 (N427WN),Unknown,2021-04-30
+90,90,10:50 WN1179,,Kansas City (MCI),Southwest Airlines B738 (N8662F),Landed 10:29,2021-04-30
+91,91,10:50 WN1374,,Milwaukee (MKE),Southwest Airlines B737 (N254WN),Landed 10:22,2021-04-30
+92,92,10:50 WN1554,,Philadelphia (PHL),Southwest Airlines B738 (N8562Z),Landed 10:27,2021-04-30
+93,93,10:55 DL1575,,Atlanta (ATL),Delta Air Lines B753 (N590NW),Landed 11:41,2021-04-30
+94,94,10:57 SY341,,Minneapolis (MSP),Sun Country Airlines B738 (N835SY),Landed 10:27,2021-04-30
+95,95,11:01 B61697,,Philadelphia (PHL),JetBlue Airways A320 (N559JB),Landed 10:38,2021-04-30
+96,96,11:03 AA1666,,Washington (DCA),American Airlines A319 (N721UW),Landed 10:35,2021-04-30
+97,97,11:08,F91155,Chicago (ORD),Frontier (Shelly the Sea Turtle) A20N (N316FR),Landed 10:34,2021-04-30
+98,98,11:13 NK554,,New Orleans (MSY),Spirit Airlines A320 (N602NK),Landed 10:56,2021-04-30
+99,99,11:14 B62751,,Boston (BOS),JetBlue Airways A320 (N583JB),Landed 10:59,2021-04-30
+100,100,11:15,UA1890,New York (EWR),United Airlines B739 (N63890),Landed 11:16,2021-04-30
+101,101,11:15 WN246,,Grand Rapids (GRR),Southwest Airlines B738 (N8513F),Landed 10:47,2021-04-30
+102,102,11:18,F91280,Miami (MIA),Frontier (Sammy the Squirrel Livery) A320 (N232FR),Landed 10:42,2021-04-30
+103,103,11:19,AA1684,Philadelphia (PHL),American Airlines A321 (N551UW),Landed 11:00,2021-04-30
+104,104,11:23,DL1065,New York (JFK),Delta Air Lines B738 (N397DA),Landed 11:07,2021-04-30
+105,105,11:25,3M75,Key West (EYW),Silver Airways AT46 (N406SV),Landed 11:10,2021-04-30
+106,106,11:30,B683,New York (JFK),JetBlue Airways (Vets in Blue Livery) A320 (N775JB),Landed 11:14,2021-04-30
+107,107,11:30 WN213,,Houston (HOU),Southwest Airlines B737 (N7832A),Landed 14:18,2021-04-30
+108,108,11:30 WN711,,Chicago (MDW),Southwest Airlines B737 (N7865A),Landed 11:27,2021-04-30
+109,109,11:31 B6655,,Syracuse (SYR),JetBlue Airways A320 (N662JB),Landed 10:52,2021-04-30
+110,110,11:35 WN682,,Baltimore (BWI),Southwest Airlines B737 (N260WN),Landed 11:19,2021-04-30
+111,111,11:39,F91043,Cleveland (CLE),Frontier (O'Malley the Mallard Duck Livery) A20N (N356FR),Landed 11:12,2021-04-30
+112,112,11:46 NK929,,Chicago (ORD),Spirit Airlines A321 (N681NK),Landed 11:28,2021-04-30
+113,113,11:48 NK1217,,Columbus (CMH),Spirit Airlines A20N (N918NK),Landed 11:21,2021-04-30
+114,114,11:51,Y4976,Guadalajara (GDL),Volaris A20N (XA-VRN),Landed 11:31,2021-04-30
+115,115,11:55,DL1774,Atlanta (ATL),Delta Air Lines B753 (N592NW),Landed 11:42,2021-04-30
+116,116,12:00,UA2403,New York (EWR),United Airlines B738 (N33286),Landed 12:14,2021-04-30
+117,117,12:00 WN1041,,Denver (DEN),Southwest Airlines B738 (N8658A),Landed 11:38,2021-04-30
+118,118,12:02 B62327,,New York (EWR),JetBlue Airways A320 (N641JB),Landed 13:24,2021-04-30
+119,119,12:09 F91071,,Detroit (DTW),Frontier (Betty the Bluebird Livery) A320 (N230FR),Landed 11:33,2021-04-30
+120,120,12:10,F91159,Norfolk (ORF),Frontier (Georgia the Painted Bunting Livery) A20N (N317FR),Landed 12:07,2021-04-30
+121,121,12:11 NK321,,Raleigh-Durham (RDU),Spirit Airlines A20N (N936NK),Landed 11:49,2021-04-30
+122,122,12:15,F91163,Philadelphia (PHL),Frontier (Crockett the Raccoon Livery) A321 (N720FR),Landed 12:04,2021-04-30
+123,123,12:20 WN806,,Atlanta (ATL),Southwest Airlines B738 (N8696E),Landed 12:05,2021-04-30
+124,124,12:21,,Key West (EYW),- SF50 (N16VJ),Landed 12:50,2021-04-30
+125,125,12:25 B61334,,San Juan (SJU),JetBlue Airways (I ♥ NY Livery) A320 (N586JB),Landed 11:59,2021-04-30
+126,126,12:25,3M66,Fort Lauderdale (FLL),Silver Airways AT46 (N402SV),Landed 11:54,2021-04-30
+127,127,12:26 F91018,,Austin (AUS),Frontier (Eccles the Ermine Livery) A20N (N339FR),Landed 12:33,2021-04-30
+128,128,12:26 NK309,,Philadelphia (PHL),Spirit Airlines A321 (N684NK),Landed 12:11,2021-04-30
+129,129,12:31,AA1710,Dallas (DFW),American Airlines A321 (N930AU),Unknown,2021-04-30
+130,130,12:35 DL2076,,Minneapolis (MSP),Delta Air Lines B752 (N683DA),Landed 12:09,2021-04-30
+131,131,12:35 WN392,,Raleigh-Durham (RDU),Southwest Airlines B737 (N7825A),Landed 12:25,2021-04-30
+132,132,12:36 NK2077,,Baltimore (BWI),Spirit Airlines A321 (N668NK),Landed 12:33,2021-04-30
+133,133,12:38 DL2081,,Detroit (DTW),Delta Air Lines A321 (N373DX),Landed 12:18,2021-04-30
+134,134,12:45 B6107,,Ponce (PSE),JetBlue Airways E190 (N279JB),Landed 12:16,2021-04-30
+135,135,12:45,UA2425,New York (EWR),United Airlines B752 (N12109),Landed 12:32,2021-04-30
+136,136,12:46,B6351,Boston (BOS),JetBlue Airways A320 (N806JB),Unknown,2021-04-30
+137,137,12:50 WN240,,Baltimore (BWI),Southwest Airlines B738 (N8698B),Landed 12:42,2021-04-30
+138,138,12:50 WN5227,,St. Louis (STL),Southwest Airlines B737 (N927WN),Landed 12:24,2021-04-30
+139,139,12:55 WN1220,,Dallas (DAL),Southwest Airlines B737 (N948WN),Landed 12:51,2021-04-30
+140,140,12:55 WN1351,,Louisville (SDF),Southwest Airlines B737 (N951WN),Landed 12:45,2021-04-30
+141,141,12:55 WN1649,,Fort Myers (RSW),Southwest Airlines B737 (N7847A),Landed 12:51,2021-04-30
+142,142,12:57 UA510,,Chicago (ORD),United Airlines B753 (N78866),Landed 12:47,2021-04-30
+143,143,12:58 AA1649,,Charlotte (CLT),American Airlines A321 (N163US),Landed 12:37,2021-04-30
+144,144,12:58 DL2420,,Atlanta (ATL),Delta Air Lines B763 (N190DN),Landed 12:37,2021-04-30
+145,145,13:04 NK303,,Atlantic City (ACY),Spirit Airlines A20N (N903NK),Landed 13:02,2021-04-30
+146,146,13:05 F9680,,Denver (DEN),Frontier (Spot the Jaguar Livery) A321 (N712FR),Landed 12:43,2021-04-30
+147,147,13:05 WN1716,,Chicago (MDW),Southwest Airlines B737 (N716SW),Landed 12:55,2021-04-30
+148,148,13:05,,Nassau (NAS),- BE20 (N115CT),Landed 13:22,2021-04-30
+149,149,13:08 UA3027,,Washington (IAD),United Airlines B763 (N675UA),Landed 13:14,2021-04-30
+150,150,13:11 UA3029,,Washington (IAD),United Airlines B737 (N23721),Landed 13:07,2021-04-30
+151,151,13:13 UA2098,,Washington (IAD),United Airlines B763 (N675UA),Canceled,2021-04-30
+152,152,13:15 UA413,,Houston (IAH),United Airlines B39M (N37513),Landed 13:58,2021-04-30
+153,153,13:20 F91055,,Columbus (CMH),Frontier (Flo the Flamingo Livery) A20N (N308FR),Landed 13:00,2021-04-30
+154,154,13:22 F91075,,Grand Rapids (GRR),Frontier (Stretch the Great Blue Heron Livery) A20N (N334FR),Landed 12:53,2021-04-30
+155,155,13:23 AA1121,,Chicago (ORD),American Airlines B738 (N855NN),Landed 12:58,2021-04-30
+156,156,13:31 AA2495,,Miami (MIA),American Airlines B738 (N810NN),Landed 13:41,2021-04-30
+157,157,13:33 DL407,,Minneapolis (MSP),Delta Air Lines A321 (N392DN),Landed 12:58,2021-04-30
+158,158,13:40 WN1102,,Memphis (MEM),Southwest Airlines B737 (N7737E),Landed 13:36,2021-04-30
+159,159,13:42 NK246,,Boston (BOS),Spirit Airlines A20N (N932NK),Landed 14:36,2021-04-30
+160,160,13:42 NK542,,Cancun (CUN),Spirit Airlines A319 (N504NK),Landed 13:12,2021-04-30
+161,161,13:43 B61736,,Aguadilla (BQN),JetBlue Airways A320 (N607JB),Landed 13:25,2021-04-30
+162,162,13:45 WN661,,Denver (DEN),Southwest Airlines B38M (N8711Q),Landed 13:22,2021-04-30
+163,163,13:49 NK841,,Richmond (RIC),Spirit Airlines A20N (N934NK),Landed 13:38,2021-04-30
+164,164,13:50 AM434,,Mexico City (MEX),Aeromexico B738 (XA-AMN),Landed 13:50,2021-04-30
+165,165,13:50 WN1276,,Columbus (CMH),Southwest Airlines B737 (N439WN),Landed 13:33,2021-04-30
+166,166,13:55 WN933,,Houston (HOU),Southwest Airlines B737 (N473WN),Canceled,2021-04-30
+167,167,13:55 3M90,,Charleston (CHS),Silver Airways AT76 (N703SV),Landed 13:49,2021-04-30
+168,168,13:56 DL1600,,Atlanta (ATL),Delta Air Lines B739 (N930DZ),Landed 13:45,2021-04-30
+169,169,13:57 M6881,,New York (EWR),Amerijet International B763 (N378CX),Landed 13:55,2021-04-30
+170,170,13:58 NK732,,Austin (AUS),Spirit Airlines A321 (N674NK),Landed 13:30,2021-04-30
+171,171,14:05 WN5210,,Baltimore (BWI),Southwest Airlines B737 (N442WN),Landed 14:00,2021-04-30
+172,172,14:06 DL2398,,New York (LGA),Delta Air Lines A320 (N321US),Landed 13:48,2021-04-30
+173,173,14:09 NK117,,Detroit (DTW),Spirit Airlines A321 (N670NK),Landed 13:59,2021-04-30
+174,174,14:12 B6927,,New York (EWR),JetBlue Airways A320 (N807JB),Landed 14:10,2021-04-30
+175,175,14:12 F91111,,New York (LGA),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 13:32,2021-04-30
+176,176,14:12 F91207,,Windsor Locks (BDL),Frontier (Finn the Tiger Shark Livery) A320 (N220FR),Landed 13:47,2021-04-30
+177,177,14:13 SY347,,Minneapolis (MSP),Sun Country Airlines B738 (N819SY),Landed 13:43,2021-04-30
+178,178,14:15 AV28,,Bogota (BOG),Avianca A319 (N753AV),Landed 13:53,2021-04-30
+179,179,14:15 WN1192,,St. Louis (STL),Southwest Airlines B737 (N733SA),Landed 14:06,2021-04-30
+180,180,14:20 AA1716,,Dallas (DFW),American Airlines A321 (N145AN),Landed 15:22,2021-04-30
+181,181,14:20 NK959,,Windsor Locks (BDL),Spirit Airlines A20N (N924NK),Landed 14:03,2021-04-30
+182,182,14:20 WN1260,,San Juan (SJU),Southwest Airlines B737 (N205WN),Landed 13:52,2021-04-30
+183,183,14:20 WN1720,,Milwaukee (MKE),Southwest Airlines B737 (N418WN),Landed 14:03,2021-04-30
+184,184,14:21 B6789,,New York (JFK),JetBlue Airways A321 (N997JL),Landed 14:08,2021-04-30
+185,185,14:21 DL1398,,Boston (BOS),Delta Air Lines A320 (N340NW),Landed 14:40,2021-04-30
+186,186,14:21 1I541,,West Palm Beach (PBI),NetJets CNJ,Canceled,2021-04-30
+187,187,14:24 B6114,,Cancun (CUN),JetBlue Airways A320 (N524JB),Landed 14:14,2021-04-30
+188,188,14:34 DL2157,,Minneapolis (MSP),Delta Air Lines B752 (N676DL),Landed 13:53,2021-04-30
+189,189,14:34 DL2541,,Salt Lake City (SLC),Delta Air Lines B739 (N819DN),Landed 14:15,2021-04-30
+190,190,14:35 DL1426,,New York (JFK),Delta Air Lines A320 (N371NW),Landed 14:12,2021-04-30
+191,191,14:36 F91119,,Harrisburg (MDT),Frontier (Luna and Lilly the Wolves Livery) A321 (N717FR),Landed 13:59,2021-04-30
+192,192,14:36 1I547,,Orlando (ORL),NetJets C68A,Unknown,2021-04-30
+193,193,14:39 B6451,,Boston (BOS),JetBlue Airways A320 (N519JB),Landed 14:24,2021-04-30
+194,194,14:40 AA656,,New York (LGA),American Airlines B738 (N843NN),Landed 14:05,2021-04-30
+195,195,14:40 DL542,,Los Angeles (LAX),Delta Air Lines B739 (N824DN),Landed 14:27,2021-04-30
+196,196,14:42 UA730,,Chicago (ORD),United Airlines B753 (N75853),Landed 14:33,2021-04-30
+197,197,14:46 F91127,,Milwaukee (MKE),Frontier (Alberta & Clipper: Polar Bears Livery) A320 (N206FR),Landed 14:17,2021-04-30
+198,198,14:47 AA2544,,Charlotte (CLT),American Airlines A321 (N924US),Landed 14:16,2021-04-30
+199,199,14:49 F91039,,Buffalo (BUF),Frontier (Cali the Mountain Lion Livery) A321 (N718FR),Landed 14:59,2021-04-30
+200,200,14:49 K4364,,Los Angeles (LAX),Kalitta Air B744 (N715CK),Landed 14:43,2021-04-30
+201,201,14:50 WN5624,,Houston (HOU),Southwest Airlines B737 (N762SW),Landed 14:55,2021-04-30
+202,202,14:50 WN5995,,Raleigh-Durham (RDU),Southwest Airlines B737 (N908WN),Landed 14:32,2021-04-30
+203,203,14:52 F91183,,Providence (PVD),Frontier (Cliff the Mountain Goat Livery) A20N (N305FR),Landed 14:29,2021-04-30
+204,204,14:53 UA1836,,New York (EWR),United Airlines B739 (N63899),Landed 15:03,2021-04-30
+205,205,14:54 AA1159,,Miami (MIA),American Airlines B38M (N341RW),Landed 14:31,2021-04-30
+206,206,14:57 NK372,,Houston (IAH),Spirit Airlines A319 (N522NK),Landed 15:51,2021-04-30
+207,207,15:00 WN522,,Baltimore (BWI),Southwest Airlines B738 (N8566Z),Landed 14:42,2021-04-30
+208,208,15:03 DL1722,,Cincinnati (CVG),Delta Air Lines B738 (N3766),Landed 15:06,2021-04-30
+209,209,15:05 WN273,,Montego Bay (MBJ),Southwest Airlines B737 (N283WN),Landed 14:44,2021-04-30
+210,210,15:07 F91246,,Dallas (DFW),Frontier (Mitch the Wolverine Livery) A321 (N713FR),Landed 15:31,2021-04-30
+211,211,15:10 3M61,,Pensacola (PNS),Silver Airways AT76 (N702SV),Landed 14:57,2021-04-30
+212,212,15:16 DL1088,,Detroit (DTW),Delta Air Lines B753 (N588NW),Landed 15:00,2021-04-30
+213,213,15:16 NK863,,Latrobe (LBE),Spirit Airlines A320 (N611NK),Landed 15:04,2021-04-30
+214,214,15:17 CM478,,Panama City (PTY),Copa Airlines B738 (HP-1721CMP),Landed 14:58,2021-04-30
+215,215,15:18 NK1947,,Nashville (BNA),Spirit Airlines A320 (N630NK),Landed 15:05,2021-04-30
+216,216,15:19 UA755,,Denver (DEN),United Airlines B753 (N75858),Landed 15:27,2021-04-30
+217,217,15:23 UA1217,,Houston (IAH),United Airlines B739 (N28457),Landed 16:26,2021-04-30
+218,218,15:30 AS782,,Portland (PDX),Alaska Airlines B739 (N495AS),Landed 15:07,2021-04-30
+219,219,15:33 F91286,,Phoenix (PHX),Frontier (Grizwald the Grizzly Bear Livery) A320 (N211FR),Landed 15:44,2021-04-30
+220,220,15:38 DL1072,,Atlanta (ATL),Delta Air Lines B752 (N679DA),Landed 15:21,2021-04-30
+221,221,15:40 NK58,,New York (EWR),Spirit Airlines A321 (N682NK),Landed 15:28,2021-04-30
+222,222,15:40 WN856,,Nashville (BNA),Southwest Airlines B738 (N8647A),Landed 15:17,2021-04-30
+223,223,15:40 WN1145,,Indianapolis (IND),Southwest Airlines B737 (N286WN),Landed 15:54,2021-04-30
+224,224,15:51 F99210,,Huntsville (HSV),Frontier Airlines A320,Canceled,2021-04-30
+225,225,15:52 NK173,,Minneapolis (MSP),Spirit Airlines A20N (N920NK),Landed 15:18,2021-04-30
+226,226,15:55 WN177,,Norfolk (ORF),Southwest Airlines B738 (N8557Q),Landed 15:55,2021-04-30
+227,227,16:02 F91187,,Portland (PWM),Frontier (Midnight the Wolf Livery) A321 (N719FR),Landed 15:34,2021-04-30
+228,228,16:03 DL854,,Raleigh-Durham (RDU),Delta Air Lines A319 (N353NB),Landed 15:44,2021-04-30
+229,229,16:05 WN1367,,Providence (PVD),Southwest Airlines B737 (N952WN),Landed 15:49,2021-04-30
+230,230,16:05 WN1712,,Islip (ISP),Southwest Airlines B737 (N7845A),Landed 15:46,2021-04-30
+231,231,16:10 NK1322,,Kansas City (MCI),Spirit Airlines A20N (N904NK),Landed 15:56,2021-04-30
+232,232,16:14 B61451,,Boston (BOS),JetBlue Airways A320 (N503JB),Landed 15:58,2021-04-30
+233,233,16:17 B61527,,New York (EWR),JetBlue Airways A321 (N907JB),Landed 16:01,2021-04-30
+234,234,16:20 NK884,,San Juan (SJU),Spirit Airlines A320 (N691NK),Landed 16:07,2021-04-30
+235,235,16:20 3M70,,Key West (EYW),Silver Airways AT46 (N403SV),Landed 16:03,2021-04-30
+236,236,16:27 B61001,,New York (JFK),JetBlue Airways A320 (N554JB),Landed 16:08,2021-04-30
+237,237,16:30 DL797,,Salt Lake City (SLC),Delta Air Lines B739 (N826DN),Landed 16:09,2021-04-30
+238,238,16:30 WN549,,Cincinnati (CVG),Southwest Airlines B737 (N299WN),Landed 17:06,2021-04-30
+239,239,16:33 NK726,,Las Vegas (LAS),Spirit Airlines A20N (N919NK),Landed 16:30,2021-04-30
+240,240,16:35 NK927,,Chicago (ORD),Spirit Airlines A321 (N675NK),Landed 16:16,2021-04-30
+241,241,16:35 WN5974,,Birmingham (BHM),Southwest Airlines B738 (N8539V),Landed 16:27,2021-04-30
+242,242,16:37 AA1705,,Dallas (DFW),American Airlines A21N (N402AN),Landed 16:32,2021-04-30
+243,243,16:38 B6969,,Richmond (RIC),JetBlue Airways A321 (N954JB),Landed 16:28,2021-04-30
+244,244,16:40 WN5600,,Kansas City (MCI),Southwest Airlines B737 (N258WN),Landed 16:18,2021-04-30
+245,245,16:47 AA2525,,Chicago (ORD),American Airlines A321 (N585UW),Landed 16:17,2021-04-30
+246,246,16:50 AS760,,San Diego (SAN),Alaska Airlines (Boeing 100 years strong Livery) B739 (N248AK),Landed 16:49,2021-04-30
+247,247,16:52 DL1546,,Atlanta (ATL),Delta Air Lines B752 (N822DX),Landed 16:36,2021-04-30
+248,248,16:55 WN408,,San Juan (SJU),Southwest Airlines B738 (N8619F),Landed 16:30,2021-04-30
+249,249,16:56 DL2538,,Detroit (DTW),Delta Air Lines B752 (N6708D),Landed 16:44,2021-04-30
+250,250,16:56 NK277,,St. Thomas (STT),Spirit Airlines A319 (N535NK),Landed 16:43,2021-04-30
+251,251,16:57 AA2214,,Charlotte (CLT),American Airlines A321 (N509AY),Landed 16:35,2021-04-30
+252,252,17:02 F91045,,Cleveland (CLE),Frontier (Xavier the Mountain Goat Livery) A321 (N722FR),Landed 17:10,2021-04-30
+253,253,17:03 F91239,,Boston (BOS),Frontier (Ichabod the Whooping Crane Livery) A20N (N358FR),Landed 16:39,2021-04-30
+254,254,17:04 DL502,,Seattle (SEA),Delta Air Lines B739 (N814DN),Landed 16:46,2021-04-30
+255,255,17:06 F91167,,Philadelphia (PHL),Frontier (Seymour the Walrus Livery) A321 (N716FR),Landed 17:35,2021-04-30
+256,256,17:10 WN591,,St. Louis (STL),Southwest Airlines B737 (N427WN),Landed 17:12,2021-04-30
+257,257,17:15 WN1056,,Austin (AUS),Southwest Airlines B737 (N904WN),Landed 16:55,2021-04-30
+258,258,17:15 WN1684,,San Antonio (SAT),Southwest Airlines B737 (N767SW),Landed 17:15,2021-04-30
+259,259,17:20 AS16,,Seattle (SEA),Alaska Airlines B739 (N428AS),Landed 16:57,2021-04-30
+260,260,17:20 B61034,,San Juan (SJU),JetBlue Airways A320 (N606JB),Unknown,2021-04-30
+261,261,17:20 WN517,,Baltimore (BWI),Southwest Airlines B737 (N903WN),Landed 18:14,2021-04-30
+262,262,17:24 AA2547,,Phoenix (PHX),American Airlines A320 (N651AW),Unknown,2021-04-30
+263,263,17:25 F9107,,San Juan (SJU),Frontier (Ward the Beaver Livery) A20N (N363FR),Landed 17:14,2021-04-30
+264,264,17:25 WN370,,Windsor Locks (BDL),Southwest Airlines B737 (N495WN),Landed 17:11,2021-04-30
+265,265,17:25 WN752,,Houston (HOU),Southwest Airlines B737 (N7846A),Landed 17:00,2021-04-30
+266,266,17:25 WN930,,New Orleans (MSY),Southwest Airlines B737 (N930WN),Landed 17:09,2021-04-30
+267,267,17:26 AA398,,Dallas (DFW),American Airlines A321 (N193UW),Landed 17:03,2021-04-30
+268,268,17:27 AA2503,,Washington (DCA),American Airlines A321 (N992AU),Landed 17:33,2021-04-30
+269,269,17:28 DL2077,,Minneapolis (MSP),Delta Air Lines B739 (N857DZ),Landed 16:52,2021-04-30
+270,270,17:30 F91095,,Islip (ISP),Frontier (Kit the Kermode Bear Livery) A20N (N366FR),Landed 17:30,2021-04-30
+271,271,17:32 AA483,,Philadelphia (PHL),American Airlines B738 (N923AN),Landed 17:08,2021-04-30
+272,272,17:35 WN1140,,New York (LGA),Southwest Airlines B737 (N7837A),Landed 19:05,2021-04-30
+273,273,17:37 AA2512,,Los Angeles (LAX),American Airlines A321 (N993AN),Landed 17:28,2021-04-30
+274,274,17:43 B61696,,San Jose (SJO),JetBlue Airways A320 (N653JB),Landed 17:25,2021-04-30
+275,275,17:43 UA311,,Houston (IAH),United Airlines B738 (N12225),Landed 17:23,2021-04-30
+276,276,17:44 B6119,,Albany (ALB),JetBlue Airways E190 (N296JB),Landed 17:25,2021-04-30
+277,277,17:45 WN1326,,Chicago (MDW),Southwest Airlines B738 (N8579Z),Landed 17:31,2021-04-30
+278,278,17:50 DL541,,New York (LGA),Delta Air Lines A320 (N342NW),Landed 17:28,2021-04-30
+279,279,17:50 WN695,,Nashville (BNA),Southwest Airlines B738 (N8687A),Landed 17:43,2021-04-30
+280,280,17:55 WN368,,Dallas (DAL),Southwest Airlines B737 (N7739A),Landed 17:55,2021-04-30
+281,281,17:59 DL1749,,Los Angeles (LAX),Delta Air Lines B739 (N905DN),Landed 17:52,2021-04-30
+282,282,18:00 DL1553,,Atlanta (ATL),Delta Air Lines B753 (N592NW),Landed 17:49,2021-04-30
+283,283,18:00 UA1432,,Los Angeles (LAX),United Airlines B739 (N37471),Landed 17:59,2021-04-30
+284,284,18:00 WN5905,,Buffalo (BUF),Southwest Airlines B738 (N8626B),Landed 17:42,2021-04-30
+285,285,18:08 B6495,,White Plains (HPN),JetBlue Airways A320 (N562JB),Landed 18:06,2021-04-30
+286,286,18:11 F91243,,Baltimore (BWI),Frontier (O'Malley the Mallard Duck Livery) A20N (N356FR),Landed 17:57,2021-04-30
+287,287,18:14 UA272,,New York (EWR),United Airlines B738 (N14249),Landed 18:32,2021-04-30
+288,288,18:15 WN238,,Denver (DEN),Southwest Airlines B737 (N235WN),Landed 18:51,2021-04-30
+289,289,18:17 NK629,,New York (LGA),Spirit Airlines A321 (N663NK),Landed 18:26,2021-04-30
+290,290,18:23 F930,,Cancun (CUN),Frontier (Betty the Bluebird Livery) A320 (N230FR),Landed 18:25,2021-04-30
+291,291,18:25 AS1302,,San Francisco (SFO),Alaska Airlines B738 (N549AS),Unknown,2021-04-30
+292,292,18:30 WN1974,,Birmingham (BHM),Southwest Airlines B738 (N8600F),Landed 18:28,2021-04-30
+293,293,18:30 3M69,,Huntsville (HSV),Silver Airways AT46 (N402SV),Landed 18:13,2021-04-30
+294,294,18:31 UA622,,Chicago (ORD),United Airlines B753 (N74856),Landed 18:05,2021-04-30
+295,295,18:34 DL2200,,Cincinnati (CVG),Delta Air Lines B738 (N3752),Landed 18:21,2021-04-30
+296,296,18:34 F91063,,Cincinnati (CVG),Frontier (Cubby the Bear Livery) A321 (N714FR),Landed 18:23,2021-04-30
+297,297,18:35 WN401,,Fort Lauderdale (FLL),Southwest Airlines B737 (N420WN),Landed 18:28,2021-04-30
+298,298,18:37 AA2490,,Dallas (DFW),American Airlines A321 (N900UW),Landed 18:36,2021-04-30
+299,299,18:37 DL760,,New York (JFK),Delta Air Lines B738 (N377DA),Landed 18:18,2021-04-30
+300,300,18:39 B6199,,San Juan (SJU),JetBlue Airways A321 (N952JB),Landed 17:58,2021-04-30
+301,301,18:40 WN5255,,Chicago (MDW),Southwest Airlines B737 (N254WN),Landed 18:19,2021-04-30
+302,302,18:40 WN5962,,Austin (AUS),Southwest Airlines (Classic Retro Livery) B737 (N714CB),Landed 18:17,2021-04-30
+303,303,18:42,B684,New York (JFK),JetBlue Airways A21N (N2039J),Landed 18:36,2021-04-30
+304,304,18:43 NK2004,,Baltimore (BWI),Spirit Airlines A320 (N697NK),Landed 18:30,2021-04-30
+305,305,18:45,,Fort Lauderdale (FXE),- (N93VC),Landed 18:48,2021-04-30
+306,306,18:46 AA2380,,Charlotte (CLT),American Airlines B738 (N827NN),Landed 18:48,2021-04-30
+307,307,18:49 NK1922,,Bogota (BOG),Spirit Airlines A20N (N918NK),Landed 21:22,2021-04-30
+308,308,18:54 NK433,,Boston (BOS),Spirit Airlines A320 (N698NK),Landed 18:38,2021-04-30
+309,309,19:01 B61075,,Providence (PVD),JetBlue Airways (Vets in Blue Livery) A320 (N775JB),Landed 18:44,2021-04-30
+310,310,19:03 F91012,,Atlanta (ATL),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 18:43,2021-04-30
+311,311,19:05,DL2422,Atlanta (ATL),Delta Air Lines B752 (N6706Q),Landed 18:38,2021-04-30
+312,312,19:05,F91030,Nashville (BNA),Frontier (Spot the Jaguar Livery) A321 (N712FR),Landed 18:55,2021-04-30
+313,313,19:09 B6551,,Boston (BOS),JetBlue Airways A320 (N624JB),Landed 18:55,2021-04-30
+314,314,19:10 B62223,,Washington (DCA),JetBlue Airways E190 (N298JB),Unknown,2021-04-30
+315,315,19:11 UA1683,,Denver (DEN),United Airlines B738 (N77510),Landed 18:58,2021-04-30
+316,316,19:15 WN2345,,Phoenix (PHX),Southwest Airlines B737 (N477WN),Landed 19:01,2021-04-30
+317,317,19:15 WN5936,,New Orleans (MSY),Southwest Airlines (Arizona One Livery) B737 (N955WN),Landed 18:49,2021-04-30
+318,318,19:20 WN1275,,Baltimore (BWI),Southwest Airlines B737 (N7840A),Landed 19:10,2021-04-30
+319,319,19:24 B6399,,New York (LGA),JetBlue Airways A320 (N662JB),Landed 19:07,2021-04-30
+320,320,19:24 NK1691,,Pittsburgh (PIT),Spirit Airlines A320 (N603NK),Landed 19:00,2021-04-30
+321,321,19:25 WN1210,,Atlanta (ATL),Southwest Airlines B737 (N426WN),Landed 19:43,2021-04-30
+322,322,19:30 NK387,,Akron (CAK),Spirit Airlines A20N (N903NK),Landed 20:05,2021-04-30
+323,323,19:30 5X5512,,Tampa (TPA),UPS A306 (N168UP),Landed 19:15,2021-04-30
+324,324,19:32 FX358,,Memphis (MEM),FedEx B763 (N170FE),Landed 19:20,2021-04-30
+325,325,19:33 DL2070,,Detroit (DTW),Delta Air Lines B753 (N596NW),Landed 19:17,2021-04-30
+326,326,19:35 WN790,,San Juan (SJU),Southwest Airlines B737 (N479WN),Landed 19:09,2021-04-30
+327,327,19:35 WN1222,,Indianapolis (IND),Southwest Airlines B737 (N948WN),Landed 19:18,2021-04-30
+328,328,19:36 F91191,,Raleigh-Durham (RDU),Frontier (Finn the Tiger Shark Livery) A320 (N220FR),Landed 19:23,2021-04-30
+329,329,19:47 F9131,,St. Thomas (STT),Frontier (Sammy the Squirrel Livery) A320 (N232FR),Landed 19:41,2021-04-30
+330,330,19:50 WN365,,St. Louis (STL),Southwest Airlines B38M (N8720L),Landed 19:39,2021-04-30
+331,331,19:55 WN1542,,Chicago (MDW),Southwest Airlines B737 (N7843A),Landed 19:46,2021-04-30
+332,332,19:56 DL2022,,Minneapolis (MSP),Delta Air Lines B752 (N671DN),Landed 19:35,2021-04-30
+333,333,19:56 F9801,,Trenton (TTN),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 01:20,2021-04-30
+334,334,20:01 DL1477,,Atlanta (ATL),Delta Air Lines B739 (N881DN),Landed 19:41,2021-04-30
+335,335,20:04 DL1101,,New York (LGA),Delta Air Lines B738 (N397DA),Landed 19:49,2021-04-30
+336,336,20:05 WN1105,,Houston (HOU),Southwest Airlines B737 (N7832A),Landed 23:04,2021-04-30
+337,337,20:05 WN980,,Washington (DCA),Southwest Airlines B737 (N754SW),Landed 19:36,2021-04-30
+338,338,20:05 WN1687,,Kansas City (MCI),Southwest Airlines B738 (N8634A),Landed 19:44,2021-04-30
+339,339,20:07 B62416,,Austin (AUS),JetBlue Airways A320 (N563JB),Landed 20:03,2021-04-30
+340,340,20:08 DL1291,,New York (JFK),Delta Air Lines B739 (N849DN),Landed 19:33,2021-04-30
+341,341,20:08 SY345,,Minneapolis (MSP),Sun Country Airlines B738 (N837SY),Landed 19:37,2021-04-30
+342,342,20:09 B61837,,Windsor Locks (BDL),JetBlue Airways A320 (N509JB),Landed 20:11,2021-04-30
+343,343,20:09 F91169,,Philadelphia (PHL),Frontier (Gordon The Golden Eagle Livery) A321 (N723FR),Landed 22:05,2021-04-30
+344,344,20:10 WN663,,Nashville (BNA),Southwest Airlines (Florida One Livery) B737 (N945WN),Landed 20:02,2021-04-30
+345,345,20:12 UA2268,,Washington (IAD),United Airlines B753 (N57857),Canceled,2021-04-30
+346,346,20:23 AA1919,,Philadelphia (PHL),American Airlines A321 (N979UY),Landed 20:08,2021-04-30
+347,347,20:27 B62427,,New York (EWR),JetBlue Airways A320 (N806JB),Landed 20:16,2021-04-30
+348,348,20:28 AA2791,,Dallas (DFW),American Airlines A321 (N134AN),Landed 19:56,2021-04-30
+349,349,20:30 WN1988,,Dallas (DAL),Southwest Airlines B738 (N8679A),Landed 20:47,2021-04-30
+350,350,20:31 B6651,,Boston (BOS),JetBlue Airways A320 (N561JB),Landed 20:27,2021-04-30
+351,351,20:35 UA2496,,Houston (IAH),United Airlines B39M (N27503),Landed 21:09,2021-04-30
+352,352,20:37 AA1842,,Charlotte (CLT),American Airlines A321 (N573UW),Landed 20:10,2021-04-30
+353,353,20:42 NK753,,Philadelphia (PHL),Spirit Airlines A321 (N671NK),Landed 20:45,2021-04-30
+354,354,20:54 UA1819,,New York (EWR),United Airlines B752 (N14107),Landed 20:36,2021-04-30
+355,355,20:57 AA463,,Miami (MIA),American Airlines B38M (N336RU),Landed 20:43,2021-04-30
+356,356,20:58 NK535,,Cleveland (CLE),Spirit Airlines A321 (N668NK),Landed 20:58,2021-04-30
+357,357,21:00 NK618,,New Orleans (MSY),Spirit Airlines A320 (N611NK),Landed 20:31,2021-04-30
+358,358,21:00 WN1915,,Columbus (CMH),Southwest Airlines B738 (N8673F),Landed 21:12,2021-04-30
+359,359,21:04 F91035,,Burlington (BTV),Frontier (Eccles the Ermine Livery) A20N (N339FR),Landed 21:25,2021-04-30
+360,360,21:04 NK520,,Windsor Locks (BDL),Spirit Airlines A319 (N504NK),Landed 20:55,2021-04-30
+361,361,21:10 NK1156,,Houston (IAH),Spirit Airlines A320 (N604NK),Landed 20:40,2021-04-30
+362,362,21:11 AA424,,Dallas (DFW),American Airlines B738 (N928NN),Landed 20:49,2021-04-30
+363,363,21:14 NK1238,,Atlantic City (ACY),Spirit Airlines A320 (N692NK),Landed 20:57,2021-04-30
+364,364,21:15 UA1852,,San Francisco (SFO),United Airlines B739 (N36444),Landed 20:52,2021-04-30
+365,365,21:27 AA411,,Phoenix (PHX),American Airlines A321 (N552UW),Landed 21:20,2021-04-30
+366,366,21:28 DL2490,,Atlanta (ATL),Delta Air Lines B752 (N6705Y),Landed 21:12,2021-04-30
+367,367,21:28 F91146,,Omaha (OMA),Frontier (Stretch the Great Blue Heron Livery) A20N (N334FR),Landed 21:03,2021-04-30
+368,368,21:33 UA327,,Denver (DEN),United Airlines B752 (N17105),Landed 21:23,2021-04-30
+369,369,21:43 UA3032,,Washington (IAD),United Airlines B763 (N675UA),Landed 22:11,2021-04-30
+370,370,21:45 DL2308,,Raleigh-Durham (RDU),Delta Air Lines A319 (N330NB),Landed 21:17,2021-04-30
+371,371,21:45 WN935,,San Juan (SJU),Southwest Airlines B737 (N7737E),Landed 21:20,2021-04-30
+372,372,21:46 UA2173,,Chicago (ORD),United Airlines B738 (N76505),Landed 21:26,2021-04-30
+373,373,21:47 F91097,,Islip (ISP),Frontier (Alberta & Clipper: Polar Bears Livery) A320 (N206FR),Landed 22:25,2021-04-30
+374,374,21:49 F91278,,Miami (MIA),Frontier (Piper the white Pelican Livery) A20N (N375FR),Landed 21:14,2021-04-30
+375,375,22:01 LBQ783,,Tampa (TPA),Quest Diagnostics PC12 (N465PC),Landed 21:53,2021-04-30
+376,376,22:05 WN450,,Milwaukee (MKE),Southwest Airlines B737 (N907WN),Landed 22:15,2021-04-30
+377,377,22:10 WN1718,,Baltimore (BWI),Southwest Airlines B737 (N737JW),Landed 22:38,2021-04-30
+378,378,22:11 NK1614,,Baltimore (BWI),Spirit Airlines A321 (N667NK),Landed 21:53,2021-04-30
+379,379,22:13 AA2497,,Washington (DCA),American Airlines A319 (N836AW),Landed 22:17,2021-04-30
+380,380,22:15 WN660,,Chicago (MDW),Southwest Airlines B738 (N8583Z),Landed 22:01,2021-04-30
+381,381,22:18 F91261,,New York (EWR),Frontier (Cali the Mountain Lion Livery) A321 (N718FR),Landed 22:12,2021-04-30
+382,382,22:25 WN189,,Atlanta (ATL),Southwest Airlines B737 (N212WN),Landed 22:40,2021-04-30
+383,383,22:25 WN155,,Nashville (BNA),Southwest Airlines B737 (N7855A),Landed 22:16,2021-04-30
+384,384,22:25 WN1272,,Pittsburgh (PIT),Southwest Airlines (Nevada One Livery) B737 (N727SW),Landed 22:19,2021-04-30
+385,385,22:27 NK135,,Minneapolis (MSP),Spirit Airlines A20N (N932NK),Landed 00:15,2021-04-30
+386,386,22:28 AA598,,Dallas (DFW),American Airlines A321 (N149AN),Landed 22:19,2021-04-30
+387,387,22:28 B6901,,New York (JFK),JetBlue Airways A321 (N955JB),Landed 22:00,2021-04-30
+388,388,22:30 AA1879,,Charlotte (CLT),American Airlines A321 (N519UW),Landed 22:09,2021-04-30
+389,389,22:30 B61134,,San Juan (SJU),JetBlue Airways (Boston Celtics Livery) A320 (N595JB),Landed 21:51,2021-04-30
+390,390,22:30 WN298,,Houston (HOU),Southwest Airlines B38M (N8725L),Landed 22:20,2021-04-30
+391,391,22:35 WN861,,Denver (DEN),Southwest Airlines B737 (N252WN),Landed 22:06,2021-04-30
+392,392,22:36 NK1481,,Detroit (DTW),Spirit Airlines A321 (N678NK),Landed 22:14,2021-04-30
+393,393,22:37 CM811,,Panama City (PTY),Copa Airlines B738 (HP-1833CMP),Landed 22:22,2021-04-30
+394,394,22:38 DL1555,,Atlanta (ATL),Delta Air Lines B752 (N557NW),Landed 22:23,2021-04-30
+395,395,22:39 DL1543,,Los Angeles (LAX),Delta Air Lines B739 (N908DN),Landed 22:26,2021-04-30
+396,396,22:45 CM285,,Panama City (PTY),Copa Airlines B738 (HP-1840CMP),Landed 22:27,2021-04-30
+397,397,22:48 NK431,,Kansas City (MCI),Spirit Airlines A20N (N920NK),Landed 23:02,2021-04-30
+398,398,22:49 DL1268,,Minneapolis (MSP),Delta Air Lines B752 (N683DA),Landed 22:03,2021-04-30
+399,399,22:55 AA4967,,Key West (EYW),American Eagle E75S (N120HQ),Landed 22:38,2021-04-30
+400,400,23:00 DL2520,,New York (LGA),Delta Air Lines A320 (N360NW),Landed 22:21,2021-04-30
+401,401,23:00 WN553,,Dallas (DAL),Southwest Airlines B38M (N8702L),Landed 23:03,2021-04-30
+402,402,23:02,UA1954,Houston (IAH),United Airlines (Star Alliance Livery) B738 (N26210),Landed 22:51,2021-04-30
+403,403,23:03 NK676,,Fort Lauderdale (FLL),Spirit Airlines A321 (N663NK),Landed 00:33,2021-04-30
+404,404,23:05,AA2803,Miami (MIA),American Airlines B738 (N948AN),Landed 22:42,2021-04-30
+405,405,23:08 F91091,,Indianapolis (IND),Frontier (Midnight the Wolf Livery) A321 (N719FR),Landed 00:43,2021-04-30
+406,406,23:11,DL1473,Boston (BOS),Delta Air Lines A320 (N321US),Landed 22:46,2021-04-30
+407,407,23:11 F91122,,Memphis (MEM),Frontier (Ichabod the Whooping Crane Livery) A20N (N358FR),Landed 23:47,2021-04-30
+408,408,23:13,DL2354,New York (JFK),Delta Air Lines B738 (N3730B),Landed 22:44,2021-04-30
+409,409,23:17,AA1673,Philadelphia (PHL),American Airlines A320 (N122US),Landed 22:56,2021-04-30
+410,410,23:20 WN519,,Las Vegas (LAS),Southwest Airlines B738 (N8640D),Landed 23:07,2021-04-30
+411,411,23:28 F91215,,Syracuse (SYR),Frontier (Grizwald the Grizzly Bear Livery) A320 (N211FR),Landed 02:14,2021-04-30
+412,412,23:41 F91134,,Minneapolis (MSP),Frontier (Shelly the Sea Turtle) A20N (N316FR),Landed 23:00,2021-04-30
+413,413,23:52 DL1162,,Salt Lake City (SLC),Delta Air Lines B739 (N853DN),Landed 23:41,2021-04-30
+414,414,23:53,UA259,Denver (DEN),United Airlines B752 (N13110),Landed 23:30,2021-04-30
+415,415,23:54 AA2188,,Miami (MIA),American Airlines (Reno Air Heritage Livery) B738 (N916NN),Landed 23:18,2021-04-30
+416,416,23:55,DL2117,Detroit (DTW),Delta Air Lines A321 (N371DN),Landed 23:47,2021-04-30
+417,417,23:57 F91210,,St. Louis (STL),Frontier (Xavier the Mountain Goat Livery) A321 (N722FR),Landed 00:39,2021-04-30
+418,418,23:59 NK1264,,San Juan (SJU),Spirit Airlines A320 (N630NK),Landed 23:39,2021-04-30
+0,0,12:04 AM,DL1114,Atlanta (ATL),Delta Air Lines B753 (N590NW),Landed 11:52 PM,2021-05-01
+1,1,12:19 AM NK38,,Dallas (DFW),Spirit Airlines A319 (N535NK),Landed 12:30 AM,2021-05-01
+2,2,12:20 AM WN1413,,Chicago (MDW),Southwest Airlines B738 (N8652B),Landed 12:04 AM,2021-05-01
+3,3,12:22 AM AA2092,,Charlotte (CLT),American Airlines A321 (N509AY),Landed 12:02 AM,2021-05-01
+4,4,12:30 AM WN1912,,Denver (DEN),Southwest Airlines B738 (N8518R),Landed 11:59 PM,2021-05-01
+5,5,12:45 AM DL1427,,Minneapolis (MSP),Delta Air Lines B752 (N676DL),Landed 12:10 AM,2021-05-01
+6,6,1:16 AM DL8937,,Memphis (MEM),Delta Air Lines B752 (N662DN),Landed 1:55 AM,2021-05-01
+7,7,1:16 AM DL8930,,Memphis (MEM),Delta Air Lines B752 (N655DL),Landed 1:24 AM,2021-05-01
+8,8,5:00 AM NK143,,Aguadilla (BQN),Spirit Airlines A319 (N502NK),Landed 4:34 AM,2021-05-01
+9,9,5:01 AM B6802,,Salt Lake City (SLC),JetBlue Airways A321 (N954JB),Landed 4:30 AM,2021-05-01
+10,10,5:17 AM,F91102,Las Vegas (LAS),Frontier (Champ the Bronco Livery) A20N (N307FR),Landed 4:58 AM,2021-05-01
+11,11,5:18 AM NK893,,San Juan (SJU),Spirit Airlines A320 (N656NK),Landed 4:49 AM,2021-05-01
+12,12,5:42 AM DL572,,Salt Lake City (SLC),Delta Air Lines B739 (N905DN),Landed 5:25 AM,2021-05-01
+13,13,5:53 AM FX1409,,Memphis (MEM),FedEx B763 (N174FE),Landed 6:09 AM,2021-05-01
+14,14,6:00 AM,F9678,Denver (DEN),Frontier (Cody & Dakota the Coyotes Livery) A321 (N721FR),Landed 5:52 AM,2021-05-01
+15,15,6:17 AM F9105,,San Juan (SJU),Frontier (Stretch the Great Blue Heron Livery) A20N (N334FR),Landed 5:57 AM,2021-05-01
+16,16,6:24 AM,UA2410,Los Angeles (LAX),United Airlines B738 (N12225),Landed 6:20 AM,2021-05-01
+17,17,6:31 AM AS38,,Seattle (SEA),Alaska Airlines B739 (N297AK),Landed 6:01 AM,2021-05-01
+18,18,6:51 AM DL1652,,Seattle (SEA),Delta Air Lines B739 (N895DN),Landed 6:31 AM,2021-05-01
+19,19,7:09 AM 5X400,,Louisville (SDF),UPS B763 (N350UP),Landed 7:25 AM,2021-05-01
+20,20,7:18 AM,B6132,Los Angeles (LAX),JetBlue Airways (Vets in Blue Livery) A320 (N775JB),Landed 7:14 AM,2021-05-01
+21,21,7:25 AM WN3296,,Raleigh-Durham (RDU),Southwest Airlines B737 (N496WN),Landed 8:47 AM,2021-05-01
+22,22,7:30 AM,DL543,Los Angeles (LAX),Delta Air Lines B739 (N831DN),Landed 7:30 AM,2021-05-01
+23,23,8:18 AM DL1763,,Cincinnati (CVG),Delta Air Lines B738 (N391DA),Landed 8:05 AM,2021-05-01
+24,24,8:20 AM WN2182,,Columbus (CMH),Southwest Airlines B738 (N8609A),Landed 8:00 AM,2021-05-01
+25,25,8:29 AM NK1095,,Philadelphia (PHL),Spirit Airlines A320 (N693NK),Landed 8:04 AM,2021-05-01
+26,26,8:30 AM WN1543,,Pittsburgh (PIT),Southwest Airlines B737 (N227WN),Landed 8:17 AM,2021-05-01
+27,27,8:35 AM NK1101,,Charlotte (CLT),Spirit Airlines A20N (N903NK),Landed 8:12 AM,2021-05-01
+28,28,8:35 AM WN2502,,Indianapolis (IND),Southwest Airlines B738 (N8653A),Landed 8:14 AM,2021-05-01
+29,29,8:36 AM NK1227,,New York (EWR),Spirit Airlines A20N (N919NK),Landed 8:18 AM,2021-05-01
+30,30,8:38 AM DL651,,Detroit (DTW),Delta Air Lines B752 (N554NW),Landed 8:37 AM,2021-05-01
+31,31,8:39 AM NK1209,,Atlanta (ATL),Spirit Airlines A320 (N694NK),Landed 8:24 AM,2021-05-01
+32,32,8:40 AM NK576,,Detroit (DTW),Spirit Airlines A320 (N646NK),Landed 8:20 AM,2021-05-01
+33,33,8:43 AM,B6327,New York (EWR),JetBlue Airways A321 (N907JB),Landed 8:21 AM,2021-05-01
+34,34,8:43 AM,F91165,Philadelphia (PHL),Frontier (Francie the Piping Plover Livery) A20N (N373FR),Landed 8:10 AM,2021-05-01
+35,35,8:45 AM WN2262,,Washington (DCA),Southwest Airlines B737 (N403WN),Landed 8:27 AM,2021-05-01
+36,36,8:50 AM WN2870,,New Orleans (MSY),Southwest Airlines B737 (N7866A),Landed 8:28 AM,2021-05-01
+37,37,8:52 AM B6737,,Windsor Locks (BDL),JetBlue Airways A320 (N634JB),Landed 8:49 AM,2021-05-01
+38,38,8:52 AM DL1633,,Atlanta (ATL),Delta Air Lines B739 (N879DN),Landed 8:34 AM,2021-05-01
+39,39,8:55 AM WN4628,,Windsor Locks (BDL),Southwest Airlines B738 (N8541W),Landed 8:30 AM,2021-05-01
+40,40,9:00 AM WN2141,,Baltimore (BWI),Southwest Airlines B737 (N413WN),Unknown,2021-05-01
+41,41,9:00 AM WN2516,,Islip (ISP),Southwest Airlines B737 (N296WN),Landed 8:43 AM,2021-05-01
+42,42,9:00 AM WN2963,,Philadelphia (PHL),Southwest Airlines B738 (N8619F),Landed 8:39 AM,2021-05-01
+43,43,9:00 AM WN3030,,Providence (PVD),Southwest Airlines B737 (N731SA),Landed 8:34 AM,2021-05-01
+44,44,9:09 AM B6227,,San Juan (SJU),JetBlue Airways A320 (N510JB),Landed 8:41 AM,2021-05-01
+45,45,9:10 AM WN4754,,Birmingham (BHM),Southwest Airlines B738 (N8689C),Landed 8:57 AM,2021-05-01
+46,46,9:10 AM WN4809,,Nashville (BNA),Southwest Airlines B38M (N8723Q),Landed 8:54 AM,2021-05-01
+47,47,9:14 AM,B6151,Boston (BOS),JetBlue Airways A321 (N996JL),Landed 8:46 AM,2021-05-01
+48,48,9:15 AM WN2822,,Manchester (MHT),Southwest Airlines B737 (N427WN),Landed 8:46 AM,2021-05-01
+49,49,9:15 AM WN3313,,Houston (HOU),Southwest Airlines B737 (N420WN),Landed 8:59 AM,2021-05-01
+50,50,9:20 AM WN2812,,Memphis (MEM),Southwest Airlines B738 (N8572X),Landed 11:24 AM,2021-05-01
+51,51,9:30 AM WN2801,,Chicago (MDW),Southwest Airlines B738 (N8664J),Landed 9:04 AM,2021-05-01
+52,52,9:34 AM,F91010,Atlanta (ATL),Frontier (Cliff the Mountain Goat Livery) A20N (N305FR),Landed 9:08 AM,2021-05-01
+53,53,9:35 AM WN4607,,Austin (AUS),Southwest Airlines B737 (N297WN),Landed 9:17 AM,2021-05-01
+54,54,9:35 AM NK8026,,Myrtle Beach (MYR),Spirit Airlines A319,Unknown,2021-05-01
+55,55,9:35 AM NK8826,,Myrtle Beach (MYR),Spirit Airlines A319 (N526NK),Landed 8:51 AM,2021-05-01
+56,56,9:36 AM AA1715,,Charlotte (CLT),American Airlines A321 (N194UW),Landed 9:07 AM,2021-05-01
+57,57,9:40 AM DL1746,,Detroit (DTW),Delta Air Lines B739 (N901DN),Landed 9:20 AM,2021-05-01
+58,58,9:40 AM WN4903,,Buffalo (BUF),Southwest Airlines B738 (N8526W),Landed 9:21 AM,2021-05-01
+59,59,9:43 AM,AA1712,Miami (MIA),American Airlines B738 (N930NN),Landed 9:13 AM,2021-05-01
+60,60,9:47 AM 2I342,,Cincinnati (CVG),21 Air B762 (N999YV),Landed 9:31 AM,2021-05-01
+61,61,9:50 AM B6195,,White Plains (HPN),JetBlue Airways E190 (N375JB),Landed 9:24 AM,2021-05-01
+62,62,9:50 AM,F91259,New York (EWR),Frontier (Ward the Beaver Livery) A20N (N363FR),Landed 9:16 AM,2021-05-01
+63,63,9:50 AM NK317,,Indianapolis (IND),Spirit Airlines A320 (N631NK),Landed 9:23 AM,2021-05-01
+64,64,9:50 AM WN3202,,St. Louis (STL),Southwest Airlines B738 (N8502Z),Landed 9:26 AM,2021-05-01
+65,65,9:53 AM DL1533,,Atlanta (ATL),Delta Air Lines B752 (N900PC),Landed 9:48 AM,2021-05-01
+66,66,9:55 AM NK708,,Cleveland (CLE),Spirit Airlines A20N (N921NK),Landed 9:50 AM,2021-05-01
+67,67,9:56 AM DL2058,,Raleigh-Durham (RDU),Delta Air Lines A319 (N353NB),Landed 9:44 AM,2021-05-01
+68,68,10:01 AM NK198,,Fort Lauderdale (FLL),Spirit Airlines A20N (N918NK),Landed 9:37 AM,2021-05-01
+69,69,10:03 AM,DL1094,New York (LGA),Delta Air Lines B738 (N3739P),Landed 9:34 AM,2021-05-01
+70,70,10:05 AM WN2256,,Dallas (DAL),Southwest Airlines B737 (N7888A),Landed 9:41 AM,2021-05-01
+71,71,10:09 AM,F91065,Cincinnati (CVG),Frontier (Clover the Deer Fawn Livery) A20N (N348FR),Landed 9:53 AM,2021-05-01
+72,72,10:12 AM,AA1647,Chicago (ORD),American Airlines A321 (N909AM),Unknown,2021-05-01
+73,73,10:15 AM WN1754,,San Juan (SJU),Southwest Airlines B737 (N495WN),Landed 9:46 AM,2021-05-01
+74,74,10:20 AM WN3100,,San Antonio (SAT),Southwest Airlines B737 (N7877H),Landed 10:22 AM,2021-05-01
+75,75,10:20 AM WN5017,,Buffalo (BUF),Southwest Airlines B737 (N717SA),Landed 9:52 AM,2021-05-01
+76,76,10:22 AM DL1044,,Minneapolis (MSP),Delta Air Lines B752 (N658DL),Landed 9:45 AM,2021-05-01
+77,77,10:22 AM DL1442,,Boston (BOS),Delta Air Lines B738 (N3742C),Landed 9:55 AM,2021-05-01
+78,78,10:23 AM B61223,,Washington (DCA),JetBlue Airways A320 (N607JB),Landed 9:56 AM,2021-05-01
+79,79,10:24 AM NK830,,Houston (IAH),Spirit Airlines A320 (N603NK),Landed 9:51 AM,2021-05-01
+80,80,10:24 AM UA2079,,Cleveland (CLE),United Airlines B738 (N36207),Landed 10:03 AM,2021-05-01
+81,81,10:30 AM WN2406,,Fort Lauderdale (FLL),Southwest Airlines B737 (N913WN),Unknown,2021-05-01
+82,82,10:30 AM WN2692,,Kansas City (MCI),Southwest Airlines B738 (N8684F),Landed 10:09 AM,2021-05-01
+83,83,10:35 AM WN3037,,Atlanta (ATL),Southwest Airlines B738 (N8627B),Landed 10:11 AM,2021-05-01
+84,84,10:37 AM DL656,,Detroit (DTW),Delta Air Lines B752 (N673DL),Landed 10:21 AM,2021-05-01
+85,85,10:37 AM NK1042,,San Juan (SJU),Spirit Airlines A321 (N675NK),Landed 10:17 AM,2021-05-01
+86,86,10:40 AM WN2840,,Milwaukee (MKE),Southwest Airlines B737 (N966WN),Landed 10:17 AM,2021-05-01
+87,87,10:41 AM NK2962,,Dallas (DFW),Spirit Airlines A320 (N602NK),Landed 10:32 AM,2021-05-01
+88,88,10:42 AM NK2848,,Detroit (DTW),Spirit Airlines A321 (N680NK),Landed 10:14 AM,2021-05-01
+89,89,10:44 AM AA2695,,Charlotte (CLT),American Airlines A321 (N507AY),Landed 10:17 AM,2021-05-01
+90,90,10:50 AM WN2116,,Baltimore (BWI),Southwest Airlines B738 (N8642E),Landed 10:54 AM,2021-05-01
+91,91,10:55 AM DL1575,,Atlanta (ATL),Delta Air Lines B753 (N593NW),Landed 10:55 AM,2021-05-01
+92,92,11:01 AM B61697,,Philadelphia (PHL),JetBlue Airways A320 (N662JB),Landed 10:27 AM,2021-05-01
+93,93,11:03 AM AA1666,,Washington (DCA),American Airlines A319 (N721UW),Landed 10:46 AM,2021-05-01
+94,94,11:08 AM,F91155,Chicago (ORD),Frontier (Buck the Pronghorn Livery) A320 (N233FR),Landed 10:26 AM,2021-05-01
+95,95,11:13 AM NK554,,New Orleans (MSY),Spirit Airlines A320 (N644NK),Landed 10:50 AM,2021-05-01
+96,96,11:13 AM SY8707,,Cincinnati (LUK),Sun Country Airlines B738 (N829SY),Landed 11:16 AM,2021-05-01
+97,97,11:14 AM B62751,,Boston (BOS),JetBlue Airways A320 (N519JB),Landed 10:43 AM,2021-05-01
+98,98,11:15 AM,UA1890,New York (EWR),United Airlines B739 (N61886),Landed 11:19 AM,2021-05-01
+99,99,11:18 AM,F91280,Miami (MIA),Frontier (O'Malley the Mallard Duck Livery) A20N (N356FR),Landed 11:00 AM,2021-05-01
+100,100,11:19 AM,AA1684,Philadelphia (PHL),American Airlines A321 (N169UW),Landed 10:48 AM,2021-05-01
+101,101,11:20 AM AA1386,,Chicago (ORD),American Airlines B738 (N891NN),Landed 10:42 AM,2021-05-01
+102,102,11:20 AM WN5987,,Detroit (DTW),Southwest Airlines B737 (N257WN),Landed 10:56 AM,2021-05-01
+103,103,11:23 AM,DL1065,New York (JFK),Delta Air Lines B738 (N377DA),Landed 10:51 AM,2021-05-01
+104,104,11:25 AM WN2743,,Nashville (BNA),Southwest Airlines B737 (N410WN),Landed 11:28 AM,2021-05-01
+105,105,11:30 AM,B683,New York (JFK),JetBlue Airways A320 (N524JB),Landed 10:57 AM,2021-05-01
+106,106,11:30 AM WN2962,,Philadelphia (PHL),Southwest Airlines B738 (N8688J),Landed 10:47 AM,2021-05-01
+107,107,11:30 AM WN3055,,Indianapolis (IND),Southwest Airlines B737 (N272WN),Landed 11:21 AM,2021-05-01
+108,108,11:31 AM B6655,,Syracuse (SYR),JetBlue Airways A320 (N563JB),Landed 10:50 AM,2021-05-01
+109,109,11:35 AM,F91051,Charlotte (CLT),Frontier (Cali the Mountain Lion Livery) A321 (N718FR),Landed 11:30 AM,2021-05-01
+110,110,11:35 AM SY341,,Minneapolis (MSP),Sun Country Airlines B738 (N835SY),Landed 11:08 AM,2021-05-01
+111,111,11:35 AM,3M71,Key West (EYW),Silver Airways AT46 (N403SV),Landed 11:29 AM,2021-05-01
+112,112,11:39 AM,F91043,Cleveland (CLE),Frontier (Elrey the Elk Livery) A20N (N370FR),Landed 11:33 AM,2021-05-01
+113,113,11:40 AM DL2118,,Detroit (DTW),Delta Air Lines B739 (N843DN),Landed 11:19 AM,2021-05-01
+114,114,11:40 AM WN2353,,Denver (DEN),Southwest Airlines B738 (N8674B),Landed 11:18 AM,2021-05-01
+115,115,11:41 AM AA4871,,Austin (AUS),American Eagle E75S (N109HQ),Landed 11:30 AM,2021-05-01
+116,116,11:45 AM WN1703,,Fort Myers (RSW),Southwets Airlines B738 (N8584Z),Landed 11:25 AM,2021-05-01
+117,117,11:46 AM NK929,,Chicago (ORD),Spirit Airlines A321 (N685NK),Landed 11:25 AM,2021-05-01
+118,118,11:48 AM NK1217,,Columbus (CMH),Spirit Airlines A320 (N609NK),Landed 11:26 AM,2021-05-01
+119,119,11:50 AM WN4656,,Houston (HOU),Southwest Airlines B737 (N7812G),Landed 11:45 AM,2021-05-01
+120,120,11:55 AM,DL1774,Atlanta (ATL),Delta Air Lines B753 (N589NW),Landed 11:42 AM,2021-05-01
+121,121,11:55 AM WN5911,,Windsor Locks (BDL),Southwest Airlines B737 (N908WN),Landed 11:23 AM,2021-05-01
+122,122,11:55 AM WN5404,,Austin (AUS),Southwest Airlines B737 (N7729A),Landed 11:33 AM,2021-05-01
+123,123,12:00 PM,UA2403,New York (EWR),United Airlines B738 (N76529),Landed 11:39 AM,2021-05-01
+124,124,12:02 PM B62327,,New York (EWR),JetBlue Airways A320 (N760JB),Landed 11:41 AM,2021-05-01
+125,125,12:05 PM WN2101,,Boston (BOS),Southwest Airlines B738 (N8675A),Landed 11:35 AM,2021-05-01
+126,126,12:11 PM NK321,,Raleigh-Durham (RDU),Spirit Airlines A320 (N698NK),Landed 11:48 AM,2021-05-01
+127,127,12:15 PM,F91163,Philadelphia (PHL),Frontier (Spot the Jaguar Livery) A321 (N712FR),Landed 11:56 AM,2021-05-01
+128,128,12:15 PM WN2930,,St. Louis (STL),Southwest Airlines B738 (N8552Z),Landed 11:52 AM,2021-05-01
+129,129,12:19 PM,Y4980,Mexico City (MEX),Volaris A320 (N527VL),Landed 11:39 AM,2021-05-01
+130,130,12:25 PM B61334,,San Juan (SJU),JetBlue Airways A320 (N599JB),Landed 11:57 AM,2021-05-01
+131,131,12:25 PM,3M66,Fort Lauderdale (FLL),Silver Airways AT46 (N401SV),Landed 12:03 PM,2021-05-01
+132,132,12:26 PM NK309,,Philadelphia (PHL),Spirit Airlines A321 (N671NK),Landed 12:42 PM,2021-05-01
+133,133,12:30 PM WN2780,,Chicago (MDW),Southwest Airlines B738 (N8694E),Landed 11:59 AM,2021-05-01
+134,134,12:31 PM,AA1710,Dallas (DFW),American Airlines A21N (N407AN),Unknown,2021-05-01
+135,135,12:35 PM DL2076,,Minneapolis (MSP),Delta Air Lines B752 (N670DN),Landed 12:05 PM,2021-05-01
+136,136,12:35 PM WN5521,,Dallas (DAL),Southwest Airlines (Florida One Livery) B737 (N945WN),Landed 12:21 PM,2021-05-01
+137,137,12:36 PM NK2077,,Baltimore (BWI),Spirit Airlines A321 (N667NK),Landed 12:26 PM,2021-05-01
+138,138,12:38 PM DL2081,,Detroit (DTW),Delta Air Lines A321 (N306DN),Landed 12:50 PM,2021-05-01
+139,139,12:42 PM SY343,,Minneapolis (MSP),Sun Country Airlines B738 (N836SY),Landed 12:26 PM,2021-05-01
+140,140,12:45 PM,UA2425,New York (EWR),United Airlines B752 (N19130),Landed 12:29 PM,2021-05-01
+141,141,12:46 PM,B6351,Boston (BOS),JetBlue Airways A320 (N569JB),Landed 12:20 PM,2021-05-01
+142,142,12:55 PM WN55,,New York (LGA),Southwest Airlines B737 (N7827A),Landed 12:19 PM,2021-05-01
+143,143,12:57 PM,DL2420,Atlanta (ATL),Delta Air Lines A321 (N394DX),Landed 12:41 PM,2021-05-01
+144,144,12:58 PM AA1649,,Charlotte (CLT),American Airlines A321 (N917UY),Landed 12:31 PM,2021-05-01
+145,145,12:58 PM,UA510,Chicago (ORD),United Airlines B738 (N77261),Landed 12:31 PM,2021-05-01
+146,146,1:04 PM NK303,,Atlantic City (ACY),Spirit Airlines A320 (N642NK),Landed 1:00 PM,2021-05-01
+147,147,1:05 PM,F9680,Denver (DEN),Frontier (Otto the Owl Livery) A321 (N701FR),Landed 1:53 PM,2021-05-01
+148,148,1:09 PM,UA413,Houston (IAH),United Airlines B738 (N73275),Landed 1:03 PM,2021-05-01
+149,149,1:10 PM WN2434,,Baltimore (BWI),Southwest Airlines B738 (N8672F),Landed 12:45 PM,2021-05-01
+150,150,1:10 PM,3M64,Pensacola (PNS),Silver Airways AT46 (N405SV),Landed 12:54 PM,2021-05-01
+151,151,1:13 PM,UA2098,Washington (IAD),United Airlines B753 (N57857),Landed 1:18 PM,2021-05-01
+152,152,1:20 PM WN4293,,Atlanta (ATL),Southwest Airlines B737 (N729SW),Landed 12:58 PM,2021-05-01
+153,153,1:23 PM AA1121,,Chicago (ORD),American Airlines B738 (N995NN),Landed 12:46 PM,2021-05-01
+154,154,1:23 PM F91075,,Grand Rapids (GRR),Frontier (Shelly the Sea Turtle) A20N (N316FR),Landed 12:53 PM,2021-05-01
+155,155,1:25 PM WN2235,,New Orleans (MSY),Southwest Airlines B737 (N7726A),Landed 1:11 PM,2021-05-01
+156,156,1:31 PM,AA2495,Miami (MIA),American Airlines B738 (N860NN),Landed 1:08 PM,2021-05-01
+157,157,1:33 PM DL407,,Minneapolis (MSP),Delta Air Lines A321 (N388DN),Landed 1:01 PM,2021-05-01
+158,158,1:35 PM WN3477,,Dallas (DAL),Southwest Airlines B738 (N8699A),Landed 1:22 PM,2021-05-01
+159,159,1:35 PM WN5432,,Chicago (MDW),Southwest Airlines B737 (N268WN),Landed 1:05 PM,2021-05-01
+160,160,1:42 PM NK246,,Boston (BOS),Spirit Airlines A20N (N932NK),Landed 1:26 PM,2021-05-01
+161,161,1:42 PM NK542,,Cancun (CUN),Spirit Airlines A319 (N504NK),Landed 1:19 PM,2021-05-01
+162,162,1:43 PM B61736,,Aguadilla (BQN),JetBlue Airways (NYC Fire Department Livery) A320 (N615JB),Landed 1:15 PM,2021-05-01
+163,163,1:45 PM WN2738,,San Juan (SJU),Southwest Airlines B737 (N252WN),Landed 1:20 PM,2021-05-01
+164,164,1:49 PM NK841,,Richmond (RIC),Spirit Airlines A20N (N925NK),Landed 1:26 PM,2021-05-01
+165,165,1:53 PM F91127,,Milwaukee (MKE),Frontier (Betty the Bluebird Livery) A320 (N230FR),Landed 6:24 PM,2021-05-01
+166,166,1:54 PM,AM434,Mexico City (MEX),Aeromexico B738 (XA-AMC),Landed 1:29 PM,2021-05-01
+167,167,1:56 PM,DL1600,Atlanta (ATL),Delta Air Lines B739 (N832DN),Landed 1:44 PM,2021-05-01
+168,168,1:58 PM NK732,,Austin (AUS),Spirit Airlines A321 (N663NK),Landed 1:36 PM,2021-05-01
+169,169,2:00 PM WN2520,,Norfolk (ORF),Southwest Airlines B737 (N496WN),Unknown,2021-05-01
+170,170,2:05 PM WN2979,,Phoenix (PHX),Southwest Airlines B38M (N8712L),Landed 1:58 PM,2021-05-01
+171,171,2:05 PM WN5268,,Baltimore (BWI),Southwest Airlines B737 (N7841A),Landed 2:06 PM,2021-05-01
+172,172,2:06 PM DL2398,,New York (LGA),Delta Air Lines A320 (N354NW),Landed 1:22 PM,2021-05-01
+173,173,2:09 PM NK117,,Detroit (DTW),Spirit Airlines A321 (N660NK),Landed 2:08 PM,2021-05-01
+174,174,2:10 PM WN2800,,Detroit (DTW),Southwest Airlines B737 (N432WN),Landed 1:41 PM,2021-05-01
+175,175,2:10 PM WN5984,,Boston (BOS),Southwest Airlines B737 (N235WN),Landed 1:42 PM,2021-05-01
+176,176,2:12 PM F91039,,Buffalo (BUF),Frontier (Joe Bob the Badger Livery) A321 (N708FR),Landed 1:48 PM,2021-05-01
+177,177,2:12 PM F91111,,New York (LGA),Frontier (Grizwald the Grizzly Bear Livery) A320 (N211FR),Landed 1:10 PM,2021-05-01
+178,178,2:15 PM M6881,,New York (EWR),Amerijet International B763 (N378CX),Landed 2:06 PM,2021-05-01
+179,179,2:17 PM B6114,,Cancun (CUN),JetBlue Airways A321 (N954JB),Landed 1:56 PM,2021-05-01
+180,180,2:20 PM AA1716,,Dallas (DFW),American Airlines A321 (N582UW),Landed 1:57 PM,2021-05-01
+181,181,2:20 PM NK959,,Windsor Locks (BDL),Spirit Airlines A20N (N915NK),Landed 1:52 PM,2021-05-01
+182,182,2:20 PM WN4911,,Cincinnati (CVG),Southwest Airlines B737 (N442WN),Landed 1:54 PM,2021-05-01
+183,183,2:21 PM B6789,,New York (JFK),JetBlue Airways A321 (N965JT),Landed 1:47 PM,2021-05-01
+184,184,2:21 PM DL484,,Boston (BOS),Delta Air Lines A320 (N360NW),Landed 2:10 PM,2021-05-01
+185,185,2:27 PM AA2497,,Washington (DCA),American Airlines A319 (N836AW),Landed 2:01 PM,2021-05-01
+186,186,2:34 PM DL2157,,Minneapolis (MSP),Delta Air Lines B752 (N557NW),Landed 2:09 PM,2021-05-01
+187,187,2:34 PM DL2541,,Salt Lake City (SLC),Delta Air Lines B739 (N903DN),Landed 2:17 PM,2021-05-01
+188,188,2:35 PM DL1426,,New York (JFK),Delta Air Lines A320 (N350NA),Landed 2:00 PM,2021-05-01
+189,189,2:40 PM AA656,,New York (LGA),American Airlines B738 (N935NN),Landed 2:04 PM,2021-05-01
+190,190,2:40 PM DL542,,Los Angeles (LAX),Delta Air Lines B739 (N816DN),Landed 3:01 PM,2021-05-01
+191,191,2:42 PM UA730,,Chicago (ORD),United Airlines B753 (N75854),Landed 2:11 PM,2021-05-01
+192,192,2:47 PM AA2544,,Charlotte (CLT),American Airlines A321 (N915US),Landed 2:16 PM,2021-05-01
+193,193,2:50 PM WN3538,,Chicago (MDW),Southwest Airlines B737 (N290WN),Landed 2:28 PM,2021-05-01
+194,194,2:52 PM F91183,,Providence (PVD),Frontier (Flo the Flamingo Livery) A20N (N308FR),Landed 2:30 PM,2021-05-01
+195,195,2:53 PM UA1836,,New York (EWR),United Airlines B739 (N66803),Landed 3:14 PM,2021-05-01
+196,196,2:54 PM AA1159,,Miami (MIA),American Airlines B38M (N303RE),Landed 2:26 PM,2021-05-01
+197,197,2:57 PM NK372,,Houston (IAH),Spirit Airlines A319 (N522NK),Landed 2:36 PM,2021-05-01
+198,198,3:03 PM DL1722,,Cincinnati (CVG),Delta Air Lines B738 (N391DA),Landed 2:39 PM,2021-05-01
+199,199,3:05 PM WN273,,Montego Bay (MBJ),Southwest Airlines B737 (N731SA),Landed 2:48 PM,2021-05-01
+200,200,3:05 PM WN2425,,Cleveland (CLE),Southwest Airlines B738 (N8653A),Landed 2:50 PM,2021-05-01
+201,201,3:05 PM WN2977,,Kansas City (MCI),Southwest Airlines B738 (N8630B),Landed 2:42 PM,2021-05-01
+202,202,3:10 PM WN2665,,Columbus (CMH),Southwest Airlines B738 (N8569Z),Landed 2:46 PM,2021-05-01
+203,203,3:10 PM WN2734,,Baltimore (BWI),Southwest Airlines B738 (N8679A),Landed 2:49 PM,2021-05-01
+204,204,3:10 PM WN2804,,Nashville (BNA),Southwest Airlines B737 (N7888A),Landed 3:07 PM,2021-05-01
+205,205,3:12 PM F91207,,Windsor Locks (BDL),Frontier (Midnight the Wolf Livery) A321 (N719FR),Landed 2:43 PM,2021-05-01
+206,206,3:16 PM DL1088,,Detroit (DTW),Delta Air Lines B753 (N596NW),Landed 3:05 PM,2021-05-01
+207,207,3:16 PM NK863,,Latrobe (LBE),Spirit Airlines A320 (N604NK),Landed 2:57 PM,2021-05-01
+208,208,3:17 PM CM478,,Panama City (PTY),Copa Airlines B738 (HP-1522CMP),Landed 2:53 PM,2021-05-01
+209,209,3:18 PM NK1947,,Nashville (BNA),Spirit Airlines A20N (N921NK),Landed 3:11 PM,2021-05-01
+210,210,3:19 PM UA755,,Denver (DEN),United Airlines B753 (N77871),Landed 2:59 PM,2021-05-01
+211,211,3:20 PM WN2351,,Washington (DCA),Southwest Airlines B737 (N736SA),Landed 2:56 PM,2021-05-01
+212,212,3:23 PM UA1217,,Houston (IAH),United Airlines B739 (N38424),Landed 3:27 PM,2021-05-01
+213,213,3:25 PM WN3274,,Pittsburgh (PIT),Southwest Airlines B737 (N7830A),Landed 2:52 PM,2021-05-01
+214,214,3:27 PM F91246,,Dallas (DFW),Frontier (Xavier the Mountain Goat Livery) A321 (N722FR),Landed 3:09 PM,2021-05-01
+215,215,3:30 PM AS782,,Portland (PDX),Alaska Airlines B739 (N402AS),Landed 3:23 PM,2021-05-01
+216,216,3:33 PM F91286,,Phoenix (PHX),Frontier (Kit the Kermode Bear Livery) A20N (N366FR),Landed 3:41 PM,2021-05-01
+217,217,3:38 PM DL1072,,Atlanta (ATL),Delta Air Lines B752 (N553NW),Landed 3:19 PM,2021-05-01
+218,218,3:38 PM F91231,,Green Bay (GRB),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 2:58 PM,2021-05-01
+219,219,3:40 PM NK58,,New York (EWR),Spirit Airlines A321 (N677NK),Landed 3:18 PM,2021-05-01
+220,220,3:52 PM NK173,,Minneapolis (MSP),Spirit Airlines A20N (N920NK),Landed 3:24 PM,2021-05-01
+221,221,3:55 PM WN2172,,San Juan (SJU),Southwest Airlines B738 (N8609A),Landed 3:37 PM,2021-05-01
+222,222,4:00 PM NK1310,,San Jose (SJO),Spirit Airlines A320 (N692NK),Landed 3:38 PM,2021-05-01
+223,223,4:00 PM WN2867,,Manchester (MHT),Southwest Airlines B737 (N7866A),Landed 3:43 PM,2021-05-01
+224,224,4:00 PM WN5882,,Dallas (DAL),Southwest Airlines B737 (N212WN),Landed 3:40 PM,2021-05-01
+225,225,4:03 PM DL854,,Raleigh-Durham (RDU),Delta Air Lines A319 (N343NB),Landed 5:49 PM,2021-05-01
+226,226,4:05 PM WN2147,,Rochester (ROC),Southwest Airlines B737 (N7850B),Landed 3:40 PM,2021-05-01
+227,227,4:10 PM NK1322,,Kansas City (MCI),Spirit Airlines A20N (N919NK),Landed 4:07 PM,2021-05-01
+228,228,4:10 PM WN2128,,Windsor Locks (BDL),Southwest Airlines B738 (N8683D),Landed 3:59 PM,2021-05-01
+229,229,4:10 PM WN5217,,St. Louis (STL),Southwest Airlines B737 (N927WN),Landed 4:49 PM,2021-05-01
+230,230,4:14 PM B61451,,Boston (BOS),JetBlue Airways (Vets in Blue Livery) A320 (N775JB),Landed 3:53 PM,2021-05-01
+231,231,4:15 PM WN2695,,Philadelphia (PHL),Southwest Airlines B737 (N948WN),Landed 3:34 PM,2021-05-01
+232,232,4:15 PM WN4015,,Providence (PVD),Southwest Airlines B738 (N8693A),Landed 3:49 PM,2021-05-01
+233,233,4:15 PM WN4938,,Milwaukee (MKE),Southwest Airlines B737 (N920WN),Landed 4:08 PM,2021-05-01
+234,234,4:20 PM NK884,,San Juan (SJU),Spirit Airlines A320 (N694NK),Landed 4:32 PM,2021-05-01
+235,235,4:20 PM WN5522,,Houston (HOU),Southwest Airlines B737 (N961WN),Landed 4:02 PM,2021-05-01
+236,236,4:21 PM DL797,,Salt Lake City (SLC),Delta Air Lines A321 (N301DV),Landed 4:12 PM,2021-05-01
+237,237,4:25 PM B61527,,New York (EWR),JetBlue Airways A321 (N907JB),Landed 4:01 PM,2021-05-01
+238,238,4:27 PM B61001,,New York (JFK),JetBlue Airways A320 (N529JB),Landed 4:06 PM,2021-05-01
+239,239,4:33 PM F91187,,Portland (PWM),Frontier (Georgia the Painted Bunting Livery) A20N (N317FR),Landed 3:50 PM,2021-05-01
+240,240,4:33 PM NK726,,Las Vegas (LAS),Spirit Airlines A320 (N636NK),Landed 4:34 PM,2021-05-01
+241,241,4:35 PM NK927,,Chicago (ORD),Spirit Airlines A321 (N665NK),Landed 4:22 PM,2021-05-01
+242,242,4:35 PM WN3258,,Houston (IAH),Southwest Airlines B737 (N569WN),Landed 4:20 PM,2021-05-01
+243,243,4:35 PM WN5974,,Birmingham (BHM),Southwest Airlines B737 (N908WN),Landed 4:16 PM,2021-05-01
+244,244,4:36 PM F99050,,Tampa (TPA),Frontier Airlines A20N,Unknown,2021-05-01
+245,245,4:37 PM AA1705,,Dallas (DFW),American Airlines A321 (N193UW),Landed 4:19 PM,2021-05-01
+246,246,4:38 PM B6969,,Richmond (RIC),JetBlue Airways A321 (N955JB),Landed 4:04 PM,2021-05-01
+247,247,4:40 PM WN2757,,Chicago (MDW),Southwest Airlines B738 (N8690A),Landed 4:29 PM,2021-05-01
+248,248,4:47 PM AA2525,,Chicago (ORD),American Airlines A321 (N187US),Landed 4:31 PM,2021-05-01
+249,249,4:50 PM AS760,,San Diego (SAN),Alaska Airlines B739 (N296AK),Landed 4:42 PM,2021-05-01
+250,250,4:50 PM WN3012,,Grand Rapids (GRR),Southwest Airlines B737 (N929WN),Landed 4:55 PM,2021-05-01
+251,251,4:52 PM DL1546,,Atlanta (ATL),Delta Air Lines B752 (N819DX),Landed 4:32 PM,2021-05-01
+252,252,4:55 PM WN2626,,Oklahoma City (OKC),Southwest Airlines B737 (N457WN),Landed 4:41 PM,2021-05-01
+253,253,4:55 PM WN5904,,Islip (ISP),Southwest Airlines B738 (N8552Z),Landed 7:03 PM,2021-05-01
+254,254,4:56 PM DL2538,,Detroit (DTW),Delta Air Lines B752 (N6708D),Landed 4:59 PM,2021-05-01
+255,255,4:56 PM NK277,,St. Thomas (STT),Spirit Airlines A319 (N535NK),Landed 4:46 PM,2021-05-01
+256,256,4:57 PM AA2214,,Charlotte (CLT),American Airlines A321 (N921US),Landed 4:48 PM,2021-05-01
+257,257,5:00 PM WN2410,,Omaha (OMA),Southwest Airlines B738 (N8533S),Landed 4:38 PM,2021-05-01
+258,258,5:02 PM F91045,,Cleveland (CLE),Frontier (Mitch the Wolverine Livery) A321 (N713FR),Landed 4:43 PM,2021-05-01
+259,259,5:03 PM F91239,,Boston (BOS),Frontier (Trixie the Fox Livery) A20N (N329FR),Landed 4:53 PM,2021-05-01
+260,260,5:04 PM DL502,,Seattle (SEA),Delta Air Lines B739 (N827DN),Landed 4:49 PM,2021-05-01
+261,261,5:06 PM F91167,,Philadelphia (PHL),Frontier (Gordon The Golden Eagle Livery) A321 (N723FR),Landed 4:28 PM,2021-05-01
+262,262,5:15 PM WN3197,,Indianapolis (IND),Southwest Airlines B737 (N237WN),Landed 4:51 PM,2021-05-01
+263,263,5:20 PM AS16,,Seattle (SEA),Alaska Airlines B738 (N524AS),Landed 5:04 PM,2021-05-01
+264,264,5:20 PM B61034,,San Juan (SJU),JetBlue Airways A320 (N652JB),Landed 5:04 PM,2021-05-01
+265,265,5:23 PM,,Roswell (ROW),- B752 (N187AN),Landed 4:05 PM,2021-05-01
+266,266,5:24 PM AA2547,,Phoenix (PHX),American Airlines A320 (N665AW),Landed 5:07 PM,2021-05-01
+267,267,5:25 PM F9107,,San Juan (SJU),Frontier (Hudson the Bog Turtle Livery) A20N (N379FR),Landed 5:48 PM,2021-05-01
+268,268,5:26 PM AA398,,Dallas (DFW),American Airlines A321 (N191UW),Landed 5:12 PM,2021-05-01
+269,269,5:27 PM AA2503,,Washington (DCA),American Airlines A319 (N721UW),Unknown,2021-05-01
+270,270,5:28 PM DL2077,,Minneapolis (MSP),Delta Air Lines B739 (N858DZ),Landed 4:53 PM,2021-05-01
+271,271,5:30 PM F91095,,Islip (ISP),Frontier (Jack the Rabbit Livery) A20N (N304FR),Landed 8:36 PM,2021-05-01
+272,272,5:32 PM AA483,,Philadelphia (PHL),American Airlines B738 (N843NN),Landed 4:56 PM,2021-05-01
+273,273,5:35 PM WN2296,,Chicago (ORD),Southwest Airlines B737 (N279WN),Landed 5:07 PM,2021-05-01
+274,274,5:37 PM AA2512,,Los Angeles (LAX),American Airlines A321 (N908AA),Landed 5:23 PM,2021-05-01
+275,275,5:43 PM UA311,,Houston (IAH),United Airlines B738 (N24202),Landed 5:26 PM,2021-05-01
+276,276,5:44 PM B6119,,Albany (ALB),JetBlue Airways E190 (N375JB),Landed 5:01 PM,2021-05-01
+277,277,5:44 PM F930,,Cancun (CUN),Frontier (Champ the Bronco Livery) A20N (N307FR),Landed 6:00 PM,2021-05-01
+278,278,5:50 PM DL541,,New York (LGA),Delta Air Lines A320 (N358NW),Landed 5:36 PM,2021-05-01
+279,279,5:51 PM 1I783,,Palm Springs (PSP),NetJets CL30,Unknown,2021-05-01
+280,280,5:55 PM WN3298,,Louisville (SDF),Southwest Airlines B737 (N487WN),Landed 5:34 PM,2021-05-01
+281,281,5:59 PM DL1749,,Los Angeles (LAX),Delta Air Lines B739 (N873DN),Landed 5:57 PM,2021-05-01
+282,282,6:00 PM DL1553,,Atlanta (ATL),Delta Air Lines B753 (N589NW),Landed 5:39 PM,2021-05-01
+283,283,6:00 PM UA1432,,Los Angeles (LAX),United Airlines B738 (N24211),Landed 5:43 PM,2021-05-01
+284,284,6:00 PM WN293,,Montego Bay (MBJ),Southwest Airlines B737 (N7747C),Landed 5:45 PM,2021-05-01
+285,285,6:00 PM WN2407,,San Juan (SJU),Southwest Airlines B737 (N913WN),Landed 5:42 PM,2021-05-01
+286,286,6:00 PM WN5905,,Buffalo (BUF),Southwest Airlines B737 (N272WN),Landed 6:04 PM,2021-05-01
+287,287,6:04 PM,,Aiken (AIK),- (N98LE),Landed 6:17 PM,2021-05-01
+288,288,6:08 PM B6495,,White Plains (HPN),JetBlue Airways A320 (N729JB),Landed 5:53 PM,2021-05-01
+289,289,6:08 PM B62093,,Raleigh-Durham (RDU),JetBlue Airways E190 (N353JB),Landed 5:37 PM,2021-05-01
+290,290,6:11 PM F91243,,Baltimore (BWI),Frontier (Elrey the Elk Livery) A20N (N370FR),Landed 5:45 PM,2021-05-01
+291,291,6:14 PM UA272,,New York (EWR),United Airlines B738 (N73270),Landed 6:01 PM,2021-05-01
+292,292,6:15 PM WN2380,,Pittsburgh (PIT),Southwest Airlines B737 (N7824A),Landed 5:59 PM,2021-05-01
+293,293,6:17 PM NK629,,New York (LGA),Spirit Airlines A321 (N675NK),Landed 5:46 PM,2021-05-01
+294,294,6:25 PM DL416,,Minneapolis (MSP),Delta Air Lines A321 (N333DX),Landed 5:52 PM,2021-05-01
+295,295,6:25 PM WN2466,,St. Louis (STL),Southwest Airlines B738 (N8544Z),Landed 6:22 PM,2021-05-01
+296,296,6:25 PM 3M69,,Huntsville (HSV),Silver Airways AT46 (N401SV),Landed 6:15 PM,2021-05-01
+297,297,6:31 PM UA622,,Chicago (ORD),United Airlines B753 (N78866),Landed 6:12 PM,2021-05-01
+298,298,6:34 PM DL2200,,Cincinnati (CVG),Delta Air Lines B738 (N391DA),Landed 8:55 PM,2021-05-01
+299,299,6:34 PM F91063,,Cincinnati (CVG),Frontier (Seymour the Walrus Livery) A321 (N716FR),Landed 6:06 PM,2021-05-01
+300,300,6:37 PM AA2490,,Dallas (DFW),American Airlines A321 (N996AN),Landed 6:13 PM,2021-05-01
+301,301,6:40 PM WN5261,,Chicago (MDW),Southwest Airlines B737 (N257WN),Landed 6:36 PM,2021-05-01
+302,302,6:42 PM B684,,New York (JFK),JetBlue Airways A21N (N2029J),Unknown,2021-05-01
+303,303,6:43 PM NK2004,,Baltimore (BWI),Spirit Airlines A20N (N926NK),Landed 6:35 PM,2021-05-01
+304,304,6:46 PM AA2380,,Charlotte (CLT),American Airlines B738 (N868NN),Landed 6:20 PM,2021-05-01
+305,305,6:49 PM DL652,,Detroit (DTW),Delta Air Lines A321 (N344DN),Landed 6:43 PM,2021-05-01
+306,306,6:49 PM NK1922,,Bogota (BOG),Spirit Airlines A20N (N903NK),Landed 6:30 PM,2021-05-01
+307,307,6:50 PM WN2349,,Albany (ALB),Southwest Airlines B738 (N8651A),Landed 6:51 PM,2021-05-01
+308,308,6:50 PM WN2588,,Salt Lake City (SLC),Southwest Airlines B38M (N8718Q),Landed 6:37 PM,2021-05-01
+309,309,6:50 PM WN3027,,Denver (DEN),Southwest Airlines B738 (N8602F),Landed 6:28 PM,2021-05-01
+310,310,6:50 PM SY8757,,Nashville (BNA),Sun Country Airlines B738 (N823SY),Landed 6:25 PM,2021-05-01
+311,311,6:54 PM NK433,,Boston (BOS),Spirit Airlines A20N (N918NK),Landed 6:32 PM,2021-05-01
+312,312,6:55 PM WN3040,,Minneapolis (MSP),Southwest Airlines B738 (N8563Z),Landed 6:18 PM,2021-05-01
+313,313,6:55 PM WN3326,,Nashville (BNA),Southwest Airlines B38M (N8721J),Landed 7:29 PM,2021-05-01
+314,314,7:00 PM DL1005,,New York (JFK),Delta Air Lines B739 (N869DN),Landed 6:11 PM,2021-05-01
+315,315,7:00 PM WN2744,,Milwaukee (MKE),Southwest Airlines B737 (N410WN),Unknown,2021-05-01
+316,316,7:01 PM B61075,,Providence (PVD),JetBlue Airways A320 (N519JB),Unknown,2021-05-01
+317,317,7:03 PM F91012,,Atlanta (ATL),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 7:33 PM,2021-05-01
+318,318,7:04 PM DL2422,,Atlanta (ATL),Delta Air Lines A321 (N394DX),Landed 6:41 PM,2021-05-01
+319,319,7:05 PM WN2165,,Baltimore (BWI),Southwest Airlines B737 (N7879A),Landed 6:55 PM,2021-05-01
+320,320,7:09 PM B6551,,Boston (BOS),JetBlue Airways A320 (N655JB),Landed 6:34 PM,2021-05-01
+321,321,7:11 PM UA1683,,Denver (DEN),United Airlines B739 (N75436),Landed 6:55 PM,2021-05-01
+322,322,7:12 PM K4364,,Los Angeles (LAX),Kalitta Air B744 (N707CK),Landed 7:04 PM,2021-05-01
+323,323,7:24 PM B6399,,New York (LGA),JetBlue Airways A320 (N563JB),Unknown,2021-05-01
+324,324,7:24 PM NK1691,,Pittsburgh (PIT),Spirit Airlines A320 (N634NK),Landed 7:15 PM,2021-05-01
+325,325,7:25 PM WN4189,,Atlanta (ATL),Southwest Airlines B737 (N256WN),Landed 7:32 PM,2021-05-01
+326,326,7:30 PM FX3712,,Indianapolis (IND),FedEx B752 (N944FD),Landed 7:15 PM,2021-05-01
+327,327,7:35 PM WN3343,,Houston (HOU),Southwest Airlines B737 (N222WN),Landed 7:07 PM,2021-05-01
+328,328,7:36 PM F91191,,Raleigh-Durham (RDU),Frontier (Grizwald the Grizzly Bear Livery) A320 (N211FR),Landed 7:04 PM,2021-05-01
+329,329,7:40 PM WN2983,,Columbus (CMH),Southwest Airlines B738 (N8699A),Landed 7:51 PM,2021-05-01
+330,330,7:40 PM 3M76,,Fort Lauderdale (FLL),Silver Airways AT76 (N703SV),Landed 7:13 PM,2021-05-01
+331,331,7:43 PM FX358,,Memphis (MEM),FedEx B763 (N128FE),Landed 7:54 PM,2021-05-01
+332,332,7:45 PM WN3038,,Philadelphia (PHL),Southwest Airlines B738 (N8627B),Landed 7:17 PM,2021-05-01
+333,333,7:47 PM F9131,,St. Thomas (STT),Frontier (O'Malley the Mallard Duck Livery) A20N (N356FR),Landed 7:25 PM,2021-05-01
+334,334,7:55 PM WN1542,,Chicago (MDW),Southwest Airlines B737 (N268WN),Landed 8:06 PM,2021-05-01
+335,335,7:55 PM WN3186,,San Juan (SJU),Southwest Airlines B737 (N7729A),Landed 7:38 PM,2021-05-01
+336,336,7:56 PM B62223,,Washington (DCA),JetBlue Airways E190 (N317JB),Landed 7:26 PM,2021-05-01
+337,337,7:56 PM,DL2022,Minneapolis (MSP),Delta Air Lines B752 (N658DL),Landed 7:23 PM,2021-05-01
+338,338,7:59 PM WN2203,,Providence (PVD),Southwest Airlines B737 (N464WN),Landed 8:25 PM,2021-05-01
+339,339,7:59 PM WN5982,,Oklahoma City (OKC),Southwest Airlines B737 (N290WN),Landed 9:11 PM,2021-05-01
+340,340,7:59 PM WN3250,,Dallas (DAL),Southwest Airlines B737 (N792SW),Landed 7:40 PM,2021-05-01
+341,341,8:01 PM,DL1477,Atlanta (ATL),Delta Air Lines B739 (N844DN),Landed 7:39 PM,2021-05-01
+342,342,8:04 PM,DL1101,New York (LGA),Delta Air Lines B738 (N377DA),Landed 7:29 PM,2021-05-01
+343,343,8:05 PM WN2605,,Kansas City (MCI),Southwest Airlines B737 (N462WN),Landed 8:18 PM,2021-05-01
+344,344,8:05 PM WN2961,,Austin (AUS),Southwest Airlines B738 (N8633A),Landed 7:52 PM,2021-05-01
+345,345,8:08 PM,DL1291,New York (JFK),Delta Air Lines B739 (N864DN),Landed 8:36 PM,2021-05-01
+346,346,8:09 PM B61837,,Windsor Locks (BDL),JetBlue Airways A320 (N594JB),Landed 8:14 PM,2021-05-01
+347,347,8:12 PM,UA2268,Washington (IAD),United Airlines B753 (N57857),Landed 8:18 PM,2021-05-01
+348,348,8:23 PM AA1919,,Philadelphia (PHL),American Airlines A321 (N978UY),Landed 7:48 PM,2021-05-01
+349,349,8:23 PM SY891,,Madison (MSN),Sun Country Airlines B738 (N836SY),Landed 7:50 PM,2021-05-01
+350,350,8:27 PM B62427,,New York (EWR),JetBlue Airways A320 (N559JB),Landed 7:46 PM,2021-05-01
+351,351,8:28 PM AA2791,,Dallas (DFW),American Airlines A321 (N134AN),Landed 8:02 PM,2021-05-01
+352,352,8:30 PM DL2070,,Detroit (DTW),Delta Air Lines B753 (N583NW),Landed 8:11 PM,2021-05-01
+353,353,8:31 PM B6651,,Boston (BOS),JetBlue Airways BCS3 (N3008J),Landed 8:09 PM,2021-05-01
+354,354,8:31 PM F9801,,Trenton (TTN),Frontier (Yukon the Caribou Livery) A320 (N201FR),Landed 8:04 PM,2021-05-01
+355,355,8:35 PM UA2496,,Houston (IAH),United Airlines B39M (N27509),Landed 8:23 PM,2021-05-01
+356,356,8:35 PM WN5244,,Denver (DEN),Southwest Airlines B737 (N717SA),Landed 8:21 PM,2021-05-01
+357,357,8:37 PM AA1842,,Charlotte (CLT),American Airlines A321 (N534UW),Landed 8:20 PM,2021-05-01
+358,358,8:40 PM WN5910,,Salt Lake City (SLC),Southwest Airlines B737 (N486WN),Landed 8:57 PM,2021-05-01
+359,359,8:45 PM WN4308,,Pittsburgh (PIT),Southwest Airlines B738 (N8571Z),Landed 8:32 PM,2021-05-01
+360,360,8:50 PM WN1725,,Washington (DCA),Southwest Airlines B737 (N566WN),Landed 8:23 PM,2021-05-01
+361,361,8:50 PM WN2651,,Indianapolis (IND),Southwest Airlines (Classic Retro Livery) B737 (N711HK),Landed 8:38 PM,2021-05-01
+362,362,8:54 PM F91071,,Detroit (DTW),Frontier (Otto the Owl Livery) A321 (N701FR),Landed 9:12 PM,2021-05-01
+363,363,8:54 PM UA1819,,New York (EWR),United Airlines B752 (N12125),Landed 8:34 PM,2021-05-01
+364,364,8:57 PM AA463,,Miami (MIA),American Airlines B38M (N342RX),Landed 8:29 PM,2021-05-01
+365,365,8:58 PM NK535,,Cleveland (CLE),Spirit Airlines A321 (N663NK),Landed 8:51 PM,2021-05-01
+366,366,9:00 PM NK618,,New Orleans (MSY),Spirit Airlines A320 (N644NK),Landed 8:27 PM,2021-05-01
+367,367,9:00 PM WN2948,,Memphis (MEM),Southwest Airlines B737 (N249WN),Landed 8:40 PM,2021-05-01
+368,368,9:00 PM WN3190,,Baltimore (BWI),Southwest Airlines B738 (N8511K),Landed 9:16 PM,2021-05-01
+369,369,9:04 PM NK520,,Windsor Locks (BDL),Spirit Airlines A319 (N504NK),Landed 8:47 PM,2021-05-01
+370,370,9:10 PM NK1156,,Houston (IAH),Spirit Airlines A20N (N923NK),Landed 9:46 PM,2021-05-01
+371,371,9:11 PM AA424,,Dallas (DFW),American Airlines B738 (N883NN),Landed 8:52 PM,2021-05-01
+372,372,9:14 PM NK1238,,Atlantic City (ACY),Spirit Airlines A320 (N646NK),Landed 8:54 PM,2021-05-01
+373,373,9:15 PM UA1852,,San Francisco (SFO),United Airlines B739 (N36444),Landed 9:02 PM,2021-05-01
+374,374,9:21 PM EK9904,,Columbus (LCK),Emirates B77W (A6-EGW),Landed 8:50 PM,2021-05-01
+375,375,9:22 PM F91124,,Memphis (MEM),Frontier (Georgia the Painted Bunting Livery) A20N (N317FR),Landed 9:38 PM,2021-05-01
+376,376,9:27 PM AA411,,Phoenix (PHX),American Airlines A321 (N180US),Landed 9:13 PM,2021-05-01
+377,377,9:28 PM DL2490,,Atlanta (ATL),Delta Air Lines B752 (N553NW),Landed 9:17 PM,2021-05-01
+378,378,9:30 PM WN2522,,San Juan (SJU),Southwest Airlines B737 (N252WN),Landed 9:16 PM,2021-05-01
+379,379,9:33 PM UA327,,Denver (DEN),United Airlines B738 (N14214),Landed 9:19 PM,2021-05-01
+380,380,9:37 PM F91047,,Cleveland (CLE),Frontier (Cliff the Mountain Goat Livery) A20N (N305FR),Landed 9:23 PM,2021-05-01
+381,381,9:42 PM F91278,,Miami (MIA),Frontier (Summer the Swan Livery) A20N (N324FR),Landed 9:15 PM,2021-05-01
+382,382,9:45 PM DL2308,,Raleigh-Durham (RDU),Delta Air Lines A319 (N353NB),Landed 9:09 PM,2021-05-01
+383,383,9:45 PM WN3005,,New Orleans (MSY),Southwest Airlines B737 (N227WN),Landed 11:13 PM,2021-05-01
+384,384,9:50 PM WN2869,,Chicago (MDW),Southwest Airlines B737 (N210WN),Landed 9:29 PM,2021-05-01
+385,385,9:55 PM WN2488,,Milwaukee (MKE),Southwest Airlines B737 (N293WN),Landed 11:38 PM,2021-05-01
+386,386,9:55 PM WN2929,,Houston (HOU),Southwest Airlines B737 (N729SW),Landed 9:51 PM,2021-05-01
+387,387,10:01 PM UA2173,,Chicago (ORD),United Airlines B739 (N67827),Landed 9:59 PM,2021-05-01
+388,388,10:11 PM NK1614,,Baltimore (BWI),Spirit Airlines A321 (N670NK),Landed 9:48 PM,2021-05-01
+389,389,10:15 PM WN2334,,St. Louis (STL),Southwest Airlines B38M (N8707P),Landed 10:40 PM,2021-05-01
+390,390,10:18 PM F91261,,New York (EWR),Frontier (Joe Bob the Badger Livery) A321 (N708FR),Landed 10:08 PM,2021-05-01
+391,391,10:27 PM NK135,,Minneapolis (MSP),Spirit Airlines A320 (N642NK),Landed 9:40 PM,2021-05-01
+392,392,10:28 PM AA598,,Dallas (DFW),American Airlines A321 (N989AU),Landed 10:17 PM,2021-05-01
+393,393,10:28 PM B6901,,New York (JFK),JetBlue Airways A320 (N599JB),Landed 9:44 PM,2021-05-01
+394,394,10:30 PM B61134,,San Juan (SJU),JetBlue Airways A320 (N637JB),Landed 10:06 PM,2021-05-01
+395,395,10:35 PM WN2990,,Denver (DEN),Southwest Airlines B38M (N8724J),Landed 10:24 PM,2021-05-01
+396,396,10:36 PM NK1481,,Detroit (DTW),Spirit Airlines A20N (N930NK),Landed 12:46 AM,2021-05-01
+397,397,10:38 PM DL1555,,Atlanta (ATL),Delta Air Lines B752 (N684DA),Landed 10:30 PM,2021-05-01
+398,398,10:39 PM DL1543,,Los Angeles (LAX),Delta Air Lines B739 (N826DN),Landed 11:32 PM,2021-05-01
+399,399,10:44 PM NK753,,Philadelphia (PHL),Spirit Airlines A321 (N679NK),Landed 10:36 PM,2021-05-01
+400,400,10:45 PM AA1879,,Charlotte (CLT),American Airlines A321 (N919US),Landed 10:19 PM,2021-05-01
+401,401,10:45 PM F91097,,Islip (ISP),Frontier (Kit the Kermode Bear Livery) A20N (N366FR),Landed 10:33 PM,2021-05-01
+402,402,10:46 PM CM285,,Panama City (PTY),Copa Airlines B738 (HP-1856CMP),Landed 10:22 PM,2021-05-01
+403,403,10:48 PM NK431,,Kansas City (MCI),Spirit Airlines A20N (N915NK),Landed 10:36 PM,2021-05-01
+404,404,10:49 PM B6251,,Boston (BOS),JetBlue Airways A321 (N994JL),Landed 10:31 PM,2021-05-01
+405,405,10:49 PM DL1268,,Minneapolis (MSP),Delta Air Lines B752 (N670DN),Landed 10:01 PM,2021-05-01
+406,406,10:50 PM WN2714,,Nashville (BNA),Southwest Airlines B738 (N8652B),Landed 11:07 PM,2021-05-01
+407,407,10:55 PM AA4967,,Key West (EYW),American Eagle E75S (N114HQ),Landed 10:03 PM,2021-05-01
+408,408,11:00 PM DL2520,,New York (LGA),Delta Air Lines A320 (N369NW),Landed 10:20 PM,2021-05-01
+409,409,11:02 PM UA1954,,Houston (IAH),United Airlines B738 (N13248),Landed 10:51 PM,2021-05-01
+410,410,11:03 PM NK676,,Fort Lauderdale (FLL),Spirit Airlines A20N (N932NK),Landed 10:38 PM,2021-05-01
+411,411,11:05 PM AA2803,,Miami (MIA),American Airlines B738 (N893NN),Landed 11:05 PM,2021-05-01
+412,412,11:10 PM WN2841,,Baltimore (BWI),Southwest Airlines B737 (N966WN),Landed 11:12 PM,2021-05-01
+413,413,11:11 PM DL1473,,Boston (BOS),Delta Air Lines A320 (N360NW),Landed 10:27 PM,2021-05-01
+414,414,11:13 PM DL2354,,New York (JFK),Delta Air Lines B738 (N3730B),Landed 10:39 PM,2021-05-01
+415,415,11:15 PM F91091,,Indianapolis (IND),Frontier (Mitch the Wolverine Livery) A321 (N713FR),Landed 10:53 PM,2021-05-01
+416,416,11:17 PM AA1673,,Philadelphia (PHL),American Airlines A320 (N125UW),Landed 10:57 PM,2021-05-01
+417,417,11:25 PM WN2129,,Dallas (DAL),Southwest Airlines B738 (N8683D),Landed 11:10 PM,2021-05-01
+418,418,11:41 PM F91134,,Minneapolis (MSP),Frontier (Flo the Flamingo Livery) A20N (N308FR),Landed 10:59 PM,2021-05-01
+419,419,11:52 PM DL1162,,Salt Lake City (SLC),Delta Air Lines B739 (N872DN),Landed 11:38 PM,2021-05-01
+420,420,11:53 PM UA259,,Denver (DEN),United Airlines B752 (N14107),Landed 11:41 PM,2021-05-01
+421,421,11:54 PM AA2188,,Miami (MIA),American Airlines B38M (N335RT),Landed 11:33 PM,2021-05-01
+422,422,11:55 PM DL2117,,Detroit (DTW),Delta Air Lines A321 (N307DX),Landed 11:37 PM,2021-05-01
+423,423,11:59 PM F91210,,St. Louis (STL),Frontier (Eccles the Ermine Livery) A20N (N339FR),Landed 11:27 PM,2021-05-01
+424,424,11:59 PM NK1264,,San Juan (SJU),Spirit Airlines A320 (N692NK),Landed 11:51 PM,2021-05-01

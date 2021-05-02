@@ -1,0 +1,341 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:30 NH801,,Tokyo (NRT),All Nippon Airways B789 (JA922A),Landed 00:06,2021-04-29
+1,1,00:35 3K206,,Jakarta (CGK),Jetstar Airways A320 (9V-JSU),Landed 00:02,2021-04-29
+2,2,00:40 CI755,,Taipei (TPE),China Airlines A333 (B-18361),Landed 12:36,2021-04-29
+3,3,00:50 2Y932,,Balikpapan (BPN),My Indo Airlines B733 (PK-MYC),Landed 08:30,2021-04-29
+4,4,01:20 3K766,,Manila (MNL),Jetstar Airways A320 (9V-JSK),Landed 01:13,2021-04-29
+5,5,01:40 QR8036,,Doha (DOH),Qatar Airways 77W,Unknown,2021-04-29
+6,6,01:45 N7221,,Penang (PEN),NORRA 73F,Unknown,2021-04-29
+7,7,02:00 TH382,,Kuala Lumpur (SZB),Raya Airways 73P,Unknown,2021-04-29
+8,8,02:00 UL1429,,Melbourne (MEL),SriLankan Airlines A333 (4R-ALQ),Landed 01:51,2021-04-29
+9,9,02:30 TR17,,Perth (PER),Scoot B789 (9V-OJE),Landed 02:10,2021-04-29
+10,10,02:40 8K801,,Jakarta (CGK),K-Mile Air 73P,Unknown,2021-04-29
+11,11,03:05 NH8411,,Tokyo (NRT),ANA Cargo B763 (JA603A),Landed 02:54,2021-04-29
+12,12,03:40 KE8383,,Seoul (ICN),Korean Air Cargo B744 (HL7603),Landed 03:18,2021-04-29
+13,13,04:00 CI5873,,Taipei (TPE),China Airlines 74Y,Unknown,2021-04-29
+14,14,04:15 CI5879,,Taipei (TPE),China Airlines Cargo B744 (B-18715),Landed 04:43,2021-04-29
+15,15,04:15 VN5655,,Ho Chi Minh City (SGN),Vietnam Airlines A321 (VN-A613),Landed 03:10,2021-04-29
+16,16,04:35 RU339,,Moscow (SVO),AirBridgeCargo Airlines 74N,Unknown,2021-04-29
+17,17,04:55 SQ246,,Brisbane (BNE),Singapore Airlines A359 (9V-SHQ),Landed 04:17,2021-04-29
+18,18,05:00 IX688,,Chennai (MAA),Air India Express (Beach-Himalayas Livery) B738 (VT-AXX),Landed 04:48,2021-04-29
+19,19,05:05 SQ623,,Osaka (KIX),Singapore Airlines A359 (9V-SHM),Landed 05:13,2021-04-29
+20,20,05:20 SQ23,,New York (JFK),Singapore Airlines A359 (9V-SGE),Landed 04:09,2021-04-29
+21,21,05:30 SQ218,,Melbourne (MEL),Singapore Airlines A359 (9V-SHD),Landed 04:45,2021-04-29
+22,22,05:30 SQ305,,London (LHR),Singapore Airlines B77W (9V-SWO),Landed 05:22,2021-04-29
+23,23,05:45 SQ33,,San Francisco (SFO),Singapore Airlines A359 (9V-SGG),Landed 05:19,2021-04-29
+24,24,05:45 O37071,,Shenzhen (SZX),SF Airlines B763 (B-208R),Landed 13:51,2021-04-29
+25,25,05:55 SQ323,,Amsterdam (AMS),Singapore Airlines A359 (9V-SMV),Landed 05:32,2021-04-29
+26,26,05:55 SQ345,,Zurich (ZRH),Singapore Airlines A359 (9V-SMN),Landed 05:39,2021-04-29
+27,27,06:10 SQ479,,Johannesburg (JNB),Singapore Airlines A359 (9V-SMP),Landed 05:25,2021-04-29
+28,28,06:20 SQ351,,Copenhagen (CPH),Singapore Airlines A359 (9V-SMQ),Landed 05:58,2021-04-29
+29,29,06:30 2Y924,,Jakarta (CGK),My Indo Airlines B733 (PK-MYY),Landed 06:32,2021-04-29
+30,30,06:40 NH843,,Tokyo (HND),All Nippon Airways -,Canceled,2021-04-29
+31,31,06:50 SQ25,,Frankfurt (FRA),Singapore Airlines A359 (9V-SMU),Landed 06:16,2021-04-29
+32,32,06:50 SQ335,,Paris (CDG),Singapore Airlines A359 (9V-SME),Landed 06:19,2021-04-29
+33,33,07:30 SQ37,,Los Angeles (LAX),Singapore Airlines A359 (9V-SMZ),Landed 07:31,2021-04-29
+34,34,07:30,SQ317,London (LHR),Singapore Airlines A359 (9V-SMS),Landed 07:07,2021-04-29
+35,35,07:40 6E9023,,Bengaluru (BLR),IndiGo A320 (VT-IFL),Landed 07:24,2021-04-29
+36,36,07:55 SQ7887,,Shanghai (PVG),Singapore Airlines 74Y,Unknown,2021-04-29
+37,37,08:15 O36973,,Hangzhou (HGH),SF Airlines 73F,Unknown,2021-04-29
+38,38,08:15 Y87961,,Guangzhou (CAN),Suparna Airlines 73F,Unknown,2021-04-29
+39,39,08:45 SQ7363,,Sharjah (SHJ),Singapore Airlines 74Y,Unknown,2021-04-29
+40,40,08:55,QR942,Doha (DOH),Qatar Airways A359 (A7-ALX),Landed 08:00,2021-04-29
+41,41,09:00 OZ396,,Ho Chi Minh City (SGN),Asiana Airlines 74F,Unknown,2021-04-29
+42,42,09:00 OZ395,,Ho Chi Minh City (SGN),Asiana Cargo B744 (HL7415),Landed 07:41,2021-04-29
+43,43,10:00,3K684,Kuala Lumpur (KUL),Jetstar Airways A320 (9V-JSM),Landed 10:00,2021-04-29
+44,44,11:35,SQ105,Kuala Lumpur (KUL),Singapore Airlines B77W (9V-SWT),Landed 11:08,2021-04-29
+45,45,11:55,3K556,Ho Chi Minh City (SGN),Jetstar Airways A320 (9V-JSK),Landed 11:55,2021-04-29
+46,46,12:00 Y87431,,Shanghai (PVG),Suparna Airlines 74F,Unknown,2021-04-29
+47,47,12:15,TR427,Penang (PEN),Scoot A320 (9V-TAX),Landed 11:51,2021-04-29
+48,48,12:25,CI753,Taipei (TPE),China Airlines A333 (B-18359),Landed 12:14,2021-04-29
+49,49,12:30 Y87401,,Tianjin (TSN),Suparna Airlines 74F,Unknown,2021-04-29
+50,50,12:35,EY470,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLA),Landed 12:04,2021-04-29
+51,51,12:40 3K202,,Jakarta (CGK),Jetstar Airways A320 (9V-JSO),Landed 11:49,2021-04-29
+52,52,12:50 8M231,,Yangon (RGN),Myanmar Airways International 319,Unknown,2021-04-29
+53,53,13:00 CK287,,Shanghai (PVG),China Cargo Airlines B77L (B-2083),Landed 13:09,2021-04-29
+54,54,13:00 RH371,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNV),Landed 13:22,2021-04-29
+55,55,13:05 CX759,,Hong Kong (HKG),Cathay Pacific A359 (B-LRR),Landed 12:47,2021-04-29
+56,56,13:25,TR263,Surabaya (SUB),Scoot A320 (9V-TRH),Unknown,2021-04-29
+57,57,14:05,SQ957,Jakarta (CGK),Singapore Airlines A359 (9V-SMZ),Landed 13:53,2021-04-29
+58,58,14:10,SQ212,Sydney (SYD),Singapore Airlines A359 (9V-SHH),Landed 13:40,2021-04-29
+59,59,14:30 8K804,,Bangkok (BKK),K-Mile Air B734 (HS-KMC),Unknown,2021-04-29
+60,60,14:40 BG84,,Dhaka (DAC),Biman Bangladesh Airlines B738 (S2-AHO),Landed 14:34,2021-04-29
+61,61,14:50 TR625,,Bangkok (BKK),Scoot B788 (9V-OFJ),Landed 15:07,2021-04-29
+62,62,15:00 EK354,,Dubai (DXB),Emirates B77W (A6-EQC),Landed 14:20,2021-04-29
+63,63,15:20 SQ7289,,Auckland (AKL),Singapore Airlines Cargo B744 (9V-SFN),Landed 14:37,2021-04-29
+64,64,15:30 SQ177,,Ho Chi Minh City (SGN),Singapore Airlines (Star Alliance livery) B77W (9V-SWI),Landed 15:18,2021-04-29
+65,65,15:30 SQ278,,Adelaide (ADL),Singapore Airlines A359 (9V-SJA),Landed 14:35,2021-04-29
+66,66,15:35 MU567,,Shanghai (PVG),Shanghai Airlines B789 (B-20D8),Landed 15:31,2021-04-29
+67,67,15:45 KL837,,Amsterdam (AMS),KLM B77W (PH-BVP),Landed 15:18,2021-04-29
+68,68,15:45 QR946,,Doha (DOH),Qatar Airways B77W (A7-BEH),Landed 15:11,2021-04-29
+69,69,15:55 SQ655,,Fukuoka (FUK),Singapore Airlines B78X (9V-SCI),Landed 15:34,2021-04-29
+70,70,16:00 IX682,,Tiruchirapalli (TRZ),Air India Express (Red Fort-Gwalior Fort Livery) B738 (VT-AXJ),Landed 15:40,2021-04-29
+71,71,16:20 SQ637,,Tokyo (NRT),Singapore Airlines B78X (9V-SCH),Landed 15:54,2021-04-29
+72,72,16:30 AY131,,Helsinki (HEL),Finnair A359 (OH-LWK),Landed 15:52,2021-04-29
+73,73,17:00 3K248,,Surabaya (SUB),Jetstar Airways A320 (9V-JSU),Landed 17:09,2021-04-29
+74,74,17:05 SQ191,,Hanoi (HAN),Singapore Airlines A359 (9V-SHD),Landed 17:05,2021-04-29
+75,75,17:15 NH841,,Tokyo (HND),All Nippon Airways B789 (JA887A),Landed 17:06,2021-04-29
+76,76,17:40 SQ298,,Christchurch (CHC),Singapore Airlines A359 (9V-SMC),Landed 16:55,2021-04-29
+77,77,17:45 GA836,,Jakarta (CGK),Garuda Indonesia A339 (PK-GHF),Landed 17:43,2021-04-29
+78,78,17:50 TK54,,Istanbul (IST),Turkish Airlines B789 (TC-LLB),Landed 17:15,2021-04-29
+79,79,17:55 SQ917,,Manila (MNL),Singapore Airlines A359 (9V-SHM),Landed 17:26,2021-04-29
+80,80,18:00 TR121,,Wuhan (WUH),Scoot B789 (9V-OJB),Landed 18:01,2021-04-29
+81,81,18:10 SQ321,,London (LHR),Singapore Airlines A359 (9V-SMD),Landed 17:35,2021-04-29
+82,82,18:20 SQ883,,Hong Kong (HKG),Singapore Airlines A359 (9V-SMV),Landed 17:46,2021-04-29
+83,83,18:25 3K594,,Phnom Penh (PNH),Jetstar Airways A320 (9V-JSK),Landed 17:57,2021-04-29
+84,84,19:20 PX392,,Port Moresby (POM),Air Niugini B763 (P2-PXV),Landed 19:12,2021-04-29
+85,85,19:25 AI1368,,Mumbai (BOM),Air India B788 (VT-ANG),Landed 18:58,2021-04-29
+86,86,19:35 LD327,,Hong Kong (HKG),DHL A333 (B-LDR),Landed 19:18,2021-04-29
+87,87,20:09 HX2735,,Hong Kong (HKG),Hong Kong Airlines A333 (B-LNM),Landed 20:06,2021-04-29
+88,88,20:20 MI411,,Kathmandu (KTM),SilkAir B738 (9V-MGG),Landed 20:21,2021-04-29
+89,89,20:25 BI423,,Brunei (BWN),Royal Brunei Airlines B788 (V8-DLD),Landed 20:16,2021-04-29
+90,90,20:25 TR303,,Ho Chi Minh City (SGN),Scoot A20N (9V-TNC),Landed 20:30,2021-04-29
+91,91,20:30 TR899,,Taipei (TPE),Scoot B788 (9V-OFH),Landed 00:13,2021-04-29
+92,92,20:30 7L631,,Baku (GYD),Silk Way West Airlines 74Y,Unknown,2021-04-29
+93,93,20:40 SQ7361,,Sharjah (SHJ),Singapore Airlines 74Y,Unknown,2021-04-29
+94,94,20:40 2Y922,,Jakarta (CGK),My Indo Airlines B733 (PK-MYY),Landed 21:35,2021-04-29
+95,95,20:45,SQ236,Brisbane (BNE),Singapore Airlines A359 (9V-SHN),Landed 20:29,2021-04-29
+96,96,21:00,SQ286,Auckland (AKL),Singapore Airlines A359 (9V-SMT),Landed 20:35,2021-04-29
+97,97,21:20,SQ222,Sydney (SYD),Singapore Airlines A359 (9V-SHR),Landed 20:48,2021-04-29
+98,98,21:20,TR981,Hong Kong (HKG),Scoot B789 (9V-OJF),Landed 21:25,2021-04-29
+99,99,21:25 SQ157,,Phnom Penh (PNH),Singapore Airlines B738 (9V-MGK),Landed 21:12,2021-04-29
+100,100,21:30,SQ228,Melbourne (MEL),Singapore Airlines A359 (9V-SHT),Landed 21:14,2021-04-29
+101,101,21:45,SQ214,Perth (PER),Singapore Airlines B78X (9V-SCA),Landed 21:11,2021-04-29
+102,102,21:50,SQ125,Kuala Lumpur (KUL),Singapore Airlines B738 (9V-MGN),Landed 21:46,2021-04-29
+103,103,21:50,SQ965,Jakarta (CGK),Singapore Airlines B77W (9V-SWH),Landed 21:28,2021-04-29
+104,104,21:55,SQ711,Bangkok (BKK),Singapore Airlines B77W (9V-SWV),Landed 21:47,2021-04-29
+105,105,22:00,SQ601,Seoul (ICN),Singapore Airlines B78X (9V-SCC),Landed 22:00,2021-04-29
+106,106,22:15 KL838,,Jakarta (CGK),KLM B77W (PH-BVP),Landed 21:48,2021-04-29
+107,107,22:30,3K688,Kuala Lumpur (KUL),Jetstar Airways A320 (9V-JSU),Landed 21:51,2021-04-29
+108,108,23:25,TR181,Nanjing (NKG),Scoot B789 (9V-OJG),Landed 00:09,2021-04-29
+109,109,23:40,KE645,Seoul (ICN),Korean Air B77W (HL8346),Landed 23:51,2021-04-29
+0,0,00:05 5J803,,Manila (MNL),Cebu Pacific A333 (RP-C3343),Landed 23:18,2021-04-30
+1,1,00:20 JL711,,Tokyo (NRT),Japan Airlines B789 (JA880J),Landed 00:07,2021-04-30
+2,2,00:30 NQ801,,Tokyo (NRT),All Nippon Airways (Star Alliance Livery) B789 (JA899A),Landed 00:45,2021-04-30
+3,3,00:35 3K206,,Jakarta (CGK),Jetstar Airways A320 (9V-JSK),Landed 00:03,2021-04-30
+4,4,00:40 CI755,,Taipei (TPE),China Airlines A333 (B-18317),Landed 12:33,2021-04-30
+5,5,00:50 2Y932,,Balikpapan (BPN),My Indo Airlines 73Y,Unknown,2021-04-30
+6,6,01:30 CI5881,,Penang (PEN),China Airlines 74Y,Unknown,2021-04-30
+7,7,01:30 CI5873,,Taipei (TPE),China Airlines 74Y,Unknown,2021-04-30
+8,8,01:35 QR8408,,Doha (DOH),Qatar Cargo B77L (A7-BFL),Landed 01:22,2021-04-30
+9,9,01:45 N7221,,Penang (PEN),NORRA 73F,Unknown,2021-04-30
+10,10,02:00 TH382,,Kuala Lumpur (SZB),Raya Airways 73P,Unknown,2021-04-30
+11,11,02:40 8K801,,Jakarta (CGK),K-Mile Air 73P,Unknown,2021-04-30
+12,12,02:55 NH8411,,Tokyo (NRT),ANA Cargo B763 (JA603A),Landed 03:02,2021-04-30
+13,13,03:30 RU339,,Moscow (SVO),AirBridgeCargo Airlines 74Y,Canceled,2021-04-30
+14,14,03:35 SQ7291,,Sydney (SYD),Singapore Airlines Cargo B744 (9V-SFM),Landed 03:04,2021-04-30
+15,15,03:40 KE363,,Seoul (ICN),Korean Air Cargo B744 (HL7603),Landed 07:21,2021-04-30
+16,16,03:55 TR25,,Melbourne (MEL),Scoot B789 (9V-OJI),Landed 03:42,2021-04-30
+17,17,04:00 CI5879,,Taipei (TPE),China Airlines Cargo B744 (B-18712),Landed 12:49,2021-04-30
+18,18,04:25 KZ235,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA15KZ),Landed 04:35,2021-04-30
+19,19,04:30 8K804,,Bangkok (BKK),K-Mile Air 73P,Unknown,2021-04-30
+20,20,04:55 SQ635,,Tokyo (HND),Singapore Airlines A359 (9V-SHQ),Landed 05:00,2021-04-30
+21,21,05:00 SQ391,,Istanbul (IST),Singapore Airlines A359 (9V-SMB),Landed 04:44,2021-04-30
+22,22,05:05 SQ623,,Osaka (KIX),Singapore Airlines A359 (9V-SHP),Landed 05:21,2021-04-30
+23,23,05:20 SQ23,,New York (JFK),Singapore Airlines A359 (9V-SGD),Landed 04:41,2021-04-30
+24,24,05:45 SQ33,,San Francisco (SFO),Singapore Airlines A359 (9V-SGC),Landed 05:26,2021-04-30
+25,25,05:45 O37071,,Shenzhen (SZX),SF Airlines B763 (B-20A2),Landed 14:27,2021-04-30
+26,26,05:55 SQ323,,Amsterdam (AMS),Singapore Airlines A359 (9V-SMR),Landed 05:27,2021-04-30
+27,27,05:55 SQ345,,Zurich (ZRH),Singapore Airlines A359 (9V-SMW),Landed 05:33,2021-04-30
+28,28,06:05 SQ447,,Dhaka (DAC),Singapore Airlines A359 (9V-SHH),Landed 05:49,2021-04-30
+29,29,06:10 SQ479,,Johannesburg (JNB),Singapore Airlines A359 (9V-SMO),Landed 05:25,2021-04-30
+30,30,06:20 SQ361,,Moscow (DME),Singapore Airlines A359 (9V-SMH),Landed 06:15,2021-04-30
+31,31,06:30 2Y924,,Jakarta (CGK),My Indo Airlines B733 (PK-MYY),Landed 06:27,2021-04-30
+32,32,06:50,SQ25,Frankfurt (FRA),Singapore Airlines A359 (9V-SMA),Landed 06:16,2021-04-30
+33,33,06:50 SQ335,,Paris (CDG),Singapore Airlines A359 (9V-SMI),Landed 06:21,2021-04-30
+34,34,06:50 O37181,,Hangzhou (HGH),SF Airlines 73F,Unknown,2021-04-30
+35,35,07:00,SQ327,Munich (MUC),Singapore Airlines A359 (9V-SML),Landed 06:35,2021-04-30
+36,36,07:15 KE395,,Ho Chi Minh City (SGN),Korean Air 74F,Unknown,2021-04-30
+37,37,07:30,SQ37,Los Angeles (LAX),Singapore Airlines A359 (9V-SMY),Landed 07:20,2021-04-30
+38,38,07:30,SQ317,London (LHR),Singapore Airlines A359 (9V-SMK),Landed 06:44,2021-04-30
+39,39,07:30,SQ377,Milan (MXP),Singapore Airlines A359 (9V-SMJ),Landed 07:15,2021-04-30
+40,40,07:30,SQ495,Dubai (DXB),Singapore Airlines A359 (9V-SHB),Landed 07:05,2021-04-30
+41,41,07:40 6E8967,,Bengaluru (BLR),IndiGo A320 (VT-IFL),Landed 07:49,2021-04-30
+42,42,07:55 SQ7855,,Shanghai (PVG),Singapore Airlines Cargo B744 (9V-SFO),Landed 08:44,2021-04-30
+43,43,08:00 UL1426,,Chennai (MAA),SriLankan Airlines A333 (4R-ALM),Landed 07:53,2021-04-30
+44,44,08:15 O36973,,Hangzhou (HGH),SF Airlines B752 (B-2817),Landed 16:50,2021-04-30
+45,45,08:15 Y87961,,Guangzhou (CAN),Suparna Airlines 73F,Unknown,2021-04-30
+46,46,08:30 UL1428,,Mumbai (BOM),SriLankan Airlines A333 (4R-ALQ),Landed 07:40,2021-04-30
+47,47,08:55,QR942,Doha (DOH),Qatar Airways A359 (A7-AME),Landed 08:04,2021-04-30
+48,48,09:25 SQ7819,,Guangzhou (CAN),Singapore Airlines 74Y,Unknown,2021-04-30
+49,49,10:20 3K780,,Angeles City (CRK),Jetstar Airways A320 (9V-JSL),Landed 10:06,2021-04-30
+50,50,11:05,SQ991,Medan (KNO),Singapore Airlines B738 (9V-MGB),Landed 10:52,2021-04-30
+51,51,11:25 BR6057,,Taipei (TPE),EVA Air 77X,Unknown,2021-04-30
+52,52,11:35,SQ105,Kuala Lumpur (KUL),Singapore Airlines B738 (9V-MGA),Landed 11:09,2021-04-30
+53,53,11:45,SQ224,Perth (PER),Singapore Airlines B78X (9V-SCA),Landed 11:13,2021-04-30
+54,54,12:00,BR225,Taipei (TPE),EVA Air B77W (B-16720),Landed 11:57,2021-04-30
+55,55,12:00 Y87431,,Shanghai (PVG),Suparna Airlines 74F,Unknown,2021-04-30
+56,56,12:15,TR427,Penang (PEN),Scoot A320 (9V-TRC),Landed 15:22,2021-04-30
+57,57,12:25,CI753,Taipei (TPE),China Airlines A333 (B-18301),Landed 12:13,2021-04-30
+58,58,12:30 Y87405,,Tianjin (TSN),Suparna Airlines 74F,Unknown,2021-04-30
+59,59,12:35,EY470,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNB),Landed 12:01,2021-04-30
+60,60,12:50,3K512,Bangkok (BKK),Jetstar Airways A320 (9V-JSM),Landed 12:37,2021-04-30
+61,61,12:50 8M231,,Yangon (RGN),Myanmar Airways International 319,Unknown,2021-04-30
+62,62,13:00 MU2069,,Xi'an (XIY),China Eastern Airlines A320 (B-8855),Landed 12:56,2021-04-30
+63,63,13:00 RH371,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNX),Landed 12:41,2021-04-30
+64,64,13:05 CX79,,Hong Kong (HKG),Cathay Pacific 74Y,Unknown,2021-04-30
+65,65,13:25 TR263,,Surabaya (SUB),Scoot A320 (9V-TRH),Landed 13:30,2021-04-30
+66,66,13:55 CX2073,,Hong Kong (HKG),Cathay Pacific Cargo B744 (B-LIC),Landed 13:31,2021-04-30
+67,67,14:05 SQ957,,Jakarta (CGK),Singapore Airlines A359 (9V-SMA),Landed 14:05,2021-04-30
+68,68,14:10 SQ212,,Sydney (SYD),Singapore Airlines A359 (9V-SMN),Landed 13:36,2021-04-30
+69,69,14:10 UL302,,Colombo (CMB),SriLankan Airlines A333 (4R-ALN),Landed 13:40,2021-04-30
+70,70,14:15 SQ147,,Brunei (BWN),Singapore Airlines B738 (9V-MGN),Landed 14:07,2021-04-30
+71,71,14:15 3K762,,Manila (MNL),Jetstar Airways A320 (9V-JSU),Landed 13:53,2021-04-30
+72,72,14:20 TR485,,Ipoh (IPH),Scoot A20N (9V-TNB),Landed 14:13,2021-04-30
+73,73,14:25 CA767,,Hangzhou (HGH),Air China A20N (B-309F),Landed 14:48,2021-04-30
+74,74,14:50 HO1605,,Shanghai (PVG),Juneyao Air (Chinese Silk Ribbon Livery) B789 (B-208A),Landed 14:17,2021-04-30
+75,75,14:50 TR625,,Bangkok (BKK),Scoot B788 (9V-OFH),Landed 14:29,2021-04-30
+76,76,15:10 SQ761,,Yangon (RGN),Singapore Airlines A359 (9V-SHS),Landed 14:46,2021-04-30
+77,77,15:30 SQ177,,Ho Chi Minh City (SGN),Singapore Airlines B77W (9V-SWR),Landed 15:38,2021-04-30
+78,78,15:45 AF256,,Paris (CDG),Air France B789 (F-HRBJ),Landed 15:18,2021-04-30
+79,79,15:45 KL839,,Amsterdam (AMS),KLM B789 (PH-BHC),Landed 15:32,2021-04-30
+80,80,15:45 QR946,,Doha (DOH),Qatar Airways B77W (A7-BEQ),Landed 14:58,2021-04-30
+81,81,15:50 SQ607,,Seoul (ICN),Singapore Airlines B78X (9V-SCD),Landed 15:38,2021-04-30
+82,82,16:00 IX682,,Tiruchirapalli (TRZ),Air India Express (Harmandir Sahib-Jumping Man) B738 (VT-GHI),Landed 16:02,2021-04-30
+83,83,16:05 BA11,,London (LHR),British Airways B77W (G-STBP),Landed 16:16,2021-04-30
+84,84,16:20 SQ637,,Tokyo (NRT),Singapore Airlines B78X (9V-SCC),Landed 16:22,2021-04-30
+85,85,16:30 AY131,,Helsinki (HEL),Finnair A359 (OH-LWN),Landed 16:24,2021-04-30
+86,86,17:05 SQ191,,Hanoi (HAN),Singapore Airlines A359 (9V-SHN),Landed 16:36,2021-04-30
+87,87,17:15 TK6514,,Karachi (KHI),Turkish Airlines 33F,Unknown,2021-04-30
+88,88,17:45 GA836,,Jakarta (CGK),Garuda Indonesia A339 (PK-GHF),Landed 17:43,2021-04-30
+89,89,17:55 SQ917,,Manila (MNL),Singapore Airlines A359 (9V-SHP),Landed 17:28,2021-04-30
+90,90,18:00 3K204,,Jakarta (CGK),Jetstar Airways A320 (9V-JSL),Landed 17:37,2021-04-30
+91,91,18:10 SQ321,,London (LHR),Singapore Airlines A359 (9V-SMP),Landed 17:43,2021-04-30
+92,92,18:20 SQ883,,Hong Kong (HKG),Singapore Airlines A359 (9V-SML),Landed 17:49,2021-04-30
+93,93,18:35 UA2861,,Guam (GUM),United Airlines B789 (N24974),Landed 18:25,2021-04-30
+94,94,19:00,JL37,Tokyo (HND),Japan Airlines B789 (JA882J),Landed 22:17,2021-04-30
+95,95,20:20,MI411,Kathmandu (KTM),SilkAir B738 (9V-MGI),Landed 20:20,2021-04-30
+96,96,20:25,TR303,Ho Chi Minh City (SGN),Scoot A20N (9V-TNE),Landed 21:00,2021-04-30
+97,97,20:40 SQ431,,Male (MLE),Singapore Airlines B738 (9V-MGE),Landed 20:16,2021-04-30
+98,98,20:40 2Y922,,Jakarta (CGK),My Indo Airlines B733 (PK-MYY),Landed 21:09,2021-04-30
+99,99,20:45 LD327,,Hong Kong (HKG),DHL A333 (B-LDR),Landed 20:12,2021-04-30
+100,100,20:45,SQ236,Brisbane (BNE),Singapore Airlines A359 (9V-SHO),Landed 20:31,2021-04-30
+101,101,20:45 SQ7987,,Sharjah (SHJ),Singapore Airlines 74Y,Unknown,2021-04-30
+102,102,20:55,EK352,Dubai (DXB),Emirates B77W (A6-EGI),Landed 20:07,2021-04-30
+103,103,21:00 CK287,,Shanghai (PVG),China Cargo Airlines B77L (B-2082),Landed 16:15,2021-04-30
+104,104,21:00,SQ286,Auckland (AKL),Singapore Airlines A359 (9V-SME),Landed 20:42,2021-04-30
+105,105,21:05 CV7844,,Baku (GYD),Cargolux (Not without my mask Livery) B748 (LX-VCF),Landed 20:38,2021-04-30
+106,106,21:20,SQ222,Sydney (SYD),Singapore Airlines A359 (9V-SHR),Landed 20:46,2021-04-30
+107,107,21:25 SQ157,,Phnom Penh (PNH),Singapore Airlines B738 (9V-MGA),Landed 21:08,2021-04-30
+108,108,21:30,OZ751,Seoul (ICN),Asiana Airlines A333 (HL7793),Landed 21:28,2021-04-30
+109,109,21:50,SQ125,Kuala Lumpur (KUL),Singapore Airlines B77W (9V-SWK),Landed 22:11,2021-04-30
+110,110,21:50,SQ965,Jakarta (CGK),Singapore Airlines B77W (9V-SWS),Landed 21:49,2021-04-30
+111,111,21:55,SQ711,Bangkok (BKK),Singapore Airlines B77W (9V-SWQ),Landed 21:35,2021-04-30
+112,112,22:00,TR19,Melbourne (MEL),Scoot B789 (9V-OJI),Landed 21:25,2021-04-30
+113,113,22:15,KL840,Kuala Lumpur (KUL),KLM B789 (PH-BHC),Landed 21:50,2021-04-30
+114,114,22:15,SQ879,Taipei (TPE),Singapore Airlines B78X (9V-SCB),Landed 21:54,2021-04-30
+115,115,22:25 TR181,,Nanjing (NKG),Scoot B789 (9V-OJC),Landed 23:50,2021-04-30
+116,116,22:30,3K688,Kuala Lumpur (KUL),Jetstar Airways A320 (9V-JSO),Landed 22:17,2021-04-30
+117,117,23:20,TR9,Perth (PER),Scoot B789 (9V-OJG),Landed 23:01,2021-04-30
+118,118,23:55 SQ7859,,Hong Kong (HKG),Singapore Airlines Cargo B744 (9V-SFM),Landed 01:10,2021-04-30
+119,119,23:55,TR981,Hong Kong (HKG),Scoot B789 (9V-OJJ),Landed 23:41,2021-04-30
+0,0,00:20 SQ242,,Sydney (SYD),Singapore Airlines B78X (9V-SCL),Landed 00:08,2021-05-01
+1,1,00:30 NH801,,Tokyo (NRT),All Nippon Airways B789 (JA896A),Landed 00:18,2021-05-01
+2,2,00:30 3K592,,Phnom Penh (PNH),Jetstar Airways A320 (9V-JSU),Landed 23:46,2021-05-01
+3,3,00:35 3K206,,Jakarta (CGK),Jetstar Airways A320 (9V-JSL),Landed 23:48,2021-05-01
+4,4,00:40 CI755,,Taipei (TPE),China Airlines A333 (B-18357),Landed 12:12,2021-05-01
+5,5,01:20 SQ7395,,Sharjah (SHJ),Singapore Airlines Cargo B744 (9V-SFK),Landed 00:12,2021-05-01
+6,6,02:05 UL1429,,Melbourne (MEL),SriLankan Airlines A333 (4R-ALQ),Landed 02:26,2021-05-01
+7,7,03:05 NH8411,,Tokyo (NRT),ANA Cargo B763 (JA603A),Landed 02:55,2021-05-01
+8,8,03:55 BR6085,,Taipei (TPE),EVA Air 77X,Unknown,2021-05-01
+9,9,03:55 TR897,,Taipei (TPE),Scoot B788 (9V-OFJ),Landed 03:58,2021-05-01
+10,10,04:00 CI5871,,Taipei (TPE),China Airlines Cargo B744 (B-18718),Landed 14:11,2021-05-01
+11,11,04:20 SQ913,,Manila (MNL),Singapore Airlines A359 (9V-SHN),Landed 03:58,2021-05-01
+12,12,04:25 KZ263,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA15KZ),Landed 04:42,2021-05-01
+13,13,04:40 BR6011,,Taipei (TPE),EVA Air 77X,Unknown,2021-05-01
+14,14,05:00 IX688,,Chennai (MAA),Air India Express (Beach-Himalayas Livery) B738 (VT-AXX),Landed 05:08,2021-05-01
+15,15,05:05 SQ623,,Osaka (KIX),Singapore Airlines A359 (9V-SHL),Landed 04:59,2021-05-01
+16,16,05:20 SQ23,,New York (JFK),Singapore Airlines A359 (9V-SGA),Landed 04:35,2021-05-01
+17,17,05:25 KZ235,,Tokyo (NRT),Nippon Cargo Airlines 74N,Unknown,2021-05-01
+18,18,05:30 SQ218,,Melbourne (MEL),Singapore Airlines A359 (9V-SMR),Landed 05:20,2021-05-01
+19,19,05:30 SQ305,,London (LHR),Singapore Airlines B77W (9V-SWO),Landed 05:23,2021-05-01
+20,20,05:30 YG9119,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-05-01
+21,21,05:45 SQ33,,San Francisco (SFO),Singapore Airlines A359 (9V-SGG),Landed 05:54,2021-05-01
+22,22,05:45 SQ345,,Zurich (ZRH),Singapore Airlines A359 (9V-SJA),Landed 05:16,2021-05-01
+23,23,05:45 O37071,,Shenzhen (SZX),SF Airlines B763 (B-20A2),Landed 13:57,2021-05-01
+24,24,05:55 LX176,,Zurich (ZRH),Swiss B77W (HB-JNB),Landed 05:41,2021-05-01
+25,25,05:55 SQ323,,Amsterdam (AMS),Singapore Airlines A359 (9V-SMV),Landed 05:19,2021-05-01
+26,26,06:05 SQ447,,Dhaka (DAC),Singapore Airlines A359 (9V-SHP),Landed 05:48,2021-05-01
+27,27,06:40 YG9033,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2830),Landed 10:54,2021-05-01
+28,28,06:50 SQ25,,Frankfurt (FRA),Singapore Airlines A359 (9V-SMC),Landed 06:22,2021-05-01
+29,29,06:50 SQ335,,Paris (CDG),Singapore Airlines A359 (9V-SMD),Landed 06:26,2021-05-01
+30,30,07:05 SQ282,,Auckland (AKL),Singapore Airlines A359 (9V-SMH),Landed 06:39,2021-05-01
+31,31,07:20 SQ469,,Colombo (CMB),Singapore Airlines A359 (9V-SHT),Landed 06:59,2021-05-01
+32,32,07:30 SQ37,,Los Angeles (LAX),Singapore Airlines A359 (9V-SMZ),Landed 07:39,2021-05-01
+33,33,07:30,SQ317,London (LHR),Singapore Airlines A359 (9V-SMS),Landed 06:57,2021-05-01
+34,34,07:40 6E9023,,Bengaluru (BLR),IndiGo A320 (VT-IFL),Landed 07:29,2021-05-01
+35,35,08:15 O36973,,Hangzhou (HGH),SF Airlines 73F,Unknown,2021-05-01
+36,36,08:15 Y87961,,Guangzhou (CAN),Suparna Airlines 73F,Unknown,2021-05-01
+37,37,08:35,SQ7857,Shanghai (PVG),Singapore Airlines Cargo B744 (9V-SFQ),Landed 11:32,2021-05-01
+38,38,08:55,QR942,Doha (DOH),Qatar Airways A359 (A7-AMJ),Landed 07:54,2021-05-01
+39,39,09:00 OZ395,,Ho Chi Minh City (SGN),Asiana Cargo B744 (HL7423),Landed 19:38,2021-05-01
+40,40,09:10 6E9021,,Chennai (MAA),IndiGo A320 (VT-IFQ),Landed 08:55,2021-05-01
+41,41,10:00,3K684,Kuala Lumpur (KUL),Jetstar Airways A320 (9V-JSK),Landed 09:38,2021-05-01
+42,42,10:45,SQ953,Jakarta (CGK),Singapore Airlines B77W (9V-SWS),Landed 10:11,2021-05-01
+43,43,11:35,SQ105,Kuala Lumpur (KUL),Singapore Airlines B738 (9V-MGC),Landed 11:20,2021-05-01
+44,44,11:55,3K556,Ho Chi Minh City (SGN),Jetstar Asia 320,Canceled,2021-05-01
+45,45,12:00 Y87431,,Shanghai (PVG),Suparna Airlines 74F,Unknown,2021-05-01
+46,46,12:15,TR427,Penang (PEN),Scoot A320 (9V-TAX),Landed 12:01,2021-05-01
+47,47,12:25,CI753,Taipei (TPE),China Airlines A333 (B-18352),Landed 12:07,2021-05-01
+48,48,12:30 Y87401,,Tianjin (TSN),Suparna Airlines 74F,Unknown,2021-05-01
+49,49,12:40 3K202,,Jakarta (CGK),Jetstar Airways A320 (9V-JSL),Landed 12:31,2021-05-01
+50,50,12:50 8M231,,Yangon (RGN),Myanmar Airways International 319,Unknown,2021-05-01
+51,51,13:00 RH371,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNV),Landed 12:37,2021-05-01
+52,52,13:05 CX759,,Hong Kong (HKG),Cathay Pacific 359,Unknown,2021-05-01
+53,53,13:15 PR507,,Manila (MNL),Philippine Airlines -,Canceled,2021-05-01
+54,54,13:25,TR263,Surabaya (SUB),Scoot A320 (9V-TRE),Landed 13:40,2021-05-01
+55,55,13:35 SQ7951,,Mumbai (BOM),Singapore Airlines Cargo B744 (9V-SFP),Landed 12:21,2021-05-01
+56,56,13:45,MF851,Xiamen (XMN),Xiamen Air B738 (B-5161),Landed 13:52,2021-05-01
+57,57,14:00 UB1003,,Yangon (RGN),Myanmar National Airlines B738 (XY-ALF),Landed 13:40,2021-05-01
+58,58,14:05,SQ957,Jakarta (CGK),Singapore Airlines A359 (9V-SMC),Landed 13:54,2021-05-01
+59,59,14:10,SQ212,Sydney (SYD),Singapore Airlines A359 (9V-SHK),Landed 13:45,2021-05-01
+60,60,14:25 BG84,,Dhaka (DAC),Biman Bangladesh Airlines B738 (S2-AHV),Landed 14:04,2021-05-01
+61,61,14:40 MH623,,Kuala Lumpur (KUL),Malaysia Airlines -,Canceled,2021-05-01
+62,62,14:50 TR625,,Bangkok (BKK),Scoot B788 (9V-OFJ),Landed 14:46,2021-05-01
+63,63,15:00 EK354,,Dubai (DXB),Emirates B77W (A6-ECH),Landed 14:08,2021-05-01
+64,64,15:20 KE353,,Seoul (ICN),Korean Air Cargo B744 (HL7605),Landed 15:57,2021-05-01
+65,65,15:30 SQ177,,Ho Chi Minh City (SGN),Singapore Airlines B77W (9V-SWR),Landed 15:05,2021-05-01
+66,66,15:45 KL837,,Amsterdam (AMS),KLM B77W (PH-BVR),Landed 15:12,2021-05-01
+67,67,15:45 QR946,,Doha (DOH),Qatar Airways A359 (A7-AMH),Landed 14:45,2021-05-01
+68,68,15:55 SQ655,,Fukuoka (FUK),Singapore Airlines B78X (9V-SCO),Landed 15:50,2021-05-01
+69,69,16:05 SQ671,,Nagoya (NGO),Singapore Airlines B78X (9V-SCI),Landed 16:03,2021-05-01
+70,70,16:20 SQ637,,Tokyo (NRT),Singapore Airlines B78X (9V-SCD),Landed 16:17,2021-05-01
+71,71,16:30 IX682,,Tiruchirapalli (TRZ),Air India Express (Konark Sun Temple-Taj Mahal) B738 (VT-GHF),Landed 16:16,2021-05-01
+72,72,16:30 7L633,,Baku (GYD),Silk Way West Airlines 74N,Unknown,2021-05-01
+73,73,16:55 SQ319,,London (LHR),Singapore Airlines A359 (9V-SMK),Landed 16:06,2021-05-01
+74,74,17:00 SQ7295,,Sydney (SYD),Singapore Airlines Cargo B744 (9V-SFI),Landed 17:08,2021-05-01
+75,75,17:05 SQ191,,Hanoi (HAN),Singapore Airlines A359 (9V-SHJ),Landed 16:38,2021-05-01
+76,76,17:20 TR387,,Angeles City (CRK),Scoot A320 (9V-TRH),Landed 16:59,2021-05-01
+77,77,17:40 SQ298,,Christchurch (CHC),Singapore Airlines A359 (9V-SMG),Landed 17:07,2021-05-01
+78,78,17:50 CX735,,Hong Kong (HKG),Cathay Pacific 333,Unknown,2021-05-01
+79,79,17:55 SQ917,,Manila (MNL),Singapore Airlines A359 (9V-SHA),Landed 17:33,2021-05-01
+80,80,18:00 UL1430,,Colombo (CMB),SriLankan Airlines A333 (4R-ALQ),Landed 17:43,2021-05-01
+81,81,18:20 GA836,,Jakarta (CGK),Garuda Indonesia A333 (PK-GHA),Landed 18:11,2021-05-01
+82,82,18:20 SQ883,,Hong Kong (HKG),Singapore Airlines A359 (9V-SME),Landed 18:00,2021-05-01
+83,83,18:40 8K801,,Jakarta (CGK),K-Mile Air 73P,Unknown,2021-05-01
+84,84,18:55 SQ877,,Taipei (TPE),Singapore Airlines B78X (9V-SCB),Landed 18:44,2021-05-01
+85,85,19:00 JL37,,Tokyo (HND),Japan Airlines B788 (JA842J),Landed 18:55,2021-05-01
+86,86,19:20 PX392,,Port Moresby (POM),Air Niugini B763 (P2-PXV),Landed 19:32,2021-05-01
+87,87,19:25 AI346,,Chennai (MAA),Air India A20N (VT-CIH),Landed 18:46,2021-05-01
+88,88,19:35 LD317,,Hong Kong (HKG),DHL A332 (B-LDS),Landed 19:24,2021-05-01
+89,89,19:35 TR469,,Kuala Lumpur (KUL),Scoot A20N (9V-TND),Landed 19:06,2021-05-01
+90,90,20:25 TR303,,Ho Chi Minh City (SGN),Scoot A20N (9V-TNE),Landed 20:15,2021-05-01
+91,91,20:30 TR899,,Taipei (TPE),Scoot B788 (9V-OFK),Landed 20:40,2021-05-01
+92,92,20:30 3K250,,Surabaya (SUB),Jetstar Airways A320 (9V-JSK),Landed 20:16,2021-05-01
+93,93,20:45 SQ236,,Brisbane (BNE),Singapore Airlines A359 (9V-SMN),Landed 20:32,2021-05-01
+94,94,21:00 CK287,,Shanghai (PVG),China Cargo Airlines B77L (B-2076),Unknown,2021-05-01
+95,95,21:00 TR611,,Bangkok (BKK),Scoot 320,Unknown,2021-05-01
+96,96,21:20,SQ222,Sydney (SYD),Singapore Airlines A359 (9V-SHR),Landed 20:51,2021-05-01
+97,97,21:25 SQ157,,Phnom Penh (PNH),Singapore Airlines B738 (9V-MGK),Landed 21:31,2021-05-01
+98,98,21:30,SQ228,Melbourne (MEL),Singapore Airlines A359 (9V-SHS),Landed 21:08,2021-05-01
+99,99,21:50,SQ125,Kuala Lumpur (KUL),Singapore Airlines B77W (9V-SWR),Landed 21:31,2021-05-01
+100,100,21:50,SQ965,Jakarta (CGK),Singapore Airlines B77W (9V-SWT),Landed 21:40,2021-05-01
+101,101,21:55,SQ711,Bangkok (BKK),Singapore Airlines B77W (9V-SWH),Landed 21:21,2021-05-01
+102,102,21:55,TR905,Macau (MFM),Scoot A320 (9V-TRL),Landed 21:28,2021-05-01
+103,103,22:00,SQ601,Seoul (ICN),Singapore Airlines B78X (9V-SCK),Landed 21:33,2021-05-01
+104,104,22:10,SQ214,Perth (PER),Singapore Airlines B78X (9V-SCC),Landed 21:42,2021-05-01
+105,105,22:15 KL838,,Jakarta (CGK),KLM B77W (PH-BVR),Landed 22:10,2021-05-01
+106,106,23:00,SQ193,Hanoi (HAN),Singapore Airlines A359 (9V-SHM),Landed 22:52,2021-05-01
+107,107,23:20,TR9,Perth (PER),Scoot B789 (9V-OJJ),Landed 22:56,2021-05-01
+108,108,23:55,TR981,Hong Kong (HKG),Scoot B789 (9V-OJG),Landed 23:36,2021-05-01
+109,109,23:55 5J803,,Manila (MNL),Cebu Pacific A21N (RP-C4118),Landed 23:02,2021-05-01
