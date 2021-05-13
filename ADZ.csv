@@ -1,0 +1,117 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,09:00,,Bogota (BOG),- A320,Canceled,2021-05-09
+1,1,09:10 9R8807,,Providencia (PVA),Satena L4T,Unknown,2021-05-09
+2,2,09:20 VH5610,,Bogota (BOG),Viva Air A20N (HK-5360),Unknown,2021-05-09
+3,3,09:24,LA4250,Bogota (BOG),LATAM Airlines A319 (CC-CPL),Unknown,2021-05-09
+4,4,09:56,AV8560,Bogota (BOG),Avianca A320 (N743AV),Unknown,2021-05-09
+5,5,10:10 LA4270,,Cali (CLO),LATAM Airlines A319 (CC-CPJ),Canceled,2021-05-09
+6,6,10:32 LA4281,,Medellin (MDE),LATAM Airlines A320 (CC-BAM),Unknown,2021-05-09
+7,7,11:22 LA4252,,Bogota (BOG),LATAM Airlines A319 (CC-COX),Unknown,2021-05-09
+8,8,11:43 VH5608,,Medellin (MDE),Viva Air A20N (HK-5365),Unknown,2021-05-09
+9,9,12:00 P57208,,Cali (CLO),Wingo B738 (HP-1537CMP),Unknown,2021-05-09
+10,10,12:18,,Bogota (BOG),- A320,Canceled,2021-05-09
+11,11,12:48 VH5854,,Bogota (BOG),Viva Air A320 (HK-5277),Unknown,2021-05-09
+12,12,13:31 LA4230,,Cartagena (CTG),LATAM Airlines A320 (CC-BAR),Unknown,2021-05-09
+13,13,14:55 P57220,,Bogota (BOG),Wingo B738 (HP-1715CMP),Unknown,2021-05-09
+14,14,15:17 VH5892,,Medellin (MDE),Viva Air A320 (HK-5327),Unknown,2021-05-09
+15,15,15:27 LA4254,,Bogota (BOG),LATAM Airlines A319 (CC-CPF),Unknown,2021-05-09
+16,16,16:00,AV9778,Bogota (BOG),Avianca A320 (N401AV),Unknown,2021-05-09
+17,17,16:44,,Medellin (EOH),- A320,Canceled,2021-05-09
+18,18,17:00 VH5600,,Medellin (MDE),Viva Air A20N (HK-5365),Unknown,2021-05-09
+19,19,17:05 9R8809,,Providencia (PVA),Satena L4T,Unknown,2021-05-09
+20,20,17:26 AV9776,,Bogota (BOG),Avianca A320 (N992AV),Unknown,2021-05-09
+21,21,17:45 9A1519,,Cali (CLO),GCA Airlines 734,Unknown,2021-05-09
+22,22,17:56 LA4272,,Cali (CLO),LATAM Airlines A319 (CC-COY),Unknown,2021-05-09
+23,23,20:30 VH5930,,Bogota (BOG),Viva Air A320 (HK-5277),Unknown,2021-05-09
+24,24,20:37 VH5795,,Cali (CLO),Viva Air A320 (HK-5327),Unknown,2021-05-09
+25,25,21:18 P57206,,Barranquilla (BAQ),Wingo B738 (HP-1715CMP),Unknown,2021-05-09
+0,0,02:49,,Bogota (BOG),- A320,Canceled,2021-05-10
+1,1,03:19 VH8326,,Bogota (BOG),Viva Air A20N (HK-5360),Unknown,2021-05-10
+2,2,09:01,,Bogota (BOG),- A320,Canceled,2021-05-10
+3,3,09:10 9R8807,,Providencia (PVA),Satena L4T,Unknown,2021-05-10
+4,4,09:20 VH5610,,Bogota (BOG),Viva Air A20N (HK-5360),Unknown,2021-05-10
+5,5,09:25,LA4250,Bogota (BOG),LATAM Airlines A320 (CC-BAM),Unknown,2021-05-10
+6,6,09:56,AV8560,Bogota (BOG),Avianca A320 (N632AV),Unknown,2021-05-10
+7,7,10:10 LA4270,,Cali (CLO),LATAM Airlines A319 (CC-CPF),Canceled,2021-05-10
+8,8,10:31 LA4281,,Medellin (MDE),LATAM Airlines A320 (CC-BFB),Unknown,2021-05-10
+9,9,11:05 9A1519,,Cali (CLO),GCA Airlines 734,Unknown,2021-05-10
+10,10,11:05 9A1513,,Cali (CLO),GCA Airlines 734,Unknown,2021-05-10
+11,11,11:28,,Medellin (EOH),- A320,Canceled,2021-05-10
+12,12,11:30 LA4252,,Bogota (BOG),LATAM Airlines A320 (CC-BAG),Unknown,2021-05-10
+13,13,11:43 VH5608,,Medellin (MDE),Viva Air A20N (HK-5352),Unknown,2021-05-10
+14,14,12:19,,Bogota (BOG),- A320,Canceled,2021-05-10
+15,15,12:48 VH5854,,Bogota (BOG),Viva Air A20N (HK-5368),Unknown,2021-05-10
+16,16,13:33 LA4230,,Cartagena (CTG),LATAM Airlines A320 (CC-BAA),Unknown,2021-05-10
+17,17,13:45,,Cali (CLO),- A320,Canceled,2021-05-10
+18,18,14:00 VH5793,,Cali (CLO),Viva Air A320 (HK-5305),Unknown,2021-05-10
+19,19,14:15 P57222,,Bogota (BOG),Wingo B738 (HP-1536CMP),Unknown,2021-05-10
+20,20,14:45 AV8402,,Cartagena (CTG),Avianca A319 (N753AV),Unknown,2021-05-10
+21,21,15:02,,Medellin (EOH),- A320,Canceled,2021-05-10
+22,22,15:17 VH5892,,Medellin (MDE),Viva Air A20N (HK-5353),Unknown,2021-05-10
+23,23,15:40 LA4254,,Bogota (BOG),LATAM Airlines A319 (CC-CQK),Unknown,2021-05-10
+24,24,16:00,AV9778,Bogota (BOG),Avianca A320 (N398AV),Unknown,2021-05-10
+25,25,16:44,,Medellin (EOH),- A320,Canceled,2021-05-10
+26,26,17:00 VH5600,,Medellin (MDE),Viva Air 320,Unknown,2021-05-10
+27,27,17:05 9R8809,,Providencia (PVA),Satena L4T,Unknown,2021-05-10
+28,28,17:26 AV9776,,Bogota (BOG),Avianca A320 (N862AV),Unknown,2021-05-10
+29,29,18:01 LA4272,,Cali (CLO),LATAM Airlines A320 (CC-BAS),Unknown,2021-05-10
+30,30,20:00,,Bogota (BOG),- A320,Canceled,2021-05-10
+31,31,20:20,,Pereira (PEI),- A320,Canceled,2021-05-10
+32,32,20:30 VH5930,,Bogota (BOG),Viva Air A320 (HK-5277),Unknown,2021-05-10
+33,33,20:37 VH8338,,Pereira (PEI),Viva Air A20N (HK-5353),Unknown,2021-05-10
+0,0,09:00,,Bogota (BOG),- A320,Canceled,2021-05-11
+1,1,09:10 9R8807,,Providencia (PVA),Satena L4T,Unknown,2021-05-11
+2,2,09:18,LA4250,Bogota (BOG),LATAM Airlines A319 (CC-CPL),Unknown,2021-05-11
+3,3,09:20 VH5610,,Bogota (BOG),Viva Air A20N (HK-5368),Unknown,2021-05-11
+4,4,09:56,AV8560,Bogota (BOG),Avianca A320 (N862AV),Unknown,2021-05-11
+5,5,10:06 LA4270,,Cali (CLO),LATAM Airlines A319 (CC-CPF),Unknown,2021-05-11
+6,6,10:26 LA4281,,Medellin (MDE),LATAM Airlines A319 (CC-COX),Unknown,2021-05-11
+7,7,11:16 LA4252,,Bogota (BOG),LATAM Airlines A320 (CC-BAM),Unknown,2021-05-11
+8,8,11:27,,Medellin (EOH),- A320,Canceled,2021-05-11
+9,9,11:43 VH5608,,Medellin (MDE),Viva Air A20N (HK-5361),Unknown,2021-05-11
+10,10,12:00 P57210,,Cali (CLO),Wingo B738 (HP-1715CMP),Unknown,2021-05-11
+11,11,12:30 9A1519,,Cali (CLO),GCA Airlines 734,Unknown,2021-05-11
+12,12,12:30 9A1513,,Cali (CLO),GCA Airlines 734,Unknown,2021-05-11
+13,13,12:46 LA4252,,Bogota (BOG),LATAM Airlines A320 (CC-BFA),Unknown,2021-05-11
+14,14,13:52 LA4230,,Cartagena (CTG),LATAM Airlines A320 (CC-BAG),Unknown,2021-05-11
+15,15,15:01,,Medellin (EOH),- A320,Canceled,2021-05-11
+16,16,15:17 VH5892,,Medellin (MDE),Viva Air A20N (HK-5353),Unknown,2021-05-11
+17,17,15:24 LA4254,,Bogota (BOG),LATAM Airlines A320 (CC-BAF),Unknown,2021-05-11
+18,18,16:00,AV9778,Bogota (BOG),Avianca A320 (N755AV),Unknown,2021-05-11
+19,19,16:43,,Medellin (EOH),- A320,Canceled,2021-05-11
+20,20,17:00 VH5600,,Medellin (MDE),Viva Air 320,Unknown,2021-05-11
+21,21,17:05 9R8809,,Providencia (PVA),Satena L4T,Unknown,2021-05-11
+22,22,17:26 AV9776,,Bogota (BOG),Avianca A320 (N862AV),Unknown,2021-05-11
+23,23,19:30 9A1534,,Pereira (PEI),GCA Airlines 734,Unknown,2021-05-11
+24,24,19:59,,Bogota (BOG),- A320,Canceled,2021-05-11
+25,25,20:22,,Cali (CLO),- A320,Canceled,2021-05-11
+26,26,20:30 VH5930,,Bogota (BOG),Viva Air A20N (HK-5368),Unknown,2021-05-11
+27,27,20:37 VH5795,,Cali (CLO),Viva Air A20N (HK-5353),Unknown,2021-05-11
+0,0,02:45,,Cali (CLO),- A320,Canceled,2021-05-12
+1,1,05:00 VH8336,,Cali (CLO),Viva Air A320 (HK-5278),Unknown,2021-05-12
+2,2,09:00,,Bogota (BOG),- A320,Canceled,2021-05-12
+3,3,09:10 9R8807,,Providencia (PVA),Satena L4T,Unknown,2021-05-12
+4,4,09:17 LA4250,,Bogota (BOG),LATAM Airlines A320 (CC-BAR),Unknown,2021-05-12
+5,5,09:20 VH5610,,Bogota (BOG),Viva Air 320,Unknown,2021-05-12
+6,6,09:56,AV8560,Bogota (BOG),Avianca A320 (N743AV),Unknown,2021-05-12
+7,7,10:02 LA4270,,Cali (CLO),LATAM Airlines A320 (CC-BAE),Unknown,2021-05-12
+8,8,10:34 LA4281,,Medellin (MDE),LATAM Airlines A320 (CC-BAF),Unknown,2021-05-12
+9,9,11:27,,Medellin (EOH),- A320,Canceled,2021-05-12
+10,10,11:30 LA4252,,Bogota (BOG),LATAM Airlines A320 (CC-BFC),Unknown,2021-05-12
+11,11,11:43 VH5608,,Medellin (MDE),Viva Air 320,Unknown,2021-05-12
+12,12,12:18,,Bogota (BOG),- A320,Canceled,2021-05-12
+13,13,12:30 P57212,,Cartagena (CTG),Wingo B738 (HP-1523CMP),Unknown,2021-05-12
+14,14,12:48 VH5854,,Bogota (BOG),Viva Air A20N (HK-5360),Unknown,2021-05-12
+15,15,13:32 LA4230,,Cartagena (CTG),LATAM Airlines A320 (CC-BAG),Unknown,2021-05-12
+16,16,15:01,,Medellin (EOH),- A320,Canceled,2021-05-12
+17,17,15:17 VH5892,,Medellin (MDE),Viva Air A320 (HK-5275),Unknown,2021-05-12
+18,18,16:00,AV9778,Bogota (BOG),Avianca A319 (N753AV),Landed 15:39,2021-05-12
+19,19,16:00 LA4254,,Bogota (BOG),LATAM Airlines A319 (CC-COY),Unknown,2021-05-12
+20,20,16:45,,Medellin (EOH),- A320,Unknown,2021-05-12
+21,21,17:00 VH5600,,Medellin (MDE),Viva Air A20N (HK-5361),Unknown,2021-05-12
+22,22,17:05 9R8809,,Providencia (PVA),Satena L4T,Unknown,2021-05-12
+23,23,17:26 AV9776,,Bogota (BOG),Avianca A319 (N694AV),Unknown,2021-05-12
+24,24,17:45 9A1519,,Cali (CLO),GCA Airlines 734,Unknown,2021-05-12
+25,25,20:00,,Bogota (BOG),- A320,Unknown,2021-05-12
+26,26,20:30 VH5930,,Bogota (BOG),Viva Air A20N (HK-5360),Unknown,2021-05-12
+27,27,20:37 VH5795,,Cali (CLO),Viva Air A320 (HK-5278),Unknown,2021-05-12

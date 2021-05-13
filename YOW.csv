@@ -1,0 +1,55 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,04:42,,North Bay (YYB),- SW4 (C-FIOB),Landed 04:53,2021-05-09
+1,1,09:11,AC442,Toronto (YYZ),Air Canada BCS3 (C-GTZH),Landed 08:59,2021-05-09
+2,2,09:13,AC8971,Montreal (YUL),Air Canada Express CRJ9 (C-GOJZ),Landed 09:10,2021-05-09
+3,3,14:09 AC8975,,Montreal (YUL),Air Canada Express DH8D (C-GJZX),Landed 13:47,2021-05-09
+4,4,15:11,AC454,Toronto (YYZ),Air Canada BCS3 (C-GTZH),Landed 14:55,2021-05-09
+5,5,15:19 WS610,,Calgary (YYC),WestJet B38M (C-FCTK),Landed 15:41,2021-05-09
+6,6,18:30 W8470,,Iqaluit (YFB),Cargojet Airways B763 (C-FDIJ),Landed 17:28,2021-05-09
+7,7,19:43,AC8983,Montreal (YUL),Air Canada Express CRJ9 (C-GLJZ),Landed 19:32,2021-05-09
+8,8,20:25 5T106,,Iqaluit (YFB),Canadian North B734 (C-FFNE),Landed 19:59,2021-05-09
+9,9,21:08,WS3478,Toronto (YYZ),WestJet DH8D (C-GVWE),Landed 20:45,2021-05-09
+10,10,23:01,AC468,Toronto (YYZ),Air Canada BCS3 (C-GJYC),Landed 22:43,2021-05-09
+0,0,00:10 FX152,,Memphis (MEM),FedEx A306 (N674FE),Landed 02:12,2021-05-10
+1,1,07:43 TGO855,,Montreal (YUL),Department of Transport - Canada C550 (C-FKDX),Landed 07:36,2021-05-10
+2,2,09:11,AC442,Toronto (YYZ),Air Canada BCS3 (C-GJXY),Landed 09:14,2021-05-10
+3,3,09:13,AC8971,Montreal (YUL),Air Canada Express CRJ9 (C-GJAZ),Landed 09:02,2021-05-10
+4,4,14:49 AC7048,,Calgary (YYC),Air Canada Jetz A319 (C-GBIA),Landed 14:40,2021-05-10
+5,5,15:11 AC454,,Toronto (YYZ),Air Canada BCS3 (C-GJXY),Landed 14:56,2021-05-10
+6,6,15:19 WS610,,Calgary (YYC),WestJet B38M (C-FCTK),Landed 15:31,2021-05-10
+7,7,15:43 3H730,,Montreal (YUL),Air Inuit B733 (C-GFFN),Landed 15:34,2021-05-10
+8,8,16:10,,Hamilton (YHM),- CRJ2 (C-GNVC),Landed 16:47,2021-05-10
+9,9,18:30 W8470,,Iqaluit (YFB),Cargojet Airways B763 (C-FDIJ),Landed 17:22,2021-05-10
+10,10,19:43,AC8983,Montreal (YUL),Air Canada Express CRJ9 (C-GOJZ),Landed 19:40,2021-05-10
+11,11,20:25 5T106,,Iqaluit (YFB),Canadian North B734 (C-FFNE),Landed 20:12,2021-05-10
+12,12,21:08,WS3478,Toronto (YYZ),WestJet DH8D (C-GENM),Landed 20:50,2021-05-10
+13,13,23:01,AC468,Toronto (YYZ),Air Canada BCS3 (C-GMYU),Landed 22:45,2021-05-10
+0,0,07:30 W8574,,Hamilton (YHM),Cargojet Airways 76Y,Unknown,2021-05-11
+1,1,08:10 W81574,,Hamilton (YHM),Cargojet Airways B763 (C-FCAE),Landed 08:05,2021-05-11
+2,2,08:21 FX152,,Montreal (YMX),FedEx A306 (N674FE),Landed 08:10,2021-05-11
+3,3,09:11 AC442,,Toronto (YYZ),Air Canada A321 (C-GJVX),Landed 09:01,2021-05-11
+4,4,09:13 AC8971,,Montreal (YUL),Air Canada Express CRJ9 (C-GLJZ),Landed 09:04,2021-05-11
+5,5,14:09,AC8975,Montreal (YUL),Air Canada DH4,Unknown,2021-05-11
+6,6,15:11 AC454,,Toronto (YYZ),Air Canada BCS3 (C-GJXY),Unknown,2021-05-11
+7,7,16:00 AC7045,,Toronto (YYZ),Air Canada Jetz A319 (C-GBHN),Landed 15:41,2021-05-11
+8,8,17:46 FX9152,,Memphis (MEM),FedEx A306 (N680FE),Landed 18:03,2021-05-11
+9,9,19:43 AC8983,,Montreal (YUL),Air Canada Express CRJ9 (C-FJZL),Landed 19:34,2021-05-11
+10,10,20:25 5T106,,Iqaluit (YFB),Canadian North B734 (C-FFNE),Landed 19:47,2021-05-11
+11,11,21:08,WS3478,Toronto (YYZ),WestJet DH8D (C-GENK),Landed 20:56,2021-05-11
+12,12,23:01,AC468,Toronto (YYZ),Air Canada BCS3 (C-GJXW),Landed 22:49,2021-05-11
+0,0,07:30 W8574,,Hamilton (YHM),Cargojet Airways 76Y,Unknown,2021-05-12
+1,1,08:14 W81574,,Hamilton (YHM),Cargojet Airways B763 (C-FDIJ),Landed 08:05,2021-05-12
+2,2,09:11 AC442,,Toronto (YYZ),Air Canada BCS3 (C-GJXW),Landed 08:59,2021-05-12
+3,3,09:13,AC8971,Montreal (YUL),Air Canada Express CRJ9 (C-GLJZ),Landed 08:53,2021-05-12
+4,4,09:18 FX152,,Montreal (YMX),FedEx A306 (N685FE),Landed 09:20,2021-05-12
+5,5,11:57,,Thunder Bay (YQT),- CRJ2 (C-GNVC),Landed 13:34,2021-05-12
+6,6,12:42 TGO858,,Halifax (YHZ),Transport Canada C550,Canceled,2021-05-12
+7,7,13:17,,Sault Ste. Marie (YAM),- CRJ2 (C-GFIO),Landed 13:16,2021-05-12
+8,8,15:11,AC454,Toronto (YYZ),Air Canada BCS3 (C-GJXW),Landed 15:02,2021-05-12
+9,9,17:24 W8470,,Iqaluit (YFB),Cargojet Airways B763 (C-FDIJ),Landed 17:25,2021-05-12
+10,10,17:49 FX9152,,Memphis (MEM),FedEx A306 (N680FE),Landed 18:00,2021-05-12
+11,11,19:43,AC8983,Montreal (YUL),Air Canada Express CRJ9 (C-GOJZ),Landed 19:47,2021-05-12
+12,12,20:10 5T106,,Iqaluit (YFB),Canadian North B734 (C-FFNE),Landed 19:50,2021-05-12
+13,13,21:08,WS3478,Toronto (YYZ),WestJet DH8D (C-FNEN),Unknown,2021-05-12
+14,14,21:08,WS3478,Toronto (YYZ),WestJet DH8D (C-FNEN),Landed 20:56,2021-05-12
+15,15,23:01,AC468,Toronto (YYZ),Air Canada BCS3 (C-GNBE),Landed 22:51,2021-05-12

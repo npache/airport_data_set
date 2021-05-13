@@ -1646,3 +1646,110 @@
 5,5,20:00 FI760,,Boston (BOS),Icelandair Cargo B752 (TF-FIH),Landed 19:27,2021-05-01
 6,6,20:10 FI581,,Tenerife (TFS),Icelandair B38M (TF-ICN),Landed 21:03,2021-05-01
 7,7,20:55 FI762,,Boston (BOS),Icelandair Cargo B752 (TF-FIG),Landed 20:19,2021-05-01
+0,0,08:05,DL246,New York (JFK),Delta Air Lines B752 (N703TW),Landed 07:36,2021-05-02
+1,1,14:25,BT169,Riga (RIX),Air Baltic BCS3 (YL-AAR),Landed 14:12,2021-05-02
+2,2,14:45,FI319,Oslo (OSL),Icelandair B39M (TF-ICA),Landed 14:17,2021-05-02
+3,3,15:10,FI307,Stockholm (ARN),Icelandair (Aurora Borealis Livery) B752 (TF-FIU),Canceled,2021-05-02
+4,4,15:20 FI451,,London (LHR),Icelandair B763 (TF-ISN),Landed 14:51,2021-05-02
+5,5,15:25,FI205,Copenhagen (CPH),Icelandair B763 (TF-ISW),Landed 15:07,2021-05-02
+6,6,15:40 FI521,,Frankfurt (FRA),Icelandair B763 (TF-ISO),Landed 15:30,2021-05-02
+7,7,15:40 FI543,,Paris (CDG),Icelandair B38M (TF-ICN),Landed 15:33,2021-05-02
+8,8,16:10 FI775,,Liege (LGG),Icelandair 75F,Unknown,2021-05-02
+9,9,20:00 FI760,,Boston (BOS),Icelandair Cargo B752 (TF-FIH),Landed 18:58,2021-05-02
+10,10,20:13 FI762,,Boston (BOS),Icelandair Cargo B752 (TF-FIG),Landed 20:06,2021-05-02
+11,11,23:25 W61539,,Warsaw (WAW),Wizz Air A21N (HA-LVC),Landed 23:09,2021-05-02
+0,0,04:40 FI771,,Liege (LGG),Icelandair 75F,Unknown,2021-05-03
+1,1,07:20 BO6810,,Dublin (DUB),Bluebird Nordic B734 (TF-BBN),Landed 07:14,2021-05-03
+2,2,08:05,DL246,New York (JFK),Delta Air Lines B752 (N727TW),Landed 07:32,2021-05-03
+3,3,15:25,FI205,Copenhagen (CPH),Icelandair B38M (TF-ICN),Landed 15:15,2021-05-03
+4,4,16:05,VY8560,Barcelona (BCN),Vueling A320 (EC-LVU),Landed 15:46,2021-05-03
+5,5,17:47 AF361V,,Paris (CDG),Air France A320 (F-HEPC),Landed 17:32,2021-05-03
+0,0,06:10,FI630,Boston (BOS),Icelandair B763 (TF-ISN),Landed 05:35,2021-05-04
+1,1,07:20 BO6810,,Dublin (DUB),Bluebird Nordic B734 (TF-BBN),Landed 07:04,2021-05-04
+2,2,07:40 FI741,,East Midlands (EMA),Icelandair 75F,Unknown,2021-05-04
+3,3,12:10 LH856,,Frankfurt (FRA),Lufthansa A20N (D-AINP),Landed 12:19,2021-05-04
+4,4,15:20 FI451,,London (LHR),Icelandair 75W,Canceled,2021-05-04
+5,5,15:25,FI501,Amsterdam (AMS),Icelandair B763 (TF-ISO),Landed 14:59,2021-05-04
+6,6,15:40 FI543,,Paris (CDG),Icelandair 75W,Canceled,2021-05-04
+7,7,20:00 FI760,,Boston (BOS),Icelandair Cargo B752 (TF-FIG),Landed 19:01,2021-05-04
+8,8,20:55 FI762,,Boston (BOS),Icelandair Cargo B752 (TF-FIH),Landed 20:18,2021-05-04
+0,0,04:09,,Iqaluit (YFB),- B734 (C-FLER),Landed 03:42,2021-05-05
+1,1,04:40 FI783,,Liege (LGG),Icelandair 75F,Unknown,2021-05-05
+2,2,07:20 BO6810,,Dublin (DUB),Bluebird Nordic B734 (TF-BBN),Landed 07:18,2021-05-05
+3,3,07:40 FI741,,East Midlands (EMA),Icelandair 75F,Unknown,2021-05-05
+4,4,08:05,DL246,New York (JFK),Delta Air Lines B752 (N721TW),Landed 07:47,2021-05-05
+5,5,15:25,FI205,Copenhagen (CPH),Icelandair B763 (TF-ISN),Landed 15:16,2021-05-05
+6,6,19:57,,Bangor (BGR),- B722,Canceled,2021-05-05
+7,7,20:13,,Boston (BOS),- B752 (TF-FIH),Landed 20:00,2021-05-05
+0,0,04:40 FI783,,Liege (LGG),Icelandair Cargo B752 (TF-FIH),Landed 05:13,2021-05-06
+1,1,06:10,FI630,Boston (BOS),Icelandair B763 (TF-ISW),Landed 05:29,2021-05-06
+2,2,06:20,FI614,New York (JFK),Icelandair B763 (TF-ISO),Landed 05:39,2021-05-06
+3,3,07:20 BO6810,,Dublin (DUB),Bluebird Nordic B734 (TF-BBN),Landed 07:20,2021-05-06
+4,4,07:40 FI741,,East Midlands (EMA),Icelandair 75F,Unknown,2021-05-06
+5,5,07:50 DY1170,,Oslo (OSL),Norwegian 73H,Unknown,2021-05-06
+6,6,12:10 LH856,,Frankfurt (FRA),Lufthansa A20N (D-AINJ),Landed 12:22,2021-05-06
+7,7,13:50 6E9430,,Shannon (SNN),IndiGo A320 (VT-IDP),Landed 13:07,2021-05-06
+8,8,14:45,FI319,Oslo (OSL),Icelandair 75W,Canceled,2021-05-06
+9,9,15:10,FI307,Stockholm (ARN),Icelandair B38M (TF-ICN),Landed 14:58,2021-05-06
+10,10,15:25,FI205,Copenhagen (CPH),Icelandair 76W,Unknown,2021-05-06
+11,11,15:25,FI501,Amsterdam (AMS),Icelandair B763 (TF-ISO),Landed 15:09,2021-05-06
+12,12,16:07 AF392V,,Gander (YQX),Air France A320 (F-GKXU),Landed 15:48,2021-05-06
+13,13,19:40 FI762,,Boston (BOS),Icelandair Cargo B752 (TF-FIH),Landed 19:52,2021-05-06
+14,14,23:20 W61539,,Warsaw (WAW),Wizz Air A21N (HA-LVF),Landed 23:18,2021-05-06
+0,0,04:40 FI783,,Liege (LGG),Icelandair 75F,Unknown,2021-05-07
+1,1,07:20 BO6810,,Dublin (DUB),Bluebird Nordic B734 (TF-BBN),Landed 08:02,2021-05-07
+2,2,07:40 FI741,,East Midlands (EMA),Icelandair 75F,Unknown,2021-05-07
+3,3,08:05,DL246,New York (JFK),Delta Air Lines B752 (N710TW),Landed 07:34,2021-05-07
+4,4,14:25,BT169,Riga (RIX),Air Baltic BCS3 (YL-CSN),Landed 14:14,2021-05-07
+5,5,15:25,FI205,Copenhagen (CPH),Icelandair B38M (TF-ICN),Landed 15:21,2021-05-07
+0,0,06:10,FI630,Boston (BOS),Icelandair B763 (TF-ISW),Landed 05:36,2021-05-08
+1,1,06:20,FI614,New York (JFK),Icelandair B763 (TF-ISO),Landed 05:34,2021-05-08
+2,2,08:05,DL246,New York (JFK),Delta Air Lines B752 (N722TW),Landed 07:36,2021-05-08
+3,3,12:10 LH856,,Frankfurt (FRA),Lufthansa A20N (D-AINQ),Landed 12:13,2021-05-08
+4,4,12:35,,Goose Bay (YYR),- B722,Canceled,2021-05-08
+5,5,15:25,FI205,Copenhagen (CPH),Icelandair B763 (TF-ISW),Landed 15:19,2021-05-08
+6,6,15:25,FI501,Amsterdam (AMS),Icelandair B763 (TF-ISN),Landed 15:16,2021-05-08
+7,7,16:20,VY8560,Barcelona (BCN),Vueling A320 (EC-MAH),Landed 15:49,2021-05-08
+8,8,19:13,,Iqaluit (YFB),- TBM7 (N700QQ),Landed 19:08,2021-05-08
+9,9,20:10 FI581,,Tenerife (TFS),Icelandair B39M (TF-ICA),Landed 20:24,2021-05-08
+10,10,20:17,,Boston (BOS),- B752 (TF-FIH),Landed 19:02,2021-05-08
+0,0,08:05,DL246,New York (JFK),Delta Air Lines B752 (N721TW),Landed 07:46,2021-05-09
+1,1,09:05 DY1170,,Oslo (OSL),Norwegian 73H,Unknown,2021-05-09
+2,2,14:25,BT169,Riga (RIX),Air Baltic BCS3 (YL-CSN),Landed 14:19,2021-05-09
+3,3,14:45,FI319,Oslo (OSL),Icelandair B752 (TF-FIV),Canceled,2021-05-09
+4,4,15:10,FI307,Stockholm (ARN),Icelandair B752 (TF-FIO),Canceled,2021-05-09
+5,5,15:20 FI451,,London (LHR),Icelandair B763 (TF-ISW),Landed 14:43,2021-05-09
+6,6,15:25,FI205,Copenhagen (CPH),Icelandair B39M (TF-ICA),Landed 15:06,2021-05-09
+7,7,15:40 FI521,,Frankfurt (FRA),Icelandair B763 (TF-ISN),Landed 15:30,2021-05-09
+8,8,15:40 FI543,,Paris (CDG),Icelandair B752 (TF-FIC),Canceled,2021-05-09
+9,9,16:10 FI775,,Liege (LGG),Icelandair 75F,Unknown,2021-05-09
+10,10,19:14,,Boston (BOS),- B752 (TF-FIH),Landed 19:06,2021-05-09
+11,11,23:25 W61539,,Warsaw (WAW),Wizz Air A21N (HA-LVF),Landed 23:20,2021-05-09
+12,12,23:40 FI762,,Boston (BOS),Icelandair Cargo B752 (TF-FIG),Landed 23:32,2021-05-09
+0,0,04:40 FI771,,Liege (LGG),Icelandair 75F,Unknown,2021-05-10
+1,1,06:10,FI630,Boston (BOS),Icelandair B38M (TF-ICN),Landed 05:38,2021-05-10
+2,2,06:20,FI614,New York (JFK),Icelandair B763 (TF-ISO),Landed 05:31,2021-05-10
+3,3,07:20 BO6810,,Dublin (DUB),Bluebird Nordic B734 (TF-BBO),Landed 06:55,2021-05-10
+4,4,08:05,DL246,New York (JFK),Delta Air Lines B752 (N707TW),Landed 07:35,2021-05-10
+5,5,15:25,FI205,Copenhagen (CPH),Icelandair B38M (TF-ICN),Landed 15:10,2021-05-10
+0,0,06:10,FI630,Boston (BOS),Icelandair B763 (TF-ISN),Landed 05:31,2021-05-11
+1,1,06:15,FI680,Seattle (SEA),Icelandair B39M (TF-ICA),Landed 06:48,2021-05-11
+2,2,06:20,FI614,New York (JFK),Icelandair B763 (TF-ISW),Landed 05:38,2021-05-11
+3,3,07:20 BO6810,,Dublin (DUB),Bluebird Nordic B734 (TF-BBO),Landed 07:51,2021-05-11
+4,4,07:40 FI741,,East Midlands (EMA),Icelandair 75F,Unknown,2021-05-11
+5,5,08:05,DL246,New York (JFK),Delta Air Lines B752 (N727TW),Landed 07:39,2021-05-11
+6,6,10:00 LH9940,,Munich (MUC),Lufthansa CRJ9 (D-ACKL),Landed 09:54,2021-05-11
+7,7,12:10 LH856,,Frankfurt (FRA),Lufthansa A20N (D-AINB),Landed 12:29,2021-05-11
+8,8,12:14,,Goose Bay (YYR),- (N164TS),Unknown,2021-05-11
+9,9,15:20 FI451,,London (LHR),Icelandair B38M (TF-ICN),Landed 14:39,2021-05-11
+10,10,15:25,FI501,Amsterdam (AMS),Icelandair B763 (TF-ISO),Landed 15:01,2021-05-11
+11,11,15:40 FI543,,Paris (CDG),Icelandair B39M (TF-ICA),Landed 15:17,2021-05-11
+12,12,20:20 FI762,,Boston (BOS),Icelandair Cargo B752 (TF-FIG),Landed 19:46,2021-05-11
+13,13,20:20 FI762,,Boston (BOS),Icelandair Cargo B752 (TF-FIH),Landed 20:57,2021-05-11
+0,0,04:11 FI6080,,Roswell (ROW),Icelandair B752 (TF-FIN),Diverted to ROW,2021-05-12
+1,1,04:40 FI783,,Liege (LGG),Icelandair 75F,Unknown,2021-05-12
+2,2,07:20 BO6810,,Dublin (DUB),Bluebird Nordic B734 (TF-BBO),Landed 07:03,2021-05-12
+3,3,07:40 FI741,,East Midlands (EMA),Icelandair 75F,Unknown,2021-05-12
+4,4,08:05,DL246,New York (JFK),Delta Air Lines B752 (N721TW),Landed 08:11,2021-05-12
+5,5,15:25,FI205,Copenhagen (CPH),Icelandair B763 (TF-ISW),Landed 15:01,2021-05-12
+6,6,19:15,,Boston (BOS),- B752 (TF-FIH),Landed 19:12,2021-05-12

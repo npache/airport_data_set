@@ -31947,3 +31947,1729 @@
 161,161,22:15,BA455,Malaga (AGP),British Airways A20N (G-TTNJ),Landed 21:42,2021-05-01
 162,162,22:45 BA3405,,Paris (CDG),British Airways AB6,Unknown,2021-05-01
 163,163,22:55,TP1366,Lisbon (LIS),TAP Air Portugal A20N (CS-TVD),Landed 22:40,2021-05-01
+0,0,05:05 BA260,,Islamabad (ISB),British Airways B772 (G-YMMD),Landed 04:57,2021-05-02
+1,1,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBG),Landed 05:14,2021-05-02
+2,2,05:40 CX251,,Hong Kong (HKG),Cathay Pacific 77W,Unknown,2021-05-02
+3,3,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMU),Landed 05:52,2021-05-02
+4,4,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMV),Landed 06:16,2021-05-02
+5,5,06:15 BA124,,Bahrain (BAH),British Airways B788 (G-ZBJE),Landed 06:13,2021-05-02
+6,6,06:20 AA100,,New York (JFK),American Airlines B77W (N733AR),Landed 06:04,2021-05-02
+7,7,06:25 AA50,,Dallas (DFW),American Airlines B77W (N720AN),Landed 06:23,2021-05-02
+8,8,06:25 JL41,,Tokyo (HND),Japan Airlines B788 (JA836J),Landed 06:12,2021-05-02
+9,9,06:30 BA112,,New York (JFK),British Airways B772 (G-YMMN),Landed 06:08,2021-05-02
+10,10,06:40 VS132,,Bridgetown (BGI),Virgin Atlantic B789 (G-VBOW),Landed 06:41,2021-05-02
+11,11,06:40 VS664,,San Juan (SJU),Virgin Atlantic B789 (G-VBOW),Diverted to BGI,2021-05-02
+12,12,06:45 UA918,,Washington (IAD),United Airlines B763 (N675UA),Landed 06:31,2021-05-02
+13,13,06:50 AA86,,Chicago (ORD),American Airlines B788 (N870AX),Landed 06:26,2021-05-02
+14,14,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBH),Landed 07:25,2021-05-02
+15,15,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBL),Landed 06:51,2021-05-02
+16,16,06:55 GF7,,Bahrain (BAH),Gulf Air B789 (A9C-FC),Landed 06:46,2021-05-02
+17,17,06:55 VS624,,Boston (BOS),Virgin Atlantic B789 (G-VFAN),Landed 06:10,2021-05-02
+18,18,07:00 VS4,,New York (JFK),Virgin Atlantic A35K (G-VJAM),Landed 06:29,2021-05-02
+19,19,07:00 QR9,,Doha (DOH),Qatar Airways B77W (A7-BEW),Landed 06:48,2021-05-02
+20,20,07:05 DL32,,Atlanta (ATL),Delta Air Lines A333 (N816NW),Landed 06:57,2021-05-02
+21,21,07:05 EY11,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BME),Landed 07:10,2021-05-02
+22,22,07:10 UA14,,New York (EWR),United Airlines B78X (N16009),Landed 07:04,2021-05-02
+23,23,07:10 VS355,,Mumbai (BOM),Virgin Atlantic 789,Unknown,2021-05-02
+24,24,07:20 VS379,,Islamabad (ISB),Virgin Atlantic B789 (G-VWOO),Landed 07:12,2021-05-02
+25,25,07:20 VS642,,Los Angeles (LAX),Virgin Atlantic A35K (G-VTEA),Landed 06:55,2021-05-02
+26,26,07:25 VS303,,Delhi (DEL),Virgin Atlantic 789,Unknown,2021-05-02
+27,27,07:30 AI161,,Delhi (DEL),Air India B788 (VT-ANX),Landed 07:29,2021-05-02
+28,28,07:35 BA54,,Johannesburg (JNB),British Airways B772 (G-YMMB),Landed 06:53,2021-05-02
+29,29,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N758AN),Landed 07:17,2021-05-02
+30,30,07:40 UA931,,Chicago (ORD),United Airlines B789 (N25982),Landed 07:33,2021-05-02
+31,31,07:45 SQ306,,Singapore (SIN),Singapore Airlines B77W (9V-SWO),Landed 08:04,2021-05-02
+32,32,08:00 VS6,,Miami (MIA),Virgin Atlantic B789 (G-VDIA),Landed 07:06,2021-05-02
+33,33,08:06 AC7204,,Toronto (YYZ),Air Canada B789 (C-FRSA),Landed 08:27,2021-05-02
+34,34,08:10 DL1,,New York (JFK),Delta Air Lines (SkyTeam Livery) B764 (N844MH),Landed 07:53,2021-05-02
+35,35,08:10 BA1385,,Manchester (MAN),British Airways A21N (G-NEOZ),Landed 11:22,2021-05-02
+36,36,08:20 BA116,,New York (JFK),British Airways B77W (G-STBO),Landed 07:36,2021-05-02
+37,37,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBE),Landed 08:07,2021-05-02
+38,38,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FGFZ),Landed 08:48,2021-05-02
+39,39,08:40 LH900,,Frankfurt (FRA),Lufthansa A20N (D-AINF),Landed 08:40,2021-05-02
+40,40,08:50 BA1303,,Aberdeen (ABZ),British Airways A319 (G-EUPM),Landed 08:30,2021-05-02
+41,41,09:05 BA214,,Boston (BOS),British Airways B789 (G-ZBKP),Landed 08:43,2021-05-02
+42,42,09:05 EI154,,Dublin (DUB),Aer Lingus A21N (EI-LRE),Landed 08:32,2021-05-02
+43,43,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 08:34,2021-05-02
+44,44,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-MYX),Landed 08:35,2021-05-02
+45,45,09:10 AY1331,,Helsinki (HEL),Finnair A319 (OH-LVL),Landed 08:56,2021-05-02
+46,46,09:10 VS699,,New York (JFK),Virgin Atlantic B789 (G-VMAP),Landed 08:17,2021-05-02
+47,47,09:15 BA1439,,Edinburgh (EDI),British Airways A319 (G-EUPK),Landed 08:54,2021-05-02
+48,48,09:20 BA1491,,Glasgow (GLA),British Airways A319 (G-EUPT),Landed 08:51,2021-05-02
+49,49,09:23 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-GUAJ),Landed 08:38,2021-05-02
+50,50,09:25 AA38,,Miami (MIA),American Airlines B77W (N731AN),Landed 08:45,2021-05-02
+51,51,09:25 DL20,,Seattle (SEA),Delta Air Lines B764 (N826MH),Landed 09:02,2021-05-02
+52,52,09:35 VS454,,Tel Aviv (TLV),Virgin Atlantic B789 (G-VWHO),Landed 09:06,2021-05-02
+53,53,09:40 BA182,,New York (JFK),British Airways B772 (G-VIIS),Landed 08:59,2021-05-02
+54,54,09:45 AC7200,,Toronto (YYZ),Air Canada B77W (C-FIUW),Landed 10:29,2021-05-02
+55,55,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-JJM),Landed 09:25,2021-05-02
+56,56,09:55 BA98,,Toronto (YYZ),British Airways B788 (G-ZBJM),Landed 09:13,2021-05-02
+57,57,09:55 AI163,,Kolkata (CCU),Air India 788,Unknown,2021-05-02
+58,58,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VINE),Landed 09:31,2021-05-02
+59,59,10:09 BA9153,,Greenville-Spartanburg (GSP),British Airways B789 (G-ZBKG),Landed 10:13,2021-05-02
+60,60,10:12,,Washington (IAD),- B789 (G-ZBKF),Landed 10:15,2021-05-02
+61,61,10:15 SN2093,,Brussels (BRU),Brussels Airlines A320 (OO-SNK),Landed 09:46,2021-05-02
+62,62,10:15 TG910,,Bangkok (BKK),Thai Airways 773,Unknown,2021-05-02
+63,63,10:20 AA728,,Philadelphia (PHL),American Airlines B772 (N793AN),Landed 09:34,2021-05-02
+64,64,10:20 TP1356,,Lisbon (LIS),TAP Air Portugal A20N (CS-TVE),Landed 10:02,2021-05-02
+65,65,10:25 BA208,,Miami (MIA),British Airways A35K (G-XWBB),Landed 09:44,2021-05-02
+66,66,10:40,AF1580,Paris (CDG),Air France A320 (F-HEPE),Landed 10:33,2021-05-02
+67,67,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VNYL),Landed 10:42,2021-05-02
+68,68,10:45,BA292,Washington (IAD),British Airways B789 (G-ZBKF),Unknown,2021-05-02
+69,69,10:45,KL1009,Amsterdam (AMS),KLM B738 (PH-BGB),Landed 10:18,2021-05-02
+70,70,10:45 BA296,,Chicago (ORD),British Airways B789 (G-ZBKO),Landed 09:54,2021-05-02
+71,71,11:05,BA192,Dallas (DFW),British Airways B789 (G-ZBKS),Landed 10:35,2021-05-02
+72,72,11:05,AZ202,Rome (FCO),Alitalia A319 (EI-IMJ),Landed 10:38,2021-05-02
+73,73,11:15,A3600,Athens (ATH),Aegean Airlines A21N (SX-NAB),Landed 10:45,2021-05-02
+74,74,11:15 VS514H,,Atlanta (ATL),Virgin Atlantic B789 (G-VBZZ),Landed 10:26,2021-05-02
+75,75,11:30 AI131,,Mumbai (BOM),Air India 788,Unknown,2021-05-02
+76,76,11:35,EY19,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMI),Landed 11:47,2021-05-02
+77,77,11:40 AA9715,,Chicago (ORD),American Airlines B772 (N773AN),Unknown,2021-05-02
+78,78,11:50 BA3593,,Atlanta (ATL),British Airways B78X (G-ZBLA),Landed 11:07,2021-05-02
+79,79,11:55 FI450,,Reykjavik (KEF),Icelandair B763 (TF-ISN),Landed 11:16,2021-05-02
+80,80,12:05 SU2578,,Moscow (SVO),Aeroflot (PBC CSKA Moscow Livery) A320 (VQ-BEJ),Landed 11:52,2021-05-02
+81,81,12:10 BA401,,Cairo (CAI),British Airways B788 (G-ZBJI),Landed 11:35,2021-05-02
+82,82,12:10 QR8864,,Doha (DOH),Qatar Airways B789 (A7-BHA),Landed 12:02,2021-05-02
+83,83,12:10 IR711,,Tehran (IKA),Iran Air A332 (EP-IJA),Landed 12:19,2021-05-02
+84,84,12:15 BA827,,Dublin (DUB),British Airways A20N (G-TTNI),Landed 11:50,2021-05-02
+85,85,12:15 LX332,,Zurich (ZRH),Swiss A343 (HB-JMH),Landed 11:56,2021-05-02
+86,86,12:25 BA1327,,Newcastle (NCL),British Airways A319 (G-EUPG),Landed 11:54,2021-05-02
+87,87,12:30 JU380,,Belgrade (BEG),AirSERBIA A319 (YU-APK),Landed 11:59,2021-05-02
+88,88,12:30 VS522,,Dublin (DUB),Virgin Atlantic A35K (G-VTEA),Landed 12:10,2021-05-02
+89,89,12:40 BA1307,,Aberdeen (ABZ),British Airways A320 (G-EUYS),Landed 12:29,2021-05-02
+90,90,12:45 BA256,,Delhi (DEL),British Airways B789 (G-ZBKH),Landed 12:13,2021-05-02
+91,91,12:50 AA156,,Seattle (SEA),American Airlines B772 (N786AN),Landed 12:21,2021-05-02
+92,92,12:55 BA777,,Stockholm (ARN),British Airways A20N (G-TTNE),Landed 12:26,2021-05-02
+93,93,12:55 BA1443,,Edinburgh (EDI),British Airways A320 (G-EUYP),Landed 12:32,2021-05-02
+94,94,13:00 BA118,,Bengaluru (BLR),British Airways A35K (G-XWBD),Landed 13:02,2021-05-02
+95,95,13:05 EI712,,Cork (ORK),Aer Lingus A320 (EI-DEL),Landed 12:57,2021-05-02
+96,96,13:15 AA134,,Los Angeles (LAX),American Airlines B77W (N722AN),Landed 12:15,2021-05-02
+97,97,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BEV),Landed 12:51,2021-05-02
+98,98,13:20 MS777,,Cairo (CAI),EgyptAir B77W (SU-GDP),Landed 13:14,2021-05-02
+99,99,13:25 AA9707,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-02
+100,100,13:25 BA907,,Frankfurt (FRA),British Airways B788 (G-ZBJB),Landed 12:47,2021-05-02
+101,101,13:30 MF8711,,Xiamen (XMN),Xiamen Air B788 (B-2762),Landed 14:49,2021-05-02
+102,102,13:30 VS510,,Milan (MXP),Virgin Atlantic A333 (G-VWAG),Landed 12:59,2021-05-02
+103,103,13:35 LY315,,Tel Aviv (TLV),El Al Israel Airlines B789 (4X-EDK),Landed 12:54,2021-05-02
+104,104,13:40 BA1483,,Glasgow (GLA),British Airways A320 (G-EUYI),Landed 13:10,2021-05-02
+105,105,13:40 LX354,,Geneva (GVA),Swiss BCS1 (HB-JBH),Landed 13:21,2021-05-02
+106,106,13:45 BA729,,Geneva (GVA),British Airways A20N (G-TTNF),Landed 13:25,2021-05-02
+107,107,13:45 KU901,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-02
+108,108,13:45 BA286,,San Francisco (SFO),British Airways B77W (G-STBN),Landed 13:17,2021-05-02
+109,109,14:10 BA2773,,Jersey (JER),British Airways A20N (G-TTNL),Landed 14:07,2021-05-02
+110,110,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BAI),Landed 14:27,2021-05-02
+111,111,14:15 VS24,,Los Angeles (LAX),Virgin Atlantic A35K (G-VRNB),Landed 13:59,2021-05-02
+112,112,14:20 EI932,,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 13:54,2021-05-02
+113,113,14:30 P35294,,Atlanta (ATL),CargoLogicAir B744 (G-CLAA),Landed 13:47,2021-05-02
+114,114,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIIB),Landed 14:24,2021-05-02
+115,115,14:35 SK805,,Oslo (OSL),SAS A20N (SE-ROK),Landed 14:19,2021-05-02
+116,116,14:40 LH908,,Frankfurt (FRA),Lufthansa A20N (D-AIND),Landed 14:21,2021-05-02
+117,117,14:40 BA104,,Dubai (DXB),British Airways B788 (G-ZBJK),Landed 14:46,2021-05-02
+118,118,14:45,BA969,Hamburg (HAM),British Airways A20N (G-TTNJ),Landed 14:16,2021-05-02
+119,119,14:45 BA917,,Stuttgart (STR),British Airways B789 (G-ZBKB),Landed 13:57,2021-05-02
+120,120,14:50,TK1985,Istanbul (IST),Turkish Airlines A21N (TC-LSO),Landed 14:58,2021-05-02
+121,121,15:25,RJ111,Amman (AMM),Royal Jordanian B788 (JY-BAH),Landed 14:55,2021-05-02
+122,122,15:30,BA1391,Manchester (MAN),British Airways A320 (G-EUYI),Landed 18:09,2021-05-02
+123,123,15:30 BA242,,Mexico City (MEX),British Airways B789 (G-ZBKM),Landed 14:35,2021-05-02
+124,124,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SMK),Landed 15:20,2021-05-02
+125,125,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA861J),Landed 15:02,2021-05-02
+126,126,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKR),Landed 15:29,2021-05-02
+127,127,16:00,EI168,Dublin (DUB),Aer Lingus (Retro livery) A320 (EI-DVM),Landed 16:12,2021-05-02
+128,128,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IME),Landed 15:33,2021-05-02
+129,129,16:05 TK1971,,Istanbul (IST),Turkish Airlines B77W (TC-JJZ),Landed 17:16,2021-05-02
+130,130,16:15,KL1021,Amsterdam (AMS),KLM B738 (PH-BGB),Landed 15:55,2021-05-02
+131,131,16:20 BG1,,Dhaka (DAC),Biman Bangladesh Airlines 789,Unknown,2021-05-02
+132,132,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VGEM),Landed 18:06,2021-05-02
+133,133,16:25,AF1280,Paris (CDG),Air France A319 (F-GRXJ),Landed 16:08,2021-05-02
+134,134,16:25 EW9464,,Dusseldorf (DUS),Eurowings A319 (D-AGWG),Landed 16:04,2021-05-02
+135,135,16:25 BA168,,Shanghai (PVG),British Airways B77W (G-STBI),Landed 17:04,2021-05-02
+136,136,16:40,LH914,Frankfurt (FRA),Lufthansa A20N (D-AINI),Landed 16:20,2021-05-02
+137,137,16:55 UK17,,Delhi (DEL),Vistara 789,Unknown,2021-05-02
+138,138,17:00,SK527,Stockholm (ARN),SAS A20N (SE-DYD),Landed 16:46,2021-05-02
+139,139,17:05,AY1337,Helsinki (HEL),Finnair E190 (OH-LKF),Landed 16:41,2021-05-02
+140,140,17:15,IB3166,Madrid (MAD),Iberia A359 (EC-MYX),Landed 16:44,2021-05-02
+141,141,17:15,LO279,Warsaw (WAW),LOT B38M (SP-LVF),Landed 17:09,2021-05-02
+142,142,17:25,BA953,Munich (MUC),British Airways A319 (G-EUPK),Landed 17:18,2021-05-02
+143,143,17:45,BA491,Gibraltar (GIB),British Airways A320 (G-EUYV),Landed 17:23,2021-05-02
+144,144,17:45,TP1350,Lisbon (LIS),TAP Air Portugal A20N (CS-TVE),Landed 17:13,2021-05-02
+145,145,17:50,BA627,Athens (ATH),British Airways B788 (G-ZBJC),Landed 17:31,2021-05-02
+146,146,17:55 LX326,,Zurich (ZRH),Swiss BCS1 (HB-JBD),Landed 17:50,2021-05-02
+147,147,18:00 AZ250,,Milan (LIN),Alitalia A319 (EI-IMF),Landed 17:38,2021-05-02
+148,148,18:05 EW2464,,Stuttgart (STR),Eurowings 319,Canceled,2021-05-02
+149,149,18:10 0B1431,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 17:48,2021-05-02
+150,150,18:15 BA10,,Bangkok (BKK),British Airways 77F,Unknown,2021-05-02
+151,151,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBH),Landed 18:44,2021-05-02
+152,152,18:25,BA579,Venice (VCE),British Airways A320 (G-EUYM),Landed 18:05,2021-05-02
+153,153,18:25 BA559,,Rome (FCO),British Airways A320 (G-EUYL),Landed 18:13,2021-05-02
+154,154,18:25,BA1417,Belfast (BHD),British Airways A320 (G-EUYP),Landed 17:59,2021-05-02
+155,155,18:25 BA881,,Moscow (DME),British Airways B788 (G-ZBJH),Landed 17:42,2021-05-02
+156,156,18:35,LM677,Isle of Man (IOM),Loganair AT45 (G-LMRA),Landed 18:25,2021-05-02
+157,157,18:35 QR8878,,Doha (DOH),Qatar Airways B789 (A7-BHE),Landed 18:15,2021-05-02
+158,158,18:40,EI936,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 18:22,2021-05-02
+159,159,18:45 EW7460,,Hamburg (HAM),Eurowings A319 (D-AGWU),Landed 18:18,2021-05-02
+160,160,18:50 EY17,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLA),Landed 19:00,2021-05-02
+161,161,18:55,OS455,Vienna (VIE),Austrian Airlines E195 (OE-LWK),Landed 18:40,2021-05-02
+162,162,19:00 AI149,,Cochin (COK),Air India 788,Unknown,2021-05-02
+163,163,19:10 LM559,,Darlington (MME),Loganair E145 (G-RJXH),Landed 18:35,2021-05-02
+164,164,19:20 VS506,,Brussels (BRU),Virgin Atlantic A35K (G-VLUX),Landed 18:54,2021-05-02
+165,165,19:25 BA28,,Hong Kong (HKG),British Airways B77W (G-STBB),Landed 19:14,2021-05-02
+166,166,19:30,SK1507,Copenhagen (CPH),SAS A20N (SE-ROD),Landed 19:06,2021-05-02
+167,167,19:40,BA481,Barcelona (BCN),British Airways A20N (G-TTNE),Landed 19:28,2021-05-02
+168,168,19:50,EI178,Dublin (DUB),Aer Lingus A333 (EI-GCF),Landed 19:23,2021-05-02
+169,169,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKA),Landed 19:20,2021-05-02
+170,170,20:15,BA985,Berlin (BER),British Airways A319 (G-EUPT),Landed 19:50,2021-05-02
+171,171,20:20,BA569,Milan (LIN),British Airways A20N (G-TTNF),Landed 19:53,2021-05-02
+172,172,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BEE),Landed 20:18,2021-05-02
+173,173,20:25 VS686Q,,New York (JFK),Virgin Atlantic B789 (G-VOWS),Landed 19:31,2021-05-02
+174,174,20:45,TK1983,Istanbul (IST),Turkish Airlines A21N (TC-LSH),Landed 20:24,2021-05-02
+175,175,21:00 VS239,,Hong Kong (HKG),Virgin Atlantic B789 (G-VNEW),Landed 21:00,2021-05-02
+176,176,21:20,AF1380,Paris (CDG),Air France A320 (F-HEPE),Landed 20:53,2021-05-02
+177,177,22:10,LH922,Frankfurt (FRA),Lufthansa A20N (D-AINY),Landed 21:45,2021-05-02
+178,178,22:45,BA455,Malaga (AGP),British Airways A20N (G-TTNJ),Landed 22:32,2021-05-02
+0,0,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBF),Landed 05:08,2021-05-03
+1,1,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMU),Landed 05:48,2021-05-03
+2,2,05:50 BA12,,Singapore (SIN),British Airways B77W (G-STBA),Landed 05:39,2021-05-03
+3,3,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMO),Landed 05:36,2021-05-03
+4,4,06:20 AA100,,New York (JFK),American Airlines B77W (N728AN),Landed 06:03,2021-05-03
+5,5,06:25 AA50,,Dallas (DFW),American Airlines B77W (N718AN),Landed 06:05,2021-05-03
+6,6,06:30 BA254,,Bridgetown (BGI),British Airways B772 (G-VIIK),Landed 07:03,2021-05-03
+7,7,06:30 BA34,,Kuala Lumpur (KUL),British Airways B789 (G-ZBKL),Landed 06:20,2021-05-03
+8,8,06:40 BA258,,Lahore (LHE),British Airways B788 (G-ZBJA),Landed 06:13,2021-05-03
+9,9,06:45 UA918,,Washington (IAD),United Airlines B763 (N673UA),Landed 06:12,2021-05-03
+10,10,06:50 AA86,,Chicago (ORD),American Airlines B788 (N800AN),Landed 06:07,2021-05-03
+11,11,06:50 QR9,,Doha (DOH),Qatar Airways B77W (A7-BEV),Landed 06:39,2021-05-03
+12,12,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBH),Landed 06:17,2021-05-03
+13,13,06:55 GF7,,Bahrain (BAH),Gulf Air (Retro Livery) B789 (A9C-FG),Landed 06:48,2021-05-03
+14,14,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBL),Landed 06:31,2021-05-03
+15,15,07:05 DL32,,Atlanta (ATL),Delta Air Lines A333 (N821NW),Landed 06:34,2021-05-03
+16,16,07:05 EY11,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMI),Landed 07:06,2021-05-03
+17,17,07:10 UA14,,New York (EWR),United Airlines B78X (N12005),Landed 06:22,2021-05-03
+18,18,07:10 UL503,,Colombo (CMB),SriLankan Airlines A333 (4R-ALR),Landed 07:33,2021-05-03
+19,19,07:10 VS606N,,New York (JFK),Virgin Atlantic A35K (G-VPRD),Landed 06:09,2021-05-03
+20,20,07:20 VS365,,Lahore (LHE),Virgin Atlantic B789 (G-VWOO),Landed 06:56,2021-05-03
+21,21,07:25 BA194,,Houston (IAH),British Airways B788 (G-ZBJD),Landed 06:59,2021-05-03
+22,22,07:25 EW9468,,Dusseldorf (DUS),Eurowings A320 (D-ABDU),Landed 06:53,2021-05-03
+23,23,07:30 AI145,,Goa (GOI),Air India 788,Unknown,2021-05-03
+24,24,07:30 AI161,,Delhi (DEL),Air India B788 (VT-ANX),Landed 06:45,2021-05-03
+25,25,07:35 LX316,,Zurich (ZRH),Edelweiss Air A343 (HB-JMF),Landed 07:22,2021-05-03
+26,26,07:35 BA54,,Johannesburg (JNB),British Airways B772 (G-YMMO),Landed 07:44,2021-05-03
+27,27,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N793AN),Landed 07:16,2021-05-03
+28,28,07:40 UA931,,Chicago (ORD),United Airlines B789 (N29985),Landed 09:51,2021-05-03
+29,29,07:50 MS530,,Cairo (CAI),EgyptAir ABF,Unknown,2021-05-03
+30,30,08:05 LM671,,Isle of Man (IOM),Loganair E145 (G-SAJL),Landed 07:47,2021-05-03
+31,31,08:05 EW7464,,Hamburg (HAM),Eurowings A319 (D-ABGK),Unknown,2021-05-03
+32,32,08:10 DL1,,New York (JFK),Delta Air Lines B764 (N840MH),Landed 08:47,2021-05-03
+33,33,08:10 BA1385,,Manchester (MAN),British Airways A320 (G-EUYL),Landed 11:26,2021-05-03
+34,34,08:20 OS451,,Vienna (VIE),Austrian Airlines A319 (OE-LDF),Landed 08:00,2021-05-03
+35,35,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBE),Landed 07:19,2021-05-03
+36,36,08:20 BA116,,New York (JFK),British Airways B772 (G-VIIC),Landed 07:27,2021-05-03
+37,37,08:25 0B1331,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 08:05,2021-05-03
+38,38,08:30 BA1301,,Aberdeen (ABZ),British Airways A319 (G-EUPM),Landed 07:57,2021-05-03
+39,39,08:30 BA1475,,Glasgow (GLA),British Airways A320 (G-EUYS),Landed 07:54,2021-05-03
+40,40,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FVNF),Landed 08:02,2021-05-03
+41,41,08:40 LH900,,Frankfurt (FRA),Lufthansa A20N (D-AINH),Landed 08:34,2021-05-03
+42,42,08:55 SK501,,Copenhagen (CPH),SAS A20N (SE-ROG),Landed 08:40,2021-05-03
+43,43,09:00 KL1007,,Amsterdam (AMS),KLM B737 (PH-BGM),Landed 08:50,2021-05-03
+44,44,09:05 BA214,,Boston (BOS),British Airways B789 (G-ZBKP),Landed 08:25,2021-05-03
+45,45,09:05 EI154,,Dublin (DUB),Aer Lingus A21N (EI-LRD),Landed 08:28,2021-05-03
+46,46,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVK),Landed 08:35,2021-05-03
+47,47,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-MYX),Landed 08:31,2021-05-03
+48,48,09:09 AC7200,,Toronto (YYZ),Air Canada B77W (C-FITW),Landed 09:38,2021-05-03
+49,49,09:10 AY1331,,Helsinki (HEL),Finnair E190 (OH-LKL),Landed 08:37,2021-05-03
+50,50,09:10 LO281,,Warsaw (WAW),LOT (Independence Livery) B38M (SP-LVD),Landed 09:19,2021-05-03
+51,51,09:20 UA2788,,Chicago (ORD),United Airlines B77W (N2644U),Landed 08:43,2021-05-03
+52,52,09:25 AA38,,Miami (MIA),American Airlines B77W (N731AN),Landed 08:21,2021-05-03
+53,53,09:30 BA1461,,Edinburgh (EDI),British Airways A320 (G-EUYW),Landed 08:53,2021-05-03
+54,54,09:40 BA182,,New York (JFK),British Airways B772 (G-VIIN),Landed 09:10,2021-05-03
+55,55,09:45 KM100,,Luqa (MLA),Air Malta A20N (9H-NED),Landed 09:23,2021-05-03
+56,56,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-JJZ),Landed 09:28,2021-05-03
+57,57,09:55 BA98,,Toronto (YYZ),British Airways B788 (G-ZBJI),Landed 09:06,2021-05-03
+58,58,09:55 LH2472,,Munich (MUC),Lufthansa A20N (D-AINN),Landed 09:45,2021-05-03
+59,59,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VINE),Landed 09:25,2021-05-03
+60,60,10:15 SN2093,,Brussels (BRU),Brussels Airlines A320 (OO-TCH),Landed 09:54,2021-05-03
+61,61,10:20 AA728,,Philadelphia (PHL),American Airlines B772 (N776AN),Landed 09:31,2021-05-03
+62,62,10:20 TP1356,,Lisbon (LIS),TAP Air Portugal A20N (CS-TVC),Landed 10:03,2021-05-03
+63,63,10:25 BA208,,Miami (MIA),British Airways A35K (G-XWBB),Landed 09:35,2021-05-03
+64,64,10:40 AF1580,,Paris (CDG),Air France A320 (F-HEPK),Landed 10:14,2021-05-03
+65,65,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VNYL),Landed 10:30,2021-05-03
+66,66,10:45 BA292,,Washington (IAD),British Airways B789 (G-ZBKS),Unknown,2021-05-03
+67,67,10:45 BA296,,Chicago (ORD),British Airways B789 (G-ZBKO),Landed 09:49,2021-05-03
+68,68,10:47,,Washington (IAD),- B789 (G-ZBKS),Landed 10:07,2021-05-03
+69,69,10:55 VS104,,Atlanta (ATL),Virgin Atlantic B789 (G-VBZZ),Landed 10:50,2021-05-03
+70,70,10:55 PS117,,Kyiv (KBP),Ukraine International Airlines E195 (UR-EMF),Landed 11:00,2021-05-03
+71,71,11:05 BA192,,Dallas (DFW),British Airways B78X (G-ZBLB),Landed 10:33,2021-05-03
+72,72,11:05 AZ202,,Rome (FCO),Alitalia A319 (I-BIMA),Landed 11:03,2021-05-03
+73,73,11:10 EI158,,Dublin (DUB),Aer Lingus (Irish Rugby Team Livery) A320 (EI-DEO),Landed 10:44,2021-05-03
+74,74,11:25 AC7202,,Vancouver (YVR),Air Canada B789 (C-FGHZ),Landed 10:47,2021-05-03
+75,75,11:30 AI177,,Bengaluru (BLR),Air India 788,Unknown,2021-05-03
+76,76,11:35 EY19,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMB),Landed 11:46,2021-05-03
+77,77,11:45 BA1441,,Edinburgh (EDI),British Airways A320 (G-EUUT),Landed 11:22,2021-05-03
+78,78,11:50 BA3593,,Atlanta (ATL),British Airways B789 (G-ZBKB),Landed 11:16,2021-05-03
+79,79,12:00 VS594,,Los Angeles (LAX),Virgin Atlantic A35K (G-VPOP),Landed 11:09,2021-05-03
+80,80,12:05 SU2578,,Moscow (SVO),Aeroflot A333 (VP-BDE),Landed 11:33,2021-05-03
+81,81,12:10 BA1479,,Glasgow (GLA),British Airways A21N (G-NEOV),Landed 11:49,2021-05-03
+82,82,12:10 QR8890,,Doha (DOH),Qatar Airways B789 (A7-BHF),Landed 11:43,2021-05-03
+83,83,12:40 BA48,,Seattle (SEA),British Airways B78X (G-ZBLA),Landed 12:16,2021-05-03
+84,84,12:40 BA1307,,Aberdeen (ABZ),British Airways A20N (G-TTNH),Landed 12:25,2021-05-03
+85,85,12:45 BA256,,Delhi (DEL),British Airways 77F,Unknown,2021-05-03
+86,86,12:50 AA9817,,Dallas (DFW),American Airlines B772 (N794AN),Landed 12:56,2021-05-03
+87,87,13:05 BA118,,Bengaluru (BLR),British Airways 77F,Unknown,2021-05-03
+88,88,13:10 BA276,,Hyderabad (HYD),British Airways B772 (G-YMMT),Landed 14:24,2021-05-03
+89,89,13:10 BA1327,,Newcastle (NCL),British Airways A319 (G-EUPK),Landed 12:47,2021-05-03
+90,90,13:10 LX332,,Zurich (ZRH),Swiss BCS3 (HB-JCB),Landed 12:40,2021-05-03
+91,91,13:15 AA134,,Los Angeles (LAX),American Airlines B77W (N720AN),Landed 12:22,2021-05-03
+92,92,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BEO),Landed 13:38,2021-05-03
+93,93,13:20 MS777,,Cairo (CAI),EgyptAir B77W (SU-GDO),Landed 13:13,2021-05-03
+94,94,13:25 AA9707,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-03
+95,95,13:30 MF8711,,Xiamen (XMN),Xiamen Air B788 (B-2761),Landed 13:33,2021-05-03
+96,96,13:35 LY315,,Tel Aviv (TLV),El Al Israel Airlines B789 (4X-EDL),Landed 13:06,2021-05-03
+97,97,13:45 BA286,,San Francisco (SFO),British Airways B77W (G-STBG),Landed 13:18,2021-05-03
+98,98,14:05 BA493,,Gibraltar (GIB),British Airways A20N (G-TTNJ),Landed 13:40,2021-05-03
+99,99,14:05 RO391,,Bucharest (OTP),Tarom A318 (YR-ASD),Landed 13:45,2021-05-03
+100,100,14:10 QR7,,Doha (DOH),Qatar Airways 77W,Canceled,2021-05-03
+101,101,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BAL),Landed 17:22,2021-05-03
+102,102,14:15 VS24,,Los Angeles (LAX),Virgin Atlantic A35K (G-VJAM),Landed 13:42,2021-05-03
+103,103,14:20 EI932,,Belfast (BHD),Aer Lingus A320 (EI-DVK),Landed 14:01,2021-05-03
+104,104,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIIB),Landed 14:05,2021-05-03
+105,105,14:35,SK805,Oslo (OSL),SAS A20N (SE-RUD),Landed 14:17,2021-05-03
+106,106,14:40 BA104,,Dubai (DXB),British Airways B788 (G-ZBJK),Landed 14:50,2021-05-03
+107,107,14:45 VS637,,Hong Kong (HKG),Virgin Atlantic B789 (G-VCRU),Landed 14:20,2021-05-03
+108,108,14:50,BA815,Copenhagen (CPH),British Airways A21N (G-NEOT),Landed 14:28,2021-05-03
+109,109,14:55,BA347,Nice (NCE),British Airways A21N (G-NEOW),Landed 14:31,2021-05-03
+110,110,15:10,BA2773,Jersey (JER),British Airways A319 (G-EUPG),Landed 14:46,2021-05-03
+111,111,15:30,BA242,Mexico City (MEX),British Airways B789 (G-ZBKJ),Landed 14:34,2021-05-03
+112,112,15:30,BA1391,Manchester (MAN),British Airways 32Q,Unknown,2021-05-03
+113,113,15:30,A3602,Athens (ATH),Aegean Airlines A21N (SX-NAB),Unknown,2021-05-03
+114,114,15:33 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-FGSJ),Landed 13:58,2021-05-03
+115,115,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SMS),Landed 15:07,2021-05-03
+116,116,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA882J),Landed 15:17,2021-05-03
+117,117,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKE),Landed 15:02,2021-05-03
+118,118,16:00,EI712,Cork (ORK),Aer Lingus A320 (EI-DES),Landed 15:36,2021-05-03
+119,119,16:00 SV115,,Riyadh (RUH),Saudia (Year of Arabic Calligraphy 2021 Livery) B789 (HZ-AR13),Landed 15:53,2021-05-03
+120,120,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IMC),Landed 15:44,2021-05-03
+121,121,16:05 TK1971,,Istanbul (IST),Turkish Airlines B77W (TC-JJU),Landed 16:05,2021-05-03
+122,122,16:15,KL1021,Amsterdam (AMS),KLM B737 (PH-BGR),Landed 15:57,2021-05-03
+123,123,16:20 NH211,,Tokyo (HND),All Nippon Airways B77W (JA798A),Landed 15:40,2021-05-03
+124,124,16:20,VS301,Delhi (DEL),Virgin Atlantic B789 (G-VMAP),Landed 16:01,2021-05-03
+125,125,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VGEM),Landed 15:48,2021-05-03
+126,126,16:25,AF1280,Paris (CDG),Air France A318 (F-GUGO),Landed 16:11,2021-05-03
+127,127,16:25 BA168,,Shanghai (PVG),British Airways (GREAT Festival of Creativity) B772 (G-YMML),Landed 16:34,2021-05-03
+128,128,16:28 BA3575,,Halifax (YHZ),British Airways B77W (G-STBJ),Landed 16:45,2021-05-03
+129,129,16:40,LH914,Frankfurt (FRA),Lufthansa A20N (D-AIJA),Landed 16:41,2021-05-03
+130,130,16:55 UK17,,Delhi (DEL),Vistara 789,Unknown,2021-05-03
+131,131,17:00,SK527,Stockholm (ARN),SAS A20N (SE-ROA),Landed 16:54,2021-05-03
+132,132,17:05,AY1337,Helsinki (HEL),Finnair E190 (OH-LKP),Landed 16:50,2021-05-03
+133,133,17:15,IB3166,Madrid (MAD),Iberia A359 (EC-MYX),Landed 17:06,2021-05-03
+134,134,17:25,BA6,Tokyo (HND),British Airways B789 (G-ZBKC),Landed 16:59,2021-05-03
+135,135,17:25 KE907,,Seoul (ICN),Korean Air B77W (HL8041),Landed 17:03,2021-05-03
+136,136,17:45,TP1350,Lisbon (LIS),TAP Air Portugal A20N (CS-TVC),Landed 17:28,2021-05-03
+137,137,18:00 AZ250,,Milan (LIN),Alitalia A319 (EI-IMG),Landed 17:39,2021-05-03
+138,138,18:05 0B1431,,Bucharest (OTP),Blue Air 738,Unknown,2021-05-03
+139,139,18:15 BA10,,Bangkok (BKK),British Airways 77F,Unknown,2021-05-03
+140,140,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBE),Landed 18:28,2021-05-03
+141,141,18:25,BA1417,Belfast (BHD),British Airways A320 (G-EUUY),Landed 18:00,2021-05-03
+142,142,18:35 QR8878,,Doha (DOH),Qatar Airways B77W (A7-BAT),Landed 18:48,2021-05-03
+143,143,18:50 EY17,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNB),Landed 19:12,2021-05-03
+144,144,19:00 AI111,,Delhi (DEL),Air India 788,Unknown,2021-05-03
+145,145,19:10 LM559,,Darlington (MME),Loganair E145 (G-SAJG),Landed 18:51,2021-05-03
+146,146,19:15,OU490,Zagreb (ZAG),Croatia Airlines A319 (9A-CTH),Landed 19:09,2021-05-03
+147,147,19:20,EI178,Dublin (DUB),Aer Lingus A333 (EI-FNG),Landed 19:01,2021-05-03
+148,148,19:20 VS506,,Brussels (BRU),Virgin Atlantic B789 (G-VNYL),Landed 19:05,2021-05-03
+149,149,19:25 BA28,,Hong Kong (HKG),British Airways B77W (G-STBN),Landed 19:27,2021-05-03
+150,150,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKH),Landed 19:43,2021-05-03
+151,151,20:05,VS26,New York (JFK),Virgin Atlantic B789 (G-VFAN),Landed 19:39,2021-05-03
+152,152,20:15,BA987,Berlin (BER),British Airways A319 (G-DBCH),Landed 19:56,2021-05-03
+153,153,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BEH),Landed 20:25,2021-05-03
+154,154,20:30,BA621,Larnaca (LCA),British Airways B788 (G-ZBJC),Landed 20:11,2021-05-03
+155,155,20:45,TK1983,Istanbul (IST),Turkish Airlines A21N (TC-LSO),Landed 20:40,2021-05-03
+156,156,20:55,KL1033,Amsterdam (AMS),KLM B737 (PH-BGM),Landed 20:45,2021-05-03
+157,157,21:20,AF1380,Paris (CDG),Air France A320 (F-HEPE),Landed 20:48,2021-05-03
+158,158,22:10,LH922,Frankfurt (FRA),Lufthansa A20N (D-AINF),Canceled,2021-05-03
+0,0,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBH),Landed 06:45,2021-05-04
+1,1,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMO),Landed 05:46,2021-05-04
+2,2,05:50 BA12,,Singapore (SIN),British Airways B77W (G-STBO),Landed 05:49,2021-05-04
+3,3,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMT),Landed 05:44,2021-05-04
+4,4,06:15 BA124,,Bahrain (BAH),British Airways B788 (G-ZBJF),Landed 06:15,2021-05-04
+5,5,06:20 AA100,,New York (JFK),American Airlines B77W (N723AN),Landed 06:04,2021-05-04
+6,6,06:25 AA50,,Dallas (DFW),American Airlines B77W (N733AR),Landed 06:07,2021-05-04
+7,7,06:45 UA918,,Washington (IAD),United Airlines B763 (N675UA),Landed 06:22,2021-05-04
+8,8,06:45 BA66,,Philadelphia (PHL),British Airways B788 (G-ZBJM),Landed 06:13,2021-05-04
+9,9,06:50 AA86,,Chicago (ORD),American Airlines B788 (N802AN),Landed 06:26,2021-05-04
+10,10,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBH),Landed 06:24,2021-05-04
+11,11,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBA),Landed 06:48,2021-05-04
+12,12,06:55 VS624,,Boston (BOS),Virgin Atlantic B789 (G-VOOH),Landed 06:17,2021-05-04
+13,13,07:00 QR9,,Doha (DOH),Qatar Airways B77W (A7-BEO),Landed 07:17,2021-05-04
+14,14,07:05 DL32,,Atlanta (ATL),Delta Air Lines A333 (N803NW),Landed 07:01,2021-05-04
+15,15,07:05 EY11,,Abu Dhabi (AUH),Etihad (Greenliner Livery) B78X (A6-BMH),Landed 07:48,2021-05-04
+16,16,07:08 BA9155,,Greenville-Spartanburg (GSP),British Airways B77W (G-STBK),Landed 07:45,2021-05-04
+17,17,07:10 UA14,,New York (EWR),United Airlines B78X (N91007),Landed 06:29,2021-05-04
+18,18,07:10 SK501,,Copenhagen (CPH),SAS A333 (SE-REH),Landed 07:23,2021-05-04
+19,19,07:10 VS606N,,New York (JFK),Virgin Atlantic A35K (G-VTEA),Landed 06:19,2021-05-04
+20,20,07:15 VS355,,Mumbai (BOM),Virgin Atlantic A35K (G-VPRD),Landed 07:26,2021-05-04
+21,21,07:20 VS379,,Islamabad (ISB),Virgin Atlantic B789 (G-VYUM),Landed 06:58,2021-05-04
+22,22,07:25 EW9468,,Dusseldorf (DUS),Eurowings A319 (D-AGWC),Landed 06:54,2021-05-04
+23,23,07:30 AI161,,Delhi (DEL),Air India 788,Unknown,2021-05-04
+24,24,07:35 BA54,,Johannesburg (JNB),British Airways B77W (G-STBI),Landed 07:13,2021-05-04
+25,25,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N786AN),Landed 07:06,2021-05-04
+26,26,07:40 UA931,,Chicago (ORD),United Airlines B789 (N29985),Landed 07:40,2021-05-04
+27,27,08:05 LM551,,Darlington (MME),Loganair E145 (G-SAJG),Landed 07:36,2021-05-04
+28,28,08:10 DL1,,New York (JFK),Delta Air Lines B764 (N840MH),Landed 07:20,2021-05-04
+29,29,08:10 BA1385,,Manchester (MAN),British Airways A320 (G-EUYM),Landed 11:10,2021-05-04
+30,30,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBE),Landed 07:55,2021-05-04
+31,31,08:20 BA116,,New York (JFK),British Airways B77W (G-STBM),Landed 07:43,2021-05-04
+32,32,08:25 0B1331,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 08:11,2021-05-04
+33,33,08:30 BA1301,,Aberdeen (ABZ),British Airways A320 (G-EUYP),Landed 08:04,2021-05-04
+34,34,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FVLZ),Landed 08:07,2021-05-04
+35,35,08:35 BA1475,,Glasgow (GLA),British Airways A319 (G-EUPG),Landed 08:01,2021-05-04
+36,36,08:40 LH900,,Frankfurt (FRA),Lufthansa A21N (D-AIEG),Landed 09:08,2021-05-04
+37,37,09:00 KL1007,,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 08:51,2021-05-04
+38,38,09:05 BA214,,Boston (BOS),British Airways B789 (G-ZBKR),Landed 08:20,2021-05-04
+39,39,09:05 EI154,,Dublin (DUB),Aer Lingus A320 (EI-DVG),Landed 08:25,2021-05-04
+40,40,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVK),Landed 08:34,2021-05-04
+41,41,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-MYX),Landed 08:48,2021-05-04
+42,42,09:10 AY1331,,Helsinki (HEL),Finnair E190 (OH-LKM),Landed 09:38,2021-05-04
+43,43,09:10 LO281,,Warsaw (WAW),LOT B38M (SP-LVB),Landed 09:01,2021-05-04
+44,44,09:25 AA38,,Miami (MIA),American Airlines B77W (N721AN),Landed 08:17,2021-05-04
+45,45,09:30 BA1461,,Edinburgh (EDI),British Airways A319 (G-EUOG),Landed 08:55,2021-05-04
+46,46,09:35 VS454,,Tel Aviv (TLV),Virgin Atlantic B789 (G-VAHH),Landed 08:58,2021-05-04
+47,47,09:40 BA182,,New York (JFK),British Airways B772 (G-VIIS),Landed 09:05,2021-05-04
+48,48,09:41 AC7204,,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 09:21,2021-05-04
+49,49,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-JJO),Landed 09:34,2021-05-04
+50,50,09:55 BA98,,Toronto (YYZ),British Airways B788 (G-ZBJI),Landed 09:54,2021-05-04
+51,51,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VSXY),Landed 10:14,2021-05-04
+52,52,10:06,,Washington (IAD),- B789 (G-ZBKN),Landed 10:18,2021-05-04
+53,53,10:15 AI169,,Amritsar (ATQ),Air India 788,Unknown,2021-05-04
+54,54,10:15 SN2093,,Brussels (BRU),Brussels Airlines A320 (OO-SNK),Landed 10:11,2021-05-04
+55,55,10:20 AA728,,Philadelphia (PHL),American Airlines B772 (N759AN),Landed 09:42,2021-05-04
+56,56,10:25 BA208,,Miami (MIA),British Airways A35K (G-XWBB),Landed 09:27,2021-05-04
+57,57,10:30 AA9821,,New York (JFK),American Airlines B77W (N729AN),Landed 09:30,2021-05-04
+58,58,10:40 AF1580,,Paris (CDG),Air France A320 (F-GKXO),Landed 10:40,2021-05-04
+59,59,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VCRU),Landed 10:48,2021-05-04
+60,60,10:45 BA292,,Washington (IAD),British Airways B789 (G-ZBKN),Unknown,2021-05-04
+61,61,10:45 BA296,,Chicago (ORD),British Airways B789 (G-ZBKO),Landed 10:04,2021-05-04
+62,62,11:05 BA192,,Dallas (DFW),British Airways B78X (G-ZBLB),Landed 12:53,2021-05-04
+63,63,11:15 ME201,,Beirut (BEY),MEA A21N (T7-ME3),Landed 11:35,2021-05-04
+64,64,11:15 VS514H,,Atlanta (ATL),Virgin Atlantic B789 (G-VWHO),Landed 10:24,2021-05-04
+65,65,11:30 AI131,,Mumbai (BOM),Air India B788 (VT-ANB),Landed 12:11,2021-05-04
+66,66,11:35 EY19,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BME),Landed 12:02,2021-05-04
+67,67,11:40 AA9715,,Chicago (ORD),American Airlines B772 (N754AN),Unknown,2021-05-04
+68,68,11:50 BA1441,,Edinburgh (EDI),British Airways A21N (G-NEOT),Landed 11:18,2021-05-04
+69,69,11:55 FI450,,Reykjavik (KEF),Icelandair 75W,Canceled,2021-05-04
+70,70,12:05 SU2578,,Moscow (SVO),Aeroflot A320 (VQ-BIU),Landed 12:06,2021-05-04
+71,71,12:10 BA565,,Milan (LIN),British Airways A319 (G-DBCA),Landed 11:49,2021-05-04
+72,72,12:10 QR8890,,Doha (DOH),Qatar Airways B789 (A7-BHE),Landed 11:58,2021-05-04
+73,73,12:25 BA1479,,Glasgow (GLA),British Airways A320 (G-EUYE),Landed 11:55,2021-05-04
+74,74,12:30 BA198,,Mumbai (BOM),British Airways 77F,Unknown,2021-05-04
+75,75,12:40 BA48,,Seattle (SEA),British Airways B789 (G-ZBKL),Landed 12:50,2021-05-04
+76,76,12:45 BA1327,,Newcastle (NCL),British Airways A319 (G-EUPG),Landed 12:20,2021-05-04
+77,77,12:45 BA1307,,Aberdeen (ABZ),British Airways A20N (G-TTNL),Landed 12:32,2021-05-04
+78,78,12:50 AA9817,,Dallas (DFW),American Airlines B772 (N775AN),Landed 12:45,2021-05-04
+79,79,13:15,AA134,Los Angeles (LAX),American Airlines B77W (N727AN),Landed 12:36,2021-05-04
+80,80,13:15,QR3,Doha (DOH),Qatar Airways B77W (A7-BEQ),Landed 13:10,2021-05-04
+81,81,13:20,MS777,Cairo (CAI),EgyptAir B77W (SU-GDM),Landed 13:24,2021-05-04
+82,82,13:25 AA9707,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-04
+83,83,13:35,LY315,Tel Aviv (TLV),El Al Israel Airlines B788 (4X-ERC),Landed 13:02,2021-05-04
+84,84,13:45 KU103,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-04
+85,85,13:45 BA286,,San Francisco (SFO),British Airways B772 (G-YMMN),Landed 13:06,2021-05-04
+86,86,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BEH),Landed 14:19,2021-05-04
+87,87,14:15,VS24,Los Angeles (LAX),Virgin Atlantic A35K (G-VPOP),Landed 13:46,2021-05-04
+88,88,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIID),Landed 14:10,2021-05-04
+89,89,14:40,LH908,Frankfurt (FRA),Lufthansa A20N (D-AIJD),Landed 14:48,2021-05-04
+90,90,14:50 SV115,,Riyadh (RUH),Saudia B789 (HZ-ARA),Landed 14:40,2021-05-04
+91,91,15:20 GF3,,Bahrain (BAH),Gulf Air B789 (A9C-FE),Landed 15:28,2021-05-04
+92,92,15:25,BA1445,Edinburgh (EDI),British Airways A319 (G-EUPT),Landed 15:00,2021-05-04
+93,93,15:30,BA242,Mexico City (MEX),British Airways B789 (G-ZBKP),Landed 14:51,2021-05-04
+94,94,15:30,A3602,Athens (ATH),Aegean Airlines A21N (SX-NAB),Landed 15:14,2021-05-04
+95,95,15:30,BA1391,Manchester (MAN),British Airways 32Q,Unknown,2021-05-04
+96,96,15:33 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-FGSJ),Landed 14:44,2021-05-04
+97,97,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SMF),Landed 15:20,2021-05-04
+98,98,15:45,BA1487,Glasgow (GLA),British Airways A20N (G-TTNH),Landed 15:48,2021-05-04
+99,99,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA881J),Landed 15:17,2021-05-04
+100,100,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKB),Landed 15:45,2021-05-04
+101,101,16:05,AZ206,Rome (FCO),Alitalia A320 (EI-IKB),Landed 15:50,2021-05-04
+102,102,16:05 TK1971,,Istanbul (IST),Turkish Airlines B77W (TC-JJF),Unknown,2021-05-04
+103,103,16:15,KL1021,Amsterdam (AMS),KLM B737 (PH-BGM),Landed 15:56,2021-05-04
+104,104,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VGEM),Landed 15:52,2021-05-04
+105,105,16:25,AF1280,Paris (CDG),Air France A319 (F-GRXK),Landed 16:26,2021-05-04
+106,106,16:25 BA168,,Shanghai (PVG),British Airways B772 (G-YMMJ),Landed 16:33,2021-05-04
+107,107,17:05,AY1337,Helsinki (HEL),Finnair E190 (OH-LKI),Landed 16:48,2021-05-04
+108,108,17:15,IB3166,Madrid (MAD),Iberia A332 (EC-MJT),Landed 16:51,2021-05-04
+109,109,17:45,TP1350,Lisbon (LIS),TAP Air Portugal (Star Alliance Livery) A20N (CS-TVF),Landed 17:27,2021-05-04
+110,110,17:55 LX326,,Zurich (ZRH),Swiss A20N (HB-JDA),Landed 17:51,2021-05-04
+111,111,18:00 AZ250,,Milan (LIN),Alitalia A319 (EI-IMN),Landed 17:40,2021-05-04
+112,112,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBG),Landed 18:14,2021-05-04
+113,113,18:25,BA1417,Belfast (BHD),British Airways A319 (G-EUPG),Landed 18:05,2021-05-04
+114,114,18:35 QR8878,,Doha (DOH),Qatar Airways B789 (A7-BHF),Landed 18:36,2021-05-04
+115,115,18:50 EY17,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLB),Landed 19:46,2021-05-04
+116,116,18:55,EI936,Belfast (BHD),Aer Lingus A320 (EI-DVK),Landed 18:39,2021-05-04
+117,117,18:55,OS455,Vienna (VIE),Austrian Airlines A319 (OE-LDD),Landed 18:43,2021-05-04
+118,118,19:00 AI171,,Ahmedabad (AMD),Air India 788,Unknown,2021-05-04
+119,119,19:10 LM559,,Darlington (MME),Loganair E145 (G-SAJG),Landed 18:47,2021-05-04
+120,120,19:20,EI178,Dublin (DUB),Aer Lingus A320 (EI-DVE),Landed 18:52,2021-05-04
+121,121,19:20 VS506,,Brussels (BRU),Virgin Atlantic 330,Unknown,2021-05-04
+122,122,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKH),Landed 19:28,2021-05-04
+123,123,20:25 VS686Q,,New York (JFK),Virgin Atlantic B789 (G-VNEW),Landed 19:36,2021-05-04
+124,124,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BAO),Landed 20:18,2021-05-04
+125,125,20:45,TK1983,Istanbul (IST),Turkish Airlines A333 (TC-JNI),Unknown,2021-05-04
+126,126,20:55,KL1033,Amsterdam (AMS),KLM B737 (PH-BGQ),Landed 20:35,2021-05-04
+127,127,21:00 VS239,,Hong Kong (HKG),Virgin Atlantic 789,Unknown,2021-05-04
+128,128,21:05 BA3383,,Porto (OPO),British Airways 75F,Unknown,2021-05-04
+129,129,21:05 CX253,,Hong Kong (HKG),Cathay Pacific A35K (B-LXC),Landed 20:57,2021-05-04
+130,130,21:20,AF1380,Paris (CDG),Air France A319 (F-GRXJ),Landed 21:00,2021-05-04
+131,131,22:10,LH922,Frankfurt (FRA),Lufthansa A20N (D-AINY),Landed 22:10,2021-05-04
+0,0,05:05 BA260,,Islamabad (ISB),British Airways B772 (G-YMME),Landed 04:35,2021-05-05
+1,1,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBH),Landed 05:33,2021-05-05
+2,2,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMU),Landed 05:22,2021-05-05
+3,3,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SJA),Landed 05:57,2021-05-05
+4,4,06:20 AA100,,New York (JFK),American Airlines B77W (N719AN),Landed 06:03,2021-05-05
+5,5,06:25 AA50,,Dallas (DFW),American Airlines B77W (N723AN),Landed 06:04,2021-05-05
+6,6,06:25 JL41,,Tokyo (HND),Japan Airlines B788 (JA837J),Landed 06:09,2021-05-05
+7,7,06:25 QR9,,Doha (DOH),Qatar Airways B77W (A7-BEU),Landed 06:29,2021-05-05
+8,8,06:45 UA918,,Washington (IAD),United Airlines B763 (N673UA),Landed 06:22,2021-05-05
+9,9,06:50 AA86,,Chicago (ORD),American Airlines B788 (N809AA),Landed 06:23,2021-05-05
+10,10,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBC),Landed 06:26,2021-05-05
+11,11,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBK),Landed 06:51,2021-05-05
+12,12,06:55 GF7,,Bahrain (BAH),Gulf Air B789 (A9C-FC),Landed 06:46,2021-05-05
+13,13,07:00 VS4,,New York (JFK),Virgin Atlantic A35K (G-VJAM),Landed 06:31,2021-05-05
+14,14,07:05 DL32,,Atlanta (ATL),Delta Air Lines A333 (N802NW),Landed 06:40,2021-05-05
+15,15,07:05 EY11,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMG),Landed 07:02,2021-05-05
+16,16,07:10 UA14,,New York (EWR),United Airlines B78X (N91007),Landed 06:55,2021-05-05
+17,17,07:20 VS365,,Lahore (LHE),Virgin Atlantic 789,Canceled,2021-05-05
+18,18,07:20 VS598,,Los Angeles (LAX),Virgin Atlantic A35K (G-VDOT),Landed 06:34,2021-05-05
+19,19,07:21 BA9155,,Greenville-Spartanburg (GSP),British Airways B77W (G-STBB),Landed 07:38,2021-05-05
+20,20,07:30 AI161,,Delhi (DEL),Air India 788,Unknown,2021-05-05
+21,21,07:35 BA54,,Johannesburg (JNB),British Airways B772 (G-YMMH),Landed 07:07,2021-05-05
+22,22,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N794AN),Landed 09:03,2021-05-05
+23,23,07:40 UA931,,Chicago (ORD),United Airlines B789 (N26952),Landed 07:16,2021-05-05
+24,24,07:45 SQ306,,Singapore (SIN),Singapore Airlines B77W (9V-SWO),Landed 07:33,2021-05-05
+25,25,08:05 LM551,,Darlington (MME),Loganair E145 (G-SAJG),Landed 07:50,2021-05-05
+26,26,08:05 LM671,,Isle of Man (IOM),Loganair E145 (G-SAJL),Landed 07:48,2021-05-05
+27,27,08:10 DL1,,New York (JFK),Delta Air Lines B764 (N840MH),Landed 07:40,2021-05-05
+28,28,08:10 VS526,,Miami (MIA),Virgin Atlantic B789 (G-VNYL),Landed 07:28,2021-05-05
+29,29,08:20 OS451,,Vienna (VIE),Austrian Airlines A319 (OE-LDB),Landed 07:59,2021-05-05
+30,30,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBH),Landed 08:53,2021-05-05
+31,31,08:20 BA116,,New York (JFK),British Airways B77W (G-STBO),Landed 07:23,2021-05-05
+32,32,08:25 0B1331,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 08:01,2021-05-05
+33,33,08:30 BA1301,,Aberdeen (ABZ),British Airways A319 (G-EUPT),Landed 08:26,2021-05-05
+34,34,08:30 BA1475,,Glasgow (GLA),British Airways A319 (G-EUPK),Landed 07:52,2021-05-05
+35,35,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FGDZ),Landed 08:09,2021-05-05
+36,36,08:40 LH900,,Frankfurt (FRA),Lufthansa A20N (D-AINK),Landed 08:56,2021-05-05
+37,37,08:55 SK501,,Copenhagen (CPH),SAS A20N (SE-ROD),Landed 08:30,2021-05-05
+38,38,09:00 KL1007,,Amsterdam (AMS),KLM B737 (PH-BGK),Landed 08:33,2021-05-05
+39,39,09:05 BA214,,Boston (BOS),British Airways B789 (G-ZBKR),Landed 08:24,2021-05-05
+40,40,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 08:42,2021-05-05
+41,41,09:05 EI154,,Dublin (DUB),Aer Lingus A21N (EI-LRD),Landed 08:28,2021-05-05
+42,42,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-NIG),Landed 08:35,2021-05-05
+43,43,09:10 AY1331,,Helsinki (HEL),Finnair E190 (OH-LKL),Landed 08:39,2021-05-05
+44,44,09:25 AA38,,Miami (MIA),American Airlines B77W (N721AN),Landed 08:21,2021-05-05
+45,45,09:25,DL20,Seattle (SEA),Delta Air Lines B764 (N826MH),Landed 09:06,2021-05-05
+46,46,09:30 BA1461,,Edinburgh (EDI),British Airways A320 (G-EUYS),Landed 08:47,2021-05-05
+47,47,09:40 BA182,,New York (JFK),British Airways B772 (G-VIIF),Landed 08:50,2021-05-05
+48,48,09:45 KM100,,Luqa (MLA),Air Malta A20N (9H-NEB),Landed 09:32,2021-05-05
+49,49,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-JJF),Landed 09:25,2021-05-05
+50,50,09:55 BA98,,Toronto (YYZ),British Airways B788 (G-ZBJF),Landed 09:19,2021-05-05
+51,51,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VSXY),Landed 10:13,2021-05-05
+52,52,10:10,,Washington (IAD),- B789 (G-ZBKN),Landed 09:57,2021-05-05
+53,53,10:20 AA728,,Philadelphia (PHL),American Airlines B772 (N759AN),Landed 09:38,2021-05-05
+54,54,10:20 TP1356,,Lisbon (LIS),TAP Air Portugal A20N (CS-TVC),Landed 10:07,2021-05-05
+55,55,10:25 BA208,,Miami (MIA),British Airways A35K (G-XWBG),Landed 10:00,2021-05-05
+56,56,10:40 AF1580,,Paris (CDG),Air France A319 (F-GRXK),Landed 10:52,2021-05-05
+57,57,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VDIA),Landed 10:32,2021-05-05
+58,58,10:45 BA292,,Washington (IAD),British Airways B789 (G-ZBKN),Unknown,2021-05-05
+59,59,10:45 BA296,,Chicago (ORD),British Airways B789 (G-ZBKK),Landed 09:43,2021-05-05
+60,60,10:55 VS104,,Atlanta (ATL),Virgin Atlantic B789 (G-VWHO),Landed 10:45,2021-05-05
+61,61,11:05 BA192,,Dallas (DFW),British Airways B789 (G-ZBKA),Landed 10:35,2021-05-05
+62,62,11:05 AA9716,,Dallas (DFW),American Airlines 77W,Unknown,2021-05-05
+63,63,11:30 AI151,,Chennai (MAA),Air India 788,Unknown,2021-05-05
+64,64,11:30 AI177,,Bengaluru (BLR),Air India B788 (VT-ANB),Landed 11:29,2021-05-05
+65,65,11:35 EY19,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMF),Landed 11:42,2021-05-05
+66,66,12:00 BA1441,,Edinburgh (EDI),British Airways A319 (G-EUPY),Landed 11:40,2021-05-05
+67,67,12:05 BA1385,,Manchester (MAN),British Airways A21N (G-NEOZ),Landed 11:23,2021-05-05
+68,68,12:05 BA1477,,Glasgow (GLA),British Airways A319 (G-EUPG),Landed 11:38,2021-05-05
+69,69,12:05 SU2578,,Moscow (SVO),Aeroflot A320 (VQ-BHL),Landed 11:45,2021-05-05
+70,70,12:10 QR8864,,Doha (DOH),Qatar Airways B789 (A7-BHE),Landed 11:56,2021-05-05
+71,71,12:30 BA1423,,Belfast (BHD),British Airways A320 (G-EUUU),Landed 11:59,2021-05-05
+72,72,12:30 BA431,,Amsterdam (AMS),British Airways B788 (G-ZBJC),Landed 11:50,2021-05-05
+73,73,12:45 BA1307,,Aberdeen (ABZ),British Airways A320 (G-EUYI),Landed 12:25,2021-05-05
+74,74,12:45 BA1327,,Newcastle (NCL),British Airways A319 (G-DBCA),Landed 12:16,2021-05-05
+75,75,12:45 BA256,,Delhi (DEL),British Airways B789 (G-ZBKG),Landed 12:14,2021-05-05
+76,76,12:50 AA156,,Seattle (SEA),American Airlines B772 (N786AN),Landed 12:18,2021-05-05
+77,77,13:00 BA118,,Bengaluru (BLR),British Airways B77W (G-STBM),Landed 12:45,2021-05-05
+78,78,13:05 EI712,,Cork (ORK),Aer Lingus A320 (EI-EDS),Landed 12:56,2021-05-05
+79,79,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BEX),Landed 13:26,2021-05-05
+80,80,13:20 MS777,,Cairo (CAI),EgyptAir B77W (SU-GDM),Landed 13:15,2021-05-05
+81,81,13:40 LX354,,Geneva (GVA),Swiss BCS1 (HB-JBH),Landed 13:29,2021-05-05
+82,82,13:45 KU901,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-05
+83,83,13:45 BA286,,San Francisco (SFO),British Airways B772 (G-YMMO),Landed 13:39,2021-05-05
+84,84,13:50 KU103,,Kuwait City (KWI),Kuwait Airways A332 (9K-APE),Landed 15:06,2021-05-05
+85,85,14:00,BA1391,Manchester (MAN),British Airways 32Q,Canceled,2021-05-05
+86,86,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BEG),Landed 14:24,2021-05-05
+87,87,14:30 VS682,,Los Angeles (LAX),Virgin Atlantic A35K (G-VRNB),Landed 13:45,2021-05-05
+88,88,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIID),Landed 14:03,2021-05-05
+89,89,14:40 BA104,,Dubai (DXB),British Airways B788 (G-ZBJK),Landed 14:43,2021-05-05
+90,90,14:45 BA917,,Stuttgart (STR),British Airways B78X (G-ZBLA),Landed 14:10,2021-05-05
+91,91,14:45 BA713,,Zurich (ZRH),British Airways B788 (G-ZBJG),Landed 14:36,2021-05-05
+92,92,14:55,BA2773,Jersey (JER),British Airways A20N (G-TTNJ),Landed 14:55,2021-05-05
+93,93,15:25,BA1445,Edinburgh (EDI),British Airways A320 (G-EUYP),Landed 14:59,2021-05-05
+94,94,15:25,RJ111,Amman (AMM),Royal Jordanian B788 (JY-BAC),Landed 15:09,2021-05-05
+95,95,15:30,A3602,Athens (ATH),Aegean Airlines A21N (SX-NAB),Landed 15:18,2021-05-05
+96,96,15:30 BA242,,Mexico City (MEX),British Airways B789 (G-ZBKE),Landed 14:46,2021-05-05
+97,97,15:33 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-GAAJ),Landed 14:21,2021-05-05
+98,98,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SME),Landed 15:24,2021-05-05
+99,99,15:45,BA1399,Manchester (MAN),British Airways 32Q,Canceled,2021-05-05
+100,100,15:50,BA1487,Glasgow (GLA),British Airways A320 (G-EUYW),Landed 15:39,2021-05-05
+101,101,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA882J),Landed 15:03,2021-05-05
+102,102,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKC),Landed 15:15,2021-05-05
+103,103,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IMW),Landed 15:51,2021-05-05
+104,104,16:05 TK1971,,Istanbul (IST),Turkish Airlines B77W (TC-JJL),Landed 15:47,2021-05-05
+105,105,16:15,KL1021,Amsterdam (AMS),KLM B737 (PH-BGH),Landed 15:42,2021-05-05
+106,106,16:20 BG201,,Sylhet (ZYL),Biman Bangladesh Airlines 789,Unknown,2021-05-05
+107,107,16:20 NH211,,Tokyo (HND),All Nippon Airways B77W (JA794A),Landed 15:12,2021-05-05
+108,108,16:20,VS301,Delhi (DEL),Virgin Atlantic B789 (G-VBOW),Landed 15:35,2021-05-05
+109,109,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VGEM),Landed 15:54,2021-05-05
+110,110,16:25,AF1280,Paris (CDG),Air France A319 (F-GRXK),Landed 16:16,2021-05-05
+111,111,16:25 EW9464,,Dusseldorf (DUS),Eurowings A319 (D-AGWG),Landed 16:58,2021-05-05
+112,112,16:25 BA168,,Shanghai (PVG),British Airways B77W (G-STBA),Landed 16:27,2021-05-05
+113,113,16:35 MH4,,Kuala Lumpur (KUL),Malaysia Airlines (Malaysia Negaraku Livery) A359 (9M-MAC),Landed 16:32,2021-05-05
+114,114,16:40,LH914,Frankfurt (FRA),Lufthansa A20N (D-AINA),Landed 16:37,2021-05-05
+115,115,16:55 UK17,,Delhi (DEL),Vistara 789,Unknown,2021-05-05
+116,116,16:55 BA677,,Istanbul (IST),British Airways 77F,Unknown,2021-05-05
+117,117,17:00 KE539,,Frankfurt (FRA),Korean Air Cargo B748 (HL7609),Landed 19:12,2021-05-05
+118,118,17:00,SK527,Stockholm (ARN),SAS A20N (SE-ROF),Landed 16:54,2021-05-05
+119,119,17:05,AY1337,Helsinki (HEL),Finnair A321 (OH-LZT),Landed 16:48,2021-05-05
+120,120,17:15,IB3166,Madrid (MAD),Iberia A359 (EC-NIG),Landed 16:51,2021-05-05
+121,121,17:15,LO279,Warsaw (WAW),LOT (Independence Livery) B38M (SP-LVD),Landed 17:20,2021-05-05
+122,122,17:40,BA665,Larnaca (LCA),British Airways A20N (G-TTNL),Landed 17:39,2021-05-05
+123,123,17:55,LX326,Zurich (ZRH),Edelweiss Air A343 (HB-JMF),Landed 17:42,2021-05-05
+124,124,18:00 AZ250,,Milan (LIN),Alitalia A319 (EI-IMX),Landed 17:55,2021-05-05
+125,125,18:05 BR69,,Taipei (TPE),EVA Air B77W (B-16728),Landed 17:10,2021-05-05
+126,126,18:05 EW2464,,Stuttgart (STR),Eurowings 319,Canceled,2021-05-05
+127,127,18:15 BA10,,Bangkok (BKK),British Airways B789 (G-ZBKL),Landed 17:24,2021-05-05
+128,128,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBF),Landed 18:07,2021-05-05
+129,129,18:25,BA1417,Belfast (BHD),British Airways A319 (G-DBCA),Landed 17:48,2021-05-05
+130,130,18:25 BA881,,Moscow (DME),British Airways B788 (G-ZBJE),Landed 17:46,2021-05-05
+131,131,18:30 LH2486,,Munich (MUC),Lufthansa A20N (D-AINV),Landed 18:32,2021-05-05
+132,132,18:35 QR8878,,Doha (DOH),Qatar Airways B789 (A7-BHC),Landed 18:35,2021-05-05
+133,133,18:50 EY17,,Abu Dhabi (AUH),Etihad (ADNOC - Choose the USA Livery) B789 (A6-BLE),Landed 18:59,2021-05-05
+134,134,18:55,OS455,Vienna (VIE),Austrian Airlines A319 (OE-LDF),Landed 18:45,2021-05-05
+135,135,19:00 AI149,,Cochin (COK),Air India 788,Unknown,2021-05-05
+136,136,19:10 LM559,,Darlington (MME),Loganair E145 (G-SAJG),Landed 18:38,2021-05-05
+137,137,19:20,EI178,Dublin (DUB),Aer Lingus A320 (EI-DVN),Landed 19:02,2021-05-05
+138,138,19:20 VS506,,Brussels (BRU),Virgin Atlantic A35K (G-VPOP),Landed 18:56,2021-05-05
+139,139,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKD),Landed 19:50,2021-05-05
+140,140,20:05,VS26,New York (JFK),Virgin Atlantic B789 (G-VAHH),Landed 19:47,2021-05-05
+141,141,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BEN),Landed 20:30,2021-05-05
+142,142,20:45,TK1983,Istanbul (IST),Turkish Airlines B77W (TC-JJU),Landed 20:21,2021-05-05
+143,143,20:55,KL1033,Amsterdam (AMS),KLM B737 (PH-BGM),Landed 20:27,2021-05-05
+144,144,21:15 BA3383,,Porto (OPO),British Airways 75F,Unknown,2021-05-05
+145,145,21:20,AF1380,Paris (CDG),Air France A320 (F-HEPF),Landed 21:13,2021-05-05
+0,0,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBK),Landed 05:20,2021-05-06
+1,1,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMT),Landed 05:49,2021-05-06
+2,2,05:50 BA12,,Singapore (SIN),British Airways B77W (G-STBP),Landed 05:57,2021-05-06
+3,3,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMV),Landed 05:53,2021-05-06
+4,4,06:20 AA100,,New York (JFK),American Airlines B77W (N724AN),Landed 06:03,2021-05-06
+5,5,06:25 AA50,,Dallas (DFW),American Airlines B77W (N735AT),Landed 06:05,2021-05-06
+6,6,06:30 BA112,,New York (JFK),British Airways B772 (G-YMMI),Landed 06:10,2021-05-06
+7,7,06:30 BA34,,Kuala Lumpur (KUL),British Airways B789 (G-ZBKM),Landed 06:25,2021-05-06
+8,8,06:35 BA158,,Bermuda (BDA),British Airways B772 (G-VIIK),Landed 06:23,2021-05-06
+9,9,06:40 VS132,,Bridgetown (BGI),Virgin Atlantic B789 (G-VSPY),Landed 06:08,2021-05-06
+10,10,06:40 VS664,,San Juan (SJU),Virgin Atlantic B789 (G-VSPY),Diverted to BGI,2021-05-06
+11,11,06:45 UA918,,Washington (IAD),United Airlines B763 (N673UA),Landed 06:18,2021-05-06
+12,12,06:50 AA86,,Chicago (ORD),American Airlines B788 (N802AN),Landed 06:36,2021-05-06
+13,13,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBH),Landed 06:54,2021-05-06
+14,14,06:55 VS624,,Boston (BOS),Virgin Atlantic B789 (G-VNYL),Landed 06:12,2021-05-06
+15,15,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBN),Landed 06:33,2021-05-06
+16,16,07:00 QR9,,Doha (DOH),Qatar Airways B77W (A7-BAO),Landed 07:01,2021-05-06
+17,17,07:05 DL32,,Atlanta (ATL),Delta Air Lines A333 (N802NW),Landed 06:42,2021-05-06
+18,18,07:05 EY11,,Abu Dhabi (AUH),Etihad (Greenliner Livery) B78X (A6-BMH),Landed 07:10,2021-05-06
+19,19,07:05 VS606N,,New York (JFK),Virgin Atlantic A35K (G-VTEA),Landed 06:14,2021-05-06
+20,20,07:10 UA14,,New York (EWR),United Airlines B78X (N17002),Landed 06:28,2021-05-06
+21,21,07:10 UL503,,Colombo (CMB),SriLankan Airlines A333 (4R-ALQ),Landed 07:13,2021-05-06
+22,22,07:10 VS355,,Mumbai (BOM),Virgin Atlantic A35K (G-VLUX),Landed 07:28,2021-05-06
+23,23,07:20 BA9155,,Greenville-Spartanburg (GSP),British Airways B77W (G-STBE),Landed 07:05,2021-05-06
+24,24,07:25 BA194,,Houston (IAH),British Airways B788 (G-ZBJA),Landed 06:46,2021-05-06
+25,25,07:35 BA54,,Johannesburg (JNB),British Airways B772 (G-YMMN),Landed 06:56,2021-05-06
+26,26,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N775AN),Landed 06:52,2021-05-06
+27,27,07:40 UA931,,Chicago (ORD),United Airlines B789 (N24979),Landed 07:34,2021-05-06
+28,28,08:00 VS379,,Islamabad (ISB),Virgin Atlantic 789,Canceled,2021-05-06
+29,29,08:05 LM551,,Darlington (MME),Loganair E145 (G-SAJG),Landed 07:50,2021-05-06
+30,30,08:05 LM671,,Isle of Man (IOM),Loganair E145 (G-SAJL),Landed 07:44,2021-05-06
+31,31,08:10 DL1,,New York (JFK),Delta Air Lines (BCRF Livery) B764 (N845MH),Landed 07:41,2021-05-06
+32,32,08:10 VS526,,Miami (MIA),Virgin Atlantic B789 (G-VBZZ),Landed 07:18,2021-05-06
+33,33,08:20 BA116,,New York (JFK),British Airways B77W (G-STBO),Landed 07:15,2021-05-06
+34,34,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBE),Landed 06:59,2021-05-06
+35,35,08:25 0B1331,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 08:20,2021-05-06
+36,36,08:30 BA1301,,Aberdeen (ABZ),British Airways A319 (G-EUPT),Landed 07:52,2021-05-06
+37,37,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FVND),Landed 08:45,2021-05-06
+38,38,08:35 BA1475,,Glasgow (GLA),British Airways A320 (G-EUYY),Landed 07:56,2021-05-06
+39,39,08:40 LH900,,Frankfurt (FRA),Lufthansa A20N (D-AING),Landed 08:43,2021-05-06
+40,40,08:40 BA3598,,Bangkok (BKK),British Airways B77W (G-STBG),Landed 07:31,2021-05-06
+41,41,09:00 KL1007,,Amsterdam (AMS),KLM B738 (PH-BXB),Landed 08:54,2021-05-06
+42,42,09:05 BA214,,Boston (BOS),British Airways B788 (G-ZBJM),Landed 08:29,2021-05-06
+43,43,09:05 EI154,,Dublin (DUB),Aer Lingus A320 (EI-DVN),Landed 08:24,2021-05-06
+44,44,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVK),Landed 08:47,2021-05-06
+45,45,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-MYX),Landed 08:40,2021-05-06
+46,46,09:05 VS699,,New York (JFK),Virgin Atlantic B789 (G-VFAN),Landed 08:37,2021-05-06
+47,47,09:10 AY1331,,Helsinki (HEL),Finnair A319 (OH-LVH),Landed 08:53,2021-05-06
+48,48,09:10 LO281,,Warsaw (WAW),LOT B38M (SP-LVF),Landed 09:02,2021-05-06
+49,49,09:20 UA2788,,New York (EWR),United Airlines B77W (N2747U),Landed 08:50,2021-05-06
+50,50,09:25 AA38,,Miami (MIA),American Airlines B77W (N721AN),Landed 08:26,2021-05-06
+51,51,09:30 BA1461,,Edinburgh (EDI),British Airways A319 (G-EUPG),Landed 09:00,2021-05-06
+52,52,09:35 VS454,,Tel Aviv (TLV),Virgin Atlantic B789 (G-VOWS),Landed 09:08,2021-05-06
+53,53,09:40 BA182,,New York (JFK),British Airways B772 (G-VIIN),Landed 10:57,2021-05-06
+54,54,09:42 AC7200,,Toronto (YYZ),Air Canada B77W (C-FRAM),Landed 09:24,2021-05-06
+55,55,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-LJA),Unknown,2021-05-06
+56,56,09:55 BA98,,Toronto (YYZ),British Airways B788 (G-ZBJC),Landed 09:29,2021-05-06
+57,57,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VWAG),Landed 10:00,2021-05-06
+58,58,10:03,,Washington (IAD),- B789 (G-ZBKN),Landed 09:57,2021-05-06
+59,59,10:15,SN2093,Brussels (BRU),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 09:47,2021-05-06
+60,60,10:20,AA728,Philadelphia (PHL),American Airlines (Oneworld Livery) B772 (N796AN),Landed 09:36,2021-05-06
+61,61,10:25,BA208,Miami (MIA),British Airways A35K (G-XWBB),Landed 09:38,2021-05-06
+62,62,10:40,AF1580,Paris (CDG),Air France A319 (F-GRHO),Landed 10:37,2021-05-06
+63,63,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VWHO),Landed 10:45,2021-05-06
+64,64,10:45,BA292,Washington (IAD),British Airways B789 (G-ZBKN),Unknown,2021-05-06
+65,65,11:05 BA192,,Dallas (DFW),British Airways B789 (G-ZBKP),Landed 10:33,2021-05-06
+66,66,11:05 AZ202,,Rome (FCO),Alitalia A319 (EI-IMG),Landed 10:55,2021-05-06
+67,67,11:15 ME201,,Beirut (BEY),MEA A320 (T7-MRF),Landed 11:33,2021-05-06
+68,68,11:15 VS514H,,Atlanta (ATL),Virgin Atlantic B789 (G-VNEW),Landed 10:14,2021-05-06
+69,69,11:30 AI131,,Mumbai (BOM),Air India B788 (VT-ANA),Landed 11:45,2021-05-06
+70,70,11:35 EY19,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMI),Landed 11:42,2021-05-06
+71,71,11:40 AA9715,,Chicago (ORD),American Airlines B772 (N776AN),Unknown,2021-05-06
+72,72,11:40 BA1441,,Edinburgh (EDI),British Airways A20N (G-TTNJ),Landed 11:15,2021-05-06
+73,73,11:50 BA3593,,Atlanta (ATL),British Airways B78X (G-ZBLA),Landed 10:27,2021-05-06
+74,74,11:55 BA296,,Chicago (ORD),British Airways B789 (G-ZBKK),Landed 09:51,2021-05-06
+75,75,12:00 VS506,,Brussels (BRU),Virgin Atlantic 351,Canceled,2021-05-06
+76,76,12:05 BA1385,,Manchester (MAN),British Airways A21N (G-NEOZ),Landed 11:29,2021-05-06
+77,77,12:05 SU2578,,Moscow (SVO),Aeroflot B738 (VP-BRR),Landed 12:01,2021-05-06
+78,78,12:10 BA565,,Milan (LIN),British Airways A319 (G-EUPY),Landed 11:48,2021-05-06
+79,79,12:10 IR711,,Tehran (IKA),Iran Air A332 (EP-IJA),Landed 12:50,2021-05-06
+80,80,12:10 QR8866,,Doha (DOH),Qatar Airways B789 (A7-BHE),Landed 11:56,2021-05-06
+81,81,12:15 BA1479,,Glasgow (GLA),British Airways A319 (G-EUPK),Landed 11:39,2021-05-06
+82,82,12:30 BA431,,Amsterdam (AMS),British Airways B788 (G-ZBJK),Landed 12:07,2021-05-06
+83,83,12:30 BA198,,Mumbai (BOM),British Airways 77F,Unknown,2021-05-06
+84,84,12:40 BA48,,Seattle (SEA),British Airways B789 (G-ZBKF),Unknown,2021-05-06
+85,85,12:45 BA1307,,Aberdeen (ABZ),British Airways A21N (G-NEOV),Landed 12:20,2021-05-06
+86,86,12:45 BA1327,,Newcastle (NCL),British Airways A319 (G-EUPT),Landed 12:23,2021-05-06
+87,87,12:45 BA256,,Delhi (DEL),British Airways B772 (G-YMMH),Landed 11:53,2021-05-06
+88,88,12:50 AA9817,,Dallas (DFW),American Airlines B772 (N750AN),Landed 11:50,2021-05-06
+89,89,13:00 LX332,,Zurich (ZRH),Swiss A333 (HB-JHL),Landed 12:47,2021-05-06
+90,90,13:00 BA118,,Bengaluru (BLR),British Airways 77F,Unknown,2021-05-06
+91,91,13:05 EI712,,Cork (ORK),Aer Lingus (Irish Rugby Team Livery) A320 (EI-DEO),Landed 12:55,2021-05-06
+92,92,13:10 BA276,,Hyderabad (HYD),British Airways 777,Canceled,2021-05-06
+93,93,13:15 AA134,,Los Angeles (LAX),American Airlines B77W (N734AR),Landed 12:45,2021-05-06
+94,94,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BER),Landed 12:58,2021-05-06
+95,95,13:20 MS777,,Cairo (CAI),EgyptAir B77W (SU-GDM),Landed 13:37,2021-05-06
+96,96,13:25 AA9707,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-06
+97,97,13:35 LY315,,Tel Aviv (TLV),El Al Israel Airlines B788 (4X-ERA),Landed 13:13,2021-05-06
+98,98,13:45 BA286,,San Francisco (SFO),British Airways B77W (G-STBH),Landed 13:16,2021-05-06
+99,99,13:45 KU103,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-06
+100,100,14:05 RO391,,Bucharest (OTP),Tarom A318 (YR-ASD),Landed 13:28,2021-05-06
+101,101,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BEN),Landed 14:00,2021-05-06
+102,102,14:15 VS24,,Los Angeles (LAX),Virgin Atlantic A35K (G-VPRD),Landed 14:16,2021-05-06
+103,103,14:25 BA82,,Abuja (ABV),British Airways B772 (G-VIIB),Landed 14:05,2021-05-06
+104,104,14:35 BA549,,Rome (FCO),British Airways A20N (G-TTNG),Landed 14:21,2021-05-06
+105,105,14:35 SK805,,Oslo (OSL),SAS A20N (SE-RUB),Landed 14:18,2021-05-06
+106,106,14:40 LH908,,Frankfurt (FRA),Lufthansa A20N (D-AINK),Landed 14:28,2021-05-06
+107,107,14:45 EK9943,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFO),Landed 15:17,2021-05-06
+108,108,14:45 BA917,,Stuttgart (STR),British Airways B78X (G-ZBLB),Landed 14:51,2021-05-06
+109,109,14:50 SV115,,Riyadh (RUH),Saudia B789 (HZ-ARG),Landed 15:23,2021-05-06
+110,110,15:00 P35122,,Atlanta (ATL),CargoLogicAir B744 (G-CLAA),Landed 14:57,2021-05-06
+111,111,15:20 GF3,,Bahrain (BAH),Gulf Air (Retro Livery) B789 (A9C-FG),Landed 15:12,2021-05-06
+112,112,15:25,BA1445,Edinburgh (EDI),British Airways A21N (G-NEOX),Landed 14:54,2021-05-06
+113,113,15:30,BA242,Mexico City (MEX),British Airways B789 (G-ZBKA),Landed 18:53,2021-05-06
+114,114,15:30 BA1391,,Manchester (MAN),British Airways 32Q,Canceled,2021-05-06
+115,115,15:33 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-GAAJ),Landed 14:48,2021-05-06
+116,116,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SMU),Landed 15:26,2021-05-06
+117,117,15:45,BA1487,Glasgow (GLA),British Airways A320 (G-EUYR),Landed 15:21,2021-05-06
+118,118,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA868J),Landed 15:01,2021-05-06
+119,119,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKH),Landed 15:46,2021-05-06
+120,120,16:00,EI168,Dublin (DUB),Aer Lingus A320 (EI-DES),Landed 15:29,2021-05-06
+121,121,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IMX),Landed 16:13,2021-05-06
+122,122,16:05 TK1971,,Istanbul (IST),Turkish Airlines B77W (TC-JJV),Landed 16:25,2021-05-06
+123,123,16:15,KL1021,Amsterdam (AMS),KLM B737 (PH-BGQ),Landed 16:03,2021-05-06
+124,124,16:20,VS301,Delhi (DEL),Virgin Atlantic B789 (G-VDIA),Landed 15:31,2021-05-06
+125,125,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VINE),Landed 15:57,2021-05-06
+126,126,16:25,AF1280,Paris (CDG),Air France A318 (F-GUGH),Landed 16:29,2021-05-06
+127,127,16:25 EW9464,,Dusseldorf (DUS),Eurowings A319 (D-AGWG),Landed 16:01,2021-05-06
+128,128,16:25 BA168,,Shanghai (PVG),British Airways B772 (G-YMMJ),Landed 16:40,2021-05-06
+129,129,16:35 MH4,,Kuala Lumpur (KUL),Malaysia Airlines A359 (9M-MAB),Landed 16:22,2021-05-06
+130,130,16:55 KE503,,Seoul (ICN),Korean Air Cargo B77L (HL8005),Landed 17:34,2021-05-06
+131,131,17:00,A3602,Athens (ATH),Aegean Airlines A21N (SX-NAB),Landed 17:02,2021-05-06
+132,132,17:04,,Seattle (SEA),- B789 (G-ZBKF),Unknown,2021-05-06
+133,133,17:05,AY1337,Helsinki (HEL),Finnair E190 (OH-LKK),Landed 16:44,2021-05-06
+134,134,17:15,IB3166,Madrid (MAD),Iberia A359 (EC-NCX),Landed 16:48,2021-05-06
+135,135,17:25,BA6,Tokyo (HND),British Airways B789 (G-ZBKR),Landed 16:58,2021-05-06
+136,136,17:40,SK1517,Copenhagen (CPH),SAS A20N (SE-ROX),Landed 17:28,2021-05-06
+137,137,17:45,BA1313,Aberdeen (ABZ),British Airways A319 (G-EUPT),Landed 17:19,2021-05-06
+138,138,17:45,TP1350,Lisbon (LIS),TAP Air Portugal A20N (CS-TVB),Landed 17:31,2021-05-06
+139,139,18:00 AZ250,,Milan (LIN),Alitalia A319 (EI-IMS),Landed 17:49,2021-05-06
+140,140,18:15 BA10,,Bangkok (BKK),British Airways B789 (G-ZBKG),Landed 17:36,2021-05-06
+141,141,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBI),Landed 17:58,2021-05-06
+142,142,18:25,BA1417,Belfast (BHD),British Airways A319 (G-EUPK),Landed 18:03,2021-05-06
+143,143,18:25 BA665,,Larnaca (LCA),British Airways B788 (G-ZBJG),Landed 17:52,2021-05-06
+144,144,18:35 QR8878,,Doha (DOH),Qatar Airways B789 (A7-BHG),Landed 18:16,2021-05-06
+145,145,18:45 EW7460,,Hamburg (HAM),Eurowings A319 (D-ABGK),Landed 18:18,2021-05-06
+146,146,18:45 UK17,,Delhi (DEL),Vistara B789 (VT-TSE),Landed 18:43,2021-05-06
+147,147,18:50 EY17,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLB),Landed 19:01,2021-05-06
+148,148,18:55,EI936,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 18:29,2021-05-06
+149,149,18:55,OS455,Vienna (VIE),Austrian Airlines A319 (OE-LDD),Landed 18:40,2021-05-06
+150,150,19:10 LM559,,Darlington (MME),Loganair E145 (G-SAJG),Landed 18:47,2021-05-06
+151,151,19:20,EI178,Dublin (DUB),Aer Lingus A320 (EI-DEP),Landed 18:56,2021-05-06
+152,152,19:20 VS510,,Milan (MXP),Virgin Atlantic A333 (G-VSXY),Landed 18:58,2021-05-06
+153,153,19:25 BA28,,Hong Kong (HKG),British Airways B77W (G-STBM),Landed 19:04,2021-05-06
+154,154,19:35 SQ7396,,Sharjah (SHJ),Singapore Airlines Cargo B744 (9V-SFK),Landed 19:59,2021-05-06
+155,155,19:50,BA781,Stockholm (ARN),British Airways A319 (G-EUPY),Landed 19:25,2021-05-06
+156,156,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKD),Landed 19:39,2021-05-06
+157,157,20:05,VS26,New York (JFK),Virgin Atlantic B789 (G-VCRU),Landed 19:56,2021-05-06
+158,158,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BAH),Landed 20:29,2021-05-06
+159,159,20:45,TK1983,Istanbul (IST),Turkish Airlines B77W (TC-JJF),Landed 20:19,2021-05-06
+160,160,20:55,KL1033,Amsterdam (AMS),KLM B737 (PH-BGG),Landed 20:25,2021-05-06
+161,161,21:05 BA3383,,Porto (OPO),British Airways 75F,Unknown,2021-05-06
+162,162,21:05 CX253,,Hong Kong (HKG),Cathay Pacific 351,Canceled,2021-05-06
+163,163,21:20,AF1380,Paris (CDG),Air France A320 (F-GKXL),Landed 21:00,2021-05-06
+164,164,22:10,LH922,Frankfurt (FRA),Lufthansa A20N (D-AINQ),Landed 21:57,2021-05-06
+0,0,05:05 BA260,,Islamabad (ISB),British Airways B772 (G-YMMD),Landed 05:14,2021-05-07
+1,1,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBF),Landed 05:29,2021-05-07
+2,2,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMT),Landed 05:32,2021-05-07
+3,3,05:50 BA124,,Bahrain (BAH),British Airways B788 (G-ZBJE),Landed 05:56,2021-05-07
+4,4,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMN),Landed 05:38,2021-05-07
+5,5,06:20 AA100,,New York (JFK),American Airlines B77W (N731AN),Landed 06:04,2021-05-07
+6,6,06:20 CX255,,Hong Kong (HKG),Cathay Pacific A35K (B-LXA),Landed 06:16,2021-05-07
+7,7,06:25 AA50,,Dallas (DFW),American Airlines B77W (N725AN),Landed 06:07,2021-05-07
+8,8,06:25 JL41,,Tokyo (HND),Japan Airlines B788 (JA836J),Landed 06:09,2021-05-07
+9,9,06:25 QR9,,Doha (DOH),Qatar Airways B77W (A7-BEG),Landed 06:24,2021-05-07
+10,10,06:45 UA918,,Washington (IAD),United Airlines B763 (N677UA),Landed 05:53,2021-05-07
+11,11,06:46 BA48,,Seattle (SEA),British Airways B789 (G-ZBKF),Landed 07:12,2021-05-07
+12,12,06:50 AA86,,Chicago (ORD),American Airlines B788 (N802AN),Landed 06:36,2021-05-07
+13,13,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBA),Landed 06:56,2021-05-07
+14,14,06:55 GF7,,Bahrain (BAH),Gulf Air B789 (A9C-FA),Landed 07:08,2021-05-07
+15,15,06:55 VS624,,Boston (BOS),Virgin Atlantic B789 (G-VNEW),Landed 06:12,2021-05-07
+16,16,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBJ),Landed 06:28,2021-05-07
+17,17,07:00 VS4,,New York (JFK),Virgin Atlantic A35K (G-VLUX),Landed 06:33,2021-05-07
+18,18,07:05 DL32,,Atlanta (ATL),Delta Air Lines A333 (N820NW),Landed 06:39,2021-05-07
+19,19,07:05 EY11,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMI),Landed 07:17,2021-05-07
+20,20,07:10 UA14,,New York (EWR),United Airlines B78X (N14011),Landed 06:45,2021-05-07
+21,21,07:15 VS355,,Mumbai (BOM),Virgin Atlantic A35K (G-VRNB),Landed 07:54,2021-05-07
+22,22,07:20 VS598,,Los Angeles (LAX),Virgin Atlantic A35K (G-VDOT),Landed 06:49,2021-05-07
+23,23,07:23 BA9155,,Greenville-Spartanburg (GSP),British Airways B77W (G-STBG),Landed 07:06,2021-05-07
+24,24,07:25 UA2765,,New York (EWR),United Airlines B789 (N45956),Landed 06:59,2021-05-07
+25,25,07:25 VS303,,Delhi (DEL),Virgin Atlantic 789,Unknown,2021-05-07
+26,26,07:30 AI161,,Delhi (DEL),Air India B788 (VT-ANZ),Landed 06:42,2021-05-07
+27,27,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N783AN),Landed 06:52,2021-05-07
+28,28,07:40 UA931,,Chicago (ORD),United Airlines B789 (N29985),Landed 07:41,2021-05-07
+29,29,07:45 SQ306,,Singapore (SIN),Singapore Airlines B77W (9V-SWO),Landed 07:32,2021-05-07
+30,30,08:05 LM551,,Darlington (MME),Loganair E145 (G-SAJG),Landed 07:35,2021-05-07
+31,31,08:10 DL1,,New York (JFK),Delta Air Lines B764 (N839MH),Landed 08:26,2021-05-07
+32,32,08:15 VS699,,New York (JFK),Virgin Atlantic B789 (G-VZIG),Landed 07:38,2021-05-07
+33,33,08:20 OS451,,Vienna (VIE),Austrian Airlines A319 (OE-LDA),Landed 07:59,2021-05-07
+34,34,08:20 BA116,,New York (JFK),British Airways B77W (G-STBO),Landed 07:22,2021-05-07
+35,35,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBE),Landed 07:14,2021-05-07
+36,36,08:25 0B1331,,Bucharest (OTP),Blue Air B735 (YR-AME),Landed 08:21,2021-05-07
+37,37,08:30 BA1301,,Aberdeen (ABZ),British Airways A320 (G-EUYP),Landed 07:50,2021-05-07
+38,38,08:30 BA1475,,Glasgow (GLA),British Airways A320 (G-EUYM),Landed 07:48,2021-05-07
+39,39,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FVND),Landed 08:10,2021-05-07
+40,40,08:40 LH900,,Frankfurt (FRA),Lufthansa A20N (D-AIJB),Landed 08:47,2021-05-07
+41,41,08:40 BA3598,,Bangkok (BKK),British Airways B77W (G-STBA),Landed 07:44,2021-05-07
+42,42,09:00 AA38,,Miami (MIA),American Airlines B772 (N771AN),Landed 10:24,2021-05-07
+43,43,09:00 KL1007,,Amsterdam (AMS),KLM B737 (PH-BGW),Landed 09:05,2021-05-07
+44,44,09:05 BA214,,Boston (BOS),British Airways B789 (G-ZBKN),Landed 08:31,2021-05-07
+45,45,09:05 EI154,,Dublin (DUB),Aer Lingus A21N (EI-LRC),Landed 08:44,2021-05-07
+46,46,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-NGT),Landed 08:55,2021-05-07
+47,47,09:05 VS516,,Atlanta (ATL),Virgin Atlantic B789 (G-VYUM),Landed 07:37,2021-05-07
+48,48,09:10 AY1331,,Helsinki (HEL),Finnair A319 (OH-LVI),Landed 08:52,2021-05-07
+49,49,09:25 DL20,,Seattle (SEA),Delta Air Lines B764 (N833MH),Landed 08:42,2021-05-07
+50,50,09:30 BA1461,,Edinburgh (EDI),British Airways A319 (G-EUPG),Landed 08:49,2021-05-07
+51,51,09:35 VS454,,Tel Aviv (TLV),Virgin Atlantic B789 (G-VOWS),Landed 09:25,2021-05-07
+52,52,09:40 BA182,,New York (JFK),British Airways B772 (G-VIIE),Landed 09:03,2021-05-07
+53,53,09:45 KM100,,Luqa (MLA),Air Malta A20N (9H-NEO),Landed 09:23,2021-05-07
+54,54,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-JJF),Landed 09:44,2021-05-07
+55,55,09:55 BA98,,Toronto (YYZ),British Airways B789 (G-ZBKP),Landed 09:11,2021-05-07
+56,56,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VGEM),Unknown,2021-05-07
+57,57,10:12 VS526,,Miami (MIA),Virgin Atlantic B789 (G-VNYL),Landed 10:05,2021-05-07
+58,58,10:15 SN2093,,Brussels (BRU),Brussels Airlines A320 (OO-SNK),Landed 09:40,2021-05-07
+59,59,10:20 AA728,,Philadelphia (PHL),American Airlines B772 (N792AN),Landed 10:45,2021-05-07
+60,60,10:25 BA208,,Miami (MIA),British Airways A35K (G-XWBB),Landed 10:22,2021-05-07
+61,61,10:40 AF1580,,Paris (CDG),Air France A320 (F-HEPF),Landed 10:28,2021-05-07
+62,62,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VWHO),Landed 11:42,2021-05-07
+63,63,10:45 BA292,,Washington (IAD),British Airways B789 (G-ZBKK),Unknown,2021-05-07
+64,64,11:00,TP1356,Lisbon (LIS),TAP Air Portugal A20N (CS-TVD),Landed 10:41,2021-05-07
+65,65,11:05,BA192,Dallas (DFW),British Airways B789 (G-ZBKL),Landed 10:38,2021-05-07
+66,66,11:05 AZ202,,Rome (FCO),Alitalia A320 (I-BIKD),Landed 10:59,2021-05-07
+67,67,11:05 AA9716,,Dallas (DFW),American Airlines 77W,Unknown,2021-05-07
+68,68,11:35,EY19,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMF),Landed 11:48,2021-05-07
+69,69,11:50,BA1441,Edinburgh (EDI),British Airways A319 (G-EUPT),Landed 13:50,2021-05-07
+70,70,11:50 BA3593,,Atlanta (ATL),British Airways B78X (G-ZBLB),Landed 10:36,2021-05-07
+71,71,11:55 BA296,,Chicago (ORD),British Airways B789 (G-ZBKE),Landed 10:54,2021-05-07
+72,72,12:00 BA431,,Amsterdam (AMS),British Airways A320 (G-EUYR),Landed 11:39,2021-05-07
+73,73,12:05 BA1385,,Manchester (MAN),British Airways A21N (G-NEOV),Landed 11:32,2021-05-07
+74,74,12:05 BA1477,,Glasgow (GLA),British Airways A21N (G-NEOW),Landed 11:45,2021-05-07
+75,75,12:05 SU2578,,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 11:55,2021-05-07
+76,76,12:10 BA401,,Cairo (CAI),British Airways B788 (G-ZBJF),Landed 11:51,2021-05-07
+77,77,12:10 BA565,,Milan (LIN),British Airways A320 (G-EUUU),Landed 12:00,2021-05-07
+78,78,12:10 QR8864,,Doha (DOH),Qatar Airways B789 (A7-BHD),Landed 11:58,2021-05-07
+79,79,12:15 BA827,,Dublin (DUB),British Airways A319 (G-DBCF),Landed 11:53,2021-05-07
+80,80,12:30 BA1423,,Belfast (BHD),British Airways A320 (G-EUYW),Landed 12:07,2021-05-07
+81,81,12:30 JU380,,Belgrade (BEG),AirSERBIA A319 (YU-APJ),Landed 12:02,2021-05-07
+82,82,12:40 BA727,,Geneva (GVA),British Airways A20N (G-TTNJ),Landed 12:26,2021-05-07
+83,83,12:45 BA256,,Delhi (DEL),British Airways B789 (G-ZBKS),Landed 12:10,2021-05-07
+84,84,12:45 BA1307,,Aberdeen (ABZ),British Airways A319 (G-EUPM),Landed 12:23,2021-05-07
+85,85,12:45 BA1327,,Newcastle (NCL),British Airways A320 (G-EUYP),Landed 12:12,2021-05-07
+86,86,12:50 AA156,,Seattle (SEA),American Airlines B772 (N775AN),Landed 12:04,2021-05-07
+87,87,12:55 BA252,,George Town (GCM),British Airways B772 (G-YMMU),Landed 12:14,2021-05-07
+88,88,13:00 BA118,,Bengaluru (BLR),British Airways B77W (G-STBK),Landed 14:30,2021-05-07
+89,89,13:00 LX332,,Zurich (ZRH),Swiss BCS1 (HB-JBB),Landed 12:42,2021-05-07
+90,90,13:05 EI712,,Cork (ORK),Aer Lingus A320 (EI-DEL),Landed 12:49,2021-05-07
+91,91,13:15 AA134,,Los Angeles (LAX),American Airlines B77W (N736AT),Landed 12:44,2021-05-07
+92,92,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BAE),Landed 13:24,2021-05-07
+93,93,13:20 MS777,,Cairo (CAI),EgyptAir B77W (SU-GDM),Landed 13:14,2021-05-07
+94,94,13:25 BA983,,Berlin (BER),British Airways A320 (G-EUYS),Landed 14:03,2021-05-07
+95,95,13:25 BA907,,Frankfurt (FRA),British Airways B788 (G-ZBJM),Landed 12:54,2021-05-07
+96,96,13:30 BA413,,Malaga (AGP),British Airways A320 (G-EUYI),Landed 13:18,2021-05-07
+97,97,13:45 BA286,,San Francisco (SFO),British Airways B77W (G-STBE),Landed 13:10,2021-05-07
+98,98,13:50 BA951,,Munich (MUC),British Airways A21N (G-NEOX),Landed 13:30,2021-05-07
+99,99,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BEQ),Landed 14:07,2021-05-07
+100,100,14:20 EI932,,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 13:53,2021-05-07
+101,101,14:30 VS682,,Los Angeles (LAX),Virgin Atlantic A35K (G-VJAM),Landed 14:12,2021-05-07
+102,102,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIID),Landed 14:06,2021-05-07
+103,103,14:35 BA549,,Rome (FCO),British Airways A320 (G-EUYA),Landed 14:21,2021-05-07
+104,104,14:35 SK805,,Oslo (OSL),SAS A20N (SE-ROK),Landed 14:18,2021-05-07
+105,105,14:40 BA485,,Barcelona (BCN),British Airways A320 (G-EUYM),Landed 14:27,2021-05-07
+106,106,14:40 BA104,,Dubai (DXB),British Airways B788 (G-ZBJK),Landed 14:44,2021-05-07
+107,107,14:45 BA917,,Stuttgart (STR),British Airways B789 (G-ZBKG),Landed 14:10,2021-05-07
+108,108,14:50 BA347,,Nice (NCE),British Airways A21N (G-NEOZ),Landed 14:38,2021-05-07
+109,109,14:55 BA2773,,Jersey (JER),British Airways A20N (G-TTNM),Landed 14:41,2021-05-07
+110,110,15:00 BA777,,Stockholm (ARN),British Airways B788 (G-ZBJH),Landed 14:15,2021-05-07
+111,111,15:25 BA1445,,Edinburgh (EDI),British Airways A320 (G-EUUT),Landed 15:26,2021-05-07
+112,112,15:25,RJ111,Amman (AMM),Royal Jordanian (Oneworld livery) A319 (JY-AYP),Landed 15:34,2021-05-07
+113,113,15:30 BA242,,Mexico City (MEX),British Airways B789 (G-ZBKB),Landed 14:35,2021-05-07
+114,114,15:30,A3602,Athens (ATH),Aegean Airlines A21N (SX-NAB),Unknown,2021-05-07
+115,115,15:33 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-GAAJ),Landed 14:25,2021-05-07
+116,116,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SMH),Landed 15:30,2021-05-07
+117,117,15:45,BA1487,Glasgow (GLA),British Airways A21N (G-NEOY),Landed 15:32,2021-05-07
+118,118,15:45 BA1399,,Manchester (MAN),British Airways 32Q,Canceled,2021-05-07
+119,119,15:50,BA1309,Aberdeen (ABZ),British Airways A319 (G-EUPG),Landed 15:35,2021-05-07
+120,120,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA882J),Landed 14:56,2021-05-07
+121,121,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKM),Landed 15:18,2021-05-07
+122,122,16:00,EI168,Dublin (DUB),Aer Lingus A320 (EI-DEK),Landed 15:24,2021-05-07
+123,123,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IMX),Landed 15:48,2021-05-07
+124,124,16:05 TK1971,,Istanbul (IST),Turkish Airlines B789 (TC-LLM),Landed 15:51,2021-05-07
+125,125,16:15,KL1021,Amsterdam (AMS),KLM B737 (PH-BGG),Landed 16:07,2021-05-07
+126,126,16:20 NH211,,Tokyo (HND),All Nippon Airways B77W (JA793A),Landed 15:21,2021-05-07
+127,127,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VWAG),Landed 15:58,2021-05-07
+128,128,16:25,AF1280,Paris (CDG),Air France A321 (F-GTAK),Landed 16:29,2021-05-07
+129,129,16:25 EW9464,,Dusseldorf (DUS),Eurowings A319 (D-AGWH),Landed 16:01,2021-05-07
+130,130,16:25 BA168,,Shanghai (PVG),British Airways (GREAT Festival of Creativity) B772 (G-YMML),Landed 16:40,2021-05-07
+131,131,16:40,LH914,Frankfurt (FRA),Lufthansa A20N (D-AING),Landed 16:25,2021-05-07
+132,132,16:45 FB851,,Sofia (SOF),Bulgaria Air E190 (LZ-SOF),Landed 16:37,2021-05-07
+133,133,17:00,SK527,Stockholm (ARN),SAS A20N (SE-ROP),Landed 16:52,2021-05-07
+134,134,17:00 VS365,,Lahore (LHE),Virgin Atlantic 789,Unknown,2021-05-07
+135,135,17:05,AY1337,Helsinki (HEL),Finnair E190 (OH-LKE),Landed 16:45,2021-05-07
+136,136,17:15,IB3166,Madrid (MAD),Iberia A359 (EC-NBE),Landed 16:49,2021-05-07
+137,137,17:15,LO279,Warsaw (WAW),LOT B38M (SP-LVB),Landed 17:16,2021-05-07
+138,138,17:20 0B1431,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 17:13,2021-05-07
+139,139,17:25 KE907,,Seoul (ICN),Korean Air (SuperM Livery) B77W (HL8010),Landed 16:57,2021-05-07
+140,140,17:45,BA491,Gibraltar (GIB),British Airways A320 (G-EUYE),Landed 17:30,2021-05-07
+141,141,17:55,BA665,Larnaca (LCA),British Airways A20N (G-TTNG),Landed 17:49,2021-05-07
+142,142,18:00 AZ250,,Milan (LIN),Alitalia A319 (I-BIMA),Landed 17:36,2021-05-07
+143,143,18:05 EW2464,,Stuttgart (STR),Eurowings 319,Canceled,2021-05-07
+144,144,18:05 LX326,,Zurich (ZRH),Swiss A321 (HB-ION),Landed 17:53,2021-05-07
+145,145,18:15 BA10,,Bangkok (BKK),British Airways B789 (G-ZBKO),Landed 17:45,2021-05-07
+146,146,18:25 BA32,,Hong Kong (HKG),British Airways 77W,Canceled,2021-05-07
+147,147,18:25,BA1417,Belfast (BHD),British Airways A319 (G-EUPT),Landed 18:33,2021-05-07
+148,148,18:30,LH2486,Munich (MUC),Lufthansa A20N (D-AINZ),Landed 18:23,2021-05-07
+149,149,18:35,BA1391,Manchester (MAN),British Airways A21N (G-NEOX),Landed 18:08,2021-05-07
+150,150,18:35,LM677,Isle of Man (IOM),Loganair AT45 (G-LMRA),Landed 18:41,2021-05-07
+151,151,18:35 QR8878,,Doha (DOH),Qatar Airways B789 (A7-BHB),Landed 18:30,2021-05-07
+152,152,18:45 EW7460,,Hamburg (HAM),Eurowings A319 (D-AGWU),Landed 18:12,2021-05-07
+153,153,18:50 EY17,,Abu Dhabi (AUH),Etihad (ADNOC - Choose China Livery) B789 (A6-BLF),Landed 18:51,2021-05-07
+154,154,18:50 OZ521,,Seoul (ICN),Asiana Airlines A359 (HL8361),Landed 18:36,2021-05-07
+155,155,18:55,EI936,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 18:34,2021-05-07
+156,156,18:55,OS455,Vienna (VIE),Austrian Airlines A319 (OE-LDC),Landed 19:03,2021-05-07
+157,157,19:05,BA637,Athens (ATH),British Airways B788 (G-ZBJG),Landed 18:43,2021-05-07
+158,158,19:10 LM559,,Darlington (MME),Loganair E145 (G-SAJG),Landed 18:39,2021-05-07
+159,159,19:15,OU490,Zagreb (ZAG),Croatia Airlines (Star Alliance Livery) A319 (9A-CTI),Landed 19:06,2021-05-07
+160,160,19:20 VS506,,Brussels (BRU),Virgin Atlantic A35K (G-VDOT),Landed 18:55,2021-05-07
+161,161,19:30,SK1507,Copenhagen (CPH),SAS A20N (SE-DYC),Landed 19:19,2021-05-07
+162,162,19:50,EI178,Dublin (DUB),Aer Lingus A333 (EI-GCF),Landed 19:14,2021-05-07
+163,163,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKR),Landed 19:24,2021-05-07
+164,164,20:20 VS522,,Dublin (DUB),Virgin Atlantic A35K (G-VLUX),Landed 19:33,2021-05-07
+165,165,20:20 VS686Q,,New York (JFK),Virgin Atlantic B789 (G-VBZZ),Landed 19:09,2021-05-07
+166,166,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BEJ),Landed 20:10,2021-05-07
+167,167,20:45,TK1983,Istanbul (IST),Turkish Airlines A333 (TC-LNF),Landed 20:20,2021-05-07
+168,168,20:55,KL1033,Amsterdam (AMS),KLM B737 (PH-BGG),Landed 20:29,2021-05-07
+169,169,21:00 VS239,,Hong Kong (HKG),Virgin Atlantic B789 (G-VFAN),Landed 20:46,2021-05-07
+170,170,21:20,AF1380,Paris (CDG),Air France A319 (F-GRXK),Landed 20:48,2021-05-07
+171,171,22:55,TP1366,Lisbon (LIS),TAP Air Portugal A20N (CS-TVB),Landed 22:52,2021-05-07
+0,0,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBG),Landed 05:33,2021-05-08
+1,1,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMT),Landed 05:26,2021-05-08
+2,2,05:50 BA12,,Singapore (SIN),British Airways B77W (G-STBN),Landed 06:06,2021-05-08
+3,3,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMU),Landed 05:58,2021-05-08
+4,4,06:20 AA100,,New York (JFK),American Airlines B77W (N718AN),Landed 06:07,2021-05-08
+5,5,06:25 AA50,,Dallas (DFW),American Airlines B77W (N724AN),Landed 06:04,2021-05-08
+6,6,06:30 BA112,,New York (JFK),British Airways B772 (G-YMMH),Landed 06:12,2021-05-08
+7,7,06:30 BA34,,Kuala Lumpur (KUL),British Airways B789 (G-ZBKC),Landed 06:38,2021-05-08
+8,8,06:40 BA258,,Lahore (LHE),British Airways 788,Canceled,2021-05-08
+9,9,06:45 UA918,,Washington (IAD),United Airlines B763 (N669UA),Landed 06:32,2021-05-08
+10,10,06:45 BA66,,Philadelphia (PHL),British Airways B788 (G-ZBJD),Landed 06:10,2021-05-08
+11,11,06:50 AA86,,Chicago (ORD),American Airlines B788 (N871AY),Landed 06:15,2021-05-08
+12,12,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBD),Landed 06:41,2021-05-08
+13,13,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBJ),Landed 07:28,2021-05-08
+14,14,06:55 GF7,,Bahrain (BAH),Gulf Air B789 (A9C-FE),Landed 07:06,2021-05-08
+15,15,07:00 VS4,,New York (JFK),Virgin Atlantic A35K (G-VPRD),Landed 06:23,2021-05-08
+16,16,07:05 DL32,,Atlanta (ATL),Delta Air Lines A333 (N807NW),Landed 06:45,2021-05-08
+17,17,07:05 EY11,,Abu Dhabi (AUH),Etihad (Greenliner Livery) B78X (A6-BMH),Landed 07:10,2021-05-08
+18,18,07:10 UA14,,New York (EWR),United Airlines B78X (N12005),Landed 06:43,2021-05-08
+19,19,07:10 UL503,,Colombo (CMB),SriLankan Airlines A333 (4R-ALQ),Landed 06:54,2021-05-08
+20,20,07:20 VS365,,Lahore (LHE),Virgin Atlantic 789,Canceled,2021-05-08
+21,21,07:20 BA9155,,Greenville-Spartanburg (GSP),British Airways B77W (G-STBA),Landed 07:02,2021-05-08
+22,22,07:25 BA194,,Houston (IAH),British Airways B788 (G-ZBJE),Landed 06:47,2021-05-08
+23,23,07:35 BA54,,Johannesburg (JNB),British Airways B772 (G-YMMA),Landed 07:37,2021-05-08
+24,24,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N776AN),Landed 06:56,2021-05-08
+25,25,07:40 UA931,,Chicago (ORD),United Airlines B789 (N24976),Landed 07:25,2021-05-08
+26,26,07:55 LX316,,Zurich (ZRH),Swiss BCS3 (HB-JCF),Landed 07:55,2021-05-08
+27,27,08:10 DL1,,New York (JFK),Delta Air Lines B764 (N835MH),Landed 07:48,2021-05-08
+28,28,08:15 BA1491,,Glasgow (GLA),British Airways A20N (G-TTNJ),Landed 07:43,2021-05-08
+29,29,08:20 OS451,,Vienna (VIE),Austrian Airlines A319 (OE-LDB),Landed 08:05,2021-05-08
+30,30,08:20 BA116,,New York (JFK),British Airways B77W (G-STBO),Landed 07:20,2021-05-08
+31,31,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBE),Landed 07:14,2021-05-08
+32,32,08:25 0B1331,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 08:32,2021-05-08
+33,33,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FGHZ),Landed 08:07,2021-05-08
+34,34,08:40 LH900,,Frankfurt (FRA),Lufthansa A20N (D-AINK),Landed 09:08,2021-05-08
+35,35,08:40 BA3598,,Bangkok (BKK),British Airways B77W (G-STBI),Landed 08:14,2021-05-08
+36,36,08:50 BA1303,,Aberdeen (ABZ),British Airways A20N (G-TTNM),Landed 08:16,2021-05-08
+37,37,09:00 AA38,,Miami (MIA),American Airlines B772 (N750AN),Landed 07:40,2021-05-08
+38,38,09:05 BA214,,Boston (BOS),British Airways B789 (G-ZBKL),Landed 08:19,2021-05-08
+39,39,09:05 EI154,,Dublin (DUB),Aer Lingus A21N (EI-LRD),Landed 08:35,2021-05-08
+40,40,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVN),Landed 08:33,2021-05-08
+41,41,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-MXV),Landed 08:45,2021-05-08
+42,42,09:10 AY1331,,Helsinki (HEL),Finnair E190 (OH-LKG),Landed 09:22,2021-05-08
+43,43,09:10 LM671,,Isle of Man (IOM),Loganair E145 (G-SAJL),Landed 08:48,2021-05-08
+44,44,09:10 LO281,,Warsaw (WAW),LOT B38M (SP-LVB),Landed 09:10,2021-05-08
+45,45,09:20 UA2788,,New York (EWR),United Airlines B77W (N2333U),Landed 08:42,2021-05-08
+46,46,09:40,BA182,New York (JFK),British Airways B772 (G-VIIK),Landed 09:00,2021-05-08
+47,47,09:50,TK1979,Istanbul (IST),Turkish Airlines B77W (TC-JJV),Landed 09:36,2021-05-08
+48,48,09:55,BA98,Toronto (YYZ),British Airways B788 (G-ZBJF),Landed 09:19,2021-05-08
+49,49,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VINE),Landed 09:05,2021-05-08
+50,50,10:02,,Washington (IAD),- B789 (G-ZBKS),Landed 10:10,2021-05-08
+51,51,10:05,BA1439,Edinburgh (EDI),British Airways A319 (G-EUPM),Landed 09:27,2021-05-08
+52,52,10:15,SN2093,Brussels (BRU),Brussels Airlines A320 (OO-SNK),Landed 10:02,2021-05-08
+53,53,10:20,AA728,Philadelphia (PHL),American Airlines B772 (N752AN),Landed 09:32,2021-05-08
+54,54,10:25,BA208,Miami (MIA),British Airways A35K (G-XWBC),Landed 09:39,2021-05-08
+55,55,10:35 BA3381,,Leipzig (LEJ),British Airways AB6,Unknown,2021-05-08
+56,56,10:40,AF1580,Paris (CDG),Air France A319 (F-GRHS),Landed 10:15,2021-05-08
+57,57,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VOWS),Landed 10:29,2021-05-08
+58,58,10:45,BA292,Washington (IAD),British Airways B789 (G-ZBKS),Unknown,2021-05-08
+59,59,10:45 KL1009,,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 10:22,2021-05-08
+60,60,10:55 PS117,,Kyiv (KBP),Ukraine International Airlines E190 (UR-EMD),Landed 11:23,2021-05-08
+61,61,11:00 VS104,,Atlanta (ATL),Virgin Atlantic B789 (G-VZIG),Landed 10:39,2021-05-08
+62,62,11:05 BA192,,Dallas (DFW),British Airways B78X (G-ZBLA),Landed 10:42,2021-05-08
+63,63,11:05 AZ202,,Rome (FCO),Alitalia A320 (EI-IKF),Landed 10:52,2021-05-08
+64,64,11:15 LM553,,Darlington (MME),Loganair E145 (G-SAJG),Landed 10:55,2021-05-08
+65,65,11:15 A3600,,Athens (ATH),Aegean Airlines A21N (SX-NAA),Unknown,2021-05-08
+66,66,11:25 AC7202,,Vancouver (YVR),Air Canada B789 (C-FRSI),Landed 10:35,2021-05-08
+67,67,11:30 AI131,,Mumbai (BOM),Air India B788 (VT-ANA),Landed 11:34,2021-05-08
+68,68,11:35 EY19,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMI),Landed 13:23,2021-05-08
+69,69,11:40 AA9715,,Chicago (ORD),American Airlines B788,Unknown,2021-05-08
+70,70,11:45 BA1327,,Newcastle (NCL),British Airways A20N (G-TTNG),Landed 11:30,2021-05-08
+71,71,11:50 BA3593,,Atlanta (ATL),British Airways B789 (G-ZBKG),Landed 10:58,2021-05-08
+72,72,11:55 BA296,,Chicago (ORD),British Airways B789 (G-ZBKH),Landed 10:25,2021-05-08
+73,73,12:05 SU2578,,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 11:59,2021-05-08
+74,74,12:10 QR8866,,Doha (DOH),Qatar Airways B789 (A7-BHF),Landed 11:51,2021-05-08
+75,75,12:35 BA1307,,Aberdeen (ABZ),British Airways A319 (G-EUPT),Landed 12:16,2021-05-08
+76,76,12:35 BA1479,,Glasgow (GLA),British Airways A21N (G-NEOV),Landed 12:10,2021-05-08
+77,77,12:40 BA48,,Seattle (SEA),British Airways B789 (G-ZBKE),Landed 12:20,2021-05-08
+78,78,12:45 BA1469,,Inverness (INV),British Airways A319 (G-EUPG),Landed 12:44,2021-05-08
+79,79,12:45 BA919,,Stuttgart (STR),British Airways B789 (G-ZBKM),Landed 12:13,2021-05-08
+80,80,12:50 AA9817,,Dallas (DFW),American Airlines B772 (N783AN),Landed 12:33,2021-05-08
+81,81,13:00 LX332,,Zurich (ZRH),Swiss A20N (HB-JDB),Landed 12:59,2021-05-08
+82,82,13:05 BA1443,,Edinburgh (EDI),British Airways A20N (G-TTNJ),Landed 12:30,2021-05-08
+83,83,13:05 EI712,,Cork (ORK),Aer Lingus A320 (EI-DEE),Landed 12:51,2021-05-08
+84,84,13:10 BA276,,Hyderabad (HYD),British Airways 777,Canceled,2021-05-08
+85,85,13:15 AA134,,Los Angeles (LAX),American Airlines B77W (N733AR),Landed 12:36,2021-05-08
+86,86,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BEE),Landed 13:05,2021-05-08
+87,87,13:25 AA9707,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-08
+88,88,13:30 MF8711,,Xiamen (XMN),Xiamen Air B788 (B-2760),Unknown,2021-05-08
+89,89,13:30 VS510,,Milan (MXP),Virgin Atlantic A333 (G-VSXY),Landed 12:55,2021-05-08
+90,90,13:35 MS777,,Cairo (CAI),EgyptAir B77W (SU-GDP),Landed 13:16,2021-05-08
+91,91,13:40,LX354,Geneva (GVA),Swiss BCS1 (HB-JBF),Landed 13:20,2021-05-08
+92,92,13:45,BA286,San Francisco (SFO),British Airways B772 (G-YMMJ),Landed 13:33,2021-05-08
+93,93,13:45 KU103,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-08
+94,94,13:45 KU901,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-08
+95,95,13:50,BA729,Geneva (GVA),British Airways A20N (G-TTNH),Landed 13:30,2021-05-08
+96,96,14:05 RO391,,Bucharest (OTP),Tarom A318 (YR-ASB),Landed 13:40,2021-05-08
+97,97,14:10,QR7,Doha (DOH),Qatar Airways 77W,Unknown,2021-05-08
+98,98,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BET),Landed 14:22,2021-05-08
+99,99,14:15,VS24,Los Angeles (LAX),Virgin Atlantic A35K (G-VRNB),Landed 14:14,2021-05-08
+100,100,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIIC),Landed 14:11,2021-05-08
+101,101,14:40,LH908,Frankfurt (FRA),Lufthansa A20N (D-AIJE),Landed 14:28,2021-05-08
+102,102,14:45,BA815,Copenhagen (CPH),British Airways A20N (G-TTNF),Landed 14:36,2021-05-08
+103,103,14:45 EK9943,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFI),Landed 15:09,2021-05-08
+104,104,14:45 BA713,,Zurich (ZRH),British Airways B788 (G-ZBJG),Landed 14:07,2021-05-08
+105,105,14:45 BA917,,Stuttgart (STR),British Airways B78X (G-ZBLB),Landed 14:02,2021-05-08
+106,106,14:50 SV115,,Jeddah (JED),Saudia B789 (HZ-ARF),Landed 15:16,2021-05-08
+107,107,14:55,BA347,Nice (NCE),British Airways A320 (G-EUYS),Landed 14:44,2021-05-08
+108,108,15:00 BA3401,,Brussels (BRU),British Airways AB6,Unknown,2021-05-08
+109,109,15:10 QR8291,,Doha (DOH),Qatar Cargo B77L (A7-BFF),Landed 15:20,2021-05-08
+110,110,15:25,BA1445,Edinburgh (EDI),British Airways A319 (G-DBCF),Landed 15:02,2021-05-08
+111,111,15:30,BA242,Mexico City (MEX),British Airways B789 (G-ZBKK),Landed 14:50,2021-05-08
+112,112,15:30 QR8890,,Doha (DOH),Qatar Airways B789 (A7-BHC),Landed 15:13,2021-05-08
+113,113,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SMF),Landed 15:31,2021-05-08
+114,114,15:45 BI3,,Brunei (BWN),Royal Brunei Airlines B788 (V8-DLE),Landed 15:48,2021-05-08
+115,115,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA865J),Landed 15:06,2021-05-08
+116,116,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKF),Landed 15:55,2021-05-08
+117,117,15:55,BA1487,Glasgow (GLA),British Airways A319 (G-EUPM),Landed 15:27,2021-05-08
+118,118,16:00 SU2582,,Moscow (SVO),Aeroflot A320 (VQ-BKT),Landed 15:34,2021-05-08
+119,119,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IMT),Landed 15:44,2021-05-08
+120,120,16:05 TK1971,,Istanbul (IST),Turkish Airlines B789 (TC-LLI),Landed 15:51,2021-05-08
+121,121,16:15,KL1021,Amsterdam (AMS),KLM B737 (PH-BGQ),Landed 16:05,2021-05-08
+122,122,16:20 BG201,,Sylhet (ZYL),Biman Bangladesh Airlines 789,Unknown,2021-05-08
+123,123,16:20 NH211,,Tokyo (HND),All Nippon Airways B77W (JA796A),Landed 15:37,2021-05-08
+124,124,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VGEM),Landed 15:59,2021-05-08
+125,125,16:25,AF1280,Paris (CDG),Air France A320 (F-GKXL),Landed 16:02,2021-05-08
+126,126,16:25 BA168,,Shanghai (PVG),British Airways B77W (G-STBF),Landed 17:20,2021-05-08
+127,127,16:30,TG910,Bangkok (BKK),Thai Airways A359 (HS-THF),Landed 16:41,2021-05-08
+128,128,16:35 MH4,,Kuala Lumpur (KUL),Malaysia Airlines A359 (9M-MAE),Landed 16:46,2021-05-08
+129,129,17:05,AY1337,Helsinki (HEL),Finnair A321 (OH-LZU),Landed 16:56,2021-05-08
+130,130,17:10 BA3403,,Amsterdam (AMS),British Airways AB6,Unknown,2021-05-08
+131,131,17:15,IB3166,Madrid (MAD),Iberia A359 (EC-MXV),Landed 16:53,2021-05-08
+132,132,17:25,BA6,Tokyo (HND),British Airways B789 (G-ZBKP),Landed 16:58,2021-05-08
+133,133,17:45,TP1350,Lisbon (LIS),TAP Air Portugal A20N (CS-TVE),Landed 17:22,2021-05-08
+134,134,18:00 AZ250,,Milan (LIN),Alitalia A319 (EI-IMJ),Landed 17:47,2021-05-08
+135,135,18:10 BA509,,Faro (FAO),British Airways A320 (G-EUYA),Landed 18:23,2021-05-08
+136,136,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBH),Landed 18:20,2021-05-08
+137,137,18:25,BA1417,Belfast (BHD),British Airways A319 (G-EUPG),Landed 18:10,2021-05-08
+138,138,18:30 KE503,,Seoul (ICN),Korean Air Cargo B77L (HL8251),Landed 17:43,2021-05-08
+139,139,18:45 UK17,,Delhi (DEL),Vistara B789 (VT-TSE),Landed 18:58,2021-05-08
+140,140,18:50 EY17,,Abu Dhabi (AUH),Etihad (ADNOC- Choose Saudi Arabia Livery) B789 (A6-BLN),Landed 18:53,2021-05-08
+141,141,18:55,BA491,Gibraltar (GIB),British Airways A20N (G-TTNG),Landed 18:34,2021-05-08
+142,142,19:05 SQ7394,,Sharjah (SHJ),Singapore Airlines Cargo B744 (9V-SFN),Landed 19:10,2021-05-08
+143,143,19:20 VS506,,Brussels (BRU),Virgin Atlantic A35K (G-VTEA),Landed 19:06,2021-05-08
+144,144,19:25 BA28,,Hong Kong (HKG),British Airways B77W (G-STBM),Landed 19:24,2021-05-08
+145,145,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKR),Landed 19:22,2021-05-08
+146,146,20:20 VS686Q,,New York (JFK),Virgin Atlantic B789 (G-VNEW),Landed 19:40,2021-05-08
+147,147,20:25,QR15,Doha (DOH),Qatar Airways 77W,Unknown,2021-05-08
+148,148,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BAC),Landed 20:40,2021-05-08
+149,149,20:45,TK1983,Istanbul (IST),Turkish Airlines A21N (TC-LSA),Landed 20:36,2021-05-08
+150,150,21:00 BA3387,,Frankfurt (FRA),British Airways AB6,Unknown,2021-05-08
+151,151,21:00 VS239,,Hong Kong (HKG),Virgin Atlantic B789 (G-VNYL),Landed 20:16,2021-05-08
+152,152,21:05 CX253,,Hong Kong (HKG),Cathay Pacific 351,Canceled,2021-05-08
+153,153,21:20,AF1380,Paris (CDG),Air France A320 (F-GKXL),Landed 20:59,2021-05-08
+154,154,21:25,BA503,Lisbon (LIS),British Airways A20N (G-TTNJ),Landed 21:08,2021-05-08
+155,155,21:35 BA2649,,Tirana (TIA),British Airways A21N (G-NEOY),Landed 21:30,2021-05-08
+156,156,22:10,LH922,Frankfurt (FRA),Lufthansa A20N (D-AINB),Landed 22:13,2021-05-08
+157,157,22:15,BA455,Malaga (AGP),British Airways A20N (G-TTNF),Landed 21:42,2021-05-08
+158,158,22:45 BA3405,,Paris (CDG),British Airways AB6,Unknown,2021-05-08
+0,0,05:05 BA260,,Islamabad (ISB),British Airways 777,Canceled,2021-05-09
+1,1,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBG),Landed 05:09,2021-05-09
+2,2,05:40 CX251,,Hong Kong (HKG),Cathay Pacific 351,Canceled,2021-05-09
+3,3,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMA),Landed 05:34,2021-05-09
+4,4,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMW),Landed 06:00,2021-05-09
+5,5,06:15 BA124,,Bahrain (BAH),British Airways B788 (G-ZBJI),Landed 06:11,2021-05-09
+6,6,06:20 AA100,,New York (JFK),American Airlines B77W (N735AT),Landed 06:21,2021-05-09
+7,7,06:25 AA50,,Dallas (DFW),American Airlines B77W (N719AN),Landed 06:05,2021-05-09
+8,8,06:25 JL41,,Tokyo (HND),Japan Airlines B788 (JA836J),Landed 06:13,2021-05-09
+9,9,06:30 BA112,,New York (JFK),British Airways B772 (G-YMMB),Landed 06:15,2021-05-09
+10,10,06:40 VS132,,Bridgetown (BGI),Virgin Atlantic B789 (G-VBOW),Landed 06:43,2021-05-09
+11,11,06:40 VS664,,San Juan (SJU),Virgin Atlantic B789 (G-VBOW),Diverted to BGI,2021-05-09
+12,12,06:45 UA918,,Washington (IAD),United Airlines B763 (N668UA),Landed 06:17,2021-05-09
+13,13,06:50 AA86,,Chicago (ORD),American Airlines B788 (N817AN),Landed 06:19,2021-05-09
+14,14,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBG),Landed 06:39,2021-05-09
+15,15,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBJ),Landed 07:06,2021-05-09
+16,16,06:55 GF7,,Bahrain (BAH),Gulf Air B789 (A9C-FD),Landed 06:47,2021-05-09
+17,17,06:55 VS624,,Boston (BOS),Virgin Atlantic B789 (G-VAHH),Landed 06:09,2021-05-09
+18,18,07:00 VS4,,New York (JFK),Virgin Atlantic A35K (G-VJAM),Landed 06:34,2021-05-09
+19,19,07:00 QR9,,Doha (DOH),Qatar Airways B77W (A7-BED),Landed 06:59,2021-05-09
+20,20,07:05 DL32,,Atlanta (ATL),Delta Air Lines A333 (N817NW),Landed 07:09,2021-05-09
+21,21,07:05 EY11,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMG),Landed 07:16,2021-05-09
+22,22,07:10 UA14,,New York (EWR),United Airlines B78X (N12006),Landed 06:36,2021-05-09
+23,23,07:10 VS355,,Mumbai (BOM),Virgin Atlantic A35K (G-VPRD),Landed 06:56,2021-05-09
+24,24,07:20 VS642,,Los Angeles (LAX),Virgin Atlantic A35K (G-VDOT),Landed 06:45,2021-05-09
+25,25,07:25 VS303,,Delhi (DEL),Virgin Atlantic 789,Unknown,2021-05-09
+26,26,07:30 AI161,,Delhi (DEL),Air India B788 (VT-ANZ),Landed 07:02,2021-05-09
+27,27,07:35 BA54,,Johannesburg (JNB),British Airways B772 (G-YMMU),Landed 07:14,2021-05-09
+28,28,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N765AN),Landed 06:51,2021-05-09
+29,29,07:40 UA931,,Chicago (ORD),United Airlines B788 (N26909),Landed 07:39,2021-05-09
+30,30,07:40 VS379,,Islamabad (ISB),Virgin Atlantic 789,Canceled,2021-05-09
+31,31,07:45 SQ306,,Singapore (SIN),Singapore Airlines B77W (9V-SWS),Landed 07:51,2021-05-09
+32,32,08:00 VS6,,Miami (MIA),Virgin Atlantic B789 (G-VFAN),Landed 07:23,2021-05-09
+33,33,08:05 FB851,,Sofia (SOF),Bulgaria Air A319 (LZ-FBA),Landed 07:48,2021-05-09
+34,34,08:10 DL1,,New York (JFK),Delta Air Lines B764 (N843MH),Landed 07:44,2021-05-09
+35,35,08:20 BA116,,New York (JFK),British Airways B77W (G-STBP),Landed 07:21,2021-05-09
+36,36,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBE),Landed 07:31,2021-05-09
+37,37,08:25 0B1331,,Bucharest (OTP),Blue Air B738 (YR-BMK),Landed 08:26,2021-05-09
+38,38,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FVND),Landed 08:18,2021-05-09
+39,39,08:40 BA3598,,Bangkok (BKK),British Airways B77W (G-STBB),Landed 07:28,2021-05-09
+40,40,08:50 BA1303,,Aberdeen (ABZ),British Airways A319 (G-DBCF),Landed 08:28,2021-05-09
+41,41,08:55 AC7204,,Montreal (YUL),Air Canada B789 (C-FPQB),Landed 08:15,2021-05-09
+42,42,09:00 AA38,,Miami (MIA),American Airlines B77W (N717AN),Landed 07:36,2021-05-09
+43,43,09:05 BA214,,Boston (BOS),British Airways B788 (G-ZBJC),Landed 08:23,2021-05-09
+44,44,09:05 EI154,,Dublin (DUB),Aer Lingus A21N (EI-LRE),Landed 08:30,2021-05-09
+45,45,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 08:39,2021-05-09
+46,46,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-NIS),Landed 08:32,2021-05-09
+47,47,09:05 VS699,,New York (JFK),Virgin Atlantic B789 (G-VSPY),Landed 07:59,2021-05-09
+48,48,09:10 AY1331,,Helsinki (HEL),Finnair A319 (OH-LVL),Landed 09:02,2021-05-09
+49,49,09:15 BA1439,,Edinburgh (EDI),British Airways A319 (G-EUPT),Landed 08:35,2021-05-09
+50,50,09:20 BA1491,,Glasgow (GLA),British Airways A20N (G-TTNH),Landed 08:56,2021-05-09
+51,51,09:23 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-GAAJ),Landed 08:11,2021-05-09
+52,52,09:25 DL20,,Seattle (SEA),Delta Air Lines B764 (N833MH),Unknown,2021-05-09
+53,53,09:35 VS454,,Tel Aviv (TLV),Virgin Atlantic B789 (G-VZIG),Landed 09:27,2021-05-09
+54,54,09:40 BA182,,New York (JFK),British Airways B772 (G-VIIN),Landed 08:37,2021-05-09
+55,55,09:42 AC7200,,Toronto (YYZ),Air Canada B77W (C-FIVS),Landed 09:25,2021-05-09
+56,56,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-JJH),Landed 09:22,2021-05-09
+57,57,09:52 BA9153,,Greenville-Spartanburg (GSP),British Airways B789 (G-ZBKM),Landed 09:39,2021-05-09
+58,58,09:55 BA98,,Toronto (YYZ),British Airways B788 (G-ZBJF),Landed 09:11,2021-05-09
+59,59,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VINE),Landed 09:30,2021-05-09
+60,60,10:15 SN2093,,Brussels (BRU),Brussels Airlines A320 (OO-SNK),Landed 09:51,2021-05-09
+61,61,10:20 AA728,,Philadelphia (PHL),American Airlines B772 (N768AA),Landed 09:36,2021-05-09
+62,62,10:20 TP1356,,Lisbon (LIS),TAP Air Portugal A20N (CS-TVD),Landed 09:57,2021-05-09
+63,63,10:25 BA208,,Miami (MIA),British Airways A35K (G-XWBD),Landed 09:45,2021-05-09
+64,64,10:40 AF1580,,Paris (CDG),Air France A320 (F-HEPE),Landed 10:19,2021-05-09
+65,65,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VWOO),Landed 10:49,2021-05-09
+66,66,10:45 BA292,,Washington (IAD),British Airways B789 (G-ZBKD),Unknown,2021-05-09
+67,67,10:45 KL1009,,Amsterdam (AMS),KLM B738 (PH-BXG),Landed 10:07,2021-05-09
+68,68,10:45 BA296,,Chicago (ORD),British Airways B789 (G-ZBKH),Landed 10:30,2021-05-09
+69,69,11:05 BA192,,Dallas (DFW),British Airways B78X (G-ZBLA),Landed 10:54,2021-05-09
+70,70,11:05,AZ202,Rome (FCO),Alitalia A320 (I-BIKD),Landed 10:33,2021-05-09
+71,71,11:15 LM553,,Darlington (MME),Loganair E145 (G-SAJG),Landed 10:52,2021-05-09
+72,72,11:15,ME201,Beirut (BEY),MEA A21N (T7-ME7),Landed 10:58,2021-05-09
+73,73,11:15 VS514H,,Atlanta (ATL),Virgin Atlantic B789 (G-VOWS),Landed 10:27,2021-05-09
+74,74,11:15,A3600,Athens (ATH),Aegean Airlines A21N (SX-NAA),Unknown,2021-05-09
+75,75,11:35,EY19,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMI),Landed 11:25,2021-05-09
+76,76,11:40 AA9715,,Chicago (ORD),American Airlines B788,Unknown,2021-05-09
+77,77,11:40,BA1385,Manchester (MAN),British Airways A21N (G-NEOW),Landed 11:17,2021-05-09
+78,78,11:50 BA3593,,Atlanta (ATL),British Airways B78X (G-ZBLB),Landed 11:03,2021-05-09
+79,79,11:55 FI450,,Reykjavik (KEF),Icelandair B763 (TF-ISW),Landed 11:28,2021-05-09
+80,80,12:05 SU2578,,Moscow (SVO),Aeroflot A320 (VQ-BTX),Landed 11:53,2021-05-09
+81,81,12:10,BA401,Cairo (CAI),British Airways B788 (G-ZBJA),Landed 11:40,2021-05-09
+82,82,12:10 IR711,,Tehran (IKA),Iran Air A332 (EP-IJB),Landed 12:15,2021-05-09
+83,83,12:10 QR8864,,Doha (DOH),Qatar Airways B789 (A7-BHF),Landed 11:50,2021-05-09
+84,84,12:15 BA827,,Dublin (DUB),British Airways A320 (G-EUYI),Landed 11:46,2021-05-09
+85,85,12:15 LX332,,Zurich (ZRH),Swiss A343 (HB-JMA),Landed 12:01,2021-05-09
+86,86,12:25 BA1327,,Newcastle (NCL),British Airways A319 (G-EUPG),Landed 12:08,2021-05-09
+87,87,12:30 JU380,,Belgrade (BEG),AirSERBIA A319 (YU-APB),Landed 11:58,2021-05-09
+88,88,12:30 VS522,,Dublin (DUB),Virgin Atlantic A35K (G-VDOT),Landed 12:21,2021-05-09
+89,89,12:40 BA1307,,Aberdeen (ABZ),British Airways A20N (G-TTNF),Landed 12:24,2021-05-09
+90,90,12:45 BA256,,Delhi (DEL),British Airways B789 (G-ZBKL),Landed 12:18,2021-05-09
+91,91,12:45 BA919,,Stuttgart (STR),British Airways B789 (G-ZBKP),Landed 12:03,2021-05-09
+92,92,12:50 AA156,,Seattle (SEA),American Airlines B772 (N776AN),Landed 12:30,2021-05-09
+93,93,12:55 BA777,,Stockholm (ARN),British Airways A320 (G-EUYP),Landed 13:12,2021-05-09
+94,94,12:55 BA1443,,Edinburgh (EDI),British Airways A20N (G-TTNM),Landed 12:37,2021-05-09
+95,95,13:05 EI712,,Cork (ORK),Aer Lingus A320 (EI-EDS),Landed 12:44,2021-05-09
+96,96,13:10 BA118,,Bengaluru (BLR),British Airways B77W (G-STBE),Landed 13:07,2021-05-09
+97,97,13:15 AA134,,Los Angeles (LAX),American Airlines B772 (N774AN),Landed 14:50,2021-05-09
+98,98,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BEP),Landed 13:03,2021-05-09
+99,99,13:25 AA9707,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-09
+100,100,13:25 BA907,,Frankfurt (FRA),British Airways B788 (G-ZBJH),Landed 12:34,2021-05-09
+101,101,13:30 MF8711,,Xiamen (XMN),Xiamen Air B788 (B-2760),Landed 15:03,2021-05-09
+102,102,13:30 VS510,,Milan (MXP),Virgin Atlantic A333 (G-VWAG),Landed 13:43,2021-05-09
+103,103,13:35 LY315,,Tel Aviv (TLV),El Al Israel Airlines (Retro Livery) B789 (4X-EDF),Landed 12:52,2021-05-09
+104,104,13:35 MS777,,Cairo (CAI),EgyptAir B789 (SU-GET),Landed 13:19,2021-05-09
+105,105,13:40 BA1483,,Glasgow (GLA),British Airways A319 (G-DBCH),Landed 13:17,2021-05-09
+106,106,13:45 BA729,,Geneva (GVA),British Airways A320 (G-EUYR),Landed 13:29,2021-05-09
+107,107,13:45 KU103,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-09
+108,108,13:45 KU901,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-09
+109,109,13:45 BA286,,San Francisco (SFO),British Airways B77W (G-STBO),Landed 13:46,2021-05-09
+110,110,14:10 BA2773,,Jersey (JER),British Airways A319 (G-EUPT),Landed 14:02,2021-05-09
+111,111,14:10 QR7,,Doha (DOH),Qatar Airways 77W,Unknown,2021-05-09
+112,112,14:10 QR8856,,Doha (DOH),Qatar Airways B789 (A7-BHC),Landed 13:56,2021-05-09
+113,113,14:15 VS24,,Los Angeles (LAX),Virgin Atlantic A35K (G-VLUX),Landed 14:18,2021-05-09
+114,114,14:20 EI932,,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 14:05,2021-05-09
+115,115,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIIC),Landed 14:21,2021-05-09
+116,116,14:35 SK805,,Oslo (OSL),SAS A20N (SE-RUA),Landed 14:44,2021-05-09
+117,117,14:40 BA104,,Dubai (DXB),British Airways 77F,Unknown,2021-05-09
+118,118,14:45 BA969,,Hamburg (HAM),British Airways A20N (G-TTNG),Landed 14:26,2021-05-09
+119,119,14:45 BA917,,Stuttgart (STR),British Airways B789 (G-ZBKR),Landed 13:59,2021-05-09
+120,120,14:46 P35294,,Atlanta (ATL),CargoLogicAir B744 (G-CLAA),Landed 14:39,2021-05-09
+121,121,15:25 BA1445,,Edinburgh (EDI),British Airways A20N (G-TTNJ),Landed 14:59,2021-05-09
+122,122,15:25 RJ111,,Amman (AMM),Royal Jordanian B788 (JY-BAH),Landed 15:06,2021-05-09
+123,123,15:30 BA242,,Mexico City (MEX),British Airways B789 (G-ZBKI),Landed 14:53,2021-05-09
+124,124,15:30 A3602,,Athens (ATH),Aegean Airlines A21N (SX-NAB),Unknown,2021-05-09
+125,125,15:40 SQ308,,Singapore (SIN),Singapore Airlines A359 (9V-SMO),Landed 15:25,2021-05-09
+126,126,15:45,BA1487,Glasgow (GLA),British Airways A320 (G-EUUU),Landed 15:23,2021-05-09
+127,127,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA881J),Landed 15:10,2021-05-09
+128,128,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKS),Landed 15:27,2021-05-09
+129,129,16:00,EI168,Dublin (DUB),Aer Lingus A320 (EI-DEN),Landed 15:41,2021-05-09
+130,130,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IMO),Landed 15:38,2021-05-09
+131,131,16:05,BA1309,Aberdeen (ABZ),British Airways A20N (G-TTNH),Landed 15:55,2021-05-09
+132,132,16:05 TK1971,,Istanbul (IST),Turkish Airlines B77W (TC-LJK),Landed 15:35,2021-05-09
+133,133,16:15,KL1021,Amsterdam (AMS),KLM B737 (PH-BGH),Landed 16:07,2021-05-09
+134,134,16:20 BG1,,Dhaka (DAC),Biman Bangladesh Airlines B788 (S2-AJT),Landed 16:16,2021-05-09
+135,135,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VGEM),Landed 15:43,2021-05-09
+136,136,16:25,AF1280,Paris (CDG),Air France A319 (F-GRHH),Landed 16:24,2021-05-09
+137,137,16:25 EW9464,,Dusseldorf (DUS),Eurowings A320 (D-AIZU),Landed 15:53,2021-05-09
+138,138,16:25 BA168,,Shanghai (PVG),British Airways B772 (G-YMMH),Landed 16:31,2021-05-09
+139,139,16:40,LH914,Frankfurt (FRA),Lufthansa A20N (D-AINE),Landed 16:55,2021-05-09
+140,140,17:00,SK527,Stockholm (ARN),SAS A20N (SE-DYD),Landed 17:05,2021-05-09
+141,141,17:05,AY1337,Helsinki (HEL),Finnair A319 (OH-LVH),Landed 17:12,2021-05-09
+142,142,17:15,IB3166,Madrid (MAD),Iberia A359 (EC-NIS),Landed 19:49,2021-05-09
+143,143,17:15,LO279,Warsaw (WAW),LOT B38M (SP-LVB),Landed 17:33,2021-05-09
+144,144,17:25,BA953,Munich (MUC),British Airways A21N (G-NEOW),Landed 17:26,2021-05-09
+145,145,17:30,BA985,Berlin (BER),British Airways A21N (G-NEOZ),Landed 17:20,2021-05-09
+146,146,17:40 MK15,,Paris (CDG),Air Mauritius A359 (3B-NCE),Landed 17:37,2021-05-09
+147,147,17:45,BA491,Gibraltar (GIB),British Airways A320 (G-EUYA),Canceled,2021-05-09
+148,148,17:45,TP1350,Lisbon (LIS),TAP Air Portugal A20N (CS-TVD),Landed 17:17,2021-05-09
+149,149,17:50 BA627,,Athens (ATH),British Airways 77F,Unknown,2021-05-09
+150,150,17:55 LX326,,Zurich (ZRH),Swiss BCS1 (HB-JBD),Landed 17:34,2021-05-09
+151,151,18:00 AZ250,,Milan (LIN),Alitalia A320 (EI-DTD),Landed 17:29,2021-05-09
+152,152,18:05 EW2464,,Stuttgart (STR),Eurowings 319,Unknown,2021-05-09
+153,153,18:10 0B1431,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 17:50,2021-05-09
+154,154,18:15 BA10,,Bangkok (BKK),British Airways B789 (G-ZBKE),Landed 17:30,2021-05-09
+155,155,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBL),Landed 18:16,2021-05-09
+156,156,18:25 BA559,,Rome (FCO),British Airways A320 (G-EUYM),Landed 17:58,2021-05-09
+157,157,18:25,BA579,Venice (VCE),British Airways A320 (G-EUYI),Landed 17:55,2021-05-09
+158,158,18:25,BA1417,Belfast (BHD),British Airways A319 (G-DBCH),Landed 18:10,2021-05-09
+159,159,18:25 BA881,,Moscow (DME),British Airways B788 (G-ZBJD),Landed 18:14,2021-05-09
+160,160,18:35,BA1391,Manchester (MAN),British Airways A21N (G-NEOX),Landed 18:22,2021-05-09
+161,161,18:35,LM677,Isle of Man (IOM),Loganair AT45 (G-LMRA),Landed 18:29,2021-05-09
+162,162,18:35 QR8878,,Doha (DOH),Qatar Airways B789 (A7-BHE),Landed 18:27,2021-05-09
+163,163,18:40,EI936,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 18:19,2021-05-09
+164,164,18:45 EW7460,,Hamburg (HAM),Eurowings A319 (D-AGWV),Unknown,2021-05-09
+165,165,18:50 EY17,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLA),Landed 18:59,2021-05-09
+166,166,18:55,BA637,Athens (ATH),British Airways B788 (G-ZBJG),Landed 18:40,2021-05-09
+167,167,18:55,OS455,Vienna (VIE),Austrian Airlines A320 (OE-LBI),Landed 19:16,2021-05-09
+168,168,19:10 LM559,,Darlington (MME),Loganair E145 (G-SAJG),Landed 18:57,2021-05-09
+169,169,19:20 VS506,,Brussels (BRU),Virgin Atlantic A35K (G-VRNB),Landed 18:49,2021-05-09
+170,170,19:30,SK1507,Copenhagen (CPH),SAS A20N (SE-ROD),Landed 19:12,2021-05-09
+171,171,19:35 BA441,,Amsterdam (AMS),British Airways A319 (G-EUPT),Landed 19:19,2021-05-09
+172,172,19:40,BA481,Barcelona (BCN),British Airways A20N (G-TTNM),Landed 19:29,2021-05-09
+173,173,19:50,EI178,Dublin (DUB),Aer Lingus A333 (EI-EIN),Landed 19:27,2021-05-09
+174,174,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKF),Landed 21:21,2021-05-09
+175,175,20:20,BA569,Milan (LIN),British Airways A320 (G-EUYR),Landed 19:58,2021-05-09
+176,176,20:20 VS686Q,,New York (JFK),Virgin Atlantic B789 (G-VWHO),Landed 19:25,2021-05-09
+177,177,20:25,QR15,Doha (DOH),Qatar Airways 77W,Unknown,2021-05-09
+178,178,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BEL),Landed 20:06,2021-05-09
+179,179,20:45,TK1983,Istanbul (IST),Turkish Airlines A21N (TC-LSG),Landed 20:18,2021-05-09
+180,180,21:00 VS239,,Hong Kong (HKG),Virgin Atlantic B789 (G-VDIA),Landed 21:03,2021-05-09
+181,181,21:20,AF1380,Paris (CDG),Air France A320 (F-HZFM),Landed 20:40,2021-05-09
+182,182,22:10,LH922,Frankfurt (FRA),Lufthansa A20N (D-AINL),Landed 22:24,2021-05-09
+183,183,22:45,BA455,Malaga (AGP),British Airways A20N (G-TTNG),Landed 22:02,2021-05-09
+0,0,05:05 QF109,,Darwin (DRW),Qantas 789,Canceled,2021-05-10
+1,1,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBK),Landed 05:15,2021-05-10
+2,2,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMU),Landed 05:13,2021-05-10
+3,3,05:50 BA12,,Singapore (SIN),British Airways B77W (G-STBN),Landed 05:39,2021-05-10
+4,4,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMS),Landed 05:30,2021-05-10
+5,5,06:20 AA100,,New York (JFK),American Airlines B77W (N722AN),Landed 06:05,2021-05-10
+6,6,06:25 AA50,,Dallas (DFW),American Airlines B77W (N730AN),Landed 06:13,2021-05-10
+7,7,06:30 BA254,,Bridgetown (BGI),British Airways B772 (G-VIIB),Landed 06:34,2021-05-10
+8,8,06:30 BA34,,Kuala Lumpur (KUL),British Airways B789 (G-ZBKB),Landed 06:22,2021-05-10
+9,9,06:40 BA258,,Lahore (LHE),British Airways B788 (G-ZBJB),Landed 06:55,2021-05-10
+10,10,06:45 UA918,,Washington (IAD),United Airlines B763 (N675UA),Landed 06:51,2021-05-10
+11,11,06:50 AA86,,Chicago (ORD),American Airlines B788 (N802AN),Landed 06:17,2021-05-10
+12,12,06:50 QR9,,Doha (DOH),Qatar Airways (Oneworld Livery) B77W (A7-BAG),Landed 06:37,2021-05-10
+13,13,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBE),Landed 06:30,2021-05-10
+14,14,06:55 GF7,,Bahrain (BAH),Gulf Air B789 (A9C-FA),Unknown,2021-05-10
+15,15,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBG),Landed 06:09,2021-05-10
+16,16,07:05 DL32,,Atlanta (ATL),Delta Air Lines A332 (N856NW),Landed 06:58,2021-05-10
+17,17,07:05 EY11,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMI),Landed 07:02,2021-05-10
+18,18,07:05 VS606N,,New York (JFK),Virgin Atlantic A35K (G-VPOP),Landed 06:25,2021-05-10
+19,19,07:10 UA14,,New York (EWR),United Airlines B78X (N17002),Landed 07:20,2021-05-10
+20,20,07:10 UL503,,Colombo (CMB),SriLankan Airlines A333 (4R-ALP),Landed 06:59,2021-05-10
+21,21,07:20 VS365,,Lahore (LHE),Virgin Atlantic B789 (G-VYUM),Landed 07:35,2021-05-10
+22,22,07:25 BA194,,Houston (IAH),British Airways B788 (G-ZBJI),Landed 06:53,2021-05-10
+23,23,07:25 EW9468,,Dusseldorf (DUS),Eurowings A319 (D-ABGN),Unknown,2021-05-10
+24,24,07:30 AI161,,Delhi (DEL),Air India B788 (VT-ANB),Landed 06:27,2021-05-10
+25,25,07:35 LX316,,Zurich (ZRH),Edelweiss Air A343 (HB-JMF),Landed 07:24,2021-05-10
+26,26,07:35 BA54,,Johannesburg (JNB),British Airways B77W (G-STBA),Landed 07:10,2021-05-10
+27,27,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N767AJ),Landed 07:04,2021-05-10
+28,28,07:40 UA931,,Chicago (ORD),United Airlines B789 (N29961),Landed 07:29,2021-05-10
+29,29,07:50 MS530,,Cairo (CAI),EgyptAir ABF,Unknown,2021-05-10
+30,30,08:05 EW7464,,Hamburg (HAM),Eurowings A319 (D-AGWU),Landed 07:33,2021-05-10
+31,31,08:05 LM551,,Darlington (MME),Loganair E145 (G-SAJG),Landed 07:57,2021-05-10
+32,32,08:05 LM671,,Isle of Man (IOM),Loganair E145 (G-SAJL),Landed 07:50,2021-05-10
+33,33,08:10 DL1,,New York (JFK),Delta Air Lines B764 (N834MH),Landed 08:10,2021-05-10
+34,34,08:20 OS451,,Vienna (VIE),Austrian Airlines A320 (OE-LZF),Landed 08:00,2021-05-10
+35,35,08:20 BA116,,New York (JFK),British Airways B77W (G-STBP),Landed 07:27,2021-05-10
+36,36,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBF),Landed 07:06,2021-05-10
+37,37,08:25 0B1331,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 07:53,2021-05-10
+38,38,08:30 BA1301,,Aberdeen (ABZ),British Airways A319 (G-EUPG),Landed 08:03,2021-05-10
+39,39,08:30 BA1475,,Glasgow (GLA),British Airways A320 (G-EUYE),Landed 08:05,2021-05-10
+40,40,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FVND),Landed 08:37,2021-05-10
+41,41,08:35 VS699,,New York (JFK),Virgin Atlantic B789 (G-VAHH),Landed 07:54,2021-05-10
+42,42,08:40 LH900,,Frankfurt (FRA),Lufthansa A20N (D-AINP),Landed 08:40,2021-05-10
+43,43,08:55 SK501,,Copenhagen (CPH),SAS A20N (SE-ROD),Landed 08:34,2021-05-10
+44,44,09:00 AA38,,Miami (MIA),American Airlines B77W (N729AN),Landed 08:13,2021-05-10
+45,45,09:00 KL1007,,Amsterdam (AMS),KLM B738 (PH-BXH),Landed 09:23,2021-05-10
+46,46,09:05 BA214,,Boston (BOS),British Airways B788 (G-ZBJC),Landed 08:29,2021-05-10
+47,47,09:05 EI154,,Dublin (DUB),Aer Lingus A21N (EI-LRD),Landed 08:36,2021-05-10
+48,48,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVN),Landed 09:12,2021-05-10
+49,49,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-NIS),Landed 08:24,2021-05-10
+50,50,09:09 AC7200,,Toronto (YYZ),Air Canada B77W (C-FIVS),Landed 09:47,2021-05-10
+51,51,09:10 AY1331,,Helsinki (HEL),Finnair E190 (OH-LKP),Landed 08:54,2021-05-10
+52,52,09:10 LO281,,Warsaw (WAW),LOT (Independence Livery) B38M (SP-LVD),Landed 08:56,2021-05-10
+53,53,09:20 UA2788,,New York (EWR),United Airlines B772 (N78001),Landed 09:01,2021-05-10
+54,54,09:30 BA1461,,Edinburgh (EDI),British Airways A20N (G-TTNJ),Landed 09:04,2021-05-10
+55,55,09:40 BA182,,New York (JFK),British Airways B772 (G-VIIK),Landed 08:59,2021-05-10
+56,56,09:45 KM100,,Luqa (MLA),Air Malta A20N (9H-NEO),Landed 09:10,2021-05-10
+57,57,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-JJM),Landed 09:14,2021-05-10
+58,58,09:55 BA98,,Toronto (YYZ),British Airways B788 (G-ZBJA),Landed 09:17,2021-05-10
+59,59,09:55 LH2472,,Munich (MUC),Lufthansa A20N (D-AINZ),Landed 09:44,2021-05-10
+60,60,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VWAG),Landed 09:39,2021-05-10
+61,61,10:07 BA9153,,Greenville-Spartanburg (GSP),British Airways B789 (G-ZBKP),Landed 09:06,2021-05-10
+62,62,10:15 SN2093,,Brussels (BRU),Brussels Airlines A320 (OO-TCH),Landed 10:01,2021-05-10
+63,63,10:20 AA728,,Philadelphia (PHL),American Airlines (Oneworld Livery) B772 (N796AN),Landed 09:25,2021-05-10
+64,64,10:25 BA208,,Miami (MIA),British Airways A35K (G-XWBA),Landed 09:36,2021-05-10
+65,65,10:40 AF1580,,Paris (CDG),Air France A319 (F-GRHS),Landed 10:41,2021-05-10
+66,66,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VCRU),Landed 10:39,2021-05-10
+67,67,10:45 BA292,,Washington (IAD),British Airways B789 (G-ZBKG),Landed 10:09,2021-05-10
+68,68,10:45 BA296,,Chicago (ORD),British Airways B789 (G-ZBKH),Landed 10:12,2021-05-10
+69,69,10:55 PS117,,Kyiv (KBP),Ukraine International Airlines B738 (UR-PSP),Landed 10:55,2021-05-10
+70,70,11:00 VS104,,Atlanta (ATL),Virgin Atlantic B789 (G-VZIG),Landed 10:49,2021-05-10
+71,71,11:05 BA192,,Dallas (DFW),British Airways B789 (G-ZBKN),Landed 10:57,2021-05-10
+72,72,11:05 AZ202,,Rome (FCO),Alitalia A319 (EI-IMS),Landed 10:34,2021-05-10
+73,73,11:10 EI158,,Dublin (DUB),Aer Lingus A320 (EI-DVE),Landed 10:44,2021-05-10
+74,74,11:25 AC7202,,Vancouver (YVR),Air Canada B789 (C-FGEO),Landed 11:03,2021-05-10
+75,75,11:35 EY19,,Abu Dhabi (AUH),Etihad (Greenliner Livery) B78X (A6-BMH),Landed 11:22,2021-05-10
+76,76,11:45 BA1441,,Edinburgh (EDI),British Airways A21N (G-NEOY),Landed 11:10,2021-05-10
+77,77,11:50 BA3593,,Atlanta (ATL),British Airways B789 (G-ZBKR),Landed 11:00,2021-05-10
+78,78,12:00 VS594,,Los Angeles (LAX),Virgin Atlantic A35K (G-VTEA),Landed 11:26,2021-05-10
+79,79,12:05 BA1385,,Manchester (MAN),British Airways A21N (G-NEOW),Landed 11:37,2021-05-10
+80,80,12:05 SU2578,,Moscow (SVO),Aeroflot A320 (VQ-BEH),Landed 11:52,2021-05-10
+81,81,12:10 BA1479,,Glasgow (GLA),British Airways A21N (G-NEOX),Landed 11:47,2021-05-10
+82,82,12:10 QR8890,,Doha (DOH),Qatar Airways B789 (A7-BHA),Landed 11:50,2021-05-10
+83,83,12:30 BA1423,,Belfast (BHD),British Airways A20N (G-TTNM),Landed 12:00,2021-05-10
+84,84,12:40 BA48,,Seattle (SEA),British Airways B789 (G-ZBKO),Landed 12:09,2021-05-10
+85,85,12:40 BA1307,,Aberdeen (ABZ),British Airways A20N (G-TTNG),Landed 12:19,2021-05-10
+86,86,12:45 BA256,,Delhi (DEL),British Airways 77F,Unknown,2021-05-10
+87,87,12:50 AA9817,,Dallas (DFW),American Airlines B772 (N765AN),Landed 11:55,2021-05-10
+88,88,13:05 BA118,,Bengaluru (BLR),British Airways 77F,Unknown,2021-05-10
+89,89,13:10 BA1327,,Newcastle (NCL),British Airways A319 (G-EUPM),Landed 12:42,2021-05-10
+90,90,13:10 LX332,,Zurich (ZRH),Swiss BCS1 (HB-JBD),Landed 13:22,2021-05-10
+91,91,13:15 AA134,,Los Angeles (LAX),American Airlines B77W (N723AN),Landed 12:37,2021-05-10
+92,92,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BEK),Landed 13:06,2021-05-10
+93,93,13:25 AA9707,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-10
+94,94,13:30 MF8711,,Xiamen (XMN),Xiamen Air B788 (B-2762),Landed 14:02,2021-05-10
+95,95,13:35 LY315,,Tel Aviv (TLV),El Al Israel Airlines B788 (4X-ERB),Landed 12:51,2021-05-10
+96,96,13:35 MS777,,Cairo (CAI),EgyptAir B77W (SU-GDM),Landed 12:58,2021-05-10
+97,97,13:45 BA286,,San Francisco (SFO),British Airways B77W (G-STBB),Landed 13:30,2021-05-10
+98,98,14:05 RO391,,Bucharest (OTP),Tarom A318 (YR-ASD),Landed 13:27,2021-05-10
+99,99,14:10 QR7,,Doha (DOH),Qatar Airways 77W,Unknown,2021-05-10
+100,100,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BEV),Landed 17:00,2021-05-10
+101,101,14:15 VS24,,Los Angeles (LAX),Virgin Atlantic A35K (G-VJAM),Landed 14:08,2021-05-10
+102,102,14:20 EI932,,Belfast (BHD),Aer Lingus A320 (EI-DVN),Landed 14:05,2021-05-10
+103,103,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIIN),Landed 14:11,2021-05-10
+104,104,14:35 SK805,,Oslo (OSL),SAS A20N (SE-RUA),Landed 14:51,2021-05-10
+105,105,14:40 BA104,,Dubai (DXB),British Airways B788 (G-ZBJF),Landed 14:54,2021-05-10
+106,106,14:45 VS637,,Hong Kong (HKG),Virgin Atlantic B789 (G-VFAN),Landed 13:43,2021-05-10
+107,107,14:50 BA815,,Copenhagen (CPH),British Airways A319 (G-EUPY),Landed 14:17,2021-05-10
+108,108,14:55 BA347,,Nice (NCE),British Airways A320 (G-EUYA),Landed 14:44,2021-05-10
+109,109,15:10 BA2773,,Jersey (JER),British Airways A319 (G-EUPG),Landed 14:46,2021-05-10
+110,110,15:25,BA1445,Edinburgh (EDI),British Airways A20N (G-TTNJ),Landed 15:24,2021-05-10
+111,111,15:30,BA242,Mexico City (MEX),British Airways B789 (G-ZBKK),Landed 15:01,2021-05-10
+112,112,15:30,A3602,Athens (ATH),Aegean Airlines A21N (SX-NAA),Landed 14:56,2021-05-10
+113,113,15:33 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-GAJG),Landed 14:39,2021-05-10
+114,114,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SMQ),Landed 15:05,2021-05-10
+115,115,15:45,BA1487,Glasgow (GLA),British Airways A20N (G-TTNH),Landed 15:21,2021-05-10
+116,116,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA882J),Landed 15:27,2021-05-10
+117,117,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKM),Landed 15:38,2021-05-10
+118,118,15:55,BA1309,Aberdeen (ABZ),British Airways A319 (G-EUPK),Landed 15:47,2021-05-10
+119,119,16:00,EI712,Cork (ORK),Aer Lingus A320 (EI-DEL),Landed 15:40,2021-05-10
+120,120,16:00 SV115,,Riyadh (RUH),Saudia B789 (HZ-ARA),Landed 15:43,2021-05-10
+121,121,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IMN),Landed 15:49,2021-05-10
+122,122,16:05 TK1971,,Istanbul (IST),Turkish Airlines B77W (TC-JJP),Landed 15:55,2021-05-10
+123,123,16:15,KL1021,Amsterdam (AMS),KLM B737 (PH-BGT),Landed 16:06,2021-05-10
+124,124,16:20 NH211,,Tokyo (HND),All Nippon Airways B77W (JA794A),Landed 16:02,2021-05-10
+125,125,16:20,VS301,Delhi (DEL),Virgin Atlantic B789 (G-VBEL),Landed 15:29,2021-05-10
+126,126,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VINE),Landed 15:34,2021-05-10
+127,127,16:25,AF1280,Paris (CDG),Air France A318 (F-GUGO),Landed 16:26,2021-05-10
+128,128,16:25 BA168,,Shanghai (PVG),British Airways (GREAT Festival of Creativity) B772 (G-YMML),Landed 16:28,2021-05-10
+129,129,16:40,LH914,Frankfurt (FRA),Lufthansa A20N (D-AINY),Landed 16:17,2021-05-10
+130,130,17:00,SK527,Stockholm (ARN),SAS A20N (SE-DYM),Landed 16:46,2021-05-10
+131,131,17:05,AY1337,Helsinki (HEL),Finnair A319 (OH-LVL),Landed 16:56,2021-05-10
+132,132,17:15,IB3166,Madrid (MAD),Iberia A332 (EC-MKI),Landed 16:39,2021-05-10
+133,133,17:25,BA6,Tokyo (HND),British Airways B789 (G-ZBKD),Landed 17:16,2021-05-10
+134,134,17:25 KE907,,Seoul (ICN),Korean Air B77W (HL7203),Unknown,2021-05-10
+135,135,17:45,TP1350,Lisbon (LIS),TAP Air Portugal A20N (CS-TVG),Landed 17:14,2021-05-10
+136,136,18:00 AZ250,,Milan (LIN),Alitalia A319 (EI-IME),Landed 17:23,2021-05-10
+137,137,18:05 0B1431,,Bucharest (OTP),Blue Air 738,Unknown,2021-05-10
+138,138,18:15 BA10,,Bangkok (BKK),British Airways 77F,Unknown,2021-05-10
+139,139,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBM),Landed 18:43,2021-05-10
+140,140,18:25,BA1417,Belfast (BHD),British Airways A319 (G-DBCH),Landed 18:04,2021-05-10
+141,141,18:35 QR8878,,Doha (DOH),Qatar Airways B789 (A7-BHB),Landed 17:53,2021-05-10
+142,142,18:50 EY17,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNB),Landed 18:33,2021-05-10
+143,143,19:15,OU490,Zagreb (ZAG),Croatia Airlines (Star Alliance Livery) A319 (9A-CTI),Landed 18:56,2021-05-10
+144,144,19:20,EI178,Dublin (DUB),Aer Lingus A333 (EI-DUZ),Landed 19:03,2021-05-10
+145,145,19:20 VS506,,Brussels (BRU),Virgin Atlantic 330,Unknown,2021-05-10
+146,146,19:25 BA28,,Hong Kong (HKG),British Airways B77W (G-STBI),Landed 18:59,2021-05-10
+147,147,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKL),Landed 19:23,2021-05-10
+148,148,20:05,VS26,New York (JFK),Virgin Atlantic B789 (G-VOWS),Landed 19:48,2021-05-10
+149,149,20:15,BA987,Berlin (BER),British Airways A319 (G-EUPY),Landed 19:53,2021-05-10
+150,150,20:25,QR15,Doha (DOH),Qatar Airways 77W,Unknown,2021-05-10
+151,151,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BEX),Landed 20:27,2021-05-10
+152,152,20:30,BA621,Larnaca (LCA),British Airways B788 (G-ZBJG),Landed 19:39,2021-05-10
+153,153,20:45,TK1983,Istanbul (IST),Turkish Airlines A21N (TC-LSJ),Landed 20:19,2021-05-10
+154,154,20:55,KL1033,Amsterdam (AMS),KLM B737 (PH-BGH),Landed 20:30,2021-05-10
+155,155,21:20,AF1380,Paris (CDG),Air France A318 (F-GUGA),Landed 20:51,2021-05-10
+0,0,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBH),Landed 05:04,2021-05-11
+1,1,05:40 CX251,,Hong Kong (HKG),Cathay Pacific A35K (B-LXC),Landed 05:23,2021-05-11
+2,2,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMU),Landed 05:07,2021-05-11
+3,3,05:50 BA12,,Singapore (SIN),British Airways B77W (G-STBO),Landed 05:39,2021-05-11
+4,4,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMO),Landed 05:35,2021-05-11
+5,5,06:15 BA124,,Bahrain (BAH),British Airways B788 (G-ZBJC),Landed 06:06,2021-05-11
+6,6,06:20 AA100,,New York (JFK),American Airlines B77W (N730AN),Landed 06:03,2021-05-11
+7,7,06:25 AA50,,Dallas (DFW),American Airlines B77W (N731AN),Landed 06:07,2021-05-11
+8,8,06:45 UA918,,Washington (IAD),United Airlines B763 (N641UA),Landed 07:03,2021-05-11
+9,9,06:45 BA66,,Philadelphia (PHL),British Airways B788 (G-ZBJE),Landed 06:12,2021-05-11
+10,10,06:50 AA86,,Chicago (ORD),American Airlines B788 (N802AN),Landed 06:20,2021-05-11
+11,11,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBE),Landed 06:23,2021-05-11
+12,12,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBJ),Landed 06:47,2021-05-11
+13,13,06:55 VS12,,Boston (BOS),Virgin Atlantic B789 (G-VYUM),Landed 06:17,2021-05-11
+14,14,07:00 QR9,,Doha (DOH),Qatar Airways B77W (A7-BEW),Landed 06:58,2021-05-11
+15,15,07:05 DL32,,Atlanta (ATL),Delta Air Lines A332 (N856NW),Landed 07:11,2021-05-11
+16,16,07:05 EY11,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMF),Landed 06:51,2021-05-11
+17,17,07:05 VS606N,,New York (JFK),Virgin Atlantic A35K (G-VPRD),Landed 06:10,2021-05-11
+18,18,07:10 UA14,,New York (EWR),United Airlines B78X (N12012),Landed 06:33,2021-05-11
+19,19,07:10 SK501,,Copenhagen (CPH),SAS A333 (LN-RKN),Landed 06:42,2021-05-11
+20,20,07:15 VS355,,Mumbai (BOM),Virgin Atlantic A35K (G-VLUX),Landed 06:53,2021-05-11
+21,21,07:25 EW9468,,Dusseldorf (DUS),Eurowings A319 (D-ABGN),Landed 07:01,2021-05-11
+22,22,07:35 BA54,,Johannesburg (JNB),British Airways B772 (G-YMMI),Landed 06:56,2021-05-11
+23,23,07:40 AA730,,Charlotte (CLT),American Airlines B772 (N794AN),Landed 07:26,2021-05-11
+24,24,07:40 UA931,,Chicago (ORD),United Airlines B789 (N29975),Landed 07:34,2021-05-11
+25,25,07:40 VS379,,Islamabad (ISB),Virgin Atlantic B789 (G-VBZZ),Landed 06:36,2021-05-11
+26,26,08:05 LM551,,Darlington (MME),Loganair E145 (G-SAJG),Landed 07:44,2021-05-11
+27,27,08:10 DL1,,New York (JFK),Delta Air Lines (BCRF Livery) B764 (N845MH),Landed 07:41,2021-05-11
+28,28,08:10 VS526,,Miami (MIA),Virgin Atlantic B789 (G-VDIA),Landed 07:39,2021-05-11
+29,29,08:20 BA116,,New York (JFK),British Airways B77W (G-STBP),Landed 07:37,2021-05-11
+30,30,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBF),Landed 07:29,2021-05-11
+31,31,08:25 0B1331,,Bucharest (OTP),Blue Air B735 (YR-AME),Landed 08:03,2021-05-11
+32,32,08:30 BA1301,,Aberdeen (ABZ),British Airways A319 (G-EUPM),Landed 07:55,2021-05-11
+33,33,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FVNB),Landed 08:42,2021-05-11
+34,34,08:35 BA1475,,Glasgow (GLA),British Airways A21N (G-NEOY),Landed 08:08,2021-05-11
+35,35,08:40 LH900,,Frankfurt (FRA),Lufthansa A20N (D-AIJE),Landed 08:48,2021-05-11
+36,36,09:00 AA38,,Miami (MIA),American Airlines B77W (N726AN),Landed 08:24,2021-05-11
+37,37,09:00 KL1007,,Amsterdam (AMS),KLM B738 (PH-BXL),Landed 08:45,2021-05-11
+38,38,09:05 BA214,,Boston (BOS),British Airways B789 (G-ZBKR),Landed 08:27,2021-05-11
+39,39,09:05 EI154,,Dublin (DUB),Aer Lingus A320 (EI-DVJ),Landed 08:26,2021-05-11
+40,40,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 08:36,2021-05-11
+41,41,09:05,,Madrid (MAD),- A359 (EC-NIS),Landed 08:29,2021-05-11
+42,42,09:10 AY1331,,Helsinki (HEL),Finnair E190 (OH-LKG),Diverted to HEL,2021-05-11
+43,43,09:30 BA1461,,Edinburgh (EDI),British Airways A20N (G-TTNM),Landed 08:58,2021-05-11
+44,44,09:35 VS454,,Tel Aviv (TLV),Virgin Atlantic B789 (G-VNYL),Landed 09:01,2021-05-11
+45,45,09:40 BA182,,New York (JFK),British Airways B772 (G-YMMJ),Landed 09:03,2021-05-11
+46,46,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-JJF),Landed 09:08,2021-05-11
+47,47,09:55 BA98,,Toronto (YYZ),British Airways B788 (G-ZBJI),Landed 09:26,2021-05-11
+48,48,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VWAG),Landed 09:20,2021-05-11
+49,49,10:09,,Washington (IAD),- B789 (G-ZBKH),Landed 10:04,2021-05-11
+50,50,10:15 SN2093,,Brussels (BRU),Brussels Airlines A320 (OO-SNL),Landed 10:38,2021-05-11
+51,51,10:20 AA728,,Philadelphia (PHL),American Airlines B772 (N782AN),Landed 09:45,2021-05-11
+52,52,10:25 BA208,,Miami (MIA),British Airways A35K (G-XWBB),Landed 09:35,2021-05-11
+53,53,10:40 AF1580,,Paris (CDG),Air France A320 (F-HEPF),Landed 10:43,2021-05-11
+54,54,10:40 VS540,,Chicago (ORD),Virgin Atlantic B789 (G-VOOH),Landed 10:20,2021-05-11
+55,55,10:45 BA292,,Washington (IAD),British Airways B789 (G-ZBKH),Unknown,2021-05-11
+56,56,10:45 BA296,,Chicago (ORD),British Airways A35K (G-XWBH),Landed 10:08,2021-05-11
+57,57,11:05 BA192,,Dallas (DFW),British Airways B78X (G-ZBLA),Landed 12:11,2021-05-11
+58,58,11:15 ME201,,Beirut (BEY),MEA A21N (T7-ME3),Landed 10:48,2021-05-11
+59,59,11:15 VS514H,,Atlanta (ATL),Virgin Atlantic B789 (G-VAHH),Landed 10:27,2021-05-11
+60,60,11:30 AI131,,Mumbai (BOM),Air India B788 (VT-ANG),Landed 11:21,2021-05-11
+61,61,11:35 EY19,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMI),Landed 12:14,2021-05-11
+62,62,11:40 AA9715,,Chicago (ORD),American Airlines B788,Unknown,2021-05-11
+63,63,11:40 BA1385,,Manchester (MAN),British Airways A20N (G-TTNH),Landed 11:19,2021-05-11
+64,64,11:50 BA1441,,Edinburgh (EDI),British Airways A320 (G-EUYX),Landed 11:15,2021-05-11
+65,65,11:55 FI450,,Reykjavik (KEF),Icelandair B38M (TF-ICN),Landed 11:34,2021-05-11
+66,66,12:05 SU2578,,Moscow (SVO),Aeroflot A321 (VQ-BEG),Landed 11:31,2021-05-11
+67,67,12:10 BA565,,Milan (LIN),British Airways A319 (G-EUPT),Landed 11:42,2021-05-11
+68,68,12:10 QR8890,,Doha (DOH),Qatar Airways B789 (A7-BHA),Landed 11:45,2021-05-11
+69,69,12:25 BA1479,,Glasgow (GLA),British Airways A21N (G-NEOW),Landed 12:00,2021-05-11
+70,70,12:40 BA48,,Seattle (SEA),British Airways B789 (G-ZBKO),Landed 12:21,2021-05-11
+71,71,12:45,BA1307,Aberdeen (ABZ),British Airways A319 (G-EUPG),Landed 12:25,2021-05-11
+72,72,12:45,BA1327,Newcastle (NCL),British Airways A319 (G-EUPY),Landed 12:19,2021-05-11
+73,73,12:50 AA9817,,Dallas (DFW),American Airlines B772 (N767AJ),Unknown,2021-05-11
+74,74,13:15,AA134,Los Angeles (LAX),American Airlines B77W (N720AN),Landed 12:32,2021-05-11
+75,75,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BER),Landed 12:52,2021-05-11
+76,76,13:25 AA9707,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-11
+77,77,13:30 MF8711,,Xiamen (XMN),Xiamen Air B789 (B-1357),Landed 14:25,2021-05-11
+78,78,13:35,MS777,Cairo (CAI),EgyptAir B77W (SU-GDO),Landed 12:57,2021-05-11
+79,79,13:45 KU103,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-11
+80,80,13:45 BA286,,San Francisco (SFO),British Airways B77W (G-STBF),Landed 13:55,2021-05-11
+81,81,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BEE),Landed 13:40,2021-05-11
+82,82,14:15,VS24,Los Angeles (LAX),Virgin Atlantic A35K (G-VRNB),Landed 14:16,2021-05-11
+83,83,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIIN),Landed 14:03,2021-05-11
+84,84,14:40,LH908,Frankfurt (FRA),Lufthansa A20N (D-AIJD),Landed 15:16,2021-05-11
+85,85,14:43 IB3174,,Madrid (MAD),Iberia A333 (EC-LYF),Landed 14:40,2021-05-11
+86,86,14:45 BA917,,Stuttgart (STR),British Airways B789 (G-ZBKG),Landed 13:58,2021-05-11
+87,87,14:50 SV115,,Riyadh (RUH),Saudia B789 (HZ-AR23),Landed 14:28,2021-05-11
+88,88,15:20 GF3,,Bahrain (BAH),Gulf Air B789 (A9C-FE),Landed 14:44,2021-05-11
+89,89,15:25,BA1445,Edinburgh (EDI),British Airways A319 (G-EUPM),Landed 15:01,2021-05-11
+90,90,15:30,BA242,Mexico City (MEX),British Airways B789 (G-ZBKB),Landed 14:47,2021-05-11
+91,91,15:30,A3602,Athens (ATH),Aegean Airlines A21N (SX-NAB),Unknown,2021-05-11
+92,92,15:33 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-GAJG),Landed 14:35,2021-05-11
+93,93,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SML),Landed 15:22,2021-05-11
+94,94,15:45,BA1487,Glasgow (GLA),British Airways A20N (G-TTNM),Landed 15:19,2021-05-11
+95,95,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA881J),Landed 15:27,2021-05-11
+96,96,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKN),Landed 15:31,2021-05-11
+97,97,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IMC),Landed 15:30,2021-05-11
+98,98,16:05 TK1971,,Istanbul (IST),Turkish Airlines B77W (TC-JJK),Landed 15:40,2021-05-11
+99,99,16:15,KQ100,Nairobi (NBO),Kenya Airways 788,Canceled,2021-05-11
+100,100,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VINE),Landed 15:34,2021-05-11
+101,101,16:25,AF1280,Paris (CDG),Air France A318 (F-GUGI),Landed 16:03,2021-05-11
+102,102,16:25 BA168,,Shanghai (PVG),British Airways B77W (G-STBA),Landed 16:14,2021-05-11
+103,103,16:30,TG910,Bangkok (BKK),Thai Airways B77W (HS-TKN),Landed 16:12,2021-05-11
+104,104,17:05,AY1337,Helsinki (HEL),Finnair E190 (OH-LKK),Landed 16:52,2021-05-11
+105,105,17:15,IB3166,Madrid (MAD),Iberia A359 (EC-NCX),Landed 16:40,2021-05-11
+106,106,17:45,TP1350,Lisbon (LIS),TAP Air Portugal (Star Alliance Livery) A20N (CS-TVF),Landed 17:15,2021-05-11
+107,107,17:55 LX326,,Zurich (ZRH),Swiss A20N (HB-JDA),Landed 17:51,2021-05-11
+108,108,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBB),Landed 17:49,2021-05-11
+109,109,18:25,BA1417,Belfast (BHD),British Airways A319 (G-EUPG),Landed 18:05,2021-05-11
+110,110,18:35 QR8878,,Doha (DOH),Qatar Airways B789 (A7-BHF),Landed 18:01,2021-05-11
+111,111,18:50 EY17,,Abu Dhabi (AUH),Etihad (ADNOC - Choose the USA Livery) B789 (A6-BLC),Landed 18:33,2021-05-11
+112,112,18:55,EI936,Belfast (BHD),Aer Lingus A320 (EI-DVL),Landed 18:45,2021-05-11
+113,113,18:55,OS455,Vienna (VIE),Austrian Airlines A319 (OE-LDE),Landed 18:23,2021-05-11
+114,114,19:10 LM559,,Darlington (MME),Loganair E145 (G-SAJG),Landed 18:39,2021-05-11
+115,115,19:20,EI178,Dublin (DUB),Aer Lingus A320 (EI-DEP),Landed 18:58,2021-05-11
+116,116,19:20 VS506,,Brussels (BRU),Virgin Atlantic A35K (G-VDOT),Landed 18:48,2021-05-11
+117,117,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKD),Landed 19:12,2021-05-11
+118,118,20:17 VS686Q,,New York (JFK),Virgin Atlantic B789 (G-VFAN),Landed 19:27,2021-05-11
+119,119,20:25 QR8860,,Doha (DOH),Qatar Airways B77W (A7-BAC),Landed 20:03,2021-05-11
+120,120,20:45,TK1983,Istanbul (IST),Turkish Airlines A333 (TC-LNG),Landed 20:09,2021-05-11
+121,121,20:55,KL1033,Amsterdam (AMS),KLM B737 (PH-BGG),Landed 20:38,2021-05-11
+122,122,21:00 VS239,,Hong Kong (HKG),Virgin Atlantic B789 (G-VWHO),Landed 20:46,2021-05-11
+123,123,21:05 BA3383,,Porto (OPO),British Airways 75F,Unknown,2021-05-11
+124,124,21:05 CX253,,Hong Kong (HKG),Cathay Pacific A35K (B-LXK),Landed 20:50,2021-05-11
+125,125,21:20,AF1380,Paris (CDG),Air France A318 (F-GUGI),Landed 20:53,2021-05-11
+0,0,05:05 BA260,,Islamabad (ISB),British Airways B772 (G-YMME),Landed 04:34,2021-05-12
+1,1,05:25 BA74,,Lagos (LOS),British Airways B77W (G-STBJ),Landed 05:11,2021-05-12
+2,2,05:40 CX251,,Hong Kong (HKG),Cathay Pacific 351,Canceled,2021-05-12
+3,3,05:50 BA78,,Accra (ACC),British Airways B772 (G-YMMU),Landed 05:07,2021-05-12
+4,4,05:55 SQ322,,Singapore (SIN),Singapore Airlines A359 (9V-SMQ),Landed 05:50,2021-05-12
+5,5,06:20 AA100,,New York (JFK),American Airlines B77W (N724AN),Landed 06:04,2021-05-12
+6,6,06:25 AA50,,Dallas (DFW),American Airlines B77W (N730AN),Landed 06:15,2021-05-12
+7,7,06:25 JL41,,Tokyo (HND),Japan Airlines B788 (JA836J),Landed 06:08,2021-05-12
+8,8,06:25 QR9,,Doha (DOH),Qatar Airways (Oneworld Livery) B77W (A7-BAF),Landed 06:43,2021-05-12
+9,9,06:40 BA160,,Shanghai (PVG),British Airways B772 (G-YMMG),Landed 17:11,2021-05-12
+10,10,06:45 UA918,,Washington (IAD),United Airlines B763 (N671UA),Landed 06:24,2021-05-12
+11,11,06:50 AA86,,Chicago (ORD),American Airlines B788 (N819AN),Landed 06:11,2021-05-12
+12,12,06:50 BA294,,Chicago (ORD),British Airways A35K (G-XWBD),Landed 06:31,2021-05-12
+13,13,06:55 BA138,,Mumbai (BOM),British Airways B77W (G-STBH),Landed 06:37,2021-05-12
+14,14,06:55 GF7,,Bahrain (BAH),Gulf Air B789 (A9C-FD),Landed 06:28,2021-05-12
+15,15,07:00 VS4,,New York (JFK),Virgin Atlantic A35K (G-VLUX),Landed 06:45,2021-05-12
+16,16,07:05 DL32,,Atlanta (ATL),Delta Air Lines A333 (N803NW),Landed 06:57,2021-05-12
+17,17,07:05 EY11,,Abu Dhabi (AUH),Etihad (Greenliner Livery) B78X (A6-BMH),Landed 06:47,2021-05-12
+18,18,07:10 UA14,,New York (EWR),United Airlines B78X (N14001),Landed 06:40,2021-05-12
+19,19,07:20 VS365,,Lahore (LHE),Virgin Atlantic 789,Canceled,2021-05-12
+20,20,07:20 VS598,,Los Angeles (LAX),Virgin Atlantic A35K (G-VTEA),Landed 06:49,2021-05-12
+21,21,07:25 UA2765,,New York (EWR),United Airlines B789 (N27964),Landed 06:26,2021-05-12
+22,22,07:35 BA54,,Johannesburg (JNB),British Airways B77W (G-STBK),Landed 06:59,2021-05-12
+23,23,07:40 UA931,,Chicago (ORD),United Airlines B789 (N38955),Landed 07:36,2021-05-12
+24,24,07:45 SQ306,,Singapore (SIN),Singapore Airlines B77W (9V-SWS),Landed 08:49,2021-05-12
+25,25,08:05 LM551,,Darlington (MME),Loganair E145 (G-SAJO),Landed 07:43,2021-05-12
+26,26,08:05 LM671,,Isle of Man (IOM),Loganair E145 (G-SAJL),Landed 07:55,2021-05-12
+27,27,08:10 DL1,,New York (JFK),Delta Air Lines B764 (N835MH),Unknown,2021-05-12
+28,28,08:10 VS526,,Miami (MIA),Virgin Atlantic B789 (G-VYUM),Landed 07:14,2021-05-12
+29,29,08:10 DL1,,New York (JFK),Delta Air Lines B764 (N835MH),Landed 07:31,2021-05-12
+30,30,08:20 OS451,,Vienna (VIE),Austrian Airlines A319 (OE-LDB),Landed 07:59,2021-05-12
+31,31,08:20 BA116,,New York (JFK),British Airways B77W (G-STBP),Landed 07:16,2021-05-12
+32,32,08:20 BA226,,Atlanta (ATL),British Airways A35K (G-XWBF),Landed 07:19,2021-05-12
+33,33,08:25 0B1331,,Bucharest (OTP),Blue Air B735 (YR-AME),Landed 08:06,2021-05-12
+34,34,08:30 BA1301,,Aberdeen (ABZ),British Airways A319 (G-EUPM),Landed 07:53,2021-05-12
+35,35,08:30 BA1475,,Glasgow (GLA),British Airways A21N (G-NEOP),Landed 08:02,2021-05-12
+36,36,08:35 AC856,,Toronto (YYZ),Air Canada B789 (C-FVND),Landed 08:13,2021-05-12
+37,37,08:40 LH900,,Frankfurt (FRA),Lufthansa A20N (D-AINC),Landed 08:53,2021-05-12
+38,38,08:55 SK501,,Copenhagen (CPH),SAS A20N (LN-RGM),Landed 08:22,2021-05-12
+39,39,09:00 AA38,,Miami (MIA),American Airlines B77W (N719AN),Landed 07:57,2021-05-12
+40,40,09:00 KL1007,,Amsterdam (AMS),KLM B738 (PH-BXG),Landed 09:14,2021-05-12
+41,41,09:05 BA214,,Boston (BOS),British Airways B789 (G-ZBKR),Landed 08:27,2021-05-12
+42,42,09:05 EI154,,Dublin (DUB),Aer Lingus A21N (EI-LRD),Landed 08:30,2021-05-12
+43,43,09:05 EI930,,Belfast (BHD),Aer Lingus A320 (EI-DVN),Landed 08:43,2021-05-12
+44,44,09:05 IB3170,,Madrid (MAD),Iberia A359 (EC-NIS),Landed 08:24,2021-05-12
+45,45,09:10,AY1331,Helsinki (HEL),Finnair (Oneworld livery) E190 (OH-LKN),Landed 08:46,2021-05-12
+46,46,09:25,DL20,Seattle (SEA),Delta Air Lines (SkyTeam Livery) B764 (N844MH),Landed 09:05,2021-05-12
+47,47,09:30,BA1461,Edinburgh (EDI),British Airways A20N (G-TTNF),Landed 09:02,2021-05-12
+48,48,09:37 AC7200,,Toronto (YYZ),Air Canada B789 (C-FGDZ),Landed 09:11,2021-05-12
+49,49,09:40 BA182,,New York (JFK),British Airways B772 (G-VIIK),Landed 08:58,2021-05-12
+50,50,09:45 KM100,,Luqa (MLA),Air Malta A20N (9H-NEO),Landed 09:28,2021-05-12
+51,51,09:50 TK1979,,Istanbul (IST),Turkish Airlines B77W (TC-LJC),Landed 09:08,2021-05-12
+52,52,09:53 AA730,,Boston (BOS),American Airlines 772,Canceled,2021-05-12
+53,53,09:55 BA98,,Toronto (YYZ),British Airways B788 (G-ZBJI),Landed 09:26,2021-05-12
+54,54,09:55 VS688,,New York (JFK),Virgin Atlantic A333 (G-VWAG),Landed 09:16,2021-05-12
+55,55,10:04,,Washington (IAD),- B789 (G-ZBKF),Unknown,2021-05-12
+56,56,10:20 AA728,,Philadelphia (PHL),American Airlines B772 (N790AN),Landed 09:40,2021-05-12
+57,57,10:20 TP1356,,Lisbon (LIS),TAP Air Portugal A20N (CS-TVE),Unknown,2021-05-12
+58,58,10:25 BA208,,Miami (MIA),British Airways A35K (G-XWBG),Landed 09:44,2021-05-12
+59,59,10:40 AF1580,,Paris (CDG),Air France A320 (F-GKXL),Landed 10:33,2021-05-12
+60,60,10:40 VS540,,Chicago (ORD),Virgin Atlantic A333 (G-VGEM),Landed 10:45,2021-05-12
+61,61,10:45 BA292,,Washington (IAD),British Airways B789 (G-ZBKF),Unknown,2021-05-12
+62,62,10:45 BA296,,Chicago (ORD),British Airways A35K (G-XWBE),Unknown,2021-05-12
+63,63,11:00 VS104,,Atlanta (ATL),Virgin Atlantic B789 (G-VBOW),Landed 10:36,2021-05-12
+64,64,11:05 BA192,,Dallas (DFW),British Airways B789 (G-ZBKS),Landed 10:38,2021-05-12
+65,65,11:05 AA9716,,Dallas (DFW),American Airlines 77W,Unknown,2021-05-12
+66,66,11:30 AI177,,Bengaluru (BLR),Air India B788 (VT-ANG),Landed 10:41,2021-05-12
+67,67,11:35 EY19,,Abu Dhabi (AUH),Etihad Airways B78X (A6-BMF),Landed 11:18,2021-05-12
+68,68,11:50 BA3593,,Atlanta (ATL),British Airways B789 (G-ZBKG),Landed 10:56,2021-05-12
+69,69,12:00 BA1441,,Edinburgh (EDI),British Airways A319 (G-EUPK),Landed 11:33,2021-05-12
+70,70,12:05 BA1385,,Manchester (MAN),British Airways A20N (G-TTNM),Landed 11:15,2021-05-12
+71,71,12:05 BA1477,,Glasgow (GLA),British Airways A320 (G-EUUL),Landed 11:50,2021-05-12
+72,72,12:05 SU2578,,Moscow (SVO),Aeroflot B738 (VP-BNC),Landed 11:29,2021-05-12
+73,73,12:10 QR8864,,Doha (DOH),Qatar Airways B789 (A7-BHC),Landed 11:38,2021-05-12
+74,74,12:30 BA1423,,Belfast (BHD),British Airways A319 (G-EUPT),Landed 12:00,2021-05-12
+75,75,12:30 BA431,,Amsterdam (AMS),British Airways B788 (G-ZBJH),Landed 12:35,2021-05-12
+76,76,12:45 BA1327,,Newcastle (NCL),British Airways A320 (G-EUYA),Landed 14:20,2021-05-12
+77,77,12:45 BA1307,,Aberdeen (ABZ),British Airways A319 (G-EUPY),Landed 12:32,2021-05-12
+78,78,12:45 BA256,,Delhi (DEL),British Airways B789 (G-ZBKL),Landed 11:42,2021-05-12
+79,79,12:50 AA156,,Seattle (SEA),American Airlines B772 (N794AN),Landed 15:13,2021-05-12
+80,80,13:00 BA118,,Bengaluru (BLR),British Airways B77W (G-STBE),Landed 12:15,2021-05-12
+81,81,13:05,EI712,Cork (ORK),Aer Lingus (Irish Rugby Team Livery) A320 (EI-DEO),Landed 12:47,2021-05-12
+82,82,13:15,AA134,Los Angeles (LAX),American Airlines B77W (N721AN),Landed 12:22,2021-05-12
+83,83,13:15 QR3,,Doha (DOH),Qatar Airways B77W (A7-BEL),Landed 12:52,2021-05-12
+84,84,13:35,LY315,Tel Aviv (TLV),El Al Israel Airlines B788 (4X-ERA),Landed 12:55,2021-05-12
+85,85,13:35,MS777,Cairo (CAI),EgyptAir B77W (SU-GDN),Landed 13:20,2021-05-12
+86,86,13:40,LX354,Geneva (GVA),Swiss BCS3 (HB-JCL),Landed 13:43,2021-05-12
+87,87,13:45 KU901,,Kuwait City (KWI),Kuwait Airways 77W,Unknown,2021-05-12
+88,88,13:45 BA286,,San Francisco (SFO),British Airways B77W (G-STBO),Landed 13:27,2021-05-12
+89,89,14:10 QR8856,,Doha (DOH),Qatar Airways B77W (A7-BEH),Landed 13:55,2021-05-12
+90,90,14:30 VS682,,Los Angeles (LAX),Virgin Atlantic A35K (G-VJAM),Landed 14:10,2021-05-12
+91,91,14:35 BA82,,Abuja (ABV),British Airways B772 (G-VIIN),Landed 14:17,2021-05-12
+92,92,14:35,SK805,Oslo (OSL),SAS A20N (SE-ROJ),Landed 14:22,2021-05-12
+93,93,14:40,LH908,Frankfurt (FRA),Lufthansa A20N (D-AINB),Landed 14:30,2021-05-12
+94,94,14:40 BA104,,Dubai (DXB),British Airways B788 (G-ZBJF),Landed 14:33,2021-05-12
+95,95,14:45 BA713,,Zurich (ZRH),British Airways B788 (G-ZBJJ),Landed 14:15,2021-05-12
+96,96,14:45 BA917,,Stuttgart (STR),British Airways B789 (G-ZBKA),Landed 14:05,2021-05-12
+97,97,14:55,BA2773,Jersey (JER),British Airways A319 (G-EUPM),Landed 14:44,2021-05-12
+98,98,15:25,BA1445,Edinburgh (EDI),British Airways A21N (G-NEOX),Landed 15:09,2021-05-12
+99,99,15:25,RJ111,Amman (AMM),Royal Jordanian B788 (JY-BAB),Landed 14:46,2021-05-12
+100,100,15:30 BA242,,Mexico City (MEX),British Airways 77F,Unknown,2021-05-12
+101,101,15:30,A3602,Athens (ATH),Aegean Airlines A21N (SX-NAA),Unknown,2021-05-12
+102,102,15:33 W8985,,Cincinnati (CVG),Cargojet Airways B763 (C-GAAJ),Landed 14:28,2021-05-12
+103,103,15:40,SQ308,Singapore (SIN),Singapore Airlines A359 (9V-SME),Landed 15:29,2021-05-12
+104,104,15:50,BA1487,Glasgow (GLA),British Airways A20N (G-TTNG),Landed 15:26,2021-05-12
+105,105,15:50,JL43,Tokyo (HND),Japan Airlines B789 (JA861J),Landed 15:19,2021-05-12
+106,106,15:55,BA268,Los Angeles (LAX),British Airways B789 (G-ZBKM),Landed 15:54,2021-05-12
+107,107,16:05,AZ206,Rome (FCO),Alitalia A319 (EI-IMF),Landed 15:35,2021-05-12
+108,108,16:05 TK1971,,Istanbul (IST),Turkish Airlines B77W (TC-JJG),Landed 15:39,2021-05-12
+109,109,16:20 BG201,,Sylhet (ZYL),Biman Bangladesh Airlines B788 (S2-AJT),Unknown,2021-05-12
+110,110,16:20 NH211,,Tokyo (HND),All Nippon Airways B77W (JA794A),Landed 15:51,2021-05-12
+111,111,16:20,VS301,Delhi (DEL),Virgin Atlantic B789 (G-VNYL),Landed 15:42,2021-05-12
+112,112,16:20,VS412,Lagos (LOS),Virgin Atlantic A333 (G-VINE),Landed 15:48,2021-05-12
+113,113,16:25,AF1280,Paris (CDG),Air France A318 (F-GUGI),Landed 16:08,2021-05-12
+114,114,16:25 EW9464,,Dusseldorf (DUS),Eurowings A319 (D-ABGK),Landed 15:58,2021-05-12
+115,115,16:25 BA168,,Shanghai (PVG),British Airways B77W (G-STBL),Landed 16:07,2021-05-12
+116,116,16:35 MH4,,Kuala Lumpur (KUL),Malaysia Airlines (Malaysia Negaraku Livery) A359 (9M-MAC),Landed 16:16,2021-05-12
+117,117,16:45 FB851,,Sofia (SOF),Bulgaria Air E190 (LZ-SOF),Landed 16:18,2021-05-12
+118,118,17:00 KE539,,Frankfurt (FRA),Korean Air Cargo B748 (HL7639),Landed 18:03,2021-05-12
+119,119,17:00,SK527,Stockholm (ARN),SAS A20N (SE-ROR),Landed 17:06,2021-05-12
+120,120,17:05,AY1337,Helsinki (HEL),Finnair A321 (OH-LZU),Landed 17:03,2021-05-12
+121,121,17:15,IB3166,Madrid (MAD),Iberia A359 (EC-NIS),Landed 16:39,2021-05-12
+122,122,17:15,LO279,Warsaw (WAW),LOT (Independence Livery) B38M (SP-LVD),Landed 17:34,2021-05-12
+123,123,17:40,BA665,Larnaca (LCA),British Airways A320 (G-EUYR),Landed 17:30,2021-05-12
+124,124,17:55,LX326,Zurich (ZRH),Edelweiss Air A343 (HB-JMF),Landed 18:20,2021-05-12
+125,125,17:55 BA1313,,Aberdeen (ABZ),British Airways 319,Canceled,2021-05-12
+126,126,18:05 BR69,,Taipei (TPE),EVA Air B77W (B-16723),Diverted to TPE,2021-05-12
+127,127,18:15 BA10,,Bangkok (BKK),British Airways B789 (G-ZBKI),Landed 17:39,2021-05-12
+128,128,18:25 BA32,,Hong Kong (HKG),British Airways B77W (G-STBF),Landed 17:53,2021-05-12
+129,129,18:25,BA1417,Belfast (BHD),British Airways A319 (G-EUPY),Landed 18:00,2021-05-12
+130,130,18:25 BA881,,Moscow (DME),British Airways B788 (G-ZBJG),Landed 17:50,2021-05-12
+131,131,18:30 LH2486,,Munich (MUC),Lufthansa A20N (D-AINN),Landed 18:17,2021-05-12
+132,132,18:35 QR8878,,Doha (DOH),Qatar Airways B789 (A7-BHF),Landed 18:07,2021-05-12
+133,133,18:45 EW7460,,Hamburg (HAM),Eurowings A319 (D-AGWU),Unknown,2021-05-12
+134,134,18:50 EY17,,Abu Dhabi (AUH),Etihad (ADNOC - Choose the USA Livery) B789 (A6-BLC),Landed 18:35,2021-05-12
+135,135,18:55,OS455,Vienna (VIE),Austrian Airlines A319 (OE-LDD),Landed 18:39,2021-05-12
+136,136,19:10 LM559,,Darlington (MME),Loganair E145 (G-SAJL),Landed 18:43,2021-05-12
+137,137,19:20,EI178,Dublin (DUB),Aer Lingus A320 (EI-DVJ),Landed 18:54,2021-05-12
+138,138,19:20 VS506,,Brussels (BRU),Virgin Atlantic A35K (G-VTEA),Landed 18:57,2021-05-12
+139,139,19:55 BA164,,Tel Aviv (TLV),British Airways B789 (G-ZBKB),Landed 19:48,2021-05-12
+140,140,20:05,VS26,New York (JFK),Virgin Atlantic B789 (G-VZIG),Landed 19:16,2021-05-12
+141,141,20:25 QR8860,,Doha (DOH),Qatar Airways (Oneworld Livery) B77W (A7-BAG),Landed 20:08,2021-05-12
+142,142,20:45,TK1983,Istanbul (IST),Turkish Airlines 333,Canceled,2021-05-12
+143,143,20:55,KL1033,Amsterdam (AMS),KLM B737 (PH-BGG),Landed 20:30,2021-05-12
+144,144,21:15 BA3383,,Porto (OPO),British Airways 75F,Unknown,2021-05-12
+145,145,21:20,AF1380,Paris (CDG),Air France A318 (F-GUGI),Landed 21:05,2021-05-12
+146,146,22:10,LH922,Frankfurt (FRA),Lufthansa A20N (D-AINK),Landed 21:49,2021-05-12
+147,147,22:15 BA327,,Paris (CDG),British Airways B788 (G-ZBJI),Landed 22:02,2021-05-12

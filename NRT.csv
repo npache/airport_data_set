@@ -26324,3 +26324,1813 @@
 218,218,22:10,GK516,Fukuoka (FUK),Jetstar Airways A320 (JA03JJ),Landed 22:14,2021-05-01
 219,219,22:25 NH960,,Shanghai (PVG),All Nippon Airways B78X (JA901A),Landed 21:37,2021-05-01
 220,220,22:30 MU311,,-,China Eastern Airlines 333,Unknown,2021-05-01
+0,0,04:00 RU691,,Moscow (DME),AirBridgeCargo B748 (VQ-BRJ),Landed 18:05,2021-05-02
+1,1,05:30 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-02
+2,2,06:10 NH8536,,Seoul (ICN),ANA Cargo B763 (JA602F),Landed 06:11,2021-05-02
+3,3,06:15 NH8506,,Qingdao (TAO),ANA Cargo B763 (JA604F),Landed 06:13,2021-05-02
+4,4,06:20 CX6,,Hong Kong (HKG),Cathay Pacific Cargo B748 (B-LJI),Landed 06:08,2021-05-02
+5,5,06:20 JL8746,,Manila (MNL),Japan Airlines B788 (JA828J),Landed 06:06,2021-05-02
+6,6,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA878J),Landed 06:08,2021-05-02
+7,7,06:30 KZ49,,Milan (MXP),Nippon Cargo Airlines B748 (JA11KZ),Landed 06:16,2021-05-02
+8,8,06:40 NH8518,,Shanghai (PVG),ANA Cargo B763 (JA8358),Landed 07:20,2021-05-02
+9,9,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA820A),Landed 06:25,2021-05-02
+10,10,06:45,NH898,Hanoi (HAN),All Nippon Airways B789 (JA896A),Landed 06:21,2021-05-02
+11,11,07:05,JL724,Kuala Lumpur (KUL),Japan Airlines B789 (JA871J),Landed 06:09,2021-05-02
+12,12,07:25,JL726,Jakarta (CGK),Japan Airlines B789 (JA869J),Landed 06:48,2021-05-02
+13,13,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA18KZ),Landed 08:43,2021-05-02
+14,14,07:35 NH8404,,Shanghai (PVG),ANA Cargo B763 (JA605F),Landed 07:36,2021-05-02
+15,15,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA825J),Landed 07:16,2021-05-02
+16,16,07:45 PO935,,Shenzhen (SZX),Polar Air Cargo 77F,Unknown,2021-05-02
+17,17,07:55,SB800,Noumea (NOU),Aircalin A339 (F-ONET),Landed 07:33,2021-05-02
+18,18,07:55 NH8490,,Guangzhou (CAN),All Nippon Airways 76F,Unknown,2021-05-02
+19,19,07:55 NH8512,,Hong Kong (HKG),All Nippon Airways 76F,Unknown,2021-05-02
+20,20,08:00,SQ638,Singapore (SIN),Singapore Airlines B78X (9V-SCH),Landed 07:08,2021-05-02
+21,21,08:05 AY71,,Helsinki (HEL),Finnair A359 (OH-LWP),Landed 07:30,2021-05-02
+22,22,08:10,TG642,Bangkok (BKK),Thai Airways A359 (HS-THD),Landed 07:23,2021-05-02
+23,23,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA15KZ),Landed 08:26,2021-05-02
+24,24,08:25,AF276,Paris (CDG),Air France (SkyTeam Livery) B77W (F-GZNE),Landed 07:38,2021-05-02
+25,25,08:25 UA2829,,Chicago (ORD),United Airlines B77W (N2251U),Landed 08:15,2021-05-02
+26,26,08:35,KL861,Amsterdam (AMS),KLM B772 (PH-BQN),Landed 08:32,2021-05-02
+27,27,08:40,JL718,Bangkok (BKK),Japan Airlines B788 (JA829J),Landed 08:21,2021-05-02
+28,28,08:45 UA2853,,Los Angeles (LAX),United Airlines B77W (N2243U),Landed 08:28,2021-05-02
+29,29,09:00 UA2822,,Chicago (ORD),United Airlines B77W (N2135U),Landed 08:58,2021-05-02
+30,30,09:05 LD208,,Hong Kong (HKG),Air Hong Kong ABF,Unknown,2021-05-02
+31,31,09:05 MM311,,Osaka (KIX),Peach A320 (JA821P),Landed 08:52,2021-05-02
+32,32,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-02
+33,33,09:25,GK528,Fukuoka (FUK),Jetstar Japan 320,Unknown,2021-05-02
+34,34,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-02
+35,35,09:35,JL3082,Nagoya (NGO),Japan Airlines B738 (JA321J),Landed 09:18,2021-05-02
+36,36,09:35 PO232,,Shanghai (PVG),DHL B763 (N644GT),Landed 09:23,2021-05-02
+37,37,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-02
+38,38,09:40 MM562,,Sapporo (CTS),Peach A320 (JA826P),Landed 09:38,2021-05-02
+39,39,09:40 CA1073,,Shanghai (PVG),Air China 77F,Unknown,2021-05-02
+40,40,09:45 MM518,,Fukuoka (FUK),Peach A320 (JA09VA),Landed 09:29,2021-05-02
+41,41,10:03 FX87,,Memphis (MEM),FedEx B77L (N864FD),Landed 10:01,2021-05-02
+42,42,10:15 KZ159,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA13KZ),Landed 11:53,2021-05-02
+43,43,10:15,TW211,Seoul (ICN),T'way Air 737,Canceled,2021-05-02
+44,44,10:30 AI306,,Delhi (DEL),Air India B788 (VT-ANW),Landed 10:00,2021-05-02
+45,45,10:50,GK102,Sapporo (CTS),Jetstar Airways A320 (JA01JJ),Landed 10:45,2021-05-02
+46,46,10:55 KZ7167,,Anchorage (ANC),Nippon Cargo Airlines 74Y,Unknown,2021-05-02
+47,47,11:00 NH8546,,Bangkok (BKK),ANA Cargo B763 (JA8323),Landed 11:57,2021-05-02
+48,48,11:10 UA2802,,Chengdu (CTU),United Airlines B789 (N26970),Landed 10:36,2021-05-02
+49,49,11:15,GK410,Takamatsu (TAK),Jetstar Airways A320 (JA07JJ),Landed 11:07,2021-05-02
+50,50,11:20,TW201,Daegu (TAE),T'way Air 737,Canceled,2021-05-02
+51,51,11:24 JL6709,,Chicago (ORD),Japan Airlines B789 (JA880J),Landed 11:29,2021-05-02
+52,52,11:35 PO749,,Cincinnati (CVG),DHL B748 (N853GT),Landed 11:04,2021-05-02
+53,53,11:35 MM566,,Sapporo (CTS),Peach A320 (JA06VA),Landed 11:32,2021-05-02
+54,54,11:40,GK400,Matsuyama (MYJ),Jetstar Airways A320 (JA24JJ),Landed 11:43,2021-05-02
+55,55,11:45 UA2833,,San Francisco (SFO),United Airlines B77W (N2331U),Landed 11:33,2021-05-02
+56,56,11:50,GK610,Kumamoto (KMJ),Jetstar Airways A320 (JA11JJ),Landed 11:41,2021-05-02
+57,57,12:00,GK104,Sapporo (CTS),Jetstar Airways A320 (JA09JJ),Landed 12:11,2021-05-02
+58,58,12:10,PR428,Manila (MNL),Philippine Airlines A321 (RP-C9906),Landed 11:19,2021-05-02
+59,59,12:21 FX169,,Anchorage (ANC),FedEx MD11 (N590FE),Unknown,2021-05-02
+60,60,12:25,GK202,Osaka (KIX),Jetstar Airways A320 (JA13JJ),Landed 12:09,2021-05-02
+61,61,12:25 MM313,,Osaka (KIX),Peach A320 (JA07VA),Landed 12:01,2021-05-02
+62,62,12:30 OZ198,,Seoul (ICN),Asiana Cargo B744 (HL7420),Landed 16:08,2021-05-02
+63,63,12:35,GK600,Oita (OIT),Jetstar Airways A320 (JA03JJ),Landed 12:18,2021-05-02
+64,64,12:35 MM520,,Fukuoka (FUK),Peach A320 (JA12VA),Landed 12:19,2021-05-02
+65,65,12:40 NH8406,,Frankfurt (FRA),ANA Cargo B77L (JA771F),Landed 10:58,2021-05-02
+66,66,12:49 FX157,,Anchorage (ANC),FedEx B77L (N889FD),Landed 12:50,2021-05-02
+67,67,12:50,GK622,Kagoshima (KOJ),Jetstar Airways A320 (JA20JJ),Landed 12:43,2021-05-02
+68,68,12:50 NH8412,,Singapore (SIN),ANA Cargo B763 (JA603A),Landed 12:57,2021-05-02
+69,69,12:55 7C1106,,Seoul (ICN),Jeju Air 738,Canceled,2021-05-02
+70,70,13:00 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA8970),Landed 13:30,2021-05-02
+71,71,13:05 CA1076,,Los Angeles (LAX),Air China B77F,Unknown,2021-05-02
+72,72,13:05 MM570,,Sapporo (CTS),Peach A320 (JA814P),Landed 13:37,2021-05-02
+73,73,13:10 SU5480,,Vladivostok (VVO),Aurora A319 (VQ-BBD),Landed 12:54,2021-05-02
+74,74,13:15,BR198,Taipei (TPE),EVA Air B789 (B-17881),Landed 12:30,2021-05-02
+75,75,13:15,CI100,Taipei (TPE),China Airlines A333 (B-18302),Landed 12:31,2021-05-02
+76,76,13:20 IJ622,,Hiroshima (HIJ),Spring Airlines Japan B738 (JA01GR),Landed 13:23,2021-05-02
+77,77,13:21 PO217,,Los Angeles (LAX),Polar Air Cargo B744 (N450PA),Landed 13:22,2021-05-02
+78,78,13:25,GK504,Fukuoka (FUK),Jetstar Airways A320 (JA16JJ),Landed 13:37,2021-05-02
+79,79,13:30,GK300,Naha (OKA),Jetstar Airways A320 (JA17JJ),Landed 13:19,2021-05-02
+80,80,13:35 NH9641,,Los Angeles (LAX),All Nippon Airways B77W (JA784A),Landed 13:20,2021-05-02
+81,81,13:40,KE703,Seoul (ICN),Korean Air A333 (HL8025),Landed 13:25,2021-05-02
+82,82,13:40 MM522,,Fukuoka (FUK),Peach A320 (JA823P),Landed 13:31,2021-05-02
+83,83,13:55,UA79,New York (EWR),United Airlines B789 (N26952),Landed 13:56,2021-05-02
+84,84,13:55,ZH9051,Shenzhen (SZX),Shenzhen Airlines 738,Unknown,2021-05-02
+85,85,14:00 C85717,,Milan (MXP),Cargolux B744 (LX-SCV),Landed 13:04,2021-05-02
+86,86,14:00 MM592,,Kushiro (KUH),Peach A320 (JA816P),Landed 13:54,2021-05-02
+87,87,14:10 MM502,,Naha (OKA),Peach A320 (JA04VA),Landed 14:00,2021-05-02
+88,88,14:15,GK324,Shimojishima (SHI),Jetstar Airways A320 (JA15JJ),Landed 14:11,2021-05-02
+89,89,14:20 NQ802,,Singapore (SIN),All Nippon Airways B789 (JA898A),Landed 13:36,2021-05-02
+90,90,14:25 IJ214,,Harbin (HRB),Spring Airlines Japan B738 (JA06GR),Landed 15:20,2021-05-02
+91,91,14:26 NH836,,Jakarta (CGK),All Nippon Airways B789 (JA893A),Landed 14:32,2021-05-02
+92,92,14:35,UA837,San Francisco (SFO),United Airlines B789 (N29981),Landed 14:20,2021-05-02
+93,93,14:40 MM524,,Fukuoka (FUK),Peach A320 (JA821P),Landed 14:33,2021-05-02
+94,94,14:42 FX9793,,Anchorage (ANC),FedEx B77L (N863FD),Landed 15:09,2021-05-02
+95,95,14:50 GK304,,Naha (OKA),Jetstar Airways A320 (JA23JJ),Landed 14:28,2021-05-02
+96,96,15:00 AA61,,Dallas (DFW),American Airlines B789 (N832AA),Landed 14:25,2021-05-02
+97,97,15:00 NH11,,Chicago (ORD),All Nippon Airways B77W (JA791A),Landed 15:12,2021-05-02
+98,98,15:00 GK108,,Sapporo (CTS),Jetstar Airways A320 (JA02JJ),Landed 15:11,2021-05-02
+99,99,15:00 UA196,,Guam (GUM),United Airlines B738 (N36280),Landed 14:12,2021-05-02
+100,100,15:05 AC3,,Vancouver (YVR),Air Canada B789 (C-FNOH),Landed 15:18,2021-05-02
+101,101,15:10 MM532,,Ishigaki (ISG),Peach A320 (JA827P),Landed 14:25,2021-05-02
+102,102,15:10 NH820,,Manila (MNL),All Nippon Airways B789 (JA883A),Landed 13:58,2021-05-02
+103,103,15:15 MM352,,Nagasaki (NGS),Peach A320 (JA09VA),Landed 15:27,2021-05-02
+104,104,15:15 NH806,,Bangkok (BKK),All Nippon Airways (Star Alliance Livery) B789 (JA899A),Landed 14:22,2021-05-02
+105,105,15:20 NH816,,Kuala Lumpur (KUL),All Nippon Airways B789 (JA922A),Landed 14:16,2021-05-02
+106,106,15:25 NH7,,San Francisco (SFO),All Nippon Airways B77W (JA797A),Landed 15:22,2021-05-02
+107,107,15:30 NH8401,,Chicago (ORD),All Nippon Airways B77F,Unknown,2021-05-02
+108,108,15:30 GK506,,Fukuoka (FUK),Jetstar Airways A320 (JA22JJ),Landed 15:28,2021-05-02
+109,109,15:30 NH9649,,Chicago (ORD),All Nippon Airways B77W (JA785A),Landed 15:24,2021-05-02
+110,110,15:40 NH232,,Brussels (BRU),All Nippon Airways B789 (JA837A),Landed 15:15,2021-05-02
+111,111,15:40 ZG42,,Seoul (ICN),ZIPAIR B788 (JA825J),Landed 15:30,2021-05-02
+112,112,15:45 KZ7109,,San Francisco (SFO),Atlas Air B744 (N406KZ),Unknown,2021-05-02
+113,113,15:50 KE551,,Seoul (ICN),Korean Air Cargo B744 (HL7602),Landed 15:33,2021-05-02
+114,114,15:50 AC7283,,Toronto (YYZ),Air Canada B788 (C-GHPU),Landed 15:42,2021-05-02
+115,115,15:55 GK110,,Sapporo (CTS),Jetstar Airways A320 (JA07JJ),Landed 15:50,2021-05-02
+116,116,15:55 MM542,,Amami (ASJ),Peach A320 (JA826P),Landed 15:51,2021-05-02
+117,117,16:00 EY878,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Thailand Livery) B789 (A6-BLO),Landed 15:58,2021-05-02
+118,118,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-02
+119,119,16:05 CX520,,Hong Kong (HKG),Cathay Pacific 330,Unknown,2021-05-02
+120,120,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-02
+121,121,16:15 JL7,,Boston (BOS),Japan Airlines B789 (JA862J),Landed 15:58,2021-05-02
+122,122,16:20 QF61,,Brisbane (BNE),Qantas A333 (VH-QPB),Landed 16:02,2021-05-02
+123,123,16:25 GK204,,Osaka (KIX),Jetstar Airways A320 (JA08JJ),Landed 16:17,2021-05-02
+124,124,16:25 GK646,,Nagasaki (NGS),Jetstar Airways A320 (JA01JJ),Landed 16:14,2021-05-02
+125,125,16:30 JL17,,Vancouver (YVR),Japan Airlines B788 (JA844J),Landed 15:36,2021-05-02
+126,126,16:30 NH5,,Los Angeles (LAX),All Nippon Airways B789 (JA891A),Landed 16:25,2021-05-02
+127,127,16:35 GK426,,Nankoku (KCZ),Jetstar Airways A320 (JA11JJ),Landed 16:51,2021-05-02
+128,128,16:50 JL61,,Los Angeles (LAX),Japan Airlines B77W (JA733J),Landed 16:43,2021-05-02
+129,129,16:55 CI104,,Taipei (TPE),China Airlines A333 (B-18316),Landed 16:06,2021-05-02
+130,130,16:55,NH920,Shanghai (PVG),All Nippon Airways B78X (JA900A),Landed 17:14,2021-05-02
+131,131,16:55 RU791,,Moscow (SVO),AirBridgeCargo B748 (VQ-BFE),Landed 16:12,2021-05-02
+132,132,17:00 LH8386,,Frankfurt (FRA),Lufthansa Cargo B77L (D-ALFG),Landed 16:01,2021-05-02
+133,133,17:00 IJ702,,Saga (HSG),Spring Airlines Japan B738 (JA02GR),Landed 16:41,2021-05-02
+134,134,17:10 UA2767,,New York (EWR),United Airlines B77W (N2352U),Landed 16:54,2021-05-02
+135,135,17:10,GK508,Fukuoka (FUK),Jetstar Airways A320 (JA24JJ),Landed 17:04,2021-05-02
+136,136,17:10 AA9730,,Los Angeles (LAX),American Airlines B77W (N736AT),Landed 17:15,2021-05-02
+137,137,17:20,GK404,Matsuyama (MYJ),Jetstar Airways A320 (JA03JJ),Landed 17:06,2021-05-02
+138,138,17:35,GK636,Miyazaki (KMI),Jetstar Airways A320 (JA09JJ),Landed 17:24,2021-05-02
+139,139,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-02
+140,140,17:55,GK414,Takamatsu (TAK),Jetstar Airways A320 (JA16JJ),Landed 18:09,2021-05-02
+141,141,17:55 9C6217,,Shanghai (PVG),Spring Airlines A320 (B-8370),Landed 20:16,2021-05-02
+142,142,17:55 NH8596,,Manila (MNL),ANA Cargo B763 (JA8664),Landed 17:57,2021-05-02
+143,143,18:00 MM594,,Memanbetsu (MMB),Peach A320 (JA06VA),Landed 17:22,2021-05-02
+144,144,18:05,MH70,Kuala Lumpur (KUL),Malaysia Airlines A333 (9M-MTI),Landed 17:52,2021-05-02
+145,145,18:15,TW241,Jeju (CJU),T'way Air 737,Canceled,2021-05-02
+146,146,18:15 AA9740,,Chicago (ORD),American Airlines B772 (N779AN),Unknown,2021-05-02
+147,147,18:15 AA9740,,Chicago (ORD),American Airlines B772 (N779AN),Landed 18:06,2021-05-02
+148,148,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA13JJ),Landed 18:26,2021-05-02
+149,149,18:30 KZ129,,Anchorage (ANC),Nippon Cargo Airlines 74N,Unknown,2021-05-02
+150,150,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BEL),Landed 18:13,2021-05-02
+151,151,19:00 AF6724,,Paris (CDG),Air France 77X,Unknown,2021-05-02
+152,152,19:00 IJ834,,Sapporo (CTS),Spring Airlines Japan B738 (JA03GR),Landed 18:55,2021-05-02
+153,153,19:00 NH8540,,Taipei (TPE),ANA Cargo B763 (JA602F),Landed 18:20,2021-05-02
+154,154,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N717AN),Landed 18:35,2021-05-02
+155,155,19:05 MM582,,Sapporo (CTS),Peach A320 (JA823P),Landed 19:20,2021-05-02
+156,156,19:15 KZ226,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA15KZ),Landed 19:35,2021-05-02
+157,157,19:25 NH958,,Beijing (PEK),All Nippon Airways B789 (JA879A),Landed 19:25,2021-05-02
+158,158,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA15VA),Landed 19:10,2021-05-02
+159,159,19:45,GK208,Osaka (KIX),Jetstar Airways A320 (JA02JJ),Landed 19:29,2021-05-02
+160,160,19:50 UA2818,,Beijing (PEK),United Airlines B77W (N2135U),Landed 19:38,2021-05-02
+161,161,19:55 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA792A),Landed 19:50,2021-05-02
+162,162,20:00 KZ208,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA11KZ),Landed 19:32,2021-05-02
+163,163,20:05 NH8538,,Taipei (TPE),ANA Cargo B763 (JA605F),Landed 19:17,2021-05-02
+164,164,20:15,ET672,Seoul (ICN),Ethiopian Airlines B788 (ET-ARE),Landed 19:45,2021-05-02
+165,165,20:20,GK512,Fukuoka (FUK),Jetstar Airways A320 (JA23JJ),Landed 20:08,2021-05-02
+166,166,20:25,GK306,Naha (OKA),Jetstar Airways A320 (JA20JJ),Landed 20:02,2021-05-02
+167,167,20:25 MM506,,Naha (OKA),Peach A320 (JA814P),Landed 21:35,2021-05-02
+168,168,20:35 UA2793,,Hong Kong (HKG),United Airlines B77W (N2251U),Landed 19:54,2021-05-02
+169,169,20:40,JL26,Hong Kong (HKG),Japan Airlines B789 (JA869J),Landed 19:49,2021-05-02
+170,170,20:50 NH8542,,Hong Kong (HKG),All Nippon Airways 76F,Unknown,2021-05-02
+171,171,20:55,GK118,Sapporo (CTS),Jetstar Airways A320 (JA07JJ),Landed 21:03,2021-05-02
+172,172,20:55,GK326,Shimojishima (SHI),Jetstar Airways A320 (JA17JJ),Landed 21:37,2021-05-02
+173,173,20:55 UA2830,,Hong Kong (HKG),United Airlines B77W (N2243U),Landed 20:06,2021-05-02
+174,174,20:57 PO958,,Cincinnati (CVG),DHL B748 (N855GT),Landed 20:25,2021-05-02
+175,175,21:00 NH8516,,Xiamen (XMN),ANA Cargo B763 (JA8358),Landed 20:34,2021-05-02
+176,176,21:05 MM586,,Sapporo (CTS),Peach A320 (JA827P),Landed 21:07,2021-05-02
+177,177,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA22JJ),Landed 21:00,2021-05-02
+178,178,21:15 MM508,,Naha (OKA),Peach A320 (JA825P),Landed 20:46,2021-05-02
+179,179,21:25 MM319,,Osaka (KIX),Peach A320 (JA05VA),Landed 21:05,2021-05-02
+180,180,21:35 MM588,,Sapporo (CTS),Peach A20N (JA203P),Landed 21:37,2021-05-02
+181,181,21:35 IJ624,,Hiroshima (HIJ),Spring Airlines Japan 737,Unknown,2021-05-02
+182,182,21:40 NH8514,,Hong Kong (HKG),All Nippon Airways 76F,Unknown,2021-05-02
+183,183,21:43 KZ167,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA12KZ),Landed 21:43,2021-05-02
+184,184,21:45 NH8524,,Hong Kong (HKG),ANA Cargo B763 (JA601F),Landed 20:48,2021-05-02
+185,185,21:50,GK210,Osaka (KIX),Jetstar Airways A320 (JA10JJ),Landed 21:53,2021-05-02
+186,186,21:50,GK608,Oita (OIT),Jetstar Airways A320 (JA08JJ),Landed 21:43,2021-05-02
+187,187,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA21JJ),Landed 21:47,2021-05-02
+188,188,21:55,GK406,Matsuyama (MYJ),Jetstar Airways A320 (JA24JJ),Landed 21:42,2021-05-02
+189,189,22:00,GK618,Kumamoto (KMJ),Jetstar Airways A320 (JA11JJ),Landed 22:04,2021-05-02
+190,190,22:00 MM528,,Fukuoka (FUK),Peach A320 (JA826P),Landed 21:26,2021-05-02
+191,191,22:10,GK120,Sapporo (CTS),Jetstar Airways A320 (JA03JJ),Landed 22:05,2021-05-02
+192,192,22:10,GK516,Fukuoka (FUK),Jetstar Airways A320 (JA01JJ),Landed 21:59,2021-05-02
+193,193,22:15,GK418,Takamatsu (TAK),Jetstar Airways A320 (JA09JJ),Landed 22:03,2021-05-02
+194,194,22:25 NH960,,Shanghai (PVG),All Nippon Airways B78X (JA901A),Landed 21:29,2021-05-02
+195,195,22:30 MU311,,-,China Eastern Airlines 333,Unknown,2021-05-02
+196,196,22:35,GK212,Osaka (KIX),Jetstar Japan 320,Unknown,2021-05-02
+0,0,05:30 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-03
+1,1,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA876J),Landed 06:08,2021-05-03
+2,2,06:40 NH8534,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-03
+3,3,06:41 NH8432,,Shanghai (PVG),ANA Cargo B763 (JA8970),Landed 06:26,2021-05-03
+4,4,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA823A),Landed 06:41,2021-05-03
+5,5,06:45,NH898,Hanoi (HAN),All Nippon Airways B789 (JA896A),Landed 06:38,2021-05-03
+6,6,06:50 NH8416,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-03
+7,7,07:10 NH8532,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-03
+8,8,07:20 NH8518,,Shanghai (PVG),ANA Cargo B763 (JA8323),Landed 06:15,2021-05-03
+9,9,07:25 KZ7244,,Taipei (TPE),Atlas Air B744 (N407KZ),Landed 15:20,2021-05-03
+10,10,07:30 GI4209,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-05-03
+11,11,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA12KZ),Landed 07:47,2021-05-03
+12,12,07:35 NH830,,Mumbai (BOM),All Nippon Airways B789 (JA884A),Landed 07:01,2021-05-03
+13,13,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA825J),Landed 06:58,2021-05-03
+14,14,08:00,SQ638,Singapore (SIN),Singapore Airlines B78X (9V-SCM),Landed 07:13,2021-05-03
+15,15,08:05 AY71,,Helsinki (HEL),Finnair (Marimekko Kivet Livery) A359 (OH-LWL),Landed 07:45,2021-05-03
+16,16,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA11KZ),Landed 09:28,2021-05-03
+17,17,08:35,KL861,Amsterdam (AMS),KLM B77W (PH-BVS),Landed 08:39,2021-05-03
+18,18,09:05 MM311,,Osaka (KIX),Peach A320 (JA811P),Landed 08:49,2021-05-03
+19,19,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-03
+20,20,09:25,GK528,Fukuoka (FUK),Jetstar Airways A320 (JA13JJ),Landed 09:16,2021-05-03
+21,21,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-03
+22,22,09:30 CA1075,,Shanghai (PVG),Air China 77F,Unknown,2021-05-03
+23,23,09:31 5Y7109,,San Francisco (SFO),Atlas Air B744 (N406KZ),Landed 10:03,2021-05-03
+24,24,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-03
+25,25,09:35 JL3082,,Nagoya (NGO),Japan Airlines 73H,Canceled,2021-05-03
+26,26,09:40 CA1073,,Shanghai (PVG),Air China 77F,Unknown,2021-05-03
+27,27,09:40 MM562,,Sapporo (CTS),Peach A320 (JA07VA),Landed 09:50,2021-05-03
+28,28,09:45 KZ159,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA17KZ),Landed 10:55,2021-05-03
+29,29,09:45 MM518,,Fukuoka (FUK),Peach A320 (JA06VA),Landed 09:28,2021-05-03
+30,30,10:15,TW211,Seoul (ICN),T'way Air 737,Canceled,2021-05-03
+31,31,10:29 NH9656,,Frankfurt (FRA),All Nippon Airways B789 (JA875A),Landed 10:33,2021-05-03
+32,32,10:35 KZ101,,Los Angeles (LAX),Nippon Cargo Airlines B748,Unknown,2021-05-03
+33,33,10:45 FX15,,Anchorage (ANC),FedEx B77L (N859FD),Landed 10:31,2021-05-03
+34,34,10:50,GK102,Sapporo (CTS),Jetstar Airways A320 (JA20JJ),Landed 10:42,2021-05-03
+35,35,10:55 NH8546,,Bangkok (BKK),All Nippon Airways 76F,Unknown,2021-05-03
+36,36,11:05 KZ7101,,Los Angeles (LAX),Nippon Cargo Airlines 74Y,Unknown,2021-05-03
+37,37,11:05 NH238,,Brussels (BRU),All Nippon Airways B77W (JA795A),Landed 10:18,2021-05-03
+38,38,11:15,GK410,Takamatsu (TAK),Jetstar Airways A320 (JA17JJ),Landed 11:10,2021-05-03
+39,39,11:35 MM566,,Sapporo (CTS),Peach A320 (JA821P),Landed 11:43,2021-05-03
+40,40,11:40,GK400,Matsuyama (MYJ),Jetstar Airways A320 (JA07JJ),Landed 11:56,2021-05-03
+41,41,11:50,GK610,Kumamoto (KMJ),Jetstar Airways A320 (JA22JJ),Landed 11:33,2021-05-03
+42,42,12:00,GK104,Sapporo (CTS),Jetstar Airways A320 (JA21JJ),Landed 11:57,2021-05-03
+43,43,12:20 NH8412,,Singapore (SIN),All Nippon Airways 76F,Unknown,2021-05-03
+44,44,12:20,OZ102,Seoul (ICN),Asiana Airlines A21N (HL8356),Landed 12:13,2021-05-03
+45,45,12:25,GK202,Osaka (KIX),Jetstar Airways A320 (JA04JJ),Landed 12:09,2021-05-03
+46,46,12:25 MM313,,Osaka (KIX),Peach A320 (JA14VA),Landed 12:18,2021-05-03
+47,47,12:25 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA605F),Landed 12:28,2021-05-03
+48,48,12:35,GK600,Oita (OIT),Jetstar Airways A320 (JA09JJ),Landed 12:20,2021-05-03
+49,49,12:50,GK622,Kagoshima (KOJ),Jetstar Airways A320 (JA08JJ),Landed 12:52,2021-05-03
+50,50,13:05 MM570,,Sapporo (CTS),Peach A20N (JA203P),Landed 13:01,2021-05-03
+51,51,13:05 PO775,,Cincinnati (CVG),Polar Air Cargo 744,Unknown,2021-05-03
+52,52,13:15,CI100,Taipei (TPE),China Airlines 359,Unknown,2021-05-03
+53,53,13:20 IJ622,,Hiroshima (HIJ),Spring Airlines Japan B738 (JA01GR),Landed 13:14,2021-05-03
+54,54,13:20,TW201,Daegu (TAE),T'way Air 737,Canceled,2021-05-03
+55,55,13:25,GK504,Fukuoka (FUK),Jetstar Airways A320 (JA23JJ),Landed 13:21,2021-05-03
+56,56,13:30,GK300,Naha (OKA),Jetstar Airways A320 (JA11JJ),Landed 13:34,2021-05-03
+57,57,13:30 NH9641,,Los Angeles (LAX),All Nippon Airways (Star Wars R2-D2 Livery) B789 (JA873A),Landed 13:08,2021-05-03
+58,58,13:40 MM522,,Fukuoka (FUK),Peach A320 (JA09VA),Landed 13:17,2021-05-03
+59,59,13:43 FX79,,Anchorage (ANC),FedEx B77L (N845FD),Landed 13:27,2021-05-03
+60,60,13:52 AC7317,,Toronto (YYZ),Air Canada B77W (C-FIVM),Landed 13:04,2021-05-03
+61,61,13:55,JL408,Frankfurt (FRA),Japan Airlines B789 (JA878J),Landed 13:03,2021-05-03
+62,62,13:55,UA79,New York (EWR),United Airlines B789 (N27959),Landed 13:36,2021-05-03
+63,63,14:00 MM592,,Kushiro (KUH),Peach A320 (JA825P),Landed 13:40,2021-05-03
+64,64,14:10 MM502,,Naha (OKA),Peach A320 (JA827P),Landed 13:58,2021-05-03
+65,65,14:15,GK324,Shimojishima (SHI),Jetstar Airways A320 (JA16JJ),Landed 14:17,2021-05-03
+66,66,14:20,JL8011,Dallas (DFW),Japan Airlines B789 (JA863J),Landed 13:59,2021-05-03
+67,67,14:35,UA837,San Francisco (SFO),United Airlines B789 (N27958),Landed 14:27,2021-05-03
+68,68,14:40 MM524,,Fukuoka (FUK),Peach A320 (JA811P),Landed 14:25,2021-05-03
+69,69,14:50,GK304,Naha (OKA),Jetstar Airways A320 (JA24JJ),Landed 14:43,2021-05-03
+70,70,15:00,AA61,Dallas (DFW),American Airlines B789 (N825AA),Landed 14:05,2021-05-03
+71,71,15:00 NH11,,Chicago (ORD),All Nippon Airways B77W (JA790A),Landed 14:41,2021-05-03
+72,72,15:00 GK108,,Sapporo (CTS),Jetstar A320 (JA25JJ),Landed 14:50,2021-05-03
+73,73,15:00 UA196,,Guam (GUM),United Airlines B738 (N36280),Landed 14:33,2021-05-03
+74,74,15:10 NH820,,Manila (MNL),All Nippon Airways B789 (JA885A),Landed 14:31,2021-05-03
+75,75,15:10 NH9649,,Chicago (ORD),All Nippon Airways (Star Wars BB-8 Livery) B77W (JA789A),Landed 14:59,2021-05-03
+76,76,15:15 MM352,,Nagasaki (NGS),Peach A320 (JA06VA),Landed 15:18,2021-05-03
+77,77,15:15 NH806,,Bangkok (BKK),All Nippon Airways B789 (JA894A),Landed 14:45,2021-05-03
+78,78,15:15 NH834,,Ho Chi Minh City (SGN),All Nippon Airways B789 (JA891A),Landed 14:22,2021-05-03
+79,79,15:20 NH816,,Kuala Lumpur (KUL),All Nippon Airways B789 (JA898A),Landed 14:57,2021-05-03
+80,80,15:25 NH7,,San Francisco (SFO),All Nippon Airways B77W (JA797A),Landed 15:03,2021-05-03
+81,81,15:29 NH836,,Jakarta (CGK),All Nippon Airways B789 (JA922A),Landed 15:36,2021-05-03
+82,82,15:30 GK506,,Fukuoka (FUK),Jetstar Airways A320 (JA05JJ),Landed 15:33,2021-05-03
+83,83,15:35 JL8009,,Chicago (ORD),Japan Airlines B77W (JA741J),Landed 15:23,2021-05-03
+84,84,15:35 JL746,,Manila (MNL),Japan Airlines B788 (JA830J),Landed 15:05,2021-05-03
+85,85,15:40 NH232,,Brussels (BRU),All Nippon Airways -,Canceled,2021-05-03
+86,86,15:50 JL67,,Seattle (SEA),Japan Airlines B788 (JA840J),Landed 15:28,2021-05-03
+87,87,15:50 AC7283,,Toronto (YYZ),Air Canada B788 (C-GHPQ),Landed 15:17,2021-05-03
+88,88,15:52 PO213,,Cincinnati (CVG),DHL B748 (N857GT),Landed 15:22,2021-05-03
+89,89,15:55 GK110,,Sapporo (CTS),Jetstar Airways A320 (JA17JJ),Landed 15:46,2021-05-03
+90,90,15:55 MM542,,Amami (ASJ),Peach A320 (JA07VA),Landed 16:02,2021-05-03
+91,91,16:00 HA821,,Honolulu (HNL),Hawaiian Airlines A332 (N396HA),Landed 15:54,2021-05-03
+92,92,16:00 JL750,,Ho Chi Minh City (SGN),Japan Airlines B789 (JA875J),Landed 15:31,2021-05-03
+93,93,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-03
+94,94,16:05 CX520,,Hong Kong (HKG),Cathay Pacific A35K (B-LXH),Landed 15:39,2021-05-03
+95,95,16:10 KZ17,,Milan (MXP),Nippon Cargo Airlines B748 (JA16KZ),Landed 14:54,2021-05-03
+96,96,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-03
+97,97,16:10 AA9742,,Los Angeles (LAX),American Airlines B77W (N734AR),Unknown,2021-05-03
+98,98,16:20 JL708,,Bangkok (BKK),Japan Airlines B788 (JA824J),Landed 16:00,2021-05-03
+99,99,16:20 JL712,,Singapore (SIN),Japan Airlines B789 (JA872J),Landed 15:57,2021-05-03
+100,100,16:25 GK204,,Osaka (KIX),Jetstar Airways A320 (JA19JJ),Landed 16:10,2021-05-03
+101,101,16:25 GK646,,Nagasaki (NGS),Jetstar Airways A320 (JA20JJ),Landed 16:16,2021-05-03
+102,102,16:25 JL7,,Boston (BOS),Japan Airlines B789 (JA865J),Landed 15:46,2021-05-03
+103,103,16:30 NH5,,Los Angeles (LAX),All Nippon Airways B789 (JA876A),Landed 16:22,2021-05-03
+104,104,16:35,JL8005,New York (JFK),Japan Airlines B77W (JA743J),Landed 16:18,2021-05-03
+105,105,16:35,GK426,Nankoku (KCZ),Jetstar Airways A320 (JA22JJ),Landed 16:37,2021-05-03
+106,106,16:40,JL61,Los Angeles (LAX),Japan Airlines B77W (JA742J),Landed 16:48,2021-05-03
+107,107,16:45,JL57,San Francisco (SFO),Japan Air Lines B789 (JA867J),Landed 16:31,2021-05-03
+108,108,16:45,JL65,San Diego (SAN),Japan Airlines B788 (JA841J),Landed 16:39,2021-05-03
+109,109,16:55,CI104,Taipei (TPE),China Airlines A333 (B-18315),Landed 16:25,2021-05-03
+110,110,16:58 JL6713,,Dallas (DFW),Japan Airlines B789 (JA880J),Landed 16:27,2021-05-03
+111,111,17:00 IJ702,,Saga (HSG),Spring Airlines Japan B738 (JA02GR),Landed 16:44,2021-05-03
+112,112,17:00 NH8434,,Shanghai (PVG),ANA Cargo B763 (JA8323),Landed 16:58,2021-05-03
+113,113,17:10,GK508,Fukuoka (FUK),Jetstar Airways A320 (JA07JJ),Landed 17:04,2021-05-03
+114,114,17:20,GK404,Matsuyama (MYJ),Jetstar Airways A320 (JA09JJ),Landed 17:10,2021-05-03
+115,115,17:35,GK636,Miyazaki (KMI),Jetstar Airways A320 (JA21JJ),Landed 17:29,2021-05-03
+116,116,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-03
+117,117,17:45 MM554,,Miyazaki (KMI),Peach A320 (JA814P),Landed 17:36,2021-05-03
+118,118,17:55,GK414,Takamatsu (TAK),Jetstar Airways A320 (JA23JJ),Landed 17:46,2021-05-03
+119,119,18:00 MM594,,Memanbetsu (MMB),Peach A320 (JA821P),Landed 17:15,2021-05-03
+120,120,18:12 JL6721,,Los Angeles (LAX),Japan Airlines B789 (JA870J),Landed 17:55,2021-05-03
+121,121,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA04JJ),Landed 18:28,2021-05-03
+122,122,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BAV),Landed 18:24,2021-05-03
+123,123,18:50 UA2835,,Hong Kong (HKG),United Airlines B77W (N2749U),Landed 18:21,2021-05-03
+124,124,19:00 IJ834,,Sapporo (CTS),Spring Airlines Japan B738 (JA04GR),Landed 19:03,2021-05-03
+125,125,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N736AT),Landed 19:02,2021-05-03
+126,126,19:05 MM582,,Sapporo (CTS),Peach A320 (JA09VA),Landed 19:04,2021-05-03
+127,127,19:20 NH8401,,Chicago (ORD),ANA Cargo B77L (JA771F),Landed 17:33,2021-05-03
+128,128,19:30 MM526,,Fukuoka (FUK),Peach A20N (JA201P),Landed 19:04,2021-05-03
+129,129,19:30 NH8516,,Xiamen (XMN),All Nippon Airways 76F,Unknown,2021-05-03
+130,130,19:30 LD208,,Hong Kong (HKG),Air Hong Kong 33Y,Unknown,2021-05-03
+131,131,19:30 KZ260,,Hong Kong (HKG),Nippon Cargo Airlines 74N,Unknown,2021-05-03
+132,132,19:45,GK208,Osaka (KIX),Jetstar A320 (JA25JJ),Landed 19:23,2021-05-03
+133,133,19:45 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA791A),Landed 19:10,2021-05-03
+134,134,19:50 NH932,,Shenzhen (SZX),All Nippon Airways B789 (JA893A),Landed 19:43,2021-05-03
+135,135,20:20,GK512,Fukuoka (FUK),Jetstar Airways A320 (JA24JJ),Landed 20:01,2021-05-03
+136,136,20:25,GK306,Naha (OKA),Jetstar Airways A320 (JA08JJ),Landed 20:18,2021-05-03
+137,137,20:25 MM506,,Naha (OKA),Peach A20N (JA203P),Landed 20:32,2021-05-03
+138,138,20:35 AC7207,,Toronto (YYZ),Air Canada B789 (C-FGDT),Landed 19:52,2021-05-03
+139,139,20:55,GK118,Sapporo (CTS),Jetstar Airways A320 (JA17JJ),Landed 20:45,2021-05-03
+140,140,20:55,GK326,Shimojishima (SHI),Jetstar Airways A320 (JA11JJ),Landed 21:09,2021-05-03
+141,141,20:55 IJ254,,Tianjin (TSN),Spring Airlines Japan B738 (JA06GR),Landed 22:02,2021-05-03
+142,142,21:05 KZ208,,Hong Kong (HKG),Nippon Cargo Airlines 74N,Unknown,2021-05-03
+143,143,21:05 MM586,,Sapporo (CTS),Peach A320 (JA15VA),Landed 20:59,2021-05-03
+144,144,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA05JJ),Landed 20:57,2021-05-03
+145,145,21:15 MM508,,Naha (OKA),Peach A320 (JA826P),Landed 20:55,2021-05-03
+146,146,21:15 MM536,,Ishigaki (ISG),Peach A320 (JA10VA),Landed 21:02,2021-05-03
+147,147,21:20 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA603A),Landed 19:56,2021-05-03
+148,148,21:25 MM319,,Osaka (KIX),Peach (Fly Peach to Amami Livery) A320 (JA08VA),Landed 21:08,2021-05-03
+149,149,21:35 MM588,,Sapporo (CTS),Peach A320 (JA818P),Landed 21:44,2021-05-03
+150,150,21:50,GK210,Osaka (KIX),Jetstar Airways A320 (JA13JJ),Landed 21:37,2021-05-03
+151,151,21:50,GK608,Oita (OIT),Jetstar Airways A320 (JA19JJ),Landed 21:38,2021-05-03
+152,152,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA14JJ),Landed 21:50,2021-05-03
+153,153,21:55,GK406,Matsuyama (MYJ),Jetstar Airways A320 (JA07JJ),Landed 21:48,2021-05-03
+154,154,22:00,GK618,Kumamoto (KMJ),Jetstar Airways A320 (JA22JJ),Landed 21:52,2021-05-03
+155,155,22:00 MM528,,Fukuoka (FUK),Peach A320 (JA07VA),Landed 21:35,2021-05-03
+156,156,22:05,GK418,Takamatsu (TAK),Jetstar Airways A320 (JA21JJ),Landed 21:54,2021-05-03
+157,157,22:10,GK120,Sapporo (CTS),Jetstar Airways A320 (JA09JJ),Landed 21:57,2021-05-03
+158,158,22:10,GK516,Fukuoka (FUK),Jetstar Airways A320 (JA20JJ),Landed 22:04,2021-05-03
+159,159,22:30 MU311,,-,China Eastern Airlines 333,Unknown,2021-05-03
+0,0,02:35 HT3823,,Weihai (WEH),Air Horizont 737,Unknown,2021-05-04
+1,1,05:40 CF207,,Shanghai (PVG),China Postal Airlines B738 (B-5131),Landed 13:00,2021-05-04
+2,2,06:10 NH8536,,Seoul (ICN),All Nippon Airways 76F,Unknown,2021-05-04
+3,3,06:10 YG9105,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-05-04
+4,4,06:15 NH8506,,Qingdao (TAO),All Nippon Airways 76F,Unknown,2021-05-04
+5,5,06:20 NH8432,,Shanghai (PVG),ANA Cargo B763 (JA603A),Landed 06:01,2021-05-04
+6,6,06:25 OZ1981,,Seoul (ICN),Asiana Airlines 76F,Unknown,2021-05-04
+7,7,06:27 FX15,,Anchorage (ANC),FedEx B77L (N876FD),Landed 06:40,2021-05-04
+8,8,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA876J),Landed 06:19,2021-05-04
+9,9,06:30 KZ49,,Milan (MXP),Nippon Cargo Airlines B748 (JA15KZ),Landed 06:06,2021-05-04
+10,10,06:40 NH8534,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-04
+11,11,06:40 9S7930,,Chicago (ORD),DHL B77L (N774SA),Landed 06:08,2021-05-04
+12,12,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA827A),Landed 06:21,2021-05-04
+13,13,06:45 PO7930,,Chicago (ORD),Polar Air Cargo 77F,Unknown,2021-05-04
+14,14,07:25 NH8512,,Hong Kong (HKG),All Nippon Airways 76F,Unknown,2021-05-04
+15,15,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA13KZ),Landed 07:55,2021-05-04
+16,16,07:35 NH8548,,Hanoi (HAN),All Nippon Airways B789 (JA898A),Landed 07:42,2021-05-04
+17,17,07:40 NH8490,,Guangzhou (CAN),All Nippon Airways 76F,Unknown,2021-05-04
+18,18,07:40 OZ194,,Seoul (ICN),Asiana Cargo B763 (HL7507),Landed 06:04,2021-05-04
+19,19,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA825J),Landed 06:59,2021-05-04
+20,20,07:45 PO752,,Shenzhen (SZX),Polar Air Cargo 77F,Unknown,2021-05-04
+21,21,07:50 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-04
+22,22,07:55,SB800,Noumea (NOU),Aircalin A339 (F-ONEO),Landed 07:52,2021-05-04
+23,23,08:00,SQ638,Singapore (SIN),Singapore Airlines B78X (9V-SCH),Landed 07:24,2021-05-04
+24,24,08:00 PO212,,Shanghai (PVG),Polar Air Cargo 744,Unknown,2021-05-04
+25,25,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA16KZ),Landed 07:27,2021-05-04
+26,26,08:20 KZ165,,Los Angeles (LAX),Nippon Cargo Airlines 74N,Unknown,2021-05-04
+27,27,08:25,AF276,Paris (CDG),Air France B77W (F-GSQD),Landed 07:35,2021-05-04
+28,28,08:25 UA2829,,Chicago (ORD),United Airlines B77W (N2243U),Landed 08:00,2021-05-04
+29,29,08:30 KZ133,,Anchorage (ANC),Nippon Cargo Airlines B744,Unknown,2021-05-04
+30,30,09:05 MM311,,Osaka (KIX),Peach A320 (JA812P),Landed 08:50,2021-05-04
+31,31,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-04
+32,32,09:25,GK528,Fukuoka (FUK),Jetstar Airways A320 (JA04JJ),Landed 09:18,2021-05-04
+33,33,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-04
+34,34,09:35 JL3082,,Nagoya (NGO),Japan Airlines 73H,Canceled,2021-05-04
+35,35,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-04
+36,36,09:40 CA1073,,Shanghai (PVG),Air China 77F,Unknown,2021-05-04
+37,37,09:40 MM562,,Sapporo (CTS),Peach A320 (JA814P),Landed 09:31,2021-05-04
+38,38,09:40,TW201,Daegu (TAE),T'way Air 737,Canceled,2021-05-04
+39,39,09:45 MM518,,Fukuoka (FUK),Peach A320 (JA821P),Landed 09:37,2021-05-04
+40,40,10:15 PO717,,Los Angeles (LAX),Polar Air Cargo B744,Unknown,2021-05-04
+41,41,10:15,TW211,Seoul (ICN),T'way Air 737,Canceled,2021-05-04
+42,42,10:30 CI5706,,Taipei (TPE),China Airlines Cargo B744 (B-18701),Landed 11:28,2021-05-04
+43,43,10:50,GK102,Sapporo (CTS),Jetstar Airways A320 (JA21JJ),Landed 10:29,2021-05-04
+44,44,10:55 NH8546,,Bangkok (BKK),All Nippon Airways 76F,Unknown,2021-05-04
+45,45,11:05 NH238,,Brussels (BRU),All Nippon Airways B77W (JA785A),Landed 10:23,2021-05-04
+46,46,11:15,GK410,Takamatsu (TAK),Jetstar Airways A320 (JA03JJ),Landed 11:06,2021-05-04
+47,47,11:35 MM566,,Sapporo (CTS),Peach A320 (JA818P),Landed 11:58,2021-05-04
+48,48,11:40,GK400,Matsuyama (MYJ),Jetstar Airways A320 (JA01JJ),Landed 11:27,2021-05-04
+49,49,11:48 5Y7103,,Los Angeles (LAX),Atlas Air B744 (N406KZ),Landed 12:23,2021-05-04
+50,50,11:50,GK610,Kumamoto (KMJ),Jetstar Airways A320 (JA13JJ),Landed 12:05,2021-05-04
+51,51,12:00,GK104,Sapporo (CTS),Jetstar Airways A320 (JA19JJ),Landed 11:39,2021-05-04
+52,52,12:10,PR428,Manila (MNL),Philippine Airlines A321 (RP-C9905),Landed 11:36,2021-05-04
+53,53,12:20,OZ102,Seoul (ICN),Asiana Airlines A21N (HL8356),Landed 12:01,2021-05-04
+54,54,12:20 KZ101,,Los Angeles (LAX),Nippon Cargo Airlines B748 (JA18KZ),Landed 12:40,2021-05-04
+55,55,12:25 KZ7103,,Los Angeles (LAX),Nippon Cargo Airlines B741,Unknown,2021-05-04
+56,56,12:25,GK202,Osaka (KIX),Jetstar Airways A320 (JA07JJ),Landed 12:11,2021-05-04
+57,57,12:25 MM313,,Osaka (KIX),Peach A320 (JA11VA),Landed 12:24,2021-05-04
+58,58,12:25 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA604F),Landed 12:30,2021-05-04
+59,59,12:30 MM556,,Kagoshima (KOJ),Peach A320 (JA827P),Landed 12:33,2021-05-04
+60,60,12:35,GK600,Oita (OIT),Jetstar Airways A320 (JA02JJ),Landed 12:27,2021-05-04
+61,61,12:35 MM520,,Fukuoka (FUK),Peach A320 (JA12VA),Landed 12:14,2021-05-04
+62,62,12:50,GK622,Kagoshima (KOJ),Jetstar Japan 320,Canceled,2021-05-04
+63,63,13:00 MM362,,Oita (OIT),Peach (Fly Peach to Amami Livery) A320 (JA08VA),Landed 12:59,2021-05-04
+64,64,13:05 MM570,,Sapporo (CTS),Peach A320 (JA15VA),Landed 13:04,2021-05-04
+65,65,13:15,CI100,Taipei (TPE),China Airlines 77W,Unknown,2021-05-04
+66,66,13:20 IJ622,,Hiroshima (HIJ),Spring Airlines Japan B738 (JA01GR),Landed 13:14,2021-05-04
+67,67,13:25,GK504,Fukuoka (FUK),Jetstar Airways A320 (JA17JJ),Landed 13:25,2021-05-04
+68,68,13:30,GK300,Naha (OKA),Jetstar Airways A320 (JA22JJ),Landed 13:26,2021-05-04
+69,69,13:30 KZ141,,Chicago (ORD),Nippon Cargo Airlines 74N,Unknown,2021-05-04
+70,70,13:32 NH9641,,Los Angeles (LAX),All Nippon Airways B789 (JA837A),Landed 12:47,2021-05-04
+71,71,13:40 MM522,,Fukuoka (FUK),Peach A20N (JA201P),Landed 13:32,2021-05-04
+72,72,13:55,UA79,New York (EWR),United Airlines B789 (N29984),Landed 13:41,2021-05-04
+73,73,13:55 MU593,,Xi'an (XIY),China Eastern Airlines A333 (B-8863),Landed 13:58,2021-05-04
+74,74,14:00 MM592,,Kushiro (KUH),Peach A320 (JA06VA),Landed 13:47,2021-05-04
+75,75,14:03 PO775,,Cincinnati (CVG),DHL B744 (N453PA),Landed 13:59,2021-05-04
+76,76,14:10 MM502,,Naha (OKA),Peach A320 (JA10VA),Landed 13:56,2021-05-04
+77,77,14:15,GK324,Shimojishima (SHI),Jetstar Airways A320 (JA11JJ),Landed 14:14,2021-05-04
+78,78,14:15 AC7317,,Toronto (YYZ),Air Canada B789 (C-FRTU),Landed 12:55,2021-05-04
+79,79,14:20,JL8011,Dallas (DFW),Japan Airlines B789 (JA866J),Landed 13:55,2021-05-04
+80,80,14:20,NH802,Singapore (SIN),All Nippon Airways B78X (JA900A),Landed 13:49,2021-05-04
+81,81,14:35,UA837,San Francisco (SFO),United Airlines B789 (N27958),Landed 14:16,2021-05-04
+82,82,14:40 MM524,,Fukuoka (FUK),Peach A320 (JA812P),Landed 14:20,2021-05-04
+83,83,14:50,GK304,Naha (OKA),Jetstar Airways A320 (JA20JJ),Landed 14:53,2021-05-04
+84,84,14:55 PO231,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-04
+85,85,15:00,AA61,Dallas (DFW),American Airlines B789 (N828AA),Landed 14:02,2021-05-04
+86,86,15:00,NH11,Chicago (ORD),All Nippon Airways B77W (JA784A),Landed 14:27,2021-05-04
+87,87,15:00,GK108,Sapporo (CTS),Jetstar Airways A320 (JA09JJ),Landed 14:42,2021-05-04
+88,88,15:00,UA196,Guam (GUM),United Airlines B738 (N37281),Landed 14:52,2021-05-04
+89,89,15:10 MM532,,Ishigaki (ISG),Peach A320 (JA826P),Landed 14:44,2021-05-04
+90,90,15:10,NH820,Manila (MNL),All Nippon Airways B789 (JA883A),Landed 14:25,2021-05-04
+91,91,15:15 MM352,,Nagasaki (NGS),Peach A320 (JA821P),Landed 15:07,2021-05-04
+92,92,15:15,NH834,Ho Chi Minh City (SGN),All Nippon Airways B788 (JA806A),Landed 14:22,2021-05-04
+93,93,15:15 NH806,,Bangkok (BKK),All Nippon Airways B789 (JA922A),Landed 14:35,2021-05-04
+94,94,15:15 NH9649,,Chicago (ORD),All Nippon Airways B77W (JA795A),Landed 14:30,2021-05-04
+95,95,15:25 NH7,,San Francisco (SFO),All Nippon Airways B77W (JA797A),Landed 14:39,2021-05-04
+96,96,15:30 NH8401,,Chicago (ORD),All Nippon Airways B77F,Unknown,2021-05-04
+97,97,15:30 GK506,,Fukuoka (FUK),Jetstar Airways A320 (JA04JJ),Landed 15:10,2021-05-04
+98,98,15:35 JL8009,,Chicago (ORD),Japan Airlines B77W (JA736J),Landed 15:17,2021-05-04
+99,99,15:35 JL746,,Manila (MNL),Japan Airlines B788 (JA828J),Landed 15:00,2021-05-04
+100,100,15:40 ZG42,,Seoul (ICN),ZIPAIR B788 (JA822J),Landed 15:05,2021-05-04
+101,101,15:40 NH232,,Brussels (BRU),All Nippon Airways -,Canceled,2021-05-04
+102,102,15:45 FX9737,,Chicago (ORD),FedEx B77L (N888FD),Landed 15:40,2021-05-04
+103,103,15:50 KE551,,Seoul (ICN),Korean Air Cargo B748 (HL7610),Landed 15:12,2021-05-04
+104,104,15:50 AC7283,,Toronto (YYZ),Air Canada B788 (C-GHQQ),Landed 14:56,2021-05-04
+105,105,15:55 GK110,,Sapporo (CTS),Jetstar Airways A320 (JA03JJ),Landed 15:57,2021-05-04
+106,106,15:55 MM542,,Amami (ASJ),Peach A320 (JA814P),Landed 15:55,2021-05-04
+107,107,16:00 JL750,,Ho Chi Minh City (SGN),Japan Airlines B789 (JA864J),Landed 15:19,2021-05-04
+108,108,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-04
+109,109,16:05 CX520,,Hong Kong (HKG),Cathay Pacific 330,Unknown,2021-05-04
+110,110,16:10 AA9744,,Los Angeles (LAX),American Airlines B77W (N717AN),Landed 17:30,2021-05-04
+111,111,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-04
+112,112,16:15 JL7,,Boston (BOS),Japan Airlines B789 (JA862J),Landed 15:34,2021-05-04
+113,113,16:20 JL708,,Bangkok (BKK),Japan Airlines B788 (JA830J),Landed 15:40,2021-05-04
+114,114,16:20 JL720,,Jakarta (CGK),Japan Airlines B789 (JA872J),Landed 15:48,2021-05-04
+115,115,16:20 JL712,,Singapore (SIN),Japan Airlines B789 (JA863J),Landed 15:53,2021-05-04
+116,116,16:25 GK204,,Osaka (KIX),Jetstar Airways A320 (JA24JJ),Landed 16:03,2021-05-04
+117,117,16:25 GK646,,Nagasaki (NGS),Jetstar Airways A320 (JA21JJ),Landed 16:12,2021-05-04
+118,118,16:25 KZ129,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA12KZ),Landed 16:23,2021-05-04
+119,119,16:30 NH5,,Los Angeles (LAX),All Nippon Airways (Star Wars R2-D2 Livery) B789 (JA873A),Landed 15:46,2021-05-04
+120,120,16:35 GK426,,Nankoku (KCZ),Jetstar Airways A320 (JA13JJ),Landed 16:27,2021-05-04
+121,121,16:47 JL61,,Los Angeles (LAX),Japan Airlines B77W (JA741J),Landed 16:20,2021-05-04
+122,122,16:50 NZ1099,,Auckland (AKL),Air New Zealand B789 (ZK-NZI),Landed 17:25,2021-05-04
+123,123,16:50 TW241,,Jeju (CJU),T'way Air 737,Canceled,2021-05-04
+124,124,16:55 CI104,,Taipei (TPE),China Airlines A333 (B-18359),Landed 16:41,2021-05-04
+125,125,17:00 IJ702,,Saga (HSG),Spring Airlines Japan B738 (JA05GR),Landed 16:47,2021-05-04
+126,126,17:00 JL820,,Dalian (DLC),Japan Airlines B789 (JA880J),Landed 16:25,2021-05-04
+127,127,17:00 NH8434,,Shanghai (PVG),ANA Cargo B763 (JA8358),Landed 17:01,2021-05-04
+128,128,17:10 GK508,,Fukuoka (FUK),Jetstar Airways A320 (JA01JJ),Landed 16:59,2021-05-04
+129,129,17:20 GK404,,Matsuyama (MYJ),Jetstar Airways A320 (JA02JJ),Landed 17:10,2021-05-04
+130,130,17:35 EK318,,Dubai (DXB),Emirates B77W (A6-EQK),Landed 17:37,2021-05-04
+131,131,17:35 GK636,,Miyazaki (KMI),Jetstar Airways A320 (JA19JJ),Landed 17:28,2021-05-04
+132,132,17:35 TW213,,Seoul (ICN),T'way Air 737,Canceled,2021-05-04
+133,133,17:45 MM554,,Miyazaki (KMI),Peach A320 (JA11VA),Landed 17:35,2021-05-04
+134,134,17:45 AC7207,,Toronto (YYZ),Air Canada B789 (C-FKSV),Landed 16:28,2021-05-04
+135,135,17:55,GK414,Takamatsu (TAK),Jetstar Airways A320 (JA17JJ),Landed 17:50,2021-05-04
+136,136,18:00 KJ3126,,Seoul (ICN),Air Incheon 73F,Unknown,2021-05-04
+137,137,18:00 MM594,,Memanbetsu (MMB),Peach A320 (JA818P),Landed 17:19,2021-05-04
+138,138,18:15 AA9740,,Chicago (ORD),American Airlines B772 (N750AN),Landed 17:33,2021-05-04
+139,139,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA07JJ),Landed 18:10,2021-05-04
+140,140,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BED),Landed 18:16,2021-05-04
+141,141,19:00 IJ834,,Sapporo (CTS),Spring Airlines Japan B738 (JA04GR),Landed 18:48,2021-05-04
+142,142,19:00 NH8540,,Taipei (TPE),ANA Cargo B763 (JA601F),Landed 18:21,2021-05-04
+143,143,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N734AR),Landed 18:40,2021-05-04
+144,144,19:05 MM582,,Sapporo (CTS),Peach A20N (JA201P),Landed 19:00,2021-05-04
+145,145,19:10 QF21,,Sydney (SYD),Qantas B789 (VH-ZNF),Landed 20:20,2021-05-04
+146,146,19:15 KZ226,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA13KZ),Landed 19:30,2021-05-04
+147,147,19:30 LD208,,Hong Kong (HKG),DHL A333 (B-LDQ),Landed 19:05,2021-05-04
+148,148,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA14VA),Landed 19:25,2021-05-04
+149,149,19:30 KZ7141,,Chicago (ORD),Nippon Cargo Airlines 74Y,Unknown,2021-05-04
+150,150,19:45,GK208,Osaka (KIX),Jetstar Airways A320 (JA09JJ),Landed 19:27,2021-05-04
+151,151,19:50 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA790A),Landed 18:50,2021-05-04
+152,152,19:57 KZ131,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA11KZ),Landed 19:57,2021-05-04
+153,153,20:15 NH1932,,Hong Kong (HKG),All Nippon Airways -,Canceled,2021-05-04
+154,154,20:20,GK512,Fukuoka (FUK),Jetstar Airways A320 (JA20JJ),Landed 20:17,2021-05-04
+155,155,20:20,JL802,Taipei (TPE),Japan Airlines B788 (JA829J),Landed 19:49,2021-05-04
+156,156,20:25 KZ7163,,Chicago (ORD),Nippon Cargo Airlines B741,Unknown,2021-05-04
+157,157,20:25,GK306,Naha (OKA),Jetstar A320 (JA25JJ),Landed 20:18,2021-05-04
+158,158,20:25 MM506,,Naha (OKA),Peach A320 (JA15VA),Landed 20:11,2021-05-04
+159,159,20:35 UA2830,,Hong Kong (HKG),United Airlines B77W (N2243U),Landed 20:00,2021-05-04
+160,160,20:55,GK118,Sapporo (CTS),Jetstar Airways A320 (JA24JJ),Landed 20:45,2021-05-04
+161,161,20:55,GK326,Shimojishima (SHI),Jetstar Airways A320 (JA22JJ),Landed 20:52,2021-05-04
+162,162,21:00 NH8516,,Xiamen (XMN),All Nippon Airways 76F,Unknown,2021-05-04
+163,163,21:05 UA2801,,San Francisco (SFO),United Airlines B789 (N27959),Landed 20:34,2021-05-04
+164,164,21:05 MM586,,Sapporo (CTS),Peach A320 (JA826P),Landed 21:01,2021-05-04
+165,165,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA03JJ),Landed 21:03,2021-05-04
+166,166,21:15 MM508,,Naha (OKA),Peach A320 (JA07VA),Landed 20:54,2021-05-04
+167,167,21:15 MM536,,Ishigaki (ISG),Peach A320 (JA827P),Landed 20:44,2021-05-04
+168,168,21:20 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA8664),Landed 20:13,2021-05-04
+169,169,21:25 MM319,,Osaka (KIX),Peach A320 (JA823P),Landed 21:08,2021-05-04
+170,170,21:25 NH8502,,Dalian (DLC),All Nippon Airways 76F,Unknown,2021-05-04
+171,171,21:35 MM588,,Sapporo (CTS),Peach A320 (JA811P),Landed 21:33,2021-05-04
+172,172,21:50,GK210,Osaka (KIX),Jetstar Airways A320 (JA10JJ),Landed 21:44,2021-05-04
+173,173,21:50,GK608,Oita (OIT),Jetstar Airways A320 (JA23JJ),Landed 21:50,2021-05-04
+174,174,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA15JJ),Landed 21:37,2021-05-04
+175,175,21:55,GK406,Matsuyama (MYJ),Jetstar Airways A320 (JA01JJ),Landed 21:49,2021-05-04
+176,176,21:55 MM510,,Naha (OKA),Peach A320 (JA812P),Landed 21:36,2021-05-04
+177,177,22:00,GK618,Kumamoto (KMJ),Jetstar Airways A320 (JA13JJ),Landed 21:54,2021-05-04
+178,178,22:00 MM528,,Fukuoka (FUK),Peach A320 (JA814P),Landed 21:41,2021-05-04
+179,179,22:05,GK418,Takamatsu (TAK),Jetstar Airways A320 (JA19JJ),Landed 21:57,2021-05-04
+180,180,22:10,GK120,Sapporo (CTS),Jetstar Airways A320 (JA02JJ),Landed 22:00,2021-05-04
+181,181,22:10,GK516,Fukuoka (FUK),Jetstar Airways A320 (JA21JJ),Landed 22:00,2021-05-04
+182,182,22:30 MU311,,-,China Eastern Airlines 333,Unknown,2021-05-04
+0,0,02:35 HT3823,,Weihai (WEH),Air Horizont 737,Unknown,2021-05-05
+1,1,04:45 CF227,,Zhengzhou (CGO),China Postal Airlines 73F,Unknown,2021-05-05
+2,2,05:40 CF207,,Shanghai (PVG),China Postal Airlines B738 (B-5131),Landed 12:47,2021-05-05
+3,3,06:10 NH8536,,Seoul (ICN),ANA Cargo B763 (JA603A),Landed 06:02,2021-05-05
+4,4,06:10 OZ198,,Seoul (ICN),Asiana Airlines 76F,Unknown,2021-05-05
+5,5,06:10 YG9105,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-05-05
+6,6,06:15 NH8506,,Qingdao (TAO),All Nippon Airways 76F,Unknown,2021-05-05
+7,7,06:17 FX31,,Oakland (OAK),FedEx B77L (N882FD),Landed 06:32,2021-05-05
+8,8,06:20 JL8746,,Manila (MNL),Japan Airlines B788 (JA828J),Landed 06:07,2021-05-05
+9,9,06:20 NH8432,,Shanghai (PVG),All Nippon Airways 77F,Unknown,2021-05-05
+10,10,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA866J),Landed 06:07,2021-05-05
+11,11,06:31 FX15,,Memphis (MEM),FedEx B77L (N861FD),Landed 08:19,2021-05-05
+12,12,06:40 NH8534,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-05
+13,13,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA828A),Landed 06:27,2021-05-05
+14,14,06:45 NH898,,Hanoi (HAN),All Nippon Airways -,Canceled,2021-05-05
+15,15,06:55 KZ133,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA17KZ),Landed 07:42,2021-05-05
+16,16,07:05,JL724,Kuala Lumpur (KUL),Japan Airlines B789 (JA870J),Landed 06:20,2021-05-05
+17,17,07:07 PO213,,Cincinnati (CVG),DHL B748 (N857GT),Landed 07:02,2021-05-05
+18,18,07:10 NH8532,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-05
+19,19,07:13 5Y7163,,Chicago (ORD),Atlas Air B744 (N407KZ),Landed 09:16,2021-05-05
+20,20,07:25,JL726,Jakarta (CGK),Japan Airlines B789 (JA869J),Landed 07:08,2021-05-05
+21,21,07:25 NH8512,,Hong Kong (HKG),All Nippon Airways 76F,Unknown,2021-05-05
+22,22,07:30 CI5706,,Taipei (TPE),China Airlines Cargo B744 (B-18718),Landed 11:46,2021-05-05
+23,23,07:30 KZ7244,,Taipei (TPE),Atlas Air B744 (N405KZ),Landed 08:14,2021-05-05
+24,24,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA11KZ),Landed 07:04,2021-05-05
+25,25,07:40 CK241,,Shanghai (PVG),China Cargo Airlines B77L (B-2082),Landed 07:16,2021-05-05
+26,26,07:40 NH8490,,Guangzhou (CAN),All Nippon Airways 76F,Unknown,2021-05-05
+27,27,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA822J),Landed 07:13,2021-05-05
+28,28,07:50 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-05
+29,29,07:55 NH8404,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-05
+30,30,07:55 PO752,,Shenzhen (SZX),Polar Air Cargo 77F,Unknown,2021-05-05
+31,31,07:59 NH8548,,Hanoi (HAN),All Nippon Airways B789 (JA893A),Landed 08:03,2021-05-05
+32,32,08:00 PO212,,Shanghai (PVG),DHL B744 (N453PA),Landed 08:59,2021-05-05
+33,33,08:10,TG642,Bangkok (BKK),Thai Airways A359 (HS-THD),Landed 07:36,2021-05-05
+34,34,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA12KZ),Landed 07:46,2021-05-05
+35,35,08:16 5X108,,Anchorage (ANC),UPS B763 (N361UP),Landed 08:12,2021-05-05
+36,36,08:35,KL861,Amsterdam (AMS),KLM B77W (PH-BVO),Landed 07:59,2021-05-05
+37,37,08:40,JL718,Bangkok (BKK),Japan Airlines B788 (JA826J),Landed 07:51,2021-05-05
+38,38,09:01 RA433,,Kathmandu (KTM),Nepal Airlines A332 (9N-ALY),Landed 10:06,2021-05-05
+39,39,09:05 MM311,,Osaka (KIX),Peach A20N (JA203P),Landed 08:57,2021-05-05
+40,40,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-05
+41,41,09:25,GK528,Fukuoka (FUK),Jetstar Airways A320 (JA07JJ),Landed 09:10,2021-05-05
+42,42,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-05
+43,43,09:30 CA1075,,Shanghai (PVG),Air China 77F,Unknown,2021-05-05
+44,44,09:35 JL3082,,Nagoya (NGO),Japan Airlines 73H,Canceled,2021-05-05
+45,45,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-05
+46,46,09:40 CA1073,,Shanghai (PVG),Air China 77F,Unknown,2021-05-05
+47,47,09:40 MM562,,Sapporo (CTS),Peach (Fly Peach to Amami Livery) A320 (JA08VA),Landed 09:59,2021-05-05
+48,48,09:45 MM518,,Fukuoka (FUK),Peach A320 (JA821P),Landed 09:44,2021-05-05
+49,49,10:15,TW211,Seoul (ICN),T'way Air 737,Canceled,2021-05-05
+50,50,10:30 AI306,,Delhi (DEL),Air India B788 (VT-ANO),Landed 09:49,2021-05-05
+51,51,10:50,GK102,Sapporo (CTS),Jetstar Airways A320 (JA02JJ),Landed 10:44,2021-05-05
+52,52,10:50,TW201,Daegu (TAE),T'way Air 737,Canceled,2021-05-05
+53,53,10:52 NH9656,,Frankfurt (FRA),All Nippon Airways B789 (JA876A),Landed 10:55,2021-05-05
+54,54,10:55 NH8546,,Bangkok (BKK),All Nippon Airways 76F,Unknown,2021-05-05
+55,55,11:00 KZ101,,Los Angeles (LAX),Nippon Cargo Airlines B748 (JA16KZ),Landed 10:16,2021-05-05
+56,56,11:05 NH238,,Brussels (BRU),All Nippon Airways (Star Wars BB-8 Livery) B77W (JA789A),Landed 10:50,2021-05-05
+57,57,11:10 UA2802,,Chengdu (CTU),United Airlines B789 (N27959),Landed 10:30,2021-05-05
+58,58,11:15,GK410,Takamatsu (TAK),Jetstar Airways A320 (JA04JJ),Landed 11:16,2021-05-05
+59,59,11:35 MM566,,Sapporo (CTS),Peach A320 (JA814P),Landed 11:29,2021-05-05
+60,60,11:40,GK400,Matsuyama (MYJ),Jetstar Airways A320 (JA17JJ),Landed 11:45,2021-05-05
+61,61,11:49 FX5285,,Anchorage (ANC),FedEx MD11 (N615FE),Landed 11:54,2021-05-05
+62,62,11:50,GK610,Kumamoto (KMJ),Jetstar Airways A320 (JA13JJ),Landed 11:49,2021-05-05
+63,63,11:55,GK502,Fukuoka (FUK),Jetstar Airways A320 (JA23JJ),Landed 12:36,2021-05-05
+64,64,12:00,GK104,Sapporo (CTS),Jetstar Airways A320 (JA24JJ),Landed 12:01,2021-05-05
+65,65,12:10,LJ201,Seoul (ICN),Jin Air 738,Unknown,2021-05-05
+66,66,12:20 NH8412,,Singapore (SIN),All Nippon Airways 76F,Unknown,2021-05-05
+67,67,12:25 MM313,,Osaka (KIX),Peach A320 (JA05VA),Landed 12:14,2021-05-05
+68,68,12:25 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA601F),Landed 12:16,2021-05-05
+69,69,12:30,GK202,Osaka (KIX),Jetstar Airways A320 (JA05JJ),Landed 12:16,2021-05-05
+70,70,12:30 MM556,,Kagoshima (KOJ),Peach A320 (JA827P),Landed 13:09,2021-05-05
+71,71,12:35,GK600,Oita (OIT),Jetstar Airways A320 (JA03JJ),Landed 12:31,2021-05-05
+72,72,12:35 MM520,,Fukuoka (FUK),Peach A320 (JA818P),Landed 12:23,2021-05-05
+73,73,12:50,GK622,Kagoshima (KOJ),Jetstar Airways A320 (JA08JJ),Landed 12:52,2021-05-05
+74,74,13:00 MM362,,Oita (OIT),Peach A320 (JA10VA),Landed 12:59,2021-05-05
+75,75,13:05 CA1076,,Los Angeles (LAX),Air China B77F,Unknown,2021-05-05
+76,76,13:05 MM570,,Sapporo (CTS),Peach A320 (JA823P),Landed 13:06,2021-05-05
+77,77,13:15,CI100,Taipei (TPE),China Airlines 359,Unknown,2021-05-05
+78,78,13:15 PO715,,Los Angeles (LAX),DHL B744 (N452PA),Landed 12:28,2021-05-05
+79,79,13:20 IJ622,,Hiroshima (HIJ),Spring Airlines Japan B738 (JA01GR),Landed 13:28,2021-05-05
+80,80,13:25,GK504,Fukuoka (FUK),Jetstar Airways A320 (JA10JJ),Landed 13:29,2021-05-05
+81,81,13:30,GK300,Naha (OKA),Jetstar Airways A320 (JA19JJ),Landed 13:16,2021-05-05
+82,82,13:40 MF809,,Fuzhou (FOC),Xiamen Air B738 (B-1749),Landed 13:38,2021-05-05
+83,83,13:40 MM522,,Fukuoka (FUK),Peach A320 (JA07VA),Landed 13:27,2021-05-05
+84,84,13:40,KE703,Seoul (ICN),Korean Air B738 (HL8241),Unknown,2021-05-05
+85,85,13:50 CA145,,Hangzhou (HGH),Air China A320 (B-6773),Landed 13:47,2021-05-05
+86,86,13:55 CZ8101,,Guangzhou (CAN),China Southern Airlines A388 (B-6136),Diverted to NGO,2021-05-05
+87,87,14:00 MM592,,Kushiro (KUH),Peach A320 (JA814P),Landed 16:38,2021-05-05
+88,88,14:10 MM502,,Naha (OKA),Peach A320 (JA811P),Landed 14:03,2021-05-05
+89,89,14:15,GK324,Shimojishima (SHI),Jetstar Airways A320 (JA15JJ),Landed 14:17,2021-05-05
+90,90,14:35,UA837,San Francisco (SFO),United Airlines B789 (N19951),Landed 14:14,2021-05-05
+91,91,14:40 MM524,,Fukuoka (FUK),Peach A20N (JA203P),Landed 14:31,2021-05-05
+92,92,14:50,GK304,Naha (OKA),Jetstar Airways A320 (JA21JJ),Landed 14:37,2021-05-05
+93,93,15:00 AA61,,Dallas (DFW),American Airlines B789 (N841AN),Unknown,2021-05-05
+94,94,15:00 GK108,,Sapporo (CTS),Jetstar A320 (JA25JJ),Landed 15:03,2021-05-05
+95,95,15:00 UA196,,Guam (GUM),United Airlines B738 (N37281),Landed 14:40,2021-05-05
+96,96,15:00 NH11,,Chicago (ORD),All Nippon Airways B77W (JA791A),Landed 14:33,2021-05-05
+97,97,15:05 AC3,,Vancouver (YVR),Air Canada B789 (C-FNOH),Landed 14:36,2021-05-05
+98,98,15:05 5J5056,,Manila (MNL),Cebu Pacific A20N (RP-C4109),Landed 14:43,2021-05-05
+99,99,15:10 MM532,,Ishigaki (ISG),Peach A320 (JA826P),Landed 14:40,2021-05-05
+100,100,15:10 NH820,,Manila (MNL),All Nippon Airways B789 (JA879A),Landed 14:25,2021-05-05
+101,101,15:15 MM352,,Nagasaki (NGS),Peach A320 (JA821P),Landed 15:16,2021-05-05
+102,102,15:15 NH806,,Bangkok (BKK),All Nippon Airways B789 (JA898A),Landed 14:46,2021-05-05
+103,103,15:20 NH816,,Kuala Lumpur (KUL),All Nippon Airways B789 (JA922A),Landed 15:01,2021-05-05
+104,104,15:25 NH7,,San Francisco (SFO),All Nippon Airways B77W (JA797A),Landed 14:28,2021-05-05
+105,105,15:30 NH8401,,Chicago (ORD),ANA Cargo B77L (JA771F),Landed 17:09,2021-05-05
+106,106,15:30 GK506,,Fukuoka (FUK),Jetstar Airways A320 (JA07JJ),Landed 15:23,2021-05-05
+107,107,15:40 NH232,,Brussels (BRU),All Nippon Airways -,Canceled,2021-05-05
+108,108,15:50 KE551,,Seoul (ICN),Korean Air Cargo B748 (HL7623),Unknown,2021-05-05
+109,109,15:55 GK110,,Sapporo (CTS),Jetstar Airways A320 (JA01JJ),Landed 16:21,2021-05-05
+110,110,15:55 MM542,,Amami (ASJ),Peach (Fly Peach to Amami Livery) A320 (JA08VA),Landed 16:00,2021-05-05
+111,111,16:00 HA821,,Honolulu (HNL),Hawaiian Airlines A332 (N399HA),Landed 15:52,2021-05-05
+112,112,16:00 EY878,,Abu Dhabi (AUH),Etihad (Abu Dhabi Grand Prix Livery) B789 (A6-BLV),Landed 15:34,2021-05-05
+113,113,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-05
+114,114,16:05 CX520,,Hong Kong (HKG),Cathay Pacific 330,Unknown,2021-05-05
+115,115,16:10 AA9739,,Los Angeles (LAX),American Airlines B772 (N750AN),Unknown,2021-05-05
+116,116,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-05
+117,117,16:15 UA32,,Los Angeles (LAX),United Airlines B789 (N26960),Landed 16:17,2021-05-05
+118,118,16:25 GK204,,Osaka (KIX),Jetstar Airways A320 (JA14JJ),Landed 16:05,2021-05-05
+119,119,16:25 GK646,,Nagasaki (NGS),Jetstar Airways A320 (JA02JJ),Landed 16:16,2021-05-05
+120,120,16:30 NH5,,Los Angeles (LAX),All Nippon Airways B789 (JA891A),Landed 15:41,2021-05-05
+121,121,16:35 GK426,,Nankoku (KCZ),Jetstar Airways A320 (JA13JJ),Landed 16:29,2021-05-05
+122,122,16:36 JL6713,,Dallas (DFW),Japan Airlines B789 (JA878J),Landed 16:55,2021-05-05
+123,123,16:40 JL61,,Los Angeles (LAX),Japan Airlines B77W (JA733J),Landed 16:16,2021-05-05
+124,124,16:45 CV9422,,Luxembourg (LUX),Cargolux B748 (LX-VCJ),Unknown,2021-05-05
+125,125,16:45 JL57,,San Francisco (SFO),Japan Airlines B789 (JA871J),Landed 16:02,2021-05-05
+126,126,16:55 CI104,,Taipei (TPE),China Airlines A333 (B-18361),Landed 16:35,2021-05-05
+127,127,16:56 CZ8101,,Nagoya (NGO),China Southern Airlines A388 (B-6136),Landed 17:22,2021-05-05
+128,128,17:00 IJ702,,Saga (HSG),Spring Airlines Japan B738 (JA02GR),Landed 16:45,2021-05-05
+129,129,17:00,JL820,Dalian (DLC),Japan Airlines B789 (JA880J),Landed 16:41,2021-05-05
+130,130,17:00 NH8434,,Shanghai (PVG),ANA Cargo B763 (JA605F),Landed 16:49,2021-05-05
+131,131,17:05 NH8548,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-05
+132,132,17:10,GK508,Fukuoka (FUK),Jetstar Airways A320 (JA17JJ),Landed 17:07,2021-05-05
+133,133,17:10 AA9705,,Los Angeles (LAX),American Airlines B77W (N736AT),Landed 16:48,2021-05-05
+134,134,17:20,GK404,Matsuyama (MYJ),Jetstar Airways A320 (JA03JJ),Landed 17:15,2021-05-05
+135,135,17:35,GK636,Miyazaki (KMI),Jetstar Airways A320 (JA24JJ),Landed 17:35,2021-05-05
+136,136,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-05
+137,137,17:45 MM554,,Miyazaki (KMI),Peach A320 (JA818P),Landed 17:40,2021-05-05
+138,138,17:52 9S751,,Cincinnati (CVG),DHL B77L (N705GT),Landed 17:18,2021-05-05
+139,139,17:55,GK414,Takamatsu (TAK),Jetstar Airways A320 (JA10JJ),Landed 17:49,2021-05-05
+140,140,18:00 MM594,,Memanbetsu (MMB),Peach A320 (JA05VA),Landed 17:28,2021-05-05
+141,141,18:00,TW241,Jeju (CJU),T'way Air 737,Canceled,2021-05-05
+142,142,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA20JJ),Landed 18:22,2021-05-05
+143,143,18:35 KZ254,,Bangkok (BKK),Nippon Cargo Airlines B748 (JA13KZ),Landed 17:24,2021-05-05
+144,144,18:35,NH928,Qingdao (TAO),All Nippon Airways B763 (JA624A),Landed 18:12,2021-05-05
+145,145,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BEP),Landed 18:09,2021-05-05
+146,146,19:00 IJ834,,Sapporo (CTS),Spring Airlines Japan B738 (JA03GR),Landed 19:09,2021-05-05
+147,147,19:00 NH8540,,Taipei (TPE),ANA Cargo B763 (JA604F),Landed 18:44,2021-05-05
+148,148,19:00 RU391,,Moscow (SVO),AirBridgeCargo B748 (VQ-BLR),Landed 17:13,2021-05-05
+149,149,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N717AN),Landed 18:53,2021-05-05
+150,150,19:05 MM582,,Sapporo (CTS),Peach A320 (JA07VA),Landed 19:08,2021-05-05
+151,151,19:15 KZ226,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA12KZ),Landed 19:43,2021-05-05
+152,152,19:30 LD208,,Hong Kong (HKG),DHL A306 (B-LDG),Landed 19:50,2021-05-05
+153,153,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA815P),Landed 19:35,2021-05-05
+154,154,19:30 NH8516,,Xiamen (XMN),All Nippon Airways 76F,Unknown,2021-05-05
+155,155,19:45,GK208,Osaka (KIX),Jetstar A320 (JA25JJ),Landed 19:37,2021-05-05
+156,156,19:45 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA792A),Landed 19:01,2021-05-05
+157,157,20:10 AA9730,,Chicago (ORD),American Airlines B788,Unknown,2021-05-05
+158,158,20:15,ET672,Seoul (ICN),Ethiopian Airlines B788 (ET-ASG),Landed 19:12,2021-05-05
+159,159,20:20,GK512,Fukuoka (FUK),Jetstar Airways A320 (JA21JJ),Landed 20:13,2021-05-05
+160,160,20:25,GK306,Naha (OKA),Jetstar Airways A320 (JA08JJ),Landed 20:07,2021-05-05
+161,161,20:25 MM506,,Naha (OKA),Peach A320 (JA823P),Landed 20:12,2021-05-05
+162,162,20:30 MH6190,,Kuala Lumpur (KUL),Malaysia Airlines 33X,Unknown,2021-05-05
+163,163,20:40,JL26,Hong Kong (HKG),Japan Airlines B789 (JA870J),Landed 19:51,2021-05-05
+164,164,20:55,GK118,Sapporo (CTS),Jetstar Airways A320 (JA01JJ),Landed 21:00,2021-05-05
+165,165,20:55,GK326,Shimojishima (SHI),Jetstar Airways A320 (JA19JJ),Landed 21:08,2021-05-05
+166,166,21:00 KZ208,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA11KZ),Landed 20:54,2021-05-05
+167,167,21:05 MM586,,Sapporo (CTS),Peach A320 (JA826P),Landed 21:09,2021-05-05
+168,168,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA07JJ),Landed 21:05,2021-05-05
+169,169,21:15 MM508,,Naha (OKA),Peach A320 (JA812P),Landed 21:02,2021-05-05
+170,170,21:15 MM536,,Ishigaki (ISG),Peach A320 (JA10VA),Landed 20:40,2021-05-05
+171,171,21:18 N8602,,Anchorage (ANC),National Airlines B744 (N952CA),Landed 21:19,2021-05-05
+172,172,21:20 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA8664),Landed 19:58,2021-05-05
+173,173,21:25 MM319,,Osaka (KIX),Peach A320 (JA821P),Landed 21:22,2021-05-05
+174,174,21:25 NH8502,,Dalian (DLC),All Nippon Airways 76F,Unknown,2021-05-05
+175,175,21:35 MM588,,Sapporo (CTS),Peach A320 (JA14VA),Landed 21:42,2021-05-05
+176,176,21:50,GK210,Osaka (KIX),Jetstar Airways A320 (JA23JJ),Landed 22:36,2021-05-05
+177,177,21:50,GK608,Oita (OIT),Jetstar Airways A320 (JA14JJ),Landed 21:45,2021-05-05
+178,178,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA11JJ),Landed 22:12,2021-05-05
+179,179,21:55,GK406,Matsuyama (MYJ),Jetstar Airways A320 (JA17JJ),Landed 21:36,2021-05-05
+180,180,21:55 MM510,,Naha (OKA),Peach A20N (JA203P),Landed 21:46,2021-05-05
+181,181,22:00,GK618,Kumamoto (KMJ),Jetstar Airways A320 (JA13JJ),Landed 21:53,2021-05-05
+182,182,22:00 MM528,,Fukuoka (FUK),Peach (Fly Peach to Amami Livery) A320 (JA08VA),Landed 21:48,2021-05-05
+183,183,22:00,NH934,Guangzhou (CAN),All Nippon Airways B789 (JA896A),Landed 21:12,2021-05-05
+184,184,22:10,GK120,Sapporo (CTS),Jetstar Airways A320 (JA03JJ),Landed 22:08,2021-05-05
+185,185,22:10,GK516,Fukuoka (FUK),Jetstar Airways A320 (JA02JJ),Landed 21:59,2021-05-05
+186,186,22:15,GK418,Takamatsu (TAK),Jetstar Airways A320 (JA24JJ),Landed 22:07,2021-05-05
+187,187,22:30 MU311,,-,China Eastern Airlines 333,Unknown,2021-05-05
+0,0,02:35 HT3823,,Weihai (WEH),Air Horizont 737,Unknown,2021-05-06
+1,1,05:34 JL6718,,Brisbane (BNE),Japan Airlines B788 (JA827J),Landed 06:15,2021-05-06
+2,2,05:40 CF207,,Shanghai (PVG),China Postal Airlines B738 (B-5131),Landed 12:45,2021-05-06
+3,3,06:10 NH8536,,Seoul (ICN),All Nippon Airways 76F,Unknown,2021-05-06
+4,4,06:10 YG9105,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-05-06
+5,5,06:15 NH8506,,Qingdao (TAO),All Nippon Airways 76F,Unknown,2021-05-06
+6,6,06:16 JL774,,Melbourne (MEL),Japan Airlines B788 (JA833J),Landed 06:24,2021-05-06
+7,7,06:20 NH8432,,Shanghai (PVG),ANA Cargo B77L (JA771F),Landed 06:06,2021-05-06
+8,8,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA877J),Landed 06:06,2021-05-06
+9,9,06:30 KZ49,,Milan (MXP),Nippon Cargo Airlines B748 (JA15KZ),Landed 06:04,2021-05-06
+10,10,06:30 KZ7141,,Chicago (ORD),Nippon Cargo Airlines 74Y,Unknown,2021-05-06
+11,11,06:39 FX31,,Oakland (OAK),FedEx B77L (N893FD),Landed 06:35,2021-05-06
+12,12,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA820A),Landed 06:18,2021-05-06
+13,13,06:45,NH898,Hanoi (HAN),All Nippon Airways B789 (JA885A),Landed 06:09,2021-05-06
+14,14,07:23 PO213,,Cincinnati (CVG),DHL B748 (N852GT),Landed 07:19,2021-05-06
+15,15,07:25 NH8512,,Hong Kong (HKG),All Nippon Airways 76F,Unknown,2021-05-06
+16,16,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA11KZ),Landed 08:12,2021-05-06
+17,17,07:40 NH8490,,Guangzhou (CAN),All Nippon Airways 76F,Unknown,2021-05-06
+18,18,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA822J),Landed 06:57,2021-05-06
+19,19,07:50 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-06
+20,20,07:55 NH8404,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-06
+21,21,07:55 PO752,,Shenzhen (SZX),Polar Air Cargo 77F,Unknown,2021-05-06
+22,22,08:00,SQ638,Singapore (SIN),Singapore Airlines B78X (9V-SCH),Landed 07:17,2021-05-06
+23,23,08:00 PO212,,Shanghai (PVG),DHL B744 (N453PA),Landed 07:57,2021-05-06
+24,24,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA16KZ),Landed 07:32,2021-05-06
+25,25,08:16 5X108,,Anchorage (ANC),UPS B763 (N310UP),Landed 08:33,2021-05-06
+26,26,08:30 KZ133,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA17KZ),Landed 17:06,2021-05-06
+27,27,09:05 MM311,,Osaka (KIX),Peach A20N (JA204P),Landed 08:49,2021-05-06
+28,28,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-06
+29,29,09:25,GK528,Fukuoka (FUK),Jetstar Airways A320 (JA20JJ),Landed 09:12,2021-05-06
+30,30,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-06
+31,31,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-06
+32,32,09:35 JL3082,,Nagoya (NGO),Japan Airlines 73H,Canceled,2021-05-06
+33,33,09:40 MM562,,Sapporo (CTS),Peach A320 (JA818P),Landed 09:41,2021-05-06
+34,34,09:45 MM518,,Fukuoka (FUK),Peach A320 (JA05VA),Landed 09:32,2021-05-06
+35,35,09:50 UA2850,,Chicago (ORD),United Airlines B789 (N24980),Landed 09:23,2021-05-06
+36,36,10:15,TW211,Seoul (ICN),T'way Air 737,Canceled,2021-05-06
+37,37,10:25 NH9656,,Frankfurt (FRA),All Nippon Airways B789 (JA875A),Landed 10:27,2021-05-06
+38,38,10:28 NH8546,,Bangkok (BKK),ANA Cargo B763 (JA8358),Landed 10:30,2021-05-06
+39,39,10:50,GK102,Sapporo (CTS),Jetstar Airways A320 (JA07JJ),Landed 10:55,2021-05-06
+40,40,10:50,TW201,Daegu (TAE),T'way Air 737,Canceled,2021-05-06
+41,41,11:05 NH238,,Brussels (BRU),All Nippon Airways B789 (JA837A),Landed 10:17,2021-05-06
+42,42,11:15,GK410,Takamatsu (TAK),Jetstar Airways A320 (JA03JJ),Landed 10:51,2021-05-06
+43,43,11:20 PO717,,Los Angeles (LAX),Atlas Air B744 (N445MC),Landed 11:15,2021-05-06
+44,44,11:50,GK610,Kumamoto (KMJ),Jetstar Airways A320 (JA14JJ),Landed 11:37,2021-05-06
+45,45,11:55 C85733,,Milan (MXP),Cargolux B744 (LX-VCV),Landed 13:14,2021-05-06
+46,46,12:00,GK104,Sapporo (CTS),Jetstar Airways A320 (JA01JJ),Landed 12:05,2021-05-06
+47,47,12:10,PR428,Manila (MNL),Philippine Airlines A21N (RP-C9935),Landed 11:25,2021-05-06
+48,48,12:13 NH8412,,Singapore (SIN),ANA Cargo B763 (JA601F),Landed 12:14,2021-05-06
+49,49,12:20,OZ102,Seoul (ICN),Asiana Airlines A321 (HL8074),Landed 12:05,2021-05-06
+50,50,12:21 FX169,,Anchorage (ANC),FedEx B77L (N887FD),Landed 12:15,2021-05-06
+51,51,12:35,GK600,Oita (OIT),Jetstar Airways A320 (JA02JJ),Landed 12:23,2021-05-06
+52,52,12:40 NH8406,,Frankfurt (FRA),All Nippon Airways 77F,Unknown,2021-05-06
+53,53,12:40 CA1073,,Shanghai (PVG),Air China 77F,Unknown,2021-05-06
+54,54,12:45,CZ627,Shenyang (SHE),China Southern Airlines A333 (B-300V),Landed 12:10,2021-05-06
+55,55,12:50,GK622,Kagoshima (KOJ),Jetstar Airways A320 (JA13JJ),Landed 12:36,2021-05-06
+56,56,13:05 KZ7109,,San Francisco (SFO),Atlas Air B744 (N405KZ),Landed 14:15,2021-05-06
+57,57,13:05 MM570,,Sapporo (CTS),Peach A320 (JA15VA),Landed 13:03,2021-05-06
+58,58,13:05 KZ7109,,San Francisco (SFO),Atlas Air B744 (N405KZ),Unknown,2021-05-06
+59,59,13:15,CI100,Taipei (TPE),China Airlines 77W,Unknown,2021-05-06
+60,60,13:25,GK504,Fukuoka (FUK),Jetstar Airways A320 (JA10JJ),Landed 13:18,2021-05-06
+61,61,13:30,GK300,Naha (OKA),Jetstar Airways A320 (JA22JJ),Landed 13:17,2021-05-06
+62,62,13:30 KZ141,,Chicago (ORD),Nippon Cargo Airlines 74N,Unknown,2021-05-06
+63,63,13:55,JL408,Frankfurt (FRA),Japan Airlines B789 (JA864J),Landed 13:15,2021-05-06
+64,64,13:55,UA79,New York (EWR),United Airlines B789 (N24974),Landed 13:33,2021-05-06
+65,65,13:55 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA604F),Landed 12:21,2021-05-06
+66,66,14:15,GK324,Shimojishima (SHI),Jetstar Airways A320 (JA21JJ),Landed 14:14,2021-05-06
+67,67,14:20,JL8011,Dallas (DFW),Japan Airlines B789 (JA866J),Landed 14:05,2021-05-06
+68,68,14:20,NH802,Singapore (SIN),All Nippon Airways B78X (JA901A),Landed 13:34,2021-05-06
+69,69,14:35,UA837,San Francisco (SFO),United Airlines B789 (N45956),Landed 14:25,2021-05-06
+70,70,14:35 CA929,,Shanghai (PVG),Air China A333 (B-8577),Landed 14:09,2021-05-06
+71,71,14:40 MM524,,Fukuoka (FUK),Peach A20N (JA204P),Landed 14:21,2021-05-06
+72,72,14:50,GK304,Naha (OKA),Jetstar Airways A320 (JA19JJ),Landed 14:35,2021-05-06
+73,73,15:00,AA61,Dallas (DFW),American Airlines B789 (N839AA),Landed 14:34,2021-05-06
+74,74,15:00,NH11,Chicago (ORD),All Nippon Airways B77W (JA795A),Landed 15:06,2021-05-06
+75,75,15:00,GK108,Sapporo (CTS),Jetstar Airways A320 (JA09JJ),Landed 14:54,2021-05-06
+76,76,15:00,UA196,Guam (GUM),United Airlines B738 (N34282),Landed 15:25,2021-05-06
+77,77,15:10 MM532,,Ishigaki (ISG),Peach A20N (JA203P),Landed 14:33,2021-05-06
+78,78,15:10,NH820,Manila (MNL),All Nippon Airways B789 (JA893A),Landed 14:23,2021-05-06
+79,79,15:15,NH806,Bangkok (BKK),All Nippon Airways B789 (JA898A),Landed 14:31,2021-05-06
+80,80,15:15,NH834,Ho Chi Minh City (SGN),All Nippon Airways B789 (JA891A),Landed 14:10,2021-05-06
+81,81,15:30,GK506,Fukuoka (FUK),Jetstar Airways A320 (JA20JJ),Landed 15:26,2021-05-06
+82,82,15:35,JL8009,Chicago (ORD),Japan Airlines B77W (JA736J),Landed 15:29,2021-05-06
+83,83,15:35 JL746,,Manila (MNL),Japan Airlines B788 (JA830J),Landed 14:51,2021-05-06
+84,84,15:40 NH232,,Brussels (BRU),All Nippon Airways -,Canceled,2021-05-06
+85,85,15:45 UA2757,,Xiamen (XMN),United Airlines B789 (N28987),Landed 16:24,2021-05-06
+86,86,15:48 FX15,,Memphis (MEM),FedEx B77L (N845FD),Landed 16:26,2021-05-06
+87,87,15:50,JL67,Seattle (SEA),Japan Airlines B788 (JA843J),Landed 15:02,2021-05-06
+88,88,15:50 KE551,,Seoul (ICN),Korean Air 74N,Unknown,2021-05-06
+89,89,15:55,GK110,Sapporo (CTS),Jetstar Airways A320 (JA17JJ),Landed 15:50,2021-05-06
+90,90,16:00 JL750,,Ho Chi Minh City (SGN),Japan Airlines B789 (JA879J),Landed 15:19,2021-05-06
+91,91,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-06
+92,92,16:05 CX520,,Hong Kong (HKG),Cathay Pacific A359 (B-LRX),Landed 15:23,2021-05-06
+93,93,16:10 AA9740,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-06
+94,94,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-06
+95,95,16:15 JL7,,Boston (BOS),Japan Airlines B789 (JA865J),Landed 15:33,2021-05-06
+96,96,16:16 UA2713,,Xiamen (XMN),United Airlines A319 (N882UA),Landed 16:47,2021-05-06
+97,97,16:20 JL708,,Bangkok (BKK),Japan Airlines B788 (JA835J),Landed 15:48,2021-05-06
+98,98,16:20 JL712,,Singapore (SIN),Japan Airlines B789 (JA872J),Landed 16:10,2021-05-06
+99,99,16:20 JL720,,Jakarta (CGK),Japan Airlines B789 (JA869J),Landed 15:42,2021-05-06
+100,100,16:25 GK204,,Osaka (KIX),Jetstar Airways A320 (JA11JJ),Landed 16:05,2021-05-06
+101,101,16:25 GK646,,Nagasaki (NGS),Jetstar Airways A320 (JA07JJ),Landed 16:13,2021-05-06
+102,102,16:30 JL17,,Vancouver (YVR),Japan Airlines B788 (JA845J),Landed 15:30,2021-05-06
+103,103,16:30 NH5,,Los Angeles (LAX),All Nippon Airways (Star Wars R2-D2 Livery) B789 (JA873A),Landed 15:56,2021-05-06
+104,104,16:30 UA2693,,Xiamen (XMN),United Airlines B772 (N77019),Landed 17:28,2021-05-06
+105,105,16:35 JL8005,,New York (JFK),Japan Airlines B77W (JA743J),Landed 15:55,2021-05-06
+106,106,16:35 GK426,,Nankoku (KCZ),Jetstar Japan 320,Unknown,2021-05-06
+107,107,16:40 JL61,,Los Angeles (LAX),Japan Airlines B77W (JA741J),Landed 16:36,2021-05-06
+108,108,16:45 JL57,,San Francisco (SFO),Japan Airlines B789 (JA861J),Landed 15:48,2021-05-06
+109,109,16:45 JL65,,San Diego (SAN),Japan Airlines B788 (JA840J),Landed 16:11,2021-05-06
+110,110,16:50 NZ99,,Auckland (AKL),Air New Zealand (All Blacks Livery) B789 (ZK-NZE),Landed 16:36,2021-05-06
+111,111,16:55 CI104,,Taipei (TPE),China Airlines A333 (B-18361),Landed 16:32,2021-05-06
+112,112,17:00 JL820,,Dalian (DLC),Japan Airlines B789 (JA877J),Landed 16:24,2021-05-06
+113,113,17:00 NH8434,,Shanghai (PVG),ANA Cargo B763 (JA8358),Landed 19:53,2021-05-06
+114,114,17:05 NH8548,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-06
+115,115,17:10 GK508,,Fukuoka (FUK),Jetstar Airways A320 (JA23JJ),Landed 17:02,2021-05-06
+116,116,17:10 AA9730,,Los Angeles (LAX),American Airlines B77W (N733AR),Landed 17:03,2021-05-06
+117,117,17:20 GK404,,Matsuyama (MYJ),Jetstar Airways A320 (JA02JJ),Landed 16:58,2021-05-06
+118,118,17:35 EK318,,Dubai (DXB),Emirates B77W (A6-EQI),Landed 17:25,2021-05-06
+119,119,17:35 GK636,,Miyazaki (KMI),Jetstar Airways A320 (JA01JJ),Landed 17:31,2021-05-06
+120,120,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-06
+121,121,17:55,GK414,Takamatsu (TAK),Jetstar Airways A320 (JA10JJ),Landed 17:43,2021-05-06
+122,122,18:00 CI5706,,Taipei (TPE),China Airlines Cargo B744 (B-18723),Landed 18:08,2021-05-06
+123,123,18:00 KJ3126,,Seoul (ICN),Air Incheon 73F,Unknown,2021-05-06
+124,124,18:00 MM594,,Memanbetsu (MMB),Peach A320 (JA821P),Landed 17:38,2021-05-06
+125,125,18:00,TW241,Jeju (CJU),T'way Air 737,Canceled,2021-05-06
+126,126,18:07 9S751,,Cincinnati (CVG),Southern Air B77L (N702GT),Landed 18:00,2021-05-06
+127,127,18:15 PO751,,Cincinnati (CVG),Polar Air Cargo B744,Unknown,2021-05-06
+128,128,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA24JJ),Landed 18:12,2021-05-06
+129,129,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BEJ),Landed 18:03,2021-05-06
+130,130,18:45 NH8540,,Taipei (TPE),ANA Cargo B763 (JA602F),Landed 18:30,2021-05-06
+131,131,19:00 7L901,,Baku (GYD),Silk Way West Airlines B748 (VQ-BWY),Landed 18:59,2021-05-06
+132,132,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N736AT),Landed 18:57,2021-05-06
+133,133,19:05 MM582,,Sapporo (CTS),Peach A320 (JA814P),Landed 19:08,2021-05-06
+134,134,19:15 KZ226,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA11KZ),Landed 19:19,2021-05-06
+135,135,19:20 UA2809,,Shanghai (PVG),United Airlines B789 (N24980),Landed 18:42,2021-05-06
+136,136,19:30 LD208,,Hong Kong (HKG),DHL A333 (B-LDQ),Landed 19:03,2021-05-06
+137,137,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA827P),Landed 19:29,2021-05-06
+138,138,19:45 KZ206,,Hong Kong (HKG),Nippon Cargo Airlines 74N,Unknown,2021-05-06
+139,139,19:45 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA791A),Unknown,2021-05-06
+140,140,19:56 5Y7831,,Anchorage (ANC),Atlas Air B744 (N407KZ),Landed 20:13,2021-05-06
+141,141,20:00 NH8538,,Taipei (TPE),ANA Cargo B763 (JA605F),Landed 19:17,2021-05-06
+142,142,20:10 AA9730,,Chicago (ORD),American Airlines B77W (N733AR),Unknown,2021-05-06
+143,143,20:15 9S7681,,New York (JFK),DHL B77L (N775SA),Landed 19:47,2021-05-06
+144,144,20:20,GK512,Fukuoka (FUK),Jetstar Airways A320 (JA19JJ),Landed 20:19,2021-05-06
+145,145,20:20,JL802,Taipei (TPE),Japan Airlines B788 (JA833J),Landed 19:39,2021-05-06
+146,146,20:20 PO7681,,New York (JFK),Polar Air Cargo 77F,Unknown,2021-05-06
+147,147,20:25,GK306,Naha (OKA),Jetstar Airways A320 (JA13JJ),Landed 20:03,2021-05-06
+148,148,20:35 NH9171,,Chicago (ORD),All Nippon Airways B741,Unknown,2021-05-06
+149,149,20:45,NH930,Hangzhou (HGH),All Nippon Airways B763 (JA621A),Landed 20:32,2021-05-06
+150,150,20:50 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA8664),Landed 20:16,2021-05-06
+151,151,20:55,GK118,Sapporo (CTS),Jetstar Airways A320 (JA17JJ),Landed 20:52,2021-05-06
+152,152,20:55,GK326,Shimojishima (SHI),Jetstar Airways A320 (JA22JJ),Landed 20:45,2021-05-06
+153,153,21:00 NH8516,,Xiamen (XMN),ANA Cargo B763 (JA8970),Landed 20:30,2021-05-06
+154,154,21:05 UA2801,,San Francisco (SFO),United Airlines B789 (N27959),Landed 21:02,2021-05-06
+155,155,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA20JJ),Landed 20:51,2021-05-06
+156,156,21:15 MM508,,Naha (OKA),Peach A320 (JA14VA),Landed 21:05,2021-05-06
+157,157,21:25 MM319,,Osaka (KIX),Peach A20N (JA203P),Landed 21:08,2021-05-06
+158,158,21:25 NH8502,,Dalian (DLC),All Nippon Airways 76F,Unknown,2021-05-06
+159,159,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA16JJ),Landed 21:52,2021-05-06
+160,160,22:00,GK618,Kumamoto (KMJ),Jetstar A320 (JA25JJ),Landed 21:44,2021-05-06
+161,161,22:10,GK516,Fukuoka (FUK),Jetstar Airways A320 (JA07JJ),Landed 21:53,2021-05-06
+162,162,22:30 MU311,,-,China Eastern Airlines 333,Unknown,2021-05-06
+0,0,02:35 HT3823,,Weihai (WEH),Air Horizont 737,Unknown,2021-05-07
+1,1,04:00 RU491,,Moscow (SVO),AirBridgeCargo B748 (VP-BIN),Unknown,2021-05-07
+2,2,04:45 CF227,,Zhengzhou (CGO),China Postal Airlines 73F,Unknown,2021-05-07
+3,3,05:40 CF207,,Shanghai (PVG),China Postal Airlines B738 (B-5131),Landed 13:14,2021-05-07
+4,4,06:10 NH8536,,Seoul (ICN),ANA Cargo B763 (JA8970),Landed 06:06,2021-05-07
+5,5,06:10 YG9105,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-05-07
+6,6,06:15 NH8506,,Qingdao (TAO),ANA Cargo B763 (JA8664),Landed 06:08,2021-05-07
+7,7,06:20 CX6,,Hong Kong (HKG),Cathay Pacific Cargo B748 (B-LJL),Landed 06:14,2021-05-07
+8,8,06:20 JL8746,,Manila (MNL),Japan Airlines B788 (JA828J),Landed 06:11,2021-05-07
+9,9,06:20 NH8432,,Shanghai (PVG),ANA Cargo B763 (JA605F),Landed 06:02,2021-05-07
+10,10,06:21 FX31,,Oakland (OAK),FedEx B77L (N894FD),Landed 06:50,2021-05-07
+11,11,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA879J),Landed 06:04,2021-05-07
+12,12,06:30 KZ49,,Milan (MXP),Nippon Cargo Airlines B748 (JA13KZ),Landed 06:10,2021-05-07
+13,13,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA823A),Landed 06:16,2021-05-07
+14,14,06:45,NH898,Hanoi (HAN),All Nippon Airways B789 (JA879A),Landed 06:13,2021-05-07
+15,15,07:05,JL724,Kuala Lumpur (KUL),Japan Airlines B789 (JA862J),Landed 06:24,2021-05-07
+16,16,07:10 FX15,,Memphis (MEM),FedEx B77L (N843FD),Landed 07:52,2021-05-07
+17,17,07:25,JL726,Jakarta (CGK),Japan Airlines B789 (JA871J),Landed 07:02,2021-05-07
+18,18,07:25 KZ7244,,Taipei (TPE),Atlas Air B744 (N405KZ),Landed 06:33,2021-05-07
+19,19,07:25 NH8512,,Hong Kong (HKG),All Nippon Airways 76F,Unknown,2021-05-07
+20,20,07:30 GI4209,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-05-07
+21,21,07:30 NH8534,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-07
+22,22,07:40 CK241,,Shanghai (PVG),China Cargo Airlines B77L (B-2082),Landed 07:00,2021-05-07
+23,23,07:40 NH8490,,Guangzhou (CAN),All Nippon Airways 76F,Unknown,2021-05-07
+24,24,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA825J),Landed 06:54,2021-05-07
+25,25,07:45 KZ165,,Los Angeles (LAX),Nippon Cargo Airlines 74N,Unknown,2021-05-07
+26,26,07:50 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-07
+27,27,07:54 PO213,,Cincinnati (CVG),DHL B748 (N851GT),Landed 07:50,2021-05-07
+28,28,07:55 NH8404,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-07
+29,29,07:55,SB800,Noumea (NOU),Aircalin A339 (F-ONET),Landed 07:37,2021-05-07
+30,30,07:55 KZ228,,Shanghai (PVG),Nippon Cargo Airlines 74N,Unknown,2021-05-07
+31,31,07:55 PO752,,Shenzhen (SZX),Polar Air Cargo 77F,Unknown,2021-05-07
+32,32,08:00,SQ638,Singapore (SIN),Singapore Airlines B78X (9V-SCH),Landed 07:19,2021-05-07
+33,33,08:00 PO212,,Shanghai (PVG),DHL B744 (N453PA),Landed 08:18,2021-05-07
+34,34,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA17KZ),Landed 07:56,2021-05-07
+35,35,08:16 5X108,,Anchorage (ANC),UPS B763 (N323UP),Landed 09:58,2021-05-07
+36,36,08:25,AF276,Paris (CDG),Air France B77W (F-GZNC),Landed 09:00,2021-05-07
+37,37,08:25 UA2829,,Chicago (ORD),United Airlines B77W (N2639U),Landed 08:22,2021-05-07
+38,38,08:30 KZ133,,Anchorage (ANC),Nippon Cargo Airlines B744,Unknown,2021-05-07
+39,39,08:35,KL861,Amsterdam (AMS),KLM B789 (PH-BHH),Landed 08:12,2021-05-07
+40,40,08:40,JL718,Bangkok (BKK),Japan Airlines B788 (JA835J),Landed 07:53,2021-05-07
+41,41,08:45 UA2853,,Los Angeles (LAX),United Airlines B77W (N2140U),Landed 08:16,2021-05-07
+42,42,09:00 RA433,,Kathmandu (KTM),Nepal Airlines A332 (9N-ALY),Landed 08:32,2021-05-07
+43,43,09:05 MM311,,Osaka (KIX),Peach A320 (JA819P),Landed 08:56,2021-05-07
+44,44,09:10 UA2822,,Chicago (ORD),United Airlines B789 (N38955),Landed 08:28,2021-05-07
+45,45,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-07
+46,46,09:25,GK528,Fukuoka (FUK),Jetstar Airways A320 (JA24JJ),Landed 09:06,2021-05-07
+47,47,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-07
+48,48,09:30 CA1075,,Shanghai (PVG),Air China 77F,Unknown,2021-05-07
+49,49,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-07
+50,50,09:35 JL3082,,Nagoya (NGO),Japan Airlines 73H,Canceled,2021-05-07
+51,51,09:40 CA1073,,Shanghai (PVG),Air China 77F,Unknown,2021-05-07
+52,52,09:50 UA2850,,Chicago (ORD),United Airlines B77W (N2748U),Landed 09:21,2021-05-07
+53,53,10:15,TW211,Seoul (ICN),T'Way Air B738 (HL8326),Landed 09:52,2021-05-07
+54,54,10:15 KZ159,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA18KZ),Landed 11:25,2021-05-07
+55,55,10:40 KZ101,,Los Angeles (LAX),Nippon Cargo Airlines B748 (JA15KZ),Landed 09:57,2021-05-07
+56,56,10:40 NH9656,,Frankfurt (FRA),All Nippon Airways B77W (JA797A),Landed 10:42,2021-05-07
+57,57,10:57 JL6709,,Chicago (ORD),Japan Airlines B789 (JA878J),Landed 11:46,2021-05-07
+58,58,11:00 PO715,,Los Angeles (LAX),DHL B744 (N452PA),Landed 10:57,2021-05-07
+59,59,11:02 NH8546,,Bangkok (BKK),ANA Cargo B763 (JA604F),Landed 11:02,2021-05-07
+60,60,11:05 NH238,,Brussels (BRU),All Nippon Airways B77W (JA784A),Landed 10:39,2021-05-07
+61,61,11:10 UA2802,,Chengdu (CTU),United Airlines B789 (N27959),Landed 10:24,2021-05-07
+62,62,11:50,GK610,Kumamoto (KMJ),Jetstar Airways A320 (JA22JJ),Landed 11:40,2021-05-07
+63,63,12:00,GK104,Sapporo (CTS),Jetstar Airways A320 (JA17JJ),Landed 12:03,2021-05-07
+64,64,12:05 KZ7101,,Los Angeles (LAX),Nippon Cargo Airlines 74Y,Unknown,2021-05-07
+65,65,12:07 FX169,,Anchorage (ANC),FedEx B77L (N896FD),Landed 12:08,2021-05-07
+66,66,12:10,PR428,Manila (MNL),Philippine Airlines A321 (RP-C9928),Landed 11:31,2021-05-07
+67,67,12:20 NH8412,,Singapore (SIN),All Nippon Airways 76F,Unknown,2021-05-07
+68,68,12:20,OZ102,Seoul (ICN),Asiana Airlines A321 (HL8074),Landed 12:15,2021-05-07
+69,69,12:30 OZ198,,Seoul (ICN),Asiana Cargo B744 (HL7618),Landed 18:34,2021-05-07
+70,70,12:50 MU523,,Shanghai (PVG),China Eastern Airlines B77W (B-2022),Landed 12:35,2021-05-07
+71,71,12:55 7C1106,,Seoul (ICN),Jeju Air 738,Canceled,2021-05-07
+72,72,13:05 CA1076,,Los Angeles (LAX),Air China B77F,Unknown,2021-05-07
+73,73,13:05 MM570,,Sapporo (CTS),Peach A320 (JA823P),Landed 12:57,2021-05-07
+74,74,13:15 BR198,,Taipei (TPE),EVA Air B789 (B-17881),Landed 12:51,2021-05-07
+75,75,13:15 CI100,,Taipei (TPE),China Airlines A333 (B-18317),Landed 12:40,2021-05-07
+76,76,13:20 TW201,,Daegu (TAE),T'way Air 737,Canceled,2021-05-07
+77,77,13:25 GK504,,Fukuoka (FUK),Jetstar Airways A320 (JA08JJ),Landed 13:09,2021-05-07
+78,78,13:40 MF809,,Fuzhou (FOC),Xiamen Air B789 (B-1567),Landed 13:26,2021-05-07
+79,79,14:10 MM502,,Naha (OKA),Peach A320 (JA826P),Landed 13:53,2021-05-07
+80,80,14:16 NH854D,,Chicago (ORD),All Nippon Airways B77W (JA791A),Landed 14:12,2021-05-07
+81,81,14:25 HZ4542,,Yuzhno-Sakhalinsk (UUS),Aurora A319 (VP-BDN),Landed 14:11,2021-05-07
+82,82,14:30 UA837,,San Francisco (SFO),United Airlines B789 (N15969),Landed 14:01,2021-05-07
+83,83,14:40 MM524,,Fukuoka (FUK),Peach A320 (JA819P),Landed 14:18,2021-05-07
+84,84,14:45 PO240,,Sydney (SYD),Polar Air Cargo 74Y,Unknown,2021-05-07
+85,85,14:50 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA601F),Landed 12:23,2021-05-07
+86,86,14:50 GK304,,Naha (OKA),Jetstar Airways A320 (JA07JJ),Landed 14:51,2021-05-07
+87,87,14:55 AA61,,Dallas (DFW),American Airlines B789 (N838AA),Landed 14:43,2021-05-07
+88,88,15:00 NH11,,Chicago (ORD),All Nippon Airways B77W (JA792A),Landed 15:35,2021-05-07
+89,89,15:00 GK108,,Sapporo (CTS),Jetstar Airways A320 (JA10JJ),Landed 14:59,2021-05-07
+90,90,15:00 UA196,,Guam (GUM),United Airlines B738 (N34282),Landed 14:40,2021-05-07
+91,91,15:05 AC3,,Vancouver (YVR),Air Canada B789 (C-FSBV),Landed 14:38,2021-05-07
+92,92,15:10 MM532,,Ishigaki (ISG),Peach A20N (JA204P),Landed 14:32,2021-05-07
+93,93,15:10 NH820,,Manila (MNL),All Nippon Airways B789 (JA896A),Landed 14:36,2021-05-07
+94,94,15:15 NH806,,Bangkok (BKK),All Nippon Airways B789 (JA922A),Landed 14:27,2021-05-07
+95,95,15:30 NH8401,,Chicago (ORD),ANA Cargo B77L (JA771F),Landed 18:00,2021-05-07
+96,96,15:30 GK506,,Fukuoka (FUK),Jetstar Airways A320 (JA24JJ),Landed 15:09,2021-05-07
+97,97,15:40 ZG42,,Seoul (ICN),ZIPAIR B788 (JA825J),Landed 15:05,2021-05-07
+98,98,15:40 NH232,,Brussels (BRU),All Nippon Airways -,Canceled,2021-05-07
+99,99,15:45 UA32,,Los Angeles (LAX),United Airlines B789 (N36962),Landed 16:23,2021-05-07
+100,100,15:50 KE551,,Seoul (ICN),Korean Air Cargo B748 (HL7609),Landed 15:18,2021-05-07
+101,101,15:55 MM542,,Amami (ASJ),Peach (Fly Peach to Amami Livery) A320 (JA08VA),Landed 16:14,2021-05-07
+102,102,16:00 HA821,,Honolulu (HNL),Hawaiian Airlines A332 (N399HA),Landed 15:41,2021-05-07
+103,103,16:00 EY878,,Abu Dhabi (AUH),Etihad Airways 789,Unknown,2021-05-07
+104,104,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-07
+105,105,16:05 CX520,,Hong Kong (HKG),Cathay Pacific A35K (B-LXE),Landed 15:03,2021-05-07
+106,106,16:10 AA9742,,Los Angeles (LAX),American Airlines B77W (N726AN),Landed 16:55,2021-05-07
+107,107,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-07
+108,108,16:15 JL7,,Boston (BOS),Japan Airlines B789 (JA863J),Landed 15:48,2021-05-07
+109,109,16:20 JL720,,Jakarta (CGK),Japan Airlines B789 (JA869J),Landed 15:45,2021-05-07
+110,110,16:25,GK204,Osaka (KIX),Jetstar Airways A320 (JA20JJ),Landed 16:12,2021-05-07
+111,111,16:25,GK646,Nagasaki (NGS),Jetstar Airways A320 (JA04JJ),Landed 16:17,2021-05-07
+112,112,16:30,NH5,Los Angeles (LAX),All Nippon Airways B789 (JA876A),Landed 15:44,2021-05-07
+113,113,16:35,GK426,Nankoku (KCZ),Jetstar Airways A320 (JA22JJ),Landed 16:22,2021-05-07
+114,114,16:50 JL61,,Los Angeles (LAX),Japan Airlines B77W (JA736J),Landed 16:05,2021-05-07
+115,115,16:55,CI104,Taipei (TPE),China Airlines (藍鵲號 - Taiwan Blue Magpie Livery) A359 (B-18908),Landed 16:23,2021-05-07
+116,116,17:00,JL820,Dalian (DLC),Japan Airlines B789 (JA877J),Landed 16:34,2021-05-07
+117,117,17:00 NH8434,,Shanghai (PVG),ANA Cargo B763 (JA8358),Landed 17:10,2021-05-07
+118,118,17:05 NH8548,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-07
+119,119,17:10,GK508,Fukuoka (FUK),Jetstar Airways A320 (JA13JJ),Landed 16:59,2021-05-07
+120,120,17:20,LX160,Zurich (ZRH),Swiss B77W (HB-JNK),Landed 16:29,2021-05-07
+121,121,17:20,GK404,Matsuyama (MYJ),Jetstar Airways A320 (JA17JJ),Landed 17:06,2021-05-07
+122,122,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-07
+123,123,17:35 SC2407,,Qingdao (TAO),Shandong Airlines B738 (B-6987),Landed 18:03,2021-05-07
+124,124,17:55,GK414,Takamatsu (TAK),Jetstar Airways A320 (JA08JJ),Landed 17:39,2021-05-07
+125,125,18:00 CI5706,,Taipei (TPE),China Airlines Cargo B77L (B-18772),Landed 18:19,2021-05-07
+126,126,18:05 MH70,,Kuala Lumpur (KUL),Malaysia Airlines 333,Canceled,2021-05-07
+127,127,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA03JJ),Landed 18:20,2021-05-07
+128,128,18:35 KZ254,,Bangkok (BKK),Nippon Cargo Airlines B748 (JA11KZ),Landed 16:59,2021-05-07
+129,129,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BER),Landed 17:54,2021-05-07
+130,130,18:45 NH8540,,Taipei (TPE),ANA Cargo B763 (JA602F),Landed 19:20,2021-05-07
+131,131,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N733AR),Landed 18:52,2021-05-07
+132,132,19:05 MM582,,Sapporo (CTS),Peach A320 (JA827P),Landed 18:59,2021-05-07
+133,133,19:10 QF21,,Sydney (SYD),Qantas B789 (VH-ZNA),Landed 18:28,2021-05-07
+134,134,19:15 KZ226,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA17KZ),Landed 19:08,2021-05-07
+135,135,19:20 UA2809,,Shanghai (PVG),United Airlines B77W (N2748U),Landed 18:55,2021-05-07
+136,136,19:30 LD208,,Hong Kong (HKG),DHL A333 (B-LDQ),Landed 18:46,2021-05-07
+137,137,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA07VA),Landed 19:24,2021-05-07
+138,138,19:45 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA790A),Landed 19:28,2021-05-07
+139,139,20:00 KZ131,,Anchorage (ANC),Nippon Cargo Airlines B744,Unknown,2021-05-07
+140,140,20:05 UA2818,,Beijing (PEK),United Airlines B789 (N38955),Landed 19:41,2021-05-07
+141,141,20:10 AA9730,,Chicago (ORD),American Airlines B77W (N733AR),Unknown,2021-05-07
+142,142,20:10 JL88,,Guangzhou (CAN),Japan Airlines B788 (JA830J),Unknown,2021-05-07
+143,143,20:15,ET672,Seoul (ICN),Ethiopian Airlines B788 (ET-AOQ),Landed 19:12,2021-05-07
+144,144,20:15 NH1932,,Hong Kong (HKG),All Nippon Airways B788 (JA805A),Landed 19:36,2021-05-07
+145,145,20:20,GK512,Fukuoka (FUK),Jetstar Airways A320 (JA07JJ),Landed 20:05,2021-05-07
+146,146,20:25,GK306,Naha (OKA),Jetstar A320 (JA25JJ),Landed 20:03,2021-05-07
+147,147,20:35 UA2793,,Hong Kong (HKG),United Airlines B77W (N2639U),Landed 19:52,2021-05-07
+148,148,20:38 KZ187,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA16KZ),Landed 20:40,2021-05-07
+149,149,20:50 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA8664),Landed 20:08,2021-05-07
+150,150,20:55,GK326,Shimojishima (SHI),Jetstar Airways A320 (JA16JJ),Landed 20:50,2021-05-07
+151,151,20:55 UA2830,,Hong Kong (HKG),United Airlines B77W (N2140U),Landed 19:58,2021-05-07
+152,152,21:00 NH8516,,Xiamen (XMN),ANA Cargo B763 (JA8970),Landed 20:19,2021-05-07
+153,153,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA24JJ),Landed 20:50,2021-05-07
+154,154,21:15 MM508,,Naha (OKA),Peach A320 (JA15VA),Landed 20:55,2021-05-07
+155,155,21:25 NH8502,,Dalian (DLC),ANA Cargo B763 (JA605F),Landed 20:58,2021-05-07
+156,156,21:35 MM588,,Sapporo (CTS),Peach A20N (JA203P),Landed 21:34,2021-05-07
+157,157,21:50,GK608,Oita (OIT),Jetstar Airways A320 (JA20JJ),Landed 21:39,2021-05-07
+158,158,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA21JJ),Landed 21:42,2021-05-07
+159,159,22:25 NH960,,Shanghai (PVG),All Nippon Airways B77W (JA785A),Landed 21:29,2021-05-07
+160,160,22:30 MU311,,-,China Eastern Airlines 333,Unknown,2021-05-07
+0,0,02:35 HT3823,,Weihai (WEH),Air Horizont 737,Unknown,2021-05-08
+1,1,05:40 CF207,,Shanghai (PVG),China Postal Airlines B738 (B-5131),Landed 12:47,2021-05-08
+2,2,06:10 NH8536,,Seoul (ICN),ANA Cargo B763 (JA605F),Landed 06:07,2021-05-08
+3,3,06:10 O37159,,Xi'an (XIY),SF Airlines B763 (B-6996),Landed 17:25,2021-05-08
+4,4,06:10 YG9105,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2830),Landed 06:27,2021-05-08
+5,5,06:10 JL774,,Melbourne (MEL),Japan Airlines B788 (JA827J),Landed 06:11,2021-05-08
+6,6,06:15 NH8506,,Qingdao (TAO),ANA Cargo B763 (JA8664),Landed 06:10,2021-05-08
+7,7,06:20 NH8432,,Shanghai (PVG),ANA Cargo B77L (JA771F),Landed 06:04,2021-05-08
+8,8,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA878J),Landed 06:05,2021-05-08
+9,9,06:35 3V805,,Liege (LGG),ASL Airlines Belgium 74Y,Unknown,2021-05-08
+10,10,06:40 FX5319,,Oakland (OAK),FedEx B77L (N886FD),Landed 07:05,2021-05-08
+11,11,06:45 C85735,,Milan (MXP),Cargolux B744 (LX-SCV),Landed 06:16,2021-05-08
+12,12,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA827A),Landed 06:32,2021-05-08
+13,13,06:45,NH898,Hanoi (HAN),All Nippon Airways (Star Alliance Livery) B789 (JA899A),Landed 06:14,2021-05-08
+14,14,06:55 KZ133,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA12KZ),Landed 08:03,2021-05-08
+15,15,07:05 JL724,,Kuala Lumpur (KUL),Japan Airlines B789 (JA870J),Landed 06:36,2021-05-08
+16,16,07:20 KZ105,,Los Angeles (LAX),Nippon Cargo Airlines 74N,Unknown,2021-05-08
+17,17,07:25,OS51,Vienna (VIE),Austrian Airlines B772 (OE-LPE),Landed 06:40,2021-05-08
+18,18,07:25 NH8512,,Hong Kong (HKG),ANA Cargo B763 (JA602F),Landed 07:47,2021-05-08
+19,19,07:25 KZ7244,,Taipei (TPE),Nippon Cargo Airlines 74Y,Unknown,2021-05-08
+20,20,07:30 NH8534,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-08
+21,21,07:35,UL454,Colombo (CMB),SriLankan Airlines A332 (4R-ALA),Landed 07:14,2021-05-08
+22,22,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA18KZ),Landed 07:21,2021-05-08
+23,23,07:40 CK241,,Shanghai (PVG),China Cargo Airlines B77L (B-2078),Landed 07:00,2021-05-08
+24,24,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA822J),Landed 06:48,2021-05-08
+25,25,07:45 VN310,,Hanoi (HAN),Vietnam Airlines A359 (VN-A886),Landed 06:46,2021-05-08
+26,26,07:50 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-08
+27,27,07:55 NH8404,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-08
+28,28,07:55 NH8490,,Guangzhou (CAN),ANA Cargo B763 (JA601F),Landed 09:35,2021-05-08
+29,29,07:55 PO964,,Shenzhen (SZX),Polar Air Cargo 77F,Unknown,2021-05-08
+30,30,08:00,SQ638,Singapore (SIN),Singapore Airlines B78X (9V-SCH),Landed 07:33,2021-05-08
+31,31,08:10,TG642,Bangkok (BKK),Thai Airways A359 (HS-THC),Landed 07:18,2021-05-08
+32,32,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA17KZ),Landed 08:11,2021-05-08
+33,33,08:16 5X108,,Anchorage (ANC),UPS B763 (N314UP),Landed 08:46,2021-05-08
+34,34,08:35,KL861,Amsterdam (AMS),KLM B789 (PH-BHF),Landed 08:00,2021-05-08
+35,35,08:35 PO212,,Shanghai (PVG),DHL B744 (N453PA),Landed 09:20,2021-05-08
+36,36,09:05 MM311,,Osaka (KIX),Peach A320 (JA812P),Landed 09:29,2021-05-08
+37,37,09:10,AY73,Helsinki (HEL),Finnair A359 (OH-LWR),Landed 08:52,2021-05-08
+38,38,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-08
+39,39,09:20 W81301,,Calgary (YYC),Cargojet Airways B763 (C-GYAJ),Landed 09:05,2021-05-08
+40,40,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-08
+41,41,09:35 JL3082,,Nagoya (NGO),Japan Airlines 73H,Canceled,2021-05-08
+42,42,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-08
+43,43,09:40 CA1073,,Shanghai (PVG),Air China 77F,Unknown,2021-05-08
+44,44,09:40,TW201,Daegu (TAE),T'way Air 737,Canceled,2021-05-08
+45,45,09:59 FX15,,Memphis (MEM),FedEx B77L (N893FD),Landed 10:02,2021-05-08
+46,46,10:08 5Y7101,,Los Angeles (LAX),Atlas Air B744 (N405KZ),Landed 10:37,2021-05-08
+47,47,10:15,TW211,Seoul (ICN),T'way Air 737,Canceled,2021-05-08
+48,48,10:31 NH9656,,Frankfurt (FRA),All Nippon Airways B789 (JA875A),Landed 10:33,2021-05-08
+49,49,10:41 NH8546,,Bangkok (BKK),ANA Cargo B763 (JA8358),Landed 10:41,2021-05-08
+50,50,10:45 KZ7101,,Los Angeles (LAX),Nippon Cargo Airlines B741,Unknown,2021-05-08
+51,51,11:00 PO717,,Los Angeles (LAX),Atlas Air B744 (N445MC),Landed 10:54,2021-05-08
+52,52,11:05,TR898,Taipei (TPE),Scoot B788 (9V-OFJ),Landed 10:32,2021-05-08
+53,53,11:05 NH238,,Brussels (BRU),All Nippon Airways (Star Wars R2-D2 Livery) B789 (JA873A),Landed 10:32,2021-05-08
+54,54,11:15 IJ832,,Sapporo (CTS),Spring Airlines Japan B738 (JA02GR),Landed 11:03,2021-05-08
+55,55,11:20 KZ101,,Los Angeles (LAX),Nippon Cargo Airlines 74N,Unknown,2021-05-08
+56,56,11:23 FX85,,Anchorage (ANC),FedEx B77L (N855FD),Landed 11:46,2021-05-08
+57,57,11:50,GK610,Kumamoto (KMJ),Jetstar Airways A320 (JA16JJ),Landed 11:41,2021-05-08
+58,58,12:00,GK104,Sapporo (CTS),Jetstar Airways A320 (JA01JJ),Landed 11:57,2021-05-08
+59,59,12:25 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA8970),Landed 12:23,2021-05-08
+60,60,12:35,GK600,Oita (OIT),Jetstar Airways A320 (JA21JJ),Landed 12:19,2021-05-08
+61,61,12:50,GK622,Kagoshima (KOJ),Jetstar Airways A320 (JA13JJ),Landed 12:39,2021-05-08
+62,62,12:50 JX800,,Taipei (TPE),Starlux Airlines A21N (B-58204),Landed 12:11,2021-05-08
+63,63,12:50 NH8412,,Singapore (SIN),ANA Cargo B763 (JA604F),Landed 12:07,2021-05-08
+64,64,12:55 7C1106,,Seoul (ICN),Jeju Air B738 (HL8316),Landed 12:35,2021-05-08
+65,65,13:05 MM570,,Sapporo (CTS),Peach A320 (JA05VA),Landed 13:02,2021-05-08
+66,66,13:15,CI100,Taipei (TPE),China Airlines (SkyTeam Livery) A333 (B-18311),Landed 12:52,2021-05-08
+67,67,13:20 IJ622,,Hiroshima (HIJ),Spring Airlines Japan B738 (JA03GR),Landed 13:15,2021-05-08
+68,68,13:25,GK504,Fukuoka (FUK),Jetstar Airways A320 (JA20JJ),Landed 13:10,2021-05-08
+69,69,13:35 NH9641,,Los Angeles (LAX),All Nippon Airways B77W (JA784A),Landed 13:32,2021-05-08
+70,70,13:40,KE703,Seoul (ICN),Korean Air A333 (HL8025),Landed 13:14,2021-05-08
+71,71,13:55,JL408,Frankfurt (FRA),Japan Airlines B789 (JA864J),Landed 13:20,2021-05-08
+72,72,13:55,UA79,New York (EWR),United Airlines B789 (N29961),Landed 13:35,2021-05-08
+73,73,14:10 MM502,,Naha (OKA),Peach A320 (JA823P),Landed 13:56,2021-05-08
+74,74,14:15,GK324,Shimojishima (SHI),Jetstar Airways A320 (JA22JJ),Landed 14:08,2021-05-08
+75,75,14:20,JL8011,Dallas (DFW),Japan Airlines B789 (JA862J),Landed 13:58,2021-05-08
+76,76,14:20,NH802,Singapore (SIN),All Nippon Airways B78X (JA900A),Landed 13:29,2021-05-08
+77,77,14:30,UA837,San Francisco (SFO),United Airlines B789 (N26960),Landed 14:31,2021-05-08
+78,78,14:33 FX5285,,Anchorage (ANC),FedEx MD11 (N606FE),Landed 14:29,2021-05-08
+79,79,14:35 CX2036,,Hong Kong (HKG),Cathay Pacific Cargo B748 (B-LJB),Landed 14:18,2021-05-08
+80,80,14:40 MM524,,Fukuoka (FUK),Peach A320 (JA812P),Landed 14:41,2021-05-08
+81,81,14:50,GK304,Naha (OKA),Jetstar Airways A320 (JA14JJ),Landed 14:27,2021-05-08
+82,82,15:00,AA61,Dallas (DFW),American Airlines B789 (N828AA),Landed 14:49,2021-05-08
+83,83,15:00,NH11,Chicago (ORD),All Nippon Airways B77W (JA795A),Landed 15:56,2021-05-08
+84,84,15:00,GK108,Sapporo (CTS),Jetstar Airways A320 (JA02JJ),Landed 14:52,2021-05-08
+85,85,15:00,UA196,Guam (GUM),United Airlines B738 (N34282),Landed 14:34,2021-05-08
+86,86,15:05 5J5056,,Manila (MNL),Cebu Pacific A20N (RP-C3281),Landed 14:09,2021-05-08
+87,87,15:10 MM532,,Ishigaki (ISG),Peach A20N (JA203P),Landed 14:24,2021-05-08
+88,88,15:10,NH820,Manila (MNL),All Nippon Airways B789 (JA883A),Landed 14:13,2021-05-08
+89,89,15:15,NH806,Bangkok (BKK),All Nippon Airways B789 (JA894A),Landed 14:37,2021-05-08
+90,90,15:15,NH834,Ho Chi Minh City (SGN),All Nippon Airways B789 (JA876A),Landed 14:20,2021-05-08
+91,91,15:20,NH816,Kuala Lumpur (KUL),All Nippon Airways B789 (JA922A),Landed 14:44,2021-05-08
+92,92,15:25 NH7,,San Francisco (SFO),All Nippon Airways B77W (JA792A),Landed 15:20,2021-05-08
+93,93,15:30,GK506,Fukuoka (FUK),Jetstar Airways A320 (JA07JJ),Landed 15:24,2021-05-08
+94,94,15:35,JL8009,Chicago (ORD),Japan Airlines B77W (JA733J),Landed 15:14,2021-05-08
+95,95,15:35 JL746,,Manila (MNL),Japan Airlines B788 (JA824J),Landed 15:04,2021-05-08
+96,96,15:40 NH232,,Brussels (BRU),All Nippon Airways -,Canceled,2021-05-08
+97,97,15:50,JL67,Seattle (SEA),Japan Airlines B789 (JA861J),Landed 15:29,2021-05-08
+98,98,15:50 KE551,,Seoul (ICN),Korean Air Cargo B748 (HL7610),Landed 15:30,2021-05-08
+99,99,15:55,GK110,Sapporo (CTS),Jetstar Airways A320 (JA23JJ),Landed 15:54,2021-05-08
+100,100,15:55 MM542,,Amami (ASJ),Peach (Fly Peach to Amami Livery) A320 (JA08VA),Landed 15:52,2021-05-08
+101,101,16:00,JL750,Ho Chi Minh City (SGN),Japan Airlines B789 (JA876J),Landed 15:11,2021-05-08
+102,102,16:00,JL3006,Osaka (ITM),Japan Airlines B738 (JA321J),Landed 15:31,2021-05-08
+103,103,16:05 CX520,,Hong Kong (HKG),Cathay Pacific A359 (B-LRU),Landed 15:17,2021-05-08
+104,104,16:10 AA9739,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-08
+105,105,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-08
+106,106,16:20 JL708,,Bangkok (BKK),Japan Airlines B788 (JA835J),Landed 15:52,2021-05-08
+107,107,16:20 JL712,,Singapore (SIN),Japan Airlines B789 (JA879J),Landed 15:47,2021-05-08
+108,108,16:20 JL720,,Jakarta (CGK),Japan Airlines B789 (JA869J),Landed 15:40,2021-05-08
+109,109,16:25 GK204,,Osaka (KIX),Jetstar Airways A320 (JA24JJ),Landed 16:07,2021-05-08
+110,110,16:25 GK646,,Nagasaki (NGS),Jetstar Airways A320 (JA04JJ),Landed 16:03,2021-05-08
+111,111,16:30 JL17,,Vancouver (YVR),Japan Airlines B788 (JA844J),Landed 15:20,2021-05-08
+112,112,16:30 NH5,,Los Angeles (LAX),All Nippon Airways B789 (JA891A),Landed 16:01,2021-05-08
+113,113,16:30 LO79,,Warsaw (WAW),LOT B788 (SP-LRB),Landed 21:02,2021-05-08
+114,114,16:35 JL8005,,New York (JFK),Japan Airlines B77W (JA743J),Landed 15:50,2021-05-08
+115,115,16:35 GK426,,Nankoku (KCZ),Jetstar Airways A320 (JA16JJ),Landed 16:15,2021-05-08
+116,116,16:40 JL61,,Los Angeles (LAX),Japan Airlines B77W (JA741J),Landed 16:34,2021-05-08
+117,117,16:45,JL57,San Francisco (SFO),Japan Air Lines B789 (JA867J),Landed 16:13,2021-05-08
+118,118,16:45,JL65,San Diego (SAN),Japan Airlines B788 (JA841J),Landed 16:32,2021-05-08
+119,119,16:50 NZ1099,,Auckland (AKL),Air New Zealand B789 (ZK-NZF),Landed 17:06,2021-05-08
+120,120,16:50,TW241,Jeju (CJU),T'way Air 737,Canceled,2021-05-08
+121,121,16:55,CI104,Taipei (TPE),China Airlines A333 (B-18351),Landed 16:21,2021-05-08
+122,122,17:00 LH8384,,Frankfurt (FRA),Lufthansa Cargo B77L (D-ALFA),Landed 16:08,2021-05-08
+123,123,17:00 NH8434,,Shanghai (PVG),ANA Cargo B763 (JA8970),Landed 21:37,2021-05-08
+124,124,17:05 NH8548,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-08
+125,125,17:10,GK508,Fukuoka (FUK),Jetstar Airways A320 (JA09JJ),Landed 16:51,2021-05-08
+126,126,17:10 AA9705,,Los Angeles (LAX),American Airlines B77W (N723AN),Landed 16:57,2021-05-08
+127,127,17:20,GK404,Matsuyama (MYJ),Jetstar Airways A320 (JA21JJ),Landed 17:06,2021-05-08
+128,128,17:35,EK318,Dubai (DXB),Emirates B77W (A6-EQJ),Landed 17:08,2021-05-08
+129,129,17:35,GK636,Miyazaki (KMI),Jetstar Airways A320 (JA01JJ),Landed 17:18,2021-05-08
+130,130,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-08
+131,131,17:55,GK414,Takamatsu (TAK),Jetstar Airways A320 (JA20JJ),Landed 17:41,2021-05-08
+132,132,18:00 CI5706,,Taipei (TPE),China Airlines 74Y,Unknown,2021-05-08
+133,133,18:00 KJ3126,,Seoul (ICN),Air Incheon 73F,Unknown,2021-05-08
+134,134,18:15 PO213,,Cincinnati (CVG),DHL B748 (N853GT),Landed 17:53,2021-05-08
+135,135,18:23 JL6721,,Los Angeles (LAX),Japan Airlines B789 (JA872J),Landed 18:28,2021-05-08
+136,136,18:29 KZ5131,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA13KZ),Landed 18:32,2021-05-08
+137,137,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA03JJ),Landed 18:14,2021-05-08
+138,138,18:35 KZ262,,Bangkok (BKK),Nippon Cargo Airlines B748 (JA15KZ),Landed 17:22,2021-05-08
+139,139,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BEU),Landed 18:05,2021-05-08
+140,140,18:45 NH8540,,Taipei (TPE),ANA Cargo B763 (JA605F),Landed 18:21,2021-05-08
+141,141,18:45 KZ254,,Bangkok (BKK),Nippon Cargo Airlines 74N,Unknown,2021-05-08
+142,142,18:56 NH958,,Beijing (PEK),All Nippon Airways B77W (JA791A),Landed 18:56,2021-05-08
+143,143,19:00 RU691,,Moscow (SVO),AirBridgeCargo Airlines 74N,Unknown,2021-05-08
+144,144,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N726AN),Landed 18:59,2021-05-08
+145,145,19:05 MM582,,Sapporo (CTS),Peach A320 (JA818P),Landed 19:15,2021-05-08
+146,146,19:10 KE224,,Los Angeles (LAX),Korean Air Cargo B77L (HL8046),Landed 19:12,2021-05-08
+147,147,19:15 KZ226,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA17KZ),Landed 18:52,2021-05-08
+148,148,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA814P),Landed 19:43,2021-05-08
+149,149,19:30 7L903,,Baku (GYD),Silk Way West Airlines B748 (VQ-BWY),Landed 19:35,2021-05-08
+150,150,19:30 LD208,,Hong Kong (HKG),DHL A306 (B-LDA),Unknown,2021-05-08
+151,151,19:45 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA797A),Landed 19:38,2021-05-08
+152,152,19:50 NH8516,,Xiamen (XMN),ANA Cargo B763 (JA8664),Landed 21:47,2021-05-08
+153,153,19:50 5Y7831,,Anchorage (ANC),Atlas Air B744 (N407KZ),Landed 20:38,2021-05-08
+154,154,20:00 NH8538,,Taipei (TPE),ANA Cargo B763 (JA601F),Landed 19:59,2021-05-08
+155,155,20:05 NH8502,,Dalian (DLC),ANA Cargo B763 (JA8358),Landed 19:47,2021-05-08
+156,156,20:10 AA9730,,Chicago (ORD),American Airlines B77W (N720AN),Unknown,2021-05-08
+157,157,20:10 9S7950,,New York (JFK),DHL B77L (N775SA),Landed 19:25,2021-05-08
+158,158,20:20,GK512,Fukuoka (FUK),Jetstar Airways A320 (JA14JJ),Landed 20:11,2021-05-08
+159,159,20:20 PO7950,,New York (JFK),Polar Air Cargo 77F,Unknown,2021-05-08
+160,160,20:25,GK306,Naha (OKA),Jetstar Airways A320 (JA13JJ),Landed 20:08,2021-05-08
+161,161,20:35 NH9171,,Chicago (ORD),All Nippon Airways 741,Unknown,2021-05-08
+162,162,20:40,JL812,Kaohsiung (KHH),Japan Airlines B763 (JA618J),Landed 20:19,2021-05-08
+163,163,20:47 NH8596,,Manila (MNL),ANA Cargo B763 (JA8323),Landed 20:47,2021-05-08
+164,164,20:50 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA602F),Landed 20:02,2021-05-08
+165,165,20:55,GK326,Shimojishima (SHI),Jetstar Airways A320 (JA17JJ),Landed 21:26,2021-05-08
+166,166,21:05 UA2801,,San Francisco (SFO),United Airlines B789 (N26967),Landed 21:00,2021-05-08
+167,167,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA07JJ),Landed 20:53,2021-05-08
+168,168,21:15 MM508,,Naha (OKA),Peach A320 (JA07VA),Landed 20:50,2021-05-08
+169,169,21:35 MM588,,Sapporo (CTS),Peach A20N (JA204P),Landed 21:30,2021-05-08
+170,170,21:50,GK210,Osaka (KIX),Jetstar Airways A320 (JA05JJ),Landed 21:41,2021-05-08
+171,171,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA15JJ),Landed 21:37,2021-05-08
+172,172,22:10,GK516,Fukuoka (FUK),Jetstar Airways A320 (JA04JJ),Landed 21:54,2021-05-08
+173,173,22:25 NH960,,Shanghai (PVG),All Nippon Airways (Star Wars BB-8 Livery) B77W (JA789A),Landed 21:23,2021-05-08
+174,174,22:30 MU311,,-,China Eastern Airlines 333,Unknown,2021-05-08
+0,0,04:00 RU691,,Moscow (DME),AirBridgeCargo Airlines 74N,Unknown,2021-05-09
+1,1,05:30 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-09
+2,2,06:10 NH8536,,Seoul (ICN),ANA Cargo B763 (JA604F),Landed 19:16,2021-05-09
+3,3,06:15 NH8506,,Qingdao (TAO),ANA Cargo B763 (JA8323),Landed 06:10,2021-05-09
+4,4,06:20 CX6,,Hong Kong (HKG),Cathay Pacific Cargo B748 (B-LJF),Landed 06:02,2021-05-09
+5,5,06:20 JL8746,,Manila (MNL),Japan Airlines B788 (JA830J),Landed 06:06,2021-05-09
+6,6,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA876J),Landed 06:05,2021-05-09
+7,7,06:30 KZ49,,Milan (MXP),Nippon Cargo Airlines B748 (JA16KZ),Landed 06:16,2021-05-09
+8,8,06:40 NH8518,,Shanghai (PVG),ANA Cargo B763 (JA8970),Landed 07:18,2021-05-09
+9,9,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA828A),Landed 06:43,2021-05-09
+10,10,06:45,NH898,Hanoi (HAN),All Nippon Airways B789 (JA879A),Landed 06:05,2021-05-09
+11,11,07:05,JL724,Kuala Lumpur (KUL),Japan Airlines B789 (JA870J),Landed 06:18,2021-05-09
+12,12,07:25,JL726,Jakarta (CGK),Japan Airlines B789 (JA871J),Landed 06:34,2021-05-09
+13,13,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA12KZ),Landed 07:21,2021-05-09
+14,14,07:35 NH8404,,Shanghai (PVG),ANA Cargo B763 (JA8664),Landed 07:16,2021-05-09
+15,15,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA822J),Landed 06:59,2021-05-09
+16,16,07:45 PO935,,Shenzhen (SZX),Polar Air Cargo 77F,Unknown,2021-05-09
+17,17,07:55,SB800,Noumea (NOU),Aircalin A339 (F-ONET),Landed 07:47,2021-05-09
+18,18,07:55 NH8512,,Hong Kong (HKG),ANA Cargo B763 (JA605F),Landed 07:27,2021-05-09
+19,19,07:55 NH8490,,Guangzhou (CAN),ANA Cargo B763 (JA601F),Landed 08:54,2021-05-09
+20,20,08:00,SQ638,Singapore (SIN),Singapore Airlines B78X (9V-SCH),Landed 07:13,2021-05-09
+21,21,08:10,TG642,Bangkok (BKK),Thai Airways B77W (HS-TKQ),Landed 07:35,2021-05-09
+22,22,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA15KZ),Landed 07:46,2021-05-09
+23,23,08:24 PO749,,Cincinnati (CVG),DHL B748 (N858GT),Landed 08:22,2021-05-09
+24,24,08:25,AF276,Paris (CDG),Air France B77W (F-GZNA),Landed 07:49,2021-05-09
+25,25,08:25 UA2829,,Chicago (ORD),United Airlines B77W (N2140U),Landed 08:00,2021-05-09
+26,26,08:35,KL861,Amsterdam (AMS),KLM B789 (PH-BHH),Landed 08:19,2021-05-09
+27,27,08:40,JL718,Bangkok (BKK),Japan Airlines B788 (JA835J),Landed 08:02,2021-05-09
+28,28,08:45 UA2853,,Los Angeles (LAX),United Airlines B77W (N2639U),Landed 09:04,2021-05-09
+29,29,09:05 MM311,,Osaka (KIX),Peach A20N (JA201P),Landed 08:49,2021-05-09
+30,30,09:10 UA2822,,Chicago (ORD),United Airlines B789 (N27958),Landed 09:06,2021-05-09
+31,31,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-09
+32,32,09:16 5X108,,Anchorage (ANC),UPS B763 (N306UP),Landed 09:28,2021-05-09
+33,33,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-09
+34,34,09:35,JL3082,Nagoya (NGO),Japan Airlines B738 (JA321J),Landed 09:13,2021-05-09
+35,35,09:35 PO232,,Shanghai (PVG),DHL B763 (N644GT),Landed 09:17,2021-05-09
+36,36,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-09
+37,37,09:40 CA1073,,Shanghai (PVG),Air China Cargo B77L (B-2096),Landed 09:35,2021-05-09
+38,38,10:04 FX87,,Memphis (MEM),FedEx B77L (N887FD),Landed 10:18,2021-05-09
+39,39,10:15 KZ159,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA11KZ),Landed 11:18,2021-05-09
+40,40,10:15,TW211,Seoul (ICN),T'way Air 737,Canceled,2021-05-09
+41,41,10:30 AI306,,Delhi (DEL),Air India B788 (VT-ANE),Landed 09:56,2021-05-09
+42,42,10:55 KZ7167,,Anchorage (ANC),Nippon Cargo Airlines 74Y,Unknown,2021-05-09
+43,43,11:10 UA2802,,Chengdu (CTU),United Airlines B789 (N26967),Landed 10:47,2021-05-09
+44,44,11:15 PO217,,Los Angeles (LAX),DHL B744 (N452PA),Landed 11:06,2021-05-09
+45,45,11:15 JL6709,,Chicago (ORD),Japan Airlines B789 (JA878J),Landed 11:12,2021-05-09
+46,46,11:20,TW201,Daegu (TAE),T'way Air 737,Canceled,2021-05-09
+47,47,11:20 W81791,,Vancouver (YVR),Cargojet Airways B763 (C-FCCJ),Landed 11:05,2021-05-09
+48,48,11:45 NH8546,,Bangkok (BKK),ANA Cargo B763 (JA8358),Unknown,2021-05-09
+49,49,12:00,GK104,Sapporo (CTS),Jetstar Airways A320 (JA04JJ),Landed 12:00,2021-05-09
+50,50,12:19 FX169,,Anchorage (ANC),FedEx B77L (N864FD),Landed 12:18,2021-05-09
+51,51,12:20,OZ102,Seoul (ICN),Asiana Airlines A321 (HL8265),Landed 12:06,2021-05-09
+52,52,12:30 OZ198,,Seoul (ICN),Asiana Cargo B744 (HL7423),Landed 18:57,2021-05-09
+53,53,12:40 NH8406,,Frankfurt (FRA),ANA Cargo B77L (JA771F),Landed 11:42,2021-05-09
+54,54,12:48 FX157,,Anchorage (ANC),FedEx B77L (N861FD),Landed 12:38,2021-05-09
+55,55,12:50,GK622,Kagoshima (KOJ),Jetstar Airways A320 (JA13JJ),Landed 12:36,2021-05-09
+56,56,12:50 NH8412,,Singapore (SIN),ANA Cargo B763 (JA604F),Landed 11:50,2021-05-09
+57,57,12:55 7C1106,,Seoul (ICN),Jeju Air 738,Canceled,2021-05-09
+58,58,13:00 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA602F),Landed 12:25,2021-05-09
+59,59,13:05 CA1076,,Los Angeles (LAX),Air China B77F,Unknown,2021-05-09
+60,60,13:05 MM570,,Sapporo (CTS),Peach A320 (JA823P),Landed 13:09,2021-05-09
+61,61,13:10 SU5480,,Vladivostok (VVO),Aurora A319 (VP-BDM),Landed 12:53,2021-05-09
+62,62,13:15,BR198,Taipei (TPE),EVA Air B77W (B-16718),Landed 12:35,2021-05-09
+63,63,13:15,CI100,Taipei (TPE),China Airlines A333 (B-18315),Landed 12:42,2021-05-09
+64,64,13:25 GK504,,Fukuoka (FUK),Jetstar Airways A320 (JA24JJ),Landed 13:09,2021-05-09
+65,65,13:35 NH9641,,Los Angeles (LAX),All Nippon Airways B77W (JA785A),Landed 13:21,2021-05-09
+66,66,13:40 KE703,,Seoul (ICN),Korean Air A333 (HL8025),Landed 13:24,2021-05-09
+67,67,13:55 UA79,,New York (EWR),United Airlines B789 (N45956),Landed 13:37,2021-05-09
+68,68,14:00 C85717,,Milan (MXP),Cargolux B744 (LX-YCV),Landed 14:12,2021-05-09
+69,69,14:00 MM592,,Kushiro (KUH),Peach A20N (JA204P),Landed 13:59,2021-05-09
+70,70,14:15 GK324,,Shimojishima (SHI),Jetstar Airways A320 (JA21JJ),Landed 14:18,2021-05-09
+71,71,14:20 NH802,,Singapore (SIN),All Nippon Airways B789 (JA898A),Landed 13:30,2021-05-09
+72,72,14:25 IJ214,,Harbin (HRB),Spring Airlines Japan B738 (JA06GR),Landed 15:41,2021-05-09
+73,73,14:30 UA837,,San Francisco (SFO),United Airlines B789 (N35953),Landed 14:36,2021-05-09
+74,74,14:40 MM524,,Fukuoka (FUK),Peach A20N (JA201P),Landed 14:19,2021-05-09
+75,75,14:50 GK304,,Naha (OKA),Jetstar Airways A320 (JA14JJ),Landed 14:32,2021-05-09
+76,76,15:00 AA61,,Dallas (DFW),American Airlines B789 (N836AA),Landed 14:27,2021-05-09
+77,77,15:00 GK108,,Sapporo (CTS),Jetstar Airways A320 (JA02JJ),Landed 14:58,2021-05-09
+78,78,15:00 UA196,,Guam (GUM),United Airlines B738 (N73278),Landed 14:39,2021-05-09
+79,79,15:00 NH11,,Chicago (ORD),All Nippon Airways B77W (JA790A),Landed 15:15,2021-05-09
+80,80,15:05 AC3,,Vancouver (YVR),Air Canada B789 (C-FSBV),Landed 15:25,2021-05-09
+81,81,15:10 NH820,,Manila (MNL),All Nippon Airways B789 (JA893A),Landed 14:08,2021-05-09
+82,82,15:15 NH806,,Bangkok (BKK),All Nippon Airways B789 (JA922A),Landed 14:29,2021-05-09
+83,83,15:30 NH8401,,Chicago (ORD),All Nippon Airways B77F,Unknown,2021-05-09
+84,84,15:30 GK506,,Fukuoka (FUK),Jetstar Airways A320 (JA05JJ),Landed 15:12,2021-05-09
+85,85,15:40 NH232,,Brussels (BRU),All Nippon Airways B789 (JA837A),Landed 15:30,2021-05-09
+86,86,15:40 ZG42,,Seoul (ICN),ZIPAIR B788 (JA822J),Landed 15:09,2021-05-09
+87,87,15:45 5Y7109,,San Francisco (SFO),Atlas Air B744 (N405KZ),Landed 20:12,2021-05-09
+88,88,15:45 UA32,,Los Angeles (LAX),United Airlines B789 (N38950),Landed 15:39,2021-05-09
+89,89,15:45 KZ7109,,San Francisco (SFO),Atlas Air B744 (N405KZ),Unknown,2021-05-09
+90,90,15:50 KE551,,Seoul (ICN),Korean Air Cargo B744 (HL7603),Landed 17:50,2021-05-09
+91,91,15:55 GK110,,Sapporo (CTS),Jetstar Airways A320 (JA01JJ),Landed 15:48,2021-05-09
+92,92,15:55 MM542,,Amami (ASJ),Peach (Fly Peach to Amami Livery) A320 (JA08VA),Landed 15:50,2021-05-09
+93,93,16:00 EY878,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLX),Landed 15:43,2021-05-09
+94,94,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-09
+95,95,16:05 CX520,,Hong Kong (HKG),Cathay Pacific A35K (B-LXH),Landed 15:06,2021-05-09
+96,96,16:10 AA9740,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-09
+97,97,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-09
+98,98,16:15,JL7,Boston (BOS),Japan Airlines B789 (JA866J),Landed 15:55,2021-05-09
+99,99,16:20 QF61,,Brisbane (BNE),Qantas A333 (VH-QPH),Landed 16:08,2021-05-09
+100,100,16:25,GK204,Osaka (KIX),Jetstar Airways A320 (JA15JJ),Landed 16:01,2021-05-09
+101,101,16:25,GK646,Nagasaki (NGS),Jetstar Airways A320 (JA08JJ),Landed 16:14,2021-05-09
+102,102,16:30,JL17,Vancouver (YVR),Japan Airlines B788 (JA843J),Landed 15:43,2021-05-09
+103,103,16:30,NH5,Los Angeles (LAX),All Nippon Airways B789 (JA875A),Landed 16:05,2021-05-09
+104,104,16:35,GK426,Nankoku (KCZ),Jetstar Airways A320 (JA17JJ),Landed 16:24,2021-05-09
+105,105,16:50 JL61,,Los Angeles (LAX),Japan Airlines B77W (JA733J),Landed 16:33,2021-05-09
+106,106,16:55,CI104,Taipei (TPE),China Airlines A333 (B-18361),Landed 16:03,2021-05-09
+107,107,16:55,NH920,Shanghai (PVG),All Nippon Airways B78X (JA901A),Landed 18:12,2021-05-09
+108,108,16:55 RU791,,Moscow (SVO),AirBridgeCargo B748 (VQ-BLR),Landed 20:19,2021-05-09
+109,109,17:00 LH8386,,Frankfurt (FRA),Lufthansa Cargo B77L (D-ALFE),Landed 16:23,2021-05-09
+110,110,17:00 IJ702,,Saga (HSG),Spring Airlines Japan B738 (JA04GR),Landed 16:41,2021-05-09
+111,111,17:10 UA2767,,Chicago (ORD),United Airlines B77W (N2135U),Landed 17:41,2021-05-09
+112,112,17:10,GK508,Fukuoka (FUK),Jetstar Airways A320 (JA16JJ),Landed 17:00,2021-05-09
+113,113,17:10 AA9730,,Los Angeles (LAX),American Airlines B77W (N720AN),Landed 16:59,2021-05-09
+114,114,17:20,GK404,Matsuyama (MYJ),Jetstar A320 (JA25JJ),Landed 17:05,2021-05-09
+115,115,17:35,GK636,Miyazaki (KMI),Jetstar Airways A320 (JA04JJ),Landed 17:23,2021-05-09
+116,116,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-09
+117,117,17:35 SC2407,,Qingdao (TAO),Shandong Airlines B738 (B-6987),Landed 17:53,2021-05-09
+118,118,17:45 MM554,,Miyazaki (KMI),Peach A320 (JA812P),Landed 17:41,2021-05-09
+119,119,17:55,GK414,Takamatsu (TAK),Jetstar Airways A320 (JA24JJ),Landed 17:42,2021-05-09
+120,120,17:55 9C6217,,Shanghai (PVG),Spring Airlines A320 (B-8646),Landed 18:58,2021-05-09
+121,121,18:15,TW241,Jeju (CJU),T'way Air 737,Canceled,2021-05-09
+122,122,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA10JJ),Landed 18:19,2021-05-09
+123,123,18:30 KZ129,,Anchorage (ANC),Nippon Cargo Airlines 74N,Unknown,2021-05-09
+124,124,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BAM),Landed 18:14,2021-05-09
+125,125,19:00 IJ834,,Sapporo (CTS),Spring Airlines Japan B738 (JA05GR),Landed 18:57,2021-05-09
+126,126,19:00 NH8540,,Taipei (TPE),ANA Cargo B763 (JA8323),Landed 18:02,2021-05-09
+127,127,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N723AN),Landed 18:34,2021-05-09
+128,128,19:05 MM582,,Sapporo (CTS),Peach A320 (JA05VA),Landed 19:09,2021-05-09
+129,129,19:11 NH958,,Beijing (PEK),All Nippon Airways (Star Wars BB-8 Livery) B77W (JA789A),Landed 19:11,2021-05-09
+130,130,19:15 KZ226,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA15KZ),Landed 19:39,2021-05-09
+131,131,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA14VA),Landed 19:19,2021-05-09
+132,132,19:45,GK208,Osaka (KIX),Jetstar Airways A320 (JA02JJ),Landed 19:28,2021-05-09
+133,133,20:00 KZ208,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA13KZ),Landed 19:06,2021-05-09
+134,134,20:05 UA2818,,Beijing (PEK),United Airlines B789 (N27958),Landed 19:38,2021-05-09
+135,135,20:05 NH8538,,Taipei (TPE),ANA Cargo B763 (JA601F),Landed 19:50,2021-05-09
+136,136,20:15,ET672,Seoul (ICN),Ethiopian Airlines B788 (ET-ASG),Landed 19:14,2021-05-09
+137,137,20:19 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA784A),Landed 19:59,2021-05-09
+138,138,20:20,GK512,Fukuoka (FUK),Jetstar Airways A320 (JA14JJ),Landed 19:58,2021-05-09
+139,139,20:23 KZ167,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA18KZ),Landed 20:23,2021-05-09
+140,140,20:25,GK306,Naha (OKA),Jetstar Airways A320 (JA13JJ),Landed 19:56,2021-05-09
+141,141,20:25 MM506,,Naha (OKA),Peach A320 (JA823P),Landed 20:06,2021-05-09
+142,142,20:35 UA2793,,Hong Kong (HKG),United Airlines B77W (N2140U),Landed 19:48,2021-05-09
+143,143,20:40,JL26,Hong Kong (HKG),Japan Airlines B789 (JA876J),Landed 19:34,2021-05-09
+144,144,20:50 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA8970),Landed 20:01,2021-05-09
+145,145,20:55,GK118,Sapporo (CTS),Jetstar Airways A320 (JA01JJ),Landed 21:10,2021-05-09
+146,146,20:55,GK326,Shimojishima (SHI),Jetstar Airways A320 (JA23JJ),Landed 20:42,2021-05-09
+147,147,20:55 UA2830,,Hong Kong (HKG),United Airlines B77W (N2639U),Landed 20:09,2021-05-09
+148,148,20:57 PO958,,Cincinnati (CVG),DHL B748 (N855GT),Landed 20:14,2021-05-09
+149,149,21:00 NH8516,,Xiamen (XMN),ANA Cargo B763 (JA603A),Landed 21:24,2021-05-09
+150,150,21:04 NH8596,,Manila (MNL),ANA Cargo B763 (JA605F),Landed 21:05,2021-05-09
+151,151,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA05JJ),Landed 20:48,2021-05-09
+152,152,21:15 MM508,,Naha (OKA),Peach A320 (JA15VA),Landed 21:02,2021-05-09
+153,153,21:15 MM536,,Ishigaki (ISG),Peach A320 (JA07VA),Landed 20:37,2021-05-09
+154,154,21:18 FX9815,,Anchorage (ANC),FedEx B77L (N856FD),Landed 21:11,2021-05-09
+155,155,21:35 IJ624,,Hiroshima (HIJ),Spring Airlines Japan B738 (JA01GR),Landed 21:27,2021-05-09
+156,156,21:35 MM588,,Sapporo (CTS),Peach A20N (JA203P),Landed 21:37,2021-05-09
+157,157,21:40 NH8514,,Hong Kong (HKG),All Nippon Airways 76F,Unknown,2021-05-09
+158,158,21:45 NH8524,,Hong Kong (HKG),ANA Cargo B763 (JA8664),Landed 20:56,2021-05-09
+159,159,21:50,GK608,Oita (OIT),Jetstar Airways A320 (JA15JJ),Landed 21:32,2021-05-09
+160,160,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA11JJ),Landed 21:43,2021-05-09
+161,161,22:00,GK618,Kumamoto (KMJ),Jetstar Airways A320 (JA17JJ),Landed 21:34,2021-05-09
+162,162,22:10,GK516,Fukuoka (FUK),Jetstar Airways A320 (JA08JJ),Landed 21:55,2021-05-09
+163,163,22:20 MU317,,-,China Eastern Airlines A333 (B-6100),Unknown,2021-05-09
+164,164,22:25 NH960,,Shanghai (PVG),All Nippon Airways B77W (JA791A),Landed 21:30,2021-05-09
+165,165,22:30 MU311,,-,China Eastern Airlines A333 (B-6097),Unknown,2021-05-09
+0,0,05:30 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-10
+1,1,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA866J),Landed 06:06,2021-05-10
+2,2,06:40 NH8534,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-10
+3,3,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA823A),Landed 06:20,2021-05-10
+4,4,06:45,NH898,Hanoi (HAN),All Nippon Airways B789 (JA884A),Landed 06:03,2021-05-10
+5,5,06:50 NH8416,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-10
+6,6,06:58 NH8432,,Shanghai (PVG),ANA Cargo B763 (JA8664),Landed 06:44,2021-05-10
+7,7,07:10 NH8532,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-10
+8,8,07:20 NH8518,,Shanghai (PVG),ANA Cargo B763 (JA604F),Landed 06:25,2021-05-10
+9,9,07:25 KZ7244,,Taipei (TPE),Atlas Air B744 (N407KZ),Landed 06:35,2021-05-10
+10,10,07:26 5X110,,Anchorage (ANC),UPS B763 (N314UP),Landed 07:29,2021-05-10
+11,11,07:30 3U9921,,-,Sichuan Airlines 359,Unknown,2021-05-10
+12,12,07:30 GI4209,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-05-10
+13,13,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA13KZ),Landed 07:08,2021-05-10
+14,14,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA822J),Landed 06:47,2021-05-10
+15,15,08:00,SQ638,Singapore (SIN),Singapore Airlines B78X (9V-SCH),Landed 07:11,2021-05-10
+16,16,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA15KZ),Landed 08:56,2021-05-10
+17,17,08:25 UA2829,,Chicago (ORD),United Airlines B77W (N2341U),Landed 07:44,2021-05-10
+18,18,08:35,KL861,Amsterdam (AMS),KLM B77W (PH-BVU),Landed 08:16,2021-05-10
+19,19,08:45 UA2853,,Los Angeles (LAX),United Airlines B77W (N2251U),Landed 08:40,2021-05-10
+20,20,09:05 MM311,,Osaka (KIX),Peach A320 (JA827P),Landed 08:50,2021-05-10
+21,21,09:10 AY73,,Helsinki (HEL),Finnair A359 (OH-LWK),Landed 08:38,2021-05-10
+22,22,09:10 UA2822,,Chicago (ORD),United Airlines B789 (N25982),Landed 08:13,2021-05-10
+23,23,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-10
+24,24,09:25 CA1073,,Shanghai (PVG),Air China Cargo B77L (B-2096),Landed 09:15,2021-05-10
+25,25,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-10
+26,26,09:30 CA1075,,Shanghai (PVG),Air China 77F,Unknown,2021-05-10
+27,27,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-10
+28,28,09:35 JL3082,,Nagoya (NGO),Japan Airlines 73H,Canceled,2021-05-10
+29,29,10:15,TW211,Seoul (ICN),T'way Air 737,Canceled,2021-05-10
+30,30,10:38 FX15,,Anchorage (ANC),FedEx B77L (N855FD),Landed 10:48,2021-05-10
+31,31,10:40 KZ101,,Los Angeles (LAX),Nippon Cargo Airlines B748 (JA12KZ),Landed 10:09,2021-05-10
+32,32,10:59 NH9656,,Frankfurt (FRA),All Nippon Airways B77W (JA797A),Landed 11:00,2021-05-10
+33,33,11:04 NH8546,,Bangkok (BKK),ANA Cargo B763 (JA8323),Landed 11:05,2021-05-10
+34,34,11:05 KZ7101,,Los Angeles (LAX),Nippon Cargo Airlines 74Y,Unknown,2021-05-10
+35,35,11:05 NH238,,Brussels (BRU),All Nippon Airways B789 (JA891A),Landed 10:34,2021-05-10
+36,36,11:30 KZ159,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA17KZ),Landed 11:39,2021-05-10
+37,37,12:00,GK104,Sapporo (CTS),Jetstar Airways A320 (JA24JJ),Landed 12:07,2021-05-10
+38,38,12:10 UA2834,,Chicago (ORD),United Airlines B77W (N2645U),Landed 11:59,2021-05-10
+39,39,12:25 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA601F),Landed 06:30,2021-05-10
+40,40,12:50 NH8412,,Singapore (SIN),ANA Cargo B763 (JA8358),Landed 12:11,2021-05-10
+41,41,13:05 MM570,,Sapporo (CTS),Peach A320 (JA14VA),Landed 13:04,2021-05-10
+42,42,13:05 PO775,,Cincinnati (CVG),DHL B748 (N853GT),Landed 16:26,2021-05-10
+43,43,13:10 NQ802,,Singapore (SIN),All Nippon Airways B789 (JA922A),Landed 13:11,2021-05-10
+44,44,13:15,CI100,Taipei (TPE),China Airlines A333 (B-18310),Landed 12:36,2021-05-10
+45,45,13:20,TW201,Daegu (TAE),T'way Air 737,Canceled,2021-05-10
+46,46,13:25,GK504,Fukuoka (FUK),Jetstar Airways A320 (JA09JJ),Landed 13:25,2021-05-10
+47,47,13:37 FX79,,Anchorage (ANC),FedEx B77L (N845FD),Landed 13:44,2021-05-10
+48,48,13:40,KE703,Seoul (ICN),Korean Air A333 (HL7584),Landed 13:14,2021-05-10
+49,49,13:55,JL408,Frankfurt (FRA),Japan Airlines B789 (JA864J),Landed 13:10,2021-05-10
+50,50,13:55,UA79,New York (EWR),United Airlines B789 (N26960),Landed 13:28,2021-05-10
+51,51,14:15,GK324,Shimojishima (SHI),Jetstar Airways A320 (JA16JJ),Landed 13:59,2021-05-10
+52,52,14:20,JL8011,Dallas (DFW),Japan Airlines B789 (JA862J),Landed 14:15,2021-05-10
+53,53,14:30,UA837,San Francisco (SFO),United Airlines B789 (N26967),Landed 14:03,2021-05-10
+54,54,14:40 MM524,,Fukuoka (FUK),Peach A320 (JA827P),Landed 14:18,2021-05-10
+55,55,15:00,AA61,Dallas (DFW),American Airlines B789 (N833AA),Landed 14:38,2021-05-10
+56,56,15:00,NH11,Chicago (ORD),All Nippon Airways B77W (JA792A),Landed 14:57,2021-05-10
+57,57,15:00,UA196,Guam (GUM),United Airlines B738 (N37281),Landed 14:28,2021-05-10
+58,58,15:10 MM532,,Ishigaki (ISG),Peach A20N (JA203P),Landed 14:31,2021-05-10
+59,59,15:10,NH820,Manila (MNL),All Nippon Airways B789 (JA885A),Landed 14:05,2021-05-10
+60,60,15:10 NH9649,,Chicago (ORD),All Nippon Airways B77W (JA795A),Landed 14:48,2021-05-10
+61,61,15:15,NH806,Bangkok (BKK),All Nippon Airways (Star Alliance Livery) B789 (JA899A),Landed 14:32,2021-05-10
+62,62,15:20,NH816,Kuala Lumpur (KUL),All Nippon Airways B789 (JA894A),Landed 14:39,2021-05-10
+63,63,15:25 NH7,,San Francisco (SFO),All Nippon Airways B77W (JA785A),Landed 14:50,2021-05-10
+64,64,15:30,GK506,Fukuoka (FUK),Jetstar Airways A320 (JA01JJ),Landed 15:28,2021-05-10
+65,65,15:35,JL8009,Chicago (ORD),Japan Airlines B77W (JA741J),Landed 15:32,2021-05-10
+66,66,15:35 JL746,,Manila (MNL),Japan Airlines B788 (JA824J),Landed 14:55,2021-05-10
+67,67,15:40 NH232,,Brussels (BRU),All Nippon Airways -,Canceled,2021-05-10
+68,68,15:50,JL67,Seattle (SEA),Japan Airlines B788 (JA841J),Landed 15:46,2021-05-10
+69,69,16:00,HA821,Honolulu (HNL),Hawaiian Airlines A332 (N392HA),Landed 15:41,2021-05-10
+70,70,16:00,JL750,Ho Chi Minh City (SGN),Japan Airlines B789 (JA874J),Landed 15:19,2021-05-10
+71,71,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-10
+72,72,16:05,CX520,Hong Kong (HKG),Cathay Pacific A35K (B-LXI),Landed 15:13,2021-05-10
+73,73,16:10 AA9742,,Los Angeles (LAX),American Airlines B77W (N721AN),Landed 16:49,2021-05-10
+74,74,16:10 KZ17,,Milan (MXP),Nippon Cargo Airlines B748 (JA16KZ),Landed 16:31,2021-05-10
+75,75,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-10
+76,76,16:20,JL712,Singapore (SIN),Japan Airlines B789 (JA869J),Landed 15:37,2021-05-10
+77,77,16:20,JL708,Bangkok (BKK),Japan Airlines B788 (JA833J),Landed 15:38,2021-05-10
+78,78,16:30 NH5,,Los Angeles (LAX),All Nippon Airways B789 (JA876A),Landed 15:42,2021-05-10
+79,79,16:35,JL8005,New York (JFK),Japan Airlines B77W (JA736J),Landed 15:59,2021-05-10
+80,80,16:35,GK426,Nankoku (KCZ),Jetstar Airways A320 (JA24JJ),Landed 16:18,2021-05-10
+81,81,16:40,JL61,Los Angeles (LAX),Japan Airlines B77W (JA743J),Landed 16:22,2021-05-10
+82,82,16:45,JL57,San Francisco (SFO),Japan Airlines B789 (JA868J),Landed 16:08,2021-05-10
+83,83,16:45,JL65,San Diego (SAN),Japan Airlines B788 (JA845J),Landed 16:13,2021-05-10
+84,84,16:54 JL6713,,Dallas (DFW),Japan Airlines B789 (JA878J),Landed 16:35,2021-05-10
+85,85,16:55,CI104,Taipei (TPE),China Airlines A333 (B-18356),Landed 16:31,2021-05-10
+86,86,17:00 LH8384,,Frankfurt (FRA),Lufthansa Cargo B77L (D-ALFD),Landed 16:23,2021-05-10
+87,87,17:00 NH8434,,Shanghai (PVG),ANA Cargo B763 (JA8664),Landed 16:59,2021-05-10
+88,88,17:05 JL772,,Sydney (SYD),Japan Airlines B788 (JA844J),Landed 17:13,2021-05-10
+89,89,17:10,GK508,Fukuoka (FUK),Jetstar Airways A320 (JA08JJ),Landed 17:08,2021-05-10
+90,90,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-10
+91,91,18:02 FX9736,,Chicago (ORD),FedEx B77L (N887FD),Landed 18:45,2021-05-10
+92,92,18:02 JL6721,,Los Angeles (LAX),Japan Airlines B789 (JA872J),Landed 17:38,2021-05-10
+93,93,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA20JJ),Landed 18:17,2021-05-10
+94,94,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BES),Landed 18:11,2021-05-10
+95,95,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N720AN),Landed 18:50,2021-05-10
+96,96,19:05 MM582,,Sapporo (CTS),Peach (Fly Peach to Amami Livery) A320 (JA08VA),Landed 19:05,2021-05-10
+97,97,19:20 NH8401,,Chicago (ORD),ANA Cargo B77L (JA771F),Landed 17:10,2021-05-10
+98,98,19:30 LD208,,Hong Kong (HKG),DHL A306 (B-LDD),Landed 18:41,2021-05-10
+99,99,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA813P),Landed 19:26,2021-05-10
+100,100,19:30 KZ260,,Hong Kong (HKG),Nippon Cargo Airlines 74N,Unknown,2021-05-10
+101,101,19:45 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA790A),Landed 19:29,2021-05-10
+102,102,19:50 NH932,,Shenzhen (SZX),All Nippon Airways B789 (JA896A),Landed 19:54,2021-05-10
+103,103,19:50 NH8516,,Xiamen (XMN),ANA Cargo B763 (JA605F),Landed 19:39,2021-05-10
+104,104,20:05 UA2818,,Beijing (PEK),United Airlines B789 (N25982),Landed 19:33,2021-05-10
+105,105,20:10 PO213,,Cincinnati (CVG),DHL B744 (N454PA),Unknown,2021-05-10
+106,106,20:35 UA2793,,Hong Kong (HKG),United Airlines B77W (N2341U),Landed 19:43,2021-05-10
+107,107,20:55 UA2830,,Hong Kong (HKG),United Airlines B77W (N2251U),Landed 20:06,2021-05-10
+108,108,21:05 KZ208,,Hong Kong (HKG),Nippon Cargo Airlines 74N,Unknown,2021-05-10
+109,109,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA05JJ),Landed 21:07,2021-05-10
+110,110,21:15 MM508,,Naha (OKA),Peach A320 (JA07VA),Landed 21:17,2021-05-10
+111,111,21:20 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA604F),Landed 19:50,2021-05-10
+112,112,21:33 NH8494,,Shanghai (PVG),ANA Cargo B763 (JA8323),Landed 21:33,2021-05-10
+113,113,21:35 MM588,,Sapporo (CTS),Peach A20N (JA201P),Landed 21:31,2021-05-10
+114,114,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA22JJ),Landed 21:45,2021-05-10
+115,115,22:05 UA2791,,Taipei (TPE),United Airlines B77W (N2645U),Landed 21:35,2021-05-10
+116,116,22:25 NH960,,Shanghai (PVG),All Nippon Airways -,Canceled,2021-05-10
+0,0,02:35 HT3823,,Weihai (WEH),Air Horizont 737,Unknown,2021-05-11
+1,1,05:40 CF207,,Shanghai (PVG),China Postal Airlines B738 (B-5131),Landed 13:12,2021-05-11
+2,2,06:10 NH8536,,Seoul (ICN),All Nippon Airways 76F,Unknown,2021-05-11
+3,3,06:10 YG9105,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-05-11
+4,4,06:15 NH8506,,Qingdao (TAO),ANA Cargo B763 (JA604F),Landed 06:05,2021-05-11
+5,5,06:20 CX6,,Hong Kong (HKG),Cathay Pacific Cargo B748 (B-LJH),Landed 06:23,2021-05-11
+6,6,06:20 NH8432,,Shanghai (PVG),ANA Cargo B763 (JA8664),Landed 06:20,2021-05-11
+7,7,06:20 FX15,,Anchorage (ANC),FedEx B77L (N844FD),Landed 07:00,2021-05-11
+8,8,06:25 OZ1981,,Seoul (ICN),Asiana Airlines 76F,Unknown,2021-05-11
+9,9,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA876J),Landed 06:02,2021-05-11
+10,10,06:30 KZ49,,Milan (MXP),Nippon Cargo Airlines B748 (JA18KZ),Landed 06:10,2021-05-11
+11,11,06:35 9S7930,,Chicago (ORD),DHL B77L (N777SA),Landed 06:25,2021-05-11
+12,12,06:40 NH8534,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-11
+13,13,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA827A),Landed 07:27,2021-05-11
+14,14,06:45 PO7930,,Chicago (ORD),Polar Air Cargo 77F,Unknown,2021-05-11
+15,15,07:05 JL724,,Kuala Lumpur (KUL),Japan Airlines 789,Canceled,2021-05-11
+16,16,07:25 NH8512,,Hong Kong (HKG),ANA Cargo B763 (JA602F),Landed 07:19,2021-05-11
+17,17,07:35 UL454,,Colombo (CMB),SriLankan Airlines A333 (4R-ALO),Landed 07:23,2021-05-11
+18,18,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA11KZ),Landed 07:39,2021-05-11
+19,19,07:36 NH8548,,Hanoi (HAN),All Nippon Airways B789 (JA883A),Landed 07:36,2021-05-11
+20,20,07:40 OZ194,,Seoul (ICN),Asiana Cargo B763 (HL7507),Landed 06:07,2021-05-11
+21,21,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA825J),Landed 07:15,2021-05-11
+22,22,07:45 PO752,,Shenzhen (SZX),Polar Air Cargo 77F,Unknown,2021-05-11
+23,23,07:50 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-11
+24,24,07:55 NH8490,,Guangzhou (CAN),ANA Cargo B763 (JA605F),Landed 10:36,2021-05-11
+25,25,07:55 SB800,,Noumea (NOU),Aircalin A339 (F-ONEO),Landed 07:54,2021-05-11
+26,26,08:00 SQ638,,Singapore (SIN),Singapore Airlines B78X (9V-SCH),Landed 07:14,2021-05-11
+27,27,08:00 PO212,,Shanghai (PVG),DHL B744 (N454PA),Landed 08:58,2021-05-11
+28,28,08:00 VN300,,Ho Chi Minh City (SGN),Vietnam Airlines A359 (VN-A899),Landed 07:31,2021-05-11
+29,29,08:05 AY71,,Helsinki (HEL),Finnair A359 (OH-LWH),Landed 07:25,2021-05-11
+30,30,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA16KZ),Landed 08:02,2021-05-11
+31,31,08:20 KZ165,,Los Angeles (LAX),Nippon Cargo Airlines 74N,Unknown,2021-05-11
+32,32,08:25 AF276,,Paris (CDG),Air France B77W (F-GZNA),Unknown,2021-05-11
+33,33,08:25 UA2829,,Chicago (ORD),United Airlines B77W (N2136U),Landed 07:49,2021-05-11
+34,34,08:30 KZ133,,Anchorage (ANC),Nippon Cargo Airlines B744,Unknown,2021-05-11
+35,35,09:05 MM311,,Osaka (KIX),Peach A320 (JA05VA),Landed 08:53,2021-05-11
+36,36,09:10 UA2822,,Chicago (ORD),United Airlines B789 (N19986),Landed 08:15,2021-05-11
+37,37,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-11
+38,38,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-11
+39,39,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-11
+40,40,09:35 JL3082,,Nagoya (NGO),Japan Airlines 73H,Canceled,2021-05-11
+41,41,09:40 CA1073,,Shanghai (PVG),Air China 77F,Unknown,2021-05-11
+42,42,09:40 TW201,,Daegu (TAE),T'way Air 737,Canceled,2021-05-11
+43,43,10:06 NH9352,,Tokyo (HND),ANA Cargo B77L (JA772F),Landed 09:48,2021-05-11
+44,44,10:15 PO717,,Los Angeles (LAX),Polar Air Cargo B744,Unknown,2021-05-11
+45,45,10:15 TW211,,Seoul (ICN),T'way Air 737,Canceled,2021-05-11
+46,46,10:24 NH8546,,Bangkok (BKK),ANA Cargo B763 (JA8970),Landed 10:25,2021-05-11
+47,47,10:30 CI5706,,Taipei (TPE),China Airlines Cargo B744 (B-18701),Landed 12:22,2021-05-11
+48,48,10:38 NH9656,,Frankfurt (FRA),All Nippon Airways (Star Wars R2-D2 Livery) B789 (JA873A),Landed 10:38,2021-05-11
+49,49,10:45 UA2775,,San Francisco (SFO),United Airlines B77W (N2250U),Landed 10:34,2021-05-11
+50,50,11:05 NH238,,Brussels (BRU),All Nippon Airways B77W (JA784A),Landed 10:28,2021-05-11
+51,51,11:25 5Y7103,,Los Angeles (LAX),Atlas Air B744 (N407KZ),Landed 12:02,2021-05-11
+52,52,12:00 GK104,,Sapporo (CTS),Jetstar Airways A320 (JA16JJ),Landed 11:53,2021-05-11
+53,53,12:10 PR428,,Manila (MNL),Philippine Airlines A321 (RP-C9902),Landed 11:32,2021-05-11
+54,54,12:20 OZ102,,Seoul (ICN),Asiana Airlines A21N (HL8356),Landed 12:07,2021-05-11
+55,55,12:20 KZ101,,Los Angeles (LAX),Nippon Cargo Airlines B748 (JA18KZ),Unknown,2021-05-11
+56,56,12:25 KZ7103,,Los Angeles (LAX),Nippon Cargo Airlines B741,Unknown,2021-05-11
+57,57,13:00 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA8358),Landed 22:23,2021-05-11
+58,58,13:05 MM570,,Sapporo (CTS),Peach A20N (JA203P),Landed 12:59,2021-05-11
+59,59,13:15 CI100,,Taipei (TPE),China Airlines (Carbon Fibre - Airbus Livery) A359 (B-18918),Landed 12:54,2021-05-11
+60,60,13:18 FX9815,,Anchorage (ANC),FedEx B752 (N967FD),Landed 13:06,2021-05-11
+61,61,13:25 GK504,,Fukuoka (FUK),Jetstar Airways A320 (JA13JJ),Landed 13:10,2021-05-11
+62,62,13:30 KZ141,,Chicago (ORD),Nippon Cargo Airlines 74N,Unknown,2021-05-11
+63,63,13:35 NH9641,,Los Angeles (LAX),All Nippon Airways B789 (JA875A),Landed 12:50,2021-05-11
+64,64,13:40 KE703,,Seoul (ICN),Korean Air A333 (HL8002),Landed 13:20,2021-05-11
+65,65,13:55 UA79,,New York (EWR),United Airlines B789 (N19951),Landed 13:18,2021-05-11
+66,66,13:55 MU593,,Xi'an (XIY),China Eastern Airlines A333 (B-6095),Landed 13:39,2021-05-11
+67,67,14:20 JL8011,,Dallas (DFW),Japan Airlines B789 (JA866J),Landed 14:04,2021-05-11
+68,68,14:20 NH802,,Singapore (SIN),All Nippon Airways B78X (JA900A),Landed 13:58,2021-05-11
+69,69,14:30 UA837,,San Francisco (SFO),United Airlines B789 (N26970),Landed 14:08,2021-05-11
+70,70,14:40 MM524,,Fukuoka (FUK),Peach A320 (JA05VA),Landed 14:11,2021-05-11
+71,71,14:55 PO231,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-11
+72,72,15:00 AA61,,Dallas (DFW),American Airlines B789 (N841AN),Landed 14:31,2021-05-11
+73,73,15:00 NH11,,Chicago (ORD),All Nippon Airways B77W (JA791A),Landed 14:40,2021-05-11
+74,74,15:00 UA196,,Guam (GUM),United Airlines B738 (N37281),Landed 14:35,2021-05-11
+75,75,15:10 NH820,,Manila (MNL),All Nippon Airways B789 (JA894A),Landed 14:29,2021-05-11
+76,76,15:10 NH9649,,Chicago (ORD),All Nippon Airways B77W (JA797A),Landed 14:22,2021-05-11
+77,77,15:15 NH806,,Bangkok (BKK),All Nippon Airways B789 (JA922A),Landed 14:43,2021-05-11
+78,78,15:15 NH834,,Ho Chi Minh City (SGN),All Nippon Airways B789 (JA876A),Landed 14:19,2021-05-11
+79,79,15:25 NH7,,San Francisco (SFO),All Nippon Airways (Star Wars BB-8 Livery) B77W (JA789A),Landed 14:55,2021-05-11
+80,80,15:30 NH8401,,Chicago (ORD),All Nippon Airways B77F,Unknown,2021-05-11
+81,81,15:35 JL8009,,Chicago (ORD),Japan Airlines B77W (JA733J),Landed 15:01,2021-05-11
+82,82,15:35 JL746,,Manila (MNL),Japan Airlines B788 (JA832J),Landed 14:53,2021-05-11
+83,83,15:40 ZG42,,Seoul (ICN),ZIPAIR B788 (JA825J),Landed 15:11,2021-05-11
+84,84,15:40 NH232,,Brussels (BRU),All Nippon Airways -,Canceled,2021-05-11
+85,85,15:50 KE551,,Seoul (ICN),Korean Air Cargo B748 (HL7623),Landed 15:24,2021-05-11
+86,86,15:50 AC7283,,Toronto (YYZ),Air Canada B788 (C-GHPU),Landed 15:09,2021-05-11
+87,87,16:00 JL750,,Ho Chi Minh City (SGN),Japan Airlines B789 (JA880J),Landed 15:13,2021-05-11
+88,88,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-11
+89,89,16:05 CX520,,Hong Kong (HKG),Cathay Pacific A35K (B-LXB),Landed 15:07,2021-05-11
+90,90,16:10 AA9744,,Los Angeles (LAX),American Airlines B77W (N736AT),Landed 16:56,2021-05-11
+91,91,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-11
+92,92,16:15 JL7,,Boston (BOS),Japan Airlines B789 (JA863J),Landed 16:08,2021-05-11
+93,93,16:20 JL720,,Jakarta (CGK),Japan Airlines B789 (JA869J),Landed 15:42,2021-05-11
+94,94,16:20 JL708,,Bangkok (BKK),Japan Airlines B788 (JA833J),Landed 15:45,2021-05-11
+95,95,16:20 JL712,,Singapore (SIN),Japan Airlines B789 (JA864J),Landed 16:05,2021-05-11
+96,96,16:28 KZ129,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA13KZ),Landed 16:29,2021-05-11
+97,97,16:30,NH5,Los Angeles (LAX),All Nippon Airways B789 (JA891A),Landed 16:01,2021-05-11
+98,98,16:50 NZ1099,,Auckland (AKL),Air New Zealand B789 (ZK-NZH),Landed 17:07,2021-05-11
+99,99,16:50,TW241,Jeju (CJU),T'way Air 737,Canceled,2021-05-11
+100,100,16:50 JL61,,Los Angeles (LAX),Japan Airlines B77W (JA741J),Landed 16:02,2021-05-11
+101,101,16:55,CI104,Taipei (TPE),China Airlines A333 (B-18361),Landed 16:32,2021-05-11
+102,102,17:00 LH8384,,Frankfurt (FRA),Lufthansa Cargo B77L (D-ALFB),Landed 16:18,2021-05-11
+103,103,17:00,JL820,Dalian (DLC),Japan Airlines B789 (JA874J),Landed 16:27,2021-05-11
+104,104,17:00 NH8434,,Shanghai (PVG),ANA Cargo B763 (JA604F),Landed 17:39,2021-05-11
+105,105,17:05 NH8548,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-11
+106,106,17:10 UA2767,,New York (EWR),United Airlines B77W (N2138U),Landed 17:01,2021-05-11
+107,107,17:10,GK508,Fukuoka (FUK),Jetstar Airways A320 (JA17JJ),Landed 16:56,2021-05-11
+108,108,17:20 LX160,,Zurich (ZRH),Swiss B77W (HB-JNK),Landed 16:14,2021-05-11
+109,109,17:30 KE8210,,Los Angeles (LAX),Korean Air Cargo B77L (HL8046),Landed 17:15,2021-05-11
+110,110,17:35,EK318,Dubai (DXB),Emirates B77W (A6-EQH),Landed 17:11,2021-05-11
+111,111,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-11
+112,112,17:35 SC2407,,Qingdao (TAO),Shandong Airlines B738 (B-6987),Landed 18:02,2021-05-11
+113,113,18:00 KJ3126,,Seoul (ICN),Air Incheon 73F,Unknown,2021-05-11
+114,114,18:11 JL6721,,Los Angeles (LAX),Japan Airlines B77W (JA743J),Landed 18:17,2021-05-11
+115,115,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA02JJ),Landed 18:10,2021-05-11
+116,116,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BEI),Landed 18:13,2021-05-11
+117,117,18:45 NH8540,,Taipei (TPE),ANA Cargo B763 (JA601F),Landed 18:22,2021-05-11
+118,118,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N721AN),Landed 18:43,2021-05-11
+119,119,19:05 MM582,,Sapporo (CTS),Peach A320 (JA823P),Landed 18:58,2021-05-11
+120,120,19:10 QF21,,Sydney (SYD),Qantas B789 (VH-ZNB),Landed 19:31,2021-05-11
+121,121,19:15 KZ226,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA11KZ),Landed 19:35,2021-05-11
+122,122,19:30 LD208,,Hong Kong (HKG),DHL A333 (B-LDR),Landed 19:25,2021-05-11
+123,123,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA04VA),Landed 19:04,2021-05-11
+124,124,19:30 KZ7141,,Chicago (ORD),Nippon Cargo Airlines 74Y,Unknown,2021-05-11
+125,125,19:45 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA792A),Landed 19:17,2021-05-11
+126,126,20:00 KZ131,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA12KZ),Unknown,2021-05-11
+127,127,20:05 UA2818,,Beijing (PEK),United Airlines B789 (N19986),Landed 19:09,2021-05-11
+128,128,20:15 NH1932,,Hong Kong (HKG),All Nippon Airways B788 (JA806A),Landed 19:42,2021-05-11
+129,129,20:20,JL802,Taipei (TPE),Japan Airlines B788 (JA829J),Landed 19:40,2021-05-11
+130,130,20:25 KZ7163,,Chicago (ORD),Nippon Cargo Airlines B741,Unknown,2021-05-11
+131,131,20:35 UA2830,,Hong Kong (HKG),United Airlines B77W (N2136U),Landed 19:55,2021-05-11
+132,132,21:00 NH8516,,Xiamen (XMN),ANA Cargo B763 (JA602F),Landed 20:31,2021-05-11
+133,133,21:05 UA2801,,San Francisco (SFO),United Airlines B789 (N29985),Landed 20:46,2021-05-11
+134,134,21:05 NH8502,,Dalian (DLC),ANA Cargo B763 (JA603A),Landed 20:37,2021-05-11
+135,135,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA15JJ),Landed 20:51,2021-05-11
+136,136,21:15 MM508,,Naha (OKA),Peach A20N (JA201P),Landed 20:59,2021-05-11
+137,137,21:20 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA8664),Landed 20:06,2021-05-11
+138,138,21:29 NH8494,,Shanghai (PVG),ANA Cargo B763 (JA8323),Landed 21:30,2021-05-11
+139,139,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA21JJ),Landed 21:33,2021-05-11
+140,140,22:25 NH960,,Shanghai (PVG),All Nippon Airways -,Canceled,2021-05-11
+0,0,02:35 HT3823,,Weihai (WEH),Air Horizont 737,Unknown,2021-05-12
+1,1,04:45 CF227,,Zhengzhou (CGO),China Postal Airlines B738 (B-5130),Landed 15:00,2021-05-12
+2,2,05:40 CF207,,Shanghai (PVG),China Postal Airlines B738 (B-5131),Landed 13:14,2021-05-12
+3,3,06:10 NH8536,,Seoul (ICN),ANA Cargo B763 (JA603A),Landed 06:02,2021-05-12
+4,4,06:10 YG9105,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2830),Landed 06:08,2021-05-12
+5,5,06:15 NH8506,,Qingdao (TAO),ANA Cargo B763 (JA8664),Landed 06:05,2021-05-12
+6,6,06:20 CX6,,Hong Kong (HKG),Cathay Pacific Cargo B748 (B-LJA),Landed 06:17,2021-05-12
+7,7,06:20 JL8746,,Manila (MNL),Japan Airlines B788 (JA826J),Landed 06:08,2021-05-12
+8,8,06:20 NH8432,,Shanghai (PVG),ANA Cargo B77L (JA771F),Landed 06:54,2021-05-12
+9,9,06:28 FX15,,Memphis (MEM),FedEx B77L (N877FD),Landed 08:02,2021-05-12
+10,10,06:30,JL752,Hanoi (HAN),Japan Airlines B789 (JA880J),Landed 06:05,2021-05-12
+11,11,06:30 FX31,,Oakland (OAK),FedEx B77L (N892FD),Landed 06:33,2021-05-12
+12,12,06:40 NH8534,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-12
+13,13,06:45 NH179,,Mexico City (MEX),All Nippon Airways B788 (JA823A),Landed 06:28,2021-05-12
+14,14,06:45 NH898,,Hanoi (HAN),All Nippon Airways B789 (JA894A),Landed 06:22,2021-05-12
+15,15,06:55 KZ133,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA17KZ),Landed 07:28,2021-05-12
+16,16,07:05,JL724,Kuala Lumpur (KUL),Japan Airlines B789 (JA868J),Landed 06:16,2021-05-12
+17,17,07:10 NH8532,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-12
+18,18,07:11 PO213,,Cincinnati (CVG),DHL B748 (N852GT),Landed 07:08,2021-05-12
+19,19,07:18 NH9647,,Mexico City (MEX),All Nippon Airways B788 (JA828A),Landed 07:19,2021-05-12
+20,20,07:25,JL726,Jakarta (CGK),Japan Airlines B789 (JA871J),Landed 07:14,2021-05-12
+21,21,07:25 NH8512,,Hong Kong (HKG),ANA Cargo B763 (JA605F),Landed 07:01,2021-05-12
+22,22,07:30 CI5706,,Taipei (TPE),China Airlines Cargo B744 (B-18708),Landed 12:46,2021-05-12
+23,23,07:30 KZ7244,,Taipei (TPE),Atlas Air B744 (N407KZ),Landed 07:52,2021-05-12
+24,24,07:35 UL454,,Colombo (CMB),SriLankan Airlines 333,Canceled,2021-05-12
+25,25,07:35 KZ228,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA15KZ),Landed 07:31,2021-05-12
+26,26,07:45 ZG52,,Bangkok (BKK),ZIPAIR B788 (JA825J),Landed 07:05,2021-05-12
+27,27,07:45 VN310,,Hanoi (HAN),Vietnam Airlines A359 (VN-A886),Landed 06:52,2021-05-12
+28,28,07:50 YG9023,,Yantai (YNT),YTO Cargo Airlines 73F,Unknown,2021-05-12
+29,29,07:55 NH8404,,Shanghai (PVG),All Nippon Airways 76F,Unknown,2021-05-12
+30,30,07:55 NH8490,,Guangzhou (CAN),ANA Cargo B763 (JA604F),Landed 08:49,2021-05-12
+31,31,07:55 PO752,,Shenzhen (SZX),Polar Air Cargo 77F,Unknown,2021-05-12
+32,32,08:00 SQ638,,Singapore (SIN),Singapore Airlines B78X (9V-SCO),Landed 07:21,2021-05-12
+33,33,08:00 PO212,,Shanghai (PVG),DHL B744 (N454PA),Landed 09:06,2021-05-12
+34,34,08:00 VN300,,Ho Chi Minh City (SGN),Vietnam Airlines A359 (VN-A898),Landed 07:48,2021-05-12
+35,35,08:10 TG642,,Bangkok (BKK),Thai Airways B77W (HS-TKQ),Landed 07:23,2021-05-12
+36,36,08:15 KZ202,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA11KZ),Landed 07:58,2021-05-12
+37,37,08:16 5X108,,Anchorage (ANC),UPS B763 (N351UP),Landed 08:13,2021-05-12
+38,38,08:25 UA2829,,Chicago (ORD),United Airlines B77W (N2639U),Landed 07:45,2021-05-12
+39,39,08:35 KL861,,Amsterdam (AMS),KLM B77W (PH-BVB),Landed 08:05,2021-05-12
+40,40,08:40 JL718,,Bangkok (BKK),Japan Airlines B788 (JA833J),Landed 08:00,2021-05-12
+41,41,08:45 UA2853,,Los Angeles (LAX),United Airlines B77W (N2341U),Landed 08:17,2021-05-12
+42,42,09:01 RA433,,Kathmandu (KTM),Nepal Airlines 330,Canceled,2021-05-12
+43,43,09:05 MM311,,Osaka (KIX),Peach A320 (JA10VA),Landed 08:45,2021-05-12
+44,44,09:10 AY73,,Helsinki (HEL),Finnair A359 (OH-LWN),Landed 08:30,2021-05-12
+45,45,09:10 UA2822,,Chicago (ORD),United Airlines B789 (N29961),Landed 08:22,2021-05-12
+46,46,09:10 JL3052,,Fukuoka (FUK),Japan Airlines 73H,Canceled,2021-05-12
+47,47,09:25 JL3004,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-12
+48,48,09:30 CA1075,,Shanghai (PVG),Air China 77F,Unknown,2021-05-12
+49,49,09:35 JL3082,,Nagoya (NGO),Japan Airlines 73H,Canceled,2021-05-12
+50,50,09:35 JL3040,,Sapporo (CTS),Japan Airlines 73H,Canceled,2021-05-12
+51,51,09:40 CA1073,,Shanghai (PVG),Air China 77F,Unknown,2021-05-12
+52,52,10:15 TW211,,Seoul (ICN),T'way Air 737,Canceled,2021-05-12
+53,53,10:30 AI306,,Delhi (DEL),Air India B788 (VT-ANX),Landed 09:44,2021-05-12
+54,54,10:33 NH9656,,Frankfurt (FRA),All Nippon Airways B789 (JA837A),Landed 10:37,2021-05-12
+55,55,10:46 JL6709,,Chicago (ORD),Japan Airlines B789 (JA878J),Landed 10:56,2021-05-12
+56,56,10:50 TW201,,Daegu (TAE),T'way Air 737,Canceled,2021-05-12
+57,57,11:00 KZ101,,Los Angeles (LAX),Nippon Cargo Airlines B748 (JA18KZ),Landed 10:14,2021-05-12
+58,58,11:05 NH238,,Brussels (BRU),All Nippon Airways B77W (JA795A),Landed 10:51,2021-05-12
+59,59,11:06 NH8546,,Bangkok (BKK),ANA Cargo B763 (JA8970),Landed 11:06,2021-05-12
+60,60,11:10 UA2802,,Chengdu (CTU),United Airlines B789 (N29985),Landed 10:35,2021-05-12
+61,61,11:49 FX5285,,Anchorage (ANC),FedEx MD11 (N614FE),Unknown,2021-05-12
+62,62,12:00 GK104,,Sapporo (CTS),Jetstar Airways A320 (JA01JJ),Landed 11:45,2021-05-12
+63,63,12:20 NH8412,,Singapore (SIN),ANA Cargo B763 (JA601F),Landed 12:23,2021-05-12
+64,64,12:20 OZ102,,Seoul (ICN),Asiana Airlines A321 (HL8257),Landed 12:07,2021-05-12
+65,65,12:22 PO715,,Los Angeles (LAX),Atlas Air B744 (N445MC),Landed 12:18,2021-05-12
+66,66,12:25 NH8510,,Bangkok (BKK),ANA Cargo B763 (JA602F),Landed 12:45,2021-05-12
+67,67,12:30 OZ198,,Seoul (ICN),Asiana Cargo B744 (HL7413),Landed 17:43,2021-05-12
+68,68,12:50 GK622,,Kagoshima (KOJ),Jetstar Airways A320 (JA20JJ),Landed 12:51,2021-05-12
+69,69,12:50 JX800,,Taipei (TPE),STARLUX A21N (B-58202),Landed 12:13,2021-05-12
+70,70,12:56 KZ131,,Anchorage (ANC),Nippon Cargo Airlines B748 (JA12KZ),Landed 12:57,2021-05-12
+71,71,13:05 CA1076,,Los Angeles (LAX),Air China B77F,Unknown,2021-05-12
+72,72,13:05 MM570,,Sapporo (CTS),Peach A320 (JA14VA),Landed 12:51,2021-05-12
+73,73,13:15 CI100,,Taipei (TPE),China Airlines A333 (B-18315),Landed 12:37,2021-05-12
+74,74,13:25 GK504,,Fukuoka (FUK),Jetstar Airways A320 (JA05JJ),Landed 13:21,2021-05-12
+75,75,13:40 KE703,,Seoul (ICN),Korean Air A333 (HL8001),Landed 13:17,2021-05-12
+76,76,13:40 MF809,,Fuzhou (FOC),Xiamen Air B789 (B-7836),Landed 14:10,2021-05-12
+77,77,13:55 CZ8101,,Guangzhou (CAN),China Southern Airlines A388 (B-6140),Landed 13:48,2021-05-12
+78,78,14:15 GK324,,Shimojishima (SHI),Jetstar Airways A320 (JA16JJ),Landed 14:08,2021-05-12
+79,79,14:20 NQ802,,Singapore (SIN),All Nippon Airways B78X (JA901A),Landed 13:42,2021-05-12
+80,80,14:30 UA837,,San Francisco (SFO),United Airlines B789 (N27957),Landed 14:04,2021-05-12
+81,81,14:30 AC7283,,Toronto (YYZ),Air Canada B77W (C-FRAM),Landed 15:14,2021-05-12
+82,82,14:40 MM524,,Fukuoka (FUK),Peach A320 (JA10VA),Landed 14:19,2021-05-12
+83,83,14:50 GK304,,Naha (OKA),Jetstar Airways A320 (JA24JJ),Landed 14:33,2021-05-12
+84,84,15:00 AA61,,Dallas (DFW),American Airlines B789 (N840AN),Landed 14:37,2021-05-12
+85,85,15:00 NH11,,Chicago (ORD),All Nippon Airways B77W (JA790A),Landed 14:30,2021-05-12
+86,86,15:00 UA196,,Guam (GUM),United Airlines B738 (N36280),Landed 14:32,2021-05-12
+87,87,15:00 5Y7105,,Los Angeles (LAX),Atlas Air B744 (N404KZ),Landed 15:09,2021-05-12
+88,88,15:05 AC3,,Vancouver (YVR),Air Canada B789 (C-FRTG),Landed 14:48,2021-05-12
+89,89,15:05 5J5056,,Manila (MNL),Cebu Pacific A20N (RP-C4109),Landed 14:38,2021-05-12
+90,90,15:10 NH820,,Manila (MNL),All Nippon Airways (Star Alliance Livery) B789 (JA899A),Landed 14:42,2021-05-12
+91,91,15:10 NH9649,,Chicago (ORD),All Nippon Airways B77W (JA784A),Landed 14:26,2021-05-12
+92,92,15:15 NH806,,Bangkok (BKK),All Nippon Airways B789 (JA898A),Landed 14:39,2021-05-12
+93,93,15:15 NH7,,San Francisco (SFO),All Nippon Airways B77W (JA797A),Landed 14:16,2021-05-12
+94,94,15:20 NH816,,Kuala Lumpur (KUL),All Nippon Airways B789 (JA922A),Landed 14:54,2021-05-12
+95,95,15:30 JL7,,Boston (BOS),Japan Airlines B789 (JA862J),Landed 15:31,2021-05-12
+96,96,15:40 CK241,,Shanghai (PVG),China Cargo Airlines B77L (B-2079),Landed 08:33,2021-05-12
+97,97,15:40 NH232,,Brussels (BRU),All Nippon Airways -,Canceled,2021-05-12
+98,98,15:45 UA32,,Los Angeles (LAX),United Airlines B789 (N35953),Landed 15:11,2021-05-12
+99,99,15:50 KE551,,Seoul (ICN),Korean Air Cargo B748 (HL7629),Landed 15:26,2021-05-12
+100,100,16:00 HA821,,Honolulu (HNL),Hawaiian Airlines A332 (N381HA),Landed 15:55,2021-05-12
+101,101,16:00 EY878,,Abu Dhabi (AUH),Etihad (ADNOC- Choose Saudi Arabia Livery) B789 (A6-BLN),Landed 15:38,2021-05-12
+102,102,16:00 JL3006,,Osaka (ITM),Japan Airlines 73H,Canceled,2021-05-12
+103,103,16:05 CX520,,Hong Kong (HKG),Cathay Pacific A35K (B-LXM),Landed 15:17,2021-05-12
+104,104,16:10 AA9739,,Los Angeles (LAX),American Airlines B773,Unknown,2021-05-12
+105,105,16:10 JL3084,,Nagoya (NGO),Japan Airlines 788,Canceled,2021-05-12
+106,106,16:25 GK204,,Osaka (KIX),Jetstar Airways A320 (JA13JJ),Landed 16:07,2021-05-12
+107,107,16:30 NH5,,Los Angeles (LAX),All Nippon Airways B789 (JA875A),Landed 15:48,2021-05-12
+108,108,16:35,GK426,Nankoku (KCZ),Jetstar Airways A320 (JA01JJ),Landed 16:18,2021-05-12
+109,109,16:40,JL61,Los Angeles (LAX),Japan Airlines B77W (JA736J),Landed 16:16,2021-05-12
+110,110,16:45 CV9422,,Luxembourg (LUX),Cargolux B748 (LX-VCJ),Landed 16:24,2021-05-12
+111,111,16:45,JL57,San Francisco (SFO),Japan Airlines B789 (JA866J),Landed 16:05,2021-05-12
+112,112,16:55,CI104,Taipei (TPE),China Airlines A333 (B-18302),Landed 16:32,2021-05-12
+113,113,17:00 LH8386,,Frankfurt (FRA),Lufthansa Cargo B77L (D-ALFC),Landed 16:10,2021-05-12
+114,114,17:00,JL820,Dalian (DLC),Japan Airlines B789 (JA871J),Landed 16:29,2021-05-12
+115,115,17:00 NH8434,,Shanghai (PVG),ANA Cargo B763 (JA8323),Landed 17:39,2021-05-12
+116,116,17:05 NH8548,,Shanghai (PVG),All Nippon Airways B788 (JA840A),Unknown,2021-05-12
+117,117,17:10,GK508,Fukuoka (FUK),Jetstar Airways A320 (JA08JJ),Landed 17:14,2021-05-12
+118,118,17:10 AA9705,,Los Angeles (LAX),American Airlines B77W (N734AR),Landed 20:17,2021-05-12
+119,119,17:35,EK318,Dubai (DXB),Emirates B77W (A6-EQJ),Landed 17:03,2021-05-12
+120,120,17:35 SC2407,,Qingdao (TAO),Shandong Airlines B738 (B-6987),Landed 18:17,2021-05-12
+121,121,17:35,TW213,Seoul (ICN),T'way Air 737,Canceled,2021-05-12
+122,122,17:40 NH8401,,Chicago (ORD),ANA Cargo B77L (JA772F),Landed 17:06,2021-05-12
+123,123,17:52 9S751,,Cincinnati (CVG),DHL B77L (N775SA),Landed 17:11,2021-05-12
+124,124,17:54 JL6721,,Los Angeles (LAX),Japan Airlines B789 (JA869J),Landed 17:49,2021-05-12
+125,125,18:00,TW241,Jeju (CJU),T'way Air 737,Canceled,2021-05-12
+126,126,18:30,GK112,Sapporo (CTS),Jetstar Airways A320 (JA05JJ),Landed 18:16,2021-05-12
+127,127,18:35 KZ254,,Bangkok (BKK),Nippon Cargo Airlines B748 (JA13KZ),Landed 17:21,2021-05-12
+128,128,18:35,NH928,Qingdao (TAO),All Nippon Airways B763 (JA624A),Landed 18:21,2021-05-12
+129,129,18:35,QR806,Doha (DOH),Qatar Airways B77W (A7-BET),Unknown,2021-05-12
+130,130,18:45 NH8540,,Taipei (TPE),ANA Cargo B763 (JA8358),Landed 18:52,2021-05-12
+131,131,19:00 RU391,,Moscow (SVO),AirBridgeCargo B748 (VP-BBP),Landed 20:58,2021-05-12
+132,132,19:05 AA9741,,Hong Kong (HKG),American Airlines B77W (N736AT),Landed 18:48,2021-05-12
+133,133,19:05 MM582,,Sapporo (CTS),Peach A320 (JA07VA),Landed 18:47,2021-05-12
+134,134,19:10 KE224,,Los Angeles (LAX),Korean Air Cargo B77L (HL8251),Landed 18:32,2021-05-12
+135,135,19:15 KZ226,,Shanghai (PVG),Nippon Cargo Airlines B748 (JA11KZ),Landed 20:28,2021-05-12
+136,136,19:30 LD208,,Hong Kong (HKG),DHL A333 (B-LDQ),Landed 19:18,2021-05-12
+137,137,19:30 MM526,,Fukuoka (FUK),Peach A320 (JA12VA),Landed 19:06,2021-05-12
+138,138,19:30 NH8516,,Xiamen (XMN),ANA Cargo B763 (JA605F),Landed 19:22,2021-05-12
+139,139,19:45 NH8549,,Chicago (ORD),All Nippon Airways B77W (JA791A),Landed 19:05,2021-05-12
+140,140,20:05 UA2818,,Beijing (PEK),United Airlines B789 (N29961),Landed 19:38,2021-05-12
+141,141,20:10 AA9730,,Chicago (ORD),American Airlines B788,Unknown,2021-05-12
+142,142,20:15,ET672,Seoul (ICN),Ethiopian Airlines B788 (ET-ASH),Landed 19:03,2021-05-12
+143,143,20:30 MH6190,,Kuala Lumpur (KUL),MASkargo A332 (9M-MUA),Landed 20:07,2021-05-12
+144,144,20:35 UA2793,,Hong Kong (HKG),United Airlines B77W (N2639U),Landed 19:46,2021-05-12
+145,145,20:40,JL26,Hong Kong (HKG),Japan Airlines B789 (JA874J),Landed 19:55,2021-05-12
+146,146,20:50 NH8596,,Manila (MNL),ANA Cargo B763 (JA604F),Landed 20:51,2021-05-12
+147,147,20:55 UA2830,,Hong Kong (HKG),United Airlines B77W (N2341U),Landed 20:14,2021-05-12
+148,148,21:00 KZ208,,Hong Kong (HKG),Nippon Cargo Airlines B748 (JA15KZ),Landed 20:10,2021-05-12
+149,149,21:05 UA2779,,Hong Kong (HKG),United Airlines B77W (N2331U),Unknown,2021-05-12
+150,150,21:10,GK514,Fukuoka (FUK),Jetstar Airways A320 (JA16JJ),Landed 20:55,2021-05-12
+151,151,21:15 MM508,,Naha (OKA),Peach A320 (JA05VA),Landed 21:01,2021-05-12
+152,152,21:20 NH8542,,Hong Kong (HKG),ANA Cargo B763 (JA603A),Landed 20:19,2021-05-12
+153,153,21:25 NH8502,,Dalian (DLC),ANA Cargo B763 (JA8664),Landed 19:36,2021-05-12
+154,154,21:50,GK210,Osaka (KIX),Jetstar Airways A320 (JA09JJ),Landed 21:40,2021-05-12
+155,155,21:55,GK310,Naha (OKA),Jetstar Airways A320 (JA14JJ),Landed 21:51,2021-05-12
+156,156,22:00,NH934,Guangzhou (CAN),All Nippon Airways B789 (JA896A),Landed 21:14,2021-05-12
+157,157,22:25 NH960,,Shanghai (PVG),All Nippon Airways B77W (JA795A),Landed 21:37,2021-05-12
+158,158,22:31 JL6713,,Dallas (DFW),Japan Airlines B789 (JA872J),Landed 23:00,2021-05-12

@@ -15279,3 +15279,1566 @@
 111,111,10:31 PM,AC129,Toronto (YYZ),Air Canada B789 (C-FGEO),Landed 10:32 PM,2021-05-01
 112,112,10:41 PM CRN711,,Comox (YQQ),Aerocaribbean B350,Unknown,2021-05-01
 113,113,10:46 PM KE9087,,Seoul (ICN),Korean Air A333 (HL8026),Landed 10:45 PM,2021-05-01
+0,0,00:52 AC7038,,Toronto (YYZ),Air Canada Jetz A319 (C-FYKR),Landed 00:58,2021-05-02
+1,1,01:27 W81792,,Tokyo (NRT),Cargojet Airways B763 (C-FMIJ),Landed 01:27,2021-05-02
+2,2,01:40 W8511,,Calgary (YYC),Cargojet Airways B763 (C-FCAE),Landed 01:38,2021-05-02
+3,3,01:45 W8509,,Calgary (YYC),Cargojet Airways 76V,Unknown,2021-05-02
+4,4,04:45 SLQ7825,,Victoria (YYJ),SkyLink Express XXXX,Unknown,2021-05-02
+5,5,06:45,AC45,Delhi (DEL),Air Canada 789,Unknown,2021-05-02
+6,6,07:13 AC235,,Edmonton (YEG),Air Canada BCS3 (C-GJYC),Landed 07:10,2021-05-02
+7,7,07:15 8P100,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-FMCN),Landed 07:02,2021-05-02
+8,8,07:20 AC203,,Calgary (YYC),Air Canada B38M (C-FSES),Landed 07:08,2021-05-02
+9,9,07:30,AC8050,Victoria (YYJ),Air Canada Express DH8D (C-GGMN),Unknown,2021-05-02
+10,10,07:36 AC8625,,Winnipeg (YWG),Air Canada Express CRJ9 (C-FJFZ),Landed 07:32,2021-05-02
+11,11,07:46 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GBJZ),Landed 07:30,2021-05-02
+12,12,08:06,WS3325,Kelowna (YLW),WestJet DH8D (C-FWEW),Landed 07:42,2021-05-02
+13,13,08:20 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-02
+14,14,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-02
+15,15,08:23,WS171,Edmonton (YEG),WestJet B737 (C-GWJG),Landed 08:06,2021-05-02
+16,16,08:25,WS3290,Prince George (YXS),WestJet DH8D (C-GLWJ),Landed 07:53,2021-05-02
+17,17,08:35 MU7581,,Shanghai (PVG),China Eastern Airlines A359 (B-304N),Landed 08:35,2021-05-02
+18,18,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-02
+19,19,09:28 NTA201,,Prince George (YXS),- B350 (C-FNTA),Landed 09:29,2021-05-02
+20,20,09:40,F8813,Calgary (YYC),Flair Airlines B738 (C-FFLJ),Landed 09:57,2021-05-02
+21,21,09:50 YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-02
+22,22,09:55 8P701,,Comox (YQQ),Pacific Coastal Airlines BE1,Canceled,2021-05-02
+23,23,10:00,AC4,Tokyo (NRT),Air Canada B789 (C-FNOH),Landed 09:40,2021-05-02
+24,24,10:03 AC103,,Toronto (YYZ),Air Canada B38M (C-FSDB),Landed 10:01,2021-05-02
+25,25,10:15 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Landed 09:59,2021-05-02
+26,26,10:16,AC301,Montreal (YUL),Air Canada B788 (C-GHPY),Landed 10:06,2021-05-02
+27,27,10:25,F8312,Winnipeg (YWG),Flair Airlines B738 (C-FFLA),Landed 10:23,2021-05-02
+28,28,10:29 AC8575,,Saskatoon (YXE),Air Canada Express CRJ9 (C-GNJZ),Landed 10:09,2021-05-02
+29,29,10:38 AC8543,,Regina (YQR),Air Canada Express CRJ9 (C-GJZS),Landed 10:19,2021-05-02
+30,30,10:47 AC8256,,Nanaimo (YCD),Air Canada Express DH8D (C-GGNZ),Landed 10:35,2021-05-02
+31,31,10:52,AC573,San Francisco (SFO),Air Canada B38M (C-FSNQ),Landed 10:51,2021-05-02
+32,32,10:55 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-02
+33,33,10:57,AC553,Los Angeles (LAX),Air Canada B38M (C-FSEQ),Landed 10:52,2021-05-02
+34,34,11:00 AC7292,,Shanghai (PVG),Air Canada B77W (C-FIVX),Landed 11:01,2021-05-02
+35,35,11:20,F8102,Edmonton (YEG),Flair Airlines B738 (C-FFLC),Landed 11:24,2021-05-02
+36,36,11:27 CRN911,,Cranbrook (YXC),Carson Air B350 (C-GRUU),Landed 11:27,2021-05-02
+37,37,11:43 AC7280,,Seoul (ICN),Air Canada B789 (C-FGHZ),Landed 11:43,2021-05-02
+38,38,11:45 4N539,,Whitehorse (YXY),Air North B735 (C-GANH),Landed 11:35,2021-05-02
+39,39,11:56,AC8413,Kelowna (YLW),Air Canada Express DH8D (C-GBJZ),Landed 11:40,2021-05-02
+40,40,11:58 AC8202,,Prince George (YXS),Air Canada Express DH8D (C-GVJZ),Landed 11:41,2021-05-02
+41,41,11:58 AC8890,,Whitehorse (YXY),Air Canada Express CRJ9 (C-GDJZ),Landed 11:53,2021-05-02
+42,42,12:03,AC107,Toronto (YYZ),Air Canada B789 (C-FVNB),Landed 11:37,2021-05-02
+43,43,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-02
+44,44,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-02
+45,45,12:26 AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GGMN),Landed 11:56,2021-05-02
+46,46,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GJYC),Landed 12:10,2021-05-02
+47,47,12:28 AC8239,,Terrace (YXT),Air Canada Express DH8D (C-GGOF),Landed 12:12,2021-05-02
+48,48,12:50 KE71,,Seoul (ICN),Korean Air A333 (HL8001),Landed 12:41,2021-05-02
+49,49,12:55 8P9198,,Bella Bella (ZEL),Pacific Coastal Airlines BE1,Landed 12:39,2021-05-02
+50,50,13:00 AC213,,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 12:51,2021-05-02
+51,51,13:00 8P972,,Masset (ZMT),Pacific Coastal Airlines SF34 (C-FPCU),Landed 12:29,2021-05-02
+52,52,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-FMCN),Landed 13:14,2021-05-02
+53,53,13:30 8P707,,Comox (YQQ),Pacific Coastal Airlines B190 (C-FWZK),Landed 13:21,2021-05-02
+54,54,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-02
+55,55,13:40,UA5689,San Francisco (SFO),United Express E75L (N206SY),Landed 14:11,2021-05-02
+56,56,13:40 CRN101,,Campbell River (YBL),Carson Air B350 (C-GILK),Landed 17:34,2021-05-02
+57,57,13:45 8P554,,Williams Lake (YWL),Pacific Coastal Airlines B190 (C-GPCY),Unknown,2021-05-02
+58,58,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-02
+59,59,13:50 8P344,,Bella Coola (QBC),Sunwest Aviation B190 (C-GSWV),Landed 13:35,2021-05-02
+60,60,13:51 NH116,,Tokyo (HND),All Nippon Airways B789 (JA888A),Landed 13:51,2021-05-02
+61,61,14:08,WS3106,Terrace (YXT),WestJet DH8D (C-GLWJ),Unknown,2021-05-02
+62,62,14:14 WS709,,Toronto (YYZ),WestJet B737 (C-GWAZ),Landed 13:58,2021-05-02
+63,63,14:14 CRN811,,Terrace (YXT),Carson Air B350 (C-GJLK),Landed 14:12,2021-05-02
+64,64,14:46 NCB2202,,Smithers (YYD),North Caribou Flying Service B190,Landed 13:25,2021-05-02
+65,65,14:56 8P800T,,Campbell River (YBL),Pacific Coastal Airlines SF34 (C-GPCN),Unknown,2021-05-02
+66,66,15:05 9M761,,Castlegar (YCG),Central Mountain Air B190 (C-FCMU),Landed 14:46,2021-05-02
+67,67,15:10 8P456,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-02
+68,68,15:35 YB1320,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-02
+69,69,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-FJFZ),Landed 15:27,2021-05-02
+70,70,15:43,AC305,Montreal (YUL),Air Canada BCS3 (C-GMZY),Landed 15:40,2021-05-02
+71,71,15:55 TK75,,Istanbul (IST),Turkish Airlines B789 (TC-LLN),Landed 16:04,2021-05-02
+72,72,15:59 WS129,,Calgary (YYC),WestJet B737 (C-GWBJ),Landed 15:44,2021-05-02
+73,73,16:03,AC113,Toronto (YYZ),Air Canada BCS3 (C-GJXV),Unknown,2021-05-02
+74,74,16:15 8P1614,,Tofino (YAZ),Pacific Coastal Airlines B190 (C-FWZK),Landed 16:05,2021-05-02
+75,75,16:20 8P212,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-02
+76,76,16:25 CRN999,,Prince George (YXS),Aerocaribbean C560,Unknown,2021-05-02
+77,77,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-02
+78,78,16:37 AC7138,,Calgary (YYC),Air Canada Express CRJ9 (C-FCJZ),Landed 16:03,2021-05-02
+79,79,16:45,AC219,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 16:41,2021-05-02
+80,80,16:50 YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-02
+81,81,16:50 8P1308,,Penticton (YYF),Sunwest Aviation B190 (C-GSWV),Landed 16:36,2021-05-02
+82,82,16:50 AC66,,Victoria (YYJ),Air Canada Express DH8D (C-GGMN),Landed 16:46,2021-05-02
+83,83,16:56,AC8419,Kelowna (YLW),Air Canada Express DH8D (C-GBJZ),Landed 16:31,2021-05-02
+84,84,16:58,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GGOF),Landed 16:42,2021-05-02
+85,85,16:59 AC8066,,Victoria (YYJ),Air Canada Express DH8D (C-GGMN),Unknown,2021-05-02
+86,86,17:00 8P458,,Trail (YZZ),Pacific Coastal Airlines B190 (C-GPCL),Landed 16:50,2021-05-02
+87,87,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-02
+88,88,17:25 NTA201,,-,- B350 (C-FNTA),Unknown,2021-05-02
+89,89,17:29 CRN611,,Victoria (YYJ),Aerocaribbean B350,Unknown,2021-05-02
+90,90,17:30 AKN147,,Port Hardy (YZT),Alkan Air B190 (C-GNAJ),Landed 17:47,2021-05-02
+91,91,17:35 8P866,,Port Hardy (YZT),Pacific Coastal Airlines BE1,Canceled,2021-05-02
+92,92,17:45 4N560,,Kelowna (YLW),Air North B735 (C-GANH),Landed 17:30,2021-05-02
+93,93,17:45 AC7039,,Edmonton (YEG),Air Canada Jetz A319 (C-FYKR),Landed 17:10,2021-05-02
+94,94,17:46 AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GSJZ),Landed 17:12,2021-05-02
+95,95,17:50,AC221,Calgary (YYC),Air Canada B38M (C-FSEQ),Landed 17:45,2021-05-02
+96,96,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-02
+97,97,18:00,WS141,Edmonton (YEG),WestJet B737 (C-GWBX),Landed 17:46,2021-05-02
+98,98,18:00 8P560,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-02
+99,99,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GGNZ),Unknown,2021-05-02
+100,100,18:05 8P610,,Cranbrook (YXC),Pacific Coastal Airlines B190 (C-GPCY),Unknown,2021-05-02
+101,101,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GJYC),Landed 18:01,2021-05-02
+102,102,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N183SY),Landed 18:19,2021-05-02
+103,103,18:56,AC119,Toronto (YYZ),Air Canada B789 (C-FSBV),Landed 19:00,2021-05-02
+104,104,19:08 BR10,,Taipei (TPE),EVA Air B78X (B-17801),Landed 19:08,2021-05-02
+105,105,19:12,AA2263,Dallas (DFW),American Airlines A319 (N751UW),Landed 19:43,2021-05-02
+106,106,19:15 8P238,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Landed 19:02,2021-05-02
+107,107,19:20 CI32,,Taipei (TPE),China Airlines 359,Unknown,2021-05-02
+108,108,19:20 8P1210,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-FMCN),Landed 19:05,2021-05-02
+109,109,19:27,WS711,Toronto (YYZ),WestJet B38M (C-GZSG),Landed 19:17,2021-05-02
+110,110,19:40 8P715,,Comox (YQQ),Sunwest Aviation B190 (C-GSWV),Landed 19:32,2021-05-02
+111,111,19:58,DL4476,Seattle (SEA),Delta Connection E75L (N273SY),Landed 19:30,2021-05-02
+112,112,20:10 AKN127,,Prince George (YXS),Alkan Air B350 (C-FLPC),Unknown,2021-05-02
+113,113,21:23,AC311,Montreal (YUL),Air Canada B38M (C-FSES),Landed 21:19,2021-05-02
+114,114,22:28,WS139,Calgary (YYC),WestJet B737 (C-GWBX),Landed 22:22,2021-05-02
+115,115,22:31,AC129,Toronto (YYZ),Air Canada B788 (C-GHQY),Landed 22:06,2021-05-02
+116,116,23:43 CRN711,,Victoria (YYJ),Aerocaribbean B350,Unknown,2021-05-02
+117,117,23:45,F8133,Toronto (YYZ),Flair Airlines B738 (C-FFLJ),Landed 23:35,2021-05-02
+0,0,01:45 W8513,,Calgary (YYC),Cargojet Airways 76V,Unknown,2021-05-03
+1,1,01:45 W8515,,Edmonton (YEG),Cargojet Airways B763 (C-GAJG),Unknown,2021-05-03
+2,2,01:55 W8545,,Calgary (YYC),Cargojet Airways B763 (C-FCAE),Landed 01:39,2021-05-03
+3,3,04:44 MAL7055,,Calgary (YYC),FedEx B752 (C-FMEK),Landed 04:09,2021-05-03
+4,4,04:45 SLQ7825,,Victoria (YYJ),SkyLink Express B190,Unknown,2021-05-03
+5,5,05:26 FX242,,Memphis (MEM),FedEx B763 (N188FE),Landed 05:08,2021-05-03
+6,6,05:33 CRN711,,Grand Forks (ZGF),Aerocaribbean B350,Unknown,2021-05-03
+7,7,05:49 W8926,,Cincinnati (CVG),Cargojet Airways B752 (C-GIAJ),Landed 05:35,2021-05-03
+8,8,07:03 MAL8070,,Victoria (YYJ),FedEx C208 (C-FEXB),Landed 07:00,2021-05-03
+9,9,07:10,AC8050,Victoria (YYJ),Air Canada Express DH8D (C-GGOF),Unknown,2021-05-03
+10,10,07:13 K41917,,Seattle (SEA),Kalitta Air B763 (N764CK),Landed 07:05,2021-05-03
+11,11,07:13 AC235,,Edmonton (YEG),Air Canada BCS3 (C-GJYC),Unknown,2021-05-03
+12,12,07:22 9M8190,,Nanaimo (YCD),Central Mountain Air B190,Unknown,2021-05-03
+13,13,07:25 AC203,,Calgary (YYC),Air Canada B38M (C-FSEQ),Landed 07:27,2021-05-03
+14,14,07:25 8P100,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCR),Landed 07:18,2021-05-03
+15,15,07:26 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GGMN),Landed 07:12,2021-05-03
+16,16,07:26 AC8543,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GNJZ),Landed 07:15,2021-05-03
+17,17,07:30 AC8215,,Cranbrook (YXC),Air Canada Express DH8D (C-GGNZ),Landed 07:02,2021-05-03
+18,18,07:30 8P200,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-03
+19,19,07:42,,Edmonton (YEG),- CL60,Unknown,2021-05-03
+20,20,07:51,WS115,Calgary (YYC),WestJet B737 (C-GWCN),Landed 07:50,2021-05-03
+21,21,07:53 MAL8071,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 07:30,2021-05-03
+22,22,08:06 WS3325,,Kelowna (YLW),WestJet -,Canceled,2021-05-03
+23,23,08:09,,Sheridan (SHR),- CL35 (N729QS),Unknown,2021-05-03
+24,24,08:16,,Kelowna (YLW),- CL60 (C-GJDS),Landed 07:53,2021-05-03
+25,25,08:19 WS3114,,Victoria (YYJ),WestJet -,Canceled,2021-05-03
+26,26,08:20 MF805,,Xiamen (XMN),Xiamen Air (United Dream Livery) B789 (B-1356),Landed 08:30,2021-05-03
+27,27,08:20 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-03
+28,28,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-03
+29,29,08:23,WS171,Edmonton (YEG),WestJet B737 (C-GWSQ),Landed 08:23,2021-05-03
+30,30,08:23 MAL8072,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 07:56,2021-05-03
+31,31,08:25,WS3290,Prince George (YXS),WestJet DH8D (C-FWEW),Landed 07:57,2021-05-03
+32,32,08:25 8P102,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-03
+33,33,08:37 CRN8064,,Kamloops (YKA),Aerocaribbean SW4,Landed 08:37,2021-05-03
+34,34,08:42 MAL8050,,Nanaimo (YCD),FedEx C208 (C-FFXD),Landed 08:36,2021-05-03
+35,35,08:54,,Santa Ana (SNA),- GLF4 (N421QS),Unknown,2021-05-03
+36,36,08:58 CRN8081,,Kelowna (YLW),Aerocaribbean SW4,Landed 08:53,2021-05-03
+37,37,09:15,AF75,Papeete (PPT),Air France B772 (F-GSPJ),Landed 08:26,2021-05-03
+38,38,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-03
+39,39,09:35 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Landed 09:19,2021-05-03
+40,40,09:40 MAL8051,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 09:16,2021-05-03
+41,41,09:46,AC103,Toronto (YYZ),Air Canada B789 (C-FVNB),Landed 09:32,2021-05-03
+42,42,09:55 8P701,,Comox (YQQ),Sunwest Aviation B190 (C-GSWV),Landed 09:43,2021-05-03
+43,43,10:16,AC301,Montreal (YUL),Air Canada B788 (C-GHPV),Landed 10:00,2021-05-03
+44,44,10:20,,Prince George (YXS),- B350,Unknown,2021-05-03
+45,45,10:25,F8513,Saskatoon (YXE),Flair Airlines B738 (C-FFLC),Landed 09:51,2021-05-03
+46,46,10:29,AC8575,Saskatoon (YXE),Air Canada Express CRJ9 (C-GDJZ),Landed 10:24,2021-05-03
+47,47,10:30 MAL8073,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 10:09,2021-05-03
+48,48,10:38,AC8567,Regina (YQR),Air Canada Express CRJ9 (C-GJZS),Landed 10:22,2021-05-03
+49,49,10:48 CRN611,,Trail (YZZ),Aerocaribbean BET,Landed 10:48,2021-05-03
+50,50,10:55 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-03
+51,51,11:05 8P862,,Port Hardy (YZT),Pacific Coastal Airlines B190 (C-GPCR),Landed 10:52,2021-05-03
+52,52,11:10 8P552,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-03
+53,53,11:15 AC8,,Hong Kong (HKG),Air Canada B789 (C-FVND),Landed 10:56,2021-05-03
+54,54,11:15 YB504,,Victoria (YWH),Borajet DHT,Unknown,2021-05-03
+55,55,11:15 CRN811,,Trail (YZZ),Aerocaribbean BET,Landed 11:14,2021-05-03
+56,56,11:33 CRN101,,Campbell River (YBL),Aerocaribbean B350,Unknown,2021-05-03
+57,57,11:40,AC64,Seoul (ICN),Air Canada B789 (C-FNOH),Landed 11:10,2021-05-03
+58,58,11:42,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-GJZV),Landed 11:21,2021-05-03
+59,59,11:45 4N533,,Whitehorse (YXY),Air North B735 (C-GANH),Landed 11:30,2021-05-03
+60,60,11:55,AC8056,Victoria (YYJ),Air Canada Express DH8D (C-GSJZ),Landed 11:52,2021-05-03
+61,61,11:55 KE9088,,New York (JFK),Korean Air A333 (HL8026),Landed 11:46,2021-05-03
+62,62,11:56,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GJZY),Unknown,2021-05-03
+63,63,11:57,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GVJZ),Landed 11:46,2021-05-03
+64,64,11:57,AC553,Los Angeles (LAX),Air Canada B38M (C-FSDB),Landed 11:49,2021-05-03
+65,65,11:58,AC8202,Prince George (YXS),Air Canada Express CRJ9 (C-FCJZ),Landed 11:33,2021-05-03
+66,66,11:58,AC8239,Terrace (YXT),Air Canada Express DH8D (C-GGMU),Landed 11:40,2021-05-03
+67,67,11:58,AC8890,Whitehorse (YXY),Air Canada Express CRJ9 (C-FJFZ),Landed 11:42,2021-05-03
+68,68,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-03
+69,69,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-03
+70,70,12:11 AC7292,,Shanghai (PVG),Air Canada B77W (C-FNNW),Landed 12:42,2021-05-03
+71,71,12:15 8P1524,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-03
+72,72,12:18,,Tampa (TPA),- C750 (N478PJ),Canceled,2021-05-03
+73,73,12:25 AC213,,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 12:34,2021-05-03
+74,74,12:26 AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GGND),Landed 12:12,2021-05-03
+75,75,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GJYC),Landed 12:27,2021-05-03
+76,76,12:45 8P1304,,Penticton (YYF),Sunwest Aviation B190 (C-GSWV),Landed 12:45,2021-05-03
+77,77,12:50 YB606,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-03
+78,78,12:55 FTH415,,Tampa (TPA),- GLF4 (N415MA),Landed 13:10,2021-05-03
+79,79,12:55 8P9194,,Bella Bella (ZEL),Pacific Coastal Airlines B190 (C-GPCE),Landed 12:53,2021-05-03
+80,80,13:05 TN67,,Paris (CDG),Air Tahiti Nui B789 (F-ONUI),Landed 12:57,2021-05-03
+81,81,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCY),Unknown,2021-05-03
+82,82,13:20 8P7008,,Terrace (YXT),Pacific Coastal Airlines SF34 (C-FPCZ),Landed 13:11,2021-05-03
+83,83,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-03
+84,84,13:40,UA5689,San Francisco (SFO),United Express E75L (N164SY),Landed 13:23,2021-05-03
+85,85,13:40 8P554,,Williams Lake (YWL),Pacific Coastal Airlines B190 (C-FWZK),Landed 13:20,2021-05-03
+86,86,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-03
+87,87,13:45 8P972,,Masset (ZMT),Pacific Coastal Airlines -,Canceled,2021-05-03
+88,88,14:00 8P341,,Anahim Lake (YAA),Pacific Coastal Airlines -,Canceled,2021-05-03
+89,89,14:08,WS3106,Terrace (YXT),WestJet DH8D (C-FWEW),Unknown,2021-05-03
+90,90,14:14 WS709,,Toronto (YYZ),WestJet B38M (C-GAMQ),Landed 13:52,2021-05-03
+91,91,14:35 8P208,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-03
+92,92,14:40,LH492,Frankfurt (FRA),Lufthansa A343 (D-AIFF),Landed 14:27,2021-05-03
+93,93,14:50,NH116,Tokyo (HND),All Nippon Airways B789 (JA895A),Landed 14:10,2021-05-03
+94,94,14:55 QK7190,,Vancouver (YVR),Air Canada Express DH8D (C-GGOI),Landed 14:54,2021-05-03
+95,95,15:00,AC8062,Victoria (YYJ),Air Canada DH4,Unknown,2021-05-03
+96,96,15:00 8P9192,,Tofino (YAZ),Pacific Coastal Airlines B190 (C-GPCL),Unknown,2021-05-03
+97,97,15:05,F8807,Waterloo (YKF),Flair Airlines B738 (C-FFLA),Landed 15:20,2021-05-03
+98,98,15:05 9M761,,Castlegar (YCG),Central Mountain Air B190 (C-FCMU),Landed 14:24,2021-05-03
+99,99,15:29 9M8570,,Dease Lake (YDL),Central Mountain Air DH8C,Landed 15:30,2021-05-03
+100,100,15:30 W8301,,Calgary (YYC),Cargojet Airways B763 (C-GUAJ),Landed 15:08,2021-05-03
+101,101,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-FKJZ),Landed 15:25,2021-05-03
+102,102,15:43,AC305,Montreal (YUL),Air Canada BCS3 (C-GJYE),Landed 15:32,2021-05-03
+103,103,15:59,WS129,Calgary (YYC),WestJet B738 (C-GKWJ),Landed 15:48,2021-05-03
+104,104,16:03 AC113,,Toronto (YYZ),Air Canada BCS3 (C-GROV),Landed 16:02,2021-05-03
+105,105,16:15 YB510,,Victoria (YWH),Borajet DHT,Unknown,2021-05-03
+106,106,16:15 8P1614,,Tofino (YAZ),Sunwest Aviation B190 (C-GSWV),Landed 17:16,2021-05-03
+107,107,16:23,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GBJZ),Landed 16:29,2021-05-03
+108,108,16:23 SLQ711,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-03
+109,109,16:31 SLQ751,,Kelowna (YLW),SkyLink Express B190,Landed 16:24,2021-05-03
+110,110,16:32 MAL7052,,Nanaimo (YCD),Morningstar Air Express C208,Unknown,2021-05-03
+111,111,16:34 MAL7074,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 16:35,2021-05-03
+112,112,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-03
+113,113,16:40 8P1206,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-FWZK),Unknown,2021-05-03
+114,114,16:41 SLQ713,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 16:43,2021-05-03
+115,115,16:44 NTA201,,Kelowna (YLW),- B350 (C-FNTA),Landed 16:44,2021-05-03
+116,116,16:45,AC219,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 16:39,2021-05-03
+117,117,16:55 8P458,,Trail (YZZ),Pacific Coastal Airlines B190 (C-GPCE),Landed 16:49,2021-05-03
+118,118,16:59,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GJZY),Landed 16:43,2021-05-03
+119,119,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-03
+120,120,17:45 4N563,,Whitehorse (YXY),Air North B734 (C-FANB),Landed 17:32,2021-05-03
+121,121,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-03
+122,122,17:50 8P610,,Cranbrook (YXC),Pacific Coastal Airlines B190 (C-GPCR),Landed 17:40,2021-05-03
+123,123,17:59 SLQ467,,Nanaimo (YCD),SkyLink Express C208,Landed 18:02,2021-05-03
+124,124,18:00,AC221,Calgary (YYC),Air Canada B38M (C-FSNQ),Landed 17:55,2021-05-03
+125,125,18:00,WS141,Edmonton (YEG),WestJet B737 (C-GWSQ),Landed 17:49,2021-05-03
+126,126,18:01 SLQ521,,Victoria (YYJ),Skylink Express C208 (C-GLGA),Unknown,2021-05-03
+127,127,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GXJZ),Landed 17:34,2021-05-03
+128,128,18:10,WS3298,Prince George (YXS),WestJet DH8D (C-FWEW),Unknown,2021-05-03
+129,129,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GJYC),Landed 18:00,2021-05-03
+130,130,18:16 AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GSJZ),Landed 17:57,2021-05-03
+131,131,18:16 AC8421,,Kelowna (YLW),Air Canada Express DH8D (C-GGMN),Landed 18:33,2021-05-03
+132,132,18:39 FK574,,Victoria (YYJ),KF Aero CVLP (C-GKFG),Landed 18:14,2021-05-03
+133,133,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N402SY),Landed 18:35,2021-05-03
+134,134,18:41 FK576,,Kelowna (YLW),KF Aero CVLP (C-FKFZ),Unknown,2021-05-03
+135,135,18:50 QK2265,,Nanaimo (YCD),Air Canada Express DH8D (C-GGNW),Landed 18:50,2021-05-03
+136,136,18:56,AC119,Toronto (YYZ),Air Canada B789 (C-FNOE),Landed 18:36,2021-05-03
+137,137,19:11 BR10,,Taipei (TPE),EVA Air B78X (B-17806),Landed 19:11,2021-05-03
+138,138,19:12,AA2263,Dallas (DFW),American Airlines A319 (N70020),Landed 18:47,2021-05-03
+139,139,19:15 8P238,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Landed 19:01,2021-05-03
+140,140,19:23 CRN999,,Kelowna (YLW),Aerocaribbean C560,Unknown,2021-05-03
+141,141,19:27,WS711,Toronto (YYZ),WestJet B737 (C-GWBX),Landed 19:00,2021-05-03
+142,142,19:32 CZ5053,,Guangzhou (CAN),China Southern Airlines B789 (B-1297),Landed 19:33,2021-05-03
+143,143,19:40 8P715,,Comox (YQQ),Pacific Coastal Airlines B190 (C-GPCE),Landed 19:27,2021-05-03
+144,144,19:58,DL4476,Seattle (SEA),Delta Connection E75L (N279SY),Landed 20:26,2021-05-03
+145,145,20:33,AC125,Toronto (YYZ),Air Canada BCS3 (C-GNBE),Landed 20:24,2021-05-03
+146,146,20:40 8P562,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-03
+147,147,20:58,AC311,Montreal (YUL),Air Canada B38M (C-FSEQ),Landed 20:49,2021-05-03
+148,148,22:10 HU433,,Beijing (PEK),Hainan Airlines A333 (B-303C),Landed 22:30,2021-05-03
+149,149,22:28,WS139,Calgary (YYC),WestJet B738 (C-FKWJ),Unknown,2021-05-03
+150,150,22:31,AC129,Toronto (YYZ),Air Canada B788 (C-GHPX),Landed 22:25,2021-05-03
+0,0,03:45 W8569,,Hamilton (YHM),Cargojet Airways B763 (C-FCCJ),Landed 03:25,2021-05-04
+1,1,03:53 AC7293,,Chicago (ORD),Air Canada B77W (C-FNNW),Landed 03:34,2021-05-04
+2,2,04:24 CRN711,,Prince George (YXS),Carson Air B350 (C-FKTE),Unknown,2021-05-04
+3,3,04:25 W8583,,Calgary (YYC),Cargojet Airways B752 (C-FGKJ),Landed 04:05,2021-05-04
+4,4,04:30 W8567,,Winnipeg (YWG),Cargojet Airways B763 (C-FDIJ),Landed 03:43,2021-05-04
+5,5,04:48 MAL7051,,Calgary (YYC),FedEx B752 (C-FMEP),Landed 04:38,2021-05-04
+6,6,05:01 W8589,,Hamilton (YHM),Cargojet Airways B752 (C-FKCJ),Landed 05:00,2021-05-04
+7,7,05:35 SLQ7825,,Victoria (YYJ),SkyLink Express B190,Unknown,2021-05-04
+8,8,06:10 W8926,,Cincinnati (CVG),Cargojet Airways B763 (C-GOCJ),Unknown,2021-05-04
+9,9,06:12 5X490,,Louisville (SDF),UPS A306 (N134UP),Landed 06:37,2021-05-04
+10,10,06:58 MAL8070,,Victoria (YYJ),Morningstar Air Express C208,Unknown,2021-05-04
+11,11,07:08 AC7304,,Auckland (AKL),Air Canada B77W (C-FNNQ),Landed 07:39,2021-05-04
+12,12,07:10,AC8050,Victoria (YYJ),Air Canada Express DH8D (C-GBJZ),Unknown,2021-05-04
+13,13,07:13 AC235,,Edmonton (YEG),Air Canada BCS3 (C-GROV),Landed 07:01,2021-05-04
+14,14,07:16 FX142,,Memphis (MEM),FedEx B763 (N158FE),Landed 08:39,2021-05-04
+15,15,07:25 AC203,,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 07:05,2021-05-04
+16,16,07:25 8P100,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-04
+17,17,07:26 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GGMN),Landed 07:17,2021-05-04
+18,18,07:26 AC8543,,Winnipeg (YWG),Air Canada Express CRJ9 (C-FCJZ),Landed 07:28,2021-05-04
+19,19,07:27 9M8190,,Nanaimo (YCD),Central Mountain Air B190 (C-FCMU),Landed 07:18,2021-05-04
+20,20,07:30 AC8215,,Cranbrook (YXC),Air Canada Express DH8D (C-GGND),Landed 07:03,2021-05-04
+21,21,07:30 8P200,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-04
+22,22,07:35 YB602,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-04
+23,23,07:42,,Victoria (YYJ),- -,Unknown,2021-05-04
+24,24,07:48 MAL8071,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 07:43,2021-05-04
+25,25,07:51,WS115,Calgary (YYC),WestJet B737 (C-GWBJ),Landed 07:35,2021-05-04
+26,26,07:55 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-04
+27,27,07:56 SLQ7703,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 08:08,2021-05-04
+28,28,08:05 YB4000,,Maple Bay (YAQ),Borajet DHT,Unknown,2021-05-04
+29,29,08:06 WS3325,,Kelowna (YLW),WestJet -,Canceled,2021-05-04
+30,30,08:19,WS3114,Victoria (YYJ),WestJet DH8D (C-FWEW),Landed 08:08,2021-05-04
+31,31,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-04
+32,32,08:20 8P860,,Port Hardy (YZT),Pacific Coastal Airlines -,Canceled,2021-05-04
+33,33,08:25 8P102,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-04
+34,34,08:30 MAL8072,,Victoria (YYJ),FedEx C208 (C-FFXD),Landed 08:26,2021-05-04
+35,35,08:33 MAL8050,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 08:19,2021-05-04
+36,36,09:05 MU215,,Nanjing (NKG),China Eastern Airlines A359 (B-308E),Landed 08:15,2021-05-04
+37,37,09:10 K41917,,Seattle (SEA),Kalitta Air B763 (N764CK),Landed 09:03,2021-05-04
+38,38,09:13 W8926,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Landed 09:14,2021-05-04
+39,39,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-04
+40,40,09:31 CRN8081,,Kelowna (YLW),Aerocaribbean SW4,Landed 09:19,2021-05-04
+41,41,09:35 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Landed 09:26,2021-05-04
+42,42,09:43 MAL8051,,Nanaimo (YCD),Morningstar Air Express C208,Unknown,2021-05-04
+43,43,09:46 AC103,,Toronto (YYZ),Air Canada B789 (C-FGEO),Landed 09:24,2021-05-04
+44,44,09:50 YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-04
+45,45,09:55 8P701,,Comox (YQQ),Pacific Coastal Airlines B190 (C-GPCL),Landed 09:47,2021-05-04
+46,46,09:58 NTA202,,Prince George (YXS),- B350 (C-GBCN),Landed 09:56,2021-05-04
+47,47,10:18,,Prince George (YXS),- B350 (C-FNTA),Landed 10:04,2021-05-04
+48,48,10:29,AC301,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 09:54,2021-05-04
+49,49,10:29 AC8575,,Saskatoon (YXE),Air Canada Express CRJ9 (C-GDJZ),Landed 10:19,2021-05-04
+50,50,10:35 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-04
+51,51,10:38 AC8567,,Regina (YQR),Air Canada Express CRJ9 (C-GJZS),Landed 10:16,2021-05-04
+52,52,10:45 SLQ7768,,Prince George (YXS),SkyLink Express B190,Landed 10:22,2021-05-04
+53,53,11:10 8P552,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-04
+54,54,11:12 MAL8073,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 11:14,2021-05-04
+55,55,11:15,F8157,Regina (YQR),Flair Airlines B738 (C-FFLC),Landed 10:55,2021-05-04
+56,56,11:18 AC7292,,Shanghai (PVG),Air Canada B77W (C-FIVX),Landed 11:19,2021-05-04
+57,57,11:40,JL18,Tokyo (NRT),Japan Airlines B788 (JA845J),Landed 11:01,2021-05-04
+58,58,11:42,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-GJZV),Landed 11:28,2021-05-04
+59,59,11:45 AC56,,Victoria (YYJ),Air Canada Express DH8D (C-GGFJ),Landed 12:04,2021-05-04
+60,60,11:46 AC8563,,Smithers (YYD),Air Canada Express DH8D (C-GGMU),Landed 11:26,2021-05-04
+61,61,11:54 CRN611,,Prince George (YXS),Carson Air B350 (C-FKTE),Landed 11:55,2021-05-04
+62,62,11:55,AC8056,Victoria (YYJ),Air Canada Express DH8D (C-GGFJ),Unknown,2021-05-04
+63,63,11:56,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GGND),Landed 11:41,2021-05-04
+64,64,11:57,AC553,Los Angeles (LAX),Air Canada B38M (C-FSDB),Landed 11:54,2021-05-04
+65,65,11:57,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GGNZ),Landed 11:52,2021-05-04
+66,66,11:58,AC8202,Prince George (YXS),Air Canada Express DH8D (C-GSJZ),Landed 11:35,2021-05-04
+67,67,11:58,AC8239,Terrace (YXT),Air Canada Express DH8D (C-GBJZ),Landed 12:04,2021-05-04
+68,68,12:05,KL681,Amsterdam (AMS),KLM A333 (PH-AKE),Landed 11:51,2021-05-04
+69,69,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-04
+70,70,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-04
+71,71,12:15 8P1524,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-04
+72,72,12:25 AC213,,Calgary (YYC),Air Canada B38M (C-FSES),Landed 12:23,2021-05-04
+73,73,12:26 AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GGMN),Landed 11:57,2021-05-04
+74,74,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GROV),Landed 12:19,2021-05-04
+75,75,12:40 8P9192,,Masset (ZMT),Pacific Coastal Airlines B190 (C-GPCR),Landed 12:02,2021-05-04
+76,76,12:50 KE71,,Seoul (ICN),Korean Air A333 (HL8003),Landed 12:28,2021-05-04
+77,77,12:50 YB606,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-04
+78,78,12:50 8P1304,,Penticton (YYF),Pacific Coastal Airlines -,Canceled,2021-05-04
+79,79,13:14 CRN611,,Kamloops (YKA),Carson Air B350 (C-FKTE),Landed 13:05,2021-05-04
+80,80,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCY),Unknown,2021-05-04
+81,81,13:20 8P7008,,Terrace (YXT),Pacific Coastal Airlines SF34 (C-FPCU),Landed 13:32,2021-05-04
+82,82,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-04
+83,83,13:40,UA5689,San Francisco (SFO),United Express E75L (N164SY),Landed 13:34,2021-05-04
+84,84,13:40 8P554,,Williams Lake (YWL),Pacific Coastal Airlines B190 (C-GPCL),Landed 13:28,2021-05-04
+85,85,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-04
+86,86,13:45 8P972,,Masset (ZMT),Pacific Coastal Airlines -,Canceled,2021-05-04
+87,87,13:50 8P344,,Bella Coola (QBC),Pacific Coastal Airlines B190 (C-FWZK),Landed 13:41,2021-05-04
+88,88,14:08,WS3106,Terrace (YXT),WestJet DH8D (C-FWEW),Landed 13:45,2021-05-04
+89,89,14:14 WS709,,Toronto (YYZ),WestJet B38M,Landed 13:52,2021-05-04
+90,90,14:25 8P7008,,Prince George (YXS),Pacific Coastal Airlines SF34 (C-FPCU),Canceled,2021-05-04
+91,91,14:35 8P208,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-04
+92,92,14:40,LH492,Frankfurt (FRA),Lufthansa A333 (D-AIKO),Landed 14:28,2021-05-04
+93,93,14:56 CRN999,,Kelowna (YLW),Aerocaribbean C560,Unknown,2021-05-04
+94,94,15:00,AC8062,Victoria (YYJ),Air Canada DH4,Unknown,2021-05-04
+95,95,15:00 8P1614,,Tofino (YAZ),Pacific Coastal Airlines -,Canceled,2021-05-04
+96,96,15:08 CRN711,,-,Aerocaribbean -,Unknown,2021-05-04
+97,97,15:30 W8301,,Calgary (YYC),Cargojet Airways B763 (C-GAJG),Landed 15:16,2021-05-04
+98,98,15:30 9M8570,,Dease Lake (YDL),Central Mountain Air DH8C (C-FIDL),Landed 15:30,2021-05-04
+99,99,15:35 YB610,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-04
+100,100,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GNJZ),Landed 15:21,2021-05-04
+101,101,15:43,AC305,Montreal (YUL),Air Canada BCS3 (C-GNAM),Landed 15:37,2021-05-04
+102,102,15:46 MAL7090,,Calgary (YYC),FedEx B752 (C-FMEK),Landed 15:40,2021-05-04
+103,103,15:55 TK75,,Istanbul (IST),Turkish Airlines B789 (TC-LLH),Landed 15:52,2021-05-04
+104,104,15:59 WS129,,Calgary (YYC),WestJet B737 (C-GYWJ),Landed 15:48,2021-05-04
+105,105,16:03 AC113,,Toronto (YYZ),Air Canada (Trans-Canada Air Lines Livery) BCS3 (C-GNBN),Landed 16:01,2021-05-04
+106,106,16:18 MAL7052,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 16:22,2021-05-04
+107,107,16:23,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GSJZ),Landed 16:03,2021-05-04
+108,108,16:23 SLQ711,,Nanaimo (YCD),SkyLink Express C208,Landed 15:57,2021-05-04
+109,109,16:30 SLQ751,,Kelowna (YLW),SkyLink Express B190,Unknown,2021-05-04
+110,110,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-04
+111,111,16:40 8P1206,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-GPCL),Landed 16:28,2021-05-04
+112,112,16:41 SLQ713,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 16:30,2021-05-04
+113,113,16:45,AC219,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 16:40,2021-05-04
+114,114,16:50 YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-04
+115,115,16:54 MAL7074,,Victoria (YYJ),FedEx C208 (C-FFXD),Landed 16:39,2021-05-04
+116,116,16:55 8P458,,Trail (YZZ),Pacific Coastal Airlines B190 (C-GPCR),Landed 16:35,2021-05-04
+117,117,16:59,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GBJZ),Unknown,2021-05-04
+118,118,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-04
+119,119,17:45 4N563,,Whitehorse (YXY),Air North B734 (C-FANB),Landed 18:06,2021-05-04
+120,120,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-04
+121,121,17:50 8P610,,Cranbrook (YXC),Pacific Coastal Airlines B190 (C-GPCY),Unknown,2021-05-04
+122,122,17:59 SLQ467,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-04
+123,123,18:00,AC221,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 17:54,2021-05-04
+124,124,18:00,WS141,Edmonton (YEG),WestJet B738 (C-FUMF),Landed 17:47,2021-05-04
+125,125,18:00 8P9342,,Calgary (YYC),Pacific Coastal Airlines SF34 (C-FPCZ),Landed 19:21,2021-05-04
+126,126,18:01 SLQ521,,Victoria (YYJ),Skylink Express C208 (C-GLGA),Landed 18:07,2021-05-04
+127,127,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GVJZ),Landed 17:38,2021-05-04
+128,128,18:05 8P218,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Unknown,2021-05-04
+129,129,18:10,WS3298,Prince George (YXS),WestJet DH8D (C-FWEW),Landed 17:49,2021-05-04
+130,130,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GROV),Landed 17:57,2021-05-04
+131,131,18:15 FK578,,Kamloops (YKA),Kelowna Flightcraft Air CVLT,Landed 17:53,2021-05-04
+132,132,18:16 AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GXJZ),Landed 17:45,2021-05-04
+133,133,18:16 AC8421,,Kelowna (YLW),Air Canada Express DH8D (C-GGMU),Landed 17:58,2021-05-04
+134,134,18:39 FK574,,Victoria (YYJ),KF Aero CVLP (C-FKFZ),Landed 17:58,2021-05-04
+135,135,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N194SY),Landed 18:22,2021-05-04
+136,136,18:41 FK576,,Kelowna (YLW),KF Aero CVLP (C-GKFG),Unknown,2021-05-04
+137,137,18:56,AC119,Toronto (YYZ),Air Canada B789 (C-FRSI),Landed 18:28,2021-05-04
+138,138,19:12,AA2263,Dallas (DFW),American Airlines A319 (N8027D),Landed 19:02,2021-05-04
+139,139,19:25 CZ5053,,Guangzhou (CAN),China Southern Airlines B789 (B-1128),Landed 19:24,2021-05-04
+140,140,19:27,WS711,Toronto (YYZ),WestJet B737 (C-GCWJ),Landed 19:06,2021-05-04
+141,141,19:40 8P715,,Comox (YQQ),Pacific Coastal Airlines B190 (C-GPCL),Unknown,2021-05-04
+142,142,19:58,DL4476,Seattle (SEA),Delta Connection E75L (N284SY),Landed 19:37,2021-05-04
+143,143,20:00,3U8501,Chengdu (CTU),Sichuan Airlines A359 (B-304V),Landed 19:47,2021-05-04
+144,144,20:03 NCB1541,,-,North Cariboo Air RJ1H (C-GSUI),Landed 19:45,2021-05-04
+145,145,20:40 8P562,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-04
+146,146,20:58,AC311,Montreal (YUL),Air Canada B38M (C-FSCY),Landed 20:42,2021-05-04
+147,147,22:28,WS139,Calgary (YYC),WestJet B737 (C-GWCN),Landed 22:16,2021-05-04
+148,148,22:30 HU701,,Shanghai (PVG),Hainan Airlines A333 (B-1098),Landed 21:35,2021-05-04
+149,149,22:31,AC129,Toronto (YYZ),Air Canada B788 (C-GHPU),Landed 22:11,2021-05-04
+150,150,23:00 3U9991,,-,Sichuan Airlines 330,Unknown,2021-05-04
+0,0,03:45 W8569,,Hamilton (YHM),Cargojet Airways B763 (C-GVIJ),Landed 03:31,2021-05-05
+1,1,04:25 W8583,,Calgary (YYC),Cargojet Airways B762 (C-FOIJ),Landed 04:05,2021-05-05
+2,2,04:30 W8567,,Winnipeg (YWG),Cargojet Airways B763 (C-GUAJ),Landed 03:01,2021-05-05
+3,3,04:39 CRN888,,Smithers (YYD),Aerocaribbean C560,Unknown,2021-05-05
+4,4,04:45 SLQ7825,,Victoria (YYJ),SkyLink Express B190,Unknown,2021-05-05
+5,5,05:16 MAL7079,,Winnipeg (YWG),FedEx B752 (N976FD),Landed 04:49,2021-05-05
+6,6,05:19 MAL7051,,Calgary (YYC),FedEx B752 (C-FMOC),Landed 05:05,2021-05-05
+7,7,05:45 W8589,,Hamilton (YHM),Cargojet Airways 75V,Unknown,2021-05-05
+8,8,06:12 5X490,,Louisville (SDF),UPS A306 (N162UP),Landed 06:52,2021-05-05
+9,9,07:10,AC8050,Victoria (YYJ),Air Canada Express DH8D (C-GGMU),Unknown,2021-05-05
+10,10,07:13,AC235,Edmonton (YEG),Air Canada BCS3 (C-GROV),Landed 06:59,2021-05-05
+11,11,07:22 FX142,,Memphis (MEM),FedEx B763 (N297FE),Landed 07:45,2021-05-05
+12,12,07:22 MAL8070,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 07:17,2021-05-05
+13,13,07:25,AC203,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 07:27,2021-05-05
+14,14,07:26 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GXJZ),Landed 07:21,2021-05-05
+15,15,07:26,AC8543,Winnipeg (YWG),Air Canada Express CRJ9 (C-GJZS),Landed 07:14,2021-05-05
+16,16,07:30 8P200,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-05
+17,17,07:35 YB602,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-05
+18,18,07:36,,Salt Lake City (SLC),- C56X (N606QS),Canceled,2021-05-05
+19,19,07:37 9M8190,,Nanaimo (YCD),Central Mountain Air B190 (C-FCMU),Landed 07:28,2021-05-05
+20,20,07:43,WS103,Calgary (YYC),WestJet B737 (C-GWBX),Landed 07:35,2021-05-05
+21,21,07:55 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-05
+22,22,07:56 SLQ7703,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 08:11,2021-05-05
+23,23,08:00 WS3325,,Kelowna (YLW),WestJet -,Canceled,2021-05-05
+24,24,08:05 YB4000,,Maple Bay (YAQ),Borajet DHT,Unknown,2021-05-05
+25,25,08:06 MAL8071,,Victoria (YYJ),FedEx C208 (C-FFXD),Landed 07:52,2021-05-05
+26,26,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-05
+27,27,08:20 8P860,,Port Hardy (YZT),Pacific Coastal Airlines -,Canceled,2021-05-05
+28,28,08:25 8P102,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-05
+29,29,08:46 MAL8072,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 08:31,2021-05-05
+30,30,08:52 W8926,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Landed 08:49,2021-05-05
+31,31,08:58 MAL8050,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 08:52,2021-05-05
+32,32,09:01 AC7304,,Auckland (AKL),Air Canada B789 (C-FRTW),Landed 09:00,2021-05-05
+33,33,09:04 MU7581,,Shanghai (PVG),China Eastern Airlines A359 (B-30CW),Landed 09:04,2021-05-05
+34,34,09:10 CRN8081,,Kelowna (YLW),Aerocaribbean SW4,Landed 08:58,2021-05-05
+35,35,09:15 K41917,,Seattle (SEA),Kalitta Air B763 (N764CK),Landed 09:10,2021-05-05
+36,36,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-05
+37,37,09:33 AC7086,,Edmonton (YEG),Air Canada Jetz A319 (C-FYKR),Landed 09:06,2021-05-05
+38,38,09:35 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-GPCE),Landed 09:26,2021-05-05
+39,39,09:43 MAL8051,,Nanaimo (YCD),FedEx C208 (C-FEXW),Landed 09:17,2021-05-05
+40,40,09:46,AC103,Toronto (YYZ),Air Canada B788 (C-GHPQ),Landed 09:22,2021-05-05
+41,41,09:50 YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-05
+42,42,09:55 8P701,,Comox (YQQ),Pacific Coastal Airlines B190 (C-GPCL),Unknown,2021-05-05
+43,43,09:58 WS107,,Calgary (YYC),WestJet -,Canceled,2021-05-05
+44,44,10:00,AC4,Tokyo (NRT),Air Canada B789 (C-FNOH),Landed 10:11,2021-05-05
+45,45,10:21 NCB580,,Prince George (YXS),North Caribou Flying Service BE20,Canceled,2021-05-05
+46,46,10:25,F8801,Edmonton (YEG),Flair Airlines B738 (C-FFLA),Landed 10:14,2021-05-05
+47,47,10:25 8P8100,,Vancouver (YVR),Pacific Coastal Airlines B190,Unknown,2021-05-05
+48,48,10:29,AC301,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 10:02,2021-05-05
+49,49,10:29,AC8575,Saskatoon (YXE),Air Canada Express CRJ9 (C-FJZD),Landed 10:07,2021-05-05
+50,50,10:30 MAL8073,,Victoria (YYJ),FedEx C208 (C-FFXD),Landed 10:59,2021-05-05
+51,51,10:35 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-05
+52,52,10:38,AC8567,Regina (YQR),Air Canada Express CRJ9 (C-GJHZ),Landed 10:25,2021-05-05
+53,53,10:50,CA991,Beijing (PEK),Air China B77W (B-2039),Landed 10:54,2021-05-05
+54,54,10:51,WS703,Toronto (YYZ),WestJet B737 (C-GWJO),Landed 10:30,2021-05-05
+55,55,10:54 AC7292,,Shanghai (PVG),Air Canada B77W (C-FNNW),Landed 12:11,2021-05-05
+56,56,10:57 SLQ7768,,Prince George (YXS),SkyLink Express B190,Landed 10:37,2021-05-05
+57,57,11:03 W81591,,Edmonton (YEG),Cargojet Airways B763 (C-GAJG),Landed 10:35,2021-05-05
+58,58,11:10 8P552,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-05
+59,59,11:15,F8418,Fort McMurray (YMM),Flair Airlines B738 (C-FFLC),Landed 10:40,2021-05-05
+60,60,11:25 NTA201,,Prince George (YXS),- B350 (C-FNTA),Landed 11:20,2021-05-05
+61,61,11:42,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-GJZV),Landed 11:30,2021-05-05
+62,62,11:45 4N533,,Whitehorse (YXY),Air North B735 (C-FANF),Landed 11:41,2021-05-05
+63,63,11:55,AC8056,Victoria (YYJ),Air Canada Express DH8D (C-GVJZ),Unknown,2021-05-05
+64,64,11:56,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GGNW),Landed 11:38,2021-05-05
+65,65,11:57,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GGND),Landed 11:53,2021-05-05
+66,66,11:57,AC553,Los Angeles (LAX),Air Canada B38M (C-FSDB),Unknown,2021-05-05
+67,67,11:58,AC8202,Prince George (YXS),Air Canada Express DH8D (C-GGFJ),Landed 11:51,2021-05-05
+68,68,11:58 AC8239,,Terrace (YXT),Air Canada Express DH8D (C-GGMU),Landed 11:53,2021-05-05
+69,69,12:00 TN68,,Papeete (PPT),Air Tahiti Nui B789 (F-OVAA),Landed 11:48,2021-05-05
+70,70,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-05
+71,71,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-05
+72,72,12:11 NCB860,,Fort St. John (YXJ),North Caribou Flying Service BE20,Landed 12:01,2021-05-05
+73,73,12:15 8P1524,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-05
+74,74,12:24,,Santa Ana (SNA),- GL5T (N115QS),Canceled,2021-05-05
+75,75,12:25,AC213,Calgary (YYC),Air Canada B38M (C-FSCY),Landed 12:25,2021-05-05
+76,76,12:26 AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GXJZ),Unknown,2021-05-05
+77,77,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GROV),Landed 12:18,2021-05-05
+78,78,12:30 CZ329,,Guangzhou (CAN),China Southern Airlines B789 (B-1297),Landed 12:08,2021-05-05
+79,79,12:45 KE278,,Guadalajara (GDL),Korean Air Cargo B77L (HL8075),Landed 11:27,2021-05-05
+80,80,12:45 8P1304,,Penticton (YYF),Pacific Coastal Airlines B190 (C-GPCE),Landed 12:36,2021-05-05
+81,81,12:50 YB606,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-05
+82,82,12:55 8P9194,,Bella Bella (ZEL),Pacific Coastal Airlines B190 (C-GPCR),Landed 12:49,2021-05-05
+83,83,13:02,,Waterloo (YKF),- WW24 (C-GIAW),Landed 13:03,2021-05-05
+84,84,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-FMCN),Landed 13:08,2021-05-05
+85,85,13:20 8P7008,,Terrace (YXT),Pacific Coastal Airlines SF34 (C-FPCU),Landed 13:31,2021-05-05
+86,86,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-05
+87,87,13:40,UA5689,San Francisco (SFO),United Express CRJ7 (N789SK),Landed 13:13,2021-05-05
+88,88,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-05
+89,89,13:45 8P972,,Masset (ZMT),Pacific Coastal Airlines -,Canceled,2021-05-05
+90,90,13:50 8P9198,,Bella Coola (QBC),Pacific Coastal Airlines B190 (C-GPCL),Landed 13:46,2021-05-05
+91,91,14:00 8P341,,Anahim Lake (YAA),Pacific Coastal Airlines -,Canceled,2021-05-05
+92,92,14:02,WS711,Toronto (YYZ),WestJet B737 (C-FKIW),Landed 13:51,2021-05-05
+93,93,14:09,WS3106,Terrace (YXT),WestJet DH8D (C-GENU),Unknown,2021-05-05
+94,94,14:24,,Seattle (BFI),- GLEX (N142QS),Canceled,2021-05-05
+95,95,14:35 8P208,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-05
+96,96,14:50,NH116,Tokyo (HND),All Nippon Airways B789 (JA923A),Landed 14:25,2021-05-05
+97,97,15:00,AC8062,Victoria (YYJ),Air Canada DH4,Unknown,2021-05-05
+98,98,15:00 8P1614,,Tofino (YAZ),Pacific Coastal Airlines -,Canceled,2021-05-05
+99,99,15:08 CRN511,,Kamloops (YKA),Carson Air B190 (C-FBTR),Landed 14:59,2021-05-05
+100,100,15:30 W8301,,Calgary (YYC),Cargojet Airways B763 (C-GOCJ),Landed 15:45,2021-05-05
+101,101,15:30 8P876,,Bella Bella (ZEL),Pacific Coastal Airlines -,Canceled,2021-05-05
+102,102,15:30 8P558,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-05
+103,103,15:31 MAL7090,,Calgary (YYC),FedEx B752 (C-FMEP),Landed 15:01,2021-05-05
+104,104,15:35 YB610,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-05
+105,105,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GNJZ),Landed 15:28,2021-05-05
+106,106,15:43 NCB860,,Penticton (YYF),North Caribou Flying Service BE20,Landed 15:43,2021-05-05
+107,107,15:57,WS119,Calgary (YYC),WestJet B738 (C-FUMF),Landed 15:51,2021-05-05
+108,108,15:58 9M8570,,Dease Lake (YDL),Central Mountain Air DH8C (C-FIDL),Landed 15:58,2021-05-05
+109,109,16:00 8P9342,,Victoria (YYJ),Pacific Coastal Airlines SF34 (C-FPCZ),Landed 15:22,2021-05-05
+110,110,16:03,AC113,Toronto (YYZ),Air Canada A320 (C-FZQS),Landed 15:41,2021-05-05
+111,111,16:08,,Terrace (YXT),- B350 (C-GBCN),Landed 16:18,2021-05-05
+112,112,16:13 MAL7052,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 16:11,2021-05-05
+113,113,16:22 AC8262,,Nanaimo (YCD),Air Canada Express DH8D (C-GGND),Landed 16:13,2021-05-05
+114,114,16:23,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GGFJ),Landed 16:10,2021-05-05
+115,115,16:23 SLQ711,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-05
+116,116,16:25 SLQ751,,Kelowna (YLW),SkyLink Express B190,Landed 16:23,2021-05-05
+117,117,16:34 9M8717,,Terrace (YXT),Central Mountain Air DH8A (C-FVRJ),Landed 16:29,2021-05-05
+118,118,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-05
+119,119,16:40 8P1206,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-GPCR),Landed 16:31,2021-05-05
+120,120,16:41 SLQ713,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 16:36,2021-05-05
+121,121,16:45,AC219,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 16:43,2021-05-05
+122,122,16:48 MAL7074,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 16:40,2021-05-05
+123,123,16:50 YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-05
+124,124,16:55 8P458,,Trail (YZZ),Pacific Coastal Airlines B190 (C-GPCE),Landed 16:38,2021-05-05
+125,125,16:55 QK64,,Victoria (YYJ),Air Canada Express DH8D (C-GGMU),Landed 16:47,2021-05-05
+126,126,16:59,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GGMU),Unknown,2021-05-05
+127,127,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-05
+128,128,17:20 8P866,,Port Hardy (YZT),Pacific Coastal Airlines B190 (C-GPCL),Landed 17:08,2021-05-05
+129,129,17:34,,Kelowna (YLW),- PC12 (C-FMHJ),Landed 18:04,2021-05-05
+130,130,17:40 8P8990,,Port Hardy (YZT),Pacific Coastal Airlines B190 (C-FPCV),Unknown,2021-05-05
+131,131,17:44 AKN147,,Watson Lake (YQH),Alkan Air B190 (C-GNAJ),Landed 17:38,2021-05-05
+132,132,17:45,BR10,Taipei (TPE),EVA Air B789 (B-17881),Landed 17:41,2021-05-05
+133,133,17:45 4N563,,Whitehorse (YXY),Air North B734 (C-FANB),Landed 18:29,2021-05-05
+134,134,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-05
+135,135,17:50 8P610,,Cranbrook (YXC),Pacific Coastal Airlines B190 (C-FMCN),Landed 17:35,2021-05-05
+136,136,17:58 FK578,,Kamloops (YKA),KF Aero CVLP (C-GKFF),Unknown,2021-05-05
+137,137,17:59 SLQ467,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-05
+138,138,18:00,AC221,Calgary (YYC),Air Canada B38M (C-FSES),Landed 18:10,2021-05-05
+139,139,18:00 WS167,,Edmonton (YEG),WestJet B737 (C-FWCN),Landed 17:53,2021-05-05
+140,140,18:00 9M8616,,Kamloops (YKA),Central Mountain Air DH8A,Landed 17:31,2021-05-05
+141,141,18:01 SLQ521,,Victoria (YYJ),SkyLink Express C208,Unknown,2021-05-05
+142,142,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GGNZ),Landed 17:49,2021-05-05
+143,143,18:09 WS3298,,Prince George (YXS),WestJet DH8D (C-GENU),Landed 18:03,2021-05-05
+144,144,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GROV),Landed 18:10,2021-05-05
+145,145,18:16 AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GGMN),Landed 18:00,2021-05-05
+146,146,18:16 AC8421,,Kelowna (YLW),Air Canada Express DH8D (C-GXJZ),Landed 18:00,2021-05-05
+147,147,18:30 8P9196,,Nanaimo (YCD),Pacific Coastal Airlines B190 (C-FWZK),Landed 17:25,2021-05-05
+148,148,18:33 QK2279,,Terrace (YXT),Air Canada Express DH8D (C-GBJZ),Landed 18:19,2021-05-05
+149,149,18:39 FK574,,Victoria (YYJ),Kelowna Flightcraft Air CVLT,Landed 18:12,2021-05-05
+150,150,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N182SY),Landed 18:35,2021-05-05
+151,151,18:41 FK576,,Kelowna (YLW),Kelowna Flightcraft Air CVLT,Landed 18:05,2021-05-05
+152,152,18:56,AC119,Toronto (YYZ),Air Canada B789 (C-FVLX),Landed 18:25,2021-05-05
+153,153,19:12,AA2263,Dallas (DFW),American Airlines A319 (N93003),Landed 19:06,2021-05-05
+154,154,19:15 8P238,,Powell River (YPW),Pacific Coastal Airlines B190 (C-GPCE),Landed 19:01,2021-05-05
+155,155,19:17 NCB1541,,Terrace (YXT),North Cariboo Air RJ1H (C-GSUI),Landed 19:10,2021-05-05
+156,156,19:40 8P715,,Comox (YQQ),Pacific Coastal Airlines B190 (C-GPCR),Unknown,2021-05-05
+157,157,19:50,AC305,Calgary (YYC),Air Canada BCS3 (C-GNBE),Unknown,2021-05-05
+158,158,20:00 AKN127,,Prince George (YXS),Alkan Air -,Unknown,2021-05-05
+159,159,20:03,DL4476,Seattle (SEA),Delta Connection E75L (N284SY),Landed 19:35,2021-05-05
+160,160,20:40 8P562,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-05
+161,161,20:58,AC311,Montreal (YUL),Air Canada B38M (C-FSDW),Landed 20:42,2021-05-05
+162,162,22:10 HU433,,Beijing (PEK),Hainan Airlines A333 (B-1048),Landed 23:01,2021-05-05
+163,163,22:26,WS133,Calgary (YYC),WestJet B737 (C-FWCN),Landed 22:16,2021-05-05
+164,164,22:31,AC129,Toronto (YYZ),Air Canada B788 (C-GHQY),Landed 22:18,2021-05-05
+165,165,23:00 3U9991,,-,Sichuan Airlines 330,Unknown,2021-05-05
+166,166,23:45 CRN711,,Smithers (YYD),Carson Air B350 (C-GILK),Unknown,2021-05-05
+0,0,00:05,F8807,Waterloo (YKF),Flair Airlines B738 (C-FFLA),Landed 23:35,2021-05-06
+1,1,03:45 W8569,,Hamilton (YHM),Cargojet Airways B763 (C-FCCJ),Landed 03:37,2021-05-06
+2,2,03:49 AC7293,,Chicago (ORD),Air Canada B77W (C-FNNW),Landed 03:25,2021-05-06
+3,3,04:22 CRN711,,Kamloops (YKA),Aerocaribbean B350,Landed 04:21,2021-05-06
+4,4,04:30 W8567,,Winnipeg (YWG),Cargojet Airways B763 (C-FDIJ),Landed 02:58,2021-05-06
+5,5,04:30 W8583,,Calgary (YYC),Cargojet Airways B752 (C-FKCJ),Landed 04:04,2021-05-06
+6,6,04:44 SLQ7825,,Victoria (YYJ),SkyLink Express B190,Canceled,2021-05-06
+7,7,04:48 MAL7051,,Calgary (YYC),FedEx B752 (N976FD),Landed 04:24,2021-05-06
+8,8,05:13 MAL7079,,Toronto (YYZ),FedEx B752 (C-FMEK),Landed 05:04,2021-05-06
+9,9,05:38 AC7307,,Toronto (YYZ),Air Canada B77W (C-FIVW),Landed 05:06,2021-05-06
+10,10,05:45 W8589,,Hamilton (YHM),Cargojet Airways 75V,Unknown,2021-05-06
+11,11,06:12 5X490,,Louisville (SDF),UPS A306 (N162UP),Landed 06:49,2021-05-06
+12,12,06:39 AC7304,,Auckland (AKL),Air Canada B789 (C-FSBV),Landed 06:39,2021-05-06
+13,13,07:00 QK50,,Victoria (YYJ),Air Canada Express DH8D (C-GGFJ),Landed 06:49,2021-05-06
+14,14,07:07 MAL8070,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 07:04,2021-05-06
+15,15,07:10,AC8050,Victoria (YYJ),Air Canada Express DH8D (C-GGFJ),Unknown,2021-05-06
+16,16,07:13 AC235,,Edmonton (YEG),Air Canada BCS3 (C-GROV),Landed 06:58,2021-05-06
+17,17,07:18 AC8237,,Terrace (YXT),Air Canada Express DH8D (C-GJZY),Landed 07:14,2021-05-06
+18,18,07:25 AC203,,Calgary (YYC),Air Canada B38M (C-FSES),Landed 07:09,2021-05-06
+19,19,07:25 8P100,,Victoria (YYJ),Sunwest Aviation B190 (C-GSWV),Landed 07:20,2021-05-06
+20,20,07:26 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GGND),Landed 07:07,2021-05-06
+21,21,07:26 AC8543,,Winnipeg (YWG),Air Canada Express CRJ9 (C-FJZD),Landed 07:20,2021-05-06
+22,22,07:27 9M8292,,Nanaimo (YCD),Central Mountain Air B190 (C-FCMP),Landed 07:16,2021-05-06
+23,23,07:30 8P200,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-06
+24,24,07:35 YB602,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-06
+25,25,07:35 MAL8071,,Victoria (YYJ),Morningstar Air Express C208,Unknown,2021-05-06
+26,26,07:38 FX142,,Memphis (MEM),FedEx B763 (N114FE),Landed 07:57,2021-05-06
+27,27,07:43,WS103,Calgary (YYC),WestJet B737 (C-GWCN),Landed 07:39,2021-05-06
+28,28,07:55 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-06
+29,29,07:55 SLQ7703,,Victoria (YYJ),SkyLink Express C208,Unknown,2021-05-06
+30,30,08:05 YB4000,,Maple Bay (YAQ),Borajet DHT,Unknown,2021-05-06
+31,31,08:16,WS161,Edmonton (YEG),WestJet B737 (C-GWAZ),Landed 08:05,2021-05-06
+32,32,08:17,WS3114,Victoria (YYJ),WestJet DH8D (C-GENU),Landed 08:04,2021-05-06
+33,33,08:20 MF8707,,Xiamen (XMN),Xiamen Air B789 (B-1357),Landed 08:29,2021-05-06
+34,34,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-06
+35,35,08:20 4N510,,Kelowna (YLW),Air North B734 (C-FANB),Landed 08:11,2021-05-06
+36,36,08:20 8P860,,Port Hardy (YZT),Pacific Coastal Airlines -,Canceled,2021-05-06
+37,37,08:25 8P102,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-06
+38,38,08:25 MAL8072,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 08:22,2021-05-06
+39,39,08:30 MAL8050,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 08:31,2021-05-06
+40,40,08:36 MU7581,,Shanghai (PVG),China Eastern Airlines A359 (B-304D),Landed 08:36,2021-05-06
+41,41,08:48 K41917,,Seattle (SEA),Kalitta Air B763 (N764CK),Landed 08:32,2021-05-06
+42,42,08:49 W8926,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Landed 08:45,2021-05-06
+43,43,09:03 MAL8051,,Nanaimo (YCD),FedEx C208 (C-FEXW),Landed 09:10,2021-05-06
+44,44,09:10 CRN8081,,Kelowna (YLW),Aerocaribbean SW4,Landed 09:09,2021-05-06
+45,45,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-06
+46,46,09:35 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Landed 09:19,2021-05-06
+47,47,09:45 SLQ7750,,Kelowna (YLW),SkyLink Express C208,Landed 09:24,2021-05-06
+48,48,09:46 AC103,,Toronto (YYZ),Air Canada B789 (C-FGDT),Landed 09:36,2021-05-06
+49,49,09:50 YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-06
+50,50,09:55 8P701,,Comox (YQQ),Pacific Coastal Airlines B190 (C-GPCE),Landed 09:41,2021-05-06
+51,51,10:06 NTA201,,Prince George (YXS),- B350 (C-FNTA),Landed 10:05,2021-05-06
+52,52,10:25,F8312,Winnipeg (YWG),Flair Airlines B738 (C-FFLJ),Landed 10:25,2021-05-06
+53,53,10:29,AC301,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 10:01,2021-05-06
+54,54,10:29 AC8575,,Saskatoon (YXE),Air Canada Express CRJ9 (C-GDJZ),Landed 10:26,2021-05-06
+55,55,10:35 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-06
+56,56,10:38 AC8567,,Regina (YQR),Air Canada Express CRJ9 (C-FKJZ),Landed 10:31,2021-05-06
+57,57,10:51,WS703,Toronto (YYZ),WestJet B738 (C-FWIJ),Landed 10:57,2021-05-06
+58,58,10:55 AC7292,,Shanghai (PVG),Air Canada B77W (C-FNNQ),Landed 11:54,2021-05-06
+59,59,11:05 SLQ7768,,Prince George (YXS),SkyLink Express B190,Unknown,2021-05-06
+60,60,11:10 8P552,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-06
+61,61,11:15 AC8,,Hong Kong (HKG),Air Canada B789 (C-FGHZ),Landed 11:05,2021-05-06
+62,62,11:15 MAL8073,,Victoria (YYJ),FedEx C208 (C-FFXD),Landed 11:15,2021-05-06
+63,63,11:20,F8102,Edmonton (YEG),Flair Airlines B738 (C-FFLC),Landed 11:15,2021-05-06
+64,64,11:40,AC64,Seoul (ICN),Air Canada B789 (C-FNOE),Landed 11:27,2021-05-06
+65,65,11:40,JL18,Tokyo (NRT),Japan Airlines B788 (JA843J),Landed 10:56,2021-05-06
+66,66,11:42,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-GJZS),Landed 11:24,2021-05-06
+67,67,11:46 AC8563,,Smithers (YYD),Air Canada Express DH8D (C-GGNW),Landed 11:39,2021-05-06
+68,68,11:55,AC8056,Victoria (YYJ),Air Canada Express DH8D (C-GBJZ),Unknown,2021-05-06
+69,69,11:56,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GGND),Landed 11:43,2021-05-06
+70,70,11:57,AC553,Los Angeles (LAX),Air Canada 7M8,Unknown,2021-05-06
+71,71,11:57,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GSJZ),Landed 11:41,2021-05-06
+72,72,11:58,AC8202,Prince George (YXS),Air Canada Express DH8D (C-GGMN),Landed 11:53,2021-05-06
+73,73,11:58,AC8239,Terrace (YXT),Air Canada Express DH8D (C-GXJZ),Landed 12:01,2021-05-06
+74,74,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-06
+75,75,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-06
+76,76,12:15 8P1524,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-06
+77,77,12:25 AC213,,Calgary (YYC),Air Canada B38M (C-FSEQ),Landed 12:24,2021-05-06
+78,78,12:27 AC291,,Fort St. John (YXJ),Air Canada A320 (C-FZQS),Landed 12:23,2021-05-06
+79,79,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GROV),Landed 13:32,2021-05-06
+80,80,12:35,F8813,Calgary (YYC),Flair Airlines B738 (C-FFLA),Landed 12:31,2021-05-06
+81,81,12:45 KE278,,Guadalajara (GDL),Korean Air Cargo B77L (HL8285),Landed 11:02,2021-05-06
+82,82,12:45 8P1304,,Penticton (YYF),Pacific Coastal Airlines -,Canceled,2021-05-06
+83,83,12:50 KE71,,Seoul (ICN),Korean Air A333 (HL8001),Landed 12:39,2021-05-06
+84,84,12:50 YB606,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-06
+85,85,12:55 8P9198,,Bella Bella (ZEL),Pacific Coastal Airlines BE1,Landed 12:41,2021-05-06
+86,86,13:10 8P7008,,Terrace (YXT),Pacific Coastal Airlines B190,Landed 13:20,2021-05-06
+87,87,13:15 TN67,,Paris (CDG),Air Tahiti Nui B789 (F-OVAA),Unknown,2021-05-06
+88,88,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-FMCN),Landed 13:08,2021-05-06
+89,89,13:30 8P707,,Comox (YQQ),Pacific Coastal Airlines -,Canceled,2021-05-06
+90,90,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-06
+91,91,13:40,UA5689,San Francisco (SFO),United Express E75L (N131SY),Landed 13:18,2021-05-06
+92,92,13:40 8P554,,Williams Lake (YWL),Pacific Coastal Airlines B190 (C-FWZK),Unknown,2021-05-06
+93,93,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-06
+94,94,13:50 8P344,,Bella Coola (QBC),Pacific Coastal Airlines B190 (C-GPCE),Landed 14:03,2021-05-06
+95,95,13:57 AKN147,,Terrace (YXT),Alkan Air B190,Unknown,2021-05-06
+96,96,14:09,WS3106,Terrace (YXT),WestJet DH8D (C-GJEN),Landed 13:58,2021-05-06
+97,97,14:15 8P7008,,Prince George (YXS),Pacific Coastal Airlines BES,Canceled,2021-05-06
+98,98,14:23 9M9299,,Terrace (YXT),Central Mountain Air DH8A (C-GYSJ),Landed 14:17,2021-05-06
+99,99,14:35 8P208,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-06
+100,100,14:36,,Seattle (BFI),- GLEX (N148QS),Unknown,2021-05-06
+101,101,14:40,LH492,Frankfurt (FRA),Lufthansa A333 (D-AIKL),Landed 14:39,2021-05-06
+102,102,15:00,AC8062,Victoria (YYJ),Air Canada DH4,Unknown,2021-05-06
+103,103,15:05 9M761,,Castlegar (YCG),Central Mountain Air B190,Landed 14:58,2021-05-06
+104,104,15:23 NCB860,,Dawson Creek (YDQ),North Caribou Flying Service BE20,Landed 15:23,2021-05-06
+105,105,15:25 NTA202,,-,- B350 (C-GBCN),Unknown,2021-05-06
+106,106,15:30 W8301,,Calgary (YYC),Cargojet Airways B763 (C-FPIJ),Landed 15:18,2021-05-06
+107,107,15:35 YB610,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-06
+108,108,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GNJZ),Landed 15:35,2021-05-06
+109,109,15:43,AC305,Montreal (YUL),Air Canada (Trans-Canada Air Lines Livery) BCS3 (C-GNBN),Landed 15:32,2021-05-06
+110,110,15:45 8P974,,Masset (ZMT),Pacific Coastal Airlines SF34 (C-FPCU),Unknown,2021-05-06
+111,111,15:51 MAL7090,,Calgary (YYC),FedEx B752 (C-FMOC),Landed 15:47,2021-05-06
+112,112,15:55 TK75,,Istanbul (IST),Turkish Airlines B789 (TC-LLA),Landed 16:18,2021-05-06
+113,113,15:57,WS119,Calgary (YYC),WestJet B737 (C-GWBX),Landed 15:44,2021-05-06
+114,114,16:03,AC113,Toronto (YYZ),Air Canada BCS3 (C-GJYE),Landed 15:55,2021-05-06
+115,115,16:15 8P1614,,Tofino (YAZ),Pacific Coastal Airlines B190 (C-FWZK),Landed 16:27,2021-05-06
+116,116,16:23,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GGND),Landed 16:22,2021-05-06
+117,117,16:23 SLQ711,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-06
+118,118,16:25 PR116,,Manila (MNL),Philippine Airlines A359 (RP-C3501),Landed 15:53,2021-05-06
+119,119,16:32 MAL7052,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 16:21,2021-05-06
+120,120,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-06
+121,121,16:40 8P1206,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-GPCE),Landed 16:34,2021-05-06
+122,122,16:40 SLQ713,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 16:30,2021-05-06
+123,123,16:44 MAL7074,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 16:38,2021-05-06
+124,124,16:45,AC219,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 16:42,2021-05-06
+125,125,16:50 YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-06
+126,126,16:53 SLQ751,,Kelowna (YLW),SkyLink Express B190,Landed 16:22,2021-05-06
+127,127,16:55 8P458,,Trail (YZZ),Pacific Coastal Airlines B190 (C-GPCL),Landed 16:44,2021-05-06
+128,128,16:59,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GGNW),Unknown,2021-05-06
+129,129,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-06
+130,130,17:20 8P866,,Port Hardy (YZT),Pacific Coastal Airlines -,Canceled,2021-05-06
+131,131,17:23,,Victoria (YYJ),- HDJT (C-GLSB),Landed 17:07,2021-05-06
+132,132,17:45 4N563,,Whitehorse (YXY),Air North B735 (C-FANF),Landed 17:44,2021-05-06
+133,133,17:46 QK2279,,Terrace (YXT),Air Canada Express DH8D (C-GGNZ),Landed 17:48,2021-05-06
+134,134,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-06
+135,135,17:50 8P610,,Cranbrook (YXC),Pacific Coastal Airlines B190 (C-GPCR),Landed 17:42,2021-05-06
+136,136,17:59 SLQ467,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-06
+137,137,18:00,AC221,Calgary (YYC),Air Canada B38M (C-FSDB),Landed 18:05,2021-05-06
+138,138,18:00 SLQ521,,Victoria (YYJ),Skylink Express C208 (C-GLGA),Landed 17:52,2021-05-06
+139,139,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GVJZ),Landed 17:59,2021-05-06
+140,140,18:07 AC295,,Fort St. John (YXJ),Air Canada A320 (C-FZQS),Landed 17:43,2021-05-06
+141,141,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 18:30,2021-05-06
+142,142,18:16 AC8188,,Fort St. John (YXJ),Air Canada DH4,Unknown,2021-05-06
+143,143,18:16 AC8421,,Kelowna (YLW),Air Canada Express DH8D (C-GGFJ),Landed 18:04,2021-05-06
+144,144,18:25 9M737,,Kamloops (YKA),Central Mountain Air B190 (C-GCML),Landed 18:24,2021-05-06
+145,145,18:33 FK578,,Kamloops (YKA),Kelowna Flightcraft Air CVLT,Unknown,2021-05-06
+146,146,18:39 FK574,,Victoria (YYJ),Kelowna Flightcraft Air CVLT,Landed 18:06,2021-05-06
+147,147,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N193SY),Landed 18:22,2021-05-06
+148,148,18:41 FK576,,Kelowna (YLW),Kelowna Flightcraft Air CVLT,Unknown,2021-05-06
+149,149,18:56,AC119,Toronto (YYZ),Air Canada B788 (C-GHPV),Landed 18:40,2021-05-06
+150,150,18:59,AA2263,Dallas (DFW),American Airlines A319 (N813AW),Landed 19:39,2021-05-06
+151,151,19:00 9M738,,Kelowna (YLW),Central Mountain Air B190,Landed 18:34,2021-05-06
+152,152,19:15 8P238,,Powell River (YPW),Pacific Coastal Airlines B190 (C-GPCE),Landed 19:04,2021-05-06
+153,153,19:21 BR10,,Taipei (TPE),EVA Air B78X (B-17807),Landed 19:22,2021-05-06
+154,154,19:40 8P715,,Comox (YQQ),Pacific Coastal Airlines SF34 (C-FPCU),Unknown,2021-05-06
+155,155,19:59,WS721,Toronto (YYZ),WestJet B737 (C-GSWJ),Landed 19:54,2021-05-06
+156,156,20:03,DL4476,Seattle (SEA),Delta Connection E75L (N298SY),Landed 19:44,2021-05-06
+157,157,20:22,AC125,Toronto (YYZ),Air Canada B77W (C-FIVQ),Landed 20:02,2021-05-06
+158,158,20:40 8P562,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-06
+159,159,20:58,AC311,Montreal (YUL),Air Canada B38M (C-FSES),Landed 20:37,2021-05-06
+160,160,21:16 NCB2013,,Fort St. John (YXJ),North Cariboo Air RJ1H (C-GSUI),Landed 20:34,2021-05-06
+161,161,21:44 HU701,,Shanghai (PVG),Hainan Airlines A333 (B-1098),Landed 21:44,2021-05-06
+162,162,22:26,WS133,Calgary (YYC),WestJet B737 (C-FKIW),Landed 22:15,2021-05-06
+163,163,22:31,AC129,Toronto (YYZ),Air Canada B788 (C-GHPQ),Landed 22:20,2021-05-06
+164,164,23:00 3U9991,,-,Sichuan Airlines 330,Unknown,2021-05-06
+0,0,00:15,F8133,Toronto (YYZ),Flair Airlines B738 (C-FFLJ),Landed 23:50,2021-05-07
+1,1,03:28 CRN711,,Dawson Creek (YDQ),Aerocaribbean B350,Unknown,2021-05-07
+2,2,03:45 W8569,,Hamilton (YHM),Cargojet Airways B763 (C-GVIJ),Landed 03:24,2021-05-07
+3,3,03:54 AC7293,,Chicago (ORD),Air Canada B77W (C-FNNQ),Landed 04:03,2021-05-07
+4,4,04:25 W8583,,Calgary (YYC),Cargojet Airways B762 (C-FHCJ),Landed 04:15,2021-05-07
+5,5,04:30 W8567,,Winnipeg (YWG),Cargojet Airways B763,Landed 02:56,2021-05-07
+6,6,04:33 CRN888,,Kelowna (YLW),Aerocaribbean C560,Unknown,2021-05-07
+7,7,04:45 SLQ7825,,Victoria (YYJ),SkyLink Express B190,Unknown,2021-05-07
+8,8,04:48 MAL7051,,Calgary (YYC),FedEx B752 (C-FMEU),Landed 04:13,2021-05-07
+9,9,04:55 MAL7079,,Toronto (YYZ),FedEx B752 (C-FMEP),Landed 04:45,2021-05-07
+10,10,05:45 W8589,,Hamilton (YHM),Cargojet Airways 75V,Unknown,2021-05-07
+11,11,06:12 5X490,,Louisville (SDF),UPS A306 (N144UP),Landed 06:47,2021-05-07
+12,12,06:23 W8573,,Edmonton (YEG),Cargojet Airways B763 (C-GUAJ),Landed 05:50,2021-05-07
+13,13,06:59 MAL8070,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 06:52,2021-05-07
+14,14,07:10,AC8050,Victoria (YYJ),Air Canada Express DH8D (C-GGNZ),Unknown,2021-05-07
+15,15,07:13 AC235,,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 07:01,2021-05-07
+16,16,07:25 AC203,,Calgary (YYC),Air Canada B38M (C-FSDB),Landed 07:15,2021-05-07
+17,17,07:25 8P100,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-FMCN),Landed 07:11,2021-05-07
+18,18,07:26 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GGOF),Landed 07:08,2021-05-07
+19,19,07:26 AC8543,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GDJZ),Landed 07:19,2021-05-07
+20,20,07:30 AC8215,,Cranbrook (YXC),Air Canada Express DH8D (C-GJZY),Landed 07:03,2021-05-07
+21,21,07:30 8P200,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-07
+22,22,07:35 YB602,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-07
+23,23,07:36 FX142,,Memphis (MEM),FedEx B763 (N144FE),Landed 08:04,2021-05-07
+24,24,07:43,WS103,Calgary (YYC),WestJet B737 (C-GWBF),Landed 07:27,2021-05-07
+25,25,07:49 MAL8071,,Victoria (YYJ),FedEx C208 (C-FFXD),Landed 07:10,2021-05-07
+26,26,07:53,,Victoria (YYJ),- -,Unknown,2021-05-07
+27,27,07:55 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-07
+28,28,07:56 SLQ7703,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Unknown,2021-05-07
+29,29,08:00,WS3325,Kelowna (YLW),WestJet DH8D (C-GEWR),Landed 07:37,2021-05-07
+30,30,08:05 YB4000,,Maple Bay (YAQ),Borajet DHT,Unknown,2021-05-07
+31,31,08:16,WS161,Edmonton (YEG),WestJet B738 (C-FWJS),Landed 08:07,2021-05-07
+32,32,08:16 SLQ7521,,Victoria (YYJ),Skylink Express C208 (C-GLGA),Landed 07:59,2021-05-07
+33,33,08:19,WS3290,Prince George (YXS),WestJet DH8D (C-GJEN),Landed 08:08,2021-05-07
+34,34,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-07
+35,35,08:22 MAL8072,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 08:11,2021-05-07
+36,36,08:25 8P102,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-07
+37,37,08:27 9M8292,,Nanaimo (YCD),Central Mountain Air B190 (C-FCMP),Unknown,2021-05-07
+38,38,08:31 MAL8050,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 08:31,2021-05-07
+39,39,09:10 CRN8081,,Kelowna (YLW),Aerocaribbean SW4,Landed 08:58,2021-05-07
+40,40,09:13 K41917,,Seattle (SEA),Kalitta Air B763 (N764CK),Landed 09:02,2021-05-07
+41,41,09:16 W8926,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Landed 09:07,2021-05-07
+42,42,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-07
+43,43,09:35 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-GPCE),Landed 09:21,2021-05-07
+44,44,09:43 MAL8051,,Nanaimo (YCD),FedEx C208 (C-FEXW),Landed 08:52,2021-05-07
+45,45,09:46 AC103,,Toronto (YYZ),Air Canada B788 (C-GHPX),Landed 09:26,2021-05-07
+46,46,09:50 AC997,,Mexico City (MEX),Air Canada B789 (C-FRTW),Landed 09:58,2021-05-07
+47,47,09:50 YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-07
+48,48,09:55 8P701,,Comox (YQQ),Pacific Coastal Airlines B190 (C-FPCV),Unknown,2021-05-07
+49,49,10:00,AC4,Tokyo (NRT),Air Canada B789 (C-FSBV),Landed 09:39,2021-05-07
+50,50,10:10 WG2852,,Mexico City (MEX),Sunwing Airlines 73H,Unknown,2021-05-07
+51,51,10:25,F8513,Saskatoon (YXE),Flair Airlines B738 (C-FFLC),Landed 10:12,2021-05-07
+52,52,10:29,AC301,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 09:56,2021-05-07
+53,53,10:29,AC8575,Saskatoon (YXE),Air Canada Express CRJ9 (C-FNJZ),Landed 10:14,2021-05-07
+54,54,10:35 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-07
+55,55,10:38,AC8567,Regina (YQR),Air Canada Express CRJ9 (C-FKJZ),Landed 10:21,2021-05-07
+56,56,10:51,WS703,Toronto (YYZ),WestJet B737 (C-FWCN),Landed 10:37,2021-05-07
+57,57,11:04 AC7292,,Shanghai (PVG),Air Canada B77W (C-FIVW),Landed 11:26,2021-05-07
+58,58,11:05 8P862,,Port Hardy (YZT),Pacific Coastal Airlines B190 (C-GPCY),Landed 10:50,2021-05-07
+59,59,11:10 8P552,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-07
+60,60,11:10 SLQ7768,,Prince George (YXS),SkyLink Express B190,Landed 10:45,2021-05-07
+61,61,11:17 MAL8073,,Victoria (YYJ),FedEx C208 (C-FFXD),Landed 11:02,2021-05-07
+62,62,11:22 1I141,,Van Nuys (VNY),Netjets GLEX (N141QS),Landed 11:12,2021-05-07
+63,63,11:29,,Salt Lake City (SLC),- TBM9 (C-GPUT),Landed 11:52,2021-05-07
+64,64,11:40,JL18,Tokyo (NRT),Japan Airlines B788 (JA844J),Landed 11:07,2021-05-07
+65,65,11:42,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-FJZD),Landed 11:33,2021-05-07
+66,66,11:45 4N533,,Whitehorse (YXY),Air North B735 (C-GANH),Landed 11:30,2021-05-07
+67,67,11:45 AC56,,Victoria (YYJ),Air Canada Express DH8D (C-GGMN),Landed 11:42,2021-05-07
+68,68,11:46 AC8563,,Smithers (YYD),Air Canada Express DH8D (C-GXJZ),Landed 11:18,2021-05-07
+69,69,11:55,AC8056,Victoria (YYJ),Air Canada Express DH8D (C-GGMN),Unknown,2021-05-07
+70,70,11:56,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GGOF),Landed 11:43,2021-05-07
+71,71,11:57,AC553,Los Angeles (LAX),Air Canada B38M (C-FSCY),Landed 12:24,2021-05-07
+72,72,11:57,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GSJZ),Landed 11:42,2021-05-07
+73,73,11:58,AC8202,Prince George (YXS),Air Canada Express DH8D (C-GGFJ),Landed 11:42,2021-05-07
+74,74,11:58,AC8239,Terrace (YXT),Air Canada Express DH8D (C-GVJZ),Landed 11:37,2021-05-07
+75,75,12:05,KL681,Amsterdam (AMS),KLM A332 (PH-AOE),Landed 12:08,2021-05-07
+76,76,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-07
+77,77,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-07
+78,78,12:15 8P1524,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-07
+79,79,12:18,AC8890,Whitehorse (YXY),Air Canada Express CRJ9 (C-GJHZ),Landed 11:57,2021-05-07
+80,80,12:25 AC213,,Calgary (YYC),Air Canada B38M (C-FSES),Landed 12:19,2021-05-07
+81,81,12:26 AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GJZY),Landed 12:05,2021-05-07
+82,82,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 12:13,2021-05-07
+83,83,12:45 KE278,,Guadalajara (GDL),Korean Air 777,Unknown,2021-05-07
+84,84,12:50 YB606,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-07
+85,85,12:55 8P9194,,Bella Bella (ZEL),Pacific Coastal Airlines B190 (C-FMCN),Landed 13:19,2021-05-07
+86,86,13:10 8P7008,,Terrace (YXT),Pacific Coastal Airlines SF34 (C-FPCZ),Landed 13:30,2021-05-07
+87,87,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCY),Unknown,2021-05-07
+88,88,13:20,,Vancouver (YVR),- FA50 (C-GWFK),Landed 13:16,2021-05-07
+89,89,13:25 CRN611,,Kelowna (YLW),Aerocaribbean B350,Unknown,2021-05-07
+90,90,13:30 8P707,,Comox (YQQ),Pacific Coastal Airlines BE1,Canceled,2021-05-07
+91,91,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-07
+92,92,13:35 8P206,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-07
+93,93,13:40,UA5689,San Francisco (SFO),United Express E75L (N603UX),Landed 13:23,2021-05-07
+94,94,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-07
+95,95,13:45 8P972,,Masset (ZMT),Pacific Coastal Airlines -,Canceled,2021-05-07
+96,96,13:50 8P9198,,Bella Coola (QBC),Pacific Coastal Airlines B190 (C-GPCE),Landed 13:26,2021-05-07
+97,97,13:55 AC7322,,Hong Kong (HKG),Air Canada B789 (C-FRSI),Landed 13:57,2021-05-07
+98,98,14:00 8P341,,Anahim Lake (YAA),Pacific Coastal Airlines -,Canceled,2021-05-07
+99,99,14:09,WS3106,Terrace (YXT),WestJet DH8D (C-GJEN),Landed 13:42,2021-05-07
+100,100,14:40,LH492,Frankfurt (FRA),Lufthansa A333 (D-AIKE),Landed 15:05,2021-05-07
+101,101,14:50,NH116,Tokyo (HND),All Nippon Airways B789 (JA888A),Landed 14:16,2021-05-07
+102,102,15:05,F8807,Waterloo (YKF),Flair Airlines B738 (C-FFLA),Landed 14:54,2021-05-07
+103,103,15:05 9M761,,Castlegar (YCG),Central Mountain Air B190 (C-FCMP),Landed 14:33,2021-05-07
+104,104,15:10 8P456,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-07
+105,105,15:20 8P7006,,Kelowna (YLW),Pacific Coastal Airlines B190 (C-GPCL),Landed 15:17,2021-05-07
+106,106,15:35 YB610,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-07
+107,107,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GDJZ),Landed 15:21,2021-05-07
+108,108,15:43,AC305,Montreal (YUL),Air Canada BCS3 (C-GTZH),Landed 15:19,2021-05-07
+109,109,15:57 WS119,,Calgary (YYC),WestJet B737 (C-GWCN),Landed 15:41,2021-05-07
+110,110,16:03,AC113,Toronto (YYZ),Air Canada BCS3 (C-GNGV),Landed 15:58,2021-05-07
+111,111,16:15 8P1614,,Tofino (YAZ),Pacific Coastal Airlines -,Canceled,2021-05-07
+112,112,16:23,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GGOF),Unknown,2021-05-07
+113,113,16:25 SLQ751,,Kelowna (YLW),SkyLink Express B190,Landed 16:27,2021-05-07
+114,114,16:32 MAL7052,,Nanaimo (YCD),Morningstar Air Express C208,Landed 16:20,2021-05-07
+115,115,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-07
+116,116,16:40 8P1206,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-FPCV),Landed 16:33,2021-05-07
+117,117,16:45,AC219,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 16:31,2021-05-07
+118,118,16:47 MAL7074,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 16:42,2021-05-07
+119,119,16:50 YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-07
+120,120,16:50 8P1308,,Penticton (YYF),Pacific Coastal Airlines B190 (C-GPCE),Landed 16:45,2021-05-07
+121,121,16:50 AC64,,Victoria (YYJ),Air Canada Express DH8D (C-GSJZ),Landed 16:44,2021-05-07
+122,122,16:55 8P458,,Trail (YZZ),Pacific Coastal Airlines B190 (C-FMCN),Landed 16:38,2021-05-07
+123,123,16:59,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GSJZ),Unknown,2021-05-07
+124,124,17:00 8P558,,Williams Lake (YWL),Sunwest Aviation B190 (C-GSWV),Landed 18:13,2021-05-07
+125,125,17:11 CRN611,,Kamloops (YKA),Carson Air B350 (C-GILK),Unknown,2021-05-07
+126,126,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-07
+127,127,17:25 CRN711T,,Campbell River (YBL),Aerocaribbean B350,Unknown,2021-05-07
+128,128,17:45,BR10,Taipei (TPE),EVA Air B789 (B-17883),Landed 17:22,2021-05-07
+129,129,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-07
+130,130,17:56 FK578,,Kamloops (YKA),Kelowna Flightcraft Air CVLT,Landed 17:56,2021-05-07
+131,131,18:00,AC221,Calgary (YYC),Air Canada B38M (C-FSEQ),Landed 17:45,2021-05-07
+132,132,18:00,WS167,Edmonton (YEG),WestJet B737 (C-GWBF),Landed 17:42,2021-05-07
+133,133,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GGND),Landed 17:38,2021-05-07
+134,134,18:05 8P610,,Cranbrook (YXC),Pacific Coastal Airlines B190 (C-GPCY),Landed 17:26,2021-05-07
+135,135,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 17:55,2021-05-07
+136,136,18:16 AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GGNZ),Landed 18:00,2021-05-07
+137,137,18:39 FK574,,Victoria (YYJ),Kelowna Flightcraft Air CVLT,Unknown,2021-05-07
+138,138,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N182SY),Landed 18:20,2021-05-07
+139,139,18:41 FK576,,Kelowna (YLW),KF Aero CVLP (C-GKFG),Landed 18:05,2021-05-07
+140,140,18:45 8P9192,,Terrace (YXT),Pacific Coastal Airlines -,Canceled,2021-05-07
+141,141,18:56,AC119,Toronto (YYZ),Air Canada B788 (C-GHQY),Landed 18:40,2021-05-07
+142,142,18:59,AA2263,Dallas (DFW),American Airlines A319 (N710UW),Landed 19:46,2021-05-07
+143,143,19:15 8P238,,Powell River (YPW),Pacific Coastal Airlines B190 (C-GPCE),Landed 19:03,2021-05-07
+144,144,19:40 8P715,,Comox (YQQ),Pacific Coastal Airlines B190 (C-FPCV),Unknown,2021-05-07
+145,145,19:58 MU7581,,Shanghai (PVG),China Eastern Airlines A359 (B-304N),Landed 19:59,2021-05-07
+146,146,19:59,WS721,Toronto (YYZ),WestJet B737 (C-GWJG),Landed 19:43,2021-05-07
+147,147,20:00,3U8501,Chengdu (CTU),Sichuan Airlines A332 (B-8468),Landed 20:31,2021-05-07
+148,148,20:03,DL4476,Seattle (SEA),Delta Connection E75L (N276SY),Landed 19:55,2021-05-07
+149,149,20:25 8P1420,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-07
+150,150,20:40 8P562,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-07
+151,151,21:13,AC311,Montreal (YUL),Air Canada B38M (C-FSDB),Landed 20:43,2021-05-07
+152,152,21:35,AM696,Mexico City (MEX),Aeromexico B738 (XA-ADU),Landed 21:31,2021-05-07
+153,153,22:10 HU433,,Beijing (PEK),Hainan Airlines A333 (B-303C),Landed 21:36,2021-05-07
+154,154,22:26,WS133,Calgary (YYC),WestJet B737 (C-FMWJ),Landed 22:15,2021-05-07
+155,155,22:37,AC129,Toronto (YYZ),Air Canada B77W (C-FIVR),Landed 22:08,2021-05-07
+156,156,23:00 3U9991,,-,Sichuan Airlines 330,Unknown,2021-05-07
+0,0,1:45 AM W8513,,Calgary (YYC),Cargojet Airways 76V,Unknown,2021-05-08
+1,1,1:57 AM W8515,,Calgary (YYC),Cargojet Airways B763 (C-FCAE),Landed 1:43 AM,2021-05-08
+2,2,3:54 AM AC7293,,Chicago (ORD),Air Canada B77W (C-FIVW),Landed 4:12 AM,2021-05-08
+3,3,5:10 AM W8583,,Hamilton (YHM),Cargojet Airways B763 (C-FCCJ),Landed 4:20 AM,2021-05-08
+4,4,5:35 AM SLQ7825,,Victoria (YYJ),SkyLink Express B190,Canceled,2021-05-08
+5,5,6:35 AM W8555,,Edmonton (YEG),Cargojet Airways B762 (C-FGAJ),Landed 6:28 AM,2021-05-08
+6,6,6:35 AM W8551,,Calgary (YYC),Cargojet Airways B763 (C-FGSJ),Landed 6:02 AM,2021-05-08
+7,7,7:04 AM 5X490,,Louisville (SDF),UPS A306 (N143UP),Landed 7:15 AM,2021-05-08
+8,8,7:05 AM FX142,,Memphis (MEM),FedEx B763 (N172FE),Landed 7:09 AM,2021-05-08
+9,9,7:13 AM AC235,,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 6:49 AM,2021-05-08
+10,10,7:25 AM AC203,,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 7:23 AM,2021-05-08
+11,11,7:26 AM AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GGND),Landed 7:11 AM,2021-05-08
+12,12,7:26 AM AC8543,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GNJZ),Landed 7:05 AM,2021-05-08
+13,13,7:30 AM AC8215,,Cranbrook (YXC),Air Canada Express DH8D (C-GJZY),Landed 6:55 AM,2021-05-08
+14,14,7:35 AM YB602,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-08
+15,15,7:43 AM,WS103,Calgary (YYC),WestJet B738 (C-GWWJ),Landed 7:30 AM,2021-05-08
+16,16,7:55 AM YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-08
+17,17,8:00 AM,AC26,Seoul (ICN),Air Canada B77W (C-FIVQ),Landed 7:20 AM,2021-05-08
+18,18,8:19 AM,WS3290,Prince George (YXS),WestJet DH8D (C-GLWJ),Landed 7:57 AM,2021-05-08
+19,19,8:20 AM YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-08
+20,20,8:20 AM YB4000,,Maple Bay (YAQ),Borajet DHT,Unknown,2021-05-08
+21,21,8:25 AM 8P102,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-08
+22,22,9:05 AM 8P860,,Port Hardy (YZT),Pacific Coastal Airlines -,Canceled,2021-05-08
+23,23,9:16 AM NTA201,,Prince George (YXS),- B350 (C-FNTA),Landed 9:15 AM,2021-05-08
+24,24,9:20 AM YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-08
+25,25,9:35 AM 8P202,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-08
+26,26,9:46 AM,AC103,Toronto (YYZ),Air Canada B788 (C-GHPV),Landed 9:26 AM,2021-05-08
+27,27,9:50 AM YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-08
+28,28,10:20 AM CRN811,,Kelowna (YLW),Aerocaribbean B350,Landed 10:19 AM,2021-05-08
+29,29,10:25 AM,F8801,Edmonton (YEG),Flair Airlines B738 (C-FFLA),Landed 10:07 AM,2021-05-08
+30,30,10:29 AM,AC301,Montreal (YUL),Air Canada B789 (C-FRSA),Landed 9:44 AM,2021-05-08
+31,31,10:29 AM AC8575,,Saskatoon (YXE),Air Canada Express CRJ9 (C-GJHZ),Landed 10:13 AM,2021-05-08
+32,32,10:35 AM YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-08
+33,33,10:38 AM AC8567,,Regina (YQR),Air Canada Express CRJ9 (C-FNJZ),Landed 10:26 AM,2021-05-08
+34,34,10:55 AM NCB860,,Fort St. John (YXJ),North Caribou Flying Service BE20,Landed 10:56 AM,2021-05-08
+35,35,11:15 AM,F8157,Regina (YQR),Flair Airlines B738 (C-FFLC),Landed 10:47 AM,2021-05-08
+36,36,11:15 AM,F8418,Fort McMurray (YMM),Flair Airlines B738 (C-FFLJ),Landed 10:38 AM,2021-05-08
+37,37,11:20 AM,AF74,Paris (CDG),Air France B772 (F-GSPJ),Landed 11:50 AM,2021-05-08
+38,38,11:42 AM,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-FJZD),Landed 11:32 AM,2021-05-08
+39,39,11:46 AM AC8563,,Smithers (YYD),Air Canada Express DH8D (C-GVJZ),Landed 11:23 AM,2021-05-08
+40,40,11:56 AM,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GJZD),Landed 11:47 AM,2021-05-08
+41,41,11:57 AM,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GXJZ),Landed 11:45 AM,2021-05-08
+42,42,11:57 AM,AC553,Los Angeles (LAX),Air Canada B38M (C-FSDW),Landed 11:58 AM,2021-05-08
+43,43,11:58 AM,AC8202,Prince George (YXS),Air Canada Express DH8D (C-GGNZ),Landed 11:38 AM,2021-05-08
+44,44,11:58 AM,AC8239,Terrace (YXT),Air Canada Express DH8D (C-GGNW),Landed 11:43 AM,2021-05-08
+45,45,12:00 PM TN68,,Papeete (PPT),Air Tahiti Nui B789 (F-OVAA),Landed 12:01 PM,2021-05-08
+46,46,12:25 PM AC213,,Calgary (YYC),Air Canada B38M (C-FSEQ),Landed 12:19 PM,2021-05-08
+47,47,12:26 PM AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GGND),Landed 12:14 PM,2021-05-08
+48,48,12:28 PM,AC241,Edmonton (YEG),Air Canada B38M (C-FSCY),Landed 12:24 PM,2021-05-08
+49,49,12:45 PM KE278,,Guadalajara (GDL),Korean Air Cargo B77L (HL8005),Landed 11:11 AM,2021-05-08
+50,50,12:45 PM 4N538,,Victoria (YYJ),Air North B735 (C-GANH),Landed 12:23 PM,2021-05-08
+51,51,1:16 PM AKN147,,Port Hardy (YZT),Alkan Air B190 (C-GNAJ),Diverted to YYJ,2021-05-08
+52,52,1:25 PM 8P454,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-08
+53,53,1:30 PM 8P554,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-08
+54,54,1:40 PM,UA5689,San Francisco (SFO),United Express E75L (N621UX),Landed 1:19 PM,2021-05-08
+55,55,1:45 PM YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-08
+56,56,1:46 PM NCB2200,,Calgary (YYC),North Cariboo Air B190 (C-FRNC),Landed 1:51 PM,2021-05-08
+57,57,1:57 PM AC2314,,Marana (MZJ),Air Canada B77W (C-FJZS),Landed 12:50 PM,2021-05-08
+58,58,2:40 PM,LH492,Frankfurt (FRA),Lufthansa A343 (D-AIGM),Landed 2:43 PM,2021-05-08
+59,59,2:40 PM MAL7076,,Victoria (YYJ),FedEx C208 (C-FEXB),Landed 2:37 PM,2021-05-08
+60,60,2:45 PM 8P1614,,Tofino (YAZ),Pacific Coastal Airlines -,Canceled,2021-05-08
+61,61,2:50 PM 8P208,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-08
+62,62,3:15 PM 8P346,,Bella Coola (QBC),Pacific Coastal Airlines -,Canceled,2021-05-08
+63,63,3:35 PM YB1320,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-08
+64,64,3:35 PM YB610,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-08
+65,65,3:41 PM AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GNJZ),Landed 3:10 PM,2021-05-08
+66,66,3:43 PM,AC305,Montreal (YUL),Air Canada BCS3 (C-GJYA),Landed 3:31 PM,2021-05-08
+67,67,3:50 PM 8P1414,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-08
+68,68,3:50 PM 8P801T,,Kamloops (YKA),Pacific Coastal Airlines SF34 (C-GPCN),Landed 3:36 PM,2021-05-08
+69,69,3:57 PM,WS119,Calgary (YYC),WestJet B737 (C-GWAZ),Landed 3:47 PM,2021-05-08
+70,70,4:03 PM,AC113,Toronto (YYZ),Air Canada BCS3 (C-GROV),Landed 3:54 PM,2021-05-08
+71,71,4:23 PM,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GSJZ),Landed 4:14 PM,2021-05-08
+72,72,4:35 PM YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-08
+73,73,4:37 PM CRN999,,Kelowna (YLW),Aerocaribbean C560,Unknown,2021-05-08
+74,74,4:45 PM,AC219,Calgary (YYC),Air Canada B38M (C-FSES),Landed 4:31 PM,2021-05-08
+75,75,4:50 PM YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-08
+76,76,4:50 PM,,Victoria (YYJ),- DH8D,Unknown,2021-05-08
+77,77,4:59 PM,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GJZY),Unknown,2021-05-08
+78,78,5:05 PM MF8683,,Fuzhou (FOC),Xiamen Air B789 (B-7836),Landed 5:08 PM,2021-05-08
+79,79,5:15 PM 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-08
+80,80,5:25 PM 8P9198,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Landed 5:31 PM,2021-05-08
+81,81,5:50 PM YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-08
+82,82,6:00 PM,AC221,Calgary (YYC),Air Canada B38M (C-FSEQ),Landed 5:42 PM,2021-05-08
+83,83,6:03 PM AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GBJZ),Landed 5:40 PM,2021-05-08
+84,84,6:05 PM 8P218,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-08
+85,85,6:13 PM AC247,,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 6:39 PM,2021-05-08
+86,86,6:16 PM AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GXJZ),Landed 5:53 PM,2021-05-08
+87,87,6:16 PM AC8421,,Kelowna (YLW),Air Canada Express DH8D (C-GGNW),Landed 5:55 PM,2021-05-08
+88,88,6:40 PM,AS3316,Seattle (SEA),Alaska SkyWest E75L (N186SY),Landed 6:42 PM,2021-05-08
+89,89,6:54 PM W8926,,Cincinnati (CVG),Cargojet Airways B752 (C-FKAJ),Landed 6:43 PM,2021-05-08
+90,90,6:56 PM,AC119,Toronto (YYZ),Air Canada B789 (C-FNOH),Landed 6:35 PM,2021-05-08
+91,91,6:59 PM,AA2263,Dallas (DFW),American Airlines A319 (N818AW),Landed 6:37 PM,2021-05-08
+92,92,7:06 PM CZ5053,,Guangzhou (CAN),China Southern Airlines B789 (B-20C6),Landed 7:08 PM,2021-05-08
+93,93,7:18 PM W82020,,Cincinnati (CVG),Cargojet Airways B752 (C-FKCJ),Landed 6:57 PM,2021-05-08
+94,94,7:59 PM,WS721,Toronto (YYZ),WestJet B738 (C-FWIJ),Landed 7:47 PM,2021-05-08
+95,95,8:03 PM,DL4476,Seattle (SEA),Delta Connection E75L (N298SY),Landed 7:43 PM,2021-05-08
+96,96,8:13 PM CRN611,,Prince George (YXS),Aerocaribbean -,Unknown,2021-05-08
+97,97,8:58 PM,AC311,Montreal (YUL),Air Canada B38M (C-FSIP),Landed 8:24 PM,2021-05-08
+98,98,10:26 PM,WS133,Calgary (YYC),WestJet B737 (C-GSWJ),Landed 10:39 PM,2021-05-08
+99,99,10:30 PM HU701,,Shanghai (PVG),Hainan Airlines A333 (B-1020),Landed 9:28 PM,2021-05-08
+100,100,10:31 PM,AC129,Toronto (YYZ),Air Canada B788 (C-GHPQ),Landed 10:21 PM,2021-05-08
+101,101,11:00 PM 3U9991,,-,Sichuan Airlines 330,Unknown,2021-05-08
+0,0,01:45 W8509,,Calgary (YYC),Cargojet Airways 76V,Unknown,2021-05-09
+1,1,02:11 W8511,,Calgary (YYC),Cargojet Airways B763 (C-GVIJ),Landed 01:57,2021-05-09
+2,2,03:00 CRN711,,Victoria (YYJ),Aerocaribbean B350,Unknown,2021-05-09
+3,3,07:10,AC8050,Victoria (YYJ),Air Canada Express DH8D (C-GJZY),Landed 06:55,2021-05-09
+4,4,07:13 AC235,,Edmonton (YEG),Air Canada BCS3 (C-GJYA),Landed 07:04,2021-05-09
+5,5,07:15 8P100,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCR),Landed 07:06,2021-05-09
+6,6,07:25 AC203,,Calgary (YYC),Air Canada B38M (C-FSEQ),Landed 07:29,2021-05-09
+7,7,07:26 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GXJZ),Landed 07:10,2021-05-09
+8,8,07:26 AC8543,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GJHZ),Landed 07:08,2021-05-09
+9,9,07:43,WS103,Calgary (YYC),WestJet B737 (C-GWSQ),Landed 07:39,2021-05-09
+10,10,08:20 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-09
+11,11,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-09
+12,12,09:09 MU7581,,Shanghai (PVG),China Eastern Airlines A359 (B-304N),Landed 09:09,2021-05-09
+13,13,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-09
+14,14,09:20 NTA201,,Prince George (YXS),- B350 (C-FNTA),Landed 09:19,2021-05-09
+15,15,09:40,F8813,Calgary (YYC),Flair Airlines B738 (C-FFLA),Landed 09:42,2021-05-09
+16,16,09:46 AC103,,Toronto (YYZ),Air Canada B789 (C-FGEO),Landed 09:17,2021-05-09
+17,17,09:50 YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-09
+18,18,09:55 8P701,,Comox (YQQ),Pacific Coastal Airlines B190 (C-GPCE),Landed 09:37,2021-05-09
+19,19,10:00,AC4,Tokyo (NRT),Air Canada B789 (C-FSBV),Landed 09:32,2021-05-09
+20,20,10:15 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Unknown,2021-05-09
+21,21,10:25,F8312,Winnipeg (YWG),Flair Airlines B738 (C-FFLJ),Landed 10:12,2021-05-09
+22,22,10:29,AC301,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 09:45,2021-05-09
+23,23,10:29 AC8575,,Saskatoon (YXE),Air Canada Express CRJ9 (C-FLJZ),Landed 10:03,2021-05-09
+24,24,10:38 AC8567,,Regina (YQR),Air Canada Express CRJ9 (C-GJZS),Landed 10:06,2021-05-09
+25,25,10:51,WS703,Toronto (YYZ),WestJet B38M (C-GEHF),Landed 11:07,2021-05-09
+26,26,10:55 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-09
+27,27,11:07 AC7292,,Shanghai (PVG),Air Canada B77W (C-FIVW),Landed 11:10,2021-05-09
+28,28,11:19 AC7280,,Seoul (ICN),Air Canada B789 (C-FRTW),Landed 11:19,2021-05-09
+29,29,11:20,F8102,Edmonton (YEG),Flair Airlines B738 (C-FFLC),Landed 10:47,2021-05-09
+30,30,11:42,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-FJFZ),Landed 11:40,2021-05-09
+31,31,11:45 4N539,,Whitehorse (YXY),Air North B735 (C-GANH),Landed 11:30,2021-05-09
+32,32,11:50 AC56,,Victoria (YYJ),Air Canada Express DH8D (C-GSJZ),Landed 11:55,2021-05-09
+33,33,11:55 AC8056,,Victoria (YYJ),Air Canada Express DH8D (C-GSJZ),Unknown,2021-05-09
+34,34,11:56,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GXJZ),Landed 11:43,2021-05-09
+35,35,11:57,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GVJZ),Landed 11:46,2021-05-09
+36,36,11:57,AC553,Los Angeles (LAX),Air Canada B38M (C-FSDB),Unknown,2021-05-09
+37,37,11:58 AC8202,,Prince George (YXS),Air Canada Express DH8D (C-GGNW),Landed 11:37,2021-05-09
+38,38,11:58 AC8239,,Terrace (YXT),Air Canada Express DH8D (C-GJZY),Landed 11:45,2021-05-09
+39,39,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-09
+40,40,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-09
+41,41,12:18 AC8890,,Whitehorse (YXY),Air Canada Express CRJ9 (C-GDJZ),Landed 11:56,2021-05-09
+42,42,12:25 AC213,,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 12:36,2021-05-09
+43,43,12:26 AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GJZD),Landed 11:54,2021-05-09
+44,44,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GNGV),Landed 12:40,2021-05-09
+45,45,12:41,,Campbell River (YBL),- SF34 (C-GPCN),Diverted to YBL,2021-05-09
+46,46,12:42 CRN911,,Trail (YZZ),Aerocaribbean BET,Landed 11:59,2021-05-09
+47,47,12:50 KE71,,Seoul (ICN),Korean Air A333 (HL8027),Landed 12:33,2021-05-09
+48,48,12:55 8P9198,,Bella Bella (ZEL),Pacific Coastal Airlines BE1,Landed 12:51,2021-05-09
+49,49,13:00 8P972,,Masset (ZMT),Pacific Coastal Airlines SF34 (C-FPCU),Landed 12:28,2021-05-09
+50,50,13:05 8P8000,,Campbell River (YBL),Pacific Coastal Airlines SF34 (C-GPCN),Unknown,2021-05-09
+51,51,13:15 TN67,,Paris (CDG),Air Tahiti Nui B789 (F-OVAA),Landed 12:54,2021-05-09
+52,52,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCL),Landed 13:12,2021-05-09
+53,53,13:30 8P707,,Comox (YQQ),Pacific Coastal Airlines BE1,Canceled,2021-05-09
+54,54,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-09
+55,55,13:40,UA5689,San Francisco (SFO),United Express E75L (N616UX),Landed 13:35,2021-05-09
+56,56,13:45 8P554,,Williams Lake (YWL),Pacific Coastal Airlines B190 (C-FWZK),Landed 13:25,2021-05-09
+57,57,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-09
+58,58,13:50 8P344,,Bella Coola (QBC),Pacific Coastal Airlines B190 (C-GPCE),Landed 13:37,2021-05-09
+59,59,14:26 NCB2202,,Nanaimo (YCD),North Cariboo Air B190 (C-FRNC),Landed 14:24,2021-05-09
+60,60,14:44 NCB860,,Prince George (YXS),North Caribou Flying Service BE20,Diverted to YXJ,2021-05-09
+61,61,15:05 9M761,,Castlegar (YCG),Central Mountain Air B190 (C-FCMU),Landed 14:22,2021-05-09
+62,62,15:10 8P456,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-09
+63,63,15:35 YB1320,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-09
+64,64,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GNJZ),Landed 15:05,2021-05-09
+65,65,15:43,AC305,Montreal (YUL),Air Canada (Trans-Canada Air Lines Livery) BCS3 (C-GNBN),Landed 15:28,2021-05-09
+66,66,15:46,AC113,Toronto (YYZ),Air Canada BCS3 (C-GMZR),Landed 15:55,2021-05-09
+67,67,15:55 TK75,,Istanbul (IST),Turkish Airlines B789 (TC-LLC),Landed 15:45,2021-05-09
+68,68,15:55 CRN611,,Kelowna (YLW),Aerocaribbean B350,Unknown,2021-05-09
+69,69,15:57 WS119,,Calgary (YYC),WestJet B737 (C-GWJG),Landed 15:51,2021-05-09
+70,70,16:15 8P1614,,Tofino (YAZ),Pacific Coastal Airlines B190 (C-GPCL),Landed 16:07,2021-05-09
+71,71,16:20 8P212,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-09
+72,72,16:23,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GGNW),Landed 16:05,2021-05-09
+73,73,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-09
+74,74,16:45,AC219,Calgary (YYC),Air Canada B38M (C-FSES),Landed 16:40,2021-05-09
+75,75,16:50 YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-09
+76,76,16:50 QK64,,Victoria (YYJ),Jazz Air DH8D,Unknown,2021-05-09
+77,77,16:50 8P1308,,Penticton (YYF),Pacific Coastal Airlines B190 (C-FWZK),Unknown,2021-05-09
+78,78,16:52,,Penticton (YYF),- B350 (C-FNTA),Landed 16:21,2021-05-09
+79,79,16:59,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GXJZ),Unknown,2021-05-09
+80,80,17:00 8P458,,Trail (YZZ),Pacific Coastal Airlines B190 (C-GPCR),Landed 16:51,2021-05-09
+81,81,17:09 CRN999,,Terrace (YXT),Aerocaribbean C560,Unknown,2021-05-09
+82,82,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-09
+83,83,17:35 8P866,,Port Hardy (YZT),Pacific Coastal Airlines -,Canceled,2021-05-09
+84,84,17:45 4N560,,Kelowna (YLW),Air North B735 (C-GANH),Landed 17:29,2021-05-09
+85,85,17:49 AC8229,,Phoenix (PHX),Air Canada Express CRJ9 (C-GJHZ),Landed 17:47,2021-05-09
+86,86,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-09
+87,87,18:00,AC221,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 17:45,2021-05-09
+88,88,18:00 WS167,,Edmonton (YEG),WestJet B737 (C-GWBF),Landed 17:57,2021-05-09
+89,89,18:00 8P560,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-09
+90,90,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GVJZ),Unknown,2021-05-09
+91,91,18:05 8P610,,Cranbrook (YXC),Sunwest Aviation B190 (C-GSWV),Landed 17:40,2021-05-09
+92,92,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GNGV),Landed 17:52,2021-05-09
+93,93,18:16 AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GJZY),Landed 18:00,2021-05-09
+94,94,18:16 AC8421,,Kelowna (YLW),Air Canada Express DH8D (C-GGOI),Unknown,2021-05-09
+95,95,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N186SY),Landed 18:13,2021-05-09
+96,96,18:48 BR10,,Taipei (TPE),EVA Air B78X (B-17802),Landed 18:51,2021-05-09
+97,97,18:56,AC119,Toronto (YYZ),Air Canada B789 (C-FRTG),Landed 18:20,2021-05-09
+98,98,18:59,AA2263,Dallas (DFW),American Airlines A319 (N749US),Landed 18:39,2021-05-09
+99,99,19:15 8P238,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Unknown,2021-05-09
+100,100,19:20 8P1210,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-GPCL),Landed 19:08,2021-05-09
+101,101,19:40 8P715,,Comox (YQQ),Pacific Coastal Airlines B190 (C-GPCE),Landed 19:26,2021-05-09
+102,102,19:53 AKN127,,Prince George (YXS),Alkan Air -,Unknown,2021-05-09
+103,103,19:59,WS721,Toronto (YYZ),WestJet B737 (C-GSWJ),Landed 19:32,2021-05-09
+104,104,20:03,DL4476,Seattle (SEA),Delta Connection E75L (N281SY),Landed 19:39,2021-05-09
+105,105,21:13,AC311,Montreal (YUL),Air Canada BCS3 (C-GNBE),Landed 20:51,2021-05-09
+106,106,22:26,WS133,Calgary (YYC),WestJet B738 (C-GJWS),Landed 22:19,2021-05-09
+107,107,22:48,AC129,Toronto (YYZ),Air Canada B789 (C-FNOE),Landed 21:56,2021-05-09
+108,108,23:00 3U9991,,-,Sichuan Airlines 330,Unknown,2021-05-09
+109,109,23:45,F8133,Toronto (YYZ),Flair Airlines B738 (C-FFLA),Landed 23:03,2021-05-09
+0,0,01:02 W8545,,Calgary (YYC),Cargojet Airways B763 (C-GVIJ),Landed 01:15,2021-05-10
+1,1,01:33 W81302,,Tokyo (NRT),Cargojet Airways B763 (C-GYAJ),Landed 01:34,2021-05-10
+2,2,01:45 W8513,,Calgary (YYC),Cargojet Airways 76V,Unknown,2021-05-10
+3,3,01:45 W8515,,Edmonton (YEG),Cargojet Airways B763 (C-FCAE),Unknown,2021-05-10
+4,4,01:55 W81792,,Tokyo (NRT),Cargojet Airways B763 (C-FCCJ),Landed 01:57,2021-05-10
+5,5,03:43 AC7293,,Chicago (ORD),Air Canada B77W (C-FIVW),Landed 03:19,2021-05-10
+6,6,04:44 MAL7055,,Calgary (YYC),FedEx B752 (C-FMEK),Landed 03:59,2021-05-10
+7,7,04:45 SLQ7825,,Victoria (YYJ),SkyLink Express B190,Landed 03:08,2021-05-10
+8,8,05:25 FX242,,Memphis (MEM),FedEx B763 (N176FE),Landed 05:08,2021-05-10
+9,9,06:01 W8926,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Landed 05:48,2021-05-10
+10,10,06:51 MAL8070,,Victoria (YYJ),FedEx C208 (C-FEXB),Landed 06:45,2021-05-10
+11,11,07:10,AC8050,Victoria (YYJ),Air Canada Express DH8D (C-GXJZ),Landed 06:55,2021-05-10
+12,12,07:13 AC235,,Edmonton (YEG),Air Canada BCS3 (C-GMZN),Landed 07:27,2021-05-10
+13,13,07:25 AC203,,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 07:22,2021-05-10
+14,14,07:25 8P100,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-FMCN),Unknown,2021-05-10
+15,15,07:26 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GBJZ),Landed 07:07,2021-05-10
+16,16,07:26 AC8543,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GJZS),Landed 07:24,2021-05-10
+17,17,07:30 AC8215,,Cranbrook (YXC),Air Canada Express DH8D (C-GJZD),Landed 06:50,2021-05-10
+18,18,07:30 8P200,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-10
+19,19,07:43,WS103,Calgary (YYC),WestJet B737 (C-GWAZ),Landed 07:43,2021-05-10
+20,20,07:49 MAL8071,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 07:32,2021-05-10
+21,21,08:00,WS3325,Kelowna (YLW),WestJet DH8D (C-GJEN),Landed 07:39,2021-05-10
+22,22,08:16,WS161,Edmonton (YEG),WestJet B737 (C-GWJG),Landed 07:59,2021-05-10
+23,23,08:17,WS3114,Victoria (YYJ),WestJet DH8D (C-GENU),Landed 08:05,2021-05-10
+24,24,08:19,WS3290,Prince George (YXS),WestJet DH8D (C-GEWR),Landed 07:53,2021-05-10
+25,25,08:19 MAL8072,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 08:00,2021-05-10
+26,26,08:20 MF805,,Xiamen (XMN),Xiamen Air B789 (B-1567),Landed 08:19,2021-05-10
+27,27,08:20 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-10
+28,28,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-10
+29,29,08:25 8P102,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-10
+30,30,08:25 K41917,,Seattle (SEA),Kalitta Air B763 (N764CK),Landed 08:24,2021-05-10
+31,31,08:44 MAL8050,,Nanaimo (YCD),FedEx C208 (C-FFXD),Landed 08:39,2021-05-10
+32,32,08:50,,Kelowna (YLW),- PC24 (C-FMHR),Landed 08:31,2021-05-10
+33,33,09:15,AF75,Papeete (PPT),Air France B772 (F-GSPJ),Landed 08:40,2021-05-10
+34,34,09:19 CRN8081,,Kelowna (YLW),Aerocaribbean SW4,Landed 09:06,2021-05-10
+35,35,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-10
+36,36,09:35 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-GPCE),Landed 09:21,2021-05-10
+37,37,09:43 MAL8051,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 09:18,2021-05-10
+38,38,09:46,AC103,Toronto (YYZ),Air Canada B789 (C-FGDT),Landed 09:23,2021-05-10
+39,39,09:50 YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-10
+40,40,09:55 8P701,,Comox (YQQ),Pacific Coastal Airlines B190 (C-FWZK),Landed 09:48,2021-05-10
+41,41,10:15,,Prince George (YXS),- B350,Unknown,2021-05-10
+42,42,10:23 QK7193,,Vancouver (YVR),Jazz Air CRJ9,Landed 09:55,2021-05-10
+43,43,10:25,F8513,Saskatoon (YXE),Flair Airlines B738 (C-FFLC),Landed 09:41,2021-05-10
+44,44,10:29,AC301,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 09:52,2021-05-10
+45,45,10:29,AC8575,Saskatoon (YXE),Air Canada Express CRJ9 (C-FKJZ),Unknown,2021-05-10
+46,46,10:38,AC8567,Regina (YQR),Air Canada Express CRJ9 (C-FJZD),Landed 10:13,2021-05-10
+47,47,10:51 WS703,,Toronto (YYZ),WestJet B38M (C-FNWD),Landed 10:16,2021-05-10
+48,48,10:55 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-10
+49,49,10:55 MAL8073,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 09:58,2021-05-10
+50,50,11:02 CRN999,,Port Hardy (YZT),Aerocaribbean C560,Unknown,2021-05-10
+51,51,11:05 8P862,,Port Hardy (YZT),Pacific Coastal Airlines B190 (C-GPCY),Landed 10:58,2021-05-10
+52,52,11:10 8P552,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-10
+53,53,11:15 AC8,,Hong Kong (HKG),Air Canada B789 (C-FVLX),Landed 10:45,2021-05-10
+54,54,11:40,AC64,Seoul (ICN),Air Canada B789 (C-FSBV),Landed 10:52,2021-05-10
+55,55,11:42,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-FLJZ),Landed 11:30,2021-05-10
+56,56,11:45 4N533,,Whitehorse (YXY),Air North B735 (C-GANH),Landed 11:29,2021-05-10
+57,57,11:50 8P9196,,Bella Coola (QBC),Pacific Coastal Airlines B190 (C-FWZK),Canceled,2021-05-10
+58,58,11:55,AC8056,Victoria (YYJ),Air Canada Express DH8D (C-GGOI),Landed 11:43,2021-05-10
+59,59,11:56,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GJZD),Landed 11:50,2021-05-10
+60,60,11:57,AC553,Los Angeles (LAX),Air Canada B38M (C-FSDB),Landed 12:15,2021-05-10
+61,61,11:57,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GSJZ),Landed 11:50,2021-05-10
+62,62,11:58,AC8239,Terrace (YXT),Air Canada Express DH8D (C-GXJZ),Landed 11:32,2021-05-10
+63,63,11:58,AC8202,Prince George (YXS),Air Canada Express DH8D (C-GGNW),Landed 11:43,2021-05-10
+64,64,12:03 AC7292,,Shanghai (PVG),Air Canada B77W (C-FKAU),Landed 12:03,2021-05-10
+65,65,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-10
+66,66,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-10
+67,67,12:15 8P1524,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-10
+68,68,12:18,AC8890,Whitehorse (YXY),Air Canada Express CRJ9 (C-FNJZ),Landed 11:57,2021-05-10
+69,69,12:25 AC213,,Calgary (YYC),Air Canada B38M (C-FSES),Landed 12:33,2021-05-10
+70,70,12:26 AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GBJZ),Landed 12:00,2021-05-10
+71,71,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GMZN),Landed 12:24,2021-05-10
+72,72,12:45 8P1304,,Penticton (YYF),Pacific Coastal Airlines -,Canceled,2021-05-10
+73,73,12:50 YB606,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-10
+74,74,12:55 8P9194,,Bella Bella (ZEL),Sunwest Aviation B190 (C-GSWV),Landed 12:40,2021-05-10
+75,75,13:00 8P9192,,Fort Nelson (YYE),Pacific Coastal Airlines B190 (C-FMCN),Landed 13:26,2021-05-10
+76,76,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCR),Landed 13:12,2021-05-10
+77,77,13:25 8P7008,,Terrace (YXT),Pacific Coastal Airlines SF34 (C-FPCU),Landed 13:30,2021-05-10
+78,78,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-10
+79,79,13:34 WS163,,Edmonton (YEG),WestJet B738 (C-GKWJ),Landed 13:08,2021-05-10
+80,80,13:40,UA5689,San Francisco (SFO),United Express E75L (N625UX),Landed 13:51,2021-05-10
+81,81,13:40 8P554,,Williams Lake (YWL),Pacific Coastal Airlines B190 (C-GPCE),Landed 13:20,2021-05-10
+82,82,13:41 W81302,,Chicago (ORD),Cargojet Airways B763 (C-GYAJ),Landed 13:37,2021-05-10
+83,83,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-10
+84,84,13:45 8P972,,Masset (ZMT),Pacific Coastal Airlines -,Canceled,2021-05-10
+85,85,14:00 8P341,,Anahim Lake (YAA),Pacific Coastal Airlines -,Canceled,2021-05-10
+86,86,14:09,WS3106,Terrace (YXT),WestJet DH8D (C-GEWR),Landed 13:45,2021-05-10
+87,87,14:35 8P208,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-10
+88,88,14:40,LH492,Frankfurt (FRA),Lufthansa A343 (D-AIGZ),Landed 14:18,2021-05-10
+89,89,14:50,NH116,Tokyo (HND),All Nippon Airways B789 (JA895A),Landed 14:27,2021-05-10
+90,90,15:05,F8807,Waterloo (YKF),Flair Airlines B738 (C-FFLJ),Landed 14:33,2021-05-10
+91,91,15:05 9M761,,Castlegar (YCG),Central Mountain Air B190,Unknown,2021-05-10
+92,92,15:08,,Prince George (YXS),- BE20 (C-FAKN),Landed 20:08,2021-05-10
+93,93,15:30 W8301,,Calgary (YYC),Cargojet Airways B763 (C-FGSJ),Landed 14:05,2021-05-10
+94,94,15:35 CRN511,,Williams Lake (YWL),Aerocaribbean B190,Unknown,2021-05-10
+95,95,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-GJZS),Landed 15:18,2021-05-10
+96,96,15:43,AC305,Montreal (YUL),Air Canada BCS3 (C-GNAM),Landed 14:58,2021-05-10
+97,97,15:57 WS119,,Calgary (YYC),WestJet B738 (C-GWWJ),Landed 15:44,2021-05-10
+98,98,16:03 AC113,,Toronto (YYZ),Air Canada BCS3 (C-GJYE),Landed 15:38,2021-05-10
+99,99,16:15 8P1614,,Tofino (YAZ),Pacific Coastal Airlines -,Canceled,2021-05-10
+100,100,16:23,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GGNW),Landed 16:12,2021-05-10
+101,101,16:23 SLQ711,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-10
+102,102,16:25 SLQ751,,Kelowna (YLW),SkyLink Express B190,Landed 16:19,2021-05-10
+103,103,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-10
+104,104,16:38 MAL7052,,Nanaimo (YCD),FedEx C208 (C-FFXD),Landed 16:34,2021-05-10
+105,105,16:40 8P1206,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-GPCE),Landed 16:29,2021-05-10
+106,106,16:41 SLQ713,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 16:32,2021-05-10
+107,107,16:45,AC219,Calgary (YYC),Air Canada 7M8,Unknown,2021-05-10
+108,108,16:50 YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-10
+109,109,16:51 MAL7074,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 16:42,2021-05-10
+110,110,16:55 8P458,,Trail (YZZ),Pacific Coastal Airlines B190 (C-FWZK),Landed 16:38,2021-05-10
+111,111,16:59,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GGMU),Unknown,2021-05-10
+112,112,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-10
+113,113,17:45 4N563,,Whitehorse (YXY),Air North 735,Unknown,2021-05-10
+114,114,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-10
+115,115,17:50 8P610,,Cranbrook (YXC),Pacific Coastal Airlines B190 (C-GPCY),Landed 17:33,2021-05-10
+116,116,17:59 SLQ467,,Nanaimo (YCD),SkyLink Express C208,Landed 18:08,2021-05-10
+117,117,18:00,AC221,Calgary (YYC),Air Canada B38M (C-FSCY),Landed 17:47,2021-05-10
+118,118,18:00,WS167,Edmonton (YEG),WestJet B737 (C-GWJG),Landed 17:51,2021-05-10
+119,119,18:01 SLQ521,,Victoria (YYJ),Skylink Express C208 (C-GLGA),Landed 18:05,2021-05-10
+120,120,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GGND),Landed 17:40,2021-05-10
+121,121,18:09,WS3298,Prince George (YXS),WestJet DH8D (C-GEWR),Unknown,2021-05-10
+122,122,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 18:00,2021-05-10
+123,123,18:16 AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GSJZ),Landed 17:53,2021-05-10
+124,124,18:16 AC8421,,Kelowna (YLW),Air Canada Express DH8D (C-GJZD),Landed 18:04,2021-05-10
+125,125,18:33 QK2279,,Terrace (YXT),Air Canada Express DH8D (C-GVJZ),Landed 18:17,2021-05-10
+126,126,18:39 FK574,,Victoria (YYJ),Kelowna Flightcraft Air CVLT,Unknown,2021-05-10
+127,127,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N186SY),Landed 18:33,2021-05-10
+128,128,18:41 FK576,,Kelowna (YLW),Kelowna Flightcraft Air CVLT,Landed 18:09,2021-05-10
+129,129,18:56,AC119,Toronto (YYZ),Air Canada B789 (C-FRSI),Landed 18:23,2021-05-10
+130,130,18:58 BR10,,Taipei (TPE),EVA Air B78X (B-17806),Landed 18:59,2021-05-10
+131,131,18:59,AA2263,Dallas (DFW),American Airlines A320 (N601AW),Landed 18:43,2021-05-10
+132,132,19:00,AC64,Victoria (YYJ),Air Canada Express DH8D (C-GGMU),Landed 18:51,2021-05-10
+133,133,19:12 QK2265,,Nanaimo (YCD),Jazz Air DH8D,Unknown,2021-05-10
+134,134,19:15 8P238,,Powell River (YPW),Pacific Coastal Airlines B190 (C-GPCE),Landed 19:01,2021-05-10
+135,135,19:40 8P715,,Comox (YQQ),Pacific Coastal Airlines B190 (C-FMCN),Landed 19:27,2021-05-10
+136,136,19:59,WS721,Toronto (YYZ),WestJet B737 (C-FWCN),Landed 19:30,2021-05-10
+137,137,20:03,DL4476,Seattle (SEA),Delta Connection E75L (N275SY),Landed 19:44,2021-05-10
+138,138,20:22 CZ5053,,Guangzhou (CAN),China Southern Airlines B789 (B-20CJ),Landed 20:22,2021-05-10
+139,139,20:40 8P562,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-10
+140,140,20:58,AC311,Montreal (YUL),Air Canada B38M (C-FSEQ),Landed 20:26,2021-05-10
+141,141,21:59 HU433,,Beijing (PEK),Hainan Airlines A333 (B-1021),Landed 21:52,2021-05-10
+142,142,22:15 CRN711,,Bella Coola (QBC),Carson Air B350 (C-GILK),Landed 21:47,2021-05-10
+143,143,22:26,WS133,Calgary (YYC),WestJet B737 (C-GWJG),Landed 22:18,2021-05-10
+144,144,22:48,AC129,Toronto (YYZ),Air Canada B788 (C-GHQY),Landed 22:05,2021-05-10
+145,145,23:00 3U9991,,-,Sichuan Airlines 330,Unknown,2021-05-10
+0,0,03:45 W8569,,Hamilton (YHM),Cargojet Airways B763 (C-FPIJ),Landed 03:20,2021-05-11
+1,1,03:45 AC7293,,Chicago (ORD),Air Canada B77W (C-FKAU),Landed 03:33,2021-05-11
+2,2,04:25 W8583,,Calgary (YYC),Cargojet Airways B752 (C-FGKJ),Landed 03:55,2021-05-11
+3,3,04:30 W8567,,Winnipeg (YWG),CargoJet Airways B763 (C-GCIJ),Landed 02:37,2021-05-11
+4,4,04:45 SLQ7825,,Victoria (YYJ),SkyLink Express B190,Landed 02:49,2021-05-11
+5,5,04:47 MAL7051,,Calgary (YYC),FedEx B752 (N976FD),Landed 04:27,2021-05-11
+6,6,05:19 MAL7079,,Toronto (YYZ),FedEx B752 (C-FMOC),Landed 04:29,2021-05-11
+7,7,05:45 W8589,,Hamilton (YHM),Cargojet Airways B752 (C-FKCJ),Landed 05:05,2021-05-11
+8,8,06:12 5X490,,Louisville (SDF),UPS A306 (N137UP),Landed 06:32,2021-05-11
+9,9,06:57 MAL8070,,Victoria (YYJ),FedEx C208 (C-FEXB),Landed 06:36,2021-05-11
+10,10,07:09 AC7304,,Auckland (AKL),Air Canada B77W (C-FNNQ),Landed 07:10,2021-05-11
+11,11,07:13 AC235,,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 07:07,2021-05-11
+12,12,07:16 FX142,,Memphis (MEM),FedEx B763 (N297FE),Landed 08:05,2021-05-11
+13,13,07:25 AC203,,Calgary (YYC),Air Canada B38M (C-FSCY),Landed 07:13,2021-05-11
+14,14,07:25 8P100,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-11
+15,15,07:26 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GGMI),Landed 07:05,2021-05-11
+16,16,07:26 AC8543,,Winnipeg (YWG),Air Canada Express CRJ9 (C-FKJZ),Landed 07:01,2021-05-11
+17,17,07:30 AC8215,,Cranbrook (YXC),Air Canada Express DH8D (C-GJZY),Landed 07:03,2021-05-11
+18,18,07:30 8P200,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-11
+19,19,07:35 YB602,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-11
+20,20,07:43,WS103,Calgary (YYC),WestJet B738 (C-FWJS),Landed 07:36,2021-05-11
+21,21,07:49 MAL8071,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 07:21,2021-05-11
+22,22,07:55 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-11
+23,23,07:56 SLQ7703,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 07:53,2021-05-11
+24,24,08:00 MAL8050,,Nanaimo (YCD),FedEx C208 (C-FFXD),Landed 08:02,2021-05-11
+25,25,08:05 YB4000,,Maple Bay (YAQ),Borajet DHT,Unknown,2021-05-11
+26,26,08:15 MAL8072,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 08:10,2021-05-11
+27,27,08:16,,Kelowna (YLW),- CL60 (C-GJDS),Landed 07:45,2021-05-11
+28,28,08:17,WS3114,Victoria (YYJ),WestJet DH8D (C-GEWR),Landed 08:04,2021-05-11
+29,29,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-11
+30,30,08:20 8P860,,Port Hardy (YZT),Pacific Coastal Airlines -,Canceled,2021-05-11
+31,31,08:25 8P102,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-11
+32,32,08:47 W8926,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Landed 08:30,2021-05-11
+33,33,09:03 CRN8081,,Kelowna (YLW),Aerocaribbean SW4,Landed 08:49,2021-05-11
+34,34,09:05 MU215,,Nanjing (NKG),China Eastern Airlines A359 (B-321J),Landed 08:08,2021-05-11
+35,35,09:10 NTA201,,Prince George (YXS),- B350 (C-FNTA),Landed 09:11,2021-05-11
+36,36,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-11
+37,37,09:35 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-GPCE),Unknown,2021-05-11
+38,38,09:43 MAL8051,,Nanaimo (YCD),Morningstar Air Express C208,Unknown,2021-05-11
+39,39,09:46 AC103,,Toronto (YYZ),Air Canada B789 (C-FRSA),Landed 09:15,2021-05-11
+40,40,09:50 YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-11
+41,41,09:55 8P701,,Comox (YQQ),Pacific Coastal Airlines B190 (C-FWZK),Landed 09:45,2021-05-11
+42,42,09:59 K41917,,Seattle (SEA),Kalitta Air B763 (N764CK),Landed 09:49,2021-05-11
+43,43,10:29,AC301,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 09:41,2021-05-11
+44,44,10:29 AC8575,,Saskatoon (YXE),Air Canada Express CRJ9 (C-FNJZ),Landed 10:16,2021-05-11
+45,45,10:35 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-11
+46,46,10:38 AC8567,,Regina (YQR),Air Canada Express CRJ9 (C-FCJZ),Landed 10:12,2021-05-11
+47,47,10:51,WS703,Toronto (YYZ),WestJet B737 (C-GVWJ),Landed 10:26,2021-05-11
+48,48,10:56 SLQ7768,,Prince George (YXS),SkyLink Express B190,Landed 10:51,2021-05-11
+49,49,11:08 MAL8073,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 11:05,2021-05-11
+50,50,11:10 8P552,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-11
+51,51,11:15,F8157,Regina (YQR),Flair Airlines B738 (C-FFLC),Landed 10:42,2021-05-11
+52,52,11:16 AC7292,,Shanghai (PVG),Air Canada B77W (C-FIVW),Landed 11:45,2021-05-11
+53,53,11:32 NTA202,,Terrace (YXT),- B350 (C-GBCN),Landed 11:33,2021-05-11
+54,54,11:40,JL18,Tokyo (NRT),Japan Airlines B788 (JA844J),Landed 10:55,2021-05-11
+55,55,11:42,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-GJHZ),Landed 11:30,2021-05-11
+56,56,11:45 AC56,,Victoria (YYJ),Air Canada Express DH8D (C-GVJZ),Landed 12:00,2021-05-11
+57,57,11:46 AC8563,,Smithers (YYD),Air Canada Express DH8D (C-GXJZ),Landed 11:26,2021-05-11
+58,58,11:55,AC8056,Victoria (YYJ),Air Canada Express DH8D (C-GVJZ),Unknown,2021-05-11
+59,59,11:56,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GJZY),Landed 11:35,2021-05-11
+60,60,11:57,AC553,Los Angeles (LAX),Air Canada B38M (C-FSDB),Unknown,2021-05-11
+61,61,11:57,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GGOI),Landed 11:54,2021-05-11
+62,62,11:58,AC8202,Prince George (YXS),Air Canada Express DH8D (C-GJZD),Landed 11:42,2021-05-11
+63,63,11:58,AC8239,Terrace (YXT),Air Canada Express DH8D (C-GGOF),Unknown,2021-05-11
+64,64,12:05,KL681,Amsterdam (AMS),KLM A333 (PH-AKD),Landed 11:43,2021-05-11
+65,65,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-11
+66,66,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-11
+67,67,12:15 8P1524,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-11
+68,68,12:19 CRN611,,Vernon (YVE),Carson Air B350 (C-FKTE),Landed 10:49,2021-05-11
+69,69,12:19 WG9010,,Vancouver (YVR),Sunwing Airlines B738 (C-GBZS),Landed 11:36,2021-05-11
+70,70,12:25 AC213,,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 12:19,2021-05-11
+71,71,12:26 AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GGMI),Landed 11:47,2021-05-11
+72,72,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 12:15,2021-05-11
+73,73,12:50 KE71,,Seoul (ICN),Korean Air A333 (HL8026),Landed 12:29,2021-05-11
+74,74,12:50 YB606,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-11
+75,75,12:50 8P1304,,Penticton (YYF),Pacific Coastal Airlines -,Canceled,2021-05-11
+76,76,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCR),Landed 13:05,2021-05-11
+77,77,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-11
+78,78,13:40,UA5689,San Francisco (SFO),United Express E75L (N204SY),Landed 13:29,2021-05-11
+79,79,13:40 8P554,,Williams Lake (YWL),Pacific Coastal Airlines B190 (C-FWZK),Landed 13:27,2021-05-11
+80,80,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-11
+81,81,13:45 8P7008,,Terrace (YXT),Pacific Coastal Airlines SF34 (C-FPCU),Landed 13:51,2021-05-11
+82,82,13:50 8P344,,Bella Coola (QBC),Pacific Coastal Airlines B190 (C-GPCE),Landed 13:31,2021-05-11
+83,83,14:35 8P208,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-11
+84,84,14:40,LH492,Frankfurt (FRA),Lufthansa A333 (D-AIKH),Landed 14:30,2021-05-11
+85,85,15:00 8P1614,,Tofino (YAZ),Pacific Coastal Airlines -,Canceled,2021-05-11
+86,86,15:30 W8301,,Calgary (YYC),Cargojet Airways B763 (C-GYAJ),Landed 14:27,2021-05-11
+87,87,15:30 8P9192,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-FMCN),Unknown,2021-05-11
+88,88,15:35 YB610,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-11
+89,89,15:38 MAL7090,,Calgary (YYC),FedEx B752 (C-FMEK),Landed 15:02,2021-05-11
+90,90,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-FKJZ),Landed 15:23,2021-05-11
+91,91,15:43,AC305,Montreal (YUL),Air Canada BCS3 (C-GJYE),Landed 15:05,2021-05-11
+92,92,15:45 8P974,,Masset (ZMT),Pacific Coastal Airlines SF34 (C-FPCZ),Landed 15:15,2021-05-11
+93,93,15:46 AC113,,Toronto (YYZ),Air Canada BCS3 (C-GMZN),Landed 15:28,2021-05-11
+94,94,15:55 TK75,,Istanbul (IST),Turkish Airlines B789 (TC-LLC),Landed 15:36,2021-05-11
+95,95,15:57 WS119,,Calgary (YYC),WestJet B737 (C-GWAZ),Landed 15:50,2021-05-11
+96,96,16:12 CRN999,,Prince George (YXS),Aerocaribbean C560,Unknown,2021-05-11
+97,97,16:23,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GJZD),Landed 16:07,2021-05-11
+98,98,16:23 SLQ711,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-11
+99,99,16:25 SLQ751,,Kelowna (YLW),SkyLink Express B190,Landed 16:24,2021-05-11
+100,100,16:32 MAL7052,,Nanaimo (YCD),FedEx C208 (C-FFXD),Landed 16:31,2021-05-11
+101,101,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-11
+102,102,16:40 MAL7074,,Victoria (YYJ),FedEx C208 (C-FEXN),Landed 16:38,2021-05-11
+103,103,16:40 8P1206,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-FWZK),Unknown,2021-05-11
+104,104,16:41 SLQ713,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 16:29,2021-05-11
+105,105,16:45,AC219,Calgary (YYC),Air Canada BCS3 (C-GMZR),Landed 16:42,2021-05-11
+106,106,16:50 YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-11
+107,107,16:55 8P458,,Trail (YZZ),Sunwest Aviation B190 (C-GSWV),Landed 16:39,2021-05-11
+108,108,16:59,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GVJZ),Unknown,2021-05-11
+109,109,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-11
+110,110,17:45 4N563,,Whitehorse (YXY),Air North B734 (C-FANB),Landed 17:42,2021-05-11
+111,111,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-11
+112,112,17:50 8P610,,Cranbrook (YXC),Pacific Coastal Airlines B190 (C-GPCR),Landed 17:25,2021-05-11
+113,113,17:59 SLQ467,,Nanaimo (YCD),Skylink Express C208 (C-GLGA),Landed 18:00,2021-05-11
+114,114,18:00,AC221,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 17:59,2021-05-11
+115,115,18:00,WS167,Edmonton (YEG),WestJet B738 (C-GWWJ),Landed 17:46,2021-05-11
+116,116,18:01 SLQ521,,Victoria (YYJ),SkyLink Express C208,Unknown,2021-05-11
+117,117,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GBJZ),Landed 17:37,2021-05-11
+118,118,18:05 8P218,,Powell River (YPW),Pacific Coastal Airlines B190 (C-GPCE),Landed 17:50,2021-05-11
+119,119,18:09,WS3298,Prince George (YXS),WestJet DH8D (C-GJEN),Landed 17:55,2021-05-11
+120,120,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GJXV),Landed 17:52,2021-05-11
+121,121,18:16 AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GSJZ),Landed 17:53,2021-05-11
+122,122,18:16 AC8421,,Kelowna (YLW),Air Canada DH4,Unknown,2021-05-11
+123,123,18:32 FK578,,Kamloops (YKA),KF Aero CVLP (C-GKFF),Landed 18:31,2021-05-11
+124,124,18:39 FK574,,Victoria (YYJ),Kelowna Flightcraft Air CVLT,Unknown,2021-05-11
+125,125,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N186SY),Landed 18:19,2021-05-11
+126,126,18:41 FK576,,Kelowna (YLW),KF Aero CVLP (C-GKFG),Unknown,2021-05-11
+127,127,18:56,AC119,Toronto (YYZ),Air Canada B789 (C-FVLX),Landed 18:23,2021-05-11
+128,128,18:59,AA2263,Dallas (DFW),American Airlines A320,Canceled,2021-05-11
+129,129,19:00 QK64,,Victoria (YYJ),Jazz Air DH8D,Unknown,2021-05-11
+130,130,19:31 AKN127,,Port Hardy (YZT),Alkan Air B350,Landed 19:10,2021-05-11
+131,131,19:40 8P715,,Comox (YQQ),Pacific Coastal Airlines B190 (C-FWZK),Landed 19:20,2021-05-11
+132,132,19:59,WS721,Toronto (YYZ),WestJet B737 (C-GWJG),Landed 19:13,2021-05-11
+133,133,20:03,DL4476,Seattle (SEA),Delta Connection E75L (N265SY),Landed 19:37,2021-05-11
+134,134,20:03 NCB1541,,Terrace (YXT),North Cariboo Air RJ1H (C-GSUI),Landed 19:25,2021-05-11
+135,135,20:40 8P562,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-11
+136,136,20:58,AC311,Montreal (YUL),Air Canada B38M (C-FSIP),Landed 20:34,2021-05-11
+137,137,21:06 3U8501,,Chengdu (CTU),Sichuan Airlines A359 (B-304U),Landed 20:58,2021-05-11
+138,138,22:26,WS133,Calgary (YYC),WestJet B737 (C-GCWJ),Landed 22:17,2021-05-11
+139,139,22:30 HU701,,Shanghai (PVG),Hainan Airlines A333 (B-1097),Landed 00:57,2021-05-11
+140,140,22:31,AC129,Toronto (YYZ),Air Canada B788 (C-GHQY),Landed 22:10,2021-05-11
+141,141,23:00 3U9991,,-,Sichuan Airlines 330,Unknown,2021-05-11
+0,0,00:24 CRN888,,Prince George (YXS),Aerocaribbean C560,Unknown,2021-05-12
+1,1,03:45 W8569,,Hamilton (YHM),Cargojet Airways B763 (C-GXAJ),Landed 03:14,2021-05-12
+2,2,04:14 MAL7949,,Calgary (YYC),FedEx B752 (C-FMEP),Unknown,2021-05-12
+3,3,04:25 W8583,,Calgary (YYC),Cargojet Airways B752 (C-FGKJ),Landed 03:48,2021-05-12
+4,4,04:30 W8567,,Winnipeg (YWG),Cargojet Airways B763 (C-FGSJ),Landed 03:31,2021-05-12
+5,5,04:45 SLQ7825,,Victoria (YYJ),SkyLink Express B190,Unknown,2021-05-12
+6,6,05:19 MAL7079,,Toronto (YYZ),FedEx B752 (C-FMEU),Landed 04:28,2021-05-12
+7,7,05:45 W8589,,Hamilton (YHM),Cargojet Airways B752 (C-FKCJ),Landed 04:36,2021-05-12
+8,8,06:12 5X490,,Louisville (SDF),UPS A306 (N142UP),Landed 06:45,2021-05-12
+9,9,06:41 MAL8070,,Victoria (YYJ),FedEx C208 (C-FEXB),Landed 06:42,2021-05-12
+10,10,07:02 SIS302,,Van Nuys (VNY),Silver Air CL30 (N302LT),Landed 07:10,2021-05-12
+11,11,07:10,AC8050,Victoria (YYJ),Air Canada Express DH8D (C-GJZD),Unknown,2021-05-12
+12,12,07:12 FX142,,Memphis (MEM),FedEx B763 (N270FE),Landed 07:54,2021-05-12
+13,13,07:13,AC235,Edmonton (YEG),Air Canada BCS3 (C-GJYA),Landed 06:58,2021-05-12
+14,14,07:25,AC203,Calgary (YYC),Air Canada B38M (C-FSDW),Landed 07:39,2021-05-12
+15,15,07:26 AC8411,,Kelowna (YLW),Air Canada Express DH8D (C-GSJZ),Landed 07:14,2021-05-12
+16,16,07:26,AC8543,Winnipeg (YWG),Air Canada Express CRJ9 (C-FJZD),Landed 07:04,2021-05-12
+17,17,07:30 8P200,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-12
+18,18,07:35 YB602,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-12
+19,19,07:37 MAL8071,,Victoria (YYJ),FedEx C208 (C-FFXD),Landed 07:39,2021-05-12
+20,20,07:43,WS103,Calgary (YYC),WestJet B737 (C-FWCN),Landed 07:49,2021-05-12
+21,21,07:55 YB480,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-12
+22,22,07:56 SLQ7703,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Unknown,2021-05-12
+23,23,08:00,WS3325,Kelowna (YLW),WestJet DH8D (C-FWEW),Landed 07:45,2021-05-12
+24,24,08:05 YB4000,,Maple Bay (YAQ),Borajet DHT,Unknown,2021-05-12
+25,25,08:16,WS161,Edmonton (YEG),WestJet B737 (C-GWAZ),Landed 08:04,2021-05-12
+26,26,08:19 MAL8072,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 08:10,2021-05-12
+27,27,08:20 YB1300,,Sechelt (YHS),Borajet DHT,Unknown,2021-05-12
+28,28,08:20 8P860,,Port Hardy (YZT),Pacific Coastal Airlines -,Canceled,2021-05-12
+29,29,08:25 8P102,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-12
+30,30,08:31 W8926,,Cincinnati (CVG),Cargojet Airways B752 (C-FKAJ),Landed 08:25,2021-05-12
+31,31,08:33 MAL8050,,Nanaimo (YCD),FedEx C208 (C-FEXN),Landed 08:34,2021-05-12
+32,32,08:35 MU7581,,Shanghai (PVG),China Eastern Airlines A359 (B-304N),Landed 08:21,2021-05-12
+33,33,08:41 AKN147,,Nanaimo (YCD),Alkan Air B190 (C-GNAJ),Unknown,2021-05-12
+34,34,08:48 K41917,,Seattle (SEA),Kalitta Air B763 (N764CK),Landed 08:28,2021-05-12
+35,35,08:53 CRN8081,,Kelowna (YLW),Aerocaribbean SW4,Landed 08:48,2021-05-12
+36,36,09:03 AC7304,,Auckland (AKL),Air Canada B789 (C-FNOH),Landed 08:50,2021-05-12
+37,37,09:20 YB604,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-12
+38,38,09:35 8P202,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Landed 09:20,2021-05-12
+39,39,09:43 MAL8051,,Nanaimo (YCD),FedEx C208 (C-FEXB),Landed 09:04,2021-05-12
+40,40,09:46,AC103,Toronto (YYZ),Air Canada B788 (C-GHQQ),Landed 09:18,2021-05-12
+41,41,09:48 NTA201,,Prince George (YXS),- B350 (C-FNTA),Landed 09:48,2021-05-12
+42,42,09:50 AC997,,Mexico City (MEX),Air Canada B789 (C-FRSI),Landed 10:09,2021-05-12
+43,43,09:50 YB504,,Victoria (YWH),Borajet DH3,Unknown,2021-05-12
+44,44,09:55 8P701,,Comox (YQQ),Pacific Coastal Airlines B190 (C-FPCV),Unknown,2021-05-12
+45,45,10:00,AC4,Tokyo (NRT),Air Canada B789 (C-FRTG),Landed 09:52,2021-05-12
+46,46,10:00 CRN8941,,Kamloops (YKA),Aerocaribbean SW4,Unknown,2021-05-12
+47,47,10:25,F8801,Edmonton (YEG),Flair Airlines B738 (C-FFLJ),Landed 10:15,2021-05-12
+48,48,10:29,AC301,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 10:03,2021-05-12
+49,49,10:29,AC8575,Saskatoon (YXE),Air Canada Express CRJ9 (C-GDJZ),Landed 10:07,2021-05-12
+50,50,10:35 YB482,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-12
+51,51,10:38,AC8567,Regina (YQR),Air Canada Express CRJ9 (C-GCJZ),Landed 10:19,2021-05-12
+52,52,10:50,CA991,Beijing (PEK),Air China (Star Alliance Livery) B77W (B-2032),Landed 10:47,2021-05-12
+53,53,10:51,WS703,Toronto (YYZ),WestJet B738 (C-FKWJ),Landed 10:33,2021-05-12
+54,54,10:59 SLQ7768,,Prince George (YXS),SkyLink Express B190,Unknown,2021-05-12
+55,55,11:04 AC7292,,Shanghai (PVG),Air Canada B77W (C-FKAU),Landed 11:14,2021-05-12
+56,56,11:05 MAL8073,,Victoria (YYJ),FedEx C208 (C-FFXD),Landed 11:03,2021-05-12
+57,57,11:10 8P552,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-12
+58,58,11:15,F8418,Fort McMurray (YMM),Flair Airlines B738 (C-FFLC),Landed 10:37,2021-05-12
+59,59,11:34 TGO998,,Kelowna (YLW),Department of Transport - Canada BE9L (C-FGXT),Landed 11:29,2021-05-12
+60,60,11:42,AC8839,San Francisco (SFO),Air Canada Express CRJ9 (C-FJFZ),Landed 11:42,2021-05-12
+61,61,11:45 4N533,,Whitehorse (YXY),Air North B735 (C-GANH),Landed 11:25,2021-05-12
+62,62,11:50 AC56,,Victoria (YYJ),Air Canada Express DH8D (C-GGOI),Landed 12:00,2021-05-12
+63,63,11:55,AC8056,Victoria (YYJ),Air Canada Express DH8D (C-GGOI),Unknown,2021-05-12
+64,64,11:56,AC8415,Kelowna (YLW),Air Canada Express DH8D (C-GGMI),Landed 11:54,2021-05-12
+65,65,11:57,AC553,Los Angeles (LAX),Air Canada B38M (C-FSEQ),Landed 11:56,2021-05-12
+66,66,11:57,AC8260,Nanaimo (YCD),Air Canada Express DH8D (C-GXJZ),Landed 11:46,2021-05-12
+67,67,11:58,AC8202,Prince George (YXS),Air Canada Express DH8D (C-GVJZ),Landed 11:40,2021-05-12
+68,68,11:58 AC8239,,Terrace (YXT),Air Canada Express DH8D (C-GJZD),Landed 11:49,2021-05-12
+69,69,12:00 TN68,,Papeete (PPT),Air Tahiti Nui B789 (F-OVAA),Landed 11:45,2021-05-12
+70,70,12:05 8P452,,Trail (YZZ),Pacific Coastal Airlines -,Canceled,2021-05-12
+71,71,12:05 8P204,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-12
+72,72,12:15 8P1524,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-12
+73,73,12:25,AC213,Calgary (YYC),Air Canada B38M (C-FSIP),Landed 12:20,2021-05-12
+74,74,12:26 AC8184,,Fort St. John (YXJ),Air Canada Express DH8D (C-GSJZ),Landed 12:03,2021-05-12
+75,75,12:28,AC241,Edmonton (YEG),Air Canada BCS3 (C-GJYA),Landed 12:16,2021-05-12
+76,76,12:30 CZ329,,Guangzhou (CAN),China Southern Airlines B789 (B-20CJ),Landed 12:08,2021-05-12
+77,77,12:36 NCB860,,Fort Nelson (YYE),North Caribou Flying Service BE20,Landed 12:36,2021-05-12
+78,78,12:45 KE278,,Guadalajara (GDL),Korean Air Cargo B77L (HL8226),Landed 11:51,2021-05-12
+79,79,12:45 8P1304,,Penticton (YYF),Pacific Coastal Airlines -,Canceled,2021-05-12
+80,80,12:50 YB606,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-12
+81,81,12:55 8P9194,,Bella Bella (ZEL),Pacific Coastal Airlines B190 (C-GPCR),Landed 12:51,2021-05-12
+82,82,13:10 8P7008,,Terrace (YXT),Pacific Coastal Airlines SF34 (C-FPCU),Landed 13:22,2021-05-12
+83,83,13:20 8P108,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCL),Unknown,2021-05-12
+84,84,13:30 8P1412,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-12
+85,85,13:40,UA5689,San Francisco (SFO),United Express E75L (N143SY),Landed 13:21,2021-05-12
+86,86,13:45 YB484,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-12
+87,87,13:45 8P972,,Masset (ZMT),Pacific Coastal Airlines -,Canceled,2021-05-12
+88,88,13:50 8P9198,,Anahim Lake (YAA),Pacific Coastal Airlines B190 (C-FWZK),Landed 13:05,2021-05-12
+89,89,14:00 8P341,,Anahim Lake (YAA),Pacific Coastal Airlines -,Canceled,2021-05-12
+90,90,14:09,WS3106,Terrace (YXT),WestJet DH8D (C-FWEW),Landed 13:50,2021-05-12
+91,91,14:35 8P208,,Powell River (YPW),Pacific Coastal Airlines -,Canceled,2021-05-12
+92,92,14:50,NH116,Tokyo (HND),All Nippon Airways B789 (JA895A),Landed 14:22,2021-05-12
+93,93,15:00 8P1614,,Tofino (YAZ),Pacific Coastal Airlines -,Canceled,2021-05-12
+94,94,15:05 8P9192,,Victoria (YYJ),Pacific Coastal Airlines B190 (C-GPCE),Landed 13:39,2021-05-12
+95,95,15:30 W8301,,Calgary (YYC),CargoJet Airways B763 (C-GCIJ),Landed 14:30,2021-05-12
+96,96,15:30 8P558,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-12
+97,97,15:30 8P876,,Bella Bella (ZEL),Pacific Coastal Airlines -,Canceled,2021-05-12
+98,98,15:35 YB610,,Nanaimo (ZNA),Borajet DH3,Unknown,2021-05-12
+99,99,15:38 MAL7090,,Calgary (YYC),FedEx B752 (N976FD),Landed 15:24,2021-05-12
+100,100,15:41 AC8547,,Winnipeg (YWG),Air Canada Express CRJ9 (C-FKJZ),Landed 15:16,2021-05-12
+101,101,15:43,AC305,Montreal (YUL),Air Canada BCS3 (C-GJYI),Landed 15:14,2021-05-12
+102,102,15:57,WS119,Calgary (YYC),WestJet B737 (C-GWBF),Landed 15:38,2021-05-12
+103,103,16:03,AC113,Toronto (YYZ),Air Canada A320 (C-GKOE),Landed 15:41,2021-05-12
+104,104,16:22 AC8262,,Nanaimo (YCD),Air Canada Express DH8D (C-GXJZ),Landed 16:13,2021-05-12
+105,105,16:23,AC8206,Prince George (YXS),Air Canada Express DH8D (C-GVJZ),Landed 16:15,2021-05-12
+106,106,16:23 SLQ711,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-12
+107,107,16:25 SLQ751,,Kelowna (YLW),SkyLink Express B190,Landed 16:20,2021-05-12
+108,108,16:26 MAL7052,,Nanaimo (YCD),FedEx C208 (C-FEXN),Landed 16:22,2021-05-12
+109,109,16:35 YB486,,Salt Spring Island (YGG),Borajet DH2,Unknown,2021-05-12
+110,110,16:40 8P1206,,Kamloops (YKA),Pacific Coastal Airlines B190 (C-FWZK),Landed 16:30,2021-05-12
+111,111,16:40 MAL7074,,Victoria (YYJ),FedEx C208 (C-FEXW),Landed 16:36,2021-05-12
+112,112,16:41 SLQ713,,Victoria (YYJ),Skylink Express C208 (C-FFGA),Landed 16:47,2021-05-12
+113,113,16:45,AC219,Calgary (YYC),Air Canada BCS3 (C-GMZR),Landed 16:24,2021-05-12
+114,114,16:48 CRN611,,Prince George (YXS),Aerocaribbean B350,Unknown,2021-05-12
+115,115,16:50 YB510,,Victoria (YWH),Borajet DH3,Unknown,2021-05-12
+116,116,16:55 8P458,,Trail (YZZ),Pacific Coastal Airlines B190 (C-GPCL),Landed 16:45,2021-05-12
+117,117,16:59,AC8064,Victoria (YYJ),Air Canada Express DH8D (C-GGMI),Unknown,2021-05-12
+118,118,17:15 8P116,,Victoria (YYJ),Pacific Coastal Airlines -,Canceled,2021-05-12
+119,119,17:20 8P866,,Port Hardy (YZT),Pacific Coastal Airlines B190 (C-GPCR),Landed 17:32,2021-05-12
+120,120,17:45,BR10,Taipei (TPE),EVA Air B789 (B-17882),Landed 17:28,2021-05-12
+121,121,17:45 4N563,,Whitehorse (YXY),Air North 734,Unknown,2021-05-12
+122,122,17:45 4N569,,Whitehorse (YXY),Air North B734 (C-FANB),Landed 17:46,2021-05-12
+123,123,17:50 YB612,,Nanaimo (ZNA),Borajet DHT,Unknown,2021-05-12
+124,124,17:50 8P610,,Cranbrook (YXC),Pacific Coastal Airlines B190 (C-FPCV),Landed 17:34,2021-05-12
+125,125,17:59 SLQ467,,Nanaimo (YCD),SkyLink Express C208,Unknown,2021-05-12
+126,126,18:00,AC221,Calgary (YYC),Air Canada B38M (C-FSDB),Landed 17:43,2021-05-12
+127,127,18:01 SLQ521,,Victoria (YYJ),SkyLink Express C208,Unknown,2021-05-12
+128,128,18:03 AC8241,,Terrace (YXT),Air Canada Express DH8D (C-GJZD),Landed 17:35,2021-05-12
+129,129,18:13 AC247,,Edmonton (YEG),Air Canada BCS3 (C-GJYA),Landed 18:01,2021-05-12
+130,130,18:16 AC8188,,Fort St. John (YXJ),Air Canada Express DH8D (C-GGOI),Landed 17:59,2021-05-12
+131,131,18:16 AC8421,,Kelowna (YLW),Air Canada Express DH8D (C-GJZY),Landed 17:56,2021-05-12
+132,132,18:33 FK578,,Kamloops (YKA),Kelowna Flightcraft Air CVLT,Unknown,2021-05-12
+133,133,18:39 FK574,,Victoria (YYJ),Kelowna Flightcraft Air CV5,Unknown,2021-05-12
+134,134,18:40,AS3316,Seattle (SEA),Alaska SkyWest E75L (N186SY),Landed 18:41,2021-05-12
+135,135,18:41 FK576,,Kelowna (YLW),Kelowna Flightcraft Air CVLT,Unknown,2021-05-12
+136,136,18:49 QK2279,,Terrace (YXT),Air Canada Express DH8D (C-GBJZ),Landed 18:36,2021-05-12
+137,137,18:56,AC119,Toronto (YYZ),Air Canada B789 (C-FRTU),Landed 18:25,2021-05-12
+138,138,18:59,AA2263,Dallas (DFW),American Airlines A319 (N827AW),Landed 19:17,2021-05-12
+139,139,19:15 8P238,,Powell River (YPW),Pacific Coastal Airlines B190 (C-FWZK),Unknown,2021-05-12
+140,140,19:15 NCB1541,,Terrace (YXT),North Caribou Flying Service RJ1H,Unknown,2021-05-12
+141,141,19:40 8P715,,Comox (YQQ),Pacific Coastal Airlines B190 (C-GPCL),Unknown,2021-05-12
+142,142,19:47,,Abbotsford (YXX),- PA30 (C-FWYC),Landed 19:35,2021-05-12
+143,143,19:59,WS721,Toronto (YYZ),WestJet B38M (C-GZSG),Landed 19:28,2021-05-12
+144,144,20:03,DL4476,Seattle (SEA),Delta Connection E75L (N290SY),Landed 19:40,2021-05-12
+145,145,20:38 4N474,,Nanaimo (YCD),Air North B735 (C-GANJ),Landed 20:40,2021-05-12
+146,146,20:40 8P562,,Williams Lake (YWL),Pacific Coastal Airlines -,Canceled,2021-05-12
+147,147,20:58,AC311,Montreal (YUL),Air Canada B38M (C-FSDW),Landed 20:35,2021-05-12
+148,148,21:21 HU7939,,Xiamen (XMN),Hainan Airlines A333 (B-1022),Landed 21:14,2021-05-12
+149,149,21:25 CRN411,,Whitehorse (YXY),Aerocaribbean BE30,Landed 21:24,2021-05-12
+150,150,21:37 HU433,,Beijing (PEK),Hainan Airlines A333 (B-1021),Landed 21:31,2021-05-12
+151,151,22:26,WS133,Calgary (YYC),WestJet B737 (C-GWAZ),Landed 22:21,2021-05-12
+152,152,22:31,AC129,Toronto (YYZ),Air Canada B788 (C-GHPY),Landed 21:55,2021-05-12
+153,153,23:00 3U9991,,-,Sichuan Airlines 330,Unknown,2021-05-12

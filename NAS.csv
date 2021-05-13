@@ -1,0 +1,328 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,01:12 EJM750,,Bedford (BED),Executive Jet Management H25B,Unknown,2021-05-09
+1,1,07:00 WST703,,Freeport (FPO),Western Air E145 (C6-MAM),Landed 07:09,2021-05-09
+2,2,07:30 PL502,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-09
+3,3,07:45 PL602,,San Salvador (ZSA),Southern Air Charter BEH,Unknown,2021-05-09
+4,4,07:45 UP316,,Freeport (FPO),Bahamasair AT46 (C6-BFV),Landed 07:37,2021-05-09
+5,5,07:50 PL302,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-09
+6,6,07:50 PL402,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-09
+7,7,08:30 WST702,,Freeport (FPO),Western Air E145 (C6-REX),Landed 08:08,2021-05-09
+8,8,08:30 GAJ909,,Orlando (MCO),Gama Aviation Signature C750 (N909UP),Landed 08:51,2021-05-09
+9,9,08:40 UP136,,Marsh Harbour (MHH),Bahamasair AT46 (C6-BFS),Landed 08:23,2021-05-09
+10,10,08:54,,West Palm Beach (LNA),- S22T (N143PM),Landed 08:25,2021-05-09
+11,11,09:00 UP371,,George Town (GGT),Bahamasair AT76 (C6-BFR),Landed 08:29,2021-05-09
+12,12,09:00 WST603,,Marsh Harbour (MHH),Western Air E145 (C6-MAM),Landed 08:52,2021-05-09
+13,13,09:25 UP335,,Marsh Harbour (MHH),Bahamasair AT4,Unknown,2021-05-09
+14,14,09:32 GAJ881,,Venice (VNC),Wheels Up B350 (N881UP),Landed 10:17,2021-05-09
+15,15,09:39,,New Orleans (MSY),- GLEX (N146QS),Unknown,2021-05-09
+16,16,10:15 PL702,,Deadman's Cay (LGI),Southern Air Charter BE1,Unknown,2021-05-09
+17,17,10:15 PL802,,Stella Maris (SML),Southern Air Charter BE1,Unknown,2021-05-09
+18,18,10:17,,Freeport (FPO),- PA31 (N777JY),Unknown,2021-05-09
+19,19,10:20 WST801,,George Town (GGT),Western Air E145 (C6-REX),Landed 09:43,2021-05-09
+20,20,10:25,,Norman's Cay (NMC),- C208 (C6-AIR),Landed 10:17,2021-05-09
+21,21,10:37,B6241,Orlando (MCO),JetBlue Airways E190 (N292JB),Landed 10:27,2021-05-09
+22,22,10:39 AA3836,,Miami (MIA),American Eagle E75L (N277NN),Landed 10:12,2021-05-09
+23,23,10:40,,West Palm Beach (PBI),- GLEX (N146QS),Landed 10:24,2021-05-09
+24,24,10:55,B6121,New York (JFK),JetBlue Airways A21N (N2048J),Landed 10:48,2021-05-09
+25,25,11:15 UP344,,Rock Sound (RSD),Bahamasair AT46 (C6-BFS),Landed 10:40,2021-05-09
+26,26,11:16 EDG403,,Phoenix (PHX),- GLF4 (N132JE),Landed 10:03,2021-05-09
+27,27,11:20,,Freeport (FPO),- PA31 (N777JY),Landed 11:04,2021-05-09
+28,28,11:48 AA1160,,Miami (MIA),American Airlines B738 (N939AN),Landed 12:19,2021-05-09
+29,29,11:50 AA893,,Charlotte (CLT),American Airlines A321 (N197UW),Landed 11:21,2021-05-09
+30,30,11:53 DL1944,,Atlanta (ATL),Delta Air Lines B739 (N910DU),Landed 11:33,2021-05-09
+31,31,11:55 GES161Y,,Washington (IAD),- GLF5 (EC-LYO),Landed 11:53,2021-05-09
+32,32,11:58 DL1907,,New York (JFK),Delta Air Lines B738 (N3731T),Unknown,2021-05-09
+33,33,12:00 B61393,,Fort Lauderdale (FLL),JetBlue Airways E190 (N281JB),Landed 11:45,2021-05-09
+34,34,12:11,,Basseterre (SKB),- B190 (N324SA),Landed 12:00,2021-05-09
+35,35,12:12 AA4580,,Philadelphia (PHL),American Eagle E75S (N405YX),Landed 11:49,2021-05-09
+36,36,12:28 TFF959,,West Palm Beach (PBI),Talon Air GLF5,Unknown,2021-05-09
+37,37,12:30 WST708,,Freeport (FPO),Western Air ER4,Unknown,2021-05-09
+38,38,12:32,,South Bimini (BIM),- C208 (C6-TIA),Landed 12:07,2021-05-09
+39,39,12:32,,South Bimini (BIM),- C208,Landed 12:03,2021-05-09
+40,40,12:37,,Lexington (LEX),- C56X (N443TA),Canceled,2021-05-09
+41,41,12:50 PL504,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-09
+42,42,12:59 HPJ170,,Fort Lauderdale (FXE),Hop-A-Jet LJ45 (N170LS),Landed 13:55,2021-05-09
+43,43,13:02 B62117,,New York (EWR),JetBlue Airways A320 (N656JB),Landed 12:48,2021-05-09
+44,44,13:06 UA1480,,New York (EWR),United Airlines A320 (N453UA),Landed 12:37,2021-05-09
+45,45,13:10 3M60,,Fort Lauderdale (FLL),Silver Airways AT44,Canceled,2021-05-09
+46,46,13:22 UA221,,Washington (IAD),United Airlines A320 (N451UA),Landed 12:56,2021-05-09
+47,47,13:30 PL304,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-09
+48,48,13:30 PL404,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-09
+49,49,13:30 WST709,,Freeport (FPO),Western Air E145 (C6-REX),Landed 12:55,2021-05-09
+50,50,13:35 UP383,,Deadman's Cay (LGI),Bahamasair AT46 (C6-BFV),Landed 13:26,2021-05-09
+51,51,13:39 LXJ379,,Miami (MIA),Flexjet E55P,Canceled,2021-05-09
+52,52,13:44,,Atlanta (ATL),- F900 (N345KM),Landed 13:38,2021-05-09
+53,53,13:54 AA859,,Charlotte (CLT),American Airlines B738 (N821NN),Landed 13:20,2021-05-09
+54,54,13:56 AA2185,,Miami (MIA),American Airlines A319 (N9029F),Landed 13:48,2021-05-09
+55,55,13:59,,West Palm Beach (PBI),- PA31 (N710JP),Landed 15:42,2021-05-09
+56,56,14:00 UP320,,Freeport (FPO),Bahamasair AT76 (C6-BFW),Landed 13:30,2021-05-09
+57,57,14:00 WST605,,Marsh Harbour (MHH),Western Air E145 (C6-MAM),Landed 13:22,2021-05-09
+58,58,14:11,,Norman's Cay (NMC),- C208 (N84BD),Landed 14:30,2021-05-09
+59,59,14:15 UP415,,Providenciales (PLS),Bahamasair AT76 (C6-BFR),Landed 14:22,2021-05-09
+60,60,14:23 UA1454,,Houston (IAH),United Airlines A319 (N813UA),Landed 14:12,2021-05-09
+61,61,14:45 UP204,,Fort Lauderdale (FLL),Bahamasair B735 (C6-BFD),Landed 15:40,2021-05-09
+62,62,15:03 UA2401,,Chicago (ORD),United Airlines A320 (N493UA),Landed 14:47,2021-05-09
+63,63,15:44 UA329,,Houston (IAH),United Airlines A320 (N459UA),Landed 15:21,2021-05-09
+64,64,15:45 PL4,,Rum Cay (RCY),Southern Air Charter BEH,Unknown,2021-05-09
+65,65,15:58,,Fort Lauderdale (FXE),- BE9L (N515BC),Landed 16:00,2021-05-09
+66,66,16:15 PL704,,Deadman's Cay (LGI),Southern Air Charter BE1,Unknown,2021-05-09
+67,67,16:15 PL804,,Stella Maris (SML),Southern Air Charter BE1,Unknown,2021-05-09
+68,68,16:50 PL506,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-09
+69,69,17:00 AA1005,,Dallas (DFW),American Airlines B738 (N992NN),Landed 16:38,2021-05-09
+70,70,17:00 DL1938,,Atlanta (ATL),Delta Air Lines (SkyTeam Livery) B738 (N3755D),Landed 17:01,2021-05-09
+71,71,17:10 UP238,,Orlando (MCO),Bahamasair B737 (C6-BFY),Landed 16:44,2021-05-09
+72,72,17:25 B62393,,Fort Lauderdale (FLL),JetBlue Airways E190 (N309JB),Landed 18:25,2021-05-09
+73,73,17:25 UP138,,Marsh Harbour (MHH),Bahamasair AT46 (C6-BFV),Landed 16:54,2021-05-09
+74,74,17:30 PL306,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-09
+75,75,17:30 PL406,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-09
+76,76,17:30 UP326,,Freeport (FPO),Bahamasair AT76 (C6-BFR),Landed 17:17,2021-05-09
+77,77,17:30 WST717,,Freeport (FPO),Western Air ER4,Unknown,2021-05-09
+78,78,17:33,,Savannah (SAV),- C68A (N507QS),Unknown,2021-05-09
+79,79,18:05 PL104,,New Bight (TBI),Southern Air Charter BEH,Unknown,2021-05-09
+80,80,18:05 PL204,,Arthur's Town (ATC),Southern Air Charter BEH,Unknown,2021-05-09
+81,81,18:15 JY270,,Providenciales (PLS),InterCaribbean Airways E120 (VQ-TAG),Landed 17:46,2021-05-09
+82,82,18:30 WST718,,Freeport (FPO),Western Air ER4,Unknown,2021-05-09
+83,83,18:50 UP359,,George Town (GGT),Bahamasair AT76 (C6-BFW),Landed 18:28,2021-05-09
+84,84,19:45 PL604,,San Salvador (ZSA),Southern Air Charter BEH,Unknown,2021-05-09
+85,85,20:20 UP230,,Miami (MIA),Bahamasair B737 (C6-BFX),Landed 20:07,2021-05-09
+0,0,06:39,,Naples (APF),- C68A (N526QS),Canceled,2021-05-10
+1,1,06:39,,Savannah (SAV),- C68A (N501QS),Unknown,2021-05-10
+2,2,07:00 WST703,,Freeport (FPO),Western Air E145 (C6-MAM),Landed 07:11,2021-05-10
+3,3,07:03,,Fort Lauderdale (FLL),- E55P (N340QS),Canceled,2021-05-10
+4,4,07:09,,Charlottesville (CHO),- C680 (N361QS),Unknown,2021-05-10
+5,5,07:30 PL502,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-10
+6,6,07:30 WST501,,San Andros (SAQ),Western Air SF3,Unknown,2021-05-10
+7,7,07:45 PL602,,San Salvador (ZSA),Southern Air Charter BEH,Unknown,2021-05-10
+8,8,07:50 PL302,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-10
+9,9,07:50 PL402,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-10
+10,10,08:00 PNP980,,North Eleuthera (ELH),Pineapple Air BES,Unknown,2021-05-10
+11,11,08:09,,Miami (MIA),- C68A (N676QS),Unknown,2021-05-10
+12,12,08:20 DPJ489,,Fort Pierce (FPR),Private owner BE40 (N489TM),Landed 08:55,2021-05-10
+13,13,08:30 WST702,,Freeport (FPO),Western Air E145 (C6-REX),Landed 08:34,2021-05-10
+14,14,08:40 UP136,,Marsh Harbour (MHH),Bahamasair AT46 (C6-BFV),Landed 08:14,2021-05-10
+15,15,08:45 UP316,,Freeport (FPO),Bahamasair AT76 (C6-BFR),Landed 08:40,2021-05-10
+16,16,08:55 WST517,,Congo Town (TZN),Western Air E145 (C6-MAM),Landed 10:22,2021-05-10
+17,17,09:00 WST603,,Marsh Harbour (MHH),Western Air E145 (C6-MAM),Landed 08:51,2021-05-10
+18,18,09:15 YH1186,,Miami (MIA),- CVF,Unknown,2021-05-10
+19,19,09:15,,Miami (OPF),- C550 (N1GH),Landed 09:05,2021-05-10
+20,20,09:17,,Sarasota (SRQ),- SF50 (N525CB),Landed 09:23,2021-05-10
+21,21,09:28 AJ1021,,Fort Lauderdale (FXE),Aztec Airways PA31 (N122AW),Landed 09:18,2021-05-10
+22,22,09:45 PL102,,New Bight (TBI),Southern Air Charter BEH,Unknown,2021-05-10
+23,23,09:45 PL202,,Arthur's Town (ATC),Southern Air Charter BEH,Unknown,2021-05-10
+24,24,10:15 PL702,,Deadman's Cay (LGI),Southern Air Charter BE1,Unknown,2021-05-10
+25,25,10:15 PL802,,Stella Maris (SML),Southern Air Charter BE1,Unknown,2021-05-10
+26,26,10:20 WST801,,George Town (GGT),Western Air E145 (C6-REX),Landed 10:26,2021-05-10
+27,27,10:20 IF801,,Miami (OPF),IFL Group CVLT (N141FL),Landed 10:05,2021-05-10
+28,28,10:30 WST901,,South Bimini (BIM),Western Air E145 (C6-MAM),Landed 12:20,2021-05-10
+29,29,10:30,,Atlanta (PDK),- PC12 (N340AF),Landed 10:49,2021-05-10
+30,30,10:35 UP222,,Miami (MIA),Bahamasair B737 (C6-BFY),Landed 10:22,2021-05-10
+31,31,10:37,B6241,Orlando (MCO),JetBlue Airways E190 (N216JB),Landed 10:16,2021-05-10
+32,32,10:39 AA3836,,Miami (MIA),American Eagle E75L (N287NN),Landed 10:15,2021-05-10
+33,33,10:55 B6121,,New York (JFK),JetBlue Airways A21N (N2038J),Landed 10:52,2021-05-10
+34,34,11:03 II101,,Miami (MIA),IBC Airways SF34 (N681BC),Landed 10:35,2021-05-10
+35,35,11:09,,Savannah (SAV),- C68A (N636QS),Canceled,2021-05-10
+36,36,11:27 AJ1031,,Fort Lauderdale (FXE),Aztec Airways BE18,Unknown,2021-05-10
+37,37,11:33 C28121,,Miami (MIA),FedEx AT43 (N906FX),Landed 11:04,2021-05-10
+38,38,11:48 AA1160,,Miami (MIA),American Airlines B38M (N324RN),Landed 11:39,2021-05-10
+39,39,11:50 AA893,,Charlotte (CLT),American Airlines B738 (N908NN),Landed 12:14,2021-05-10
+40,40,11:53 DL1944,,Atlanta (ATL),Delta Air Lines B739 (N828DN),Landed 11:33,2021-05-10
+41,41,11:58 DL1907,,New York (JFK),Delta Air Lines B738 (N3769L),Landed 11:07,2021-05-10
+42,42,12:00 B61393,,Fort Lauderdale (FLL),JetBlue Airways E190 (N274JB),Landed 12:18,2021-05-10
+43,43,12:03,,Fort Lauderdale (FXE),- BE10 (N230FL),Landed 11:54,2021-05-10
+44,44,12:15 UP357,,George Town (GGT),Bahamasair AT46 (C6-BFS),Landed 12:04,2021-05-10
+45,45,12:25 PNP984,,North Eleuthera (ELH),Pineapple Air BES,Unknown,2021-05-10
+46,46,12:30 WST708,,Freeport (FPO),Western Air ER4,Unknown,2021-05-10
+47,47,12:50 PL504,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-10
+48,48,13:02 B62117,,New York (EWR),JetBlue Airways A320 (N524JB),Landed 13:25,2021-05-10
+49,49,13:06 UA1480,,New York (EWR),United Airlines A320 (N452UA),Landed 12:56,2021-05-10
+50,50,13:06,,North Eleuthera (ELH),- E55P (N332QS),Canceled,2021-05-10
+51,51,13:09 C4501,,Miami (OPF),Great Southern Airways CVLP (N345GS),Landed 12:54,2021-05-10
+52,52,13:10,,Fort Lauderdale (FLL),- PC12 (N721AF),Landed 14:06,2021-05-10
+53,53,13:30 PL304,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-10
+54,54,13:30 PL404,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-10
+55,55,13:30 WST709,,Freeport (FPO),Western Air E145 (C6-REX),Landed 12:30,2021-05-10
+56,56,13:40,,Fort Myers (RSW),- LJ60,Landed 13:34,2021-05-10
+57,57,13:54 AA859,,Charlotte (CLT),American Airlines B738 (N985NN),Landed 13:53,2021-05-10
+58,58,13:56 AA2185,,Miami (MIA),American Airlines A319 (N8027D),Landed 13:29,2021-05-10
+59,59,14:00 WST605,,Marsh Harbour (MHH),Western Air E145 (C6-REX),Landed 14:46,2021-05-10
+60,60,14:23 UA1454,,Houston (IAH),United Airlines A319 (N808UA),Landed 13:57,2021-05-10
+61,61,14:30 UP425,,Mayaguana (MYG),Bahamasair AT46 (C6-BFV),Landed 13:59,2021-05-10
+62,62,14:40 UP236,,Marsh Harbour (MHH),Bahamasair AT76 (C6-BFW),Landed 15:00,2021-05-10
+63,63,14:44,,Fort Lauderdale (FLL),- E55P (N404QS),Canceled,2021-05-10
+64,64,14:53 IF803,,Miami (OPF),IFL Group CVLT (N141FL),Landed 14:31,2021-05-10
+65,65,14:55 WST401,,New Bight (TBI),Western Air E145 (C6-MAM),Landed 15:26,2021-05-10
+66,66,15:25 UP212,,Havana (HAV),Bahamasair B737 (C6-BFY),Landed 16:00,2021-05-10
+67,67,15:39,,Boca Raton (BCT),- CL60 (N601QA),Landed 15:16,2021-05-10
+68,68,15:55 WST519,,Congo Town (TZN),Western Air SF3,Unknown,2021-05-10
+69,69,16:00 AJ1033,,Fort Lauderdale (FXE),Aztec Airways BE18,Diverted to CCZ,2021-05-10
+70,70,16:15 PL704,,Deadman's Cay (LGI),Southern Air Charter BE1,Unknown,2021-05-10
+71,71,16:15 PL804,,Stella Maris (SML),Southern Air Charter BE1,Unknown,2021-05-10
+72,72,16:35,,Fort Lauderdale (FXE),- C208 (C6-AIR),Landed 16:20,2021-05-10
+73,73,16:50 PL506,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-10
+74,74,17:00 AA1005,,Dallas (DFW),American Airlines B738 (N971NN),Landed 16:34,2021-05-10
+75,75,17:00 DL1938,,Atlanta (ATL),Delta Air Lines B738 (N373DA),Landed 17:00,2021-05-10
+76,76,17:00 PNP988,,North Eleuthera (ELH),Pineapple Air BES,Unknown,2021-05-10
+77,77,17:25 B62393,,Fort Lauderdale (FLL),JetBlue Airways E190 (N231JB),Landed 17:18,2021-05-10
+78,78,17:30 PL306,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-10
+79,79,17:30 PL406,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-10
+80,80,17:30 WST717,,Freeport (FPO),Western Air ER4,Unknown,2021-05-10
+81,81,18:05 PL104,,New Bight (TBI),Southern Air Charter BEH,Unknown,2021-05-10
+82,82,18:05 PL204,,Arthur's Town (ATC),Southern Air Charter BEH,Unknown,2021-05-10
+83,83,18:11 LXJ517,,Miami (MIA),Flexjet CL30,Canceled,2021-05-10
+84,84,18:15 JY270,,Providenciales (PLS),InterCaribbean Airways EM2,Canceled,2021-05-10
+85,85,18:30 UP204,,Fort Lauderdale (FLL),Bahamasair AT76 (C6-BFR),Landed 18:58,2021-05-10
+86,86,18:30 WST718,,Freeport (FPO),Western Air ER4,Unknown,2021-05-10
+87,87,18:48,,Miami (MIA),- C700 (N801QS),Unknown,2021-05-10
+88,88,19:03 LXJ365,,Miami (MIA),Flexjet E55P (N365FX),Landed 18:51,2021-05-10
+89,89,19:45 PL604,,San Salvador (ZSA),Southern Air Charter BEH,Unknown,2021-05-10
+90,90,20:18,,St. Petersburg (SPG),- C208 (N801TW),Landed 20:38,2021-05-10
+91,91,20:18,,Miami (OPF),- C550 (N1GH),Landed 20:13,2021-05-10
+92,92,20:35 UP230,,Miami (MIA),Bahamasair B737 (C6-BFY),Landed 21:35,2021-05-10
+0,0,07:00 WST703,,Freeport (FPO),Western Air E145 (C6-REX),Landed 07:17,2021-05-11
+1,1,07:30 PL502,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-11
+2,2,07:45 PL602,,San Salvador (ZSA),Southern Air Charter BEH,Unknown,2021-05-11
+3,3,07:50 PL302,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-11
+4,4,07:50 PL402,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-11
+5,5,08:00 PNP980,,North Eleuthera (ELH),Pineapple Air BES,Unknown,2021-05-11
+6,6,08:30 WST702,,Freeport (FPO),Western Air E145 (C6-REX),Landed 10:14,2021-05-11
+7,7,08:45 UP316,,Freeport (FPO),Bahamasair AT46 (C6-BFS),Landed 08:24,2021-05-11
+8,8,09:00 WST603,,Marsh Harbour (MHH),Western Air E145 (C6-REX),Diverted to FPO,2021-05-11
+9,9,09:09 C4501,,Miami (OPF),Great Southern Airways CVLP (N345GS),Landed 09:22,2021-05-11
+10,10,09:15 YH1186,,Miami (MIA),- CVF,Unknown,2021-05-11
+11,11,10:13 UP357,,Rock Sound (RSD),Bahamasair AT76 (C6-BFR),Landed 09:41,2021-05-11
+12,12,10:13,,St. Petersburg (PIE),- C414 (N140KM),Landed 10:10,2021-05-11
+13,13,10:15 PL702,,Deadman's Cay (LGI),Southern Air Charter BE1,Unknown,2021-05-11
+14,14,10:15 PL802,,Stella Maris (SML),Southern Air Charter BE1,Unknown,2021-05-11
+15,15,10:20 WST801,,George Town (GGT),Western Air E145 (C6-REX),Landed 12:13,2021-05-11
+16,16,10:24 IF801,,Miami (OPF),IFL Group CVLT (N141FL),Landed 10:24,2021-05-11
+17,17,10:39 AA3836,,Miami (MIA),American Eagle E75L (N268NN),Landed 10:19,2021-05-11
+18,18,10:55,B6121,New York (JFK),JetBlue Airways A21N (N2084J),Landed 10:47,2021-05-11
+19,19,11:10 UP136,,Marsh Harbour (MHH),Bahamasair AT46 (C6-BFS),Landed 10:51,2021-05-11
+20,20,11:17 GAJ859,,St. Augustine (UST),Wheels Up B350 (N859UP),Landed 11:11,2021-05-11
+21,21,11:19 II101,,Miami (MIA),IBC Airways SF34 (N681BC),Landed 11:14,2021-05-11
+22,22,11:48 AA1160,,Miami (MIA),American Airlines B738 (N964NN),Landed 11:32,2021-05-11
+23,23,11:50 AA893,,Charlotte (CLT),American Airlines B738 (N835NN),Landed 11:34,2021-05-11
+24,24,11:53 DL1944,,Atlanta (ATL),Delta Air Lines B739 (N824DN),Landed 11:36,2021-05-11
+25,25,11:58 DL1907,,New York (JFK),Delta Air Lines B738 (N3772H),Landed 11:20,2021-05-11
+26,26,12:00 B61393,,Fort Lauderdale (FLL),JetBlue Airways E190 (N292JB),Landed 11:47,2021-05-11
+27,27,12:00 M61003,,Miami (MIA),Amerijet International 76F,Unknown,2021-05-11
+28,28,12:25 PNP984,,North Eleuthera (ELH),Pineapple Air BES,Unknown,2021-05-11
+29,29,12:30 WST708,,Freeport (FPO),Western Air ER4,Unknown,2021-05-11
+30,30,12:37,,Fort Pierce (FPR),- P32R (N8096S),Landed 12:52,2021-05-11
+31,31,12:52 C28121,,Miami (MIA),FedEx AT43 (N906FX),Landed 12:34,2021-05-11
+32,32,13:02 B62117,,New York (EWR),JetBlue Airways E190 (N298JB),Landed 12:57,2021-05-11
+33,33,13:06 UA1480,,New York (EWR),United Airlines A320 (N420UA),Landed 12:55,2021-05-11
+34,34,13:10 3M60,,Fort Lauderdale (FLL),Silver Airways AT46 (N402SV),Landed 12:46,2021-05-11
+35,35,13:10 C4503,,Miami (OPF),Great Southern Airways CVLP (N345GS),Unknown,2021-05-11
+36,36,13:30 PL304,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-11
+37,37,13:30 PL404,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-11
+38,38,13:30 WST709,,Freeport (FPO),Western Air ER4,Unknown,2021-05-11
+39,39,13:53 IF803,,Miami (OPF),IFL Group CVLT (N141FL),Landed 15:45,2021-05-11
+40,40,13:54 AA859,,Charlotte (CLT),American Airlines B738 (N880NN),Landed 13:43,2021-05-11
+41,41,13:56 AA2185,,Miami (MIA),American Airlines A319 (N4005X),Landed 17:54,2021-05-11
+42,42,13:56,,Miami (TMB),- SR22 (N794AP),Landed 13:38,2021-05-11
+43,43,14:00 WST605,,Marsh Harbour (MHH),Western Air E145 (C6-REX),Landed 14:25,2021-05-11
+44,44,14:23 UA1454,,Houston (IAH),United Airlines A320 (N449UA),Landed 13:50,2021-05-11
+45,45,14:58,,Leesburg (LEE),- C208 (C6-TIA),Landed 15:10,2021-05-11
+46,46,15:03 II111,,Miami (MIA),IBC Airways SF34,Unknown,2021-05-11
+47,47,15:45 UP204,,Fort Lauderdale (FLL),Bahamasair B735 (C6-BFD),Landed 15:32,2021-05-11
+48,48,16:15 PL704,,Deadman's Cay (LGI),Southern Air Charter BE1,Unknown,2021-05-11
+49,49,16:15 PL804,,Stella Maris (SML),Southern Air Charter BE1,Unknown,2021-05-11
+50,50,16:50 PL506,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-11
+51,51,16:52,,North Eleuthera (ELH),- CL60,Unknown,2021-05-11
+52,52,17:00,AA1005,Dallas (DFW),American Airlines B738 (N896NN),Landed 18:53,2021-05-11
+53,53,17:00 DL1938,,Atlanta (ATL),Delta Air Lines B739 (N801DZ),Landed 16:53,2021-05-11
+54,54,17:00 PNP988,,North Eleuthera (ELH),Pineapple Air BES,Unknown,2021-05-11
+55,55,17:04,,Rio de Janeiro (GIG),- GLF4 (PT-MTP),Landed 17:48,2021-05-11
+56,56,17:04,,Atlanta (PDK),- CL35 (N98CA),Unknown,2021-05-11
+57,57,17:25 B62393,,Fort Lauderdale (FLL),JetBlue Airways E190 (N353JB),Landed 17:22,2021-05-11
+58,58,17:30 PL306,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-11
+59,59,17:30 PL406,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-11
+60,60,17:30 WST717,,Freeport (FPO),Western Air ER4,Unknown,2021-05-11
+61,61,18:15 JY270,,Providenciales (PLS),InterCaribbean Airways EM2,Canceled,2021-05-11
+62,62,18:16,,Miami (OPF),- C208,Canceled,2021-05-11
+63,63,18:30 WST718,,Freeport (FPO),Western Air ER4,Unknown,2021-05-11
+64,64,18:30,,West Palm Beach (LNA),- C208 (N84BD),Landed 17:17,2021-05-11
+65,65,18:41,,Fort Lauderdale (FLL),- (N400EP),Landed 18:50,2021-05-11
+66,66,19:55 GAJ843,,West Palm Beach (PBI),Wheels Up B350 (N843UP),Landed 19:42,2021-05-11
+0,0,07:00 WST703,,Freeport (FPO),Western Air E145 (C6-MAM),Landed 07:24,2021-05-12
+1,1,07:30 PL502,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-12
+2,2,07:30 WST501,,San Andros (SAQ),Western Air SF3,Unknown,2021-05-12
+3,3,07:45 PL602,,San Salvador (ZSA),Southern Air Charter BEH,Unknown,2021-05-12
+4,4,07:50 PL302,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-12
+5,5,07:50 PL402,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-12
+6,6,08:00 PNP980,,North Eleuthera (ELH),Pineapple Air BES,Unknown,2021-05-12
+7,7,08:18 HPJ296,,Fort Lauderdale (FXE),Hop-A-Jet LJ60 (N296L),Landed 08:07,2021-05-12
+8,8,08:30 WST702,,Freeport (FPO),Western Air E145 (C6-REX),Landed 08:37,2021-05-12
+9,9,08:40 UP136,,Marsh Harbour (MHH),Bahamasair AT46 (C6-BFS),Landed 08:35,2021-05-12
+10,10,08:55 WST517,,Congo Town (TZN),Western Air SF3,Unknown,2021-05-12
+11,11,09:00 C4501,,Miami (OPF),Conquest Air CVLT,Unknown,2021-05-12
+12,12,09:00 WST603,,Marsh Harbour (MHH),Western Air E145 (C6-MAM),Landed 09:08,2021-05-12
+13,13,09:13 II111,,Miami (MIA),IBC Airways SF34 (N651BC),Landed 09:00,2021-05-12
+14,14,09:15 UP371,,George Town (GGT),Bahamasair AT76 (C6-BFR),Landed 08:49,2021-05-12
+15,15,09:15 YH1186,,Miami (MIA),- CVF,Unknown,2021-05-12
+16,16,09:45 PL102,,New Bight (TBI),Southern Air Charter BEH,Unknown,2021-05-12
+17,17,09:45 PL202,,Arthur's Town (ATC),Southern Air Charter BEH,Unknown,2021-05-12
+18,18,10:04 IF801,,Miami (OPF),IFL Group CVLT (N141FL),Landed 09:52,2021-05-12
+19,19,10:15 PL702,,Deadman's Cay (LGI),Southern Air Charter BE1,Unknown,2021-05-12
+20,20,10:15 PL802,,Stella Maris (SML),Southern Air Charter BE1,Unknown,2021-05-12
+21,21,10:17 XOJ557,,Morristown (MMU),Xojet CL30 (N557XJ),Unknown,2021-05-12
+22,22,10:20 WST801,,George Town (GGT),Western Air E145 (C6-REX),Landed 10:31,2021-05-12
+23,23,10:30 WST901,,South Bimini (BIM),Western Air SF3,Unknown,2021-05-12
+24,24,10:39 AA3836,,Miami (MIA),American Eagle E75L (N277NN),Landed 10:07,2021-05-12
+25,25,10:55,B6121,New York (JFK),JetBlue Airways A21N (N2086J),Landed 11:18,2021-05-12
+26,26,10:55 UP377,,Deadman's Cay (LGI),Bahamasair AT46 (C6-BFV),Landed 11:38,2021-05-12
+27,27,11:48 AA1160,,Miami (MIA),American Airlines B738 (N958NN),Landed 12:13,2021-05-12
+28,28,11:50 AA893,,Charlotte (CLT),American Airlines B738 (N841NN),Landed 11:43,2021-05-12
+29,29,11:50 UP363,,North Eleuthera (ELH),Bahamasair AT76 (C6-BFR),Landed 12:17,2021-05-12
+30,30,11:53 DL1944,,Atlanta (ATL),Delta Air Lines B739 (N909DN),Landed 11:45,2021-05-12
+31,31,11:58 DL1907,,New York (JFK),Delta Air Lines B738 (N3766),Landed 11:34,2021-05-12
+32,32,12:00 B61393,,Fort Lauderdale (FLL),JetBlue Airways E190 (N231JB),Landed 11:47,2021-05-12
+33,33,12:00 M61003,,Miami (MIA),Amerijet International 76F,Unknown,2021-05-12
+34,34,12:07,,Fort Lauderdale (FXE),- C208 (C6-AIR),Landed 12:26,2021-05-12
+35,35,12:17 GAJ890,,Rock Sound (RSD),Wheels Up B350 (N890UP),Landed 12:30,2021-05-12
+36,36,12:21 II101,,Miami (MIA),IBC Airways SF34 (N691BC),Landed 12:05,2021-05-12
+37,37,12:25 PNP984,,North Eleuthera (ELH),Pineapple Air BES,Unknown,2021-05-12
+38,38,12:25 C28121,,Miami (MIA),FedEx AT43 (N906FX),Landed 12:08,2021-05-12
+39,39,12:30 WST708,,Freeport (FPO),Western Air ER4,Unknown,2021-05-12
+40,40,13:02 B62117,,New York (EWR),JetBlue Airways A320 (N529JB),Landed 14:03,2021-05-12
+41,41,13:06 UA1480,,New York (EWR),United Airlines A320 (N440UA),Landed 12:57,2021-05-12
+42,42,13:30 PL304,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-12
+43,43,13:30 PL404,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-12
+44,44,13:30 WST709,,Freeport (FPO),Western Air E145 (C6-MAM),Unknown,2021-05-12
+45,45,13:54 AA859,,Charlotte (CLT),American Airlines A319 (N823AW),Landed 13:54,2021-05-12
+46,46,13:56 AA2185,,Miami (MIA),American Airlines A319 (N4032T),Landed 13:32,2021-05-12
+47,47,14:00 WST605,,Marsh Harbour (MHH),Western Air E145 (C6-REX),Landed 13:18,2021-05-12
+48,48,14:14,,Baltimore (BWI),- LJ60,Landed 14:20,2021-05-12
+49,49,14:23 UA1454,,Houston (IAH),United Airlines A320 (N413UA),Landed 13:48,2021-05-12
+50,50,14:23 IF803,,Miami (OPF),IFL Group CVLT (N141FL),Landed 14:49,2021-05-12
+51,51,14:43,,West Palm Beach (PBI),- S22T (N730WD),Landed 14:32,2021-05-12
+52,52,14:48,,Miami (MIA),- E55P (N332QS),Unknown,2021-05-12
+53,53,14:55 WST401,,New Bight (TBI),Western Air SF3,Unknown,2021-05-12
+54,54,15:45 UP204,,Fort Lauderdale (FLL),Bahamasair B735 (C6-BFD),Landed 15:25,2021-05-12
+55,55,15:45 UP320,,Freeport (FPO),Bahamasair AT46 (C6-BFS),Landed 15:29,2021-05-12
+56,56,15:45 UP402,,Spring Point (AXP),Bahamasair AT46 (C6-BFV),Landed 16:15,2021-05-12
+57,57,15:55 WST519,,Congo Town (TZN),Western Air SF3,Unknown,2021-05-12
+58,58,16:05 SKZ4000,,Fort Lauderdale (FXE),Skyway Enterprises SH36 (N378MQ),Landed 16:01,2021-05-12
+59,59,16:13,,Marsh Harbour (MHH),- C208 (C6-TIA),Landed 16:24,2021-05-12
+60,60,16:15 PL704,,Deadman's Cay (LGI),Southern Air Charter BE1,Unknown,2021-05-12
+61,61,16:15 PL804,,Stella Maris (SML),Southern Air Charter BE1,Unknown,2021-05-12
+62,62,16:36,,Fort Lauderdale (FXE),- C208 (C6-AIR),Landed 16:12,2021-05-12
+63,63,16:50 PL506,,Rock Sound (RSD),Southern Air Charter BEH,Unknown,2021-05-12
+64,64,17:00,AA1005,Dallas (DFW),American Airlines B738 (N992AN),Landed 16:34,2021-05-12
+65,65,17:00 DL1938,,Atlanta (ATL),Delta Air Lines B739 (N803DN),Landed 16:55,2021-05-12
+66,66,17:00 PNP988,,North Eleuthera (ELH),Pineapple Air BES,Unknown,2021-05-12
+67,67,17:23,,San Andros (SAQ),- C208,Canceled,2021-05-12
+68,68,17:25 B62393,,Fort Lauderdale (FLL),JetBlue Airways E190 (N292JB),Landed 17:16,2021-05-12
+69,69,17:30 PL306,,Governor's Harbour (GHB),Southern Air Charter BE1,Unknown,2021-05-12
+70,70,17:30 PL406,,North Eleuthera (ELH),Southern Air Charter BE1,Unknown,2021-05-12
+71,71,17:30 WST717,,Freeport (FPO),Western Air ER4,Unknown,2021-05-12
+72,72,17:33,,Charleston (JZI),- C700 (N801QS),Unknown,2021-05-12
+73,73,17:53,,Chub Cay (CCZ),- C208 (N115PJ),Unknown,2021-05-12
+74,74,18:05 PL104,,New Bight (TBI),Southern Air Charter BEH,Unknown,2021-05-12
+75,75,18:05 PL204,,Arthur's Town (ATC),Southern Air Charter BEH,Unknown,2021-05-12
+76,76,18:15 JY270,,Providenciales (PLS),InterCaribbean Airways EM2,Canceled,2021-05-12
+77,77,18:24,,Atlanta (PDK),- CL60 (N650LC),Landed 19:00,2021-05-12
+78,78,18:30 WST718,,Freeport (FPO),Western Air ER4,Unknown,2021-05-12
+79,79,18:38,,Staniel Cay (TYM),- C208,Canceled,2021-05-12
+80,80,18:38,,Staniel Cay (TYM),- C208,Landed 18:02,2021-05-12

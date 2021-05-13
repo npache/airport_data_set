@@ -5550,3 +5550,631 @@
 51,51,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FUC),Landed 23:39,2021-05-01
 52,52,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 23:26,2021-05-01
 53,53,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FUC),Landed 23:39,2021-05-01
+0,0,00:10 AR1440,,La Rioja (IRJ),Aerolineas Argentinas E190 (LV-CMB),Unknown,2021-05-02
+1,1,00:30 AR1491,,Santiago del Estero (SDE),Aerolineas Argentinas 738,Unknown,2021-05-02
+2,2,02:05 AR1480,,Santiago del Estero (SDE),Aerolineas Argentinas 738,Unknown,2021-05-02
+3,3,02:05 AR1484,,Santiago del Estero (SDE),Aerolineas Argentinas B738 (LV-FXQ),Landed 01:37,2021-05-02
+4,4,02:10 FO5051,,Mendoza (MDZ),Flybondi B738 (LV-HKN),Landed 01:51,2021-05-02
+5,5,10:20 FO5101,,Puerto Iguazu (IGR),Flybondi B738 (LV-HKN),Landed 10:02,2021-05-02
+6,6,10:30,AR1685,San Carlos de Bariloche (BRC),Aerolineas Argentinas B738 (LV-GKS),Landed 10:09,2021-05-02
+7,7,10:30 AR1771,,Corrientes (CNQ),Aerolineas Argentinas E190 (LV-CIG),Landed 10:15,2021-05-02
+8,8,10:50 AR1511,,Cordoba (COR),Aerolineas Argentinas B738 (LV-CXS),Landed 10:38,2021-05-02
+9,9,11:30,AR1401,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FVN),Landed 11:49,2021-05-02
+10,10,12:45,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas B737 (LV-CBT),Landed 12:29,2021-05-02
+11,11,13:00,AR1453,Salta (SLA),Aerolineas Argentinas B738 (LV-GKT),Landed 12:23,2021-05-02
+12,12,13:30,AR1483,Tucuman (TUC),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 13:00,2021-05-02
+13,13,13:35 AR1471,,Jujuy (JUJ),Aerolineas Argentinas E190 (LV-GIK),Landed 13:17,2021-05-02
+14,14,14:00 AR1765,,Posadas (PSS),Aerolineas Argentinas E90,Unknown,2021-05-02
+15,15,14:20 AR1409,,Mendoza (MDZ),Aerolineas Argentinas B38M (LV-HKU),Landed 13:58,2021-05-02
+16,16,14:50,AR1781,Resistencia (RES),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 14:24,2021-05-02
+17,17,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas E190 (LV-CHR),Unknown,2021-05-02
+18,18,15:23 WJ3401,,Puerto Iguazu (IGR),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 15:17,2021-05-02
+19,19,15:30 FO5121,,Posadas (PSS),Flybondi B738 (LV-HKN),Landed 15:14,2021-05-02
+20,20,15:47 DN6023,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-02
+21,21,15:55,AR1341,Asuncion (ASU),Aerolineas Argentinas B737 (LV-CAP),Landed 15:43,2021-05-02
+22,22,16:20 AR1621,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-CPI),Landed 16:00,2021-05-02
+23,23,16:35 AR1431,,San Luis (LUQ),Aerolineas Argentinas E190 (LV-CDY),Landed 16:08,2021-05-02
+24,24,16:35,AR1455,Salta (SLA),Aerolineas Argentinas B738 (LV-FRQ),Landed 16:05,2021-05-02
+25,25,16:35 AR1737,,Puerto Iguazu (IGR),Aerolineas Argentinas 738,Unknown,2021-05-02
+26,26,16:40,AR1509,Cordoba (COR),Aerolineas Argentinas E190 (LV-CMB),Unknown,2021-05-02
+27,27,16:43 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-02
+28,28,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas E190 (LV-CPK),Landed 17:13,2021-05-02
+29,29,17:39 WJ3241,,Mendoza (MDZ),JetSMART Argentina 320,Unknown,2021-05-02
+30,30,17:55,AR1701,Rosario (ROS),Aerolineas Argentinas E90,Unknown,2021-05-02
+31,31,18:15 AR1689,,San Carlos de Bariloche (BRC),Aerolineas Argentinas B738 (LV-CXS),Landed 17:55,2021-05-02
+32,32,19:05 AR1405,,Mendoza (MDZ),Aerolineas Argentinas E190 (LV-CHO),Landed 18:25,2021-05-02
+33,33,19:30,AR1653,Neuquen (NQN),Aerolineas Argentinas B737 (LV-CBT),Landed 19:12,2021-05-02
+34,34,19:30 AR1729,,Parana (PRA),Aerolineas Argentinas E90,Unknown,2021-05-02
+35,35,19:30 AR1700,,Parana (PRA),Aerolineas Argentinas E190 (LV-GIK),Landed 18:58,2021-05-02
+36,36,19:45 WJ3267,,Cordoba (COR),JetSMART Argentina 320,Unknown,2021-05-02
+37,37,20:00,AR1601,Mar del Plata (MDQ),Aerolineas Argentinas E190 (LV-CIH),Landed 19:34,2021-05-02
+38,38,20:28 WJ3497,,Salta (SLA),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Landed 20:09,2021-05-02
+39,39,20:35 AR1655,,Neuquen (NQN),Aerolineas Argentinas B738 (LV-GKT),Landed 20:01,2021-05-02
+40,40,21:05 FO5271,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 20:50,2021-05-02
+41,41,21:20 AR1505,,Cordoba (COR),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 21:03,2021-05-02
+42,42,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 21:00,2021-05-02
+43,43,21:31 DN6003,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-02
+44,44,21:40,AR1709,Rosario (ROS),Aerolineas Argentinas E190 (LV-CPK),Landed 21:11,2021-05-02
+45,45,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas E190 (LV-CIG),Landed 21:41,2021-05-02
+46,46,22:01 DN6063,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-02
+47,47,22:10,AR1735,Puerto Iguazu (IGR),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 21:46,2021-05-02
+48,48,22:40,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-FVN),Landed 22:11,2021-05-02
+49,49,22:40,AR1861,El Calafate (FTE),Aerolineas Argentinas 738,Unknown,2021-05-02
+50,50,23:15 AR1473,,Jujuy (JUJ),Aerolineas Argentinas E190 (LV-CHR),Landed 22:57,2021-05-02
+51,51,23:15,AR1683,San Carlos de Bariloche (BRC),Aerolineas Argentinas E190 (LV-CHS),Landed 23:03,2021-05-02
+52,52,23:40 WJ3183,,San Carlos de Bariloche (BRC),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 23:42,2021-05-02
+53,53,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FRQ),Landed 23:15,2021-05-02
+54,54,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 23:31,2021-05-02
+55,55,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas B738 (LV-CXS),Landed 23:41,2021-05-02
+56,56,23:55 AR1667,,Esquel (EQS),Aerolineas Argentinas E190 (LV-CPI),Landed 23:34,2021-05-02
+57,57,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 23:31,2021-05-02
+58,58,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas B738 (LV-CXS),Landed 23:41,2021-05-02
+59,59,23:55 AR1667,,Esquel (EQS),Aerolineas Argentinas E190 (LV-CPI),Landed 23:34,2021-05-02
+0,0,12:10 AM AR1440,,La Rioja (IRJ),Aerolineas Argentinas E190 (LV-CMB),Unknown,2021-05-02
+1,1,12:30 AM AR1491,,Santiago del Estero (SDE),Aerolineas Argentinas 738,Unknown,2021-05-02
+2,2,2:05 AM AR1480,,Santiago del Estero (SDE),Aerolineas Argentinas 738,Unknown,2021-05-02
+3,3,2:05 AM AR1484,,Santiago del Estero (SDE),Aerolineas Argentinas B738 (LV-FXQ),Landed 1:37 AM,2021-05-02
+4,4,2:10 AM FO5051,,Mendoza (MDZ),Flybondi B738 (LV-HKN),Landed 1:51 AM,2021-05-02
+5,5,10:20 AM FO5101,,Puerto Iguazu (IGR),Flybondi B738 (LV-HKN),Landed 10:02 AM,2021-05-02
+6,6,10:30 AM,AR1685,San Carlos de Bariloche (BRC),Aerolineas Argentinas B738 (LV-GKS),Landed 10:09 AM,2021-05-02
+7,7,10:30 AM AR1771,,Corrientes (CNQ),Aerolineas Argentinas E190 (LV-CIG),Landed 10:15 AM,2021-05-02
+8,8,10:50 AM AR1511,,Cordoba (COR),Aerolineas Argentinas B738 (LV-CXS),Landed 10:38 AM,2021-05-02
+9,9,11:30 AM,AR1401,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FVN),Landed 11:49 AM,2021-05-02
+10,10,12:45 PM,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas B737 (LV-CBT),Landed 12:29 PM,2021-05-02
+11,11,1:00 PM,AR1453,Salta (SLA),Aerolineas Argentinas B738 (LV-GKT),Landed 12:23 PM,2021-05-02
+12,12,1:30 PM,AR1483,Tucuman (TUC),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 1:00 PM,2021-05-02
+13,13,1:35 PM AR1471,,Jujuy (JUJ),Aerolineas Argentinas E190 (LV-GIK),Landed 1:17 PM,2021-05-02
+14,14,2:00 PM AR1765,,Posadas (PSS),Aerolineas Argentinas E90,Unknown,2021-05-02
+15,15,2:20 PM AR1409,,Mendoza (MDZ),Aerolineas Argentinas B38M (LV-HKU),Landed 1:58 PM,2021-05-02
+16,16,2:50 PM,AR1781,Resistencia (RES),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 2:24 PM,2021-05-02
+17,17,3:10 PM AR1851,,Trelew (REL),Aerolineas Argentinas E190 (LV-CHR),Unknown,2021-05-02
+18,18,3:23 PM WJ3401,,Puerto Iguazu (IGR),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 3:17 PM,2021-05-02
+19,19,3:30 PM FO5121,,Posadas (PSS),Flybondi B738 (LV-HKN),Landed 3:14 PM,2021-05-02
+20,20,3:47 PM DN6023,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-02
+21,21,3:55 PM,AR1341,Asuncion (ASU),Aerolineas Argentinas B737 (LV-CAP),Landed 3:43 PM,2021-05-02
+22,22,4:20 PM AR1621,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-CPI),Landed 4:00 PM,2021-05-02
+23,23,4:35 PM AR1431,,San Luis (LUQ),Aerolineas Argentinas E190 (LV-CDY),Landed 4:08 PM,2021-05-02
+24,24,4:35 PM,AR1455,Salta (SLA),Aerolineas Argentinas B738 (LV-FRQ),Landed 4:05 PM,2021-05-02
+25,25,4:35 PM AR1737,,Puerto Iguazu (IGR),Aerolineas Argentinas 738,Unknown,2021-05-02
+26,26,4:40 PM,AR1509,Cordoba (COR),Aerolineas Argentinas E190 (LV-CMB),Unknown,2021-05-02
+27,27,4:43 PM DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-02
+28,28,5:20 PM AR1423,,San Juan (UAQ),Aerolineas Argentinas E190 (LV-CPK),Landed 5:13 PM,2021-05-02
+29,29,5:39 PM WJ3241,,Mendoza (MDZ),JetSMART Argentina 320,Unknown,2021-05-02
+30,30,5:55 PM,AR1701,Rosario (ROS),Aerolineas Argentinas E90,Unknown,2021-05-02
+31,31,6:15 PM AR1689,,San Carlos de Bariloche (BRC),Aerolineas Argentinas B738 (LV-CXS),Landed 5:55 PM,2021-05-02
+32,32,7:05 PM AR1405,,Mendoza (MDZ),Aerolineas Argentinas E190 (LV-CHO),Landed 6:25 PM,2021-05-02
+33,33,7:30 PM,AR1653,Neuquen (NQN),Aerolineas Argentinas B737 (LV-CBT),Landed 7:12 PM,2021-05-02
+34,34,7:30 PM AR1729,,Parana (PRA),Aerolineas Argentinas E90,Unknown,2021-05-02
+35,35,7:30 PM AR1700,,Parana (PRA),Aerolineas Argentinas E190 (LV-GIK),Landed 6:58 PM,2021-05-02
+36,36,7:45 PM WJ3267,,Cordoba (COR),JetSMART Argentina 320,Unknown,2021-05-02
+37,37,8:00 PM,AR1601,Mar del Plata (MDQ),Aerolineas Argentinas E190 (LV-CIH),Landed 7:34 PM,2021-05-02
+38,38,8:28 PM WJ3497,,Salta (SLA),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Landed 8:09 PM,2021-05-02
+39,39,8:35 PM AR1655,,Neuquen (NQN),Aerolineas Argentinas B738 (LV-GKT),Landed 8:01 PM,2021-05-02
+40,40,9:05 PM FO5271,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 8:50 PM,2021-05-02
+41,41,9:20 PM AR1505,,Cordoba (COR),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 9:03 PM,2021-05-02
+42,42,9:20 PM,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 9:00 PM,2021-05-02
+43,43,9:31 PM DN6003,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-02
+44,44,9:40 PM,AR1709,Rosario (ROS),Aerolineas Argentinas E190 (LV-CPK),Landed 9:11 PM,2021-05-02
+45,45,9:50 PM AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas E190 (LV-CIG),Landed 9:41 PM,2021-05-02
+46,46,10:01 PM DN6063,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-02
+47,47,10:10 PM,AR1735,Puerto Iguazu (IGR),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 9:46 PM,2021-05-02
+48,48,10:40 PM,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-FVN),Landed 10:11 PM,2021-05-02
+49,49,10:40 PM,AR1861,El Calafate (FTE),Aerolineas Argentinas 738,Unknown,2021-05-02
+50,50,11:15 PM AR1473,,Jujuy (JUJ),Aerolineas Argentinas E190 (LV-CHR),Landed 10:57 PM,2021-05-02
+51,51,11:15 PM,AR1683,San Carlos de Bariloche (BRC),Aerolineas Argentinas E190 (LV-CHS),Landed 11:03 PM,2021-05-02
+52,52,11:40 PM WJ3183,,San Carlos de Bariloche (BRC),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 11:42 PM,2021-05-02
+53,53,11:45 PM,AR1403,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FRQ),Landed 11:15 PM,2021-05-02
+54,54,11:50 PM,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 11:31 PM,2021-05-02
+55,55,11:50 PM AR1763,,Posadas (PSS),Aerolineas Argentinas B738 (LV-CXS),Landed 11:41 PM,2021-05-02
+56,56,11:55 PM AR1667,,Esquel (EQS),Aerolineas Argentinas E190 (LV-CPI),Landed 11:34 PM,2021-05-02
+0,0,00:05 AR1953,,Santiago del Estero (SDE),Aerolineas Argentinas E190 (LV-CET),Landed 23:27,2021-05-03
+1,1,00:10 AR1823,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B737 (LV-CAP),Landed 23:45,2021-05-03
+2,2,00:40,AR1481,Tucuman (TUC),Aerolineas Argentinas E190 (LV-CDY),Landed 00:17,2021-05-03
+3,3,01:10 FO5015,,Cordoba (COR),Flybondi B738 (LV-HKN),Landed 00:55,2021-05-03
+4,4,04:05 AR1953,,Santiago del Estero (SDE),Aerolineas Argentinas E90,Unknown,2021-05-03
+5,5,06:10 AR1369,,Santa Cruz (VVI),Aerolineas Argentinas E190 (LV-CEU),Unknown,2021-05-03
+6,6,10:19 WJ3267,,Cordoba (COR),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 10:11,2021-05-03
+7,7,10:30,AR1685,San Carlos de Bariloche (BRC),Aerolineas Argentinas B738 (LV-GUC),Landed 10:10,2021-05-03
+8,8,10:40 AR1721,,Santa Fe (SFN),Aerolineas Argentinas E90,Unknown,2021-05-03
+9,9,11:10,AR1651,Neuquen (NQN),Aerolineas Argentinas B738 (LV-FVN),Landed 10:57,2021-05-03
+10,10,11:15,AR1705,Rosario (ROS),Aerolineas Argentinas E90,Unknown,2021-05-03
+11,11,11:15 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 11:04,2021-05-03
+12,12,11:20 AR1529,,Cordoba (COR),Aerolineas Argentinas B737 (LV-CBT),Landed 11:06,2021-05-03
+13,13,11:22 DN6067,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-03
+14,14,11:30,AR1401,Mendoza (MDZ),Aerolineas Argentinas E190 (LV-CET),Landed 11:12,2021-05-03
+15,15,11:32 WJ3241,,Mendoza (MDZ),JetSMART (Huemul Livery) A320 (LV-HEK),Landed 11:29,2021-05-03
+16,16,12:20,AR1603,Mar del Plata (MDQ),Aerolineas Argentinas E190 (LV-CIH),Unknown,2021-05-03
+17,17,12:20 AR1821,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B738 (LV-FXQ),Landed 11:55,2021-05-03
+18,18,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FRQ),Landed 12:24,2021-05-03
+19,19,12:40 AR1704,,Santa Fe (SFN),Aerolineas Argentinas E190 (LV-CHO),Landed 12:28,2021-05-03
+20,20,12:45,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas E190 (LV-CHQ),Landed 12:38,2021-05-03
+21,21,13:00,AR1453,Salta (SLA),Aerolineas Argentinas B738 (LV-GKU),Landed 12:33,2021-05-03
+22,22,13:30,AR1483,Tucuman (TUC),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 13:01,2021-05-03
+23,23,13:35 AR1471,,Jujuy (JUJ),Aerolineas Argentinas E190 (LV-CHS),Landed 13:31,2021-05-03
+24,24,14:20 AR1409,,Mendoza (MDZ),Aerolineas Argentinas B38M (LV-HKU),Landed 14:09,2021-05-03
+25,25,14:20 AR1622,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-CDY),Landed 14:07,2021-05-03
+26,26,14:50,AR1781,Resistencia (RES),Aerolineas Argentinas B737 (LV-CAP),Landed 14:38,2021-05-03
+27,27,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas E190 (LV-CMB),Landed 14:57,2021-05-03
+28,28,15:40 AR1511,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CPI),Unknown,2021-05-03
+29,29,16:08 WJ3445,,Neuquen (NQN),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 16:04,2021-05-03
+30,30,16:10 FO5051,,Mendoza (MDZ),Flybondi 738,Unknown,2021-05-03
+31,31,16:20 AR1621,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-CEU),Landed 16:05,2021-05-03
+32,32,16:32 AR1043,,San Juan (UAQ),Aerolineas Argentinas E190 (LV-CEV),Landed 16:32,2021-05-03
+33,33,16:35,AR1455,Salta (SLA),Aerolineas Argentinas E190 (LV-CHR),Landed 16:19,2021-05-03
+34,34,16:35 AR1737,,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-GUC),Landed 16:25,2021-05-03
+35,35,16:41 WJ3501,,Tucuman (TUC),JetSMART (Huemul Livery) A320 (LV-HEK),Landed 16:31,2021-05-03
+36,36,16:47 DN6027,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-03
+37,37,16:50,AR1863,El Calafate (FTE),Aerolineas Argentinas B738 (LV-CXS),Landed 16:36,2021-05-03
+38,38,16:50 WJ3183,,San Carlos de Bariloche (BRC),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Landed 20:50,2021-05-03
+39,39,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas E190 (LV-CET),Landed 16:49,2021-05-03
+40,40,18:15 AR1689,,San Carlos de Bariloche (BRC),Aerolineas Argentinas 738,Unknown,2021-05-03
+41,41,18:40 AR1507,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CPK),Landed 18:21,2021-05-03
+42,42,19:05 AR1405,,Mendoza (MDZ),Aerolineas Argentinas B737 (LV-CBT),Landed 18:36,2021-05-03
+43,43,20:30,ZP818,Asuncion (ASU),Paranair CRJ2 (ZP-CRR),Unknown,2021-05-03
+44,44,20:35 AR1657,,Neuquen (NQN),Aerolineas Argentinas E190 (LV-CDY),Landed 21:07,2021-05-03
+45,45,21:13 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-03
+46,46,21:20 AR1505,,Cordoba (COR),Aerolineas Argentinas B738 (LV-GKU),Landed 21:02,2021-05-03
+47,47,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 21:26,2021-05-03
+48,48,21:20 FO5311,,Trelew (REL),Flybondi 738,Unknown,2021-05-03
+49,49,21:40,AR1709,Rosario (ROS),Aerolineas Argentinas E90,Canceled,2021-05-03
+50,50,21:45,AR1861,El Calafate (FTE),Aerolineas Argentinas 738,Unknown,2021-05-03
+51,51,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas B738 (LV-FUA),Landed 21:22,2021-05-03
+52,52,22:40,AR1451,Salta (SLA),Aerolineas Argentinas 738,Unknown,2021-05-03
+53,53,22:40 AR1503,,Cordoba (COR),Aerolineas Argentinas 738,Canceled,2021-05-03
+54,54,23:00 WJ3493,,Salta (SLA),JetSMART Argentina 320,Unknown,2021-05-03
+55,55,23:02 DN6001,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-03
+56,56,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FRQ),Canceled,2021-05-03
+57,57,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas E190 (LV-CHR),Estimated 23:37,2021-05-03
+58,58,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FRQ),Landed 23:32,2021-05-03
+59,59,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas E190 (LV-CHR),Estimated 23:37,2021-05-03
+60,60,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FRQ),Landed 23:32,2021-05-03
+0,0,00:05 AR1472,,Salta (SLA),Aerolineas Argentinas B738 (LV-FXQ),Landed 23:14,2021-05-04
+1,1,00:10 AR1823,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B737 (LV-CAP),Landed 23:38,2021-05-04
+2,2,10:19 WJ3267,,Cordoba (COR),JetSMART Argentina 320,Unknown,2021-05-04
+3,3,10:30,AR1685,San Carlos de Bariloche (BRC),Aerolineas Argentinas 738,Canceled,2021-05-04
+4,4,10:31 DN6027,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-04
+5,5,11:10,AR1651,Neuquen (NQN),Aerolineas Argentinas B738 (LV-CXS),Landed 11:08,2021-05-04
+6,6,11:15 DN6063,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-04
+7,7,11:15 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 10:52,2021-05-04
+8,8,11:20 AR1529,,Cordoba (COR),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 11:04,2021-05-04
+9,9,11:32 WJ3241,,Mendoza (MDZ),JetSMART Argentina 320,Unknown,2021-05-04
+10,10,11:50,AR1863,El Calafate (FTE),Aerolineas Argentinas B738 (LV-FUA),Landed 11:21,2021-05-04
+11,11,12:20,AR1603,Mar del Plata (MDQ),Aerolineas Argentinas E90,Unknown,2021-05-04
+12,12,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GVB),Landed 11:54,2021-05-04
+13,13,13:00,AR1453,Salta (SLA),Aerolineas Argentinas B738 (LV-GKU),Landed 12:42,2021-05-04
+14,14,13:16 WJ3460,,Ushuaia (USH),JetSMART Argentina 320,Unknown,2021-05-04
+15,15,13:30,AR1483,Tucuman (TUC),Aerolineas Argentinas E190 (LV-CDY),Landed 13:05,2021-05-04
+16,16,14:20 AR1409,,Mendoza (MDZ),Aerolineas Argentinas B38M (LV-HKU),Landed 14:00,2021-05-04
+17,17,14:25,AR1341,Asuncion (ASU),Aerolineas Argentinas B738 (LV-FXQ),Landed 14:56,2021-05-04
+18,18,14:35 AR1602,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-CMB),Landed 14:06,2021-05-04
+19,19,14:45,AR1501,Cordoba (COR),Aerolineas Argentinas E190 (LV-CPK),Landed 14:27,2021-05-04
+20,20,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas B737 (LV-CAP),Landed 14:35,2021-05-04
+21,21,15:35,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-FWS),Landed 15:18,2021-05-04
+22,22,15:40 AR1511,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-05-04
+23,23,16:03 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-04
+24,24,16:13 WJ3183,,San Carlos de Bariloche (BRC),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Landed 16:06,2021-05-04
+25,25,16:20 AR1621,,Bahia Blanca (BHI),Aerolineas Argentinas 738,Unknown,2021-05-04
+26,26,16:30 FO5221,,Tucuman (TUC),Flybondi B738 (LV-HKN),Landed 15:49,2021-05-04
+27,27,16:40,AR1509,Cordoba (COR),Aerolineas Argentinas E190 (LV-CHR),Unknown,2021-05-04
+28,28,16:41 WJ3501,,Tucuman (TUC),JetSMART Argentina 320,Unknown,2021-05-04
+29,29,16:52 WJ3445,,Neuquen (NQN),JetSMART Argentina 320,Unknown,2021-05-04
+30,30,17:05 AR1671,,San Martin de los Andes (CPC),Aerolineas Argentinas 738,Canceled,2021-05-04
+31,31,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 17:03,2021-05-04
+32,32,17:25 AR1931,,Puerto Iguazu (IGR),Aerolineas Argentinas E90,Unknown,2021-05-04
+33,33,17:45 AR1821,,Comodoro Rivadavia (CRD),Aerolineas Argentinas E190 (LV-CEU),Landed 17:41,2021-05-04
+34,34,17:55,AR1701,Rosario (ROS),Aerolineas Argentinas B738 (LV-GVB),Unknown,2021-05-04
+35,35,19:05 AR1405,,Mendoza (MDZ),Aerolineas Argentinas 738,Canceled,2021-05-04
+36,36,20:19 DN6001,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-04
+37,37,20:35 AR1655,,Neuquen (NQN),Aerolineas Argentinas 738,Unknown,2021-05-04
+38,38,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 21:14,2021-05-04
+39,39,21:40,AR1709,Rosario (ROS),Aerolineas Argentinas E90,Unknown,2021-05-04
+40,40,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas B738 (LV-FUA),Landed 21:20,2021-05-04
+41,41,22:14 WJ3401,,Puerto Iguazu (IGR),JetSMART Argentina 320,Unknown,2021-05-04
+42,42,22:20 FO5191,,Jujuy (JUJ),Flybondi B738 (LV-HKN),Landed 22:04,2021-05-04
+43,43,22:25 AR1520,,Santa Rosa (RSA),Aerolineas Argentinas E190 (LV-CPK),Unknown,2021-05-04
+44,44,22:35,AR1265,Rio de Janeiro (GIG),Aerolineas Argentinas B738 (LV-CXS),Landed 22:22,2021-05-04
+45,45,22:40,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-FXQ),Unknown,2021-05-04
+46,46,22:40 AR1503,,Cordoba (COR),Aerolineas Argentinas 73R,Canceled,2021-05-04
+47,47,22:55,AR1739,Puerto Iguazu (IGR),Aerolineas Argentinas E190 (LV-CHR),Landed 22:37,2021-05-04
+48,48,23:13 WJ3481,,Salta (SLA),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Landed 22:49,2021-05-04
+49,49,23:15 AR1473,,Jujuy (JUJ),Aerolineas Argentinas E190 (LV-CET),Landed 22:57,2021-05-04
+50,50,23:20,AR1683,San Carlos de Bariloche (BRC),Aerolineas Argentinas E190 (LV-CHR),Scheduled,2021-05-04
+51,51,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FQB),Landed 23:25,2021-05-04
+52,52,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas E190 (LV-CEU),Landed 23:34,2021-05-04
+53,53,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 23:28,2021-05-04
+54,54,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas E190 (LV-CEU),Landed 23:34,2021-05-04
+55,55,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 23:28,2021-05-04
+0,0,03:05 FO5051,,Mendoza (MDZ),Flybondi 738,Unknown,2021-05-05
+1,1,03:15 AR1969,,Santiago (SCL),Aerolineas Argentinas E190 (LV-CHO),Unknown,2021-05-05
+2,2,10:23,,Santiago (SCL),- A320,Canceled,2021-05-05
+3,3,11:00 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 10:39,2021-05-05
+4,4,11:07 WJ3015,,Santiago (SCL),JetSMART Argentina 320,Unknown,2021-05-05
+5,5,11:10,AR1651,Neuquen (NQN),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-05-05
+6,6,11:15,AR1705,Rosario (ROS),Aerolineas Argentinas E90,Canceled,2021-05-05
+7,7,11:19 AR1083,,Rosario (ROS),Aerolineas Argentinas E190 (LV-CHQ),Landed 11:13,2021-05-05
+8,8,11:30,AR1401,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-CXS),Landed 11:06,2021-05-05
+9,9,11:50,AR1863,El Calafate (FTE),Aerolineas Argentinas B38M (LV-HKU),Landed 11:31,2021-05-05
+10,10,12:10,AR1501,Cordoba (COR),Aerolineas Argentinas B738 (LV-FWS),Landed 11:52,2021-05-05
+11,11,12:20,AR1603,Mar del Plata (MDQ),Aerolineas Argentinas E190 (LV-CDY),Landed 11:56,2021-05-05
+12,12,12:20 AR1821,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B738 (LV-FQB),Landed 11:48,2021-05-05
+13,13,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 12:06,2021-05-05
+14,14,12:35 AR1706,,Parana (PRA),Aerolineas Argentinas E190 (LV-CHO),Landed 12:12,2021-05-05
+15,15,12:49 WJ3445,,Neuquen (NQN),JetSMART Argentina 320,Unknown,2021-05-05
+16,16,13:00,AR1453,Salta (SLA),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 12:30,2021-05-05
+17,17,13:00 AR1727,,Parana (PRA),Aerolineas Argentinas E90,Canceled,2021-05-05
+18,18,13:25,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas B737 (LV-CBT),Landed 13:09,2021-05-05
+19,19,13:30,AR1483,Tucuman (TUC),Aerolineas Argentinas B738 (LV-FUA),Landed 13:02,2021-05-05
+20,20,13:35 AR1471,,Jujuy (JUJ),Aerolineas Argentinas E90,Canceled,2021-05-05
+21,21,14:15,AR1241,Sao Paulo (GRU),Aerolineas Argentinas B738 (LV-FXQ),Landed 13:57,2021-05-05
+22,22,14:50,AR1781,Resistencia (RES),Aerolineas Argentinas B738 (LV-GVB),Landed 14:31,2021-05-05
+23,23,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas E190 (LV-CHR),Unknown,2021-05-05
+24,24,15:35 FO5151,,Corrientes (CNQ),Flybondi B738 (LV-HKN),Landed 15:07,2021-05-05
+25,25,16:03 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-05
+26,26,16:13 WJ3183,,San Carlos de Bariloche (BRC),JetSMART Argentina 320,Unknown,2021-05-05
+27,27,16:15,AR1701,Rosario (ROS),Aerolineas Argentinas E190 (LV-CEU),Landed 16:03,2021-05-05
+28,28,16:35 AR1624,,Viedma (VDM),Aerolineas Argentinas E90,Canceled,2021-05-05
+29,29,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-05-05
+30,30,17:45 AR1523,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CHS),Landed 17:26,2021-05-05
+31,31,17:58 WJ3501,,Tucuman (TUC),JetSMART Argentina 320,Unknown,2021-05-05
+32,32,18:10 WJ3481,,Salta (SLA),JetSMART Argentina 320,Unknown,2021-05-05
+33,33,18:40 AR1507,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CMB),Landed 18:21,2021-05-05
+34,34,19:05 AR1405,,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FWS),Landed 18:32,2021-05-05
+35,35,20:33 DN6023,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-05
+36,36,20:35 AR1655,,Neuquen (NQN),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 20:20,2021-05-05
+37,37,21:10 FO5161,,Salta (SLA),Flybondi B738 (LV-HKN),Landed 20:49,2021-05-05
+38,38,21:20 AR1505,,Cordoba (COR),Aerolineas Argentinas 738,Canceled,2021-05-05
+39,39,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 21:15,2021-05-05
+40,40,21:25,AR1365,Lima (LIM),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 20:53,2021-05-05
+41,41,21:40,AR1735,Puerto Iguazu (IGR),Aerolineas Argentinas 738,Canceled,2021-05-05
+42,42,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas E190 (LV-CDY),Unknown,2021-05-05
+43,43,21:52 DN6007,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-05
+44,44,22:01 DN6063,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-05
+45,45,22:19 WJ3269,,Cordoba (COR),JetSMART Argentina 320,Unknown,2021-05-05
+46,46,22:40,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-GVB),Landed 22:29,2021-05-05
+47,47,22:40 AR1503,,Cordoba (COR),Aerolineas Argentinas B738 (LV-FUA),Landed 22:15,2021-05-05
+48,48,22:45 AR1526,,Rio Cuarto (RCU),Aerolineas Argentinas E190 (LV-CHR),Landed 22:12,2021-05-05
+49,49,22:45,AR1683,San Carlos de Bariloche (BRC),Aerolineas Argentinas E190 (LV-CPK),Unknown,2021-05-05
+50,50,23:25 AR1283,,Santiago (SCL),Aerolineas Argentinas E190 (LV-CEU),Landed 23:25,2021-05-05
+51,51,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FQB),Landed 23:19,2021-05-05
+52,52,23:46 WJ3243,,Mendoza (MDZ),JetSMART Argentina 320,Scheduled,2021-05-05
+53,53,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas E190 (LV-CHO),Landed 23:31,2021-05-05
+54,54,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas E190 (LV-CHO),Landed 23:31,2021-05-05
+0,0,00:35 AR1484,,Santiago del Estero (SDE),Aerolineas Argentinas 738,Unknown,2021-05-06
+1,1,02:05 AR1480,,Santiago del Estero (SDE),Aerolineas Argentinas 738,Unknown,2021-05-06
+2,2,02:05 AR1484,,Santiago del Estero (SDE),Aerolineas Argentinas 738,Unknown,2021-05-06
+3,3,09:32 WJ9002,,Buenos Aires (EZE),JetSMART Argentina 320,Unknown,2021-05-06
+4,4,10:20 AR1771,,Corrientes (CNQ),Aerolineas Argentinas E190 (LV-CEU),Unknown,2021-05-06
+5,5,11:20 AR1529,,Cordoba (COR),Aerolineas Argentinas B738 (LV-CXS),Landed 11:07,2021-05-06
+6,6,11:40 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 11:20,2021-05-06
+7,7,11:50,AR1863,El Calafate (FTE),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 11:23,2021-05-06
+8,8,12:16 DN6001,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-06
+9,9,12:20,AR1603,Mar del Plata (MDQ),Aerolineas Argentinas E190 (LV-CET),Landed 12:03,2021-05-06
+10,10,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FUA),Landed 12:23,2021-05-06
+11,11,12:45,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-GKU),Landed 12:18,2021-05-06
+12,12,13:00,AR1453,Salta (SLA),Aerolineas Argentinas B738 (LV-FXQ),Landed 12:43,2021-05-06
+13,13,14:20 AR1409,,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-GVB),Landed 14:05,2021-05-06
+14,14,14:23 WJ3401,,Puerto Iguazu (IGR),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 14:10,2021-05-06
+15,15,14:25 DN6067,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-06
+16,16,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 14:39,2021-05-06
+17,17,15:15 AR1721,,Santa Fe (SFN),Aerolineas Argentinas E190 (LV-CMB),Landed 14:49,2021-05-06
+18,18,15:25 AR1470,,Tucuman (TUC),Aerolineas Argentinas B738 (LV-FWS),Landed 15:12,2021-05-06
+19,19,15:55,AR1401,Mendoza (MDZ),Aerolineas Argentinas E190 (LV-CDY),Unknown,2021-05-06
+20,20,16:20 AR1621,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-CPK),Unknown,2021-05-06
+21,21,16:30 FO5231,,Santiago del Estero (SDE),Flybondi 738,Unknown,2021-05-06
+22,22,17:05 AR1671,,San Martin de los Andes (CPC),Aerolineas Argentinas B737 (LV-CBT),Unknown,2021-05-06
+23,23,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas E190 (LV-GIK),Landed 17:16,2021-05-06
+24,24,17:45 AR1821,,Comodoro Rivadavia (CRD),Aerolineas Argentinas E190 (LV-CHR),Landed 17:20,2021-05-06
+25,25,17:57 WJ3445,,Neuquen (NQN),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 17:42,2021-05-06
+26,26,18:15 AR1434,,Mendoza (MDZ),Aerolineas Argentinas E190 (LV-CEU),Unknown,2021-05-06
+27,27,18:40 AR1507,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CHS),Landed 18:29,2021-05-06
+28,28,20:35 AR1655,,Neuquen (NQN),Aerolineas Argentinas B738 (LV-FUA),Landed 20:14,2021-05-06
+29,29,21:12 DN6027,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-06
+30,30,21:13 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-06
+31,31,21:20 AR1505,,Cordoba (COR),Aerolineas Argentinas 73R,Canceled,2021-05-06
+32,32,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 21:03,2021-05-06
+33,33,21:40,AR1709,Rosario (ROS),Aerolineas Argentinas E90,Canceled,2021-05-06
+34,34,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 21:16,2021-05-06
+35,35,21:55 WJ3269,,Cordoba (COR),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Landed 21:45,2021-05-06
+36,36,22:20 FO5191,,Jujuy (JUJ),Flybondi B738 (LV-HKN),Landed 21:59,2021-05-06
+37,37,22:40,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-FXQ),Landed 22:17,2021-05-06
+38,38,22:40 AR1503,,Cordoba (COR),Aerolineas Argentinas B738 (LV-FWS),Landed 22:25,2021-05-06
+39,39,23:02 WJ3243,,Mendoza (MDZ),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 22:54,2021-05-06
+40,40,23:10 AR1734,,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-GKU),Landed 22:42,2021-05-06
+41,41,23:37 WJ3183,,San Carlos de Bariloche (BRC),JetSMART Argentina 320,Scheduled,2021-05-06
+42,42,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 23:25,2021-05-06
+43,43,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas 738,Canceled,2021-05-06
+44,44,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas 738,Canceled,2021-05-06
+0,0,00:10 AR1823,,Comodoro Rivadavia (CRD),Aerolineas Argentinas E190 (LV-CPK),Unknown,2021-05-07
+1,1,00:40,AR1481,Tucuman (TUC),Aerolineas Argentinas E90,Canceled,2021-05-07
+2,2,10:30,AR1685,San Carlos de Bariloche (BRC),Aerolineas Argentinas B738 (LV-FWS),Landed 10:17,2021-05-07
+3,3,10:40 FO5161,,Salta (SLA),Flybondi 738,Unknown,2021-05-07
+4,4,11:10,AR1651,Neuquen (NQN),Aerolineas Argentinas B738 (LV-FQB),Landed 10:57,2021-05-07
+5,5,11:30,AR1401,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-GUC),Landed 11:08,2021-05-07
+6,6,12:10,AR1501,Cordoba (COR),Aerolineas Argentinas B738 (LV-GVB),Landed 11:57,2021-05-07
+7,7,12:14 WJ3481,,Salta (SLA),JetSMART Argentina 320,Unknown,2021-05-07
+8,8,12:20,AR1603,Mar del Plata (MDQ),Aerolineas Argentinas E190 (LV-CIG),Landed 12:10,2021-05-07
+9,9,12:20 AR1821,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B737 (LV-CBT),Landed 11:50,2021-05-07
+10,10,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B38M (LV-HKU),Landed 12:07,2021-05-07
+11,11,13:25,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-FVO),Landed 13:13,2021-05-07
+12,12,13:30,AR1483,Tucuman (TUC),Aerolineas Argentinas 738,Unknown,2021-05-07
+13,13,14:20 AR1409,,Mendoza (MDZ),Aerolineas Argentinas 738,Canceled,2021-05-07
+14,14,14:20 AR1622,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-CHR),Landed 14:07,2021-05-07
+15,15,14:40 AR1452,,Jujuy (JUJ),Aerolineas Argentinas B738 (LV-FXQ),Unknown,2021-05-07
+16,16,14:50,AR1781,Resistencia (RES),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 14:45,2021-05-07
+17,17,15:05 FO5151,,Corrientes (CNQ),Flybondi B738 (LV-HKN),Landed 14:38,2021-05-07
+18,18,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas E190 (LV-CKZ),Landed 14:49,2021-05-07
+19,19,15:40 AR1511,,Cordoba (COR),Aerolineas Argentinas E190 (LV-GIK),Landed 15:36,2021-05-07
+20,20,15:55,AR1705,Rosario (ROS),Aerolineas Argentinas E190 (LV-CEU),Landed 15:25,2021-05-07
+21,21,16:20 AR1621,,Bahia Blanca (BHI),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 15:59,2021-05-07
+22,22,16:27 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-07
+23,23,16:50,AR1863,El Calafate (FTE),Aerolineas Argentinas B738 (LV-FUA),Landed 16:05,2021-05-07
+24,24,17:45 AR1523,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CET),Landed 17:30,2021-05-07
+25,25,17:56 WJ3501,,Tucuman (TUC),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 15:04,2021-05-07
+26,26,18:18 WJ3185,,San Carlos de Bariloche (BRC),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 18:06,2021-05-07
+27,27,19:05 AR1405,,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-GKU),Landed 19:01,2021-05-07
+28,28,19:55 FO5303,,Neuquen (NQN),Flybondi B738 (LV-HKN),Landed 19:42,2021-05-07
+29,29,20:23 DN6063,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-07
+30,30,20:34 DN6023,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-07
+31,31,20:35 AR1657,,Neuquen (NQN),Aerolineas Argentinas E190 (LV-CIG),Landed 20:35,2021-05-07
+32,32,21:20 AR1505,,Cordoba (COR),Aerolineas Argentinas 73R,Unknown,2021-05-07
+33,33,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 21:18,2021-05-07
+34,34,21:27 WJ3445,,Neuquen (NQN),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 21:25,2021-05-07
+35,35,21:40,AR1709,Rosario (ROS),Aerolineas Argentinas E190 (LV-GIK),Landed 21:14,2021-05-07
+36,36,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas B738 (LV-FQB),Landed 21:45,2021-05-07
+37,37,21:57 DN6007,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-07
+38,38,22:25 AR1520,,Santa Rosa (RSA),Aerolineas Argentinas E190 (LV-CMB),Unknown,2021-05-07
+39,39,22:27 WJ3269,,Cordoba (COR),JetSMART Argentina 320,Unknown,2021-05-07
+40,40,22:40,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-GUC),Landed 22:15,2021-05-07
+41,41,22:40 AR1503,,Cordoba (COR),Aerolineas Argentinas B738 (LV-GVB),Landed 22:22,2021-05-07
+42,42,22:56 WJ3243,,Mendoza (MDZ),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Landed 22:39,2021-05-07
+43,43,23:15 AR1473,,Jujuy (JUJ),Aerolineas Argentinas B737 (LV-CBT),Landed 22:36,2021-05-07
+44,44,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FUA),Landed 23:17,2021-05-07
+45,45,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FWS),Landed 23:45,2021-05-07
+46,46,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas E190 (LV-CET),Landed 23:41,2021-05-07
+47,47,23:59 FO5015,,Cordoba (COR),Flybondi B738 (LV-HKN),Landed 23:37,2021-05-07
+48,48,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FWS),Landed 23:45,2021-05-07
+49,49,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas E190 (LV-CET),Landed 23:41,2021-05-07
+50,50,23:59 FO5015,,Cordoba (COR),Flybondi B738 (LV-HKN),Landed 23:37,2021-05-07
+0,0,00:10 AR1823,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B738 (LV-FVO),Landed 23:47,2021-05-08
+1,1,00:30 AR1491,,Santiago del Estero (SDE),Aerolineas Argentinas B738 (LV-GKU),Landed 00:00,2021-05-08
+2,2,00:40,AR1481,Tucuman (TUC),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 00:14,2021-05-08
+3,3,10:30 FO5101,,Puerto Iguazu (IGR),Flybondi 738,Unknown,2021-05-08
+4,4,11:10,AR1651,Neuquen (NQN),Aerolineas Argentinas B738 (LV-GKU),Landed 10:47,2021-05-08
+5,5,11:20 AR1529,,Cordoba (COR),Aerolineas Argentinas B738 (LV-CXS),Landed 11:03,2021-05-08
+6,6,11:30,AR1401,Mendoza (MDZ),Aerolineas Argentinas B38M (LV-HKU),Landed 11:16,2021-05-08
+7,7,11:50,AR1863,El Calafate (FTE),Aerolineas Argentinas B738 (LV-GUC),Landed 11:45,2021-05-08
+8,8,12:20,AR1603,Mar del Plata (MDQ),Aerolineas Argentinas E190 (LV-GIK),Unknown,2021-05-08
+9,9,12:20 AR1821,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B738 (LV-FUA),Landed 12:03,2021-05-08
+10,10,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FQB),Landed 12:22,2021-05-08
+11,11,12:40 AR1704,,Santa Fe (SFN),Aerolineas Argentinas E190 (LV-CKZ),Unknown,2021-05-08
+12,12,13:00,AR1453,Salta (SLA),Aerolineas Argentinas B738 (LV-FVO),Landed 12:44,2021-05-08
+13,13,14:20 AR1409,,Mendoza (MDZ),Aerolineas Argentinas 73M,Canceled,2021-05-08
+14,14,14:45,AR1501,Cordoba (COR),Aerolineas Argentinas E90,Canceled,2021-05-08
+15,15,15:10 AR1470,,Tucuman (TUC),Aerolineas Argentinas B738 (LV-GKT),Landed 14:47,2021-05-08
+16,16,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 14:53,2021-05-08
+17,17,15:17 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-08
+18,18,15:35,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas E190 (LV-CMB),Unknown,2021-05-08
+19,19,15:40 AR1511,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CET),Landed 15:24,2021-05-08
+20,20,15:42 DN6063,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-08
+21,21,16:10 FO5239,,San Carlos de Bariloche (BRC),Flybondi 738,Unknown,2021-05-08
+22,22,16:13 WJ3490,,El Calafate (FTE),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 16:20,2021-05-08
+23,23,16:15,AR1701,Rosario (ROS),Aerolineas Argentinas E190 (LV-CIG),Landed 15:58,2021-05-08
+24,24,16:35,AR1455,Salta (SLA),Aerolineas Argentinas 738,Canceled,2021-05-08
+25,25,16:35 AR1624,,Viedma (VDM),Aerolineas Argentinas E190 (LV-CIE),Landed 16:01,2021-05-08
+26,26,17:13 WJ3183,,San Carlos de Bariloche (BRC),JetSMART (Huemul Livery) A320 (LV-HEK),Landed 17:14,2021-05-08
+27,27,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas E90,Canceled,2021-05-08
+28,28,18:40 AR1507,,Cordoba (COR),Aerolineas Argentinas B737 (LV-CBT),Landed 18:15,2021-05-08
+29,29,18:40 AR1783,,Resistencia (RES),Aerolineas Argentinas E190 (LV-CKZ),Unknown,2021-05-08
+30,30,18:45 AR1916,,San Rafael (AFA),Aerolineas Argentinas E190 (LV-CHS),Landed 18:40,2021-05-08
+31,31,19:05 AR1405,,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-GUC),Landed 18:33,2021-05-08
+32,32,20:24 DN6027,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-08
+33,33,21:14 DN6005,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-08
+34,34,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 20:56,2021-05-08
+35,35,21:25 FO5221,,Tucuman (TUC),Flybondi 738,Unknown,2021-05-08
+36,36,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas B738 (LV-FUA),Landed 21:42,2021-05-08
+37,37,22:15 AR1961,,Tucuman (TUC),Aerolineas Argentinas E90,Canceled,2021-05-08
+38,38,22:15 AR1981,,Tucuman (TUC),Aerolineas Argentinas E190 (LV-CHR),Unknown,2021-05-08
+39,39,22:40,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-GKT),Landed 22:06,2021-05-08
+40,40,22:45,AR1683,San Carlos de Bariloche (BRC),Aerolineas Argentinas E190 (LV-GIK),Landed 22:32,2021-05-08
+41,41,22:45 AR1979,,Parana (PRA),Aerolineas Argentinas E190 (LV-CMA),Landed 22:29,2021-05-08
+42,42,23:10 AR1734,,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-FQB),Landed 22:37,2021-05-08
+43,43,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas E90,Scheduled,2021-05-08
+44,44,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 23:29,2021-05-08
+45,45,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 23:29,2021-05-08
+0,0,00:10 AR1440,,La Rioja (IRJ),Aerolineas Argentinas E190 (LV-CDY),Landed 23:27,2021-05-09
+1,1,02:05 AR1484,,Santiago del Estero (SDE),Aerolineas Argentinas B738 (LV-FVO),Landed 01:38,2021-05-09
+2,2,02:10 FO5051,,Mendoza (MDZ),Flybondi 738,Unknown,2021-05-09
+3,3,10:20 FO5101,,Puerto Iguazu (IGR),Flybondi 738,Unknown,2021-05-09
+4,4,10:30,AR1685,San Carlos de Bariloche (BRC),Aerolineas Argentinas B738 (LV-GUC),Landed 10:15,2021-05-09
+5,5,10:30 AR1771,,Corrientes (CNQ),Aerolineas Argentinas E190 (LV-CHR),Unknown,2021-05-09
+6,6,10:50 AR1511,,Cordoba (COR),Aerolineas Argentinas B738 (LV-GVB),Landed 10:34,2021-05-09
+7,7,11:30,AR1401,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FQB),Landed 11:01,2021-05-09
+8,8,11:50,AR1863,El Calafate (FTE),Aerolineas Argentinas B738 (LV-GKU),Landed 11:32,2021-05-09
+9,9,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FQZ),Landed 12:08,2021-05-09
+10,10,12:45,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-FVO),Landed 12:24,2021-05-09
+11,11,13:00,AR1453,Salta (SLA),Aerolineas Argentinas B738 (LV-FWS),Landed 12:52,2021-05-09
+12,12,14:20 AR1409,,Mendoza (MDZ),Aerolineas Argentinas B38M (LV-HKU),Landed 13:50,2021-05-09
+13,13,14:50,AR1781,Resistencia (RES),Aerolineas Argentinas B737 (LV-CBT),Landed 14:33,2021-05-09
+14,14,14:58 WJ3445,,Neuquen (NQN),JetSMART Argentina 320,Unknown,2021-05-09
+15,15,15:10 AR1470,,Tucuman (TUC),Aerolineas Argentinas B738 (LV-FUA),Landed 14:28,2021-05-09
+16,16,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas E190 (LV-GIK),Landed 14:52,2021-05-09
+17,17,15:30 FO5121,,Posadas (PSS),Flybondi B738 (LV-HKN),Landed 15:10,2021-05-09
+18,18,15:47 DN6023,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-09
+19,19,16:20 AR1621,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-CKZ),Landed 16:00,2021-05-09
+20,20,16:35,AR1455,Salta (SLA),Aerolineas Argentinas 738,Canceled,2021-05-09
+21,21,16:40,AR1509,Cordoba (COR),Aerolineas Argentinas E190 (LV-CDY),Landed 16:20,2021-05-09
+22,22,16:43 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-09
+23,23,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas E190 (LV-CHQ),Landed 17:14,2021-05-09
+24,24,17:39 WJ3241,,Mendoza (MDZ),JetSMART Argentina 320,Unknown,2021-05-09
+25,25,19:05 AR1405,,Mendoza (MDZ),Aerolineas Argentinas E190 (LV-CIG),Landed 18:41,2021-05-09
+26,26,19:30,AR1653,Neuquen (NQN),Aerolineas Argentinas B738 (LV-FVO),Landed 19:08,2021-05-09
+27,27,19:30 AR1700,,Parana (PRA),Aerolineas Argentinas E190 (LV-CET),Landed 18:59,2021-05-09
+28,28,19:45 WJ3267,,Cordoba (COR),JetSMART Argentina 320,Unknown,2021-05-09
+29,29,20:00,AR1601,Mar del Plata (MDQ),Aerolineas Argentinas E190 (LV-GIK),Unknown,2021-05-09
+30,30,20:08 WJ3401,,Puerto Iguazu (IGR),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 19:54,2021-05-09
+31,31,20:35 AR1655,,Neuquen (NQN),Aerolineas Argentinas B738 (LV-GKU),Landed 20:12,2021-05-09
+32,32,20:55 WJ3497,,Salta (SLA),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Landed 20:55,2021-05-09
+33,33,21:05 FO5271,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 21:08,2021-05-09
+34,34,21:20 AR1505,,Cordoba (COR),Aerolineas Argentinas B738 (LV-GVB),Landed 21:05,2021-05-09
+35,35,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 21:11,2021-05-09
+36,36,21:25,AR1365,Lima (LIM),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 20:44,2021-05-09
+37,37,21:31 DN6003,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-09
+38,38,21:40,AR1709,Rosario (ROS),Aerolineas Argentinas E190 (LV-CDY),Landed 21:15,2021-05-09
+39,39,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas E190 (LV-CMB),Landed 21:43,2021-05-09
+40,40,22:01 DN6063,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-09
+41,41,22:10,AR1735,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-FWS),Landed 21:46,2021-05-09
+42,42,22:40,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-FUA),Landed 22:20,2021-05-09
+43,43,23:15,AR1683,San Carlos de Bariloche (BRC),Aerolineas Argentinas E190 (LV-CHS),Unknown,2021-05-09
+44,44,23:40 WJ3183,,San Carlos de Bariloche (BRC),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 23:28,2021-05-09
+45,45,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FQB),Landed 23:32,2021-05-09
+46,46,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas B737 (LV-CBT),Landed 23:38,2021-05-09
+47,47,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FQZ),Landed 23:32,2021-05-09
+48,48,23:55 AR1667,,Esquel (EQS),Aerolineas Argentinas E190 (LV-CIH),Estimated 23:57,2021-05-09
+49,49,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas B737 (LV-CBT),Landed 23:38,2021-05-09
+50,50,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FQZ),Landed 23:32,2021-05-09
+51,51,23:55 AR1667,,Esquel (EQS),Aerolineas Argentinas E190 (LV-CIH),Estimated 23:57,2021-05-09
+0,0,00:10 AR1823,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B738 (LV-GKT),Landed 23:44,2021-05-10
+1,1,00:40,AR1481,Tucuman (TUC),Aerolineas Argentinas E190 (LV-CKZ),Landed 00:10,2021-05-10
+2,2,00:51 AR1055,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-05-10
+3,3,01:10 FO5015,,Cordoba (COR),Flybondi B738 (LV-HKN),Landed 00:38,2021-05-10
+4,4,06:10 AR1369,,Santa Cruz (VVI),Aerolineas Argentinas E190 (LV-CHQ),Unknown,2021-05-10
+5,5,10:19 WJ3267,,Cordoba (COR),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 10:12,2021-05-10
+6,6,10:30,AR1685,San Carlos de Bariloche (BRC),Aerolineas Argentinas B737 (LV-CBT),Landed 12:53,2021-05-10
+7,7,11:10,AR1651,Neuquen (NQN),Aerolineas Argentinas B738 (LV-GVB),Landed 10:50,2021-05-10
+8,8,11:15 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 11:14,2021-05-10
+9,9,11:20 AR1529,,Cordoba (COR),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 10:58,2021-05-10
+10,10,11:22 DN6067,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-10
+11,11,11:30,AR1401,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FQB),Landed 11:11,2021-05-10
+12,12,11:32 WJ3241,,Mendoza (MDZ),JetSMART (Huemul Livery) A320 (LV-HEK),Landed 11:10,2021-05-10
+13,13,12:20,AR1603,Mar del Plata (MDQ),Aerolineas Argentinas E190 (LV-CET),Landed 12:09,2021-05-10
+14,14,12:20 AR1821,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B738 (LV-FQZ),Landed 11:53,2021-05-10
+15,15,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 12:04,2021-05-10
+16,16,12:40 AR1704,,Santa Fe (SFN),Aerolineas Argentinas E190 (LV-CIG),Unknown,2021-05-10
+17,17,12:45,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-FWS),Landed 12:20,2021-05-10
+18,18,13:00,AR1453,Salta (SLA),Aerolineas Argentinas B738 (LV-FVO),Landed 12:31,2021-05-10
+19,19,14:20 AR1409,,Mendoza (MDZ),Aerolineas Argentinas B38M (LV-HKU),Landed 14:03,2021-05-10
+20,20,14:20 AR1622,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-CHS),Landed 13:49,2021-05-10
+21,21,14:50,AR1781,Resistencia (RES),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 14:34,2021-05-10
+22,22,15:10 AR1470,,Tucuman (TUC),Aerolineas Argentinas E190 (LV-CKZ),Landed 14:46,2021-05-10
+23,23,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas E190 (LV-GIK),Unknown,2021-05-10
+24,24,15:40 AR1511,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CIH),Landed 15:14,2021-05-10
+25,25,16:08 WJ3445,,Neuquen (NQN),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 16:03,2021-05-10
+26,26,16:10 FO5051,,Mendoza (MDZ),Flybondi B738 (LV-HKN),Landed 22:19,2021-05-10
+27,27,16:20 AR1621,,Bahia Blanca (BHI),Aerolineas Argentinas E90,Canceled,2021-05-10
+28,28,16:35,AR1455,Salta (SLA),Aerolineas Argentinas 73R,Canceled,2021-05-10
+29,29,16:35 AR1737,,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-GKS),Landed 16:14,2021-05-10
+30,30,16:41 WJ3501,,Tucuman (TUC),JetSMART (Huemul Livery) A320 (LV-HEK),Landed 16:23,2021-05-10
+31,31,16:47 DN6027,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-10
+32,32,16:50,AR1863,El Calafate (FTE),Aerolineas Argentinas B738 (LV-GUC),Landed 16:04,2021-05-10
+33,33,16:50 WJ3183,,San Carlos de Bariloche (BRC),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 16:36,2021-05-10
+34,34,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas E190 (LV-CHQ),Landed 17:04,2021-05-10
+35,35,18:40 AR1507,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CEU),Landed 18:23,2021-05-10
+36,36,20:30,ZP818,Asuncion (ASU),Paranair CRJ2 (ZP-CRR),Landed 20:29,2021-05-10
+37,37,20:35 AR1657,,Neuquen (NQN),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-05-10
+38,38,20:43 AR1051,,Montevideo (MVD),Aerolineas Argentinas E190 (LV-GIK),Landed 20:40,2021-05-10
+39,39,21:13 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-10
+40,40,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 21:15,2021-05-10
+41,41,21:20 FO5311,,Trelew (REL),Flybondi 738,Unknown,2021-05-10
+42,42,21:40,AR1709,Rosario (ROS),Aerolineas Argentinas E90,Canceled,2021-05-10
+43,43,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 21:36,2021-05-10
+44,44,22:40,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-FWS),Landed 22:15,2021-05-10
+45,45,22:40 AR1503,,Cordoba (COR),Aerolineas Argentinas B738 (LV-GKS),Landed 22:22,2021-05-10
+46,46,23:02 DN6001,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-10
+47,47,23:15 AR1473,,Jujuy (JUJ),Aerolineas Argentinas E190 (LV-CIH),Landed 22:57,2021-05-10
+48,48,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-GUC),Landed 23:27,2021-05-10
+49,49,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 23:34,2021-05-10
+50,50,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 23:36,2021-05-10
+51,51,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 23:34,2021-05-10
+52,52,23:50,AR1881,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKU),Landed 23:36,2021-05-10
+0,0,00:10 AR1823,,Comodoro Rivadavia (CRD),Aerolineas Argentinas B738 (LV-GKT),Landed 00:02,2021-05-11
+1,1,00:30 AR1491,,Santiago del Estero (SDE),Aerolineas Argentinas E190 (LV-CKZ),Landed 23:58,2021-05-11
+2,2,10:31 DN6027,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-11
+3,3,11:10,AR1651,Neuquen (NQN),Aerolineas Argentinas B738 (LV-FQZ),Landed 10:44,2021-05-11
+4,4,11:15 DN6063,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-11
+5,5,11:15 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 10:50,2021-05-11
+6,6,11:20 AR1529,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-05-11
+7,7,11:32 WJ3241,,Mendoza (MDZ),JetSMART Argentina 320,Unknown,2021-05-11
+8,8,11:50,AR1863,El Calafate (FTE),Aerolineas Argentinas B38M (LV-HKU),Landed 11:34,2021-05-11
+9,9,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B738 (LV-GKT),Landed 12:08,2021-05-11
+10,10,13:00,AR1453,Salta (SLA),Aerolineas Argentinas B738 (LV-GUC),Diverted to COR,2021-05-11
+11,11,14:20 AR1409,,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-GKU),Landed 14:02,2021-05-11
+12,12,14:25,AR1341,Asuncion (ASU),Aerolineas Argentinas B738 (LV-FWS),Landed 14:36,2021-05-11
+13,13,14:35 AR1602,,Bahia Blanca (BHI),Aerolineas Argentinas E190 (LV-GIK),Unknown,2021-05-11
+14,14,14:45,AR1501,Cordoba (COR),Aerolineas Argentinas E190 (LV-CIH),Landed 14:31,2021-05-11
+15,15,15:10 AR1470,,Tucuman (TUC),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 14:38,2021-05-11
+16,16,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas E90,Canceled,2021-05-11
+17,17,15:40 AR1511,,Cordoba (COR),Aerolineas Argentinas E90,Canceled,2021-05-11
+18,18,15:54,AR1453,Cordoba (COR),Aerolineas Argentinas B738 (LV-GUC),Landed 15:49,2021-05-11
+19,19,15:55,AR1401,Mendoza (MDZ),Aerolineas Argentinas E190 (LV-CHQ),Landed 15:36,2021-05-11
+20,20,16:03 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-11
+21,21,16:13 WJ3183,,San Carlos de Bariloche (BRC),JetSMART (Zorro Culpeo Livery) A320 (LV-IVN),Landed 16:07,2021-05-11
+22,22,16:30 FO5221,,Tucuman (TUC),Flybondi B738 (LV-HKN),Landed 16:02,2021-05-11
+23,23,16:40,AR1509,Cordoba (COR),Aerolineas Argentinas E190 (LV-CEU),Landed 16:27,2021-05-11
+24,24,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas E90,Unknown,2021-05-11
+25,25,17:45 AR1821,,Comodoro Rivadavia (CRD),Aerolineas Argentinas E190 (LV-CHS),Landed 17:17,2021-05-11
+26,26,18:30 AR1670,,San Carlos de Bariloche (BRC),Aerolineas Argentinas 738,Canceled,2021-05-11
+27,27,20:19 DN6001,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-11
+28,28,20:35 AR1655,,Neuquen (NQN),Aerolineas Argentinas B738 (LV-GVB),Landed 23:28,2021-05-11
+29,29,21:40,AR1709,Rosario (ROS),Aerolineas Argentinas E190 (LV-CHQ),Unknown,2021-05-11
+30,30,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas 73M,Canceled,2021-05-11
+31,31,22:20 FO5191,,Jujuy (JUJ),Flybondi B738 (LV-HKN),Landed 21:59,2021-05-11
+32,32,22:25 AR1520,,Santa Rosa (RSA),Aerolineas Argentinas E190 (LV-CET),Unknown,2021-05-11
+33,33,22:35,AR1265,Rio de Janeiro (GIG),Aerolineas Argentinas B738 (LV-GKT),Landed 22:24,2021-05-11
+34,34,22:40,AR1451,Salta (SLA),Aerolineas Argentinas B738 (LV-GKU),Landed 22:39,2021-05-11
+35,35,22:40 AR1503,,Cordoba (COR),Aerolineas Argentinas B737 (LV-CAP),Landed 22:27,2021-05-11
+36,36,22:55,AR1739,Puerto Iguazu (IGR),Aerolineas Argentinas E190 (LV-CEU),Landed 22:33,2021-05-11
+37,37,23:13 WJ3481,,Salta (SLA),JetSMART (Jaguar Livery) A320 (LV-HVT),Landed 22:58,2021-05-11
+38,38,23:15 AR1473,,Jujuy (JUJ),Aerolineas Argentinas E190 (LV-CIH),Canceled,2021-05-11
+39,39,23:20,AR1683,San Carlos de Bariloche (BRC),Aerolineas Argentinas E190 (LV-CIG),Landed 23:06,2021-05-11
+40,40,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas B38M (LV-HKU),Landed 23:24,2021-05-11
+41,41,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Canceled,2021-05-11
+42,42,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Canceled,2021-05-11
+0,0,00:30 AR1491,,Santiago del Estero (SDE),Aerolineas Argentinas E90,Canceled,2021-05-12
+1,1,00:40,AR1481,Tucuman (TUC),Aerolineas Argentinas B738 (LV-FUA),Landed 00:08,2021-05-12
+2,2,01:55 AR1985,,Montevideo (MVD),Aerolineas Argentinas E190 (LV-CHS),Unknown,2021-05-12
+3,3,03:05 FO5051,,Mendoza (MDZ),Flybondi 738,Unknown,2021-05-12
+4,4,07:10 AR1993,,Lima (LIM),Aerolineas Argentinas B738 (LV-FVO),Landed 07:09,2021-05-12
+5,5,08:04 AR1042,,Buenos Aires (EZE),Aerolineas Argentinas E190 (LV-CPK),Unknown,2021-05-12
+6,6,10:30,AR1685,San Carlos de Bariloche (BRC),Aerolineas Argentinas 738,Unknown,2021-05-12
+7,7,10:53,,Santiago (SCL),- A320,Canceled,2021-05-12
+8,8,11:00 FO5239,,San Carlos de Bariloche (BRC),Flybondi B738 (LV-HKN),Landed 10:48,2021-05-12
+9,9,11:07 WJ3015,,Santiago (SCL),JetSMART Argentina 320,Unknown,2021-05-12
+10,10,11:10,AR1651,Neuquen (NQN),Aerolineas Argentinas B738 (LV-GKU),Landed 10:56,2021-05-12
+11,11,11:15,AR1705,Rosario (ROS),Aerolineas Argentinas E190 (LV-CPK),Landed 11:16,2021-05-12
+12,12,11:30,AR1401,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-GKT),Landed 11:19,2021-05-12
+13,13,11:50,AR1863,El Calafate (FTE),Aerolineas Argentinas B38M (LV-HKU),Landed 11:34,2021-05-12
+14,14,12:10,AR1501,Cordoba (COR),Aerolineas Argentinas B738 (LV-GUC),Landed 12:02,2021-05-12
+15,15,12:20,AR1603,Mar del Plata (MDQ),Aerolineas Argentinas E90,Canceled,2021-05-12
+16,16,12:20 AR1821,,Comodoro Rivadavia (CRD),Aerolineas Argentinas E190 (LV-GIK),Landed 12:00,2021-05-12
+17,17,12:25,AR1883,Ushuaia (USH),Aerolineas Argentinas B738 (LV-FWS),Landed 12:10,2021-05-12
+18,18,13:00,AR1453,Salta (SLA),Aerolineas Argentinas E190 (LV-CIG),Landed 12:55,2021-05-12
+19,19,13:00 AR1727,,Parana (PRA),Aerolineas Argentinas E90,Canceled,2021-05-12
+20,20,13:25,AR1733,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-FQB),Landed 13:02,2021-05-12
+21,21,13:30,AR1483,Tucuman (TUC),Aerolineas Argentinas (Retro Livery) B737 (LV-GOO),Landed 13:05,2021-05-12
+22,22,13:35 AR1471,,Jujuy (JUJ),Aerolineas Argentinas E90,Canceled,2021-05-12
+23,23,14:15,AR1241,Sao Paulo (GRU),Aerolineas Argentinas B738 (LV-GVB),Landed 14:04,2021-05-12
+24,24,14:50,AR1781,Resistencia (RES),Aerolineas Argentinas B737 (LV-CAP),Unknown,2021-05-12
+25,25,15:10 AR1851,,Trelew (REL),Aerolineas Argentinas E190 (LV-CIH),Landed 14:43,2021-05-12
+26,26,15:35 FO5151,,Corrientes (CNQ),Flybondi B738 (LV-HKN),Landed 15:11,2021-05-12
+27,27,16:03 DN6085,,Neuquen (NQN),Norwegian Air Argentina 737,Unknown,2021-05-12
+28,28,16:15,AR1701,Rosario (ROS),Aerolineas Argentinas E190 (LV-CET),Landed 15:51,2021-05-12
+29,29,16:35 AR1624,,Viedma (VDM),Aerolineas Argentinas E90,Canceled,2021-05-12
+30,30,17:20 AR1423,,San Juan (UAQ),Aerolineas Argentinas B738 (LV-GKU),Landed 17:09,2021-05-12
+31,31,17:45 AR1523,,Cordoba (COR),Aerolineas Argentinas E190 (LV-CHS),Landed 17:28,2021-05-12
+32,32,18:40 AR1507,,Cordoba (COR),Aerolineas Argentinas E90,Canceled,2021-05-12
+33,33,20:33 DN6023,,Cordoba (COR),Norwegian Air Argentina 737,Unknown,2021-05-12
+34,34,21:10 FO5161,,Salta (SLA),Flybondi B738 (LV-HKN),Landed 20:49,2021-05-12
+35,35,21:20,AR1681,San Carlos de Bariloche (BRC),Aerolineas Argentinas B38M (LV-HKU),Landed 21:07,2021-05-12
+36,36,21:40,AR1735,Puerto Iguazu (IGR),Aerolineas Argentinas B738 (LV-FXQ),Landed 21:14,2021-05-12
+37,37,21:50 AR1801,,Rio Gallegos (RGL),Aerolineas Argentinas E190 (LV-CPK),Unknown,2021-05-12
+38,38,21:52 DN6007,,San Carlos de Bariloche (BRC),Norwegian Air Argentina 737,Unknown,2021-05-12
+39,39,22:01 DN6063,,Mendoza (MDZ),Norwegian Air Argentina 737,Unknown,2021-05-12
+40,40,22:40 AR1503,,Cordoba (COR),Aerolineas Argentinas B738 (LV-FQB),Landed 22:22,2021-05-12
+41,41,22:45 AR1526,,Rio Cuarto (RCU),Aerolineas Argentinas E90,Canceled,2021-05-12
+42,42,22:45,AR1683,San Carlos de Bariloche (BRC),Aerolineas Argentinas E190 (LV-GIK),Landed 22:18,2021-05-12
+43,43,23:25 AR1283,,Santiago (SCL),Aerolineas Argentinas (Skyteam Livery) B737 (LV-BZA),Landed 22:55,2021-05-12
+44,44,23:45,AR1403,Mendoza (MDZ),Aerolineas Argentinas B738 (LV-FVO),Landed 23:05,2021-05-12
+45,45,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas B738 (LV-GKU),Landed 23:29,2021-05-12
+46,46,23:55 AR1667,,Esquel (EQS),Aerolineas Argentinas E190 (LV-CPI),Landed 23:46,2021-05-12
+47,47,23:50 AR1763,,Posadas (PSS),Aerolineas Argentinas B738 (LV-GKU),Landed 23:29,2021-05-12
+48,48,23:55 AR1667,,Esquel (EQS),Aerolineas Argentinas E190 (LV-CPI),Landed 23:46,2021-05-12

@@ -1325,3 +1325,1781 @@
 162,162,23:30 PO82,,Leipzig (LEJ),DHL B77L (N774SA),Landed 09:01,2021-05-01
 163,163,23:40 LD119,,Seoul (ICN),DHL A306 (B-LDE),Landed 22:51,2021-05-01
 164,164,23:40 SV986,,Dammam (DMM),Saudia Cargo B77L (HZ-AK74),Landed 22:32,2021-05-01
+0,0,00:05 LD681,,Taipei (TPE),DHL A306 (B-LDB),Landed 23:03,2021-05-02
+1,1,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18351),Landed 21:44,2021-05-02
+2,2,00:15,TW193,Jeju (CJU),T'way Air 737,Canceled,2021-05-02
+3,3,00:20 LD225,,Osaka (KIX),DHL A306 (B-LDG),Landed 23:55,2021-05-02
+4,4,00:25 LD456,,Manila (MNL),DHL A306 (B-LDD),Landed 00:01,2021-05-02
+5,5,00:25 OZ969,,Seoul (ICN),Asiana Cargo B744 (HL7420),Landed 02:11,2021-05-02
+6,6,00:30 LD392,,Penang (PEN),DHL A306 (B-LDN),Landed 23:43,2021-05-02
+7,7,00:30 LD562,,Ho Chi Minh City (SGN),Air Hong Kong 33Y,Unknown,2021-05-02
+8,8,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18355),Landed 00:16,2021-05-02
+9,9,00:45 CI5821,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-02
+10,10,00:50 CX35,,Seoul (ICN),Cathay Pacific Cargo B748 (B-LJF),Landed 23:58,2021-05-02
+11,11,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA15KZ),Landed 01:22,2021-05-02
+12,12,00:59 FJ1391,,Nadi (NAN),Fiji Airways A333 (DQ-FJW),Landed 01:06,2021-05-02
+13,13,01:00 LD217,,Nagoya (NGO),DHL A306 (B-LDH),Landed 00:11,2021-05-02
+14,14,01:00 NH8511,,Tokyo (NRT),All Nippon Airways 76F,Unknown,2021-05-02
+15,15,01:00 LD832,,Bangkok (BKK),Air Hong Kong ABY,Unknown,2021-05-02
+16,16,01:05 TH3507,,Kuala Lumpur (SZB),Raya Airways B762 (9M-RXB),Landed 00:50,2021-05-02
+17,17,01:20 LD783,,Shanghai (PVG),DHL A333 (B-LDQ),Landed 03:12,2021-05-02
+18,18,01:25 KE313,,Seoul (ICN),Korean Air Cargo B77L (HL8076),Landed 00:41,2021-05-02
+19,19,01:25 LD209,,Tokyo (NRT),DHL A333 (B-LDT),Landed 01:27,2021-05-02
+20,20,01:25 LD326,,Singapore (SIN),DHL A332 (B-LDS),Landed 01:13,2021-05-02
+21,21,01:25 LD842,,Bangkok (BKK),DHL A333 (B-LDR),Landed 01:08,2021-05-02
+22,22,01:25 SQ7870,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-02
+23,23,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo A332 (B-LNX),Landed 00:55,2021-05-02
+24,24,01:30 8K525,,Hanoi (HAN),K-Mile Air B734 (HS-KMA),Landed 01:31,2021-05-02
+25,25,01:45 HX2736,,Singapore (SIN),Hong Kong Airlines A333 (B-LNQ),Landed 00:37,2021-05-02
+26,26,02:00 Y87915,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-02
+27,27,02:00 HX2018,,Sydney (SYD),Hong Kong Airlines A333 (B-LNM),Landed 01:40,2021-05-02
+28,28,02:05 CX78,,Phnom Penh (PNH),Cathay Pacific 74Y,Unknown,2021-05-02
+29,29,02:10 PO7950,,Tokyo (NRT),Polar Air Cargo 77F,Unknown,2021-05-02
+30,30,02:40 RH9376,,Chennai (MAA),Hong Kong Air Cargo 330,Unknown,2021-05-02
+31,31,02:45 SG7010,,Kolkata (CCU),SpiceJet 738,Canceled,2021-05-02
+32,32,02:45 HX275,,Taipei (TPE),Hong Kong Airlines A333 (B-LNP),Landed 01:52,2021-05-02
+33,33,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-02
+34,34,03:00 PO277,,Seoul (ICN),Polar Air Cargo 77F,Unknown,2021-05-02
+35,35,03:05 LD769,,Beijing (PEK),DHL A306 (B-LDA),Landed 02:09,2021-05-02
+36,36,03:40 CV7336,,Ho Chi Minh City (SGN),Cargolux 74F,Unknown,2021-05-02
+37,37,03:50 CX3142,,Delhi (DEL),Cathay Pacific Cargo B748 (B-LJM),Landed 03:08,2021-05-02
+38,38,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-02
+39,39,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-02
+40,40,04:35 BR6089,,Taipei (TPE),EVA Air 77X,Unknown,2021-05-02
+41,41,04:40 CX2174,,Adelaide (ADL),Cathay Pacific A35K (B-LXG),Landed 03:35,2021-05-02
+42,42,04:40 CX53,,Chongqing (CKG),Cathay Pacific Cargo B748 (B-LJH),Landed 04:25,2021-05-02
+43,43,05:05 RU547,,Moscow (SVO),AirBridgeCargo B744 (VP-BIK),Landed 05:11,2021-05-02
+44,44,05:10,CX138,Sydney (SYD),Cathay Pacific 77W,Unknown,2021-05-02
+45,45,05:30 RH320,,Ho Chi Minh City (SGN),Hong Kong Air Cargo A332 (B-LNV),Landed 05:24,2021-05-02
+46,46,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-02
+47,47,06:05,CX798,Jakarta (CGK),Cathay Pacific A359 (B-LQA),Landed 05:41,2021-05-02
+48,48,06:10 SG31,,Delhi (DEL),SpiceJet 737,Unknown,2021-05-02
+49,49,06:15,LX138,Zurich (ZRH),Swiss B77W (HB-JNK),Landed 06:19,2021-05-02
+50,50,06:45,CX881,Los Angeles (LAX),Cathay Pacific B77W (B-KQR),Landed 06:52,2021-05-02
+51,51,06:48 K4802,,Anchorage (ANC),Kalitta Air B744 (N705CK),Landed 07:58,2021-05-02
+52,52,07:10,NZ81,Auckland (AKL),Air New Zealand (All Blacks Livery) B789 (ZK-NZE),Landed 06:55,2021-05-02
+53,53,07:15,GA876,Jakarta (CGK),Garuda Indonesia A333 (PK-GPX),Landed 06:47,2021-05-02
+54,54,07:25 CV7405,,Ho Chi Minh City (SGN),Cargolux 74Y,Unknown,2021-05-02
+55,55,07:25 CV4626,,Ho Chi Minh City (SGN),Cargolux B744 (LX-MCL),Diverted to BKK,2021-05-02
+56,56,07:25 CV7405,,Ho Chi Minh City (SGN),Cargolux 74F,Unknown,2021-05-02
+57,57,07:40 RH4569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNW),Landed 07:08,2021-05-02
+58,58,07:45 ET3716,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-02
+59,59,07:55 CV7337,,Ho Chi Minh City (SGN),Cargolux 74Y,Unknown,2021-05-02
+60,60,07:55 CX55,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJK),Landed 07:20,2021-05-02
+61,61,07:55 MS5081,,Bangkok (BKK),EgyptAir ABF,Unknown,2021-05-02
+62,62,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-02
+63,63,08:45 CX3259,,Shanghai (PVG),Cathay Pacific 74N,Unknown,2021-05-02
+64,64,09:35 RH830,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNX),Landed 09:48,2021-05-02
+65,65,09:35 TK6786,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-02
+66,66,09:55 QR8426,,Doha (DOH),Qatar Cargo B77L (A7-BFA),Landed 09:41,2021-05-02
+67,67,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18357),Landed 09:34,2021-05-02
+68,68,10:10 CX676,,Tel Aviv (TLV),Cathay Pacific A35K (B-LXK),Landed 09:16,2021-05-02
+69,69,10:25 EK9842,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFO),Landed 09:59,2021-05-02
+70,70,10:50 QR8792,,Doha (DOH),Qatar Cargo B77L (A7-BFX),Landed 12:27,2021-05-02
+71,71,10:55 CX95,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJD),Landed 11:34,2021-05-02
+72,72,11:00 CX3291,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-02
+73,73,11:15 BA31,,London (LHR),British Airways B77W (G-STBH),Landed 10:58,2021-05-02
+74,74,11:30 LY75,,Tel Aviv (TLV),El Al Israel Airlines B789 (4X-EDI),Landed 11:29,2021-05-02
+75,75,11:40 MF8695,,Fuzhou (FOC),Xiamen Air 738,Unknown,2021-05-02
+76,76,11:45 5C851,,Tel Aviv (TLV),CAL Cargo Airlines B744 (4X-ICA),Landed 11:05,2021-05-02
+77,77,11:45 SG41,,Mumbai (BOM),SpiceJet 737,Unknown,2021-05-02
+78,78,12:00 CX91,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJB),Landed 13:15,2021-05-02
+79,79,12:00 AA9739,,Tokyo (NRT),American Airlines 77W,Unknown,2021-05-02
+80,80,12:05,CX288,Frankfurt (FRA),Cathay Pacific B77W (B-HNR),Landed 11:15,2021-05-02
+81,81,12:10,BR867,Taipei (TPE),EVA Air A333 (B-16339),Landed 11:44,2021-05-02
+82,82,12:15 BA27,,London (LHR),British Airways B77W (G-STBB),Landed 11:31,2021-05-02
+83,83,12:30 CK263,,Shanghai (PVG),China Cargo Airlines 77F,Unknown,2021-05-02
+84,84,12:35 7C2101,,Seoul (ICN),Jeju Air 738,Unknown,2021-05-02
+85,85,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMF),Landed 12:11,2021-05-02
+86,86,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18352),Landed 12:23,2021-05-02
+87,87,13:00 LD392,,Penang (PEN),DHL A306 (B-LDN),Landed 12:14,2021-05-02
+88,88,13:05,CA111,Beijing (PEK),Air China A333 (B-5913),Landed 12:47,2021-05-02
+89,89,13:15 VS238,,London (LHR),Virgin Atlantic B789 (G-VNEW),Landed 12:20,2021-05-02
+90,90,13:25 UA2829,,Tokyo (NRT),United Airlines B77W (N2251U),Landed 13:00,2021-05-02
+91,91,13:30 ET3614,,Brussels (BRU),Ethiopian Airlines 77X,Unknown,2021-05-02
+92,92,13:40 CV7946,,Singapore (SIN),Cargolux B748 (LX-VCN),Diverted to KUL,2021-05-02
+93,93,13:40 CV7506,,Singapore (SIN),Cargolux 74F,Unknown,2021-05-02
+94,94,13:45,JL29,Tokyo (NRT),Japan Airlines B789 (JA869J),Landed 13:18,2021-05-02
+95,95,13:45 UA2853,,Tokyo (NRT),United Airlines B77W (N2243U),Landed 13:23,2021-05-02
+96,96,13:50 RH332,,Bangkok (BKK),Hong Kong Air Cargo 33F,Unknown,2021-05-02
+97,97,13:55 NH8541,,Tokyo (NRT),All Nippon Airways 76F,Unknown,2021-05-02
+98,98,14:00 6E9656,,Kolkata (CCU),IndiGo 320,Unknown,2021-05-02
+99,99,14:05 MU507,,Shanghai (PVG),China Eastern Airlines A321 (B-6925),Landed 13:49,2021-05-02
+100,100,14:05 PO749,,Tokyo (NRT),DHL B748 (N853GT),Landed 16:37,2021-05-02
+101,101,14:20 CV7306,,Singapore (SIN),Cargolux 74F,Unknown,2021-05-02
+102,102,14:27 5X62,,Anchorage (ANC),UPS Airlines B748 (N624UP),Landed 14:00,2021-05-02
+103,103,14:45 HX237,,Shanghai (PVG),Hong Kong Airlines A333 (B-LNS),Landed 14:41,2021-05-02
+104,104,14:50 NH8513,,Tokyo (NRT),ANA Cargo B763 (JA601F),Landed 14:37,2021-05-02
+105,105,14:55 CX5,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJI),Landed 13:30,2021-05-02
+106,106,15:00 CV4517,,Singapore (SIN),Cargolux 74F,Unknown,2021-05-02
+107,107,15:25 5X68,,Anchorage (ANC),UPS B763 (N361UP),Landed 16:16,2021-05-02
+108,108,15:30,UO173,Taichung (RMQ),HK Express A20N (B-LCQ),Landed 15:09,2021-05-02
+109,109,15:35 SQ7984,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFN),Landed 14:46,2021-05-02
+110,110,15:45 CV8566,,Dubai (DWC),Cargolux 74F,Unknown,2021-05-02
+111,111,15:50 EY925,,Abu Dhabi (AUH),Etihad Cargo B77L (A6-DDF),Landed 15:45,2021-05-02
+112,112,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALB),Landed 14:53,2021-05-02
+113,113,16:10 CI5835,,Taipei (TPE),China Airlines Cargo B744 (B-18707),Landed 19:39,2021-05-02
+114,114,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-LAM),Landed 16:21,2021-05-02
+115,115,16:50 OZ967,,Seoul (ICN),Asiana Cargo B744 (HL7618),Landed 15:51,2021-05-02
+116,116,16:50,TR980,Singapore (SIN),Scoot B789 (9V-OJE),Landed 16:45,2021-05-02
+117,117,17:10,AC7,Vancouver (YVR),Air Canada B789 (C-FVND),Landed 17:16,2021-05-02
+118,118,17:15 CX62,,Dubai (DWC),Cathay Pacific 74Y,Unknown,2021-05-02
+119,119,17:20 UL896,,Colombo (CMB),SriLankan Airlines A333 (4R-ALL),Landed 16:48,2021-05-02
+120,120,17:25,LH8472,Bengaluru (BLR),Lufthansa Cargo B77L (D-ALFE),Landed 17:07,2021-05-02
+121,121,17:35,CX391,Beijing (PEK),Cathay Pacific B77W (B-KQJ),Landed 17:37,2021-05-02
+122,122,17:40,TG638,Bangkok (BKK),Thai Airways A359 (HS-THC),Landed 17:24,2021-05-02
+123,123,18:00 RJ1290,,Amman (AMM),Royal Jordanian B788 (JY-BAA),Landed 17:46,2021-05-02
+124,124,18:05 CX254,,London (LHR),Cathay Pacific A35K (B-LXA),Landed 16:12,2021-05-02
+125,125,18:15 7L620,,Baku (GYD),Silk Way West Airlines 74Y,Unknown,2021-05-02
+126,126,18:15 7L691,,Baku (GYD),Silk Way West Airlines 74N,Unknown,2021-05-02
+127,127,18:20,EK384,Bangkok (BKK),Emirates A388 (A6-EEU),Landed 17:34,2021-05-02
+128,128,18:25 CX3273,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-02
+129,129,18:25 KL819,,Bangkok (BKK),KLM B77W (PH-BVK),Landed 17:38,2021-05-02
+130,130,18:25 SV3962,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-02
+131,131,18:30 CI5825,,Taipei (TPE),China Airlines Cargo B744 (B-18718),Landed 20:04,2021-05-02
+132,132,18:30 RH372,,Singapore (SIN),Hong Kong Air Cargo 33F,Unknown,2021-05-02
+133,133,18:55 QR8438,,Doha (DOH),Qatar Cargo B77L (A7-BFI),Landed 18:53,2021-05-02
+134,134,19:00 C88727,,Tokyo (NRT),Cargolux Italia 74F,Unknown,2021-05-02
+135,135,19:23 K49209,,Honolulu (HNL),Kalitta Air B744 (N713CK),Landed 19:23,2021-05-02
+136,136,19:25 RU639,,Singapore (SIN),AirBridgeCargo Airlines 74N,Unknown,2021-05-02
+137,137,19:45 C85717,,Tokyo (NRT),Cargolux B744 (LX-SCV),Landed 21:54,2021-05-02
+138,138,20:05 CI923,,Taipei (TPE),China Airlines 738,Canceled,2021-05-02
+139,139,20:10 CX3281,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-02
+140,140,20:15 CX3283,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJE),Landed 20:11,2021-05-02
+141,141,20:15 CX918,,Manila (MNL),Cathay Pacific A35K (B-LXE),Landed 19:31,2021-05-02
+142,142,20:15 UL1422,,Colombo (CMB),SriLankan Airlines A333 (4R-ALM),Landed 20:30,2021-05-02
+143,143,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18310),Landed 19:48,2021-05-02
+144,144,20:40 TK83,,Bangkok (BKK),Turkish Airlines B77W (TC-LJJ),Landed 20:24,2021-05-02
+145,145,20:40 HX629,,Seoul (ICN),Hong Kong Airlines A333 (B-LNM),Landed 19:42,2021-05-02
+146,146,20:50 RH352,,Manila (MNL),Hong Kong Air Cargo A332 (B-LNZ),Landed 20:15,2021-05-02
+147,147,20:55 CX87,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJN),Landed 19:28,2021-05-02
+148,148,20:55,CX507,Osaka (KIX),Cathay Pacific A35K (B-LXO),Landed 19:58,2021-05-02
+149,149,21:05 CX3246,,Jakarta (CGK),Cathay Pacific Cargo B744 (B-LIE),Landed 20:21,2021-05-02
+150,150,21:20,CX521,Tokyo (NRT),Cathay Pacific 330,Unknown,2021-05-02
+151,151,21:25 CI927,,Taipei (TPE),China Airlines 738,Unknown,2021-05-02
+152,152,21:25 CV7326,,Muscat (MCT),Cargolux B748 (LX-VCI),Diverted to BKK,2021-05-02
+153,153,21:55 BR6529,,Taipei (TPE),EVA Air Cargo B77L (B-16781),Landed 00:29,2021-05-02
+154,154,22:00 CX979,,Xiamen (XMN),Cathay Pacific A333 (B-HLW),Landed 21:32,2021-05-02
+155,155,22:30 RH9458,,Delhi (DEL),Hong Kong Air Cargo A332 (B-LNV),Landed 21:30,2021-05-02
+156,156,22:30 SV984,,Riyadh (RUH),Saudia Cargo B77L (HZ-AK74),Landed 22:57,2021-05-02
+157,157,22:40 CX78,,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 22:12,2021-05-02
+158,158,22:55 CX742,,Hanoi (HAN),Cathay Pacific A333 (B-LBC),Landed 22:42,2021-05-02
+159,159,22:55,CX704,Bangkok (BKK),Cathay Pacific A359 (B-LRG),Landed 21:51,2021-05-02
+160,160,22:55 RH9072,,Dhaka (DAC),Hong Kong Air Cargo 33F,Unknown,2021-05-02
+161,161,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-02
+162,162,23:30 TK6782,,Almaty (ALA),Turkish Airlines 33F,Unknown,2021-05-02
+0,0,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18309),Landed 21:16,2021-05-03
+1,1,00:21 CV7326,,Bangkok (BKK),Cargolux B748 (LX-VCI),Landed 22:51,2021-05-03
+2,2,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18352),Landed 00:13,2021-05-03
+3,3,00:45 CI5821,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-03
+4,4,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA11KZ),Landed 01:53,2021-05-03
+5,5,01:25 KE313,,Seoul (ICN),Korean Air Cargo B77L (HL8044),Landed 00:18,2021-05-03
+6,6,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo 33F,Unknown,2021-05-03
+7,7,01:40 RU645,,Krasnoyarsk (KJA),AirBridgeCargo B748 (VQ-BRJ),Landed 00:57,2021-05-03
+8,8,01:55 PO275,,Seoul (ICN),Polar Air Cargo 77F,Unknown,2021-05-03
+9,9,02:45 SG7010,,Kolkata (CCU),SpiceXpress B738 (VT-SFG),Landed 23:48,2021-05-03
+10,10,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-03
+11,11,03:12 N8572,,Anchorage (ANC),National Airlines B744 (N729CA),Landed 03:03,2021-05-03
+12,12,03:15 EK9826,,Manila (MNL),Emirates SkyCargo B77L (A6-EFM),Landed 07:59,2021-05-03
+13,13,03:25 QF7527,,Darwin (DRW),Qantas Freight B763 (VH-EFR),Landed 03:38,2021-05-03
+14,14,03:30 CV4627,,Hanoi (HAN),Cargolux B748 (LX-VCJ),Diverted to BKK,2021-05-03
+15,15,03:30 CV8316,,Hanoi (HAN),Cargolux B748 (LX-VCJ),Unknown,2021-05-03
+16,16,03:30 RH328,,Ho Chi Minh City (SGN),Hong Kong Air Cargo 33F,Unknown,2021-05-03
+17,17,03:30 CV8316,,Hanoi (HAN),Cargolux 74F,Unknown,2021-05-03
+18,18,04:00 BH5419,,Dhaka (DAC),Bismillah Airlines 77F,Unknown,2021-05-03
+19,19,04:00 CV7417,,Hanoi (HAN),Cargolux 74Y,Unknown,2021-05-03
+20,20,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-03
+21,21,04:00 O37209,,Changsha (CSX),SF Airlines 73F,Unknown,2021-05-03
+22,22,04:30 RH569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNZ),Landed 03:25,2021-05-03
+23,23,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-03
+24,24,04:55 RU749,,Seoul (ICN),AirBridgeCargo B748 (VQ-BLQ),Landed 20:06,2021-05-03
+25,25,05:10,CX138,Sydney (SYD),Cathay Pacific 77W,Unknown,2021-05-03
+26,26,05:15 RH571,,Taipei (TPE),Hong Kong Air Cargo 33F,Unknown,2021-05-03
+27,27,05:25 CX270,,Amsterdam (AMS),Cathay Pacific A35K (B-LXJ),Landed 04:33,2021-05-03
+28,28,05:45 CX81,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJA),Landed 05:34,2021-05-03
+29,29,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-03
+30,30,06:10 SG31,,Delhi (DEL),SpiceJet 737,Unknown,2021-05-03
+31,31,06:15 LX138,,Zurich (ZRH),Swiss B77W (HB-JNA),Landed 05:50,2021-05-03
+32,32,06:20 QR8406,,Doha (DOH),Qatar Cargo B77L (A7-BFG),Landed 06:03,2021-05-03
+33,33,06:45 EK9284,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFF),Landed 01:21,2021-05-03
+34,34,07:00 SV3966,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-03
+35,35,07:00 BH5415,,Dhaka (DAC),Bismillah Airlines 77F,Unknown,2021-05-03
+36,36,07:00 CI5831,,Taipei (TPE),China Airlines 74Y,Unknown,2021-05-03
+37,37,07:05 VS636,,London (LHR),Virgin Atlantic B789 (G-VCRU),Landed 06:14,2021-05-03
+38,38,07:15 CX3118,,Chennai (MAA),Cathay Pacific Cargo B744 (B-LIF),Landed 07:15,2021-05-03
+39,39,07:25 CV4626,,Ho Chi Minh City (SGN),Cargolux 74F,Unknown,2021-05-03
+40,40,07:43 HX782,,Manila (MNL),Hong Kong Airlines A333 (B-LNP),Landed 07:24,2021-05-03
+41,41,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-03
+42,42,08:15 TK6490,,Istanbul (ISL),AirACT B744 (TC-ACG),Diverted to NVI,2021-05-03
+43,43,08:15 TK6490,,Bishkek (FRU),Turkish Airlines 74F,Unknown,2021-05-03
+44,44,08:55 SQ7970,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFM),Landed 08:22,2021-05-03
+45,45,09:00 ET3728,,Liege (LGG),Ethiopian Cargo B77L (ET-AWE),Unknown,2021-05-03
+46,46,09:05 RH9236,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNV),Landed 09:00,2021-05-03
+47,47,09:25 EK9886,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFS),Landed 09:05,2021-05-03
+48,48,09:35 TK6782,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-03
+49,49,09:35 TK6790,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-03
+50,50,09:50 CV6347,,Bangkok (BKK),Cargolux B748 (LX-VCE),Landed 13:30,2021-05-03
+51,51,09:50 CV8587,,Bangkok (BKK),Cargolux 74F,Unknown,2021-05-03
+52,52,09:50 SQ7974,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-03
+53,53,10:00 QR8418,,Singapore (SIN),Qatar Cargo B77L (A7-BFK),Landed 12:19,2021-05-03
+54,54,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18309),Landed 09:14,2021-05-03
+55,55,10:34 5X58,,Guam (GUM),UPS B748 (N607UP),Landed 11:03,2021-05-03
+56,56,10:50 CV8591,,Bangkok (BKK),Cargolux 74Y,Unknown,2021-05-03
+57,57,11:15 BA31,,London (LHR),British Airways B77W (G-STBE),Landed 10:31,2021-05-03
+58,58,11:40 RU149,,Moscow (SVO),AirBridgeCargo B748 (VQ-BRJ),Unknown,2021-05-03
+59,59,12:00 AA9740,,Tokyo (NRT),American Airlines 77W,Unknown,2021-05-03
+60,60,12:05,CX288,Frankfurt (FRA),Cathay Pacific A35K (B-LXF),Landed 11:06,2021-05-03
+61,61,12:10 CX85,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJC),Landed 15:43,2021-05-03
+62,62,12:10,BR867,Taipei (TPE),EVA Air B789 (B-17885),Landed 11:47,2021-05-03
+63,63,12:15 BA27,,London (LHR),British Airways B77W (G-STBN),Landed 12:12,2021-05-03
+64,64,12:30 UA2758,,Tokyo (NRT),United Airlines B77W (N2331U),Landed 11:54,2021-05-03
+65,65,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMT),Landed 12:07,2021-05-03
+66,66,12:40 KZ260,,Bangkok (BKK),Nippon Cargo Airlines 74N,Unknown,2021-05-03
+67,67,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18305),Landed 12:28,2021-05-03
+68,68,13:10 AA9730,,Tokyo (NRT),American Airlines B77W (N736AT),Landed 12:02,2021-05-03
+69,69,13:25 NH859,,Tokyo (HND),All Nippon Airways B788 (JA813A),Landed 12:53,2021-05-03
+70,70,13:31 TK6490,,Navoiy (NVI),AirACT B744 (TC-ACG),Diverted to ALA,2021-05-03
+71,71,14:00 6E9656,,Kolkata (CCU),IndiGo A320 (VT-IFZ),Landed 18:18,2021-05-03
+72,72,14:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA603A),Landed 13:31,2021-05-03
+73,73,15:25 RU737,,Singapore (SIN),AirBridgeCargo Airlines 74N,Unknown,2021-05-03
+74,74,15:30 CV7587,,Dammam (DMM),Cargolux B748 (LX-VCK),Diverted to KUL,2021-05-03
+75,75,15:30 CV7587,,Dammam (DMM),Cargolux B748 (LX-VCK),Unknown,2021-05-03
+76,76,15:39 9T6490,,Almaty (ALA),AirACT B744 (TC-ACG),Landed 14:15,2021-05-03
+77,77,15:45 5C1851,,Tel Aviv (TLV),CAL Cargo Airlines B744 (4X-ICB),Landed 15:47,2021-05-03
+78,78,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALU),Landed 15:01,2021-05-03
+79,79,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-LAR),Landed 16:20,2021-05-03
+80,80,16:30 AI1324,,Kolkata (CCU),Air India 788,Unknown,2021-05-03
+81,81,16:30 AI1314,,Kolkata (CCU),Air India B788 (VT-ANK),Landed 16:17,2021-05-03
+82,82,16:50,TR980,Singapore (SIN),Scoot B789 (9V-OJH),Landed 16:34,2021-05-03
+83,83,17:00 PO275,,Bahrain (BAH),Polar Air Cargo 77F,Unknown,2021-05-03
+84,84,17:20 UL896,,Colombo (CMB),SriLankan Airlines A333 (4R-ALP),Landed 16:45,2021-05-03
+85,85,17:30 QR8400,,Doha (DOH),Qatar Cargo B77L (A7-BFM),Landed 17:16,2021-05-03
+86,86,17:40,TG638,Bangkok (BKK),Thai Airways A359 (HS-THK),Landed 16:57,2021-05-03
+87,87,18:20,EK384,Bangkok (BKK),Emirates (Expo 2020 - Mobility Livery) A388 (A6-EOT),Landed 17:30,2021-05-03
+88,88,18:30 BG78,,Dhaka (DAC),Biman Bangladesh Airlines B77W (S2-AHN),Landed 19:16,2021-05-03
+89,89,19:00,CX654,Bangkok (BKK),Cathay Pacific A359 (B-LRX),Landed 17:42,2021-05-03
+90,90,19:00 QR8428,,Doha (DOH),Qatar Cargo B77L (A7-BFU),Landed 18:33,2021-05-03
+91,91,19:05 SV982,,Riyadh (RUH),Saudia Cargo B77L (HZ-AK73),Landed 22:55,2021-05-03
+92,92,19:35 CX97,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJL),Landed 19:09,2021-05-03
+93,93,19:55,CX104,Melbourne (MEL),Cathay Pacific A35K (B-LXL),Landed 20:18,2021-05-03
+94,94,20:00 C86757,,Kuwait City (KWI),Cargolux (Cutaway Livery) B748 (LX-VCM),Diverted to KUL,2021-05-03
+95,95,20:00 CX807,,Chicago (ORD),Cathay Pacific B77W (B-KQA),Landed 19:39,2021-05-03
+96,96,20:00 RJ1290,,Amman (AMM),Royal Jordanian B788 (JY-BAA),Landed 19:52,2021-05-03
+97,97,20:05 CI923,,Taipei (TPE),China Airlines 738,Canceled,2021-05-03
+98,98,20:15 C88727,,Tokyo (NRT),Cargolux Italia 74F,Unknown,2021-05-03
+99,99,20:30 CV7587,,Kuala Lumpur (KUL),Cargolux B748 (LX-VCK),Landed 18:31,2021-05-03
+100,100,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18305),Landed 20:11,2021-05-03
+101,101,20:55,CX507,Osaka (KIX),Cathay Pacific 351,Unknown,2021-05-03
+102,102,21:05 EK9352,,Manila (MNL),Emirates SkyCargo B77L (A6-EFK),Landed 20:44,2021-05-03
+103,103,21:15 CV7947,,Jakarta (CGK),Cargolux B748 (LX-VCD),Diverted to BKK,2021-05-03
+104,104,21:15 ET3728,,Liege (LGG),Ethiopian Cargo B77L (ET-AWE),Landed 20:37,2021-05-03
+105,105,21:20,CX521,Tokyo (NRT),Cathay Pacific A35K (B-LXH),Landed 20:22,2021-05-03
+106,106,21:25 CI927,,Taipei (TPE),China Airlines 738,Unknown,2021-05-03
+107,107,21:45 CV7211,,Jakarta (CGK),Cargolux 74Y,Unknown,2021-05-03
+108,108,21:45,CX569,Osaka (KIX),Cathay Pacific 359,Unknown,2021-05-03
+109,109,21:45 CX3244,,Delhi (DEL),Cathay Pacific Cargo B748 (B-LJE),Landed 21:30,2021-05-03
+110,110,21:50 K4828,,Anchorage (ANC),Kalitta Air B744 (N403KZ),Landed 23:10,2021-05-03
+111,111,22:10 CX3218,,Delhi (DEL),Cathay Pacific 74Y,Unknown,2021-05-03
+112,112,22:30 RH9458,,Delhi (DEL),Hong Kong Air Cargo A332 (B-LNZ),Landed 21:29,2021-05-03
+113,113,22:40,CX764,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRL),Landed 23:45,2021-05-03
+114,114,22:40 CX3128,,Melbourne (MEL),Cathay Pacific 74N,Unknown,2021-05-03
+115,115,22:50 O37163,,Nanchang (KHN),SF Airlines 73F,Unknown,2021-05-03
+116,116,22:55 RH6652,,Dhaka (DAC),Hong Kong Air Cargo A332 (B-LNX),Landed 23:03,2021-05-03
+117,117,22:55 TK6784,,Almaty (ALA),Turkish Airlines 33F,Unknown,2021-05-03
+118,118,22:55 RH9486,,Almaty (ALA),Hong Kong Air Cargo A332 (B-LNW),Landed 01:15,2021-05-03
+119,119,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-03
+120,120,23:15 CX28,,Melbourne (MEL),Cathay Pacific 74N,Unknown,2021-05-03
+121,121,23:20 PO98,,Seoul (ICN),DHL B77L (N706GT),Landed 05:20,2021-05-03
+122,122,23:35 CX75,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJG),Landed 22:39,2021-05-03
+123,123,23:45 CX3246,,Chennai (MAA),Cathay Pacific Cargo B744 (B-LIE),Landed 22:49,2021-05-03
+124,124,23:50 RH9376,,Chennai (MAA),Hong Kong Air Cargo A332 (B-LNV),Landed 23:53,2021-05-03
+125,125,23:55 RU149,,Krasnoyarsk (KJA),AirBridgeCargo Airlines 74N,Unknown,2021-05-03
+0,0,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18309),Landed 21:21,2021-05-04
+1,1,00:15 CX2025,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJN),Landed 00:49,2021-05-04
+2,2,00:25 LD681,,Taipei (TPE),DHL A306 (B-LDG),Landed 08:29,2021-05-04
+3,3,00:25 OZ969,,Seoul (ICN),Asiana Airlines 74F,Unknown,2021-05-04
+4,4,00:25 CV6757,,Kuala Lumpur (KUL),Cargolux (Cutaway Livery) B748 (LX-VCM),Landed 00:31,2021-05-04
+5,5,00:30 CX2081,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJF),Landed 23:43,2021-05-04
+6,6,00:30 CI5835,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-04
+7,7,00:30 LD392,,Penang (PEN),Air Hong Kong ABY,Unknown,2021-05-04
+8,8,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18359),Landed 00:27,2021-05-04
+9,9,00:40 LD205,,Osaka (KIX),Air Hong Kong ABY,Canceled,2021-05-04
+10,10,00:45 LD129,,Seoul (ICN),DHL A306 (B-LDF),Landed 00:18,2021-05-04
+11,11,00:50 LD456,,Manila (MNL),DHL A306 (B-LDH),Landed 00:40,2021-05-04
+12,12,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA16KZ),Landed 00:01,2021-05-04
+13,13,01:00 LD209,,Tokyo (NRT),Air Hong Kong 33Y,Unknown,2021-05-04
+14,14,01:05 NH8511,,Tokyo (NRT),All Nippon Airways 76F,Unknown,2021-05-04
+15,15,01:05 TH3507,,Kuala Lumpur (SZB),Raya Airways B762 (9M-RXA),Landed 01:00,2021-05-04
+16,16,01:20 LD217,,Nagoya (NGO),DHL A306 (B-LDD),Landed 23:58,2021-05-04
+17,17,01:20 LD783,,Shanghai (PVG),DHL A332 (B-LDS),Landed 02:59,2021-05-04
+18,18,01:25 KE313,,Seoul (ICN),Korean Air Cargo B77L (HL8045),Landed 00:36,2021-05-04
+19,19,01:25 LD326,,Singapore (SIN),DHL A333 (B-LDT),Landed 01:22,2021-05-04
+20,20,01:25 LD842,,Bangkok (BKK),DHL A333 (B-LDQ),Landed 01:29,2021-05-04
+21,21,01:25 LD832,,Bangkok (BKK),Air Hong Kong ABY,Unknown,2021-05-04
+22,22,01:30 LD562,,Ho Chi Minh City (SGN),DHL A333 (B-LDR),Landed 01:05,2021-05-04
+23,23,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo 33F,Unknown,2021-05-04
+24,24,01:30 8K525,,Hanoi (HAN),K-Mile Air B734 (HS-KMA),Landed 01:18,2021-05-04
+25,25,02:00 CX2032,,Hanoi (HAN),Cathay Pacific 74Y,Unknown,2021-05-04
+26,26,02:00 Y87915,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-04
+27,27,02:00 HX2018,,Sydney (SYD),Hong Kong Airlines A333 (B-LNM),Landed 01:38,2021-05-04
+28,28,02:05 SQ7872,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-04
+29,29,02:15 MS509,,Cairo (CAI),EgyptAir Cargo A332 (SU-GCF),Landed 02:33,2021-05-04
+30,30,02:45 SG7010,,Kolkata (CCU),SpiceJet 738,Canceled,2021-05-04
+31,31,02:45 HX275,,Taipei (TPE),Hong Kong Airlines A333 (B-LNQ),Landed 01:32,2021-05-04
+32,32,02:50 PO947,,Seoul (ICN),DHL B77L (N714SA),Landed 02:23,2021-05-04
+33,33,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-04
+34,34,03:05 LD769,,Beijing (PEK),DHL A306 (B-LDB),Landed 02:41,2021-05-04
+35,35,03:45 7L147,,Baku (GYD),Silk Way West Airlines B748 (VQ-BBM),Landed 15:05,2021-05-04
+36,36,03:55 CX3251,,Zhengzhou (CGO),Cathay Pacific Cargo B744 (B-LIF),Landed 03:25,2021-05-04
+37,37,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-04
+38,38,04:00 O37209,,Changsha (CSX),SF Airlines 73F,Unknown,2021-05-04
+39,39,04:20 CX53,,Chongqing (CKG),Cathay Pacific 74N,Unknown,2021-05-04
+40,40,04:25 QR8422,,Doha (DOH),Qatar Airways B788 (A7-BCW),Unknown,2021-05-04
+41,41,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-04
+42,42,04:30 HX129,,Hangzhou (HGH),Hong Kong Airlines A333 (B-LNN),Landed 04:21,2021-05-04
+43,43,05:10,CX138,Sydney (SYD),Cathay Pacific A35K (B-LXI),Landed 05:30,2021-05-04
+44,44,05:45,LH8472,Bengaluru (BLR),Lufthansa 77X,Unknown,2021-05-04
+45,45,05:45,LH8472,Bangkok (BKK),Lufthansa Cargo B77L (D-ALFA),Landed 05:16,2021-05-04
+46,46,05:50 PO769,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-04
+47,47,06:00 LY75,,Tel Aviv (TLV),El Al Israel Airlines B789 (4X-EDJ),Unknown,2021-05-04
+48,48,06:04 CV7947,,Bangkok (BKK),Cargolux B748 (LX-VCD),Landed 03:44,2021-05-04
+49,49,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-04
+50,50,06:20 CX260,,Paris (CDG),Cathay Pacific A35K (B-LXC),Landed 05:59,2021-05-04
+51,51,06:30 K4878,,Anchorage (ANC),Kalitta Air B744 (N401KZ),Landed 06:31,2021-05-04
+52,52,06:45 CX42,,Bengaluru (BLR),Cathay Pacific Cargo B744 (B-LIC),Landed 06:15,2021-05-04
+53,53,07:10 EK9820,,Manila (MNL),Emirates SkyCargo B77L (A6-EFN),Landed 07:27,2021-05-04
+54,54,07:15 OZ952,,Hanoi (HAN),Asiana Airlines 74F,Unknown,2021-05-04
+55,55,07:25 O36891,,Ningbo (NGB),SF Airlines 73F,Unknown,2021-05-04
+56,56,07:35 CX3195,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJK),Landed 06:39,2021-05-04
+57,57,07:35 QR8140,,Singapore (SIN),Qatar Cargo B77L (A7-BFN),Landed 07:03,2021-05-04
+58,58,07:40 RH4569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNV),Landed 07:23,2021-05-04
+59,59,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-04
+60,60,08:10 5J272,,Manila (MNL),Cebu Pacific 330,Unknown,2021-05-04
+61,61,08:45 CX55,,Shanghai (PVG),Cathay Pacific 74Y,Unknown,2021-05-04
+62,62,08:50 CX2095,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-04
+63,63,09:15 ET3626,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-04
+64,64,09:25 BR6521,,Taipei (TPE),EVA Air 77X,Unknown,2021-05-04
+65,65,09:35 RH830,,Shanghai (PVG),Hong Kong Air Cargo 33F,Unknown,2021-05-04
+66,66,09:35 TK6784,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-04
+67,67,10:00 CV7321,,Bahrain (BAH),Cargolux 74Y,Unknown,2021-05-04
+68,68,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18356),Landed 09:27,2021-05-04
+69,69,11:15 BA31,,London (LHR),British Airways B77W (G-STBG),Landed 10:20,2021-05-04
+70,70,11:25 EK9880,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFJ),Landed 10:02,2021-05-04
+71,71,11:30 RU137,,Moscow (SVO),AirBridgeCargo Airlines 74N,Unknown,2021-05-04
+72,72,11:40 MF8695,,Fuzhou (FOC),Xiamen Air B738 (B-1708),Landed 11:28,2021-05-04
+73,73,11:45 TG600,,Bangkok (BKK),Thai Airways B77W (HS-TKQ),Landed 11:15,2021-05-04
+74,74,12:00 AA9742,,Tokyo (NRT),American Airlines B77W (N734AR),Landed 12:20,2021-05-04
+75,75,12:25 LD3526,,Singapore (SIN),DHL A333 (B-LDQ),Landed 12:34,2021-05-04
+76,76,12:30 CK263,,Shanghai (PVG),China Cargo Airlines 77F,Unknown,2021-05-04
+77,77,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMB),Landed 12:06,2021-05-04
+78,78,12:45 RU139,,Seoul (ICN),AirBridgeCargo B748 (VP-BJS),Landed 02:53,2021-05-04
+79,79,12:50 UA2846,,Guam (GUM),United Airlines B763 (N657UA),Landed 12:41,2021-05-04
+80,80,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18309),Landed 12:22,2021-05-04
+81,81,13:00 LD392,,Penang (PEN),DHL A306 (B-LDN),Landed 12:13,2021-05-04
+82,82,13:15 VS238,,London (LHR),Virgin Atlantic B789 (G-VBZZ),Diverted to LHR,2021-05-04
+83,83,13:25 UA2829,,Tokyo (NRT),United Airlines B77W (N2243U),Landed 12:55,2021-05-04
+84,84,13:35,BI635,Brunei (BWN),Royal Brunei Airlines B788 (V8-DLA),Landed 13:14,2021-05-04
+85,85,13:40 CX38,,Mumbai (BOM),Cathay Pacific 74Y,Unknown,2021-05-04
+86,86,13:40 CX906,,Manila (MNL),Cathay Pacific A35K (B-LXE),Landed 12:37,2021-05-04
+87,87,13:40 NH1929,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-04
+88,88,13:50 RH332,,Bangkok (BKK),Hong Kong Air Cargo 33F,Unknown,2021-05-04
+89,89,13:50 RU137,,Moscow (DME),AirBridgeCargo Airlines 74Y,Unknown,2021-05-04
+90,90,14:05 MH6114,,Kota Kinabalu (BKI),Malaysia Airlines 33X,Unknown,2021-05-04
+91,91,14:22 5X58,,Honolulu (HNL),UPS B748 (N614UP),Landed 14:36,2021-05-04
+92,92,14:50 CX3259,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJB),Landed 14:22,2021-05-04
+93,93,14:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA8664),Landed 13:27,2021-05-04
+94,94,15:00 RA409,,Kathmandu (KTM),Nepal Airlines 320,Unknown,2021-05-04
+95,95,15:00 HX108,,Haikou (HAK),Hong Kong Airlines A333 (B-LNP),Landed 15:27,2021-05-04
+96,96,15:15,CX930,Manila (MNL),Cathay Pacific 359,Canceled,2021-05-04
+97,97,15:20 CX495,,Taipei (TPE),Cathay Pacific A35K (B-LXB),Landed 15:10,2021-05-04
+98,98,15:20 MF381,,Xiamen (XMN),Xiamen Air B738 (B-5630),Landed 15:00,2021-05-04
+99,99,15:27 5X64,,Anchorage (ANC),UPS B748 (N613UP),Landed 15:07,2021-05-04
+100,100,15:45 CI6843,,Taipei (TPE),China Airlines Cargo B744 (B-18709),Landed 18:56,2021-05-04
+101,101,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALS),Landed 15:17,2021-05-04
+102,102,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-LAN),Landed 15:58,2021-05-04
+103,103,16:42 AC7289,,Toronto (YYZ),Air Canada B77W (C-FKAU),Landed 16:39,2021-05-04
+104,104,17:00 CX3273,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-04
+105,105,17:15 SQ7864,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-04
+106,106,17:20 UL896,,Colombo (CMB),SriLankan Airlines A333 (4R-ALM),Landed 16:44,2021-05-04
+107,107,17:23 UA2848,,Guam (GUM),United Airlines B763,Unknown,2021-05-04
+108,108,17:25 PO7930,,Tokyo (NRT),Polar Air Cargo 77F,Unknown,2021-05-04
+109,109,17:35,CX391,Beijing (PEK),Cathay Pacific B77W (B-HNR),Landed 18:10,2021-05-04
+110,110,17:40,TG638,Bangkok (BKK),Thai Airways 773,Canceled,2021-05-04
+111,111,18:05 CX93,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-04
+112,112,18:15 ET3728,,Liege (LGG),Ethiopian Cargo B77L (ET-AVQ),Landed 07:06,2021-05-04
+113,113,18:20,EK384,Bangkok (BKK),Emirates (Expo 2020 - Opportunity Livery) A388 (A6-EOU),Landed 17:25,2021-05-04
+114,114,18:25 ET3446,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-04
+115,115,18:25 KL819,,Bangkok (BKK),KLM B77W (PH-BVF),Landed 17:37,2021-05-04
+116,116,18:30 RH372,,Singapore (SIN),Hong Kong Air Cargo A332 (B-LNV),Landed 18:14,2021-05-04
+117,117,18:45 EK9824,,Manila (MNL),Emirates SkyCargo B77L (A6-EFF),Landed 21:22,2021-05-04
+118,118,18:55 SV3962,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-04
+119,119,19:00 CX734,,Singapore (SIN),Cathay Pacific A359 (B-LRJ),Landed 18:17,2021-05-04
+120,120,19:00,CX654,Bangkok (BKK),Cathay Pacific A359 (B-LRN),Landed 18:36,2021-05-04
+121,121,19:00 QF83,,Cairns (CNS),Qantas A333 (VH-QPH),Landed 18:43,2021-05-04
+122,122,19:00 TUB107,,Dhaka (DAC),- 747,Unknown,2021-05-04
+123,123,19:05 SQ7364,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-04
+124,124,19:15 7L246,,Almaty (ALA),Silk Way West Airlines 74N,Unknown,2021-05-04
+125,125,19:20 C86731,,Dubai (DWC),Cargolux B744 (LX-SCV),Landed 18:04,2021-05-04
+126,126,19:25,TR980,Singapore (SIN),Scoot B789 (9V-OJE),Landed 19:12,2021-05-04
+127,127,19:35 QF7593,,Sydney (SYD),Atlas Air B744 (N492MC),Landed 04:41,2021-05-04
+128,128,19:40 QR8792,,Doha (DOH),Qatar Cargo B77L (A7-BFI),Landed 19:28,2021-05-04
+129,129,19:45 TG606,,Bangkok (BKK),Thai Airways A359 (HS-THF),Landed 19:19,2021-05-04
+130,130,20:00,CX807,Chicago (ORD),Cathay Pacific B77W (B-KQQ),Landed 00:42,2021-05-04
+131,131,20:05 CI923,,Taipei (TPE),China Airlines 738,Canceled,2021-05-04
+132,132,20:15,CX198,Auckland (AKL),Cathay Pacific A35K (B-LXM),Landed 19:22,2021-05-04
+133,133,20:30 CX2091,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-04
+134,134,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18357),Landed 20:03,2021-05-04
+135,135,20:40 TK83,,Bangkok (BKK),Turkish Airlines B77W (TC-JJU),Landed 20:22,2021-05-04
+136,136,20:55,CX507,Osaka (KIX),Cathay Pacific 351,Unknown,2021-05-04
+137,137,21:00 CI5821,,Taipei (TPE),China Airlines Cargo B744 (B-18718),Landed 20:40,2021-05-04
+138,138,21:15 SV3972,,Dubai (DWC),Saudia Cargo B744 (TF-AMB),Unknown,2021-05-04
+139,139,21:15 SV3972,,Dubai (DWC),Saudia Cargo B744 (TF-AMB),Delayed 13:07,2021-05-04
+140,140,21:20,CX521,Tokyo (NRT),Cathay Pacific 330,Unknown,2021-05-04
+141,141,21:25 CI927,,Taipei (TPE),China Airlines 738,Unknown,2021-05-04
+142,142,21:37 K49205,,Anchorage (ANC),Kalitta Air B744 (N713CK),Landed 21:51,2021-05-04
+143,143,22:00 CX979,,Xiamen (XMN),Cathay Pacific A333 (B-LAL),Landed 21:47,2021-05-04
+144,144,22:30 BH5419,,Dhaka (DAC),Bismillah Airlines 77X,Unknown,2021-05-04
+145,145,22:30,KE607,Seoul (ICN),Korean Air B789 (HL7206),Landed 23:03,2021-05-04
+146,146,22:30 RH9366,,Zhengzhou (CGO),Hong Kong Air Cargo 33F,Unknown,2021-05-04
+147,147,22:30 RH9458,,Delhi (DEL),Hong Kong Air Cargo A332 (B-LNX),Landed 21:28,2021-05-04
+148,148,22:35 CX25,,Taipei (TPE),Cathay Pacific ABY,Unknown,2021-05-04
+149,149,22:40,CX764,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRP),Landed 22:23,2021-05-04
+150,150,22:40,LH8474,Bangkok (BKK),Lufthansa Cargo B77L (D-ALFC),Landed 21:58,2021-05-04
+151,151,22:50 O37163,,Nanchang (KHN),SF Airlines 73F,Unknown,2021-05-04
+152,152,22:55 CX742,,Hanoi (HAN),Cathay Pacific A333 (B-LAP),Landed 22:39,2021-05-04
+153,153,22:55,CX704,Bangkok (BKK),Cathay Pacific A359 (B-LRU),Landed 21:55,2021-05-04
+154,154,22:55 RH6652,,Dhaka (DAC),Hong Kong Air Cargo A332 (B-LNY),Landed 22:37,2021-05-04
+155,155,22:55 TK6790,,Almaty (ALA),Turkish Airlines 33F,Unknown,2021-05-04
+156,156,22:55 RH9496,,Almaty (ALA),Hong Kong Air Cargo A332 (B-LNW),Landed 23:31,2021-05-04
+157,157,23:00,CX419,Seoul (ICN),Cathay Pacific A35K (B-LXH),Landed 22:27,2021-05-04
+158,158,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-04
+159,159,23:10 EK9822,,Manila (MNL),Emirates SkyCargo B77L (A6-EFM),Landed 05:13,2021-05-04
+160,160,23:10 CX44,,Bengaluru (BLR),Cathay Pacific 74Y,Unknown,2021-05-04
+161,161,23:15 CX22,,Melbourne (MEL),Cathay Pacific 74N,Unknown,2021-05-04
+162,162,23:15 CX3246,,Dhaka (DAC),Cathay Pacific Cargo B748 (B-LJK),Landed 22:57,2021-05-04
+163,163,23:20 PO98,,Leipzig (LEJ),Polar Air Cargo 77F,Unknown,2021-05-04
+164,164,23:35 CX2015,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJB),Landed 00:20,2021-05-04
+165,165,23:55,CX926,Cebu (CEB),Cathay Pacific A359 (B-LRK),Landed 23:28,2021-05-04
+0,0,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18305),Landed 21:37,2021-05-05
+1,1,00:15,TW193,Jeju (CJU),T'way Air 737,Canceled,2021-05-05
+2,2,00:25 LD681,,Taipei (TPE),DHL A306 (B-LDC),Landed 00:58,2021-05-05
+3,3,00:25 OZ969,,Seoul (ICN),Asiana Cargo B744 (HL7618),Landed 02:11,2021-05-05
+4,4,00:30 CI5835,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-05
+5,5,00:30 LD129,,Seoul (ICN),DHL A306 (B-LDD),Landed 00:08,2021-05-05
+6,6,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18351),Landed 00:32,2021-05-05
+7,7,00:38,,Chicago (ORD),- B77W,Unknown,2021-05-05
+8,8,00:40 LD205,,Osaka (KIX),Air Hong Kong ABY,Canceled,2021-05-05
+9,9,00:50 CX35,,Seoul (ICN),Cathay Pacific 74N,Unknown,2021-05-05
+10,10,00:50 LD217,,Nagoya (NGO),Air Hong Kong ABY,Unknown,2021-05-05
+11,11,00:50 LD456,,Manila (MNL),DHL A306 (B-LDH),Landed 00:24,2021-05-05
+12,12,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA12KZ),Landed 00:47,2021-05-05
+13,13,01:05 NH8511,,Tokyo (NRT),All Nippon Airways 76F,Unknown,2021-05-05
+14,14,01:05 TH3507,,Kuala Lumpur (SZB),Raya Airways B762 (9M-RXA),Landed 01:03,2021-05-05
+15,15,01:20 BR6537,,Taipei (TPE),EVA Air Cargo B77L (B-16786),Landed 01:07,2021-05-05
+16,16,01:20 LD562,,Ho Chi Minh City (SGN),DHL A306 (B-LDE),Landed 01:15,2021-05-05
+17,17,01:20 LD783,,Shanghai (PVG),DHL A332 (B-LDS),Unknown,2021-05-05
+18,18,01:25 LD209,,Tokyo (NRT),DHL A333 (B-LDQ),Landed 00:39,2021-05-05
+19,19,01:25 LD326,,Singapore (SIN),DHL A333 (B-LDT),Landed 01:23,2021-05-05
+20,20,01:25 LD842,,Bangkok (BKK),DHL A333 (B-LDR),Landed 00:50,2021-05-05
+21,21,01:25 KE313,,Seoul (ICN),Korean Air Cargo B748 (HL7639),Landed 00:43,2021-05-05
+22,22,01:25 LD832,,Bangkok (BKK),Air Hong Kong ABY,Unknown,2021-05-05
+23,23,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo A332 (B-LNV),Landed 00:53,2021-05-05
+24,24,01:30 8K525,,Hanoi (HAN),K-Mile Air B734 (HS-KMA),Landed 01:28,2021-05-05
+25,25,01:50 PO7681,,Seoul (ICN),DHL B77L (N775SA),Unknown,2021-05-05
+26,26,02:00 CX2046,,Delhi (DEL),Cathay Pacific Cargo B748 (B-LJN),Landed 01:00,2021-05-05
+27,27,02:00 Y87915,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-05
+28,28,02:40 CX3122,,Toowoomba (WTB),Cathay Pacific Cargo B748 (B-LJC),Landed 02:30,2021-05-05
+29,29,02:45 SG7010,,Kolkata (CCU),SpiceJet 738,Canceled,2021-05-05
+30,30,02:55 AM9028,,Seoul (ICN),Aeromexico B789 (XA-ADD),Landed 02:13,2021-05-05
+31,31,03:00 FJ1391,,Nadi (NAN),Fiji Airways 333,Unknown,2021-05-05
+32,32,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-05
+33,33,03:05 LD769,,Beijing (PEK),Air Hong Kong ABF,Canceled,2021-05-05
+34,34,03:10 CX99,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJM),Landed 02:41,2021-05-05
+35,35,04:00 RU239,,Moscow (SVO),AirBridgeCargo B748 (VQ-BRH),Landed 12:48,2021-05-05
+36,36,04:00 PO7970,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-05
+37,37,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-05
+38,38,04:00 O37209,,Changsha (CSX),SF Airlines 73F,Unknown,2021-05-05
+39,39,04:10 QR8402,,Doha (DOH),Qatar Cargo B77L (A7-BFQ),Landed 03:47,2021-05-05
+40,40,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-05
+41,41,04:40 QF29,,Melbourne (MEL),Qantas B789 (VH-ZNI),Landed 03:30,2021-05-05
+42,42,04:40 RU231,,Yekaterinburg (SVX),AirBridgeCargo B748 (VP-BIN),Landed 10:29,2021-05-05
+43,43,05:00 CX829,,Toronto (YYZ),Cathay Pacific A35K (B-LXD),Landed 04:59,2021-05-05
+44,44,05:30 RH320,,Ho Chi Minh City (SGN),Hong Kong Air Cargo A332 (B-LNZ),Landed 05:21,2021-05-05
+45,45,06:00 CX2083,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJD),Landed 05:23,2021-05-05
+46,46,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-05
+47,47,06:05,CX798,Jakarta (CGK),Cathay Pacific 330,Canceled,2021-05-05
+48,48,06:15,LX138,Zurich (ZRH),Swiss B77W (HB-JNL),Landed 06:14,2021-05-05
+49,49,06:45,CX881,Los Angeles (LAX),Cathay Pacific A35K (B-LXK),Landed 06:26,2021-05-05
+50,50,07:00 BH5411,,Dhaka (DAC),Bismillah Airlines 77F,Unknown,2021-05-05
+51,51,07:10,NZ81,Auckland (AKL),Air New Zealand B789 (ZK-NZF),Landed 06:59,2021-05-05
+52,52,07:10 SV984,,Riyadh (RUH),Saudia Cargo B77L (HZ-AK72),Landed 06:29,2021-05-05
+53,53,07:10 SV6801,,Jeddah (JED),Saudia 77F,Unknown,2021-05-05
+54,54,07:10 SV3966,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-05
+55,55,07:15 OZ951,,Hanoi (HAN),Asiana Cargo B744 (HL7423),Unknown,2021-05-05
+56,56,07:15 OZ952,,Hanoi (HAN),Asiana Cargo B744 (HL7423),Landed 06:38,2021-05-05
+57,57,07:25 CV6322,,Bangkok (BKK),Cargolux B748 (LX-VCG),Landed 17:08,2021-05-05
+58,58,07:25 CV7322,,Bangkok (BKK),Cargolux B748 (LX-VCG),Unknown,2021-05-05
+59,59,07:25 O36891,,Ningbo (NGB),SF Airlines 73F,Unknown,2021-05-05
+60,60,07:30,CX170,Perth (PER),Cathay Pacific A35K (B-LXJ),Landed 07:39,2021-05-05
+61,61,07:30 CX3253,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJL),Landed 07:21,2021-05-05
+62,62,07:40 RH4569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNW),Landed 08:02,2021-05-05
+63,63,07:49 HX782,,Manila (MNL),Hong Kong Airlines A333 (B-LNM),Landed 07:37,2021-05-05
+64,64,07:50 CX3261,,Chengdu (CTU),Cathay Pacific 74Y,Unknown,2021-05-05
+65,65,07:55 CV7333,,Bangkok (BKK),Cargolux 74Y,Unknown,2021-05-05
+66,66,07:55 HX2748,,Kuala Lumpur (KUL),Hong Kong Airlines A333 (B-LNN),Landed 08:05,2021-05-05
+67,67,08:00 ET3716,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-05
+68,68,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-05
+69,69,08:15 EK9216,,Bangkok (BKK),Emirates SkyCargo B77L (A6-EFI),Landed 07:26,2021-05-05
+70,70,08:20 CX2078,,Dubai (DWC),Cathay Pacific Cargo B744 (B-LIF),Landed 07:15,2021-05-05
+71,71,08:30 CX14,,Milan (MXP),Cathay Pacific 74N,Unknown,2021-05-05
+72,72,08:35 CX3239,,Shanghai (PVG),Cathay Pacific 74N,Unknown,2021-05-05
+73,73,08:45 PO959,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-05
+74,74,08:45 5S5411,,Dhaka (DAC),- 74Y,Unknown,2021-05-05
+75,75,09:05 RH9236,,Shanghai (PVG),Hong Kong Air Cargo 33F,Unknown,2021-05-05
+76,76,09:35 RH830,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNX),Landed 09:25,2021-05-05
+77,77,09:55 CX3144,,Chennai (MAA),Cathay Pacific Cargo B744 (B-LIC),Landed 10:45,2021-05-05
+78,78,09:55 PR300,,Manila (MNL),Philippine Airlines 321,Canceled,2021-05-05
+79,79,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18359),Landed 09:50,2021-05-05
+80,80,10:10 CX676,,Tel Aviv (TLV),Cathay Pacific A35K (B-LXA),Landed 10:32,2021-05-05
+81,81,10:55 QR8408,,Osaka (KIX),Qatar Cargo B77L (A7-BFN),Landed 10:35,2021-05-05
+82,82,11:00 CX51,,Zhengzhou (CGO),Cathay Pacific 74N,Unknown,2021-05-05
+83,83,11:15 BA31,,London (LHR),British Airways B77W (G-STBF),Landed 10:09,2021-05-05
+84,84,11:35 LD3356,,Manila (MNL),DHL A306 (B-LDB),Landed 10:16,2021-05-05
+85,85,11:45 5C851,,Tel Aviv (TLV),CAL Cargo Airlines B744 (4X-ICB),Landed 16:10,2021-05-05
+86,86,12:00 AA9744,,Tokyo (NRT),American Airlines B77W (N717AN),Landed 12:07,2021-05-05
+87,87,12:10,BR867,Taipei (TPE),EVA Air B789 (B-17883),Landed 11:46,2021-05-05
+88,88,12:14 PO947,,Anchorage (ANC),DHL B748 (N858GT),Landed 12:19,2021-05-05
+89,89,12:25 EY9857,,Abu Dhabi (AUH),Etihad Airways 77X,Unknown,2021-05-05
+90,90,12:25 LD3526,,Singapore (SIN),DHL A333 (B-LDQ),Landed 12:12,2021-05-05
+91,91,12:30 CK263,,Shanghai (PVG),China Cargo Airlines 77F,Unknown,2021-05-05
+92,92,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMM),Landed 11:52,2021-05-05
+93,93,12:50 CA1067,,Shanghai (PVG),Air China Cargo B77L (B-2094),Landed 04:17,2021-05-05
+94,94,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18316),Landed 12:26,2021-05-05
+95,95,13:00 LD392,,Penang (PEN),DHL A306 (B-LDN),Landed 12:29,2021-05-05
+96,96,13:05,CA111,Beijing (PEK),Air China A332 (B-6115),Landed 13:02,2021-05-05
+97,97,13:15 VS238,,London (LHR),Virgin Atlantic B789 (G-VYUM),Landed 12:38,2021-05-05
+98,98,13:40 CX906,,Manila (MNL),Cathay Pacific A359 (B-LQA),Landed 12:55,2021-05-05
+99,99,13:43 5X62,,Anchorage (ANC),UPS B748 (N606UP),Landed 13:45,2021-05-05
+100,100,13:45,JL29,Tokyo (NRT),Japan Airlines B789 (JA870J),Landed 13:10,2021-05-05
+101,101,13:50 RH332,,Bangkok (BKK),Hong Kong Air Cargo A332 (B-LNV),Landed 13:14,2021-05-05
+102,102,14:15 N8574,,Anchorage (ANC),National Airlines B744 (N729CA),Landed 15:03,2021-05-05
+103,103,14:29 5X58,,Honolulu (HNL),UPS B748 (N607UP),Landed 14:15,2021-05-05
+104,104,14:45 PO237,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-05
+105,105,14:50 SQ7972,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFP),Landed 14:19,2021-05-05
+106,106,14:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA8664),Landed 13:31,2021-05-05
+107,107,15:00 EK9882,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFK),Landed 15:28,2021-05-05
+108,108,15:05,CX766,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRO),Landed 14:09,2021-05-05
+109,109,15:15,CX930,Manila (MNL),Cathay Pacific 359,Unknown,2021-05-05
+110,110,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALS),Landed 15:09,2021-05-05
+111,111,16:05 ET3728,,Seoul (ICN),Ethiopian Airlines 77X,Unknown,2021-05-05
+112,112,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-LAM),Landed 16:28,2021-05-05
+113,113,16:25 EK9832,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFF),Landed 16:22,2021-05-05
+114,114,16:30 AI1324,,Delhi (DEL),Air India B788 (VT-ANG),Landed 16:41,2021-05-05
+115,115,16:50 QF7531,,Darwin (DRW),Qantas Freight B763 (VH-EFR),Landed 20:24,2021-05-05
+116,116,16:55,CX987,Chengdu (CTU),Cathay Pacific A333 (B-LBC),Landed 17:10,2021-05-05
+117,117,17:00 PO275,,Bahrain (BAH),Polar Air Cargo 77F,Unknown,2021-05-05
+118,118,17:10,AC7,Vancouver (YVR),Air Canada B789 (C-FGHZ),Landed 17:25,2021-05-05
+119,119,17:20 CX467,,Taipei (TPE),Cathay Pacific A35K (B-LXM),Landed 16:55,2021-05-05
+120,120,17:20 UL896,,Colombo (CMB),SriLankan Airlines A332 (4R-ALA),Landed 17:05,2021-05-05
+121,121,17:35,CX391,Beijing (PEK),Cathay Pacific B77W (B-KQB),Landed 16:57,2021-05-05
+122,122,17:35 SG7855,,Kolkata (CCU),Hi Fly A343 (9H-JAI),Canceled,2021-05-05
+123,123,17:40,TG638,Bangkok (BKK),Thai Airways A359 (HS-THC),Landed 17:18,2021-05-05
+124,124,17:45 CV7342,,Seoul (ICN),Cargolux B748 (LX-VCD),Landed 17:39,2021-05-05
+125,125,18:05 CX254,,London (LHR),Cathay Pacific A35K (B-LXC),Landed 16:14,2021-05-05
+126,126,18:05 SQ7862,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-05
+127,127,18:15 ET608,,Bangkok (BKK),Ethiopian Airlines (Star Alliance Livery) B788 (ET-ATG),Landed 17:15,2021-05-05
+128,128,18:20,EK384,Bangkok (BKK),Emirates A388 (A6-EUD),Landed 17:45,2021-05-05
+129,129,18:25 KL819,,Bangkok (BKK),KLM B789 (PH-BHM),Landed 17:37,2021-05-05
+130,130,18:30 BG78,,Dhaka (DAC),Biman Bangladesh Airlines 773,Canceled,2021-05-05
+131,131,18:30 CI6843,,Taipei (TPE),China Airlines Cargo B744 (B-18719),Landed 17:49,2021-05-05
+132,132,18:30 RH372,,Singapore (SIN),Hong Kong Air Cargo A332 (B-LNY),Landed 20:15,2021-05-05
+133,133,18:35 QR8466,,Doha (DOH),Qatar Cargo B77L (A7-BFL),Landed 18:04,2021-05-05
+134,134,18:45 SQ7988,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-05
+135,135,19:00 CV7013,,Seoul (ICN),Cargolux 74F,Unknown,2021-05-05
+136,136,19:00,CX654,Bangkok (BKK),Cathay Pacific A359 (B-LRA),Landed 18:22,2021-05-05
+137,137,19:25,TR980,Singapore (SIN),Scoot B789 (9V-OJI),Landed 19:15,2021-05-05
+138,138,19:35,PX8,Port Moresby (POM),Air Niugini B763 (P2-PXV),Landed 19:22,2021-05-05
+139,139,20:00 RJ1290,,Amman (AMM),Royal Jordanian B788 (JY-BAA),Landed 20:00,2021-05-05
+140,140,20:05 CI923,,Taipei (TPE),China Airlines 333,Canceled,2021-05-05
+141,141,20:05 CV8562,,Dubai (DWC),Cargolux 74F,Unknown,2021-05-05
+142,142,20:15 CX918,,Manila (MNL),Cathay Pacific A35K (B-LXK),Landed 18:47,2021-05-05
+143,143,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18309),Landed 19:46,2021-05-05
+144,144,20:50 RH352,,Manila (MNL),Hong Kong Air Cargo A332 (B-LNW),Landed 20:34,2021-05-05
+145,145,20:55,CX507,Osaka (KIX),Cathay Pacific A359 (B-LRG),Landed 20:27,2021-05-05
+146,146,20:55,LH8472,Bengaluru (BLR),Lufthansa 77X,Unknown,2021-05-05
+147,147,20:55,LH8472,Bangkok (BKK),Lufthansa Cargo B77L (D-ALFE),Landed 20:17,2021-05-05
+148,148,21:05 CX2074,,Penang (PEN),Cathay Pacific Cargo B744 (B-LIF),Landed 22:02,2021-05-05
+149,149,21:20,CX521,Tokyo (NRT),Cathay Pacific 330,Unknown,2021-05-05
+150,150,21:25 CI927,,Taipei (TPE),China Airlines 738,Unknown,2021-05-05
+151,151,21:35 CI5831,,Taipei (TPE),China Airlines Cargo B744 (B-18701),Landed 05:45,2021-05-05
+152,152,21:45,CX104,Melbourne (MEL),Cathay Pacific A35K (B-LXO),Unknown,2021-05-05
+153,153,21:55 CX724,,Kuala Lumpur (KUL),Cathay Pacific A333 (B-HLW),Landed 21:48,2021-05-05
+154,154,22:00 CX3242,,Jakarta (CGK),Cathay Pacific Cargo B744 (B-LIE),Landed 23:41,2021-05-05
+155,155,22:40,CX764,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRQ),Landed 22:28,2021-05-05
+156,156,22:45 CX81,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-05
+157,157,22:50 O37163,,Nanchang (KHN),SF Airlines 73F,Unknown,2021-05-05
+158,158,22:55,CX704,Bangkok (BKK),Cathay Pacific A359 (B-LQA),Landed 21:52,2021-05-05
+159,159,22:55 RH9072,,Dhaka (DAC),Hong Kong Air Cargo A332 (B-LNZ),Landed 23:04,2021-05-05
+160,160,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-05
+161,161,23:05 CX479,,Taipei (TPE),Cathay Pacific 351,Unknown,2021-05-05
+162,162,23:20 CX2048,,Hanoi (HAN),Cathay Pacific 74Y,Unknown,2021-05-05
+163,163,23:20 PO98,,Leipzig (LEJ),Polar Air Cargo 77F,Unknown,2021-05-05
+164,164,23:30 EK9884,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFO),Landed 02:00,2021-05-05
+165,165,23:50 RH9376,,Chennai (MAA),Hong Kong Air Cargo A332 (B-LNX),Landed 22:49,2021-05-05
+166,166,23:55 CX2015,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJC),Landed 00:16,2021-05-05
+0,0,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18355),Landed 21:17,2021-05-06
+1,1,00:25 LD681,,Taipei (TPE),DHL A306 (B-LDF),Landed 00:21,2021-05-06
+2,2,00:25 OZ969,,Seoul (ICN),Asiana Airlines 74F,Unknown,2021-05-06
+3,3,00:30 LD129,,Seoul (ICN),DHL A306 (B-LDC),Landed 23:07,2021-05-06
+4,4,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18316),Landed 00:26,2021-05-06
+5,5,00:40 CX35,,Taipei (TPE),Cathay Pacific 74N,Unknown,2021-05-06
+6,6,00:45 CI5821,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-06
+7,7,00:50 LD456,,Manila (MNL),DHL A306 (B-LDH),Landed 00:13,2021-05-06
+8,8,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA16KZ),Landed 00:18,2021-05-06
+9,9,01:05 LD205,,Osaka (KIX),DHL A306 (B-LDB),Landed 00:36,2021-05-06
+10,10,01:05 NH8511,,Tokyo (NRT),All Nippon Airways 76F,Unknown,2021-05-06
+11,11,01:05 TH3507,,Kuala Lumpur (SZB),Raya Airways B762 (9M-RXA),Landed 01:42,2021-05-06
+12,12,01:15 CX3148,,Hanoi (HAN),Cathay Pacific Cargo B748 (B-LJI),Landed 01:51,2021-05-06
+13,13,01:15 SV980,,Riyadh (RUH),Saudia Cargo B77L (HZ-AK73),Landed 01:40,2021-05-06
+14,14,01:20 BR6535,,Taipei (TPE),EVA Air Cargo B77L (B-16783),Landed 01:21,2021-05-06
+15,15,01:20 LD217,,Nagoya (NGO),DHL A306 (B-LDE),Unknown,2021-05-06
+16,16,01:20 LD562,,Ho Chi Minh City (SGN),DHL A333 (B-LDR),Landed 01:24,2021-05-06
+17,17,01:20 LD783,,Shanghai (PVG),DHL A332 (B-LDS),Landed 02:38,2021-05-06
+18,18,01:25 KE313,,Seoul (ICN),Korean Air Cargo B77L (HL8044),Landed 00:31,2021-05-06
+19,19,01:25 LD209,,Tokyo (NRT),DHL A306 (B-LDG),Landed 00:58,2021-05-06
+20,20,01:25 LD326,,Singapore (SIN),DHL A333 (B-LDQ),Landed 01:19,2021-05-06
+21,21,01:25 LD842,,Bangkok (BKK),DHL A333 (B-LDT),Landed 01:53,2021-05-06
+22,22,01:25 LD832,,Bangkok (BKK),Air Hong Kong ABY,Unknown,2021-05-06
+23,23,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo A332 (B-LNY),Landed 03:34,2021-05-06
+24,24,01:30 8K525,,Hanoi (HAN),K-Mile Air B734 (HS-KMC),Landed 01:26,2021-05-06
+25,25,01:50 PO7930,,Seoul (ICN),Polar Air Cargo 77F,Unknown,2021-05-06
+26,26,01:55 EK9342,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFI),Landed 06:37,2021-05-06
+27,27,02:00 Y87915,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-06
+28,28,02:00 HX2018,,Sydney (SYD),Hong Kong Airlines A333 (B-LNP),Landed 01:49,2021-05-06
+29,29,02:40 RU339,,Singapore (SIN),AirBridgeCargo B748 (VP-BBY),Unknown,2021-05-06
+30,30,02:45 SG7010,,Kolkata (CCU),SpiceJet 738,Canceled,2021-05-06
+31,31,02:55 EY937,,Abu Dhabi (AUH),Etihad Airways 77X,Unknown,2021-05-06
+32,32,02:55 AM9022,,Seoul (ICN),Aeromexico B789 (XA-ADG),Landed 02:28,2021-05-06
+33,33,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-06
+34,34,03:00 FJ1391,,Nadi (NAN),Fiji Airways A333 (DQ-FJW),Landed 03:01,2021-05-06
+35,35,03:05 LD769,,Beijing (PEK),DHL A306 (B-LDD),Landed 02:33,2021-05-06
+36,36,03:30 RH328,,Ho Chi Minh City (SGN),Hong Kong Air Cargo A332 (B-LNV),Landed 03:36,2021-05-06
+37,37,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-06
+38,38,04:00 O37209,,Changsha (CSX),SF Airlines 73F,Unknown,2021-05-06
+39,39,04:05 SV3974,,Dubai (DWC),Saudia 74F,Unknown,2021-05-06
+40,40,04:10 QR8404,,Almaty (ALA),Qatar Cargo B77L (A7-BFA),Landed 07:20,2021-05-06
+41,41,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-06
+42,42,04:30 HX129,,Hangzhou (HGH),Hong Kong Airlines A333 (B-LNQ),Landed 04:04,2021-05-06
+43,43,04:35 CX40,,Mumbai (BOM),Cathay Pacific Cargo B748 (B-LJL),Landed 04:34,2021-05-06
+44,44,04:40 CX53,,Chongqing (CKG),Cathay Pacific 74Y,Unknown,2021-05-06
+45,45,04:55 VN594,,Ho Chi Minh City (SGN),Vietnam Airlines 787,Unknown,2021-05-06
+46,46,05:05 QF97,,Brisbane (BNE),Qantas B789 (VH-ZNC),Landed 04:59,2021-05-06
+47,47,05:50 CX3142,,Delhi (DEL),Cathay Pacific Cargo B748 (B-LJB),Landed 05:10,2021-05-06
+48,48,05:50 PO769,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-06
+49,49,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-06
+50,50,06:30 BH5419,,Dhaka (DAC),Bismillah Airlines 77F,Unknown,2021-05-06
+51,51,06:42 K4872,,Anchorage (ANC),Kalitta Air B744 (N715CK),Landed 06:43,2021-05-06
+52,52,07:15 CX2061,,Chengdu (CTU),Cathay Pacific Cargo B744 (B-LIC),Landed 07:26,2021-05-06
+53,53,07:15 OZ951,,Hanoi (HAN),Asiana Airlines 74F,Unknown,2021-05-06
+54,54,07:15 OZ952,,Hanoi (HAN),Asiana Airlines 74F,Unknown,2021-05-06
+55,55,07:25 O36891,,Ningbo (NGB),SF Airlines 73F,Unknown,2021-05-06
+56,56,07:30,CX170,Perth (PER),Cathay Pacific A35K (B-LXA),Landed 07:18,2021-05-06
+57,57,07:30 ET3614,,Brussels (BRU),Ethiopian Airlines 77X,Unknown,2021-05-06
+58,58,07:40 CV8703,,Kuala Lumpur (KUL),Cargolux (Cutaway Livery) B748 (LX-VCM),Landed 13:43,2021-05-06
+59,59,07:40 RH4569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNZ),Landed 08:48,2021-05-06
+60,60,07:40 5J272,,Manila (MNL),Cebu Pacific 330,Unknown,2021-05-06
+61,61,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-06
+62,62,08:10 CV7993,,Hanoi (HAN),Cargolux 74F,Unknown,2021-05-06
+63,63,08:15 CX85,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJE),Landed 08:02,2021-05-06
+64,64,09:35 RH830,,Shanghai (PVG),Hong Kong Air Cargo 33F,Unknown,2021-05-06
+65,65,09:35 TK6788,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-06
+66,66,09:40 LD3348,,Manila (MNL),DHL A306 (B-LDA),Landed 08:17,2021-05-06
+67,67,09:45 EY947,,Abu Dhabi (AUH),Etihad Airways 77X,Unknown,2021-05-06
+68,68,09:55 PR300,,Manila (MNL),Philippine Airlines A359 (RP-C3501),Landed 09:50,2021-05-06
+69,69,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18309),Landed 09:35,2021-05-06
+70,70,10:40 RU339,,Singapore (SIN),AirBridgeCargo B748 (VP-BBY),Landed 09:10,2021-05-06
+71,71,11:10 LD3832,,Bangkok (BKK),DHL A333 (B-LDQ),Landed 10:31,2021-05-06
+72,72,11:15 BA31,,London (LHR),British Airways B77W (G-STBI),Landed 10:21,2021-05-06
+73,73,11:20 CX3255,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJI),Landed 11:38,2021-05-06
+74,74,11:45 TG600,,Bangkok (BKK),Thai Airways A359 (HS-THD),Landed 11:08,2021-05-06
+75,75,11:50 SQ7952,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFM),Landed 11:57,2021-05-06
+76,76,11:55 QR8420,,Osaka (KIX),Qatar Cargo B77L (A7-BFI),Landed 11:43,2021-05-06
+77,77,12:00 AA9739,,Tokyo (NRT),American Airlines 77W,Unknown,2021-05-06
+78,78,12:00 RH9366,,Zhengzhou (CGO),Hong Kong Air Cargo 33F,Unknown,2021-05-06
+79,79,12:15 CV4623,,Hanoi (HAN),Cargolux B748 (LX-VCL),Diverted to BKK,2021-05-06
+80,80,12:15 CV7923,,Hanoi (HAN),Cargolux B748 (LX-VCL),Unknown,2021-05-06
+81,81,12:15 BA27,,London (LHR),British Airways B77W (G-STBM),Landed 11:34,2021-05-06
+82,82,12:18 PO947,,Anchorage (ANC),DHL B748 (N855GT),Landed 12:19,2021-05-06
+83,83,12:30 CK263,,Shanghai (PVG),China Cargo Airlines 77F,Unknown,2021-05-06
+84,84,12:35 7C2101,,Seoul (ICN),Jeju Air 738,Unknown,2021-05-06
+85,85,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMJ),Landed 12:08,2021-05-06
+86,86,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18301),Landed 12:29,2021-05-06
+87,87,12:55,UO173,Taichung (RMQ),HK Express A20N (B-LCR),Landed 12:39,2021-05-06
+88,88,13:00 LD392,,Penang (PEN),DHL A306 (B-LDF),Landed 12:02,2021-05-06
+89,89,13:15 VS238,,London (LHR),Virgin Atlantic B789 (G-VBOW),Landed 12:26,2021-05-06
+90,90,13:25 NH859,,Tokyo (HND),All Nippon Airways B789 (JA886A),Landed 13:09,2021-05-06
+91,91,13:30 RU347,,Moscow (SVO),AirBridgeCargo Airlines 74Y,Unknown,2021-05-06
+92,92,13:40 MH6118,,Kuching (KCH),Malaysia Airlines 33X,Unknown,2021-05-06
+93,93,13:43 5X62,,Anchorage (ANC),UPS B748 (N617UP),Landed 13:58,2021-05-06
+94,94,13:50 RH332,,Bangkok (BKK),Hong Kong Air Cargo A332 (B-LNV),Landed 13:30,2021-05-06
+95,95,13:55 LD3864,,Bangkok (BKK),DHL A333 (B-LDT),Landed 13:21,2021-05-06
+96,96,13:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA8664),Landed 13:46,2021-05-06
+97,97,14:00 6E9656,,Kolkata (CCU),IndiGo A320 (VT-IFK),Landed 13:26,2021-05-06
+98,98,14:05 MU507,,Shanghai (PVG),China Eastern Airlines A321 (B-2420),Landed 13:54,2021-05-06
+99,99,14:10 KE8311,,Seoul (ICN),Korean Air Cargo B748 (HL7624),Landed 15:39,2021-05-06
+100,100,14:15 SG7182,,Delhi (DEL),Hi Fly A343 (9H-JAI),Landed 19:29,2021-05-06
+101,101,14:22 5X58,,Honolulu (HNL),UPS B748 (N614UP),Landed 14:06,2021-05-06
+102,102,14:25 CX2091,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJK),Landed 18:52,2021-05-06
+103,103,14:45 HX237,,Shanghai (PVG),Hong Kong Airlines A333 (B-LNQ),Landed 14:40,2021-05-06
+104,104,14:55 PO949,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-06
+105,105,14:55,CX134,Melbourne (MEL),Cathay Pacific A35K (B-LXF),Landed 13:56,2021-05-06
+106,106,15:05,CX766,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRL),Landed 14:49,2021-05-06
+107,107,15:15,CX930,Manila (MNL),Cathay Pacific 359,Unknown,2021-05-06
+108,108,15:20 CX495,,Taipei (TPE),Cathay Pacific A35K (B-LXE),Landed 14:36,2021-05-06
+109,109,15:30 LY75,,Tel Aviv (TLV),El Al Israel Airlines B789 (4X-EDI),Landed 15:43,2021-05-06
+110,110,15:35 CI5842,,Manila (MNL),China Airlines 74Y,Unknown,2021-05-06
+111,111,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALF),Landed 15:05,2021-05-06
+112,112,16:15 CX367,,Shanghai (PVG),Cathay Pacific B77W (B-KQA),Landed 15:32,2021-05-06
+113,113,16:50,TR980,Singapore (SIN),Scoot B789 (9V-OJB),Landed 16:40,2021-05-06
+114,114,17:00 C88744,,Tokyo (NRT),Cargolux Italia 74F,Unknown,2021-05-06
+115,115,17:00 PO275,,Bahrain (BAH),Polar Air Cargo 77F,Unknown,2021-05-06
+116,116,17:05 CV8923,,Amman (AMM),Cargolux (Not without my mask Livery) B748 (LX-VCF),Unknown,2021-05-06
+117,117,17:05 CV8923,,Amman (AMM),Cargolux (Not without my mask Livery) B748 (LX-VCF),Diverted to KUL,2021-05-06
+118,118,17:15 QR8434,,Doha (DOH),Qatar Cargo B77L (A7-BFB),Landed 17:34,2021-05-06
+119,119,17:35,CX391,Beijing (PEK),Cathay Pacific B77W (B-KQQ),Landed 17:22,2021-05-06
+120,120,17:40,TG638,Bangkok (BKK),Thai Airways B77W (HS-TKY),Landed 17:25,2021-05-06
+121,121,18:00 CI6843,,Taipei (TPE),China Airlines 74Y,Unknown,2021-05-06
+122,122,18:20,EK384,Bangkok (BKK),Emirates (Expo 2020 - Opportunity Livery) A388 (A6-EOU),Landed 17:41,2021-05-06
+123,123,18:30 CI5825,,Taipei (TPE),China Airlines Cargo B744 (B-18708),Unknown,2021-05-06
+124,124,18:30 RH372,,Singapore (SIN),Hong Kong Air Cargo A332 (B-LNW),Landed 17:58,2021-05-06
+125,125,18:42 AC7277,,Vancouver (YVR),Air Canada B789 (C-FRSI),Landed 18:07,2021-05-06
+126,126,18:45 SV986,,Riyadh (RUH),Saudia Cargo B77L (HZ-AK71),Landed 18:26,2021-05-06
+127,127,18:45 SV3962,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-06
+128,128,19:00 CX734,,Singapore (SIN),Cathay Pacific A359 (B-LRP),Landed 18:23,2021-05-06
+129,129,19:00 QF83,,Cairns (CNS),Qantas A333 (VH-QPH),Landed 18:49,2021-05-06
+130,130,19:00 TUB107,,Dhaka (DAC),- 747,Unknown,2021-05-06
+131,131,19:15,CX589,Fukuoka (FUK),Cathay Pacific A333 (B-LAR),Landed 18:44,2021-05-06
+132,132,19:30 CX2087,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-06
+133,133,19:30 EK9894,,Bangkok (BKK),Emirates SkyCargo B77L (A6-EFK),Landed 18:46,2021-05-06
+134,134,19:35 CX97,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJG),Landed 19:23,2021-05-06
+135,135,19:45 C85733,,Tokyo (NRT),Cargolux B744 (LX-VCV),Landed 18:11,2021-05-06
+136,136,19:50 CX3246,,Dhaka (DAC),Cathay Pacific Cargo B744 (B-LIC),Landed 18:54,2021-05-06
+137,137,20:05 CI923,,Taipei (TPE),China Airlines 333,Canceled,2021-05-06
+138,138,20:10 CX71,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-06
+139,139,20:15 K4862,,Anchorage (ANC),Kalitta Air B744 (N402KZ),Landed 20:15,2021-05-06
+140,140,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18360),Landed 19:47,2021-05-06
+141,141,20:40 HX629,,Seoul (ICN),Hong Kong Airlines A333 (B-LNM),Landed 19:51,2021-05-06
+142,142,20:50 RH352,,Manila (MNL),Hong Kong Air Cargo A332 (B-LNV),Landed 20:11,2021-05-06
+143,143,20:55,CX507,Osaka (KIX),Cathay Pacific 351,Unknown,2021-05-06
+144,144,20:55 HX619,,Osaka (KIX),Hong Kong Airlines A333 (B-LNN),Landed 19:38,2021-05-06
+145,145,21:15 LY2875,,Karaganda (KGF),El Al 74F,Unknown,2021-05-06
+146,146,21:20,CX521,Tokyo (NRT),Cathay Pacific A359 (B-LRX),Landed 20:41,2021-05-06
+147,147,21:25 CI927,,Taipei (TPE),China Airlines 738,Unknown,2021-05-06
+148,148,22:00 CX979,,Xiamen (XMN),Cathay Pacific A333 (B-LAP),Landed 21:22,2021-05-06
+149,149,22:30,KE607,Seoul (ICN),Korean Air B789 (HL7208),Landed 22:13,2021-05-06
+150,150,22:40,CX764,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRN),Landed 22:19,2021-05-06
+151,151,22:50 O37163,,Nanchang (KHN),SF Airlines 73F,Unknown,2021-05-06
+152,152,22:55,CX704,Bangkok (BKK),Cathay Pacific 333,Canceled,2021-05-06
+153,153,22:55 CX742,,Hanoi (HAN),Cathay Pacific A333 (B-LBB),Landed 22:15,2021-05-06
+154,154,22:55 CX3144,,Delhi (DEL),Cathay Pacific Cargo B748 (B-LJL),Landed 22:23,2021-05-06
+155,155,22:55 RH6652,,Dhaka (DAC),Hong Kong Air Cargo A332 (B-LNV),Landed 07:08,2021-05-06
+156,156,22:55 TK6780,,Almaty (ALA),Turkish Airlines 33F,Unknown,2021-05-06
+157,157,22:55 RH9490,,Almaty (ALA),Hong Kong Air Cargo A332 (B-LNY),Landed 01:12,2021-05-06
+158,158,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-06
+159,159,23:05 CX479,,Taipei (TPE),Cathay Pacific 351,Unknown,2021-05-06
+160,160,23:20 PO98,,Leipzig (LEJ),DHL B77L (N777SA),Landed 23:10,2021-05-06
+161,161,23:55,CX926,Cebu (CEB),Cathay Pacific A35K (B-LXC),Landed 23:17,2021-05-06
+0,0,00:00 SV3980,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-07
+1,1,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18301),Landed 21:46,2021-05-07
+2,2,00:15,TW193,Jeju (CJU),T'way Air 737,Canceled,2021-05-07
+3,3,00:25 LD681,,Taipei (TPE),DHL A306 (B-LDG),Landed 00:49,2021-05-07
+4,4,00:25 OZ969,,Seoul (ICN),Asiana Cargo B744 (HL7419),Landed 02:07,2021-05-07
+5,5,00:30 CI5835,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-07
+6,6,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18351),Landed 00:31,2021-05-07
+7,7,00:45 CX2015,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJE),Landed 00:08,2021-05-07
+8,8,00:45 LD129,,Seoul (ICN),DHL A306 (B-LDA),Landed 23:55,2021-05-07
+9,9,00:50 CX35,,Seoul (ICN),Cathay Pacific Cargo B748 (B-LJF),Landed 00:11,2021-05-07
+10,10,00:50 LD456,,Manila (MNL),DHL A306 (B-LDB),Landed 00:13,2021-05-07
+11,11,00:55 BR6537,,Taipei (TPE),Eva Air Cargo B77L (B-16782),Landed 11:15,2021-05-07
+12,12,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA17KZ),Landed 00:06,2021-05-07
+13,13,01:05 LD205,,Osaka (KIX),DHL A306 (B-LDF),Landed 00:38,2021-05-07
+14,14,01:05 NH8511,,Tokyo (NRT),All Nippon Airways 76F,Unknown,2021-05-07
+15,15,01:05 TH3507,,Kuala Lumpur (SZB),Raya Airways B762 (9M-RXB),Landed 01:02,2021-05-07
+16,16,01:20 LD217,,Nagoya (NGO),DHL A306 (B-LDC),Landed 00:41,2021-05-07
+17,17,01:20 LD562,,Ho Chi Minh City (SGN),DHL A306 (B-LDD),Landed 01:09,2021-05-07
+18,18,01:20 LD783,,Shanghai (PVG),DHL A332 (B-LDS),Unknown,2021-05-07
+19,19,01:25 KE313,,Seoul (ICN),Korean Air Cargo B748 (HL7609),Landed 00:35,2021-05-07
+20,20,01:25 LD209,,Tokyo (NRT),DHL A333 (B-LDQ),Landed 00:57,2021-05-07
+21,21,01:25 LD326,,Singapore (SIN),DHL A333 (B-LDR),Landed 01:14,2021-05-07
+22,22,01:25 LD842,,Bangkok (BKK),DHL A333 (B-LDT),Landed 01:08,2021-05-07
+23,23,01:25 LD832,,Bangkok (BKK),Air Hong Kong ABY,Unknown,2021-05-07
+24,24,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo A332 (B-LNW),Landed 01:05,2021-05-07
+25,25,01:30 8K525,,Hanoi (HAN),K-Mile Air B734 (HS-KMC),Landed 01:33,2021-05-07
+26,26,01:45 HX2736,,Singapore (SIN),Hong Kong Airlines A333 (B-LNQ),Landed 00:23,2021-05-07
+27,27,02:00 Y87915,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-07
+28,28,02:10 PO7681,,Tokyo (NRT),Polar Air Cargo 77F,Unknown,2021-05-07
+29,29,02:30 EK9886,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFS),Landed 06:36,2021-05-07
+30,30,02:45 SG7010,,Kolkata (CCU),SpiceJet 738,Canceled,2021-05-07
+31,31,02:45 HX275,,Taipei (TPE),Hong Kong Airlines A333 (B-LNP),Landed 01:44,2021-05-07
+32,32,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-07
+33,33,03:05 LD769,,Beijing (PEK),Air Hong Kong ABF,Unknown,2021-05-07
+34,34,03:35 7L628,,Bishkek (FRU),Silk Way West Airlines 74N,Unknown,2021-05-07
+35,35,03:55 EK9838,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFG),Landed 17:49,2021-05-07
+36,36,04:00 CX2044,,Chennai (MAA),Cathay Pacific Cargo B744 (B-LIE),Landed 03:18,2021-05-07
+37,37,04:00 PO7970,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-07
+38,38,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-07
+39,39,04:00 O37209,,Changsha (CSX),SF Airlines 73F,Unknown,2021-05-07
+40,40,04:20,CX845,New York (JFK),Cathay Pacific A35K (B-LXG),Landed 03:21,2021-05-07
+41,41,04:20 CX53,,Chongqing (CKG),Cathay Pacific Cargo B748 (B-LJK),Landed 04:10,2021-05-07
+42,42,04:30 RH569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNZ),Landed 04:57,2021-05-07
+43,43,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-07
+44,44,04:40 QF29,,Melbourne (MEL),Qantas B789 (VH-ZNG),Landed 03:52,2021-05-07
+45,45,04:45 EK9842,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFI),Landed 03:47,2021-05-07
+46,46,04:45 5C851,,Tel Aviv (TLV),CAL Cargo Airlines B744 (4X-ICB),Landed 05:48,2021-05-07
+47,47,05:10 TK6488,,Istanbul (ISL),AirACT B744 (TC-ACG),Unknown,2021-05-07
+48,48,05:10 TK6488,,Bishkek (FRU),Turkish Airlines 74F,Unknown,2021-05-07
+49,49,05:30 RH320,,Ho Chi Minh City (SGN),Hong Kong Air Cargo A332 (B-LNX),Landed 05:45,2021-05-07
+50,50,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-07
+51,51,06:05,CX798,Jakarta (CGK),Cathay Pacific A359 (B-LRK),Landed 05:28,2021-05-07
+52,52,06:15,LX138,Zurich (ZRH),Swiss B77W (HB-JNL),Landed 05:37,2021-05-07
+53,53,06:45,CX881,Los Angeles (LAX),Cathay Pacific A35K (B-LXL),Landed 06:33,2021-05-07
+54,54,06:50,CX288,Frankfurt (FRA),Cathay Pacific A35K (B-LXB),Landed 06:09,2021-05-07
+55,55,07:00 EY925,,Abu Dhabi (AUH),Etihad Cargo B77L (A6-DDD),Landed 02:14,2021-05-07
+56,56,07:00 SQ7958,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFO),Landed 06:23,2021-05-07
+57,57,07:15 QR8408,,Singapore (SIN),Qatar Cargo B77L (A7-BFA),Landed 07:49,2021-05-07
+58,58,07:15 OZ952,,Hanoi (HAN),Asiana Airlines 74F,Unknown,2021-05-07
+59,59,07:20 SV3976,,Dubai (DWC),Saudia Cargo B744 (TF-AMB),Landed 10:55,2021-05-07
+60,60,07:25 O36891,,Ningbo (NGB),SF Airlines 73F,Unknown,2021-05-07
+61,61,07:30,CX170,Perth (PER),Cathay Pacific A35K (B-LXO),Landed 07:27,2021-05-07
+62,62,07:55 CX3251,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJG),Landed 08:12,2021-05-07
+63,63,07:55 HX2748,,Kuala Lumpur (KUL),Hong Kong Airlines A333 (B-LNN),Landed 07:15,2021-05-07
+64,64,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-07
+65,65,08:01 ET3718,,Liege (LGG),Ethiopian Airlines 77X,Unknown,2021-05-07
+66,66,08:05 PO927,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-07
+67,67,08:45 CX55,,Shanghai (PVG),Cathay Pacific 74Y,Unknown,2021-05-07
+68,68,08:47 N8572,,Anchorage (ANC),National Airlines B744 (N729CA),Landed 09:48,2021-05-07
+69,69,08:50 SV6803,,Jeddah (JED),Saudia 77F,Unknown,2021-05-07
+70,70,08:50 5S4470,,Trabzon (TZX),- 74Y,Unknown,2021-05-07
+71,71,08:55 CV8564,,Dammam (DMM),Cargolux B748 (LX-VCI),Diverted to KUL,2021-05-07
+72,72,09:05 RH9236,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNY),Landed 10:08,2021-05-07
+73,73,09:09 5X68,,Honolulu (HNL),UPS B744 (N570UP),Landed 09:06,2021-05-07
+74,74,09:10 CX3295,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJD),Landed 08:56,2021-05-07
+75,75,09:35 CX93,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJN),Landed 09:55,2021-05-07
+76,76,09:35 RH830,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNW),Landed 10:41,2021-05-07
+77,77,09:35 TK6780,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-07
+78,78,09:40 CX38,,Delhi (DEL),Cathay Pacific 74N,Unknown,2021-05-07
+79,79,09:50 5S5413,,Dhaka (DAC),- 74Y,Unknown,2021-05-07
+80,80,09:55 CX95,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-07
+81,81,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18359),Landed 09:37,2021-05-07
+82,82,10:38 CV8923,,Kuala Lumpur (KUL),Cargolux (Not without my mask Livery) B748 (LX-VCF),Landed 10:26,2021-05-07
+83,83,11:00 QR8452,,Doha (DOH),Qatar Cargo B77L (A7-BFU),Landed 10:37,2021-05-07
+84,84,11:15 BA31,,London (LHR),British Airways B77W (G-STBH),Unknown,2021-05-07
+85,85,11:40 MF8695,,Fuzhou (FOC),Xiamen Air B738 (B-6490),Landed 11:11,2021-05-07
+86,86,11:40,OZ721,Seoul (ICN),Asiana Airlines A21N (HL8371),Landed 13:21,2021-05-07
+87,87,11:45 LD3356,,Manila (MNL),DHL A332 (B-LDS),Landed 10:34,2021-05-07
+88,88,11:45 TG600,,Bangkok (BKK),Thai Airways B77W (HS-TKP),Landed 11:48,2021-05-07
+89,89,11:55 HX235,,Shanghai (PVG),Hong Kong Airlines A333 (B-LNS),Landed 11:33,2021-05-07
+90,90,12:00 RU449,,Moscow (SVO),AirBridgeCargo Airlines 74N,Unknown,2021-05-07
+91,91,12:00 AA9740,,Tokyo (NRT),American Airlines 77W,Unknown,2021-05-07
+92,92,12:05 CV4644,,Ho Chi Minh City (SGN),Cargolux (Beluga Whale Sanctuary Livery) B744 (LX-ECV),Diverted to BKK,2021-05-07
+93,93,12:05 CV7324,,Ho Chi Minh City (SGN),Cargolux 74Y,Unknown,2021-05-07
+94,94,12:10,BR867,Taipei (TPE),EVA Air B789 (B-17882),Landed 11:41,2021-05-07
+95,95,12:30 CK263,,Shanghai (PVG),China Cargo Airlines 77F,Unknown,2021-05-07
+96,96,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMQ),Landed 12:09,2021-05-07
+97,97,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18305),Landed 12:11,2021-05-07
+98,98,13:00 LD392,,Penang (PEN),DHL A306 (B-LDN),Landed 12:28,2021-05-07
+99,99,13:10 CV7204,,Bangkok (BKK),Cargolux B748 (LX-VCD),Landed 19:06,2021-05-07
+100,100,13:10 AA9730,,Tokyo (NRT),American Airlines B77W (N733AR),Landed 12:22,2021-05-07
+101,101,13:15 VS238,,London (LHR),Virgin Atlantic B789 (G-VFAN),Landed 12:36,2021-05-07
+102,102,13:25 UA2829,,Tokyo (NRT),United Airlines B77W (N2639U),Landed 12:57,2021-05-07
+103,103,13:25 NH859,,Tokyo (HND),All Nippon Airways B789 (JA887A),Landed 13:17,2021-05-07
+104,104,13:30 PO947,,Anchorage (ANC),DHL B748 (N857GT),Diverted to ICN,2021-05-07
+105,105,13:40 NH1929,,Tokyo (NRT),All Nippon Airways B788 (JA805A),Landed 13:14,2021-05-07
+106,106,13:43 5X62,,Anchorage (ANC),UPS B748 (N620UP),Landed 13:58,2021-05-07
+107,107,13:45 UA2853,,Tokyo (NRT),United Airlines B77W (N2140U),Landed 13:11,2021-05-07
+108,108,13:50 RH332,,Bangkok (BKK),Hong Kong Air Cargo A332 (B-LNZ),Landed 13:33,2021-05-07
+109,109,13:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA8664),Landed 13:36,2021-05-07
+110,110,14:22 5X58,,Honolulu (HNL),UPS B748 (N622UP),Landed 14:14,2021-05-07
+111,111,14:45,HX237,Shanghai (PVG),Hong Kong Airlines A320 (B-LPI),Landed 16:56,2021-05-07
+112,112,14:45 PO237,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-07
+113,113,14:50 CX3259,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJE),Landed 14:25,2021-05-07
+114,114,14:51 D0947,,Seoul (ICN),DHL B748 (N857GT),Landed 15:12,2021-05-07
+115,115,14:55 CX5,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJL),Landed 14:10,2021-05-07
+116,116,15:05,CX766,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LQA),Landed 14:20,2021-05-07
+117,117,15:15 SG7857,,Delhi (DEL),Hi Fly A343 (9H-JAI),Landed 16:47,2021-05-07
+118,118,15:20 CX495,,Taipei (TPE),Cathay Pacific A35K (B-LXD),Landed 14:54,2021-05-07
+119,119,15:35 EK9282,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFM),Landed 16:12,2021-05-07
+120,120,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALS),Landed 15:09,2021-05-07
+121,121,16:00 MS509,,Cairo (CAI),EgyptAir ABF,Unknown,2021-05-07
+122,122,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-LAR),Landed 16:43,2021-05-07
+123,123,16:30 AI1324,,Delhi (DEL),Air India 788,Unknown,2021-05-07
+124,124,16:30 AI1314,,Kolkata (CCU),Air India B788 (VT-ANM),Landed 15:55,2021-05-07
+125,125,16:55 CX3281,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-07
+126,126,16:55 CX987,,Chengdu (CTU),Cathay Pacific A333 (B-LBB),Landed 16:28,2021-05-07
+127,127,17:00 PO275,,Bahrain (BAH),Polar Air Cargo 77F,Unknown,2021-05-07
+128,128,17:05 LD8572,,Kuala Lumpur (KUL),DHL A306 (B-LDF),Landed 16:53,2021-05-07
+129,129,17:05 SQ7366,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFQ),Landed 17:27,2021-05-07
+130,130,17:10,AC15,Toronto (YYZ),Air Canada B789 (C-FVNF),Landed 16:49,2021-05-07
+131,131,17:14,HX237,Shanghai (SHA),Hong Kong Airlines A320 (B-LPI),Unknown,2021-05-07
+132,132,17:30 CX3275,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJC),Landed 20:04,2021-05-07
+133,133,17:30 SQ7860,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFN),Landed 16:59,2021-05-07
+134,134,17:35,CX391,Beijing (PEK),Cathay Pacific B77W (B-HNR),Landed 17:43,2021-05-07
+135,135,17:40 TG638,,Bangkok (BKK),Thai Airways 359,Unknown,2021-05-07
+136,136,17:45 LH8476,,Bangkok (BKK),Lufthansa Cargo (Cargo Human Care Livery) B77L (D-ALFI),Landed 17:20,2021-05-07
+137,137,17:50 QF7531,,Darwin (DRW),Qantas Freight B763 (VH-EFR),Landed 19:41,2021-05-07
+138,138,18:05 CX254,,London (LHR),Cathay Pacific 351,Unknown,2021-05-07
+139,139,18:15 CV7404,,Almaty (ALA),Cargolux B748 (LX-VCE),Diverted to KUL,2021-05-07
+140,140,18:20,EK384,Bangkok (BKK),Emirates A388 (A6-EUD),Landed 17:24,2021-05-07
+141,141,18:25 KL819,,Bangkok (BKK),KLM B77W (PH-BVP),Landed 17:31,2021-05-07
+142,142,18:30 CI6843,,Taipei (TPE),China Airlines 74Y,Unknown,2021-05-07
+143,143,18:30 RH372,,Singapore (SIN),Hong Kong Air Cargo A332 (B-LNV),Landed 17:57,2021-05-07
+144,144,18:30 7L571,,Baku (GYD),Silk Way West Airlines 74N,Unknown,2021-05-07
+145,145,18:55 CX8156,,Toowoomba (WTB),Cathay Pacific A35K (B-LXH),Landed 18:07,2021-05-07
+146,146,19:00 QR8402,,Doha (DOH),Qatar Cargo B77L (A7-BFD),Landed 18:54,2021-05-07
+147,147,19:05,CX2780,Surabaya (SUB),Cathay Pacific A333 (B-LAK),Landed 19:14,2021-05-07
+148,148,19:23 HX6635,,Sapporo (CTS),Hong Kong Airlines A333 (B-LNM),Landed 19:24,2021-05-07
+149,149,19:25,TR980,Singapore (SIN),Scoot B789 (9V-OJJ),Landed 19:20,2021-05-07
+150,150,19:35 EK9844,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFL),Landed 20:39,2021-05-07
+151,151,19:35 SQ7868,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-07
+152,152,19:45 TG606,,Bangkok (BKK),Thai Airways A359 (HS-THD),Landed 19:16,2021-05-07
+153,153,20:05 CI923,,Taipei (TPE),China Airlines 738,Canceled,2021-05-07
+154,154,20:15 CX918,,Manila (MNL),Cathay Pacific A35K (B-LXL),Landed 19:22,2021-05-07
+155,155,20:25 CX3273,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-07
+156,156,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18310),Landed 19:54,2021-05-07
+157,157,20:40 TK83,,Bangkok (BKK),Turkish Airlines B77W (TC-JJK),Landed 20:22,2021-05-07
+158,158,20:45 RU4911,,Tokyo (NRT),AirBridgeCargo B748 (VP-BIN),Landed 20:55,2021-05-07
+159,159,20:50 RH352,,Manila (MNL),Hong Kong Air Cargo A332 (B-LNZ),Landed 20:19,2021-05-07
+160,160,20:55 CX87,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJH),Landed 20:17,2021-05-07
+161,161,21:00 HX693,,Sapporo (CTS),Hong Kong Airlines A333 (B-LNN),Landed 20:29,2021-05-07
+162,162,21:05,LH8474,Bangkok (BKK),Lufthansa Cargo B77L (D-ALFB),Landed 20:43,2021-05-07
+163,163,21:20 CI5833,,Taipei (TPE),China Airlines Cargo B744 (B-18723),Landed 20:33,2021-05-07
+164,164,21:20,CX521,Tokyo (NRT),Cathay Pacific A35K (B-LXE),Landed 19:45,2021-05-07
+165,165,21:25 CI927,,Taipei (TPE),China Airlines 738,Canceled,2021-05-07
+166,166,21:35 CX2005,,Osaka (KIX),Cathay Pacific Cargo B748 (B-LJD),Landed 20:48,2021-05-07
+167,167,21:45,CX104,Melbourne (MEL),Cathay Pacific A35K (B-LXM),Unknown,2021-05-07
+168,168,21:55 CX724,,Kuala Lumpur (KUL),Cathay Pacific A333 (B-LBC),Landed 21:01,2021-05-07
+169,169,21:55 ET3218,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-07
+170,170,22:00 CX979,,Xiamen (XMN),Cathay Pacific A333 (B-LAP),Landed 22:07,2021-05-07
+171,171,22:05 CX2074,,Penang (PEN),Cathay Pacific Cargo B744 (B-LIF),Landed 22:40,2021-05-07
+172,172,22:20 CX83,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-07
+173,173,22:30 EK9880,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFI),Landed 23:30,2021-05-07
+174,174,22:30 ET3718,,Liege (LGG),Ethiopian Airlines 77X,Unknown,2021-05-07
+175,175,22:45 CX600,,Phnom Penh (PNH),Cathay Pacific A333 (B-LAL),Landed 22:00,2021-05-07
+176,176,22:50 CX2048,,Hanoi (HAN),Cathay Pacific Cargo B748 (B-LJL),Landed 23:35,2021-05-07
+177,177,22:50 O37163,,Nanchang (KHN),SF Airlines 73F,Unknown,2021-05-07
+178,178,22:55,CX704,Bangkok (BKK),Cathay Pacific A35K (B-LXC),Landed 22:03,2021-05-07
+179,179,22:55 RH9072,,Dhaka (DAC),Hong Kong Air Cargo A332 (B-LNW),Landed 22:16,2021-05-07
+180,180,22:55 CX742,,Hanoi (HAN),Cathay Pacific A333 (B-LAN),Landed 23:42,2021-05-07
+181,181,23:00,CX419,Seoul (ICN),Cathay Pacific A35K (B-LXK),Landed 22:19,2021-05-07
+182,182,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-07
+183,183,23:10,CX926,Cebu (CEB),Cathay Pacific A359 (B-LRA),Landed 21:59,2021-05-07
+184,184,23:20 PO98,,Leipzig (LEJ),Polar Air Cargo 77F,Unknown,2021-05-07
+185,185,23:35 CX2038,,Frankfurt (FRA),Cathay Pacific Cargo B748 (B-LJM),Landed 23:12,2021-05-07
+186,186,23:40 SV982,,Riyadh (RUH),Saudia Cargo B77L (HZ-AK74),Landed 02:08,2021-05-07
+187,187,23:40 SV3966,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-07
+188,188,23:50 CX2640,,Kathmandu (KTM),Cathay Pacific A333 (B-LAM),Landed 23:00,2021-05-07
+189,189,23:50 RH9376,,Chennai (MAA),Hong Kong Air Cargo A332 (B-LNY),Landed 23:46,2021-05-07
+0,0,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18352),Landed 21:44,2021-05-08
+1,1,00:25 CX78,,Phnom Penh (PNH),Cathay Pacific 74Y,Unknown,2021-05-08
+2,2,00:25 OZ969,,Seoul (ICN),Asiana Airlines 74F,Unknown,2021-05-08
+3,3,00:30 CI5823,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-08
+4,4,00:30 CX25,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJE),Landed 00:27,2021-05-08
+5,5,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18356),Landed 00:30,2021-05-08
+6,6,00:45 EK9884,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFJ),Landed 00:11,2021-05-08
+7,7,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA17KZ),Landed 00:59,2021-05-08
+8,8,01:05 NH8511,,Tokyo (NRT),ANA Cargo B763 (JA602F),Landed 01:25,2021-05-08
+9,9,01:12 CV8564,,Kuala Lumpur (KUL),Cargolux B748 (LX-VCI),Landed 23:24,2021-05-08
+10,10,01:20 CV7654,,Jakarta (CGK),Cargolux B744 (LX-WCV),Diverted to BKK,2021-05-08
+11,11,01:20 LD562,,Ho Chi Minh City (SGN),DHL A333 (B-LDT),Landed 01:27,2021-05-08
+12,12,01:20 LD783,,Shanghai (PVG),DHL A332 (B-LDS),Landed 03:03,2021-05-08
+13,13,01:25 LD209,,Tokyo (NRT),DHL A333 (B-LDQ),Landed 01:06,2021-05-08
+14,14,01:25 KE313,,Seoul (ICN),Korean Air Cargo B77L (HL8251),Landed 01:02,2021-05-08
+15,15,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo A332 (B-LNV),Landed 00:57,2021-05-08
+16,16,01:30 8K525,,Hanoi (HAN),K-Mile Air B734 (HS-KMC),Landed 01:35,2021-05-08
+17,17,01:40 LD681,,Taipei (TPE),DHL A306 (B-LDD),Landed 01:12,2021-05-08
+18,18,01:50 CV7335,,Jakarta (CGK),Cargolux 74Y,Unknown,2021-05-08
+19,19,01:55 LD129,,Seoul (ICN),DHL A306 (B-LDA),Landed 01:21,2021-05-08
+20,20,02:00 ET3728,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AWE),Unknown,2021-05-08
+21,21,02:00 HX2018,,Sydney (SYD),Hong Kong Airlines A333 (B-LNP),Landed 01:29,2021-05-08
+22,22,02:05 LD205,,Osaka (KIX),DHL A306 (B-LDE),Landed 01:37,2021-05-08
+23,23,02:10 BR6535,,Taipei (TPE),EVA Air Cargo B77L (B-16783),Landed 07:35,2021-05-08
+24,24,02:15 ET3600,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-08
+25,25,02:30 LD316,,Singapore (SIN),DHL A306 (B-LDG),Landed 02:20,2021-05-08
+26,26,02:35 LD842,,Bangkok (BKK),DHL A333 (B-LDR),Landed 01:42,2021-05-08
+27,27,02:35 LD832,,Bangkok (BKK),Air Hong Kong ABY,Unknown,2021-05-08
+28,28,02:40 RU531,,Moscow (SVO),AirBridgeCargo Airlines 74N,Unknown,2021-05-08
+29,29,02:45 SG7010,,Kolkata (CCU),SpiceJet 738,Canceled,2021-05-08
+30,30,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-08
+31,31,03:05 CX81,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJB),Landed 03:21,2021-05-08
+32,32,03:30 QR8400,,Doha (DOH),Qatar Cargo B77L (A7-BFA),Landed 03:15,2021-05-08
+33,33,03:30 RH328,,Ho Chi Minh City (SGN),Hong Kong Air Cargo A332 (B-LNX),Landed 03:26,2021-05-08
+34,34,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-08
+35,35,04:15 EY937,,Abu Dhabi (AUH),Etihad Cargo B77L (A6-DDC),Landed 06:33,2021-05-08
+36,36,04:25 QR8406,,Doha (DOH),Qatar Cargo B77L (A7-BFK),Landed 04:24,2021-05-08
+37,37,04:30 RH569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNZ),Landed 04:20,2021-05-08
+38,38,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-08
+39,39,04:30 HX129,,Hangzhou (HGH),Hong Kong Airlines A333 (B-LNN),Landed 03:40,2021-05-08
+40,40,04:40 QF29,,Melbourne (MEL),Qantas A333 (VH-QPE),Landed 04:04,2021-05-08
+41,41,04:51 CV7404,,Kuala Lumpur (KUL),Cargolux B748 (LX-VCE),Landed 00:16,2021-05-08
+42,42,04:55 CX3144,,Mumbai (BOM),Cathay Pacific Cargo B748 (B-LJG),Landed 04:07,2021-05-08
+43,43,04:55 VN594,,Ho Chi Minh City (SGN),Vietnam Airlines B789 (VN-A871),Landed 03:51,2021-05-08
+44,44,05:35 LD765,,Beijing (PEK),Air Hong Kong ABY,Unknown,2021-05-08
+45,45,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-08
+46,46,06:05,CX798,Jakarta (CGK),Cathay Pacific A35K (B-LXD),Landed 05:21,2021-05-08
+47,47,06:05 LD3769,,Beijing (PEK),DHL A306 (B-LDH),Landed 05:35,2021-05-08
+48,48,06:25 OZ952,,Hanoi (HAN),Asiana Cargo B744 (HL7423),Landed 06:25,2021-05-08
+49,49,06:35 PO7930,,Seoul (ICN),Polar Air Cargo 77F,Unknown,2021-05-08
+50,50,07:00 BH5413,,Dhaka (DAC),Bismillah Airlines 77F,Unknown,2021-05-08
+51,51,07:15 OZ951,,Hanoi (HAN),Asiana Airlines 74F,Unknown,2021-05-08
+52,52,07:25 CX32,,Bengaluru (BLR),Cathay Pacific 74Y,Unknown,2021-05-08
+53,53,07:25 EK9882,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFO),Landed 07:04,2021-05-08
+54,54,07:25 O36891,,Ningbo (NGB),SF Airlines 73F,Unknown,2021-05-08
+55,55,07:25 AY101,,Helsinki (HEL),Finnair A359 (OH-LWH),Landed 06:37,2021-05-08
+56,56,07:34 HX782,,Manila (MNL),Hong Kong Airlines A333 (B-LNP),Landed 07:14,2021-05-08
+57,57,07:50 CX3261,,Chengdu (CTU),Cathay Pacific 74Y,Unknown,2021-05-08
+58,58,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-08
+59,59,08:10 5J272,,Manila (MNL),Cebu Pacific 330,Unknown,2021-05-08
+60,60,08:15 CX85,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJI),Landed 07:20,2021-05-08
+61,61,08:15 PO735,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-08
+62,62,08:25 LD721,,Chengdu (CTU),DHL A306 (B-LDC),Landed 08:33,2021-05-08
+63,63,08:25 PO769,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-08
+64,64,08:45 CX3253,,Shanghai (PVG),Cathay Pacific 74Y,Unknown,2021-05-08
+65,65,08:52 K4874,,Anchorage (ANC),Kalitta Air B744 (N715CK),Landed 08:52,2021-05-08
+66,66,09:00 BR6817,,Taipei (TPE),EVA Air 77X,Unknown,2021-05-08
+67,67,09:02 CV7654,,Bangkok (BKK),Cargolux B744 (LX-WCV),Landed 07:02,2021-05-08
+68,68,09:35 CX2008,,Frankfurt (FRA),Cathay Pacific Cargo B744 (B-LIC),Landed 09:20,2021-05-08
+69,69,09:35 C86755,,Kuwait City (KWI),Cargolux B748 (LX-VCA),Diverted to BAH,2021-05-08
+70,70,09:35 RH830,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNV),Landed 10:01,2021-05-08
+71,71,09:50 CX18,,Colombo (CMB),Cathay Pacific Cargo B744 (B-LIE),Landed 10:16,2021-05-08
+72,72,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18358),Landed 09:49,2021-05-08
+73,73,10:25 CV4625,,Hanoi (HAN),Cargolux B744 (LX-OCV),Diverted to BKK,2021-05-08
+74,74,10:25 CV7525,,Hanoi (HAN),Cargolux 74F,Unknown,2021-05-08
+75,75,10:38 CV6755,,Bahrain (BAH),Cargolux B748 (LX-VCA),Diverted to KUL,2021-05-08
+76,76,10:55 CV7536,,Hanoi (HAN),Cargolux 74Y,Unknown,2021-05-08
+77,77,10:55 SG7182,,Delhi (DEL),Hi Fly A343 (9H-JAI),Landed 14:29,2021-05-08
+78,78,11:00 CX51,,Zhengzhou (CGO),Cathay Pacific Cargo B748 (B-LJM),Landed 10:40,2021-05-08
+79,79,11:10 CX59,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJC),Landed 10:57,2021-05-08
+80,80,11:10 MH6108,,Kuala Lumpur (KUL),Malaysia Airlines 33X,Unknown,2021-05-08
+81,81,11:15 BA31,,London (LHR),British Airways B77W (G-STBH),Landed 10:24,2021-05-08
+82,82,11:30 EK9284,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFM),Landed 17:14,2021-05-08
+83,83,11:45 LD3356,,Manila (MNL),DHL A332 (B-LDS),Landed 10:21,2021-05-08
+84,84,11:45 TG600,,Bangkok (BKK),Thai Airways A359 (HS-THD),Landed 11:27,2021-05-08
+85,85,11:50 C88726,,Tokyo (NRT),Cargolux Italia 74F,Unknown,2021-05-08
+86,86,12:00 RU447,,Seoul (ICN),AirBridgeCargo B748 (VP-BBY),Landed 02:58,2021-05-08
+87,87,12:00 AA9742,,Tokyo (NRT),American Airlines B77W (N726AN),Landed 12:27,2021-05-08
+88,88,12:15 BA27,,London (LHR),British Airways B77W (G-STBM),Landed 11:38,2021-05-08
+89,89,12:20 SV3970,,Dubai (DWC),Saudia 74F,Unknown,2021-05-08
+90,90,12:30 CK263,,Shanghai (PVG),China Cargo Airlines 74F,Unknown,2021-05-08
+91,91,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SML),Landed 12:09,2021-05-08
+92,92,12:42 5X62,,Anchorage (ANC),UPS B744 (N576UP),Landed 13:08,2021-05-08
+93,93,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18355),Landed 12:30,2021-05-08
+94,94,13:00 CX431,,Kaohsiung (KHH),Cathay Pacific A333 (B-LAK),Landed 12:23,2021-05-08
+95,95,13:15 VS238,,London (LHR),Virgin Atlantic B789 (G-VNYL),Landed 13:04,2021-05-08
+96,96,13:25 NH859,,Tokyo (HND),All Nippon Airways B789 (JA890A),Landed 13:10,2021-05-08
+97,97,13:40 CX906,,Manila (MNL),Cathay Pacific A359 (B-LRJ),Landed 12:44,2021-05-08
+98,98,13:42 K4947,,Anchorage (ANC),Kalitta Air B744 (N706CK),Landed 13:43,2021-05-08
+99,99,13:50 RH332,,Bangkok (BKK),Hong Kong Air Cargo A332 (B-LNZ),Landed 12:56,2021-05-08
+100,100,13:50 SQ7980,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFK),Landed 13:17,2021-05-08
+101,101,13:55 LD3864,,Bangkok (BKK),DHL A333 (B-LDQ),Landed 13:42,2021-05-08
+102,102,13:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA602F),Landed 13:53,2021-05-08
+103,103,14:00 6E9148,,Kolkata (CCU),IndiGo A320 (VT-IFK),Landed 13:35,2021-05-08
+104,104,14:05 EK9840,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFG),Landed 13:49,2021-05-08
+105,105,14:05 MU507,,Shanghai (PVG),China Eastern Airlines A321 (B-8172),Landed 14:04,2021-05-08
+106,106,14:12 5X64,,Anchorage (ANC),UPS B748 (N617UP),Landed 14:20,2021-05-08
+107,107,14:22 5X58,,Honolulu (HNL),UPS B748 (N611UP),Landed 13:57,2021-05-08
+108,108,14:55 QR8430,,Doha (DOH),Qatar Cargo B77L (A7-BFD),Landed 14:48,2021-05-08
+109,109,15:00,CX750,Bangkok (BKK),Cathay Pacific 333,Canceled,2021-05-08
+110,110,15:05,CX766,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRQ),Landed 14:24,2021-05-08
+111,111,15:16 5X68,,Anchorage (ANC),UPS MD11 (N252UP),Landed 15:24,2021-05-08
+112,112,15:50 CX2025,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJI),Landed 15:55,2021-05-08
+113,113,15:50 ET3618,,Seoul (ICN),Ethiopian Cargo B77L (ET-APS),Landed 20:48,2021-05-08
+114,114,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALA),Landed 15:31,2021-05-08
+115,115,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-HLW),Landed 16:02,2021-05-08
+116,116,16:45 CX445,,Kaohsiung (KHH),Cathay Pacific A333 (B-LAM),Landed 15:46,2021-05-08
+117,117,16:55 CX987,,Chengdu (CTU),Cathay Pacific A333 (B-LAL),Landed 16:06,2021-05-08
+118,118,17:00 7L647,,Baku (GYD),Silk Way West Airlines B748 (VQ-BBM),Landed 00:57,2021-05-08
+119,119,17:05 CV7585,,Kuala Lumpur (KUL),Cargolux 74Y,Unknown,2021-05-08
+120,120,17:10 ET3728,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AWE),Landed 10:48,2021-05-08
+121,121,17:40 TG638,,Bangkok (BKK),Thai Airways A359 (HS-THK),Landed 17:10,2021-05-08
+122,122,18:05 CI5837,,Taipei (TPE),China Airlines Cargo B744 (B-18716),Landed 19:19,2021-05-08
+123,123,18:20,EK384,Bangkok (BKK),Emirates (Expo 2020 - Opportunity Livery) A388 (A6-EOU),Landed 17:23,2021-05-08
+124,124,18:25 KL819,,Bangkok (BKK),KLM B789 (PH-BHI),Landed 19:55,2021-05-08
+125,125,18:30 RH372,,Singapore (SIN),Hong Kong Air Cargo A332 (B-LNW),Landed 18:09,2021-05-08
+126,126,18:40 PO947,,Anchorage (ANC),Polar Air Cargo B744,Unknown,2021-05-08
+127,127,19:00,CX654,Bangkok (BKK),Cathay Pacific 333,Canceled,2021-05-08
+128,128,19:00 TUB107,,Dhaka (DAC),- 747,Unknown,2021-05-08
+129,129,19:17 5X78,,Anchorage (ANC),UPS B744 (N580UP),Landed 19:45,2021-05-08
+130,130,19:20 PO215,,Taipei (TPE),DHL B744 (N453PA),Landed 18:52,2021-05-08
+131,131,19:25,TR980,Singapore (SIN),Scoot B789 (9V-OJG),Landed 19:11,2021-05-08
+132,132,19:30 EK9894,,Bangkok (BKK),Emirates 77X,Unknown,2021-05-08
+133,133,19:35 CX97,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJA),Landed 22:11,2021-05-08
+134,134,19:35 SQ7868,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFM),Landed 18:58,2021-05-08
+135,135,19:35 HX619,,Osaka (KIX),Hong Kong Airlines A333 (B-LNP),Landed 19:35,2021-05-08
+136,136,19:45 C85735,,Tokyo (NRT),Cargolux Italia 74F,Unknown,2021-05-08
+137,137,20:05 CI923,,Taipei (TPE),China Airlines A333 (B-18317),Landed 19:27,2021-05-08
+138,138,20:05 QR8404,,Almaty (ALA),Qatar Cargo B77L (A7-BFO),Landed 19:52,2021-05-08
+139,139,20:10 CX2005,,Tokyo (NRT),Cathay Pacific Cargo B748 (B-LJB),Landed 20:01,2021-05-08
+140,140,20:15 CX918,,Manila (MNL),Cathay Pacific A35K (B-LXD),Landed 19:18,2021-05-08
+141,141,20:20 CX75,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJF),Landed 20:50,2021-05-08
+142,142,20:25 CX71,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-08
+143,143,20:35 CI607,,Taipei (TPE),China Airlines (SkyTeam Livery) A333 (B-18311),Landed 20:06,2021-05-08
+144,144,20:55 BR6819,,Taipei (TPE),EVA Air 77X,Unknown,2021-05-08
+145,145,20:55,CX507,Osaka (KIX),Cathay Pacific A359 (B-LRO),Landed 20:24,2021-05-08
+146,146,21:05 CX2081,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-08
+147,147,21:20,CX521,Tokyo (NRT),Cathay Pacific A359 (B-LRU),Landed 20:41,2021-05-08
+148,148,21:25 CI927,,Taipei (TPE),China Airlines 738,Unknown,2021-05-08
+149,149,21:25,CX198,Auckland (AKL),Cathay Pacific A35K (B-LXI),Landed 20:46,2021-05-08
+150,150,21:35,LH8458,Bangkok (BKK),Lufthansa Cargo B77L (D-ALFF),Landed 20:53,2021-05-08
+151,151,22:00 CX979,,Xiamen (XMN),Cathay Pacific A333 (B-LAP),Landed 22:28,2021-05-08
+152,152,22:20 SG7185,,Seoul (ICN),SpiceXpress B738 (VT-SFF),Canceled,2021-05-08
+153,153,22:25 CV8705,,Kuala Lumpur (KUL),Cargolux B744 (LX-RCV),Unknown,2021-05-08
+154,154,22:30,KE607,Seoul (ICN),Korean Air A333 (HL7720),Landed 22:24,2021-05-08
+155,155,22:30 RH9366,,Zhengzhou (CGO),Hong Kong Air Cargo A332 (B-LNY),Delayed 09:24,2021-05-08
+156,156,22:30 RH9458,,Delhi (DEL),Hong Kong Air Cargo A332 (B-LNY),Landed 23:59,2021-05-08
+157,157,22:40,CX764,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRK),Landed 22:27,2021-05-08
+158,158,22:55,CX704,Bangkok (BKK),Cathay Pacific 333,Canceled,2021-05-08
+159,159,22:55 CX742,,Hanoi (HAN),Cathay Pacific A333 (B-LAN),Landed 22:37,2021-05-08
+160,160,22:55 RH6652,,Dhaka (DAC),Hong Kong Air Cargo A332 (B-LNX),Landed 22:31,2021-05-08
+161,161,23:00 BH413,,Dhaka (DAC),Bismillah Airlines 77X,Unknown,2021-05-08
+162,162,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-08
+163,163,23:10,CX926,Cebu (CEB),Cathay Pacific A35K (B-LXC),Landed 22:40,2021-05-08
+164,164,23:15 CX3246,,Dhaka (DAC),Cathay Pacific Cargo B744 (B-LID),Landed 22:45,2021-05-08
+165,165,23:30 PO82,,Leipzig (LEJ),DHL B77L (N777SA),Landed 23:28,2021-05-08
+166,166,23:40 LD119,,Seoul (ICN),DHL A306 (B-LDH),Landed 23:08,2021-05-08
+167,167,23:40 SV986,,Dammam (DMM),Saudia Cargo B77L (HZ-AK73),Landed 22:34,2021-05-08
+168,168,23:55 LD225,,Osaka (KIX),DHL A306 (B-LDC),Landed 01:17,2021-05-08
+0,0,00:05 LD681,,Taipei (TPE),DHL A306 (B-LDB),Landed 23:12,2021-05-09
+1,1,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18352),Landed 21:33,2021-05-09
+2,2,00:15,TW193,Jeju (CJU),T'way Air 737,Canceled,2021-05-09
+3,3,00:25 LD456,,Manila (MNL),DHL A306 (B-LDF),Landed 23:31,2021-05-09
+4,4,00:25 OZ969,,Seoul (ICN),Asiana Cargo B744 (HL7423),Landed 03:58,2021-05-09
+5,5,00:30 LD562,,Ho Chi Minh City (SGN),DHL A333 (B-LDT),Landed 01:10,2021-05-09
+6,6,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18351),Landed 00:04,2021-05-09
+7,7,00:45 CI5821,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-09
+8,8,00:50 CX35,,Seoul (ICN),Cathay Pacific Cargo B748 (B-LJG),Landed 23:54,2021-05-09
+9,9,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA15KZ),Landed 00:39,2021-05-09
+10,10,01:00 LD217,,Nagoya (NGO),DHL A306 (B-LDG),Landed 00:14,2021-05-09
+11,11,01:00 LD832,,Bangkok (BKK),Air Hong Kong ABY,Unknown,2021-05-09
+12,12,01:05 NH8511,,Tokyo (NRT),ANA Cargo B763 (JA605F),Landed 00:59,2021-05-09
+13,13,01:05 TH3507,,Kuala Lumpur (SZB),Raya Airways B762 (9M-RXB),Landed 00:42,2021-05-09
+14,14,01:20 LD783,,Shanghai (PVG),DHL A332 (B-LDS),Landed 03:11,2021-05-09
+15,15,01:25 KE313,,Seoul (ICN),Korean Air Cargo B77L (HL8252),Landed 00:52,2021-05-09
+16,16,01:25 LD209,,Tokyo (NRT),DHL A306 (B-LDA),Landed 00:44,2021-05-09
+17,17,01:25 LD326,,Singapore (SIN),DHL A333 (B-LDQ),Landed 01:07,2021-05-09
+18,18,01:25 LD842,,Bangkok (BKK),DHL A333 (B-LDR),Landed 01:12,2021-05-09
+19,19,01:25 SQ7870,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-09
+20,20,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo A332 (B-LNW),Landed 00:36,2021-05-09
+21,21,01:30 8K525,,Hanoi (HAN),K-Mile Air B734 (HS-KMC),Landed 00:54,2021-05-09
+22,22,01:45 HX2736,,Singapore (SIN),Hong Kong Airlines A333 (B-LNS),Landed 01:02,2021-05-09
+23,23,02:00 Y87915,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-09
+24,24,02:05 CX78,,Phnom Penh (PNH),Cathay Pacific 74Y,Unknown,2021-05-09
+25,25,02:10 PO7950,,Tokyo (NRT),Polar Air Cargo 77F,Unknown,2021-05-09
+26,26,02:40 RH9376,,Chennai (MAA),Hong Kong Air Cargo A332 (B-LNV),Landed 02:27,2021-05-09
+27,27,02:45 SG7010,,Kolkata (CCU),SpiceJet 738,Canceled,2021-05-09
+28,28,02:45 HX275,,Taipei (TPE),Hong Kong Airlines A333 (B-LNQ),Landed 01:54,2021-05-09
+29,29,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-09
+30,30,03:00 PO277,,Seoul (ICN),Polar Air Cargo 77F,Unknown,2021-05-09
+31,31,03:05 LD769,,Beijing (PEK),DHL A306 (B-LDD),Unknown,2021-05-09
+32,32,03:40 CV7336,,Ho Chi Minh City (SGN),Cargolux 74F,Unknown,2021-05-09
+33,33,03:50 CX3142,,Delhi (DEL),Cathay Pacific Cargo B748 (B-LJC),Landed 02:30,2021-05-09
+34,34,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-09
+35,35,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-09
+36,36,04:35 BR6089,,Taipei (TPE),Eva Air Cargo B77L (B-16782),Landed 16:30,2021-05-09
+37,37,04:40 CX2174,,Adelaide (ADL),Cathay Pacific A35K (B-LXJ),Landed 03:36,2021-05-09
+38,38,04:40 CX53,,Chongqing (CKG),Cathay Pacific Cargo B744 (B-LIF),Landed 04:32,2021-05-09
+39,39,05:25 RU547,,Moscow (SVO),AirBridgeCargo B744 (VP-BIM),Landed 05:34,2021-05-09
+40,40,05:30 RH320,,Ho Chi Minh City (SGN),Hong Kong Air Cargo A332 (B-LNZ),Landed 05:14,2021-05-09
+41,41,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-09
+42,42,06:05,CX798,Jakarta (CGK),Cathay Pacific A35K (B-LXB),Landed 05:19,2021-05-09
+43,43,06:15,LX138,Zurich (ZRH),Swiss B77W (HB-JNA),Landed 06:44,2021-05-09
+44,44,06:20 CX3293,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJN),Landed 06:12,2021-05-09
+45,45,06:50 CX252,,London (LHR),Cathay Pacific A35K (B-LXA),Landed 07:08,2021-05-09
+46,46,07:10,NZ81,Auckland (AKL),Air New Zealand B789 (ZK-NZQ),Landed 06:55,2021-05-09
+47,47,07:15,GA876,Jakarta (CGK),Garuda Indonesia A333 (PK-GPX),Landed 06:59,2021-05-09
+48,48,07:25 CV7405,,Ho Chi Minh City (SGN),Cargolux (Beluga Whale Sanctuary Livery) B744 (LX-ECV),Unknown,2021-05-09
+49,49,07:25 CV4626,,Ho Chi Minh City (SGN),Cargolux (Beluga Whale Sanctuary Livery) B744 (LX-ECV),Diverted to BKK,2021-05-09
+50,50,07:25 CV7405,,Ho Chi Minh City (SGN),Cargolux 74F,Unknown,2021-05-09
+51,51,07:40 RH4569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNW),Landed 07:25,2021-05-09
+52,52,07:45 ET3716,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-09
+53,53,07:55 QR8426,,Doha (DOH),Qatar Cargo B77L (A7-BFH),Landed 06:41,2021-05-09
+54,54,07:55 CV7337,,Ho Chi Minh City (SGN),Cargolux 74Y,Unknown,2021-05-09
+55,55,07:55 CX55,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJB),Landed 07:45,2021-05-09
+56,56,07:55 HX2748,,Kuala Lumpur (KUL),Hong Kong Airlines A333 (B-LNP),Landed 07:28,2021-05-09
+57,57,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-09
+58,58,08:10 5J272,,Manila (MNL),Cebu Pacific 330,Unknown,2021-05-09
+59,59,08:45 CX3259,,Shanghai (PVG),Cathay Pacific 74N,Unknown,2021-05-09
+60,60,09:20 CX646,,Hyderabad (HYD),Cathay Pacific B77W (B-KQR),Landed 08:57,2021-05-09
+61,61,09:35 RH830,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNV),Landed 13:04,2021-05-09
+62,62,09:35 TK6786,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-09
+63,63,09:36 N8574,,Anchorage (ANC),National Airlines B744 (N729CA),Landed 09:44,2021-05-09
+64,64,09:40 LD3348,,Manila (MNL),DHL A306 (B-LDF),Unknown,2021-05-09
+65,65,09:55 PR300,,Manila (MNL),Philippine Airlines A333 (RP-C8781),Landed 09:26,2021-05-09
+66,66,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18301),Landed 10:22,2021-05-09
+67,67,10:10 CX676,,Tel Aviv (TLV),Cathay Pacific A35K (B-LXL),Landed 09:48,2021-05-09
+68,68,10:25 EK9842,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFL),Landed 10:43,2021-05-09
+69,69,10:50 QR8792,,Doha (DOH),Qatar Cargo B77L (A7-BFV),Landed 10:14,2021-05-09
+70,70,10:55 CX95,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJK),Landed 11:29,2021-05-09
+71,71,11:00 CX3291,,Anchorage (ANC),Cathay Pacific 74N,Unknown,2021-05-09
+72,72,11:10 MF381,,Xiamen (XMN),Xiamen Air B737 (B-5218),Landed 10:50,2021-05-09
+73,73,11:15 BA31,,London (LHR),British Airways B77W (G-STBL),Landed 10:38,2021-05-09
+74,74,11:30 LY75,,Tel Aviv (TLV),El Al Israel Airlines B789 (4X-EDI),Landed 11:43,2021-05-09
+75,75,11:35 LD3783,,Shanghai (PVG),Air Hong Kong 33Y,Unknown,2021-05-09
+76,76,12:00 AA9739,,Tokyo (NRT),American Airlines 77W,Unknown,2021-05-09
+77,77,12:05,CX288,Frankfurt (FRA),Cathay Pacific B77W (B-KQA),Landed 11:51,2021-05-09
+78,78,12:10,BR867,Taipei (TPE),EVA Air A333 (B-16339),Landed 11:48,2021-05-09
+79,79,12:30 CK263,,Shanghai (PVG),China Cargo Airlines 77F,Unknown,2021-05-09
+80,80,12:35 7C2101,,Seoul (ICN),Jeju Air 738,Unknown,2021-05-09
+81,81,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMQ),Landed 12:11,2021-05-09
+82,82,12:45 5C851,,Tel Aviv (TLV),CAL Cargo Airlines B744 (4X-ICA),Landed 11:03,2021-05-09
+83,83,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18305),Landed 12:15,2021-05-09
+84,84,13:00 LD392,,Penang (PEN),DHL A306 (B-LDN),Landed 12:22,2021-05-09
+85,85,13:05,CA111,Beijing (PEK),Air China A333 (B-5956),Landed 12:52,2021-05-09
+86,86,13:05 NH8547,,Osaka (KIX),All Nippon Airways B788 (JA803A),Landed 12:31,2021-05-09
+87,87,13:15 VS238,,London (LHR),Virgin Atlantic B789 (G-VDIA),Landed 12:35,2021-05-09
+88,88,13:25 UA2829,,Tokyo (NRT),United Airlines B77W (N2140U),Landed 13:00,2021-05-09
+89,89,13:30 ET3614,,Brussels (BRU),Ethiopian Airlines 77X,Unknown,2021-05-09
+90,90,13:40 CV7946,,Singapore (SIN),Cargolux B748 (LX-VCL),Diverted to KUL,2021-05-09
+91,91,13:40 CV7506,,Singapore (SIN),Cargolux 74F,Unknown,2021-05-09
+92,92,13:45,JL29,Tokyo (NRT),Japan Airlines B789 (JA876J),Landed 13:19,2021-05-09
+93,93,13:45 UA2853,,Tokyo (NRT),United Airlines B77W (N2639U),Landed 13:28,2021-05-09
+94,94,13:50 RH332,,Bangkok (BKK),Hong Kong Air Cargo A332 (B-LNZ),Landed 13:42,2021-05-09
+95,95,13:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA8970),Landed 13:36,2021-05-09
+96,96,14:00 6E9148,,Kolkata (CCU),IndiGo A320 (VT-IFK),Landed 13:22,2021-05-09
+97,97,14:01 K49209,,Honolulu (HNL),Kalitta Air B744 (N745CK),Landed 14:04,2021-05-09
+98,98,14:05 PO749,,Tokyo (NRT),DHL B748 (N858GT),Landed 13:31,2021-05-09
+99,99,14:20 CV7306,,Singapore (SIN),Cargolux 74F,Unknown,2021-05-09
+100,100,14:27 5X62,,Anchorage (ANC),UPS B748 (N616UP),Landed 14:50,2021-05-09
+101,101,14:45 HX237,,Shanghai (PVG),Hong Kong Airlines A333 (B-LNS),Landed 14:41,2021-05-09
+102,102,14:50 NH8513,,Tokyo (NRT),ANA Cargo B763 (JA8664),Landed 14:32,2021-05-09
+103,103,14:55 CX5,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJF),Landed 14:25,2021-05-09
+104,104,15:00 CV4517,,Singapore (SIN),Cargolux 74F,Unknown,2021-05-09
+105,105,15:05,CX766,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRN),Landed 14:09,2021-05-09
+106,106,15:30,UO173,Taichung (RMQ),HK Express A20N (B-LCQ),Landed 14:56,2021-05-09
+107,107,15:35 SQ7984,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFM),Landed 15:01,2021-05-09
+108,108,15:45 CV8566,,Dubai (DWC),Cargolux 74F,Unknown,2021-05-09
+109,109,15:50 CX91,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJL),Landed 15:49,2021-05-09
+110,110,15:50 EY925,,Abu Dhabi (AUH),Etihad Cargo B77L (A6-DDF),Landed 15:31,2021-05-09
+111,111,15:55 HX337,,Beijing (PEK),Hong Kong Airlines A333 (B-LNQ),Landed 15:17,2021-05-09
+112,112,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALK),Landed 14:48,2021-05-09
+113,113,16:10 CI5835,,Taipei (TPE),China Airlines Cargo B744 (B-18701),Landed 15:54,2021-05-09
+114,114,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-LBC),Landed 16:35,2021-05-09
+115,115,16:30 AI1324,,Delhi (DEL),Air India B788 (VT-ANM),Landed 15:52,2021-05-09
+116,116,16:50 OZ967,,Seoul (ICN),Asiana Airlines B744 (HL7421),Landed 17:53,2021-05-09
+117,117,16:50,TR980,Singapore (SIN),Scoot B789 (9V-OJD),Landed 16:28,2021-05-09
+118,118,17:05 LD8572,,Kuala Lumpur (KUL),DHL A306 (B-LDH),Landed 16:32,2021-05-09
+119,119,17:10,AC7,Vancouver (YVR),Air Canada B789 (C-FVLX),Landed 16:51,2021-05-09
+120,120,17:15 CX62,,Dubai (DWC),Cathay Pacific 74Y,Unknown,2021-05-09
+121,121,17:20 UL896,,Colombo (CMB),SriLankan Airlines A333 (4R-ALP),Landed 17:08,2021-05-09
+122,122,17:35,CX391,Beijing (PEK),Cathay Pacific B77W (B-KQV),Landed 18:47,2021-05-09
+123,123,17:40 TG638,,Bangkok (BKK),Thai Airways B77W (HS-TKN),Landed 17:35,2021-05-09
+124,124,18:05 CX254,,London (LHR),Cathay Pacific 351,Unknown,2021-05-09
+125,125,18:15 7L620,,Baku (GYD),Silk Way West Airlines B748 (VQ-BVC),Unknown,2021-05-09
+126,126,18:15 7L691,,Baku (GYD),Silk Way West Airlines 74N,Unknown,2021-05-09
+127,127,18:20,EK384,Bangkok (BKK),Emirates (Expo 2020 - Mobility Livery) A388 (A6-EOT),Landed 17:45,2021-05-09
+128,128,18:25 CX3273,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-09
+129,129,18:25 KL819,,Bangkok (BKK),KLM B77W (PH-BVG),Landed 17:47,2021-05-09
+130,130,18:25 SV3962,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-09
+131,131,18:30 CI5825,,Taipei (TPE),China Airlines Cargo B744 (B-18709),Landed 18:44,2021-05-09
+132,132,18:30 RH372,,Singapore (SIN),Hong Kong Air Cargo A332 (B-LNW),Landed 17:51,2021-05-09
+133,133,18:55 QR8438,,Doha (DOH),Qatar Cargo B77L (A7-BFF),Landed 18:31,2021-05-09
+134,134,19:00 C88727,,Tokyo (NRT),Cargolux Italia 74F,Unknown,2021-05-09
+135,135,19:25,LH8472,Bangkok (BKK),Lufthansa Cargo B77L (D-ALFH),Landed 19:05,2021-05-09
+136,136,19:25 RU639,,Singapore (SIN),AirBridgeCargo Airlines 74N,Unknown,2021-05-09
+137,137,19:45 C85717,,Tokyo (NRT),Cargolux B744 (LX-YCV),Landed 19:28,2021-05-09
+138,138,20:05 CI923,,Taipei (TPE),China Airlines A333 (B-18316),Landed 19:30,2021-05-09
+139,139,20:05 HX693,,Sapporo (CTS),Hong Kong Airlines A333 (B-LNP),Landed 20:06,2021-05-09
+140,140,20:10 CX3281,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-09
+141,141,20:15 CX3283,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJH),Landed 20:01,2021-05-09
+142,142,20:15 CX918,,Manila (MNL),Cathay Pacific A35K (B-LXB),Landed 18:59,2021-05-09
+143,143,20:15 UL1422,,Colombo (CMB),SriLankan Airlines A333 (4R-ALM),Landed 19:51,2021-05-09
+144,144,20:25 LD3832,,Bangkok (BKK),DHL A332 (B-LDS),Landed 19:09,2021-05-09
+145,145,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18357),Landed 19:54,2021-05-09
+146,146,20:40 TK83,,Bangkok (BKK),Turkish Airlines B77W (TC-JJK),Landed 20:39,2021-05-09
+147,147,20:40 HX629,,Seoul (ICN),Hong Kong Airlines A333 (B-LNN),Landed 19:49,2021-05-09
+148,148,20:50 RH352,,Manila (MNL),Hong Kong Air Cargo A332 (B-LNZ),Landed 20:25,2021-05-09
+149,149,20:55 CX87,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJD),Landed 20:18,2021-05-09
+150,150,20:55 RU645,,Moscow (SVO),AirBridgeCargo Airlines 74N,Unknown,2021-05-09
+151,151,21:05 CX3246,,Jakarta (CGK),Cathay Pacific Cargo B744 (B-LIF),Landed 20:37,2021-05-09
+152,152,21:10 3U9925,,-,Sichuan Airlines 321,Unknown,2021-05-09
+153,153,21:20,CX521,Tokyo (NRT),Cathay Pacific A35K (B-LXH),Landed 19:58,2021-05-09
+154,154,21:25 CI927,,Taipei (TPE),China Airlines 738,Unknown,2021-05-09
+155,155,21:25 CV7326,,Muscat (MCT),Cargolux B748 (LX-VCI),Diverted to BKK,2021-05-09
+156,156,21:30,CX100,Sydney (SYD),Cathay Pacific A35K (B-LXO),Landed 21:23,2021-05-09
+157,157,21:45,CX569,Osaka (KIX),Cathay Pacific A35K (B-LXF),Landed 20:55,2021-05-09
+158,158,21:55 BR6529,,Taipei (TPE),EVA Air Cargo B77L (B-16783),Landed 21:56,2021-05-09
+159,159,22:30 RH9458,,Delhi (DEL),Hong Kong Air Cargo A332 (B-LNY),Landed 00:52,2021-05-09
+160,160,22:30 SV984,,Riyadh (RUH),Saudia Cargo B77L (HZ-AK73),Landed 21:35,2021-05-09
+161,161,22:40 CX78,,Penang (PEN),Cathay Pacific Cargo B744 (B-LIC),Landed 22:38,2021-05-09
+162,162,22:55 CX742,,Hanoi (HAN),Cathay Pacific A333 (B-LAR),Landed 22:02,2021-05-09
+163,163,22:55,CX704,Bangkok (BKK),Cathay Pacific A359 (B-LRP),Landed 22:12,2021-05-09
+164,164,22:55 RH9072,,Dhaka (DAC),Hong Kong Air Cargo A332 (B-LNV),Landed 00:05,2021-05-09
+165,165,22:55 HX283,,Taipei (TPE),Hong Kong Airlines A333 (B-LNQ),Landed 22:20,2021-05-09
+166,166,23:00,CX419,Seoul (ICN),Cathay Pacific 351,Unknown,2021-05-09
+167,167,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-09
+168,168,23:30 TK6782,,Almaty (ALA),Turkish Airlines 33F,Unknown,2021-05-09
+0,0,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18309),Landed 21:10,2021-05-10
+1,1,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18359),Landed 00:07,2021-05-10
+2,2,00:36 CV7326,,Bangkok (BKK),Cargolux B748 (LX-VCI),Landed 22:55,2021-05-10
+3,3,00:45 CI5821,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-10
+4,4,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA15KZ),Landed 02:03,2021-05-10
+5,5,01:25 KE313,,Seoul (ICN),Korean Air Cargo B77L (HL8005),Landed 00:32,2021-05-10
+6,6,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo A332 (B-LNW),Landed 01:03,2021-05-10
+7,7,01:55 PO275,,Seoul (ICN),Polar Air Cargo 77F,Unknown,2021-05-10
+8,8,02:00 HX2018,,Sydney (SYD),Hong Kong Airlines A333 (B-LNM),Landed 01:44,2021-05-10
+9,9,02:45 SG7010,,Kolkata (CCU),SpiceXpress B737 (VT-SFD),Landed 02:41,2021-05-10
+10,10,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-10
+11,11,03:15 EK9826,,Manila (MNL),Emirates SkyCargo B77L (A6-EFO),Landed 02:47,2021-05-10
+12,12,03:25 QF7527,,Darwin (DRW),Qantas Freight B763 (VH-EFR),Landed 03:10,2021-05-10
+13,13,03:30 CV4627,,Hanoi (HAN),Cargolux B748 (LX-VCC),Diverted to BKK,2021-05-10
+14,14,03:30 CV8316,,Hanoi (HAN),Cargolux 74Y,Unknown,2021-05-10
+15,15,03:30 RH328,,Ho Chi Minh City (SGN),Hong Kong Air Cargo 33F,Unknown,2021-05-10
+16,16,03:30 CV8316,,Hanoi (HAN),Cargolux 74F,Unknown,2021-05-10
+17,17,03:55 RU737,,Singapore (SIN),AirBridgeCargo B748 (VP-BBY),Landed 03:19,2021-05-10
+18,18,04:00 BH5419,,Dhaka (DAC),Bismillah Airlines 77F,Unknown,2021-05-10
+19,19,04:00 CV7417,,Hanoi (HAN),Cargolux 74Y,Unknown,2021-05-10
+20,20,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-10
+21,21,04:00 O37209,,Changsha (CSX),SF Airlines 73F,Unknown,2021-05-10
+22,22,04:30 RH569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNZ),Landed 05:21,2021-05-10
+23,23,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-10
+24,24,04:55 RU749,,Seoul (ICN),AirBridgeCargo B748 (VQ-BFU),Landed 20:54,2021-05-10
+25,25,05:15 RH571,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNV),Landed 06:06,2021-05-10
+26,26,05:45 CX81,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJE),Landed 05:26,2021-05-10
+27,27,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-10
+28,28,06:20 QR8406,,Doha (DOH),Qatar Cargo B77L (A7-BFB),Landed 06:47,2021-05-10
+29,29,06:37 K4878,,Anchorage (ANC),Kalitta Air B744 (N715CK),Landed 06:39,2021-05-10
+30,30,06:45 EK9284,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFL),Landed 06:25,2021-05-10
+31,31,06:50,CX288,Frankfurt (FRA),Cathay Pacific 77W,Canceled,2021-05-10
+32,32,06:50 CX252,,London (LHR),Cathay Pacific 351,Canceled,2021-05-10
+33,33,07:00 SV3966,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-10
+34,34,07:00 BH5415,,Dhaka (DAC),Bismillah Airlines 77F,Unknown,2021-05-10
+35,35,07:00 CI5831,,Taipei (TPE),China Airlines Cargo B744 (B-18710),Landed 06:12,2021-05-10
+36,36,07:05 VS636,,London (LHR),Virgin Atlantic B789 (G-VFAN),Landed 06:30,2021-05-10
+37,37,07:15 CX3118,,Chennai (MAA),Cathay Pacific Cargo B744 (B-LIB),Landed 06:41,2021-05-10
+38,38,07:25 CV4626,,Ho Chi Minh City (SGN),Cargolux 74F,Unknown,2021-05-10
+39,39,07:38 HX782,,Manila (MNL),Hong Kong Airlines A333 (B-LNS),Landed 07:24,2021-05-10
+40,40,07:40 QR8418,,Singapore (SIN),Qatar Cargo B77L (A7-BFG),Landed 10:05,2021-05-10
+41,41,07:55 RU747,,Moscow (SVO),AirBridgeCargo B748 (VQ-BLQ),Landed 07:58,2021-05-10
+42,42,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-10
+43,43,08:10 5J272,,Manila (MNL),Cebu Pacific 330,Unknown,2021-05-10
+44,44,08:15 TK6490,,Bishkek (FRU),AirACT B744 (TC-ACF),Landed 07:47,2021-05-10
+45,45,08:55 SQ7970,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFN),Landed 08:14,2021-05-10
+46,46,09:00 ET3728,,Liege (LGG),Ethiopian Cargo B77L (ET-AWE),Landed 20:33,2021-05-10
+47,47,09:05 RH9236,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNY),Landed 09:28,2021-05-10
+48,48,09:10,CX694,Delhi (DEL),Cathay Pacific B77W (B-KQQ),Landed 08:17,2021-05-10
+49,49,09:25 EK9886,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFN),Landed 08:26,2021-05-10
+50,50,09:35 TK6782,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-10
+51,51,09:35 TK6790,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-10
+52,52,09:50 CV6347,,Bangkok (BKK),Cargolux B748 (LX-VCB),Landed 14:24,2021-05-10
+53,53,09:50 CV8587,,Bangkok (BKK),Cargolux 74F,Unknown,2021-05-10
+54,54,09:50,CX660,Mumbai (BOM),Cathay Pacific B77W (B-HNR),Landed 08:36,2021-05-10
+55,55,09:50 SQ7974,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-10
+56,56,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18351),Landed 09:48,2021-05-10
+57,57,10:34 5X58,,Guam (GUM),UPS B748 (N618UP),Landed 10:31,2021-05-10
+58,58,10:50 CV8591,,Bangkok (BKK),Cargolux 74Y,Unknown,2021-05-10
+59,59,11:15 BA31,,London (LHR),British Airways B77W (G-STBM),Landed 11:23,2021-05-10
+60,60,11:30 LY75,,Tel Aviv (TLV),El Al Israel Airlines B789 (4X-EDL),Landed 12:03,2021-05-10
+61,61,11:40 RU149,,Moscow (SVO),AirBridgeCargo B748 (VP-BBY),Unknown,2021-05-10
+62,62,11:45 TG600,,Bangkok (BKK),Thai Airways A359 (HS-THD),Landed 11:00,2021-05-10
+63,63,12:00 AA9740,,Tokyo (NRT),American Airlines 77W,Unknown,2021-05-10
+64,64,12:10 CX85,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJM),Landed 11:44,2021-05-10
+65,65,12:10,BR867,Taipei (TPE),EVA Air B789 (B-17881),Landed 11:48,2021-05-10
+66,66,12:15 BA27,,London (LHR),British Airways B77W (G-STBI),Landed 11:29,2021-05-10
+67,67,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMV),Landed 11:59,2021-05-10
+68,68,12:40 KZ260,,Bangkok (BKK),Nippon Cargo Airlines 74N,Unknown,2021-05-10
+69,69,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18352),Landed 12:28,2021-05-10
+70,70,13:10 AA9730,,Tokyo (NRT),American Airlines B77W (N720AN),Landed 12:07,2021-05-10
+71,71,13:25 UA2829,,Tokyo (NRT),United Airlines B77W (N2341U),Landed 12:43,2021-05-10
+72,72,13:25 NH859,,Tokyo (HND),All Nippon Airways B789 (JA897A),Landed 12:54,2021-05-10
+73,73,13:40 LD3356,,Manila (MNL),DHL A332 (B-LDS),Landed 12:22,2021-05-10
+74,74,13:45 UA2853,,Tokyo (NRT),United Airlines B77W (N2251U),Landed 13:18,2021-05-10
+75,75,14:00 6E9148,,Kolkata (CCU),IndiGo 320,Unknown,2021-05-10
+76,76,14:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA604F),Landed 13:23,2021-05-10
+77,77,15:05,CX766,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRL),Landed 14:17,2021-05-10
+78,78,15:30 CV7587,,Dammam (DMM),Cargolux B748 (LX-VCE),Unknown,2021-05-10
+79,79,15:30 CV7587,,Dammam (DMM),Cargolux B748 (LX-VCE),Diverted to KUL,2021-05-10
+80,80,15:45 5C1851,,Tel Aviv (TLV),CAL Cargo Airlines B744 (4X-ICA),Landed 14:54,2021-05-10
+81,81,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALN),Landed 14:50,2021-05-10
+82,82,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-LAM),Landed 15:59,2021-05-10
+83,83,16:30 AI1314,,Kolkata (CCU),Air India 788,Canceled,2021-05-10
+84,84,16:50,TR980,Singapore (SIN),Scoot B789 (9V-OJH),Landed 16:35,2021-05-10
+85,85,17:00 PO275,,Bahrain (BAH),Polar Air Cargo 77F,Unknown,2021-05-10
+86,86,17:20 UL896,,Colombo (CMB),SriLankan Airlines A333 (4R-ALL),Landed 17:01,2021-05-10
+87,87,17:30 QR8400,,Doha (DOH),Qatar Airways 77X,Unknown,2021-05-10
+88,88,17:31 VJT836,,Auckland (AKL),VistaJet Malta GLEX (9H-VJK),Landed 17:32,2021-05-10
+89,89,17:40 TG638,,Bangkok (BKK),Thai Airways A359 (HS-THN),Landed 17:05,2021-05-10
+90,90,18:20,EK384,Bangkok (BKK),Emirates A388 (A6-EUD),Landed 17:29,2021-05-10
+91,91,18:25 CV7211,,Jakarta (CGK),Cargolux 74F,Unknown,2021-05-10
+92,92,18:30 BG78,,Dhaka (DAC),Biman Bangladesh Airlines B77W (S2-AHN),Landed 19:26,2021-05-10
+93,93,18:48 CV7587,,Kuala Lumpur (KUL),Cargolux B748 (LX-VCE),Landed 18:39,2021-05-10
+94,94,19:00,CX654,Bangkok (BKK),Cathay Pacific A359 (B-LRX),Landed 18:18,2021-05-10
+95,95,19:00 QR8428,,Doha (DOH),Qatar Cargo B77L (A7-BFN),Landed 18:22,2021-05-10
+96,96,19:05 SV982,,Riyadh (RUH),Saudia Cargo B77L (HZ-AK74),Landed 18:13,2021-05-10
+97,97,19:35 CX97,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJI),Landed 19:05,2021-05-10
+98,98,19:45 C88727,,Tokyo (NRT),Cargolux Italia 74F,Unknown,2021-05-10
+99,99,20:00 C86757,,Kuwait City (KWI),Cargolux B748 (LX-VCA),Diverted to KUL,2021-05-10
+100,100,20:05 CI923,,Taipei (TPE),China Airlines A333 (B-18352),Landed 19:15,2021-05-10
+101,101,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18310),Landed 19:47,2021-05-10
+102,102,20:55,CX507,Osaka (KIX),Cathay Pacific A35K (B-LXF),Landed 20:09,2021-05-10
+103,103,21:00 CX3000,,Singapore (SIN),Cathay Pacific -,Unknown,2021-05-10
+104,104,21:05 EK9352,,Manila (MNL),Emirates SkyCargo B77L (A6-EFG),Landed 20:51,2021-05-10
+105,105,21:15 CV7947,,Jakarta (CGK),Cargolux B748 (LX-VCG),Diverted to BKK,2021-05-10
+106,106,21:15 ET3728,,Liege (LGG),Ethiopian Cargo B77L (ET-AWE),Unknown,2021-05-10
+107,107,21:20,CX521,Tokyo (NRT),Cathay Pacific A35K (B-LXI),Landed 19:36,2021-05-10
+108,108,21:25 CI927,,Taipei (TPE),China Airlines 738,Unknown,2021-05-10
+109,109,21:45,CX104,Melbourne (MEL),Cathay Pacific A35K (B-LXJ),Unknown,2021-05-10
+110,110,21:45 CX3244,,Delhi (DEL),Cathay Pacific Cargo B748 (B-LJH),Landed 21:06,2021-05-10
+111,111,22:10 CX3218,,Delhi (DEL),Cathay Pacific 74Y,Unknown,2021-05-10
+112,112,22:30 RH9458,,Delhi (DEL),Hong Kong Air Cargo A332 (B-LNV),Landed 21:50,2021-05-10
+113,113,22:40,CX764,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRA),Landed 22:17,2021-05-10
+114,114,22:40 CX3128,,Melbourne (MEL),Cathay Pacific Cargo B748 (B-LJL),Landed 22:57,2021-05-10
+115,115,22:50 O37163,,Nanchang (KHN),SF Airlines 73F,Unknown,2021-05-10
+116,116,22:55 RH6652,,Dhaka (DAC),Hong Kong Air Cargo 33F,Unknown,2021-05-10
+117,117,22:55 TK6784,,Almaty (ALA),Turkish Airlines 33F,Unknown,2021-05-10
+118,118,22:55 CX742,,Hanoi (HAN),Cathay Pacific A333 (B-LBB),Landed 23:43,2021-05-10
+119,119,22:55 RH9486,,Almaty (ALA),Hong Kong Air Cargo A332 (B-LNZ),Landed 22:42,2021-05-10
+120,120,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-10
+121,121,23:15 CX28,,Melbourne (MEL),Cathay Pacific 74N,Unknown,2021-05-10
+122,122,23:20 PO98,,Seoul (ICN),DHL B77L (N774SA),Landed 04:12,2021-05-10
+123,123,23:30 MS509,,Cairo (CAI),EgyptAir Cargo A332 (SU-GCF),Landed 23:00,2021-05-10
+124,124,23:35 CX75,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJG),Landed 23:47,2021-05-10
+125,125,23:45 CX3246,,Chennai (MAA),Cathay Pacific Cargo B744 (B-LIE),Landed 23:26,2021-05-10
+126,126,23:50 RH9376,,Chennai (MAA),Hong Kong Air Cargo A332 (B-LNY),Landed 23:19,2021-05-10
+127,127,23:55 RU149,,Krasnoyarsk (KJA),AirBridgeCargo Airlines 74N,Unknown,2021-05-10
+0,0,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18305),Landed 21:21,2021-05-11
+1,1,00:12 CV6757,,Kuala Lumpur (KUL),Cargolux B748 (LX-VCA),Landed 00:13,2021-05-11
+2,2,00:15 CX2025,,Taipei (TPE),Cathay Pacific Cargo B744 (B-LIB),Landed 00:05,2021-05-11
+3,3,00:25 LD681,,Taipei (TPE),DHL A306 (B-LDG),Landed 23:57,2021-05-11
+4,4,00:25 OZ969,,Seoul (ICN),Asiana Airlines 74F,Unknown,2021-05-11
+5,5,00:30 CX2081,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJC),Landed 00:41,2021-05-11
+6,6,00:30 CI5835,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-11
+7,7,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18308),Landed 00:17,2021-05-11
+8,8,00:45 LD129,,Seoul (ICN),DHL A306 (B-LDH),Landed 23:59,2021-05-11
+9,9,00:50 LD456,,Manila (MNL),DHL A306 (B-LDA),Landed 00:51,2021-05-11
+10,10,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA16KZ),Landed 00:15,2021-05-11
+11,11,01:05 LD205,,Osaka (KIX),DHL A306 (B-LDB),Landed 00:38,2021-05-11
+12,12,01:05 NH8511,,Tokyo (NRT),ANA Cargo B763 (JA602F),Landed 00:24,2021-05-11
+13,13,01:05 TH3507,,Kuala Lumpur (SZB),Raya Airways B762 (9M-RXB),Landed 01:17,2021-05-11
+14,14,01:20 LD217,,Nagoya (NGO),DHL A306 (B-LDF),Landed 00:28,2021-05-11
+15,15,01:20 LD783,,Shanghai (PVG),DHL A332 (B-LDS),Landed 03:06,2021-05-11
+16,16,01:25 KE313,,Seoul (ICN),Korean Air Cargo B77L (HL8043),Landed 00:36,2021-05-11
+17,17,01:25 LD326,,Singapore (SIN),DHL A333 (B-LDQ),Landed 01:19,2021-05-11
+18,18,01:25 LD209,,Tokyo (NRT),DHL A306 (B-LDD),Landed 00:44,2021-05-11
+19,19,01:25 LD842,,Bangkok (BKK),DHL A333 (B-LDT),Landed 01:30,2021-05-11
+20,20,01:25 LD832,,Bangkok (BKK),Air Hong Kong ABY,Unknown,2021-05-11
+21,21,01:30 LD562,,Ho Chi Minh City (SGN),DHL A306 (B-LDC),Landed 01:23,2021-05-11
+22,22,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo A332 (B-LNX),Landed 00:49,2021-05-11
+23,23,01:30 8K525,,Hanoi (HAN),K-Mile Air B734 (HS-KMC),Landed 01:27,2021-05-11
+24,24,02:00 CX2032,,Hanoi (HAN),Cathay Pacific Cargo B748 (B-LJF),Landed 01:53,2021-05-11
+25,25,02:00 Y87915,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-11
+26,26,02:05 SQ7872,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-11
+27,27,02:45 SG7010,,Kolkata (CCU),SpiceJet 738,Canceled,2021-05-11
+28,28,02:45 HX275,,Taipei (TPE),Hong Kong Airlines A333 (B-LNQ),Landed 01:45,2021-05-11
+29,29,02:50 PO947,,Seoul (ICN),Polar Air Cargo 77F,Unknown,2021-05-11
+30,30,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-11
+31,31,03:05 LD769,,Beijing (PEK),DHL A306 (B-LDE),Landed 03:01,2021-05-11
+32,32,03:45 7L147,,Baku (GYD),Silk Way West Airlines B748 (VQ-BBM),Landed 10:21,2021-05-11
+33,33,03:55 CX3251,,Zhengzhou (CGO),Cathay Pacific Cargo B748 (B-LJM),Landed 03:46,2021-05-11
+34,34,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-11
+35,35,04:00 O37209,,Changsha (CSX),SF Airlines 73F,Unknown,2021-05-11
+36,36,04:05 N8572,,Anchorage (ANC),National Airlines B744 (N729CA),Landed 04:17,2021-05-11
+37,37,04:10,CX138,Sydney (SYD),Cathay Pacific A35K (B-LXK),Landed 04:33,2021-05-11
+38,38,04:25 QR8422,,Doha (DOH),Qatar Cargo B748 (A7-BGA),Landed 03:30,2021-05-11
+39,39,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-11
+40,40,04:30 HX129,,Hangzhou (HGH),Hong Kong Airlines A333 (B-LNN),Landed 05:03,2021-05-11
+41,41,04:40 CX53,,Chongqing (CKG),Cathay Pacific Cargo B744 (B-LIF),Landed 04:36,2021-05-11
+42,42,05:50 RU137,,Moscow (SVO),AirBridgeCargo B744 (VQ-BWW),Landed 05:50,2021-05-11
+43,43,05:50 PO769,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-11
+44,44,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-11
+45,45,06:30 CX2038,,Milan (MXP),Cathay Pacific Cargo B748 (B-LJA),Landed 06:16,2021-05-11
+46,46,06:45 CX42,,Bengaluru (BLR),Cathay Pacific Cargo B744 (B-LID),Landed 06:31,2021-05-11
+47,47,06:50,CX288,Frankfurt (FRA),Cathay Pacific A35K (B-LXE),Landed 06:35,2021-05-11
+48,48,07:10 EK9820,,Manila (MNL),Emirates SkyCargo B77L (A6-EFM),Landed 07:24,2021-05-11
+49,49,07:15 OZ952,,Hanoi (HAN),Asiana Airlines 74F,Unknown,2021-05-11
+50,50,07:25 O36891,,Ningbo (NGB),SF Airlines 73F,Unknown,2021-05-11
+51,51,07:35 CX3195,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJB),Landed 07:13,2021-05-11
+52,52,07:35 SG7857,,Delhi (DEL),Hi Fly A343 (9H-JAI),Landed 09:18,2021-05-11
+53,53,07:40 RH4569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNX),Landed 07:28,2021-05-11
+54,54,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-11
+55,55,08:10 5J272,,Manila (MNL),Cebu Pacific 330,Unknown,2021-05-11
+56,56,08:45 CX55,,Shanghai (PVG),Cathay Pacific 74Y,Unknown,2021-05-11
+57,57,08:50 CX2095,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-11
+58,58,09:15 ET3626,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-11
+59,59,09:24 CV7947,,Bangkok (BKK),Cargolux B748 (LX-VCG),Landed 07:17,2021-05-11
+60,60,09:25 BR6521,,Taipei (TPE),EVA Air 77X,Unknown,2021-05-11
+61,61,09:35 RH830,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNY),Landed 10:15,2021-05-11
+62,62,09:35 TK6784,,Almaty (ALA),Turkish Airlines 33X,Unknown,2021-05-11
+63,63,10:00 CV7321,,Bahrain (BAH),Cargolux 74F,Unknown,2021-05-11
+64,64,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18357),Landed 09:42,2021-05-11
+65,65,10:05 UA2728,,Guam (GUM),United Airlines B763 (N672UA),Landed 09:45,2021-05-11
+66,66,11:15 BA31,,London (LHR),British Airways B77W (G-STBB),Landed 10:31,2021-05-11
+67,67,11:25 EK9880,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFJ),Landed 11:01,2021-05-11
+68,68,11:30 LY75,,Tel Aviv (TLV),El Al Israel Airlines B789 (4X-EDI),Landed 11:33,2021-05-11
+69,69,11:45 LD3356,,Manila (MNL),DHL A332 (B-LDS),Landed 10:43,2021-05-11
+70,70,11:45,TG600,Bangkok (BKK),Thai Airways A359 (HS-THN),Landed 11:12,2021-05-11
+71,71,12:00 AA9742,,Tokyo (NRT),American Airlines B77W (N721AN),Landed 12:21,2021-05-11
+72,72,12:30 CK263,,Shanghai (PVG),China Cargo Airlines B77L (B-220E),Landed 04:08,2021-05-11
+73,73,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMJ),Landed 12:05,2021-05-11
+74,74,12:45 RU139,,Seoul (ICN),AirBridgeCargo B748 (VP-BIN),Landed 04:00,2021-05-11
+75,75,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18356),Landed 12:08,2021-05-11
+76,76,13:00 LD392,,Penang (PEN),DHL A306 (B-LDN),Landed 12:15,2021-05-11
+77,77,13:10 LD8572,,Kuala Lumpur (KUL),DHL A306 (B-LDA),Landed 13:09,2021-05-11
+78,78,13:15 VS238,,London (LHR),Virgin Atlantic B789 (G-VWHO),Landed 12:42,2021-05-11
+79,79,13:25 UA2829,,Tokyo (NRT),United Airlines B77W (N2136U),Landed 13:02,2021-05-11
+80,80,13:25 NH859,,Tokyo (HND),All Nippon Airways B789 (JA897A),Landed 13:12,2021-05-11
+81,81,13:35,BI635,Brunei (BWN),Royal Brunei Airlines B788 (V8-DLE),Landed 13:16,2021-05-11
+82,82,13:40 CX38,,Mumbai (BOM),Cathay Pacific 74Y,Unknown,2021-05-11
+83,83,13:40 CX906,,Manila (MNL),Cathay Pacific A35K (B-LXH),Landed 12:53,2021-05-11
+84,84,13:40 NH1929,,Tokyo (NRT),All Nippon Airways B788 (JA806A),Landed 13:06,2021-05-11
+85,85,13:50 RH332,,Bangkok (BKK),Hong Kong Air Cargo A332 (B-LNW),Landed 13:14,2021-05-11
+86,86,13:50 RU137,,Moscow (DME),AirBridgeCargo Airlines 74Y,Unknown,2021-05-11
+87,87,13:55 LD3526,,Singapore (SIN),DHL A333 (B-LDR),Landed 12:49,2021-05-11
+88,88,13:55 CX841,,New York (JFK),Cathay Pacific B77W (B-KQB),Landed 12:56,2021-05-11
+89,89,14:05 MH6114,,Kota Kinabalu (BKI),Malaysia Airlines 33X,Unknown,2021-05-11
+90,90,14:22 5X58,,Honolulu (HNL),UPS B748 (N613UP),Landed 14:03,2021-05-11
+91,91,14:50 CX5,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJH),Landed 13:58,2021-05-11
+92,92,14:50 CX3259,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJL),Landed 16:55,2021-05-11
+93,93,14:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA8664),Landed 13:34,2021-05-11
+94,94,15:00 RA409,,Kathmandu (KTM),Nepal Airlines 320,Unknown,2021-05-11
+95,95,15:04 K49205,,Honolulu (HNL),Kalitta Air B744 (N703CK),Landed 15:08,2021-05-11
+96,96,15:05,CX766,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRJ),Landed 14:26,2021-05-11
+97,97,15:15,CX930,Manila (MNL),Cathay Pacific 359,Unknown,2021-05-11
+98,98,15:20 CX495,,Taipei (TPE),Cathay Pacific A35K (B-LXG),Landed 14:50,2021-05-11
+99,99,15:20 MF381,,Xiamen (XMN),Xiamen Air B738 (B-5788),Landed 15:11,2021-05-11
+100,100,15:27 5X64,,Anchorage (ANC),UPS B748 (N615UP),Landed 15:38,2021-05-11
+101,101,15:45 CI6843,,Taipei (TPE),China Airlines 74Y,Unknown,2021-05-11
+102,102,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALH),Landed 14:50,2021-05-11
+103,103,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-HLW),Landed 16:34,2021-05-11
+104,104,16:30 AI1324,,Delhi (DEL),Air India B788 (VT-ANK),Landed 15:42,2021-05-11
+105,105,17:00 CX3273,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-11
+106,106,17:15 SQ7864,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFQ),Landed 16:53,2021-05-11
+107,107,17:20 UL896,,Colombo (CMB),SriLankan Airlines A333 (4R-ALQ),Landed 16:47,2021-05-11
+108,108,17:25 PO7930,,Tokyo (NRT),Polar Air Cargo 77F,Unknown,2021-05-11
+109,109,17:26 AC7289,,Toronto (YYZ),Air Canada B77W (C-FNNU),Landed 16:41,2021-05-11
+110,110,17:35,CX391,Beijing (PEK),Cathay Pacific B77W (B-KQA),Landed 17:30,2021-05-11
+111,111,17:40 TG638,,Bangkok (BKK),Thai Airways 359,Unknown,2021-05-11
+112,112,18:05 CX93,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJK),Landed 17:34,2021-05-11
+113,113,18:10,LH8474,Bangkok (BKK),Lufthansa Cargo B77L (D-ALFA),Landed 17:50,2021-05-11
+114,114,18:15 ET3728,,Liege (LGG),Ethiopian Airlines 77X,Unknown,2021-05-11
+115,115,18:20,EK384,Bangkok (BKK),Emirates (Expo 2020 - Opportunity Livery) A388 (A6-EOV),Landed 17:38,2021-05-11
+116,116,18:25 ET3446,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-11
+117,117,18:25 KL819,,Bangkok (BKK),KLM B77W (PH-BVO),Landed 17:42,2021-05-11
+118,118,18:30 RH372,,Singapore (SIN),Hong Kong Air Cargo A332 (B-LNV),Landed 18:02,2021-05-11
+119,119,18:45 EK9824,,Manila (MNL),Emirates SkyCargo B77L (A6-EFS),Landed 21:17,2021-05-11
+120,120,18:55 SV3962,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-11
+121,121,19:00 CX734,,Singapore (SIN),Cathay Pacific A359 (B-LQA),Landed 18:15,2021-05-11
+122,122,19:00,CX654,Bangkok (BKK),Cathay Pacific A359 (B-LRO),Landed 18:37,2021-05-11
+123,123,19:00 QF83,,Cairns (CNS),Qantas A333 (VH-QPG),Landed 18:50,2021-05-11
+124,124,19:00 TUB107,,Dhaka (DAC),- 747,Unknown,2021-05-11
+125,125,19:05 SQ7364,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFK),Landed 17:52,2021-05-11
+126,126,19:15,CX589,Fukuoka (FUK),Cathay Pacific A333 (B-LAK),Landed 18:29,2021-05-11
+127,127,19:15 7L246,,Almaty (ALA),Silk Way West Airlines 74N,Unknown,2021-05-11
+128,128,19:20 C86731,,Dubai (DWC),Cargolux B744 (LX-YCV),Landed 18:18,2021-05-11
+129,129,19:25,TR980,Singapore (SIN),Scoot B789 (9V-OJG),Landed 19:11,2021-05-11
+130,130,19:35 QF7593,,Sydney (SYD),Qantas 74Y,Unknown,2021-05-11
+131,131,19:40 QR8792,,Doha (DOH),Qatar Airways 77X,Unknown,2021-05-11
+132,132,19:45 TG606,,Bangkok (BKK),Thai Airways A359 (HS-THN),Landed 19:07,2021-05-11
+133,133,19:51 HX619,,Osaka (KIX),Hong Kong Airlines A333 (B-LNP),Landed 19:52,2021-05-11
+134,134,20:05 CI923,,Taipei (TPE),China Airlines A333 (B-18308),Landed 19:15,2021-05-11
+135,135,20:15,CX198,Auckland (AKL),Cathay Pacific 351,Unknown,2021-05-11
+136,136,20:30 CX2091,,Anchorage (ANC),Cathay Pacific B744,Unknown,2021-05-11
+137,137,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18356),Landed 19:50,2021-05-11
+138,138,20:40 TK83,,Bangkok (BKK),Turkish Airlines B77W (TC-JJT),Landed 20:35,2021-05-11
+139,139,20:55,CX507,Osaka (KIX),Cathay Pacific A35K (B-LXA),Landed 20:15,2021-05-11
+140,140,21:00 CI5821,,Taipei (TPE),China Airlines Cargo B744 (B-18717),Landed 20:20,2021-05-11
+141,141,21:15 SV3972,,Dubai (DWC),Saudia Cargo B744 (TF-AMA),Unknown,2021-05-11
+142,142,21:20,CX521,Tokyo (NRT),Cathay Pacific A35K (B-LXB),Landed 19:27,2021-05-11
+143,143,21:25 CI927,,Taipei (TPE),China Airlines 738,Unknown,2021-05-11
+144,144,21:30,CX100,Sydney (SYD),Cathay Pacific B77W (B-KQR),Landed 21:22,2021-05-11
+145,145,22:00 CX979,,Xiamen (XMN),Cathay Pacific A333 (B-LAR),Landed 21:50,2021-05-11
+146,146,22:30 BH5419,,Dhaka (DAC),Bismillah Airlines 77X,Unknown,2021-05-11
+147,147,22:30,KE607,Seoul (ICN),Korean Air B789 (HL7208),Landed 21:48,2021-05-11
+148,148,22:30 RH9366,,Zhengzhou (CGO),Hong Kong Air Cargo A332 (B-LNW),Landed 21:31,2021-05-11
+149,149,22:30 RH9458,,Delhi (DEL),Hong Kong Air Cargo A332 (B-LNX),Landed 22:01,2021-05-11
+150,150,22:35 CX25,,Taipei (TPE),Cathay Pacific ABY,Unknown,2021-05-11
+151,151,22:50 O37163,,Nanchang (KHN),SF Airlines 73F,Unknown,2021-05-11
+152,152,22:55 CX742,,Hanoi (HAN),Cathay Pacific A333 (B-LAL),Landed 22:43,2021-05-11
+153,153,22:55,CX704,Bangkok (BKK),Cathay Pacific A359 (B-LRG),Landed 21:52,2021-05-11
+154,154,22:55 RH6652,,Dhaka (DAC),Hong Kong Air Cargo A332 (B-LNY),Landed 23:34,2021-05-11
+155,155,22:55 TK6790,,Almaty (ALA),Turkish Airlines 33F,Unknown,2021-05-11
+156,156,22:55 RH9496,,Almaty (ALA),Hong Kong Air Cargo A332 (B-LNZ),Landed 22:53,2021-05-11
+157,157,23:00,CX419,Seoul (ICN),Cathay Pacific 351,Unknown,2021-05-11
+158,158,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-11
+159,159,23:10 CX44,,Bengaluru (BLR),Cathay Pacific 74Y,Unknown,2021-05-11
+160,160,23:10 EK9822,,Manila (MNL),Emirates SkyCargo B77L (A6-EFL),Landed 01:38,2021-05-11
+161,161,23:15 CX22,,Melbourne (MEL),Cathay Pacific 74N,Unknown,2021-05-11
+162,162,23:15 CX3246,,Dhaka (DAC),Cathay Pacific Cargo B748 (B-LJA),Landed 21:43,2021-05-11
+163,163,23:20 PO98,,Leipzig (LEJ),Polar Air Cargo 77F,Unknown,2021-05-11
+164,164,23:35 CX2015,,Taipei (TPE),Cathay Pacific Cargo B744 (B-LIF),Landed 23:57,2021-05-11
+165,165,23:55,CX926,Cebu (CEB),Cathay Pacific A35K (B-LXO),Landed 22:55,2021-05-11
+0,0,00:10 CI921,,Taipei (TPE),China Airlines A333 (B-18352),Landed 21:36,2021-05-12
+1,1,00:15,TW193,Jeju (CJU),T'way Air 737,Canceled,2021-05-12
+2,2,00:25 OZ969,,Seoul (ICN),Asiana Cargo B744 (HL7415),Landed 04:42,2021-05-12
+3,3,00:25 LD681,,Taipei (TPE),DHL A306 (B-LDF),Landed 23:46,2021-05-12
+4,4,00:30 CI5835,,Taipei (TPE),China Airlines 77X,Unknown,2021-05-12
+5,5,00:30 CI613,,Taipei (TPE),China Airlines A333 (B-18310),Landed 00:23,2021-05-12
+6,6,00:45 LD129,,Seoul (ICN),DHL A306 (B-LDE),Landed 00:07,2021-05-12
+7,7,00:50 CX35,,Seoul (ICN),Cathay Pacific Cargo B748 (B-LJB),Landed 00:18,2021-05-12
+8,8,00:50 LD456,,Manila (MNL),DHL A306 (B-LDH),Landed 00:13,2021-05-12
+9,9,00:55 KZ203,,Tokyo (NRT),Nippon Cargo Airlines B748 (JA11KZ),Landed 00:32,2021-05-12
+10,10,01:05 LD205,,Osaka (KIX),DHL A306 (B-LDD),Landed 00:29,2021-05-12
+11,11,01:05 NH8511,,Tokyo (NRT),ANA Cargo B763 (JA605F),Landed 00:27,2021-05-12
+12,12,01:05 TH3507,,Kuala Lumpur (SZB),Raya Airways B762 (9M-RXB),Landed 01:23,2021-05-12
+13,13,01:20 BR6537,,Taipei (TPE),Eva Air Cargo B77L (B-16782),Landed 00:40,2021-05-12
+14,14,01:20 LD217,,Nagoya (NGO),DHL A306 (B-LDG),Landed 00:30,2021-05-12
+15,15,01:20 LD562,,Ho Chi Minh City (SGN),DHL A306 (B-LDA),Landed 01:41,2021-05-12
+16,16,01:20 LD783,,Shanghai (PVG),DHL A332 (B-LDS),Landed 03:59,2021-05-12
+17,17,01:25 LD209,,Tokyo (NRT),DHL A333 (B-LDR),Landed 00:54,2021-05-12
+18,18,01:25 LD326,,Singapore (SIN),DHL A333 (B-LDQ),Landed 01:20,2021-05-12
+19,19,01:25 LD842,,Bangkok (BKK),DHL A333 (B-LDT),Landed 01:17,2021-05-12
+20,20,01:25 KE313,,Seoul (ICN),Korean Air Cargo B748 (HL7639),Landed 00:43,2021-05-12
+21,21,01:25 LD832,,Bangkok (BKK),Air Hong Kong ABY,Unknown,2021-05-12
+22,22,01:30 RH318,,Hanoi (HAN),Hong Kong Air Cargo A332 (B-LNV),Landed 00:58,2021-05-12
+23,23,01:30 8K525,,Hanoi (HAN),K-Mile Air B734 (HS-KMC),Landed 01:14,2021-05-12
+24,24,01:50 PO7681,,Seoul (ICN),DHL B77L (N705GT),Unknown,2021-05-12
+25,25,02:00 CX2046,,Delhi (DEL),Cathay Pacific Cargo B748 (B-LJG),Landed 01:27,2021-05-12
+26,26,02:00 Y87915,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-12
+27,27,02:40 CX3122,,Toowoomba (WTB),Cathay Pacific Cargo B748 (B-LJI),Landed 08:52,2021-05-12
+28,28,02:45 SG7010,,Kolkata (CCU),SpiceXpress B737 (VT-SFB),Landed 09:58,2021-05-12
+29,29,02:55 AM9028,,Seoul (ICN),Aeromexico B789 (XA-ADC),Landed 02:10,2021-05-12
+30,30,03:00 FJ1391,,Nadi (NAN),Fiji Airways A333 (DQ-FJW),Landed 02:54,2021-05-12
+31,31,03:00 Y87433,,Chengdu (CTU),Suparna Airlines 73F,Unknown,2021-05-12
+32,32,03:05 LD769,,Beijing (PEK),DHL A306 (B-LDN),Landed 06:58,2021-05-12
+33,33,03:10 CX99,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJN),Unknown,2021-05-12
+34,34,03:20 CX99,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJN),Landed 23:00,2021-05-12
+35,35,04:00 RU239,,Moscow (SVO),AirBridgeCargo B748 (VP-BJS),Landed 04:11,2021-05-12
+36,36,04:00 PO7970,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-12
+37,37,04:00 Y87417,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-12
+38,38,04:00 O37209,,Changsha (CSX),SF Airlines 73F,Unknown,2021-05-12
+39,39,04:10 QR8402,,Doha (DOH),Qatar Cargo B77L (A7-BFO),Landed 03:43,2021-05-12
+40,40,04:30 Y87917,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-12
+41,41,04:40 QF29,,Melbourne (MEL),Qantas B789 (VH-ZNG),Landed 03:35,2021-05-12
+42,42,04:40 RU231,,Yekaterinburg (SVX),AirBridgeCargo B748 (VQ-BFU),Landed 19:43,2021-05-12
+43,43,05:00 CX829,,Toronto (YYZ),Cathay Pacific A35K (B-LXM),Landed 04:14,2021-05-12
+44,44,05:30 RH320,,Ho Chi Minh City (SGN),Hong Kong Air Cargo A332 (B-LNZ),Unknown,2021-05-12
+45,45,06:00 CX2083,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJD),Landed 05:44,2021-05-12
+46,46,06:05 CA8425,,Shanghai (PVG),Air China 74Y,Unknown,2021-05-12
+47,47,06:05,CX798,Jakarta (CGK),Cathay Pacific A359 (B-LRM),Landed 05:22,2021-05-12
+48,48,06:15,LX138,Zurich (ZRH),Swiss B77W (HB-JNA),Landed 05:58,2021-05-12
+49,49,06:45,CX881,Los Angeles (LAX),Cathay Pacific A35K (B-LXL),Landed 06:24,2021-05-12
+50,50,06:50,CX288,Frankfurt (FRA),Cathay Pacific A35K (B-LXD),Landed 06:28,2021-05-12
+51,51,06:50 CX252,,London (LHR),Cathay Pacific 351,Canceled,2021-05-12
+52,52,07:00 BH5411,,Dhaka (DAC),Bismillah Airlines 77F,Unknown,2021-05-12
+53,53,07:10,NZ81,Auckland (AKL),Air New Zealand B789 (ZK-NZI),Landed 07:09,2021-05-12
+54,54,07:10 SV984,,Riyadh (RUH),Saudia Cargo B77L (HZ-AK72),Landed 06:20,2021-05-12
+55,55,07:10 SV6801,,Jeddah (JED),Saudia 77F,Unknown,2021-05-12
+56,56,07:10 SV3966,,Riyadh (RUH),Saudia 77F,Unknown,2021-05-12
+57,57,07:15 OZ951,,Hanoi (HAN),Asiana Cargo B744 (HL7413),Unknown,2021-05-12
+58,58,07:15 OZ952,,Hanoi (HAN),Asiana Cargo B744 (HL7413),Landed 06:47,2021-05-12
+59,59,07:25 CV6322,,Bangkok (BKK),Cargolux B748 (LX-VCI),Landed 07:32,2021-05-12
+60,60,07:25 CV7322,,Bangkok (BKK),Cargolux 74Y,Unknown,2021-05-12
+61,61,07:25 O36891,,Ningbo (NGB),SF Airlines 73F,Unknown,2021-05-12
+62,62,07:30,CX170,Perth (PER),Cathay Pacific A35K (B-LXE),Landed 06:49,2021-05-12
+63,63,07:30 CX3253,,Shanghai (PVG),Cathay Pacific Cargo B744 (B-LID),Landed 07:41,2021-05-12
+64,64,07:40 RH4569,,Taipei (TPE),Hong Kong Air Cargo A332 (B-LNY),Landed 07:29,2021-05-12
+65,65,07:50 CX3261,,Chengdu (CTU),Cathay Pacific 74Y,Unknown,2021-05-12
+66,66,07:51 HX782,,Manila (MNL),Hong Kong Airlines A333 (B-LNM),Landed 07:26,2021-05-12
+67,67,07:55 CV7333,,Bangkok (BKK),Cargolux 74Y,Unknown,2021-05-12
+68,68,07:55 HX2748,,Kuala Lumpur (KUL),Hong Kong Airlines A333 (B-LNN),Landed 07:06,2021-05-12
+69,69,08:00 ET3716,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-12
+70,70,08:00 Y87907,,Shanghai (PVG),Suparna Airlines 73F,Unknown,2021-05-12
+71,71,08:15 EK9216,,Bangkok (BKK),Emirates SkyCargo B77L (A6-EFO),Landed 07:20,2021-05-12
+72,72,08:20 CX2078,,Dubai (DWC),Cathay Pacific Cargo B744 (B-LIE),Landed 06:59,2021-05-12
+73,73,08:35 CX3239,,Shanghai (PVG),Cathay Pacific Cargo B748 (B-LJN),Landed 09:41,2021-05-12
+74,74,08:45 PO959,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-12
+75,75,08:45 5S5411,,Dhaka (DAC),- 74Y,Unknown,2021-05-12
+76,76,09:05 RH9236,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNX),Landed 09:31,2021-05-12
+77,77,09:35 RH830,,Shanghai (PVG),Hong Kong Air Cargo A332 (B-LNV),Landed 11:38,2021-05-12
+78,78,10:05 CI903,,Taipei (TPE),China Airlines A333 (B-18356),Landed 09:34,2021-05-12
+79,79,10:10 CX676,,Tel Aviv (TLV),Cathay Pacific A35K (B-LXJ),Landed 10:04,2021-05-12
+80,80,10:55 QR8408,,Osaka (KIX),Qatar Cargo B77L (A7-BFW),Landed 10:29,2021-05-12
+81,81,11:00 CX51,,Zhengzhou (CGO),Cathay Pacific 74N,Unknown,2021-05-12
+82,82,11:15 BA31,,London (LHR),British Airways B77W (G-STBF),Landed 10:58,2021-05-12
+83,83,11:35 LD3356,,Manila (MNL),DHL A306 (B-LDG),Landed 10:24,2021-05-12
+84,84,11:45 5C851,,Tel Aviv (TLV),CAL Cargo Airlines B744 (4X-ICB),Landed 23:29,2021-05-12
+85,85,12:00 AA9744,,Tokyo (NRT),American Airlines B77W (N736AT),Landed 12:20,2021-05-12
+86,86,12:08 PO947,,Anchorage (ANC),DHL B748 (N853GT),Landed 12:11,2021-05-12
+87,87,12:10,BR867,Taipei (TPE),EVA Air B789 (B-17883),Landed 11:50,2021-05-12
+88,88,12:25 EY9857,,Abu Dhabi (AUH),Etihad Cargo B77L (A6-DDF),Landed 12:49,2021-05-12
+89,89,12:30 CK263,,Shanghai (PVG),China Cargo Airlines B77L (B-2082),Landed 17:47,2021-05-12
+90,90,12:40,SQ882,Singapore (SIN),Singapore Airlines A359 (9V-SMB),Landed 12:05,2021-05-12
+91,91,12:50 CA1067,,Shanghai (PVG),Air China Cargo B77L (B-2094),Landed 04:21,2021-05-12
+92,92,12:55 CI909,,Taipei (TPE),China Airlines A333 (B-18355),Landed 12:33,2021-05-12
+93,93,13:00 LD392,,Penang (PEN),DHL A306 (B-LDD),Landed 12:46,2021-05-12
+94,94,13:05,CA111,Beijing (PEK),Air China A333 (B-5919),Landed 13:01,2021-05-12
+95,95,13:05 NH8547,,Osaka (KIX),All Nippon Airways B788 (JA840A),Landed 11:58,2021-05-12
+96,96,13:15 VS238,,London (LHR),Virgin Atlantic B789 (G-VDIA),Landed 12:56,2021-05-12
+97,97,13:25 UA2829,,Tokyo (NRT),United Airlines B77W (N2639U),Landed 12:43,2021-05-12
+98,98,13:40 CX906,,Manila (MNL),Cathay Pacific A359 (B-LRK),Landed 12:41,2021-05-12
+99,99,13:43 5X62,,Anchorage (ANC),UPS Airlines B748 (N623UP),Landed 13:26,2021-05-12
+100,100,13:45 UA2853,,Tokyo (NRT),United Airlines B77W (N2341U),Landed 13:10,2021-05-12
+101,101,13:45,JL29,Tokyo (NRT),Japan Airlines B789 (JA874J),Landed 13:23,2021-05-12
+102,102,13:50 RH332,,Bangkok (BKK),Hong Kong Air Cargo A332 (B-LNW),Landed 13:03,2021-05-12
+103,103,13:55 LD3526,,Singapore (SIN),DHL A333 (B-LDQ),Landed 12:58,2021-05-12
+104,104,14:00 6E9148,,Kolkata (CCU),IndiGo A320 (VT-IFR),Landed 17:35,2021-05-12
+105,105,14:10 SV3972,,Dubai (DWC),Saudia Cargo B744 (TF-AMA),Landed 15:32,2021-05-12
+106,106,14:22 5X58,,Honolulu (HNL),UPS B748 (N609UP),Landed 14:14,2021-05-12
+107,107,14:30 UA2778,,Tokyo (NRT),United Airlines B77W (N2250U),Landed 13:59,2021-05-12
+108,108,14:45 PO237,,Seoul (ICN),Polar Air Cargo 74Y,Unknown,2021-05-12
+109,109,14:50 SQ7972,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFI),Landed 14:57,2021-05-12
+110,110,14:55 CX5,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJA),Landed 13:57,2021-05-12
+111,111,14:55 NH8541,,Tokyo (NRT),ANA Cargo B763 (JA603A),Landed 13:33,2021-05-12
+112,112,15:00 EK9882,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFH),Landed 08:32,2021-05-12
+113,113,15:05,CX766,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRN),Landed 14:17,2021-05-12
+114,114,15:15,CX930,Manila (MNL),Cathay Pacific 359,Unknown,2021-05-12
+115,115,16:00,QR818,Doha (DOH),Qatar Airways A359 (A7-ALU),Landed 14:49,2021-05-12
+116,116,16:05 ET3728,,Seoul (ICN),Ethiopian Airlines 77X,Unknown,2021-05-12
+117,117,16:15 CX367,,Shanghai (PVG),Cathay Pacific A333 (B-LAR),Unknown,2021-05-12
+118,118,16:25 EK9832,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFS),Landed 22:10,2021-05-12
+119,119,16:30 AI1324,,Delhi (DEL),Air India B788 (VT-ANM),Landed 15:48,2021-05-12
+120,120,16:50 QF7531,,Darwin (DRW),Qantas Freight B763 (VH-EFR),Landed 17:44,2021-05-12
+121,121,16:55,CX987,Chengdu (CTU),Cathay Pacific A333 (B-LBC),Unknown,2021-05-12
+122,122,17:00 PO275,,Bahrain (BAH),Polar Air Cargo 77F,Unknown,2021-05-12
+123,123,17:10,AC7,Vancouver (YVR),Air Canada B789 (C-FSBV),Unknown,2021-05-12
+124,124,17:20 CX467,,Taipei (TPE),Cathay Pacific A35K (B-LXB),Unknown,2021-05-12
+125,125,17:20 UL896,,Colombo (CMB),SriLankan Airlines A333 (4R-ALR),Landed 16:51,2021-05-12
+126,126,17:35,CX391,Beijing (PEK),Cathay Pacific B77W (B-KPX),Unknown,2021-05-12
+127,127,17:40 TG638,,Bangkok (BKK),Thai Airways 359,Canceled,2021-05-12
+128,128,17:45 CV7342,,Seoul (ICN),Cargolux B744 (LX-OCV),Landed 18:52,2021-05-12
+129,129,18:05 CX254,,London (LHR),Cathay Pacific A35K (B-LXK),Unknown,2021-05-12
+130,130,18:05 SQ7862,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFO),Landed 19:52,2021-05-12
+131,131,18:15 ET608,,Bangkok (BKK),Ethiopian Airlines B788 (ET-ASG),Landed 16:48,2021-05-12
+132,132,18:20,EK384,Bangkok (BKK),Emirates A388 (A6-EUD),Landed 17:41,2021-05-12
+133,133,18:25 KL819,,Bangkok (BKK),KLM B789 (PH-BHM),Landed 17:30,2021-05-12
+134,134,18:30 CI6843,,Taipei (TPE),China Airlines Cargo B744 (B-18707),Landed 18:23,2021-05-12
+135,135,18:30 RH372,,Singapore (SIN),Hong Kong Air Cargo A332 (B-LNZ),Landed 18:32,2021-05-12
+136,136,18:35 QR8466,,Doha (DOH),Qatar Cargo B77L (A7-BFV),Landed 18:15,2021-05-12
+137,137,18:45 CV7013,,Seoul (ICN),Cargolux 74Y,Unknown,2021-05-12
+138,138,18:45 SQ7988,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-05-12
+139,139,19:00,CX654,Bangkok (BKK),Cathay Pacific A359 (B-LRQ),Landed 18:25,2021-05-12
+140,140,19:25,TR980,Singapore (SIN),Scoot B789 (9V-OJB),Landed 19:20,2021-05-12
+141,141,19:30 BG78,,Dhaka (DAC),Biman Bangladesh Airlines 773,Unknown,2021-05-12
+142,142,19:35,PX8,Port Moresby (POM),Air Niugini B763 (P2-PXV),Landed 19:15,2021-05-12
+143,143,20:00 HX6635,,Sapporo (CTS),Hong Kong Airlines A333 (B-LNP),Unknown,2021-05-12
+144,144,20:05 CI923,,Taipei (TPE),China Airlines A333 (B-18301),Landed 19:35,2021-05-12
+145,145,20:05 CV8562,,Dubai (DWC),Cargolux 74F,Unknown,2021-05-12
+146,146,20:15 CX918,,Manila (MNL),Cathay Pacific A35K (B-LXL),Landed 19:29,2021-05-12
+147,147,20:35 CI607,,Taipei (TPE),China Airlines A333 (B-18316),Landed 20:14,2021-05-12
+148,148,20:50 RH352,,Manila (MNL),Hong Kong Air Cargo A332 (B-LNW),Landed 20:25,2021-05-12
+149,149,20:55,CX507,Osaka (KIX),Cathay Pacific A359 (B-LRG),Landed 20:35,2021-05-12
+150,150,20:55,LH8472,Bangkok (BKK),Lufthansa Cargo B77L (D-ALFH),Landed 20:20,2021-05-12
+151,151,21:00 HX693,,Sapporo (CTS),Hong Kong Airlines A333 (B-LNN),Unknown,2021-05-12
+152,152,21:05 CX2074,,Penang (PEN),Cathay Pacific Cargo B744 (B-LIF),Landed 21:24,2021-05-12
+153,153,21:20,CX521,Tokyo (NRT),Cathay Pacific A35K (B-LXM),Landed 19:48,2021-05-12
+154,154,21:25 CI927,,Taipei (TPE),China Airlines 738,Canceled,2021-05-12
+155,155,21:35 CI5831,,Taipei (TPE),China Airlines Cargo B744 (B-18712),Landed 20:00,2021-05-12
+156,156,21:55 CX724,,Kuala Lumpur (KUL),Cathay Pacific A333 (B-LAM),Landed 21:21,2021-05-12
+157,157,22:00 CX979,,Xiamen (XMN),Cathay Pacific B77W (B-KQA),Landed 21:54,2021-05-12
+158,158,22:00 CX3242,,Jakarta (CGK),Cathay Pacific 74Y,Unknown,2021-05-12
+159,159,22:40,CX764,Ho Chi Minh City (SGN),Cathay Pacific A359 (B-LRU),Landed 22:16,2021-05-12
+160,160,22:50 O37163,,Nanchang (KHN),SF Airlines 73F,Unknown,2021-05-12
+161,161,22:55,CX704,Bangkok (BKK),Cathay Pacific A35K (B-LXA),Landed 21:39,2021-05-12
+162,162,22:55 RH9072,,Dhaka (DAC),Hong Kong Air Cargo A332 (B-LNW),Landed 07:15,2021-05-12
+163,163,23:00,CX419,Seoul (ICN),Cathay Pacific A35K (B-LXJ),Landed 22:01,2021-05-12
+164,164,23:00,TW117,Seoul (ICN),T'way Air 737,Canceled,2021-05-12
+165,165,23:05 CX479,,Taipei (TPE),Cathay Pacific A35K (B-LXO),Landed 22:38,2021-05-12
+166,166,23:20 CX2048,,Hanoi (HAN),Cathay Pacific 74Y,Unknown,2021-05-12
+167,167,23:20 PO98,,Leipzig (LEJ),Polar Air Cargo 77F,Unknown,2021-05-12
+168,168,23:30 EK9884,,Dubai (DXB),Emirates SkyCargo B77L (A6-EFO),Landed 03:18,2021-05-12
+169,169,23:40 CX81,,Anchorage (ANC),Cathay Pacific Cargo B748 (B-LJF),Landed 22:13,2021-05-12
+170,170,23:50 RH9376,,Chennai (MAA),Hong Kong Air Cargo A332 (B-LNX),Landed 23:20,2021-05-12
+171,171,23:55 CX2035,,Taipei (TPE),Cathay Pacific Cargo B748 (B-LJB),Landed 23:59,2021-05-12
