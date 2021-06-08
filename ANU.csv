@@ -60,3 +60,369 @@
 11,11,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-12
 12,12,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-12
 13,13,19:20 BA2156,,San Juan (SJU),British Airways B772 (G-YMMC),Landed 19:38,2021-05-12
+0,0,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-13
+1,1,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-13
+2,2,11:23 TJ513,,St. Jean (SBH),Tradewind Aviation PL2,Unknown,2021-05-13
+3,3,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-13
+4,4,12:01 AA978,,New York (JFK),American Airlines A319 (N9029F),Landed 11:38,2021-05-13
+5,5,13:07 B6743,,New York (JFK),JetBlue Airways (JetBlue Vacations Livery) A320 (N603JB),Landed 13:05,2021-05-13
+6,6,13:55,AA2405,Miami (MIA),American Airlines A321 (N929AA),Landed 14:33,2021-05-13
+7,7,14:28 WIG8109,,San Juan (SJU),FedEx C208 (N967FE),Landed 14:27,2021-05-13
+8,8,15:55 LI353,,Basseterre (SKB),LIAT AT46 (V2-LIF),Landed 15:37,2021-05-13
+9,9,16:23 TJ701,,St. Jean (SBH),Tradewind Aviation PC12 (N668TW),Landed 16:02,2021-05-13
+10,10,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-13
+11,11,17:10 JY633,,Beef Island (EIS),InterCaribbean Airways E120 (VQ-TPG),Landed 17:43,2021-05-13
+12,12,18:08 TJ502,,St. Jean (SBH),Tradewind Aviation PL2,Unknown,2021-05-13
+13,13,18:35 LI354,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 18:10,2021-05-13
+14,14,19:20,,Beef Island (EIS),- BN2P,Canceled,2021-05-13
+0,0,08:55,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 08:49,2021-05-14
+1,1,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-14
+2,2,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-14
+3,3,11:35 LI392,,Sint Maarten (SXM),LIAT AT46 (V2-LIF),Landed 11:29,2021-05-14
+4,4,11:35 WM316,,Dominica (DOM),Winair DHC6 (PJ-WIQ),Landed 11:01,2021-05-14
+5,5,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-14
+6,6,12:01 AA978,,New York (JFK),American Airlines A319 (N9026C),Landed 12:06,2021-05-14
+7,7,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-14
+8,8,13:21 B6743,,New York (JFK),JetBlue Airways A321 (N991JT),Landed 13:20,2021-05-14
+9,9,13:50 A86907,,Sint Maarten (SXM),Ameriflight BE99,Unknown,2021-05-14
+10,10,14:03 WIG8109,,San Juan (SJU),FedEx C208 (N967FE),Landed 14:03,2021-05-14
+11,11,16:23 TJ701,,St. Jean (SBH),Tradewind Aviation PL2,Unknown,2021-05-14
+12,12,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-14
+13,13,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-14
+14,14,18:45 LI393,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 19:30,2021-05-14
+15,15,18:55,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 17:34,2021-05-14
+16,16,20:45 BV1540,,Santo Domingo (SDQ),Blue Panorama Airlines 330,Unknown,2021-05-14
+0,0,8:10 AM,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 8:21 AM,2021-05-15
+1,1,8:20 AM M68611,,Miami (MIA),Amerijet International DC85,Unknown,2021-05-15
+2,2,9:15 AM JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-15
+3,3,9:20 AM 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-15
+4,4,11:30 AM LI348,,Bridgetown (BGI),LIAT AT46 (V2-LIF),Landed 11:12 AM,2021-05-15
+5,5,11:50 AM 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-15
+6,6,12:01 PM AA978,,New York (JFK),American Airlines A319 (N5007E),Landed 11:45 AM,2021-05-15
+7,7,12:54 PM DL1990,,New York (JFK),Delta Air Lines B739 (N884DN),Landed 12:31 PM,2021-05-15
+8,8,1:00 PM 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-15
+9,9,1:40 PM,,Teterboro (TEB),- F900 (C-FXXU),Landed 2:00 PM,2021-05-15
+10,10,1:47 PM AA2082,,Charlotte (CLT),American Airlines A319 (N702UW),Landed 1:48 PM,2021-05-15
+11,11,1:55 PM,AA2405,Miami (MIA),American Airlines A321 (N158AN),Landed 1:43 PM,2021-05-15
+12,12,1:58 PM DL1977,,Atlanta (ATL),Delta Air Lines B739 (N904DN),Landed 1:25 PM,2021-05-15
+13,13,2:00 PM BA2157,,London (LGW),British Airways B772 (G-YMMF),Landed 2:05 PM,2021-05-15
+14,14,3:19 PM,,Beef Island (EIS),- PA27 (N40267),Unknown,2021-05-15
+15,15,3:30 PM PV341,,St. Jean (SBH),St Barth Commuter CNC,Unknown,2021-05-15
+16,16,3:50 PM LI351,,Sint Maarten (SXM),LIAT AT46 (V2-LIF),Landed 3:33 PM,2021-05-15
+17,17,4:23 PM TJ701,,St. Jean (SBH),Tradewind Aviation PL2,Unknown,2021-05-15
+18,18,4:30 PM PV351,,St. Jean (SBH),St Barth Commuter CNC,Unknown,2021-05-15
+19,19,4:50 PM 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-15
+20,20,5:30 PM JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-15
+21,21,6:55 PM,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 6:21 PM,2021-05-15
+22,22,7:20 PM BA2156,,San Juan (SJU),British Airways B772 (G-YMMF),Landed 7:08 PM,2021-05-15
+0,0,09:05,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 08:57,2021-05-17
+1,1,09:10 WM311,,Sint Maarten (SXM),Winair DHC6 (PJ-WII),Landed 08:51,2021-05-17
+2,2,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-17
+3,3,11:45 WM316,,Dominica (DOM),Winair DHC6 (PJ-WIQ),Landed 11:05,2021-05-17
+4,4,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-17
+5,5,12:01 AA978,,New York (JFK),American Airlines A319 (N3014R),Landed 11:43,2021-05-17
+6,6,13:50 A86907,,Sint Maarten (SXM),Ameriflight BE99 (N990AF),Landed 13:31,2021-05-17
+7,7,13:53 WIG8109,,San Juan (SJU),FedEx C208 (N967FE),Landed 13:51,2021-05-17
+8,8,13:55,AA2405,Miami (MIA),American Airlines A321 (N901AA),Landed 13:55,2021-05-17
+9,9,15:20 LI332,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 14:49,2021-05-17
+10,10,16:23 TJ701,,St. Jean (SBH),Tradewind Aviation PL2,Unknown,2021-05-17
+11,11,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-17
+12,12,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-17
+13,13,18:55,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 18:19,2021-05-17
+14,14,19:40 LI335,,Beef Island (EIS),LIAT AT46 (V2-LIF),Landed 18:39,2021-05-17
+0,0,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-18
+1,1,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-18
+2,2,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-18
+3,3,12:01 AA978,,New York (JFK),American Airlines A319 (N4005X),Landed 11:40,2021-05-18
+4,4,12:56 B6743,,New York (JFK),JetBlue Airways A320 (N564JB),Landed 12:38,2021-05-18
+5,5,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-18
+6,6,13:55,AA2405,Miami (MIA),American Airlines A321 (N994AN),Landed 13:50,2021-05-18
+7,7,14:00,BA2157,London (LGW),British Airways B772 (G-VIIU),Landed 14:16,2021-05-18
+8,8,14:20 EJM117,,North Eleuthera (ELH),Private owner GLF5 (N703RK),Unknown,2021-05-18
+9,9,14:36 WIG8109,,San Juan (SJU),FedEx C208 (N881FE),Landed 14:34,2021-05-18
+10,10,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-18
+11,11,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-18
+0,0,08:05 M68333,,Miami (MIA),Titan Airways A321 (G-DHJH),Landed 07:45,2021-05-19
+1,1,08:20 M6837,,Miami (MIA),Amerijet International DC85,Unknown,2021-05-19
+2,2,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-19
+3,3,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-19
+4,4,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-19
+5,5,13:49 A86907,,Sint Maarten (SXM),Ameriflight BE99 (N990AF),Landed 13:36,2021-05-19
+6,6,13:55,AA2405,Miami (MIA),American Airlines A321 (N159AN),Landed 14:38,2021-05-19
+7,7,14:24 WIG8109,,San Juan (SJU),FedEx C208 (N881FE),Landed 14:09,2021-05-19
+8,8,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-19
+9,9,16:54,,Eagle (EGE),- C68A (N547QS),Canceled,2021-05-19
+10,10,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-19
+11,11,18:13,,Beef Island (EIS),- PA27 (N13987),Unknown,2021-05-19
+0,0,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-20
+1,1,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-20
+2,2,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-20
+3,3,12:01 AA978,,New York (JFK),American Airlines A319 (N9021H),Landed 11:42,2021-05-20
+4,4,13:07 B6743,,New York (JFK),JetBlue Airways A320 (N665JB),Unknown,2021-05-20
+5,5,13:55,AA2405,Miami (MIA),American Airlines A321 (N152AA),Landed 14:40,2021-05-20
+6,6,14:00,BA2157,London (LGW),British Airways B772 (G-VIIO),Landed 14:21,2021-05-20
+7,7,14:23 WIG8109,,San Juan (SJU),FedEx C208 (N881FE),Unknown,2021-05-20
+8,8,15:55 LI353,,Basseterre (SKB),LIAT AT46 (V2-LIF),Landed 15:27,2021-05-20
+9,9,16:19 WIG8109,,San Juan (SJU),FedEx C208 (N881FE),Landed 16:15,2021-05-20
+10,10,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-20
+11,11,17:10 JY633,,Beef Island (EIS),InterCaribbean Airways E120 (VQ-TEG),Landed 20:52,2021-05-20
+12,12,18:35 LI354,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 18:09,2021-05-20
+0,0,08:55,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 08:42,2021-05-21
+1,1,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-21
+2,2,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-21
+3,3,11:35 LI392,,Sint Maarten (SXM),LIAT AT46 (V2-LIF),Landed 11:37,2021-05-21
+4,4,11:35 WM316,,Dominica (DOM),Winair DHC6 (PJ-WIQ),Landed 11:10,2021-05-21
+5,5,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-21
+6,6,12:01 AA978,,New York (JFK),American Airlines A319 (N9025B),Landed 12:09,2021-05-21
+7,7,12:11 WIG8109,,San Juan (SJU),FedEx C208 (N881FE),Landed 14:08,2021-05-21
+8,8,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-21
+9,9,13:21 B6743,,New York (JFK),JetBlue Airways A321 (N970JB),Landed 13:57,2021-05-21
+10,10,13:51 A86907,,Sint Maarten (SXM),Ameriflight BE99 (N990AF),Landed 13:48,2021-05-21
+11,11,13:55,AA2405,Miami (MIA),American Airlines A321 (N151AN),Landed 14:40,2021-05-21
+12,12,16:38 TJ701,,St. Jean (SBH),Tradewind Aviation PC12 (N668TW),Landed 16:16,2021-05-21
+13,13,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-21
+14,14,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-21
+15,15,18:45 LI393,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 18:44,2021-05-21
+16,16,18:55,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 18:33,2021-05-21
+17,17,20:45 BV1540,,Santo Domingo (SDQ),Blue Panorama Airlines 330,Unknown,2021-05-21
+0,0,08:10,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 08:01,2021-05-22
+1,1,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-22
+2,2,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-22
+3,3,11:30 LI348,,Bridgetown (BGI),LIAT AT46 (V2-LID),Landed 11:12,2021-05-22
+4,4,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-22
+5,5,12:01 AA978,,New York (JFK),American Airlines A319 (N9026C),Landed 12:28,2021-05-22
+6,6,12:54 DL1990,,New York (JFK),Delta Air Lines B739 (N898DN),Landed 12:19,2021-05-22
+7,7,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-22
+8,8,13:47 AA2082,,Charlotte (CLT),American Airlines A319 (N717UW),Landed 13:38,2021-05-22
+9,9,13:55,AA2405,Miami (MIA),American Airlines A321 (N989AU),Landed 13:44,2021-05-22
+10,10,13:58 DL1977,,Atlanta (ATL),Delta Air Lines B739 (N829DN),Landed 13:50,2021-05-22
+11,11,14:00,BA2157,London (LGW),British Airways B772 (G-VIIP),Landed 14:11,2021-05-22
+12,12,15:30 PV341,,St. Jean (SBH),St Barth Commuter CNC,Unknown,2021-05-22
+13,13,15:50 LI351,,Sint Maarten (SXM),LIAT AT46 (V2-LID),Landed 15:35,2021-05-22
+14,14,16:30 PV351,,St. Jean (SBH),St Barth Commuter CNC,Unknown,2021-05-22
+15,15,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-22
+16,16,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-22
+17,17,18:35 LI354,,Dominica (DOM),LIAT AT46 (V2-LID),Landed 17:29,2021-05-22
+18,18,18:55,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 18:31,2021-05-22
+0,0,09:05,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 09:03,2021-05-23
+1,1,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-23
+2,2,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-23
+3,3,10:32,,Beef Island (EIS),- PA27 (N13987),Unknown,2021-05-23
+4,4,11:35 LI311,,Beef Island (EIS),LIAT AT46 (V2-LID),Landed 11:05,2021-05-23
+5,5,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-23
+6,6,12:01 AA978,,New York (JFK),American Airlines A319 (N9026C),Landed 12:02,2021-05-23
+7,7,12:50 BW459,,Kingston (KIN),Caribbean Airlines B738 (9Y-MBJ),Landed 12:37,2021-05-23
+8,8,12:56 B6743,,New York (JFK),JetBlue Airways A320 (N564JB),Landed 13:07,2021-05-23
+9,9,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-23
+10,10,13:55,AA2405,Miami (MIA),American Airlines A321 (N145AN),Landed 13:59,2021-05-23
+11,11,16:38 TJ701,,St. Jean (SBH),Tradewind Aviation PC12 (N590TW),Unknown,2021-05-23
+12,12,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-23
+13,13,17:25 BW458,,Bridgetown (BGI),Caribbean Airlines B738 (9Y-MBJ),Landed 17:25,2021-05-23
+14,14,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-23
+15,15,18:55,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WII),Landed 17:12,2021-05-23
+16,16,19:25 LI312,,Basseterre (SKB),LIAT AT46 (V2-LIF),Landed 19:18,2021-05-23
+0,0,09:05,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIU),Diverted to DOM,2021-05-24
+1,1,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-24
+2,2,11:45 WM316,,Dominica (DOM),Winair DHC6 (PJ-WIU),Landed 11:31,2021-05-24
+3,3,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-24
+4,4,12:01 AA978,,New York (JFK),American Airlines A319 (N8001N),Landed 11:41,2021-05-24
+5,5,12:46,,Teterboro (TEB),- E35L,Canceled,2021-05-24
+6,6,13:55,AA2405,Miami (MIA),American Airlines A321 (N900UW),Landed 13:45,2021-05-24
+7,7,15:20 LI332,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 14:52,2021-05-24
+8,8,16:08 TJ523,,St. Jean (SBH),Tradewind Aviation PC12 (N523TW),Diverted to SJU,2021-05-24
+9,9,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-24
+10,10,17:07 TJ668,,St. Jean (SBH),Tradewind Aviation PC12 (N668TW),Landed 17:06,2021-05-24
+11,11,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-24
+12,12,18:55,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WII),Landed 17:21,2021-05-24
+13,13,19:40 LI335,,Beef Island (EIS),LIAT AT46 (V2-LIF),Landed 19:06,2021-05-24
+0,0,08:05 M68333,,Miami (MIA),Titan Airways A321 (G-DHJH),Landed 07:41,2021-05-26
+1,1,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-26
+2,2,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-26
+3,3,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-26
+4,4,13:55,AA2405,Miami (MIA),American Airlines A321 (N127AA),Landed 13:48,2021-05-26
+5,5,14:23 WIG8109,,San Juan (SJU),FedEx C208 (N878FE),Landed 14:13,2021-05-26
+6,6,15:31 A86907,,San Juan (SJU),Ameriflight BE99 (N990AF),Landed 15:13,2021-05-26
+7,7,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-26
+8,8,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-26
+0,0,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-27
+1,1,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-27
+2,2,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-27
+3,3,12:01 AA978,,New York (JFK),American Airlines A319 (N8027D),Landed 12:03,2021-05-27
+4,4,13:07 B6743,,New York (JFK),JetBlue Airways (JetBlue Vacations Livery) A320 (N603JB),Landed 13:11,2021-05-27
+5,5,13:55,AA2405,Miami (MIA),American Airlines A321 (N154AA),Landed 13:34,2021-05-27
+6,6,14:00,BA2157,London (LGW),British Airways B772 (G-VIIR),Landed 14:01,2021-05-27
+7,7,14:42,,Beef Island (EIS),- PA27 (N13987),Unknown,2021-05-27
+8,8,15:52 WIG8109,,San Juan (SJU),FedEx C208 (N881FE),Unknown,2021-05-27
+9,9,15:55 LI353,,Basseterre (SKB),LIAT AT46 (V2-LIF),Landed 15:07,2021-05-27
+10,10,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-27
+11,11,17:10 JY633,,Beef Island (EIS),InterCaribbean Airways E120 (VQ-TAG),Landed 16:46,2021-05-27
+12,12,18:35 LI354,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 17:59,2021-05-27
+0,0,08:55,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIU),Landed 08:31,2021-05-28
+1,1,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-28
+2,2,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-28
+3,3,11:35 LI392,,Sint Maarten (SXM),LIAT AT46 (V2-LIF),Landed 11:29,2021-05-28
+4,4,11:35 WM316,,Dominica (DOM),Winair DHC6 (PJ-WIU),Landed 10:44,2021-05-28
+5,5,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-28
+6,6,12:01 AA978,,New York (JFK),American Airlines A319 (N9025B),Landed 11:52,2021-05-28
+7,7,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-28
+8,8,13:21 B6743,,New York (JFK),JetBlue Airways A321 (N972JT),Unknown,2021-05-28
+9,9,13:49 A86907,,Sint Maarten (SXM),Ameriflight BE99 (N990AF),Landed 13:20,2021-05-28
+10,10,13:55,AA2405,Miami (MIA),American Airlines A321 (N154AA),Landed 14:04,2021-05-28
+11,11,14:13 WIG8109,,San Juan (SJU),FedEx C208 (N878FE),Landed 13:58,2021-05-28
+12,12,16:38 TJ701,,St. Jean (SBH),Tradewind Aviation PC12 (N668TW),Landed 17:23,2021-05-28
+13,13,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-28
+14,14,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-28
+15,15,18:45 LI393,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 18:15,2021-05-28
+16,16,18:55,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIU),Landed 18:11,2021-05-28
+17,17,20:45 BV1540,,Santo Domingo (SDQ),Blue Panorama Airlines 330,Unknown,2021-05-28
+0,0,8:10 AM,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIU),Landed 8:00 AM,2021-05-29
+1,1,9:15 AM JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-29
+2,2,9:20 AM 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-29
+3,3,11:30 AM LI348,,Bridgetown (BGI),LIAT AT46 (V2-LIF),Landed 11:16 AM,2021-05-29
+4,4,11:50 AM 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-29
+5,5,12:01 PM AA978,,New York (JFK),American Airlines A319 (N9004F),Landed 12:08 PM,2021-05-29
+6,6,12:45 PM GES161Y,,Washington (IAD),- GLF5 (EC-LYO),Landed 12:40 PM,2021-05-29
+7,7,12:54 PM DL1990,,New York (JFK),Delta Air Lines B739 (N900DU),Landed 12:56 PM,2021-05-29
+8,8,1:00 PM 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-29
+9,9,1:47 PM AA2082,,Charlotte (CLT),American Airlines A319 (N724UW),Landed 1:16 PM,2021-05-29
+10,10,1:55 PM,AA2405,Miami (MIA),American Airlines A321 (N905AU),Landed 1:53 PM,2021-05-29
+11,11,1:58 PM DL1977,,Atlanta (ATL),Delta Air Lines B739 (N889DN),Landed 1:50 PM,2021-05-29
+12,12,2:00 PM,BA2157,London (LGW),British Airways B772 (G-VIIP),Landed 1:33 PM,2021-05-29
+13,13,3:30 PM PV341,,St. Jean (SBH),St Barth Commuter CNC,Unknown,2021-05-29
+14,14,3:50 PM LI351,,Sint Maarten (SXM),LIAT AT46 (V2-LIF),Landed 4:02 PM,2021-05-29
+15,15,4:30 PM PV351,,St. Jean (SBH),St Barth Commuter CNC,Unknown,2021-05-29
+16,16,4:37 PM TJ88,,St. Jean (SBH),Tradewind Aviation PC12 (N88XY),Landed 5:03 PM,2021-05-29
+17,17,4:50 PM 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-29
+18,18,5:30 PM JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-29
+19,19,6:35 PM LI354,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 6:18 PM,2021-05-29
+20,20,6:55 PM,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIU),Landed 6:29 PM,2021-05-29
+0,0,09:05,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIU),Landed 09:02,2021-05-30
+1,1,09:15 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-30
+2,2,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-30
+3,3,11:35 LI311,,Beef Island (EIS),LIAT AT46 (V2-LIF),Landed 11:37,2021-05-30
+4,4,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-30
+5,5,12:01 AA978,,New York (JFK),American Airlines A319 (N9023N),Landed 12:10,2021-05-30
+6,6,12:50 BW459,,Kingston (KIN),Caribbean Airlines B738 (9Y-MBJ),Landed 13:04,2021-05-30
+7,7,12:56 B6743,,New York (JFK),JetBlue Airways A320 (N729JB),Landed 16:01,2021-05-30
+8,8,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-05-30
+9,9,13:55,AA2405,Miami (MIA),American Airlines A321 (N133AN),Landed 13:44,2021-05-30
+10,10,14:00,BA2157,London (LGW),British Airways B772 (G-VIIP),Landed 13:34,2021-05-30
+11,11,16:38 TJ701,,St. Jean (SBH),Tradewind Aviation PC12 (N523TW),Landed 16:28,2021-05-30
+12,12,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-30
+13,13,17:25 BW458,,Bridgetown (BGI),Caribbean Airlines B738 (9Y-MBJ),Landed 18:21,2021-05-30
+14,14,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-30
+15,15,18:35,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIU),Landed 18:41,2021-05-30
+16,16,19:25 LI312,,Basseterre (SKB),LIAT AT46 (V2-LIF),Landed 18:55,2021-05-30
+0,0,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-31
+1,1,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-31
+2,2,12:01 AA978,,New York (JFK),American Airlines A319 (N9011P),Landed 11:50,2021-05-31
+3,3,13:50 A86907,,Sint Maarten (SXM),Ameriflight BE99,Unknown,2021-05-31
+4,4,13:55,AA2405,Miami (MIA),American Airlines A321 (N163AA),Landed 14:35,2021-05-31
+5,5,15:20 LI332,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 15:00,2021-05-31
+6,6,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-05-31
+7,7,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-05-31
+8,8,19:40 LI335,,Beef Island (EIS),LIAT AT46,Unknown,2021-05-31
+9,9,20:48 LI405,,Santo Domingo (SDQ),LIAT AT46 (V2-LID),Landed 20:09,2021-05-31
+0,0,08:05 M68333,,Miami (MIA),Titan Airways A321 (G-NIKO),Landed 08:06,2021-06-02
+1,1,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-02
+2,2,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-02
+3,3,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-06-02
+4,4,13:53 2Q6907,,Sint Maarten (SXM),Air Cargo Carriers SH36 (N601CA),Landed 14:14,2021-06-02
+5,5,13:55,AA2405,Miami (MIA),American Airlines A321 (N900UW),Landed 14:02,2021-06-02
+6,6,14:33 WIG8109,,San Juan (SJU),FedEx C208 (N878FE),Landed 14:33,2021-06-02
+7,7,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-02
+8,8,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-06-02
+0,0,08:25 T48555,,San Juan (SJU),Rhoades Aviation CVLT,Canceled,2021-06-03
+1,1,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-03
+2,2,09:25 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-06-03
+3,3,10:13 2Q101,,Sint Maarten (SXM),Air Cargo Carriers SH36 (N385MQ),Landed 09:25,2021-06-03
+4,4,10:53 2Q201,,San Juan (SJU),Air Cargo Carriers SH36 (N733CH),Landed 10:49,2021-06-03
+5,5,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-03
+6,6,12:57 AA978,,New York (JFK),American Airlines B738 (N305NX),Landed 15:09,2021-06-03
+7,7,13:07 B6743,,New York (JFK),JetBlue Airways A320 (N766JB),Landed 12:57,2021-06-03
+8,8,13:55,AA2405,Miami (MIA),American Airlines 321,Unknown,2021-06-03
+9,9,14:00,BA2157,London (LGW),British Airways B772 (G-VIIP),Landed 13:40,2021-06-03
+10,10,14:01 WIG8109,,San Juan (SJU),FedEx C208 (N878FE),Landed 14:00,2021-06-03
+11,11,14:04 2Q102,,Castries (SLU),Air Cargo Carriers SH36 (N385MQ),Landed 17:43,2021-06-03
+12,12,14:12 2Q202,,Castries (SLU),Air Cargo Carriers SH36,Unknown,2021-06-03
+13,13,14:13,AA1397,Miami (MIA),American Airlines B38M (N336SR),Landed 13:52,2021-06-03
+14,14,15:26,AA1027,Miami (MIA),American Airlines B738 (N811NN),Landed 15:39,2021-06-03
+15,15,15:55 LI353,,Basseterre (SKB),LIAT AT46 (V2-LIF),Landed 17:15,2021-06-03
+16,16,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-03
+17,17,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways E120 (VQ-TDG),Landed 17:01,2021-06-03
+18,18,18:34 2Q203,,Castries (SLU),Air Cargo Carriers SH36,Unknown,2021-06-03
+19,19,18:35 LI354,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 19:22,2021-06-03
+20,20,20:48 LI408,,Guatemala City (GUA),LIAT AT46,Unknown,2021-06-03
+0,0,8:55 AM,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 8:56 AM,2021-06-04
+1,1,9:20 AM 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-04
+2,2,9:25 AM JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-06-04
+3,3,11:35 AM LI392,,Sint Maarten (SXM),LIAT AT46 (V2-LIF),Landed 11:57 AM,2021-06-04
+4,4,11:37 AM LI405,,Sint Maarten (SXM),LIAT AT46 (V2-LID),Landed 12:01 PM,2021-06-04
+5,5,11:50 AM 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-04
+6,6,12:13 PM 2Q202,,Castries (SLU),Air Cargo Carriers SH36,Unknown,2021-06-04
+7,7,12:57 PM AA978,,New York (JFK),American Airlines B738 (N811NN),Landed 12:44 PM,2021-06-04
+8,8,1:00 PM 7U8555,,San Juan (SJU),- CVF,Unknown,2021-06-04
+9,9,1:21 PM B6743,,New York (JFK),JetBlue Airways A321 (N905JB),Landed 1:09 PM,2021-06-04
+10,10,1:50 PM A86907,,Sint Maarten (SXM),Ameriflight BE99 (N990AF),Landed 1:51 PM,2021-06-04
+11,11,2:13 PM,AA1397,Miami (MIA),American Airlines B38M (N334SM),Landed 1:55 PM,2021-06-04
+12,12,2:26 PM WIG8109,,San Juan (SJU),FedEx C208 (N878FE),Landed 2:26 PM,2021-06-04
+13,13,3:26 PM,AA1027,Miami (MIA),American Airlines B738 (N827NN),Landed 3:09 PM,2021-06-04
+14,14,4:38 PM TJ701,,St. Jean (SBH),Tradewind Aviation PL2,Unknown,2021-06-04
+15,15,4:50 PM 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-04
+16,16,5:30 PM JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-06-04
+17,17,5:55 PM,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIU),Landed 5:49 PM,2021-06-04
+18,18,6:45 PM LI393,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 7:07 PM,2021-06-04
+19,19,8:45 PM BV1540,,Santo Domingo (SDQ),Blue Panorama Airlines 330,Unknown,2021-06-04
+0,0,8:10 AM,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Unknown,2021-06-05
+1,1,9:20 AM 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-05
+2,2,9:25 AM JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-06-05
+3,3,10:30 AM JY980,,Providenciales (PLS),InterCaribbean Airways E145 (VQ-TLR),Landed 10:19 AM,2021-06-05
+4,4,11:00 AM,,White Plains (HPN),- C680 (N382QS),Canceled,2021-06-05
+5,5,11:30 AM LI348,,Bridgetown (BGI),LIAT AT4,Unknown,2021-06-05
+6,6,11:50 AM 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-05
+7,7,12:38 PM DL1990,,New York (JFK),Delta Air Lines B738 (N383DN),Landed 12:25 PM,2021-06-05
+8,8,12:57 PM AA978,,New York (JFK),American Airlines B738 (N965AN),Landed 12:54 PM,2021-06-05
+9,9,1:00 PM 7U8555,,San Juan (SJU),- CVF,Unknown,2021-06-05
+10,10,2:00 PM,BA2157,London (LGW),British Airways B772 (G-VIIU),Landed 1:24 PM,2021-06-05
+11,11,2:07 PM DL1977,,Atlanta (ATL),Delta Air Lines B739 (N868DN),Landed 1:54 PM,2021-06-05
+12,12,2:13 PM,AA1397,Miami (MIA),American Airlines B38M (N335SN),Landed 1:48 PM,2021-06-05
+13,13,3:26 PM,AA1027,Miami (MIA),American Airlines B738 (N957AN),Landed 2:59 PM,2021-06-05
+14,14,3:27 PM AA519,,Charlotte (CLT),American Airlines A319 (N712US),Landed 3:19 PM,2021-06-05
+15,15,3:30 PM PV341,,St. Jean (SBH),St Barth Commuter CNC,Unknown,2021-06-05
+16,16,3:50 PM LI351,,Sint Maarten (SXM),LIAT AT46 (V2-LIF),Landed 4:10 PM,2021-06-05
+17,17,4:30 PM PV351,,St. Jean (SBH),St Barth Commuter CNC,Unknown,2021-06-05
+18,18,4:50 PM 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-05
+19,19,5:30 PM JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-06-05
+20,20,6:35 PM LI354,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 6:15 PM,2021-06-05
+21,21,6:55 PM,WM317,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 6:08 PM,2021-06-05
+0,0,08:35,WM315,Sint Maarten (SXM),Winair DHC6 (PJ-WIQ),Landed 08:25,2021-06-06
+1,1,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-06
+2,2,09:25 JY631,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-06-06
+3,3,11:35 LI311,,Beef Island (EIS),LIAT AT46 (V2-LIF),Landed 11:49,2021-06-06
+4,4,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-06
+5,5,12:50 BW459,,Kingston (KIN),Caribbean Airlines B738 (9Y-MBJ),Landed 12:45,2021-06-06
+6,6,12:56 B6743,,New York (JFK),JetBlue Airways A320 (N793JB),Unknown,2021-06-06
+7,7,12:57 AA978,,New York (JFK),American Airlines B738 (N896NN),Landed 12:50,2021-06-06
+8,8,13:00 7U8555,,San Juan (SJU),- CVF,Unknown,2021-06-06
+9,9,14:00,BA2157,London (LGW),British Airways B772 (G-VIIO),Landed 13:48,2021-06-06
+10,10,14:13,AA1397,Miami (MIA),American Airlines B38M (N326SJ),Landed 13:53,2021-06-06
+11,11,14:58,,Beef Island (EIS),- PA27 (N13987),Unknown,2021-06-06
+12,12,15:26,AA1027,Miami (MIA),American Airlines B738 (N903NN),Landed 15:05,2021-06-06
+13,13,16:38 TJ701,,St. Jean (SBH),Tradewind Aviation PC12 (N590TW),Landed 17:01,2021-06-06
+14,14,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-06
+15,15,17:25 BW458,,Bridgetown (BGI),Caribbean Airlines B738 (9Y-MBJ),Landed 17:29,2021-06-06
+16,16,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-06-06
+17,17,18:55,WM317,Sint Maarten (SXM),Winair DHT,Unknown,2021-06-06
+18,18,19:25 LI312,,Basseterre (SKB),LIAT AT46 (V2-LIF),Landed 19:09,2021-06-06
+19,19,19:48 VJT763,,Cologne (CGN),VistaJet Malta GLEX (9H-OPE),Landed 20:02,2021-06-06
+0,0,09:20 5M802,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-07
+1,1,11:50 5M804,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-07
+2,2,12:57 AA978,,New York (JFK),American Airlines B738 (N914NN),Landed 12:48,2021-06-07
+3,3,13:50 A86907,,Sint Maarten (SXM),Ameriflight BE99,Unknown,2021-06-07
+4,4,14:13,AA1397,Miami (MIA),American Airlines B38M (N334SM),Landed 13:47,2021-06-07
+5,5,14:48 WIG8109,,San Juan (SJU),FedEx C208 (N878FE),Landed 14:31,2021-06-07
+6,6,15:20 LI332,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 14:45,2021-06-07
+7,7,15:26,AA1027,Miami (MIA),American Airlines B738 (N850NN),Landed 15:57,2021-06-07
+8,8,16:50 5M808,,Montserrat (MNI),FlyMontserrat BNI,Unknown,2021-06-07
+9,9,17:30 JY633,,Beef Island (EIS),InterCaribbean Airways EM2,Canceled,2021-06-07
+10,10,19:40 LI335,,Beef Island (EIS),LIAT AT46,Unknown,2021-06-07

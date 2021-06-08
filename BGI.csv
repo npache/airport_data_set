@@ -65,3 +65,404 @@
 12,12,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-12
 13,13,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-12
 14,14,17:31 2Q940,,Kingstown (SVD),Air Cargo Carriers SH36 (N4498Y),Landed 17:34,2021-05-12
+0,0,06:15 VCY97,,Castries (SLU),- SF3,Unknown,2021-05-13
+1,1,06:25 VCY82,,Kingstown (SVD),- SF3,Unknown,2021-05-13
+2,2,09:20 VCY47,,Point Salines (GND),- SF3,Unknown,2021-05-13
+3,3,10:20 JY703,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TEG),Landed 10:07,2021-05-13
+4,4,10:30 BW213,,Dominica (DOM),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-13
+5,5,11:10 BW205,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-13
+6,6,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-13
+7,7,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-13
+8,8,12:05 BW154,,Kingston (KIN),Caribbean Airlines B738 (9Y-JMC),Canceled,2021-05-13
+9,9,12:30 LI342,,Point Salines (GND),LIAT AT46 (V2-LIF),Landed 12:30,2021-05-13
+10,10,13:24 A88106,,Aguadilla (BQN),Ameriflight SW4 (N243DH),Landed 13:24,2021-05-13
+11,11,13:31 AC7252,,Toronto (YYZ),Air Canada B38M (C-FSNQ),Landed 13:30,2021-05-13
+12,12,13:50 JY713,,Castries (SLU),InterCaribbean Airways E120 (VQ-TEG),Landed 13:42,2021-05-13
+13,13,14:03 B61261,,New York (JFK),JetBlue Airways A320 (N637JB),Landed 14:22,2021-05-13
+14,14,14:11,AA1089,Miami (MIA),American Airlines B738 (N818NN),Landed 13:54,2021-05-13
+15,15,14:15 TGY5011,,Georgetown (OGL),Trans Guyana Airways BEH,Unknown,2021-05-13
+16,16,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-13
+17,17,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-13
+18,18,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-13
+19,19,19:50 BW201,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-13
+0,0,06:15 VCY97,,Castries (SLU),- SF3,Unknown,2021-05-14
+1,1,06:20 BW791,,Miami (MIA),StratAir B763 (N351CM),Landed 06:18,2021-05-14
+2,2,06:25 VCY82,,Kingstown (SVD),- SF3,Unknown,2021-05-14
+3,3,07:00 M68533,,Miami (MIA),Titan Airways A321 (G-DHJH),Landed 07:36,2021-05-14
+4,4,09:20 VCY47,,Point Salines (GND),- SF3,Unknown,2021-05-14
+5,5,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TEG),Landed 10:05,2021-05-14
+6,6,10:25 JY709,,Point Salines (GND),InterCaribbean Airways EM2,Canceled,2021-05-14
+7,7,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-14
+8,8,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-14
+9,9,11:30 M6853,,Miami (MIA),Amerijet International B762,Unknown,2021-05-14
+10,10,12:45 JY717,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TEG),Landed 12:19,2021-05-14
+11,11,13:22 A88106,,Aguadilla (BQN),Ameriflight SW4 (N248DH),Landed 13:56,2021-05-14
+12,12,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-14
+13,13,13:30 VS131,,London (LHR),Virgin Atlantic B789 (G-VYUM),Landed 15:07,2021-05-14
+14,14,13:32 A86915,,Castries (SLU),Ameriflight SW4 (N249DH),Landed 14:34,2021-05-14
+15,15,14:11,AA1089,Miami (MIA),American Airlines B738 (N939AN),Landed 13:48,2021-05-14
+16,16,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-14
+17,17,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-14
+18,18,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-14
+19,19,14:40 LI392,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 14:59,2021-05-14
+20,20,15:55 BW217,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-14
+21,21,16:35 BW225,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Landed 16:03,2021-05-14
+0,0,6:15 AM VCY97,,Castries (SLU),- SF3,Unknown,2021-05-15
+1,1,6:25 AM VCY82,,Kingstown (SVD),- SF3,Unknown,2021-05-15
+2,2,9:15 AM LI327,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 9:22 AM,2021-05-15
+3,3,9:20 AM VCY47,,Point Salines (GND),- SF3,Unknown,2021-05-15
+4,4,10:20 AM JY707,,Dominica (DOM),InterCaribbean Airways EM2,Canceled,2021-05-15
+5,5,10:25 AM JY703,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TRG),Landed 10:10 AM,2021-05-15
+6,6,11:30 AM SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-15
+7,7,11:30 AM SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-15
+8,8,12:00 PM BW224,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Landed 11:35 AM,2021-05-15
+9,9,12:50 PM JY719,,Castries (SLU),InterCaribbean Airways E120 (VQ-TRG),Landed 12:20 PM,2021-05-15
+10,10,1:25 PM BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-15
+11,11,1:35 PM BW153,,New York (JFK),Caribbean Airlines B738 (9Y-JMF),Canceled,2021-05-15
+12,12,2:03 PM B61261,,New York (JFK),JetBlue Airways A321 (N991JT),Landed 2:22 PM,2021-05-15
+13,13,2:11 PM,AA1089,Miami (MIA),American Airlines B738 (N973AN),Landed 1:49 PM,2021-05-15
+14,14,2:30 PM SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-15
+15,15,2:30 PM SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-15
+16,16,2:44 PM AA2089,,Charlotte (CLT),American Airlines B738 (N960NN),Landed 2:13 PM,2021-05-15
+17,17,2:45 PM,B6313,New York (EWR),JetBlue Airways A320 (N561JB),Landed 3:16 PM,2021-05-15
+18,18,3:30 PM BA255,,London (LHR),British Airways B772 (G-VIIN),Unknown,2021-05-15
+19,19,4:30 PM,B62165,Boston (BOS),JetBlue Airways (Vets in Blue Livery) A320 (N775JB),Landed 4:43 PM,2021-05-15
+20,20,6:25 PM BW203,,Dominica (DOM),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-15
+21,21,7:50 PM BW201,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-15
+0,0,09:30 LI331,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 09:43,2021-05-17
+1,1,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 09:47,2021-05-17
+2,2,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-17
+3,3,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-17
+4,4,12:38 A88106,,Aguadilla (BQN),Ameriflight SW4 (N243DH),Landed 12:37,2021-05-17
+5,5,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-17
+6,6,14:05 JY715,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TAG),Landed 13:27,2021-05-17
+7,7,14:11,AA1089,Miami (MIA),American Airlines B738 (N335PH),Landed 14:21,2021-05-17
+8,8,14:25 BW227,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Landed 14:07,2021-05-17
+9,9,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-17
+10,10,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-17
+11,11,15:30 BA255,,London (LHR),British Airways B772 (G-YMMH),Landed 15:48,2021-05-17
+12,12,15:55 BW217,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-17
+0,0,06:20 BW791,,Miami (MIA),StratAir B763 (N351CM),Landed 06:26,2021-05-18
+1,1,07:00 M6827,,Miami (MIA),Amerijet International B762,Unknown,2021-05-18
+2,2,07:00 M68233,,Miami (MIA),Titan Airways A321 (G-DHJH),Landed 06:51,2021-05-18
+3,3,10:20 JY703,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TAG),Landed 09:38,2021-05-18
+4,4,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-18
+5,5,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-18
+6,6,13:30 VS131,,London (LHR),Virgin Atlantic B789 (G-VOWS),Landed 13:24,2021-05-18
+7,7,13:35 A88106,,Aguadilla (BQN),Ameriflight SW4 (N248DH),Landed 13:26,2021-05-18
+8,8,13:50 JY713,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 13:17,2021-05-18
+9,9,13:55,,Sao Paulo (GRU),- CL60 (N243JP),Unknown,2021-05-18
+10,10,14:03,B61261,New York (JFK),JetBlue Airways A321 (N949JT),Landed 13:43,2021-05-18
+11,11,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-18
+12,12,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-18
+13,13,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-18
+14,14,16:35 BW225,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Landed 16:02,2021-05-18
+0,0,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 10:12,2021-05-19
+1,1,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-19
+2,2,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-19
+3,3,12:00 BW224,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Landed 11:21,2021-05-19
+4,4,13:22 A88106,,Aguadilla (BQN),Ameriflight SW4 (N243DH),Landed 13:21,2021-05-19
+5,5,13:40 A86915,,Kingstown (SVD),Ameriflight B190 (N338AF),Landed 13:16,2021-05-19
+6,6,14:05 JY715,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TAG),Landed 14:03,2021-05-19
+7,7,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-19
+8,8,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-19
+9,9,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-19
+10,10,15:30 BA255,,London (LHR),British Airways B772 (G-VIIK),Landed 15:53,2021-05-19
+11,11,17:24,,St. Petersburg (PIE),- GLF4,Unknown,2021-05-19
+0,0,07:00 BW8226,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Landed 07:20,2021-05-20
+1,1,07:54,,Providenciales (PLS),- CL60,Unknown,2021-05-20
+2,2,08:24,,Vieux Fort (UVF),- GLF4,Canceled,2021-05-20
+3,3,08:36,,Vieux Fort (UVF),- CL60 (N211QS),Landed 08:44,2021-05-20
+4,4,10:20 JY703,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TAG),Landed 10:16,2021-05-20
+5,5,10:30 BW213,,Dominica (DOM),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-20
+6,6,11:10 BW205,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-20
+7,7,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-20
+8,8,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-20
+9,9,12:05 BW154,,Kingston (KIN),Caribbean Airlines B738 (9Y-JMF),Canceled,2021-05-20
+10,10,12:30 LI342,,Point Salines (GND),LIAT AT46 (V2-LIF),Landed 11:48,2021-05-20
+11,11,13:00 BW7412,,Port of Spain (POS),Caribbean Airlines AT76 (9Y-TTA),Canceled,2021-05-20
+12,12,13:21 A88106,,Aguadilla (BQN),Ameriflight SW4 (N245DH),Unknown,2021-05-20
+13,13,13:50 JY713,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 13:34,2021-05-20
+14,14,14:03 B61261,,New York (JFK),JetBlue Airways A321 (N950JT),Unknown,2021-05-20
+15,15,14:11,AA1089,Miami (MIA),American Airlines (AirCal Heritage Livery) B738 (N917NN),Landed 14:06,2021-05-20
+16,16,14:15 TGY5011,,Georgetown (OGL),Trans Guyana Airways BEH,Unknown,2021-05-20
+17,17,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-20
+18,18,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-20
+19,19,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-20
+20,20,17:36,,Houston (HOU),- C750 (N104R),Canceled,2021-05-20
+21,21,19:00 BW8225,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTA),Canceled,2021-05-20
+22,22,19:50 BW201,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-20
+0,0,06:20 BW791,,Miami (MIA),StratAir B763 (N351CM),Landed 06:16,2021-05-21
+1,1,07:00 M68533,,Miami (MIA),Titan Airways A321 (G-NIKO),Landed 06:46,2021-05-21
+2,2,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 10:00,2021-05-21
+3,3,10:25 JY709,,Point Salines (GND),InterCaribbean Airways EM2,Canceled,2021-05-21
+4,4,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-21
+5,5,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-21
+6,6,12:38 A88106,,Aguadilla (BQN),Ameriflight SW4 (N248DH),Landed 12:38,2021-05-21
+7,7,12:45 JY717,,Kingstown (SVD),InterCaribbean Airways EM2,Unknown,2021-05-21
+8,8,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-21
+9,9,13:30 VS131,,London (LHR),Virgin Atlantic B789 (G-VFAN),Landed 13:39,2021-05-21
+10,10,13:32 A86915,,Castries (SLU),Ameriflight SW4 (N249DH),Landed 13:41,2021-05-21
+11,11,14:11,AA1089,Miami (MIA),American Airlines B738 (N835NN),Landed 14:48,2021-05-21
+12,12,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-21
+13,13,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-21
+14,14,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-21
+15,15,14:40 LI392,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 14:23,2021-05-21
+16,16,15:30 BA255,,London (LHR),British Airways (GREAT Festival of Creativity) B772 (G-YMML),Landed 15:36,2021-05-21
+17,17,15:55 BW217,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-21
+18,18,16:35 BW225,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Landed 16:02,2021-05-21
+0,0,09:15 LI327,,Castries (SLU),LIAT AT46 (V2-LID),Landed 09:11,2021-05-22
+1,1,10:20 JY707,,Dominica (DOM),InterCaribbean Airways EM2,Canceled,2021-05-22
+2,2,10:25 JY703,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TAG),Landed 09:52,2021-05-22
+3,3,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-22
+4,4,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-22
+5,5,12:00 BW224,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Landed 11:33,2021-05-22
+6,6,12:50 JY719,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 12:32,2021-05-22
+7,7,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-22
+8,8,13:35 BW153,,New York (JFK),Caribbean Airlines B738 (9Y-JMC),Canceled,2021-05-22
+9,9,14:03 B61261,,New York (JFK),JetBlue Airways A321 (N943JT),Landed 14:06,2021-05-22
+10,10,14:11,AA1089,Miami (MIA),American Airlines B738 (N875NN),Landed 14:28,2021-05-22
+11,11,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-22
+12,12,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-22
+13,13,14:44 AA2089,,Charlotte (CLT),American Airlines B738 (N947NN),Landed 14:25,2021-05-22
+14,14,14:45,B6313,New York (EWR),JetBlue Airways A320 (N590JB),Landed 14:36,2021-05-22
+15,15,16:30,B62165,Boston (BOS),JetBlue Airways A320 (N591JB),Landed 16:31,2021-05-22
+16,16,18:25 BW203,,Dominica (DOM),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-22
+17,17,19:50 BW201,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-22
+0,0,10:25 JY709,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TRG),Landed 10:11,2021-05-23
+1,1,11:10 BW205,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-23
+2,2,11:25 JY701,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 11:07,2021-05-23
+3,3,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-23
+4,4,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-23
+5,5,12:45 JY717,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TRG),Landed 12:33,2021-05-23
+6,6,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-23
+7,7,14:03,B61261,New York (JFK),JetBlue Airways A321 (N994JL),Landed 13:51,2021-05-23
+8,8,14:05 AC7252,,Toronto (YYZ),Air Canada B38M (C-FSES),Landed 13:48,2021-05-23
+9,9,14:11,AA1089,Miami (MIA),American Airlines B738 (N876NN),Landed 14:27,2021-05-23
+10,10,14:15 TGY5011,,Georgetown (OGL),Trans Guyana Airways BEH,Unknown,2021-05-23
+11,11,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-23
+12,12,14:25 BW227,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTA),Landed 14:11,2021-05-23
+13,13,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-23
+14,14,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-23
+15,15,14:50 BW459,,Antigua (ANU),Caribbean Airlines B738 (9Y-MBJ),Landed 14:06,2021-05-23
+16,16,14:55 LI311,,Kingstown (SVD),LIAT AT46 (V2-LIF),Landed 15:26,2021-05-23
+0,0,09:30 LI331,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 10:45,2021-05-24
+1,1,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TVG),Landed 09:57,2021-05-24
+2,2,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-24
+3,3,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-24
+4,4,12:37 A88106,,Aguadilla (BQN),Ameriflight SW4,Canceled,2021-05-24
+5,5,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-24
+6,6,14:05 JY715,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TVG),Landed 13:33,2021-05-24
+7,7,14:11,AA1089,Miami (MIA),American Airlines B738 (N960AN),Landed 14:37,2021-05-24
+8,8,14:25 BW227,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTA),Landed 13:37,2021-05-24
+9,9,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-24
+10,10,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-24
+11,11,15:30 BA255,,London (LHR),British Airways B772 (G-VIIE),Landed 15:38,2021-05-24
+12,12,15:55 BW217,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-24
+0,0,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TRG),Landed 10:04,2021-05-26
+1,1,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-26
+2,2,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-26
+3,3,12:00 BW224,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTA),Landed 11:18,2021-05-26
+4,4,13:26 A88106,,Aguadilla (BQN),Ameriflight SW4 (N245DH),Unknown,2021-05-26
+5,5,14:05 JY715,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TRG),Landed 13:57,2021-05-26
+6,6,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-26
+7,7,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-26
+8,8,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-26
+9,9,15:30 BA255,,London (LHR),British Airways B772 (G-VIIE),Landed 15:38,2021-05-26
+10,10,15:40 A86905,,Kingstown (SVD),Ameriflight B190,Unknown,2021-05-26
+0,0,10:20 JY703,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TRG),Landed 09:49,2021-05-27
+1,1,10:30 BW213,,Dominica (DOM),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-27
+2,2,11:00 BW7412,,Port of Spain (POS),Caribbean Airlines AT76 (9Y-TTD),Landed 10:39,2021-05-27
+3,3,11:10 BW205,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-27
+4,4,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-27
+5,5,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-27
+6,6,12:05 BW154,,Kingston (KIN),Caribbean Airlines B738 (9Y-MBJ),Canceled,2021-05-27
+7,7,12:30 LI342,,Point Salines (GND),LIAT AT46 (V2-LIF),Landed 11:41,2021-05-27
+8,8,13:12 A88106,,Aguadilla (BQN),Ameriflight SW4 (N243DH),Landed 13:12,2021-05-27
+9,9,13:45 A86905,,Point Salines (GND),Ameriflight SW4,Unknown,2021-05-27
+10,10,13:50 JY713,,Castries (SLU),InterCaribbean Airways E120 (VQ-TRG),Landed 13:18,2021-05-27
+11,11,14:03 B61261,,New York (JFK),JetBlue Airways A320 (N640JB),Diverted to FLL,2021-05-27
+12,12,14:11,AA1089,Miami (MIA),American Airlines B738 (N976NN),Landed 14:22,2021-05-27
+13,13,14:15 TGY5011,,Georgetown (OGL),Trans Guyana Airways BEH,Unknown,2021-05-27
+14,14,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-27
+15,15,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-27
+16,16,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-27
+17,17,16:51 2Q820,,Kingstown (SVD),Air Cargo Carriers SH36 (N151CA),Landed 17:29,2021-05-27
+18,18,17:00 BW8225,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTA),Landed 17:05,2021-05-27
+19,19,17:02 B61261,,Fort Lauderdale (FLL),JetBlue Airways (Boston Bruins Livery) A320 (N632JB),Landed 18:04,2021-05-27
+20,20,19:38 2Q840,,Point Salines (GND),Air Cargo Carriers SH36,Unknown,2021-05-27
+21,21,19:50 BW201,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-27
+0,0,06:20 BW791,,Miami (MIA),StratAir B763 (N351CM),Landed 06:41,2021-05-28
+1,1,07:00 M68533,,Miami (MIA),Titan Airways A321 (G-DHJH),Landed 07:05,2021-05-28
+2,2,10:25 JY709,,Point Salines (GND),InterCaribbean Airways EM2,Canceled,2021-05-28
+3,3,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TRG),Landed 10:00,2021-05-28
+4,4,11:00 2Q840,,Point Salines (GND),Air Cargo Carriers SH36 (N151CA),Landed 12:45,2021-05-28
+5,5,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-28
+6,6,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-28
+7,7,12:45 JY717,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TRG),Landed 12:30,2021-05-28
+8,8,13:12,,Fort Lauderdale (FLL),- GLEX (N146QS),Unknown,2021-05-28
+9,9,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-28
+10,10,13:30 VS131,,London (LHR),Virgin Atlantic B789 (G-VCRU),Landed 12:59,2021-05-28
+11,11,13:32 A86915,,Castries (SLU),Ameriflight SW4 (N242DH),Landed 14:23,2021-05-28
+12,12,13:55 A88106,,Aguadilla (BQN),Ameriflight SW4 (N248DH),Landed 13:55,2021-05-28
+13,13,14:11,AA1089,Miami (MIA),American Airlines B738 (N801NN),Landed 14:04,2021-05-28
+14,14,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-28
+15,15,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-28
+16,16,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-28
+17,17,14:40 LI392,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 14:18,2021-05-28
+18,18,15:00 BW8412,,Port of Spain (POS),Caribbean Airlines AT76 (9Y-TTB),Landed 14:46,2021-05-28
+19,19,15:10 N558,,Montreal (YMX),Nolinor Aviation B733 (C-GNLQ),Landed 15:14,2021-05-28
+20,20,15:30 BA255,,London (LHR),British Airways B772 (G-VIIK),Landed 15:27,2021-05-28
+21,21,15:55 BW217,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-28
+22,22,16:35 BW225,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Landed 16:03,2021-05-28
+23,23,20:20,,Fort Lauderdale (FXE),- PC12 (N933JJ),Landed 21:34,2021-05-28
+0,0,9:15 AM LI327,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 9:31 AM,2021-05-29
+1,1,10:20 AM JY707,,Dominica (DOM),InterCaribbean Airways EM2,Canceled,2021-05-29
+2,2,10:25 AM JY703,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TRG),Landed 9:53 AM,2021-05-29
+3,3,11:30 AM SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-29
+4,4,11:30 AM SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-29
+5,5,12:00 PM BW224,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Landed 11:27 AM,2021-05-29
+6,6,12:50 PM JY719,,Castries (SLU),InterCaribbean Airways E120 (VQ-TRG),Landed 12:17 PM,2021-05-29
+7,7,1:25 PM BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-29
+8,8,1:35 PM BW153,,New York (JFK),Caribbean Airlines B738 (9Y-JMF),Canceled,2021-05-29
+9,9,2:03 PM B61261,,New York (JFK),JetBlue Airways A321 (N972JT),Landed 2:07 PM,2021-05-29
+10,10,2:11 PM,AA1089,Miami (MIA),American Airlines B738 (N918NN),Landed 1:41 PM,2021-05-29
+11,11,2:30 PM SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-29
+12,12,2:30 PM SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-29
+13,13,2:44 PM AA2089,,Charlotte (CLT),American Airlines B738 (N338PK),Landed 2:04 PM,2021-05-29
+14,14,2:45 PM,B6313,New York (EWR),JetBlue Airways A320 (N552JB),Landed 3:21 PM,2021-05-29
+15,15,3:30 PM BA255,,London (LHR),British Airways B772 (G-VIIK),Landed 3:14 PM,2021-05-29
+16,16,4:30 PM,B62165,Boston (BOS),JetBlue Airways A320 (N665JB),Landed 4:39 PM,2021-05-29
+17,17,6:25 PM BW203,,Dominica (DOM),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-29
+18,18,7:50 PM BW201,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-29
+0,0,10:25 JY709,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TAG),Landed 10:15,2021-05-30
+1,1,10:27 Y2450,,Santo Domingo (JBQ),Air Century CRJ2 (HI1058),Landed 11:13,2021-05-30
+2,2,11:10 BW205,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-30
+3,3,11:25 JY701,,Castries (SLU),InterCaribbean Airways E120 (VQ-TRG),Landed 11:07,2021-05-30
+4,4,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-30
+5,5,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-30
+6,6,12:45 JY717,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TAG),Landed 13:05,2021-05-30
+7,7,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-30
+8,8,14:03,B61261,New York (JFK),JetBlue Airways A321 (N905JB),Landed 14:06,2021-05-30
+9,9,14:05 AC7252,,Toronto (YYZ),Air Canada B38M (C-FSES),Landed 14:18,2021-05-30
+10,10,14:11,AA1089,Miami (MIA),American Airlines B738 (N860NN),Landed 14:00,2021-05-30
+11,11,14:15 TGY5011,,Georgetown (OGL),Trans Guyana Airways BEH,Unknown,2021-05-30
+12,12,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-05-30
+13,13,14:25 BW227,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Landed 13:49,2021-05-30
+14,14,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-30
+15,15,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-05-30
+16,16,14:50 BW459,,Antigua (ANU),Caribbean Airlines B738 (9Y-MBJ),Landed 15:44,2021-05-30
+17,17,14:55 LI311,,Kingstown (SVD),LIAT AT46 (V2-LIF),Landed 14:54,2021-05-30
+18,18,18:54,,Orlando (MCO),- GLEX (N148QS),Unknown,2021-05-30
+0,0,09:30 LI331,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 09:12,2021-05-31
+1,1,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 09:51,2021-05-31
+2,2,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-05-31
+3,3,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-05-31
+4,4,12:37 A88106,,Aguadilla (BQN),Ameriflight SW4,Canceled,2021-05-31
+5,5,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-05-31
+6,6,14:05 JY715,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TAG),Landed 13:39,2021-05-31
+7,7,14:11,AA1089,Miami (MIA),American Airlines B738 (N948NN),Landed 14:14,2021-05-31
+8,8,14:25 BW227,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Landed 13:42,2021-05-31
+9,9,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-05-31
+10,10,15:30 BA255,,London (LHR),British Airways B772 (G-VIIE),Landed 15:17,2021-05-31
+11,11,15:55 BW217,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-05-31
+12,12,18:54,,Orlando (MCO),- GLEX (N148QS),Diverted to FLL,2021-05-31
+0,0,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 09:36,2021-06-02
+1,1,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-06-02
+2,2,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-06-02
+3,3,12:00 BW224,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTC),Landed 11:27,2021-06-02
+4,4,13:21 A88106,,Aguadilla (BQN),Ameriflight SW4 (N243DH),Landed 13:48,2021-06-02
+5,5,14:05 JY715,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TAG),Landed 13:29,2021-06-02
+6,6,14:10 A86915,,Kingstown (SVD),Ameriflight B190 (N338AF),Landed 13:43,2021-06-02
+7,7,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-06-02
+8,8,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-06-02
+9,9,15:30 BA255,,London (LHR),British Airways B772 (G-VIID),Landed 15:21,2021-06-02
+10,10,16:09,,Fort Lauderdale (FXE),- C55B (N56WP),Canceled,2021-06-02
+11,11,16:50 BW8225,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-06-02
+12,12,16:54 JY961,,Beef Island (EIS),InterCaribbean Airways E120 (VQ-TRG),Landed 16:42,2021-06-02
+0,0,10:25 JY703,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TAG),Landed 09:49,2021-06-03
+1,1,10:30 BW213,,Dominica (DOM),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-06-03
+2,2,11:00 BW7412,,Port of Spain (POS),Caribbean Airlines AT76 (9Y-TTD),Diverted to POS,2021-06-03
+3,3,11:09,,Fort Lauderdale (FXE),- C55B (N56WP),Landed 12:19,2021-06-03
+4,4,11:10 BW205,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-06-03
+5,5,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-06-03
+6,6,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-06-03
+7,7,12:05 BW154,,Kingston (KIN),Caribbean Airlines B738 (9Y-JMC),Canceled,2021-06-03
+8,8,12:30 LI342,,Point Salines (GND),LIAT AT46 (V2-LIF),Landed 14:15,2021-06-03
+9,9,13:20 A86915,,San Juan (SJU),Ameriflight SW4 (N242DH),Landed 13:21,2021-06-03
+10,10,13:24 A88106,,Aguadilla (BQN),Ameriflight SW4 (N243DH),Landed 13:45,2021-06-03
+11,11,13:51 JY713,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 13:35,2021-06-03
+12,12,14:03 B61261,,New York (JFK),JetBlue Airways A321 (N971JT),Landed 13:54,2021-06-03
+13,13,14:09,AA1089,Miami (MIA),American Airlines B738 (N968NN),Landed 14:10,2021-06-03
+14,14,14:15 TGY5011,,Georgetown (OGL),Trans Guyana Airways BEH,Unknown,2021-06-03
+15,15,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-06-03
+16,16,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-06-03
+17,17,17:00 BW8225,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-06-03
+18,18,17:31 2Q103,,Castries (SLU),Air Cargo Carriers SH36,Unknown,2021-06-03
+19,19,19:50 BW201,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-06-03
+0,0,6:20 AM BW791,,Miami (MIA),StratAir B763 (N351CM),Landed 7:46 AM,2021-06-04
+1,1,7:00 AM M68533,,Miami (MIA),Titan Airways A321 (G-DHJH),Landed 8:21 AM,2021-06-04
+2,2,10:25 AM JY709,,Point Salines (GND),InterCaribbean Airways EM2,Canceled,2021-06-04
+3,3,10:25 AM JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 10:17 AM,2021-06-04
+4,4,11:30 AM SVD605,,Bequia (BQU),- DHT,Unknown,2021-06-04
+5,5,11:30 AM SVD603,,Bequia (BQU),- DHT,Unknown,2021-06-04
+6,6,12:45 PM JY717,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TAG),Landed 12:23 PM,2021-06-04
+7,7,12:55 PM M68534,,Sint Maarten (SXM),Titan Airways A321 (G-NIKO),Landed 12:54 PM,2021-06-04
+8,8,1:05 PM VS131,,London (LHR),Virgin Atlantic B789 (G-VBZZ),Landed 1:11 PM,2021-06-04
+9,9,1:25 PM BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-06-04
+10,10,1:32 PM A86915,,Castries (SLU),Ameriflight SW4 (N249DH),Landed 2:51 PM,2021-06-04
+11,11,1:48 PM A88106,,Aguadilla (BQN),Ameriflight SW4 (N248DH),Landed 1:47 PM,2021-06-04
+12,12,2:09 PM,AA1089,Miami (MIA),American Airlines B738 (N861NN),Landed 2:25 PM,2021-06-04
+13,13,2:20 PM D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-06-04
+14,14,2:30 PM SVD607,,Union Island (UNI),- DHT,Unknown,2021-06-04
+15,15,2:40 PM LI392,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 3:16 PM,2021-06-04
+16,16,3:55 PM BW217,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-06-04
+17,17,4:35 PM BW225,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTC),Landed 4:11 PM,2021-06-04
+0,0,9:15 AM LI327,,Castries (SLU),LIAT AT46 (V2-LIF),Landed 9:54 AM,2021-06-05
+1,1,10:20 AM JY707,,Dominica (DOM),InterCaribbean Airways EM2,Canceled,2021-06-05
+2,2,10:25 AM JY703,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TAG),Landed 10:02 AM,2021-06-05
+3,3,11:30 AM SVD603,,Bequia (BQU),- DHT,Unknown,2021-06-05
+4,4,11:30 AM SVD605,,Bequia (BQU),- DHT,Unknown,2021-06-05
+5,5,12:00 PM BW224,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTC),Landed 11:44 AM,2021-06-05
+6,6,12:50 PM JY719,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 12:26 PM,2021-06-05
+7,7,1:25 PM BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-06-05
+8,8,1:35 PM BW153,,New York (JFK),Caribbean Airlines B738 (9Y-TAB),Canceled,2021-06-05
+9,9,2:03 PM B61261,,New York (JFK),JetBlue Airways A320 (N585JB),Landed 2:28 PM,2021-06-05
+10,10,2:09 PM,AA1089,Miami (MIA),American Airlines B738 (N931NN),Landed 3:24 PM,2021-06-05
+11,11,2:30 PM SVD607,,Union Island (UNI),- DHT,Unknown,2021-06-05
+12,12,2:38 PM AA612,,Charlotte (CLT),American Airlines A319 (N737US),Landed 2:37 PM,2021-06-05
+13,13,2:45 PM,B6313,New York (EWR),JetBlue Airways A320 (N789JB),Landed 2:48 PM,2021-06-05
+14,14,3:30 PM BA255,,London (LHR),British Airways B772 (G-VIIB),Landed 3:12 PM,2021-06-05
+15,15,4:30 PM,B62165,Boston (BOS),JetBlue Airways A320 (N579JB),Landed 4:39 PM,2021-06-05
+16,16,6:25 PM BW203,,Dominica (DOM),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-06-05
+17,17,7:50 PM BW201,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-06-05
+0,0,10:25 JY709,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TRG),Landed 10:12,2021-06-06
+1,1,11:10 BW205,,Point Salines (GND),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-06-06
+2,2,11:25 JY701,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 10:52,2021-06-06
+3,3,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-06-06
+4,4,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-06-06
+5,5,12:45 JY717,,Kingstown (SVD),InterCaribbean Airways E120 (VQ-TRG),Landed 12:30,2021-06-06
+6,6,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-06-06
+7,7,13:45 AC966,,Toronto (YYZ),Air Canada B38M (C-FSNU),Landed 13:53,2021-06-06
+8,8,14:03,B61261,New York (JFK),JetBlue Airways A321 (N972JT),Landed 13:56,2021-06-06
+9,9,14:09,AA1089,Miami (MIA),American Airlines B738 (N938NN),Landed 14:52,2021-06-06
+10,10,14:15 TGY5011,,Georgetown (OGL),Trans Guyana Airways BEH,Unknown,2021-06-06
+11,11,14:20 D5322,,Port of Spain (POS),DHL Aero Expreso 75F,Unknown,2021-06-06
+12,12,14:25 BW227,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTC),Landed 14:02,2021-06-06
+13,13,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-06-06
+14,14,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-06-06
+15,15,14:50 BW459,,Antigua (ANU),Caribbean Airlines B738 (9Y-MBJ),Landed 14:26,2021-06-06
+16,16,14:55 LI311,,Kingstown (SVD),LIAT AT46 (V2-LIF),Landed 14:49,2021-06-06
+0,0,09:30 LI331,,Dominica (DOM),LIAT AT46 (V2-LIF),Landed 09:10,2021-06-07
+1,1,10:25 JY705,,Castries (SLU),InterCaribbean Airways E120 (VQ-TAG),Landed 10:06,2021-06-07
+2,2,11:30 SVD603,,Bequia (BQU),- DHT,Unknown,2021-06-07
+3,3,11:30 SVD605,,Bequia (BQU),- DHT,Unknown,2021-06-07
+4,4,12:39 A88106,,Aguadilla (BQN),Ameriflight SW4 (N243DH),Landed 12:40,2021-06-07
+5,5,13:25 BW215,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTE),Canceled,2021-06-07
+6,6,14:05 JY715,,Point Salines (GND),InterCaribbean Airways E120 (VQ-TAG),Landed 13:47,2021-06-07
+7,7,14:09,AA1089,Miami (MIA),American Airlines B38M (N324SH),Landed 14:09,2021-06-07
+8,8,14:25 BW227,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTC),Landed 14:16,2021-06-07
+9,9,14:30 SVD609,,Union Island (UNI),- DHT,Unknown,2021-06-07
+10,10,14:30 SVD607,,Union Island (UNI),- DHT,Unknown,2021-06-07
+11,11,15:30 BA255,,London (LHR),British Airways B772 (G-VIIK),Unknown,2021-06-07
+12,12,15:55 BW217,,Georgetown (OGL),Caribbean Airlines AT76 (9Y-TTD),Canceled,2021-06-07

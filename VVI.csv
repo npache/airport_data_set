@@ -8617,3 +8617,943 @@
 44,44,22:15,Z8120,La Paz (LPB),Amaszonas E90,Canceled,2021-05-12
 45,45,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-12
 46,46,23:11,CM127,Panama City (PTY),Copa Airlines (Star Alliance Livery) B738 (HP-1728CMP),Landed 22:41,2021-05-12
+0,0,01:55 CM240,,Panama City (PTY),Copa Airlines B738 (HP-1717CMP),Landed 01:34,2021-05-13
+1,1,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-13
+2,2,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 06:54,2021-05-13
+3,3,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 07:01,2021-05-13
+4,4,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:48,2021-05-13
+5,5,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 08:18,2021-05-13
+6,6,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 08:49,2021-05-13
+7,7,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 09:17,2021-05-13
+8,8,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:39,2021-05-13
+9,9,10:40 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-13
+10,10,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-13
+11,11,11:10,Z8171,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 10:47,2021-05-13
+12,12,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-13
+13,13,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3019),Landed 10:57,2021-05-13
+14,14,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-13
+15,15,13:00 Z8291,,Trinidad (TDD),Amaszonas E190 (CP-3142),Landed 12:40,2021-05-13
+16,16,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 13:32,2021-05-13
+17,17,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 13:44,2021-05-13
+18,18,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-05-13
+19,19,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 15:01,2021-05-13
+20,20,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:18,2021-05-13
+21,21,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion 733,Unknown,2021-05-13
+22,22,17:10,Z8423,Iquique (IQQ),Amaszonas E90,Unknown,2021-05-13
+23,23,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion 737,Unknown,2021-05-13
+24,24,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-13
+25,25,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:39,2021-05-13
+26,26,18:05 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-13
+27,27,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 18:42,2021-05-13
+28,28,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 19:29,2021-05-13
+29,29,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:39,2021-05-13
+30,30,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:19,2021-05-13
+31,31,20:30,Z8181,Sucre (SRE),Amaszonas E90,Unknown,2021-05-13
+32,32,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3130),Landed 20:55,2021-05-13
+33,33,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-13
+34,34,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 21:45,2021-05-13
+35,35,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-13
+36,36,22:15,Z8120,La Paz (LPB),Amaszonas E90,Unknown,2021-05-13
+37,37,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-13
+38,38,23:11,CM127,Panama City (PTY),Copa Airlines (Star Alliance Livery) B738 (HP-1830CMP),Landed 22:49,2021-05-13
+0,0,04:48,,Miami (MIA),- B763,Canceled,2021-05-14
+1,1,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 04:49,2021-05-14
+2,2,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-14
+3,3,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 07:15,2021-05-14
+4,4,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 07:07,2021-05-14
+5,5,07:30 OB662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 07:42,2021-05-14
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:48,2021-05-14
+7,7,08:15 OB692,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-14
+8,8,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 08:17,2021-05-14
+9,9,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-14
+10,10,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 09:18,2021-05-14
+11,11,09:30 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-14
+12,12,09:30 8J680,,Tarija (TJA),EcoJet AR8,Unknown,2021-05-14
+13,13,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-14
+14,14,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:36,2021-05-14
+15,15,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-14
+16,16,11:10,Z8171,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 10:57,2021-05-14
+17,17,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3019),Landed 11:10,2021-05-14
+18,18,13:00 Z8291,,Trinidad (TDD),Amaszonas E90,Unknown,2021-05-14
+19,19,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-14
+20,20,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 13:44,2021-05-14
+21,21,14:20,Z8157,Cochabamba (CBB),Amaszonas E190 (CP-3130),Landed 14:08,2021-05-14
+22,22,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion B738 (CP-3138),Landed 15:57,2021-05-14
+23,23,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:22,2021-05-14
+24,24,15:55 OB423,,Cobija (CIJ),Boliviana de Aviacion 737,Unknown,2021-05-14
+25,25,16:45 OB694,,Cochabamba (CBB),Boliviana de Aviacion 738,Unknown,2021-05-14
+26,26,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-2716),Landed 16:39,2021-05-14
+27,27,17:10,Z8401,Asuncion (ASU),Amaszonas E190 (M-ABMI),Landed 17:05,2021-05-14
+28,28,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3019),Landed 17:20,2021-05-14
+29,29,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 17:23,2021-05-14
+30,30,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 17:37,2021-05-14
+31,31,18:45 8J482,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-14
+32,32,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-14
+33,33,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion 738,Unknown,2021-05-14
+34,34,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 20:00,2021-05-14
+35,35,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:17,2021-05-14
+36,36,20:30,Z8181,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 20:26,2021-05-14
+37,37,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 21:01,2021-05-14
+38,38,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 21:26,2021-05-14
+39,39,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 21:47,2021-05-14
+40,40,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-14
+41,41,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:14,2021-05-14
+42,42,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-14
+43,43,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1720CMP),Landed 22:44,2021-05-14
+44,44,23:45 OB686,,La Paz (LPB),Boliviana de Aviacion 737,Scheduled,2021-05-14
+0,0,1:55 AM CM240,,Panama City (PTY),Copa Airlines B738 (HP-1855CMP),Landed 1:35 AM,2021-05-15
+1,1,4:54 AM,,Miami (MIA),- B763,Canceled,2021-05-15
+2,2,5:30 AM OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 4:49 AM,2021-05-15
+3,3,6:50 AM OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 7:00 AM,2021-05-15
+4,4,7:10 AM OB660,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-15
+5,5,7:15 AM OB632,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-15
+6,6,7:30 AM OB662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 8:00 AM,2021-05-15
+7,7,8:00 AM,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 7:53 AM,2021-05-15
+8,8,8:15 AM OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 8:21 AM,2021-05-15
+9,9,8:55 AM OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 8:49 AM,2021-05-15
+10,10,9:30 AM,Z8151,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 9:08 AM,2021-05-15
+11,11,9:50 AM OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-15
+12,12,9:50 AM,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 9:41 AM,2021-05-15
+13,13,10:40 AM 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-15
+14,14,10:55 AM OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-2716),Landed 11:03 AM,2021-05-15
+15,15,10:55 AM OB636,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-15
+16,16,11:10 AM,Z8171,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 10:59 AM,2021-05-15
+17,17,11:10 AM OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-15
+18,18,12:50 PM OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-15
+19,19,1:20 PM OB638,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-15
+20,20,1:40 PM OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 1:40 PM,2021-05-15
+21,21,2:00 PM OB670,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-15
+22,22,2:20 PM,Z8157,Cochabamba (CBB),Amaszonas E190 (CP-3130),Landed 1:59 PM,2021-05-15
+23,23,3:15 PM OB642,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 2:58 PM,2021-05-15
+24,24,3:30 PM OB735,,Sao Paulo (GRU),Boliviana de Aviacion B738 (CP-3138),Landed 4:03 PM,2021-05-15
+25,25,3:30 PM,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 3:15 PM,2021-05-15
+26,26,5:25 PM OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-3151),Landed 6:18 PM,2021-05-15
+27,27,5:30 PM OB717,,Salta (SLA),Boliviana de Aviacion CRJ,Unknown,2021-05-15
+28,28,5:40 PM OB676,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-15
+29,29,6:00 PM,Z8116,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 5:45 PM,2021-05-15
+30,30,6:05 PM 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-15
+31,31,6:50 PM OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 6:32 PM,2021-05-15
+32,32,7:30 PM,OB650,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-15
+33,33,7:30 PM,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 7:55 PM,2021-05-15
+34,34,8:20 PM OB652,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 8:05 PM,2021-05-15
+35,35,8:30 PM,Z8118,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 8:12 PM,2021-05-15
+36,36,9:20 PM,Z8161,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 8:55 PM,2021-05-15
+37,37,9:25 PM OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 10:48 PM,2021-05-15
+38,38,10:05 PM OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-15
+39,39,10:50 PM OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-15
+40,40,11:11 PM,CM127,Panama City (PTY),Copa Airlines B738 (HP-1522CMP),Landed 10:45 PM,2021-05-15
+0,0,04:08 LA2406,,Lima (LIM),LATAM Airlines A319 (CC-COZ),Landed 04:05,2021-05-16
+1,1,04:55,,Miami (MIA),- B763,Canceled,2021-05-16
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 04:40,2021-05-16
+3,3,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-16
+4,4,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B738 (CP-3138),Landed 07:19,2021-05-16
+5,5,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 08:16,2021-05-16
+6,6,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3130),Landed 09:18,2021-05-16
+7,7,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 09:42,2021-05-16
+8,8,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3077),Landed 10:58,2021-05-16
+9,9,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-16
+10,10,13:00 Z8291,,Trinidad (TDD),Amaszonas E90,Unknown,2021-05-16
+11,11,13:20 OB638,,Cochabamba (CBB),Boliviana de Aviacion B737 (CP-2923),Landed 13:20,2021-05-16
+12,12,13:35 8J381,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-16
+13,13,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-16
+14,14,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 14:45,2021-05-16
+15,15,14:20,Z8157,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 13:58,2021-05-16
+16,16,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion B738 (CP-3151),Landed 17:37,2021-05-16
+17,17,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:25,2021-05-16
+18,18,16:10 OB644,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 16:07,2021-05-16
+19,19,16:10 8J581,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-16
+20,20,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-3077),Landed 16:42,2021-05-16
+21,21,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion 737,Landed 17:34,2021-05-16
+22,22,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:25,2021-05-16
+23,23,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:41,2021-05-16
+24,24,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 18:43,2021-05-16
+25,25,19:29 LA9528,,Sao Paulo (GRU),LATAM Airlines 320,Unknown,2021-05-16
+26,26,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 21:46,2021-05-16
+27,27,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-16
+28,28,19:30 8J688,,Tarija (TJA),EcoJet AR8,Unknown,2021-05-16
+29,29,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:21,2021-05-16
+30,30,20:30,Z8181,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 20:25,2021-05-16
+31,31,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 21:09,2021-05-16
+32,32,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B738 (CP-3138),Landed 22:05,2021-05-16
+33,33,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-16
+34,34,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:12,2021-05-16
+35,35,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-16
+36,36,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1538CMP),Landed 22:59,2021-05-16
+0,0,04:00,OB777,Madrid (MAD),Boliviana de Aviacion B763 (CP-2881),Landed 03:05,2021-05-17
+1,1,04:57,,Miami (MIA),- B763,Canceled,2021-05-17
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 05:11,2021-05-17
+3,3,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-17
+4,4,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-17
+5,5,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-17
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:57,2021-05-17
+7,7,08:15 OB692,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-17
+8,8,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-17
+9,9,08:35 OB1662,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-17
+10,10,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 08:55,2021-05-17
+11,11,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 09:17,2021-05-17
+12,12,09:30 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-17
+13,13,09:30 8J680,,Tarija (TJA),EcoJet AR8,Unknown,2021-05-17
+14,14,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-17
+15,15,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:34,2021-05-17
+16,16,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-17
+17,17,11:10,Z8171,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 10:53,2021-05-17
+18,18,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-17
+19,19,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-2716),Landed 11:07,2021-05-17
+20,20,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-17
+21,21,13:00 Z8291,,Trinidad (TDD),Amaszonas E90,Unknown,2021-05-17
+22,22,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 13:28,2021-05-17
+23,23,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 13:40,2021-05-17
+24,24,14:20,Z8157,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 14:01,2021-05-17
+25,25,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 15:00,2021-05-17
+26,26,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 15:20,2021-05-17
+27,27,15:45 OB674,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-17
+28,28,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion 733,Unknown,2021-05-17
+29,29,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-3138),Landed 17:07,2021-05-17
+30,30,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3077),Landed 17:53,2021-05-17
+31,31,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 17:28,2021-05-17
+32,32,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:42,2021-05-17
+33,33,18:45 8J482,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-17
+34,34,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 18:50,2021-05-17
+35,35,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 19:55,2021-05-17
+36,36,19:30,OB680,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-17
+37,37,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 20:13,2021-05-17
+38,38,20:30,Z8181,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 20:19,2021-05-17
+39,39,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 21:02,2021-05-17
+40,40,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 21:38,2021-05-17
+41,41,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 21:46,2021-05-17
+42,42,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-17
+43,43,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:05,2021-05-17
+44,44,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-17
+45,45,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1716CMP),Landed 22:59,2021-05-17
+0,0,04:55 UX25,,Madrid (MAD),Air Europa B789 (EC-NFM),Landed 04:33,2021-05-18
+1,1,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 06:41,2021-05-18
+2,2,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 06:58,2021-05-18
+3,3,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 07:01,2021-05-18
+4,4,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 07:44,2021-05-18
+5,5,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 08:24,2021-05-18
+6,6,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 08:48,2021-05-18
+7,7,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 09:19,2021-05-18
+8,8,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:38,2021-05-18
+9,9,10:00 AR1982,,Buenos Aires (AEP),Aerolineas Argentinas E190 (LV-CPI),Unknown,2021-05-18
+10,10,10:40 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-18
+11,11,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-18
+12,12,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3145),Landed 10:53,2021-05-18
+13,13,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-18
+14,14,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-2716),Landed 11:00,2021-05-18
+15,15,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-18
+16,16,13:00 Z8291,,Trinidad (TDD),Amaszonas E190 (M-ABMI),Landed 12:42,2021-05-18
+17,17,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 13:31,2021-05-18
+18,18,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 13:41,2021-05-18
+19,19,14:20,Z8157,Cochabamba (CBB),Amaszonas E190 (CP-3130),Landed 14:04,2021-05-18
+20,20,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 15:27,2021-05-18
+21,21,15:55 OB423,,Cobija (CIJ),Boliviana de Aviacion 737,Unknown,2021-05-18
+22,22,16:16 CM240,,Panama City (PTY),Copa Airlines B738 (HP-1841CMP),Landed 16:34,2021-05-18
+23,23,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-2716),Landed 16:37,2021-05-18
+24,24,17:30 OB717,,Salta (SLA),Boliviana de Aviacion CRJ,Unknown,2021-05-18
+25,25,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 17:20,2021-05-18
+26,26,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3019),Landed 17:25,2021-05-18
+27,27,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3145),Landed 17:42,2021-05-18
+28,28,18:05 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-18
+29,29,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-18
+30,30,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 19:43,2021-05-18
+31,31,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:26,2021-05-18
+32,32,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 20:13,2021-05-18
+33,33,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 21:04,2021-05-18
+34,34,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 21:08,2021-05-18
+35,35,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 21:57,2021-05-18
+36,36,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-18
+37,37,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:02,2021-05-18
+38,38,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-18
+39,39,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1853CMP),Landed 22:47,2021-05-18
+0,0,4:07 AM LA2406,,Lima (LIM),LATAM Airlines A319 (CC-CPM),Landed 4:06 AM,2021-05-19
+1,1,4:56 AM,,Miami (MIA),- B763,Canceled,2021-05-19
+2,2,5:30 AM OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3017),Landed 5:18 AM,2021-05-19
+3,3,6:50 AM OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 6:32 AM,2021-05-19
+4,4,7:10 AM OB660,,La Paz (LPB),Boliviana de Aviacion 737,Landed 7:17 AM,2021-05-19
+5,5,7:15 AM OB632,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-19
+6,6,7:30 AM OB662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 7:25 AM,2021-05-19
+7,7,8:00 AM,Z8100,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 7:49 AM,2021-05-19
+8,8,8:30 AM OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 8:16 AM,2021-05-19
+9,9,8:55 AM OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 8:42 AM,2021-05-19
+10,10,9:30 AM,Z8151,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 9:18 AM,2021-05-19
+11,11,9:30 AM 8J680,,Tarija (TJA),EcoJet AR8,Unknown,2021-05-19
+12,12,9:50 AM OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-19
+13,13,9:50 AM,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 9:34 AM,2021-05-19
+14,14,10:55 AM OB636,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 10:41 AM,2021-05-19
+15,15,11:10 AM,Z8171,Sucre (SRE),Amaszonas E190 (CP-3145),Landed 10:55 AM,2021-05-19
+16,16,11:10 AM OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-19
+17,17,11:15 AM OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3019),Landed 11:02 AM,2021-05-19
+18,18,12:00 PM 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-19
+19,19,12:50 PM OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-19
+20,20,1:00 PM Z8291,,Trinidad (TDD),Amaszonas E190 (M-ABMI),Landed 12:46 PM,2021-05-19
+21,21,1:40 PM OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 1:31 PM,2021-05-19
+22,22,2:00 PM OB670,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-19
+23,23,2:20 PM,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-05-19
+24,24,3:15 PM OB642,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 3:14 PM,2021-05-19
+25,25,3:30 PM OB735,,Sao Paulo (GRU),Boliviana de Aviacion B738 (CP-3138),Landed 3:41 PM,2021-05-19
+26,26,3:30 PM,Z8114,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 3:19 PM,2021-05-19
+27,27,4:16 PM CM240,,Panama City (PTY),Copa Airlines (Star Alliance Livery) B738 (HP-1830CMP),Landed 3:48 PM,2021-05-19
+28,28,4:55 PM OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-3019),Landed 4:34 PM,2021-05-19
+29,29,5:20 PM AR1998,,Montevideo (MVD),Aerolineas Argentinas E190 (LV-CHR),Unknown,2021-05-19
+30,30,5:25 PM OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-3151),Landed 5:13 PM,2021-05-19
+31,31,5:40 PM OB676,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-19
+32,32,6:00 PM,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 5:38 PM,2021-05-19
+33,33,6:45 PM 8J482,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-19
+34,34,6:50 PM OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 7:17 PM,2021-05-19
+35,35,6:55 PM OB587,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-19
+36,36,7:30 PM,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 7:29 PM,2021-05-19
+37,37,7:30 PM,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 8:34 PM,2021-05-19
+38,38,8:30 PM,Z8118,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 8:17 PM,2021-05-19
+39,39,8:30 PM,Z8181,Sucre (SRE),Amaszonas E190 (CP-3145),Landed 8:13 PM,2021-05-19
+40,40,9:20 PM,Z8161,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 9:00 PM,2021-05-19
+41,41,9:25 PM OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 10:58 PM,2021-05-19
+42,42,9:50 PM OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 9:45 PM,2021-05-19
+43,43,10:05 PM OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-19
+44,44,10:15 PM,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 10:01 PM,2021-05-19
+45,45,10:50 PM OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-19
+46,46,11:11 PM,CM127,Panama City (PTY),Copa Airlines B738 (HP-1857CMP),Landed 10:39 PM,2021-05-19
+0,0,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-20
+1,1,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 738,Canceled,2021-05-20
+2,2,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-20
+3,3,08:00,Z8100,La Paz (LPB),Amaszonas E90,Unknown,2021-05-20
+4,4,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-20
+5,5,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion 738,Canceled,2021-05-20
+6,6,09:30,Z8151,Cochabamba (CBB),Amaszonas E90,Canceled,2021-05-20
+7,7,09:50,Z8102,La Paz (LPB),Amaszonas E90,Unknown,2021-05-20
+8,8,10:40 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-20
+9,9,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-20
+10,10,11:10,Z8171,Sucre (SRE),Amaszonas E90,Unknown,2021-05-20
+11,11,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-20
+12,12,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-20
+13,13,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-20
+14,14,13:00 Z8291,,Trinidad (TDD),Amaszonas E90,Unknown,2021-05-20
+15,15,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-05-20
+16,16,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:09,2021-05-20
+17,17,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-05-20
+18,18,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 19:17,2021-05-20
+19,19,15:30,Z8114,La Paz (LPB),Amaszonas E90,Unknown,2021-05-20
+20,20,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-2716),Landed 20:23,2021-05-20
+21,21,17:10,Z8423,Iquique (IQQ),Amaszonas E190 (CP-3145),Landed 22:31,2021-05-20
+22,22,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-20
+23,23,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 20:54,2021-05-20
+24,24,17:50,Z8116,La Paz (LPB),Amaszonas E90,Canceled,2021-05-20
+25,25,18:05 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-20
+26,26,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B763 (CP-2881),Landed 19:22,2021-05-20
+27,27,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 22:20,2021-05-20
+28,28,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 22:46,2021-05-20
+29,29,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 20:10,2021-05-20
+30,30,20:30,Z8181,Sucre (SRE),Amaszonas E90,Unknown,2021-05-20
+31,31,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 20:58,2021-05-20
+32,32,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-20
+33,33,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 22:26,2021-05-20
+34,34,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-20
+35,35,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:02,2021-05-20
+36,36,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-20
+37,37,23:11,CM127,Panama City (PTY),Copa Airlines (Star Alliance Livery) B738 (HP-1728CMP),Delayed 23:58,2021-05-20
+0,0,04:48,,Miami (MIA),- B763,Canceled,2021-05-22
+1,1,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-2881),Landed 04:40,2021-05-22
+2,2,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 06:44,2021-05-22
+3,3,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-22
+4,4,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 07:14,2021-05-22
+5,5,07:30 OB662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 07:27,2021-05-22
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:44,2021-05-22
+7,7,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-22
+8,8,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 09:00,2021-05-22
+9,9,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3130),Landed 09:21,2021-05-22
+10,10,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-22
+11,11,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3145),Landed 09:40,2021-05-22
+12,12,10:40 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-22
+13,13,10:40 OB1664,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-22
+14,14,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-22
+15,15,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3145),Landed 12:34,2021-05-22
+16,16,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-22
+17,17,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-22
+18,18,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-22
+19,19,13:20 OB638,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 13:03,2021-05-22
+20,20,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 13:39,2021-05-22
+21,21,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-22
+22,22,14:20,Z8157,Cochabamba (CBB),Amaszonas E190 (CP-3130),Landed 14:08,2021-05-22
+23,23,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-22
+24,24,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion B738 (CP-3151),Landed 15:52,2021-05-22
+25,25,15:30,Z8114,La Paz (LPB),Amaszonas E190 (M-ABMI),Landed 15:09,2021-05-22
+26,26,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-3138),Landed 17:32,2021-05-22
+27,27,17:30 OB717,,Salta (SLA),Boliviana de Aviacion CRJ,Unknown,2021-05-22
+28,28,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-22
+29,29,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3145),Landed 17:37,2021-05-22
+30,30,18:05 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-22
+31,31,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 18:39,2021-05-22
+32,32,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 19:47,2021-05-22
+33,33,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 20:00,2021-05-22
+34,34,20:20 OB652,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-22
+35,35,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 20:14,2021-05-22
+36,36,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 20:56,2021-05-22
+37,37,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-22
+38,38,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-22
+39,39,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-22
+40,40,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1726CMP),Landed 22:55,2021-05-22
+0,0,04:07 LA2406,,Lima (LIM),LATAM Airlines A319 (CC-CPE),Unknown,2021-05-23
+1,1,04:44,,Miami (MIA),- B763,Canceled,2021-05-23
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 04:39,2021-05-23
+3,3,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 06:53,2021-05-23
+4,4,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 06:56,2021-05-23
+5,5,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-05-23
+6,6,09:30,Z8151,Cochabamba (CBB),Amaszonas E90,Unknown,2021-05-23
+7,7,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3145),Landed 09:27,2021-05-23
+8,8,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-2716),Landed 11:09,2021-05-23
+9,9,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-23
+10,10,13:00 Z8291,,Trinidad (TDD),Amaszonas E90,Unknown,2021-05-23
+11,11,13:20 OB638,,Cochabamba (CBB),Boliviana de Aviacion 737,Canceled,2021-05-23
+12,12,13:35 8J381,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-23
+13,13,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 13:25,2021-05-23
+14,14,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 13:45,2021-05-23
+15,15,14:20,Z8157,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 13:57,2021-05-23
+16,16,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion B738 (CP-3138),Landed 15:44,2021-05-23
+17,17,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:19,2021-05-23
+18,18,16:10 OB644,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-23
+19,19,16:10 8J581,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-23
+20,20,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-2716),Landed 16:34,2021-05-23
+21,21,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion 737,Unknown,2021-05-23
+22,22,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 17:21,2021-05-23
+23,23,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:47,2021-05-23
+24,24,18:45 OB1676,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-23
+25,25,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-23
+26,26,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 19:03,2021-05-23
+27,27,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:28,2021-05-23
+28,28,19:30 8J688,,Tarija (TJA),EcoJet AR8,Unknown,2021-05-23
+29,29,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:21,2021-05-23
+30,30,20:30,Z8181,Sucre (SRE),Amaszonas E190 (CP-3145),Landed 20:10,2021-05-23
+31,31,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 20:54,2021-05-23
+32,32,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion 738,Unknown,2021-05-23
+33,33,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-23
+34,34,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:00,2021-05-23
+35,35,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-23
+36,36,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1852CMP),Landed 22:44,2021-05-23
+0,0,04:00,OB777,Madrid (MAD),Boliviana de Aviacion B763 (CP-3017),Landed 03:08,2021-05-24
+1,1,04:45,,Miami (MIA),- B763,Canceled,2021-05-24
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-2881),Landed 04:29,2021-05-24
+3,3,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 06:35,2021-05-24
+4,4,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 06:58,2021-05-24
+5,5,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 07:06,2021-05-24
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:59,2021-05-24
+7,7,08:15 OB692,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-24
+8,8,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-24
+9,9,08:35 OB1662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 08:16,2021-05-24
+10,10,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-24
+11,11,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 09:25,2021-05-24
+12,12,09:30 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-24
+13,13,09:30 8J680,,Tarija (TJA),EcoJet AR8,Unknown,2021-05-24
+14,14,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-24
+15,15,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:39,2021-05-24
+16,16,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 10:46,2021-05-24
+17,17,11:10,Z8171,Sucre (SRE),Amaszonas E90,Unknown,2021-05-24
+18,18,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-24
+19,19,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-24
+20,20,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-24
+21,21,13:00 Z8291,,Trinidad (TDD),Amaszonas E90,Unknown,2021-05-24
+22,22,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 13:29,2021-05-24
+23,23,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 13:42,2021-05-24
+24,24,14:20,Z8157,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 14:05,2021-05-24
+25,25,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-24
+26,26,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:13,2021-05-24
+27,27,15:45 OB674,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 15:34,2021-05-24
+28,28,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-2716),Landed 16:32,2021-05-24
+29,29,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-2925),Unknown,2021-05-24
+30,30,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3077),Landed 17:29,2021-05-24
+31,31,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 17:54,2021-05-24
+32,32,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:36,2021-05-24
+33,33,18:45 8J482,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-24
+34,34,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-24
+35,35,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 19:46,2021-05-24
+36,36,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:30,2021-05-24
+37,37,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:16,2021-05-24
+38,38,20:30,Z8181,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 20:20,2021-05-24
+39,39,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 21:06,2021-05-24
+40,40,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 21:50,2021-05-24
+41,41,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-24
+42,42,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-24
+43,43,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:00,2021-05-24
+44,44,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-24
+45,45,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1854CMP),Landed 22:26,2021-05-24
+0,0,04:10 LA2406,,Lima (LIM),LATAM Airlines A319 (CC-CYJ),Landed 03:59,2021-05-26
+1,1,04:47,,Miami (MIA),- B763,Canceled,2021-05-26
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-2881),Landed 04:41,2021-05-26
+3,3,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-26
+4,4,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-26
+5,5,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 07:00,2021-05-26
+6,6,07:30 OB662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 07:15,2021-05-26
+7,7,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3145),Landed 07:49,2021-05-26
+8,8,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-26
+9,9,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 08:49,2021-05-26
+10,10,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 09:25,2021-05-26
+11,11,09:30 8J680,,Tarija (TJA),EcoJet AR8,Unknown,2021-05-26
+12,12,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-26
+13,13,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:43,2021-05-26
+14,14,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 10:35,2021-05-26
+15,15,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 10:53,2021-05-26
+16,16,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-26
+17,17,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-26
+18,18,12:00 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-26
+19,19,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-26
+20,20,13:00 Z8291,,Trinidad (TDD),Amaszonas E190 (M-ABMI),Landed 12:44,2021-05-26
+21,21,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 13:53,2021-05-26
+22,22,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-26
+23,23,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-05-26
+24,24,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-26
+25,25,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion B738 (CP-3138),Landed 15:38,2021-05-26
+26,26,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:12,2021-05-26
+27,27,16:16 CM240,,Panama City (PTY),Copa Airlines B738 (HP-1730CMP),Landed 15:52,2021-05-26
+28,28,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-3077),Landed 16:32,2021-05-26
+29,29,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-3151),Landed 17:39,2021-05-26
+30,30,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3019),Landed 17:28,2021-05-26
+31,31,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-26
+32,32,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:43,2021-05-26
+33,33,18:45 8J482,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-26
+34,34,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-26
+35,35,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 19:42,2021-05-26
+36,36,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:38,2021-05-26
+37,37,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:16,2021-05-26
+38,38,20:30,Z8181,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 20:23,2021-05-26
+39,39,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 21:00,2021-05-26
+40,40,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-26
+41,41,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-26
+42,42,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-26
+43,43,22:15,Z8120,La Paz (LPB),Amaszonas E90,Unknown,2021-05-26
+44,44,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-26
+45,45,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1724CMP),Landed 22:39,2021-05-26
+0,0,04:52,,Miami (MIA),- B763,Canceled,2021-05-27
+1,1,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3017),Landed 04:46,2021-05-27
+2,2,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 06:45,2021-05-27
+3,3,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 06:55,2021-05-27
+4,4,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 07:01,2021-05-27
+5,5,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:43,2021-05-27
+6,6,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-27
+7,7,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-27
+8,8,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (M-ABMI),Landed 09:19,2021-05-27
+9,9,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:34,2021-05-27
+10,10,10:40 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-27
+11,11,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 10:43,2021-05-27
+12,12,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 10:55,2021-05-27
+13,13,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-27
+14,14,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-27
+15,15,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-27
+16,16,13:00 Z8291,,Trinidad (TDD),Amaszonas E190 (M-ABMI),Landed 12:45,2021-05-27
+17,17,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 13:32,2021-05-27
+18,18,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 13:45,2021-05-27
+19,19,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-05-27
+20,20,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 15:04,2021-05-27
+21,21,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:10,2021-05-27
+22,22,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-2716),Landed 16:25,2021-05-27
+23,23,17:10,Z8423,Iquique (IQQ),Amaszonas E90,Unknown,2021-05-27
+24,24,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-27
+25,25,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-27
+26,26,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:36,2021-05-27
+27,27,18:05 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-27
+28,28,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B763 (CP-3086),Landed 18:46,2021-05-27
+29,29,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 19:28,2021-05-27
+30,30,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:15,2021-05-27
+31,31,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:10,2021-05-27
+32,32,20:30,Z8181,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 20:07,2021-05-27
+33,33,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3130),Landed 21:02,2021-05-27
+34,34,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-27
+35,35,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-27
+36,36,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-27
+37,37,22:15,Z8120,La Paz (LPB),Amaszonas E90,Unknown,2021-05-27
+38,38,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-27
+39,39,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1847CMP),Landed 22:34,2021-05-27
+0,0,04:46,,Miami (MIA),- B763,Canceled,2021-05-28
+1,1,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-2881),Landed 04:36,2021-05-28
+2,2,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 06:37,2021-05-28
+3,3,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-28
+4,4,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 06:58,2021-05-28
+5,5,07:30 OB662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 07:17,2021-05-28
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:43,2021-05-28
+7,7,08:15 OB692,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-28
+8,8,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 08:47,2021-05-28
+9,9,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-28
+10,10,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 09:15,2021-05-28
+11,11,09:30 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-28
+12,12,09:30 8J680,,Tarija (TJA),EcoJet AR8,Unknown,2021-05-28
+13,13,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-28
+14,14,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:35,2021-05-28
+15,15,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-28
+16,16,11:10,Z8171,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 10:55,2021-05-28
+17,17,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-2716),Landed 11:22,2021-05-28
+18,18,13:00 Z8291,,Trinidad (TDD),Amaszonas E190 (CP-3142),Landed 12:46,2021-05-28
+19,19,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 13:27,2021-05-28
+20,20,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-28
+21,21,14:20,Z8157,Cochabamba (CBB),Amaszonas E190 (CP-3130),Landed 14:04,2021-05-28
+22,22,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion 738,Unknown,2021-05-28
+23,23,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:15,2021-05-28
+24,24,15:55 OB423,,Cobija (CIJ),Boliviana de Aviacion 733,Unknown,2021-05-28
+25,25,16:16 CM240,,Panama City (PTY),Copa Airlines B738 (HP-1726CMP),Landed 16:28,2021-05-28
+26,26,16:45 OB694,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 16:31,2021-05-28
+27,27,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-3019),Landed 16:38,2021-05-28
+28,28,17:10,Z8401,Asuncion (ASU),Amaszonas E190 (M-ABMI),Landed 17:09,2021-05-28
+29,29,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-2716),Landed 17:32,2021-05-28
+30,30,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-28
+31,31,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 17:37,2021-05-28
+32,32,18:45 8J482,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-28
+33,33,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-28
+34,34,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 19:14,2021-05-28
+35,35,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:40,2021-05-28
+36,36,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:19,2021-05-28
+37,37,20:30,Z8181,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 20:10,2021-05-28
+38,38,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 21:00,2021-05-28
+39,39,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-28
+40,40,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 21:53,2021-05-28
+41,41,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-28
+42,42,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:01,2021-05-28
+43,43,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-28
+44,44,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1855CMP),Landed 22:38,2021-05-28
+45,45,23:45 OB686,,La Paz (LPB),Boliviana de Aviacion 737,Scheduled,2021-05-28
+0,0,04:47,,Miami (MIA),- B763,Canceled,2021-05-29
+1,1,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 04:44,2021-05-29
+2,2,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 06:48,2021-05-29
+3,3,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-29
+4,4,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B738 (CP-3151),Landed 07:05,2021-05-29
+5,5,07:30 OB662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 07:19,2021-05-29
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:46,2021-05-29
+7,7,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-29
+8,8,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-29
+9,9,09:30,Z8151,Cochabamba (CBB),Amaszonas E90,Unknown,2021-05-29
+10,10,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-29
+11,11,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:28,2021-05-29
+12,12,10:40 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-29
+13,13,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Unknown,2021-05-29
+14,14,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-29
+15,15,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-29
+16,16,12:40,Z8171,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 12:31,2021-05-29
+17,17,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-29
+18,18,13:20 OB638,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 13:12,2021-05-29
+19,19,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-05-29
+20,20,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 13:38,2021-05-29
+21,21,14:20,Z8157,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 14:33,2021-05-29
+22,22,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-29
+23,23,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion B738 (CP-3138),Landed 15:38,2021-05-29
+24,24,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:15,2021-05-29
+25,25,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-2925),Unknown,2021-05-29
+26,26,17:30 OB717,,Salta (SLA),Boliviana de Aviacion CRJ,Unknown,2021-05-29
+27,27,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 17:22,2021-05-29
+28,28,18:00,Z8116,La Paz (LPB),Amaszonas E190 (M-ABMI),Landed 17:30,2021-05-29
+29,29,18:05 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-29
+30,30,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 18:33,2021-05-29
+31,31,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-29
+32,32,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:48,2021-05-29
+33,33,20:20 OB652,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 19:58,2021-05-29
+34,34,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:14,2021-05-29
+35,35,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 20:49,2021-05-29
+36,36,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 21:16,2021-05-29
+37,37,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-29
+38,38,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-29
+39,39,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1852CMP),Landed 22:33,2021-05-29
+0,0,04:00,OB777,Madrid (MAD),Boliviana de Aviacion B763 (CP-3017),Landed 03:10,2021-05-31
+1,1,04:48,,Miami (MIA),- B763,Canceled,2021-05-31
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 04:43,2021-05-31
+3,3,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 06:38,2021-05-31
+4,4,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-05-31
+5,5,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 07:00,2021-05-31
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:48,2021-05-31
+7,7,08:15 OB692,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-31
+8,8,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 08:15,2021-05-31
+9,9,08:35 OB1662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 08:11,2021-05-31
+10,10,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 08:53,2021-05-31
+11,11,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 09:22,2021-05-31
+12,12,09:30 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-05-31
+13,13,09:30 8J680,,Tarija (TJA),EcoJet AR8,Unknown,2021-05-31
+14,14,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-05-31
+15,15,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:53,2021-05-31
+16,16,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-31
+17,17,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 10:56,2021-05-31
+18,18,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-05-31
+19,19,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-2716),Landed 11:02,2021-05-31
+20,20,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-31
+21,21,13:00 Z8291,,Trinidad (TDD),Amaszonas E90,Unknown,2021-05-31
+22,22,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 13:22,2021-05-31
+23,23,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-31
+24,24,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-05-31
+25,25,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-31
+26,26,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:17,2021-05-31
+27,27,15:45 OB674,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 15:23,2021-05-31
+28,28,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-2716),Landed 16:37,2021-05-31
+29,29,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-3151),Landed 17:08,2021-05-31
+30,30,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3077),Landed 17:41,2021-05-31
+31,31,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-31
+32,32,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:33,2021-05-31
+33,33,18:45 8J482,,Trinidad (TDD),EcoJet AR8,Unknown,2021-05-31
+34,34,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 18:47,2021-05-31
+35,35,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-05-31
+36,36,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 19:19,2021-05-31
+37,37,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:17,2021-05-31
+38,38,20:30,Z8181,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 20:22,2021-05-31
+39,39,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 20:58,2021-05-31
+40,40,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 21:37,2021-05-31
+41,41,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 22:27,2021-05-31
+42,42,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-05-31
+43,43,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 21:55,2021-05-31
+44,44,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-05-31
+45,45,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1718CMP),Landed 22:37,2021-05-31
+46,46,23:11,CM127,Panama City (PTY),Copa Airlines B738 (HP-1718CMP),Landed 22:37,2021-05-31
+0,0,04:55 UX25,,Madrid (MAD),Air Europa B789 (EC-MTI),Landed 05:09,2021-06-01
+1,1,04:57,,Miami (MIA),- B763,Canceled,2021-06-01
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-2881),Landed 04:48,2021-06-01
+3,3,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-01
+4,4,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 06:50,2021-06-01
+5,5,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion 738,Unknown,2021-06-01
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:48,2021-06-01
+7,7,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 08:18,2021-06-01
+8,8,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 08:50,2021-06-01
+9,9,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 09:35,2021-06-01
+10,10,09:50,Z8102,La Paz (LPB),Amaszonas E90,Unknown,2021-06-01
+11,11,10:40 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-06-01
+12,12,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion B737 (CP-2923),Landed 10:33,2021-06-01
+13,13,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3145),Landed 10:53,2021-06-01
+14,14,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-06-01
+15,15,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3077),Landed 10:56,2021-06-01
+16,16,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-01
+17,17,13:00 Z8291,,Trinidad (TDD),Amaszonas E190 (CP-3142),Landed 12:50,2021-06-01
+18,18,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-01
+19,19,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-01
+20,20,14:03 LA864,,Santiago (SCL),LATAM Airlines A320,Unknown,2021-06-01
+21,21,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-01
+22,22,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:16,2021-06-01
+23,23,15:55 OB423,,Cobija (CIJ),Boliviana de Aviacion B737 (CP-2923),Landed 15:34,2021-06-01
+24,24,16:16 CM240,,Panama City (PTY),Copa Airlines B738 (HP-1821CMP),Landed 15:49,2021-06-01
+25,25,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-3019),Landed 16:30,2021-06-01
+26,26,16:55 OB674,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-01
+27,27,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-3151),Landed 17:20,2021-06-01
+28,28,17:30 OB717,,Salta (SLA),Boliviana de Aviacion CRJ,Unknown,2021-06-01
+29,29,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3077),Landed 17:24,2021-06-01
+30,30,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-01
+31,31,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:32,2021-06-01
+32,32,18:05 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-06-01
+33,33,18:10,Z8159,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-01
+34,34,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion 737,Landed 18:49,2021-06-01
+35,35,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-01
+36,36,19:30,OB680,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-01
+37,37,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:17,2021-06-01
+38,38,20:30,Z8181,Sucre (SRE),Amaszonas E90,Unknown,2021-06-01
+39,39,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 20:59,2021-06-01
+40,40,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 21:22,2021-06-01
+41,41,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 21:49,2021-06-01
+42,42,21:52,CM127,Panama City (PTY),Copa Airlines B738 (HP-1857CMP),Landed 21:19,2021-06-01
+43,43,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-01
+44,44,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 21:57,2021-06-01
+45,45,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-06-01
+0,0,04:09 LA2406,,Lima (LIM),LATAM Airlines A319 (CC-CYJ),Landed 04:04,2021-06-02
+1,1,04:58,,Miami (MIA),- B763,Canceled,2021-06-02
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 04:59,2021-06-02
+3,3,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-02
+4,4,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-02
+5,5,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 06:58,2021-06-02
+6,6,07:30 OB662,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-02
+7,7,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:52,2021-06-02
+8,8,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 08:23,2021-06-02
+9,9,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 08:52,2021-06-02
+10,10,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 09:19,2021-06-02
+11,11,09:30 8J680,,Tarija (TJA),EcoJet AR8,Unknown,2021-06-02
+12,12,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:35,2021-06-02
+13,13,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-06-02
+14,14,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion B737 (CP-2923),Landed 10:39,2021-06-02
+15,15,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 10:52,2021-06-02
+16,16,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-06-02
+17,17,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3019),Landed 10:56,2021-06-02
+18,18,12:00 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-06-02
+19,19,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-02
+20,20,13:00 Z8291,,Trinidad (TDD),Amaszonas E190 (CP-3145),Landed 12:48,2021-06-02
+21,21,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 13:31,2021-06-02
+22,22,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 13:56,2021-06-02
+23,23,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-02
+24,24,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion B738 (CP-3151),Landed 15:03,2021-06-02
+25,25,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion 738,Unknown,2021-06-02
+26,26,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:21,2021-06-02
+27,27,16:16 CM240,,Panama City (PTY),Copa Airlines B738 (HP-1851CMP),Landed 15:58,2021-06-02
+28,28,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion 733,Unknown,2021-06-02
+29,29,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 17:28,2021-06-02
+30,30,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion 737,Landed 17:24,2021-06-02
+31,31,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:37,2021-06-02
+32,32,18:10,Z8159,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-02
+33,33,18:45 8J482,,Trinidad (TDD),EcoJet AR8,Unknown,2021-06-02
+34,34,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B738 (CP-3151),Landed 18:43,2021-06-02
+35,35,19:30,OB680,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-02
+36,36,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 19:25,2021-06-02
+37,37,20:30,Z8181,Sucre (SRE),Amaszonas E90,Unknown,2021-06-02
+38,38,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:26,2021-06-02
+39,39,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 21:01,2021-06-02
+40,40,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 21:23,2021-06-02
+41,41,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-02
+42,42,21:52,CM127,Panama City (PTY),Copa Airlines B738 (HP-1856CMP),Landed 21:35,2021-06-02
+43,43,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-02
+44,44,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:00,2021-06-02
+45,45,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-06-02
+0,0,03:20 AV8382,,Bogota (BOG),Avianca A320 (HC-CSF),Landed 02:55,2021-06-03
+1,1,04:57,,Miami (MIA),- B763,Canceled,2021-06-03
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-2881),Landed 05:05,2021-06-03
+3,3,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3019),Landed 06:41,2021-06-03
+4,4,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-03
+5,5,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-03
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:55,2021-06-03
+7,7,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-03
+8,8,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 08:37,2021-06-03
+9,9,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 09:15,2021-06-03
+10,10,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:41,2021-06-03
+11,11,10:40 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-06-03
+12,12,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion B738 (CP-3151),Landed 10:53,2021-06-03
+13,13,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3145),Landed 11:00,2021-06-03
+14,14,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-06-03
+15,15,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-06-03
+16,16,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-03
+17,17,13:00 Z8291,,Trinidad (TDD),Amaszonas E190 (CP-3142),Landed 12:47,2021-06-03
+18,18,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 13:25,2021-06-03
+19,19,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-03
+20,20,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-03
+21,21,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-03
+22,22,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:10,2021-06-03
+23,23,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B737 (CP-2923),Landed 16:31,2021-06-03
+24,24,17:10,Z8423,Iquique (IQQ),Amaszonas E190 (CP-3145),Landed 17:38,2021-06-03
+25,25,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion 738,Canceled,2021-06-03
+26,26,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3019),Landed 17:19,2021-06-03
+27,27,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 17:25,2021-06-03
+28,28,17:50,Z8116,La Paz (LPB),Amaszonas E90,Unknown,2021-06-03
+29,29,18:05 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-06-03
+30,30,18:10,Z8159,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-03
+31,31,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B763 (CP-3017),Landed 18:59,2021-06-03
+32,32,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 19:25,2021-06-03
+33,33,19:30,OB680,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-03
+34,34,20:30,Z8181,Sucre (SRE),Amaszonas E190 (CP-3145),Landed 20:18,2021-06-03
+35,35,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:14,2021-06-03
+36,36,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3142),Landed 20:53,2021-06-03
+37,37,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 21:12,2021-06-03
+38,38,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-03
+39,39,21:52,CM127,Panama City (PTY),Copa Airlines B738 (HP-1857CMP),Landed 21:27,2021-06-03
+40,40,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-03
+41,41,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 22:49,2021-06-03
+42,42,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-06-03
+0,0,04:54,,Miami (MIA),- B763,Canceled,2021-06-04
+1,1,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 04:55,2021-06-04
+2,2,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-04
+3,3,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 06:48,2021-06-04
+4,4,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 07:00,2021-06-04
+5,5,07:30 OB662,,La Paz (LPB),Boliviana de Aviacion 738,Canceled,2021-06-04
+6,6,08:00,Z8100,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 07:41,2021-06-04
+7,7,08:15 OB692,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-04
+8,8,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-04
+9,9,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 08:34,2021-06-04
+10,10,09:30,Z8151,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 09:17,2021-06-04
+11,11,09:30 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-06-04
+12,12,09:30 8J680,,Tarija (TJA),EcoJet AR8,Unknown,2021-06-04
+13,13,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:29,2021-06-04
+14,14,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-06-04
+15,15,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 10:40,2021-06-04
+16,16,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 11:01,2021-06-04
+17,17,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-06-04
+18,18,13:00 Z8291,,Trinidad (TDD),Amaszonas E190 (CP-3145),Landed 12:58,2021-06-04
+19,19,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 13:34,2021-06-04
+20,20,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 13:44,2021-06-04
+21,21,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-04
+22,22,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion 738,Unknown,2021-06-04
+23,23,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 15:15,2021-06-04
+24,24,15:55 OB423,,Cobija (CIJ),Boliviana de Aviacion 733,Unknown,2021-06-04
+25,25,16:16 CM240,,Panama City (PTY),Copa Airlines B738 (HP-1838CMP),Landed 15:50,2021-06-04
+26,26,16:45 OB694,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 16:24,2021-06-04
+27,27,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B737 (CP-2923),Landed 16:32,2021-06-04
+28,28,17:10,Z8401,Asuncion (ASU),Amaszonas E190 (CP-3142),Landed 17:09,2021-06-04
+29,29,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3077),Landed 17:17,2021-06-04
+30,30,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 17:23,2021-06-04
+31,31,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:31,2021-06-04
+32,32,18:10,Z8159,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-04
+33,33,18:45 8J482,,Trinidad (TDD),EcoJet AR8,Unknown,2021-06-04
+34,34,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-04
+35,35,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 19:12,2021-06-04
+36,36,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 19:27,2021-06-04
+37,37,20:30,Z8181,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 20:11,2021-06-04
+38,38,20:30,Z8118,La Paz (LPB),Amaszonas E190 (CP-3133),Landed 20:24,2021-06-04
+39,39,21:20,Z8161,Cochabamba (CBB),Amaszonas E190 (CP-3145),Landed 20:54,2021-06-04
+40,40,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 21:13,2021-06-04
+41,41,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-04
+42,42,21:52,CM127,Panama City (PTY),Copa Airlines (Star Alliance Livery) B738 (HP-1830CMP),Landed 22:03,2021-06-04
+43,43,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-04
+44,44,22:15,Z8120,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 21:54,2021-06-04
+45,45,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-06-04
+46,46,23:45 OB686,,La Paz (LPB),Boliviana de Aviacion 737,Scheduled,2021-06-04
+0,0,03:20 AV8382,,Bogota (BOG),Avianca A320 (HC-CSF),Landed 02:44,2021-06-05
+1,1,04:00,OB777,Madrid (MAD),Boliviana de Aviacion B763 (CP-2881),Landed 03:10,2021-06-05
+2,2,04:50,,Miami (MIA),- B763,Canceled,2021-06-05
+3,3,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3017),Landed 04:46,2021-06-05
+4,4,06:50 OB630,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-05
+5,5,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-05
+6,6,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-06-05
+7,7,07:30 OB662,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 07:12,2021-06-05
+8,8,08:00,Z8100,La Paz (LPB),Amaszonas E190 (M-ABMI),Landed 07:41,2021-06-05
+9,9,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-05
+10,10,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 08:35,2021-06-05
+11,11,09:30,Z8151,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-05
+12,12,09:50 OB331,,Oruro (ORU),Boliviana de Aviacion CRJ,Unknown,2021-06-05
+13,13,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:37,2021-06-05
+14,14,10:40 8J580,,Sucre (SRE),EcoJet AR8,Unknown,2021-06-05
+15,15,10:55 OB636,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 10:33,2021-06-05
+16,16,11:10,Z8171,Sucre (SRE),Amaszonas E190 (CP-3142),Landed 12:33,2021-06-05
+17,17,11:10 OB583,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-06-05
+18,18,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-06-05
+19,19,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-05
+20,20,13:20 OB638,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-05
+21,21,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 13:28,2021-06-05
+22,22,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-05
+23,23,14:03 LA864,,Santiago (SCL),LATAM Airlines 320,Unknown,2021-06-05
+24,24,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-05
+25,25,15:15 OB642,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-05
+26,26,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion B738 (CP-3151),Unknown,2021-06-05
+27,27,15:30,Z8114,La Paz (LPB),Amaszonas E190 (M-ABMI),Unknown,2021-06-05
+28,28,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion 738,Unknown,2021-06-05
+29,29,17:30 OB717,,Salta (SLA),Boliviana de Aviacion CRJ,Unknown,2021-06-05
+30,30,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 17:26,2021-06-05
+31,31,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:31,2021-06-05
+32,32,18:05 8J448,,Trinidad (TDD),EcoJet AR8,Unknown,2021-06-05
+33,33,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-2716),Landed 18:32,2021-06-05
+34,34,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion 733,Unknown,2021-06-05
+35,35,19:30,OB680,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 19:23,2021-06-05
+36,36,20:20 OB652,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 19:58,2021-06-05
+37,37,20:30,Z8118,La Paz (LPB),Amaszonas E190 (M-ABMI),Landed 20:08,2021-06-05
+38,38,21:20,Z8161,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-05
+39,39,21:25 OB682,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-05
+40,40,21:52,CM127,Panama City (PTY),Copa Airlines B738 (HP-1850CMP),Landed 21:26,2021-06-05
+41,41,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-05
+42,42,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-06-05
+0,0,04:23 LA2406,,Lima (LIM),LATAM Airlines A319 (CC-BCE),Landed 04:24,2021-06-06
+1,1,04:48,,Miami (MIA),- B763,Canceled,2021-06-06
+2,2,05:30 OB767,,Miami (MIA),Boliviana de Aviacion B763 (CP-3086),Landed 04:58,2021-06-06
+3,3,07:10 OB660,,La Paz (LPB),Boliviana de Aviacion 738,Canceled,2021-06-06
+4,4,07:15 OB632,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-06
+5,5,08:30 OB634,,Cochabamba (CBB),Boliviana de Aviacion B738 (CP-3138),Landed 08:16,2021-06-06
+6,6,08:55 OB664,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3151),Landed 08:37,2021-06-06
+7,7,09:30,Z8151,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-06
+8,8,09:50,Z8102,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 09:35,2021-06-06
+9,9,11:15 OB585,,Sucre (SRE),Boliviana de Aviacion B733 (CP-3077),Landed 11:01,2021-06-06
+10,10,12:50 OB668,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-06
+11,11,13:00 Z8291,,Trinidad (TDD),Amaszonas E90,Unknown,2021-06-06
+12,12,13:20 OB638,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-06
+13,13,13:35 8J381,,Trinidad (TDD),EcoJet AR8,Unknown,2021-06-06
+14,14,13:40 OB640,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-06
+15,15,14:00 OB670,,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-06
+16,16,14:20,Z8157,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-06
+17,17,15:30 OB735,,Sao Paulo (GRU),Boliviana de Aviacion 738,Unknown,2021-06-06
+18,18,15:30,Z8114,La Paz (LPB),Amaszonas E190 (CP-3142),Landed 15:09,2021-06-06
+19,19,16:10 OB644,,Cochabamba (CBB),Boliviana de Aviacion 733,Canceled,2021-06-06
+20,20,16:10 8J581,,Sucre (SRE),EcoJet AR8,Unknown,2021-06-06
+21,21,16:55 OB551,,Tarija (TJA),Boliviana de Aviacion B733 (CP-2716),Landed 16:29,2021-06-06
+22,22,17:25 OB709,,Buenos Aires (EZE),Boliviana de Aviacion B738 (CP-3151),Landed 17:35,2021-06-06
+23,23,17:40 OB587,,Sucre (SRE),Boliviana de Aviacion 733,Unknown,2021-06-06
+24,24,17:40 OB676,,La Paz (LPB),Boliviana de Aviacion B738 (CP-3138),Landed 17:22,2021-06-06
+25,25,18:00,Z8116,La Paz (LPB),Amaszonas E190 (CP-3130),Landed 17:39,2021-06-06
+26,26,18:10,Z8159,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-06
+27,27,18:50 OB646,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 18:34,2021-06-06
+28,28,19:30,OB650,Cochabamba (CBB),Boliviana de Aviacion 737,Unknown,2021-06-06
+29,29,19:30,OB680,La Paz (LPB),Boliviana de Aviacion 738,Unknown,2021-06-06
+30,30,19:30 8J688,,Tarija (TJA),EcoJet AR8,Unknown,2021-06-06
+31,31,20:30,Z8181,Sucre (SRE),Amaszonas E190 (M-ABMI),Landed 20:41,2021-06-06
+32,32,20:30,Z8118,La Paz (LPB),Amaszonas E90,Unknown,2021-06-06
+33,33,21:20,Z8161,Cochabamba (CBB),Amaszonas E90,Unknown,2021-06-06
+34,34,21:50 OB654,,Cochabamba (CBB),Boliviana de Aviacion B733 (CP-3077),Landed 21:29,2021-06-06
+35,35,21:52,CM127,Panama City (PTY),Copa Airlines (ConnectMiles.com Livery) B738 (HP-1849CMP),Landed 21:56,2021-06-06
+36,36,22:05 OB684,,La Paz (LPB),Boliviana de Aviacion 737,Unknown,2021-06-06
+37,37,22:15,Z8120,La Paz (LPB),Amaszonas E90,Unknown,2021-06-06
+38,38,22:50 OB656,,Cochabamba (CBB),Boliviana de Aviacion 733,Scheduled,2021-06-06

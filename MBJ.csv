@@ -115,3 +115,785 @@
 26,26,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N231JB),Landed 16:20,2021-05-12
 27,27,18:43 B6879,,New York (JFK),JetBlue Airways A320 (N706JB),Landed 18:47,2021-05-12
 28,28,19:52,,Fort Lauderdale (FXE),- (N255RJ),Unknown,2021-05-12
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N274JB),Landed 08:15,2021-05-13
+1,1,09:50 AA566,,Miami (MIA),American Airlines B738 (N971NN),Landed 09:27,2021-05-13
+2,2,10:34 B6207,,New York (EWR),JetBlue Airways A320 (N661JB),Landed 10:59,2021-05-13
+3,3,10:55 UA2126,,New York (EWR),United Airlines B738 (N76505),Landed 10:42,2021-05-13
+4,4,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N238JB),Landed 11:02,2021-05-13
+5,5,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N7862A),Landed 11:05,2021-05-13
+6,6,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N362DN),Landed 12:01,2021-05-13
+7,7,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N657NK),Landed 11:25,2021-05-13
+8,8,11:42 AA355,,Miami (MIA),American Airlines B738 (N981AN),Landed 11:50,2021-05-13
+9,9,11:50 AA1349,,New York (JFK),American Airlines B38M (N341RW),Landed 11:53,2021-05-13
+10,10,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N215WN),Landed 11:43,2021-05-13
+11,11,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N586UW),Landed 11:40,2021-05-13
+12,12,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N884DN),Landed 11:57,2021-05-13
+13,13,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N959JB),Landed 12:22,2021-05-13
+14,14,12:56 II503,,Miami (MIA),IBC Airways SF34 (N641BC),Landed 12:45,2021-05-13
+15,15,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N324DX),Landed 13:06,2021-05-13
+16,16,13:13 B621,,Orlando (MCO),JetBlue Airways A321 (N903JB),Landed 14:23,2021-05-13
+17,17,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N105UW),Landed 13:35,2021-05-13
+18,18,13:20 UA1163,,Houston (IAH),United Airlines B738 (N18243),Landed 12:55,2021-05-13
+19,19,13:36 AA2817,,Miami (MIA),American Airlines B38M (N342RX),Landed 13:18,2021-05-13
+20,20,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7736A),Landed 13:54,2021-05-13
+21,21,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N982VJ),Landed 13:52,2021-05-13
+22,22,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8601C),Landed 14:52,2021-05-13
+23,23,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N387DN),Landed 15:34,2021-05-13
+24,24,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N539UW),Landed 15:23,2021-05-13
+25,25,16:24,AA2500,Dallas (DFW),American Airlines B738 (N844NN),Landed 16:14,2021-05-13
+26,26,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways (Blueprint Livery) E190 (N304JB),Landed 16:32,2021-05-13
+27,27,18:43,B6879,New York (JFK),JetBlue Airways A320 (N706JB),Landed 19:00,2021-05-13
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways (Blueprint Livery) E190 (N304JB),Landed 08:14,2021-05-14
+1,1,09:30,KX620,Kingston (KIN),Cayman Airways 733,Unknown,2021-05-14
+2,2,09:50 AA566,,Miami (MIA),American Airlines B738 (N842NN),Landed 09:32,2021-05-14
+3,3,10:25 UA1462,,New York (EWR),United Airlines B738 (N73275),Landed 10:04,2021-05-14
+4,4,10:55 UA2126,,New York (EWR),United Airlines B738 (N33284),Landed 10:39,2021-05-14
+5,5,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N284JB),Landed 10:49,2021-05-14
+6,6,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N7843A),Landed 11:04,2021-05-14
+7,7,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N348DN),Landed 11:57,2021-05-14
+8,8,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N677NK),Landed 11:38,2021-05-14
+9,9,11:42 AA355,,Miami (MIA),American Airlines B38M (N302SA),Landed 12:14,2021-05-14
+10,10,11:50 AA1349,,New York (JFK),American Airlines B738 (N986NN),Landed 11:31,2021-05-14
+11,11,11:54 B6207,,New York (EWR),JetBlue Airways (Puerto Rico - Bluericua Livery) A320 (N779JB),Landed 12:30,2021-05-14
+12,12,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N414WN),Landed 11:55,2021-05-14
+13,13,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N921US),Landed 11:42,2021-05-14
+14,14,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N858DZ),Landed 12:25,2021-05-14
+15,15,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N949JT),Landed 12:27,2021-05-14
+16,16,12:48 II503,,Miami (MIA),IBC Airways SF34 (N651BC),Landed 12:48,2021-05-14
+17,17,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N356DN),Landed 12:45,2021-05-14
+18,18,13:10 UA1519,,Washington (IAD),United Airlines B738 (N33289),Landed 12:56,2021-05-14
+19,19,13:13 B621,,Orlando (MCO),JetBlue Airways A320 (N547JB),Landed 13:34,2021-05-14
+20,20,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N125UW),Landed 13:00,2021-05-14
+21,21,13:20 UA1163,,Houston (IAH),United Airlines B738 (N13248),Landed 13:08,2021-05-14
+22,22,13:36 AA2817,,Miami (MIA),American Airlines B738 (N893NN),Landed 14:18,2021-05-14
+23,23,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7736A),Landed 13:50,2021-05-14
+24,24,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N167US),Landed 13:59,2021-05-14
+25,25,14:58,B6479,New York (JFK),JetBlue Airways A321 (N952JB),Landed 14:46,2021-05-14
+26,26,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8502Z),Landed 14:52,2021-05-14
+27,27,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N396DN),Landed 15:44,2021-05-14
+28,28,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N190UW),Landed 15:29,2021-05-14
+29,29,16:24,AA2500,Dallas (DFW),American Airlines B738 (N992NN),Landed 16:02,2021-05-14
+30,30,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N351JB),Landed 16:27,2021-05-14
+31,31,18:43 B6879,,New York (JFK),JetBlue Airways A320 (N637JB),Landed 19:06,2021-05-14
+0,0,8:08 AM B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N273JB),Landed 9:06 AM,2021-05-15
+1,1,9:21 AM B6779,,New York (JFK),JetBlue Airways A321 (N949JT),Landed 9:09 AM,2021-05-15
+2,2,9:30 AM WN916,,Baltimore (BWI),Southwest Airlines B737 (N487WN),Landed 9:12 AM,2021-05-15
+3,3,9:50 AM AA566,,Miami (MIA),American Airlines B738 (N309PC),Landed 10:02 AM,2021-05-15
+4,4,10:25 AM UA1462,,New York (EWR),United Airlines B738 (N77258),Landed 9:53 AM,2021-05-15
+5,5,10:30 AM B6193,,Boston (BOS),JetBlue Airways A320 (N503JB),Unknown,2021-05-15
+6,6,10:55 AM UA2126,,New York (EWR),United Airlines B738 (N87527),Landed 10:28 AM,2021-05-15
+7,7,10:59 AM B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N284JB),Landed 10:45 AM,2021-05-15
+8,8,11:05 AM WN292,,Orlando (MCO),Southwest Airlines B737 (N415WN),Landed 10:57 AM,2021-05-15
+9,9,11:36 AM,DL1997,Atlanta (ATL),Delta Air Lines A321 (N326DN),Landed 11:22 AM,2021-05-15
+10,10,11:42 AM AA355,,Miami (MIA),American Airlines B738 (N835NN),Landed 11:18 AM,2021-05-15
+11,11,11:50 AM AA1349,,New York (JFK),American Airlines B738 (N928NN),Landed 11:04 AM,2021-05-15
+12,12,11:55 AM WN926,,Baltimore (BWI),Southwest Airlines B737 (N913WN),Landed 11:32 AM,2021-05-15
+13,13,11:56 AM AA840,,Charlotte (CLT),American Airlines A321 (N919US),Landed 11:42 AM,2021-05-15
+14,14,12:05 PM,DL1955,New York (JFK),Delta Air Lines B739 (N878DN),Landed 11:35 AM,2021-05-15
+15,15,12:08 PM,,Miami (OPF),- C550 (N881A),Landed 11:52 AM,2021-05-15
+16,16,12:35 PM WN1831,,St. Louis (STL),Southwest Airlines B737 (N413WN),Landed 12:08 PM,2021-05-15
+17,17,12:49 PM UA1146,,Chicago (ORD),United Airlines B739 (N68805),Landed 12:16 PM,2021-05-15
+18,18,12:55 PM WN1042,,Chicago (MDW),Southwest Airlines B737 (N7715E),Landed 12:23 PM,2021-05-15
+19,19,1:05 PM,DL1801,Atlanta (ATL),Delta Air Lines A321 (N378DN),Landed 12:42 PM,2021-05-15
+20,20,1:10 PM UA1519,,Washington (IAD),United Airlines B738 (N14230),Landed 1:20 PM,2021-05-15
+21,21,1:12 PM B6549,,Raleigh-Durham (RDU),JetBlue Airways E190 (N281JB),Landed 12:50 PM,2021-05-15
+22,22,1:13 PM B621,,Orlando (MCO),JetBlue Airways A320 (N794JB),Landed 1:16 PM,2021-05-15
+23,23,1:17 PM AA860,,Philadelphia (PHL),American Airlines A320 (N122US),Landed 12:56 PM,2021-05-15
+24,24,1:20 PM UA1163,,Houston (IAH),United Airlines B738 (N35271),Landed 12:53 PM,2021-05-15
+25,25,1:35 PM WN1068,,Orlando (MCO),Southwest Airlines B737 (N563WN),Landed 1:26 PM,2021-05-15
+26,26,1:36 PM AA2817,,Miami (MIA),American Airlines B738 (N823NN),Landed 1:13 PM,2021-05-15
+27,27,1:54 PM AA1911,,Chicago (ORD),American Airlines B738 (N301NW),Landed 1:23 PM,2021-05-15
+28,28,2:00 PM WN1115,,Houston (HOU),Southwest Airlines B737 (N7741C),Landed 1:57 PM,2021-05-15
+29,29,2:01 PM AA875,,Charlotte (CLT),American Airlines A321 (N186US),Landed 1:34 PM,2021-05-15
+30,30,3:00 PM WN906,,Baltimore (BWI),Southwest Airlines B738 (N8568Z),Landed 2:59 PM,2021-05-15
+31,31,3:04 PM B6207,,New York (EWR),JetBlue Airways A320 (N641JB),Landed 2:57 PM,2021-05-15
+32,32,3:08 PM,B6479,New York (JFK),JetBlue Airways (JetBlue Vacations Livery) A320 (N603JB),Landed 3:06 PM,2021-05-15
+33,33,3:31 PM,DL1949,Atlanta (ATL),Delta Air Lines A321 (N363DN),Landed 3:17 PM,2021-05-15
+34,34,3:37 PM AA1007,,Charlotte (CLT),American Airlines A321 (N575UW),Landed 3:14 PM,2021-05-15
+35,35,4:24 PM,AA2500,Dallas (DFW),American Airlines B738 (N834NN),Landed 4:08 PM,2021-05-15
+36,36,4:38 PM B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N274JB),Landed 4:24 PM,2021-05-15
+37,37,6:43 PM B6879,,New York (JFK),JetBlue Airways A320 (N651JB),Landed 6:39 PM,2021-05-15
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N318JB),Landed 07:56,2021-05-17
+1,1,09:30,KX620,Kingston (KIN),Cayman Airways 733,Unknown,2021-05-17
+2,2,09:50 AA566,,Miami (MIA),American Airlines B738 (N342PM),Landed 09:23,2021-05-17
+3,3,10:41,,Fort Lauderdale (FXE),- DHC6 (N826X),Landed 10:23,2021-05-17
+4,4,10:55 UA2126,,New York (EWR),United Airlines B738 (N73256),Landed 10:33,2021-05-17
+5,5,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N283JB),Landed 10:45,2021-05-17
+6,6,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N7843A),Landed 10:54,2021-05-17
+7,7,11:05 II503,,Miami (MIA),IBC Airways SF34 (N691BC),Landed 10:59,2021-05-17
+8,8,11:36,DL1997,Atlanta (ATL),Delta Air Lines (Thank You Livery) A321 (N391DN),Landed 11:26,2021-05-17
+9,9,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N668NK),Landed 11:42,2021-05-17
+10,10,11:42 AA355,,Miami (MIA),American Airlines B738 (N882NN),Landed 11:30,2021-05-17
+11,11,11:50 AA1349,,New York (JFK),American Airlines B738 (N875NN),Landed 11:16,2021-05-17
+12,12,11:54 B6207,,New York (EWR),JetBlue Airways (Puerto Rico - Bluericua Livery) A320 (N779JB),Landed 11:46,2021-05-17
+13,13,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N276WN),Landed 11:53,2021-05-17
+14,14,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N554UW),Landed 11:39,2021-05-17
+15,15,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N893DN),Landed 11:35,2021-05-17
+16,16,12:15 BW8040,,Kingston (KIN),Caribbean Airlines 76Y,Unknown,2021-05-17
+17,17,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N998JE),Landed 11:58,2021-05-17
+18,18,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N335DN),Landed 13:15,2021-05-17
+19,19,13:10 BY52,,London (LGW),TUI Airways 789,Unknown,2021-05-17
+20,20,13:13 B621,,Orlando (MCO),JetBlue Airways A320 (N554JB),Landed 13:04,2021-05-17
+21,21,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N117UW),Landed 12:55,2021-05-17
+22,22,13:36 AA2817,,Miami (MIA),American Airlines B738 (N863NN),Landed 13:25,2021-05-17
+23,23,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7731A),Landed 14:31,2021-05-17
+24,24,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N563UW),Landed 13:37,2021-05-17
+25,25,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8631A),Landed 15:06,2021-05-17
+26,26,15:08,B6479,New York (JFK),JetBlue Airways A320 (N509JB),Landed 15:03,2021-05-17
+27,27,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N322DN),Landed 15:13,2021-05-17
+28,28,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N186US),Landed 15:18,2021-05-17
+29,29,15:48 JL523,,Nassau (NAS),Private owner BE4W (N523AJ),Landed 15:45,2021-05-17
+30,30,16:24,AA2500,Dallas (DFW),American Airlines B738 (N834NN),Landed 17:14,2021-05-17
+31,31,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N292JB),Landed 16:34,2021-05-17
+32,32,18:43 B6879,,New York (JFK),JetBlue Airways A320 (N564JB),Landed 18:12,2021-05-17
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N206JB),Landed 08:21,2021-05-18
+1,1,09:50 AA566,,Miami (MIA),American Airlines (Oneworld Livery) B738 (N919NN),Landed 09:26,2021-05-18
+2,2,10:55 UA2126,,New York (EWR),United Airlines B738 (N17229),Landed 10:14,2021-05-18
+3,3,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N339JB),Landed 10:47,2021-05-18
+4,4,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N269WN),Landed 11:13,2021-05-18
+5,5,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N390DN),Landed 11:25,2021-05-18
+6,6,11:42 AA355,,Miami (MIA),American Airlines B738 (N945AN),Landed 11:43,2021-05-18
+7,7,11:50 AA1349,,New York (JFK),American Airlines B738 (N960NN),Landed 11:10,2021-05-18
+8,8,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N427WN),Landed 11:36,2021-05-18
+9,9,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N162UW),Landed 11:32,2021-05-18
+10,10,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N838DN),Landed 11:28,2021-05-18
+11,11,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N971JT),Landed 12:10,2021-05-18
+12,12,12:50 II503,,Miami (MIA),IBC Airways SF34 (N641BC),Landed 12:37,2021-05-18
+13,13,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N352DN),Landed 12:46,2021-05-18
+14,14,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N105UW),Landed 12:51,2021-05-18
+15,15,13:36 AA2817,,Miami (MIA),American Airlines B738 (N970AN),Landed 13:46,2021-05-18
+16,16,14:00 BY44,,London (LGW),TUI Airways 789,Unknown,2021-05-18
+17,17,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7741C),Landed 14:00,2021-05-18
+18,18,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N193UW),Landed 13:50,2021-05-18
+19,19,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8657B),Landed 14:46,2021-05-18
+20,20,15:04 B6207,,New York (EWR),JetBlue Airways A320 (N591JB),Landed 14:38,2021-05-18
+21,21,15:08,B6479,New York (JFK),JetBlue Airways (Boston Celtics Livery) A320 (N595JB),Landed 14:24,2021-05-18
+22,22,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N388DN),Landed 15:15,2021-05-18
+23,23,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N534UW),Landed 15:05,2021-05-18
+24,24,16:15 VS165,,London (LHR),Virgin Atlantic B789 (G-VWHO),Landed 16:18,2021-05-18
+25,25,16:24,AA2500,Dallas (DFW),American Airlines (TWA Heritage Livery) B738 (N915NN),Landed 17:40,2021-05-18
+26,26,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N294JB),Landed 16:24,2021-05-18
+27,27,18:43 B6879,,New York (JFK),JetBlue Airways A320 (N629JB),Landed 18:04,2021-05-18
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N318JB),Landed 09:07,2021-05-19
+1,1,09:50 AA566,,Miami (MIA),American Airlines B738 (N898NN),Landed 09:27,2021-05-19
+2,2,10:30 B6193,,Boston (BOS),JetBlue Airways A320 (N583JB),Landed 10:47,2021-05-19
+3,3,10:55 UA2126,,New York (EWR),United Airlines B738 (N77258),Landed 10:08,2021-05-19
+4,4,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N206JB),Landed 10:51,2021-05-19
+5,5,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N7856A),Landed 10:58,2021-05-19
+6,6,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N323DN),Landed 11:22,2021-05-19
+7,7,11:42 AA355,,Miami (MIA),American Airlines B738 (N846NN),Landed 11:24,2021-05-19
+8,8,11:50 AA1349,,New York (JFK),American Airlines B738 (N305NX),Landed 11:19,2021-05-19
+9,9,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N7836A),Landed 11:40,2021-05-19
+10,10,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N194UW),Landed 11:46,2021-05-19
+11,11,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N856DN),Landed 11:34,2021-05-19
+12,12,12:30,,Miami (MIA),- GLF4,Unknown,2021-05-19
+13,13,12:30,,Miami (OPF),- CL60 (N211QS),Landed 12:59,2021-05-19
+14,14,12:47 B6779,,New York (JFK),JetBlue Airways A321 (N971JT),Landed 12:30,2021-05-19
+15,15,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N382DN),Landed 12:38,2021-05-19
+16,16,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N121UW),Unknown,2021-05-19
+17,17,13:36 AA2817,,Miami (MIA),American Airlines B738 (N896NN),Landed 13:26,2021-05-19
+18,18,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7827A),Landed 14:00,2021-05-19
+19,19,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N586UW),Landed 13:39,2021-05-19
+20,20,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8561Z),Landed 14:37,2021-05-19
+21,21,15:04 B6207,,New York (EWR),JetBlue Airways A320 (N613JB),Landed 14:59,2021-05-19
+22,22,15:08,B6479,New York (JFK),JetBlue Airways A320 (N624JB),Landed 14:41,2021-05-19
+23,23,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N348DN),Landed 15:50,2021-05-19
+24,24,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N153UW),Landed 15:17,2021-05-19
+25,25,16:15 VS165,,London (LHR),Virgin Atlantic B789 (G-VBZZ),Landed 16:25,2021-05-19
+26,26,16:24,AA2500,Dallas (DFW),American Airlines B738 (N894NN),Landed 16:22,2021-05-19
+27,27,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N292JB),Landed 16:46,2021-05-19
+28,28,18:43 B6879,,New York (JFK),JetBlue Airways A320,Canceled,2021-05-19
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N206JB),Landed 08:02,2021-05-20
+1,1,09:50 AA566,,Miami (MIA),American Airlines B738 (N831NN),Landed 09:29,2021-05-20
+2,2,10:34 B6207,,New York (EWR),JetBlue Airways A320 (N706JB),Landed 10:31,2021-05-20
+3,3,10:55 UA2126,,New York (EWR),United (Star Wars-The Rise of Skywalker Livery) B738 (N36272),Landed 10:49,2021-05-20
+4,4,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N267JB),Landed 10:47,2021-05-20
+5,5,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N432WN),Landed 10:56,2021-05-20
+6,6,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N346DN),Landed 11:17,2021-05-20
+7,7,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N658NK),Landed 11:40,2021-05-20
+8,8,11:42 AA355,,Miami (MIA),American Airlines B738 (N979NN),Landed 11:26,2021-05-20
+9,9,11:50 AA1349,,New York (JFK),American Airlines B738 (N343PN),Landed 11:12,2021-05-20
+10,10,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N482WN),Landed 11:42,2021-05-20
+11,11,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N582UW),Landed 11:37,2021-05-20
+12,12,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N812DN),Landed 11:59,2021-05-20
+13,13,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N956JT),Landed 11:56,2021-05-20
+14,14,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N325DN),Landed 13:28,2021-05-20
+15,15,13:13 B621,,Orlando (MCO),JetBlue Airways (Puerto Rico - Bluericua Livery) A320 (N779JB),Landed 13:59,2021-05-20
+16,16,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N103US),Landed 12:42,2021-05-20
+17,17,13:20 UA1163,,Houston (IAH),United Airlines B738 (N18243),Landed 13:25,2021-05-20
+18,18,13:36 AA2817,,Miami (MIA),American Airlines B738 (N885NN),Landed 13:23,2021-05-20
+19,19,13:50 BY164,,Manchester (MAN),TUI Airways 789,Unknown,2021-05-20
+20,20,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7826B),Landed 13:51,2021-05-20
+21,21,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N185UW),Landed 13:42,2021-05-20
+22,22,14:34 II508,,Kingston (KIN),IBC Airways SF34 (N691BC),Landed 14:35,2021-05-20
+23,23,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8575Z),Landed 15:19,2021-05-20
+24,24,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N395DZ),Landed 15:42,2021-05-20
+25,25,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N157UW),Landed 15:15,2021-05-20
+26,26,16:24,AA2500,Dallas (DFW),American Airlines B738 (N892NN),Landed 16:22,2021-05-20
+27,27,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N292JB),Landed 16:30,2021-05-20
+28,28,18:43,B6879,New York (JFK),JetBlue Airways (NYPD Livery) A320 (N531JL),Landed 18:37,2021-05-20
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N267JB),Landed 11:47,2021-05-21
+1,1,09:30,KX620,Kingston (KIN),Cayman Airways 733,Unknown,2021-05-21
+2,2,09:44,,Miami (OPF),- C55B (N876BB),Landed 10:53,2021-05-21
+3,3,09:50 AA566,,Miami (MIA),American Airlines B738 (N876NN),Landed 12:26,2021-05-21
+4,4,10:25 UA1462,,New York (EWR),United Airlines B738 (N24224),Landed 09:37,2021-05-21
+5,5,10:55 UA2126,,New York (EWR),United Airlines B738 (N76504),Landed 10:08,2021-05-21
+6,6,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N281JB),Landed 11:21,2021-05-21
+7,7,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N736SA),Landed 10:44,2021-05-21
+8,8,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N303DN),Landed 12:19,2021-05-21
+9,9,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N676NK),Landed 11:55,2021-05-21
+10,10,11:42 AA355,,Miami (MIA),American Airlines B738 (N860NN),Landed 11:31,2021-05-21
+11,11,11:50 AA1349,,New York (JFK),American Airlines B738 (N908NN),Landed 11:17,2021-05-21
+12,12,11:54 B6207,,New York (EWR),JetBlue Airways A320 (N585JB),Landed 12:31,2021-05-21
+13,13,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N7732A),Landed 11:45,2021-05-21
+14,14,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N161UW),Landed 11:35,2021-05-21
+15,15,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N858DZ),Landed 11:39,2021-05-21
+16,16,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N994JL),Landed 12:16,2021-05-21
+17,17,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N327DN),Landed 13:01,2021-05-21
+18,18,13:10 UA1519,,Washington (IAD),United Airlines B738 (N37274),Landed 12:35,2021-05-21
+19,19,13:13 B621,,Orlando (MCO),JetBlue Airways A320 (N607JB),Landed 13:29,2021-05-21
+20,20,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N118US),Landed 12:49,2021-05-21
+21,21,13:20 UA1163,,Houston (IAH),United Airlines B738 (N14250),Unknown,2021-05-21
+22,22,13:36 AA2817,,Miami (MIA),American Airlines B738 (N850NN),Landed 13:18,2021-05-21
+23,23,13:55 BY36,,London (LGW),TUI Airways 789,Unknown,2021-05-21
+24,24,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7741C),Landed 14:02,2021-05-21
+25,25,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N540UW),Landed 13:40,2021-05-21
+26,26,14:34 II508,,Kingston (KIN),IBC Airways SF34 (N691BC),Landed 14:25,2021-05-21
+27,27,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8546V),Landed 14:17,2021-05-21
+28,28,15:08,B6479,New York (JFK),JetBlue Airways A320 (N509JB),Landed 15:26,2021-05-21
+29,29,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N378DN),Landed 15:33,2021-05-21
+30,30,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N977UY),Landed 15:15,2021-05-21
+31,31,16:24,AA2500,Dallas (DFW),American Airlines B738 (N812NN),Landed 16:15,2021-05-21
+32,32,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N284JB),Landed 18:54,2021-05-21
+33,33,18:33 B6879,,New York (JFK),JetBlue Airways A21N (N2016J),Landed 19:53,2021-05-21
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N294JB),Landed 07:52,2021-05-22
+1,1,09:21 B6779,,New York (JFK),JetBlue Airways A321 (N950JT),Unknown,2021-05-22
+2,2,09:30 WN916,,Baltimore (BWI),Southwest Airlines B737 (N731SA),Landed 08:50,2021-05-22
+3,3,09:50 AA566,,Miami (MIA),American Airlines B738 (N927NN),Landed 09:25,2021-05-22
+4,4,10:25 UA1462,,New York (EWR),United Airlines B738 (N14230),Landed 09:28,2021-05-22
+5,5,10:30 B6193,,Boston (BOS),JetBlue Airways A320 (N568JB),Unknown,2021-05-22
+6,6,10:55 UA2126,,New York (EWR),United Airlines B738 (N37274),Landed 10:05,2021-05-22
+7,7,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N292JB),Landed 10:34,2021-05-22
+8,8,11:05 WN292,,Orlando (MCO),Southwest Airlines B737 (N910WN),Landed 10:45,2021-05-22
+9,9,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N389DN),Landed 11:11,2021-05-22
+10,10,11:42 AA355,,Miami (MIA),American Airlines B738 (N961NN),Landed 11:35,2021-05-22
+11,11,11:50 AA1349,,New York (JFK),American Airlines B738 (N980AN),Landed 11:01,2021-05-22
+12,12,11:55 WN926,,Baltimore (BWI),Southwest Airlines B737 (N492WN),Landed 11:18,2021-05-22
+13,13,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N970UY),Landed 11:22,2021-05-22
+14,14,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N838DN),Landed 11:32,2021-05-22
+15,15,12:35 WN1831,,St. Louis (STL),Southwest Airlines B737 (N256WN),Landed 12:03,2021-05-22
+16,16,12:49 UA1146,,Chicago (ORD),United Airlines B739 (N75433),Landed 12:13,2021-05-22
+17,17,12:55 WN1042,,Chicago (MDW),Southwest Airlines B737 (N221WN),Landed 12:30,2021-05-22
+18,18,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N352DN),Landed 12:53,2021-05-22
+19,19,13:10 UA1519,,Washington (IAD),United Airlines B738 (N33286),Landed 12:49,2021-05-22
+20,20,13:12 B6549,,Raleigh-Durham (RDU),JetBlue Airways E190 (N374JB),Landed 12:40,2021-05-22
+21,21,13:13 B621,,Orlando (MCO),JetBlue Airways A320 (N715JB),Landed 13:12,2021-05-22
+22,22,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N103US),Unknown,2021-05-22
+23,23,13:20 UA1163,,Houston (IAH),United Airlines B738 (N36247),Landed 13:09,2021-05-22
+24,24,13:35 BY544,,Birmingham (BHX),TUI Airways 789,Unknown,2021-05-22
+25,25,13:35 WN1068,,Orlando (MCO),Southwest Airlines B737 (N563WN),Landed 13:27,2021-05-22
+26,26,13:36 AA2817,,Miami (MIA),American Airlines B738 (N934NN),Landed 13:05,2021-05-22
+27,27,13:54 AA1911,,Chicago (ORD),American Airlines B738 (N972NN),Landed 13:16,2021-05-22
+28,28,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7745A),Landed 14:03,2021-05-22
+29,29,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N538UW),Landed 13:40,2021-05-22
+30,30,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8617E),Landed 14:19,2021-05-22
+31,31,15:04 B6207,,New York (EWR),JetBlue Airways A320 (N527JL),Landed 14:25,2021-05-22
+32,32,15:08,B6479,New York (JFK),JetBlue Airways A320 (N509JB),Landed 15:03,2021-05-22
+33,33,15:31,DL1949,Atlanta (ATL),Delta Air Lines (Thank You Livery) A321 (N391DN),Landed 15:30,2021-05-22
+34,34,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N534UW),Landed 15:16,2021-05-22
+35,35,16:15 VS165,,London (LHR),Virgin Atlantic B789 (G-VWHO),Landed 15:52,2021-05-22
+36,36,16:24,AA2500,Dallas (DFW),American Airlines B38M (N341RW),Landed 16:25,2021-05-22
+37,37,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N323JB),Landed 16:20,2021-05-22
+38,38,18:43 B6879,,New York (JFK),JetBlue Airways A320 (N641JB),Landed 18:10,2021-05-22
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N279JB),Landed 08:56,2021-05-23
+1,1,09:50 AA566,,Miami (MIA),American Airlines B738 (N924NN),Landed 09:22,2021-05-23
+2,2,10:25 UA1462,,New York (EWR),United Airlines B738 (N33286),Landed 09:41,2021-05-23
+3,3,10:34 B6207,,New York (EWR),JetBlue Airways A320 (N519JB),Landed 10:34,2021-05-23
+4,4,10:55 UA2126,,New York (EWR),United Airlines B738 (N12225),Landed 10:04,2021-05-23
+5,5,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N192JB),Landed 10:51,2021-05-23
+6,6,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N7881A),Landed 10:29,2021-05-23
+7,7,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N363DN),Landed 11:18,2021-05-23
+8,8,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N681NK),Landed 11:40,2021-05-23
+9,9,11:42 AA355,,Miami (MIA),American Airlines B738 (N923AN),Landed 11:14,2021-05-23
+10,10,11:50 AA1349,,New York (JFK),American Airlines B738 (N809NN),Landed 11:00,2021-05-23
+11,11,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N7858A),Landed 11:37,2021-05-23
+12,12,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N575UW),Landed 11:28,2021-05-23
+13,13,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N908DN),Landed 11:21,2021-05-23
+14,14,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N950JT),Landed 12:27,2021-05-23
+15,15,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N395DZ),Landed 12:59,2021-05-23
+16,16,13:10 UA1519,,Washington (IAD),United Airlines B738 (N26226),Landed 12:38,2021-05-23
+17,17,13:13 B621,,Orlando (MCO),JetBlue Airways A320 (N558JB),Landed 12:56,2021-05-23
+18,18,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N124US),Landed 12:47,2021-05-23
+19,19,13:20 UA1163,,Houston (IAH),United Airlines B738 (N14219),Landed 13:14,2021-05-23
+20,20,13:36 AA2817,,Miami (MIA),American Airlines B738 (N939AN),Landed 13:12,2021-05-23
+21,21,14:00 BY114,,Manchester (MAN),TUI Airways 789,Unknown,2021-05-23
+22,22,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7747C),Landed 13:57,2021-05-23
+23,23,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N169UW),Landed 14:31,2021-05-23
+24,24,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8572X),Landed 15:06,2021-05-23
+25,25,15:20 AC7243,,Toronto (YYZ),Air Canada B789 (C-FRSA),Landed 14:53,2021-05-23
+26,26,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N375DN),Landed 15:10,2021-05-23
+27,27,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N170US),Landed 15:20,2021-05-23
+28,28,16:24,AA2500,Dallas (DFW),American Airlines B738 (N859NN),Landed 16:12,2021-05-23
+29,29,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N192JB),Landed 16:32,2021-05-23
+30,30,18:43,B6879,New York (JFK),JetBlue Airways A320 (N527JL),Landed 18:11,2021-05-23
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N267JB),Landed 07:51,2021-05-24
+1,1,09:30,KX620,Kingston (KIN),Cayman Airways 733,Unknown,2021-05-24
+2,2,09:50 AA566,,Miami (MIA),American Airlines B738 (N981NN),Landed 09:15,2021-05-24
+3,3,10:55 UA2126,,New York (EWR),United Airlines B738 (N78506),Landed 10:10,2021-05-24
+4,4,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N203JB),Landed 10:54,2021-05-24
+5,5,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N550WN),Landed 10:32,2021-05-24
+6,6,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N337DN),Landed 11:21,2021-05-24
+7,7,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N687NK),Landed 11:27,2021-05-24
+8,8,11:42 AA355,,Miami (MIA),American Airlines B738 (N984NN),Landed 11:37,2021-05-24
+9,9,11:50 AA1349,,New York (JFK),American Airlines B738 (N860NN),Landed 11:08,2021-05-24
+10,10,11:54 B6207,,New York (EWR),JetBlue Airways A320 (N652JB),Unknown,2021-05-24
+11,11,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N900WN),Landed 11:39,2021-05-24
+12,12,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N912UY),Landed 11:34,2021-05-24
+13,13,12:04,,Washington (IAD),- CL60 (N241QS),Landed 12:27,2021-05-24
+14,14,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N814DN),Landed 11:29,2021-05-24
+15,15,12:15 BW8040,,Kingston (KIN),Caribbean Airlines 76Y,Unknown,2021-05-24
+16,16,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N997JL),Landed 12:17,2021-05-24
+17,17,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N362DN),Landed 12:49,2021-05-24
+18,18,13:10 BY52,,London (LGW),TUI Airways 789,Unknown,2021-05-24
+19,19,13:13 B621,,Orlando (MCO),JetBlue Airways A320 (N558JB),Landed 13:17,2021-05-24
+20,20,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N118US),Landed 12:53,2021-05-24
+21,21,13:36 AA2817,,Miami (MIA),American Airlines B38M (N315SD),Landed 13:19,2021-05-24
+22,22,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N555LV),Landed 15:05,2021-05-24
+23,23,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N150UW),Landed 13:46,2021-05-24
+24,24,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8634A),Landed 14:56,2021-05-24
+25,25,15:08,B6479,New York (JFK),JetBlue Airways A320 (N768JB),Landed 14:41,2021-05-24
+26,26,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N335DN),Landed 15:32,2021-05-24
+27,27,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N128AN),Landed 15:16,2021-05-24
+28,28,16:24,AA2500,Dallas (DFW),American Airlines (Reno Air Heritage Livery) B738 (N916NN),Landed 16:27,2021-05-24
+29,29,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N179JB),Landed 16:22,2021-05-24
+30,30,18:43 B6879,,New York (JFK),JetBlue Airways A320 (N590JB),Unknown,2021-05-24
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N203JB),Landed 08:00,2021-05-26
+1,1,09:50 AA566,,Miami (MIA),American Airlines B738 (N980AN),Landed 09:17,2021-05-26
+2,2,10:30 B6193,,Boston (BOS),JetBlue Airways A320 (N570JB),Unknown,2021-05-26
+3,3,10:55 UA2126,,New York (EWR),United Airlines B738 (N73275),Landed 10:34,2021-05-26
+4,4,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N179JB),Landed 10:45,2021-05-26
+5,5,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N481WN),Landed 11:05,2021-05-26
+6,6,11:16 II503,,Miami (MIA),IBC Airways SF34,Unknown,2021-05-26
+7,7,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N330DX),Landed 11:46,2021-05-26
+8,8,11:42 AA355,,Miami (MIA),American Airlines (TWA Heritage Livery) B738 (N915NN),Landed 11:26,2021-05-26
+9,9,11:50 AA1349,,New York (JFK),American Airlines B738 (N822NN),Landed 11:21,2021-05-26
+10,10,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N909WN),Landed 11:56,2021-05-26
+11,11,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N914UY),Unknown,2021-05-26
+12,12,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N881DN),Landed 11:42,2021-05-26
+13,13,12:47 B6779,,New York (JFK),JetBlue Airways A321 (N952JB),Landed 12:12,2021-05-26
+14,14,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N357DN),Landed 12:46,2021-05-26
+15,15,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N108UW),Landed 13:14,2021-05-26
+16,16,13:36 AA2817,,Miami (MIA),American Airlines B738 (N944AN),Landed 13:11,2021-05-26
+17,17,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7725A),Landed 13:50,2021-05-26
+18,18,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N562UW),Landed 13:35,2021-05-26
+19,19,14:34 II508,,Kingston (KIN),IBC Airways SF34 (N691BC),Landed 14:53,2021-05-26
+20,20,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8549Z),Landed 14:50,2021-05-26
+21,21,15:04 B6207,,New York (EWR),JetBlue Airways A320 (N634JB),Landed 14:45,2021-05-26
+22,22,15:08,B6479,New York (JFK),JetBlue Airways A320 (N651JB),Landed 14:59,2021-05-26
+23,23,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N381DZ),Landed 15:25,2021-05-26
+24,24,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N198UW),Landed 15:22,2021-05-26
+25,25,16:15 VS165,,London (LHR),Virgin Atlantic B789 (G-VWOO),Landed 15:50,2021-05-26
+26,26,16:24,AA2500,Dallas (DFW),American Airlines B738 (N923AN),Landed 16:13,2021-05-26
+27,27,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N281JB),Landed 16:19,2021-05-26
+28,28,17:00,,Daytona Beach (DAB),- CL35 (N787QS),Unknown,2021-05-26
+29,29,18:43 B6879,,New York (JFK),JetBlue Airways A320 (N599JB),Landed 18:52,2021-05-26
+0,0,05:14,,West Palm Beach (PBI),- CL60 (N211QS),Canceled,2021-05-27
+1,1,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N239JB),Landed 07:58,2021-05-27
+2,2,09:50 AA566,,Miami (MIA),American Airlines B738 (N861NN),Landed 09:57,2021-05-27
+3,3,10:34 B6207,,New York (EWR),JetBlue Airways A320 (N807JB),Landed 10:18,2021-05-27
+4,4,10:55 UA2126,,New York (EWR),United Airlines B738 (N73275),Landed 10:21,2021-05-27
+5,5,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N229JB),Landed 11:08,2021-05-27
+6,6,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N244WN),Landed 10:36,2021-05-27
+7,7,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N327DN),Landed 11:38,2021-05-27
+8,8,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N664NK),Landed 11:44,2021-05-27
+9,9,11:42 AA355,,Miami (MIA),American Airlines B738 (N992AN),Landed 11:57,2021-05-27
+10,10,11:50 AA1349,,New York (JFK),American Airlines B738 (N851NN),Landed 11:24,2021-05-27
+11,11,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N294WN),Landed 11:40,2021-05-27
+12,12,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N178US),Landed 11:47,2021-05-27
+13,13,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N900DU),Landed 11:35,2021-05-27
+14,14,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N999JQ),Unknown,2021-05-27
+15,15,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N396DN),Landed 12:56,2021-05-27
+16,16,13:13 B621,,Orlando (MCO),JetBlue Airways A321 (N907JB),Landed 13:07,2021-05-27
+17,17,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N114UW),Landed 12:54,2021-05-27
+18,18,13:20 UA1163,,Houston (IAH),United Airlines B738 (N87512),Landed 13:16,2021-05-27
+19,19,13:36 AA2817,,Miami (MIA),American Airlines B738 (N903NN),Landed 13:14,2021-05-27
+20,20,13:50 BY164,,Manchester (MAN),TUI Airways 789,Unknown,2021-05-27
+21,21,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7815L),Landed 13:46,2021-05-27
+22,22,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N540UW),Landed 13:43,2021-05-27
+23,23,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8631A),Landed 14:50,2021-05-27
+24,24,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N330DX),Landed 15:45,2021-05-27
+25,25,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N553UW),Landed 15:30,2021-05-27
+26,26,16:24,AA2500,Dallas (DFW),American Airlines B738 (N923NN),Landed 16:15,2021-05-27
+27,27,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N281JB),Landed 16:30,2021-05-27
+28,28,18:43,B6879,New York (JFK),JetBlue Airways A320 (N766JB),Landed 18:31,2021-05-27
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N198JB),Landed 08:01,2021-05-28
+1,1,09:30,KX620,Kingston (KIN),Cayman Airways 733,Unknown,2021-05-28
+2,2,09:50 AA566,,Miami (MIA),American Airlines B738 (N953NN),Landed 09:25,2021-05-28
+3,3,10:25 UA1462,,New York (EWR),United Airlines B738 (N27239),Landed 10:12,2021-05-28
+4,4,10:55 UA2126,,New York (EWR),United Airlines B738 (N12218),Landed 10:22,2021-05-28
+5,5,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N258JB),Landed 10:43,2021-05-28
+6,6,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N481WN),Landed 10:40,2021-05-28
+7,7,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N373DX),Landed 11:51,2021-05-28
+8,8,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N675NK),Landed 11:39,2021-05-28
+9,9,11:42 AA355,,Miami (MIA),American Airlines B738 (N867NN),Landed 11:49,2021-05-28
+10,10,11:50 AA1349,,New York (JFK),American Airlines B738 (N853NN),Landed 11:27,2021-05-28
+11,11,11:54 B6207,,New York (EWR),JetBlue Airways A320 (N552JB),Unknown,2021-05-28
+12,12,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N486WN),Landed 11:42,2021-05-28
+13,13,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N509AY),Landed 11:33,2021-05-28
+14,14,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N849DN),Landed 11:56,2021-05-28
+15,15,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N998JE),Landed 12:28,2021-05-28
+16,16,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N367DN),Landed 13:38,2021-05-28
+17,17,13:09 II503,,Miami (MIA),IBC Airways SF34 (N641BC),Landed 13:05,2021-05-28
+18,18,13:10 UA1519,,Washington (IAD),United Airlines B738 (N35260),Landed 13:18,2021-05-28
+19,19,13:13 B621,,Orlando (MCO),JetBlue Airways ( JetBlue Vacations Livery) A320 (N623JB),Landed 13:16,2021-05-28
+20,20,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N124US),Unknown,2021-05-28
+21,21,13:20 UA1163,,Houston (IAH),United Airlines B738 (N76503),Landed 13:27,2021-05-28
+22,22,13:36 AA2817,,Miami (MIA),American Airlines B738 (N931NN),Landed 14:14,2021-05-28
+23,23,13:55 BY36,,London (LGW),TUI Airways 789,Unknown,2021-05-28
+24,24,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7741C),Landed 14:03,2021-05-28
+25,25,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N154UW),Landed 13:34,2021-05-28
+26,26,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8644C),Landed 14:39,2021-05-28
+27,27,15:08,B6479,New York (JFK),JetBlue Airways (Boston Celtics Livery) A320 (N595JB),Landed 14:45,2021-05-28
+28,28,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N340DN),Landed 15:34,2021-05-28
+29,29,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N173US),Landed 15:09,2021-05-28
+30,30,15:53 F951,,Miami (MIA),Frontier (Parish&Daisy the Burrowing Owls Livery) A20N (N371FR),Landed 15:39,2021-05-28
+31,31,16:24,AA2500,Dallas (DFW),American Airlines B738 (N974AN),Landed 16:32,2021-05-28
+32,32,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N258JB),Landed 16:30,2021-05-28
+33,33,16:53,,Tampa (TPA),- WW24 (N816LC),Landed 15:54,2021-05-28
+34,34,18:34 B6879,,New York (JFK),JetBlue Airways A321 (N971JT),Unknown,2021-05-28
+0,0,8:08 AM B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N229JB),Landed 7:55 AM,2021-05-29
+1,1,9:21 AM B6779,,New York (JFK),JetBlue Airways A21N (N2017J),Landed 9:13 AM,2021-05-29
+2,2,9:28 AM,,St. Petersburg (PIE),- BE40 (N308KP),Landed 9:45 AM,2021-05-29
+3,3,9:30 AM WN916,,Baltimore (BWI),Southwest Airlines B737 (N7856A),Landed 9:23 AM,2021-05-29
+4,4,9:50 AM AA566,,Miami (MIA),American Airlines B738 (N857NN),Landed 9:19 AM,2021-05-29
+5,5,10:25 AM UA1462,,New York (EWR),United Airlines B738 (N14214),Landed 9:49 AM,2021-05-29
+6,6,10:30 AM B6193,,Boston (BOS),JetBlue Airways A320 (N579JB),Landed 10:23 AM,2021-05-29
+7,7,10:55 AM UA2126,,New York (EWR),United Airlines B738 (N26226),Landed 1:57 PM,2021-05-29
+8,8,10:59 AM B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N258JB),Landed 10:58 AM,2021-05-29
+9,9,11:05 AM WN292,,Orlando (MCO),Southwest Airlines B737 (N273WN),Diverted to MCO,2021-05-29
+10,10,11:36 AM,DL1997,Atlanta (ATL),Delta Air Lines A321 (N382DN),Landed 11:24 AM,2021-05-29
+11,11,11:42 AM AA355,,Miami (MIA),American Airlines B738 (N826NN),Landed 11:43 AM,2021-05-29
+12,12,11:50 AM AA1349,,New York (JFK),American Airlines B738 (N882NN),Landed 11:31 AM,2021-05-29
+13,13,11:55 AM WN926,,Baltimore (BWI),Southwest Airlines B737 (N432WN),Landed 11:50 AM,2021-05-29
+14,14,11:56 AM AA840,,Charlotte (CLT),American Airlines A321 (N195UW),Landed 11:34 AM,2021-05-29
+15,15,12:05 PM,DL1955,New York (JFK),Delta Air Lines B739 (N851DN),Landed 11:59 AM,2021-05-29
+16,16,12:24 PM,,West Palm Beach (PBI),- CL60 (N211QS),Unknown,2021-05-29
+17,17,12:35 PM WN1831,,St. Louis (STL),Southwest Airlines B737 (N411WN),Landed 12:10 PM,2021-05-29
+18,18,12:49 PM UA1146,,Chicago (ORD),United Airlines B739 (N53441),Landed 1:11 PM,2021-05-29
+19,19,12:55 PM WN1042,,Chicago (MDW),Southwest Airlines B737 (N563WN),Landed 12:28 PM,2021-05-29
+20,20,1:05 PM,DL1801,Atlanta (ATL),Delta Air Lines A321 (N387DN),Landed 12:47 PM,2021-05-29
+21,21,1:10 PM UA1519,,Washington (IAD),United Airlines B738 (N76269),Landed 1:05 PM,2021-05-29
+22,22,1:12 PM B6549,,Raleigh-Durham (RDU),JetBlue Airways E190 (N249JB),Landed 1:03 PM,2021-05-29
+23,23,1:13 PM B621,,Orlando (MCO),JetBlue Airways (Vets in Blue Livery) A320 (N775JB),Landed 1:19 PM,2021-05-29
+24,24,1:17 PM AA860,,Philadelphia (PHL),American Airlines A320 (N108UW),Landed 1:09 PM,2021-05-29
+25,25,1:20 PM UA1163,,Houston (IAH),United Airlines B738 (N24202),Landed 1:16 PM,2021-05-29
+26,26,1:35 PM BY544,,Birmingham (BHX),TUI Airways 789,Unknown,2021-05-29
+27,27,1:35 PM WN1068,,Orlando (MCO),Southwest Airlines B737 (N907WN),Landed 1:40 PM,2021-05-29
+28,28,1:36 PM AA2817,,Miami (MIA),American Airlines B738 (N317PG),Landed 1:27 PM,2021-05-29
+29,29,1:54 PM AA1911,,Chicago (ORD),American Airlines B738 (N818NN),Landed 1:25 PM,2021-05-29
+30,30,2:00 PM WN1115,,Houston (HOU),Southwest Airlines B737 (N7813P),Landed 1:50 PM,2021-05-29
+31,31,2:01 PM AA875,,Charlotte (CLT),American Airlines A321 (N568UW),Landed 1:32 PM,2021-05-29
+32,32,2:18 PM,,Lakeland (LAL),- GLF4 (N440QS),Unknown,2021-05-29
+33,33,3:00 PM WN906,,Baltimore (BWI),Southwest Airlines B738 (N8537Z),Landed 3:11 PM,2021-05-29
+34,34,3:04 PM B6207,,New York (EWR),JetBlue Airways A320 (N571JB),Landed 3:01 PM,2021-05-29
+35,35,3:08 PM,B6479,New York (JFK),JetBlue Airways (Boston Bruins Livery) A320 (N632JB),Unknown,2021-05-29
+36,36,3:31 PM,DL1949,Atlanta (ATL),Delta Air Lines A321 (N384DN),Landed 3:38 PM,2021-05-29
+37,37,3:37 PM AA1007,,Charlotte (CLT),American Airlines A321 (N542UW),Landed 3:17 PM,2021-05-29
+38,38,4:15 PM VS165,,London (LHR),Virgin Atlantic B789 (G-VOOH),Landed 3:50 PM,2021-05-29
+39,39,4:24 PM,AA2500,Dallas (DFW),American Airlines B738 (N907AN),Landed 4:29 PM,2021-05-29
+40,40,4:38 PM B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N239JB),Landed 4:19 PM,2021-05-29
+41,41,6:43 PM B6879,,New York (JFK),JetBlue Airways A320 (N645JB),Landed 6:49 PM,2021-05-29
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N258JB),Landed 08:06,2021-05-30
+1,1,09:50 AA566,,Miami (MIA),American Airlines B738 (N800NN),Landed 09:18,2021-05-30
+2,2,10:25 UA1462,,New York (EWR),United Airlines B738 (N35260),Landed 10:20,2021-05-30
+3,3,10:34 B6207,,New York (EWR),JetBlue Airways A320 (N561JB),Landed 11:03,2021-05-30
+4,4,10:55 UA2126,,New York (EWR),United Airlines B739 (N53442),Landed 10:45,2021-05-30
+5,5,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N239JB),Landed 11:55,2021-05-30
+6,6,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N298WN),Landed 11:28,2021-05-30
+7,7,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N357DN),Landed 11:46,2021-05-30
+8,8,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N676NK),Landed 11:43,2021-05-30
+9,9,11:42 AA355,,Miami (MIA),American Airlines B738 (N930NN),Landed 11:15,2021-05-30
+10,10,11:50 AA1349,,New York (JFK),American Airlines B738 (N923NN),Landed 11:51,2021-05-30
+11,11,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N231WN),Landed 11:53,2021-05-30
+12,12,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N971UY),Landed 11:40,2021-05-30
+13,13,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N849DN),Landed 11:58,2021-05-30
+14,14,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N950JT),Unknown,2021-05-30
+15,15,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N360DN),Landed 12:48,2021-05-30
+16,16,13:10 UA1519,,Washington (IAD),United Airlines B738 (N33264),Landed 13:25,2021-05-30
+17,17,13:13 B621,,Orlando (MCO),JetBlue Airways A21N (N2047J),Landed 15:01,2021-05-30
+18,18,13:20 UA1163,,Houston (IAH),United Airlines B739 (N62883),Landed 12:56,2021-05-30
+19,19,13:36 AA2817,,Miami (MIA),American Airlines B38M (N326SJ),Landed 13:32,2021-05-30
+20,20,14:00 BY114,,Manchester (MAN),TUI Airways 789,Unknown,2021-05-30
+21,21,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N559WN),Landed 13:43,2021-05-30
+22,22,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N185UW),Landed 13:49,2021-05-30
+23,23,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8563Z),Landed 15:10,2021-05-30
+24,24,15:20 AC7243,,Toronto (YYZ),Air Canada B789 (C-FRSA),Landed 15:07,2021-05-30
+25,25,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N346DN),Landed 15:25,2021-05-30
+26,26,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N507AY),Landed 15:15,2021-05-30
+27,27,16:24,AA2500,Dallas (DFW),American Airlines B738 (N898NN),Landed 16:12,2021-05-30
+28,28,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N318JB),Landed 16:19,2021-05-30
+29,29,18:43,B6879,New York (JFK),JetBlue Airways A320 (N804JB),Landed 18:51,2021-05-30
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N307JB),Landed 07:49,2021-05-31
+1,1,09:30,KX620,Kingston (KIN),Cayman Airways 733,Unknown,2021-05-31
+2,2,09:50 AA566,,Miami (MIA),American Airlines B738 (N989AN),Landed 09:24,2021-05-31
+3,3,10:55 UA2126,,New York (EWR),United Airlines B738 (N16217),Landed 10:39,2021-05-31
+4,4,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N184JB),Landed 10:52,2021-05-31
+5,5,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N406WN),Landed 10:56,2021-05-31
+6,6,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N323DN),Landed 11:32,2021-05-31
+7,7,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N672NK),Landed 12:23,2021-05-31
+8,8,11:42 AA355,,Miami (MIA),American Airlines B738 (N929NN),Landed 11:24,2021-05-31
+9,9,11:50 AA1349,,New York (JFK),American Airlines B738 (N874NN),Landed 11:29,2021-05-31
+10,10,11:54 B6207,,New York (EWR),JetBlue Airways ( JetBlue Vacations Livery) A320 (N623JB),Landed 11:43,2021-05-31
+11,11,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N225WN),Landed 11:38,2021-05-31
+12,12,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N163US),Landed 11:34,2021-05-31
+13,13,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N903DN),Landed 11:56,2021-05-31
+14,14,12:15 BW8040,,Kingston (KIN),Caribbean Airlines 76Y,Unknown,2021-05-31
+15,15,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N965JT),Landed 12:17,2021-05-31
+16,16,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N374DX),Landed 12:48,2021-05-31
+17,17,13:10 BY52,,London (LGW),TUI Airways 789,Unknown,2021-05-31
+18,18,13:13 B621,,Orlando (MCO),JetBlue Airways A320 (N588JB),Unknown,2021-05-31
+19,19,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N124US),Landed 13:04,2021-05-31
+20,20,13:34 II508,,Kingston (KIN),IBC Airways SF34 (N691BC),Unknown,2021-05-31
+21,21,13:36 AA2817,,Miami (MIA),American Airlines B738 (N877NN),Landed 13:14,2021-05-31
+22,22,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N907WN),Landed 13:47,2021-05-31
+23,23,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N519UW),Landed 13:53,2021-05-31
+24,24,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8558Z),Landed 15:35,2021-05-31
+25,25,15:08,B6479,New York (JFK),JetBlue Airways A320 (N507JT),Landed 15:02,2021-05-31
+26,26,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N398DN),Landed 15:40,2021-05-31
+27,27,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N568UW),Landed 17:53,2021-05-31
+28,28,15:53 F951,,Miami (MIA),Frontier (O'Malley the Mallard Duck Livery) A20N (N356FR),Landed 15:54,2021-05-31
+29,29,16:24,AA2500,Dallas (DFW),American Airlines B738 (N862NN),Landed 16:35,2021-05-31
+30,30,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N328JB),Landed 16:31,2021-05-31
+31,31,17:00 P47812,,Lagos (LOS),Air Peace 777,Unknown,2021-05-31
+32,32,18:43 B6879,,New York (JFK),JetBlue Airways A320 (N552JB),Landed 18:51,2021-05-31
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N307JB),Landed 08:00,2021-06-01
+1,1,09:50 AA566,,Miami (MIA),American Airlines B738 (N918NN),Landed 09:37,2021-06-01
+2,2,10:55 UA2126,,New York (EWR),United Airlines B739 (N68805),Landed 10:16,2021-06-01
+3,3,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N318JB),Landed 10:44,2021-06-01
+4,4,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N7713A),Landed 11:03,2021-06-01
+5,5,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N102DN),Landed 11:40,2021-06-01
+6,6,11:42 AA355,,Miami (MIA),American Airlines B738 (N862NN),Landed 11:44,2021-06-01
+7,7,11:50 AA1349,,New York (JFK),American Airlines B738 (N931NN),Landed 11:24,2021-06-01
+8,8,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N498WN),Landed 13:38,2021-06-01
+9,9,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N558UW),Landed 11:39,2021-06-01
+10,10,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N869DN),Landed 11:46,2021-06-01
+11,11,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N999JQ),Landed 12:22,2021-06-01
+12,12,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N341DN),Landed 13:07,2021-06-01
+13,13,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N112US),Landed 12:45,2021-06-01
+14,14,13:36 AA2817,,Miami (MIA),American Airlines B738 (N877NN),Landed 13:17,2021-06-01
+15,15,14:00 BY44,,London (LGW),TUI Airways 789,Unknown,2021-06-01
+16,16,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N798SW),Landed 13:56,2021-06-01
+17,17,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N549UW),Landed 13:48,2021-06-01
+18,18,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8548P),Landed 14:56,2021-06-01
+19,19,15:04 B6207,,New York (EWR),JetBlue Airways A320 (N655JB),Landed 14:46,2021-06-01
+20,20,15:08 B6479,,New York (JFK),JetBlue Airways A320 (N706JB),Landed 14:36,2021-06-01
+21,21,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N397DN),Landed 16:53,2021-06-01
+22,22,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N176UW),Diverted to KIN,2021-06-01
+23,23,16:15 VS165,,London (LHR),Virgin Atlantic B789 (G-VBEL),Landed 16:05,2021-06-01
+24,24,16:24,AA2500,Dallas (DFW),American Airlines B738 (N814NN),Landed 16:57,2021-06-01
+25,25,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N184JB),Landed 17:25,2021-06-01
+26,26,18:20 AA1007,,Kingston (KIN),American Airlines A321 (N176UW),Landed 17:59,2021-06-01
+27,27,18:43 B6879,,New York (JFK),JetBlue Airways A320 (N564JB),Unknown,2021-06-01
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N184JB),Landed 08:04,2021-06-02
+1,1,09:50 AA566,,Miami (MIA),American Airlines (Oneworld Livery) B738 (N919NN),Landed 10:23,2021-06-02
+2,2,10:30 B6193,,Boston (BOS),JetBlue Airways A320 (N768JB),Landed 10:36,2021-06-02
+3,3,10:55 UA2126,,New York (EWR),United Airlines B739 (N68805),Landed 10:16,2021-06-02
+4,4,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N281JB),Landed 10:59,2021-06-02
+5,5,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N235WN),Landed 11:10,2021-06-02
+6,6,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N336DX),Landed 12:31,2021-06-02
+7,7,11:42 AA355,,Miami (MIA),American Airlines B738 (N933NN),Landed 11:22,2021-06-02
+8,8,11:46 II503,,Miami (MIA),IBC Airways SF34 (N691BC),Unknown,2021-06-02
+9,9,11:50 AA1349,,New York (JFK),American Airlines B738 (N960AN),Landed 11:33,2021-06-02
+10,10,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N435WN),Landed 11:44,2021-06-02
+11,11,11:56 AA840,,Charlotte (CLT),American Airlines A321 (N507AY),Landed 11:52,2021-06-02
+12,12,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N858DZ),Landed 11:40,2021-06-02
+13,13,12:47 B6779,,New York (JFK),JetBlue Airways A321 (N965JT),Unknown,2021-06-02
+14,14,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N360DN),Landed 13:21,2021-06-02
+15,15,13:17 AA860,,Philadelphia (PHL),American Airlines A320 (N124US),Landed 12:50,2021-06-02
+16,16,13:36 AA2817,,Miami (MIA),American Airlines B738 (N816NN),Landed 13:24,2021-06-02
+17,17,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N557WN),Landed 13:42,2021-06-02
+18,18,14:01 AA875,,Charlotte (CLT),American Airlines A321 (N539UW),Landed 13:45,2021-06-02
+19,19,14:34 II508,,Kingston (KIN),IBC Airways SF34 (N921BC),Landed 14:28,2021-06-02
+20,20,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8673F),Landed 14:50,2021-06-02
+21,21,15:04 B6207,,New York (EWR),JetBlue Airways A320 (N634JB),Landed 15:03,2021-06-02
+22,22,15:08 B6479,,New York (JFK),JetBlue Airways A320 (N503JB),Landed 14:41,2021-06-02
+23,23,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N374DX),Landed 16:48,2021-06-02
+24,24,15:37 AA1007,,Charlotte (CLT),American Airlines A321 (N189UW),Landed 15:30,2021-06-02
+25,25,16:15 VS165,,London (LHR),Virgin Atlantic B789 (G-VWHO),Landed 15:53,2021-06-02
+26,26,16:24,AA2500,Dallas (DFW),American Airlines B738 (N874NN),Landed 16:27,2021-06-02
+27,27,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N374JB),Landed 16:25,2021-06-02
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N284JB),Landed 07:50,2021-06-03
+1,1,09:27 AA1563,,Miami (MIA),American Airlines B738 (N972AN),Landed 09:27,2021-06-03
+2,2,09:50 AA566,,Miami (MIA),American Airlines 738,Unknown,2021-06-03
+3,3,09:55 AA2946,,Charlotte (CLT),American Airlines B738 (N867NN),Landed 09:32,2021-06-03
+4,4,10:34 B6207,,New York (EWR),JetBlue Airways A320 (N597JB),Landed 11:09,2021-06-03
+5,5,10:54 AA1349,,New York (JFK),American Airlines B738 (N815NN),Landed 10:54,2021-06-03
+6,6,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N203JB),Landed 11:40,2021-06-03
+7,7,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N273WN),Landed 10:57,2021-06-03
+8,8,11:19 AA857,,Philadelphia (PHL),American Airlines B738 (N982AN),Landed 11:58,2021-06-03
+9,9,11:36,DL1997,Atlanta (ATL),Delta Air Lines A321 (N371DN),Landed 11:35,2021-06-03
+10,10,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N682NK),Landed 11:25,2021-06-03
+11,11,11:42 AA355,,Miami (MIA),American Airlines 738,Unknown,2021-06-03
+12,12,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N7879A),Landed 11:37,2021-06-03
+13,13,11:56 AA840,,Charlotte (CLT),American Airlines 321,Unknown,2021-06-03
+14,14,12:05,DL1955,New York (JFK),Delta Air Lines B739 (N895DN),Landed 11:44,2021-06-03
+15,15,12:08 AA1501,,Miami (MIA),American Airlines B738 (N968AN),Landed 12:17,2021-06-03
+16,16,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N998JE),Landed 12:44,2021-06-03
+17,17,13:05,DL1801,Atlanta (ATL),Delta Air Lines A321 (N382DN),Landed 14:03,2021-06-03
+18,18,13:09 II503,,Miami (MIA),IBC Airways SF34 (N641BC),Landed 13:06,2021-06-03
+19,19,13:13 B621,,Orlando (MCO),JetBlue Airways A320 (N591JB),Landed 13:23,2021-06-03
+20,20,13:15 UA2126,,New York (EWR),United Airlines (Eco-Skies Livery) B739 (N75432),Landed 13:15,2021-06-03
+21,21,13:20 UA1163,,Houston (IAH),United Airlines B738 (N17244),Landed 13:03,2021-06-03
+22,22,13:24 AA860,,Philadelphia (PHL),American Airlines A321 (N154AA),Landed 13:12,2021-06-03
+23,23,13:31 AA875,,Charlotte (CLT),American Airlines B738 (N923NN),Landed 13:29,2021-06-03
+24,24,13:36 AA2817,,Miami (MIA),American Airlines 738,Unknown,2021-06-03
+25,25,13:50 BY164,,Manchester (MAN),TUI Airways 789,Unknown,2021-06-03
+26,26,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N558WN),Landed 13:47,2021-06-03
+27,27,14:53 AA1554,,Miami (MIA),American Airlines B38M (N306SP),Landed 15:39,2021-06-03
+28,28,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8659D),Landed 15:01,2021-06-03
+29,29,15:10,AA2500,Dallas (DFW),American Airlines B738 (N847NN),Landed 14:42,2021-06-03
+30,30,15:31,DL1949,Atlanta (ATL),Delta Air Lines A321 (N343DN),Landed 15:44,2021-06-03
+31,31,15:37 AA1007,,Charlotte (CLT),American Airlines 321,Unknown,2021-06-03
+32,32,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N328JB),Landed 16:20,2021-06-03
+0,0,8:08 AM B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N283JB),Landed 7:51 AM,2021-06-04
+1,1,9:27 AM AA1563,,Miami (MIA),American Airlines A321 (N996AN),Landed 9:07 AM,2021-06-04
+2,2,9:30 AM,KX620,Kingston (KIN),Cayman Airways 733,Unknown,2021-06-04
+3,3,9:55 AM AA2946,,Charlotte (CLT),American Airlines B738 (N942AN),Landed 9:33 AM,2021-06-04
+4,4,10:25 AM UA1462,,New York (EWR),United Airlines B738 (N14230),Landed 10:16 AM,2021-06-04
+5,5,10:54 AM AA1349,,New York (JFK),American Airlines B738 (N856NN),Landed 10:44 AM,2021-06-04
+6,6,10:59 AM B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N281JB),Landed 10:55 AM,2021-06-04
+7,7,11:05 AM WN918,,Baltimore (BWI),Southwest Airlines (Triple Crown One Livery) B737 (N409WN),Landed 11:46 AM,2021-06-04
+8,8,11:19 AM AA857,,Philadelphia (PHL),American Airlines B738 (N938AN),Landed 11:13 AM,2021-06-04
+9,9,11:36 AM,DL1997,Atlanta (ATL),Delta Air Lines A321 (N326DN),Landed 11:16 AM,2021-06-04
+10,10,11:40 AM NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N668NK),Landed 12:12 PM,2021-06-04
+11,11,11:54 AM B6207,,New York (EWR),JetBlue Airways A320 (N583JB),Unknown,2021-06-04
+12,12,11:55 AM WN272,,Orlando (MCO),Southwest Airlines B737 (N763SW),Landed 11:38 AM,2021-06-04
+13,13,12:05 PM,DL1955,New York (JFK),Delta Air Lines B739 (N802DN),Landed 12:00 PM,2021-06-04
+14,14,12:08 PM AA1501,,Miami (MIA),American Airlines B738 (N829NN),Landed 12:07 PM,2021-06-04
+15,15,12:14 PM II503,,Miami (MIA),IBC Airways SF34 (N681BC),Landed 12:04 PM,2021-06-04
+16,16,12:22 PM II727,,Miami (MIA),IBC Airways SF34 (N681BC),Unknown,2021-06-04
+17,17,12:23 PM B6779,,New York (JFK),JetBlue Airways A321 (N999JQ),Landed 12:31 PM,2021-06-04
+18,18,1:05 PM,DL1801,Atlanta (ATL),Delta Air Lines A321 (N396DN),Landed 12:57 PM,2021-06-04
+19,19,1:10 PM UA1519,,Washington (IAD),United Airlines B738 (N38268),Landed 1:55 PM,2021-06-04
+20,20,1:13 PM B621,,Orlando (MCO),JetBlue Airways A320 (N535JB),Landed 1:32 PM,2021-06-04
+21,21,1:15 PM UA2126,,New York (EWR),United Airlines B739 (N68817),Landed 1:25 PM,2021-06-04
+22,22,1:20 PM UA1163,,Houston (IAH),United Airlines B738 (N87512),Landed 1:07 PM,2021-06-04
+23,23,1:24 PM AA860,,Philadelphia (PHL),American Airlines A321 (N129AA),Landed 1:18 PM,2021-06-04
+24,24,1:31 PM AA875,,Charlotte (CLT),American Airlines B738 (N980AN),Landed 1:21 PM,2021-06-04
+25,25,1:55 PM BY36,,London (LGW),TUI Airways 789,Unknown,2021-06-04
+26,26,2:00 PM WN1115,,Houston (HOU),Southwest Airlines B737 (N7752B),Landed 1:51 PM,2021-06-04
+27,27,2:53 PM AA1554,,Miami (MIA),American Airlines B38M (N328RR),Landed 2:39 PM,2021-06-04
+28,28,3:00 PM WN906,,Baltimore (BWI),Southwest Airlines B738 (N8314L),Landed 2:48 PM,2021-06-04
+29,29,3:08 PM,B6479,New York (JFK),JetBlue Airways A320 (N590JB),Landed 3:01 PM,2021-06-04
+30,30,3:10 PM,AA2500,Dallas (DFW),American Airlines B738 (N983AN),Landed 2:45 PM,2021-06-04
+31,31,3:31 PM,DL1949,Atlanta (ATL),Delta Air Lines A321 (N374DX),Landed 3:24 PM,2021-06-04
+32,32,3:53 PM F951,,Miami (MIA),Frontier (Ed. Edwin & Eddie The Penguins Livery) A20N (N344FR),Landed 3:50 PM,2021-06-04
+33,33,4:38 PM B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N267JB),Landed 4:28 PM,2021-06-04
+0,0,8:08 AM B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N267JB),Landed 7:55 AM,2021-06-05
+1,1,9:21 AM B6779,,New York (JFK),JetBlue Airways A321 (N965JT),Landed 8:56 AM,2021-06-05
+2,2,9:29 AM AA1563,,Miami (MIA),American Airlines B38M (N318SF),Landed 9:06 AM,2021-06-05
+3,3,9:30 AM WN916,,Baltimore (BWI),Southwest Airlines B737 (N7866A),Landed 9:14 AM,2021-06-05
+4,4,9:55 AM AA2946,,Charlotte (CLT),American Airlines B738 (N912NN),Landed 9:44 AM,2021-06-05
+5,5,10:25 AM UA1462,,New York (EWR),United Airlines B738 (N33209),Landed 10:06 AM,2021-06-05
+6,6,10:30 AM B6193,,Boston (BOS),JetBlue Airways A320 (N637JB),Landed 10:14 AM,2021-06-05
+7,7,10:43 AM,CM146,Panama City (PTY),Copa Airlines B738 (HP-1842CMP),Landed 10:32 AM,2021-06-05
+8,8,10:54 AM AA1349,,New York (JFK),American Airlines B738 (N822NN),Landed 10:17 AM,2021-06-05
+9,9,10:56 AM,DL1955,New York (JFK),Delta Air Lines B739 (N895DN),Landed 10:40 AM,2021-06-05
+10,10,10:59 AM B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N368JB),Landed 10:42 AM,2021-06-05
+11,11,11:05 AM WN292,,Orlando (MCO),Southwest Airlines B737 (N7816B),Landed 10:49 AM,2021-06-05
+12,12,11:19 AM AA857,,Philadelphia (PHL),American Airlines (AstroJet Retro Livery) B738 (N905NN),Landed 10:58 AM,2021-06-05
+13,13,11:52 AM,DL1997,Atlanta (ATL),Delta Air Lines B739 (N843DN),Landed 11:25 AM,2021-06-05
+14,14,11:55 AM WN926,,Baltimore (BWI),Southwest Airlines B737 (N903WN),Landed 11:29 AM,2021-06-05
+15,15,12:08 PM AA1501,,Miami (MIA),American Airlines B738 (N860NN),Landed 12:00 PM,2021-06-05
+16,16,12:19 PM WS2702,,Toronto (YYZ),WestJet B38M (C-FCTK),Landed 12:21 PM,2021-06-05
+17,17,12:24 PM,,Miami (OPF),- GLF4 (N448QS),Unknown,2021-06-05
+18,18,12:24 PM,,Key West (EYW),- GLF4,Canceled,2021-06-05
+19,19,12:35 PM WN1831,,St. Louis (STL),Southwest Airlines B737 (N255WN),Landed 12:17 PM,2021-06-05
+20,20,12:39 PM,,Nassau (NAS),- CL60 (N209QS),Landed 12:37 PM,2021-06-05
+21,21,12:49 PM UA1146,,Chicago (ORD),United Airlines B738 (N76254),Landed 12:43 PM,2021-06-05
+22,22,12:55 PM WN1042,,Chicago (MDW),Southwest Airlines B737 (N439WN),Landed 12:34 PM,2021-06-05
+23,23,1:10 PM UA1519,,Washington (IAD),United Airlines B738 (N78285),Landed 1:40 PM,2021-06-05
+24,24,1:12 PM B6549,,Raleigh-Durham (RDU),JetBlue Airways E190 (N258JB),Landed 12:52 PM,2021-06-05
+25,25,1:13 PM B621,,Orlando (MCO),JetBlue Airways A320 (N653JB),Landed 1:04 PM,2021-06-05
+26,26,1:15 PM UA2126,,New York (EWR),United Airlines (Eco-Skies Livery) B739 (N75432),Landed 1:37 PM,2021-06-05
+27,27,1:20 PM UA1163,,Houston (IAH),United Airlines B738 (N76523),Landed 1:34 PM,2021-06-05
+28,28,1:22 PM,DL1801,Atlanta (ATL),Delta Air Lines A321 (N114DN),Landed 1:25 PM,2021-06-05
+29,29,1:24 PM AA860,,Philadelphia (PHL),American Airlines A321 (N904AA),Unknown,2021-06-05
+30,30,1:31 PM AA875,,Charlotte (CLT),American Airlines B738 (N869NN),Landed 3:00 PM,2021-06-05
+31,31,1:34 PM AA975,,Chicago (ORD),American Airlines B738 (N980AN),Landed 1:31 PM,2021-06-05
+32,32,1:35 PM BY544,,Birmingham (BHX),TUI Airways 789,Unknown,2021-06-05
+33,33,1:35 PM WN1068,,Orlando (MCO),Southwest Airlines B737 (N901WN),Landed 1:28 PM,2021-06-05
+34,34,2:00 PM WN1115,,Houston (HOU),Southwest Airlines B737 (N559WN),Landed 1:52 PM,2021-06-05
+35,35,2:13 PM,,Castries (SLU),- C55B (N876BB),Landed 2:57 PM,2021-06-05
+36,36,2:53 PM AA1554,,Miami (MIA),American Airlines B38M (N310RF),Landed 2:51 PM,2021-06-05
+37,37,3:00 PM WN906,,Baltimore (BWI),Southwest Airlines B738 (N8520Q),Landed 2:31 PM,2021-06-05
+38,38,3:04 PM B6207,,New York (EWR),JetBlue Airways (NY Jets Livery) A320 (N746JB),Landed 3:50 PM,2021-06-05
+39,39,3:08 PM B6479,,New York (JFK),JetBlue Airways A320 (N638JB),Landed 2:54 PM,2021-06-05
+40,40,3:10 PM,AA2500,Dallas (DFW),American Airlines B738 (N342PM),Landed 2:44 PM,2021-06-05
+41,41,3:36 PM,DL1949,Atlanta (ATL),Delta Air Lines A321 (N105DX),Landed 3:20 PM,2021-06-05
+42,42,4:15 PM VS165,,London (LHR),Virgin Atlantic B789 (G-VSPY),Landed 3:58 PM,2021-06-05
+43,43,4:38 PM B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N284JB),Landed 4:29 PM,2021-06-05
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways A320 (N587JB),Landed 07:57,2021-06-06
+1,1,09:27 AA1563,,Miami (MIA),American Airlines A321 (N146AA),Landed 08:59,2021-06-06
+2,2,09:55 AA2946,,Charlotte (CLT),American Airlines B738 (N976NN),Landed 10:22,2021-06-06
+3,3,10:25 UA1462,,New York (EWR),United Airlines B738 (N17233),Landed 09:53,2021-06-06
+4,4,10:34 B6207,,New York (EWR),JetBlue Airways A320 (N547JB),Landed 11:04,2021-06-06
+5,5,10:54 AA1349,,New York (JFK),American Airlines B738 (N352PS),Landed 10:17,2021-06-06
+6,6,10:56,DL1955,New York (JFK),Delta Air Lines B739 (N833DN),Landed 10:53,2021-06-06
+7,7,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N294JB),Landed 11:06,2021-06-06
+8,8,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N412WN),Landed 10:50,2021-06-06
+9,9,11:19 AA857,,Philadelphia (PHL),American Airlines B738 (N979NN),Landed 11:33,2021-06-06
+10,10,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N677NK),Landed 11:37,2021-06-06
+11,11,11:52,DL1997,Atlanta (ATL),Delta Air Lines B739 (N878DN),Landed 11:49,2021-06-06
+12,12,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N413WN),Landed 11:44,2021-06-06
+13,13,12:08 AA1501,,Miami (MIA),American Airlines B738 (N901NN),Landed 13:24,2021-06-06
+14,14,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N949JT),Landed 12:18,2021-06-06
+15,15,12:55 WN1042,,Chicago (MDW),Southwest Airlines B737 (N443WN),Landed 12:37,2021-06-06
+16,16,13:10 UA1519,,Washington (IAD),United Airlines B738 (N73276),Landed 13:49,2021-06-06
+17,17,13:13 B621,,Orlando (MCO),JetBlue Airways A320 (N649JB),Landed 13:22,2021-06-06
+18,18,13:15 UA2126,,New York (EWR),United Airlines B739 (N75429),Landed 12:43,2021-06-06
+19,19,13:20 UA1163,,Houston (IAH),United Airlines B738 (N76514),Landed 13:42,2021-06-06
+20,20,13:22,DL1801,Atlanta (ATL),Delta Air Lines A321 (N397DN),Landed 13:11,2021-06-06
+21,21,13:24 AA860,,Philadelphia (PHL),American Airlines A321 (N149AN),Landed 13:14,2021-06-06
+22,22,13:31 AA875,,Charlotte (CLT),American Airlines B738 (N882NN),Landed 13:18,2021-06-06
+23,23,13:35 WN1841,,St. Louis (STL),Southwest Airlines B737 (N556WN),Landed 13:27,2021-06-06
+24,24,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N7752B),Landed 13:46,2021-06-06
+25,25,14:53 AA1554,,Miami (MIA),American Airlines B738 (N357PV),Landed 14:35,2021-06-06
+26,26,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8553W),Landed 15:08,2021-06-06
+27,27,15:08,B6479,New York (JFK),JetBlue Airways A320 (N637JB),Landed 14:44,2021-06-06
+28,28,15:10,AA2500,Dallas (DFW),American Airlines B738 (N306PB),Landed 14:46,2021-06-06
+29,29,15:20 AC7243,,Toronto (YYZ),Air Canada B789 (C-FRTU),Landed 14:54,2021-06-06
+30,30,15:36,DL1949,Atlanta (ATL),Delta Air Lines A321 (N112DN),Landed 15:25,2021-06-06
+31,31,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N294JB),Landed 16:22,2021-06-06
+0,0,08:08 B62027,,Fort Lauderdale (FLL),JetBlue Airways E190 (N368JB),Landed 07:59,2021-06-07
+1,1,09:27 AA1563,,Miami (MIA),American Airlines A321 (N148AN),Landed 09:11,2021-06-07
+2,2,09:30,KX620,Kingston (KIN),Cayman Airways 733,Unknown,2021-06-07
+3,3,09:55 AA2946,,Charlotte (CLT),American Airlines B738 (N972AN),Landed 10:13,2021-06-07
+4,4,10:54 AA1349,,New York (JFK),American Airlines B738 (N806NN),Landed 10:22,2021-06-07
+5,5,10:56,DL1955,New York (JFK),Delta Air Lines B739 (N908DN),Landed 10:30,2021-06-07
+6,6,10:59 B62427,,Fort Lauderdale (FLL),JetBlue Airways E190 (N284JB),Landed 10:45,2021-06-07
+7,7,11:05 WN918,,Baltimore (BWI),Southwest Airlines B737 (N749SW),Landed 10:33,2021-06-07
+8,8,11:19 AA857,,Philadelphia (PHL),American Airlines B738 (N855NN),Canceled,2021-06-07
+9,9,11:40 NK833,,Fort Lauderdale (FLL),Spirit Airlines A321 (N687NK),Landed 11:38,2021-06-07
+10,10,11:52,DL1997,Atlanta (ATL),Delta Air Lines B739 (N829DN),Landed 11:44,2021-06-07
+11,11,11:54 B6207,,New York (EWR),JetBlue Airways A320 (N570JB),Landed 11:29,2021-06-07
+12,12,11:55 WN272,,Orlando (MCO),Southwest Airlines B737 (N912WN),Landed 11:40,2021-06-07
+13,13,12:08 AA1501,,Miami (MIA),American Airlines B738 (N968AN),Landed 12:06,2021-06-07
+14,14,12:15 BW8040,,Kingston (KIN),Caribbean Airlines 76Y,Unknown,2021-06-07
+15,15,12:23 B6779,,New York (JFK),JetBlue Airways A321 (N999JQ),Landed 11:56,2021-06-07
+16,16,12:55 WN1042,,Chicago (MDW),Southwest Airlines B737 (N425LV),Landed 13:04,2021-06-07
+17,17,13:13 B621,,Orlando (MCO),JetBlue Airways A21N (N2017J),Landed 13:59,2021-06-07
+18,18,13:15 UA2126,,New York (EWR),United Airlines B739 (N53442),Landed 13:08,2021-06-07
+19,19,13:20 UA1163,,Houston (IAH),United Airlines B738 (N87512),Landed 13:22,2021-06-07
+20,20,13:22,DL1801,Atlanta (ATL),Delta Air Lines A321 (N395DZ),Landed 13:16,2021-06-07
+21,21,13:24 AA860,,Philadelphia (PHL),American Airlines A321 (N136AN),Landed 14:20,2021-06-07
+22,22,13:31 AA875,,Charlotte (CLT),American Airlines B738 (N927NN),Landed 13:13,2021-06-07
+23,23,13:34 II508,,Kingston (KIN),IBC Airways SF34 (N901BC),Landed 13:39,2021-06-07
+24,24,14:00 WN1115,,Houston (HOU),Southwest Airlines B737 (N555LV),Landed 13:35,2021-06-07
+25,25,14:53 AA1554,,Miami (MIA),American Airlines B38M (N302SA),Landed 15:05,2021-06-07
+26,26,15:00 WN906,,Baltimore (BWI),Southwest Airlines B738 (N8530W),Landed 14:55,2021-06-07
+27,27,15:08,B6479,New York (JFK),JetBlue Airways A320 (N588JB),Unknown,2021-06-07
+28,28,15:10,AA2500,Dallas (DFW),American Airlines B738 (N819NN),Landed 17:46,2021-06-07
+29,29,15:36,DL1949,Atlanta (ATL),Delta Air Lines A321 (N338DN),Landed 15:21,2021-06-07
+30,30,15:53 F951,,Miami (MIA),Frontier (Meadow & West The Horses Livery) A20N (N343FR),Landed 16:01,2021-06-07
+31,31,16:38 B61327,,Fort Lauderdale (FLL),JetBlue Airways E190 (N284JB),Landed 16:42,2021-06-07

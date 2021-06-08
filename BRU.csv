@@ -10951,3 +10951,2256 @@
 60,60,22:35 TB2964,,Pristina (PRN),TUI B737 (OO-JAO),Unknown,2021-05-12
 61,61,22:45,LH2294,Munich (MUC),Lufthansa CRJ9 (D-ACKE),Landed 22:19,2021-05-12
 62,62,23:35,TP642,Lisbon (LIS),TAP Express E195 (CS-TTX),Landed 23:21,2021-05-12
+0,0,04:00 M68321,,Miami (MIA),Amerijet International B763 (N378CX),Landed 05:37,2021-05-13
+1,1,05:00 QY923,,Miami (MIA),DHL A332 (D-ALMA),Landed 04:29,2021-05-13
+2,2,06:20 ET728,,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AXK),Landed 06:06,2021-05-13
+3,3,06:40 SN358,,Kinshasa (FIH),Brussels Airlines A333 (OO-SFB),Landed 06:12,2021-05-13
+4,4,06:45 SN204,,Dakar (DSS),Brussels Airlines A333 (OO-SFF),Landed 06:31,2021-05-13
+5,5,07:00 ET3712,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-13
+6,6,07:15 UA950,,Washington (IAD),United Airlines B78X (N16008),Landed 07:16,2021-05-13
+7,7,07:20 SN460,,Entebbe (EBB),Brussels Airlines A333 (OO-SFC),Landed 06:54,2021-05-13
+8,8,07:35 SN372,,Douala (DLA),Brussels Airlines A333 (OO-SFG),Landed 08:16,2021-05-13
+9,9,07:45 UA999,,New York (EWR),United Airlines B789 (N26967),Landed 07:27,2021-05-13
+10,10,07:55 SN240,,Freetown (FNA),Brussels Airlines A333 (OO-SFE),Landed 07:19,2021-05-13
+11,11,08:00 ET3714,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-13
+12,12,08:40,LX786,Zurich (ZRH),Swiss BCS3 (HB-JCD),Landed 08:29,2021-05-13
+13,13,08:40 TK6509,,Istanbul (ISL),Turkish Cargo A332 (TC-JCI),Landed 13:59,2021-05-13
+14,14,09:00,UA972,Chicago (ORD),United Airlines B788 (N26909),Landed 08:37,2021-05-13
+15,15,09:20,SK589,Stockholm (ARN),SAS A20N (SE-ROE),Landed 09:11,2021-05-13
+16,16,09:25,OS351,Vienna (VIE),Austrian Airlines A320 (OE-LBX),Landed 09:05,2021-05-13
+17,17,09:30,LO235,Warsaw (WAW),LOT B38M (SP-LVC),Landed 09:08,2021-05-13
+18,18,09:30 ET3702,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-APU),Landed 11:32,2021-05-13
+19,19,09:45,UX1171,Madrid (MAD),Air Europa B738 (EC-LVR),Landed 09:32,2021-05-13
+20,20,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-13
+21,21,10:20 VS505,,London (LHR),Virgin Atlantic A35K (G-VTEA),Landed 10:00,2021-05-13
+22,22,10:25,A3620,Athens (ATH),Aegean Airlines A21N (SX-NAC),Landed 09:56,2021-05-13
+23,23,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EXB),Landed 10:17,2021-05-13
+24,24,10:30,TK1937,Istanbul (IST),Turkish Airlines A21N (TC-LTA),Landed 10:04,2021-05-13
+25,25,10:45 3O115,,Nador (NDR),Air Arabia Maroc -,Canceled,2021-05-13
+26,26,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-13
+27,27,10:50 3O113,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-05-13
+28,28,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-NJY),Landed 10:42,2021-05-13
+29,29,11:15,AC832,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 11:04,2021-05-13
+30,30,11:20 TU788,,Tunis (TUN),Tunisair B736 (TS-ION),Landed 11:06,2021-05-13
+31,31,11:40 SN3772,,Alicante (ALC),Brussels Airlines A320 (OO-SNJ),Landed 11:38,2021-05-13
+32,32,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFP),Landed 11:27,2021-05-13
+33,33,12:00 TB1332,,Ibiza (IBZ),TUI B38M (OO-TMY),Unknown,2021-05-13
+34,34,12:00 VS515,,London (LHR),Virgin Atlantic B789 (G-VZIG),Landed 11:35,2021-05-13
+35,35,12:25,SN3176,Rome (FCO),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 12:06,2021-05-13
+36,36,12:25 SN3634,,Paris (CDG),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 12:40,2021-05-13
+37,37,12:35,SN2714,Geneva (GVA),Brussels Airlines A320 (OO-TCV),Landed 12:52,2021-05-13
+38,38,12:35 TB1028,,Malaga (AGP),TUI B738 (OO-SRO),Landed 12:20,2021-05-13
+39,39,12:40 SN3774,,Alicante (ALC),Brussels Airlines A320 (OO-SNK),Landed 12:22,2021-05-13
+40,40,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACNH),Landed 12:32,2021-05-13
+41,41,12:55 FR2916,,Palma de Mallorca (PMI),Ryanair B738 (EI-DPY),Landed 12:48,2021-05-13
+42,42,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSF),Landed 12:36,2021-05-13
+43,43,13:00 TB1374,,Palma de Mallorca (PMI),TUI B38M (OO-TMA),Landed 13:04,2021-05-13
+44,44,13:00 TB1942,,Faro (FAO),TUI B38M (OO-TMB),Unknown,2021-05-13
+45,45,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSW),Landed 13:01,2021-05-13
+46,46,13:05 K4335,,Los Angeles (LAX),Kalitta Air B744 (N707CK),Landed 13:11,2021-05-13
+47,47,13:15,SN2094,London (LHR),Brussels Airlines A333 (OO-SFF),Landed 13:34,2021-05-13
+48,48,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSV),Landed 12:56,2021-05-13
+49,49,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQJ),Landed 13:33,2021-05-13
+50,50,13:20,VY8920,Valencia (VLC),Vueling A320 (EC-MGE),Landed 12:53,2021-05-13
+51,51,13:25,EY57,Abu Dhabi (AUH),Etihad (Abu Dhabi Grand Prix Livery) B789 (A6-BLV),Landed 13:06,2021-05-13
+52,52,13:25,SN2258,Copenhagen (CPH),Brussels Airlines A319 (OO-SSA),Landed 13:28,2021-05-13
+53,53,13:25,SN3598,Marseille (MRS),Brussels Airlines A319 (OO-SSB),Landed 13:09,2021-05-13
+54,54,13:30 SN3124,,Bologna (BLQ),Brussels Airlines A319 (OO-SSO),Landed 13:27,2021-05-13
+55,55,13:30,SN3736,Malaga (AGP),Brussels Airlines A319 (OO-SSR),Landed 13:14,2021-05-13
+56,56,13:35,LH1012,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A320 (D-AIUA),Landed 13:30,2021-05-13
+57,57,13:35,SN3202,Venice (VCE),Brussels Airlines A320 (OO-TCH),Landed 13:25,2021-05-13
+58,58,13:35,SN3216,Milan (MXP),Brussels Airlines A320 (OO-SNI),Landed 13:15,2021-05-13
+59,59,13:35,SN3668,Toulouse (TLS),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 14:02,2021-05-13
+60,60,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNL),Landed 13:30,2021-05-13
+61,61,13:40 QR193,,Doha (DOH),Qatar Airways A359 (A7-ALA),Landed 13:24,2021-05-13
+62,62,14:30 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA784A),Landed 14:28,2021-05-13
+63,63,15:05,TP648,Lisbon (LIS),TAP Air Portugal A319 (CS-TTS),Landed 15:00,2021-05-13
+64,64,15:45 QR8820,,Doha (DOH),Qatar Airways B789 (A7-BHD),Landed 15:12,2021-05-13
+65,65,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-13
+66,66,16:00 TB1752,,Tenerife (TFS),TUI B738 (OO-JAX),Unknown,2021-05-13
+67,67,16:10,SN3816,Lisbon (LIS),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 16:05,2021-05-13
+68,68,16:35,SN3812,Porto (OPO),Brussels Airlines A320 (OO-SNM),Landed 16:48,2021-05-13
+69,69,17:30,AZ160,Rome (FCO),Alitalia A319 (EI-IMD),Landed 17:20,2021-05-13
+70,70,17:30,SN3704,Barcelona (BCN),Brussels Airlines A320 (OO-SNJ),Landed 17:37,2021-05-13
+71,71,18:15,AY1545,Helsinki (HEL),Finnair E190 (OH-LKF),Landed 17:53,2021-05-13
+72,72,18:15 3O111,,Casablanca (CMN),Air Arabia Maroc -,Canceled,2021-05-13
+73,73,18:21 K4977,,Cincinnati (CVG),Kalitta Air B744 (N706CK),Landed 18:41,2021-05-13
+74,74,18:55,IB8694,Madrid (MAD),Iberia Regional (Aviacion Sin Fronteras Livery) CRJX (EC-LJS),Landed 18:58,2021-05-13
+75,75,19:00,KM420,Luqa (MLA),Air Malta (We're Back! Sticker) A20N (9H-NEC),Landed 18:47,2021-05-13
+76,76,19:00 SQ7987,,Los Angeles (LAX),Singapore Airlines B744,Unknown,2021-05-13
+77,77,19:15,OS355,Vienna (VIE),Austrian Airlines A319 (OE-LDE),Landed 19:01,2021-05-13
+78,78,19:20 TB1112,,Alicante (ALC),TUI B738 (OO-TUP),Landed 20:29,2021-05-13
+79,79,19:25,AZ154,Milan (LIN),Alitalia A319 (EI-IME),Landed 19:07,2021-05-13
+80,80,19:25,VY2150,Malaga (AGP),Vueling A20N (EC-NAY),Landed 19:02,2021-05-13
+81,81,19:30 SN3622,,Nice (NCE),Brussels Airlines A320 (OO-SNK),Landed 19:37,2021-05-13
+82,82,19:45 SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSF),Landed 20:11,2021-05-13
+83,83,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSW),Landed 20:35,2021-05-13
+84,84,20:00 QR8144,,Chicago (ORD),Qatar Cargo B77L (A7-BFJ),Landed 19:46,2021-05-13
+85,85,20:25,JU304,Belgrade (BEG),AirSERBIA A319 (YU-APC),Landed 20:02,2021-05-13
+86,86,20:30 3S395,,Cincinnati (CVG),DHL B77L (D-AALP),Landed 20:44,2021-05-13
+87,87,20:35,VY8990,Barcelona (BCN),Vueling A320 (EC-LVV),Landed 20:26,2021-05-13
+88,88,21:15 ET729,,Manchester (MAN),Ethiopian Airlines B789 (ET-AXK),Landed 21:00,2021-05-13
+89,89,21:15 3V4804,,Orebro (ORB),ASL Airlines Belgium 73P,Canceled,2021-05-13
+90,90,22:05 FR2924,,Malaga (AGP),Ryanair B738 (EI-DWC),Landed 21:55,2021-05-13
+91,91,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EXA),Landed 21:50,2021-05-13
+92,92,22:40 TB2952,,Tirana (TIA),TUI E190 (OO-JVA),Landed 22:13,2021-05-13
+93,93,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-SNL),Landed 22:56,2021-05-13
+0,0,05:00 QY923,,Miami (MIA),DHL A332 (D-ALMA),Landed 04:06,2021-05-14
+1,1,06:45 HU491,,Beijing (PEK),Hainan Airlines A332 (B-5963),Unknown,2021-05-14
+2,2,07:15,UA950,Washington (IAD),United Airlines B78X (N14011),Landed 07:29,2021-05-14
+3,3,07:25,SN283,Lome (LFW),Brussels Airlines A333 (OO-SFE),Landed 06:57,2021-05-14
+4,4,07:45,SN305,Abidjan (ABJ),Brussels Airlines A333 (OO-SFB),Landed 09:25,2021-05-14
+5,5,07:45,UA999,New York (EWR),United Airlines B78X (N91007),Landed 07:40,2021-05-14
+6,6,07:55,SN379,Yaounde (NSI),Brussels Airlines A333 (OO-SFC),Landed 07:38,2021-05-14
+7,7,08:20 FR2918,,Barcelona (BCN),Ryanair B738 (EI-EXD),Landed 08:08,2021-05-14
+8,8,08:35,ET724,Vienna (VIE),Ethiopian Airlines B789 (ET-AUP),Landed 07:55,2021-05-14
+9,9,09:05,VY8988,Barcelona (BCN),Vueling A320 (EC-KDH),Landed 09:02,2021-05-14
+10,10,09:15,AY1541,Helsinki (HEL),Finnair E190 (OH-LKL),Landed 08:38,2021-05-14
+11,11,09:15 ET3749,,Shanghai (PVG),Ethiopian Airlines 77X,Unknown,2021-05-14
+12,12,09:30,LO235,Warsaw (WAW),LOT E170 (SP-LDF),Landed 09:04,2021-05-14
+13,13,10:00,TK1937,Istanbul (IST),Turkish Airlines A333 (TC-JNT),Landed 09:39,2021-05-14
+14,14,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-14
+15,15,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZW),Unknown,2021-05-14
+16,16,10:45,TP646,Lisbon (LIS),TAP Air Portugal A20N (CS-TVB),Landed 10:37,2021-05-14
+17,17,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-14
+18,18,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-MXU),Landed 10:47,2021-05-14
+19,19,11:10,AZ156,Rome (FCO),Alitalia A319 (EI-IMI),Landed 10:58,2021-05-14
+20,20,11:40 AH2200,,Algiers (ALG),Air Algerie 73K,Unknown,2021-05-14
+21,21,11:50 TB1112,,Alicante (ALC),TUI B38M (OO-TMA),Landed 16:27,2021-05-14
+22,22,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFP),Landed 11:14,2021-05-14
+23,23,11:50 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMY),Unknown,2021-05-14
+24,24,11:55 TB3752,,Suceava (SCV),TUI E190 (OO-JVA),Landed 11:49,2021-05-14
+25,25,12:15 SU2168,,Moscow (SVO),Aeroflot B738 (VQ-BHB),Landed 11:46,2021-05-14
+26,26,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNI),Landed 13:33,2021-05-14
+27,27,12:30 DL3456,,New York (JFK),Delta Air Lines B763 (N1603),Landed 12:06,2021-05-14
+28,28,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSA),Landed 12:23,2021-05-14
+29,29,12:35 K4335,,Los Angeles (LAX),Kalitta Air B744 (N710CK),Landed 15:20,2021-05-14
+30,30,12:40 FR2934,,Alicante (ALC),Ryanair B738 (EI-EVA),Landed 12:31,2021-05-14
+31,31,12:40 TB1012,,Malaga (AGP),TUI B737 (OO-JAO),Landed 12:29,2021-05-14
+32,32,12:55 SQ7951,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFN),Landed 12:00,2021-05-14
+33,33,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSN),Landed 13:22,2021-05-14
+34,34,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNJ),Landed 13:08,2021-05-14
+35,35,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSF),Landed 12:51,2021-05-14
+36,36,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQI),Landed 13:04,2021-05-14
+37,37,13:25,EY57,Abu Dhabi (AUH),Etihad (Manchester City Livery) B789 (A6-BND),Landed 13:02,2021-05-14
+38,38,13:25 SN2174,,Manchester (MAN),Brussels Airlines A320 (OO-SNK),Landed 13:13,2021-05-14
+39,39,13:25 RU9506,,Cincinnati (CVG),AirBridgeCargo B748 (VP-BBL),Landed 15:45,2021-05-14
+40,40,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILM),Landed 13:26,2021-05-14
+41,41,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSO),Landed 13:15,2021-05-14
+42,42,13:40 QR8846,,Doha (DOH),Qatar Airways A359 (A7-ALG),Landed 13:00,2021-05-14
+43,43,14:50 0B2923,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 14:38,2021-05-14
+44,44,14:55 SN3752,,Valencia (VLC),Brussels Airlines A320 (OO-TCH),Landed 14:46,2021-05-14
+45,45,15:40 TB2342,,Rhodes (RHO),TUI B38M (OO-TMB),Landed 15:13,2021-05-14
+46,46,15:45 QR8814,,Doha (DOH),Qatar Airways B77W (A7-BEK),Landed 15:17,2021-05-14
+47,47,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-14
+48,48,16:00 QR8245,,Doha (DOH),Qatar Cargo B77L (A7-BFU),Landed 15:26,2021-05-14
+49,49,17:35,UX1173,Madrid (MAD),Air Europa B738 (EC-MKL),Landed 17:17,2021-05-14
+50,50,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VTEA),Landed 17:29,2021-05-14
+51,51,17:45 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA784A),Landed 18:17,2021-05-14
+52,52,17:50,BT603,Riga (RIX),Air Baltic BCS3 (YL-AAQ),Landed 17:38,2021-05-14
+53,53,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSO),Landed 18:13,2021-05-14
+54,54,18:40 LO233,,Warsaw (WAW),LOT E170 (SP-LDE),Landed 18:26,2021-05-14
+55,55,18:55 IB8694,,Madrid (MAD),Iberia Regional CRJX (EC-MQQ),Landed 18:57,2021-05-14
+56,56,18:55,RO373,Bucharest (OTP),Tarom A318 (YR-ASA),Landed 12:35,2021-05-14
+57,57,19:00 K4977,,Cincinnati (CVG),Kalitta Air B744 (N706CK),Landed 18:42,2021-05-14
+58,58,19:05,LX788,Zurich (ZRH),Swiss A321 (HB-IOC),Landed 18:47,2021-05-14
+59,59,19:15,OS355,Vienna (VIE),Austrian Airlines A319 (OE-LDD),Landed 19:21,2021-05-14
+60,60,19:45,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQB),Landed 19:37,2021-05-14
+61,61,19:55 3O113,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-05-14
+62,62,20:00,VY1332,Alicante (ALC),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 19:57,2021-05-14
+63,63,21:00 0B1123,,Bucharest (OTP),Blue Air B738 (YR-BMS),Landed 21:06,2021-05-14
+64,64,21:10 FR2932,,Lisbon (LIS),Ryanair B738 (EI-GSK),Landed 21:02,2021-05-14
+65,65,21:25 TB2172,,Thessaloniki (SKG),TUI B737 (OO-JAR),Landed 20:56,2021-05-14
+66,66,22:00 FR2929,,Porto (OPO),Ryanair B738 (EI-EFF),Landed 21:45,2021-05-14
+67,67,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZD),Landed 21:52,2021-05-14
+68,68,22:10 SG7851,,Mumbai (BOM),Hi Fly A343 (9H-JAI),Delayed 07:39,2021-05-14
+69,69,22:20,LH1024,Frankfurt (FRA),Lufthansa A20N (D-AINL),Landed 22:13,2021-05-14
+70,70,22:50 TB1912,,Funchal (FNC),TUI B38M (OO-TMY),Unknown,2021-05-14
+71,71,23:00 TB2162,,Zakynthos (ZTH),TUI B737 (OO-JAO),Landed 22:24,2021-05-14
+72,72,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-TCH),Landed 23:32,2021-05-14
+73,73,23:35,TP642,Lisbon (LIS),TAP Express E190 (CS-TPQ),Landed 23:22,2021-05-14
+0,0,00:25 TB2964,,Pristina (PRN),TUI B38M (OO-TMB),Unknown,2021-05-15
+1,1,01:50 TB1752,,Gran Canaria (LPA),TUI B738 (OO-TUP),Landed 02:01,2021-05-15
+2,2,05:00 ET3914,,Lagos (LOS),Ethiopian Cargo B77L (ET-ARI),Diverted to ADD,2021-05-15
+3,3,05:00 QY923,,Miami (MIA),DHL A332 (D-ALMA),Landed 03:41,2021-05-15
+4,4,05:00 GB957,,New York (JFK),ABX Air B763 (N219CY),Unknown,2021-05-15
+5,5,05:45 TB982F,,Detroit (DTW),TUI B788 (OO-LOE),Landed 06:13,2021-05-15
+6,6,06:40 SN358,,Kinshasa (FIH),Brussels Airlines A333 (OO-SFF),Landed 06:45,2021-05-15
+7,7,06:45 SN217,,Dakar (DSS),Brussels Airlines A333 (OO-SFD),Landed 06:34,2021-05-15
+8,8,07:05 SQ7366,,Sharjah (SHJ),Singapore Airlines Cargo B744 (9V-SFP),Landed 06:21,2021-05-15
+9,9,07:15,UA950,Washington (IAD),United Airlines B78X (N14011),Landed 07:25,2021-05-15
+10,10,07:20,SN474,Entebbe (EBB),Brussels Airlines A333 (OO-SFG),Landed 06:48,2021-05-15
+11,11,07:25,SN319,Accra (ACC),Brussels Airlines A333 (OO-SFB),Landed 07:39,2021-05-15
+12,12,07:30 ET3712,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-15
+13,13,07:30,QR195,Doha (DOH),Qatar Airways A359 (A7-ALE),Landed 07:05,2021-05-15
+14,14,07:45,UA999,New York (EWR),United Airlines B789 (N45956),Landed 07:53,2021-05-15
+15,15,07:55,SN241,Monrovia (ROB),Brussels Airlines A333 (OO-SFC),Landed 07:36,2021-05-15
+16,16,07:55,SN369,Yaounde (NSI),Brussels Airlines A333 (OO-SFE),Landed 08:05,2021-05-15
+17,17,08:00 ET3725,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-05-15
+18,18,08:00 ET3721,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-05-15
+19,19,08:35,ET724,Vienna (VIE),Ethiopian Airlines B788 (ET-AOP),Landed 08:25,2021-05-15
+20,20,09:00,UA972,Chicago (ORD),United Airlines B788 (N30913),Landed 08:50,2021-05-15
+21,21,09:00 WB700,,Kigali (KGL),RwandAir A333 (9XR-WP),Landed 08:56,2021-05-15
+22,22,09:15,VY8988,Barcelona (BCN),Vueling (Visit Tenerife Livery) A20N (EC-NIX),Landed 09:16,2021-05-15
+23,23,09:25,OS351,Vienna (VIE),Austrian Airlines E195 (OE-LWB),Landed 09:21,2021-05-15
+24,24,09:30,LO235,Warsaw (WAW),LOT E75S (SP-LIK),Landed 09:10,2021-05-15
+25,25,09:45,UX1171,Madrid (MAD),Air Europa B738 (EC-IDT),Landed 09:37,2021-05-15
+26,26,09:55 3O117,,Fes (FEZ),Air Arabia Maroc -,Canceled,2021-05-15
+27,27,10:00,TK1937,Istanbul (IST),Turkish Airlines A333 (TC-JNS),Landed 09:51,2021-05-15
+28,28,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-15
+29,29,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZG),Landed 10:20,2021-05-15
+30,30,10:25,A3620,Athens (ATH),Aegean Airlines A21N (SX-NAA),Unknown,2021-05-15
+31,31,10:35 ME215,,Beirut (BEY),MEA A21N (T7-ME8),Landed 10:28,2021-05-15
+32,32,10:45,TP646,Lisbon (LIS),TAP Express E190 (CS-TPW),Landed 10:17,2021-05-15
+33,33,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-MXY),Landed 10:46,2021-05-15
+34,34,11:15,AC832,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 11:06,2021-05-15
+35,35,11:20 TU788,,Tunis (TUN),Tunisair B736 (TS-ION),Landed 11:33,2021-05-15
+36,36,11:40 SN3772,,Alicante (ALC),Brussels Airlines A320 (OO-SNI),Landed 12:10,2021-05-15
+37,37,11:40 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMB),Landed 11:31,2021-05-15
+38,38,11:50 TB1112,,Alicante (ALC),TUI B738 (OO-TNB),Landed 11:42,2021-05-15
+39,39,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNJ),Landed 12:46,2021-05-15
+40,40,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSA),Landed 12:30,2021-05-15
+41,41,12:45 EK9936,,Frankfurt (FRA),Emirates SkyCargo B77L (A6-EFM),Landed 11:51,2021-05-15
+42,42,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACNL),Landed 12:37,2021-05-15
+43,43,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSB),Landed 13:03,2021-05-15
+44,44,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSO),Landed 13:28,2021-05-15
+45,45,13:15,SN2094,London (LHR),Brussels Airlines A333 (OO-SFD),Landed 13:17,2021-05-15
+46,46,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSF),Landed 13:00,2021-05-15
+47,47,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQJ),Landed 13:08,2021-05-15
+48,48,13:25 SN2174,,Manchester (MAN),Brussels Airlines A320 (OO-TCH),Landed 13:16,2021-05-15
+49,49,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSV),Landed 13:13,2021-05-15
+50,50,13:35,LH1012,Frankfurt (FRA),Air Dolomiti E195 (I-ADJT),Landed 13:40,2021-05-15
+51,51,13:35,SN3202,Venice (VCE),Brussels Airlines A320 (OO-SNK),Landed 13:11,2021-05-15
+52,52,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSW),Landed 13:34,2021-05-15
+53,53,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSN),Landed 13:31,2021-05-15
+54,54,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNL),Landed 13:26,2021-05-15
+55,55,13:55 TB1012,,Almeria (LEI),TUI B737 (OO-JAR),Landed 13:43,2021-05-15
+56,56,14:00 QR8247,,Doha (DOH),Qatar Cargo B77L (A7-BFI),Landed 13:50,2021-05-15
+57,57,14:00 XQ932,,Izmir (ADB),SunExpress B738 (TC-SOH),Landed 13:38,2021-05-15
+58,58,14:45,MS725,Cairo (CAI),EgyptAir A20N (SU-GFJ),Landed 14:33,2021-05-15
+59,59,15:15,TP648,Lisbon (LIS),TAP Air Portugal A20N (CS-TVH),Landed 15:07,2021-05-15
+60,60,15:20 OZ587,,New York (JFK),Asiana Cargo B744 (HL7618),Landed 16:41,2021-05-15
+61,61,15:45 QR8814,,Doha (DOH),Qatar Airways 77W,Unknown,2021-05-15
+62,62,15:55 NH231,,Tokyo (NRT),All Nippon Airways (Star Wars R2-D2 Livery) B789 (JA873A),Landed 15:21,2021-05-15
+63,63,16:05 TB2252,,Rhodes (RHO),TUI B38M (OO-TMA),Landed 15:44,2021-05-15
+64,64,16:10,SN3816,Lisbon (LIS),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 16:06,2021-05-15
+65,65,16:30 ET3907,,Lome (LFW),Ethiopian Airlines 77X,Unknown,2021-05-15
+66,66,17:05 FR2924,,Malaga (AGP),Ryanair B738 (EI-EBM),Landed 16:47,2021-05-15
+67,67,17:30,AZ160,Rome (FCO),Alitalia A319 (EI-IMH),Landed 17:04,2021-05-15
+68,68,17:40 VS505,,London (LHR),Virgin Atlantic B789 (G-VNEW),Landed 17:18,2021-05-15
+69,69,17:45 TB1752,,Gran Canaria (LPA),TUI B38M (OO-TMY),Landed 17:36,2021-05-15
+70,70,18:00 ET3938,,N'Djamena (NDJ),Boeing B738 (N837DM),Unknown,2021-05-15
+71,71,18:15 3O115,,Nador (NDR),Air Arabia Maroc -,Canceled,2021-05-15
+72,72,18:40 3O113,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-05-15
+73,73,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MUG),Landed 18:56,2021-05-15
+74,74,18:55 TK6337,,Istanbul (ISL),Turkish Cargo A332 (TC-JDR),Landed 19:20,2021-05-15
+75,75,19:30 AT352,,Casablanca (CMN),Royal Air Maroc Cargo B763 (CN-ROW),Landed 18:58,2021-05-15
+76,76,19:50 SN3766,,Palma de Mallorca (PMI),Brussels Airlines A320 (OO-SNI),Landed 19:44,2021-05-15
+77,77,21:05 SN3170,,Naples (NAP),Brussels Airlines A319 (OO-SSF),Landed 20:54,2021-05-15
+78,78,21:30 SN3778,,Ibiza (IBZ),Brussels Airlines A320 (OO-SNK),Landed 21:53,2021-05-15
+79,79,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZH),Landed 21:52,2021-05-15
+80,80,22:05,SN3246,Athens (ATH),Brussels Airlines A320 (OO-SNM),Landed 22:03,2021-05-15
+81,81,22:20,LH1024,Frankfurt (FRA),Lufthansa A20N (D-AINP),Landed 22:15,2021-05-15
+82,82,22:25 FR5094,,Amman (AMM),Ryanair B738 (9H-QAU),Landed 00:36,2021-05-15
+83,83,22:40 SN3785,,Gran Canaria (LPA),Brussels Airlines A320 (OO-TCV),Landed 22:34,2021-05-15
+84,84,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-SNL),Landed 23:12,2021-05-15
+0,0,04:00 M68621,,Miami (MIA),Amerijet International B763 (N378CX),Landed 04:51,2021-05-16
+1,1,06:00 QY955,,Cincinnati (CVG),DHL A332 (D-ALEJ),Landed 07:12,2021-05-16
+2,2,06:20,ET728,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AUP),Landed 06:36,2021-05-16
+3,3,06:30 ET3915,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-05-16
+4,4,06:45,SN221,Dakar (DSS),Brussels Airlines A333 (OO-SFC),Landed 06:45,2021-05-16
+5,5,07:05 TB982F,,Detroit (DTW),TUI B788 (OO-JDL),Landed 06:03,2021-05-16
+6,6,07:05 QY923,,Miami (MIA),DHL A332 (D-ALMA),Landed 05:47,2021-05-16
+7,7,07:15,UA950,Washington (IAD),United Airlines B78X (N12003),Landed 07:07,2021-05-16
+8,8,07:25,SN283,Lome (LFW),Brussels Airlines A333 (OO-SFB),Landed 07:20,2021-05-16
+9,9,07:30 QR8441,,London (STN),Qatar Cargo B77L (A7-BFE),Landed 06:57,2021-05-16
+10,10,07:40,SN231,Abidjan (ABJ),Brussels Airlines A333 (OO-SFE),Landed 08:01,2021-05-16
+11,11,07:45,UA999,New York (EWR),United Airlines B789 (N26967),Landed 07:36,2021-05-16
+12,12,07:55,SN245,Monrovia (ROB),Brussels Airlines A333 (OO-SFF),Landed 07:44,2021-05-16
+13,13,07:55,SN379,Yaounde (NSI),Brussels Airlines A333 (OO-SFG),Landed 07:57,2021-05-16
+14,14,09:10 FR2918,,Barcelona (BCN),Ryanair B738 (EI-EVG),Landed 08:53,2021-05-16
+15,15,09:10 DL3456,,New York (JFK),Delta Air Lines B763 (N172DZ),Landed 09:00,2021-05-16
+16,16,09:30 ET3704,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-16
+17,17,09:50 3O113,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-05-16
+18,18,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-16
+19,19,10:05 BA3406,,London (LHR),British Airways AB6,Unknown,2021-05-16
+20,20,10:20 TK6205,,London (STN),Turkish Cargo A332 (TC-JOU),Diverted to ISL,2021-05-16
+21,21,10:45,TP646,Lisbon (LIS),TAP Express E190 (CS-TPQ),Landed 10:21,2021-05-16
+22,22,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-16
+23,23,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-MXY),Unknown,2021-05-16
+24,24,11:10,AZ156,Rome (FCO),Alitalia A320 (I-BIKI),Landed 11:29,2021-05-16
+25,25,11:20 TU788,,Tunis (TUN),Tunisair B736 (TS-ION),Landed 11:16,2021-05-16
+26,26,11:35 SN3778,,Ibiza (IBZ),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 11:12,2021-05-16
+27,27,11:40 SN3772,,Alicante (ALC),Brussels Airlines A320 (OO-SNI),Landed 11:23,2021-05-16
+28,28,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFY),Landed 11:25,2021-05-16
+29,29,12:00 TB1112,,Alicante (ALC),TUI B38M (OO-TMY),Landed 11:53,2021-05-16
+30,30,12:05 TB2952,,Tirana (TIA),TUIfly Belgium 73W,Unknown,2021-05-16
+31,31,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNJ),Landed 12:20,2021-05-16
+32,32,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSF),Landed 12:22,2021-05-16
+33,33,12:35 TB1014,,Malaga (AGP),TUI B738 (OO-SRO),Landed 12:12,2021-05-16
+34,34,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACNP),Landed 12:44,2021-05-16
+35,35,12:45 TB1942,,Faro (FAO),TUI B38M (OO-TMA),Landed 12:33,2021-05-16
+36,36,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSB),Landed 12:53,2021-05-16
+37,37,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-TCH),Landed 12:59,2021-05-16
+38,38,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQA),Landed 13:01,2021-05-16
+39,39,13:25,EY57,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLY),Landed 12:57,2021-05-16
+40,40,13:25,SN3598,Marseille (MRS),Brussels Airlines A320 (OO-SNM),Landed 13:14,2021-05-16
+41,41,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILD),Landed 13:28,2021-05-16
+42,42,13:35,SN3216,Milan (MXP),Brussels Airlines A320 (OO-TCV),Landed 13:19,2021-05-16
+43,43,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSX),Landed 13:16,2021-05-16
+44,44,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNK),Landed 13:07,2021-05-16
+45,45,13:40,QR193,Doha (DOH),Qatar Airways A359 (A7-ALR),Landed 13:11,2021-05-16
+46,46,13:55 TK1943,,Istanbul (IST),Turkish Airlines A21N (TC-LTB),Landed 13:41,2021-05-16
+47,47,14:25 TB2192,,Tirana (TIA),TUI B737 (OO-JAO),Landed 14:33,2021-05-16
+48,48,14:30 NH237,,Tokyo (NRT),All Nippon Airways B789 (JA891A),Landed 14:11,2021-05-16
+49,49,14:40,VY8980,Barcelona (BCN),Vueling A321 (EC-MPV),Landed 14:30,2021-05-16
+50,50,15:15,SN3816,Lisbon (LIS),Brussels Airlines A320 (OO-SNL),Landed 15:23,2021-05-16
+51,51,15:45 QR8820,,Doha (DOH),Qatar Airways B789 (A7-BHF),Landed 15:19,2021-05-16
+52,52,15:50 AT352,,Casablanca (CMN),Royal Air Maroc Cargo B763 (CN-ROW),Landed 15:08,2021-05-16
+53,53,15:55 K4335,,Los Angeles (LAX),Kalitta Air B744 (N706CK),Landed 15:46,2021-05-16
+54,54,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-16
+55,55,16:55,SK1593,Copenhagen (CPH),SAS A20N (SE-DYD),Landed 16:42,2021-05-16
+56,56,17:05 SQ7979,,Dallas (DFW),Singapore Airlines B744,Canceled,2021-05-16
+57,57,17:25 SU2628,,Moscow (SVO),Aeroflot B738 (VP-BML),Landed 17:15,2021-05-16
+58,58,17:35,UX1173,Madrid (MAD),Air Europa B738 (EC-LQX),Landed 17:35,2021-05-16
+59,59,17:40,KL1725,Amsterdam (AMS),KLM E190 (PH-EZD),Landed 17:19,2021-05-16
+60,60,17:40 VS505,,London (LHR),Virgin Atlantic 330,Unknown,2021-05-16
+61,61,17:40,,Los Angeles (LAX),- B744 (N710CK),Landed 18:38,2021-05-16
+62,62,17:50,BT603,Riga (RIX),Air Baltic BCS3 (YL-CSI),Landed 17:29,2021-05-16
+63,63,17:50 TK1939,,Istanbul (IST),Turkish Airlines A333 (TC-LNF),Landed 17:49,2021-05-16
+64,64,18:05 3O117,,Fes (FEZ),Air Arabia Maroc -,Canceled,2021-05-16
+65,65,18:15 FR2916,,Palma de Mallorca (PMI),Ryanair B738 (EI-EVA),Landed 18:23,2021-05-16
+66,66,18:15,VY8920,Valencia (VLC),Vueling A20N (EC-NIJ),Landed 18:07,2021-05-16
+67,67,18:30,A3622,Athens (ATH),Aegean Airlines A20N (SX-NED),Unknown,2021-05-16
+68,68,18:35,SN2720,Geneva (GVA),Brussels Airlines A319 (OO-SSB),Landed 18:43,2021-05-16
+69,69,18:40 LO233,,Warsaw (WAW),LOT B38M (SP-LVF),Landed 18:50,2021-05-16
+70,70,18:55 GQ800,,Athens (ATH),Sky Express A20N (SX-WEB),Landed 19:32,2021-05-16
+71,71,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MVC),Landed 18:35,2021-05-16
+72,72,19:00,KM420,Luqa (MLA),Air Malta A320 (9H-AHS),Landed 19:06,2021-05-16
+73,73,19:00 3S395,,Cincinnati (CVG),AeroLogic B77L (D-AALC),Landed 18:40,2021-05-16
+74,74,19:05,LX788,Zurich (ZRH),Swiss BCS3 (HB-JCO),Landed 19:21,2021-05-16
+75,75,19:15,OS355,Vienna (VIE),Austrian Airlines A320 (OE-LZB),Landed 19:47,2021-05-16
+76,76,19:20 SN3622,,Nice (NCE),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 19:27,2021-05-16
+77,77,19:25,AZ154,Milan (LIN),Alitalia E75S (EI-RDN),Landed 19:15,2021-05-16
+78,78,19:25,LH2290,Munich (MUC),Lufthansa CRJ9 (D-ACKF),Landed 19:22,2021-05-16
+79,79,19:25,SN3810,Porto (OPO),Brussels Airlines A320 (OO-SNI),Landed 19:31,2021-05-16
+80,80,19:45,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Landed 20:32,2021-05-16
+81,81,19:45 SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSF),Landed 19:16,2021-05-16
+82,82,19:50 SK2591,,Stockholm (ARN),SAS A20N (SE-ROP),Landed 20:05,2021-05-16
+83,83,19:50,SN2260,Copenhagen (CPH),Brussels Airlines A319 (OO-SSO),Landed 19:17,2021-05-16
+84,84,19:50 SN3728,,Madrid (MAD),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 19:41,2021-05-16
+85,85,19:55,SN2906,Vienna (VIE),Brussels Airlines A320 (OO-SNM),Landed 20:28,2021-05-16
+86,86,19:55,VY2150,Malaga (AGP),Vueling A320 (EC-KLB),Landed 20:11,2021-05-16
+87,87,20:00,SN3182,Rome (FCO),Brussels Airlines A319 (OO-SSN),Landed 19:48,2021-05-16
+88,88,20:05,SN2588,Berlin (BER),Brussels Airlines A319 (OO-SSV),Landed 19:43,2021-05-16
+89,89,20:05,SN3206,Venice (VCE),Brussels Airlines A319 (OO-SSX),Landed 19:39,2021-05-16
+90,90,20:10,VY1332,Alicante (ALC),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 20:03,2021-05-16
+91,91,20:20 RU9707,,Cincinnati (CVG),AirBridgeCargo B748 (VP-BBY),Landed 20:45,2021-05-16
+92,92,20:25 FR2926,,Lisbon (LIS),Ryanair B738 (EI-GSJ),Landed 20:36,2021-05-16
+93,93,20:35 FR2279,,Porto (OPO),Ryanair B738 (EI-EKH),Landed 20:08,2021-05-16
+94,94,21:15 ET729,,Manchester (MAN),Ethiopian Airlines B789 (ET-AUP),Landed 20:41,2021-05-16
+95,95,21:15 TB1414,,Palma de Mallorca (PMI),TUI B738 (OO-SRO),Landed 21:10,2021-05-16
+96,96,21:35 FR2934,,Alicante (ALC),Ryanair B738 (EI-DWC),Landed 21:19,2021-05-16
+97,97,21:55 GB957,,New York (JFK),ABX Air B763 (N226CY),Landed 01:21,2021-05-16
+98,98,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANW),Landed 21:08,2021-05-16
+99,99,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZO),Landed 21:46,2021-05-16
+100,100,22:20,LH1024,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A319 (D-AIBJ),Landed 22:32,2021-05-16
+101,101,22:25 SN3752,,Valencia (VLC),Brussels Airlines A320 (OO-TCV),Landed 22:12,2021-05-16
+102,102,22:30 TB1372,,Palma de Mallorca (PMI),TUI B38M (OO-TMB),Landed 22:22,2021-05-16
+103,103,22:45,LH2294,Munich (MUC),Lufthansa CRJ9 (D-ACKK),Landed 22:34,2021-05-16
+104,104,22:45,SN3736,Malaga (AGP),Brussels Airlines A320 (OO-SNN),Landed 22:37,2021-05-16
+105,105,22:45 SN3774,,Alicante (ALC),Brussels Airlines A320 (OO-SNK),Landed 22:26,2021-05-16
+106,106,22:45 TB1332,,Ibiza (IBZ),TUI B738 (OO-TNB),Landed 22:36,2021-05-16
+107,107,23:25,SN3706,Barcelona (BCN),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 23:19,2021-05-16
+108,108,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-SNJ),Landed 22:59,2021-05-16
+109,109,23:25 SN3766,,Palma de Mallorca (PMI),Brussels Airlines A320 (OO-SNL),Landed 23:08,2021-05-16
+110,110,23:35,TP642,Lisbon (LIS),TAP Air Portugal A20N (CS-TVH),Landed 23:22,2021-05-16
+0,0,00:35 TB2342,,Rhodes (RHO),TUI B38M (OO-TMY),Landed 00:51,2021-05-17
+1,1,01:45 TB3314,,Eskisehir (AOE),TUI B738 (OO-TUV),Landed 01:28,2021-05-17
+2,2,02:25 TB1756,,Tenerife (TFS),TUI B38M (OO-TMA),Landed 01:59,2021-05-17
+3,3,05:25 QY977,,Cincinnati (CVG),DHL A332 (D-ALMA),Landed 05:12,2021-05-17
+4,4,06:40,SN358,Kinshasa (FIH),Brussels Airlines A333 (OO-SFD),Landed 06:54,2021-05-17
+5,5,06:45 HU491,,Beijing (PEK),Hainan Airlines A332 (B-5963),Landed 06:32,2021-05-17
+6,6,07:00 QY971,,New York (JFK),DHL A332 (D-ALMD),Landed 06:57,2021-05-17
+7,7,07:15,UA950,Washington (IAD),United Airlines B78X (N91007),Landed 07:02,2021-05-17
+8,8,07:25,SN319,Accra (ACC),Brussels Airlines A333 (OO-SFB),Landed 07:16,2021-05-17
+9,9,07:45,UA999,New York (EWR),United Airlines B789 (N27964),Landed 07:55,2021-05-17
+10,10,07:55,SN241,Monrovia (ROB),Brussels Airlines A333 (OO-SFC),Landed 07:46,2021-05-17
+11,11,08:35,ET724,Vienna (VIE),Ethiopian Airlines B789 (ET-AXS),Landed 08:12,2021-05-17
+12,12,08:40,OU456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQC),Landed 08:16,2021-05-17
+13,13,09:05 0B123,,Bucharest (OTP),Blue Air B738 (YR-BMS),Landed 08:59,2021-05-17
+14,14,09:10 FR7000,,Rome (CIA),Ryanair B738 (9H-QAM),Landed 09:25,2021-05-17
+15,15,09:15,AY1541,Helsinki (HEL),Finnair E190 (OH-LKE),Landed 09:02,2021-05-17
+16,16,09:15,VY8988,Barcelona (BCN),Vueling A321 (EC-MPV),Landed 09:11,2021-05-17
+17,17,09:20,SK589,Stockholm (ARN),SAS A20N (SE-ROM),Landed 09:21,2021-05-17
+18,18,09:25,OS351,Vienna (VIE),Austrian Airlines A319 (OE-LDE),Landed 09:12,2021-05-17
+19,19,09:30,LO235,Warsaw (WAW),LOT E195 (SP-LNA),Landed 09:16,2021-05-17
+20,20,09:30,RO371,Bucharest (OTP),Tarom (SkyTeam Livery) B737 (YR-BGF),Landed 09:26,2021-05-17
+21,21,09:50,SK593,Copenhagen (CPH),SAS A20N (SE-ROD),Landed 09:33,2021-05-17
+22,22,09:50 3O113,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-05-17
+23,23,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-17
+24,24,10:15 ET3779,,Shanghai (PVG),Ethiopian Airlines 77X,Unknown,2021-05-17
+25,25,10:25,KL1723,Amsterdam (AMS),KLM E75L (PH-EXT),Landed 10:11,2021-05-17
+26,26,11:10,AZ156,Rome (FCO),Alitalia A320 (EI-IKU),Landed 11:23,2021-05-17
+27,27,11:15,IB3206,Madrid (MAD),Iberia A20N (EC-NCM),Landed 10:40,2021-05-17
+28,28,11:20,A3620,Strasbourg (SXB),Aegean Airlines A320 (SX-DNE),Unknown,2021-05-17
+29,29,11:45 TB1412,,Palma de Mallorca (PMI),TUI B738 (OO-SRO),Landed 11:19,2021-05-17
+30,30,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFR),Landed 11:35,2021-05-17
+31,31,11:55 TB1134,,Alicante (ALC),TUI E190 (OO-JVA),Landed 11:40,2021-05-17
+32,32,12:15 TB3752,,Suceava (SCV),TUI E190 (OO-JEM),Landed 11:59,2021-05-17
+33,33,12:25,SN3176,Rome (FCO),Brussels Airlines A319 (OO-SSA),Landed 12:09,2021-05-17
+34,34,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNJ),Landed 12:15,2021-05-17
+35,35,12:30 TB1012,,Malaga (AGP),TUI B738 (OO-TUV),Landed 12:06,2021-05-17
+36,36,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSF),Landed 12:34,2021-05-17
+37,37,12:45 K3955,,Sharjah (SHJ),Taquan Air 72F,Unknown,2021-05-17
+38,38,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACNT),Landed 12:37,2021-05-17
+39,39,13:00 AT352,,Algiers (ALG),Royal Air Maroc 76Y,Unknown,2021-05-17
+40,40,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSW),Landed 12:43,2021-05-17
+41,41,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSN),Landed 12:55,2021-05-17
+42,42,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNM),Landed 13:25,2021-05-17
+43,43,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSV),Landed 13:08,2021-05-17
+44,44,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQL),Landed 13:03,2021-05-17
+45,45,13:20 FR2926,,Lisbon (LIS),Ryanair B738 (EI-EVN),Landed 13:31,2021-05-17
+46,46,13:25 SN2174,,Manchester (MAN),Brussels Airlines A320 (OO-TCH),Landed 13:05,2021-05-17
+47,47,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSR),Landed 13:17,2021-05-17
+48,48,13:25,SN3598,Marseille (MRS),Brussels Airlines A319 (OO-SSB),Landed 13:10,2021-05-17
+49,49,13:30 SN3124,,Bologna (BLQ),Brussels Airlines A319 (OO-SSO),Landed 13:13,2021-05-17
+50,50,13:35,LH1012,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A319 (D-AIBJ),Landed 13:23,2021-05-17
+51,51,13:35,SN3202,Venice (VCE),Brussels Airlines A320 (OO-TCV),Landed 13:33,2021-05-17
+52,52,13:35,SN3216,Milan (MXP),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 13:38,2021-05-17
+53,53,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSX),Landed 13:27,2021-05-17
+54,54,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNI),Landed 13:36,2021-05-17
+55,55,13:55 TK1943,,Istanbul (IST),Turkish Airlines A321 (TC-JTJ),Landed 13:39,2021-05-17
+56,56,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-NIG),Landed 14:17,2021-05-17
+57,57,14:30 NH237,,Tokyo (NRT),All Nippon Airways (Star Wars BB-8 Livery) B77W (JA789A),Landed 14:05,2021-05-17
+58,58,14:35 TB2172,,Thessaloniki (SKG),TUI B737 (OO-JAR),Landed 14:36,2021-05-17
+59,59,14:40 FR2929,,Porto (OPO),Ryanair B738 (EI-EFF),Landed 14:23,2021-05-17
+60,60,14:40 0B2923,,Bacau (BCM),Blue Air B738 (YR-BML),Landed 14:45,2021-05-17
+61,61,15:00 SQ7979,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFQ),Landed 16:53,2021-05-17
+62,62,15:15,TP648,Lisbon (LIS),TAP Air Portugal A319 (CS-TTM),Landed 15:01,2021-05-17
+63,63,15:45 QR8814,,Doha (DOH),Qatar Airways B789 (A7-BHA),Landed 15:17,2021-05-17
+64,64,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-17
+65,65,15:55 TB1752,,Tenerife (TFS),TUI B38M (OO-TMY),Unknown,2021-05-17
+66,66,16:10,SN3816,Lisbon (LIS),Brussels Airlines A320 (OO-SNK),Landed 16:10,2021-05-17
+67,67,16:25 OZ588,,New York (JFK),Asiana Airlines 74F,Unknown,2021-05-17
+68,68,16:25 OZ587,,New York (JFK),Asiana Cargo B744 (HL7616),Landed 19:09,2021-05-17
+69,69,17:25 3O115,,Nador (NDR),Air Arabia Maroc -,Canceled,2021-05-17
+70,70,17:35,UX1173,Madrid (MAD),Air Europa B738 (EC-LUT),Landed 17:22,2021-05-17
+71,71,17:40 VS505,,London (LHR),Virgin Atlantic 330,Unknown,2021-05-17
+72,72,18:05 3O111,,Casablanca (CMN),Air Arabia Maroc -,Canceled,2021-05-17
+73,73,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LTE),Landed 18:06,2021-05-17
+74,74,18:40,LO233,Warsaw (WAW),LOT (Grzeski Livery) E195 (SP-LNB),Landed 18:32,2021-05-17
+75,75,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MJQ),Landed 18:42,2021-05-17
+76,76,19:20 SN3752,,Valencia (VLC),Brussels Airlines A320 (OO-SNJ),Landed 18:59,2021-05-17
+77,77,19:25,AZ154,Milan (LIN),Alitalia (SkyTeam Livery) E190 (EI-RND),Landed 19:22,2021-05-17
+78,78,19:45 SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSF),Landed 19:31,2021-05-17
+79,79,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSA),Landed 19:27,2021-05-17
+80,80,19:55,SN2906,Vienna (VIE),Brussels Airlines A320 (OO-SNI),Landed 19:50,2021-05-17
+81,81,20:10 SN3290,,Tel Aviv (TLV),Brussels Airlines 320,Unknown,2021-05-17
+82,82,20:35,VY8990,Barcelona (BCN),Vueling A320 (EC-LVV),Landed 20:34,2021-05-17
+83,83,21:15 3V4804,,Orebro (ORB),ASL Airlines Belgium B734 (OE-IAZ),Diverted to CDG,2021-05-17
+84,84,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZR),Landed 22:07,2021-05-17
+85,85,22:20,LH1024,Frankfurt (FRA),Lufthansa A20N (D-AINF),Landed 22:14,2021-05-17
+86,86,22:40 TB1912,,Funchal (FNC),TUI B38M (OO-TMA),Unknown,2021-05-17
+87,87,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-TCV),Landed 23:17,2021-05-17
+0,0,00:45 TB2942,,Pristina (PRN),TUI B38M (OO-TMB),Landed 00:44,2021-05-18
+1,1,06:20,ET728,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AXL),Diverted to MAN,2021-05-18
+2,2,06:45,SN217,Dakar (DSS),Brussels Airlines A333 (OO-SFD),Landed 06:48,2021-05-18
+3,3,07:15,UA950,Washington (IAD),United Airlines B78X (N16008),Landed 07:02,2021-05-18
+4,4,07:25,SN211,Accra (ACC),Brussels Airlines A333 (OO-SFG),Landed 08:09,2021-05-18
+5,5,07:30,QR195,Doha (DOH),Qatar Airways A359 (A7-ALR),Landed 07:28,2021-05-18
+6,6,07:45,UA999,New York (EWR),United Airlines B789 (N45956),Landed 07:44,2021-05-18
+7,7,07:55,SN245,Monrovia (ROB),Brussels Airlines A333 (OO-SFC),Landed 07:37,2021-05-18
+8,8,07:55,SN369,Yaounde (NSI),Brussels Airlines A333 (OO-SFB),Landed 07:57,2021-05-18
+9,9,09:00,UA972,Chicago (ORD),United Airlines B789 (N29975),Landed 08:39,2021-05-18
+10,10,09:30,LO235,Warsaw (WAW),LOT E75S (SP-LIC),Landed 09:07,2021-05-18
+11,11,09:55 ET3640,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-18
+12,12,10:25,KL1723,Amsterdam (AMS),KLM E75L (PH-EXK),Landed 10:09,2021-05-18
+13,13,11:15,IB3206,Madrid (MAD),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 10:55,2021-05-18
+14,14,11:20 TU788,,Tunis (TUN),Tunisair A320 (TS-IMT),Landed 11:16,2021-05-18
+15,15,11:35 SN3778,,Ibiza (IBZ),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 11:18,2021-05-18
+16,16,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-SCG),Landed 11:33,2021-05-18
+17,17,12:00 TB1112,,Alicante (ALC),TUI B38M (OO-TMB),Landed 11:53,2021-05-18
+18,18,12:05 TK6453,,Istanbul (ISL),ULS Airlines Cargo A310 (TC-SGM),Landed 11:38,2021-05-18
+19,19,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNK),Landed 12:10,2021-05-18
+20,20,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSA),Landed 12:28,2021-05-18
+21,21,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACNA),Landed 12:32,2021-05-18
+22,22,13:05 SQ7973,,Los Angeles (LAX),Singapore Airlines B744,Unknown,2021-05-18
+23,23,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSF),Landed 12:47,2021-05-18
+24,24,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNL),Landed 13:13,2021-05-18
+25,25,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSB),Landed 12:52,2021-05-18
+26,26,13:20,EK183,Dubai (DXB),Emirates (Expo 2020 - Opportunity Livery) B77W (A6-EQO),Landed 13:07,2021-05-18
+27,27,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSV),Landed 13:10,2021-05-18
+28,28,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSO),Landed 13:11,2021-05-18
+29,29,13:30,SN3736,Malaga (AGP),Brussels Airlines A320 (OO-SNI),Unknown,2021-05-18
+30,30,13:35,LH1012,Frankfurt (FRA),Lufthansa A20N (D-AINC),Landed 13:31,2021-05-18
+31,31,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSN),Landed 13:22,2021-05-18
+32,32,14:15 AT352,,Milan (MXP),Royal Air Maroc 76Y,Unknown,2021-05-18
+33,33,14:15 TB2342,,Rhodes (RHO),TUI B38M (OO-TMY),Landed 13:58,2021-05-18
+34,34,14:20 GQ800,,Athens (ATH),Sky Express 32N,Unknown,2021-05-18
+35,35,14:25 TB1012,,Almeria (LEI),TUI B737 (OO-JAO),Landed 14:10,2021-05-18
+36,36,14:30 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA785A),Landed 14:00,2021-05-18
+37,37,15:45 QR8814,,Doha (DOH),Qatar Airways B789 (A7-BHD),Landed 15:21,2021-05-18
+38,38,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-18
+39,39,16:15 TB2162,,Zakynthos (ZTH),TUI B737 (OO-JAR),Landed 16:07,2021-05-18
+40,40,16:35,SN3812,Porto (OPO),Brussels Airlines A320 (OO-SNM),Landed 16:34,2021-05-18
+41,41,17:10 SN3782,,Tenerife (TFS),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 16:59,2021-05-18
+42,42,17:25 3O111,,Casablanca (CMN),Air Arabia Maroc -,Canceled,2021-05-18
+43,43,17:30,AZ160,Rome (FCO),Alitalia A319 (EI-IMS),Landed 17:25,2021-05-18
+44,44,17:30,SN3704,Barcelona (BCN),Brussels Airlines A320 (OO-TCH),Landed 17:18,2021-05-18
+45,45,17:40 VS505,,London (LHR),Virgin Atlantic B789 (G-VNEW),Landed 17:21,2021-05-18
+46,46,17:50 SN3766,,Palma de Mallorca (PMI),Brussels Airlines A320 (OO-SNJ),Landed 17:41,2021-05-18
+47,47,18:05 SQ7969,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFK),Landed 17:50,2021-05-18
+48,48,18:15,AY1545,Helsinki (HEL),Finnair E190 (OH-LKM),Landed 18:02,2021-05-18
+49,49,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSF),Landed 18:01,2021-05-18
+50,50,18:55,IB8694,Madrid (MAD),Iberia Regrional CRJX (EC-MLC),Landed 18:52,2021-05-18
+51,51,18:55 3O113,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-05-18
+52,52,19:05,SN3246,Athens (ATH),Brussels Airlines A319 (OO-SSR),Landed 19:01,2021-05-18
+53,53,19:30 SN3622,,Nice (NCE),Brussels Airlines A320 (OO-SNK),Landed 19:19,2021-05-18
+54,54,20:30 3S395,,Cincinnati (CVG),AeroLogic B77L (D-AALG),Landed 20:31,2021-05-18
+55,55,20:40 FR2924,,Malaga (AGP),Ryanair B738 (EI-DLD),Landed 20:33,2021-05-18
+56,56,21:15 ET729,,Manchester (MAN),Ethiopian Airlines B789 (ET-AXL),Landed 20:59,2021-05-18
+57,57,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:44,2021-05-18
+58,58,21:50 TB2952,,Tirana (TIA),TUI B737 (OO-JAO),Landed 21:57,2021-05-18
+59,59,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANY),Landed 21:22,2021-05-18
+60,60,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EXY),Landed 21:45,2021-05-18
+61,61,23:20 SN3772,,Alicante (ALC),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 23:06,2021-05-18
+0,0,05:00 QY923,,Miami (MIA),DHL A332 (D-ALEJ),Landed 04:53,2021-05-19
+1,1,05:05 ET3712,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-19
+2,2,08:05 SQ7364,,Sharjah (SHJ),Singapore Airlines Cargo B744 (9V-SFM),Landed 06:43,2021-05-19
+3,3,08:20 FR2918,,Barcelona (BCN),Ryanair B738 (EI-ENS),Landed 09:19,2021-05-19
+4,4,08:35,ET724,Vienna (VIE),Ethiopian Airlines B788 (ET-ATH),Landed 08:18,2021-05-19
+5,5,08:40,OU456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQC),Landed 08:27,2021-05-19
+6,6,09:05 0B123,,Bucharest (OTP),Blue Air 738,Unknown,2021-05-19
+7,7,09:10 FR7000,,Rome (CIA),Ryanair B738 (9H-QAK),Landed 09:10,2021-05-19
+8,8,09:10 DL3456,,New York (JFK),Delta Air Lines B763 (N177DZ),Landed 08:30,2021-05-19
+9,9,09:15,VY8988,Barcelona (BCN),Vueling A320 (EC-MAH),Landed 09:05,2021-05-19
+10,10,09:15 XQ774,,Ankara (ESB),SunExpress 73H,Unknown,2021-05-19
+11,11,09:20 SN9906,,Malaga (AGP),Brussels Airlines A320 (OO-SNI),Unknown,2021-05-19
+12,12,09:25,OS351,Vienna (VIE),Austrian Airlines A319 (OE-LDC),Landed 09:16,2021-05-19
+13,13,09:50 3O113,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-05-19
+14,14,10:00,TK1937,Istanbul (IST),Turkish Airlines A333 (TC-LND),Landed 09:47,2021-05-19
+15,15,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-19
+16,16,10:05 3O117,,Fes (FEZ),Air Arabia Maroc -,Canceled,2021-05-19
+17,17,10:25,A3620,Athens (ATH),Aegean Airlines A320 (SX-DNC),Landed 10:11,2021-05-19
+18,18,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZK),Landed 10:16,2021-05-19
+19,19,10:30 ET3714,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVQ),Landed 10:20,2021-05-19
+20,20,10:45,TP646,Lisbon (LIS),TAP Air Portugal A20N (CS-TVH),Landed 10:44,2021-05-19
+21,21,10:45 3O115,,Nador (NDR),Air Arabia Maroc -,Canceled,2021-05-19
+22,22,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-19
+23,23,11:10,AZ156,Rome (FCO),Alitalia A320 (EI-DSY),Landed 11:09,2021-05-19
+24,24,11:15,IB3206,Madrid (MAD),Iberia A20N (EC-MXU),Landed 10:54,2021-05-19
+25,25,11:30 TB1412,,Palma de Mallorca (PMI),TUI B737 (OO-JAR),Landed 11:27,2021-05-19
+26,26,11:50 TB1112,,Alicante (ALC),TUI B738 (OO-TUV),Landed 12:06,2021-05-19
+27,27,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFJ),Landed 11:48,2021-05-19
+28,28,12:25 TB1012,,Malaga (AGP),TUI B38M (OO-TMB),Landed 12:25,2021-05-19
+29,29,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQL),Landed 13:10,2021-05-19
+30,30,13:20 FR2926,,Lisbon (LIS),Ryanair B738 (EI-EVN),Landed 13:25,2021-05-19
+31,31,13:20,VY1332,Alicante (ALC),Vueling A320 (EC-MVD),Landed 13:19,2021-05-19
+32,32,13:55 SN3244,,Kos (KGS),Brussels Airlines A320 (OO-TCV),Landed 13:08,2021-05-19
+33,33,14:20 GQ800,,Athens (ATH),Sky Express 32N,Unknown,2021-05-19
+34,34,14:30 ET3955,,Lome (LFW),Ethiopian Airlines 77X,Unknown,2021-05-19
+35,35,14:30 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA795A),Landed 14:04,2021-05-19
+36,36,14:35 K4335,,Los Angeles (LAX),Kalitta Air B744 (N710CK),Landed 14:43,2021-05-19
+37,37,15:20 OZ587,,New York (JFK),Asiana Airlines B744 (HL7421),Landed 16:12,2021-05-19
+38,38,15:20 OZ588,,New York (JFK),Asiana Airlines 74F,Unknown,2021-05-19
+39,39,15:45 QR8814,,Doha (DOH),Qatar Airways 789,Unknown,2021-05-19
+40,40,15:50 TB1752,,Tenerife (TFS),TUI B738 (OO-JAA),Landed 16:00,2021-05-19
+41,41,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-19
+42,42,17:20 SK1589,,Stockholm (ARN),SAS A20N (SE-ROU),Landed 17:13,2021-05-19
+43,43,17:30 QR8247,,Doha (DOH),Qatar Cargo B77L (A7-BFU),Landed 17:46,2021-05-19
+44,44,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LKX),Landed 17:48,2021-05-19
+45,45,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VJAM),Landed 17:18,2021-05-19
+46,46,18:25 LY333,,Tel Aviv (TLV),El Al Israel Airlines B739 (4X-EHD),Landed 18:16,2021-05-19
+47,47,18:40 LO233,,Warsaw (WAW),LOT E195 (SP-LNA),Landed 18:22,2021-05-19
+48,48,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MJQ),Landed 19:03,2021-05-19
+49,49,18:55,RO373,Bucharest (OTP),Tarom (SkyTeam Livery) B737 (YR-BGF),Landed 19:17,2021-05-19
+50,50,19:15,OS355,Vienna (VIE),Austrian Airlines A319 (OE-LDB),Landed 19:01,2021-05-19
+51,51,19:25,AZ154,Milan (LIN),Alitalia E75S (EI-RDI),Landed 19:29,2021-05-19
+52,52,19:40 FR2934,,Alicante (ALC),Ryanair B738 (EI-EVA),Landed 19:44,2021-05-19
+53,53,20:10 AT352,,Zurich (ZRH),Royal Air Maroc Cargo B763 (CN-ROW),Landed 19:30,2021-05-19
+54,54,20:30 3S395,,Cincinnati (CVG),AeroLogic B77L (D-AALD),Landed 20:30,2021-05-19
+55,55,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:38,2021-05-19
+56,56,21:30 TB3314,,Eskisehir (AOE),TUI B737 (OO-JAR),Landed 21:22,2021-05-19
+57,57,22:05,KL1733,Amsterdam (AMS),KLM E75L (PH-EXH),Landed 21:46,2021-05-19
+58,58,22:20,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AIBG),Landed 22:15,2021-05-19
+59,59,22:35 TB2964,,Pristina (PRN),TUI B737 (OO-JAO),Landed 22:20,2021-05-19
+60,60,23:35,TP642,Lisbon (LIS),TAP Express E190 (CS-TPO),Landed 23:31,2021-05-19
+0,0,00:10 TB1666,,Gran Canaria (LPA),TUI B738 (OO-TNB),Landed 00:15,2021-05-20
+1,1,00:20 TB1712,,Fuerteventura (FUE),TUI B38M (OO-TMB),Landed 00:32,2021-05-20
+2,2,04:00 M68321,,Miami (MIA),Amerijet International B763 (N378CX),Landed 05:26,2021-05-20
+3,3,05:00 QY923,,Miami (MIA),DHL A332 (D-ALEJ),Landed 04:28,2021-05-20
+4,4,06:20 ET728,,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AYC),Landed 07:18,2021-05-20
+5,5,06:40 SN358,,Kinshasa (FIH),Brussels Airlines A333 (OO-SFF),Landed 06:36,2021-05-20
+6,6,06:45 SN204,,Dakar (DSS),Brussels Airlines A333 (OO-SFH),Landed 07:06,2021-05-20
+7,7,07:00 ET3712,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVQ),Landed 10:39,2021-05-20
+8,8,07:15 UA950,,Washington (IAD),United Airlines B78X (N91007),Landed 07:22,2021-05-20
+9,9,07:20,SN460,Entebbe (EBB),Brussels Airlines A333 (OO-SFE),Landed 07:23,2021-05-20
+10,10,07:45,UA999,New York (EWR),United Airlines B789 (N27964),Landed 07:44,2021-05-20
+11,11,07:55,SN240,Freetown (FNA),Brussels Airlines A333 (OO-SFD),Landed 07:54,2021-05-20
+12,12,08:00 ET3714,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-20
+13,13,08:40,LX786,Zurich (ZRH),Swiss BCS1 (HB-JBA),Landed 08:39,2021-05-20
+14,14,09:00,UA972,Chicago (ORD),United Airlines B789 (N26966),Landed 08:52,2021-05-20
+15,15,09:00 ASJ28,,Geneva (GVA),Astonjet C510 (F-GMTJ),Landed 09:03,2021-05-20
+16,16,09:30,LO235,Warsaw (WAW),LOT (Sliwka Naleczowska Livery) E195 (SP-LNC),Landed 09:11,2021-05-20
+17,17,09:30 ET3702,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-20
+18,18,09:40,A3620,Athens (ATH),Aegean Airlines A320 (SX-DND),Landed 09:51,2021-05-20
+19,19,09:45,UX1171,Madrid (MAD),Air Europa B738 (EC-LVR),Landed 09:38,2021-05-20
+20,20,09:50 TK6509,,Istanbul (ISL),Turkish Cargo A332 (TC-JOZ),Landed 09:32,2021-05-20
+21,21,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-20
+22,22,10:20 VS505,,London (LHR),Virgin Atlantic A35K (G-VJAM),Landed 10:05,2021-05-20
+23,23,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZR),Landed 10:13,2021-05-20
+24,24,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-20
+25,25,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-NER),Landed 10:51,2021-05-20
+26,26,11:15,AC832,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 11:20,2021-05-20
+27,27,11:40 SN3772,,Alicante (ALC),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 11:51,2021-05-20
+28,28,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFD),Landed 11:39,2021-05-20
+29,29,12:00 TB1332,,Ibiza (IBZ),TUI B738 (OO-TUV),Landed 11:42,2021-05-20
+30,30,12:00 VS515,,London (LHR),Virgin Atlantic B789 (G-VZIG),Landed 11:25,2021-05-20
+31,31,12:25,SN3176,Rome (FCO),Brussels Airlines A319 (OO-SSX),Landed 12:20,2021-05-20
+32,32,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-TCV),Landed 12:32,2021-05-20
+33,33,12:25 TB1028,,Malaga (AGP),TUI B737 (OO-JAR),Landed 12:14,2021-05-20
+34,34,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSF),Landed 12:42,2021-05-20
+35,35,13:00 FR2916,,Palma de Mallorca (PMI),Ryanair B738 (EI-EBN),Landed 13:02,2021-05-20
+36,36,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSB),Landed 12:37,2021-05-20
+37,37,13:00 TB1374,,Palma de Mallorca (PMI),TUI B38M (OO-TMA),Landed 14:46,2021-05-20
+38,38,13:00 TB1942,,Faro (FAO),TUI E190 (OO-JEM),Landed 12:44,2021-05-20
+39,39,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:19,2021-05-20
+40,40,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSO),Landed 13:00,2021-05-20
+41,41,13:20,VY8920,Valencia (VLC),Vueling A20N (EC-NIY),Landed 13:05,2021-05-20
+42,42,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQH),Landed 13:09,2021-05-20
+43,43,13:25,EY57,Abu Dhabi (AUH),Etihad (Manchester City Livery) B789 (A6-BND),Landed 13:11,2021-05-20
+44,44,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSA),Landed 13:25,2021-05-20
+45,45,13:25,SN2258,Copenhagen (CPH),Brussels Airlines A319 (OO-SSW),Landed 13:16,2021-05-20
+46,46,13:25,SN3598,Marseille (MRS),Brussels Airlines A319 (OO-SSU),Landed 13:21,2021-05-20
+47,47,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILE),Landed 13:46,2021-05-20
+48,48,13:35,SN3202,Venice (VCE),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 13:23,2021-05-20
+49,49,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSN),Landed 13:17,2021-05-20
+50,50,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNJ),Landed 13:27,2021-05-20
+51,51,13:40 QR193,,Doha (DOH),Qatar Airways A359 (A7-ALQ),Landed 13:56,2021-05-20
+52,52,14:30 NH237,,Tokyo (NRT),All Nippon Airways (Star Wars BB-8 Livery) B77W (JA789A),Landed 14:11,2021-05-20
+53,53,14:45,MS725,Cairo (CAI),EgyptAir A20N (SU-GFJ),Landed 14:52,2021-05-20
+54,54,15:10 TB2402,,Kos (KGS),TUI B738 (OO-JAV),Landed 14:49,2021-05-20
+55,55,15:15,TP648,Lisbon (LIS),TAP Express E195 (CS-TTY),Landed 15:03,2021-05-20
+56,56,15:20 TB2182,,Santorini (JTR),TUI B738 (OO-TNB),Landed 15:11,2021-05-20
+57,57,15:45 QR8820,,Doha (DOH),Qatar Airways B789 (A7-BHG),Landed 16:14,2021-05-20
+58,58,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-20
+59,59,16:00 TB1752,,Tenerife (TFS),TUI B38M (OO-TMB),Landed 16:21,2021-05-20
+60,60,16:10,SN3816,Lisbon (LIS),Brussels Airlines A320 (OO-SNL),Landed 16:25,2021-05-20
+61,61,16:53 ASJ188,,Paris (LBG),Astonjet C68A (F-HATV),Landed 17:13,2021-05-20
+62,62,17:10 SN3782,,Tenerife (TFS),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 16:47,2021-05-20
+63,63,17:30,AZ160,Rome (FCO),Alitalia A320 (EI-DSL),Landed 17:27,2021-05-20
+64,64,17:30,SN3704,Barcelona (BCN),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 17:33,2021-05-20
+65,65,18:15,AY1545,Helsinki (HEL),Finnair E190 (OH-LKR),Landed 18:03,2021-05-20
+66,66,18:15 SK1593,,Copenhagen (CPH),SAS A20N (SE-DYC),Landed 18:08,2021-05-20
+67,67,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSZ),Landed 18:23,2021-05-20
+68,68,18:55,IB8694,Madrid (MAD),Iberia Regrional CRJX (EC-MLC),Landed 18:43,2021-05-20
+69,69,19:00,KM420,Luqa (MLA),Air Malta (We're Back! Sticker) A20N (9H-NEC),Landed 19:06,2021-05-20
+70,70,19:00 SQ7987,,Los Angeles (LAX),Singapore Airlines B744,Unknown,2021-05-20
+71,71,19:10 K4977,,Cincinnati (CVG),Kalitta Air B744 (N712CK),Landed 19:50,2021-05-20
+72,72,19:15,OS355,Vienna (VIE),Austrian Airlines A319 (OE-LDC),Landed 19:20,2021-05-20
+73,73,19:20 TB1112,,Alicante (ALC),TUI B737 (OO-JAO),Landed 19:15,2021-05-20
+74,74,19:25,AZ154,Milan (LIN),Alitalia E75S (EI-RDI),Landed 19:45,2021-05-20
+75,75,19:25,VY2150,Malaga (AGP),Vueling A320 (EC-KLB),Landed 19:11,2021-05-20
+76,76,19:30 SN3622,,Nice (NCE),Brussels Airlines A320 (OO-SNJ),Landed 19:26,2021-05-20
+77,77,19:45 SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSF),Landed 19:28,2021-05-20
+78,78,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSX),Landed 19:48,2021-05-20
+79,79,20:00,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQA),Landed 19:51,2021-05-20
+80,80,20:00 QR8144,,Chicago (ORD),Qatar Cargo B77L (A7-BFN),Landed 19:40,2021-05-20
+81,81,20:25,JU304,Belgrade (BEG),AirSERBIA A319 (YU-APE),Landed 20:11,2021-05-20
+82,82,20:30 3S395,,Cincinnati (CVG),DHL B77L (D-AALQ),Landed 20:39,2021-05-20
+83,83,20:35 FR2924,,Malaga (AGP),Ryanair B738 (EI-DCJ),Landed 20:36,2021-05-20
+84,84,21:15 ET729,,Manchester (MAN),Ethiopian Airlines B789 (ET-AYC),Landed 20:57,2021-05-20
+85,85,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:41,2021-05-20
+86,86,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EXA),Landed 21:48,2021-05-20
+87,87,22:20,LH1024,Frankfurt (FRA),Lufthansa A20N (D-AINA),Landed 22:21,2021-05-20
+88,88,22:40 TB2952,,Tirana (TIA),TUI E190 (OO-JEM),Landed 22:24,2021-05-20
+89,89,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-TCH),Landed 23:15,2021-05-20
+0,0,05:00 QY923,,Miami (MIA),DHL A332 (D-ALEJ),Landed 04:49,2021-05-21
+1,1,06:45 SN221,,Dakar (DSS),Brussels Airlines A333 (OO-SFD),Landed 06:31,2021-05-21
+2,2,06:45 HU491,,Beijing (PEK),Hainan Airlines A332 (B-5963),Landed 06:05,2021-05-21
+3,3,06:50 XQ932,,Izmir (ADB),SunExpress B738 (TC-SEK),Landed 06:46,2021-05-21
+4,4,07:15 UA950,,Washington (IAD),United Airlines B78X (N12006),Landed 07:35,2021-05-21
+5,5,07:25 SN283,,Lome (LFW),Brussels Airlines A333 (OO-SFG),Landed 07:00,2021-05-21
+6,6,07:45 SN305,,Abidjan (ABJ),Brussels Airlines A333 (OO-SFC),Landed 07:40,2021-05-21
+7,7,07:45,UA999,New York (EWR),United Airlines B789 (N25982),Landed 07:52,2021-05-21
+8,8,07:55,SN379,Yaounde (NSI),Brussels Airlines A333 (OO-SFE),Landed 07:38,2021-05-21
+9,9,08:20 FR2918,,Barcelona (BCN),Ryanair B738 (EI-EKC),Landed 08:08,2021-05-21
+10,10,08:35,ET724,Vienna (VIE),Ethiopian Airlines B789 (ET-AUO),Landed 08:01,2021-05-21
+11,11,09:05,VY8988,Barcelona (BCN),Vueling A20N (EC-MZT),Landed 08:56,2021-05-21
+12,12,09:15,AY1541,Helsinki (HEL),Finnair E190 (OH-LKE),Landed 09:01,2021-05-21
+13,13,09:15 ET3749,,Shanghai (PVG),Ethiopian Airlines 77X,Unknown,2021-05-21
+14,14,09:25,OS351,Vienna (VIE),Austrian Airlines A320 (OE-LBK),Landed 09:25,2021-05-21
+15,15,09:30,LO235,Warsaw (WAW),LOT (Warmia Mazury Livery) E195 (SP-LNF),Landed 09:18,2021-05-21
+16,16,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-21
+17,17,10:25,A3620,Athens (ATH),Aegean Airlines A20N (SX-NEA),Landed 10:35,2021-05-21
+18,18,10:25,KL1723,Amsterdam (AMS),KLM E75L (PH-EXJ),Landed 10:15,2021-05-21
+19,19,10:45,TP646,Lisbon (LIS),TAP Air Portugal A20N (CS-TVB),Landed 10:23,2021-05-21
+20,20,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-21
+21,21,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-MXU),Landed 10:43,2021-05-21
+22,22,11:10,AZ156,Rome (FCO),Alitalia A320 (EI-IKU),Landed 11:43,2021-05-21
+23,23,11:40 AH2200,,Algiers (ALG),Air Algerie 73K,Unknown,2021-05-21
+24,24,11:50 TB1112,,Alicante (ALC),TUI B38M (OO-TMY),Landed 11:59,2021-05-21
+25,25,11:50 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMB),Landed 11:38,2021-05-21
+26,26,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFP),Landed 11:52,2021-05-21
+27,27,11:55 TB3752,,Suceava (SCV),TUI E190 (OO-JVA),Landed 11:43,2021-05-21
+28,28,12:15 SU2168,,Moscow (SVO),Aeroflot B738 (VP-BPF),Landed 11:56,2021-05-21
+29,29,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNJ),Landed 13:36,2021-05-21
+30,30,12:30 DL3456,,New York (JFK),Delta Air Lines B763 (N176DZ),Landed 12:12,2021-05-21
+31,31,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSA),Landed 12:31,2021-05-21
+32,32,12:35 K4335,,Los Angeles (LAX),DHL B744 (N740CK),Landed 14:04,2021-05-21
+33,33,12:40 FR2934,,Alicante (ALC),Ryanair B738 (EI-EVA),Landed 12:44,2021-05-21
+34,34,12:40 TB1012,,Malaga (AGP),TUI B737 (OO-JAR),Landed 12:20,2021-05-21
+35,35,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACNI),Landed 12:50,2021-05-21
+36,36,12:55 SQ7951,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFK),Landed 12:05,2021-05-21
+37,37,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSO),Landed 13:11,2021-05-21
+38,38,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:23,2021-05-21
+39,39,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSB),Landed 13:06,2021-05-21
+40,40,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQN),Landed 13:12,2021-05-21
+41,41,13:20,VY1332,Alicante (ALC),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 13:01,2021-05-21
+42,42,13:25,EY57,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLX),Landed 13:15,2021-05-21
+43,43,13:25,SN2258,Copenhagen (CPH),Brussels Airlines A319 (OO-SSV),Landed 13:17,2021-05-21
+44,44,13:30 SN3124,,Bologna (BLQ),Brussels Airlines A319 (OO-SSF),Landed 13:52,2021-05-21
+45,45,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILK),Landed 13:42,2021-05-21
+46,46,13:35,SN3202,Venice (VCE),Brussels Airlines A319 (OO-SSR),Landed 13:25,2021-05-21
+47,47,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSX),Landed 13:21,2021-05-21
+48,48,13:35,SN3668,Toulouse (TLS),Brussels Airlines A320 (OO-TCH),Landed 13:56,2021-05-21
+49,49,13:40 QR8846,,Doha (DOH),Qatar Airways 359,Unknown,2021-05-21
+50,50,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-NIG),Landed 14:40,2021-05-21
+51,51,14:50 0B2923,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 14:43,2021-05-21
+52,52,14:55 SN3752,,Valencia (VLC),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 14:50,2021-05-21
+53,53,15:11 RU9506,,Cincinnati (CVG),AirBridgeCargo B748 (VQ-BRJ),Landed 16:31,2021-05-21
+54,54,15:35 TB2182,,Kos (KGS),TUI B738 (OO-JAA),Landed 15:26,2021-05-21
+55,55,15:40 TB2342,,Rhodes (RHO),TUI B38M (OO-TMA),Landed 15:30,2021-05-21
+56,56,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-21
+57,57,16:00 QR8245,,Doha (DOH),Qatar Cargo B77L (A7-BFE),Landed 16:23,2021-05-21
+58,58,16:20 XQ756,,Eskisehir (AOE),SunExpress B738 (TC-SEK),Landed 16:00,2021-05-21
+59,59,17:20,SK1589,Stockholm (ARN),SAS A20N (SE-DYM),Landed 17:27,2021-05-21
+60,60,17:30,SN3704,Barcelona (BCN),Brussels Airlines A320 (OO-SNL),Landed 17:28,2021-05-21
+61,61,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LLR),Landed 17:22,2021-05-21
+62,62,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VTEA),Landed 17:37,2021-05-21
+63,63,17:45 NH237,,Tokyo (NRT),All Nippon Airways (Star Wars BB-8 Livery) B77W (JA789A),Landed 17:32,2021-05-21
+64,64,17:50,BT603,Riga (RIX),Air Baltic BCS3 (YL-CSM),Landed 17:25,2021-05-21
+65,65,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSB),Landed 18:18,2021-05-21
+66,66,18:35,SN2720,Geneva (GVA),Brussels Airlines A319 (OO-SSB),Landed 18:15,2021-05-21
+67,67,18:40 LO233,,Warsaw (WAW),LOT E75S (SP-LIL),Landed 18:27,2021-05-21
+68,68,18:55 IB8694,,Madrid (MAD),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 18:58,2021-05-21
+69,69,18:55,RO373,Bucharest (OTP),Tarom A318 (YR-ASC),Landed 12:48,2021-05-21
+70,70,19:00 K4977,,Cincinnati (CVG),Kalitta Air B744 (N708CK),Unknown,2021-05-21
+71,71,19:05,LX788,Zurich (ZRH),Swiss A320 (HB-JLT),Landed 19:09,2021-05-21
+72,72,19:25,AZ154,Milan (LIN),Alitalia E75S (EI-RDG),Landed 19:12,2021-05-21
+73,73,19:30 SN3622,,Nice (NCE),Brussels Airlines A320 (OO-TCH),Landed 20:33,2021-05-21
+74,74,19:45,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQD),Landed 19:31,2021-05-21
+75,75,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSA),Landed 19:46,2021-05-21
+76,76,19:55,SN2906,Vienna (VIE),Brussels Airlines A319 (OO-SSV),Landed 20:00,2021-05-21
+77,77,20:35,VY8990,Barcelona (BCN),Vueling A320 (EC-LOP),Landed 20:26,2021-05-21
+78,78,21:00 0B1123,,Bucharest (OTP),Blue Air B738 (YR-BMS),Landed 20:52,2021-05-21
+79,79,21:10 FR2932,,Lisbon (LIS),Ryanair B738 (EI-EBY),Landed 20:58,2021-05-21
+80,80,21:25 TB2172,,Thessaloniki (SKG),TUI B737 (OO-JAO),Landed 21:25,2021-05-21
+81,81,21:35 FR2984,,Rome (CIA),Ryanair B738 (EI-EVN),Landed 21:38,2021-05-21
+82,82,22:00 FR2929,,Porto (OPO),Ryanair B738 (EI-GSI),Landed 21:27,2021-05-21
+83,83,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANW),Landed 21:32,2021-05-21
+84,84,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZE),Landed 22:06,2021-05-21
+85,85,22:20,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AILK),Canceled,2021-05-21
+86,86,22:45 SN3774,,Alicante (ALC),Brussels Airlines A319 (OO-SSR),Landed 22:23,2021-05-21
+87,87,22:50 TB1912,,Funchal (FNC),TUI B38M (OO-TMB),Landed 22:14,2021-05-21
+88,88,23:00 TB2162,,Zakynthos (ZTH),TUI B737 (OO-JAR),Landed 22:43,2021-05-21
+89,89,23:25 SN3738,,Malaga (AGP),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 23:09,2021-05-21
+90,90,23:35,TP642,Lisbon (LIS),TAP Express E195 (CS-TTZ),Landed 23:15,2021-05-21
+0,0,00:25 TB2964,,Pristina (PRN),TUI B38M (OO-TMA),Landed 00:34,2021-05-22
+1,1,01:50 TB1752,,Gran Canaria (LPA),TUI B38M (OO-TMY),Landed 01:33,2021-05-22
+2,2,05:00 ET3914,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-05-22
+3,3,05:00 QY923,,Miami (MIA),DHL A332 (D-ALEJ),Landed 04:45,2021-05-22
+4,4,05:00 GB957,,New York (JFK),ABX Air B763 (N362CM),Unknown,2021-05-22
+5,5,06:40 SN358,,Kinshasa (FIH),Brussels Airlines A333 (OO-SFF),Landed 06:16,2021-05-22
+6,6,06:45 SN217,,Dakar (DSS),Brussels Airlines A333 (OO-SFD),Landed 06:59,2021-05-22
+7,7,07:05 SQ7366,,Sharjah (SHJ),Singapore Airlines Cargo B744 (9V-SFI),Landed 07:09,2021-05-22
+8,8,07:15 UA950,,Washington (IAD),United Airlines B78X (N12012),Landed 07:21,2021-05-22
+9,9,07:20 SN474,,Entebbe (EBB),Brussels Airlines A333 (OO-SFH),Landed 06:56,2021-05-22
+10,10,07:25,SN319,Accra (ACC),Brussels Airlines A333 (OO-SFC),Landed 07:45,2021-05-22
+11,11,07:30 ET3712,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVN),Landed 15:51,2021-05-22
+12,12,07:30,QR195,Doha (DOH),Qatar Airways A359 (A7-ALC),Landed 07:31,2021-05-22
+13,13,07:45,UA999,New York (EWR),United Airlines B789 (N45956),Landed 07:49,2021-05-22
+14,14,07:55,SN241,Monrovia (ROB),Brussels Airlines A333 (OO-SFG),Landed 07:37,2021-05-22
+15,15,07:55,SN369,Yaounde (NSI),Brussels Airlines A333 (OO-SFE),Canceled,2021-05-22
+16,16,08:00 ET3721,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-05-22
+17,17,08:00 ET3725,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-05-22
+18,18,08:35,ET724,Vienna (VIE),Ethiopian Airlines B789 (ET-AYC),Landed 08:57,2021-05-22
+19,19,08:45,LX786,Zurich (ZRH),Swiss BCS1 (HB-JBE),Landed 08:31,2021-05-22
+20,20,09:00,UA972,Chicago (ORD),United Airlines B789 (N24976),Landed 09:02,2021-05-22
+21,21,09:00 WB700,,Kigali (KGL),RwandAir A333 (9XR-WP),Landed 08:51,2021-05-22
+22,22,09:15,VY8988,Barcelona (BCN),Vueling A320 (EC-MBS),Landed 09:05,2021-05-22
+23,23,09:25,OS351,Vienna (VIE),Austrian Airlines A320 (OE-LXA),Unknown,2021-05-22
+24,24,09:30,LO235,Warsaw (WAW),LOT (Warmia Mazury Livery) E195 (SP-LNF),Landed 09:14,2021-05-22
+25,25,09:45,UX1171,Madrid (MAD),Air Europa Express E195 (EC-LKM),Landed 09:32,2021-05-22
+26,26,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-22
+27,27,10:25,A3620,Athens (ATH),Aegean Airlines A20N (SX-NED),Landed 10:37,2021-05-22
+28,28,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZR),Landed 10:25,2021-05-22
+29,29,10:35 ME215,,Beirut (BEY),MEA A21N (T7-ME7),Landed 10:40,2021-05-22
+30,30,10:45,TP646,Lisbon (LIS),TAP Express E190 (CS-TPO),Landed 10:22,2021-05-22
+31,31,10:55 3O117,,Fes (FEZ),Air Arabia Maroc 320,Unknown,2021-05-22
+32,32,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-MXU),Landed 10:39,2021-05-22
+33,33,11:15,AC832,Montreal (YUL),Air Canada A333 (C-GEFA),Landed 10:54,2021-05-22
+34,34,11:20 TU788,,Tunis (TUN),Tunisair A320 (TS-IMV),Landed 11:17,2021-05-22
+35,35,11:35 SN3688,,Ibiza (IBZ),Brussels Airlines A319 (OO-SSR),Landed 11:13,2021-05-22
+36,36,11:40 SN3772,,Alicante (ALC),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 11:31,2021-05-22
+37,37,11:40 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMY),Landed 11:27,2021-05-22
+38,38,11:50 TB1112,,Alicante (ALC),TUI B738 (OO-TNB),Landed 11:40,2021-05-22
+39,39,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JZL),Landed 11:56,2021-05-22
+40,40,12:25,SN3176,Rome (FCO),Brussels Airlines A320 (OO-SNJ),Landed 12:25,2021-05-22
+41,41,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNM),Landed 12:33,2021-05-22
+42,42,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSO),Landed 12:25,2021-05-22
+43,43,12:45 EK9936,,Frankfurt (FRA),Emirates SkyCargo B77L (A6-EFG),Landed 12:28,2021-05-22
+44,44,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACNP),Landed 12:56,2021-05-22
+45,45,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSW),Landed 12:48,2021-05-22
+46,46,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSV),Landed 12:50,2021-05-22
+47,47,13:10 FR2924,,Malaga (AGP),Ryanair B738 (EI-DCJ),Landed 13:49,2021-05-22
+48,48,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSN),Landed 13:14,2021-05-22
+49,49,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:16,2021-05-22
+50,50,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQH),Landed 13:12,2021-05-22
+51,51,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSX),Landed 13:24,2021-05-22
+52,52,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSU),Landed 13:16,2021-05-22
+53,53,13:25,SN3598,Marseille (MRS),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 13:08,2021-05-22
+54,54,13:35,LH1012,Frankfurt (FRA),Lufthansa A320 (D-AIWA),Landed 13:54,2021-05-22
+55,55,13:35,SN3216,Milan (MXP),Brussels Airlines A320 (OO-TCH),Landed 13:20,2021-05-22
+56,56,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSF),Landed 13:23,2021-05-22
+57,57,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNI),Landed 13:29,2021-05-22
+58,58,13:55 TB1012,,Almeria (LEI),TUI B738 (OO-JAV),Landed 13:35,2021-05-22
+59,59,13:55 TK1943,,Istanbul (IST),Turkish Airlines A21N (TC-LSK),Landed 13:52,2021-05-22
+60,60,14:00 QR8247,,Doha (DOH),Qatar Cargo B77L (A7-BFT),Landed 14:01,2021-05-22
+61,61,14:45,MS725,Cairo (CAI),EgyptAir A20N (SU-GFM),Landed 15:16,2021-05-22
+62,62,15:10 ET3938,,N'Djamena (NDJ),Ethiopian Airlines A359 (ET-ATR),Diverted to ADD,2021-05-22
+63,63,15:15,TP648,Lisbon (LIS),TAP Air Portugal A20N (CS-TVD),Landed 14:46,2021-05-22
+64,64,15:20 OZ587,,New York (JFK),Asiana Cargo B744 (HL7616),Landed 16:31,2021-05-22
+65,65,15:45 QR8814,,Doha (DOH),Qatar Airways B789 (A7-BHE),Landed 15:11,2021-05-22
+66,66,15:50 TB1752,,Tenerife (TFS),TUI B38M (OO-TMB),Landed 15:55,2021-05-22
+67,67,15:55 NH231,,Tokyo (NRT),All Nippon Airways B789 (JA891A),Landed 15:23,2021-05-22
+68,68,16:05 TB2252,,Rhodes (RHO),TUI B737 (OO-JAR),Landed 16:03,2021-05-22
+69,69,16:10,SN3816,Lisbon (LIS),Brussels Airlines A320 (OO-SNL),Landed 16:14,2021-05-22
+70,70,16:30 ET3907,,Lome (LFW),Ethiopian Airlines 77X,Unknown,2021-05-22
+71,71,16:35,SN3812,Porto (OPO),Brussels Airlines A320 (OO-SNN),Landed 16:46,2021-05-22
+72,72,17:30,AZ160,Rome (FCO),Alitalia A319 (EI-IMG),Landed 17:13,2021-05-22
+73,73,17:30,SN3704,Barcelona (BCN),Brussels Airlines A319 (OO-SSA),Landed 17:27,2021-05-22
+74,74,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VRNB),Landed 17:24,2021-05-22
+75,75,17:55 TB1666,,Gran Canaria (LPA),TUI B38M (OO-TMA),Landed 17:45,2021-05-22
+76,76,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSJ),Landed 18:21,2021-05-22
+77,77,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MJP),Landed 18:56,2021-05-22
+78,78,18:55 TK6337,,Istanbul (ISL),Turkish Cargo A332 (TC-JDS),Unknown,2021-05-22
+79,79,19:15 3O115,,Nador (NDR),Air Arabia Maroc 320,Unknown,2021-05-22
+80,80,19:30,SN3622,Nice (NCE),Brussels Airlines A320 (OO-TCH),Landed 19:24,2021-05-22
+81,81,19:30 AT352,,Casablanca (CMN),Royal Air Maroc Cargo B763 (CN-ROW),Landed 18:53,2021-05-22
+82,82,19:40 3O113,,Tangier (TNG),Air Arabia Maroc 320,Unknown,2021-05-22
+83,83,19:50 SN3766,,Palma de Mallorca (PMI),Brussels Airlines A320 (OO-SNM),Landed 19:34,2021-05-22
+84,84,19:50 SN9902,,Dakar (DSS),Brussels Airlines A333 (OO-SFX),Landed 20:54,2021-05-22
+85,85,20:55 3O111,,Casablanca (CMN),Air Arabia Maroc 320,Unknown,2021-05-22
+86,86,21:05 SN3170,,Naples (NAP),Brussels Airlines A319 (OO-SSN),Landed 20:48,2021-05-22
+87,87,21:30 SN3778,,Ibiza (IBZ),Brussels Airlines A320 (OO-SNI),Landed 21:15,2021-05-22
+88,88,21:30 FR2586,,Essaouira (ESU),Ryanair 73H,Unknown,2021-05-22
+89,89,22:05,KL1733,Amsterdam (AMS),KLM E75L (PH-EXK),Landed 21:39,2021-05-22
+90,90,22:05,SN3246,Athens (ATH),Brussels Airlines A320 (OO-SNJ),Landed 22:16,2021-05-22
+91,91,22:20,LH1024,Frankfurt (FRA),Lufthansa A320 (D-AIUB),Landed 22:19,2021-05-22
+92,92,22:20 SN2209,,Rhodes (RHO),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 22:16,2021-05-22
+93,93,22:25 FR5094,,Amman (AMM),Ryanair B738 (9H-QAU),Landed 01:03,2021-05-22
+94,94,22:40 SN3785,,Gran Canaria (LPA),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 22:22,2021-05-22
+95,95,23:05 TB3602,,Ajaccio (AJA),TUI E190 (OO-JEM),Landed 22:53,2021-05-22
+96,96,23:25 SN3738,,Malaga (AGP),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 23:02,2021-05-22
+97,97,23:50 TB1712,,Fuerteventura (FUE),TUI B38M (OO-TMY),Landed 00:02,2021-05-22
+0,0,04:00 M68621,,Miami (MIA),Amerijet International B763 (N378CX),Landed 18:11,2021-05-23
+1,1,06:00 QY955,,Cincinnati (CVG),DHL A332 (D-ALMA),Landed 05:38,2021-05-23
+2,2,06:20 ET728,,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AXS),Landed 06:15,2021-05-23
+3,3,06:30 ET3915,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-05-23
+4,4,06:45 SN221,,Dakar (DSS),Brussels Airlines 333,Canceled,2021-05-23
+5,5,07:05 QY923,,Miami (MIA),DHL A332 (D-ALEJ),Landed 06:57,2021-05-23
+6,6,07:15,UA950,Washington (IAD),United Airlines B78X (N12010),Landed 07:02,2021-05-23
+7,7,07:25,SN283,Lome (LFW),Brussels Airlines A333 (OO-SFH),Landed 07:18,2021-05-23
+8,8,07:30 QR8441,,London (STN),Qatar Cargo B77L (A7-BFD),Landed 07:12,2021-05-23
+9,9,07:40,SN231,Abidjan (ABJ),Brussels Airlines A333 (OO-SFB),Landed 08:10,2021-05-23
+10,10,07:45,UA999,New York (EWR),United Airlines B789 (N45956),Landed 07:26,2021-05-23
+11,11,07:55,SN245,Monrovia (ROB),Brussels Airlines A333 (OO-SFG),Landed 07:33,2021-05-23
+12,12,07:55,SN379,Yaounde (NSI),Brussels Airlines A333 (OO-SFE),Landed 08:22,2021-05-23
+13,13,09:10 FR2918,,Barcelona (BCN),Ryanair B738 (EI-ENW),Landed 10:01,2021-05-23
+14,14,09:10 DL3456,,New York (JFK),Delta Air Lines B763 (N177DZ),Landed 08:48,2021-05-23
+15,15,09:30 ET3704,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-APS),Unknown,2021-05-23
+16,16,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-23
+17,17,10:05 BA3406,,London (LHR),British Airways AB6,Unknown,2021-05-23
+18,18,10:20 TK6205,,London (STN),Turkish Cargo A332 (TC-JCI),Unknown,2021-05-23
+19,19,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZV),Landed 10:12,2021-05-23
+20,20,10:30,TK1937,Istanbul (IST),Turkish Airlines A21N (TC-LSG),Landed 10:37,2021-05-23
+21,21,10:45,TP646,Lisbon (LIS),TAP Express E195 (CS-TTY),Landed 10:31,2021-05-23
+22,22,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-23
+23,23,10:50 3O113,,Tangier (TNG),Air Arabia Maroc 320,Unknown,2021-05-23
+24,24,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-NJY),Landed 10:34,2021-05-23
+25,25,11:10,AZ156,Rome (FCO),Alitalia A319 (EI-IMT),Landed 10:52,2021-05-23
+26,26,11:20 VS593,,London (LHR),Virgin Atlantic A35K (G-VRNB),Landed 10:58,2021-05-23
+27,27,11:35 SN3778,,Ibiza (IBZ),Brussels Airlines A320 (OO-SNI),Landed 11:15,2021-05-23
+28,28,11:40 SN3772,,Alicante (ALC),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 11:25,2021-05-23
+29,29,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFO),Landed 12:03,2021-05-23
+30,30,12:00 TB1112,,Alicante (ALC),TUI B38M (OO-TMB),Landed 11:45,2021-05-23
+31,31,12:05 TB2952,,Tirana (TIA),TUI B737 (OO-JAR),Canceled,2021-05-23
+32,32,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNM),Landed 12:27,2021-05-23
+33,33,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSA),Landed 12:56,2021-05-23
+34,34,12:35 TB1014,,Malaga (AGP),TUI B738 (OO-JAV),Landed 12:28,2021-05-23
+35,35,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACKG),Landed 12:54,2021-05-23
+36,36,12:45 TB1312,,Faro (FAO),TUI B38M (OO-TMA),Landed 12:48,2021-05-23
+37,37,13:00 TB2192,,Corfu (CFU),TUI B737 (OO-JAO),Unknown,2021-05-23
+38,38,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSF),Landed 12:50,2021-05-23
+39,39,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 12:56,2021-05-23
+40,40,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSB),Landed 13:08,2021-05-23
+41,41,13:20,EK183,Dubai (DXB),Emirates (Expo 2020 - Opportunity Livery) B77W (A6-EQO),Landed 13:21,2021-05-23
+42,42,13:25,EY57,Abu Dhabi (AUH),Etihad (ADNOC- Choose Saudi Arabia Livery) B789 (A6-BLN),Landed 14:10,2021-05-23
+43,43,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSU),Landed 13:06,2021-05-23
+44,44,13:35,LH1012,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A319 (D-AILF),Landed 13:33,2021-05-23
+45,45,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSN),Landed 13:11,2021-05-23
+46,46,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNJ),Landed 13:35,2021-05-23
+47,47,13:40,QR193,Doha (DOH),Qatar Airways A359 (A7-ALR),Landed 13:43,2021-05-23
+48,48,14:30 NH237,,Tokyo (NRT),All Nippon Airways B789 (JA837A),Landed 13:54,2021-05-23
+49,49,14:40,VY8980,Barcelona (BCN),Vueling A321 (EC-MRF),Landed 14:33,2021-05-23
+50,50,15:20 TB2182,,Santorini (JTR),TUI B38M (OO-TMY),Landed 15:12,2021-05-23
+51,51,15:40 TB2302,,Mykonos (JMK),TUI B738 (OO-TUV),Landed 15:30,2021-05-23
+52,52,15:45 QR8820,,Doha (DOH),Qatar Airways B789 (A7-BHA),Landed 15:17,2021-05-23
+53,53,15:50 AT352,,Casablanca (CMN),Royal Air Maroc Cargo B763 (CN-ROW),Landed 15:07,2021-05-23
+54,54,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-23
+55,55,17:05 SQ7979,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFM),Landed 18:54,2021-05-23
+56,56,17:10 SN3782,,Tenerife (TFS),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 16:49,2021-05-23
+57,57,17:10 SN3784,,Gran Canaria (LPA),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 16:32,2021-05-23
+58,58,17:25 SU2628,,Moscow (SVO),Aeroflot B738 (VP-BKK),Landed 17:12,2021-05-23
+59,59,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LLR),Landed 17:18,2021-05-23
+60,60,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VTEA),Landed 17:16,2021-05-23
+61,61,17:50 TK1939,,Istanbul (IST),Turkish Airlines A333 (TC-JOH),Landed 17:51,2021-05-23
+62,62,18:15 FR2916,,Palma de Mallorca (PMI),Ryanair B738 (EI-EVA),Landed 18:02,2021-05-23
+63,63,18:40 LO233,,Warsaw (WAW),LOT B738 (SP-LWA),Landed 18:26,2021-05-23
+64,64,18:55 GQ800,,Athens (ATH),Sky Express A20N (SX-WEB),Landed 18:57,2021-05-23
+65,65,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-LPN),Landed 18:47,2021-05-23
+66,66,19:00,KM420,Luqa (MLA),Air Malta A320 (9H-AHS),Landed 18:50,2021-05-23
+67,67,19:00 3S395,,Cincinnati (CVG),DHL B77L (D-AALO),Landed 18:43,2021-05-23
+68,68,19:15,OS355,Vienna (VIE),Austrian Airlines E195 (OE-LWD),Landed 19:24,2021-05-23
+69,69,19:25,AZ154,Milan (LIN),Alitalia E75S (EI-RDD),Landed 19:08,2021-05-23
+70,70,19:25,SN3810,Porto (OPO),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 19:10,2021-05-23
+71,71,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSA),Landed 19:26,2021-05-23
+72,72,19:55,SN2906,Vienna (VIE),Brussels Airlines A319 (OO-SSF),Landed 19:48,2021-05-23
+73,73,19:55,VY2150,Malaga (AGP),Vueling A320 (EC-KLB),Landed 19:32,2021-05-23
+74,74,19:57 RU9707,,Cincinnati (CVG),AirBridgeCargo B748 (VP-BBY),Landed 20:34,2021-05-23
+75,75,20:00,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQD),Landed 19:50,2021-05-23
+76,76,20:05,SN3206,Venice (VCE),Brussels Airlines A320 (OO-SNJ),Landed 19:59,2021-05-23
+77,77,20:10,VY1332,Alicante (ALC),Vueling A320 (EC-MVD),Landed 20:01,2021-05-23
+78,78,20:35 FR2279,,Porto (OPO),Ryanair B738 (EI-GXL),Landed 20:19,2021-05-23
+79,79,20:35 FR2926,,Lisbon (LIS),Ryanair B738 (EI-GSJ),Landed 20:45,2021-05-23
+80,80,21:15 ET729,,Manchester (MAN),Ethiopian Airlines B789 (ET-AXS),Landed 21:08,2021-05-23
+81,81,21:35 FR2934,,Alicante (ALC),Ryanair B738 (EI-EVN),Landed 21:24,2021-05-23
+82,82,21:55 GB957,,New York (JFK),ABX Air B763 (N219CY),Landed 23:37,2021-05-23
+83,83,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANY),Landed 21:07,2021-05-23
+84,84,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZN),Landed 21:48,2021-05-23
+85,85,22:05,SN3246,Athens (ATH),Brussels Airlines A320 (OO-SNI),Landed 22:19,2021-05-23
+86,86,22:20,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AILN),Landed 22:30,2021-05-23
+87,87,22:30 TB1372,,Palma de Mallorca (PMI),TUI B38M (OO-TMB),Landed 22:17,2021-05-23
+88,88,22:45 TB1332,,Ibiza (IBZ),TUI B738 (OO-JAA),Landed 22:42,2021-05-23
+89,89,23:25 SN3766,,Palma de Mallorca (PMI),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 23:14,2021-05-23
+90,90,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-SNM),Landed 23:09,2021-05-23
+91,91,23:35,TP642,Lisbon (LIS),TAP Express E195 (CS-TTZ),Landed 23:19,2021-05-23
+0,0,00:35 TB2342,,Rhodes (RHO),TUI B38M (OO-TMA),Landed 00:42,2021-05-24
+1,1,01:45 TB3314,,Eskisehir (AOE),TUI B738 (OO-JAV),Landed 01:27,2021-05-24
+2,2,02:25 TB1756,,Tenerife (TFS),TUI B38M (OO-TMY),Landed 02:13,2021-05-24
+3,3,05:25 QY977,,Cincinnati (CVG),DHL A332 (D-ALEJ),Landed 05:29,2021-05-24
+4,4,06:10 TB974F,,Oranjestad (AUA),TUI B788 (OO-LOE),Landed 06:28,2021-05-24
+5,5,06:40 SN358,,Kinshasa (FIH),Brussels Airlines A333 (OO-SFD),Landed 06:50,2021-05-24
+6,6,06:45 HU491,,Beijing (PEK),Hainan Airlines A333 (B-303Z),Landed 06:55,2021-05-24
+7,7,06:45 SN1221,,Dakar (DSS),Brussels Airlines A333 (OO-SFF),Landed 06:34,2021-05-24
+8,8,07:00 QY971,,New York (JFK),DHL A332 (D-ALMD),Landed 06:38,2021-05-24
+9,9,07:15,UA950,Washington (IAD),United Airlines B78X (N12010),Landed 07:07,2021-05-24
+10,10,07:20,SN474,Entebbe (EBB),Brussels Airlines A333 (OO-SFC),Landed 06:47,2021-05-24
+11,11,07:25,SN319,Accra (ACC),Brussels Airlines A333 (OO-SFB),Landed 07:30,2021-05-24
+12,12,07:45,UA999,New York (EWR),United Airlines B789 (N45956),Landed 09:10,2021-05-24
+13,13,07:55 SN1379,,Yaounde (NSI),Brussels Airlines A333 (OO-SFE),Unknown,2021-05-24
+14,14,08:35,ET724,Vienna (VIE),Ethiopian Airlines B788 (ET-ASH),Landed 08:11,2021-05-24
+15,15,08:40,OU456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQD),Landed 08:33,2021-05-24
+16,16,09:05 0B123,,Bucharest (OTP),Blue Air B738 (YR-BMQ),Landed 09:09,2021-05-24
+17,17,09:10 FR7000,,Rome (CIA),Ryanair B738 (9H-QBX),Landed 08:59,2021-05-24
+18,18,09:15,AY1541,Helsinki (HEL),Finnair (Oneworld livery) E190 (OH-LKN),Landed 09:16,2021-05-24
+19,19,09:15,VY8988,Barcelona (BCN),Vueling A321 (EC-MMU),Landed 09:03,2021-05-24
+20,20,09:20,SK589,Stockholm (ARN),SAS A20N (SE-RON),Landed 09:13,2021-05-24
+21,21,09:25,OS351,Vienna (VIE),Austrian Airlines A319 (OE-LDE),Landed 09:16,2021-05-24
+22,22,09:30,LO235,Warsaw (WAW),LOT (Star Alliance Livery) E170 (SP-LDK),Landed 09:22,2021-05-24
+23,23,09:30,RO371,Bucharest (OTP),Tarom (SkyTeam Livery) B737 (YR-BGF),Landed 09:32,2021-05-24
+24,24,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-24
+25,25,10:15 ET3779,,Shanghai (PVG),Ethiopian Airlines 77X,Unknown,2021-05-24
+26,26,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EXY),Landed 10:06,2021-05-24
+27,27,10:30,TK1937,Istanbul (IST),Turkish Airlines A21N (TC-LSH),Landed 10:31,2021-05-24
+28,28,10:50 3O113,,Tangier (TNG),Air Arabia Maroc 320,Unknown,2021-05-24
+29,29,11:10,AZ156,Rome (FCO),Alitalia A320 (EI-DSG),Landed 11:01,2021-05-24
+30,30,11:15,IB3206,Madrid (MAD),Iberia A20N (EC-NDN),Landed 10:43,2021-05-24
+31,31,11:45 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMY),Landed 11:52,2021-05-24
+32,32,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFK),Landed 11:39,2021-05-24
+33,33,12:15 TB3752,,Suceava (SCV),TUI E190 (OO-JVA),Landed 12:14,2021-05-24
+34,34,12:25,SN3176,Rome (FCO),Brussels Airlines A320 (OO-SNI),Landed 11:59,2021-05-24
+35,35,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-TCV),Landed 12:24,2021-05-24
+36,36,12:35,SN2714,Geneva (GVA),Brussels Airlines A320 (OO-SNJ),Landed 12:21,2021-05-24
+37,37,12:45 K3955,,Sharjah (SHJ),Taquan Air 72F,Unknown,2021-05-24
+38,38,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACKD),Landed 12:36,2021-05-24
+39,39,13:00 AT352,,Algiers (ALG),Royal Air Maroc 76Y,Unknown,2021-05-24
+40,40,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSF),Landed 12:46,2021-05-24
+41,41,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSU),Landed 12:56,2021-05-24
+42,42,13:10,VY1332,Alicante (ALC),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 12:53,2021-05-24
+43,43,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:21,2021-05-24
+44,44,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSO),Landed 13:01,2021-05-24
+45,45,13:20,EK183,Dubai (DXB),Emirates (Expo 2020 - Opportunity Livery) B77W (A6-EQO),Landed 13:15,2021-05-24
+46,46,13:20 FR2926,,Lisbon (LIS),Ryanair B738 (EI-EVA),Landed 13:28,2021-05-24
+47,47,13:25 SN2174,,Manchester (MAN),Brussels Airlines A320 (OO-TCH),Landed 13:20,2021-05-24
+48,48,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSW),Landed 13:12,2021-05-24
+49,49,13:25,SN3598,Marseille (MRS),Brussels Airlines A319 (OO-SSX),Landed 13:03,2021-05-24
+50,50,13:30 SN3124,,Bologna (BLQ),Brussels Airlines A319 (OO-SSB),Landed 13:12,2021-05-24
+51,51,13:35,LH1012,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A319 (D-AIBJ),Landed 13:36,2021-05-24
+52,52,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSV),Landed 13:23,2021-05-24
+53,53,13:35,SN3202,Venice (VCE),Brussels Airlines A319 (OO-SSA),Landed 13:14,2021-05-24
+54,54,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSN),Landed 13:29,2021-05-24
+55,55,13:35,SN3802,Faro (FAO),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 13:52,2021-05-24
+56,56,13:55 SN3256,,Heraklion (HER),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 13:27,2021-05-24
+57,57,14:15 TB1134,,Malaga (AGP),TUI B38M (OO-TMB),Landed 13:53,2021-05-24
+58,58,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-NIG),Landed 14:16,2021-05-24
+59,59,14:30 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA784A),Landed 13:51,2021-05-24
+60,60,14:35 TB2172,,Thessaloniki (SKG),TUI B737 (OO-JAR),Landed 14:29,2021-05-24
+61,61,14:40 FR2929,,Porto (OPO),Ryanair B738 (EI-EVJ),Landed 14:14,2021-05-24
+62,62,14:40 0B2923,,Bacau (BCM),Blue Air 738,Unknown,2021-05-24
+63,63,15:10,TP648,Lisbon (LIS),TAP Air Portugal A21N (CS-TJM),Landed 15:03,2021-05-24
+64,64,15:45 QR8814,,Doha (DOH),Qatar Airways B789 (A7-BHE),Landed 15:54,2021-05-24
+65,65,15:55 TB1752,,Tenerife (TFS),TUI B738 (OO-TNB),Landed 16:00,2021-05-24
+66,66,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-24
+67,67,16:10,SN3816,Lisbon (LIS),Brussels Airlines A320 (OO-SNM),Landed 16:40,2021-05-24
+68,68,16:25 OZ587,,New York (JFK),Asiana Cargo B744 (HL7420),Landed 18:23,2021-05-24
+69,69,16:25 OZ588,,New York (JFK),Asiana Airlines 74F,Unknown,2021-05-24
+70,70,17:30,SN3704,Barcelona (BCN),Brussels Airlines A319 (OO-SSR),Landed 17:13,2021-05-24
+71,71,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LKX),Landed 17:25,2021-05-24
+72,72,17:40 VS505,,London (LHR),Virgin Atlantic B789 (G-VBOW),Landed 17:25,2021-05-24
+73,73,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSC),Landed 18:08,2021-05-24
+74,74,18:25,SK1593,Copenhagen (CPH),SAS CRJ9 (EI-FPX),Landed 18:14,2021-05-24
+75,75,18:25 3O115,,Nador (NDR),Air Arabia Maroc 320,Unknown,2021-05-24
+76,76,18:30,A3622,Athens (ATH),Aegean Airlines A20N (SX-NED),Unknown,2021-05-24
+77,77,18:40,LO233,Warsaw (WAW),LOT E195 (SP-LNA),Landed 18:31,2021-05-24
+78,78,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MVZ),Landed 18:41,2021-05-24
+79,79,19:10,LX788,Zurich (ZRH),Swiss BCS3 (HB-JCG),Landed 19:21,2021-05-24
+80,80,19:20 SN3752,,Valencia (VLC),Brussels Airlines A320 (OO-SNI),Landed 19:15,2021-05-24
+81,81,19:25,AZ154,Milan (LIN),Alitalia A319 (EI-IMJ),Landed 19:37,2021-05-24
+82,82,19:30 SN3622,,Nice (NCE),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 19:21,2021-05-24
+83,83,19:45 SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSF),Landed 19:29,2021-05-24
+84,84,19:50 SN3728,,Madrid (MAD),Brussels Airlines A320 (OO-SNJ),Landed 19:35,2021-05-24
+85,85,19:55,SN2906,Vienna (VIE),Brussels Airlines A320 (OO-TCV),Landed 20:06,2021-05-24
+86,86,20:10 SN3290,,Tel Aviv (TLV),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 21:00,2021-05-24
+87,87,20:35,VY8990,Barcelona (BCN),Vueling A320 (EC-MKO),Landed 20:19,2021-05-24
+88,88,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 21:01,2021-05-24
+89,89,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZN),Landed 21:53,2021-05-24
+90,90,22:20,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AILC),Landed 22:16,2021-05-24
+91,91,22:40 TB1912,,Funchal (FNC),TUI B38M (OO-TMA),Landed 22:46,2021-05-24
+92,92,22:45,LH2294,Munich (MUC),Lufthansa CRJ9 (D-ACNT),Landed 22:28,2021-05-24
+93,93,22:45 SN3774,,Alicante (ALC),Brussels Airlines A319 (OO-SSA),Landed 22:31,2021-05-24
+94,94,23:25 SN3738,,Malaga (AGP),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 23:18,2021-05-24
+0,0,00:45 TB2942,,Pristina (PRN),TUI B737 (OO-JAO),Landed 00:21,2021-05-25
+1,1,06:20,ET728,Addis Ababa (ADD),Ethiopian Airlines B788 (ET-AOQ),Landed 06:25,2021-05-25
+2,2,06:45,SN217,Dakar (DSS),Brussels Airlines A333 (OO-SFD),Landed 06:55,2021-05-25
+3,3,07:15,UA950,Washington (IAD),United Airlines B788 (N28912),Landed 07:17,2021-05-25
+4,4,07:15 ET3500,,Miami (MIA),Ethiopian Cargo B77L (ET-AVN),Landed 06:39,2021-05-25
+5,5,07:25,SN211,Accra (ACC),Brussels Airlines A333 (OO-SFC),Landed 07:20,2021-05-25
+6,6,07:30,QR195,Doha (DOH),Qatar Airways A359 (A7-ALX),Landed 07:12,2021-05-25
+7,7,07:45,UA999,New York (EWR),United Airlines B789 (N45956),Landed 07:50,2021-05-25
+8,8,07:55,SN245,Monrovia (ROB),Brussels Airlines A333 (OO-SFF),Landed 08:01,2021-05-25
+9,9,07:55,SN369,Yaounde (NSI),Brussels Airlines A333 (OO-SFH),Landed 07:48,2021-05-25
+10,10,09:00,UA972,Chicago (ORD),United Airlines B789 (N13954),Landed 08:47,2021-05-25
+11,11,09:30,LO235,Warsaw (WAW),LOT (Sliwka Naleczowska Livery) E195 (SP-LNC),Landed 09:12,2021-05-25
+12,12,09:45,UX1171,Madrid (MAD),Air Europa B738 (EC-IDT),Landed 09:40,2021-05-25
+13,13,09:50,SK593,Copenhagen (CPH),SAS CRJ9 (EI-FPV),Landed 09:50,2021-05-25
+14,14,09:55 ET3640,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-25
+15,15,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EXC),Landed 10:34,2021-05-25
+16,16,10:45 SQ7973,,Los Angeles (LAX),Singapore Airlines Cargo B744 (9V-SFO),Landed 09:27,2021-05-25
+17,17,11:15,IB3206,Madrid (MAD),Iberia A20N (EC-NJU),Landed 10:54,2021-05-25
+18,18,11:20 TU788,,Tunis (TUN),Tunisair A320 (TS-IMV),Landed 11:16,2021-05-25
+19,19,11:35 SN3778,,Ibiza (IBZ),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 11:22,2021-05-25
+20,20,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFY),Landed 11:38,2021-05-25
+21,21,12:00 TB1112,,Alicante (ALC),TUI B38M (OO-TMY),Landed 11:52,2021-05-25
+22,22,12:05 TK6453,,Istanbul (ISL),Turkish Airlines 31F,Unknown,2021-05-25
+23,23,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNI),Landed 12:13,2021-05-25
+24,24,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSF),Landed 12:24,2021-05-25
+25,25,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACND),Landed 12:36,2021-05-25
+26,26,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSW),Landed 12:47,2021-05-25
+27,27,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSU),Landed 13:05,2021-05-25
+28,28,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 12:56,2021-05-25
+29,29,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQM),Landed 13:01,2021-05-25
+30,30,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSA),Landed 13:23,2021-05-25
+31,31,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSN),Landed 13:10,2021-05-25
+32,32,13:30,SN3736,Malaga (AGP),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 13:10,2021-05-25
+33,33,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILE),Landed 13:35,2021-05-25
+34,34,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSV),Landed 13:18,2021-05-25
+35,35,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSB),Landed 13:15,2021-05-25
+36,36,14:05 TB2302,,Kos (KGS),TUIfly Belgium 73W,Unknown,2021-05-25
+37,37,14:15 AT352,,Milan (MXP),Royal Air Maroc 76Y,Unknown,2021-05-25
+38,38,14:15 TB2342,,Rhodes (RHO),TUI B737 (OO-JAR),Unknown,2021-05-25
+39,39,14:20 GQ800,,Athens (ATH),Sky Express 32N,Unknown,2021-05-25
+40,40,14:25 TB1012,,Almeria (LEI),TUI B738 (OO-TNB),Landed 14:34,2021-05-25
+41,41,15:45 QR8814,,Doha (DOH),Qatar Airways B77W (A7-BAJ),Landed 15:12,2021-05-25
+42,42,16:10,SN3816,Lisbon (LIS),Brussels Airlines A319 (OO-SSO),Landed 16:01,2021-05-25
+43,43,16:15 TB2162,,Zakynthos (ZTH),TUI E190 (OO-JVA),Landed 16:10,2021-05-25
+44,44,16:35,SN3812,Porto (OPO),Brussels Airlines A320 (OO-SNJ),Landed 16:32,2021-05-25
+45,45,17:30,AZ160,Rome (FCO),Alitalia A319 (EI-IMX),Landed 17:17,2021-05-25
+46,46,17:40 VS505,,London (LHR),Virgin Atlantic 351,Canceled,2021-05-25
+47,47,17:50 SN3766,,Palma de Mallorca (PMI),Brussels Airlines A319 (OO-SSX),Landed 17:45,2021-05-25
+48,48,18:15,AY1545,Helsinki (HEL),Finnair E190 (OH-LKG),Landed 18:00,2021-05-25
+49,49,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSV),Landed 18:07,2021-05-25
+50,50,18:25 3O111,,Casablanca (CMN),Air Arabia Maroc 320,Unknown,2021-05-25
+51,51,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MUG),Landed 18:49,2021-05-25
+52,52,19:05,SN3246,Athens (ATH),Brussels Airlines A319 (OO-SSR),Landed 19:13,2021-05-25
+53,53,19:15,OS355,Vienna (VIE),Austrian Airlines A319 (OE-LDB),Landed 19:19,2021-05-25
+54,54,19:30 SN3622,,Nice (NCE),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 19:25,2021-05-25
+55,55,19:55 3O113,,Tangier (TNG),Air Arabia Maroc 320,Unknown,2021-05-25
+56,56,20:30 3S395,,Cincinnati (CVG),AeroLogic B77L (D-AALC),Landed 20:25,2021-05-25
+57,57,20:40 FR2924,,Malaga (AGP),Ryanair B738 (EI-DLD),Landed 20:28,2021-05-25
+58,58,21:15 ET729,,Manchester (MAN),Ethiopian Airlines B788 (ET-AOQ),Landed 21:05,2021-05-25
+59,59,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 23:30,2021-05-25
+60,60,21:50 TB2952,,Tirana (TIA),TUI B737 (OO-JAO),Landed 21:41,2021-05-25
+61,61,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANZ),Landed 21:26,2021-05-25
+62,62,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZB),Landed 21:51,2021-05-25
+63,63,22:20,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AILN),Landed 22:08,2021-05-25
+64,64,23:20 SN3772,,Alicante (ALC),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 22:52,2021-05-25
+0,0,00:10 TB1752,,Gran Canaria (LPA),TUI B38M (OO-TMB),Landed 23:58,2021-05-26
+1,1,05:00 QY923,,Miami (MIA),DHL A332 (D-ALEJ),Landed 04:40,2021-05-26
+2,2,05:05 ET3712,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-APU),Diverted to DWC,2021-05-26
+3,3,08:05 SQ7364,,Sharjah (SHJ),Singapore Airlines Cargo B744 (9V-SFP),Landed 06:15,2021-05-26
+4,4,08:20 FR2918,,Barcelona (BCN),Ryanair B738 (EI-ENW),Landed 08:02,2021-05-26
+5,5,08:35,ET724,Vienna (VIE),Ethiopian Airlines B788 (ET-ATJ),Landed 08:24,2021-05-26
+6,6,08:40,OU456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Landed 08:32,2021-05-26
+7,7,09:05 0B123,,Bucharest (OTP),Blue Air 738,Unknown,2021-05-26
+8,8,09:10 FR7000,,Rome (CIA),Ryanair B738 (9H-QBY),Landed 09:16,2021-05-26
+9,9,09:10 DL3456,,New York (JFK),Delta Air Lines B763 (N188DN),Landed 08:30,2021-05-26
+10,10,09:15,VY8988,Barcelona (BCN),Vueling A20N (EC-MZT),Landed 08:59,2021-05-26
+11,11,09:25,OS351,Vienna (VIE),Austrian Airlines E195 (OE-LWJ),Landed 09:21,2021-05-26
+12,12,10:00,TK1937,Istanbul (IST),Turkish Airlines A333 (TC-JOJ),Landed 09:37,2021-05-26
+13,13,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-26
+14,14,10:25,KL1723,Amsterdam (AMS),KLM E75L (PH-EXT),Landed 10:15,2021-05-26
+15,15,10:30 ET3714,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVN),Landed 17:28,2021-05-26
+16,16,10:45,TP646,Lisbon (LIS),TAP Air Portugal A20N (CS-TVE),Landed 10:33,2021-05-26
+17,17,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-26
+18,18,11:10,AZ156,Rome (FCO),Alitalia A320 (EI-IKB),Landed 11:11,2021-05-26
+19,19,11:15,IB3206,Madrid (MAD),Iberia A20N (EC-MXU),Landed 10:54,2021-05-26
+20,20,11:30 TB1412,,Palma de Mallorca (PMI),TUI B737 (OO-JAR),Landed 11:12,2021-05-26
+21,21,11:50 TB1112,,Alicante (ALC),TUI B38M (OO-TMB),Landed 11:47,2021-05-26
+22,22,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JKV),Landed 11:49,2021-05-26
+23,23,12:25 TB1012,,Malaga (AGP),TUI B38M (OO-TMA),Landed 12:02,2021-05-26
+24,24,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACNT),Landed 12:35,2021-05-26
+25,25,13:20,EK183,Dubai (DXB),Emirates (Expo 2020 - Opportunity Livery) B77W (A6-EQO),Landed 13:14,2021-05-26
+26,26,13:20,VY1332,Alicante (ALC),Vueling A320 (EC-MVD),Landed 13:01,2021-05-26
+27,27,13:25 FR2926,,Lisbon (LIS),Ryanair B738 (EI-EVA),Landed 13:36,2021-05-26
+28,28,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILM),Landed 13:40,2021-05-26
+29,29,14:20 GQ800,,Athens (ATH),Sky Express 32N,Unknown,2021-05-26
+30,30,14:30 ET3955,,Lome (LFW),Ethiopian Airlines 77X,Unknown,2021-05-26
+31,31,14:30 NH237,,Tokyo (NRT),All Nippon Airways (Star Wars BB-8 Livery) B77W (JA789A),Landed 13:49,2021-05-26
+32,32,14:35 K4335,,Los Angeles (LAX),Kalitta Air B744 (N710CK),Landed 14:10,2021-05-26
+33,33,15:20 OZ587,,New York (JFK),Asiana Cargo B744 (HL7420),Landed 16:31,2021-05-26
+34,34,15:20 OZ588,,New York (JFK),Asiana Airlines 74F,Unknown,2021-05-26
+35,35,15:45 QR8814,,Doha (DOH),Qatar Airways B77W (A7-BAO),Landed 15:35,2021-05-26
+36,36,15:50 TB1752,,Tenerife (TFS),TUI B738 (OO-TNB),Landed 15:47,2021-05-26
+37,37,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-26
+38,38,17:20,SK1589,Stockholm (ARN),SAS A20N (SE-ROO),Landed 17:14,2021-05-26
+39,39,17:30 QR8247,,Doha (DOH),Qatar Cargo B77L (A7-BFK),Landed 17:21,2021-05-26
+40,40,17:30,SN3704,Barcelona (BCN),Brussels Airlines A319 (OO-SSW),Landed 17:33,2021-05-26
+41,41,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LKM),Landed 17:24,2021-05-26
+42,42,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VTEA),Landed 17:31,2021-05-26
+43,43,17:50,BT603,Riga (RIX),Air Baltic BCS3 (YL-AAV),Landed 17:40,2021-05-26
+44,44,18:25 LY333,,Tel Aviv (TLV),El Al Israel Airlines B739 (4X-EHC),Landed 18:24,2021-05-26
+45,45,18:30,A3622,Athens (ATH),Aegean Airlines A320 (SX-DVK),Unknown,2021-05-26
+46,46,18:40 LO233,,Warsaw (WAW),LOT (Grzeski Livery) E195 (SP-LNB),Landed 18:27,2021-05-26
+47,47,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MJP),Landed 19:01,2021-05-26
+48,48,18:55,RO373,Bucharest (OTP),Tarom (SkyTeam Livery) B737 (YR-BGF),Landed 18:48,2021-05-26
+49,49,19:15,OS355,Vienna (VIE),Austrian Airlines A320 (OE-LXB),Unknown,2021-05-26
+50,50,19:25,AZ154,Milan (LIN),Alitalia E75S (EI-RDN),Landed 19:16,2021-05-26
+51,51,19:40 FR2934,,Alicante (ALC),Ryanair B738 (EI-EVA),Landed 19:34,2021-05-26
+52,52,20:10 AT352,,Zurich (ZRH),Royal Air Maroc Cargo B763 (CN-ROW),Landed 19:36,2021-05-26
+53,53,20:30 3S395,,Cincinnati (CVG),AeroLogic B77L (D-AALE),Landed 20:17,2021-05-26
+54,54,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:44,2021-05-26
+55,55,21:30 TB3314,,Eskisehir (AOE),TUI B737 (OO-JAR),Landed 21:11,2021-05-26
+56,56,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZT),Landed 21:45,2021-05-26
+57,57,22:20,LH1024,Frankfurt (FRA),Lufthansa A20N (D-AINP),Landed 22:17,2021-05-26
+58,58,22:20 SN2209,,Rhodes (RHO),Brussels Airlines 320,Unknown,2021-05-26
+59,59,22:35 TB2964,,Pristina (PRN),TUI B737 (OO-JAO),Landed 22:15,2021-05-26
+60,60,22:40 SN3785,,Gran Canaria (LPA),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 22:11,2021-05-26
+61,61,22:55 TB9112,,Santo Domingo (SDQ),TUI B763 (OO-JNL),Landed 00:07,2021-05-26
+62,62,23:35,TP642,Lisbon (LIS),TAP Express E195 (CS-TTY),Landed 23:30,2021-05-26
+0,0,00:10 TB1666,,Gran Canaria (LPA),TUI B38M (OO-TMY),Landed 00:12,2021-05-27
+1,1,00:20 TB1712,,Fuerteventura (FUE),TUI B38M (OO-TMA),Landed 00:37,2021-05-27
+2,2,04:00 M68321,,Miami (MIA),Amerijet International B763 (N347CM),Landed 06:10,2021-05-27
+3,3,04:14 TB974F,,Oranjestad (AUA),TUI B788 (OO-JDL),Landed 03:13,2021-05-27
+4,4,05:00 QY923,,Miami (MIA),DHL A332 (D-ALEJ),Landed 04:49,2021-05-27
+5,5,06:20 ET728,,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AXS),Landed 06:07,2021-05-27
+6,6,06:40 SN358,,Kinshasa (FIH),Brussels Airlines A333 (OO-SFX),Landed 06:22,2021-05-27
+7,7,06:45 SN204,,Dakar (DSS),Brussels Airlines A333 (OO-SFE),Landed 06:44,2021-05-27
+8,8,07:00 ET3712,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-27
+9,9,07:15,UA950,Washington (IAD),United Airlines B78X (N14001),Landed 07:37,2021-05-27
+10,10,07:20,SN460,Entebbe (EBB),Brussels Airlines A333 (OO-SFG),Canceled,2021-05-27
+11,11,07:35,SN372,Douala (DLA),Brussels Airlines A333 (OO-SFB),Landed 07:47,2021-05-27
+12,12,07:45,UA999,New York (EWR),United Airlines B789 (N19986),Landed 08:22,2021-05-27
+13,13,07:55,SN240,Freetown (FNA),Brussels Airlines A333 (OO-SFD),Landed 07:16,2021-05-27
+14,14,08:00 ET3714,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-05-27
+15,15,08:40,LX786,Zurich (ZRH),Swiss BCS1 (HB-JBC),Landed 08:35,2021-05-27
+16,16,09:00,UA972,Chicago (ORD),United Airlines B789 (N35953),Landed 08:34,2021-05-27
+17,17,09:30,LO235,Warsaw (WAW),LOT E195 (SP-LND),Landed 09:16,2021-05-27
+18,18,09:30 ET3702,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVT),Landed 08:09,2021-05-27
+19,19,09:45,UX1171,Madrid (MAD),Air Europa Express E195 (EC-LKX),Landed 09:35,2021-05-27
+20,20,09:50 TK6509,,Istanbul (ISL),Turkish Cargo A332 (TC-JOO),Landed 09:13,2021-05-27
+21,21,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-27
+22,22,10:20 VS505,,London (LHR),Virgin Atlantic A35K (G-VDOT),Landed 09:54,2021-05-27
+23,23,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZN),Landed 10:25,2021-05-27
+24,24,10:25,A3620,Athens (ATH),Aegean Airlines A320 (SX-DNE),Unknown,2021-05-27
+25,25,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-27
+26,26,11:05,IB3206,Madrid (MAD),Iberia A320 (EC-MDK),Landed 10:52,2021-05-27
+27,27,11:09 ASJ451,,Paris (LBG),Astonjet C510 (F-HASJ),Landed 11:13,2021-05-27
+28,28,11:15,AC832,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 10:50,2021-05-27
+29,29,11:40 SN3772,,Alicante (ALC),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 11:34,2021-05-27
+30,30,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-SBR),Landed 11:40,2021-05-27
+31,31,12:00 TB1332,,Ibiza (IBZ),TUI B738 (OO-JAY),Landed 11:51,2021-05-27
+32,32,12:00 VS515,,London (LHR),Virgin Atlantic 789,Canceled,2021-05-27
+33,33,12:25,SN3176,Rome (FCO),Brussels Airlines A319 (OO-SSW),Landed 12:20,2021-05-27
+34,34,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNM),Landed 12:39,2021-05-27
+35,35,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSX),Landed 12:28,2021-05-27
+36,36,12:35 TB1028,,Malaga (AGP),TUI B38M (OO-TMA),Canceled,2021-05-27
+37,37,13:00 FR2916,,Palma de Mallorca (PMI),Ryanair B738 (EI-DAO),Landed 13:03,2021-05-27
+38,38,13:00 TB1374,,Palma de Mallorca (PMI),TUI B38M (OO-TMY),Landed 12:51,2021-05-27
+39,39,13:00 TB1942,,Faro (FAO),TUI E190 (OO-JVA),Landed 12:47,2021-05-27
+40,40,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:09,2021-05-27
+41,41,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSB),Landed 12:58,2021-05-27
+42,42,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQJ),Landed 13:06,2021-05-27
+43,43,13:25,EY57,Abu Dhabi (AUH),Etihad (ADNOC - Choose Japan Livery) B789 (A6-BLK),Landed 13:01,2021-05-27
+44,44,13:25 SN2174,,Manchester (MAN),Brussels Airlines A320 (OO-TCV),Landed 13:04,2021-05-27
+45,45,13:25,SN2258,Copenhagen (CPH),Brussels Airlines A319 (OO-SSV),Landed 13:15,2021-05-27
+46,46,13:25,SN3598,Marseille (MRS),Brussels Airlines A319 (OO-SSF),Landed 13:13,2021-05-27
+47,47,13:35,LH1012,Frankfurt (FRA),Lufthansa A320 (D-AIZP),Landed 13:29,2021-05-27
+48,48,13:35,SN3202,Venice (VCE),Brussels Airlines A319 (OO-SSA),Landed 13:12,2021-05-27
+49,49,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSO),Landed 13:22,2021-05-27
+50,50,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSN),Landed 13:28,2021-05-27
+51,51,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNJ),Landed 13:25,2021-05-27
+52,52,13:40 QR193,,Doha (DOH),Qatar Airways A359 (A7-ALS),Landed 13:18,2021-05-27
+53,53,14:30 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA786A),Landed 13:49,2021-05-27
+54,54,14:45,MS725,Cairo (CAI),EgyptAir A20N (SU-GFM),Landed 14:40,2021-05-27
+55,55,15:10 TB2402,,Kos (KGS),TUI B737 (OO-JAR),Landed 14:46,2021-05-27
+56,56,15:15,TP648,Lisbon (LIS),TAP Air Portugal A20N (CS-TVA),Landed 14:56,2021-05-27
+57,57,15:20 TB2182,,Santorini (JTR),TUI B737 (OO-JAO),Diverted to BEG,2021-05-27
+58,58,15:45 QR8820,,Doha (DOH),Qatar Airways B789 (A7-BHG),Landed 15:17,2021-05-27
+59,59,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-27
+60,60,16:00 TB1752,,Tenerife (TFS),TUI B738 (OO-TNB),Diverted to AGP,2021-05-27
+61,61,16:10,SN3816,Lisbon (LIS),Brussels Airlines A320 (OO-TCH),Landed 16:21,2021-05-27
+62,62,17:10 SN3782,,Tenerife (TFS),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 16:51,2021-05-27
+63,63,17:28 TB1752,,Malaga (AGP),TUI B738 (OO-TNB),Landed 17:34,2021-05-27
+64,64,17:30,AZ160,Rome (FCO),Alitalia A320 (EI-DTK),Landed 17:04,2021-05-27
+65,65,18:15,AY1545,Helsinki (HEL),Finnair E190 (OH-LKG),Landed 17:54,2021-05-27
+66,66,18:15 SK1593,,Copenhagen (CPH),SAS A20N (SE-ROX),Landed 18:05,2021-05-27
+67,67,18:20 TK1939,,Istanbul (IST),Turkish Airlines A321 (TC-JSA),Landed 18:08,2021-05-27
+68,68,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MVC),Landed 18:48,2021-05-27
+69,69,19:00,KM420,Luqa (MLA),Air Malta A320 (9H-AHS),Landed 19:03,2021-05-27
+70,70,19:00 SQ7987,,Los Angeles (LAX),Singapore Airlines B744,Unknown,2021-05-27
+71,71,19:10 K4977,,Cincinnati (CVG),Kalitta Air B744 (N710CK),Landed 19:13,2021-05-27
+72,72,19:15,OS355,Vienna (VIE),Austrian Airlines A319 (OE-LDA),Landed 19:10,2021-05-27
+73,73,19:20 TB1112,,Alicante (ALC),TUI B738 (OO-SRO),Landed 19:09,2021-05-27
+74,74,19:25,AZ154,Milan (LIN),Alitalia E75S (EI-RDN),Landed 19:34,2021-05-27
+75,75,19:25,VY2150,Malaga (AGP),Vueling A20N (EC-NFJ),Landed 19:19,2021-05-27
+76,76,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSW),Landed 19:46,2021-05-27
+77,77,20:00,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Landed 19:51,2021-05-27
+78,78,20:00 QR8144,,Chicago (ORD),Qatar Cargo B77L (A7-BFV),Landed 19:17,2021-05-27
+79,79,20:25,JU304,Belgrade (BEG),AirSERBIA A319 (YU-APD),Landed 20:08,2021-05-27
+80,80,20:30 3S395,,Cincinnati (CVG),AeroLogic B77L (D-AALK),Landed 20:11,2021-05-27
+81,81,20:35 FR2924,,Malaga (AGP),Ryanair B738 (EI-EVN),Landed 20:22,2021-05-27
+82,82,20:35,VY8990,Barcelona (BCN),Vueling A321 (EC-MRF),Landed 20:17,2021-05-27
+83,83,21:15 ET729,,Manchester (MAN),Ethiopian Airlines B789 (ET-AXS),Landed 21:01,2021-05-27
+84,84,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:18,2021-05-27
+85,85,21:20 SN9904,,Bujumbura (BJM),Brussels Airlines A333 (OO-SFG),Landed 22:17,2021-05-27
+86,86,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZS),Unknown,2021-05-27
+87,87,22:40 TB2952,,Tirana (TIA),TUI B738 (OO-JAY),Diverted to BEG,2021-05-27
+88,88,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-SNM),Landed 23:16,2021-05-27
+0,0,00:23 TB2952,,Belgrade (BEG),TUI B738 (OO-JAY),Landed 00:02,2021-05-28
+1,1,02:01 ET3518,,Miami (MIA),Ethiopian Cargo B77L (ET-APU),Landed 07:37,2021-05-28
+2,2,05:00 QY923,,Miami (MIA),DHL A332 (D-ALEJ),Landed 04:24,2021-05-28
+3,3,06:45 SN221,,Dakar (DSS),Brussels Airlines A333 (OO-SFE),Landed 06:57,2021-05-28
+4,4,06:45 HU491,,Beijing (PEK),Hainan Airlines A332 (B-5979),Landed 06:50,2021-05-28
+5,5,06:50 XQ932,,Izmir (ADB),SunExpress B738 (TC-SOD),Landed 06:40,2021-05-28
+6,6,07:15 UA950,,Washington (IAD),United Airlines B78X (N12003),Landed 07:04,2021-05-28
+7,7,07:20 SN1460,,Entebbe (EBB),Brussels Airlines 333,Canceled,2021-05-28
+8,8,07:25,SN283,Lome (LFW),Brussels Airlines A333 (OO-SFB),Landed 07:11,2021-05-28
+9,9,07:45,SN305,Abidjan (ABJ),Brussels Airlines A333 (OO-SFH),Landed 07:35,2021-05-28
+10,10,07:45,UA999,New York (EWR),United Airlines B789 (N29977),Diverted to EWR,2021-05-28
+11,11,07:55,SN379,Yaounde (NSI),Brussels Airlines A333 (OO-SFD),Landed 07:49,2021-05-28
+12,12,08:20 FR2918,,Barcelona (BCN),Ryanair B738 (EI-ENF),Landed 08:06,2021-05-28
+13,13,08:35,ET724,Vienna (VIE),Ethiopian Airlines B789 (ET-AYC),Landed 08:50,2021-05-28
+14,14,09:15,AY1541,Helsinki (HEL),Finnair E190 (OH-LKH),Landed 08:46,2021-05-28
+15,15,09:15 ET3749,,Shanghai (PVG),Ethiopian Airlines 77X,Unknown,2021-05-28
+16,16,09:20 ET3640,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVT),Landed 14:14,2021-05-28
+17,17,09:25,OS351,Vienna (VIE),Austrian Airlines A320 (OE-LBX),Landed 09:21,2021-05-28
+18,18,09:30,LO235,Warsaw (WAW),LOT (Sliwka Naleczowska Livery) E195 (SP-LNC),Landed 09:16,2021-05-28
+19,19,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-28
+20,20,10:00,TK1937,Istanbul (IST),Turkish Airlines A333 (TC-JNS),Landed 09:37,2021-05-28
+21,21,10:25,A3620,Athens (ATH),Aegean Airlines A320 (SX-DNC),Landed 10:21,2021-05-28
+22,22,10:25,KL1723,Amsterdam (AMS),KLM E75L (PH-EXX),Landed 10:10,2021-05-28
+23,23,10:45,TP646,Lisbon (LIS),TAP Air Portugal A20N (CS-TVB),Diverted to LIS,2021-05-28
+24,24,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-05-28
+25,25,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-MXY),Landed 10:38,2021-05-28
+26,26,11:10,AZ156,Rome (FCO),Alitalia A319 (EI-IMX),Landed 11:28,2021-05-28
+27,27,11:40 AH2200,,Algiers (ALG),Air Algerie 73K,Unknown,2021-05-28
+28,28,11:50 TB1112,,Alicante (ALC),TUI B738 (OO-JAU),Landed 12:12,2021-05-28
+29,29,11:50 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMB),Landed 11:35,2021-05-28
+30,30,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFZ),Landed 11:43,2021-05-28
+31,31,11:55 TB3752,,Suceava (SCV),TUI E190 (OO-JVA),Diverted to BEG,2021-05-28
+32,32,12:15 SU2168,,Moscow (SVO),Aeroflot B738 (VP-BNP),Landed 12:21,2021-05-28
+33,33,12:25,SN3176,Rome (FCO),Brussels Airlines A320 (OO-SNJ),Landed 12:17,2021-05-28
+34,34,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNL),Landed 12:32,2021-05-28
+35,35,12:30 DL3456,,New York (JFK),Delta Air Lines B763 (N172DZ),Landed 11:46,2021-05-28
+36,36,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSA),Landed 12:35,2021-05-28
+37,37,12:35 K4335,,Los Angeles (LAX),Kalitta Air B744 (N742CK),Landed 12:11,2021-05-28
+38,38,12:40 FR2934,,Alicante (ALC),Ryanair B738 (EI-DLD),Landed 12:37,2021-05-28
+39,39,12:40 TB1012,,Malaga (AGP),TUI B737 (OO-JAR),Landed 12:23,2021-05-28
+40,40,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACKH),Landed 15:29,2021-05-28
+41,41,12:55 SQ7951,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFK),Landed 12:27,2021-05-28
+42,42,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSV),Landed 12:44,2021-05-28
+43,43,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSF),Landed 13:17,2021-05-28
+44,44,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 12:50,2021-05-28
+45,45,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSB),Landed 13:07,2021-05-28
+46,46,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQJ),Landed 13:10,2021-05-28
+47,47,13:25,EY57,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNC),Landed 13:34,2021-05-28
+48,48,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSR),Landed 12:57,2021-05-28
+49,49,13:30 SN3124,,Bologna (BLQ),Brussels Airlines A319 (OO-SSX),Landed 13:38,2021-05-28
+50,50,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILK),Landed 13:41,2021-05-28
+51,51,13:35,SN3202,Venice (VCE),Brussels Airlines A319 (OO-SSN),Landed 13:31,2021-05-28
+52,52,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSO),Landed 13:36,2021-05-28
+53,53,13:40 QR8846,,Doha (DOH),Qatar Airways A359 (A7-ALM),Landed 13:30,2021-05-28
+54,54,13:48 TB3752,,Belgrade (BEG),TUI E190 (OO-JVA),Landed 13:48,2021-05-28
+55,55,13:55 SN3256,,Heraklion (HER),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 13:44,2021-05-28
+56,56,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-WEB),Landed 14:36,2021-05-28
+57,57,14:50 0B2923,,Bacau (BCM),Blue Air B738 (YR-BML),Landed 20:41,2021-05-28
+58,58,14:55 SN3752,,Valencia (VLC),Brussels Airlines A320 (OO-SNM),Landed 14:34,2021-05-28
+59,59,15:13 RU9506,,Cincinnati (CVG),AirBridgeCargo B748 (VP-BBY),Landed 15:48,2021-05-28
+60,60,15:35 TB2182,,Kos (KGS),TUI B738 (OO-TNB),Landed 15:39,2021-05-28
+61,61,15:40 TB2342,,Rhodes (RHO),TUI B738 (OO-JBG),Landed 15:24,2021-05-28
+62,62,15:45 QR8814,,Doha (DOH),Qatar Airways 789,Unknown,2021-05-28
+63,63,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-28
+64,64,16:00 QR8245,,Doha (DOH),Qatar Airways 77X,Unknown,2021-05-28
+65,65,16:20 XQ756,,Eskisehir (AOE),SunExpress B738 (TC-SOD),Landed 15:59,2021-05-28
+66,66,16:35,SN3812,Porto (OPO),Brussels Airlines A320 (OO-SNN),Landed 16:15,2021-05-28
+67,67,16:55 SK1593,,Copenhagen (CPH),SAS A20N (SE-ROS),Landed 16:47,2021-05-28
+68,68,17:20,SK1589,Stockholm (ARN),SAS A20N (SE-DYM),Landed 17:34,2021-05-28
+69,69,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LLR),Landed 17:23,2021-05-28
+70,70,17:40 VS505,,London (LHR),Virgin Atlantic B789 (G-VFAN),Landed 17:29,2021-05-28
+71,71,17:45 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA786A),Landed 17:05,2021-05-28
+72,72,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSP),Landed 18:37,2021-05-28
+73,73,18:35,SN2720,Geneva (GVA),Brussels Airlines A319 (OO-SSB),Landed 18:15,2021-05-28
+74,74,18:40 LO233,,Warsaw (WAW),LOT E195 (SP-LNE),Landed 18:32,2021-05-28
+75,75,18:55 IB8694,,Madrid (MAD),Iberia Regional CRJX (EC-MUG),Landed 18:36,2021-05-28
+76,76,18:55,RO373,Bucharest (OTP),Tarom A318 (YR-ASB),Landed 12:50,2021-05-28
+77,77,19:00 K4977,,Cincinnati (CVG),Kalitta Air B744 (N716CK),Landed 18:27,2021-05-28
+78,78,19:05,LX788,Zurich (ZRH),Swiss A321 (HB-IOC),Landed 18:55,2021-05-28
+79,79,19:25,AZ154,Milan (LIN),Alitalia A319 (EI-IMJ),Landed 19:28,2021-05-28
+80,80,19:30 SN3622,,Nice (NCE),Brussels Airlines A320 (OO-SNJ),Landed 19:22,2021-05-28
+81,81,19:45,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQA),Landed 19:42,2021-05-28
+82,82,19:45 SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSV),Landed 20:09,2021-05-28
+83,83,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSA),Landed 19:49,2021-05-28
+84,84,19:55,SN2906,Vienna (VIE),Brussels Airlines A319 (OO-SSN),Landed 19:59,2021-05-28
+85,85,20:35,VY8990,Barcelona (BCN),Vueling A20N (EC-NAX),Landed 20:19,2021-05-28
+86,86,21:00 0B1123,,Bucharest (OTP),Blue Air B738 (YR-BMQ),Landed 20:45,2021-05-28
+87,87,21:10 FR2932,,Lisbon (LIS),Ryanair B738 (EI-EKO),Landed 21:10,2021-05-28
+88,88,21:25 TB2172,,Thessaloniki (SKG),TUI B738 (OO-SRO),Landed 21:40,2021-05-28
+89,89,21:35 FR2984,,Rome (CIA),Ryanair B738 (EI-EVA),Landed 21:29,2021-05-28
+90,90,22:00 FR2929,,Porto (OPO),Ryanair B738 (EI-EFX),Landed 21:38,2021-05-28
+91,91,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANZ),Landed 21:20,2021-05-28
+92,92,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZE),Landed 21:57,2021-05-28
+93,93,22:20,LH1024,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A319 (D-AIBJ),Landed 22:20,2021-05-28
+94,94,22:45,LH2294,Munich (MUC),Lufthansa CRJ9 (D-ACNQ),Landed 22:41,2021-05-28
+95,95,22:50 TB1912,,Funchal (FNC),TUI B38M (OO-TMY),Landed 22:16,2021-05-28
+96,96,23:00 TB2162,,Zakynthos (ZTH),TUI B737 (OO-JAR),Landed 22:41,2021-05-28
+97,97,23:25 SN3738,,Malaga (AGP),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 23:16,2021-05-28
+98,98,23:35,TP642,Lisbon (LIS),TAP Express E195 (CS-TTW),Landed 23:26,2021-05-28
+0,0,04:00 M68621,,Miami (MIA),Amerijet International B762,Canceled,2021-05-30
+1,1,06:00 QY955,,Cincinnati (CVG),DHL A332 (D-ALMA),Landed 05:34,2021-05-30
+2,2,06:20,ET728,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AXS),Landed 06:01,2021-05-30
+3,3,06:30 ET3915,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-05-30
+4,4,06:45,SN221,Dakar (DSS),Brussels Airlines A333 (OO-SFF),Landed 06:47,2021-05-30
+5,5,07:05 QY923,,Miami (MIA),DHL A332 (D-ALEJ),Landed 06:34,2021-05-30
+6,6,07:15,UA950,Washington (IAD),United Airlines B78X (N16008),Landed 06:56,2021-05-30
+7,7,07:25,SN283,Lome (LFW),Brussels Airlines A333 (OO-SFE),Landed 07:35,2021-05-30
+8,8,07:30 QR8441,,London (STN),Qatar Cargo B77L (A7-BFN),Landed 07:23,2021-05-30
+9,9,07:40 SN231,,Abidjan (ABJ),Brussels Airlines A333 (OO-SFD),Landed 08:05,2021-05-30
+10,10,07:45 UA999,,New York (EWR),United Airlines B789 (N29984),Landed 07:32,2021-05-30
+11,11,07:55 SN245,,Monrovia (ROB),Brussels Airlines A333 (OO-SFB),Landed 08:23,2021-05-30
+12,12,07:55 SN379,,Yaounde (NSI),Brussels Airlines A333 (OO-SFX),Landed 08:20,2021-05-30
+13,13,07:55 TB945F,,Sint Maarten (SXM),TUI B788 (OO-LOE),Landed 09:12,2021-05-30
+14,14,09:10 FR2918,,Barcelona (BCN),Ryanair B738 (EI-DCN),Landed 08:55,2021-05-30
+15,15,09:10 DL3456,,New York (JFK),Delta Air Lines B763 (N182DN),Landed 08:41,2021-05-30
+16,16,09:30 ET3704,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVQ),Landed 08:57,2021-05-30
+17,17,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-30
+18,18,10:05 BA3406,,London (LHR),British Airways AB6,Unknown,2021-05-30
+19,19,10:20 TK6205,,London (STN),Turkish Cargo A332 (TC-JOO),Diverted to ISL,2021-05-30
+20,20,10:25,KL1723,Amsterdam (AMS),KLM E75L (PH-EXJ),Landed 10:18,2021-05-30
+21,21,10:30,TK1937,Istanbul (IST),Turkish Airlines A21N (TC-LST),Landed 10:23,2021-05-30
+22,22,10:45,TP646,Lisbon (LIS),TAP Express E190 (CS-TPR),Landed 10:38,2021-05-30
+23,23,10:50 AT353,,Casablanca (CMN),Royal Air Maroc Cargo B763 (CN-ROW),Diverted to CMN,2021-05-30
+24,24,11:05,IB3206,Madrid (MAD),Iberia A20N (EC-NER),Landed 10:44,2021-05-30
+25,25,11:10,AZ156,Rome (FCO),Alitalia A319 (EI-IMX),Landed 10:58,2021-05-30
+26,26,11:20 VS593,,London (LHR),Virgin Atlantic A35K (G-VPRD),Landed 10:49,2021-05-30
+27,27,11:35 SN3778,,Ibiza (IBZ),Brussels Airlines A320 (OO-SNI),Landed 11:25,2021-05-30
+28,28,11:40 SN3772,,Alicante (ALC),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 11:22,2021-05-30
+29,29,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFN),Landed 11:30,2021-05-30
+30,30,12:00 TB1112,,Alicante (ALC),TUI B38M (OO-TMB),Landed 11:44,2021-05-30
+31,31,12:05 TB2952,,Tirana (TIA),TUIfly Belgium 73W,Unknown,2021-05-30
+32,32,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-TCV),Landed 12:43,2021-05-30
+33,33,12:25 SN9902,,Paris (CDG),Brussels Airlines A319 (OO-SSX),Landed 11:55,2021-05-30
+34,34,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSA),Landed 12:22,2021-05-30
+35,35,12:35 TB1014,,Malaga (AGP),TUI B738 (OO-SRO),Landed 12:16,2021-05-30
+36,36,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACNT),Landed 12:38,2021-05-30
+37,37,12:45 TB1312,,Faro (FAO),TUI B38M (OO-TMA),Landed 12:47,2021-05-30
+38,38,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSF),Landed 12:46,2021-05-30
+39,39,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:18,2021-05-30
+40,40,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSB),Landed 13:14,2021-05-30
+41,41,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQL),Landed 13:22,2021-05-30
+42,42,13:25,SN2258,Copenhagen (CPH),Brussels Airlines A319 (OO-SSN),Landed 13:29,2021-05-30
+43,43,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSV),Landed 13:00,2021-05-30
+44,44,13:25,EY57,Abu Dhabi (AUH),Etihad (ADNOC- Choose Saudi Arabia Livery) B789 (A6-BLN),Landed 13:25,2021-05-30
+45,45,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILD),Landed 13:41,2021-05-30
+46,46,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSO),Landed 13:27,2021-05-30
+47,47,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNJ),Landed 13:32,2021-05-30
+48,48,13:40,QR193,Doha (DOH),Qatar Airways A359 (A7-ALF),Landed 13:53,2021-05-30
+49,49,14:25 TB2192,,Tirana (TIA),TUI B738 (OO-TNB),Landed 14:11,2021-05-30
+50,50,14:30 NH237,,Tokyo (NRT),All Nippon Airways B789 (JA876A),Landed 13:33,2021-05-30
+51,51,14:40,VY8980,Barcelona (BCN),Vueling A321 (EC-MRF),Landed 14:19,2021-05-30
+52,52,15:15,SN3816,Lisbon (LIS),Brussels Airlines A320 (OO-SNM),Landed 15:05,2021-05-30
+53,53,15:20 TB2182,,Santorini (JTR),TUI B38M (OO-TMY),Landed 14:58,2021-05-30
+54,54,15:40 TB2302,,Mykonos (JMK),TUI B737 (OO-JAR),Landed 15:31,2021-05-30
+55,55,15:45 QR8820,,Doha (DOH),Qatar Airways B77W (A7-BEK),Landed 15:13,2021-05-30
+56,56,15:50 AT352,,Casablanca (CMN),Royal Air Maroc Cargo B763 (CN-ROW),Landed 15:19,2021-05-30
+57,57,15:55 K4335,,Los Angeles (LAX),DHL B744 (N743CK),Landed 19:17,2021-05-30
+58,58,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-30
+59,59,16:55,SK1593,Copenhagen (CPH),SAS A20N (SE-ROS),Landed 16:47,2021-05-30
+60,60,17:05 SQ7979,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFM),Landed 14:16,2021-05-30
+61,61,17:10 SN3784,,Gran Canaria (LPA),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 16:32,2021-05-30
+62,62,17:10 SN3782,,Tenerife (TFS),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 16:35,2021-05-30
+63,63,17:25 SU2628,,Moscow (SVO),Aeroflot B738 (VP-BCG),Landed 16:53,2021-05-30
+64,64,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LIN),Landed 17:27,2021-05-30
+65,65,17:40,KL1725,Amsterdam (AMS),KLM (SkyTeam Livery) E190 (PH-EZX),Landed 17:36,2021-05-30
+66,66,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VDOT),Landed 17:14,2021-05-30
+67,67,17:50,BT603,Riga (RIX),Air Baltic BCS3 (YL-CSD),Landed 17:32,2021-05-30
+68,68,17:50 TK1939,,Istanbul (IST),Turkish Airlines A333 (TC-JOI),Landed 17:35,2021-05-30
+69,69,18:15 FR2916,,Palma de Mallorca (PMI),Ryanair B738 (EI-EVN),Landed 18:23,2021-05-30
+70,70,18:30,A3622,Athens (ATH),Aegean Airlines A20N (SX-NEC),Unknown,2021-05-30
+71,71,18:35,SN2720,Geneva (GVA),Brussels Airlines A319 (OO-SSN),Landed 18:17,2021-05-30
+72,72,18:40 LO233,,Warsaw (WAW),LOT E195 (SP-LNE),Landed 18:36,2021-05-30
+73,73,18:55 GQ800,,Athens (ATH),Sky Express A20N (SX-WEB),Landed 18:46,2021-05-30
+74,74,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MJO),Landed 18:38,2021-05-30
+75,75,19:00,KM420,Luqa (MLA),Air Malta (We're Back! Sticker) A20N (9H-NEC),Landed 18:51,2021-05-30
+76,76,19:00 3S395,,Cincinnati (CVG),DHL B77L (D-AALL),Landed 18:29,2021-05-30
+77,77,19:05,LX788,Zurich (ZRH),Helvetic Airways E290 (HB-AZF),Landed 19:11,2021-05-30
+78,78,19:15,OS355,Vienna (VIE),Austrian Airlines A320 (OE-LBJ),Landed 19:25,2021-05-30
+79,79,19:20 SN3622,,Nice (NCE),Brussels Airlines A319 (OO-SSA),Landed 19:17,2021-05-30
+80,80,19:25,SN3810,Porto (OPO),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 19:44,2021-05-30
+81,81,19:25,AZ154,Milan (LIN),Alitalia E75S (EI-RDB),Landed 19:12,2021-05-30
+82,82,19:45 SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSF),Landed 19:21,2021-05-30
+83,83,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSX),Landed 19:34,2021-05-30
+84,84,19:55,SN2906,Vienna (VIE),Brussels Airlines A319 (OO-SSO),Landed 19:47,2021-05-30
+85,85,19:55 RU9707,,Cincinnati (CVG),AirBridgeCargo B748 (VQ-BFU),Landed 20:37,2021-05-30
+86,86,20:00,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Landed 19:54,2021-05-30
+87,87,20:00,SN3182,Rome (FCO),Brussels Airlines A319 (OO-SSB),Landed 19:51,2021-05-30
+88,88,20:05,SN3206,Venice (VCE),Brussels Airlines A320 (OO-TCV),Landed 20:08,2021-05-30
+89,89,20:10,VY1332,Alicante (ALC),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 19:58,2021-05-30
+90,90,20:35 FR2279,,Porto (OPO),Ryanair B738 (EI-ENE),Landed 20:13,2021-05-30
+91,91,20:35 FR2926,,Lisbon (LIS),Ryanair B738 (EI-EVL),Landed 20:19,2021-05-30
+92,92,21:15 ET729,,Manchester (MAN),Ethiopian Airlines B789 (ET-AXS),Landed 21:00,2021-05-30
+93,93,21:35 FR2934,,Alicante (ALC),Ryanair B738 (EI-EVA),Landed 21:20,2021-05-30
+94,94,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANY),Landed 21:14,2021-05-30
+95,95,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZV),Landed 22:03,2021-05-30
+96,96,22:05,SN3246,Athens (ATH),Brussels Airlines A320 (OO-SNI),Landed 21:39,2021-05-30
+97,97,22:20,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AILE),Landed 22:18,2021-05-30
+98,98,22:30 TB1372,,Palma de Mallorca (PMI),TUI B38M (OO-TMA),Landed 22:16,2021-05-30
+99,99,22:45,LH2294,Munich (MUC),Lufthansa CRJ9 (D-ACNT),Landed 22:31,2021-05-30
+100,100,22:45 TB1332,,Ibiza (IBZ),TUI B738 (OO-SRO),Landed 22:26,2021-05-30
+101,101,23:25,SN3706,Barcelona (BCN),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 23:16,2021-05-30
+102,102,23:25 SN3766,,Palma de Mallorca (PMI),Brussels Airlines A320 (OO-SNM),Landed 22:59,2021-05-30
+103,103,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-SNJ),Landed 23:12,2021-05-30
+104,104,23:35,TP642,Lisbon (LIS),TAP Air Portugal A20N (CS-TVE),Landed 23:18,2021-05-30
+0,0,00:35 TB2342,,Rhodes (RHO),TUI B738 (OO-JAU),Landed 00:15,2021-05-31
+1,1,01:45 TB3314,,Eskisehir (AOE),TUI B737 (OO-JAR),Landed 01:31,2021-05-31
+2,2,02:25 TB1756,,Tenerife (TFS),TUI B38M (OO-TMB),Landed 02:08,2021-05-31
+3,3,05:25 QY977,,Cincinnati (CVG),DHL A332 (D-ALEJ),Landed 05:23,2021-05-31
+4,4,06:40 SN358,,Kinshasa (FIH),Brussels Airlines A333 (OO-SFH),Landed 06:28,2021-05-31
+5,5,06:45 HU491,,Beijing (PEK),Hainan Airlines A332 (B-6116),Landed 06:06,2021-05-31
+6,6,07:00 QY971,,New York (JFK),DHL A332 (D-ALMD),Landed 06:58,2021-05-31
+7,7,07:15 UA950,,Washington (IAD),United Airlines B78X (N16008),Landed 07:48,2021-05-31
+8,8,07:20 SN474,,Entebbe (EBB),Brussels Airlines A333 (OO-SFC),Landed 06:51,2021-05-31
+9,9,07:25 SN319,,Accra (ACC),Brussels Airlines A333 (OO-SFE),Landed 07:44,2021-05-31
+10,10,07:45,UA999,New York (EWR),United Airlines B789 (N29984),Landed 08:14,2021-05-31
+11,11,07:55,SN241,Monrovia (ROB),Brussels Airlines A333 (OO-SFX),Landed 07:53,2021-05-31
+12,12,07:55,SN383,Yaounde (NSI),Brussels Airlines A333 (OO-SFB),Landed 09:11,2021-05-31
+13,13,08:35,ET724,Vienna (VIE),Ethiopian Airlines B789 (ET-AYC),Landed 07:54,2021-05-31
+14,14,08:40,OU456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQC),Landed 08:36,2021-05-31
+15,15,09:05 0B123,,Bucharest (OTP),Blue Air B735 (YR-BAG),Landed 08:41,2021-05-31
+16,16,09:10 FR7000,,Rome (CIA),Ryanair B738 (9H-QAN),Landed 08:54,2021-05-31
+17,17,09:15,AY1541,Helsinki (HEL),Finnair E190 (OH-LKE),Landed 09:02,2021-05-31
+18,18,09:15,VY8988,Barcelona (BCN),Vueling A321 (EC-MPV),Landed 09:02,2021-05-31
+19,19,09:20,SK589,Stockholm (ARN),SAS A20N (SE-ROT),Landed 09:13,2021-05-31
+20,20,09:25,OS351,Vienna (VIE),Austrian Airlines A320 (OE-LBW),Landed 09:21,2021-05-31
+21,21,09:30,LO235,Warsaw (WAW),LOT E195 (SP-LNE),Landed 09:16,2021-05-31
+22,22,09:30,RO371,Bucharest (OTP),Tarom (Happy 66 Years Livery) B737 (YR-BGG),Landed 09:19,2021-05-31
+23,23,09:30 GB957,,New York (JFK),ABX Air B763 (N364CM),Landed 10:18,2021-05-31
+24,24,09:50,SK593,Copenhagen (CPH),SAS A20N (SE-ROB),Landed 09:42,2021-05-31
+25,25,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-05-31
+26,26,10:15 ET3779,,Shanghai (PVG),Ethiopian Airlines 77X,Unknown,2021-05-31
+27,27,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EXF),Landed 10:21,2021-05-31
+28,28,10:25,A3620,Athens (ATH),Aegean Airlines A20N (SX-NED),Unknown,2021-05-31
+29,29,10:30,TK1937,Istanbul (IST),Turkish Airlines A21N (TC-LSC),Landed 10:14,2021-05-31
+30,30,11:10,AZ156,Rome (FCO),Alitalia A319 (EI-IMJ),Landed 11:08,2021-05-31
+31,31,11:15,IB3206,Madrid (MAD),Iberia A20N (EC-MXY),Landed 10:57,2021-05-31
+32,32,11:45 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMA),Landed 11:42,2021-05-31
+33,33,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-SBR),Landed 11:44,2021-05-31
+34,34,12:15 TB3752,,Suceava (SCV),TUI E190 (OO-JVA),Landed 12:01,2021-05-31
+35,35,12:25,SN3176,Rome (FCO),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 12:21,2021-05-31
+36,36,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNI),Landed 14:14,2021-05-31
+37,37,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSO),Landed 12:31,2021-05-31
+38,38,12:45 K3955,,Sharjah (SHJ),Taquan Air 72F,Unknown,2021-05-31
+39,39,12:45,LH2286,Munich (MUC),Lufthansa CRJ9 (D-ACND),Landed 12:40,2021-05-31
+40,40,13:00 AT352,,Algiers (ALG),Royal Air Maroc 76Y,Unknown,2021-05-31
+41,41,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSF),Landed 12:46,2021-05-31
+42,42,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSW),Landed 13:10,2021-05-31
+43,43,13:10,VY1332,Alicante (ALC),Vueling A320 (EC-MVD),Landed 12:58,2021-05-31
+44,44,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSN),Landed 13:06,2021-05-31
+45,45,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:55,2021-05-31
+46,46,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQL),Landed 13:03,2021-05-31
+47,47,13:20 FR2926,,Lisbon (LIS),Ryanair B738 (EI-DLD),Landed 13:33,2021-05-31
+48,48,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSR),Landed 13:16,2021-05-31
+49,49,13:25,SN3598,Marseille (MRS),Brussels Airlines A319 (OO-SSX),Landed 13:08,2021-05-31
+50,50,13:25 SN2174,,Manchester (MAN),Brussels Airlines A320 (OO-TCH),Landed 13:12,2021-05-31
+51,51,13:30 SN3124,,Bologna (BLQ),Brussels Airlines A319 (OO-SSV),Landed 13:26,2021-05-31
+52,52,13:30,SN3736,Malaga (AGP),Brussels Airlines A320 (OO-SNJ),Landed 13:13,2021-05-31
+53,53,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILM),Landed 13:38,2021-05-31
+54,54,13:35,SN3202,Venice (VCE),Brussels Airlines A319 (OO-SSA),Landed 13:21,2021-05-31
+55,55,13:35,SN3216,Milan (MXP),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 13:52,2021-05-31
+56,56,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSB),Landed 13:32,2021-05-31
+57,57,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNM),Landed 13:34,2021-05-31
+58,58,13:55 SN3256,,Heraklion (HER),Brussels Airlines A320 (OO-TCV),Landed 13:46,2021-05-31
+59,59,14:15 TB1134,,Malaga (AGP),TUI B38M (OO-TMY),Landed 13:50,2021-05-31
+60,60,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-NIG),Landed 14:13,2021-05-31
+61,61,14:30 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA791A),Landed 14:01,2021-05-31
+62,62,14:35 TB2172,,Thessaloniki (SKG),TUI B737 (OO-JAO),Landed 14:29,2021-05-31
+63,63,14:40 FR2929,,Porto (OPO),Ryanair B738 (EI-GXL),Landed 14:25,2021-05-31
+64,64,14:40 0B2923,,Bacau (BCM),Blue Air 738,Unknown,2021-05-31
+65,65,15:00 SQ7979,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFM),Unknown,2021-05-31
+66,66,15:15,TP648,Lisbon (LIS),TAP Express E190 (CS-TPU),Landed 14:57,2021-05-31
+67,67,15:45 QR8814,,Doha (DOH),Qatar Airways B77W (A7-BEL),Landed 15:22,2021-05-31
+68,68,15:55 TB1752,,Tenerife (TFS),TUI B738 (OO-JAU),Landed 15:19,2021-05-31
+69,69,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-05-31
+70,70,16:10,SN3816,Lisbon (LIS),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 16:13,2021-05-31
+71,71,16:25 OZ588,,New York (JFK),Asiana Airlines 74F,Unknown,2021-05-31
+72,72,16:25 OZ587,,New York (JFK),Asiana Cargo B744 (HL7420),Landed 19:52,2021-05-31
+73,73,17:30,SN3704,Barcelona (BCN),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 17:21,2021-05-31
+74,74,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LCQ),Landed 17:49,2021-05-31
+75,75,17:40,KL1725,Amsterdam (AMS),KLM E190 (PH-EXA),Landed 17:37,2021-05-31
+76,76,17:40 VS505,,London (LHR),Virgin Atlantic 330,Unknown,2021-05-31
+77,77,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LTE),Landed 18:20,2021-05-31
+78,78,18:40,LO233,Warsaw (WAW),LOT E195 (SP-LND),Landed 18:27,2021-05-31
+79,79,18:55,IB8694,Madrid (MAD),Iberia Regional CRJX (EC-MSL),Landed 18:39,2021-05-31
+80,80,19:20 SN3752,,Valencia (VLC),Brussels Airlines (Tintin comics Livery) A320 (OO-SNB),Landed 19:05,2021-05-31
+81,81,19:25,AZ154,Milan (LIN),Alitalia E75S (EI-RDB),Landed 19:11,2021-05-31
+82,82,19:30 SN3622,,Nice (NCE),Brussels Airlines A319 (OO-SSN),Landed 19:21,2021-05-31
+83,83,19:45 SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSF),Landed 19:36,2021-05-31
+84,84,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSO),Landed 19:42,2021-05-31
+85,85,19:55,SN2906,Vienna (VIE),Brussels Airlines A319 (OO-SSW),Landed 20:00,2021-05-31
+86,86,20:10 SN3290,,Tel Aviv (TLV),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 21:06,2021-05-31
+87,87,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:17,2021-05-31
+88,88,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EXY),Landed 21:44,2021-05-31
+89,89,22:20,LH1024,Frankfurt (FRA),Lufthansa (Lu Sticker) A319 (D-AILU),Landed 22:09,2021-05-31
+90,90,22:40 TB1912,,Funchal (FNC),TUI B738 (OO-TUP),Landed 22:31,2021-05-31
+91,91,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-SNI),Landed 23:15,2021-05-31
+0,0,00:45 TB2942,,Pristina (PRN),TUI B737 (OO-JAR),Landed 00:38,2021-06-01
+1,1,06:20,ET728,Addis Ababa (ADD),Ethiopian Airlines (Star Alliance Livery) B788 (ET-ATG),Landed 06:05,2021-06-01
+2,2,06:45,SN217,Dakar (DSS),Brussels Airlines A333 (OO-SFH),Landed 06:51,2021-06-01
+3,3,07:15,UA950,Washington (IAD),United Airlines B78X (N16008),Landed 07:15,2021-06-01
+4,4,07:25,SN211,Accra (ACC),Brussels Airlines A333 (OO-SFX),Landed 07:40,2021-06-01
+5,5,07:45,UA999,New York (EWR),United Airlines B789 (N29977),Landed 07:39,2021-06-01
+6,6,07:55,SN369,Yaounde (NSI),Brussels Airlines A333 (OO-SFF),Landed 07:46,2021-06-01
+7,7,07:55,SN245,Monrovia (ROB),Brussels Airlines A333 (OO-SFC),Landed 07:43,2021-06-01
+8,8,08:20 FR2918,,Barcelona (BCN),Ryanair B738 (EI-DWT),Landed 08:05,2021-06-01
+9,9,08:45,LX786,Zurich (ZRH),Swiss BCS1 (HB-JBH),Landed 08:28,2021-06-01
+10,10,08:45 M68621,,Miami (MIA),Amerijet International B763 (N396CM),Landed 09:06,2021-06-01
+11,11,09:00,UA972,Chicago (ORD),United Airlines B789 (N27958),Landed 08:46,2021-06-01
+12,12,09:05 FR1452,,Dublin (DUB),Ryanair 73H,Unknown,2021-06-01
+13,13,09:05 0B123,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-01
+14,14,09:20,SK589,Stockholm (ARN),SAS A20N (SE-ROM),Landed 09:14,2021-06-01
+15,15,09:25,OS351,Vienna (VIE),Austrian Airlines E195 (OE-LWA),Landed 09:12,2021-06-01
+16,16,09:30,LO235,Warsaw (WAW),LOT E75S (SP-LIN),Landed 09:20,2021-06-01
+17,17,09:45,UX1171,Madrid (MAD),Air Europa Express E195 (EC-LKM),Landed 09:54,2021-06-01
+18,18,09:50,SK593,Copenhagen (CPH),SAS CRJ9 (EI-FPH),Landed 09:31,2021-06-01
+19,19,09:55 ET3640,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-ARJ),Landed 10:14,2021-06-01
+20,20,10:25,A3620,Athens (ATH),Aegean Airlines A321 (SX-DGP),Landed 10:33,2021-06-01
+21,21,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZR),Landed 10:23,2021-06-01
+22,22,10:45 SQ7973,,Los Angeles (LAX),Singapore Airlines Cargo B744 (9V-SFO),Landed 10:04,2021-06-01
+23,23,11:10,AZ156,Rome (FCO),Alitalia E190 (EI-RNB),Landed 11:11,2021-06-01
+24,24,11:15,IB3206,Madrid (MAD),Iberia A20N (EC-NJY),Landed 10:50,2021-06-01
+25,25,11:20 TU788,,Tunis (TUN),Tunisair A320 (TS-IMW),Landed 11:37,2021-06-01
+26,26,11:35 SN3778,,Ibiza (IBZ),Brussels Airlines A320 (OO-SNL),Landed 11:15,2021-06-01
+27,27,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JKU),Landed 11:35,2021-06-01
+28,28,12:00 TB1112,,Alicante (ALC),TUI B38M (OO-TMB),Landed 11:45,2021-06-01
+29,29,12:05 TK6453,,Istanbul (ISL),Turkish Airlines 31F,Unknown,2021-06-01
+30,30,12:15 SU2168,,Moscow (SVO),Aeroflot B738 (VP-BON),Landed 11:33,2021-06-01
+31,31,12:20 TB1242,,Almeria (LEI),TUIfly Belgium 73W,Unknown,2021-06-01
+32,32,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNJ),Landed 12:23,2021-06-01
+33,33,12:30 DL3456,,New York (JFK),Delta Air Lines B763 (N1605),Landed 11:42,2021-06-01
+34,34,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSA),Landed 12:30,2021-06-01
+35,35,12:45,LH2286,Munich (MUC),Air Dolomiti E195 (I-ADJN),Landed 12:47,2021-06-01
+36,36,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSN),Landed 13:19,2021-06-01
+37,37,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSF),Landed 13:11,2021-06-01
+38,38,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-TCH),Landed 13:07,2021-06-01
+39,39,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQP),Landed 12:56,2021-06-01
+40,40,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSO),Landed 13:10,2021-06-01
+41,41,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSW),Landed 13:14,2021-06-01
+42,42,13:30,SN3736,Malaga (AGP),Brussels Airlines A320 (OO-SNN),Landed 13:25,2021-06-01
+43,43,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILD),Landed 13:50,2021-06-01
+44,44,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSV),Landed 13:33,2021-06-01
+45,45,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSB),Landed 13:58,2021-06-01
+46,46,14:05 TB2302,,Kos (KGS),TUIfly Belgium 73H,Unknown,2021-06-01
+47,47,14:15 AT352,,Milan (MXP),Royal Air Maroc 76Y,Unknown,2021-06-01
+48,48,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-WEB),Landed 14:25,2021-06-01
+49,49,14:25 TB1012,,Almeria (LEI),TUI B738 (OO-SRO),Landed 13:43,2021-06-01
+50,50,14:30 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA790A),Landed 14:01,2021-06-01
+51,51,14:35 FR2929,,Porto (OPO),Ryanair B738 (EI-DHE),Landed 14:21,2021-06-01
+52,52,15:15,TP648,Lisbon (LIS),TAP Express E190 (CS-TPT),Landed 14:59,2021-06-01
+53,53,15:30 TB2342,,Kos (KGS),TUI B737 (OO-JAR),Landed 15:21,2021-06-01
+54,54,15:45 QR8814,,Doha (DOH),Qatar Airways B77W (A7-BED),Landed 15:17,2021-06-01
+55,55,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-06-01
+56,56,16:15 TB2162,,Zakynthos (ZTH),TUI B737 (OO-JAO),Landed 16:24,2021-06-01
+57,57,16:35,SN3812,Porto (OPO),Brussels Airlines A319 (OO-SSX),Landed 16:39,2021-06-01
+58,58,17:30,VY8982,Barcelona (BCN),Vueling (Disneyland Paris - 25 Years Livery) A320 (EC-MLE),Landed 17:11,2021-06-01
+59,59,17:40,AZ160,Rome (FCO),Alitalia A319 (EI-IMT),Landed 17:46,2021-06-01
+60,60,17:40 VS505,,London (LHR),Virgin Atlantic B789 (G-VBZZ),Landed 17:26,2021-06-01
+61,61,17:50 SN3766,,Palma de Mallorca (PMI),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 17:31,2021-06-01
+62,62,18:15,AY1545,Helsinki (HEL),Finnair E190 (OH-LKL),Landed 17:53,2021-06-01
+63,63,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSH),Landed 18:06,2021-06-01
+64,64,18:25 3O111,,Casablanca (CMN),Air Arabia Maroc 320,Canceled,2021-06-01
+65,65,18:55,IB3214,Madrid (MAD),Iberia A20N (EC-NJU),Landed 18:38,2021-06-01
+66,66,19:05,SN3246,Athens (ATH),Brussels Airlines A319 (OO-SSR),Landed 19:26,2021-06-01
+67,67,19:30 SN3622,,Nice (NCE),Brussels Airlines A319 (OO-SSA),Landed 19:19,2021-06-01
+68,68,19:40,AZ154,Milan (LIN),Alitalia E75S (EI-RDG),Landed 19:30,2021-06-01
+69,69,19:55 FR2932,,Lisbon (LIS),Ryanair B738 (EI-EVL),Landed 19:43,2021-06-01
+70,70,19:55,SN2906,Vienna (VIE),Brussels Airlines A319 (OO-SSN),Landed 19:52,2021-06-01
+71,71,19:55 3O113,,Tangier (TNG),Air Arabia Maroc 320,Canceled,2021-06-01
+72,72,20:00,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Landed 19:36,2021-06-01
+73,73,20:10 6T5501,,Chicago (RFD),Longtail Aviation B744 (VQ-BWT),Landed 21:10,2021-06-01
+74,74,20:20 FR2952,,Madrid (MAD),Ryanair B738 (EI-DAN),Landed 20:06,2021-06-01
+75,75,20:30 3S395,,Cincinnati (CVG),DHL B77L (D-AALR),Landed 20:06,2021-06-01
+76,76,20:40 FR2924,,Malaga (AGP),Ryanair B738 (EI-ENF),Landed 20:30,2021-06-01
+77,77,21:15 ET729,,Manchester (MAN),Ethiopian Airlines (Star Alliance Livery) B788 (ET-ATG),Landed 20:52,2021-06-01
+78,78,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:35,2021-06-01
+79,79,21:40 FR5094,,Amman (AMM),Ryanair 73H,Unknown,2021-06-01
+80,80,21:50 TB2952,,Tirana (TIA),TUI E190 (OO-JEB),Landed 21:31,2021-06-01
+81,81,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANZ),Landed 21:18,2021-06-01
+82,82,22:05,KL1733,Amsterdam (AMS),KLM E75L (PH-EXX),Landed 21:51,2021-06-01
+83,83,22:20,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AIBD),Landed 22:17,2021-06-01
+84,84,23:20 SN3772,,Alicante (ALC),Brussels Airlines A320 (OO-SNI),Landed 22:59,2021-06-01
+0,0,00:10 TB1752,,Gran Canaria (LPA),TUI B38M (OO-TMA),Landed 00:01,2021-06-02
+1,1,05:00 QY923,,Miami (MIA),DHL A332 (D-ALMD),Landed 04:57,2021-06-02
+2,2,05:05 ET3712,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-06-02
+3,3,07:50 FR162,,Berlin (BER),Ryanair 73H,Unknown,2021-06-02
+4,4,08:05 SQ7364,,Sharjah (SHJ),Singapore Airlines 74Y,Canceled,2021-06-02
+5,5,08:20 FR2918,,Barcelona (BCN),Ryanair B738 (EI-DWT),Landed 08:06,2021-06-02
+6,6,08:35,ET724,Vienna (VIE),Ethiopian Airlines B788 (ET-ARF),Landed 08:07,2021-06-02
+7,7,08:40,OU456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQA),Landed 08:45,2021-06-02
+8,8,08:45 QR8860,,Doha (DOH),Qatar Airways 77X,Unknown,2021-06-02
+9,9,09:00,VY8980,Barcelona (BCN),Vueling A320 (EC-LVS),Landed 08:49,2021-06-02
+10,10,09:05 0B123,,Bucharest (OTP),Blue Air B737 (YR-BMR),Landed 08:42,2021-06-02
+11,11,09:05 FR1452,,Dublin (DUB),Ryanair 73H,Unknown,2021-06-02
+12,12,09:10 FR7000,,Rome (CIA),Ryanair B738 (9H-QEI),Landed 08:55,2021-06-02
+13,13,09:15 0B2923,,Bacau (BCM),Blue Air 738,Unknown,2021-06-02
+14,14,09:15,AY1541,Helsinki (HEL),Finnair E190 (OH-LKH),Landed 08:47,2021-06-02
+15,15,09:25,OS351,Vienna (VIE),Austrian Airlines A319 (OE-LDE),Unknown,2021-06-02
+16,16,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-06-02
+17,17,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZG),Landed 10:17,2021-06-02
+18,18,10:30 ET3714,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVT),Landed 12:48,2021-06-02
+19,19,10:30,TK1937,Istanbul (IST),Turkish Airlines A333 (TC-JNK),Landed 10:12,2021-06-02
+20,20,10:35,IB3206,Madrid (MAD),Iberia A333 (EC-LYF),Landed 10:19,2021-06-02
+21,21,10:45,TP646,Lisbon (LIS),TAP Air Portugal A319 (CS-TTO),Landed 10:23,2021-06-02
+22,22,10:50 3O113,,Tangier (TNG),Air Arabia Maroc 320,Canceled,2021-06-02
+23,23,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-06-02
+24,24,11:05 3O117,,Fes (FEZ),Air Arabia Maroc 320,Canceled,2021-06-02
+25,25,11:10,AZ156,Rome (FCO),Alitalia A319 (EI-IMX),Landed 10:47,2021-06-02
+26,26,11:30 TB1412,,Palma de Mallorca (PMI),TUI B737 (OO-JAR),Landed 11:43,2021-06-02
+27,27,11:45 3O115,,Nador (NDR),Air Arabia Maroc 320,Canceled,2021-06-02
+28,28,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-SBR),Landed 11:25,2021-06-02
+29,29,12:07 NJE521U,,Providenciales (PLS),NetJets Europe GLEX (CS-GLC),Landed 11:14,2021-06-02
+30,30,12:25 TB1012,,Malaga (AGP),TUIfly Belgium 738,Unknown,2021-06-02
+31,31,12:45,LH2286,Munich (MUC),Air Dolomiti E195 (I-ADJS),Landed 12:36,2021-06-02
+32,32,13:00,VY1332,Alicante (ALC),Vueling A320 (EC-LVP),Landed 12:51,2021-06-02
+33,33,13:20 FR2926,,Lisbon (LIS),Ryanair B738 (EI-EVA),Landed 13:23,2021-06-02
+34,34,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQN),Landed 12:58,2021-06-02
+35,35,13:35,LH1012,Frankfurt (FRA),Lufthansa A319 (D-AILD),Landed 13:31,2021-06-02
+36,36,13:55 SN3256,,Heraklion (HER),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 13:53,2021-06-02
+37,37,14:05 TB2252,,Heraklion (HER),TUIfly Belgium 73W,Unknown,2021-06-02
+38,38,14:10 TB1112,,Malaga (AGP),TUI B738 (OO-SRO),Landed 14:33,2021-06-02
+39,39,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-NIG),Landed 14:47,2021-06-02
+40,40,14:30 ET3955,,Lome (LFW),Ethiopian Airlines 77X,Unknown,2021-06-02
+41,41,14:30 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA792A),Landed 13:50,2021-06-02
+42,42,14:35 K4335,,Los Angeles (LAX),Kalitta Air B744 (N401KZ),Landed 16:35,2021-06-02
+43,43,15:00 SN9902,,Frankfurt (FRA),Eurowings A333 (OO-SFJ),Landed 15:16,2021-06-02
+44,44,15:20 OZ587,,New York (JFK),Asiana Airlines B741,Canceled,2021-06-02
+45,45,15:20 OZ588,,New York (JFK),Asiana Airlines B741,Unknown,2021-06-02
+46,46,15:45 QR8814,,Doha (DOH),Qatar Cargo B77L (A7-BFF),Unknown,2021-06-02
+47,47,15:50 TB1752,,Tenerife (TFS),TUI B38M (OO-TMA),Landed 15:34,2021-06-02
+48,48,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-06-02
+49,49,17:20,SK1589,Stockholm (ARN),Xfly CRJ9 (ES-ACP),Landed 17:27,2021-06-02
+50,50,17:30 QR8247,,Doha (DOH),Qatar Cargo B77L (A7-BFF),Landed 17:54,2021-06-02
+51,51,17:30,SN3704,Barcelona (BCN),Brussels Airlines A319 (OO-SSA),Landed 17:20,2021-06-02
+52,52,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LCQ),Landed 17:29,2021-06-02
+53,53,17:40,KL1725,Amsterdam (AMS),KLM E75L (PH-EXU),Landed 17:32,2021-06-02
+54,54,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VDOT),Landed 17:23,2021-06-02
+55,55,17:45 FR2964,,Milan (MXP),Ryanair B738 (9H-QAL),Landed 17:37,2021-06-02
+56,56,18:25 LY333,,Tel Aviv (TLV),El Al Israel Airlines B738 (4X-EKB),Landed 18:24,2021-06-02
+57,57,18:30,A3622,Athens (ATH),Aegean Airlines A321 (SX-DGQ),Unknown,2021-06-02
+58,58,18:40 LO233,,Warsaw (WAW),LOT B738 (SP-LWD),Landed 18:27,2021-06-02
+59,59,18:55,IB3214,Madrid (MAD),Iberia A20N (EC-NDN),Landed 18:38,2021-06-02
+60,60,18:55,RO373,Bucharest (OTP),Tarom (Happy 66 Years Livery) B737 (YR-BGG),Landed 18:30,2021-06-02
+61,61,19:15,OS355,Vienna (VIE),Austrian Airlines E195 (OE-LWF),Landed 19:09,2021-06-02
+62,62,19:40,AZ154,Milan (LIN),Alitalia E75S (EI-RDH),Landed 19:26,2021-06-02
+63,63,19:40 FR2934,,Alicante (ALC),Ryanair B738 (EI-EVN),Landed 19:47,2021-06-02
+64,64,20:10,VY8984,Barcelona (BCN),Vueling A320 (EC-KDH),Landed 19:57,2021-06-02
+65,65,20:10 AT352,,Zurich (ZRH),Royal Air Maroc Cargo B763 (CN-ROW),Landed 19:17,2021-06-02
+66,66,20:25 FR2279,,Porto (OPO),Ryanair B738 (EI-DLB),Landed 20:00,2021-06-02
+67,67,20:30 3S395,,Cincinnati (CVG),DHL B77L (D-AALL),Landed 20:32,2021-06-02
+68,68,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:18,2021-06-02
+69,69,21:30 TB3314,,Eskisehir (AOE),TUI B737 (OO-JAR),Landed 21:54,2021-06-02
+70,70,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANY),Landed 20:59,2021-06-02
+71,71,22:05,KL1733,Amsterdam (AMS),KLM E75L (PH-EXT),Landed 21:46,2021-06-02
+72,72,22:20,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AIBH),Landed 22:12,2021-06-02
+73,73,22:20 SN2209,,Rhodes (RHO),Brussels Airlines 320,Unknown,2021-06-02
+74,74,22:35 TB2964,,Pristina (PRN),TUI B737 (OO-JAO),Landed 22:29,2021-06-02
+75,75,22:40 SN3785,,Gran Canaria (LPA),Brussels Airlines A320 (OO-SNI),Landed 22:05,2021-06-02
+76,76,23:35,TP642,Lisbon (LIS),TAP Express E190 (CS-TPO),Landed 23:17,2021-06-02
+0,0,00:10 TB1666,,Gran Canaria (LPA),TUI B38M (OO-TMY),Landed 23:51,2021-06-03
+1,1,00:20 TB1712,,Fuerteventura (FUE),TUI B38M (OO-TMB),Landed 00:31,2021-06-03
+2,2,04:00 M68321,,Miami (MIA),Amerijet International B762,Canceled,2021-06-03
+3,3,05:00 QY923,,Miami (MIA),DHL A332 (D-ALMD),Landed 05:18,2021-06-03
+4,4,06:15 QR8861,,Chicago (ORD),Qatar Airways 77X,Unknown,2021-06-03
+5,5,06:20,ET728,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AYC),Diverted to MAN,2021-06-03
+6,6,06:40,SN358,Kinshasa (FIH),Brussels Airlines A333 (OO-SFX),Landed 06:24,2021-06-03
+7,7,06:45,SN204,Dakar (DSS),Brussels Airlines A333 (OO-SFB),Landed 06:18,2021-06-03
+8,8,07:00 ET3712,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-06-03
+9,9,07:15 UA950,,Washington (IAD),United Airlines B78X (N13013),Landed 08:13,2021-06-03
+10,10,07:20 SN460,,Entebbe (EBB),Brussels Airlines A333 (OO-SFE),Landed 07:22,2021-06-03
+11,11,07:25 SN310,,Abidjan (ABJ),Brussels Airlines A333 (OO-SFF),Landed 07:22,2021-06-03
+12,12,07:35 SN372,,Douala (DLA),Brussels Airlines A333 (OO-SFC),Unknown,2021-06-03
+13,13,07:45 UA999,,New York (EWR),United Airlines B789 (N29977),Landed 08:45,2021-06-03
+14,14,07:55 SN240,,Freetown (FNA),Brussels Airlines A333 (OO-SFD),Landed 07:18,2021-06-03
+15,15,08:00 ET3714,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AWE),Unknown,2021-06-03
+16,16,08:20 FR2918,,Barcelona (BCN),Ryanair B738 (EI-EKG),Landed 08:05,2021-06-03
+17,17,08:40 LX786,,Zurich (ZRH),Swiss BCS1 (HB-JBC),Landed 08:33,2021-06-03
+18,18,09:00 UA972,,Chicago (ORD),United Airlines B789 (N19951),Landed 09:09,2021-06-03
+19,19,09:00 FR1452,,Dublin (DUB),Ryanair 73H,Unknown,2021-06-03
+20,20,09:05 0B123,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-03
+21,21,09:25 OS351,,Vienna (VIE),Austrian Airlines A320 (OE-LXB),Landed 09:10,2021-06-03
+22,22,09:30 ET3702,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVT),Landed 12:46,2021-06-03
+23,23,09:30 LO235,,Warsaw (WAW),LOT (Sliwka Naleczowska Livery) E195 (SP-LNC),Landed 09:12,2021-06-03
+24,24,09:45 UX1171,,Madrid (MAD),Air Europa Express E195 (EC-LLR),Landed 09:32,2021-06-03
+25,25,09:50 TK6509,,Istanbul (ISL),Turkish Cargo A332 (TC-JDP),Landed 09:06,2021-06-03
+26,26,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-06-03
+27,27,10:20 VS505,,London (LHR),Virgin Atlantic A35K (G-VJAM),Landed 10:04,2021-06-03
+28,28,10:25 A3620,,Athens (ATH),Aegean Airlines A20N (SX-NEA),Landed 10:25,2021-06-03
+29,29,10:25,KL1723,Amsterdam (AMS),KLM E75L (PH-EXJ),Landed 10:16,2021-06-03
+30,30,10:45 3O115,,Nador (NDR),Air Arabia Maroc 320,Canceled,2021-06-03
+31,31,10:45,TP646,Lisbon (LIS),TAP Air Portugal A319 (CS-TTS),Landed 10:20,2021-06-03
+32,32,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-06-03
+33,33,10:50 3O113,,Tangier (TNG),Air Arabia Maroc -,Canceled,2021-06-03
+34,34,11:05,IB3206,Madrid (MAD),Iberia A333 (EC-MAA),Landed 10:08,2021-06-03
+35,35,11:10,AZ156,Rome (FCO),Alitalia A319 (EI-IME),Landed 11:01,2021-06-03
+36,36,11:15,AC832,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 11:00,2021-06-03
+37,37,11:40 SN3772,,Alicante (ALC),Brussels Airlines A320 (OO-SNJ),Landed 11:21,2021-06-03
+38,38,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFE),Landed 11:44,2021-06-03
+39,39,12:00 TB1332,,Ibiza (IBZ),TUI B738 (OO-JLO),Landed 11:46,2021-06-03
+40,40,12:00 VS515,,London (LHR),Virgin Atlantic B789 (G-VAHH),Landed 11:28,2021-06-03
+41,41,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNN),Landed 12:32,2021-06-03
+42,42,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSF),Landed 12:25,2021-06-03
+43,43,12:45,LH2286,Munich (MUC),Air Dolomiti E195 (I-ADJN),Landed 12:43,2021-06-03
+44,44,12:55 FR2916,,Palma de Mallorca (PMI),Ryanair B738 (EI-DHP),Landed 12:55,2021-06-03
+45,45,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSN),Landed 12:49,2021-06-03
+46,46,13:00 TB1942,,Faro (FAO),TUIfly Belgium 73W,Unknown,2021-06-03
+47,47,13:00 TB1374,,Palma de Mallorca (PMI),TUI B38M (OO-TMA),Landed 12:43,2021-06-03
+48,48,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSW),Landed 13:31,2021-06-03
+49,49,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:22,2021-06-03
+50,50,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSV),Landed 13:03,2021-06-03
+51,51,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQJ),Landed 13:09,2021-06-03
+52,52,13:25,EY57,Abu Dhabi (AUH),Etihad (ADNOC - Choose China Livery) B789 (A6-BLF),Landed 13:12,2021-06-03
+53,53,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSR),Landed 13:05,2021-06-03
+54,54,13:25,SN2258,Copenhagen (CPH),Brussels Airlines A319 (OO-SSO),Landed 13:27,2021-06-03
+55,55,13:25,SN3598,Marseille (MRS),Brussels Airlines A319 (OO-SSB),Landed 13:08,2021-06-03
+56,56,13:35,LH1012,Frankfurt (FRA),Lufthansa A320 (D-AIUB),Landed 13:35,2021-06-03
+57,57,13:35,SN3202,Venice (VCE),Brussels Airlines A319 (OO-SSA),Landed 13:26,2021-06-03
+58,58,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSX),Landed 13:24,2021-06-03
+59,59,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSU),Landed 13:19,2021-06-03
+60,60,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-TCH),Landed 13:33,2021-06-03
+61,61,13:40 QR193,,Doha (DOH),Qatar Airways A359 (A7-ALI),Landed 13:20,2021-06-03
+62,62,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-WEB),Landed 14:16,2021-06-03
+63,63,14:25 TB1028,,Faro (FAO),TUI B38M (OO-TMY),Landed 14:21,2021-06-03
+64,64,14:30 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA784A),Landed 14:01,2021-06-03
+65,65,14:45,MS725,Cairo (CAI),EgyptAir A20N (SU-GFO),Landed 14:48,2021-06-03
+66,66,15:10 TB2402,,Kos (KGS),TUI B737 (OO-JAO),Landed 15:10,2021-06-03
+67,67,15:15,TP648,Lisbon (LIS),TAP Air Portugal A319 (CS-TTO),Landed 14:58,2021-06-03
+68,68,15:20 TB2182,,Santorini (JTR),TUI B38M (OO-TMB),Landed 15:02,2021-06-03
+69,69,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-06-03
+70,70,16:00 TB1752,,Tenerife (TFS),TUI B737 (OO-JAR),Landed 16:19,2021-06-03
+71,71,16:05 FR2929,,Porto (OPO),Ryanair B738 (EI-DHE),Landed 15:39,2021-06-03
+72,72,16:10,SN3816,Lisbon (LIS),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 16:22,2021-06-03
+73,73,16:30 FR2926,,Lisbon (LIS),Ryanair B738 (EI-EVL),Landed 16:12,2021-06-03
+74,74,16:35,SN3812,Porto (OPO),Brussels Airlines A320 (OO-SNM),Landed 16:15,2021-06-03
+75,75,16:45 QR8144,,Atlanta (ATL),Qatar Cargo B77L (A7-BFH),Diverted to ORD,2021-06-03
+76,76,16:55 FR2924,,Malaga (AGP),Ryanair B738 (EI-EBR),Landed 16:35,2021-06-03
+77,77,16:55 SK1593,,Copenhagen (CPH),SAS A20N (SE-ROX),Landed 16:40,2021-06-03
+78,78,17:10 SN3782,,Tenerife (TFS),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 17:01,2021-06-03
+79,79,17:30,VY8982,Barcelona (BCN),Vueling A320 (EC-MKO),Landed 17:22,2021-06-03
+80,80,17:40,AZ160,Rome (FCO),Alitalia A319 (EI-IMO),Landed 17:34,2021-06-03
+81,81,18:15 3O111,,Casablanca (CMN),Air Arabia Maroc 320,Canceled,2021-06-03
+82,82,18:15,AY1545,Helsinki (HEL),Finnair E190 (OH-LKO),Landed 17:53,2021-06-03
+83,83,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSD),Landed 18:06,2021-06-03
+84,84,18:55,IB3214,Madrid (MAD),Iberia A20N (EC-MXY),Landed 18:29,2021-06-03
+85,85,19:00,KM420,Luqa (MLA),Air Malta (We're Back! Sticker) A20N (9H-NEC),Landed 18:42,2021-06-03
+86,86,19:00 SQ7987,,Los Angeles (LAX),Singapore Airlines B744,Unknown,2021-06-03
+87,87,19:15,OS355,Vienna (VIE),Austrian Airlines E195 (OE-LWD),Landed 19:09,2021-06-03
+88,88,19:20 TB1112,,Alicante (ALC),TUI B738 (OO-SRO),Landed 19:06,2021-06-03
+89,89,19:25,VY8920,Valencia (VLC),Vueling A320 (EC-LOB),Landed 18:57,2021-06-03
+90,90,19:30 SN3622,,Nice (NCE),Brussels Airlines A320 (OO-SNJ),Landed 19:19,2021-06-03
+91,91,19:40,AZ154,Milan (LIN),Alitalia E75S (EI-RDH),Landed 19:33,2021-06-03
+92,92,19:45 SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSV),Landed 19:26,2021-06-03
+93,93,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSN),Landed 19:39,2021-06-03
+94,94,19:55,VY2150,Malaga (AGP),Vueling A320 (EC-LOP),Landed 19:29,2021-06-03
+95,95,20:00,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQA),Landed 19:55,2021-06-03
+96,96,20:00,SN3182,Rome (FCO),Brussels Airlines A319 (OO-SSW),Landed 19:41,2021-06-03
+97,97,20:00 QR8144,,Chicago (ORD),Qatar Cargo B77L (A7-BFH),Landed 20:45,2021-06-03
+98,98,20:05 OZ587,,New York (JFK),Asiana Cargo B744 (HL7616),Landed 19:47,2021-06-03
+99,99,20:20,VY1332,Alicante (ALC),Vueling A320 (EC-MVD),Landed 20:10,2021-06-03
+100,100,20:25,JU304,Belgrade (BEG),AirSERBIA A319 (YU-APD),Landed 20:15,2021-06-03
+101,101,20:30 3S395,,Cincinnati (CVG),DHL B77L (D-AALM),Landed 20:16,2021-06-03
+102,102,21:15 ET729,,Manchester (MAN),Ethiopian Airlines B789 (ET-AYC),Landed 21:08,2021-06-03
+103,103,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:41,2021-06-03
+104,104,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZC),Landed 21:47,2021-06-03
+105,105,22:40 TB2952,,Tirana (TIA),TUI E190 (OO-JVA),Landed 22:29,2021-06-03
+106,106,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-TCH),Landed 23:11,2021-06-03
+0,0,02:01 ET3518,,Miami (MIA),Ethiopian Cargo B77L (ET-APS),Landed 08:33,2021-06-04
+1,1,05:00 QY923,,Miami (MIA),DHL A332 (D-ALMD),Landed 05:57,2021-06-04
+2,2,06:45 HU491,,Beijing (PEK),Hainan Airlines A332 (B-5979),Landed 07:09,2021-06-04
+3,3,06:45,SN221,Dakar (DSS),Brussels Airlines A333 (OO-SFE),Landed 06:55,2021-06-04
+4,4,06:50 XQ932,,Izmir (ADB),SunExpress B738 (TC-SOD),Landed 06:31,2021-06-04
+5,5,07:15,UA950,Washington (IAD),United Airlines B78X (N14011),Landed 08:27,2021-06-04
+6,6,07:25,SN283,Lome (LFW),Brussels Airlines A333 (OO-SFD),Landed 07:16,2021-06-04
+7,7,07:40 SN231,,Abidjan (ABJ),Brussels Airlines A333 (OO-SFC),Landed 07:37,2021-06-04
+8,8,07:45 UA999,,New York (EWR),United Airlines B78X (N12004),Landed 08:09,2021-06-04
+9,9,07:55 SN379,,Yaounde (NSI),Brussels Airlines A333 (OO-SFG),Canceled,2021-06-04
+10,10,08:20 FR2918,,Barcelona (BCN),Ryanair B738 (EI-EKG),Landed 08:03,2021-06-04
+11,11,08:30 0B3723,,Cluj-Napoca (CLJ),Blue Air 738,Unknown,2021-06-04
+12,12,08:35,ET724,Vienna (VIE),Ethiopian Airlines B789 (ET-AUP),Landed 08:19,2021-06-04
+13,13,09:05 0B123,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-04
+14,14,09:15 ET3749,,Shanghai (PVG),Ethiopian Airlines 77X,Canceled,2021-06-04
+15,15,09:15 0B2923,,Bacau (BCM),Blue Air B738 (YR-BMQ),Landed 14:40,2021-06-04
+16,16,09:15,AY1541,Helsinki (HEL),Finnair E190 (OH-LKL),Landed 08:56,2021-06-04
+17,17,09:25,OS351,Vienna (VIE),Austrian Airlines E195 (OE-LWB),Landed 09:09,2021-06-04
+18,18,09:30,LO235,Warsaw (WAW),LOT E170 (SP-LDG),Landed 09:04,2021-06-04
+19,19,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-06-04
+20,20,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EXF),Landed 10:41,2021-06-04
+21,21,10:25,A3620,Athens (ATH),Aegean Airlines A20N (SX-NEA),Unknown,2021-06-04
+22,22,10:45,TP646,Lisbon (LIS),TAP Air Portugal A20N (CS-TVI),Landed 10:35,2021-06-04
+23,23,10:45 6T5515,,Greenville-Spartanburg (GSP),Longtail Aviation B744 (VQ-BWT),Landed 11:16,2021-06-04
+24,24,10:50 AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-06-04
+25,25,11:05,IB3206,Madrid (MAD),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 10:36,2021-06-04
+26,26,11:10,AZ156,Rome (FCO),Alitalia A320 (EI-DSA),Landed 10:55,2021-06-04
+27,27,11:40 AH2200,,Algiers (ALG),Air Algerie 73K,Unknown,2021-06-04
+28,28,11:40 FR2986,,Valencia (VLC),Ryanair B738 (EI-EKL),Landed 11:21,2021-06-04
+29,29,11:40 SN3772,,Alicante (ALC),Brussels Airlines A319 (OO-SSX),Landed 11:09,2021-06-04
+30,30,11:50 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMA),Landed 11:34,2021-06-04
+31,31,11:50 TB1112,,Alicante (ALC),TUI B38M (OO-TMB),Landed 11:43,2021-06-04
+32,32,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-JFU),Landed 11:41,2021-06-04
+33,33,11:55 TB3752,,Suceava (SCV),TUI E190 (OO-JVA),Landed 11:52,2021-06-04
+34,34,12:15 SU2168,,Moscow (SVO),Aeroflot B738 (VP-BRF),Landed 12:21,2021-06-04
+35,35,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNM),Landed 12:18,2021-06-04
+36,36,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSF),Landed 12:28,2021-06-04
+37,37,12:35 K4335,,Los Angeles (LAX),DHL B744 (N740CK),Landed 13:02,2021-06-04
+38,38,12:40 TB1012,,Malaga (AGP),TUI B737 (OO-JAR),Landed 12:33,2021-06-04
+39,39,12:45,LH2286,Munich (MUC),Air Dolomiti E195 (I-ADJQ),Landed 12:49,2021-06-04
+40,40,12:55 SQ7951,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFN),Landed 12:30,2021-06-04
+41,41,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSV),Landed 12:44,2021-06-04
+42,42,13:12 RU9506,,Cincinnati (CVG),AirBridgeCargo B748 (VQ-BFU),Landed 14:08,2021-06-04
+43,43,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 12:58,2021-06-04
+44,44,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSO),Landed 13:11,2021-06-04
+45,45,13:20,EK183,Dubai (DXB),Emirates (Expo 2020 - Opportunity Livery) B77W (A6-EQO),Landed 13:42,2021-06-04
+46,46,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSW),Landed 13:20,2021-06-04
+47,47,13:25,EY57,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLL),Landed 13:24,2021-06-04
+48,48,13:30 SN3124,,Bologna (BLQ),Brussels Airlines A319 (OO-SSB),Landed 13:31,2021-06-04
+49,49,13:35 FR2934,,Alicante (ALC),Ryanair B738 (EI-DLD),Landed 13:24,2021-06-04
+50,50,13:35,LH1012,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A319 (D-AIBJ),Landed 13:37,2021-06-04
+51,51,13:35,SN3202,Venice (VCE),Brussels Airlines A319 (OO-SSN),Landed 13:28,2021-06-04
+52,52,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSA),Landed 13:27,2021-06-04
+53,53,13:40 QR8846,,Doha (DOH),Qatar Airways A359 (A7-AME),Landed 13:17,2021-06-04
+54,54,13:55 SN3256,,Heraklion (HER),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 14:00,2021-06-04
+55,55,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-WEB),Landed 14:13,2021-06-04
+56,56,14:55 SN3752,,Valencia (VLC),Brussels Airlines A320 (OO-SNJ),Landed 14:43,2021-06-04
+57,57,15:15 MS725,,Cairo (CAI),EgyptAir -,Canceled,2021-06-04
+58,58,15:35 TB2182,,Kos (KGS),TUI B738 (OO-JAV),Landed 15:37,2021-06-04
+59,59,15:40 TB2342,,Rhodes (RHO),TUIfly Belgium 73H,Unknown,2021-06-04
+60,60,15:55 NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-06-04
+61,61,16:00 QR8245,,Doha (DOH),Qatar Cargo B77L (A7-BFA),Unknown,2021-06-04
+62,62,16:20 XQ756,,Eskisehir (AOE),SunExpress B738 (TC-SOD),Landed 16:07,2021-06-04
+63,63,16:35,SN3812,Porto (OPO),Brussels Airlines A320 (OO-TCH),Landed 16:12,2021-06-04
+64,64,17:20,SK1589,Stockholm (ARN),SAS A20N (SE-ROF),Landed 17:42,2021-06-04
+65,65,17:20 FR1452,,Dublin (DUB),Ryanair B738 (EI-EMO),Landed 17:11,2021-06-04
+66,66,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LEK),Landed 17:25,2021-06-04
+67,67,17:40,KL1725,Amsterdam (AMS),KLM E190 (PH-EXV),Landed 17:35,2021-06-04
+68,68,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VDOT),Landed 17:38,2021-06-04
+69,69,17:40 TB9651,,Mexico City (MEX),TUI B788 (OO-JDL),Landed 17:31,2021-06-04
+70,70,17:45 NH237,,Tokyo (NRT),All Nippon Airways B77W (JA784A),Landed 17:21,2021-06-04
+71,71,17:50,BT603,Riga (RIX),Air Baltic BCS3 (YL-AAO),Landed 17:44,2021-06-04
+72,72,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LTD),Landed 18:26,2021-06-04
+73,73,18:30 FR2964,,Milan (MXP),Ryanair B738 (9H-QBL),Landed 18:42,2021-06-04
+74,74,18:40 LO233,,Warsaw (WAW),LOT E170 (SP-LDH),Landed 18:36,2021-06-04
+75,75,18:55,IB3214,Madrid (MAD),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 18:36,2021-06-04
+76,76,18:55,RO373,Bucharest (OTP),Tarom (Happy 66 Years Livery) B737 (YR-BGG),Landed 12:41,2021-06-04
+77,77,19:00 K4977,,Cincinnati (CVG),Kalitta Air B744 (N401KZ),Landed 18:50,2021-06-04
+78,78,19:05,LX788,Zurich (ZRH),Swiss A320 (HB-IJS),Landed 18:49,2021-06-04
+79,79,19:05,SN3246,Athens (ATH),Brussels Airlines A319 (OO-SSR),Landed 18:57,2021-06-04
+80,80,19:20 FR2952,,Madrid (MAD),Ryanair B738 (EI-DLW),Landed 19:08,2021-06-04
+81,81,19:30 SN3622,,Nice (NCE),Brussels Airlines A319 (OO-SSV),Landed 20:33,2021-06-04
+82,82,19:40 3O113,,Tangier (TNG),Air Arabia Maroc 320,Canceled,2021-06-04
+83,83,19:40,AZ154,Milan (LIN),Alitalia E75S (EI-RDN),Landed 19:15,2021-06-04
+84,84,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSX),Landed 19:49,2021-06-04
+85,85,19:55,SN2906,Vienna (VIE),Brussels Airlines A319 (OO-SSN),Landed 20:26,2021-06-04
+86,86,20:00,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQD),Landed 19:36,2021-06-04
+87,87,20:00 QR8860,,Doha (DOH),Qatar Airways 77X,Unknown,2021-06-04
+88,88,20:00,SN3182,Rome (FCO),Brussels Airlines A319 (OO-SSF),Landed 20:48,2021-06-04
+89,89,20:10,VY1332,Alicante (ALC),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 20:03,2021-06-04
+90,90,21:00 0B1123,,Bucharest (OTP),Blue Air B737 (YR-BMR),Landed 20:46,2021-06-04
+91,91,21:10 FR2932,,Lisbon (LIS),Ryanair B738 (EI-ENX),Landed 21:34,2021-06-04
+92,92,21:10,VY8984,Barcelona (BCN),Vueling (Visit Tenerife Livery) A20N (EC-NIX),Landed 20:52,2021-06-04
+93,93,21:25 TB2172,,Thessaloniki (SKG),TUI B737 (OO-JAO),Landed 21:04,2021-06-04
+94,94,21:50 FR2984,,Rome (CIA),Ryanair B738 (EI-EVN),Landed 22:14,2021-06-04
+95,95,22:00 AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANX),Landed 21:01,2021-06-04
+96,96,22:00 FR2929,,Porto (OPO),Ryanair B738 (EI-DCI),Landed 21:48,2021-06-04
+97,97,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EXV),Landed 21:53,2021-06-04
+98,98,22:20,LH1024,Frankfurt (FRA),Lufthansa (Lu Sticker) A319 (D-AILU),Landed 22:11,2021-06-04
+99,99,22:25 TB9112,,Santo Domingo (SDQ),TUI B788 (OO-LOE),Landed 22:47,2021-06-04
+100,100,22:50 TB1912,,Funchal (FNC),TUI B38M (OO-TMB),Landed 22:35,2021-06-04
+101,101,23:00 TB2162,,Zakynthos (ZTH),TUI B737 (OO-JAR),Landed 22:32,2021-06-04
+102,102,23:25 SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-SNM),Landed 23:29,2021-06-04
+103,103,23:35,TP642,Lisbon (LIS),TAP Express E190 (CS-TPQ),Landed 23:19,2021-06-04
+0,0,00:10 TB9613,,Aktobe (AKX),TUI B738 (OO-TNB),Landed 00:09,2021-06-05
+1,1,00:25 TB2964,,Pristina (PRN),TUI B38M (OO-TMY),Landed 00:13,2021-06-05
+2,2,01:50 TB1752,,Gran Canaria (LPA),TUI B38M (OO-TMA),Landed 02:59,2021-06-05
+3,3,05:00 ET3914,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-06-05
+4,4,05:00 QY923,,Miami (MIA),DHL A332 (D-ALMD),Landed 04:42,2021-06-05
+5,5,05:00 GB957,,New York (JFK),ABX Air B763 (N364CM),Landed 04:12,2021-06-05
+6,6,06:40,SN358,Kinshasa (FIH),Brussels Airlines A333 (OO-SFH),Landed 06:26,2021-06-05
+7,7,06:45,SN217,Dakar (DSS),Brussels Airlines A333 (OO-SFE),Landed 08:06,2021-06-05
+8,8,07:05 SQ7366,,Sharjah (SHJ),Singapore Airlines Cargo B744 (9V-SFQ),Landed 06:08,2021-06-05
+9,9,07:15,UA950,Washington (IAD),United Airlines B78X (N16009),Landed 08:57,2021-06-05
+10,10,07:20,SN474,Entebbe (EBB),Brussels Airlines A333 (OO-SFX),Landed 07:01,2021-06-05
+11,11,07:25,SN319,Accra (ACC),Brussels Airlines A333 (OO-SFC),Landed 08:05,2021-06-05
+12,12,07:30 QR195,,Doha (DOH),Qatar Airways A359 (A7-ALR),Landed 07:15,2021-06-05
+13,13,07:30 ET3712,,Addis Ababa (ADD),Ethiopian Airlines 77X,Unknown,2021-06-05
+14,14,07:45,UA999,New York (EWR),United Airlines B78X (N12012),Landed 08:38,2021-06-05
+15,15,07:55,SN241,Monrovia (ROB),Brussels Airlines A333 (OO-SFD),Landed 08:41,2021-06-05
+16,16,07:55,SN369,Yaounde (NSI),Brussels Airlines A333 (OO-SFB),Landed 09:27,2021-06-05
+17,17,08:00 ET3721,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-06-05
+18,18,08:00 ET3725,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-06-05
+19,19,08:35,ET724,Vienna (VIE),Ethiopian Airlines B788 (ET-ASG),Landed 08:12,2021-06-05
+20,20,08:45,LX786,Zurich (ZRH),Swiss BCS3 (HB-JCA),Landed 08:24,2021-06-05
+21,21,08:50 FR2918,,Barcelona (BCN),Ryanair B738 (EI-DLH),Landed 08:31,2021-06-05
+22,22,09:00,UA972,Chicago (ORD),United Airlines B789 (N19951),Landed 08:54,2021-06-05
+23,23,09:00 WB700,,Kigali (KGL),RwandAir A333 (9XR-WP),Unknown,2021-06-05
+24,24,09:20 FR2948,,Madrid (MAD),Ryanair B738 (EI-EBS),Landed 09:18,2021-06-05
+25,25,09:20,VY8982,Barcelona (BCN),Vueling A20N (EC-NDC),Landed 08:55,2021-06-05
+26,26,09:25,OS351,Vienna (VIE),Austrian Airlines E195 (OE-LWO),Landed 09:11,2021-06-05
+27,27,09:30,LO235,Warsaw (WAW),LOT E170 (SP-LDG),Landed 09:09,2021-06-05
+28,28,09:40 A3538,,Thessaloniki (SKG),Aegean Airlines A320 (SX-DNB),Landed 09:32,2021-06-05
+29,29,09:45,UX1171,Madrid (MAD),Air Europa Express E195 (EC-LKM),Landed 09:34,2021-06-05
+30,30,09:55 3O117,,Fes (FEZ),Air Arabia Maroc 320,Canceled,2021-06-05
+31,31,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-06-05
+32,32,10:25,KL1723,Amsterdam (AMS),KLM E190 (PH-EZV),Landed 10:23,2021-06-05
+33,33,10:25,A3620,Athens (ATH),Aegean Airlines A320 (SX-DVY),Unknown,2021-06-05
+34,34,10:35 ME215,,Beirut (BEY),MEA A21N (T7-ME4),Landed 10:26,2021-06-05
+35,35,10:45,TP646,Lisbon (LIS),TAP Air Portugal A319 (CS-TTP),Landed 10:31,2021-06-05
+36,36,11:00 TB3612,,Bastia (BIA),TUI E190 (OO-JVA),Landed 11:14,2021-06-05
+37,37,11:05,IB3206,Madrid (MAD),Iberia A320 (EC-LVD),Landed 10:45,2021-06-05
+38,38,11:10,AZ156,Rome (FCO),Alitalia A319 (EI-IME),Landed 10:58,2021-06-05
+39,39,11:15,AC832,Montreal (YUL),Air Canada A333 (C-GKUH),Landed 10:55,2021-06-05
+40,40,11:25 FR5234,,Girona (GRO),Ryanair B738 (EI-EKG),Landed 11:21,2021-06-05
+41,41,11:40 SN3772,,Alicante (ALC),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 11:31,2021-06-05
+42,42,11:40 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMY),Landed 11:36,2021-06-05
+43,43,11:40 6T5509,,Chicago (RFD),Longtail Aviation B744 (VQ-BWT),Landed 12:24,2021-06-05
+44,44,11:50 TB1112,,Alicante (ALC),TUI B738 (OO-TUP),Landed 11:49,2021-06-05
+45,45,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-SCF),Diverted to VIE,2021-06-05
+46,46,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNJ),Landed 13:32,2021-06-05
+47,47,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSA),Landed 12:43,2021-06-05
+48,48,12:45 EK9936,,Frankfurt (FRA),Emirates SkyCargo B77L (A6-EFS),Landed 12:21,2021-06-05
+49,49,12:45,LH2286,Munich (MUC),Air Dolomiti E195 (I-ADJW),Landed 12:39,2021-06-05
+50,50,12:55 FI554,,Reykjavik (KEF),Icelandair 7M8,Canceled,2021-06-05
+51,51,13:00 FR2929,,Porto (OPO),Ryanair B738 (EI-DLD),Landed 12:46,2021-06-05
+52,52,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSF),Landed 12:48,2021-06-05
+53,53,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSV),Landed 13:21,2021-06-05
+54,54,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:42,2021-06-05
+55,55,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSX),Landed 13:08,2021-06-05
+56,56,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQN),Landed 12:57,2021-06-05
+57,57,13:25 SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSW),Landed 13:12,2021-06-05
+58,58,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSU),Landed 13:17,2021-06-05
+59,59,13:25 TK7720,,Vienna (VIE),AnadoluJet B738 (TC-SCF),Landed 13:19,2021-06-05
+60,60,13:35,LH1012,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNN),Landed 13:28,2021-06-05
+61,61,13:35,SN3202,Venice (VCE),Brussels Airlines A319 (OO-SSO),Landed 13:15,2021-06-05
+62,62,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSN),Landed 13:25,2021-06-05
+63,63,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNI),Landed 13:42,2021-06-05
+64,64,13:55 TB1012,,Almeria (LEI),TUI B38M (OO-TMB),Landed 13:39,2021-06-05
+65,65,14:00 QR8247,,Doha (DOH),Qatar Cargo B77L (A7-BFP),Landed 13:46,2021-06-05
+66,66,14:10 SN3234,,Rhodes (RHO),Brussels Airlines 320,Unknown,2021-06-05
+67,67,14:15 TB2302,,Kos (KGS),TUI B737 (OO-JAR),Landed 14:06,2021-06-05
+68,68,14:45,MS725,Cairo (CAI),EgyptAir A20N (SU-GFO),Unknown,2021-06-05
+69,69,15:05,TP648,Lisbon (LIS),TAP Air Portugal A319 (CS-TTL),Landed 15:21,2021-06-05
+70,70,15:20 OZ587,,New York (JFK),Asiana Cargo B744 (HL7616),Delayed 09:23,2021-06-05
+71,71,15:45 QR8814,,Doha (DOH),Qatar Airways B789 (A7-BHB),Landed 15:18,2021-06-05
+72,72,15:50 TB1752,,Tenerife (TFS),TUI B738 (OO-TNC),Landed 15:47,2021-06-05
+73,73,15:55 NH231,,Tokyo (NRT),All Nippon Airways B789 (JA837A),Landed 15:26,2021-06-05
+74,74,16:05 TB2252,,Rhodes (RHO),TUI B737 (OO-JAO),Landed 15:43,2021-06-05
+75,75,16:05,VY8920,Valencia (VLC),Vueling A320 (EC-LOB),Landed 15:32,2021-06-05
+76,76,16:10,SN3816,Lisbon (LIS),Brussels Airlines A320 (OO-SNL),Landed 16:06,2021-06-05
+77,77,16:30 ET3907,,Lome (LFW),Ethiopian Airlines 77X,Unknown,2021-06-05
+78,78,16:50 XQ550,,Antalya (AYT),SunExpress B738 (TC-SOF),Landed 16:39,2021-06-05
+79,79,17:30 QR8861,,Chicago (ORD),Qatar Airways 77X,Unknown,2021-06-05
+80,80,17:30,SN3704,Barcelona (BCN),Brussels Airlines A319 (OO-SSB),Landed 17:29,2021-06-05
+81,81,17:40,AZ160,Rome (FCO),Alitalia A319 (EI-IMS),Landed 17:25,2021-06-05
+82,82,17:40 VS505,,London (LHR),Virgin Atlantic A35K (G-VTEA),Landed 17:24,2021-06-05
+83,83,17:45 FR2964,,Milan (MXP),Ryanair B738 (9H-QDH),Landed 17:35,2021-06-05
+84,84,17:55 TB1666,,Gran Canaria (LPA),TUI B38M (OO-TMA),Landed 18:04,2021-06-05
+85,85,18:00 ET3938,,N'Djamena (NDJ),Ethiopian Airlines 77X,Unknown,2021-06-05
+86,86,18:15 3O115,,Nador (NDR),Air Arabia Maroc 320,Canceled,2021-06-05
+87,87,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LST),Landed 18:03,2021-06-05
+88,88,18:40 3O113,,Tangier (TNG),Air Arabia Maroc 320,Canceled,2021-06-05
+89,89,18:55,IB3214,Madrid (MAD),Iberia A20N (EC-MXY),Landed 18:38,2021-06-05
+90,90,18:55 TK6337,,Istanbul (ISL),Turkish Cargo B77L (TC-LJS),Landed 18:52,2021-06-05
+91,91,19:15,OS355,Vienna (VIE),Austrian Airlines E195 (OE-LWK),Landed 19:04,2021-06-05
+92,92,19:30 AT352,,Casablanca (CMN),Royal Air Maroc Cargo B763 (CN-ROW),Landed 19:09,2021-06-05
+93,93,19:30,SN3622,Nice (NCE),Brussels Airlines A319 (OO-SSF),Landed 19:17,2021-06-05
+94,94,19:50 SN3766,,Palma de Mallorca (PMI),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 19:41,2021-06-05
+95,95,19:55 FR2932,,Lisbon (LIS),Ryanair B738 (EI-GSJ),Landed 19:47,2021-06-05
+96,96,20:20 FR2924,,Malaga (AGP),Ryanair B738 (EI-DYW),Landed 20:02,2021-06-05
+97,97,20:55 3O111,,Casablanca (CMN),Air Arabia Maroc 320,Unknown,2021-06-05
+98,98,21:05 SN3170,,Naples (NAP),Brussels Airlines A319 (OO-SSV),Landed 20:48,2021-06-05
+99,99,21:30 SN3778,,Ibiza (IBZ),Brussels Airlines A320 (OO-SNI),Landed 21:27,2021-06-05
+100,100,21:45 TB1332,,Ibiza (IBZ),TUI B738 (OO-TUP),Landed 21:37,2021-06-05
+101,101,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EXA),Landed 21:55,2021-06-05
+102,102,22:05,SN3246,Athens (ATH),Brussels Airlines A319 (OO-SSX),Landed 21:53,2021-06-05
+103,103,22:20 SN2209,,Rhodes (RHO),Brussels Airlines A320 (OO-TCV),Landed 22:13,2021-06-05
+104,104,22:45,LH2294,Munich (MUC),Air Dolomiti E195 (I-ADJO),Landed 22:23,2021-06-05
+105,105,23:05 TB3602,,Ajaccio (AJA),TUI E190 (OO-JVA),Landed 22:34,2021-06-05
+106,106,23:20 SN3244,,Kos (KGS),Brussels Airlines 320,Unknown,2021-06-05
+107,107,23:25 SN3738,,Malaga (AGP),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 23:15,2021-06-05
+108,108,23:25 SN3784,,Gran Canaria (LPA),Brussels Airlines A319 (OO-SSR),Landed 22:59,2021-06-05
+109,109,23:40 SN3782,,Tenerife (TFS),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 23:19,2021-06-05
+110,110,23:50 TB1712,,Fuerteventura (FUE),TUI B38M (OO-TMY),Landed 23:59,2021-06-05
+111,111,23:55 SN9928,,Lanzarote (ACE),Brussels Airlines A320 (OO-SNN),Landed 00:01,2021-06-05
+0,0,4:00 AM M68621,,Miami (MIA),Amerijet International B763 (N378CX),Landed 5:33 PM,2021-06-06
+1,1,6:00 AM QY923,,Miami (MIA),DHL A332 (D-ALMA),Landed 6:06 AM,2021-06-06
+2,2,6:20 AM,ET728,Addis Ababa (ADD),Ethiopian Airlines B788 (ET-ATL),Landed 6:10 AM,2021-06-06
+3,3,6:30 AM ET3915,,Lagos (LOS),Ethiopian Airlines 77X,Unknown,2021-06-06
+4,4,6:40 AM,SN358,Kinshasa (FIH),Brussels Airlines A333 (OO-SFF),Landed 6:13 AM,2021-06-06
+5,5,7:15 AM,UA950,Washington (IAD),United Airlines B78X (N12010),Landed 7:21 AM,2021-06-06
+6,6,7:25 AM,SN283,Lome (LFW),Brussels Airlines A333 (OO-SFC),Landed 7:19 AM,2021-06-06
+7,7,7:30 AM QR8441,,London (STN),Qatar Cargo B77L (A7-BFT),Landed 7:17 AM,2021-06-06
+8,8,7:40 AM,SN231,Abidjan (ABJ),Brussels Airlines A333 (OO-SFD),Landed 8:01 AM,2021-06-06
+9,9,7:45 AM,UA999,New York (EWR),United Airlines B78X (N17002),Landed 7:42 AM,2021-06-06
+10,10,7:55 AM,SN245,Monrovia (ROB),Brussels Airlines A333 (OO-SFH),Landed 8:26 AM,2021-06-06
+11,11,7:55 AM,SN379,Yaounde (NSI),Brussels Airlines A333 (OO-SFB),Landed 7:59 AM,2021-06-06
+12,12,9:15 AM 0B2923,,Bacau (BCM),Blue Air 738,Unknown,2021-06-06
+13,13,9:20 AM FR2918,,Barcelona (BCN),Ryanair B738 (EI-DYX),Landed 9:17 AM,2021-06-06
+14,14,9:30 AM ET3704,,Addis Ababa (ADD),Ethiopian Cargo B77L (ET-AVT),Landed 3:12 PM,2021-06-06
+15,15,9:50 AM 3O113,,Tangier (TNG),Air Arabia Maroc 320,Canceled,2021-06-06
+16,16,10:00 AM Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-06-06
+17,17,10:05 AM BA3406,,London (LHR),British Airways AB6,Unknown,2021-06-06
+18,18,10:20 AM TK6205,,London (STN),Turkish Cargo A332 (TC-JOV),Diverted to ISL,2021-06-06
+19,19,10:25 AM KL1723,,Amsterdam (AMS),KLM E190 (PH-EZM),Landed 10:29 AM,2021-06-06
+20,20,10:30 AM TK1937,,Istanbul (IST),Turkish Airlines A21N (TC-LSC),Landed 10:13 AM,2021-06-06
+21,21,10:45 AM TP646,,Lisbon (LIS),TAP Air Portugal A20N (CS-TVE),Landed 10:27 AM,2021-06-06
+22,22,10:45 AM 6T5511,,New York (JFK),Longtail Aviation B744 (VQ-BWT),Landed 12:40 PM,2021-06-06
+23,23,10:50 AM AT353,,Casablanca (CMN),Royal Air Maroc 76Y,Unknown,2021-06-06
+24,24,11:05 AM,IB3206,Madrid (MAD),Iberia A320 (EC-IEF),Landed 10:41 AM,2021-06-06
+25,25,11:20 AM TU788,,Tunis (TUN),Tunisair A320 (TS-IMS),Landed 11:22 AM,2021-06-06
+26,26,11:20 AM VS593,,London (LHR),Virgin Atlantic A35K (G-VLUX),Landed 10:53 AM,2021-06-06
+27,27,11:35 AM SN3778,,Ibiza (IBZ),Brussels Airlines A320 (OO-SNI),Landed 11:18 AM,2021-06-06
+28,28,11:40 AM SN3772,,Alicante (ALC),Brussels Airlines A319 (OO-SSR),Landed 11:14 AM,2021-06-06
+29,29,11:50 AM TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-SBP),Landed 11:50 AM,2021-06-06
+30,30,12:00 PM TB1112,,Alicante (ALC),TUI B738 (OO-JAV),Landed 11:52 AM,2021-06-06
+31,31,12:05 PM TB2952,,Tirana (TIA),TUI E190 (OO-JVA),Landed 11:42 AM,2021-06-06
+32,32,12:25 PM SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNH),Landed 12:52 PM,2021-06-06
+33,33,12:35 PM,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSB),Landed 12:26 PM,2021-06-06
+34,34,12:35 PM TB1014,,Malaga (AGP),TUI B738 (OO-JAU),Landed 12:21 PM,2021-06-06
+35,35,12:45 PM,LH2286,Munich (MUC),Air Dolomiti E195 (I-ADJO),Landed 12:28 PM,2021-06-06
+36,36,12:45 PM TB1312,,Faro (FAO),TUI B38M (OO-TMB),Landed 12:32 PM,2021-06-06
+37,37,1:00 PM TB2192,,Corfu (CFU),TUI B737 (OO-JAR),Landed 12:49 PM,2021-06-06
+38,38,1:05 PM,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSF),Landed 12:54 PM,2021-06-06
+39,39,1:15 PM,SN2094,London (LHR),Brussels Airlines (Belgian Icons Livery) A320 (OO-SNE),Landed 1:07 PM,2021-06-06
+40,40,1:15 PM,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSO),Landed 1:05 PM,2021-06-06
+41,41,1:20 PM,EK183,Dubai (DXB),Emirates B77W (A6-EQN),Landed 1:13 PM,2021-06-06
+42,42,1:25 PM,SN2258,Copenhagen (CPH),Brussels Airlines A319 (OO-SSX),Landed 1:29 PM,2021-06-06
+43,43,1:25 PM SN2174,,Manchester (MAN),Brussels Airlines A319 (OO-SSW),Landed 1:12 PM,2021-06-06
+44,44,1:25 PM,SN3598,Marseille (MRS),Brussels Airlines A319 (OO-SSU),Landed 1:00 PM,2021-06-06
+45,45,1:25 PM,EY57,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNA),Landed 1:00 PM,2021-06-06
+46,46,1:35 PM,LH1012,Frankfurt (FRA),Lufthansa E190 (D-AECH),Landed 1:31 PM,2021-06-06
+47,47,1:35 PM,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSA),Landed 1:17 PM,2021-06-06
+48,48,1:35 PM,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSN),Landed 1:18 PM,2021-06-06
+49,49,1:35 PM,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNM),Landed 1:20 PM,2021-06-06
+50,50,1:40 PM,QR193,Doha (DOH),Qatar Airways A359 (A7-ALO),Landed 1:16 PM,2021-06-06
+51,51,2:15 PM SN3209,,Palermo (PMO),Brussels Airlines A320 (OO-SNJ),Landed 2:19 PM,2021-06-06
+52,52,3:15 PM,MS725,Cairo (CAI),EgyptAir A20N (SU-GFP),Landed 3:25 PM,2021-06-06
+53,53,3:15 PM,SN3816,Lisbon (LIS),Brussels Airlines A320 (OO-TCH),Landed 3:40 PM,2021-06-06
+54,54,3:20 PM TB2182,,Santorini (JTR),TUI B38M (OO-TMA),Landed 3:10 PM,2021-06-06
+55,55,3:30 PM,VY8982,Barcelona (BCN),Vueling A320 (EC-MEA),Landed 3:18 PM,2021-06-06
+56,56,3:35 PM NH237,,Tokyo (NRT),All Nippon Airways B789 (JA891A),Landed 3:07 PM,2021-06-06
+57,57,3:40 PM TB2302,,Mykonos (JMK),TUI B737 (OO-JAO),Landed 3:22 PM,2021-06-06
+58,58,3:50 PM AT352,,Casablanca (CMN),Royal Air Maroc 76Y,Canceled,2021-06-06
+59,59,3:55 PM NH231,,Tokyo (NRT),All Nippon Airways -,Canceled,2021-06-06
+60,60,4:20 PM FR2964,,Milan (MXP),Ryanair B738 (9H-QAL),Landed 4:07 PM,2021-06-06
+61,61,4:55 PM,SK1593,Copenhagen (CPH),SAS A20N (SE-DYC),Landed 4:40 PM,2021-06-06
+62,62,5:05 PM SQ7979,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFI),Landed 7:29 PM,2021-06-06
+63,63,5:10 PM SN3784,,Gran Canaria (LPA),Brussels Airlines A320 (OO-TCV),Landed 4:35 PM,2021-06-06
+64,64,5:10 PM SN3782,,Tenerife (TFS),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 4:39 PM,2021-06-06
+65,65,5:25 PM FR2926,,Lisbon (LIS),Ryanair B738 (EI-EVL),Landed 5:11 PM,2021-06-06
+66,66,5:25 PM SU2628,,Moscow (SVO),Aeroflot B738 (VP-BKK),Landed 5:03 PM,2021-06-06
+67,67,5:35 PM,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LCQ),Landed 5:38 PM,2021-06-06
+68,68,5:40 PM,AZ160,Rome (FCO),Alitalia A319 (EI-IMV),Landed 5:40 PM,2021-06-06
+69,69,5:40 PM,KL1725,Amsterdam (AMS),KLM E190 (PH-EZN),Landed 5:46 PM,2021-06-06
+70,70,5:40 PM VS505,,London (LHR),Virgin Atlantic A333 (G-VWAG),Landed 5:56 PM,2021-06-06
+71,71,5:50 PM,BT603,Riga (RIX),Air Baltic BCS3 (YL-AAV),Landed 5:31 PM,2021-06-06
+72,72,5:50 PM TK1939,,Istanbul (IST),Turkish Airlines A333 (TC-LNF),Landed 5:42 PM,2021-06-06
+73,73,6:05 PM 3O117,,Fes (FEZ),Air Arabia Maroc -,Canceled,2021-06-06
+74,74,6:15 PM,AY1545,Helsinki (HEL),Finnair E190 (OH-LKF),Landed 6:08 PM,2021-06-06
+75,75,6:15 PM FR2916,,Palma de Mallorca (PMI),Ryanair B738 (EI-DLD),Landed 6:07 PM,2021-06-06
+76,76,6:30 PM,A3622,Athens (ATH),Aegean Airlines A20N (SX-NEA),Landed 6:53 PM,2021-06-06
+77,77,6:35 PM,SN2720,Geneva (GVA),Brussels Airlines A319 (OO-SSU),Landed 6:12 PM,2021-06-06
+78,78,6:40 PM LO233,,Warsaw (WAW),LOT (Grzeski Livery) E195 (SP-LNB),Landed 6:17 PM,2021-06-06
+79,79,6:55 PM GQ800,,Athens (ATH),Sky Express A20N (SX-WEB),Landed 7:12 PM,2021-06-06
+80,80,6:55 PM,IB3214,Madrid (MAD),Iberia A20N (EC-NJU),Landed 6:43 PM,2021-06-06
+81,81,6:55 PM XC774,,Stuttgart (STR),Corendon Airlines B738 (TC-TJU),Landed 6:47 PM,2021-06-06
+82,82,7:00 PM,KM420,Luqa (MLA),Air Malta A20N (9H-NEB),Landed 6:44 PM,2021-06-06
+83,83,7:00 PM 3S395,,Cincinnati (CVG),AeroLogic B77L (D-AALJ),Landed 6:40 PM,2021-06-06
+84,84,7:15 PM,LX788,Zurich (ZRH),Swiss BCS1 (HB-JBE),Landed 7:15 PM,2021-06-06
+85,85,7:15 PM,OS355,Vienna (VIE),Austrian Airlines A320 (OE-LBK),Landed 7:24 PM,2021-06-06
+86,86,7:20 PM SN3622,,Nice (NCE),Brussels Airlines A319 (OO-SSO),Landed 7:06 PM,2021-06-06
+87,87,7:25 PM,SN3810,Porto (OPO),Brussels Airlines A320 (OO-SNI),Landed 7:16 PM,2021-06-06
+88,88,7:30 PM,VY2150,Malaga (AGP),Vueling A320 (EC-MJB),Landed 7:32 PM,2021-06-06
+89,89,7:40 PM,AZ154,Milan (LIN),Alitalia E75S (EI-RDN),Landed 8:02 PM,2021-06-06
+90,90,7:45 PM SN2306,,Stockholm (BMA),Brussels Airlines A319 (OO-SSF),Landed 7:22 PM,2021-06-06
+91,91,7:50 PM SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSB),Landed 7:38 PM,2021-06-06
+92,92,7:50 PM RU9707,,Cincinnati (CVG),AirBridgeCargo B748 (VP-BJS),Landed 7:59 PM,2021-06-06
+93,93,7:55 PM,SN2906,Vienna (VIE),Brussels Airlines A319 (OO-SSX),Landed 7:54 PM,2021-06-06
+94,94,8:00 PM,OU4456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Landed 8:06 PM,2021-06-06
+95,95,8:00 PM,SN3182,Rome (FCO),Brussels Airlines A319 (OO-SSA),Landed 7:50 PM,2021-06-06
+96,96,8:05 PM,SN2588,Berlin (BER),Brussels Airlines A319 (OO-SSN),Landed 7:40 PM,2021-06-06
+97,97,8:05 PM,SN3206,Venice (VCE),Brussels Airlines A319 (OO-SSW),Landed 7:49 PM,2021-06-06
+98,98,8:10 PM SN3290,,Tel Aviv (TLV),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 8:25 PM,2021-06-06
+99,99,8:35 PM FR2279,,Porto (OPO),Ryanair B738 (EI-DCI),Landed 8:14 PM,2021-06-06
+100,100,9:00 PM 0B1123,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-06
+101,101,9:15 PM ET729,,Manchester (MAN),Ethiopian Airlines B788 (ET-ATL),Landed 9:07 PM,2021-06-06
+102,102,9:35 PM FR2934,,Alicante (ALC),Ryanair B738 (EI-EKG),Landed 9:14 PM,2021-06-06
+103,103,9:55 PM FR2984,,Rome (FCO),Ryanair B738 (9H-QBR),Landed 9:57 PM,2021-06-06
+104,104,10:00 PM AD9997,,Campinas (VCP),Azul Linhas Aereas A339 (PR-ANW),Landed 8:59 PM,2021-06-06
+105,105,10:05 PM,KL1733,Amsterdam (AMS),KLM E190 (PH-EXY),Landed 9:59 PM,2021-06-06
+106,106,10:05 PM,SN3246,Athens (ATH),Brussels Airlines A319 (OO-SSR),Landed 9:54 PM,2021-06-06
+107,107,10:20 PM,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AILK),Landed 10:39 PM,2021-06-06
+108,108,10:25 PM SN3752,,Valencia (VLC),Brussels Airlines A320 (OO-SNJ),Landed 9:55 PM,2021-06-06
+109,109,10:30 PM TB1372,,Palma de Mallorca (PMI),TUI B38M (OO-TMB),Landed 10:15 PM,2021-06-06
+110,110,10:45 PM,LH2294,Munich (MUC),Air Dolomiti E195 (I-ADJR),Landed 10:34 PM,2021-06-06
+111,111,10:45 PM TB1332,,Ibiza (IBZ),TUI B38M (OO-TMA),Landed 10:35 PM,2021-06-06
+112,112,11:25 PM,SN3706,Barcelona (BCN),Brussels Airlines A320 (OO-TCV),Landed 11:11 PM,2021-06-06
+113,113,11:25 PM SN3738,,Malaga (AGP),Brussels Airlines A320 (OO-SNM),Landed 11:22 PM,2021-06-06
+114,114,11:25 PM SN3766,,Palma de Mallorca (PMI),Brussels Airlines A320 (OO-TCH),Landed 11:08 PM,2021-06-06
+115,115,11:35 PM,TP642,Lisbon (LIS),TAP Express E195 (CS-TTW),Landed 11:45 PM,2021-06-06
+0,0,00:35 TB2342,,Rhodes (RHO),TUI B38M (OO-TMY),Landed 00:13,2021-06-07
+1,1,01:45 TB3314,,Eskisehir (AOE),TUI B738 (OO-TUP),Landed 01:38,2021-06-07
+2,2,02:25 TB1756,,Tenerife (TFS),TUI B738 (OO-JAU),Landed 03:01,2021-06-07
+3,3,05:25 QY977,,Cincinnati (CVG),DHL A332 (D-ALMA),Landed 05:30,2021-06-07
+4,4,06:40 SN358,,Kinshasa (FIH),Brussels Airlines A333 (OO-SFG),Landed 06:38,2021-06-07
+5,5,06:45 HU491,,Beijing (PEK),Hainan Airlines A333 (B-1096),Landed 06:11,2021-06-07
+6,6,07:00 QY971,,New York (JFK),DHL A333 (D-ACVG),Landed 08:14,2021-06-07
+7,7,07:15 UA950,,Washington (IAD),United Airlines B78X (N17002),Landed 07:23,2021-06-07
+8,8,07:20 SN474,,Entebbe (EBB),Brussels Airlines A333 (OO-SFE),Landed 06:53,2021-06-07
+9,9,07:25 SN319,,Accra (ACC),Brussels Airlines A333 (OO-SFD),Landed 07:09,2021-06-07
+10,10,07:45 UA999,,New York (EWR),United Airlines B78X (N12012),Landed 07:52,2021-06-07
+11,11,07:55 SN383,,Yaounde (NSI),Brussels Airlines A333 (OO-SFF),Landed 07:56,2021-06-07
+12,12,08:15 FR2964,,Milan (MXP),Ryanair B738 (9H-QAL),Landed 07:53,2021-06-07
+13,13,08:30 0B3723,,Cluj-Napoca (CLJ),Blue Air 738,Unknown,2021-06-07
+14,14,08:30 FR2918,,Barcelona (BCN),Ryanair B738 (EI-DCP),Landed 08:16,2021-06-07
+15,15,08:35 ET724,,Vienna (VIE),Ethiopian Airlines B789 (ET-AUO),Landed 07:49,2021-06-07
+16,16,08:40,OU456,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Landed 08:25,2021-06-07
+17,17,09:05 0B123,,Bucharest (OTP),Blue Air B738 (YR-BMJ),Landed 08:41,2021-06-07
+18,18,09:10 FR7000,,Rome (CIA),Ryanair B738 (9H-QDL),Landed 08:46,2021-06-07
+19,19,09:15,AY1541,Helsinki (HEL),Finnair E190 (OH-LKM),Landed 09:04,2021-06-07
+20,20,09:15 0B2923,,Bacau (BCM),Blue Air B738 (YR-BMQ),Unknown,2021-06-07
+21,21,09:15 FR1452,,Dublin (DUB),Ryanair B738 (EI-DPF),Landed 09:00,2021-06-07
+22,22,09:20,SK589,Stockholm (ARN),SAS A20N (SE-ROU),Landed 09:12,2021-06-07
+23,23,09:25,OS351,Vienna (VIE),Austrian Airlines A320 (OE-LBN),Landed 09:08,2021-06-07
+24,24,09:30,LO235,Warsaw (WAW),LOT E170 (SP-LDE),Landed 09:13,2021-06-07
+25,25,09:30 GB957,,New York (JFK),ABX Air B763 (N362CM),Landed 10:03,2021-06-07
+26,26,09:50,SK593,Copenhagen (CPH),SAS A20N (SE-ROS),Landed 09:34,2021-06-07
+27,27,09:50 3O113,,Tangier (TNG),Air Arabia Maroc 320,Canceled,2021-06-07
+28,28,10:00 Y87417,,Zhengzhou (CGO),Suparna Airlines 74F,Unknown,2021-06-07
+29,29,10:10 6T5509,,Chicago (RFD),Longtail Aviation B744 (VQ-BWT),Landed 12:05,2021-06-07
+30,30,10:15 ET3779,,Shanghai (PVG),Ethiopian Airlines 77X,Unknown,2021-06-07
+31,31,10:25,KL1723,Amsterdam (AMS),KLM E75L (PH-EXX),Landed 10:19,2021-06-07
+32,32,10:30,TK1937,Istanbul (IST),Turkish Airlines A21N (TC-LSE),Landed 10:13,2021-06-07
+33,33,10:45,TP646,Lisbon (LIS),TAP Air Portugal A319 (CS-TTN),Landed 10:34,2021-06-07
+34,34,11:00 RO371,,Strasbourg (SXB),Tarom (Happy 66 Years Livery) B737 (YR-BGG),Landed 11:23,2021-06-07
+35,35,11:10,AZ156,Rome (FCO),Alitalia A319 (EI-IMT),Landed 10:58,2021-06-07
+36,36,11:15,IB3206,Madrid (MAD),Iberia A320 (EC-JFN),Landed 11:02,2021-06-07
+37,37,11:20,A3620,Strasbourg (SXB),Aegean Airlines A20N (SX-NEO),Landed 10:39,2021-06-07
+38,38,11:45 TB1412,,Palma de Mallorca (PMI),TUI B38M (OO-TMA),Landed 11:32,2021-06-07
+39,39,11:50 TK7720,,Istanbul (SAW),AnadoluJet B738 (TC-SBV),Landed 11:43,2021-06-07
+40,40,12:15 TB3752,,Suceava (SCV),TUI E190 (OO-JVA),Landed 12:13,2021-06-07
+41,41,12:25,SN3176,Rome (FCO),Brussels Airlines A319 (OO-SSR),Landed 12:10,2021-06-07
+42,42,12:25 SN3634,,Paris (CDG),Brussels Airlines A320 (OO-SNM),Landed 12:04,2021-06-07
+43,43,12:35,SN2714,Geneva (GVA),Brussels Airlines A319 (OO-SSB),Landed 12:25,2021-06-07
+44,44,12:45 K3955,,Sharjah (SHJ),Taquan Air 72F,Unknown,2021-06-07
+45,45,12:50 TB2172,,Thessaloniki (SKG),TUI B737 (OO-JAR),Landed 12:43,2021-06-07
+46,46,13:00 AT352,,Algiers (ALG),Royal Air Maroc 76Y,Unknown,2021-06-07
+47,47,13:00,LH2286,Munich (MUC),Air Dolomiti E195 (I-ADJW),Landed 13:00,2021-06-07
+48,48,13:00,SN2624,Hamburg (HAM),Brussels Airlines A319 (OO-SSF),Landed 12:52,2021-06-07
+49,49,13:05,SN3588,Lyon (LYS),Brussels Airlines A319 (OO-SSU),Landed 12:59,2021-06-07
+50,50,13:15,SN2094,London (LHR),Brussels Airlines A320 (OO-SNK),Landed 13:28,2021-06-07
+51,51,13:15,SN2582,Berlin (BER),Brussels Airlines A319 (OO-SSV),Landed 12:57,2021-06-07
+52,52,13:15,VY1332,Alicante (ALC),Vueling A320 (EC-LVP),Landed 13:44,2021-06-07
+53,53,13:20,EK183,Dubai (DXB),Emirates B77W (A6-EQI),Landed 13:07,2021-06-07
+54,54,13:20 FR2926,,Lisbon (LIS),Ryanair B738 (EI-EBS),Landed 13:23,2021-06-07
+55,55,13:25 SN2258,,Copenhagen (CPH),Brussels Airlines A319 (OO-SSO),Landed 13:17,2021-06-07
+56,56,13:30 SN3124,,Bologna (BLQ),Brussels Airlines A319 (OO-SSW),Landed 13:08,2021-06-07
+57,57,13:30,SN3736,Malaga (AGP),Brussels Airlines A320 (OO-SNI),Landed 13:15,2021-06-07
+58,58,13:35,LH1012,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A319 (D-AILF),Landed 13:47,2021-06-07
+59,59,13:35,SN3216,Milan (MXP),Brussels Airlines A319 (OO-SSN),Landed 13:21,2021-06-07
+60,60,13:35,SN3202,Venice (VCE),Brussels Airlines A319 (OO-SSX),Landed 13:27,2021-06-07
+61,61,13:35,SN3668,Toulouse (TLS),Brussels Airlines A319 (OO-SSA),Landed 13:14,2021-06-07
+62,62,13:35,SN3802,Faro (FAO),Brussels Airlines A320 (OO-SNJ),Landed 13:19,2021-06-07
+63,63,13:55 SN3256,,Heraklion (HER),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 13:56,2021-06-07
+64,64,14:15 TB1134,,Malaga (AGP),TUI B38M (OO-TMY),Landed 13:55,2021-06-07
+65,65,14:20 GQ800,,Athens (ATH),Sky Express A20N (SX-WEB),Landed 14:29,2021-06-07
+66,66,15:00 SQ7979,,Dallas (DFW),Singapore Airlines Cargo B744 (9V-SFI),Landed 19:29,2021-06-07
+67,67,15:05,TP648,Lisbon (LIS),TAP Air Portugal A320 (CS-TNJ),Landed 14:44,2021-06-07
+68,68,15:45 QR8814,,Doha (DOH),Qatar Airways B77W (A7-BER),Landed 15:36,2021-06-07
+69,69,15:55 TB1752,,Tenerife (TFS),TUI B738 (OO-TUP),Landed 15:33,2021-06-07
+70,70,16:05 FR2929,,Porto (OPO),Ryanair B738 (EI-GXL),Landed 15:45,2021-06-07
+71,71,16:10,SN3816,Lisbon (LIS),Brussels Airlines (Tomorrowland Livery) A320 (OO-SNF),Landed 15:53,2021-06-07
+72,72,16:25 FR2952,,Madrid (MAD),Ryanair B738 (EI-EVN),Landed 16:14,2021-06-07
+73,73,16:25 OZ588,,New York (JFK),Asiana Airlines 74F,Unknown,2021-06-07
+74,74,16:25 OZ587,,New York (JFK),Asiana Cargo B744 (HL7420),Landed 16:59,2021-06-07
+75,75,16:35,SN3812,Porto (OPO),Brussels Airlines A320 (OO-TCV),Landed 16:21,2021-06-07
+76,76,17:25 3O115,,Nador (NDR),Air Arabia Maroc 320,Canceled,2021-06-07
+77,77,17:30,SN3704,Barcelona (BCN),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 17:24,2021-06-07
+78,78,17:35,UX1173,Madrid (MAD),Air Europa Express E195 (EC-LCQ),Landed 17:19,2021-06-07
+79,79,17:40,KL1725,Amsterdam (AMS),KLM E190 (PH-EZL),Landed 17:29,2021-06-07
+80,80,17:40 VS505,,London (LHR),Virgin Atlantic A333 (G-VWAG),Landed 17:18,2021-06-07
+81,81,17:40 TB9651,,Mexico City (MEX),TUI B788 (OO-JDL),Landed 18:30,2021-06-07
+82,82,18:05 3O111,,Casablanca (CMN),Air Arabia Maroc -,Canceled,2021-06-07
+83,83,18:20 TK1939,,Istanbul (IST),Turkish Airlines A21N (TC-LSG),Landed 18:10,2021-06-07
+84,84,18:40,LO233,Warsaw (WAW),LOT E190 (SP-LMB),Landed 18:18,2021-06-07
+85,85,18:55,IB3214,Madrid (MAD),Iberia (Oneworld Livery) A20N (EC-NFZ),Landed 18:25,2021-06-07
+86,86,19:20 SN3752,,Valencia (VLC),Brussels Airlines A319 (OO-SSB),Landed 18:52,2021-06-07
+87,87,19:30 SN3622,,Nice (NCE),Brussels Airlines A319 (OO-SSF),Landed 19:48,2021-06-07
+88,88,19:40,AZ154,Milan (LIN),Alitalia E75S (EI-RDE),Landed 19:19,2021-06-07
+89,89,19:50 SN3728,,Madrid (MAD),Brussels Airlines A319 (OO-SSR),Landed 19:39,2021-06-07
+90,90,19:55,SN2906,Vienna (VIE),Brussels Airlines A319 (OO-SSW),Landed 19:48,2021-06-07
+91,91,20:50,VY8984,Barcelona (BCN),Vueling A20N (EC-NAE),Landed 20:37,2021-06-07
+92,92,21:10 FR2986,,Valencia (VLC),Ryanair B738 (EI-EMA),Landed 21:11,2021-06-07
+93,93,21:15 3V4804,,Orebro (ORB),FedEx B734 (OE-IBW),Landed 20:41,2021-06-07
+94,94,22:05,KL1733,Amsterdam (AMS),KLM E190 (PH-EZW),Landed 21:47,2021-06-07
+95,95,22:20,LH1024,Frankfurt (FRA),Lufthansa A319 (D-AIBA),Landed 22:01,2021-06-07
+96,96,22:40 TB1912,,Funchal (FNC),TUI B738 (OO-TNC),Landed 22:12,2021-06-07
+97,97,23:25 SN3738,,Malaga (AGP),Brussels Airlines A319 (OO-SSO),Landed 23:06,2021-06-07
