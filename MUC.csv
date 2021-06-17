@@ -4698,3 +4698,1201 @@
 156,156,22:25 3V4219,,Lyon (LYS),ASL Airlines Belgium 73P,Unknown,2021-06-07
 157,157,22:25 V8816,,Moscow (VKO),Atran 73P,Unknown,2021-06-07
 158,158,23:25 X32238,,Fuerteventura (FUE),TUI B738 (D-ATUM),Landed 22:56,2021-06-07
+0,0,01:15 X3951,,Hannover (HAJ),TUI B738 (D-ABAG),Landed 01:03,2021-06-08
+1,1,05:15 3V4387,,Liege (LGG),FedEx B734 (OE-IAP),Landed 05:06,2021-06-08
+2,2,06:50,XQ714,Ankara (ESB),SunExpress B738 (TC-SEO),Landed 06:26,2021-06-08
+3,3,07:00,QR59,Doha (DOH),Qatar Airways A359 (A7-ALN),Landed 06:22,2021-06-08
+4,4,07:15,LH2559,Tbilisi (TBS),Lufthansa A20N (D-AINO),Landed 07:13,2021-06-08
+5,5,07:35 AA9720,,Charlotte (CLT),American Airlines B772,Unknown,2021-06-08
+6,6,07:35,UA106,Washington (IAD),United Airlines B788 (N26902),Landed 07:41,2021-06-08
+7,7,07:40,LH1927,Berlin (BER),Lufthansa A319 (D-AILW),Landed 07:24,2021-06-08
+8,8,08:05,LH2107,Hannover (HAJ),Lufthansa CRJ9 (D-ACNI),Landed 07:58,2021-06-08
+9,9,08:10,EW90,Cologne (CGN),Eurowings B738 (D-ABMQ),Landed 07:47,2021-06-08
+10,10,08:10,LH94,Frankfurt (FRA),Lufthansa CRJ9 (D-ACKH),Landed 08:02,2021-06-08
+11,11,08:10,LH2199,Bremen (BRE),Lufthansa CRJ9 (D-ACNQ),Landed 07:55,2021-06-08
+12,12,08:10,LH2421,Stockholm (ARN),Lufthansa A319 (D-AILY),Landed 08:24,2021-06-08
+13,13,08:10,OS111,Vienna (VIE),Austrian Airlines (Star Alliance Livery) E195 (OE-LWH),Landed 07:53,2021-06-08
+14,14,08:10 0B2985,,Bacau (BCM),Blue Air 738,Unknown,2021-06-08
+15,15,08:20,EW4064,Dortmund (DTM),Eurowings A320 (D-AIZT),Landed 07:51,2021-06-08
+16,16,08:20 XC2103,,Antalya (AYT),Corendon Airlines 738,Unknown,2021-06-08
+17,17,08:25,EW7170,Hamburg (HAM),Eurowings A320 (D-AEWI),Landed 08:05,2021-06-08
+18,18,08:30,EN8191,Florence (FLR),Air Dolomiti E195 (I-ADJR),Landed 08:29,2021-06-08
+19,19,08:30,EN8199,Venice (VCE),Air Dolomiti E195 (I-ADJT),Landed 08:16,2021-06-08
+20,20,08:30,EW9080,Dusseldorf (DUS),Eurowings A320 (D-AEWT),Landed 08:19,2021-06-08
+21,21,08:30 W22422,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-08
+22,22,08:30 0B185,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-08
+23,23,08:35 LH1707,,Sofia (SOF),Air Dolomiti E195 (I-ADJO),Landed 08:27,2021-06-08
+24,24,08:35 LH1617,,Warsaw (WAW),Air Dolomiti E195 (I-ADJL),Landed 08:11,2021-06-08
+25,25,08:35 LH1863,,Milan (MXP),Lufthansa CRJ9 (D-ACNX),Landed 08:08,2021-06-08
+26,26,08:55 LH2223,,Toulouse (TLS),Lufthansa CRJ9 (D-ACND),Landed 08:44,2021-06-08
+27,27,08:55 XC3521,,Izmir (ADB),Corendon Airlines 738,Unknown,2021-06-08
+28,28,09:00 LH2467,,Helsinki (HEL),Lufthansa A20N (D-AINU),Landed 09:08,2021-06-08
+29,29,09:20 A3500,,Thessaloniki (SKG),Aegean Airlines (Star Alliance livery) A320 (SX-DVQ),Unknown,2021-06-08
+30,30,09:30 LH2473,,London (LHR),Lufthansa A20N (D-AINV),Landed 09:06,2021-06-08
+31,31,09:35 LH1757,,Athens (ATH),Lufthansa A319 (D-AIBC),Landed 09:20,2021-06-08
+32,32,09:40 UA194,,San Francisco (SFO),United Airlines B789 (N38955),Landed 09:50,2021-06-08
+33,33,09:40 UX1515,,Madrid (MAD),Air Europa B738 (EC-MKL),Landed 09:22,2021-06-08
+34,34,09:45 UA952,,Chicago (ORD),United Airlines B789 (N15969),Landed 09:33,2021-06-08
+35,35,09:45 LH1819,,Barcelona (BCN),Air Dolomiti E195 (I-ADJP),Landed 09:28,2021-06-08
+36,36,09:45 LH1807,,Madrid (MAD),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 09:38,2021-06-08
+37,37,09:55 LH1675,,Budapest (BUD),Lufthansa CRJ9 (D-ACNG),Landed 09:48,2021-06-08
+38,38,09:55 LH1873,,Rome (FCO),Air Dolomiti E195 (I-ADJW),Landed 09:41,2021-06-08
+39,39,10:00 DE1509,,Palma de Mallorca (PMI),Condor B753 (D-ABOE),Landed 09:52,2021-06-08
+40,40,10:00,LH2457,Oslo (OSL),Lufthansa CRJ9 (D-ACNO),Unknown,2021-06-08
+41,41,10:05,LH1781,Lisbon (LIS),Lufthansa A319 (D-AILI),Landed 09:59,2021-06-08
+42,42,10:05,LH1929,Berlin (BER),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 09:57,2021-06-08
+43,43,10:10,LH98,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A320 (D-AIUA),Landed 10:10,2021-06-08
+44,44,10:10,LH2003,Dusseldorf (DUS),Lufthansa A20N (D-AINR),Landed 09:55,2021-06-08
+45,45,10:15,LH2051,Hamburg (HAM),Lufthansa A20N (D-AINM),Landed 10:14,2021-06-08
+46,46,10:15,A3802,Athens (ATH),Aegean Airlines A321 (SX-DGT),Unknown,2021-06-08
+47,47,10:25,EW6890,Palma de Mallorca (PMI),Eurowings A319 (OE-LYZ),Landed 10:05,2021-06-08
+48,48,10:35,EW6886,Palma de Mallorca (PMI),Eurowings A320 (OE-IQC),Landed 10:16,2021-06-08
+49,49,11:00,KL1793,Amsterdam (AMS),KLM E295 (PH-NXA),Landed 10:41,2021-06-08
+50,50,11:05,EN8285,Milan (LIN),Air Dolomiti E195 (I-ADJQ),Landed 10:38,2021-06-08
+51,51,11:35,IB3190,Madrid (MAD),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 11:08,2021-06-08
+52,52,11:55 DE1783,,Preveza (PVK),Condor A320 (D-AICA),Landed 11:28,2021-06-08
+53,53,12:30,LH2733,Rhodes (RHO),Lufthansa A20N (D-AINN),Landed 12:06,2021-06-08
+54,54,12:55 X34293,,Rhodes (RHO),TUI B738 (D-ASUN),Landed 12:23,2021-06-08
+55,55,13:00 X34283,,Heraklion (HER),TUI B738 (D-ATUN),Landed 12:44,2021-06-08
+56,56,13:15,EK49,Dubai (DXB),Emirates 77W,Unknown,2021-06-08
+57,57,13:20,XQ976,Izmir (ADB),SunExpress (Eintracht Frankfurt Livery) B738 (TC-SPC),Landed 13:28,2021-06-08
+58,58,13:35,LH453,Los Angeles (LAX),Lufthansa A359 (D-AIXE),Landed 12:59,2021-06-08
+59,59,14:10,LH106,Frankfurt (FRA),Lufthansa A320 (D-AIZX),Landed 14:08,2021-06-08
+60,60,14:30,LH2059,Hamburg (HAM),Lufthansa A319 (D-AIBC),Landed 14:30,2021-06-08
+61,61,14:35,LH1977,Cologne (CGN),Lufthansa CRJ9 (D-ACNT),Landed 14:27,2021-06-08
+62,62,14:35 LH2137,,Munster (FMO),Lufthansa CRJ9 (D-ACNO),Unknown,2021-06-08
+63,63,14:40,LH1717,Split (SPU),Lufthansa A319 (D-AILY),Landed 14:23,2021-06-08
+64,64,14:40,LH1651,Bucharest (OTP),Air Dolomiti E195 (I-ADJL),Landed 14:24,2021-06-08
+65,65,14:40,LH1657,Timisoara (TSR),Lufthansa CRJ9 (D-ACNG),Landed 14:28,2021-06-08
+66,66,14:40,LH1937,Berlin (BER),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 14:32,2021-06-08
+67,67,14:40,LH2441,Copenhagen (CPH),Lufthansa CRJ9 (D-ACNI),Landed 14:35,2021-06-08
+68,68,14:45,LH1613,Warsaw (WAW),Air Dolomiti E195 (I-ADJT),Landed 14:39,2021-06-08
+69,69,14:45,LH1751,Athens (ATH),Lufthansa A20N (D-AINT),Landed 14:33,2021-06-08
+70,70,14:45,LH2193,Bremen (BRE),Lufthansa CRJ9 (D-ACND),Landed 14:37,2021-06-08
+71,71,14:50 LH719,,Seoul (ICN),Lufthansa A359 (D-AIXL),Landed 14:20,2021-06-08
+72,72,14:50,LH2013,Dusseldorf (DUS),Lufthansa A319 (D-AILA),Landed 14:41,2021-06-08
+73,73,14:55,LH1907,Catania (CTA),Lufthansa A319 (D-AILP),Landed 14:59,2021-06-08
+74,74,14:55,LH2229,Paris (CDG),Lufthansa CRJ9 (D-ACNU),Landed 14:49,2021-06-08
+75,75,14:55,LH2273,Nice (NCE),Air Dolomiti E195 (I-ADJO),Landed 15:13,2021-06-08
+76,76,14:55,LH2287,Brussels (BRU),Lufthansa CRJ9 (D-ACNH),Landed 14:53,2021-06-08
+77,77,15:05,EN8211,Verona (VRN),Air Dolomiti E195 (I-ADJX),Landed 14:47,2021-06-08
+78,78,15:05,LH1877,Naples (NAP),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 15:02,2021-06-08
+79,79,15:05,LH2429,Gothenburg (GOT),Lufthansa CRJ9 (D-ACKH),Landed 14:55,2021-06-08
+80,80,15:10 LH2307,,Amsterdam (AMS),Lufthansa CRJ9 (D-ACKG),Landed 14:51,2021-06-08
+81,81,15:15,LH1669,Cluj-Napoca (CLJ),Lufthansa CRJ9 (D-ACNX),Landed 14:56,2021-06-08
+82,82,15:15,LH1783,Porto (OPO),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 15:09,2021-06-08
+83,83,16:40 LH2479,,London (LHR),Lufthansa A20N (D-AINV),Landed 16:21,2021-06-08
+84,84,16:45 LH2545,,Kyiv (KBP),Lufthansa E195 (D-AEBB),Landed 16:51,2021-06-08
+85,85,16:50 DE1609,,Kos (KGS),Condor A320 (D-AICR),Landed 16:47,2021-06-08
+86,86,17:10,AF1822,Paris (CDG),Air France E170 (F-HBXM),Landed 17:17,2021-06-08
+87,87,17:10,TK1635,Istanbul (IST),Turkish Airlines A21N (TC-LSG),Landed 16:56,2021-06-08
+88,88,17:15,EW1995,Palma de Mallorca (PMI),Eurowings A319 (OE-LYZ),Landed 17:00,2021-06-08
+89,89,17:40 LH2257,,Strasbourg (SXB),Lufthansa CRJ9 (D-ACNI),Landed 17:16,2021-06-08
+90,90,17:50,AY1405,Helsinki (HEL),Finnair E190 (OH-LKH),Landed 17:48,2021-06-08
+91,91,18:10,LH114,Frankfurt (FRA),Lufthansa A20N (D-AINC),Landed 17:58,2021-06-08
+92,92,18:10,LH2703,Corfu (CFU),Lufthansa A20N (D-AINN),Landed 17:53,2021-06-08
+93,93,18:20,LH1779,Lisbon (LIS),Lufthansa A20N (D-AINR),Landed 18:11,2021-06-08
+94,94,18:25,EW7176,Hamburg (HAM),Eurowings A319 (D-AGWU),Landed 18:05,2021-06-08
+95,95,18:25,LX1110,Zurich (ZRH),Swiss BCS1 (HB-JBI),Landed 18:02,2021-06-08
+96,96,18:30,BT223,Riga (RIX),Air Baltic BCS3 (YL-AAX),Landed 18:08,2021-06-08
+97,97,18:30,LH1769,Larnaca (LCA),Lufthansa A20N (D-AINO),Landed 18:20,2021-06-08
+98,98,18:45,EW9092,Dusseldorf (DUS),Eurowings A320 (D-ABNL),Landed 18:23,2021-06-08
+99,99,18:45,OS115,Vienna (VIE),Austrian Airlines E195 (OE-LWO),Landed 18:29,2021-06-08
+100,100,19:10,EW4062,Dortmund (DTM),Eurowings A320 (D-AIZT),Landed 18:54,2021-06-08
+101,101,19:10 LH116,,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNK),Landed 19:04,2021-06-08
+102,102,19:15,LH2063,Hamburg (HAM),Lufthansa A319 (D-AILP),Landed 19:07,2021-06-08
+103,103,19:30 LH1913,,Olbia (OLB),Lufthansa CRJ9 (D-ACND),Landed 19:27,2021-06-08
+104,104,19:45,EN8287,Milan (LIN),Air Dolomiti E195 (I-ADJX),Landed 19:17,2021-06-08
+105,105,19:45 LH1797,,Palma de Mallorca (PMI),Lufthansa A20N (D-AINW),Landed 19:37,2021-06-08
+106,106,19:45 LH1847,,Ibiza (IBZ),Air Dolomiti E195 (I-ADJW),Landed 20:36,2021-06-08
+107,107,19:55,OU436,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQC),Landed 19:36,2021-06-08
+108,108,20:25,LH1759,Heraklion (HER),Lufthansa A20N (D-AINU),Landed 20:14,2021-06-08
+109,109,20:35,LH1953,Berlin (BER),Lufthansa CRJ9 (D-ACNP),Landed 20:28,2021-06-08
+110,110,20:40 LH2023,,Dusseldorf (DUS),Lufthansa A319 (D-AIBC),Landed 20:34,2021-06-08
+111,111,21:05 X34807,,Kos (KGS),TUI fly 73H,Unknown,2021-06-08
+112,112,21:10 LH2071,,Hamburg (HAM),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 20:56,2021-06-08
+113,113,21:35 DE1610,,Rhodes (RHO),Condor A320 (D-AICA),Landed 21:17,2021-06-08
+114,114,22:05 5X6119,,Athens (ATH),UPS Airlines 76F,Unknown,2021-06-08
+115,115,22:10 LH122,,Frankfurt (FRA),Lufthansa A359 (D-AIXJ),Landed 22:04,2021-06-08
+116,116,22:25,KL1801,Amsterdam (AMS),KLM E75L (PH-EXW),Landed 22:11,2021-06-08
+117,117,22:25 3V4537,,Tallinn (TLL),ASL Airlines Belgium B734 (OE-IAJ),Landed 22:02,2021-06-08
+118,118,22:25 V8816,,Moscow (VKO),Atran 73P,Unknown,2021-06-08
+119,119,23:15 X32843,,Funchal (FNC),TUI fly 7S8,Unknown,2021-06-08
+0,0,01:15 X3951,,Hannover (HAJ),TUI B738 (D-AHFV),Landed 01:09,2021-06-09
+1,1,05:15 3V4387,,Liege (LGG),FedEx B734 (OE-IAP),Landed 05:05,2021-06-09
+2,2,06:55,SQ328,Singapore (SIN),Singapore Airlines A359 (9V-SMA),Landed 06:51,2021-06-09
+3,3,07:15,LH2559,Tbilisi (TBS),Lufthansa A20N (D-AINM),Landed 07:08,2021-06-09
+4,4,07:35 AA9720,,Charlotte (CLT),American Airlines B772,Unknown,2021-06-09
+5,5,07:35,UA106,Washington (IAD),United Airlines B789 (N29975),Landed 08:27,2021-06-09
+6,6,08:05,LH2107,Hannover (HAJ),Lufthansa CRJ9 (D-ACNH),Landed 07:50,2021-06-09
+7,7,08:10,LH94,Frankfurt (FRA),Lufthansa A319 (D-AILD),Landed 07:56,2021-06-09
+8,8,08:10,LH2125,Dresden (DRS),Lufthansa CRJ9 (D-ACNT),Landed 07:59,2021-06-09
+9,9,08:10,LH2199,Bremen (BRE),Lufthansa CRJ9 (D-ACNI),Landed 08:03,2021-06-09
+10,10,08:10,OS111,Vienna (VIE),Austrian Airlines A319 (OE-LDF),Landed 07:53,2021-06-09
+11,11,08:20,EW4064,Dortmund (DTM),Eurowings A320 (D-AIZQ),Landed 07:55,2021-06-09
+12,12,08:25,EW7170,Hamburg (HAM),Eurowings A319 (D-AGWH),Landed 08:01,2021-06-09
+13,13,08:30,EN8199,Venice (VCE),Air Dolomiti E195 (I-ADJO),Landed 08:14,2021-06-09
+14,14,08:30,EN8245,Bologna (BLQ),Air Dolomiti E195 (I-ADJP),Landed 08:05,2021-06-09
+15,15,08:30,EW9080,Dusseldorf (DUS),Eurowings A319 (D-ABGN),Landed 08:11,2021-06-09
+16,16,08:30 0B185,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-09
+17,17,08:35,LH1617,Warsaw (WAW),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 08:16,2021-06-09
+18,18,08:55,LH2223,Toulouse (TLS),Lufthansa CRJ9 (D-ACNO),Landed 08:57,2021-06-09
+19,19,09:05 LH2741,,Tirana (TIA),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 09:01,2021-06-09
+20,20,09:35,LH1757,Athens (ATH),Lufthansa A20N (D-AINT),Landed 09:17,2021-06-09
+21,21,09:35 RO315,,Bucharest (OTP),Tarom B738 (YR-BGJ),Landed 09:07,2021-06-09
+22,22,09:45 UA952,,Chicago (ORD),United Airlines B788 (N27903),Landed 09:13,2021-06-09
+23,23,09:45 LH1819,,Barcelona (BCN),Air Dolomiti E195 (I-ADJT),Landed 09:36,2021-06-09
+24,24,09:45 LH1807,,Madrid (MAD),Lufthansa A319 (D-AILW),Landed 09:46,2021-06-09
+25,25,09:55 LH481,,Denver (DEN),Lufthansa A359 (D-AIXC),Landed 09:32,2021-06-09
+26,26,09:55 LH1675,,Budapest (BUD),Lufthansa CRJ9 (D-ACNU),Landed 09:40,2021-06-09
+27,27,09:55 LH1873,,Rome (FCO),Air Dolomiti E195 (I-ADJQ),Landed 10:00,2021-06-09
+28,28,10:00 LH683,,Tel Aviv (TLV),Lufthansa A319 (D-AIBB),Landed 09:55,2021-06-09
+29,29,10:00 LH2457,,Oslo (OSL),Lufthansa CRJ9 (D-ACKE),Landed 09:42,2021-06-09
+30,30,10:05 LH1781,,Lisbon (LIS),Lufthansa A319 (D-AILA),Landed 09:51,2021-06-09
+31,31,10:05 LH1929,,Berlin (BER),Lufthansa A20N (D-AINV),Landed 09:49,2021-06-09
+32,32,10:05 LH2725,,Olbia (OLB),Lufthansa A20N (D-AINN),Landed 10:00,2021-06-09
+33,33,10:10 LH98,,Frankfurt (FRA),Lufthansa A20N (D-AINC),Landed 10:11,2021-06-09
+34,34,10:10,LH2003,Dusseldorf (DUS),Lufthansa A319 (D-AIBE),Landed 09:53,2021-06-09
+35,35,10:15,LH2051,Hamburg (HAM),Lufthansa A319 (D-AILH),Landed 10:14,2021-06-09
+36,36,10:15 LH2301,,Amsterdam (AMS),Lufthansa CRJ9 (D-ACKG),Landed 09:56,2021-06-09
+37,37,10:25,LH413,New York (EWR),Lufthansa A359 (D-AIXF),Landed 10:03,2021-06-09
+38,38,10:40,EW6890,Palma de Mallorca (PMI),Eurowings A319 (OE-LYZ),Landed 10:25,2021-06-09
+39,39,11:00,KL1793,Amsterdam (AMS),KLM E295 (PH-NXC),Landed 10:53,2021-06-09
+40,40,11:05,KM306,Luqa (MLA),Air Malta A20N (9H-NEB),Unknown,2021-06-09
+41,41,11:10 FB5017,,Sofia (SOF),Bulgaria Air E190 (LZ-PLO),Landed 11:01,2021-06-09
+42,42,11:35,AF1722,Paris (CDG),Air France E170 (F-HBXM),Landed 11:43,2021-06-09
+43,43,11:45 PC1019,,Istanbul (SAW),Pegasus A20N (TC-NCF),Landed 11:33,2021-06-09
+44,44,11:45 SU2322,,Moscow (SVO),Aeroflot A321 (VP-BTG),Landed 11:26,2021-06-09
+45,45,12:00 TK7738,,Istanbul (SAW),AnadoluJet B738 (TC-JFZ),Landed 11:50,2021-06-09
+46,46,12:12,,Chicago (ORD),- A359 (D-AIXD),Landed 12:30,2021-06-09
+47,47,12:15 X34807,,Kos (KGS),TUI fly 73H,Unknown,2021-06-09
+48,48,12:45,LH435,Chicago (ORD),Lufthansa A359 (D-AIXD),Unknown,2021-06-09
+49,49,12:50,TP558,Lisbon (LIS),TAP Express E195 (CS-TTY),Landed 12:43,2021-06-09
+50,50,12:50 X34283,,Heraklion (HER),TUI B738 (D-AHFV),Landed 12:19,2021-06-09
+51,51,13:00,LH2709,Faro (FAO),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 13:03,2021-06-09
+52,52,13:15,EK49,Dubai (DXB),Emirates (Expo 2020 - Opportunity Livery) B77W (A6-EQO),Landed 12:58,2021-06-09
+53,53,13:20,XQ976,Izmir (ADB),SunExpress (Eintracht Frankfurt Livery) B738 (TC-SPC),Landed 13:36,2021-06-09
+54,54,13:30,QR57,Doha (DOH),Qatar Airways A359 (A7-AMI),Landed 12:53,2021-06-09
+55,55,14:00,LH1703,Sofia (SOF),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 13:57,2021-06-09
+56,56,14:10,LH106,Frankfurt (FRA),Lufthansa A20N (D-AINC),Landed 14:19,2021-06-09
+57,57,14:25,LH1631,Wroclaw (WRO),Lufthansa CRJ9 (D-ACNU),Landed 14:05,2021-06-09
+58,58,14:30,LH2059,Hamburg (HAM),Lufthansa A20N (D-AINO),Landed 14:26,2021-06-09
+59,59,14:30 LH2717,,Ibiza (IBZ),Lufthansa A20N (D-AINR),Landed 15:14,2021-06-09
+60,60,14:35,LH1977,Cologne (CGN),Lufthansa CRJ9 (D-ACNQ),Landed 14:21,2021-06-09
+61,61,14:35 LH2137,,Munster (FMO),Lufthansa CRJ9 (D-ACND),Landed 14:23,2021-06-09
+62,62,14:40,LH1643,Gdansk (GDN),Lufthansa CRJ9 (D-ACKH),Landed 14:24,2021-06-09
+63,63,14:40,LH1937,Berlin (BER),Lufthansa A319 (D-AILP),Landed 15:00,2021-06-09
+64,64,14:40,LH2441,Copenhagen (CPH),Lufthansa CRJ9 (D-ACNT),Landed 14:30,2021-06-09
+65,65,14:45,LH1751,Athens (ATH),Lufthansa A321 (D-AIDO),Landed 15:16,2021-06-09
+66,66,14:45,LH1825,Bilbao (BIO),Lufthansa E195 (D-AEBB),Landed 14:53,2021-06-09
+67,67,14:45,LH2193,Bremen (BRE),Lufthansa CRJ9 (D-ACNO),Landed 14:34,2021-06-09
+68,68,14:50 LH1735,,Belgrade (BEG),Lufthansa CRJ9 (D-ACKG),Landed 14:29,2021-06-09
+69,69,14:50,LH2013,Dusseldorf (DUS),Lufthansa A319 (D-AILY),Landed 14:40,2021-06-09
+70,70,14:50,LH2415,Stockholm (ARN),Lufthansa A20N (D-AINZ),Landed 14:52,2021-06-09
+71,71,14:55,EN8221,Bari (BRI),Air Dolomiti E195 (I-ADJL),Landed 14:56,2021-06-09
+72,72,14:55,EW6614,Pristina (PRN),Eurowings (Europa Park Livery) A320 (D-ABDQ),Landed 14:42,2021-06-09
+73,73,14:55,LH1875,Rome (FCO),Air Dolomiti E195 (I-ADJO),Landed 14:55,2021-06-09
+74,74,14:55 LH1801,,Madrid (MAD),Lufthansa A319 (D-AILB),Landed 15:02,2021-06-09
+75,75,14:55,LH2229,Paris (CDG),Lufthansa CRJ9 (D-ACKE),Landed 16:16,2021-06-09
+76,76,14:55,LH2273,Nice (NCE),Lufthansa CRJ9 (D-ACNP),Landed 14:45,2021-06-09
+77,77,15:00,LH1665,Sibiu (SBZ),Lufthansa CRJ9 (D-ACNG),Landed 14:50,2021-06-09
+78,78,15:05,LH1877,Naples (NAP),Air Dolomiti E195 (I-ADJQ),Landed 14:49,2021-06-09
+79,79,15:05,LH2429,Gothenburg (GOT),Lufthansa CRJ9 (D-ACNH),Landed 14:58,2021-06-09
+80,80,15:05 TU526,,Tunis (TUN),Tunisair A320 (TS-IMN),Landed 15:07,2021-06-09
+81,81,15:15,LH1783,Porto (OPO),Lufthansa CRJ9 (D-ACNA),Landed 15:12,2021-06-09
+82,82,16:10 LH2729,,Palma de Mallorca (PMI),Lufthansa A20N (D-AINM),Landed 16:32,2021-06-09
+83,83,16:40 LH2479,,London (LHR),Lufthansa A20N (D-AINT),Landed 16:20,2021-06-09
+84,84,16:45 LH2545,,Kyiv (KBP),Lufthansa A319 (D-AILW),Landed 16:59,2021-06-09
+85,85,17:10,EW88,Cologne (CGN),Eurowings A319 (D-AGWD),Landed 16:51,2021-06-09
+86,86,17:10,TK1635,Istanbul (IST),Turkish Airlines A333 (TC-JNM),Landed 16:43,2021-06-09
+87,87,17:25,AZ436,Rome (FCO),Alitalia E190 (EI-RNB),Landed 17:31,2021-06-09
+88,88,17:30,UX1517,Madrid (MAD),Air Europa B738 (EC-IDT),Unknown,2021-06-09
+89,89,17:40,EW1995,Palma de Mallorca (PMI),Eurowings A319 (OE-LYU),Landed 18:01,2021-06-09
+90,90,17:40 LH2257,,Strasbourg (SXB),Lufthansa CRJ9 (D-ACNL),Landed 17:17,2021-06-09
+91,91,18:10,EW9088,Dusseldorf (DUS),Eurowings A320 (D-AEWS),Landed 17:52,2021-06-09
+92,92,18:10,LH114,Frankfurt (FRA),Lufthansa A20N (D-AINA),Landed 17:58,2021-06-09
+93,93,18:20,LH1779,Lisbon (LIS),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 18:02,2021-06-09
+94,94,18:25,EW7176,Hamburg (HAM),Eurowings A320 (D-AEWI),Landed 17:58,2021-06-09
+95,95,18:25 LH1833,,Malaga (AGP),Air Dolomiti E195 (I-ADJT),Landed 18:10,2021-06-09
+96,96,18:30,LH1769,Larnaca (LCA),Lufthansa A20N (D-AINX),Landed 18:28,2021-06-09
+97,97,18:45,OS115,Vienna (VIE),Austrian Airlines E195 (OE-LWQ),Landed 18:50,2021-06-09
+98,98,18:50,LO353,Warsaw (WAW),LOT E75S (SP-LID),Landed 18:45,2021-06-09
+99,99,18:55 W22424,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-09
+100,100,19:10,EW4062,Dortmund (DTM),Eurowings A320 (D-AIZQ),Landed 19:14,2021-06-09
+101,101,19:10 LH2019,,Dusseldorf (DUS),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 19:17,2021-06-09
+102,102,19:15,IB8714,Madrid (MAD),Iberia Regional CRJX (EC-MJO),Landed 19:03,2021-06-09
+103,103,19:15 LH2063,,Hamburg (HAM),Lufthansa A20N (D-AINZ),Landed 19:47,2021-06-09
+104,104,19:30 LH9932,,Ljubljana (LJU),Lufthansa CRJ9 (D-ACKI),Landed 18:21,2021-06-09
+105,105,19:35 LH1797,,Palma de Mallorca (PMI),Lufthansa A20N (D-AINV),Landed 19:35,2021-06-09
+106,106,19:45,EN8287,Milan (LIN),Air Dolomiti E195 (I-ADJW),Landed 19:27,2021-06-09
+107,107,20:35 LH1953,,Berlin (BER),Lufthansa A319 (D-AILB),Landed 20:18,2021-06-09
+108,108,20:40 LH2023,,Dusseldorf (DUS),Lufthansa A20N (D-AINM),Landed 20:28,2021-06-09
+109,109,20:40,XQ130,Antalya (AYT),SunExpress B738 (TC-SOF),Landed 20:30,2021-06-09
+110,110,20:45,LH2185,Sylt (GWT),Lufthansa CRJ9 (D-ACNQ),Unknown,2021-06-09
+111,111,20:50 LH2701,,Antalya (AYT),Lufthansa A20N (D-AINN),Landed 20:47,2021-06-09
+112,112,21:10 LH2071,,Hamburg (HAM),Lufthansa A319 (D-AILA),Landed 21:08,2021-06-09
+113,113,22:10,LH122,Frankfurt (FRA),Lufthansa A20N (D-AINC),Landed 22:01,2021-06-09
+114,114,22:10 X34293,,Rhodes (RHO),TUI B738 (D-ATUN),Landed 21:40,2021-06-09
+115,115,22:15,AF1122,Paris (CDG),Air France E170 (F-HBXJ),Unknown,2021-06-09
+116,116,22:25,KL1801,Amsterdam (AMS),KLM E75L (PH-EXX),Landed 22:12,2021-06-09
+117,117,22:25 3V4537,,Tallinn (TLL),ASL Airlines Belgium B734 (OE-IAJ),Landed 22:06,2021-06-09
+118,118,22:25 V8816,,Moscow (VKO),Atran 73P,Unknown,2021-06-09
+119,119,23:20 DE1417,,La Palma (SPC),Condor A320 (D-AICS),Landed 23:20,2021-06-09
+120,120,23:20 DE1523,,Gran Canaria (LPA),Condor A320 (D-AICR),Landed 23:37,2021-06-09
+0,0,01:15 X3951,,Hannover (HAJ),TUI B738 (D-ASUN),Landed 01:02,2021-06-10
+1,1,05:15 3V4387,,Liege (LGG),FedEx B734 (OE-IAP),Landed 05:03,2021-06-10
+2,2,06:10 LH587,,Cairo (CAI),Lufthansa A319 (D-AIBC),Landed 06:07,2021-06-10
+3,3,06:50 XQ784,,Kayseri (ASR),SunExpress B738 (TC-SOF),Landed 06:18,2021-06-10
+4,4,07:35 AA9720,,Charlotte (CLT),American Airlines B772,Unknown,2021-06-10
+5,5,07:35 UA106,,Washington (IAD),United Airlines B788 (N26902),Landed 08:37,2021-06-10
+6,6,07:40 LH1927,,Berlin (BER),Lufthansa A319 (D-AILB),Landed 07:23,2021-06-10
+7,7,07:40 LH2389,,Geneva (GVA),Lufthansa CRJ9 (D-ACKD),Landed 07:21,2021-06-10
+8,8,08:05 LH1655,,Bucharest (OTP),Air Dolomiti E195 (I-ADJO),Landed 07:48,2021-06-10
+9,9,08:05 LH2107,,Hannover (HAJ),Lufthansa CRJ9 (D-ACND),Unknown,2021-06-10
+10,10,08:10 LH94,,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNV),Landed 07:56,2021-06-10
+11,11,08:10 LH2125,,Dresden (DRS),Lufthansa CRJ9 (D-ACNU),Landed 08:03,2021-06-10
+12,12,08:10 LH2199,,Bremen (BRE),Lufthansa CRJ9 (D-ACKI),Landed 07:55,2021-06-10
+13,13,08:10 LH2421,,Stockholm (ARN),Lufthansa A20N (D-AINO),Landed 08:03,2021-06-10
+14,14,08:10 OS111,,Vienna (VIE),Austrian Airlines E195 (OE-LWN),Landed 08:05,2021-06-10
+15,15,08:10 0B2985,,Bacau (BCM),Blue Air 738,Unknown,2021-06-10
+16,16,08:20 EW4064,,Dortmund (DTM),Eurowings A320 (D-AIZT),Landed 07:58,2021-06-10
+17,17,08:25 EW7170,,Hamburg (HAM),Eurowings A320 (D-ABDT),Landed 08:02,2021-06-10
+18,18,08:30 EN8191,,Florence (FLR),Air Dolomiti E195 (I-ADJN),Landed 08:23,2021-06-10
+19,19,08:30 EN8199,,Venice (VCE),Air Dolomiti E195 (I-ADJL),Landed 08:15,2021-06-10
+20,20,08:30 0B185,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-10
+21,21,08:35,LH1617,Warsaw (WAW),Air Dolomiti E195 (I-ADJX),Landed 08:18,2021-06-10
+22,22,08:35,LH1863,Milan (MXP),Lufthansa CRJ9 (D-ACNL),Landed 08:25,2021-06-10
+23,23,08:50,TK1629,Istanbul (IST),Turkish Airlines A21N (TC-LTD),Landed 08:39,2021-06-10
+24,24,08:55,EW9082,Dusseldorf (DUS),Eurowings A319 (D-AGWC),Landed 08:46,2021-06-10
+25,25,08:55,LH2223,Toulouse (TLS),Lufthansa CRJ9 (D-ACNO),Landed 08:51,2021-06-10
+26,26,09:00,LH2467,Helsinki (HEL),Lufthansa A319 (D-AIBB),Landed 08:55,2021-06-10
+27,27,09:00 UD441,,Arbil (EBL),Jonika B734 (UR-CSV),Landed 09:22,2021-06-10
+28,28,09:05,LH2443,Copenhagen (CPH),Lufthansa CRJ9 (D-ACNI),Landed 09:01,2021-06-10
+29,29,09:15 X32422,,Hannover (HAJ),TUI B738 (D-ATUM),Landed 09:07,2021-06-10
+30,30,09:20,A3500,Thessaloniki (SKG),Aegean Airlines A320 (SX-DNE),Landed 09:05,2021-06-10
+31,31,09:20 XC4103,,Antalya (AYT),Corendon Airlines 738,Unknown,2021-06-10
+32,32,09:25,LO351,Warsaw (WAW),LOT E170 (SP-LDH),Unknown,2021-06-10
+33,33,09:35,LH1757,Athens (ATH),Lufthansa A20N (D-AINU),Landed 09:35,2021-06-10
+34,34,09:40,UA194,San Francisco (SFO),United Airlines B789 (N35953),Landed 09:13,2021-06-10
+35,35,09:40,UX1515,Madrid (MAD),Air Europa B738 (EC-MPG),Landed 09:25,2021-06-10
+36,36,09:45,UA952,Chicago (ORD),United Airlines B788 (N27908),Landed 09:47,2021-06-10
+37,37,09:45,LH1819,Barcelona (BCN),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 09:30,2021-06-10
+38,38,09:55,LH1675,Budapest (BUD),Lufthansa CRJ9 (D-ACKH),Landed 09:48,2021-06-10
+39,39,09:55,LH1873,Rome (FCO),Air Dolomiti E195 (I-ADJK),Landed 09:56,2021-06-10
+40,40,10:00,LH2091,Hannover (HAJ),Lufthansa CRJ9 (D-ACKE),Landed 09:53,2021-06-10
+41,41,10:00,LH2457,Oslo (OSL),Lufthansa CRJ9 (D-ACNH),Landed 09:45,2021-06-10
+42,42,10:05,LH1781,Lisbon (LIS),Lufthansa A319 (D-AILI),Landed 10:00,2021-06-10
+43,43,10:05,LH1929,Berlin (BER),Lufthansa A320 (D-AIUU),Landed 09:39,2021-06-10
+44,44,10:05,LH1973,Cologne (CGN),Lufthansa CRJ9 (D-ACNX),Unknown,2021-06-10
+45,45,10:10,LH98,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A320 (D-AIUA),Landed 10:02,2021-06-10
+46,46,10:10,LH2003,Dusseldorf (DUS),Lufthansa A319 (D-AILW),Landed 10:05,2021-06-10
+47,47,10:15,A3802,Athens (ATH),Aegean Airlines A321 (SX-DVP),Landed 09:54,2021-06-10
+48,48,10:15,LH2051,Hamburg (HAM),Lufthansa A321 (D-AIDO),Landed 10:13,2021-06-10
+49,49,10:15,LH2301,Amsterdam (AMS),Lufthansa CRJ9 (D-ACNG),Landed 10:26,2021-06-10
+50,50,10:20,EW6890,Palma de Mallorca (PMI),Eurowings (Eurowings Holidays Livery) A320 (OE-IQD),Landed 10:08,2021-06-10
+51,51,10:21 BY527P,,Detroit (DTW),TUI B789 (G-TUIO),Landed 09:41,2021-06-10
+52,52,10:25,LH413,New York (EWR),Lufthansa A359 (D-AIXL),Landed 10:20,2021-06-10
+53,53,10:45,LH2735,Thessaloniki (SKG),Lufthansa A319 (D-AIBE),Landed 10:29,2021-06-10
+54,54,11:00,KL1793,Amsterdam (AMS),KLM E295 (PH-NXC),Landed 11:19,2021-06-10
+55,55,11:05,EN8285,Milan (LIN),Air Dolomiti E195 (I-ADJT),Landed 10:56,2021-06-10
+56,56,11:10 X32529,,Mahon (MAH),TUI fly 73H,Unknown,2021-06-10
+57,57,11:25 PS415,,Kyiv (KBP),Ukraine International Airlines E190 (UR-EMC),Unknown,2021-06-10
+58,58,12:05,LH2705,Chania (CHQ),Lufthansa A20N (D-AINZ),Landed 11:53,2021-06-10
+59,59,12:05 SU2826,,St. Petersburg (LED),Aeroflot B738 (VP-BGI),Landed 11:48,2021-06-10
+60,60,12:15,EY5,Abu Dhabi (AUH),Etihad (Abu Dhabi Grand Prix Livery) B789 (A6-BLV),Landed 11:46,2021-06-10
+61,61,12:30 X34283,,Heraklion (HER),TUI B738 (D-AHFV),Landed 12:14,2021-06-10
+62,62,12:50,TP558,Lisbon (LIS),TAP Express E195 (CS-TTX),Landed 12:43,2021-06-10
+63,63,13:05 FI532,,Reykjavik (KEF),Icelandair 7M8,Unknown,2021-06-10
+64,64,13:15 EK49,,Dubai (DXB),Emirates B77W (A6-ECE),Landed 12:41,2021-06-10
+65,65,13:20 XQ976,,Izmir (ADB),SunExpress B738 (TC-SOV),Landed 13:02,2021-06-10
+66,66,13:30 QR57,,Doha (DOH),Qatar Airways A359 (A7-ALB),Landed 12:53,2021-06-10
+67,67,13:35 LH453,,Los Angeles (LAX),Lufthansa A359 (D-AIXK),Landed 13:07,2021-06-10
+68,68,13:40 VY3840,,Palma de Mallorca (PMI),Vueling A320 (EC-MKN),Landed 13:25,2021-06-10
+69,69,13:45,LH1811,Barcelona (BCN),Air Dolomiti E195 (I-ADJO),Landed 13:40,2021-06-10
+70,70,13:55,LH2369,Zurich (ZRH),Lufthansa CRJ9 (D-ACNQ),Landed 13:56,2021-06-10
+71,71,13:55,LH2329,Vienna (VIE),Lufthansa A319 (D-AILI),Landed 13:48,2021-06-10
+72,72,14:00,LH1703,Sofia (SOF),Air Dolomiti E195 (I-ADJX),Landed 14:05,2021-06-10
+73,73,14:10,LH106,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A320 (D-AIUA),Landed 14:29,2021-06-10
+74,74,14:20,EN8241,Bologna (BLQ),Air Dolomiti E195 (I-ADJN),Landed 14:30,2021-06-10
+75,75,14:25,LH1631,Wroclaw (WRO),Lufthansa CRJ9 (D-ACKG),Landed 14:02,2021-06-10
+76,76,14:30,LH2059,Hamburg (HAM),Lufthansa A320 (D-AIUU),Landed 14:26,2021-06-10
+77,77,14:35,LH1977,Cologne (CGN),Lufthansa CRJ9 (D-ACNI),Landed 14:27,2021-06-10
+78,78,14:35,LH2097,Hannover (HAJ),Lufthansa CRJ9 (D-ACNX),Landed 14:20,2021-06-10
+79,79,14:35 LH2137,,Munster (FMO),Lufthansa CRJ9 (D-ACNP),Landed 14:16,2021-06-10
+80,80,14:40,LH1651,Bucharest (OTP),Air Dolomiti E195 (I-ADJP),Landed 14:24,2021-06-10
+81,81,14:40,LH1657,Timisoara (TSR),Lufthansa CRJ9 (D-ACKH),Landed 14:43,2021-06-10
+82,82,14:40,LH1937,Berlin (BER),Lufthansa A319 (D-AILW),Landed 14:35,2021-06-10
+83,83,14:40,LH2501,Manchester (MAN),Lufthansa CRJ9 (D-ACKD),Landed 14:14,2021-06-10
+84,84,14:45,LH1613,Warsaw (WAW),Air Dolomiti E195 (I-ADJL),Landed 14:34,2021-06-10
+85,85,14:45,LH1825,Bilbao (BIO),Lufthansa A319 (D-AILB),Landed 14:50,2021-06-10
+86,86,14:45,LH2193,Bremen (BRE),Lufthansa CRJ9 (D-ACKE),Landed 14:37,2021-06-10
+87,87,14:50 LH1735,,Belgrade (BEG),Lufthansa CRJ9 (D-ACNG),Landed 15:08,2021-06-10
+88,88,14:50,LH2013,Dusseldorf (DUS),Lufthansa A320 (D-AIUS),Landed 14:42,2021-06-10
+89,89,14:50,LH2415,Stockholm (ARN),Lufthansa A320 (D-AIZD),Landed 15:05,2021-06-10
+90,90,14:50 LH2517,,Dublin (DUB),Lufthansa CRJ9 (D-ACKI),Landed 14:38,2021-06-10
+91,91,14:55,LH1623,Krakow (KRK),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 15:02,2021-06-10
+92,92,14:55,LH1875,Rome (FCO),Air Dolomiti E195 (I-ADJK),Landed 14:57,2021-06-10
+93,93,14:55,LH1907,Catania (CTA),Lufthansa A319 (D-AILH),Landed 14:40,2021-06-10
+94,94,14:55,LH2229,Paris (CDG),Lufthansa CRJ9 (D-ACNO),Landed 14:55,2021-06-10
+95,95,14:55,LH2273,Nice (NCE),Lufthansa A320 (D-AIUV),Landed 14:58,2021-06-10
+96,96,14:55,LH2287,Brussels (BRU),Air Dolomiti E195 (I-ADJW),Landed 15:11,2021-06-10
+97,97,14:55 MS787,,Cairo (CAI),EgyptAir -,Canceled,2021-06-10
+98,98,15:00,LH1665,Sibiu (SBZ),Lufthansa CRJ9 (D-ACNL),Landed 14:55,2021-06-10
+99,99,15:00 LH1843,,Valencia (VLC),Lufthansa A319 (D-AILA),Landed 15:03,2021-06-10
+100,100,15:00 LH1847,,Ibiza (IBZ),Lufthansa A20N (D-AINW),Landed 14:52,2021-06-10
+101,101,15:05,LH1877,Naples (NAP),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 15:07,2021-06-10
+102,102,15:05,LH2429,Gothenburg (GOT),Lufthansa CRJ9 (D-ACNU),Landed 14:47,2021-06-10
+103,103,15:10 LH2307,,Amsterdam (AMS),Lufthansa CRJ9 (D-ACNH),Landed 15:00,2021-06-10
+104,104,15:15,LH1669,Cluj-Napoca (CLJ),Lufthansa CRJ9 (D-ACNV),Landed 15:37,2021-06-10
+105,105,15:15,LH1759,Heraklion (HER),Lufthansa A20N (D-AINV),Landed 15:12,2021-06-10
+106,106,15:15,LH1783,Porto (OPO),Lufthansa A20N (D-AINN),Landed 15:19,2021-06-10
+107,107,15:20,VY1814,Barcelona (BCN),Vueling A320 (EC-MBS),Landed 15:47,2021-06-10
+108,108,16:40 LH2479,,London (LHR),Lufthansa A20N (D-AINR),Landed 16:15,2021-06-10
+109,109,16:45 LH2545,,Kyiv (KBP),Lufthansa E195 (D-AEBB),Landed 16:49,2021-06-10
+110,110,16:50 LH2729,,Palma de Mallorca (PMI),Lufthansa A319 (D-AIBE),Landed 16:42,2021-06-10
+111,111,17:10,AF1822,Paris (CDG),Air France E170 (F-HBXM),Landed 17:49,2021-06-10
+112,112,17:10 LH1823,,Seville (SVQ),Lufthansa A20N (D-AINU),Landed 16:53,2021-06-10
+113,113,17:20,EW1995,Palma de Mallorca (PMI),Eurowings (Eurowings Holidays Livery) A320 (OE-IQD),Landed 17:34,2021-06-10
+114,114,17:25,AZ436,Rome (FCO),Alitalia A319 (EI-IMN),Landed 17:20,2021-06-10
+115,115,17:35 LH1797,,Palma de Mallorca (PMI),Lufthansa A320 (D-AIWF),Landed 17:25,2021-06-10
+116,116,17:40 LH2257,,Strasbourg (SXB),Lufthansa CRJ9 (D-ACKD),Landed 17:18,2021-06-10
+117,117,17:50,AY1405,Helsinki (HEL),Finnair (Oneworld livery) E190 (OH-LKN),Landed 17:27,2021-06-10
+118,118,18:05 LH1791,,Funchal (FNC),Lufthansa A20N (D-AINM),Landed 17:56,2021-06-10
+119,119,18:10,EW9090,Dusseldorf (DUS),Eurowings (Borussia Dortmund Livery) A320 (D-AIZR),Landed 18:01,2021-06-10
+120,120,18:10 LH2717,,Ibiza (IBZ),Lufthansa (Star Alliance Livery) A320 (D-AIZM),Landed 18:06,2021-06-10
+121,121,18:10,LH114,Frankfurt (FRA),Lufthansa A319 (D-AILL),Landed 18:03,2021-06-10
+122,122,18:15,LH1717,Split (SPU),Lufthansa A319 (D-AILI),Landed 18:10,2021-06-10
+123,123,18:20,LH1779,Lisbon (LIS),Lufthansa A319 (D-AIBB),Landed 18:08,2021-06-10
+124,124,18:25,EW7176,Hamburg (HAM),Eurowings A320 (D-AEWP),Landed 18:00,2021-06-10
+125,125,18:25 LH1835,,Malaga (AGP),Lufthansa A20N (D-AINO),Landed 18:19,2021-06-10
+126,126,18:25,LH2373,Zurich (ZRH),Lufthansa CRJ9 (D-ACKF),Landed 18:42,2021-06-10
+127,127,18:30,BT223,Riga (RIX),Air Baltic BCS3 (YL-AAO),Landed 18:31,2021-06-10
+128,128,18:30,LH1769,Larnaca (LCA),Lufthansa A20N (D-AINT),Landed 18:13,2021-06-10
+129,129,18:35,EW86,Cologne (CGN),Eurowings A319 (D-AGWZ),Landed 18:16,2021-06-10
+130,130,18:35,LH1711,Dubrovnik (DBV),Lufthansa A319 (D-AILP),Landed 18:35,2021-06-10
+131,131,18:45,OS115,Vienna (VIE),Austrian Airlines A319 (OE-LDC),Landed 18:33,2021-06-10
+132,132,18:55 W22424,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-10
+133,133,19:05 RO311,,Bucharest (OTP),Tarom 73W,Unknown,2021-06-10
+134,134,19:10,EW4062,Dortmund (DTM),Eurowings A320 (D-AIZT),Landed 19:10,2021-06-10
+135,135,19:10,LH2019,Dusseldorf (DUS),Lufthansa A20N (D-AINW),Landed 18:56,2021-06-10
+136,136,19:10,TP554,Lisbon (LIS),TAP Air Portugal A319 (CS-TTN),Landed 18:46,2021-06-10
+137,137,19:10 LH116,,Frankfurt (FRA),Lufthansa E190 (D-AECG),Landed 19:03,2021-06-10
+138,138,19:15,IB3192,Madrid (MAD),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 19:01,2021-06-10
+139,139,19:15,LH2063,Hamburg (HAM),Lufthansa A319 (D-AILY),Landed 19:28,2021-06-10
+140,140,19:20,LH1767,Corfu (CFU),Lufthansa A20N (D-AINZ),Landed 19:06,2021-06-10
+141,141,19:30 LH1913,,Olbia (OLB),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 19:42,2021-06-10
+142,142,19:35 LH2197,,Bremen (BRE),Lufthansa CRJ9 (D-ACNI),Landed 19:24,2021-06-10
+143,143,19:45,EN8287,Milan (LIN),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 19:40,2021-06-10
+144,144,20:20 LH1919,,Cagliari (CAG),Air Dolomiti E195 (I-ADJX),Landed 20:22,2021-06-10
+145,145,20:30,LH2733,Rhodes (RHO),Lufthansa A320 (D-AIZE),Landed 20:14,2021-06-10
+146,146,20:30 X32423,,Gran Canaria (LPA),TUI B738 (D-ATUM),Landed 20:17,2021-06-10
+147,147,20:35 LH1953,,Berlin (BER),Lufthansa A319 (D-AILW),Landed 20:24,2021-06-10
+148,148,20:40 LH2023,,Dusseldorf (DUS),Lufthansa A320 (D-AIUS),Landed 20:18,2021-06-10
+149,149,20:45,LH2185,Sylt (GWT),Lufthansa CRJ9 (D-ACNV),Landed 20:34,2021-06-10
+150,150,21:05 X32249,,Jerez (XRY),TUI fly 7S8,Unknown,2021-06-10
+151,151,21:10 LH2071,,Hamburg (HAM),Lufthansa A319 (D-AIBE),Landed 20:55,2021-06-10
+152,152,21:15 DE1611,,Rhodes (RHO),Condor A320 (D-AICA),Landed 21:24,2021-06-10
+153,153,22:10 DE25,,Hurghada (HRG),Condor A320 (D-AICR),Landed 21:46,2021-06-10
+154,154,22:10,LH122,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A320 (D-AIUA),Landed 21:59,2021-06-10
+155,155,22:25 3V4537,,Tallinn (TLL),ASL Airlines Belgium B734 (OE-IAY),Landed 22:05,2021-06-10
+156,156,22:25,KL1801,Amsterdam (AMS),KLM (SkyTeam Livery) E190 (PH-EZX),Landed 22:13,2021-06-10
+157,157,22:25 V8816,,Moscow (VKO),Atran 73P,Unknown,2021-06-10
+158,158,22:35 LH1957,,Berlin (BER),Lufthansa A319 (D-AILP),Landed 22:19,2021-06-10
+159,159,22:40 LH2737,,Lamezia Terme (SUF),Lufthansa A20N (D-AINU),Landed 22:33,2021-06-10
+160,160,23:10 LH2739,,Tenerife (TFS),Lufthansa A20N (D-AINX),Landed 22:44,2021-06-10
+161,161,23:20 X32197,,Tenerife (TFS),TUI B738 (D-ATUK),Unknown,2021-06-10
+162,162,23:25 X32163,,Fuerteventura (FUE),TUI B738 (D-AHFV),Landed 22:53,2021-06-10
+0,0,1:15 AM X3951,,Hannover (HAJ),TUI B738 (D-AHFT),Landed 1:06 AM,2021-06-11
+1,1,5:15 AM 3V4387,,Liege (LGG),FedEx B734 (OE-IAP),Landed 5:01 AM,2021-06-11
+2,2,6:55 AM SQ328,,Singapore (SIN),Singapore Airlines A359 (9V-SMG),Landed 7:08 AM,2021-06-11
+3,3,7:15 AM LH2559,,Tbilisi (TBS),Lufthansa A20N (D-AINT),Landed 6:52 AM,2021-06-11
+4,4,7:35 AM UA106,,Washington (IAD),United Airlines B788 (N27908),Landed 9:36 AM,2021-06-11
+5,5,7:35 AM AA9720,,Charlotte (CLT),American Airlines B772,Unknown,2021-06-11
+6,6,7:40 AM LH2389,,Geneva (GVA),Lufthansa CRJ9 (D-ACNH),Landed 7:31 AM,2021-06-11
+7,7,8:05 AM LH2107,,Hannover (HAJ),Lufthansa CRJ9 (D-ACKE),Landed 7:42 AM,2021-06-11
+8,8,8:10 AM LH94,,Frankfurt (FRA),Lufthansa A319 (D-AILD),Landed 7:58 AM,2021-06-11
+9,9,8:10 AM LH1667,,Sibiu (SBZ),Lufthansa CRJ9 (D-ACKI),Landed 7:55 AM,2021-06-11
+10,10,8:10 AM LH2125,,Dresden (DRS),Lufthansa CRJ9 (D-ACKH),Landed 7:49 AM,2021-06-11
+11,11,8:10 AM LH2135,,Munster (FMO),Lufthansa CRJ9 (D-ACNP),Landed 7:51 AM,2021-06-11
+12,12,8:10 AM LH2199,,Bremen (BRE),Lufthansa CRJ9 (D-ACKF),Landed 8:00 AM,2021-06-11
+13,13,8:10 AM LH2421,,Stockholm (ARN),Lufthansa A320 (D-AIZD),Landed 8:07 AM,2021-06-11
+14,14,8:15 AM OS111,,Vienna (VIE),Austrian Airlines E195 (OE-LWJ),Landed 7:53 AM,2021-06-11
+15,15,8:30 AM EN8191,,Florence (FLR),Air Dolomiti E195 (I-ADJO),Landed 8:21 AM,2021-06-11
+16,16,8:30 AM EN8199,,Venice (VCE),Air Dolomiti E195 (I-ADJK),Landed 8:16 AM,2021-06-11
+17,17,8:30 AM 0B185,,Bucharest (OTP),Blue Air B738 (YR-BMK),Landed 8:03 AM,2021-06-11
+18,18,8:35 AM LH1617,,Warsaw (WAW),Air Dolomiti E195 (I-ADJW),Landed 8:05 AM,2021-06-11
+19,19,8:35 AM LH1707,,Sofia (SOF),Air Dolomiti E195 (I-ADJL),Landed 8:25 AM,2021-06-11
+20,20,8:35 AM LH1863,,Milan (MXP),Lufthansa CRJ9 (D-ACNO),Landed 8:14 AM,2021-06-11
+21,21,8:40 AM LH2239,,Paris (CDG),Lufthansa CRJ9 (D-ACNG),Landed 8:31 AM,2021-06-11
+22,22,8:40 AM LH2295,,Brussels (BRU),Air Dolomiti E195 (I-ADJN),Landed 8:35 AM,2021-06-11
+23,23,8:55 AM LH2223,,Toulouse (TLS),Lufthansa CRJ9 (D-ACNQ),Landed 8:54 AM,2021-06-11
+24,24,9:00 AM LH2467,,Helsinki (HEL),Lufthansa A20N (D-AINN),Landed 8:39 AM,2021-06-11
+25,25,9:05 AM LH2443,,Copenhagen (CPH),Lufthansa CRJ9 (D-ACNX),Landed 8:43 AM,2021-06-11
+26,26,9:05 AM LH2741,,Tirana (TIA),Lufthansa A319 (D-AILB),Landed 8:52 AM,2021-06-11
+27,27,9:20 AM A3500,,Thessaloniki (SKG),Aegean Airlines (Star Alliance livery) A320 (SX-DVQ),Landed 9:01 AM,2021-06-11
+28,28,9:20 AM VY1812,,Barcelona (BCN),Vueling A320 (EC-MKO),Landed 9:07 AM,2021-06-11
+29,29,9:30 AM,LH2473,London (LHR),Lufthansa A20N (D-AINR),Landed 9:10 AM,2021-06-11
+30,30,9:35 AM,LH1757,Athens (ATH),Lufthansa A20N (D-AINV),Landed 9:19 AM,2021-06-11
+31,31,9:35 AM,OU4438,Split (SPU),Croatia Airlines DH8D (9A-CQF),Landed 9:04 AM,2021-06-11
+32,32,9:45 AM,UA952,Chicago (ORD),United Airlines B788 (N30913),Landed 9:27 AM,2021-06-11
+33,33,9:45 AM,LH1819,Barcelona (BCN),Air Dolomiti E195 (I-ADJP),Landed 9:45 AM,2021-06-11
+34,34,9:45 AM,LH1807,Madrid (MAD),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 9:42 AM,2021-06-11
+35,35,9:45 AM X34688,,Hannover (HAJ),TUI B738 (D-ATUM),Landed 9:15 AM,2021-06-11
+36,36,9:55 AM,LH481,Denver (DEN),Lufthansa A359 (D-AIXF),Landed 9:43 AM,2021-06-11
+37,37,9:55 AM,LH1675,Budapest (BUD),Lufthansa CRJ9 (D-ACKG),Landed 9:38 AM,2021-06-11
+38,38,9:55 AM,LH1873,Rome (FCO),Air Dolomiti E195 (I-ADJT),Landed 9:49 AM,2021-06-11
+39,39,10:00 AM,LH683,Tel Aviv (TLV),Lufthansa A319 (D-AIBC),Landed 9:47 AM,2021-06-11
+40,40,10:00 AM,LH2091,Hannover (HAJ),Lufthansa CRJ9 (D-ACNL),Landed 9:40 AM,2021-06-11
+41,41,10:00 AM,LH2457,Oslo (OSL),Lufthansa CRJ9 (D-ACNI),Landed 12:24 PM,2021-06-11
+42,42,10:05 AM,EW6890,Palma de Mallorca (PMI),Eurowings A319 (OE-LYZ),Landed 9:53 AM,2021-06-11
+43,43,10:05 AM,LH1781,Lisbon (LIS),Lufthansa A319 (D-AILH),Landed 9:51 AM,2021-06-11
+44,44,10:05 AM,LH1929,Berlin (BER),Lufthansa A319 (D-AILW),Landed 9:54 AM,2021-06-11
+45,45,10:05 AM,LH1973,Cologne (CGN),Lufthansa CRJ9 (D-ACKD),Landed 10:06 AM,2021-06-11
+46,46,10:10 AM,LH98,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A320 (D-AIUA),Landed 10:03 AM,2021-06-11
+47,47,10:10 AM,LH2003,Dusseldorf (DUS),Lufthansa A319 (D-AILI),Landed 10:00 AM,2021-06-11
+48,48,10:15 AM,A3802,Athens (ATH),Aegean Airlines A321 (SX-DGQ),Landed 9:56 AM,2021-06-11
+49,49,10:15 AM,LH2051,Hamburg (HAM),Lufthansa A321 (D-AIDO),Landed 10:11 AM,2021-06-11
+50,50,10:15 AM,LH2301,Amsterdam (AMS),Lufthansa CRJ9 (D-ACNU),Landed 10:02 AM,2021-06-11
+51,51,10:25 AM,LH413,New York (EWR),Lufthansa A359 (D-AIXK),Landed 10:32 AM,2021-06-11
+52,52,10:25 AM,A3476,Rhodes (RHO),Aegean Airlines A320 (SX-DVH),Landed 10:09 AM,2021-06-11
+53,53,11:00 AM,KL1793,Amsterdam (AMS),KLM E190 (PH-EXE),Landed 10:46 AM,2021-06-11
+54,54,11:05 AM,EN8285,Milan (LIN),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 10:52 AM,2021-06-11
+55,55,11:05 AM,LH2703,Corfu (CFU),Lufthansa A20N (D-AINU),Landed 10:48 AM,2021-06-11
+56,56,11:25 AM,PS415,Kyiv (KBP),Ukraine International Airlines E190 (UR-EMC),Landed 11:23 AM,2021-06-11
+57,57,11:30 AM DE1509,,Palma de Mallorca (PMI),Condor B753 (D-ABOC),Landed 11:47 AM,2021-06-11
+58,58,11:45 AM PC1019,,Istanbul (SAW),Pegasus B738 (TC-AIS),Landed 11:45 AM,2021-06-11
+59,59,11:45 AM SU2322,,Moscow (SVO),Aeroflot A321 (VP-BEW),Landed 11:10 AM,2021-06-11
+60,60,11:50 AM,BA950,London (LHR),British Airways A320 (G-EUUG),Landed 11:54 AM,2021-06-11
+61,61,11:55 AM DE1667,,Kalamata (KLX),Condor A320 (D-AICF),Landed 12:21 PM,2021-06-11
+62,62,12:00 PM TK7738,,Istanbul (SAW),AnadoluJet B738 (TC-JFO),Landed 11:51 AM,2021-06-11
+63,63,12:10 PM X34273,,Heraklion (HER),TUI B738 (D-ABAF),Landed 11:49 AM,2021-06-11
+64,64,12:25 PM DE1607,,Mykonos (JMK),Condor A320 (D-AICR),Landed 12:07 PM,2021-06-11
+65,65,12:35 PM X34869,,Patras (GPA),TUI B738 (D-ATUK),Unknown,2021-06-11
+66,66,12:45 PM,LH435,Chicago (ORD),Lufthansa A359 (D-AIXL),Landed 12:17 PM,2021-06-11
+67,67,12:50 PM,TP558,Lisbon (LIS),TAP Air Portugal A320 (CS-TNK),Landed 12:55 PM,2021-06-11
+68,68,12:55 PM TU744,,Frankfurt (FRA),Tunisair 320,Unknown,2021-06-11
+69,69,12:55 PM TU745,,Frankfurt (FRA),Tunisair A320 (TS-IMT),Landed 12:59 PM,2021-06-11
+70,70,1:15 PM DE1601,,Heraklion (HER),Condor B753 (D-ABOM),Landed 12:48 PM,2021-06-11
+71,71,1:15 PM,EK49,Dubai (DXB),Emirates B77W (A6-ECO),Landed 12:41 PM,2021-06-11
+72,72,1:20 PM,XQ976,Izmir (ADB),SunExpress B738 (TC-SPB),Landed 1:25 PM,2021-06-11
+73,73,1:30 PM QR57,,Doha (DOH),Qatar Airways B77W (A7-BEV),Landed 1:01 PM,2021-06-11
+74,74,1:35 PM LH453,,Los Angeles (LAX),Lufthansa A359 (D-AIXD),Landed 1:23 PM,2021-06-11
+75,75,1:45 PM LH1811,,Barcelona (BCN),Air Dolomiti E195 (I-ADJX),Landed 1:53 PM,2021-06-11
+76,76,1:45 PM LH2709,,Faro (FAO),Lufthansa A20N (D-AINO),Landed 1:40 PM,2021-06-11
+77,77,1:55 PM LH2369,,Zurich (ZRH),Lufthansa CRJ9 (D-ACNX),Landed 1:46 PM,2021-06-11
+78,78,1:55 PM LH2329,,Vienna (VIE),Lufthansa CRJ9 (D-ACNG),Landed 2:07 PM,2021-06-11
+79,79,2:00 PM LH1703,,Sofia (SOF),Air Dolomiti E195 (I-ADJN),Landed 1:48 PM,2021-06-11
+80,80,2:10 PM LH106,,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A320 (D-AIUA),Landed 2:10 PM,2021-06-11
+81,81,2:20 PM EN8241,,Bologna (BLQ),Air Dolomiti E195 (I-ADJT),Landed 2:01 PM,2021-06-11
+82,82,2:25 PM LH1631,,Wroclaw (WRO),Lufthansa CRJ9 (D-ACKD),Landed 2:00 PM,2021-06-11
+83,83,2:30 PM,LH1937,Berlin (BER),Lufthansa A319 (D-AILP),Landed 2:38 PM,2021-06-11
+84,84,2:30 PM LH2059,,Hamburg (HAM),Lufthansa A320 (D-AIWF),Landed 2:56 PM,2021-06-11
+85,85,2:30 PM,LH2501,Manchester (MAN),Lufthansa CRJ9 (D-ACNH),Landed 2:16 PM,2021-06-11
+86,86,2:35 PM LH1977,,Cologne (CGN),Lufthansa CRJ9 (D-ACNL),Landed 2:27 PM,2021-06-11
+87,87,2:35 PM LH2097,,Hannover (HAJ),Lufthansa CRJ9 (D-ACKE),Landed 2:26 PM,2021-06-11
+88,88,2:35 PM LH2137,,Munster (FMO),Lufthansa CRJ9 (D-ACNU),Landed 2:24 PM,2021-06-11
+89,89,2:40 PM LH1643,,Gdansk (GDN),Lufthansa CRJ9 (D-ACKH),Landed 2:47 PM,2021-06-11
+90,90,2:40 PM LH1651,,Bucharest (OTP),Air Dolomiti E195 (I-ADJW),Landed 2:18 PM,2021-06-11
+91,91,2:40 PM LH1657,,Timisoara (TSR),Lufthansa CRJ9 (D-ACKG),Landed 2:19 PM,2021-06-11
+92,92,2:40 PM,LH2441,Copenhagen (CPH),Lufthansa CRJ9 (D-ACKI),Landed 2:32 PM,2021-06-11
+93,93,2:45 PM,LH1613,Warsaw (WAW),Air Dolomiti E195 (I-ADJP),Landed 2:34 PM,2021-06-11
+94,94,2:45 PM,LH1825,Bilbao (BIO),Lufthansa E195 (D-AEBB),Landed 2:45 PM,2021-06-11
+95,95,2:45 PM,LH2193,Bremen (BRE),Lufthansa CRJ9 (D-ACNQ),Landed 2:43 PM,2021-06-11
+96,96,2:50 PM,LH1907,Catania (CTA),Lufthansa A319 (D-AILB),Landed 2:42 PM,2021-06-11
+97,97,2:50 PM,LH2013,Dusseldorf (DUS),Lufthansa A319 (D-AILI),Landed 2:36 PM,2021-06-11
+98,98,2:50 PM,LH2415,Stockholm (ARN),Lufthansa A320 (D-AIZE),Landed 2:40 PM,2021-06-11
+99,99,2:50 PM LH2517,,Dublin (DUB),Lufthansa A319 (D-AILY),Landed 2:22 PM,2021-06-11
+100,100,2:55 PM,LH1623,Krakow (KRK),Lufthansa E195 (D-AEBC),Landed 3:42 PM,2021-06-11
+101,101,2:55 PM,LH1801,Madrid (MAD),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 2:52 PM,2021-06-11
+102,102,2:55 PM,LH1875,Rome (FCO),Air Dolomiti E195 (I-ADJK),Landed 2:54 PM,2021-06-11
+103,103,2:55 PM LH1915,,Palermo (PMO),Lufthansa A319 (D-AIBE),Landed 2:49 PM,2021-06-11
+104,104,2:55 PM,LH2273,Nice (NCE),Air Dolomiti E195 (I-ADJO),Landed 3:19 PM,2021-06-11
+105,105,2:55 PM,LH2229,Paris (CDG),Lufthansa CRJ9 (D-ACNO),Landed 2:59 PM,2021-06-11
+106,106,2:55 PM,LH2287,Brussels (BRU),Lufthansa CRJ9 (D-ACKF),Landed 3:00 PM,2021-06-11
+107,107,2:55 PM,MS787,Cairo (CAI),EgyptAir B738 (SU-GEL),Landed 2:51 PM,2021-06-11
+108,108,3:05 PM,LH1877,Naples (NAP),Lufthansa A319 (D-AIBB),Landed 3:11 PM,2021-06-11
+109,109,3:05 PM,LH2429,Gothenburg (GOT),Lufthansa CRJ9 (D-ACNP),Landed 3:02 PM,2021-06-11
+110,110,3:15 PM,LH1783,Porto (OPO),Lufthansa A20N (D-AINW),Landed 3:08 PM,2021-06-11
+111,111,3:50 PM LH1797,,Palma de Mallorca (PMI),Lufthansa A20N (D-AINN),Landed 3:50 PM,2021-06-11
+112,112,3:50 PM X32163,,Fuerteventura (FUE),TUI B738 (D-AHFT),Landed 3:38 PM,2021-06-11
+113,113,4:05 PM LH2729,,Palma de Mallorca (PMI),Lufthansa A20N (D-AINZ),Landed 3:58 PM,2021-06-11
+114,114,4:40 PM LH2479,,London (LHR),Lufthansa A20N (D-AINM),Landed 4:19 PM,2021-06-11
+115,115,4:45 PM LH2545,,Kyiv (KBP),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 4:49 PM,2021-06-11
+116,116,5:00 PM,KL1797,Amsterdam (AMS),KLM E295 (PH-NXD),Landed 5:06 PM,2021-06-11
+117,117,5:00 PM,LH2533,Mykonos (JMK),Lufthansa A20N (D-AINR),Landed 4:53 PM,2021-06-11
+118,118,5:10 PM,AF1822,Paris (CDG),Air France E190 (F-HBLB),Landed 5:25 PM,2021-06-11
+119,119,5:10 PM,TK1635,Istanbul (IST),Turkish Airlines A321 (TC-JRZ),Landed 4:47 PM,2021-06-11
+120,120,5:10 PM LH9921,,Berlin (BER),Lufthansa A319 (D-AIBF),Landed 4:12 PM,2021-06-11
+121,121,5:25 PM,AZ436,Rome (FCO),Alitalia E75S (EI-RDH),Landed 5:15 PM,2021-06-11
+122,122,5:25 PM LH2725,,Olbia (OLB),Lufthansa A319 (D-AIBC),Landed 5:23 PM,2021-06-11
+123,123,5:30 PM,EW1995,Palma de Mallorca (PMI),Eurowings A320 (OE-IQA),Landed 5:27 PM,2021-06-11
+124,124,5:30 PM,UX1517,Madrid (MAD),Air Europa B738 (EC-LUT),Landed 5:47 PM,2021-06-11
+125,125,5:35 PM X34689,,Heraklion (HER),TUI B738 (D-ATUM),Landed 5:03 PM,2021-06-11
+126,126,5:40 PM,SK2657,Copenhagen (CPH),SAS A20N (SE-ROM),Landed 5:37 PM,2021-06-11
+127,127,5:40 PM LH2257,,Strasbourg (SXB),Lufthansa CRJ9 (D-ACNH),Landed 5:18 PM,2021-06-11
+128,128,6:10 PM,EW9090,Dusseldorf (DUS),Eurowings A319 (D-AGWI),Landed 5:57 PM,2021-06-11
+129,129,6:10 PM,LH114,Frankfurt (FRA),Lufthansa A320 (D-AIUD),Landed 6:12 PM,2021-06-11
+130,130,6:15 PM,LH1717,Split (SPU),Lufthansa A320 (D-AIZD),Landed 6:07 PM,2021-06-11
+131,131,6:20 PM,LH1779,Lisbon (LIS),Lufthansa A20N (D-AINV),Landed 6:43 PM,2021-06-11
+132,132,6:20 PM LH1849,,Alicante (ALC),Lufthansa A319 (D-AILW),Landed 6:10 PM,2021-06-11
+133,133,6:25 PM,EW7176,Hamburg (HAM),Eurowings A320 (D-AEWT),Landed 5:51 PM,2021-06-11
+134,134,6:30 PM,BT223,Riga (RIX),Air Baltic BCS3 (YL-CSF),Landed 5:59 PM,2021-06-11
+135,135,6:30 PM,LH1769,Larnaca (LCA),Lufthansa A20N (D-AINT),Landed 6:39 PM,2021-06-11
+136,136,6:30 PM LH9932,,Ljubljana (LJU),Lufthansa A319 (D-AILX),Landed 3:43 PM,2021-06-11
+137,137,6:40 PM,EW86,Cologne (CGN),Eurowings A319 (D-AGWV),Landed 6:20 PM,2021-06-11
+138,138,6:45 PM,OS115,Vienna (VIE),Austrian Airlines A320 (OE-LBP),Landed 6:48 PM,2021-06-11
+139,139,6:50 PM LH1947,,Berlin (BER),Lufthansa E195 (D-AEBB),Landed 6:44 PM,2021-06-11
+140,140,6:50 PM,LO353,Warsaw (WAW),LOT (Star Alliance Livery) E170 (SP-LDK),Landed 6:41 PM,2021-06-11
+141,141,6:55 PM W22424,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-11
+142,142,7:05 PM,RO311,Bucharest (OTP),Tarom (Happy 66 Years Livery) B737 (YR-BGG),Landed 7:20 PM,2021-06-11
+143,143,7:10 PM,EW4062,Dortmund (DTM),Eurowings A320 (D-AIZQ),Landed 7:02 PM,2021-06-11
+144,144,7:10 PM LH2019,,Dusseldorf (DUS),Lufthansa A319 (D-AILY),Landed 6:51 PM,2021-06-11
+145,145,7:10 PM,LH116,Frankfurt (FRA),Lufthansa CRJ9 (D-ACKK),Landed 6:58 PM,2021-06-11
+146,146,7:15 PM,IB8714,Madrid (MAD),Iberia Regional CRJX (EC-MVC),Landed 7:04 PM,2021-06-11
+147,147,7:15 PM LH2063,,Hamburg (HAM),Lufthansa A320 (D-AIUU),Landed 7:23 PM,2021-06-11
+148,148,7:35 PM DE1603,,Santorini (JTR),Condor A320 (D-AICS),Landed 7:22 PM,2021-06-11
+149,149,7:45 PM,EN8287,Milan (LIN),Air Dolomiti E195 (I-ADJW),Landed 7:31 PM,2021-06-11
+150,150,7:50 PM DE1584,,Tenerife (TFS),Condor A321 (D-AIAI),Landed 8:03 PM,2021-06-11
+151,151,8:05 PM,BT227,Vilnius (VNO),Air Baltic BCS3 (YL-AAO),Landed 7:40 PM,2021-06-11
+152,152,8:15 PM LH1847,,Ibiza (IBZ),Lufthansa (Star Alliance Livery) A320 (D-AIZM),Landed 8:06 PM,2021-06-11
+153,153,8:15 PM,VY1816,Barcelona (BCN),Vueling A319 (EC-MGF),Landed 8:12 PM,2021-06-11
+154,154,8:35 PM LH1953,,Berlin (BER),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 8:16 PM,2021-06-11
+155,155,8:40 PM,XQ130,Antalya (AYT),SunExpress B738 (TC-SEY),Landed 8:22 PM,2021-06-11
+156,156,8:40 PM LH2023,,Dusseldorf (DUS),Lufthansa A20N (D-AINN),Landed 8:30 PM,2021-06-11
+157,157,8:45 PM,LH1759,Heraklion (HER),Lufthansa A20N (D-AINU),Landed 8:18 PM,2021-06-11
+158,158,8:45 PM,LH2185,Sylt (GWT),Lufthansa CRJ9 (D-ACKI),Landed 8:27 PM,2021-06-11
+159,159,9:10 PM LH2071,,Hamburg (HAM),Lufthansa A20N (D-AINR),Landed 9:06 PM,2021-06-11
+160,160,9:25 PM DE1609,,Kos (KGS),Condor A320 (D-AICR),Landed 9:02 PM,2021-06-11
+161,161,9:35 PM LH2717,,Ibiza (IBZ),Lufthansa A320 (D-AIUS),Landed 9:22 PM,2021-06-11
+162,162,10:10 PM LH122,,Frankfurt (FRA),Lufthansa A319 (D-AIBH),Landed 10:10 PM,2021-06-11
+163,163,10:15 PM,AF1122,Paris (CDG),Air France E170 (F-HBXN),Landed 10:26 PM,2021-06-11
+164,164,10:25 PM 3V4537,,Tallinn (TLL),ASL Airlines Belgium B734 (OE-IAY),Landed 9:59 PM,2021-06-11
+165,165,10:25 PM,KL1801,Amsterdam (AMS),KLM E190 (PH-EXB),Landed 10:15 PM,2021-06-11
+166,166,10:25 PM V8816,,Moscow (VKO),Atran 73P,Unknown,2021-06-11
+167,167,10:35 PM LH1957,,Berlin (BER),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 10:19 PM,2021-06-11
+168,168,11:05 PM,LH2735,Thessaloniki (SKG),Lufthansa A319 (D-AILA),Landed 10:40 PM,2021-06-11
+169,169,11:20 PM DE1605,,Skiathos (JSI),Condor A320 (D-AICF),Landed 10:44 PM,2021-06-11
+170,170,11:25 PM,TP552,Lisbon (LIS),TAP Air Portugal A20N (CS-TVB),Landed 11:27 PM,2021-06-11
+171,171,11:30 PM,LH2719,Kos (KGS),Lufthansa A20N (D-AINZ),Landed 11:04 PM,2021-06-11
+0,0,01:15 X3951,,Hannover (HAJ),TUI B738 (D-ATUJ),Landed 01:13,2021-06-12
+1,1,06:50 XQ714,,Ankara (ESB),SunExpress B738 (TC-SEY),Landed 06:23,2021-06-12
+2,2,07:00 QR59,,Doha (DOH),Qatar Airways A359 (A7-ALO),Landed 06:13,2021-06-12
+3,3,07:35 UA106,,Washington (IAD),United Airlines B788 (N26906),Landed 07:29,2021-06-12
+4,4,07:35 AA9720,,Charlotte (CLT),American Airlines B772,Unknown,2021-06-12
+5,5,07:40 LH1927,,Berlin (BER),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 07:16,2021-06-12
+6,6,07:40 LH2389,,Geneva (GVA),Lufthansa CRJ9 (D-ACKD),Landed 07:26,2021-06-12
+7,7,08:00 LH1995,,Cologne (CGN),Lufthansa CRJ9 (D-ACNO),Landed 07:42,2021-06-12
+8,8,08:00 LH2107,,Hannover (HAJ),Lufthansa CRJ9 (D-ACNQ),Landed 07:51,2021-06-12
+9,9,08:05 LH1655,,Bucharest (OTP),Air Dolomiti E195 (I-ADJX),Landed 07:56,2021-06-12
+10,10,08:10 LH94,,Frankfurt (FRA),Lufthansa (Lu Sticker) A319 (D-AILU),Landed 08:18,2021-06-12
+11,11,08:10 LH1667,,Sibiu (SBZ),Lufthansa CRJ9 (D-ACNL),Landed 07:49,2021-06-12
+12,12,08:10 LH2075,,Hamburg (HAM),Lufthansa A20N (D-AINX),Landed 08:03,2021-06-12
+13,13,08:10 LH2125,,Dresden (DRS),Lufthansa CRJ9 (D-ACKG),Landed 07:53,2021-06-12
+14,14,08:10 LH2199,,Bremen (BRE),Lufthansa CRJ9 (D-ACNP),Landed 07:58,2021-06-12
+15,15,08:10 LH2421,,Stockholm (ARN),Lufthansa A320 (D-AIWF),Landed 08:22,2021-06-12
+16,16,08:10 OS111,,Vienna (VIE),Austrian Airlines E195 (OE-LWG),Landed 07:47,2021-06-12
+17,17,08:10 0B2985,,Bacau (BCM),Blue Air 738,Unknown,2021-06-12
+18,18,08:15 LH2031,,Dusseldorf (DUS),Lufthansa A319 (D-AIBC),Landed 08:04,2021-06-12
+19,19,08:30 EN8191,,Florence (FLR),Air Dolomiti E195 (I-ADJS),Landed 08:16,2021-06-12
+20,20,08:30 EN8199,,Venice (VCE),Air Dolomiti E195 (I-ADJP),Landed 08:11,2021-06-12
+21,21,08:30 LH1737,,Belgrade (BEG),Lufthansa E195 (D-AEBC),Landed 08:32,2021-06-12
+22,22,08:30 0B185,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-12
+23,23,08:35 BT823,,Tallinn (TLL),Air Baltic BCS3 (YL-AAQ),Landed 08:14,2021-06-12
+24,24,08:35 LH1707,,Sofia (SOF),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 08:35,2021-06-12
+25,25,08:35 LH1863,,Milan (MXP),Lufthansa CRJ9 (D-ACNH),Landed 08:20,2021-06-12
+26,26,08:40 LH2239,,Paris (CDG),Lufthansa CRJ9 (D-ACNU),Landed 08:42,2021-06-12
+27,27,08:45 LH2277,,Nice (NCE),Air Dolomiti E195 (I-ADJO),Landed 08:55,2021-06-12
+28,28,08:50 BT221,,Riga (RIX),Air Baltic BCS3 (YL-CSH),Landed 08:37,2021-06-12
+29,29,08:50,TK1629,Istanbul (IST),Turkish Airlines A21N (TC-LSF),Landed 08:58,2021-06-12
+30,30,08:55,LH2223,Toulouse (TLS),Lufthansa CRJ9 (D-ACNX),Landed 08:52,2021-06-12
+31,31,09:00,LH2467,Helsinki (HEL),Lufthansa A20N (D-AINO),Landed 09:10,2021-06-12
+32,32,09:05,LH2443,Copenhagen (CPH),Lufthansa CRJ9 (D-ACKE),Landed 08:49,2021-06-12
+33,33,09:15 XC6103,,Antalya (AYT),Corendon Airlines B738 (TC-TJT),Landed 09:50,2021-06-12
+34,34,09:25,LO351,Warsaw (WAW),LOT E75S (SP-LII),Landed 09:01,2021-06-12
+35,35,09:30,LH2473,London (LHR),Lufthansa A20N (D-AINM),Landed 09:08,2021-06-12
+36,36,09:35,LH1757,Athens (ATH),Lufthansa A20N (D-AINW),Landed 09:20,2021-06-12
+37,37,09:35,OU4438,Split (SPU),Croatia Airlines A319 (9A-CTH),Landed 09:25,2021-06-12
+38,38,09:40,UX1515,Madrid (MAD),Air Europa B738 (EC-LPR),Landed 09:41,2021-06-12
+39,39,09:45,UA952,Chicago (ORD),United Airlines B789 (N26960),Landed 09:38,2021-06-12
+40,40,09:45,A3432,Heraklion (HER),Aegean Airlines A320 (SX-DVL),Landed 09:16,2021-06-12
+41,41,09:45,LH1807,Madrid (MAD),Lufthansa A319 (D-AILB),Landed 09:46,2021-06-12
+42,42,09:45,LH1819,Barcelona (BCN),Air Dolomiti E195 (I-ADJT),Landed 09:45,2021-06-12
+43,43,09:55,LH1675,Budapest (BUD),Lufthansa CRJ9 (D-ACNG),Landed 09:43,2021-06-12
+44,44,09:55,LH1873,Rome (FCO),Air Dolomiti E195 (I-ADJL),Landed 09:57,2021-06-12
+45,45,09:55 XC3561,,Izmir (ADB),Corendon Airlines B738 (TC-COR),Landed 09:31,2021-06-12
+46,46,10:00,LH683,Tel Aviv (TLV),Lufthansa A319 (D-AIBE),Landed 09:49,2021-06-12
+47,47,10:00,LH2457,Oslo (OSL),Lufthansa CRJ9 (D-ACKH),Landed 09:36,2021-06-12
+48,48,10:05,LH1781,Lisbon (LIS),Lufthansa A320 (D-AIZE),Landed 10:03,2021-06-12
+49,49,10:10,LH98,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A320 (D-AIUA),Landed 11:02,2021-06-12
+50,50,10:15,A3802,Athens (ATH),Aegean Airlines A320 (SX-DVY),Landed 10:01,2021-06-12
+51,51,10:15,LH2301,Amsterdam (AMS),Lufthansa CRJ9 (D-ACKF),Landed 10:05,2021-06-12
+52,52,10:30 DE1577,,Ibiza (IBZ),Condor (Retro Livery) A320 (D-AICH),Landed 10:25,2021-06-12
+53,53,10:30,EW1993,Palma de Mallorca (PMI),Eurowings A320 (D-ABHN),Landed 11:06,2021-06-12
+54,54,10:50,IB3190,Madrid (MAD),Iberia A320 (EC-LXQ),Landed 10:35,2021-06-12
+55,55,10:50 TK7718,,Ankara (ESB),AnadoluJet B738 (TC-JZT),Landed 10:22,2021-06-12
+56,56,11:00,KL1793,Amsterdam (AMS),KLM E75L (PH-EXM),Landed 10:59,2021-06-12
+57,57,11:00 LH1795,,Palma de Mallorca (PMI),Lufthansa (Star Alliance Livery) A320 (D-AIZM),Landed 10:52,2021-06-12
+58,58,11:00 SU6657,,St. Petersburg (LED),Rossiya A319 (VQ-BAT),Landed 10:42,2021-06-12
+59,59,11:05 DE1783,,Preveza (PVK),Condor A320 (D-AICS),Landed 11:03,2021-06-12
+60,60,11:05,EN8285,Milan (LIN),Air Dolomiti E195 (I-ADJW),Landed 10:50,2021-06-12
+61,61,11:05,KM306,Luqa (MLA),Air Malta A20N (9H-NEO),Landed 10:57,2021-06-12
+62,62,11:15 DE1787,,Volos (VOL),Condor A320 (D-AICF),Landed 11:10,2021-06-12
+63,63,11:15,LH2721,Kavala (KVA),Lufthansa A320 (D-AIUV),Landed 10:54,2021-06-12
+64,64,11:20,LH2185,Sylt (GWT),Lufthansa A319 (D-AILY),Landed 11:19,2021-06-12
+65,65,11:30,LH2007,Dusseldorf (DUS),Lufthansa A319 (D-AILA),Landed 11:35,2021-06-12
+66,66,11:35,AF1722,Paris (CDG),Air France E190 (F-HBLF),Landed 12:04,2021-06-12
+67,67,11:45,LH2053,Hamburg (HAM),Lufthansa A320 (D-AIUU),Landed 11:47,2021-06-12
+68,68,11:50 PC1019,,Istanbul (SAW),Pegasus A20N (TC-NBH),Landed 11:49,2021-06-12
+69,69,12:00 TK7738,,Istanbul (SAW),AnadoluJet B738 (TC-JHC),Landed 11:53,2021-06-12
+70,70,12:15,EY5,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNC),Landed 11:42,2021-06-12
+71,71,12:20 DE1601,,Heraklion (HER),Condor B753 (D-ABOC),Landed 12:16,2021-06-12
+72,72,12:20 X34807,,Kos (KGS),TUI fly 73H,Unknown,2021-06-12
+73,73,12:20,,Chicago (ORD),- A359 (D-AIXK),Landed 12:28,2021-06-12
+74,74,12:45,LH435,Chicago (ORD),Lufthansa A359 (D-AIXK),Unknown,2021-06-12
+75,75,12:45,LH2719,Kos (KGS),Lufthansa A319 (D-AILH),Landed 12:35,2021-06-12
+76,76,12:50,TP558,Lisbon (LIS),TAP Air Portugal A319 (CS-TTO),Landed 13:05,2021-06-12
+77,77,12:55 X34293,,Rhodes (RHO),TUI B738 (D-AHFT),Landed 12:31,2021-06-12
+78,78,13:05 FI532,,Reykjavik (KEF),Icelandair B38M (TF-ICN),Landed 12:25,2021-06-12
+79,79,13:15 LH1903,,Lamezia Terme (SUF),Air Dolomiti E195 (I-ADJN),Landed 13:17,2021-06-12
+80,80,13:20 XQ976,,Izmir (ADB),SunExpress B738 (TC-SOG),Landed 12:59,2021-06-12
+81,81,13:35 LH453,,Los Angeles (LAX),Lufthansa A359 (D-AIXF),Landed 12:54,2021-06-12
+82,82,13:45 LH1811,,Barcelona (BCN),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 14:15,2021-06-12
+83,83,13:55,LH2329,Vienna (VIE),Lufthansa CRJ9 (D-ACNG),Landed 13:42,2021-06-12
+84,84,14:10,EW6614,Pristina (PRN),Eurowings A320 (D-AEWK),Landed 14:04,2021-06-12
+85,85,14:10,LH106,Frankfurt (FRA),Lufthansa A320 (D-AIUS),Landed 14:23,2021-06-12
+86,86,14:20,EN8241,Bologna (BLQ),Air Dolomiti E195 (I-ADJX),Landed 14:13,2021-06-12
+87,87,14:20,LH2369,Zurich (ZRH),Lufthansa CRJ9 (D-ACKH),Landed 14:24,2021-06-12
+88,88,14:25,LH2453,Oslo (OSL),Lufthansa E195 (D-AEBB),Landed 14:14,2021-06-12
+89,89,14:25,LH1631,Wroclaw (WRO),Lufthansa CRJ9 (D-ACNA),Landed 14:07,2021-06-12
+90,90,14:30,LH1937,Berlin (BER),Lufthansa A319 (D-AILP),Landed 14:49,2021-06-12
+91,91,14:30,LH2059,Hamburg (HAM),Lufthansa A319 (D-AIBF),Landed 14:57,2021-06-12
+92,92,14:35,LH1977,Cologne (CGN),Air Dolomiti E195 (I-ADJW),Landed 14:35,2021-06-12
+93,93,14:35,LH2097,Hannover (HAJ),Lufthansa CRJ9 (D-ACNQ),Landed 14:32,2021-06-12
+94,94,14:35 LH2137,,Munster (FMO),Lufthansa CRJ9 (D-ACKF),Landed 14:29,2021-06-12
+95,95,14:40,LH1651,Bucharest (OTP),Air Dolomiti E195 (I-ADJO),Landed 14:27,2021-06-12
+96,96,14:40,LH1657,Timisoara (TSR),Lufthansa CRJ9 (D-ACNH),Landed 14:30,2021-06-12
+97,97,14:40,LH1717,Split (SPU),Lufthansa A320 (D-AIWD),Landed 14:45,2021-06-12
+98,98,14:40,LH2501,Manchester (MAN),Lufthansa CRJ9 (D-ACKD),Landed 14:18,2021-06-12
+99,99,14:40,LH2441,Copenhagen (CPH),Lufthansa CRJ9 (D-ACNU),Landed 14:33,2021-06-12
+100,100,14:45,LH1751,Athens (ATH),Lufthansa A20N (D-AINZ),Landed 14:56,2021-06-12
+101,101,14:45,LH1825,Bilbao (BIO),Lufthansa CRJ9 (D-ACKG),Landed 14:44,2021-06-12
+102,102,14:45,LH2193,Bremen (BRE),Lufthansa CRJ9 (D-ACNX),Landed 14:51,2021-06-12
+103,103,14:50,EN8221,Bari (BRI),Air Dolomiti E195 (I-ADJL),Landed 15:08,2021-06-12
+104,104,14:50 LH719,,Seoul (ICN),Lufthansa A359 (D-AIXC),Landed 14:09,2021-06-12
+105,105,14:50 LH1735,,Belgrade (BEG),Lufthansa E195 (D-AEBC),Landed 14:38,2021-06-12
+106,106,14:50,LH2013,Dusseldorf (DUS),Lufthansa A319 (D-AIBC),Landed 14:37,2021-06-12
+107,107,14:50,LH2415,Stockholm (ARN),Lufthansa A320 (D-AIWB),Landed 14:53,2021-06-12
+108,108,14:50 LH2517,,Dublin (DUB),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 14:26,2021-06-12
+109,109,14:55,LH1623,Krakow (KRK),Lufthansa CRJ9 (D-ACNV),Landed 14:58,2021-06-12
+110,110,14:55,LH1875,Rome (FCO),Air Dolomiti E195 (I-ADJT),Landed 15:05,2021-06-12
+111,111,14:55,LH1907,Catania (CTA),Lufthansa A319 (D-AILW),Landed 15:19,2021-06-12
+112,112,14:55 LH1915,,Palermo (PMO),Air Dolomiti E195 (I-ADJS),Landed 14:39,2021-06-12
+113,113,14:55,LH2273,Nice (NCE),Lufthansa A319 (D-AILX),Landed 15:23,2021-06-12
+114,114,14:55,LH2287,Brussels (BRU),Air Dolomiti E195 (I-ADJP),Landed 15:03,2021-06-12
+115,115,14:55,LH2229,Paris (CDG),Lufthansa CRJ9 (D-ACNP),Landed 14:52,2021-06-12
+116,116,14:55,MS787,Cairo (CAI),EgyptAir B738 (SU-GEK),Landed 14:41,2021-06-12
+117,117,15:00,LH1665,Sibiu (SBZ),Lufthansa CRJ9 (D-ACKE),Landed 14:47,2021-06-12
+118,118,15:00 LH1849,,Alicante (ALC),Lufthansa A20N (D-AINT),Landed 15:17,2021-06-12
+119,119,15:05,LH1877,Naples (NAP),Lufthansa A319 (D-AIBE),Landed 15:02,2021-06-12
+120,120,15:05,LH1925,Luqa (MLA),Lufthansa A320 (D-AIUZ),Landed 15:09,2021-06-12
+121,121,15:05,LH2429,Gothenburg (GOT),Lufthansa CRJ9 (D-ACNO),Landed 15:15,2021-06-12
+122,122,15:10 LH2307,,Amsterdam (AMS),Lufthansa CRJ9 (D-ACKI),Landed 15:01,2021-06-12
+123,123,15:15,LH1669,Cluj-Napoca (CLJ),Lufthansa CRJ9 (D-ACNI),Landed 15:06,2021-06-12
+124,124,15:15,LH1759,Heraklion (HER),Lufthansa A320 (D-AIWE),Landed 15:11,2021-06-12
+125,125,15:15,LH1783,Porto (OPO),Lufthansa A20N (D-AINN),Landed 15:22,2021-06-12
+126,126,15:40,EW6890,Palma de Mallorca (PMI),Eurowings (Eurowings Holidays Livery) A320 (OE-IQD),Landed 15:31,2021-06-12
+127,127,15:40 LH1845,,Jerez (XRY),Lufthansa A20N (D-AINR),Landed 15:36,2021-06-12
+128,128,15:40 LH1821,,Ibiza (IBZ),Lufthansa A20N (D-AINX),Landed 15:39,2021-06-12
+129,129,15:55 LH1797,,Palma de Mallorca (PMI),Lufthansa A321 (D-AIDP),Landed 16:42,2021-06-12
+130,130,16:20 DE1811,,Olbia (OLB),Condor A320 (D-AICF),Landed 16:22,2021-06-12
+131,131,16:30 LH1843,,Valencia (VLC),Lufthansa A319 (D-AILB),Landed 16:25,2021-06-12
+132,132,16:45 LH1773,,Bodrum (BJV),Lufthansa A319 (D-AILI),Landed 16:48,2021-06-12
+133,133,16:50 DE25,,Hurghada (HRG),Condor A320 (D-AICR),Landed 16:30,2021-06-12
+134,134,16:55 X32197,,Tenerife (TFS),Condor A321 (D-AIAF),Unknown,2021-06-12
+135,135,17:00,KL1797,Amsterdam (AMS),KLM E190 (PH-EZG),Landed 17:00,2021-06-12
+136,136,17:05,EW1991,Palma de Mallorca (PMI),Eurowings A320 (D-ABHN),Landed 17:26,2021-06-12
+137,137,17:10 LH1823,,Seville (SVQ),Lufthansa A319 (D-AIBB),Landed 17:11,2021-06-12
+138,138,17:10,TK1635,Istanbul (IST),Turkish Airlines A333 (TC-LNG),Landed 16:45,2021-06-12
+139,139,17:15,LH2735,Thessaloniki (SKG),Lufthansa A319 (D-AILY),Landed 17:28,2021-06-12
+140,140,17:20,LH1787,Faro (FAO),Lufthansa A20N (D-AINW),Landed 17:13,2021-06-12
+141,141,17:25,AZ436,Rome (FCO),Alitalia A319 (EI-IMV),Landed 17:21,2021-06-12
+142,142,17:40 LH2725,,Olbia (OLB),Lufthansa A320 (D-AIZE),Landed 17:31,2021-06-12
+143,143,18:00,LH1721,Zadar (ZAD),Lufthansa CRJ9 (D-ACKH),Landed 17:45,2021-06-12
+144,144,18:05 LH1791,,Funchal (FNC),Lufthansa A20N (D-AINU),Landed 18:06,2021-06-12
+145,145,18:10,LH114,Frankfurt (FRA),Lufthansa A319 (D-AIBH),Landed 17:57,2021-06-12
+146,146,18:20,LH1779,Lisbon (LIS),Lufthansa A20N (D-AINO),Landed 18:14,2021-06-12
+147,147,18:25 LH1833,,Malaga (AGP),Lufthansa A320 (D-AIWH),Landed 18:22,2021-06-12
+148,148,18:25 LH1847,,Ibiza (IBZ),Lufthansa (Star Alliance Livery) A320 (D-AIZM),Landed 18:20,2021-06-12
+149,149,18:30,LH1769,Larnaca (LCA),Lufthansa A20N (D-AINM),Landed 18:09,2021-06-12
+150,150,18:35,LH1711,Dubrovnik (DBV),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 18:32,2021-06-12
+151,151,18:40 LH2281,,Bastia (BIA),Air Dolomiti E195 (I-ADJX),Landed 18:39,2021-06-12
+152,152,18:45,OS115,Vienna (VIE),Austrian Airlines E195 (OE-LWD),Landed 18:18,2021-06-12
+153,153,18:50,A3502,Thessaloniki (SKG),Aegean Airlines (Star Alliance livery) A320 (SX-DVQ),Landed 18:36,2021-06-12
+154,154,18:50,LH1947,Berlin (BER),Lufthansa A319 (D-AILP),Landed 18:29,2021-06-12
+155,155,19:10,TP554,Lisbon (LIS),TAP Air Portugal A320 (CS-TMW),Landed 19:05,2021-06-12
+156,156,19:15,LH2063,Hamburg (HAM),Lufthansa A320 (D-AIWB),Landed 19:16,2021-06-12
+157,157,19:25,LH1749,Rhodes (RHO),Lufthansa A320 (D-AIUU),Landed 19:07,2021-06-12
+158,158,19:40 LH2021,,Dusseldorf (DUS),Lufthansa E195 (D-AEBC),Landed 19:20,2021-06-12
+159,159,19:40,XQ130,Antalya (AYT),SunExpress B738 (TC-SPF),Landed 19:32,2021-06-12
+160,160,19:45,EN8287,Milan (LIN),Air Dolomiti E195 (I-ADJT),Landed 19:27,2021-06-12
+161,161,20:00 DE1599,,Chania (CHQ),Condor B753 (D-ABOC),Landed 19:45,2021-06-12
+162,162,20:20 LH1919,,Cagliari (CAG),Air Dolomiti E195 (I-ADJO),Landed 20:14,2021-06-12
+163,163,20:30 X32261,,Gran Canaria (LPA),TUI B738 (D-AHFV),Unknown,2021-06-12
+164,164,20:35 LH1799,,Palma de Mallorca (PMI),Lufthansa A20N (D-AINZ),Landed 21:10,2021-06-12
+165,165,20:35 LH1953,,Berlin (BER),Lufthansa A319 (D-AILX),Landed 20:12,2021-06-12
+166,166,20:35 X34283,,Heraklion (HER),TUI B738 (D-ATUJ),Unknown,2021-06-12
+167,167,20:40,LH1765,Santorini (JTR),Lufthansa A320 (D-AIUV),Landed 20:40,2021-06-12
+168,168,20:50 EK51,,Dubai (DXB),Emirates B77W (A6-EQG),Landed 21:16,2021-06-12
+169,169,21:10 LH2071,,Hamburg (HAM),Lufthansa A319 (D-AILI),Landed 20:51,2021-06-12
+170,170,21:10 LH2715,,Hurghada (HRG),Lufthansa A320 (D-AIWF),Landed 21:08,2021-06-12
+171,171,21:40 DE1597,,Corfu (CFU),Condor A320 (D-AICS),Landed 21:19,2021-06-12
+172,172,22:10,LH122,Frankfurt (FRA),Lufthansa A320 (D-AIUM),Landed 22:00,2021-06-12
+173,173,22:25,KL1801,Amsterdam (AMS),KLM E75L (PH-EXP),Landed 22:18,2021-06-12
+174,174,23:00 LH2701,,Antalya (AYT),Lufthansa A320 (D-AIUZ),Landed 22:54,2021-06-12
+175,175,23:05,LH2703,Corfu (CFU),Lufthansa A319 (D-AIBB),Landed 22:52,2021-06-12
+176,176,23:10 DE1509,,Palma de Mallorca (PMI),Condor A320 (D-AICR),Landed 22:58,2021-06-12
+177,177,23:15 DE1117,,Kefalonia (EFL),Condor A320 (D-AICF),Landed 22:46,2021-06-12
+178,178,23:15 LH2723,,Gran Canaria (LPA),Lufthansa A20N (D-AINV),Landed 23:01,2021-06-12
+179,179,23:25 X32163,,Fuerteventura (FUE),TUI B738 (D-AHFT),Landed 23:11,2021-06-12
+0,0,06:55 SQ328,,Singapore (SIN),Singapore Airlines A359 (9V-SMH),Landed 06:46,2021-06-13
+1,1,07:35 UA106,,Washington (IAD),United Airlines B789 (N26960),Landed 08:00,2021-06-13
+2,2,07:35 AA9720,,Charlotte (CLT),American Airlines B772,Unknown,2021-06-13
+3,3,07:40 LH1927,,Berlin (BER),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 07:14,2021-06-13
+4,4,07:40 LH2389,,Geneva (GVA),Lufthansa CRJ9 (D-ACNV),Landed 07:28,2021-06-13
+5,5,08:00 W21276,,Hurghada (HRG),Flexflight 320,Unknown,2021-06-13
+6,6,08:05 LH1995,,Cologne (CGN),Lufthansa CRJ9 (D-ACNQ),Landed 07:48,2021-06-13
+7,7,08:05 LH2107,,Hannover (HAJ),Lufthansa CRJ9 (D-ACKE),Landed 07:56,2021-06-13
+8,8,08:10 LH94,,Frankfurt (FRA),Lufthansa CRJ9 (D-ACND),Landed 08:04,2021-06-13
+9,9,08:10 LH2031,,Dusseldorf (DUS),Lufthansa A319 (D-AILY),Landed 07:52,2021-06-13
+10,10,08:10 LH2075,,Hamburg (HAM),Lufthansa A320 (D-AIWD),Landed 07:50,2021-06-13
+11,11,08:10 LH2125,,Dresden (DRS),Lufthansa CRJ9 (D-ACNG),Landed 07:54,2021-06-13
+12,12,08:10,LH2421,Stockholm (ARN),Lufthansa A20N (D-AINR),Landed 08:15,2021-06-13
+13,13,08:15,OS111,Vienna (VIE),Austrian Airlines E195 (OE-LWE),Landed 07:58,2021-06-13
+14,14,08:30,EN8199,Venice (VCE),Air Dolomiti E195 (I-ADJS),Landed 08:18,2021-06-13
+15,15,08:30 0B185,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-13
+16,16,08:45,LH2277,Nice (NCE),Air Dolomiti E195 (I-ADJN),Landed 09:10,2021-06-13
+17,17,08:55,LH2223,Toulouse (TLS),Lufthansa CRJ9 (D-ACNH),Landed 08:48,2021-06-13
+18,18,09:00,LH2467,Helsinki (HEL),Lufthansa A20N (D-AINN),Landed 08:52,2021-06-13
+19,19,09:05,LH2443,Copenhagen (CPH),Lufthansa CRJ9 (D-ACKF),Landed 08:46,2021-06-13
+20,20,09:15,EN8193,Florence (FLR),Air Dolomiti E195 (I-ADJK),Landed 09:04,2021-06-13
+21,21,09:20,A3500,Thessaloniki (SKG),Aegean Airlines (Acropolis Museum Sticker) A320 (SX-DVV),Landed 09:07,2021-06-13
+22,22,09:30,LH2473,London (LHR),Lufthansa A20N (D-AINX),Landed 09:09,2021-06-13
+23,23,09:35,LH1757,Athens (ATH),Lufthansa A20N (D-AINT),Landed 09:26,2021-06-13
+24,24,09:35,OU4438,Split (SPU),Croatia Airlines DH8D (9A-CQF),Landed 09:15,2021-06-13
+25,25,09:40,UA194,San Francisco (SFO),United Airlines B789 (N27964),Landed 09:36,2021-06-13
+26,26,09:45,UA952,Chicago (ORD),United Airlines B788 (N26906),Landed 09:43,2021-06-13
+27,27,09:45 LH1807,,Madrid (MAD),Lufthansa A319 (D-AILW),Landed 09:41,2021-06-13
+28,28,09:45,LH1819,Barcelona (BCN),Air Dolomiti E195 (I-ADJP),Landed 09:39,2021-06-13
+29,29,09:55,LH1675,Budapest (BUD),Lufthansa CRJ9 (D-ACKI),Landed 09:45,2021-06-13
+30,30,09:55,LH1873,Rome (FCO),Air Dolomiti E195 (I-ADJL),Landed 09:54,2021-06-13
+31,31,09:55 XC3573,,Izmir (ADB),Corendon Airlines B738 (TC-COR),Landed 09:35,2021-06-13
+32,32,10:00,LH683,Tel Aviv (TLV),Lufthansa A319 (D-AIBC),Landed 09:49,2021-06-13
+33,33,10:05,LH1781,Lisbon (LIS),Lufthansa A319 (D-AIBE),Landed 10:14,2021-06-13
+34,34,10:10,LH98,Frankfurt (FRA),Lufthansa A320 (D-AIZX),Landed 10:00,2021-06-13
+35,35,10:15,A3802,Athens (ATH),Aegean Airlines A321 (SX-DGQ),Landed 09:56,2021-06-13
+36,36,10:25,LH413,New York (EWR),Lufthansa A359 (D-AIXK),Landed 09:52,2021-06-13
+37,37,10:35,EW6890,Palma de Mallorca (PMI),Eurowings A320 (OE-IEU),Landed 10:28,2021-06-13
+38,38,10:40,AY1401,Helsinki (HEL),Finnair E190 (OH-LKH),Landed 09:58,2021-06-13
+39,39,10:45,LH2735,Thessaloniki (SKG),Lufthansa A20N (D-AINW),Landed 10:30,2021-06-13
+40,40,10:50 IB8684,,Madrid (MAD),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 10:37,2021-06-13
+41,41,11:00,KL1793,Amsterdam (AMS),KLM E75L (PH-EXX),Landed 10:45,2021-06-13
+42,42,11:05,EN8285,Milan (LIN),Air Dolomiti E195 (I-ADJO),Landed 10:49,2021-06-13
+43,43,11:05,KM306,Luqa (MLA),Air Malta A20N (9H-NEO),Landed 11:06,2021-06-13
+44,44,11:10,LH1723,Pula (PUY),Lufthansa CRJ9 (D-ACNV),Landed 10:56,2021-06-13
+45,45,11:15 LH2717,,Ibiza (IBZ),Lufthansa A20N (D-AINZ),Landed 11:12,2021-06-13
+46,46,11:25 DE1751,,Zakynthos (ZTH),Condor A320 (D-AICF),Landed 11:10,2021-06-13
+47,47,11:30 DE1509,,Palma de Mallorca (PMI),Condor B753 (D-ABOH),Landed 11:42,2021-06-13
+48,48,11:35,AF1722,Paris (CDG),Air France E190 (F-HBLA),Landed 11:35,2021-06-13
+49,49,11:45,LH2053,Hamburg (HAM),Lufthansa A20N (D-AINO),Landed 11:47,2021-06-13
+50,50,11:45 PC1019,,Istanbul (SAW),Pegasus A20N (TC-NCJ),Landed 11:58,2021-06-13
+51,51,11:45 SU2322,,Moscow (SVO),Aeroflot A321 (VP-BTG),Landed 11:22,2021-06-13
+52,52,11:45 X32529,,Mahon (MAH),TUI fly 73H,Unknown,2021-06-13
+53,53,11:50,BA950,London (LHR),British Airways A21N (G-NEOU),Landed 11:32,2021-06-13
+54,54,12:00 TK7738,,Istanbul (SAW),AnadoluJet B738 (TC-JFG),Landed 12:00,2021-06-13
+55,55,12:00 X34593,,Corfu (CFU),TUI fly 7S8,Unknown,2021-06-13
+56,56,12:05 LH2281,,Bastia (BIA),Lufthansa CRJ9 (D-ACNU),Landed 11:56,2021-06-13
+57,57,12:15,EY5,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLL),Landed 11:52,2021-06-13
+58,58,12:17,,Chicago (ORD),- A359 (D-AIXD),Landed 12:59,2021-06-13
+59,59,12:25 X34283,,Heraklion (HER),TUI B738 (D-AHFT),Landed 12:27,2021-06-13
+60,60,12:25 U6799,,Moscow (DME),Ural Airlines 320,Unknown,2021-06-13
+61,61,12:30 DE1601,,Heraklion (HER),Condor A320 (D-AICE),Landed 12:57,2021-06-13
+62,62,12:30,VY3840,Palma de Mallorca (PMI),Vueling A320 (EC-MKN),Landed 12:08,2021-06-13
+63,63,12:45,LH435,Chicago (ORD),Lufthansa A359 (D-AIXD),Unknown,2021-06-13
+64,64,12:50,TP558,Lisbon (LIS),TAP Express E190 (CS-TPW),Landed 12:55,2021-06-13
+65,65,12:55 SU2826,,St. Petersburg (LED),Aeroflot A320 (VP-BAC),Landed 12:31,2021-06-13
+66,66,13:15,EK49,Dubai (DXB),Emirates B77W (A6-EBU),Landed 12:50,2021-06-13
+67,67,13:20,XQ976,Izmir (ADB),SunExpress B738 (TC-SNT),Landed 13:06,2021-06-13
+68,68,13:30,QR57,Doha (DOH),Qatar Airways A359 (A7-ALO),Landed 13:04,2021-06-13
+69,69,13:35 LH453,,Los Angeles (LAX),Lufthansa A359 (D-AIXL),Landed 13:08,2021-06-13
+70,70,13:35 LH2705,,Chania (CHQ),Lufthansa A320 (D-AIZD),Landed 13:30,2021-06-13
+71,71,13:45 LH1811,,Barcelona (BCN),Air Dolomiti E195 (I-ADJX),Landed 14:05,2021-06-13
+72,72,13:45 LH1795,,Palma de Mallorca (PMI),Lufthansa A321 (D-AIDP),Landed 13:48,2021-06-13
+73,73,14:00,LH1703,Sofia (SOF),Air Dolomiti E195 (I-ADJN),Landed 14:13,2021-06-13
+74,74,14:10,LH106,Frankfurt (FRA),Lufthansa A320 (D-AIZX),Landed 13:59,2021-06-13
+75,75,14:20,EN8241,Bologna (BLQ),Air Dolomiti E195 (I-ADJK),Landed 14:07,2021-06-13
+76,76,14:20,LH2369,Zurich (ZRH),Lufthansa CRJ9 (D-ACNV),Landed 14:09,2021-06-13
+77,77,14:25,LH1631,Wroclaw (WRO),Lufthansa CRJ9 (D-ACNA),Landed 14:17,2021-06-13
+78,78,14:25,LH2059,Hamburg (HAM),Lufthansa A320 (D-AIWH),Landed 14:33,2021-06-13
+79,79,14:30,LH1937,Berlin (BER),Lufthansa A319 (D-AILW),Landed 14:26,2021-06-13
+80,80,14:35,LH1977,Cologne (CGN),Lufthansa CRJ9 (D-ACKF),Landed 14:30,2021-06-13
+81,81,14:35,LH2097,Hannover (HAJ),Lufthansa CRJ9 (D-ACNH),Landed 14:43,2021-06-13
+82,82,14:35 LH2137,,Munster (FMO),Lufthansa CRJ9 (D-ACKH),Landed 14:40,2021-06-13
+83,83,14:40,LH1651,Bucharest (OTP),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 14:36,2021-06-13
+84,84,14:40,LH1657,Timisoara (TSR),Lufthansa CRJ9 (D-ACNP),Landed 14:32,2021-06-13
+85,85,14:40,LH1643,Gdansk (GDN),Lufthansa CRJ9 (D-ACNO),Landed 14:50,2021-06-13
+86,86,14:40,LH2441,Copenhagen (CPH),Lufthansa CRJ9 (D-ACKI),Landed 14:38,2021-06-13
+87,87,14:45,LH1613,Warsaw (WAW),Air Dolomiti E195 (I-ADJT),Landed 14:39,2021-06-13
+88,88,14:45,LH1717,Split (SPU),Lufthansa A319 (D-AILH),Landed 14:28,2021-06-13
+89,89,14:45,LH1825,Bilbao (BIO),Lufthansa A319 (D-AIBB),Landed 14:54,2021-06-13
+90,90,14:45,LH2193,Bremen (BRE),Lufthansa CRJ9 (D-ACNX),Landed 15:01,2021-06-13
+91,91,14:50,EN8221,Bari (BRI),Air Dolomiti E195 (I-ADJS),Landed 15:03,2021-06-13
+92,92,14:50 LH1735,,Belgrade (BEG),Lufthansa CRJ9 (D-ACNQ),Landed 15:13,2021-06-13
+93,93,14:50,LH2013,Dusseldorf (DUS),Lufthansa A319 (D-AILY),Landed 14:46,2021-06-13
+94,94,14:50 LH2517,,Dublin (DUB),Lufthansa CRJ9 (D-ACNG),Landed 14:22,2021-06-13
+95,95,14:55,LH1711,Dubrovnik (DBV),Lufthansa A319 (D-AIBC),Landed 14:58,2021-06-13
+96,96,14:55 LH1801,,Madrid (MAD),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 14:52,2021-06-13
+97,97,14:55,LH1875,Rome (FCO),Air Dolomiti E195 (I-ADJP),Landed 14:55,2021-06-13
+98,98,14:55,LH1907,Catania (CTA),Lufthansa E195 (D-AEBC),Landed 15:07,2021-06-13
+99,99,14:55 LH1915,,Palermo (PMO),Lufthansa A319 (D-AILA),Landed 14:47,2021-06-13
+100,100,14:55,LH2273,Nice (NCE),Air Dolomiti E195 (I-ADJL),Landed 14:50,2021-06-13
+101,101,14:55,LH2287,Brussels (BRU),Lufthansa CRJ9 (D-ACNL),Landed 14:57,2021-06-13
+102,102,14:55 MS787,,Cairo (CAI),EgyptAir -,Canceled,2021-06-13
+103,103,15:00,LH1665,Sibiu (SBZ),Lufthansa CRJ9 (D-ACNI),Landed 15:04,2021-06-13
+104,104,15:00 LH1843,,Valencia (VLC),Lufthansa A319 (D-AILP),Landed 15:00,2021-06-13
+105,105,15:05,EN8211,Verona (VRN),Air Dolomiti E195 (I-ADJO),Landed 15:11,2021-06-13
+106,106,15:05,LH1877,Naples (NAP),Lufthansa A319 (D-AIBE),Landed 15:06,2021-06-13
+107,107,15:05,LH1925,Luqa (MLA),Lufthansa CRJ9 (D-ACKE),Landed 14:44,2021-06-13
+108,108,15:05,LH2429,Gothenburg (GOT),Lufthansa E195 (D-AEBB),Landed 15:09,2021-06-13
+109,109,15:15,LH1669,Cluj-Napoca (CLJ),Lufthansa CRJ9 (D-ACKG),Landed 15:14,2021-06-13
+110,110,15:15,LH1783,Porto (OPO),Lufthansa A20N (D-AINM),Landed 15:17,2021-06-13
+111,111,15:20 LH1903,,Lamezia Terme (SUF),Lufthansa A320 (D-AIWE),Landed 15:40,2021-06-13
+112,112,15:30 LH1823,,Seville (SVQ),Lufthansa A20N (D-AINV),Landed 15:27,2021-06-13
+113,113,15:30 LH1833,,Malaga (AGP),Lufthansa A320 (D-AIUZ),Landed 15:29,2021-06-13
+114,114,15:30,LH2533,Mykonos (JMK),Lufthansa A320 (D-AIUS),Landed 15:21,2021-06-13
+115,115,15:30 LH2725,,Olbia (OLB),Lufthansa A320 (D-AIUU),Landed 15:25,2021-06-13
+116,116,16:10,LH1749,Rhodes (RHO),Lufthansa A20N (D-AINR),Landed 16:00,2021-06-13
+117,117,16:20,LH1767,Corfu (CFU),Lufthansa A320 (D-AIUV),Landed 16:17,2021-06-13
+118,118,16:40 LH2479,,London (LHR),Lufthansa A20N (D-AINW),Landed 16:12,2021-06-13
+119,119,16:45 LH2545,,Kyiv (KBP),Lufthansa (Star Alliance Livery) A319 (D-AILS),Landed 16:38,2021-06-13
+120,120,17:00,KL1797,Amsterdam (AMS),KLM E295 (PH-NXD),Landed 16:55,2021-06-13
+121,121,17:10,TK1635,Istanbul (IST),Turkish Airlines A321 (TC-JRN),Landed 16:58,2021-06-13
+122,122,17:20,LH1787,Faro (FAO),Lufthansa A20N (D-AINN),Landed 17:07,2021-06-13
+123,123,17:25,AZ436,Rome (FCO),Alitalia A319 (EI-IMJ),Landed 17:35,2021-06-13
+124,124,17:25,EW1995,Palma de Mallorca (PMI),Eurowings (Eurowings Holidays Livery) A320 (OE-IQD),Landed 17:18,2021-06-13
+125,125,17:30,UX1517,Madrid (MAD),Air Europa B738 (EC-MKL),Landed 17:28,2021-06-13
+126,126,17:35 XQ672,,Dalaman (DLM),SunExpress B738 (TC-SEN),Landed 17:25,2021-06-13
+127,127,18:00,LH1721,Zadar (ZAD),Lufthansa CRJ9 (D-ACNV),Landed 17:30,2021-06-13
+128,128,18:00 X38981,,Pristina (PRN),TUI B738 (D-ATUJ),Landed 17:45,2021-06-13
+129,129,18:10,LH114,Frankfurt (FRA),Lufthansa A320 (D-AIUI),Landed 18:00,2021-06-13
+130,130,18:20,LH1779,Lisbon (LIS),Lufthansa A320 (D-AIWD),Landed 20:19,2021-06-13
+131,131,18:20 LH1849,,Alicante (ALC),Lufthansa A319 (D-AILB),Landed 18:19,2021-06-13
+132,132,18:25,EW7176,Hamburg (HAM),Eurowings A320 (D-ABNL),Landed 18:03,2021-06-13
+133,133,18:30,BT223,Riga (RIX),Air Baltic BCS3 (YL-AAO),Landed 18:07,2021-06-13
+134,134,18:30,LH1769,Larnaca (LCA),Lufthansa A20N (D-AINX),Landed 18:23,2021-06-13
+135,135,18:45,EW9092,Dusseldorf (DUS),Eurowings A319 (D-AGWI),Landed 18:25,2021-06-13
+136,136,18:45,LX1110,Zurich (ZRH),Helvetic Airways E290 (HB-AZF),Landed 18:47,2021-06-13
+137,137,18:45,OS115,Vienna (VIE),Austrian Airlines A319 (OE-LDD),Landed 18:32,2021-06-13
+138,138,18:50,LO353,Warsaw (WAW),LOT E75S (SP-LIK),Landed 18:27,2021-06-13
+139,139,18:55 W22424,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-13
+140,140,19:05 RO311,,Bucharest (OTP),Tarom A318 (YR-ASA),Landed 18:59,2021-06-13
+141,141,19:10,LH2539,Kos (KGS),Lufthansa A320 (D-AIWF),Landed 19:54,2021-06-13
+142,142,19:10,TP554,Lisbon (LIS),TAP Express E190 (CS-TPQ),Unknown,2021-06-13
+143,143,19:15,LH2063,Hamburg (HAM),Lufthansa A319 (D-AILA),Landed 19:06,2021-06-13
+144,144,19:20,LH1765,Santorini (JTR),Lufthansa A20N (D-AINU),Landed 19:19,2021-06-13
+145,145,19:25 LH1847,,Ibiza (IBZ),Lufthansa A320 (D-AIWB),Landed 19:18,2021-06-13
+146,146,19:40 LH2021,,Dusseldorf (DUS),Lufthansa CRJ9 (D-ACKF),Landed 19:23,2021-06-13
+147,147,19:45,EN8287,Milan (LIN),Air Dolomiti E195 (I-ADJN),Landed 19:40,2021-06-13
+148,148,19:59 N8890,,Chicago (RFD),National Airlines B744,Unknown,2021-06-13
+149,149,20:00 LH2067,,Hamburg (HAM),Lufthansa A320 (D-AIUS),Landed 19:48,2021-06-13
+150,150,20:05 LH1797,,Palma de Mallorca (PMI),Lufthansa A321 (D-AIDT),Landed 20:25,2021-06-13
+151,151,20:20 DE1760,,Samos (SMI),Condor A320 (D-AICF),Landed 20:09,2021-06-13
+152,152,20:20 LH1919,,Cagliari (CAG),Lufthansa A319 (D-AILH),Landed 20:11,2021-06-13
+153,153,20:35 LH1953,,Berlin (BER),Lufthansa A319 (D-AILW),Landed 20:07,2021-06-13
+154,154,20:40 LH2023,,Dusseldorf (DUS),Lufthansa A319 (D-AILY),Landed 20:22,2021-06-13
+155,155,20:45,LH1759,Heraklion (HER),Lufthansa A20N (D-AINO),Landed 20:49,2021-06-13
+156,156,20:45,LH2185,Sylt (GWT),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 20:34,2021-06-13
+157,157,20:50,VY1816,Barcelona (BCN),Vueling A321 (EC-MGY),Landed 20:31,2021-06-13
+158,158,22:10,LH122,Frankfurt (FRA),Lufthansa A359 (D-AIXM),Landed 22:15,2021-06-13
+159,159,22:25,KL1801,Amsterdam (AMS),KLM E190 (PH-EZD),Landed 22:22,2021-06-13
+160,160,22:35 LH1957,,Berlin (BER),Lufthansa A319 (D-AILB),Landed 22:12,2021-06-13
+161,161,22:40 DE1611,,Rhodes (RHO),Condor A320 (D-AICR),Landed 22:36,2021-06-13
+162,162,22:45 LH2711,,Fuerteventura (FUE),Lufthansa A20N (D-AINT),Landed 22:44,2021-06-13
+163,163,23:00 X32845,,Lanzarote (ACE),TUI B738 (D-AHFT),Unknown,2021-06-13
+164,164,23:10 LH2739,,Tenerife (TFS),Lufthansa A20N (D-AINZ),Landed 23:08,2021-06-13
+165,165,23:15 DE1609,,Kos (KGS),Condor A320 (D-AICE),Landed 23:10,2021-06-13
+166,166,23:20,LH2709,Faro (FAO),Lufthansa A320 (D-AIWH),Landed 23:15,2021-06-13
+167,167,23:25,TP552,Lisbon (LIS),TAP Air Portugal A20N (CS-TVI),Landed 23:21,2021-06-13
+168,168,23:25 X32239,,Gran Canaria (LPA),TUI B738 (D-ATUR),Landed 22:47,2021-06-13
+0,0,07:15 LH2559,,Tbilisi (TBS),Lufthansa A20N (D-AINU),Landed 07:14,2021-06-14
+1,1,07:35 AA9720,,Charlotte (CLT),American Airlines B772,Unknown,2021-06-14
+2,2,07:35 UA106,,Washington (IAD),United Airlines B788 (N26906),Landed 07:55,2021-06-14
+3,3,07:40 LH1927,,Berlin (BER),Lufthansa A319 (D-AILW),Landed 07:21,2021-06-14
+4,4,07:40 LH2389,,Geneva (GVA),Lufthansa CRJ9 (D-ACKG),Landed 07:34,2021-06-14
+5,5,08:05 LH1655,,Bucharest (OTP),Air Dolomiti E195 (I-ADJW),Landed 07:57,2021-06-14
+6,6,08:05 LH2107,,Hannover (HAJ),Lufthansa CRJ9 (D-ACKH),Landed 08:00,2021-06-14
+7,7,08:10 LH94,,Frankfurt (FRA),Lufthansa A320 (D-AIUH),Landed 07:59,2021-06-14
+8,8,08:10 LH1667,,Sibiu (SBZ),Lufthansa CRJ9 (D-ACNP),Landed 08:05,2021-06-14
+9,9,08:10,LH2125,Dresden (DRS),Lufthansa CRJ9 (D-ACKI),Landed 07:50,2021-06-14
+10,10,08:10,LH2199,Bremen (BRE),Lufthansa CRJ9 (D-ACNL),Landed 07:45,2021-06-14
+11,11,08:10,LH2421,Stockholm (ARN),Lufthansa A320 (D-AIUZ),Landed 08:06,2021-06-14
+12,12,08:15,EW90,Cologne (CGN),Eurowings B738 (D-ABKJ),Landed 07:53,2021-06-14
+13,13,08:15 LH2135,,Munster (FMO),Lufthansa CRJ9 (D-ACNA),Landed 08:14,2021-06-14
+14,14,08:15,OS111,Vienna (VIE),Austrian Airlines E195 (OE-LWG),Landed 08:02,2021-06-14
+15,15,08:20,EW4064,Dortmund (DTM),Eurowings (Borussia Dortmund Livery) A320 (D-AIZR),Landed 08:10,2021-06-14
+16,16,08:25,EW7170,Hamburg (HAM),Eurowings A320 (D-AEWT),Landed 08:03,2021-06-14
+17,17,08:30,EN8199,Venice (VCE),Air Dolomiti E195 (I-ADJP),Landed 08:26,2021-06-14
+18,18,08:30,EN8191,Florence (FLR),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 08:22,2021-06-14
+19,19,08:30,EN8245,Bologna (BLQ),Air Dolomiti E195 (I-ADJO),Landed 08:08,2021-06-14
+20,20,08:30 LH1737,,Belgrade (BEG),Lufthansa E195 (D-AEBC),Canceled,2021-06-14
+21,21,08:30 W22422,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-14
+22,22,08:30 0B185,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-14
+23,23,08:35,EW9080,Dusseldorf (DUS),Eurowings A319 (D-AGWI),Landed 08:17,2021-06-14
+24,24,08:35,LH1617,Warsaw (WAW),Air Dolomiti E195 (I-ADJT),Landed 08:15,2021-06-14
+25,25,08:35,LH1707,Sofia (SOF),Air Dolomiti E195 (I-ADJK),Landed 08:18,2021-06-14
+26,26,08:35,LH1863,Milan (MXP),Lufthansa CRJ9 (D-ACNV),Landed 08:11,2021-06-14
+27,27,08:40,LH2239,Paris (CDG),Lufthansa CRJ9 (D-ACNO),Landed 08:30,2021-06-14
+28,28,08:40,LH2295,Brussels (BRU),Air Dolomiti E195 (I-ADJX),Landed 08:28,2021-06-14
+29,29,08:55,LH2223,Toulouse (TLS),Lufthansa CRJ9 (D-ACNX),Landed 08:48,2021-06-14
+30,30,09:00,LH2467,Helsinki (HEL),Lufthansa A319 (D-AIBE),Landed 08:36,2021-06-14
+31,31,09:05,LH2443,Copenhagen (CPH),Lufthansa CRJ9 (D-ACNH),Landed 08:50,2021-06-14
+32,32,09:20,A3500,Thessaloniki (SKG),Aegean Airlines (Star Alliance livery) A320 (SX-DVQ),Landed 09:14,2021-06-14
+33,33,09:25,AY1401,Helsinki (HEL),Finnair E190 (OH-LKM),Landed 08:55,2021-06-14
+34,34,09:25,LO351,Warsaw (WAW),LOT E170 (SP-LDF),Landed 09:02,2021-06-14
+35,35,09:30,LH2473,London (LHR),Lufthansa A20N (D-AINR),Landed 09:11,2021-06-14
+36,36,09:35,LH587,Cairo (CAI),Lufthansa A319 (D-AIBC),Landed 09:08,2021-06-14
+37,37,09:35,LH1757,Athens (ATH),Lufthansa A20N (D-AINM),Landed 09:56,2021-06-14
+38,38,09:35,OU4438,Split (SPU),Croatia Airlines DH8D (9A-CQC),Landed 09:19,2021-06-14
+39,39,09:45,UA952,Chicago (ORD),United Airlines B788 (N20904),Landed 09:50,2021-06-14
+40,40,09:45,LH1819,Barcelona (BCN),Air Dolomiti E195 (I-ADJS),Landed 09:41,2021-06-14
+41,41,09:45,LH1807,Madrid (MAD),Lufthansa A319 (D-AILP),Landed 09:21,2021-06-14
+42,42,09:55,LH481,Denver (DEN),Lufthansa A359 (D-AIXC),Landed 09:29,2021-06-14
+43,43,09:55,LH1675,Budapest (BUD),Lufthansa CRJ9 (D-ACNQ),Landed 09:39,2021-06-14
+44,44,09:55,LH1873,Rome (FCO),Air Dolomiti E195 (I-ADJL),Landed 09:44,2021-06-14
+45,45,10:00,LH683,Tel Aviv (TLV),Lufthansa A319 (D-AIBB),Landed 09:48,2021-06-14
+46,46,10:00,LH2091,Hannover (HAJ),Lufthansa CRJ9 (D-ACNG),Landed 09:53,2021-06-14
+47,47,10:05,LH1781,Lisbon (LIS),Lufthansa A20N (D-AINV),Landed 10:30,2021-06-14
+48,48,10:05,LH1929,Berlin (BER),Lufthansa A319 (D-AILX),Landed 09:47,2021-06-14
+49,49,10:10,LH98,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A320 (D-AIUA),Landed 10:16,2021-06-14
+50,50,10:10,LH2003,Dusseldorf (DUS),Lufthansa A20N (D-AINN),Landed 09:55,2021-06-14
+51,51,10:15 A3802,,Athens (ATH),Aegean Airlines A320 (SX-DNB),Landed 10:18,2021-06-14
+52,52,10:15 LH2051,,Hamburg (HAM),Lufthansa A20N (D-AINZ),Landed 10:12,2021-06-14
+53,53,10:15 LH2301,,Amsterdam (AMS),Lufthansa CRJ9 (D-ACNI),Landed 09:58,2021-06-14
+54,54,10:25 LH413,,New York (EWR),Lufthansa A359 (D-AIXK),Landed 10:03,2021-06-14
+55,55,10:35 LH2189,,Bremen (BRE),Lufthansa CRJ9 (D-ACKF),Landed 10:14,2021-06-14
+56,56,10:40 EW6890,,Palma de Mallorca (PMI),Eurowings A320 (OE-IQA),Landed 10:22,2021-06-14
+57,57,11:00,KL1793,Amsterdam (AMS),KLM E295 (PH-NXB),Landed 10:58,2021-06-14
+58,58,11:05,EN8285,Milan (LIN),Air Dolomiti E195 (I-ADJN),Landed 10:48,2021-06-14
+59,59,11:25,PS415,Kyiv (KBP),Ukraine International Airlines E190 (UR-EMB),Landed 10:56,2021-06-14
+60,60,11:30 DE1509,,Palma de Mallorca (PMI),Condor A320 (D-AICA),Landed 11:18,2021-06-14
+61,61,11:35,IB3190,Madrid (MAD),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 11:16,2021-06-14
+62,62,11:35 PC1019,,Istanbul (SAW),Pegasus A20N (TC-NBH),Landed 11:21,2021-06-14
+63,63,11:45 SU2322,,Moscow (SVO),Aeroflot A320 (VP-BLR),Landed 11:03,2021-06-14
+64,64,12:00 TK7738,,Istanbul (SAW),AnadoluJet B738 (TC-JFY),Landed 11:59,2021-06-14
+65,65,12:05,VY3840,Palma de Mallorca (PMI),Vueling A320 (EC-MKN),Landed 11:47,2021-06-14
+66,66,12:15 X34807,,Kos (KGS),TUI fly 73H,Unknown,2021-06-14
+67,67,12:25,,Chicago (ORD),- A359 (D-AIXF),Landed 12:14,2021-06-14
+68,68,12:30,LH2733,Rhodes (RHO),Lufthansa A20N (D-AINO),Landed 12:18,2021-06-14
+69,69,12:45,LH435,Chicago (ORD),Lufthansa A359 (D-AIXF),Unknown,2021-06-14
+70,70,12:50,TP558,Lisbon (LIS),TAP Air Portugal A319 (CS-TTP),Landed 12:40,2021-06-14
+71,71,13:00 X34293,,Rhodes (RHO),TUI B738 (D-ATUJ),Landed 12:37,2021-06-14
+72,72,13:20,XQ976,Izmir (ADB),SunExpress B738 (TC-SNT),Landed 13:08,2021-06-14
+73,73,13:30,QR57,Doha (DOH),Qatar Airways A359 (A7-ALS),Landed 12:58,2021-06-14
+74,74,13:45 LH1811,,Barcelona (BCN),Air Dolomiti E195 (I-ADJW),Landed 13:34,2021-06-14
+75,75,13:55,LH2369,Zurich (ZRH),Lufthansa CRJ9 (D-ACNH),Landed 14:01,2021-06-14
+76,76,14:00,LH1703,Sofia (SOF),Air Dolomiti E195 (I-ADJP),Landed 13:54,2021-06-14
+77,77,14:10,LH106,Frankfurt (FRA),Lufthansa A320 (D-AIWC),Landed 14:18,2021-06-14
+78,78,14:20,EN8241,Bologna (BLQ),Air Dolomiti E195 (I-ADJS),Landed 14:08,2021-06-14
+79,79,14:25,LH2453,Oslo (OSL),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 14:27,2021-06-14
+80,80,14:30,LH2059,Hamburg (HAM),Lufthansa A320 (D-AIUZ),Landed 14:25,2021-06-14
+81,81,14:35,LH1977,Cologne (CGN),Lufthansa CRJ9 (D-ACNG),Landed 14:15,2021-06-14
+82,82,14:35 LH2137,,Munster (FMO),Lufthansa CRJ9 (D-ACNI),Landed 14:20,2021-06-14
+83,83,14:40,LH1643,Gdansk (GDN),Lufthansa CRJ9 (D-ACNA),Landed 14:49,2021-06-14
+84,84,14:40,LH1651,Bucharest (OTP),Air Dolomiti E195 (I-ADJO),Landed 14:24,2021-06-14
+85,85,14:40,LH1937,Berlin (BER),Lufthansa A319 (D-AILX),Landed 14:29,2021-06-14
+86,86,14:40,LH2441,Copenhagen (CPH),Lufthansa CRJ9 (D-ACNL),Landed 14:36,2021-06-14
+87,87,14:40 LH2501,,Manchester (MAN),Lufthansa CRJ9 (D-ACKI),Landed 14:20,2021-06-14
+88,88,14:45,LH1613,Warsaw (WAW),Air Dolomiti E195 (I-ADJL),Landed 14:42,2021-06-14
+89,89,14:45,LH1751,Athens (ATH),Lufthansa A20N (D-AINX),Landed 14:51,2021-06-14
+90,90,14:45,LH2193,Bremen (BRE),Lufthansa CRJ9 (D-ACKF),Landed 14:58,2021-06-14
+91,91,14:50,LH1907,Catania (CTA),Lufthansa A319 (D-AIBF),Landed 14:43,2021-06-14
+92,92,14:50,LH2013,Dusseldorf (DUS),Lufthansa A319 (D-AILY),Landed 14:40,2021-06-14
+93,93,14:50,LH2415,Stockholm (ARN),Lufthansa A319 (D-AILA),Landed 14:46,2021-06-14
+94,94,14:50 LH2517,,Dublin (DUB),Lufthansa A319 (D-AILB),Landed 14:32,2021-06-14
+95,95,14:55,EN8221,Bari (BRI),Air Dolomiti E195 (I-ADJT),Landed 15:03,2021-06-14
+96,96,14:55,LH1623,Krakow (KRK),Lufthansa A319 (D-AIBB),Landed 14:54,2021-06-14
+97,97,14:55,LH1711,Dubrovnik (DBV),Lufthansa A319 (D-AIBE),Landed 14:55,2021-06-14
+98,98,14:55,LH1801,Madrid (MAD),Lufthansa A319 (D-AILW),Landed 14:39,2021-06-14
+99,99,14:55 LH1915,,Palermo (PMO),Lufthansa CRJ9 (D-ACNV),Landed 14:48,2021-06-14
+100,100,14:55 LH2229,,Paris (CDG),Lufthansa CRJ9 (D-ACNO),Landed 14:47,2021-06-14
+101,101,14:55 LH2257,,Strasbourg (SXB),Lufthansa CRJ9 (D-ACKG),Landed 14:34,2021-06-14
+102,102,14:55 LH2273,,Nice (NCE),Air Dolomiti E195 (I-ADJK),Landed 15:24,2021-06-14
+103,103,14:55,LH2287,Brussels (BRU),Air Dolomiti E195 (I-ADJN),Landed 14:52,2021-06-14
+104,104,15:05,LH1877,Naples (NAP),Lufthansa CRJ9 (D-ACNX),Landed 15:01,2021-06-14
+105,105,15:05,LH1925,Luqa (MLA),Lufthansa E195 (D-AEBB),Landed 15:10,2021-06-14
+106,106,15:05,LH2429,Gothenburg (GOT),Lufthansa CRJ9 (D-ACKH),Landed 14:59,2021-06-14
+107,107,15:10 LH2307,,Amsterdam (AMS),Lufthansa CRJ9 (D-ACNQ),Landed 14:56,2021-06-14
+108,108,15:15,LH1783,Porto (OPO),Lufthansa A20N (D-AINU),Landed 15:05,2021-06-14
+109,109,15:25 LH1847,,Ibiza (IBZ),Lufthansa A20N (D-AINT),Landed 15:18,2021-06-14
+110,110,16:00 S73555,,Moscow (DME),S7 Airlines B738 (VP-BUL),Landed 15:47,2021-06-14
+111,111,16:40 LH2479,,London (LHR),Lufthansa A20N (D-AINZ),Landed 16:15,2021-06-14
+112,112,16:45 LH2545,,Kyiv (KBP),Lufthansa A319 (D-AILP),Landed 16:35,2021-06-14
+113,113,17:00,KL1797,Amsterdam (AMS),KLM E190 (PH-EZW),Landed 16:45,2021-06-14
+114,114,17:00 LH2729,,Palma de Mallorca (PMI),Lufthansa A20N (D-AINM),Landed 17:01,2021-06-14
+115,115,17:05,EW1991,Palma de Mallorca (PMI),Eurowings A320 (OE-IQC),Landed 16:49,2021-06-14
+116,116,17:10,AF1822,Paris (CDG),Air France E190 (F-HBLH),Landed 17:32,2021-06-14
+117,117,17:10,TK1635,Istanbul (IST),Turkish Airlines A21N (TC-LTE),Landed 16:58,2021-06-14
+118,118,17:25,AZ436,Rome (FCO),Alitalia A319 (EI-IMH),Landed 17:28,2021-06-14
+119,119,17:25 LH2725,,Olbia (OLB),Lufthansa A319 (D-AIBC),Landed 17:12,2021-06-14
+120,120,17:30,UX1517,Madrid (MAD),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 17:14,2021-06-14
+121,121,17:40,SK2657,Copenhagen (CPH),SAS CRJ9 (EI-FPT),Landed 17:22,2021-06-14
+122,122,18:10,LH114,Frankfurt (FRA),Lufthansa A20N (D-AIJC),Landed 18:00,2021-06-14
+123,123,18:20,LH1779,Lisbon (LIS),Lufthansa A20N (D-AINN),Landed 18:25,2021-06-14
+124,124,18:25 LH1835,,Malaga (AGP),Lufthansa A20N (D-AINV),Landed 18:23,2021-06-14
+125,125,18:25,LH2373,Zurich (ZRH),Lufthansa CRJ9 (D-ACNO),Landed 18:17,2021-06-14
+126,126,18:30,LH1769,Larnaca (LCA),Lufthansa A20N (D-AINR),Landed 18:14,2021-06-14
+127,127,18:45,OS115,Vienna (VIE),Austrian Airlines E195 (OE-LWP),Landed 18:39,2021-06-14
+128,128,18:50 LH1947,,Berlin (BER),Lufthansa A319 (D-AILX),Landed 18:34,2021-06-14
+129,129,18:55 W22424,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-14
+130,130,19:10 LH116,,Frankfurt (FRA),Lufthansa CRJ9 (D-ACKK),Landed 18:52,2021-06-14
+131,131,19:15 LH2063,,Hamburg (HAM),Lufthansa A319 (D-AILA),Landed 19:05,2021-06-14
+132,132,19:35 LH1797,,Palma de Mallorca (PMI),Lufthansa A20N (D-AINO),Landed 19:25,2021-06-14
+133,133,19:45,EN8287,Milan (LIN),Air Dolomiti E195 (I-ADJS),Landed 19:27,2021-06-14
+134,134,20:15,VY1816,Barcelona (BCN),Vueling A320 (EC-LLJ),Landed 20:04,2021-06-14
+135,135,20:25 LH1985,,Cologne (CGN),Lufthansa CRJ9 (D-ACNA),Landed 20:10,2021-06-14
+136,136,20:35 LH1953,,Berlin (BER),Lufthansa A319 (D-AILW),Landed 20:19,2021-06-14
+137,137,20:35 X34283,,Heraklion (HER),TUI B738 (D-AHFT),Landed 20:12,2021-06-14
+138,138,20:40 LH2023,,Dusseldorf (DUS),Lufthansa A319 (D-AILB),Landed 20:22,2021-06-14
+139,139,20:40,XQ130,Antalya (AYT),SunExpress B738 (TC-SEJ),Landed 20:38,2021-06-14
+140,140,20:50 EK51,,Dubai (DXB),Emirates B77W (A6-EPZ),Landed 21:36,2021-06-14
+141,141,21:10 LH2071,,Hamburg (HAM),Lufthansa A320 (D-AIUZ),Landed 20:56,2021-06-14
+142,142,22:10 LH122,,Frankfurt (FRA),Lufthansa A320 (D-AIUT),Landed 22:04,2021-06-14
+143,143,22:15,AF1122,Paris (CDG),Air France E190 (F-HBLM),Landed 21:51,2021-06-14
+144,144,22:15 LH2717,,Ibiza (IBZ),Lufthansa A319 (D-AIBE),Landed 22:03,2021-06-14
+145,145,22:25,KL1801,Amsterdam (AMS),KLM E75L (PH-EXN),Landed 22:13,2021-06-14
+146,146,22:25 3V4219,,Lyon (LYS),ASL Airlines Belgium 73P,Unknown,2021-06-14
+147,147,22:25 V8816,,Moscow (VKO),Atran 73P,Unknown,2021-06-14
+148,148,23:05,LH2731,Preveza (PVK),Lufthansa A20N (D-AINT),Landed 22:36,2021-06-14
+149,149,23:25 X32238,,Fuerteventura (FUE),TUI B738 (D-ATUR),Landed 22:58,2021-06-14
+0,0,01:15 X3951,,Hannover (HAJ),TUI B738 (D-AHFV),Landed 01:17,2021-06-15
+1,1,05:15 3V4387,,Liege (LGG),ASL Airlines Belgium B734 (OE-IAM),Landed 05:03,2021-06-15
+2,2,06:50,XQ714,Ankara (ESB),SunExpress B738 (TC-SEJ),Landed 06:18,2021-06-15
+3,3,07:00,QR59,Doha (DOH),Qatar Airways A359 (A7-ALM),Landed 06:30,2021-06-15
+4,4,07:35 AA9720,,Charlotte (CLT),American Airlines B772,Unknown,2021-06-15
+5,5,07:35,UA106,Washington (IAD),United Airlines B788 (N27903),Landed 07:00,2021-06-15
+6,6,07:40,LH1927,Berlin (BER),Lufthansa A319 (D-AILB),Landed 07:21,2021-06-15
+7,7,08:05,LH2107,Hannover (HAJ),Lufthansa CRJ9 (D-ACKF),Landed 07:55,2021-06-15
+8,8,08:10,EW90,Cologne (CGN),Eurowings B738 (D-ABKJ),Landed 07:49,2021-06-15
+9,9,08:10,LH94,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNF),Landed 07:56,2021-06-15
+10,10,08:10,LH2199,Bremen (BRE),Lufthansa CRJ9 (D-ACKI),Landed 07:52,2021-06-15
+11,11,08:10,LH2421,Stockholm (ARN),Lufthansa A319 (D-AIBB),Landed 08:05,2021-06-15
+12,12,08:10 0B2985,,Bacau (BCM),Blue Air 738,Unknown,2021-06-15
+13,13,08:15,OS111,Vienna (VIE),Austrian Airlines E195 (OE-LWK),Landed 07:58,2021-06-15
+14,14,08:20,EW4064,Dortmund (DTM),Eurowings A320 (D-AIZQ),Landed 07:46,2021-06-15
+15,15,08:25,EW7170,Hamburg (HAM),Eurowings A320 (D-ABNL),Landed 08:00,2021-06-15
+16,16,08:30,EN8199,Venice (VCE),Air Dolomiti E195 (I-ADJK),Landed 08:32,2021-06-15
+17,17,08:30,EW9080,Dusseldorf (DUS),Eurowings A320 (D-AEWQ),Landed 08:09,2021-06-15
+18,18,08:30 LH1737,,Belgrade (BEG),Lufthansa E195 (D-AEBB),Landed 08:19,2021-06-15
+19,19,08:30 W22422,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-15
+20,20,08:30 0B185,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-15
+21,21,08:35,LH1617,Warsaw (WAW),Air Dolomiti E195 (I-ADJL),Landed 08:38,2021-06-15
+22,22,08:35,LH1707,Sofia (SOF),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 08:20,2021-06-15
+23,23,08:35,LH1863,Milan (MXP),Lufthansa CRJ9 (D-ACKG),Landed 08:07,2021-06-15
+24,24,08:40 LH2239,,Paris (CDG),Lufthansa CRJ9 (D-ACNI),Landed 08:30,2021-06-15
+25,25,08:40 LH2295,,Brussels (BRU),Air Dolomiti E195 (I-ADJN),Landed 08:24,2021-06-15
+26,26,08:55 LH2223,,Toulouse (TLS),Lufthansa CRJ9 (D-ACNG),Landed 08:52,2021-06-15
+27,27,09:00 LH2467,,Helsinki (HEL),Lufthansa A20N (D-AINX),Landed 08:55,2021-06-15
+28,28,09:20 A3500,,Thessaloniki (SKG),Aegean Airlines (Star Alliance livery) A320 (SX-DVQ),Landed 09:01,2021-06-15
+29,29,09:30 LH2473,,London (LHR),Lufthansa A20N (D-AINZ),Landed 09:11,2021-06-15
+30,30,09:35 LH1757,,Athens (ATH),Lufthansa A20N (D-AINU),Landed 09:21,2021-06-15
+31,31,09:35 OU4438,,Split (SPU),Croatia Airlines DH8D (9A-CQE),Landed 09:09,2021-06-15
+32,32,09:40 UA194,,San Francisco (SFO),United Airlines B789 (N29968),Landed 09:39,2021-06-15
+33,33,09:40 UX1515,,Madrid (MAD),Air Europa B738 (EC-LPR),Landed 09:28,2021-06-15
+34,34,09:45 UA952,,Chicago (ORD),United Airlines B788 (N28912),Landed 09:15,2021-06-15
+35,35,09:45 LH1819,,Barcelona (BCN),Air Dolomiti E195 (I-ADJP),Landed 09:50,2021-06-15
+36,36,09:55 LH1675,,Budapest (BUD),Lufthansa CRJ9 (D-ACNQ),Landed 09:41,2021-06-15
+37,37,09:55 LH1873,,Rome (FCO),Air Dolomiti E195 (I-ADJO),Landed 09:54,2021-06-15
+38,38,10:00 LH2457,,Oslo (OSL),Lufthansa CRJ9 (D-ACNL),Landed 09:47,2021-06-15
+39,39,10:05 LH1781,,Lisbon (LIS),Lufthansa A319 (D-AILI),Landed 09:44,2021-06-15
+40,40,10:05 LH1929,,Berlin (BER),Lufthansa A319 (D-AILP),Landed 09:52,2021-06-15
+41,41,10:10,LH98,Frankfurt (FRA),Lufthansa A320 (D-AIUT),Landed 10:08,2021-06-15
+42,42,10:15,A3802,Athens (ATH),Aegean Airlines A321 (SX-DGQ),Landed 10:00,2021-06-15
+43,43,10:15,LH2051,Hamburg (HAM),Lufthansa A319 (D-AILH),Landed 10:06,2021-06-15
+44,44,10:25,EW6890,Palma de Mallorca (PMI),Eurowings A320 (OE-IQC),Landed 10:17,2021-06-15
+45,45,10:25,LH2003,Dusseldorf (DUS),Lufthansa A319 (D-AILA),Landed 10:09,2021-06-15
+46,46,11:00,KL1793,Amsterdam (AMS),KLM E295 (PH-NXB),Landed 10:49,2021-06-15
+47,47,11:35,IB3190,Madrid (MAD),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 11:18,2021-06-15
+48,48,11:45 SU2322,,Moscow (SVO),Aeroflot A320 (VQ-BKT),Landed 11:16,2021-06-15
+49,49,11:55 DE1783,,Preveza (PVK),Condor A320 (D-AICF),Landed 11:30,2021-06-15
+50,50,12:00 TK7738,,Istanbul (SAW),AnadoluJet B738 (TC-JFO),Landed 11:49,2021-06-15
+51,51,12:55 X34293,,Rhodes (RHO),TUI B738 (D-AHFV),Landed 12:29,2021-06-15
+52,52,13:00 X34283,,Heraklion (HER),TUI B738 (D-ATUR),Landed 12:48,2021-06-15
+53,53,13:15,EK49,Dubai (DXB),Emirates 77W,Unknown,2021-06-15
+54,54,13:20,XQ976,Izmir (ADB),SunExpress B738 (TC-SOE),Landed 13:04,2021-06-15
+55,55,13:35,LH453,Los Angeles (LAX),Lufthansa A359 (D-AIXL),Landed 13:13,2021-06-15
+56,56,13:55,LH2369,Zurich (ZRH),Lufthansa CRJ9 (D-ACKH),Landed 13:45,2021-06-15
+57,57,13:55,LH2329,Vienna (VIE),Lufthansa CRJ9 (D-ACNA),Landed 13:46,2021-06-15
+58,58,14:10,LH106,Frankfurt (FRA),Lufthansa A320 (D-AIUT),Landed 14:12,2021-06-15
+59,59,14:25,LH1631,Wroclaw (WRO),Lufthansa CRJ9 (D-ACNH),Landed 14:02,2021-06-15
+60,60,14:30,LH2059,Hamburg (HAM),Lufthansa A20N (D-AINR),Landed 14:22,2021-06-15
+61,61,14:35,LH1977,Cologne (CGN),Lufthansa CRJ9 (D-ACKD),Landed 14:47,2021-06-15
+62,62,14:35 LH2137,,Munster (FMO),Lufthansa CRJ9 (D-ACNP),Landed 14:19,2021-06-15
+63,63,14:40,LH1651,Bucharest (OTP),Air Dolomiti E195 (I-ADJK),Landed 14:31,2021-06-15
+64,64,14:40,LH1657,Timisoara (TSR),Lufthansa CRJ9 (D-ACNU),Landed 14:34,2021-06-15
+65,65,14:40,LH1717,Split (SPU),Lufthansa A319 (D-AILH),Landed 14:32,2021-06-15
+66,66,14:40,LH2441,Copenhagen (CPH),Lufthansa CRJ9 (D-ACNI),Landed 14:26,2021-06-15
+67,67,14:40,LH2501,Manchester (MAN),Lufthansa CRJ9 (D-ACKF),Landed 14:16,2021-06-15
+68,68,14:45,LH1937,Berlin (BER),Lufthansa A319 (D-AILP),Landed 14:28,2021-06-15
+69,69,14:45,LH1751,Athens (ATH),Lufthansa A20N (D-AINO),Landed 14:38,2021-06-15
+70,70,14:45,LH2193,Bremen (BRE),Lufthansa CRJ9 (D-ACNL),Landed 15:11,2021-06-15
+71,71,14:50 LH719,,Seoul (ICN),Lufthansa A359 (D-AIXJ),Landed 15:05,2021-06-15
+72,72,14:50,LH1735,Belgrade (BEG),Lufthansa A319 (D-AILX),Landed 14:40,2021-06-15
+73,73,14:50,LH2013,Dusseldorf (DUS),Lufthansa A319 (D-AIBE),Landed 14:36,2021-06-15
+74,74,14:50,LH2415,Stockholm (ARN),Lufthansa A319 (D-AIBB),Landed 15:01,2021-06-15
+75,75,14:55,LH1875,Rome (FCO),Air Dolomiti E195 (I-ADJP),Landed 14:49,2021-06-15
+76,76,14:55,LH1907,Catania (CTA),Lufthansa E195 (D-AEBB),Landed 15:09,2021-06-15
+77,77,14:55,LH2229,Paris (CDG),Lufthansa CRJ9 (D-ACNQ),Landed 14:45,2021-06-15
+78,78,14:55,LH2273,Nice (NCE),Air Dolomiti E195 (I-ADJN),Landed 14:56,2021-06-15
+79,79,15:00,LH1665,Sibiu (SBZ),Lufthansa CRJ9 (D-ACKI),Landed 14:57,2021-06-15
+80,80,15:05,EN8211,Verona (VRN),Air Dolomiti E195 (I-ADJM),Landed 15:03,2021-06-15
+81,81,15:05,LH1877,Naples (NAP),Air Dolomiti E195 (I-ADJT),Landed 14:51,2021-06-15
+82,82,15:05,LH2429,Gothenburg (GOT),Lufthansa CRJ9 (D-ACNG),Landed 14:54,2021-06-15
+83,83,15:10 LH2307,,Amsterdam (AMS),Lufthansa CRJ9 (D-ACNF),Landed 15:04,2021-06-15
+84,84,15:15,LH1669,Cluj-Napoca (CLJ),Lufthansa CRJ9 (D-ACKG),Landed 15:12,2021-06-15
+85,85,15:15,LH1783,Porto (OPO),Air Dolomiti E195 (I-ADJX),Landed 15:08,2021-06-15
+86,86,16:40 LH2479,,London (LHR),Lufthansa A20N (D-AINZ),Landed 16:25,2021-06-15
+87,87,17:00 LH9931,,Belgrade (BEG),Lufthansa E195 (D-AEBC),Landed 16:59,2021-06-15
+88,88,17:10,AF1822,Paris (CDG),Air France A319 (F-GRXC),Landed 17:17,2021-06-15
+89,89,17:10,TK1635,Istanbul (IST),Turkish Airlines A321 (TC-JSE),Landed 16:54,2021-06-15
+90,90,17:15,EW1995,Palma de Mallorca (PMI),Eurowings A319 (OE-LYU),Landed 17:03,2021-06-15
+91,91,17:40 LH2257,,Strasbourg (SXB),Lufthansa CRJ9 (D-ACKF),Landed 17:20,2021-06-15
+92,92,17:40,SK2657,Copenhagen (CPH),Cityjet CRJ9 (EI-FPE),Landed 17:32,2021-06-15
+93,93,17:50,AY1405,Helsinki (HEL),Finnair E190 (OH-LKG),Landed 18:03,2021-06-15
+94,94,18:10,LH114,Frankfurt (FRA),Lufthansa A20N (D-AINK),Landed 17:53,2021-06-15
+95,95,18:10,LH2703,Corfu (CFU),Lufthansa A20N (D-AINT),Landed 18:07,2021-06-15
+96,96,18:20,LH1779,Lisbon (LIS),Lufthansa A20N (D-AINX),Landed 18:10,2021-06-15
+97,97,18:25,EW7176,Hamburg (HAM),Eurowings A319 (D-AGWG),Landed 18:05,2021-06-15
+98,98,18:25,LX1110,Zurich (ZRH),Swiss BCS1 (HB-JBF),Landed 18:17,2021-06-15
+99,99,18:30,BT223,Riga (RIX),Air Baltic BCS3 (YL-AAS),Landed 18:12,2021-06-15
+100,100,18:30,LH1769,Larnaca (LCA),Lufthansa A20N (D-AINW),Landed 18:23,2021-06-15
+101,101,18:45,EW9092,Dusseldorf (DUS),Eurowings A320 (D-AEWF),Landed 18:20,2021-06-15
+102,102,18:45,OS115,Vienna (VIE),Austrian Airlines E195 (OE-LWJ),Landed 18:38,2021-06-15
+103,103,19:10,EW4062,Dortmund (DTM),Eurowings A320 (D-AEWQ),Landed 18:41,2021-06-15
+104,104,19:10 LH116,,Frankfurt (FRA),Lufthansa E190 (D-AECE),Landed 18:50,2021-06-15
+105,105,19:15,LH2063,Hamburg (HAM),Lufthansa A319 (D-AILH),Landed 19:05,2021-06-15
+106,106,19:30 LH1913,,Olbia (OLB),Lufthansa CRJ9 (D-ACNL),Landed 19:21,2021-06-15
+107,107,19:45,EN8287,Milan (LIN),Air Dolomiti E195 (I-ADJM),Landed 19:29,2021-06-15
+108,108,19:45 LH1847,,Ibiza (IBZ),Lufthansa A20N (D-AINU),Landed 19:27,2021-06-15
+109,109,19:45 LH1797,,Palma de Mallorca (PMI),Lufthansa A20N (D-AINV),Landed 19:42,2021-06-15
+110,110,19:55,OU436,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Landed 19:35,2021-06-15
+111,111,20:25,LH1759,Heraklion (HER),Lufthansa A20N (D-AINN),Landed 20:06,2021-06-15
+112,112,20:35,LH1953,Berlin (BER),Lufthansa A319 (D-AILX),Landed 20:19,2021-06-15
+113,113,20:55 LH2023,,Dusseldorf (DUS),Lufthansa A319 (D-AIBF),Landed 20:27,2021-06-15
+114,114,21:05 X34807,,Kos (KGS),TUI fly 73H,Unknown,2021-06-15
+115,115,21:10 LH2071,,Hamburg (HAM),Lufthansa A319 (D-AILW),Landed 20:56,2021-06-15
+116,116,21:35 DE1610,,Rhodes (RHO),Condor A320 (D-AICF),Landed 21:30,2021-06-15
+117,117,22:05 5X6119,,Athens (ATH),UPS Airlines 76F,Unknown,2021-06-15
+118,118,22:10 LH122,,Frankfurt (FRA),Lufthansa A320 (D-AIUT),Landed 21:53,2021-06-15
+119,119,22:25,KL1801,Amsterdam (AMS),KLM E190 (PH-EZB),Landed 22:05,2021-06-15
+120,120,22:25 3V4537,,Tallinn (TLL),ASL Airlines Belgium B734 (OE-IAU),Unknown,2021-06-15
+121,121,22:25 V8816,,Moscow (VKO),Atran 73P,Unknown,2021-06-15
+122,122,23:15 X32843,,Funchal (FNC),TUI fly 7S8,Unknown,2021-06-15

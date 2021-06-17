@@ -1,0 +1,731 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:15 VB617,,Houston (IAH),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 23:52,2021-06-08
+1,1,00:20 VB4189,,Silao (BJX),VivaAerobus A20N (XA-VIW),Landed 23:47,2021-06-08
+2,2,00:25 VB4169,,Veracruz (VER),VivaAerobus A320 (XA-VAK),Landed 00:01,2021-06-08
+3,3,00:25 VB4199,,Tuxtla Gutierrez (TGZ),VivaAerobus A20N (XA-VIU),Landed 00:58,2021-06-08
+4,4,00:35 VB4399,,Villahermosa (VSA),VivaAerobus A321 (XA-VBJ),Landed 00:06,2021-06-08
+5,5,00:40 VB3202,,Guadalajara (GDL),VivaAerobus A20N (XA-VIO),Landed 00:11,2021-06-08
+6,6,00:45 VB4009,,Puebla (PBC),VivaAerobus A320 (XA-VAE),Landed 00:22,2021-06-08
+7,7,00:50 VB4121,,Hermosillo (HMO),VivaAerobus A20N (XA-VIR),Landed 02:25,2021-06-08
+8,8,00:50 VB4287,,Merida (MID),VivaAerobus A320 (XA-VAB),Landed 00:25,2021-06-08
+9,9,00:55 VB2176,,Cancun (CUN),VivaAerobus A21N (XA-VBA),Landed 00:53,2021-06-08
+10,10,02:08 5V2871,,Laredo (LRD),Everts Air Cargo MD83 (N964CE),Landed 01:55,2021-06-08
+11,11,02:50 VB2194,,Cancun (CUN),VivaAerobus A20N (XA-VII),Landed 02:29,2021-06-08
+12,12,04:55,,San Luis Potosi (SLP),- B734,Canceled,2021-06-08
+13,13,05:04 Y4510,,Tijuana (TIJ),Volaris A319 (XA-VOE),Landed 04:41,2021-06-08
+14,14,05:10 E7522,,San Luis Potosi (SLP),Estafeta Carga Aerea B734 (XA-EST),Landed 04:59,2021-06-08
+15,15,07:02 5X300,,Louisville (SDF),UPS B752 (N404UP),Landed 07:26,2021-06-08
+16,16,07:25 FX67,,Memphis (MEM),FedEx B763 (N135FE),Landed 07:34,2021-06-08
+17,17,07:51,AM900,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 07:39,2021-06-08
+18,18,08:15 VW897,,McAllen (MFE),Aeromar AT76 (XA-UZS),Landed 09:27,2021-06-08
+19,19,08:22 Y4180,,Mexico City (MEX),Volaris A321 (XA-VLT),Landed 08:12,2021-06-08
+20,20,08:48 W8920,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Landed 08:45,2021-06-08
+21,21,08:57,AM904,Mexico City (MEX),Aeromexico B738 (N845AM),Landed 08:18,2021-06-08
+22,22,09:41 Y4676,,Guadalajara (GDL),Volaris A319 (XA-VOE),Landed 09:25,2021-06-08
+23,23,09:45,AM908,Mexico City (MEX),Aeromexico B738 (N342AM),Landed 09:25,2021-06-08
+24,24,10:05 VB1134,,Mexico City (MEX),VivaAerobus A21N (XA-VBA),Landed 09:47,2021-06-08
+25,25,10:10 VB4147,,Ciudad Juarez (CJS),VivaAerobus A320 (XA-VAK),Landed 09:50,2021-06-08
+26,26,10:15 VB4163,,Veracruz (VER),Viva Aerobus A320 (XA-VAC),Landed 09:41,2021-06-08
+27,27,10:35 VB611,,Houston (IAH),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 10:32,2021-06-08
+28,28,10:40 VB3192,,Guadalajara (GDL),VivaAerobus A320 (XA-VAE),Landed 10:17,2021-06-08
+29,29,10:44,AM912,Mexico City (MEX),Aeromexico B738 (XA-ADU),Landed 10:29,2021-06-08
+30,30,11:15 VB677,,San Antonio (SAT),VivaAerobus A20N (XA-VIU),Landed 10:48,2021-06-08
+31,31,11:15 VB4281,,Merida (MID),VivaAerobus A320 (EI-EUA),Landed 10:56,2021-06-08
+32,32,11:39,DL1929,Atlanta (ATL),Delta Air Lines A319 (N343NB),Landed 11:24,2021-06-08
+33,33,11:45 VB2164,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 11:17,2021-06-08
+34,34,11:55 VB683,,Dallas (DFW),VivaAerobus A20N (XA-VIR),Landed 11:26,2021-06-08
+35,35,11:57,UA2256,Houston (IAH),United Airlines A319 (N879UA),Landed 11:35,2021-06-08
+36,36,12:01,Y4231,Cancun (CUN),Volaris A20N (XA-VRF),Landed 11:42,2021-06-08
+37,37,12:15 VW893,,McAllen (MFE),Aeromar AT76 (XA-UZS),Landed 13:54,2021-06-08
+38,38,12:23,AA3701,Dallas (DFW),American Eagle E75L (N238NN),Landed 12:43,2021-06-08
+39,39,12:54 Y45642,,Guadalajara (GDL),Volaris A320 (N525VL),Landed 12:28,2021-06-08
+40,40,13:40 VB1124,,Mexico City (MEX),VivaAerobus A320 (XA-VAK),Landed 14:16,2021-06-08
+41,41,13:41 AM924,,Mexico City (MEX),Aeromexico B738 (XA-AMN),Landed 13:57,2021-06-08
+42,42,14:15 VW891,,McAllen (MFE),Aeromar AT76 (XA-UZE),Landed 14:43,2021-06-08
+43,43,14:24 Y4186,,Mexico City (MEX),Volaris A21N (N536VL),Landed 14:20,2021-06-08
+44,44,14:25 VB4081,,Tijuana (TIJ),VivaAerobus A20N (XA-VIJ),Landed 14:06,2021-06-08
+45,45,14:40 VB4343,,Puerto Vallarta (PVR),VivaAerobus A21N (XA-VBA),Landed 14:34,2021-06-08
+46,46,15:00 VB4273,,Culiacan (CUL),VivaAerobus A320 (XA-VAE),Landed 14:46,2021-06-08
+47,47,15:10 VB671,,San Antonio (SAT),Viva Aerobus A320 (XA-VAC),Landed 14:39,2021-06-08
+48,48,15:10 VB4023,,Mazatlan (MZT),VivaAerobus A320 (EI-EUA),Landed 14:59,2021-06-08
+49,49,15:13 Y4674,,Guadalajara (GDL),Volaris A20N (XA-VRE),Landed 15:07,2021-06-08
+50,50,15:29,Y4191,Cancun (CUN),Volaris A319 (XA-VOE),Landed 15:24,2021-06-08
+51,51,15:35 VB233,,Harlingen (HRL),VivaAerobus A20N (XA-VIR),Landed 15:32,2021-06-08
+52,52,15:39,AM932,Mexico City (MEX),Aeromexico B738 (XA-AMG),Landed 15:41,2021-06-08
+53,53,15:57,UA6117,Houston (IAH),United Express E75L (N86322),Landed 15:43,2021-06-08
+54,54,16:09 Y4512,,Tijuana (TIJ),Volaris A21N (N537VL),Landed 15:50,2021-06-08
+55,55,16:10 VB685,,Dallas (DFW),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 15:53,2021-06-08
+56,56,16:12 JTN154,,Phoenix (GYR),Jet Test and Transport (N425AC),Landed 19:12,2021-06-08
+57,57,16:30 VB2168,,Cancun (CUN),VivaAerobus A320 (XA-VAK),Landed 20:23,2021-06-08
+58,58,16:30 VB4193,,Tuxtla Gutierrez (TGZ),VivaAerobus A320 (XA-VAB),Landed 16:04,2021-06-08
+59,59,16:31,AA4451,Dallas (DFW),American Eagle E75L (N230NN),Landed 16:08,2021-06-08
+60,60,16:55 VB613,,Houston (IAH),VivaAerobus A20N (XA-VIU),Landed 16:38,2021-06-08
+61,61,17:10 VB4185,,Silao (BJX),VivaAerobus A320 (XA-VAV),Landed 16:35,2021-06-08
+62,62,17:35 VB1126,,Mexico City (MEX),VivaAerobus A20N (XA-VIH),Landed 17:49,2021-06-08
+63,63,17:45,AM940,Mexico City (MEX),Aeromexico B38M (XA-MAO),Landed 17:44,2021-06-08
+64,64,17:45 VB603,,Las Vegas (LAS),VivaAerobus A20N (XA-VIO),Landed 17:14,2021-06-08
+65,65,17:49,Y4229,Cancun (CUN),Volaris A320 (N523VL),Landed 17:54,2021-06-08
+66,66,18:20 VB2170,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 18:00,2021-06-08
+67,67,18:43 UA4789,,Chicago (ORD),United Express E75L (N148SY),Landed 18:06,2021-06-08
+68,68,18:50 VB4333,,San Jose del Cabo (SJD),VivaAerobus A20N (XA-VIW),Landed 18:30,2021-06-08
+69,69,18:51,AM944,Mexico City (MEX),Aeromexico B38M (XA-MAG),Landed 18:25,2021-06-08
+70,70,19:00 VB615,,Houston (IAH),VivaAerobus A320 (EI-EUA),Landed 19:56,2021-06-08
+71,71,19:05 VB4317,,Chihuahua (CUU),VivaAerobus A21N (XA-VBA),Landed 18:51,2021-06-08
+72,72,19:07,AA4445,Dallas (DFW),American Eagle E75L (N253NN),Landed 19:01,2021-06-08
+73,73,19:30 VB3196,,Guadalajara (GDL),Viva Aerobus A320 (XA-VAC),Landed 19:27,2021-06-08
+74,74,19:48,AM948,Mexico City (MEX),Aeromexico B738 (XA-ZAM),Landed 19:22,2021-06-08
+75,75,19:50 VB4055,,Acapulco (ACA),VivaAerobus A320 (XA-VAE),Landed 19:47,2021-06-08
+76,76,19:56,Y4213,Cancun (CUN),Volaris A319 (XA-VOI),Landed 19:50,2021-06-08
+77,77,20:00 YQ611,,Tampico (TAM),TAR Aerolineas ERJ,Unknown,2021-06-08
+78,78,20:14 Y4168,,Mexico City (MEX),Volaris A21N (N534VL),Landed 19:54,2021-06-08
+79,79,20:30 VB1138,,Mexico City (MEX),VivaAerobus A20N (XA-VIR),Landed 20:26,2021-06-08
+80,80,20:30 VB4207,,Queretaro (QRO),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 20:19,2021-06-08
+81,81,21:04,AA4381,Dallas (DFW),American Eagle E75L (N248NN),Landed 20:59,2021-06-08
+82,82,21:19,UA6142,Houston (IAH),United Express E75L (N85352),Landed 20:58,2021-06-08
+83,83,21:21,AM954,Mexico City (MEX),Aeromexico B38M (XA-SSR),Landed 21:18,2021-06-08
+84,84,21:43 Y4646,,Guadalajara (GDL),Volaris A320 (N523VL),Landed 21:50,2021-06-08
+85,85,21:45 VB673,,San Antonio (SAT),VivaAerobus A320,Canceled,2021-06-08
+86,86,21:50 VB2198,,Cancun (CUN),VivaAerobus A320 (XA-VAV),Landed 23:00,2021-06-08
+87,87,22:13 AA4140,,Miami (MIA),American Eagle E75L (N265NN),Landed 21:54,2021-06-08
+88,88,22:25 VB1140,,Mexico City (MEX),VivaAerobus A320,Landed 23:20,2021-06-08
+89,89,22:30 VB679,,San Antonio (SAT),VivaAerobus A20N (XA-VIH),Landed 22:00,2021-06-08
+90,90,22:50 VB2180,,Cancun (CUN),VivaAerobus A20N (XA-VIO),Landed 23:27,2021-06-08
+91,91,23:24,AM962,Mexico City (MEX),Aeromexico B738 (N377AR),Landed 23:46,2021-06-08
+92,92,23:50 VB1144,,Mexico City (MEX),Viva Aerobus A320 (XA-VAC),Landed 00:43,2021-06-08
+93,93,23:50 VB4309,,Tampico (TAM),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 23:22,2021-06-08
+0,0,12:15 AM VB617,,Houston (IAH),VivaAerobus A20N (XA-VIW),Landed 11:37 PM,2021-06-09
+1,1,12:25 AM VB4169,,Veracruz (VER),VivaAerobus A320 (XA-VAE),Landed 12:01 AM,2021-06-09
+2,2,12:35 AM VB4399,,Villahermosa (VSA),VivaAerobus A21N (XA-VBA),Landed 12:18 AM,2021-06-09
+3,3,12:45 AM VB4009,,Puebla (PBC),VivaAerobus A20N (XA-VIR),Landed 12:21 AM,2021-06-09
+4,4,12:50 AM VB4121,,Hermosillo (HMO),VivaAerobus A320 (EI-EUA),Landed 1:45 AM,2021-06-09
+5,5,12:55 AM VB2176,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 12:32 AM,2021-06-09
+6,6,2:50 AM VB2194,,Cancun (CUN),VivaAerobus A20N (XA-VIT),Landed 2:22 AM,2021-06-09
+7,7,4:55 AM,,San Luis Potosi (SLP),- B734,Canceled,2021-06-09
+8,8,5:04 AM Y4510,,Tijuana (TIJ),Volaris A319 (XA-VOI),Landed 7:54 AM,2021-06-09
+9,9,5:10 AM E7522,,San Luis Potosi (SLP),Estafeta Carga Aerea B734 (XA-EST),Landed 4:57 AM,2021-06-09
+10,10,7:02 AM 5X300,,Louisville (SDF),UPS B752 (N402UP),Landed 7:13 AM,2021-06-09
+11,11,7:04 AM FX67,,Memphis (MEM),FedEx B763 (N106FE),Landed 7:16 AM,2021-06-09
+12,12,7:51 AM,AM900,Mexico City (MEX),Aeromexico B38M (XA-MAT),Landed 7:27 AM,2021-06-09
+13,13,8:22 AM Y4180,,Mexico City (MEX),Volaris A20N (N531VL),Landed 8:01 AM,2021-06-09
+14,14,8:33 AM W8920,,Cincinnati (CVG),Cargojet Airways B752 (C-FKAJ),Landed 8:30 AM,2021-06-09
+15,15,8:35 AM YQ760,,Queretaro (QRO),TAR Aerolineas ERJ,Unknown,2021-06-09
+16,16,8:57 AM,AM904,Mexico City (MEX),Aeromexico B738 (N825AM),Landed 8:28 AM,2021-06-09
+17,17,9:41 AM Y4676,,Guadalajara (GDL),Volaris A319 (XA-VOI),Landed 12:00 PM,2021-06-09
+18,18,9:45 AM,AM908,Mexico City (MEX),Aeromexico B738 (XA-AMN),Landed 9:49 AM,2021-06-09
+19,19,10:05 AM VB1134,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 10:01 AM,2021-06-09
+20,20,10:05 AM,,Del Rio (DRT),- BE20 (N104BY),Landed 10:36 AM,2021-06-09
+21,21,10:10 AM VB4147,,Ciudad Juarez (CJS),Viva Aerobus A320 (XA-VAC),Landed 9:53 AM,2021-06-09
+22,22,10:10 AM YQ764,,Queretaro (QRO),TAR Aerolineas ERJ,Unknown,2021-06-09
+23,23,10:15 AM VB4163,,Veracruz (VER),VivaAerobus A20N (XA-VIR),Landed 9:45 AM,2021-06-09
+24,24,10:35 AM VB611,,Houston (IAH),VivaAerobus A320 (XA-VAE),Landed 10:05 AM,2021-06-09
+25,25,10:40 AM VB3192,,Guadalajara (GDL),VivaAerobus A320 (EI-EUA),Landed 10:20 AM,2021-06-09
+26,26,10:44 AM,AM912,Mexico City (MEX),Aeromexico B38M (XA-MAQ),Landed 10:32 AM,2021-06-09
+27,27,11:15 AM VB677,,San Antonio (SAT),VivaAerobus A20N (XA-VIW),Landed 10:45 AM,2021-06-09
+28,28,11:15 AM VB4281,,Merida (MID),VivaAerobus A320 (XA-VAK),Landed 10:50 AM,2021-06-09
+29,29,11:15 AM VW893,,McAllen (MFE),Aeromar AT76 (XA-UZS),Landed 10:47 AM,2021-06-09
+30,30,11:39 AM,DL1929,Atlanta (ATL),Delta Air Lines A319 (N319NB),Landed 11:11 AM,2021-06-09
+31,31,11:45 AM VB2164,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 11:18 AM,2021-06-09
+32,32,11:55 AM VB683,,Dallas (DFW),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 11:47 AM,2021-06-09
+33,33,11:57 AM,UA2256,Houston (IAH),United Airlines A319 (N818UA),Landed 11:34 AM,2021-06-09
+34,34,12:01 PM,Y4231,Cancun (CUN),Volaris A320 (N523VL),Landed 11:40 AM,2021-06-09
+35,35,12:23 PM,AA3701,Dallas (DFW),American Eagle E75L (N273NN),Landed 11:51 AM,2021-06-09
+36,36,12:30 PM VB675,,San Antonio (SAT),VivaAerobus A20N (XA-VIO),Landed 12:08 PM,2021-06-09
+37,37,12:44 PM,AM920,Mexico City (MEX),Aeromexico B38M (XA-MAT),Landed 12:45 PM,2021-06-09
+38,38,12:54 PM Y45642,,Guadalajara (GDL),Volaris A20N (N544VL),Landed 12:50 PM,2021-06-09
+39,39,1:41 PM,AM924,Mexico City (MEX),Aeromexico B738 (XA-JOY),Landed 1:41 PM,2021-06-09
+40,40,1:45 PM VB1124,,Mexico City (MEX),VivaAerobus A20N (XA-VIH),Landed 1:23 PM,2021-06-09
+41,41,2:05 PM VW891,,McAllen (MFE),Aeromar AT76 (XA-UZE),Landed 2:05 PM,2021-06-09
+42,42,2:15 PM VB4203,,Queretaro (QRO),VivaAerobus A20N (XA-VIR),Landed 1:49 PM,2021-06-09
+43,43,2:24 PM Y4186,,Mexico City (MEX),Volaris A21N (N543VL),Landed 2:12 PM,2021-06-09
+44,44,2:25 PM VB4081,,Tijuana (TIJ),VivaAerobus A320 (XA-VAQ),Landed 2:02 PM,2021-06-09
+45,45,2:40 PM VB4343,,Puerto Vallarta (PVR),VivaAerobus A21N (XA-VBH),Landed 2:36 PM,2021-06-09
+46,46,3:00 PM VB4273,,Culiacan (CUL),Viva Aerobus A320 (XA-VAC),Landed 2:43 PM,2021-06-09
+47,47,3:10 PM VB671,,San Antonio (SAT),VivaAerobus A320 (XA-VAE),Landed 2:39 PM,2021-06-09
+48,48,3:10 PM VB4023,,Mazatlan (MZT),VivaAerobus A320 (EI-EUA),Landed 2:47 PM,2021-06-09
+49,49,3:13 PM Y4674,,Guadalajara (GDL),Volaris A20N (XA-VRJ),Landed 2:57 PM,2021-06-09
+50,50,3:29 PM,Y4191,Cancun (CUN),Volaris A319 (XA-VOI),Landed 5:46 PM,2021-06-09
+51,51,3:35 PM VB233,,Harlingen (HRL),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 3:24 PM,2021-06-09
+52,52,3:39 PM,AM932,Mexico City (MEX),Aeromexico B38M (XA-MAQ),Landed 3:44 PM,2021-06-09
+53,53,3:57 PM,UA6117,Houston (IAH),United Express E75L (N86316),Landed 3:31 PM,2021-06-09
+54,54,4:30 PM VB2168,,Cancun (CUN),VivaAerobus A320 (XA-VAJ),Landed 4:11 PM,2021-06-09
+55,55,4:31 PM,AA4451,Dallas (DFW),American Eagle E75L (N242NN),Landed 4:08 PM,2021-06-09
+56,56,4:55 PM VB613,,Houston (IAH),VivaAerobus A20N (XA-VIW),Landed 4:24 PM,2021-06-09
+57,57,5:05 PM YQ446,,Aguascalientes (AGU),TAR Aerolineas E145 (XA-AFH),Unknown,2021-06-09
+58,58,5:35 PM VB1126,,Mexico City (MEX),VivaAerobus A20N (XA-VIA),Landed 5:25 PM,2021-06-09
+59,59,5:45 PM,AM940,Mexico City (MEX),Aeromexico B38M (XA-MAT),Landed 6:14 PM,2021-06-09
+60,60,5:49 PM,Y4229,Cancun (CUN),Volaris A320 (N508VL),Landed 6:20 PM,2021-06-09
+61,61,6:05 PM VW895,,McAllen (MFE),Aeromar AT76 (XA-UZE),Landed 5:52 PM,2021-06-09
+62,62,6:20 PM VB2170,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 6:02 PM,2021-06-09
+63,63,6:40 PM VB4005,,Puebla (PBC),VivaAerobus A20N (XA-VIR),Landed 6:23 PM,2021-06-09
+64,64,6:43 PM UA4789,,Chicago (ORD),United Express E75L (N148SY),Landed 6:06 PM,2021-06-09
+65,65,6:50 PM VB4333,,San Jose del Cabo (SJD),VivaAerobus A320 (XA-VAV),Landed 6:31 PM,2021-06-09
+66,66,6:51 PM,AM944,Mexico City (MEX),Aeromexico B738 (XA-ADT),Landed 6:50 PM,2021-06-09
+67,67,7:00 PM VB615,,Houston (IAH),VivaAerobus A20N (XA-VIH),Landed 6:35 PM,2021-06-09
+68,68,7:05 PM VB4317,,Chihuahua (CUU),VivaAerobus A21N (XA-VBH),Landed 6:53 PM,2021-06-09
+69,69,7:07 PM,AA4445,Dallas (DFW),American Eagle E75L (N239NN),Landed 7:19 PM,2021-06-09
+70,70,7:30 PM VB3196,,Guadalajara (GDL),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 7:39 PM,2021-06-09
+71,71,7:48 PM,AM948,Mexico City (MEX),Aeromexico B738 (XA-AMA),Landed 8:32 PM,2021-06-09
+72,72,7:56 PM,Y4213,Cancun (CUN),Volaris A319 (XA-VOE),Landed 7:48 PM,2021-06-09
+73,73,8:00 PM YQ611,,Tampico (TAM),TAR Aerolineas ERJ,Unknown,2021-06-09
+74,74,8:14 PM Y4168,,Mexico City (MEX),Volaris A321 (XA-VLW),Landed 8:07 PM,2021-06-09
+75,75,8:30 PM VB1138,,Mexico City (MEX),VivaAerobus A320 (EI-EUA),Landed 8:23 PM,2021-06-09
+76,76,8:56 PM Y4129,,San Jose del Cabo (SJD),Volaris A319 (XA-VOI),Landed 10:16 PM,2021-06-09
+77,77,9:04 PM,AA4381,Dallas (DFW),American Eagle E75L (N264NN),Landed 8:38 PM,2021-06-09
+78,78,9:19 PM,UA6142,Houston (IAH),United Express E75L (N85356),Landed 8:58 PM,2021-06-09
+79,79,9:21 PM,AM954,Mexico City (MEX),Aeromexico B738 (XA-AMK),Landed 9:15 PM,2021-06-09
+80,80,9:43 PM Y4646,,Guadalajara (GDL),Volaris A320 (N508VL),Landed 11:05 PM,2021-06-09
+81,81,9:45 PM VB673,,San Antonio (SAT),VivaAerobus A20N (XA-VIW),Landed 9:05 PM,2021-06-09
+82,82,10:13 PM AA4140,,Miami (MIA),American Eagle E75L (N281NN),Landed 9:42 PM,2021-06-09
+83,83,10:25 PM VB1140,,Mexico City (MEX),VivaAerobus A20N (XA-VIB),Landed 10:49 PM,2021-06-09
+84,84,10:50 PM VB2180,,Cancun (CUN),VivaAerobus A20N (XA-VIW),Landed 3:30 AM,2021-06-09
+85,85,11:10 PM VB689,,Dallas (DFW),VivaAerobus A320 (XA-VAJ),Landed 11:33 PM,2021-06-09
+86,86,11:24 PM,AM962,Mexico City (MEX),Aeromexico B38M (XA-MAQ),Landed 11:39 PM,2021-06-09
+87,87,11:50 PM VB1144,,Mexico City (MEX),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 11:52 PM,2021-06-09
+88,88,11:50 PM VB4309,,Tampico (TAM),Viva Aerobus A320 (XA-VAC),Landed 11:23 PM,2021-06-09
+0,0,00:15 VB617,,Houston (IAH),VivaAerobus A20N (XA-VIH),Landed 00:00,2021-06-10
+1,1,00:20 VB4189,,Silao (BJX),VivaAerobus A20N (XA-VIO),Landed 23:46,2021-06-10
+2,2,00:25 VB4169,,Veracruz (VER),VivaAerobus A320 (XA-VAE),Landed 23:55,2021-06-10
+3,3,00:25 VB4199,,Tuxtla Gutierrez (TGZ),VivaAerobus A20N (XA-VIR),Landed 00:08,2021-06-10
+4,4,00:35 VB4399,,Villahermosa (VSA),VivaAerobus A320 (XA-VAV),Landed 00:54,2021-06-10
+5,5,00:50 VB4121,,Hermosillo (HMO),VivaAerobus A21N (XA-VBH),Landed 00:27,2021-06-10
+6,6,00:55 VB2176,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 00:48,2021-06-10
+7,7,03:50 VB2194,,Cancun (CUN),VivaAerobus A20N (XA-VII),Landed 03:48,2021-06-10
+8,8,04:55,,San Luis Potosi (SLP),- B734,Canceled,2021-06-10
+9,9,05:04 Y4510,,Tijuana (TIJ),Volaris A319 (XA-VOE),Landed 04:46,2021-06-10
+10,10,05:10 E7522,,San Luis Potosi (SLP),Estafeta Carga Aerea B734 (XA-EST),Landed 04:57,2021-06-10
+11,11,06:50 FX67,,Memphis (MEM),FedEx B763 (N158FE),Landed 06:55,2021-06-10
+12,12,07:02 5X300,,Louisville (SDF),UPS B752 (N406UP),Landed 07:28,2021-06-10
+13,13,07:51,AM900,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 07:23,2021-06-10
+14,14,08:22 Y4180,,Mexico City (MEX),Volaris A21N (N536VL),Landed 08:21,2021-06-10
+15,15,08:35 VTM392,,Toledo (TOL),Aeronaves TSM CRJ2 (XA-VAD),Landed 08:33,2021-06-10
+16,16,08:40 VB4001,,Puebla (PBC),VivaAerobus A20N (XA-VIH),Landed 08:18,2021-06-10
+17,17,08:40 W8920,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Landed 08:36,2021-06-10
+18,18,08:57,AM904,Mexico City (MEX),Aeromexico B738 (XA-DRC),Landed 08:43,2021-06-10
+19,19,09:10 VB1118,,Mexico City (MEX),VivaAerobus A320,Landed 08:58,2021-06-10
+20,20,09:10 VB4201,,Queretaro (QRO),VivaAerobus A320 (XA-VAJ),Landed 08:46,2021-06-10
+21,21,09:41 Y4676,,Guadalajara (GDL),Volaris A319 (XA-VOI),Landed 09:33,2021-06-10
+22,22,09:45,AM908,Mexico City (MEX),Aeromexico B38M (XA-MAO),Landed 09:53,2021-06-10
+23,23,09:55 VB4163,,Veracruz (VER),VivaAerobus A20N (XA-VIW),Landed 09:40,2021-06-10
+24,24,10:05 VB1134,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 09:48,2021-06-10
+25,25,10:10 YQ764,,Queretaro (QRO),TAR Aerolineas ERJ,Unknown,2021-06-10
+26,26,10:35 VB611,,Houston (IAH),VivaAerobus A20N (XA-VIR),Landed 10:39,2021-06-10
+27,27,10:40 VB3192,,Guadalajara (GDL),VivaAerobus A320 (EI-EUA),Landed 10:32,2021-06-10
+28,28,10:44,AM912,Mexico City (MEX),Aeromexico B38M (XA-MAG),Landed 10:28,2021-06-10
+29,29,11:05 VB4111,,Hermosillo (HMO),Viva Aerobus A320 (XA-VAC),Landed 10:45,2021-06-10
+30,30,11:15 VB677,,San Antonio (SAT),VivaAerobus A320,Canceled,2021-06-10
+31,31,11:15 VB4281,,Merida (MID),VivaAerobus A320 (XA-VAE),Landed 10:50,2021-06-10
+32,32,11:39,DL1929,Atlanta (ATL),Delta Air Lines A319 (N343NB),Landed 11:12,2021-06-10
+33,33,11:45 VB2164,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 11:21,2021-06-10
+34,34,11:55 VB683,,Dallas (DFW),VivaAerobus A320 (XA-VAV),Landed 11:31,2021-06-10
+35,35,11:57,UA2256,Houston (IAH),United Airlines A320 (N414UA),Landed 11:35,2021-06-10
+36,36,12:01,Y4231,Cancun (CUN),Volaris A320 (N508VL),Landed 11:54,2021-06-10
+37,37,12:23,AA3701,Dallas (DFW),American Eagle E75L (N225NN),Landed 12:02,2021-06-10
+38,38,12:44 AM920,,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 12:33,2021-06-10
+39,39,12:54 Y45642,,Guadalajara (GDL),Volaris A320 (N505VL),Landed 12:29,2021-06-10
+40,40,13:40 VB1124,,Mexico City (MEX),VivaAerobus A320,Landed 13:30,2021-06-10
+41,41,13:41 AM924,,Mexico City (MEX),Aeromexico B738 (XA-AMN),Landed 14:15,2021-06-10
+42,42,13:45 VB671,,San Antonio (SAT),VivaAerobus A320 (XA-VAJ),Landed 13:17,2021-06-10
+43,43,14:15 VB233,,Harlingen (HRL),VivaAerobus A20N (XA-VIR),Landed 14:17,2021-06-10
+44,44,14:15 VW891,,McAllen (MFE),Aeromar AT76 (XA-UZS),Landed 14:20,2021-06-10
+45,45,14:24 Y4186,,Mexico City (MEX),Volaris A21N (N534VL),Landed 14:10,2021-06-10
+46,46,14:25 VB4081,,Tijuana (TIJ),VivaAerobus A20N (XA-VIJ),Landed 14:00,2021-06-10
+47,47,14:40 VB4343,,Puerto Vallarta (PVR),VivaAerobus A21N (XA-VBH),Landed 14:27,2021-06-10
+48,48,15:00 VB4067,,Morelia (MLM),VivaAerobus A320 (XA-VAE),Landed 15:04,2021-06-10
+49,49,15:10 VB4023,,Mazatlan (MZT),Viva Aerobus A320 (XA-VAC),Landed 14:48,2021-06-10
+50,50,15:29,Y4191,Cancun (CUN),Volaris A319 (XA-VOI),Landed 15:21,2021-06-10
+51,51,15:30 VB2178,,Cancun (CUN),VivaAerobus A320 (XA-VAW),Landed 15:17,2021-06-10
+52,52,15:39,AM932,Mexico City (MEX),Aeromexico B38M (XA-MAT),Landed 15:44,2021-06-10
+53,53,15:57,UA6117,Houston (IAH),United Express E75L (N89304),Landed 15:56,2021-06-10
+54,54,16:09 Y4512,,Tijuana (TIJ),Volaris A21N (N537VL),Landed 16:03,2021-06-10
+55,55,16:30 VB2196,,Cancun (CUN),VivaAerobus A20N (XA-VIT),Landed 17:29,2021-06-10
+56,56,16:31,AA4451,Dallas (DFW),American Eagle E75L (N213NN),Landed 16:15,2021-06-10
+57,57,16:45 VB4185,,Silao (BJX),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 16:12,2021-06-10
+58,58,16:55 VB613,,Houston (IAH),VivaAerobus A320 (XA-VAV),Landed 16:37,2021-06-10
+59,59,17:25 VB2168,,Cancun (CUN),VivaAerobus A20N (XA-VIH),Landed 17:19,2021-06-10
+60,60,17:35 VB1126,,Mexico City (MEX),VivaAerobus A20N (XA-VIA),Landed 17:24,2021-06-10
+61,61,17:45,AM940,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 17:48,2021-06-10
+62,62,17:49,Y4229,Cancun (CUN),Volaris A320 (N508VL),Landed 18:14,2021-06-10
+63,63,18:10 VB603,,Las Vegas (LAS),VivaAerobus A20N (XA-VIW),Landed 17:46,2021-06-10
+64,64,18:10 VW895,,McAllen (MFE),Aeromar AT76 (XA-UZS),Landed 18:05,2021-06-10
+65,65,18:20 VB675,,San Antonio (SAT),VivaAerobus A20N (XA-VIR),Landed 18:17,2021-06-10
+66,66,18:20 VB2170,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 17:59,2021-06-10
+67,67,18:43 UA4789,,Chicago (ORD),United Express E75L (N148SY),Landed 17:41,2021-06-10
+68,68,18:50 VB4333,,San Jose del Cabo (SJD),Viva Aerobus A21N (XA-VBK),Landed 19:02,2021-06-10
+69,69,18:51,AM944,Mexico City (MEX),Aeromexico B738 (N825AM),Landed 19:06,2021-06-10
+70,70,18:59 VB615,,Houston (IAH),VivaAerobus A320 (XA-VAJ),Landed 18:31,2021-06-10
+71,71,19:05 VB4317,,Chihuahua (CUU),VivaAerobus A320 (XA-VAE),Landed 19:09,2021-06-10
+72,72,19:07,AA4445,Dallas (DFW),American Eagle E75L (N272NN),Landed 18:50,2021-06-10
+73,73,19:10 VB4197,,Tuxtla Gutierrez (TGZ),VivaAerobus A320 (XA-VAY),Landed 18:45,2021-06-10
+74,74,19:15 VB4275,,Culiacan (CUL),VivaAerobus A20N (XA-VIR),Landed 22:37,2021-06-10
+75,75,19:30 Y4197,,Puerto Vallarta (PVR),Volaris A319 (XA-VOI),Landed 19:37,2021-06-10
+76,76,19:30 VB3196,,Guadalajara (GDL),Viva Aerobus A320 (XA-VAC),Landed 19:17,2021-06-10
+77,77,19:45 VB4053,,Acapulco (ACA),VivaAerobus A320 (EI-EUA),Landed 19:35,2021-06-10
+78,78,19:48,AM948,Mexico City (MEX),Aeromexico B38M (XA-SSR),Landed 20:03,2021-06-10
+79,79,19:56,Y4213,Cancun (CUN),Volaris A319 (XA-VOE),Landed 19:42,2021-06-10
+80,80,20:00 VB2172,,Cancun (CUN),VivaAerobus A320,Landed 20:18,2021-06-10
+81,81,20:00 YQ611,,Tampico (TAM),TAR Aerolineas ERJ,Unknown,2021-06-10
+82,82,20:14 Y4168,,Mexico City (MEX),Volaris A21N (N535VL),Landed 20:06,2021-06-10
+83,83,20:30 VB1138,,Mexico City (MEX),VivaAerobus A320,Canceled,2021-06-10
+84,84,21:04,AA4381,Dallas (DFW),American Eagle E75L (N209NN),Landed 20:34,2021-06-10
+85,85,21:19,UA6142,Houston (IAH),United Express E75L (N88325),Landed 21:54,2021-06-10
+86,86,21:21,AM954,Mexico City (MEX),Aeromexico B738 (XA-ADT),Landed 21:16,2021-06-10
+87,87,21:43 Y4646,,Guadalajara (GDL),Volaris A320 (N508VL),Landed 22:21,2021-06-10
+88,88,22:13 AA4140,,Miami (MIA),American Eagle E75L (N284JN),Landed 21:49,2021-06-10
+89,89,22:25 VB1140,,Mexico City (MEX),VivaAerobus A320 (XA-VAX),Landed 01:33,2021-06-10
+90,90,22:30 VB679,,San Antonio (SAT),VivaAerobus A20N (XA-VIW),Landed 22:08,2021-06-10
+91,91,23:10 VB689,,Dallas (DFW),VivaAerobus A20N (XA-VIH),Landed 23:56,2021-06-10
+92,92,23:24,AM962,Mexico City (MEX),Aeromexico B38M (XA-MAG),Landed 23:44,2021-06-10
+93,93,23:45 VB4077,,Oaxaca (OAX),Viva Aerobus A320 (XA-VAC),Landed 00:01,2021-06-10
+94,94,23:50 VB1144,,Mexico City (MEX),VivaAerobus A20N (XA-VIR),Landed 03:08,2021-06-10
+95,95,23:50 VB4309,,Tampico (TAM),VivaAerobus A320,Canceled,2021-06-10
+0,0,00:10 VB4349,,Puerto Vallarta (PVR),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 23:41,2021-06-11
+1,1,00:15 VB617,,Houston (IAH),VivaAerobus A320 (XA-VAJ),Landed 23:59,2021-06-11
+2,2,00:25 VB4169,,Veracruz (VER),VivaAerobus A320 (EI-EUA),Landed 00:05,2021-06-11
+3,3,00:35 VB4399,,Villahermosa (VSA),Viva Aerobus A21N (XA-VBK),Landed 01:27,2021-06-11
+4,4,00:40 VB3202,,Guadalajara (GDL),VivaAerobus A320,Landed 00:40,2021-06-11
+5,5,00:45 VB4159,,Ciudad Juarez (CJS),VivaAerobus A320 (XA-VAV),Landed 00:47,2021-06-11
+6,6,00:50 VB4121,,Hermosillo (HMO),VivaAerobus A20N (XA-VIW),Landed 03:26,2021-06-11
+7,7,00:50 VB4287,,Merida (MID),VivaAerobus A320 (XA-VAE),Landed 00:44,2021-06-11
+8,8,00:55 VB2176,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 00:30,2021-06-11
+9,9,02:50 VB2194,,Cancun (CUN),VivaAerobus A320 (XA-VAR),Landed 02:19,2021-06-11
+10,10,04:55,,San Luis Potosi (SLP),- B734,Canceled,2021-06-11
+11,11,05:04 Y4510,,Tijuana (TIJ),Volaris A319 (XA-VOE),Landed 04:36,2021-06-11
+12,12,05:10 E7522,,San Luis Potosi (SLP),Estafeta Carga Aerea B734 (XA-EME),Landed 05:04,2021-06-11
+13,13,06:18 FX67,,Memphis (MEM),FedEx B763 (N157FE),Landed 06:49,2021-06-11
+14,14,07:05 5X300,,Louisville (SDF),UPS B763 (N357UP),Landed 07:12,2021-06-11
+15,15,07:51,AM900,Mexico City (MEX),Aeromexico B738 (XA-AMA),Landed 07:30,2021-06-11
+16,16,08:22 Y4180,,Mexico City (MEX),Volaris A321 (XA-VLY),Landed 08:01,2021-06-11
+17,17,08:26 W8920,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Landed 08:18,2021-06-11
+18,18,08:35 YQ760,,Queretaro (QRO),TAR Aerolineas ERJ,Unknown,2021-06-11
+19,19,08:57,AM904,Mexico City (MEX),Aeromexico B738 (N958AM),Landed 08:28,2021-06-11
+20,20,09:10 VB1118,,Mexico City (MEX),VivaAerobus A320 (XA-VAE),Landed 08:52,2021-06-11
+21,21,09:16 Y4209,,Puebla (PBC),Volaris A319 (XA-VOI),Landed 09:09,2021-06-11
+22,22,09:30 VB231,,Harlingen (HRL),VivaAerobus A20N (XA-VIR),Landed 09:06,2021-06-11
+23,23,09:36 BYA290,,Denton (QQD),Berry Aviation E120 (N290SW),Landed 10:03,2021-06-11
+24,24,09:41 Y4676,,Guadalajara (GDL),Volaris A319 (XA-VOE),Landed 09:37,2021-06-11
+25,25,09:45,AM908,Mexico City (MEX),Aeromexico B738 (XA-AMG),Landed 09:24,2021-06-11
+26,26,10:05 VB1134,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 09:51,2021-06-11
+27,27,10:10 YQ764,,Queretaro (QRO),TAR Aerolineas E145 (XA-AFH),Landed 11:26,2021-06-11
+28,28,10:15 VW891,,McAllen (MFE),Aeromar AT76 (XA-UZS),Landed 09:58,2021-06-11
+29,29,10:35 VB611,,Houston (IAH),VivaAerobus A20N (XA-VIH),Landed 10:12,2021-06-11
+30,30,10:40 VB3192,,Guadalajara (GDL),VivaAerobus A320 (XA-VAV),Landed 10:36,2021-06-11
+31,31,10:44,AM912,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 10:31,2021-06-11
+32,32,10:50 VB4393,,Villahermosa (VSA),VivaAerobus A320,Landed 10:39,2021-06-11
+33,33,11:05 VB4111,,Hermosillo (HMO),VivaAerobus A320,Canceled,2021-06-11
+34,34,11:15 VB677,,San Antonio (SAT),VivaAerobus A320 (EI-EUA),Landed 10:43,2021-06-11
+35,35,11:15 VB4281,,Merida (MID),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 10:46,2021-06-11
+36,36,11:39,DL1929,Atlanta (ATL),Delta Air Lines A319 (N340NB),Landed 11:48,2021-06-11
+37,37,11:45 VB2164,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 11:22,2021-06-11
+38,38,11:55 VB683,,Dallas (DFW),VivaAerobus A320 (XA-VAJ),Landed 11:29,2021-06-11
+39,39,11:57,UA2256,Houston (IAH),United Airlines A319 (N874UA),Landed 11:35,2021-06-11
+40,40,12:01,Y4231,Cancun (CUN),Volaris A320 (N508VL),Landed 11:43,2021-06-11
+41,41,12:23,AA3701,Dallas (DFW),American Eagle E75L (N246NN),Landed 12:09,2021-06-11
+42,42,12:54 Y45642,,Guadalajara (GDL),Volaris A320 (N526VL),Landed 12:41,2021-06-11
+43,43,13:40 VB1124,,Mexico City (MEX),VivaAerobus A320 (XA-VAE),Landed 13:17,2021-06-11
+44,44,13:41,AM924,Mexico City (MEX),Aeromexico B738 (XA-DRC),Landed 13:26,2021-06-11
+45,45,13:53,,Brownsville (BRO),- BE40 (N502TC),Landed 13:38,2021-06-11
+46,46,14:15 VW893,,McAllen (MFE),Aeromar AT76 (XA-UZS),Landed 13:53,2021-06-11
+47,47,14:20 VB4165,,Veracruz (VER),VivaAerobus A320 (XA-VAB),Landed 14:14,2021-06-11
+48,48,14:24 Y4186,,Mexico City (MEX),Volaris A21N (N534VL),Landed 14:17,2021-06-11
+49,49,14:25 VB4081,,Tijuana (TIJ),VivaAerobus A320 (XA-VAQ),Landed 14:08,2021-06-11
+50,50,14:40 VB4343,,Puerto Vallarta (PVR),VivaAerobus A21N (XA-VBH),Landed 14:30,2021-06-11
+51,51,14:45 VB4183,,Silao (BJX),VivaAerobus A320,Landed 14:24,2021-06-11
+52,52,15:10 VB4273,,Culiacan (CUL),VivaAerobus A320 (EI-EUA),Landed 15:20,2021-06-11
+53,53,15:10 VB671,,San Antonio (SAT),VivaAerobus A20N (XA-VIH),Landed 14:43,2021-06-11
+54,54,15:10 VB4023,,Mazatlan (MZT),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 14:52,2021-06-11
+55,55,15:14 BYA584,,San Marcos (HYI),Berry Aviation E120 (N584SW),Landed 15:12,2021-06-11
+56,56,15:25 VB4149,,Ciudad Juarez (CJS),VivaAerobus A20N (XA-VIW),Landed 15:02,2021-06-11
+57,57,15:29,Y4191,Cancun (CUN),Volaris A319 (XA-VOI),Landed 15:36,2021-06-11
+58,58,15:30 VB2178,,Cancun (CUN),VivaAerobus A20N (XA-VIT),Landed 15:15,2021-06-11
+59,59,15:39,AM932,Mexico City (MEX),Aeromexico B738 (XA-ZAM),Landed 15:33,2021-06-11
+60,60,15:57,UA6117,Houston (IAH),United Express E75L (N87306),Landed 17:33,2021-06-11
+61,61,16:30 VB4193,,Tuxtla Gutierrez (TGZ),VivaAerobus A320 (XA-VAV),Landed 16:02,2021-06-11
+62,62,16:30 VB2168,,Cancun (CUN),VivaAerobus A20N (XA-VIR),Landed 16:37,2021-06-11
+63,63,16:31,AA4451,Dallas (DFW),American Eagle E75L (N232NN),Landed 16:09,2021-06-11
+64,64,16:55 VB613,,Houston (IAH),VivaAerobus A320 (XA-VAJ),Landed 16:56,2021-06-11
+65,65,17:05 YQ446,,Aguascalientes (AGU),TAR Aerolineas ERJ,Unknown,2021-06-11
+66,66,17:35 VB1126,,Mexico City (MEX),VivaAerobus A320 (XA-VAT),Landed 17:17,2021-06-11
+67,67,17:45,AM940,Mexico City (MEX),Aeromexico B38M (XA-MAO),Landed 17:42,2021-06-11
+68,68,17:49,Y4229,Cancun (CUN),Volaris A320 (N508VL),Landed 17:37,2021-06-11
+69,69,18:20 VB2170,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 18:10,2021-06-11
+70,70,18:25 VW895,,McAllen (MFE),Aeromar AT46 (XA-UYK),Landed 18:31,2021-06-11
+71,71,18:43 UA4789,,Chicago (ORD),United Express E75L (N148SY),Landed 18:23,2021-06-11
+72,72,18:50 VB4361,,Los Mochis (LMM),VivaAerobus A20N (XA-VIH),Landed 19:38,2021-06-11
+73,73,18:50 VB4333,,San Jose del Cabo (SJD),Viva Aerobus A21N (XA-VBK),Landed 18:50,2021-06-11
+74,74,18:51,AM944,Mexico City (MEX),Aeromexico B737 (XA-DRD),Landed 18:47,2021-06-11
+75,75,18:59 VB615,,Houston (IAH),VivaAerobus A20N (XA-VIX),Unknown,2021-06-11
+76,76,19:05 VB4317,,Chihuahua (CUU),VivaAerobus A21N (XA-VBH),Landed 18:53,2021-06-11
+77,77,19:07,AA4445,Dallas (DFW),American Eagle E75L (N242NN),Landed 19:01,2021-06-11
+78,78,19:30 VB3196,,Guadalajara (GDL),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 19:21,2021-06-11
+79,79,19:48,AM948,Mexico City (MEX),Aeromexico B738 (XA-DRC),Landed 19:26,2021-06-11
+80,80,19:50 VB4075,,Oaxaca (OAX),VivaAerobus A20N (XA-VIT),Landed 20:33,2021-06-11
+81,81,19:56,Y4213,Cancun (CUN),Volaris A319 (XA-VOE),Landed 20:25,2021-06-11
+82,82,20:00 VB2172,,Cancun (CUN),VivaAerobus A320 (XA-VAB),Landed 20:33,2021-06-11
+83,83,20:00 YQ611,,Tampico (TAM),TAR Aerolineas ERJ,Canceled,2021-06-11
+84,84,20:14 Y4168,,Mexico City (MEX),Volaris A21N (N536VL),Landed 23:30,2021-06-11
+85,85,20:25 VB4107,,Ciudad Obregon (CEN),VivaAerobus A320 (EI-EUA),Landed 20:12,2021-06-11
+86,86,20:30 VB1138,,Mexico City (MEX),VivaAerobus A320 (XA-VAE),Landed 20:36,2021-06-11
+87,87,20:30 VB4207,,Queretaro (QRO),VivaAerobus A320 (XA-VAV),Landed 20:06,2021-06-11
+88,88,20:34 Y4195,,Merida (MID),Volaris A319 (XA-VOI),Landed 20:53,2021-06-11
+89,89,21:04,AA4381,Dallas (DFW),American Eagle E75L (N299JJ),Landed 20:43,2021-06-11
+90,90,21:19,UA6142,Houston (IAH),United Express E75L (N86316),Landed 20:59,2021-06-11
+91,91,21:21,AM954,Mexico City (MEX),Aeromexico Connect E190 (XA-GAE),Landed 20:56,2021-06-11
+92,92,21:43 Y4646,,Guadalajara (GDL),Volaris A20N (N539VL),Landed 21:55,2021-06-11
+93,93,21:45 VB673,,San Antonio (SAT),VivaAerobus A320 (XA-VAJ),Landed 21:15,2021-06-11
+94,94,22:13 AA4140,,Miami (MIA),American Eagle E75L (N273NN),Landed 22:16,2021-06-11
+95,95,22:25 VB1140,,Mexico City (MEX),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 00:01,2021-06-11
+96,96,23:10 VB689,,Dallas (DFW),VivaAerobus A320 (XA-VAT),Landed 22:55,2021-06-11
+97,97,23:24,AM962,Mexico City (MEX),Aeromexico B738 (XA-AML),Unknown,2021-06-11
+98,98,23:50 VB1144,,Mexico City (MEX),VivaAerobus A320 (XA-VAJ),Landed 01:54,2021-06-11
+99,99,23:50 VB4309,,Tampico (TAM),VivaAerobus A320 (XA-VAE),Landed 23:58,2021-06-11
+0,0,12:10 AM VB4349,,Puerto Vallarta (PVR),VivaAerobus A20N (XA-VIH),Landed 11:55 PM,2021-06-12
+1,1,12:15 AM VB617,,Houston (IAH),VivaAerobus A20N (XA-VIX),Unknown,2021-06-12
+2,2,12:20 AM VB4189,,Silao (BJX),VivaAerobus A320 (EI-EUA),Landed 12:06 AM,2021-06-12
+3,3,12:25 AM VB4169,,Veracruz (VER),VivaAerobus A20N (XA-VIT),Landed 12:45 AM,2021-06-12
+4,4,12:35 AM VB4399,,Villahermosa (VSA),Viva Aerobus A21N (XA-VBK),Landed 12:20 AM,2021-06-12
+5,5,12:40 AM VB3202,,Guadalajara (GDL),VivaAerobus A320 (XA-VAV),Landed 12:23 AM,2021-06-12
+6,6,12:45 AM VB4009,,Puebla (PBC),VivaAerobus A320 (XA-VAB),Landed 12:59 AM,2021-06-12
+7,7,12:50 AM VB4121,,Hermosillo (HMO),VivaAerobus A21N (XA-VBH),Landed 12:55 AM,2021-06-12
+8,8,12:50 AM VB4287,,Merida (MID),VivaAerobus A20N (XA-VIR),Landed 1:22 AM,2021-06-12
+9,9,12:55 AM VB2176,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 12:52 AM,2021-06-12
+10,10,2:50 AM VB2194,,Cancun (CUN),VivaAerobus 320,Unknown,2021-06-12
+11,11,5:04 AM Y4510,,Tijuana (TIJ),Volaris A319 (XA-VOI),Landed 4:43 AM,2021-06-12
+12,12,8:22 AM Y4180,,Mexico City (MEX),Volaris A21N (N535VL),Landed 7:47 AM,2021-06-12
+13,13,8:57 AM,AM904,Mexico City (MEX),Aeromexico B738 (XA-MIA),Landed 8:25 AM,2021-06-12
+14,14,9:10 AM VB1118,,Mexico City (MEX),Viva Aerobus A21N (XA-VBK),Landed 8:40 AM,2021-06-12
+15,15,9:41 AM Y4676,,Guadalajara (GDL),Volaris A319 (XA-VOI),Landed 9:28 AM,2021-06-12
+16,16,9:45 AM,AM908,Mexico City (MEX),Aeromexico B738 (N957AM),Landed 9:25 AM,2021-06-12
+17,17,10:05 AM VB1134,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 9:58 AM,2021-06-12
+18,18,10:15 AM VB4163,,Veracruz (VER),VivaAerobus A320 (XA-VAJ),Landed 9:42 AM,2021-06-12
+19,19,10:35 AM VB611,,Houston (IAH),VivaAerobus A20N (XA-VIT),Landed 10:20 AM,2021-06-12
+20,20,10:40 AM VB3192,,Guadalajara (GDL),VivaAerobus A320 (XA-VAB),Landed 10:16 AM,2021-06-12
+21,21,10:44 AM,AM912,Mexico City (MEX),Aeromexico B38M (XA-MAQ),Landed 10:25 AM,2021-06-12
+22,22,11:15 AM VB4281,,Merida (MID),VivaAerobus A20N (XA-VIH),Landed 10:46 AM,2021-06-12
+23,23,11:15 AM VB677,,San Antonio (SAT),VivaAerobus A320 (XA-VAV),Landed 10:41 AM,2021-06-12
+24,24,11:35 AM VB4191,,Tuxtla Gutierrez (TGZ),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 11:13 AM,2021-06-12
+25,25,11:45 AM VB2164,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 11:19 AM,2021-06-12
+26,26,11:55 AM VB683,,Dallas (DFW),VivaAerobus A320 (XA-VAE),Landed 11:31 AM,2021-06-12
+27,27,11:57 AM,UA2256,Houston (IAH),United Airlines A319 (N802UA),Landed 11:41 AM,2021-06-12
+28,28,12:23 PM,AA3701,Dallas (DFW),American Eagle E75L (N223NN),Landed 12:23 PM,2021-06-12
+29,29,12:50 PM VB2166,,Cancun (CUN),VivaAerobus A20N (XA-VIR),Landed 12:30 PM,2021-06-12
+30,30,12:54 PM Y45642,,Guadalajara (GDL),Volaris A320 (N508VL),Landed 12:45 PM,2021-06-12
+31,31,1:40 PM VB1124,,Mexico City (MEX),VivaAerobus A320 (XA-VAJ),Landed 1:55 PM,2021-06-12
+32,32,1:41 PM AM924,,Mexico City (MEX),Aeromexico B738 (N377AR),Landed 1:26 PM,2021-06-12
+33,33,1:45 PM VB685,,Dallas (DFW),VivaAerobus A20N (XA-VIX),Unknown,2021-06-12
+34,34,2:15 PM VB4203,,Queretaro (QRO),VivaAerobus A320 (XA-VAB),Landed 2:16 PM,2021-06-12
+35,35,2:15 PM VW891,,McAllen (MFE),Aeromar AT76 (XA-UZE),Landed 1:59 PM,2021-06-12
+36,36,2:24 PM Y4186,,Mexico City (MEX),Volaris A20N (N541VL),Landed 2:11 PM,2021-06-12
+37,37,2:25 PM VB4081,,Tijuana (TIJ),VivaAerobus A320 (XA-VAQ),Landed 2:09 PM,2021-06-12
+38,38,2:40 PM VB4343,,Puerto Vallarta (PVR),VivaAerobus A21N (XA-VBB),Landed 2:36 PM,2021-06-12
+39,39,3:10 PM VB4023,,Mazatlan (MZT),VivaAerobus A20N (XA-VIH),Landed 2:42 PM,2021-06-12
+40,40,3:10 PM VB671,,San Antonio (SAT),VivaAerobus A20N (XA-VIT),Landed 2:33 PM,2021-06-12
+41,41,3:25 PM VB4149,,Ciudad Juarez (CJS),VivaAerobus A320 (XA-VAB),Landed 8:37 PM,2021-06-12
+42,42,3:29 PM,Y4191,Cancun (CUN),Volaris A319 (XA-VOI),Landed 3:20 PM,2021-06-12
+43,43,3:39 PM,AM932,Mexico City (MEX),Aeromexico B38M (XA-MAT),Landed 4:02 PM,2021-06-12
+44,44,3:40 PM VB4273,,Culiacan (CUL),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 3:17 PM,2021-06-12
+45,45,3:57 PM,UA6117,Houston (IAH),United Express E75L (N86312),Landed 3:42 PM,2021-06-12
+46,46,4:31 PM,AA4451,Dallas (DFW),American Eagle E75L (N259NN),Landed 4:29 PM,2021-06-12
+47,47,4:50 PM VB613,,Houston (IAH),VivaAerobus A320 (XA-VAV),Landed 4:24 PM,2021-06-12
+48,48,5:08 PM,,Brownsville (BRO),- BE40 (N502TC),Landed 5:09 PM,2021-06-12
+49,49,5:10 PM VB4185,,Silao (BJX),VivaAerobus A320 (EI-EUA),Landed 4:40 PM,2021-06-12
+50,50,5:25 PM VB675,,San Antonio (SAT),VivaAerobus A320 (XA-VAE),Landed 4:57 PM,2021-06-12
+51,51,5:35 PM VB1126,,Mexico City (MEX),VivaAerobus A320 (XA-VAT),Landed 5:41 PM,2021-06-12
+52,52,5:45 PM,AM940,Mexico City (MEX),Aeromexico B38M (XA-MAG),Landed 5:30 PM,2021-06-12
+53,53,5:49 PM,Y4229,Cancun (CUN),Volaris A20N (N539VL),Landed 5:49 PM,2021-06-12
+54,54,6:00 PM VTM392,,Laredo (LRD),Aeronaves TSM CRJ2 (XA-VAD),Landed 5:53 PM,2021-06-12
+55,55,6:10 PM VW895,,McAllen (MFE),Aeromar AT76 (XA-UZE),Landed 6:09 PM,2021-06-12
+56,56,6:20 PM VB2170,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 6:04 PM,2021-06-12
+57,57,6:43 PM UA4789,,Chicago (ORD),United Express E75L (N148SY),Landed 8:42 PM,2021-06-12
+58,58,6:45 PM Y45512,,Tijuana (TIJ),Volaris A320 (N523VL),Landed 6:52 PM,2021-06-12
+59,59,6:50 PM VB4333,,San Jose del Cabo (SJD),Viva Aerobus A21N (XA-VBK),Landed 8:01 PM,2021-06-12
+60,60,7:00 PM VB615,,Houston (IAH),VivaAerobus A20N (XA-VIX),Unknown,2021-06-12
+61,61,7:05 PM VB4317,,Chihuahua (CUU),VivaAerobus A21N (XA-VBB),Landed 6:49 PM,2021-06-12
+62,62,7:07 PM,AA4445,Dallas (DFW),American Eagle E75L (N221NN),Landed 7:16 PM,2021-06-12
+63,63,7:18 PM,,San Antonio (SAT),- B350 (N775SM),Landed 9:00 PM,2021-06-12
+64,64,7:30 PM VB3196,,Guadalajara (GDL),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 7:39 PM,2021-06-12
+65,65,7:48 PM,AM948,Mexico City (MEX),Aeromexico B738 (XA-MIA),Landed 7:34 PM,2021-06-12
+66,66,7:55 PM VB235,,Harlingen (HRL),VivaAerobus A20N (XA-VIH),Landed 7:43 PM,2021-06-12
+67,67,7:56 PM,Y4213,Cancun (CUN),Volaris A319 (XA-VOE),Landed 7:59 PM,2021-06-12
+68,68,8:14 PM Y4168,,Mexico City (MEX),Volaris A320 (N510VL),Landed 10:42 PM,2021-06-12
+69,69,8:30 PM VB1138,,Mexico City (MEX),VivaAerobus A320 (XA-VAV),Landed 9:04 PM,2021-06-12
+70,70,8:46 PM AA4140,,Miami (MIA),American Eagle E75L (N275NN),Landed 9:07 PM,2021-06-12
+71,71,8:56 PM Y4129,,San Jose del Cabo (SJD),Volaris A319,Unknown,2021-06-12
+72,72,9:04 PM,AA4381,Dallas (DFW),American Eagle E75L (N233NN),Landed 8:48 PM,2021-06-12
+73,73,9:10 PM VB687,,Dallas (DFW),VivaAerobus A20N (XA-VIT),Landed 8:56 PM,2021-06-12
+74,74,9:19 PM,UA6142,Houston (IAH),United Express E75L (N86316),Landed 9:12 PM,2021-06-12
+75,75,9:45 PM VB673,,San Antonio (SAT),VivaAerobus A320,Canceled,2021-06-12
+76,76,10:18 PM,AM958,Mexico City (MEX),Aeromexico B738 (XA-AMO),Landed 11:16 PM,2021-06-12
+77,77,10:30 PM VB679,,San Antonio (SAT),VivaAerobus A320,Canceled,2021-06-12
+78,78,10:50 PM VB2180,,Cancun (CUN),VivaAerobus A320 (XA-VAE),Landed 11:18 PM,2021-06-12
+79,79,11:05 PM VB1140,,Mexico City (MEX),VivaAerobus A20N (XA-VIB),Landed 11:51 PM,2021-06-12
+0,0,00:05 VB4309,,Tampico (TAM),VivaAerobus A20N (XA-VIH),Landed 23:42,2021-06-13
+1,1,00:15 VB617,,Houston (IAH),VivaAerobus A20N (XA-VIX),Unknown,2021-06-13
+2,2,00:25 VB4169,,Veracruz (VER),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 23:59,2021-06-13
+3,3,00:35 VB4399,,Villahermosa (VSA),VivaAerobus A321 (XA-VBJ),Landed 00:18,2021-06-13
+4,4,00:45 VB4009,,Puebla (PBC),VivaAerobus A320 (XA-VAV),Landed 00:54,2021-06-13
+5,5,00:50 VB4121,,Hermosillo (HMO),VivaAerobus A320 (XA-VAB),Landed 01:53,2021-06-13
+6,6,00:55 VB2176,,Cancun (CUN),Viva Aerobus A21N (XA-VBK),Landed 02:26,2021-06-13
+7,7,01:25 VB605,,Las Vegas (LAS),VivaAerobus A320 (EI-EUA),Landed 01:11,2021-06-13
+8,8,03:50 VB2194,,Cancun (CUN),VivaAerobus A320 (XA-VAR),Landed 03:12,2021-06-13
+9,9,05:04 Y4510,,Tijuana (TIJ),Volaris A320 (XA-VLD),Landed 05:16,2021-06-13
+10,10,05:30 W8920,,Cincinnati (CVG),Cargojet Airways 75V,Unknown,2021-06-13
+11,11,08:22 Y4180,,Mexico City (MEX),Volaris A21N (N536VL),Landed 07:50,2021-06-13
+12,12,09:10 VB4201,,Queretaro (QRO),VivaAerobus A320,Landed 08:39,2021-06-13
+13,13,09:41 Y4676,,Guadalajara (GDL),Volaris A319 (XA-VOI),Landed 09:37,2021-06-13
+14,14,09:45,AM908,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 09:32,2021-06-13
+15,15,10:05 VB1134,,Mexico City (MEX),VivaAerobus A21N (XA-VBA),Landed 09:53,2021-06-13
+16,16,10:15 VB2202,,Cancun (CUN),VivaAerobus A320 (XA-VAR),Landed 09:46,2021-06-13
+17,17,10:20 VB4001,,Puebla (PBC),VivaAerobus A320 (XA-VAV),Landed 09:58,2021-06-13
+18,18,10:20 VB4269,,Culiacan (CUL),VivaAerobus A320,Landed 12:58,2021-06-13
+19,19,10:35 VB4163,,Veracruz (VER),VivaAerobus A20N (XA-VIT),Landed 10:11,2021-06-13
+20,20,10:35 VB611,,Houston (IAH),VivaAerobus A320 (XA-VAE),Landed 10:23,2021-06-13
+21,21,10:40 VB3192,,Guadalajara (GDL),VivaAerobus A320 (XA-VAB),Landed 10:20,2021-06-13
+22,22,10:44,AM912,Mexico City (MEX),Aeromexico B738 (N950AM),Landed 10:27,2021-06-13
+23,23,11:15 VB677,,San Antonio (SAT),VivaAerobus A20N (XA-VIH),Landed 10:44,2021-06-13
+24,24,11:39,DL1929,Atlanta (ATL),Delta Air Lines A319 (N343NB),Landed 11:35,2021-06-13
+25,25,11:45 VB2164,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 11:27,2021-06-13
+26,26,11:55 VB683,,Dallas (DFW),VivaAerobus A320 (EI-EUA),Landed 11:48,2021-06-13
+27,27,11:57,UA2256,Houston (IAH),United Airlines A320 (N469UA),Landed 14:51,2021-06-13
+28,28,12:01,Y4231,Cancun (CUN),Volaris A20N (N539VL),Landed 11:51,2021-06-13
+29,29,12:23,AA3701,Dallas (DFW),American Eagle E75L (N208AN),Landed 12:55,2021-06-13
+30,30,12:35 VW893,,McAllen (MFE),Aeromar AT76 (XA-UZE),Landed 12:29,2021-06-13
+31,31,12:54 Y45642,,Guadalajara (GDL),Volaris A20N (XA-VRE),Landed 12:50,2021-06-13
+32,32,13:40 VB1124,,Mexico City (MEX),VivaAerobus A320 (XA-VAB),Landed 15:46,2021-06-13
+33,33,13:41,AM924,Mexico City (MEX),Aeromexico B738 (XA-AMC),Landed 13:18,2021-06-13
+34,34,14:15 VB233,,Harlingen (HRL),VivaAerobus A320 (XA-VAE),Landed 14:06,2021-06-13
+35,35,14:24 Y4186,,Mexico City (MEX),Volaris A321 (XA-VLW),Landed 14:02,2021-06-13
+36,36,14:25 VB2166,,Cancun (CUN),VivaAerobus A320 (XA-VAJ),Landed 14:23,2021-06-13
+37,37,14:40 VB4343,,Puerto Vallarta (PVR),VivaAerobus A21N (XA-VBA),Landed 14:38,2021-06-13
+38,38,15:00 VB4021,,Mazatlan (MZT),VivaAerobus A20N (XA-VIL),Landed 15:02,2021-06-13
+39,39,15:10 VB671,,San Antonio (SAT),VivaAerobus A20N (XA-VIT),Landed 14:48,2021-06-13
+40,40,15:15 VW891,,McAllen (MFE),Aeromar AT76 (XA-UZS),Landed 14:57,2021-06-13
+41,41,15:29,Y4191,Cancun (CUN),Volaris A319 (XA-VOI),Landed 15:21,2021-06-13
+42,42,15:30 VB2178,,Cancun (CUN),VivaAerobus A20N (XA-VIF),Landed 15:26,2021-06-13
+43,43,15:39,AM932,Mexico City (MEX),Aeromexico B738 (N950AM),Landed 15:43,2021-06-13
+44,44,15:57,UA6117,Houston (IAH),United Express E75L (N82338),Landed 15:58,2021-06-13
+45,45,16:00 VB4193,,Tuxtla Gutierrez (TGZ),VivaAerobus A320 (XA-VAV),Landed 15:29,2021-06-13
+46,46,16:09 Y4512,,Tijuana (TIJ),Volaris A21N (N542VL),Landed 15:50,2021-06-13
+47,47,16:30 VB2168,,Cancun (CUN),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 17:11,2021-06-13
+48,48,16:31,AA4451,Dallas (DFW),American Eagle E75L (N253NN),Landed 16:15,2021-06-13
+49,49,16:55 VB4053,,Acapulco (ACA),VivaAerobus A20N (XA-VIR),Landed 17:31,2021-06-13
+50,50,16:55 VB613,,Houston (IAH),VivaAerobus A320 (EI-EUA),Landed 17:07,2021-06-13
+51,51,17:35 VB1126,,Mexico City (MEX),VivaAerobus A20N (XA-VIW),Landed 17:25,2021-06-13
+52,52,17:45,AM940,Mexico City (MEX),Aeromexico Connect E190 (XA-AEF),Landed 17:47,2021-06-13
+53,53,17:49,Y4229,Cancun (CUN),Volaris A20N (N539VL),Landed 18:16,2021-06-13
+54,54,17:55 VB675,,San Antonio (SAT),VivaAerobus A20N (XA-VIX),Unknown,2021-06-13
+55,55,18:00 YQ611,,Tampico (TAM),TAR Aerolineas ERJ,Landed 20:48,2021-06-13
+56,56,18:20 VB2170,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 18:25,2021-06-13
+57,57,18:35 VB603,,Las Vegas (LAS),VivaAerobus A20N (XA-VIH),Landed 19:53,2021-06-13
+58,58,18:43 UA4789,,Chicago (ORD),United Express E75L (N148SY),Landed 17:53,2021-06-13
+59,59,18:50 VB4333,,San Jose del Cabo (SJD),VivaAerobus A21N (XA-VBB),Landed 18:57,2021-06-13
+60,60,18:51,AM944,Mexico City (MEX),Aeromexico B738 (XA-AMC),Landed 18:51,2021-06-13
+61,61,19:05 VB4317,,Chihuahua (CUU),VivaAerobus A21N (XA-VBA),Landed 18:54,2021-06-13
+62,62,19:07,AA4445,Dallas (DFW),American Eagle E75L (N200NN),Landed 19:01,2021-06-13
+63,63,19:30 VB3196,,Guadalajara (GDL),VivaAerobus A20N (XA-VIL),Landed 19:25,2021-06-13
+64,64,19:35 Y4197,,Puerto Vallarta (PVR),Volaris A319 (XA-VOI),Landed 19:30,2021-06-13
+65,65,19:48,AM948,Mexico City (MEX),Aeromexico Connect E190 (XA-GAD),Landed 20:00,2021-06-13
+66,66,19:56,Y4213,Cancun (CUN),Volaris A320 (XA-VLD),Landed 19:50,2021-06-13
+67,67,20:00 VB2172,,Cancun (CUN),VivaAerobus A320 (XA-VAE),Landed 20:11,2021-06-13
+68,68,20:00 VB4167,,Veracruz (VER),VivaAerobus A320 (XA-VAY),Landed 20:04,2021-06-13
+69,69,20:05 VB4075,,Oaxaca (OAX),VivaAerobus A320 (XA-VAB),Landed 20:44,2021-06-13
+70,70,20:14 Y4168,,Mexico City (MEX),Volaris A321 (XA-VLJ),Landed 19:46,2021-06-13
+71,71,20:25 VB619,,Houston (IAH),VivaAerobus A320 (XA-VAJ),Landed 20:24,2021-06-13
+72,72,20:30 VB1138,,Mexico City (MEX),VivaAerobus A320 (XA-VAV),Landed 20:09,2021-06-13
+73,73,20:30 VW897,,McAllen (MFE),Aeromar AT46 (XA-UYK),Landed 20:14,2021-06-13
+74,74,21:04,AA4381,Dallas (DFW),American Eagle E75L (N265NN),Landed 20:41,2021-06-13
+75,75,21:19,UA6142,Houston (IAH),United Express E75L (N82338),Landed 21:43,2021-06-13
+76,76,21:21,AM954,Mexico City (MEX),Aeromexico B738 (XA-JOY),Landed 21:22,2021-06-13
+77,77,21:30 YQ768,,Queretaro (QRO),TAR Aerolineas ERJ,Unknown,2021-06-13
+78,78,21:43 Y4646,,Guadalajara (GDL),Volaris A20N (N539VL),Landed 22:14,2021-06-13
+79,79,22:13 AA4140,,Miami (MIA),American Eagle E75L (N262NN),Landed 22:29,2021-06-13
+80,80,22:25 VB1140,,Mexico City (MEX),VivaAerobus A320 (XA-VAN),Landed 23:20,2021-06-13
+81,81,22:30 VB679,,San Antonio (SAT),VivaAerobus A20N (XA-VIX),Unknown,2021-06-13
+82,82,23:00 VB4349,,Puerto Vallarta (PVR),VivaAerobus A20N (XA-VIT),Landed 22:52,2021-06-13
+83,83,23:10 VB689,,Dallas (DFW),VivaAerobus A20N (XA-VIR),Landed 22:56,2021-06-13
+84,84,23:24,AM962,Mexico City (MEX),Aeromexico B738 (XA-DRA),Landed 00:41,2021-06-13
+85,85,23:50 VB1144,,Mexico City (MEX),VivaAerobus A20N (XA-VIL),Landed 00:26,2021-06-13
+0,0,00:05 VB4159,,Ciudad Juarez (CJS),VivaAerobus A20N (XA-VIQ),Landed 00:46,2021-06-14
+1,1,00:05 VB4309,,Tampico (TAM),VivaAerobus A320 (XA-VAJ),Landed 23:52,2021-06-14
+2,2,00:15 VB617,,Houston (IAH),VivaAerobus A320 (EI-EUA),Landed 00:01,2021-06-14
+3,3,00:20 VB4189,,Silao (BJX),VivaAerobus A320 (XA-VAB),Landed 00:30,2021-06-14
+4,4,00:35 VB4399,,Villahermosa (VSA),VivaAerobus A21N (XA-VBB),Landed 00:37,2021-06-14
+5,5,00:40 VB3202,,Guadalajara (GDL),VivaAerobus A320 (XA-VAV),Landed 00:19,2021-06-14
+6,6,00:50 VB4121,,Hermosillo (HMO),VivaAerobus A21N (XA-VBA),Landed 00:52,2021-06-14
+7,7,00:50 VB4287,,Merida (MID),VivaAerobus A20N (XA-VIH),Landed 01:03,2021-06-14
+8,8,00:55 VB2176,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 00:56,2021-06-14
+9,9,03:25 VB4089,,Tijuana (TIJ),VivaAerobus A320 (XA-VAE),Landed 03:06,2021-06-14
+10,10,04:05 VB2194,,Cancun (CUN),VivaAerobus A320 (XA-VAY),Landed 03:55,2021-06-14
+11,11,05:04 Y4510,,Tijuana (TIJ),Volaris A319 (XA-VOE),Landed 07:10,2021-06-14
+12,12,06:16 W8924,,Cincinnati (CVG),Cargojet Airways B763 (C-GXAJ),Landed 05:45,2021-06-14
+13,13,06:22 FX67,,Memphis (MEM),FedEx B763 (N128FE),Landed 06:25,2021-06-14
+14,14,06:55 YQ4760,,Queretaro (QRO),TAR Aerolineas ERJ,Unknown,2021-06-14
+15,15,07:05 5X300,,Louisville (SDF),UPS B763 (N355UP),Landed 06:35,2021-06-14
+16,16,07:51,AM900,Mexico City (MEX),Aeromexico B38M (XA-MAQ),Landed 07:53,2021-06-14
+17,17,08:22 Y4180,,Mexico City (MEX),Volaris A21N (N534VL),Landed 08:00,2021-06-14
+18,18,08:35 YQ760,,Queretaro (QRO),TAR Aerolineas ERJ,Unknown,2021-06-14
+19,19,08:57,AM904,Mexico City (MEX),Aeromexico B38M (XA-MAO),Landed 08:37,2021-06-14
+20,20,09:10 VB1118,,Mexico City (MEX),VivaAerobus A320 (XA-VAX),Landed 09:08,2021-06-14
+21,21,09:16 Y4209,,Puebla (PBC),Volaris A319 (XA-VOI),Landed 09:11,2021-06-14
+22,22,09:41 Y4676,,Guadalajara (GDL),Volaris A320 (N524VL),Landed 09:17,2021-06-14
+23,23,10:05 VB1134,,Mexico City (MEX),VivaAerobus A321,Unknown,2021-06-14
+24,24,10:10 YQ764,,Queretaro (QRO),TAR Aerolineas ERJ,Landed 09:33,2021-06-14
+25,25,10:15 VB4163,,Veracruz (VER),VivaAerobus A20N (XA-VIQ),Landed 09:49,2021-06-14
+26,26,10:35 VB611,,Houston (IAH),VivaAerobus A20N (XA-VIT),Landed 10:18,2021-06-14
+27,27,10:40 VB3192,,Guadalajara (GDL),VivaAerobus A20N (XA-VIH),Landed 10:13,2021-06-14
+28,28,10:44,AM912,Mexico City (MEX),Aeromexico B38M (XA-MAT),Landed 10:41,2021-06-14
+29,29,10:50 VB4393,,Villahermosa (VSA),VivaAerobus A320 (XA-VAB),Landed 10:28,2021-06-14
+30,30,11:05 VB4111,,Hermosillo (HMO),VivaAerobus A320 (XA-VAJ),Landed 10:56,2021-06-14
+31,31,11:15 VB677,,San Antonio (SAT),VivaAerobus A20N (XA-VIL),Landed 10:54,2021-06-14
+32,32,11:15 VB4281,,Merida (MID),VivaAerobus A320 (XA-VAV),Landed 10:59,2021-06-14
+33,33,11:39,DL1929,Atlanta (ATL),Delta Air Lines A319 (N353NB),Landed 11:13,2021-06-14
+34,34,11:45 VB2164,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 11:23,2021-06-14
+35,35,11:55 VB683,,Dallas (DFW),VivaAerobus A320 (XA-VAE),Landed 11:35,2021-06-14
+36,36,11:57,UA2256,Houston (IAH),United Airlines A319 (N874UA),Landed 11:55,2021-06-14
+37,37,12:23,AA3701,Dallas (DFW),American Eagle E75L (N200NN),Unknown,2021-06-14
+38,38,12:30 VB675,,San Antonio (SAT),VivaAerobus A320,Unknown,2021-06-14
+39,39,12:44,AM920,Mexico City (MEX),Aeromexico B738 (N368AR),Landed 12:30,2021-06-14
+40,40,12:54 Y45642,,Guadalajara (GDL),Volaris A20N (XA-VRR),Landed 12:36,2021-06-14
+41,41,13:40 VB1124,,Mexico City (MEX),VivaAerobus A320 (XA-VAX),Landed 13:31,2021-06-14
+42,42,13:41,AM924,Mexico City (MEX),Aeromexico B738 (XA-AMV),Landed 13:33,2021-06-14
+43,43,14:15 VW891,,McAllen (MFE),Aeromar AT76 (XA-UZE),Landed 13:59,2021-06-14
+44,44,14:20 VB4063,,Morelia (MLM),VivaAerobus A20N (XA-VIH),Landed 14:08,2021-06-14
+45,45,14:24 Y4186,,Mexico City (MEX),Volaris A321 (XA-VLT),Landed 14:30,2021-06-14
+46,46,14:25 VB4081,,Tijuana (TIJ),VivaAerobus A320 (XA-VAQ),Landed 14:13,2021-06-14
+47,47,14:40 VB4343,,Puerto Vallarta (PVR),VivaAerobus A21N (XA-VBA),Landed 15:15,2021-06-14
+48,48,14:55 VB4203,,Queretaro (QRO),VivaAerobus A320 (XA-VAJ),Landed 14:51,2021-06-14
+49,49,15:10 VB671,,San Antonio (SAT),VivaAerobus A20N (XA-VIT),Landed 14:43,2021-06-14
+50,50,15:10 VB4273,,Culiacan (CUL),VivaAerobus A320 (XA-VAB),Landed 14:48,2021-06-14
+51,51,15:10 VB4023,,Mazatlan (MZT),VivaAerobus A320 (XA-VAV),Landed 14:45,2021-06-14
+52,52,15:13 Y4674,,Guadalajara (GDL),Volaris A320 (XA-VLO),Landed 15:53,2021-06-14
+53,53,15:25 VB4149,,Ciudad Juarez (CJS),VivaAerobus A320,Landed 14:58,2021-06-14
+54,54,15:29,Y4191,Cancun (CUN),Volaris A320 (N524VL),Landed 15:24,2021-06-14
+55,55,15:39,AM932,Mexico City (MEX),Aeromexico B738 (N957AM),Landed 15:31,2021-06-14
+56,56,15:57,UA6117,Houston (IAH),United Express E75L (N86334),Landed 15:41,2021-06-14
+57,57,16:30 VB2168,,Cancun (CUN),VivaAerobus A20N (XA-VIQ),Landed 16:29,2021-06-14
+58,58,16:31,AA4451,Dallas (DFW),American Eagle E75L (N218NN),Landed 16:23,2021-06-14
+59,59,17:05 YQ446,,Aguascalientes (AGU),TAR Aerolineas ERJ,Unknown,2021-06-14
+60,60,17:10 VB613,,Houston (IAH),VivaAerobus A20N (XA-VIL),Landed 16:47,2021-06-14
+61,61,17:35 VB1126,,-,VivaAerobus A320 (XA-VAU),Landed 17:14,2021-06-14
+62,62,17:45,AM940,Mexico City (MEX),Aeromexico B738 (N950AM),Landed 17:45,2021-06-14
+63,63,17:49,Y4229,Cancun (CUN),Volaris A20N (N539VL),Landed 17:36,2021-06-14
+64,64,18:15 Y45512,,Tijuana (TIJ),Volaris A21N (N542VL),Landed 18:19,2021-06-14
+65,65,18:20 VB2170,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 18:06,2021-06-14
+66,66,18:43 UA4789,,Chicago (ORD),United Express E75L (N119SY),Landed 17:57,2021-06-14
+67,67,18:50 VB4333,,San Jose del Cabo (SJD),Viva Aerobus A21N (XA-VBK),Landed 21:07,2021-06-14
+68,68,18:50 VB4361,,Los Mochis (LMM),VivaAerobus A320 (XA-VAQ),Landed 18:38,2021-06-14
+69,69,18:51,AM944,Mexico City (MEX),Aeromexico B738 (XA-ZAM),Landed 18:52,2021-06-14
+70,70,19:00 VB4075,,Oaxaca (OAX),VivaAerobus A320 (EI-EUA),Landed 19:04,2021-06-14
+71,71,19:05 VB4317,,Chihuahua (CUU),VivaAerobus A21N (XA-VBA),Landed 19:34,2021-06-14
+72,72,19:07,AA4445,Dallas (DFW),American Eagle E75L (N206NN),Landed 20:55,2021-06-14
+73,73,19:30 VB3196,,Guadalajara (GDL),VivaAerobus A320 (XA-VAI),Landed 19:30,2021-06-14
+74,74,19:48,AM948,Mexico City (MEX),Aeromexico B738 (XA-AMO),Landed 19:37,2021-06-14
+75,75,19:56,Y4213,Cancun (CUN),Volaris A319 (XA-VOI),Landed 20:14,2021-06-14
+76,76,20:00 VB2172,,Cancun (CUN),VivaAerobus A320 (XA-VAX),Landed 19:47,2021-06-14
+77,77,20:14 Y4168,,Mexico City (MEX),Volaris A321 (XA-VLY),Landed 19:50,2021-06-14
+78,78,20:25 VB4107,,Ciudad Obregon (CEN),VivaAerobus A320 (XA-VAB),Landed 19:45,2021-06-14
+79,79,20:30 VB1138,,Mexico City (MEX),VivaAerobus A320,Landed 20:17,2021-06-14
+80,80,20:30 VW897,,McAllen (MFE),Aeromar AT76 (XA-UZS),Landed 20:09,2021-06-14
+81,81,20:34 Y4195,,Merida (MID),Volaris A320 (N524VL),Landed 20:28,2021-06-14
+82,82,21:04,AA4381,Dallas (DFW),American Eagle E75L (N217NN),Landed 20:39,2021-06-14
+83,83,21:19,UA6142,Houston (IAH),United Express E75L (N88328),Landed 21:35,2021-06-14
+84,84,21:21,AM954,Mexico City (MEX),Aeromexico B38M (XA-MAO),Landed 21:31,2021-06-14
+85,85,21:43 Y4646,,Guadalajara (GDL),Volaris A20N (N539VL),Landed 21:46,2021-06-14
+86,86,21:45 VB673,,San Antonio (SAT),VivaAerobus A20N (XA-VIL),Landed 21:13,2021-06-14
+87,87,22:13 AA4140,,Miami (MIA),American Eagle E75L (N271NN),Landed 21:39,2021-06-14
+88,88,22:25 VB1140,,Mexico City (MEX),VivaAerobus A20N (XA-VIO),Landed 22:07,2021-06-14
+89,89,22:50 VB2180,,Cancun (CUN),VivaAerobus A20N (XA-VIT),Landed 22:34,2021-06-14
+90,90,23:10 VB689,,Dallas (DFW),VivaAerobus A20N (XA-VIQ),Landed 23:23,2021-06-14
+91,91,23:24,AM962,Mexico City (MEX),Aeromexico B738 (XA-AMN),Landed 01:19,2021-06-14
+92,92,23:50 VB4309,,Tampico (TAM),VivaAerobus A320 (XA-VAB),Landed 23:17,2021-06-14
+0,0,00:15 VB617,,Houston (IAH),VivaAerobus A320 (EI-EUA),Landed 23:53,2021-06-15
+1,1,00:20 VB4189,,Silao (BJX),VivaAerobus A320 (XA-VAE),Landed 23:49,2021-06-15
+2,2,00:25 VB4199,,Tuxtla Gutierrez (TGZ),VivaAerobus A320 (XA-VAQ),Landed 23:56,2021-06-15
+3,3,00:25 VB4169,,Veracruz (VER),VivaAerobus A320 (XA-VAJ),Landed 00:12,2021-06-15
+4,4,00:35 VB4399,,Villahermosa (VSA),VivaAerobus A320 (XA-VAX),Landed 01:02,2021-06-15
+5,5,00:40 VB3202,,Guadalajara (GDL),VivaAerobus A320 (XA-VAI),Landed 00:21,2021-06-15
+6,6,00:45 VB4009,,Puebla (PBC),VivaAerobus A320,Landed 00:24,2021-06-15
+7,7,00:50 VB4121,,Hermosillo (HMO),Viva Aerobus A21N (XA-VBK),Landed 02:24,2021-06-15
+8,8,00:50 VB4287,,Merida (MID),VivaAerobus A21N (XA-VBA),Landed 00:45,2021-06-15
+9,9,00:52 Y45180,,Mexico City (MEX),Volaris A320 (N524VL),Landed 00:34,2021-06-15
+10,10,00:55 VB2176,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 00:29,2021-06-15
+11,11,01:30 BYA584,,San Marcos (HYI),Berry Aviation E120 (N584SW),Landed 01:22,2021-06-15
+12,12,02:50 VB2194,,Cancun (CUN),VivaAerobus A320 (XA-VAW),Landed 02:32,2021-06-15
+13,13,04:55,,San Luis Potosi (SLP),- B734,Canceled,2021-06-15
+14,14,05:04 Y4510,,Tijuana (TIJ),Volaris A319 (XA-VOI),Unknown,2021-06-15
+15,15,05:10 E7522,,San Luis Potosi (SLP),Estafeta Carga Aerea B734 (XA-EME),Landed 04:57,2021-06-15
+16,16,06:52 FX67,,Memphis (MEM),FedEx B763 (N117FE),Landed 07:10,2021-06-15
+17,17,07:02 5X300,,Louisville (SDF),UPS B752 (N447UP),Landed 07:18,2021-06-15
+18,18,07:51,AM900,Mexico City (MEX),Aeromexico B737 (XA-DRD),Landed 07:23,2021-06-15
+19,19,08:22 Y4180,,Mexico City (MEX),Volaris A321 (XA-VLY),Landed 08:04,2021-06-15
+20,20,08:45 W8920,,Cincinnati (CVG),Cargojet Airways B752 (C-FKCJ),Landed 08:41,2021-06-15
+21,21,08:57,AM904,Mexico City (MEX),Aeromexico B738 (N368AR),Landed 08:35,2021-06-15
+22,22,09:41 Y4676,,Guadalajara (GDL),Volaris A319 (XA-VOE),Landed 09:51,2021-06-15
+23,23,09:45,AM908,Mexico City (MEX),Aeromexico B38M (XA-SSR),Landed 09:26,2021-06-15
+24,24,10:05 VB1134,,Mexico City (MEX),Viva Aerobus A21N (XA-VBK),Landed 09:47,2021-06-15
+25,25,10:10 VB4147,,Ciudad Juarez (CJS),VivaAerobus A20N (XA-VIL),Landed 09:36,2021-06-15
+26,26,10:15 VB4163,,Veracruz (VER),VivaAerobus A20N (XA-VIT),Landed 09:57,2021-06-15
+27,27,10:35 VB611,,Houston (IAH),VivaAerobus A20N (XA-VIX),Unknown,2021-06-15
+28,28,10:40 VB3192,,Guadalajara (GDL),VivaAerobus A320 (XA-VAQ),Landed 10:19,2021-06-15
+29,29,10:44,AM912,Mexico City (MEX),Aeromexico B738 (XA-AMO),Landed 10:26,2021-06-15
+30,30,11:15 VB677,,San Antonio (SAT),VivaAerobus A320 (XA-VAE),Landed 10:49,2021-06-15
+31,31,11:15 VB4281,,Merida (MID),VivaAerobus A320 (XA-VAB),Landed 10:51,2021-06-15
+32,32,11:39,DL1929,Atlanta (ATL),Delta Air Lines A319 (N348NB),Landed 11:27,2021-06-15
+33,33,11:45 VB2164,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 11:31,2021-06-15
+34,34,11:55 VB683,,Dallas (DFW),VivaAerobus A320,Canceled,2021-06-15
+35,35,11:57,UA2256,Houston (IAH),United Airlines A319 (N831UA),Landed 12:16,2021-06-15
+36,36,12:01,Y4231,Cancun (CUN),Volaris A20N (N539VL),Landed 11:51,2021-06-15
+37,37,12:23,AA3701,Dallas (DFW),American Eagle E75L (N221NN),Landed 12:04,2021-06-15
+38,38,12:54 Y45642,,Guadalajara (GDL),Volaris A320 (N508VL),Landed 12:47,2021-06-15
+39,39,13:40 VB1124,,Mexico City (MEX),VivaAerobus A320 (XA-VAJ),Landed 13:28,2021-06-15
+40,40,13:41 AM924,,Mexico City (MEX),Aeromexico B738 (XA-AMS),Landed 13:33,2021-06-15
+41,41,14:15 VW891,,McAllen (MFE),Aeromar AT76 (XA-UZE),Landed 13:50,2021-06-15
+42,42,14:24 Y4186,,Mexico City (MEX),Volaris A21N (N543VL),Landed 14:27,2021-06-15
+43,43,14:25 VB4081,,Tijuana (TIJ),VivaAerobus A20N (XA-VIH),Landed 14:14,2021-06-15
+44,44,14:40 VB4343,,Puerto Vallarta (PVR),Viva Aerobus A21N (XA-VBK),Landed 14:21,2021-06-15
+45,45,15:00 VB4273,,Culiacan (CUL),VivaAerobus A320 (XA-VAQ),Landed 14:35,2021-06-15
+46,46,15:10 VB671,,San Antonio (SAT),VivaAerobus A20N (XA-VIT),Landed 14:50,2021-06-15
+47,47,15:10 VB4023,,Mazatlan (MZT),VivaAerobus A320 (XA-VAB),Landed 14:46,2021-06-15
+48,48,15:13 Y4674,,Guadalajara (GDL),Volaris A320 (N505VL),Landed 15:05,2021-06-15
+49,49,15:29,Y4191,Cancun (CUN),Volaris A319 (XA-VOE),Landed 15:40,2021-06-15
+50,50,15:35 VB233,,Harlingen (HRL),VivaAerobus A20N (XA-VIL),Landed 15:18,2021-06-15
+51,51,15:39,AM932,Mexico City (MEX),Aeromexico B738 (XA-DRA),Landed 15:26,2021-06-15
+52,52,15:57,UA6117,Houston (IAH),United Express E75L (N85354),Landed 15:43,2021-06-15
+53,53,16:09 Y4512,,Tijuana (TIJ),Volaris A321 (XA-VRC),Landed 15:51,2021-06-15
+54,54,16:10 VB685,,Dallas (DFW),VivaAerobus A20N (XA-VIX),Unknown,2021-06-15
+55,55,16:30 VB2168,,Cancun (CUN),VivaAerobus A320 (XA-VAI),Landed 16:15,2021-06-15
+56,56,16:30 VB4193,,Tuxtla Gutierrez (TGZ),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 16:17,2021-06-15
+57,57,16:31,AA4451,Dallas (DFW),American Eagle E75L (N248NN),Landed 16:06,2021-06-15
+58,58,16:55 VB613,,Houston (IAH),VivaAerobus A320 (XA-VAE),Landed 17:06,2021-06-15
+59,59,17:10 VB4185,,Silao (BJX),VivaAerobus A320 (XA-VAX),Landed 16:39,2021-06-15
+60,60,17:35 VB1126,,Mexico City (MEX),VivaAerobus A320 (XA-VAP),Landed 17:34,2021-06-15
+61,61,17:45 VB603,,Las Vegas (LAS),VivaAerobus A320 (XA-VAV),Landed 17:43,2021-06-15
+62,62,17:49,Y4229,Cancun (CUN),Volaris A320 (N519VL),Landed 17:50,2021-06-15
+63,63,17:50,AM940,Mexico City (MEX),Aeromexico B738 (XA-AMV),Landed 17:41,2021-06-15
+64,64,18:20 VB2170,,Cancun (CUN),VivaAerobus A321 (XA-VBJ),Landed 18:16,2021-06-15
+65,65,18:43 UA4789,,Chicago (ORD),United Express E75L (N119SY),Landed 18:04,2021-06-15
+66,66,18:50 VB4333,,San Jose del Cabo (SJD),VivaAerobus A21N (XA-VBA),Landed 19:10,2021-06-15
+67,67,18:51,AM944,Mexico City (MEX),Aeromexico B738 (XA-AMW),Landed 18:34,2021-06-15
+68,68,18:59 VB615,,Houston (IAH),VivaAerobus A320 (XA-VAJ),Landed 18:59,2021-06-15
+69,69,19:05 VB4317,,Chihuahua (CUU),Viva Aerobus A21N (XA-VBK),Landed 18:54,2021-06-15
+70,70,19:07,AA4445,Dallas (DFW),American Eagle E75L (N223NN),Landed 18:46,2021-06-15
+71,71,19:30 VB3196,,Guadalajara (GDL),VivaAerobus A320 (XA-VAB),Landed 19:21,2021-06-15
+72,72,19:48,AM948,Mexico City (MEX),Aeromexico B738 (XA-JOY),Landed 20:01,2021-06-15
+73,73,19:50 VB4055,,Acapulco (ACA),VivaAerobus A320 (XA-VAQ),Landed 19:43,2021-06-15
+74,74,19:56,Y4213,Cancun (CUN),Volaris A319 (XA-VOI),Landed 19:45,2021-06-15
+75,75,20:00 YQ611,,Tampico (TAM),TAR Aerolineas ERJ,Unknown,2021-06-15
+76,76,20:14 Y4168,,Mexico City (MEX),Volaris A320 (N514VL),Landed 20:04,2021-06-15
+77,77,20:30 VB1138,,Mexico City (MEX),VivaAerobus A20N (XA-VIL),Landed 20:17,2021-06-15
+78,78,20:30 VB4207,,Queretaro (QRO),VivaAerobus A320,Landed 20:08,2021-06-15
+79,79,21:04,AA4381,Dallas (DFW),American Eagle E75L (N253NN),Landed 20:54,2021-06-15
+80,80,21:19,UA6142,Houston (IAH),United Express E75L (N88301),Landed 22:56,2021-06-15
+81,81,21:21,AM954,Mexico City (MEX),Aeromexico B738 (XA-AMC),Landed 21:09,2021-06-15
+82,82,21:43 Y4646,,Guadalajara (GDL),Volaris A320 (N519VL),Landed 21:59,2021-06-15
+83,83,21:45 VB673,,San Antonio (SAT),VivaAerobus A320 (XA-VAX),Landed 21:15,2021-06-15
+84,84,21:50 VB2198,,Cancun (CUN),VivaAerobus A20N (XA-VIT),Landed 21:40,2021-06-15
+85,85,22:13 AA4140,,Miami (MIA),American Eagle E75L (N263NN),Landed 21:55,2021-06-15
+86,86,22:25 VB1140,,Mexico City (MEX),VivaAerobus A20N (XA-VIN),Landed 22:49,2021-06-15
+87,87,22:30 VB679,,San Antonio (SAT),VivaAerobus A320,Unknown,2021-06-15
+88,88,22:50 VB2180,,Cancun (CUN),VivaAerobus A320 (XA-VAI),Landed 22:33,2021-06-15
+89,89,23:24,AM962,Mexico City (MEX),Aeromexico B738 (XA-AMV),Landed 23:02,2021-06-15
+90,90,23:50 VB1144,,Mexico City (MEX),VivaAerobus A320 (XA-VAB),Landed 23:57,2021-06-15
+91,91,23:50 VB4309,,Tampico (TAM),VivaAerobus A320,Landed 23:24,2021-06-15

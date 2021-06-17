@@ -2491,3 +2491,798 @@
 103,103,23:00 CV7721,,Seattle (SEA),Cargolux B748 (LX-VCE),Unknown,2021-06-07
 104,104,23:00 CV7732,,Seattle (SEA),Cargolux 74F,Unknown,2021-06-07
 105,105,23:29,,Seattle (SEA),- B748 (LX-VCE),Landed 23:19,2021-06-07
+0,0,00:41 SLQ7824,,Vancouver (YVR),SkyLink Express B190,Landed 00:03,2021-06-08
+1,1,03:25 MAL7051,,Toronto (YYZ),FedEx B752 (C-FMEP),Landed 03:07,2021-06-08
+2,2,03:30 MAL7949,,Winnipeg (YWG),FedEx B752 (C-FMFG),Landed 03:16,2021-06-08
+3,3,03:36 W8583,,Hamilton (YHM),Cargojet Airways B752 (C-GIAJ),Landed 03:21,2021-06-08
+4,4,04:10 W8571,,Winnipeg (YWG),Cargojet Airways B763 (C-FGSJ),Landed 04:44,2021-06-08
+5,5,07:02 FX140,,Memphis (MEM),FedEx B763 (N179FE),Landed 07:17,2021-06-08
+6,6,07:14 5X492,,Sioux Falls (FSD),UPS B763 (N355UP),Landed 08:18,2021-06-08
+7,7,07:22 WS3178,,Grande Prairie (YQU),WestJet DH8D (C-GVEN),Landed 07:12,2021-06-08
+8,8,07:32 CNK633,,Winnipeg (YWG),Sunwest Aviation LJ3,Unknown,2021-06-08
+9,9,07:48 W8919,,Cincinnati (CVG),Cargojet Airways B762 (C-FOIJ),Landed 07:39,2021-06-08
+10,10,08:03 MAL8066,,Saskatoon (YXE),FedEx AT72 (C-FTAR),Landed 07:51,2021-06-08
+11,11,08:13 WS3160,,Kelowna (YLW),WestJet DH8D (C-FUWE),Landed 08:00,2021-06-08
+12,12,08:19 WS242,,Edmonton (YEG),WestJet B738 (C-GWWJ),Landed 08:14,2021-06-08
+13,13,08:21 WS3144,,Fort McMurray (YMM),WestJet DH8D (C-GENO),Landed 08:13,2021-06-08
+14,14,08:26 WS271,,Winnipeg (YWG),WestJet B737 (C-GWCN),Landed 08:20,2021-06-08
+15,15,08:29 WS3301,,Regina (YQR),WestJet DH8D (C-FJWE),Landed 08:15,2021-06-08
+16,16,08:29,WS3378,Abbotsford (YXX),WestJet DH8D (C-GWUE),Landed 08:02,2021-06-08
+17,17,08:31 MAL8058,,Regina (YQR),FedEx AT72 (C-FTMN),Landed 08:28,2021-06-08
+18,18,08:39 WS3170,,Victoria (YYJ),WestJet DH8D (C-FQWE),Landed 08:17,2021-06-08
+19,19,08:40 WS100,,Vancouver (YVR),WestJet (Walt Disney World - Micky Mouse Livery) B738 (C-GWSZ),Landed 08:30,2021-06-08
+20,20,08:42 WS3117,,Saskatoon (YXE),WestJet DH8D (C-GWEP),Landed 08:22,2021-06-08
+21,21,08:42 WS3210,,Comox (YQQ),WestJet DH8D (C-GWEF),Landed 08:23,2021-06-08
+22,22,08:42,,Cranbrook (YXC),- PAY4 (C-GZPU),Landed 08:47,2021-06-08
+23,23,08:43 WS3308,,Fort St. John (YXJ),WestJet DH8D (C-GPWE),Landed 08:27,2021-06-08
+24,24,08:44 CNK302,,Winnipeg (YWG),Sunwest Aviation SW4 (C-GSAF),Landed 08:38,2021-06-08
+25,25,10:00 AC135,,Toronto (YYZ),Air Canada B788 (C-GHPY),Landed 09:33,2021-06-08
+26,26,10:01,AC8370,Fort McMurray (YMM),Air Canada Express DH8D (C-GXJZ),Landed 10:11,2021-06-08
+27,27,10:02 AC8133,,Edmonton (YEG),Air Canada Express DH8D (C-GGFJ),Landed 09:55,2021-06-08
+28,28,10:02 HRT623,,Toronto (YYZ),Chartright Air (C-GFGC),Landed 09:57,2021-06-08
+29,29,10:06 WS4047,,Fort MacKay (YFI),WestJet B737 (C-GWBJ),Landed 10:03,2021-06-08
+30,30,10:15 AC8400,,Kelowna (YLW),Air Canada Express DH8D (C-GGFP),Landed 09:50,2021-06-08
+31,31,10:16,AC8476,Grande Prairie (YQU),Air Canada Express DH8D (C-GJZG),Landed 10:00,2021-06-08
+32,32,10:23 AC319,,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 10:14,2021-06-08
+33,33,10:35 AC204,,Vancouver (YVR),Air Canada B38M (C-FSEQ),Landed 10:34,2021-06-08
+34,34,10:37 5T1701,,Fort MacKay (HZP),Canadian North B733 (C-GICN),Landed 10:21,2021-06-08
+35,35,10:40,F8821,Toronto (YYZ),Flair Airlines B738 (C-FFLJ),Landed 10:36,2021-06-08
+36,36,11:02 AC8151,,Edmonton (YEG),Air Canada Express DH8D (C-GBJZ),Landed 10:50,2021-06-08
+37,37,11:14 WS651,,Toronto (YYZ),WestJet B737 (C-GWAZ),Landed 10:48,2021-06-08
+38,38,11:45 CWA922,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUF),Landed 10:58,2021-06-08
+39,39,12:04,AA4291,Dallas (DFW),American Eagle E75L (N212NN),Landed 12:13,2021-06-08
+40,40,12:10 AC139,,Toronto (YYZ),Air Canada B38M (C-GEHY),Landed 12:01,2021-06-08
+41,41,12:20 WS3022,,Cranbrook (YXC),WestJet Link SF34 (C-GPCJ),Landed 12:10,2021-06-08
+42,42,12:39 9M8438,,Prince George (YXS),Central Mountain Air D328,Landed 17:05,2021-06-08
+43,43,12:54 WS3392,,Kelowna (YLW),WestJet DH8D (C-FHEN),Landed 13:00,2021-06-08
+44,44,13:28 WS3314,,Kamloops (YKA),WestJet DH8D (C-FJWE),Landed 13:09,2021-06-08
+45,45,13:36 CRN301,,Kelowna (YLW),Aerocaribbean SW4,Landed 13:34,2021-06-08
+46,46,13:42 WS3188,,Grande Prairie (YQU),WestJet DH8D (C-GENO),Landed 13:23,2021-06-08
+47,47,13:44,UA5388,Denver (DEN),United Express CRJ7 (N786SK),Landed 13:40,2021-06-08
+48,48,13:59 WS3116,,Victoria (YYJ),WestJet DH8D (C-GENK),Landed 13:39,2021-06-08
+49,49,14:00 W8301,,Hamilton (YHM),CargoJet Airways B763 (C-GCIJ),Landed 13:35,2021-06-08
+50,50,14:04 WS3100,,Fort St. John (YXJ),WestJet DH8D (C-GWEP),Landed 13:56,2021-06-08
+51,51,14:05 WS3136,,Fort McMurray (YMM),WestJet DH8D (C-GWUE),Landed 13:42,2021-06-08
+52,52,14:06 WS3172,,Comox (YQQ),WestJet DH8D (C-GWEF),Landed 13:46,2021-06-08
+53,53,14:09 WS3350,,Edmonton (YEG),WestJet DH8D (C-GEWR),Landed 13:44,2021-06-08
+54,54,14:10 WS3369,,Saskatoon (YXE),WestJet DH8D (C-GVEN),Landed 13:50,2021-06-08
+55,55,14:11 WS3291,,Regina (YQR),WestJet DH8D (C-FUWE),Landed 14:03,2021-06-08
+56,56,14:19 WS3228,,Nanaimo (YCD),WestJet DH8D (C-FQWE),Landed 13:59,2021-06-08
+57,57,14:20 MAL7090,,Toronto (YYZ),FedEx B752 (N976FD),Landed 14:14,2021-06-08
+58,58,14:25 WS269,,Winnipeg (YWG),WestJet B737 (C-GWSQ),Landed 14:19,2021-06-08
+59,59,15:06 5T1603,,Fort MacKay (YFI),Canadian North (CFL Livery) B733 (C-GCNO),Landed 14:56,2021-06-08
+60,60,15:41 CNK44,,Conklin (CFM),Sunwest Aviation DH8C (C-GBOS),Unknown,2021-06-08
+61,61,15:50,AC214,Vancouver (YVR),Air Canada B38M (C-FSIP),Landed 15:54,2021-06-08
+62,62,16:01 CNK22,,Conklin (CFM),Sunwest Aviation DH8B (C-GYUP),Landed 15:36,2021-06-08
+63,63,16:06 WS4027,,Fort MacKay (YFI),WestJet B737 (C-GWJG),Landed 15:57,2021-06-08
+64,64,16:10 AC147,,Toronto (YYZ),Air Canada B38M (C-FSNU),Landed 16:17,2021-06-08
+65,65,16:28 CNK215,,Edmonton (YEG),Sunwest Aviation B190,Unknown,2021-06-08
+66,66,16:42 AC8141,,Edmonton (YEG),Air Canada Express DH8D (C-GJZG),Landed 16:30,2021-06-08
+67,67,16:45 AC8402,,Kelowna (YLW),Air Canada Express CRJ9 (C-FBJZ),Landed 16:12,2021-06-08
+68,68,17:10,WS665,Toronto (YYZ),WestJet B738 (C-FXMS),Landed 16:57,2021-06-08
+69,69,17:13 5T1721,,Edmonton (YEG),Canadian North B733 (C-GICN),Landed 17:08,2021-06-08
+70,70,17:22,WS118,Vancouver (YVR),WestJet B738 (C-GJWS),Landed 17:11,2021-06-08
+71,71,17:25 WS9931,,Saskatoon (YXE),WestJet B737 (C-GWCN),Landed 17:04,2021-06-08
+72,72,17:29 CNK297,,Whitecourt (YZU),Sunwest Aviation BE20,Landed 13:59,2021-06-08
+73,73,17:43 NCB211T,,Lethbridge (YQL),Private owner B505 (C-GNCU),Landed 17:41,2021-06-08
+74,74,17:49 CRN7064,,Kamloops (YKA),Aerocaribbean SW4,Landed 17:24,2021-06-08
+75,75,17:54,WS3352,Edmonton (YEG),WestJet DH8D (C-GPWE),Landed 17:38,2021-06-08
+76,76,17:56 W8920,,Edmonton (YEG),Cargojet Airways B762 (C-FOIJ),Landed 17:51,2021-06-08
+77,77,17:57 WS533,,Hamilton (YHM),WestJet B737 (C-GYWJ),Landed 17:57,2021-06-08
+78,78,18:14 CRN7081,,Kelowna (YLW),Aerocaribbean SW4,Landed 18:18,2021-06-08
+79,79,18:14 MAL7059,,Regina (YQR),FedEx AT72 (C-FTMN),Landed 18:09,2021-06-08
+80,80,18:23 MAL7067,,Saskatoon (YXE),FedEx AT72 (C-FTAR),Landed 18:06,2021-06-08
+81,81,18:31 SYN821,,Fort McMurray (YMM),Syncrude Canada C560,Landed 18:07,2021-06-08
+82,82,18:36 AC8372,,Fort McMurray (YMM),Air Canada Express DH8D (C-GGCI),Landed 18:26,2021-06-08
+83,83,18:44 CNK33,,Fort MacKay (YFI),Sunwest Aviation B190 (C-GSLX),Landed 19:05,2021-06-08
+84,84,18:48,WS388,Fort McMurray (YMM),WestJet B737 (C-GWBJ),Landed 18:34,2021-06-08
+85,85,18:54 WS3344,,Kelowna (YLW),WestJet DH8D (C-FUWE),Landed 18:43,2021-06-08
+86,86,18:58 NCB1503,,Terrace (YXT),North Cariboo Air RJ1H (C-FSUA),Landed 18:46,2021-06-08
+87,87,19:21,WS122,Vancouver (YVR),WestJet B738 (C-GKWJ),Landed 19:09,2021-06-08
+88,88,19:22 WS4077,,Fort MacKay (YFI),WestJet DH8D (C-GVEN),Landed 19:17,2021-06-08
+89,89,20:11 CWA927,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUL),Landed 19:49,2021-06-08
+90,90,20:15 AC220,,Vancouver (YVR),Air Canada B38M (C-FSDW),Landed 20:03,2021-06-08
+91,91,20:21,DL4051,Minneapolis (MSP),Delta Connection CRJ9 (N839SK),Landed 20:33,2021-06-08
+92,92,20:21,WS124,Vancouver (YVR),WestJet B38M (C-FNWD),Landed 20:10,2021-06-08
+93,93,20:26,WS671,Toronto (YYZ),WestJet B38M (C-GAMQ),Landed 20:17,2021-06-08
+94,94,21:08 AC398,,Fort McMurray (YMM),Air Canada A321 (C-GJWI),Landed 20:49,2021-06-08
+95,95,21:19 CNK44,,Bonnyville (YBY),Sunwest Aviation DH8C (C-GFCD),Landed 21:14,2021-06-08
+96,96,21:23 5T1743,,Fort MacKay (HZP),Canadian North B733 (C-GICN),Landed 21:24,2021-06-08
+97,97,21:24 5T1741,,Fort MacKay (HZP),Canadian North B733 (C-GCNW),Landed 21:42,2021-06-08
+98,98,21:36 WS4043,,Fort MacKay (YFI),WestJet B737 (C-GWJG),Landed 21:32,2021-06-08
+99,99,21:51 WS4035,,Fort MacKay (YFI),WestJet B737 (C-GWSQ),Landed 21:38,2021-06-08
+100,100,21:54,AA3721,Dallas (DFW),American Eagle E75L (N300LK),Landed 21:52,2021-06-08
+101,101,22:00,AC323,Montreal (YUL),Air Canada BCS3 (C-GMZR),Landed 21:44,2021-06-08
+102,102,22:15,AC224,Vancouver (YVR),Air Canada B38M (C-FSIP),Landed 22:13,2021-06-08
+103,103,22:25 W8572,,Vancouver (YVR),Cargojet Airways B763 (C-GAJG),Landed 21:59,2021-06-08
+104,104,22:55,AC157,Toronto (YYZ),Air Canada BCS3 (C-GNGV),Landed 23:07,2021-06-08
+105,105,23:41,WS677,Toronto (YYZ),WestJet B737 (C-GWAZ),Landed 23:41,2021-06-08
+0,0,12:43 AM SLQ7824,,Vancouver (YVR),SkyLink Express B190,Landed 12:18 AM,2021-06-09
+1,1,3:14 AM MAL7949,,Winnipeg (YWG),FedEx B752 (C-FMEK),Landed 3:02 AM,2021-06-09
+2,2,3:20 AM W8583,,Hamilton (YHM),Cargojet Airways B762 (C-FGAJ),Landed 3:07 AM,2021-06-09
+3,3,3:25 AM MAL7051,,Toronto (YYZ),FedEx B752 (N978FD),Landed 2:59 AM,2021-06-09
+4,4,4:10 AM W8571,,Winnipeg (YWG),Cargojet Airways B763 (C-GXAJ),Landed 5:31 AM,2021-06-09
+5,5,6:56 AM FX140,,Memphis (MEM),FedEx B763 (N115FE),Landed 7:42 AM,2021-06-09
+6,6,7:14 AM 5X492,,Sioux Falls (FSD),UPS B763 (N367UP),Landed 7:33 AM,2021-06-09
+7,7,7:22 AM,WS3178,Grande Prairie (YQU),WestJet DH8D (C-GWUE),Landed 7:06 AM,2021-06-09
+8,8,7:54 AM W8919,,Cincinnati (CVG),Cargojet Airways B762 (C-FOIJ),Landed 7:50 AM,2021-06-09
+9,9,8:03 AM MAL8066,,Saskatoon (YXE),FedEx AT72 (C-FTMN),Landed 7:36 AM,2021-06-09
+10,10,8:13 AM WS3160,,Kelowna (YLW),WestJet DH8D (C-GPWE),Landed 8:04 AM,2021-06-09
+11,11,8:19 AM WS242,,Edmonton (YEG),WestJet B737 (C-FKIW),Landed 8:06 AM,2021-06-09
+12,12,8:21 AM WS3144,,Fort McMurray (YMM),WestJet DH8D (C-GENK),Landed 8:06 AM,2021-06-09
+13,13,8:29 AM,WS3378,Abbotsford (YXX),WestJet DH8D (C-FJWE),Landed 8:00 AM,2021-06-09
+14,14,8:29 AM WS3301,,Regina (YQR),WestJet DH8D (C-GWEN),Landed 8:22 AM,2021-06-09
+15,15,8:31 AM MAL8058,,Regina (YQR),FedEx AT72 (C-FTAR),Landed 8:12 AM,2021-06-09
+16,16,8:33 AM CNK302,,Winnipeg (YWG),Sunwest Aviation SW4 (C-GSAF),Unknown,2021-06-09
+17,17,8:39 AM WS3170,,Victoria (YYJ),WestJet DH8D (C-FUWE),Landed 8:22 AM,2021-06-09
+18,18,8:40 AM WS100,,Vancouver (YVR),WestJet B38M (C-GDDR),Landed 8:34 AM,2021-06-09
+19,19,8:42 AM WS653,,Toronto (YYZ),WestJet B38M (C-GEHF),Landed 8:25 AM,2021-06-09
+20,20,8:42 AM WS3117,,Saskatoon (YXE),WestJet DH8D (C-GVEN),Landed 8:15 AM,2021-06-09
+21,21,8:42 AM WS3210,,Comox (YQQ),WestJet DH8D (C-FHEN),Landed 8:29 AM,2021-06-09
+22,22,8:43 AM WS3308,,Fort St. John (YXJ),WestJet DH8D (C-GWEF),Landed 8:19 AM,2021-06-09
+23,23,9:39 AM 5T1705,,Fort MacKay (HZP),Canadian North B733 (C-GCNW),Landed 9:27 AM,2021-06-09
+24,24,9:54 AM QK7190,,Calgary (YYC),Jazz Aviation DH8C,Unknown,2021-06-09
+25,25,9:55 AM AC2272,,Edmonton (YEG),Air Canada Express CRJ9 (C-GJNZ),Landed 9:42 AM,2021-06-09
+26,26,10:00 AM AC135,,Toronto (YYZ),Air Canada B788 (C-GHPY),Landed 9:41 AM,2021-06-09
+27,27,10:01 AM,AC8370,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZH),Landed 9:53 AM,2021-06-09
+28,28,10:02 AM AC8133,,Edmonton (YEG),Air Canada Express DH8D (C-GJZG),Landed 9:45 AM,2021-06-09
+29,29,10:06 AM WS4021,,Fort MacKay (YFI),WestJet B738 (C-FXMS),Landed 9:54 AM,2021-06-09
+30,30,10:23 AM AC319,,Montreal (YUL),Air Canada A333 (C-GEFA),Landed 10:04 AM,2021-06-09
+31,31,10:35 AM AC204,,Vancouver (YVR),Air Canada B38M (C-GEHY),Landed 10:28 AM,2021-06-09
+32,32,10:39 AM 5T1701,,Fort MacKay (HZP),Canadian North (CFL Livery) B733 (C-GCNO),Landed 10:16 AM,2021-06-09
+33,33,11:14 AM WS651,,Toronto (YYZ),WestJet B737 (C-FMWJ),Landed 10:53 AM,2021-06-09
+34,34,12:01 PM WS3003,,Lethbridge (YQL),WestJet Link SF34 (C-GPCJ),Unknown,2021-06-09
+35,35,12:04 PM,AA4291,Dallas (DFW),American Eagle E75L (N264NN),Landed 11:35 AM,2021-06-09
+36,36,12:05 PM HRT101,,Toronto (YYZ),Chartright Air C56X (C-FCGF),Unknown,2021-06-09
+37,37,12:10 PM AC139,,Toronto (YYZ),Air Canada B38M (C-FSDW),Landed 11:47 AM,2021-06-09
+38,38,12:20 PM WS3022,,Cranbrook (YXC),WestJet Link SF34 (C-GPCI),Unknown,2021-06-09
+39,39,12:23 PM,WS108,Vancouver (YVR),WestJet B737 (C-GWBF),Landed 12:06 PM,2021-06-09
+40,40,12:35 PM NCB2405,,Edmonton (YEG),North Caribou Flying Service B190,Unknown,2021-06-09
+41,41,12:45 PM,WS188,Kelowna (YLW),WestJet B737 (C-GSWJ),Landed 12:38 PM,2021-06-09
+42,42,12:46 PM,,Cranbrook (YXC),- PAY2 (C-GMDF),Unknown,2021-06-09
+43,43,1:25 PM,KL677,Amsterdam (AMS),KLM B789 (PH-BHG),Landed 1:16 PM,2021-06-09
+44,44,1:28 PM,WS3314,Kamloops (YKA),WestJet DH8D (C-GWEN),Landed 1:09 PM,2021-06-09
+45,45,1:34 PM CRN301,,Kelowna (YLW),Aerocaribbean SW4,Unknown,2021-06-09
+46,46,1:42 PM,WS3188,Grande Prairie (YQU),WestJet DH8D (C-GENK),Landed 1:31 PM,2021-06-09
+47,47,1:44 PM,UA5388,Denver (DEN),United Express CRJ7 (N794SK),Landed 1:36 PM,2021-06-09
+48,48,1:59 PM,WS3116,Victoria (YYJ),WestJet DH8D (C-GENO),Landed 1:38 PM,2021-06-09
+49,49,2:00 PM W8301,,Hamilton (YHM),Cargojet Airways B763 (C-FMIJ),Landed 1:28 PM,2021-06-09
+50,50,2:04 PM,WS3100,Fort St. John (YXJ),WestJet DH8D (C-GVEN),Landed 1:44 PM,2021-06-09
+51,51,2:05 PM,WS3136,Fort McMurray (YMM),WestJet DH8D (C-FJWE),Landed 1:53 PM,2021-06-09
+52,52,2:06 PM,WS3172,Comox (YQQ),WestJet DH8D (C-FHEN),Unknown,2021-06-09
+53,53,2:09 PM,WS3350,Edmonton (YEG),WestJet DH8D (C-FQWE),Unknown,2021-06-09
+54,54,2:10 PM,WS3369,Saskatoon (YXE),WestJet DH8D (C-GWUE),Landed 1:48 PM,2021-06-09
+55,55,2:10 PM MAL7090,,Toronto (YYZ),FedEx B752 (N976FD),Landed 2:06 PM,2021-06-09
+56,56,2:11 PM,WS3291,Regina (YQR),WestJet DH8D (C-GPWE),Landed 1:55 PM,2021-06-09
+57,57,2:19 PM WS3228,,Nanaimo (YCD),WestJet DH8D (C-FUWE),Unknown,2021-06-09
+58,58,2:25 PM WS269,,Winnipeg (YWG),WestJet B737 (C-FKIW),Landed 2:52 PM,2021-06-09
+59,59,2:25 PM,WS659,Toronto (YYZ),WestJet B38M (C-FCTK),Landed 1:59 PM,2021-06-09
+60,60,3:30 PM WS8958,,Marana (MZJ),WestJet B38M (C-FRAX),Landed 3:18 PM,2021-06-09
+61,61,3:44 PM CNK381,,Edmonton (YEG),Sunwest Aviation B350,Unknown,2021-06-09
+62,62,3:50 PM,AC214,Vancouver (YVR),Air Canada B38M (C-FSOI),Landed 3:59 PM,2021-06-09
+63,63,3:52 PM TSH1201,,Prince Rupert (YPR),- DH8A (C-GWRI),Unknown,2021-06-09
+64,64,3:56 PM CNK44,,Conklin (CFM),Sunwest Aviation DH3,Unknown,2021-06-09
+65,65,4:10 PM,AC147,Toronto (YYZ),Air Canada B38M (C-FSNU),Landed 3:50 PM,2021-06-09
+66,66,4:15 PM CNK33,,Edmonton (YEG),Sunwest Aviation B190,Unknown,2021-06-09
+67,67,4:23 PM 9M9476,,Edmonton (YEG),Central Mountain Air D328,Unknown,2021-06-09
+68,68,4:26 PM CNK215,,Edmonton (YEG),Sunwest Aviation B190 (C-GSWZ),Landed 4:36 PM,2021-06-09
+69,69,4:42 PM AC8141,,Edmonton (YEG),Air Canada Express DH8D (C-GJZG),Unknown,2021-06-09
+70,70,4:43 PM CWA927,,Medicine Hat (YXH),CanWest Air BE20,Unknown,2021-06-09
+71,71,4:45 PM AC8402,,Kelowna (YLW),Air Canada Express CRJ9 (C-FIJZ),Landed 4:18 PM,2021-06-09
+72,72,5:19 PM CNK297,,Fort St. John (YXJ),Sunwest Aviation BE20,Unknown,2021-06-09
+73,73,5:21 PM CRN7064,,Kamloops (YKA),Aerocaribbean SW4,Unknown,2021-06-09
+74,74,5:47 PM NCB211T,,Lethbridge (YQL),Private owner B505 (C-GNCU),Landed 5:48 PM,2021-06-09
+75,75,5:54 PM WS3352,,Edmonton (YEG),WestJet DH8D (C-FSWE),Landed 5:38 PM,2021-06-09
+76,76,6:03 PM W8920,,Edmonton (YEG),Cargojet Airways B762 (C-FHCJ),Landed 5:44 PM,2021-06-09
+77,77,6:10 PM MAL7059,,Regina (YQR),Morningstar Air Express AT72,Unknown,2021-06-09
+78,78,6:23 PM MAL7067,,Saskatoon (YXE),FedEx AT72 (C-FTMN),Landed 6:20 PM,2021-06-09
+79,79,6:25 PM CRN7081,,Kelowna (YLW),Aerocaribbean SW4,Unknown,2021-06-09
+80,80,6:36 PM AC8372,,Fort McMurray (YMM),Air Canada Express DH8D (C-GGCI),Unknown,2021-06-09
+81,81,6:44 PM WS3249,,Saskatoon (YXE),WestJet DH8D (C-FUWE),Landed 6:21 PM,2021-06-09
+82,82,6:46 PM CWA922,,Lethbridge (YQL),CanWest Air BE20,Unknown,2021-06-09
+83,83,6:54 PM WS3344,,Kelowna (YLW),WestJet DH8D (C-FQWE),Landed 6:35 PM,2021-06-09
+84,84,6:54 PM 5T1723,,Fort MacKay (HZP),Canadian North (CFL Livery) B733 (C-GCNO),Landed 6:44 PM,2021-06-09
+85,85,6:58 PM NCB1503,,Terrace (YXT),North Cariboo Air RJ1H (C-FSUA),Landed 6:49 PM,2021-06-09
+86,86,7:06 PM WS3158,,Fort McMurray (YMM),WestJet DH8D (C-FHEN),Landed 6:53 PM,2021-06-09
+87,87,7:15 PM 4N761,,Whitehorse (YXY),Air North B735 (C-GANU),Landed 7:25 PM,2021-06-09
+88,88,7:20 PM SYN821,,Edmonton (YEG),Syncrude Canada C560,Unknown,2021-06-09
+89,89,7:21 PM,WS122,Vancouver (YVR),WestJet B737 (C-FKIW),Landed 7:04 PM,2021-06-09
+90,90,7:22 PM,WS613,Ottawa (YOW),WestJet B38M (C-GDDR),Landed 7:02 PM,2021-06-09
+91,91,7:36 PM WS217,,Montreal (YUL),WestJet B737 (C-GWSQ),Landed 7:29 PM,2021-06-09
+92,92,7:40 PM WS3112,,Victoria (YYJ),WestJet DH8D (C-GPWE),Landed 7:16 PM,2021-06-09
+93,93,8:04 PM,WS671,Toronto (YYZ),WestJet B789 (C-GKKN),Landed 7:46 PM,2021-06-09
+94,94,8:15 PM,AC220,Vancouver (YVR),Air Canada B38M (C-FSDW),Landed 8:01 PM,2021-06-09
+95,95,8:21 PM,DL4051,Minneapolis (MSP),Delta Connection CRJ9 (N692CA),Unknown,2021-06-09
+96,96,8:21 PM,WS124,Vancouver (YVR),WestJet B738 (C-GWWJ),Landed 8:13 PM,2021-06-09
+97,97,8:33 PM WS231,,Halifax (YHZ),WestJet B737 (C-GYWJ),Landed 8:38 PM,2021-06-09
+98,98,9:08 PM AC398,,Fort McMurray (YMM),Air Canada A321 (C-GJWI),Unknown,2021-06-09
+99,99,9:20 PM MAL7062,,Vancouver (YVR),FedEx B752 (C-FMEU),Landed 9:05 PM,2021-06-09
+100,100,9:24 PM 5T1741,,Fort MacKay (HZP),Canadian North B733 (C-GCNW),Landed 9:10 PM,2021-06-09
+101,101,9:36 PM WS4039,,Fort MacKay (YFI),WestJet B737 (C-GWJG),Landed 9:36 PM,2021-06-09
+102,102,9:37 PM CNK381,,Fort St. John (YXJ),Sunwest Aviation B350,Unknown,2021-06-09
+103,103,9:46 PM MAL8079,,Vancouver (YVR),FedEx B752 (N976FD),Landed 9:32 PM,2021-06-09
+104,104,9:51 PM WS4041,,Fort MacKay (YFI),WestJet B737 (C-GWBF),Landed 9:48 PM,2021-06-09
+105,105,9:54 PM,AA3721,Dallas (DFW),American Eagle E75L (N258NN),Landed 9:41 PM,2021-06-09
+106,106,10:00 PM,AC323,Montreal (YUL),Air Canada BCS3 (C-GTZH),Landed 9:59 PM,2021-06-09
+107,107,10:15 PM,AC224,Vancouver (YVR),Air Canada B38M (C-FSDB),Landed 10:09 PM,2021-06-09
+108,108,10:25 PM W8572,,Vancouver (YVR),Cargojet Airways B763 (C-FMIJ),Landed 10:38 PM,2021-06-09
+109,109,10:55 PM,AC157,Toronto (YYZ),Air Canada (Trans-Canada Air Lines Livery) BCS3 (C-GNBN),Landed 10:41 PM,2021-06-09
+0,0,00:43 SLQ7824,,Vancouver (YVR),SkyLink Express B190,Unknown,2021-06-10
+1,1,02:05,CX95,New York (JFK),Cathay Pacific 74N,Unknown,2021-06-10
+2,2,03:00 W8583,,Hamilton (YHM),Cargojet Airways B762 (C-FOIJ),Landed 03:23,2021-06-10
+3,3,03:01 MAL7051,,Toronto (YYZ),FedEx B752 (N978FD),Landed 02:54,2021-06-10
+4,4,03:25 MAL7949,,Winnipeg (YWG),FedEx B752 (C-FMAI),Landed 03:17,2021-06-10
+5,5,04:10 W8571,,Winnipeg (YWG),Cargojet Airways B763 (C-FDIJ),Landed 04:01,2021-06-10
+6,6,06:40 FX140,,Memphis (MEM),FedEx B763 (N179FE),Landed 06:55,2021-06-10
+7,7,07:14 5X492,,Sioux Falls (FSD),UPS B763 (N351UP),Landed 08:00,2021-06-10
+8,8,07:22,WS3178,Grande Prairie (YQU),WestJet DH8D (C-GENO),Landed 07:36,2021-06-10
+9,9,07:42 W8919,,Cincinnati (CVG),Cargojet Airways B762 (C-FHCJ),Landed 07:17,2021-06-10
+10,10,08:03 MAL8066,,Saskatoon (YXE),FedEx AT72 (C-FTMN),Landed 07:47,2021-06-10
+11,11,08:13 WS3160,,Kelowna (YLW),WestJet DH8D (C-FQWE),Landed 07:58,2021-06-10
+12,12,08:19,WS242,Edmonton (YEG),WestJet B737 (C-GWBJ),Landed 08:14,2021-06-10
+13,13,08:21,WS3144,Fort McMurray (YMM),WestJet DH8D (C-FHEN),Landed 08:16,2021-06-10
+14,14,08:29,WS3378,Abbotsford (YXX),WestJet DH8D (C-GVEN),Landed 08:03,2021-06-10
+15,15,08:29 WS3301,,Regina (YQR),WestJet DH8D (C-FUWE),Landed 08:18,2021-06-10
+16,16,08:30 CNK302,,Winnipeg (YWG),Sunwest Aviation SW4 (C-GSAF),Landed 08:37,2021-06-10
+17,17,08:31 MAL8058,,Regina (YQR),FedEx AT72 (C-FVDO),Landed 08:31,2021-06-10
+18,18,08:40 WS100,,Vancouver (YVR),WestJet B737 (C-GCWJ),Landed 08:29,2021-06-10
+19,19,08:42 WS653,,Toronto (YYZ),WestJet B737 (C-GWSP),Landed 08:24,2021-06-10
+20,20,08:42 WS3117,,Saskatoon (YXE),WestJet DH8D (C-GPWE),Landed 08:27,2021-06-10
+21,21,08:42 WS3210,,Comox (YQQ),WestJet DH8D (C-FJWE),Landed 08:16,2021-06-10
+22,22,09:18 CWA922,,Lethbridge (YQL),CanWest Air BE20,Unknown,2021-06-10
+23,23,09:52,,Peace River (YPE),- BE20,Unknown,2021-06-10
+24,24,10:00,AC135,Toronto (YYZ),Air Canada B788 (C-GHPV),Landed 09:31,2021-06-10
+25,25,10:01 WS4021,,Fort MacKay (YFI),WestJet B737 (C-GWJG),Landed 09:51,2021-06-10
+26,26,10:01,AC8370,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZG),Unknown,2021-06-10
+27,27,10:02 AC8133,,Edmonton (YEG),Air Canada Express DH8D (C-GJZH),Landed 10:03,2021-06-10
+28,28,10:15 AC8400,,Kelowna (YLW),Air Canada Express DH8D (C-GBJZ),Landed 09:49,2021-06-10
+29,29,10:16,AC8476,Grande Prairie (YQU),Air Canada Express DH8D (C-GGNY),Landed 10:08,2021-06-10
+30,30,10:23,AC319,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 10:19,2021-06-10
+31,31,10:35 AC204,,Vancouver (YVR),Air Canada B38M (C-FSOC),Landed 10:21,2021-06-10
+32,32,10:38 5T1701,,Fort MacKay (HZP),Canadian North (CFL Livery) B733 (C-GCNO),Landed 10:09,2021-06-10
+33,33,10:53,,Winnipeg (YWG),- PC12 (C-FPNG),Landed 11:35,2021-06-10
+34,34,11:14 WS651,,Toronto (YYZ),WestJet B38M (C-FRYV),Landed 10:49,2021-06-10
+35,35,11:25,F8813,Waterloo (YKF),Flair Airlines B738 (C-FFLA),Landed 11:08,2021-06-10
+36,36,11:33,,Saskatoon (YXE),- P46T (C-FJAI),Landed 11:39,2021-06-10
+37,37,12:04,AA4291,Dallas (DFW),American Eagle E75L (N222NS),Landed 11:53,2021-06-10
+38,38,12:10,AC139,Toronto (YYZ),Air Canada BCS3 (C-GJXW),Landed 11:43,2021-06-10
+39,39,12:20 WS3022,,Cranbrook (YXC),WestJet Link SF34 (C-GPCJ),Landed 12:10,2021-06-10
+40,40,12:23,WS108,Vancouver (YVR),WestJet B737 (C-GWAZ),Landed 12:09,2021-06-10
+41,41,12:50,WS3280,Penticton (YYF),WestJet DH8D (C-FUWE),Unknown,2021-06-10
+42,42,12:54,WS3392,Kelowna (YLW),WestJet DH8D (C-GPWE),Landed 12:38,2021-06-10
+43,43,13:25,KL677,Amsterdam (AMS),KLM B789 (PH-BHM),Landed 13:22,2021-06-10
+44,44,13:28,WS3314,Kamloops (YKA),WestJet DH8D (C-FHEN),Landed 13:08,2021-06-10
+45,45,13:44,UA5388,Denver (DEN),United Express CRJ7 (N783SK),Landed 14:58,2021-06-10
+46,46,13:48,,Kalispell (FCA),- BE20,Landed 13:22,2021-06-10
+47,47,13:59,WS3116,Victoria (YYJ),WestJet DH8D (C-FSWE),Landed 13:58,2021-06-10
+48,48,14:00 W8301,,Hamilton (YHM),Cargojet Airways B763 (C-GUAJ),Landed 13:36,2021-06-10
+49,49,14:04,WS3100,Fort St. John (YXJ),WestJet DH8D (C-FQWE),Landed 13:55,2021-06-10
+50,50,14:05,WS3136,Fort McMurray (YMM),WestJet DH8D (C-GWEN),Landed 13:55,2021-06-10
+51,51,14:06,WS3172,Comox (YQQ),WestJet DH8D (C-GENV),Landed 13:51,2021-06-10
+52,52,14:09,WS3350,Edmonton (YEG),WestJet DH8D (C-GLWJ),Landed 13:54,2021-06-10
+53,53,14:10,WS3369,Saskatoon (YXE),WestJet DH8D (C-FWEZ),Canceled,2021-06-10
+54,54,14:10 MAL7090,,Toronto (YYZ),FedEx B752 (C-FMEP),Landed 14:01,2021-06-10
+55,55,14:11,WS3291,Regina (YQR),WestJet DH8D (C-GENO),Landed 13:58,2021-06-10
+56,56,14:19 WS3228,,Nanaimo (YCD),WestJet DH8D (C-GVEN),Landed 14:10,2021-06-10
+57,57,14:25,WS269,Winnipeg (YWG),WestJet B38M (C-FNWD),Landed 14:14,2021-06-10
+58,58,14:25 WS659,,Toronto (YYZ),WestJet B737 (C-GVWJ),Landed 14:02,2021-06-10
+59,59,15:06 NCB2026,,Fort St. John (YXJ),North Caribou Flying Service BE20,Landed 15:24,2021-06-10
+60,60,15:50,AC214,Vancouver (YVR),Air Canada B38M (C-FSOI),Landed 15:40,2021-06-10
+61,61,15:56 CNK66,,Conklin (CFM),Sunwest Aviation DH3,Landed 15:40,2021-06-10
+62,62,16:00,F8814,Vancouver (YVR),Flair Airlines B738 (C-FFLA),Landed 15:49,2021-06-10
+63,63,16:10,AC147,Toronto (YYZ),Air Canada B38M (C-FSES),Landed 15:57,2021-06-10
+64,64,16:24 WS3162,,Kelowna (YLW),WestJet DH8D (C-FUWE),Landed 16:13,2021-06-10
+65,65,16:24 CNK215,,Edmonton (YEG),Sunwest Aviation B190,Unknown,2021-06-10
+66,66,16:42 AC8141,,Edmonton (YEG),Air Canada Express DH8D (C-GGNY),Landed 16:33,2021-06-10
+67,67,16:45 AC8402,,Kelowna (YLW),Air Canada Express DH8D (C-GBJZ),Landed 16:19,2021-06-10
+68,68,17:17 CRN7064,,Kamloops (YKA),Aerocaribbean SW4,Landed 17:21,2021-06-10
+69,69,17:20 F83,,Seattle (BFI),Flair Airlines B38M (C-FLHI),Landed 17:18,2021-06-10
+70,70,17:25 9M9038,,Whitecourt (YZU),Central Mountain Air B190 (C-FCMN),Landed 16:58,2021-06-10
+71,71,17:52 NCB2807,,Edmonton (YEG),North Cariboo Air B190 (C-FNCL),Landed 17:36,2021-06-10
+72,72,17:54 WS3352,,Edmonton (YEG),WestJet DH8D (C-FNEN),Landed 17:35,2021-06-10
+73,73,17:57 CNK77,,Dawson Creek (YDQ),Sunwest Aviation B190 (C-GSWB),Landed 18:28,2021-06-10
+74,74,18:03 W8920,,Edmonton (YEG),Cargojet Airways B762 (C-FHCJ),Landed 17:40,2021-06-10
+75,75,18:05 WS557,,Waterloo (YKF),WestJet B737 (C-GCWJ),Landed 17:57,2021-06-10
+76,76,18:17 MAL7059,,Regina (YQR),Morningstar Air Express AT72,Landed 18:16,2021-06-10
+77,77,18:22 5T1723,,Fort MacKay (HZP),Canadian North (CFL Livery) B733 (C-GCNO),Landed 18:14,2021-06-10
+78,78,18:23 MAL7067,,Saskatoon (YXE),Morningstar Air Express AT72,Landed 18:24,2021-06-10
+79,79,18:29 CRN7081,,Kelowna (YLW),Aerocaribbean SW4,Landed 18:26,2021-06-10
+80,80,18:32 NCB211T,,Lethbridge (YQL),Private owner B505 (C-GNCU),Landed 18:25,2021-06-10
+81,81,18:33 NCB4099,,Edmonton (YEG),North Cariboo Air DH8C (C-FHNC),Landed 18:40,2021-06-10
+82,82,18:36 AC8372,,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZH),Landed 18:31,2021-06-10
+83,83,18:42 NCB2326,,Grande Prairie (YQU),North Caribou Flying Service BE20,Landed 18:43,2021-06-10
+84,84,18:44,WS3249,Saskatoon (YXE),WestJet DH8D (C-GWEN),Landed 18:29,2021-06-10
+85,85,18:51 WS4037,,Fort MacKay (YFI),WestJet B738 (C-FWJS),Landed 19:26,2021-06-10
+86,86,18:54 WS3344,,Kelowna (YLW),WestJet DH8D (C-GENV),Landed 18:44,2021-06-10
+87,87,19:05,,Havre (HVR),- PA34 (N4360P),Landed 19:00,2021-06-10
+88,88,19:21,WS122,Vancouver (YVR),WestJet B38M (C-FNWD),Landed 19:14,2021-06-10
+89,89,19:21 5T1731,,Fort MacKay (HZP),Canadian North B733 (C-FKCN),Landed 19:04,2021-06-10
+90,90,19:22,WS613,Ottawa (YOW),WestJet B38M (C-GAMQ),Landed 19:10,2021-06-10
+91,91,19:40 WS3112,,Victoria (YYJ),WestJet DH8D (C-FHEN),Landed 19:20,2021-06-10
+92,92,19:49 NCB2011,,Fort St. John (YXJ),North Cariboo Air RJ1H (C-FSUA),Landed 19:07,2021-06-10
+93,93,19:53 WS3336,,Comox (YQQ),WestJet DH8D (C-GPWE),Landed 19:29,2021-06-10
+94,94,20:04,WS671,Toronto (YYZ),WestJet B789 (C-GKKN),Landed 19:56,2021-06-10
+95,95,20:09,WS3140,Edmonton (YEG),WestJet DH8D (C-FUWE),Landed 20:01,2021-06-10
+96,96,20:15,AC220,Vancouver (YVR),Air Canada B38M (C-FSDB),Landed 20:16,2021-06-10
+97,97,20:21,DL4051,Minneapolis (MSP),Delta Connection CRJ9 (N809SK),Landed 20:17,2021-06-10
+98,98,20:21,WS124,Vancouver (YVR),WestJet B737 (C-GWBF),Landed 20:07,2021-06-10
+99,99,20:33 WS231,,Halifax (YHZ),WestJet B737 (C-GYWJ),Landed 20:37,2021-06-10
+100,100,21:20 MAL7062,,Vancouver (YVR),FedEx B752 (C-FMAI),Landed 21:05,2021-06-10
+101,101,21:21 AC8376,,Fort McMurray (YMM),Air Canada Express DH8D (C-GGCI),Landed 21:13,2021-06-10
+102,102,21:37 CNK381,,Fort St. John (YXJ),Sunwest Aviation B350 (C-FAFF),Landed 20:41,2021-06-10
+103,103,21:54,AA3721,Dallas (DFW),American Eagle E75L (N224NN),Landed 21:45,2021-06-10
+104,104,22:00,AC323,Montreal (YUL),Air Canada A320 (C-FZQS),Landed 21:55,2021-06-10
+105,105,22:06 WS4029,,Fort MacKay (YFI),WestJet B737 (C-GWJG),Landed 21:48,2021-06-10
+106,106,22:12 5T1749,,Edmonton (YEG),Canadian North B733 (C-GCNW),Landed 22:08,2021-06-10
+107,107,22:13 CWA927,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUL),Landed 22:14,2021-06-10
+108,108,22:15,AC224,Vancouver (YVR),Air Canada B38M (C-FSOI),Landed 22:03,2021-06-10
+109,109,22:23 CWA922,,Red Deer (YQF),CanWest Air BE20,Landed 22:27,2021-06-10
+110,110,22:25 W8572,,Vancouver (YVR),Cargojet Airways B763 (C-GUAJ),Landed 22:05,2021-06-10
+111,111,22:55,AC157,Toronto (YYZ),Air Canada BCS3 (C-GNAM),Landed 23:16,2021-06-10
+112,112,23:41 WS677,,Toronto (YYZ),WestJet B38M (C-GCAM),Landed 23:13,2021-06-10
+0,0,00:44 SLQ7824,,Vancouver (YVR),SkyLink Express B190,Landed 00:09,2021-06-11
+1,1,02:46 CWA927,,Medicine Hat (YXH),CanWest Air BE20,Landed 02:26,2021-06-11
+2,2,03:25 MAL7051,,Toronto (YYZ),FedEx B752 (N976FD),Landed 02:59,2021-06-11
+3,3,03:33 MAL7949,,Winnipeg (YWG),FedEx B752 (C-FMFG),Landed 03:19,2021-06-11
+4,4,04:10 W8571,,Winnipeg (YWG),Cargojet Airways B763 (C-FCCJ),Landed 04:43,2021-06-11
+5,5,06:40 MAL7068,,Edmonton (YEG),FedEx B752 (N978FD),Landed 06:27,2021-06-11
+6,6,06:45 FX140,,Memphis (MEM),FedEx B763 (N173FE),Landed 06:44,2021-06-11
+7,7,07:08,,Chetwynd (YCQ),- C425 (C-GVCI),Landed 07:18,2021-06-11
+8,8,07:14 5X492,,Sioux Falls (FSD),UPS Airlines B763 (N368UP),Landed 09:38,2021-06-11
+9,9,07:22,WS3178,Grande Prairie (YQU),WestJet DH8D (C-FHEN),Landed 07:27,2021-06-11
+10,10,07:56 W8919,,Cincinnati (CVG),Cargojet Airways B752 (C-GVAJ),Unknown,2021-06-11
+11,11,08:03 MAL8066,,Saskatoon (YXE),FedEx AT72 (C-FTMN),Unknown,2021-06-11
+12,12,08:13,WS3160,Kelowna (YLW),WestJet DH8D (C-GENM),Landed 07:59,2021-06-11
+13,13,08:19,WS242,Edmonton (YEG),WestJet B737 (C-GWSQ),Landed 08:09,2021-06-11
+14,14,08:21,WS3144,Fort McMurray (YMM),WestJet DH8D (C-GVEN),Landed 13:21,2021-06-11
+15,15,08:25 CNK302,,Winnipeg (YWG),Sunwest Aviation SW4 (C-GSAF),Landed 00:30,2021-06-11
+16,16,08:26,WS271,Winnipeg (YWG),WestJet B737 (C-GWBF),Landed 08:36,2021-06-11
+17,17,08:29,WS3301,Regina (YQR),WestJet DH8D (C-GENV),Landed 08:16,2021-06-11
+18,18,08:29,WS3378,Abbotsford (YXX),WestJet DH8D (C-FNEN),Landed 08:03,2021-06-11
+19,19,08:30 MAL8058,,Regina (YQR),FedEx AT72 (C-FVDO),Diverted to YQR,2021-06-11
+20,20,08:30 MAL8058,,Regina (YQR),FedEx AT72 (C-FVDO),Diverted to YQR,2021-06-11
+21,21,08:39,WS3170,Victoria (YYJ),WestJet DH8D (C-GLWJ),Landed 08:24,2021-06-11
+22,22,08:40 WS100,,Vancouver (YVR),WestJet B737 (C-GWSO),Landed 08:31,2021-06-11
+23,23,08:42 WS653,,Toronto (YYZ),WestJet B737 (C-GWSP),Landed 08:19,2021-06-11
+24,24,08:42 WS3117,,Saskatoon (YXE),WestJet DH8D (C-FQWE),Landed 08:21,2021-06-11
+25,25,09:35 CRN100T,,Calgary (YYC),CanWest Air BE20 (C-GLUF),Diverted to YQL,2021-06-11
+26,26,10:00,AC135,Toronto (YYZ),Air Canada B788 (C-GHPQ),Landed 09:56,2021-06-11
+27,27,10:01,AC8370,Fort McMurray (YMM),Air Canada Express DH8D (C-GBJZ),Landed 10:28,2021-06-11
+28,28,10:02 AC8133,,Edmonton (YEG),Air Canada Express DH8D (C-GJZG),Landed 10:04,2021-06-11
+29,29,10:15 AC8400,,Kelowna (YLW),Air Canada Express DH8D (C-GGNY),Landed 09:51,2021-06-11
+30,30,10:23 AC319,,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 10:07,2021-06-11
+31,31,10:35 AC204,,Vancouver (YVR),Air Canada B38M (C-FSEQ),Landed 10:33,2021-06-11
+32,32,10:57 CWA922,,Lethbridge (YQL),CanWest Air BE20 (C-GLUF),Landed 10:59,2021-06-11
+33,33,11:27 HRT623,,Vancouver (YVR),Chartright Air (C-GFGC),Landed 11:08,2021-06-11
+34,34,11:27 5T1407,,Edmonton (YEG),Canadian North (Celebrity Cruises Livery) B733 (C-GPNL),Landed 10:31,2021-06-11
+35,35,11:46,,Red Deer (YQF),- C425 (C-FKSB),Landed 11:41,2021-06-11
+36,36,12:01 WS3003,,Lethbridge (YQL),WestJet Link SF34 (C-GPCJ),Landed 11:50,2021-06-11
+37,37,12:04,AA4291,Dallas (DFW),American Eagle E75L (N217NN),Landed 11:43,2021-06-11
+38,38,12:10 AC139,,Toronto (YYZ),Air Canada (Trans-Canada Air Lines Livery) BCS3 (C-GNBN),Landed 12:07,2021-06-11
+39,39,12:20 WS3022,,Cranbrook (YXC),WestJet Link SF34 (C-GPCI),Landed 12:17,2021-06-11
+40,40,12:23,WS108,Vancouver (YVR),WestJet B738 (C-FWIJ),Landed 12:04,2021-06-11
+41,41,12:33 WS9507,,Mexico City (MEX),WestJet B738 (C-FXMS),Landed 12:36,2021-06-11
+42,42,12:45,WS188,Kelowna (YLW),WestJet B38M (C-GCAM),Landed 13:02,2021-06-11
+43,43,12:50,WS3280,Penticton (YYF),WestJet DH8D (C-FQWE),Unknown,2021-06-11
+44,44,13:25,KL677,Amsterdam (AMS),KLM B789 (PH-BHC),Landed 13:28,2021-06-11
+45,45,13:28,WS3314,Kamloops (YKA),WestJet DH8D (C-GENV),Landed 13:08,2021-06-11
+46,46,13:40,WS3100,Fort St. John (YXJ),WestJet DH8D (C-GEWR),Landed 13:51,2021-06-11
+47,47,13:40 WS8989,,Saskatoon (YXE),WestJet DH8D (C-FWEZ),Landed 13:14,2021-06-11
+48,48,13:42,WS3188,Grande Prairie (YQU),WestJet DH8D (C-FNEN),Landed 13:26,2021-06-11
+49,49,13:44,UA5388,Denver (DEN),United Express CRJ7 (N783SK),Landed 13:58,2021-06-11
+50,50,14:06,WS3172,Comox (YQQ),WestJet DH8D (C-FUWE),Landed 13:50,2021-06-11
+51,51,14:09 MAL7091,,Toronto (YYZ),FedEx B752 (C-FMEK),Landed 14:05,2021-06-11
+52,52,14:10,WS3369,Saskatoon (YXE),WestJet DH8D (C-GENM),Unknown,2021-06-11
+53,53,14:11,WS3291,Regina (YQR),WestJet DH8D (C-GENO),Landed 13:55,2021-06-11
+54,54,14:19 WS3228,,Nanaimo (YCD),WestJet DH8D (C-GLWJ),Landed 14:22,2021-06-11
+55,55,14:25 WS269,,Winnipeg (YWG),WestJet B737 (C-GWAZ),Landed 14:25,2021-06-11
+56,56,14:25 WS659,,Toronto (YYZ),WestJet B38M (C-GEHF),Landed 14:09,2021-06-11
+57,57,15:44 CNK297,,Thompson (YTH),Sunwest Aviation BE20,Landed 16:20,2021-06-11
+58,58,15:50,AC214,Vancouver (YVR),Air Canada B38M (C-FSNQ),Landed 15:43,2021-06-11
+59,59,16:10,AC147,Toronto (YYZ),Air Canada B38M (C-FSJJ),Landed 16:04,2021-06-11
+60,60,16:22 CNK77,,Edmonton (YEG),Sunwest Aviation B190,Canceled,2021-06-11
+61,61,16:22 CNK215,,Edmonton (YEG),Sunwest Aviation B190 (C-GSWZ),Unknown,2021-06-11
+62,62,16:24 WS3162,,Kelowna (YLW),WestJet DH8D (C-FJWE),Landed 16:07,2021-06-11
+63,63,16:42 AC8141,,Edmonton (YEG),Air Canada Express DH8D (C-GJZG),Landed 16:25,2021-06-11
+64,64,16:45 AC8402,,Kelowna (YLW),Air Canada Express DH8D (C-GGCI),Landed 16:20,2021-06-11
+65,65,16:45,F8821,Toronto (YYZ),Flair Airlines B738 (C-FFLC),Landed 16:41,2021-06-11
+66,66,17:05,WS3358,Yellowknife (YZF),WestJet DH8D (C-GWEP),Landed 17:06,2021-06-11
+67,67,17:10,WS665,Toronto (YYZ),WestJet B737 (C-GCWJ),Landed 17:03,2021-06-11
+68,68,17:12,WS1403,Phoenix (PHX),WestJet B38M (C-FNWD),Landed 17:06,2021-06-11
+69,69,17:15,WS1469,Palm Springs (PSP),WestJet B38M (C-GZSG),Landed 17:15,2021-06-11
+70,70,17:18 CRN7064,,Kamloops (YKA),Aerocaribbean SW4,Landed 17:22,2021-06-11
+71,71,17:22,WS118,Vancouver (YVR),WestJet B737 (C-GWSO),Landed 17:08,2021-06-11
+72,72,17:23 CWA927,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUL),Landed 17:20,2021-06-11
+73,73,17:54 WS3352,,Edmonton (YEG),WestJet DH8D (C-GPWE),Landed 17:35,2021-06-11
+74,74,18:03 W8920,,Edmonton (YEG),Cargojet Airways B763 (C-GYAJ),Landed 17:41,2021-06-11
+75,75,18:05 WS557,,Waterloo (YKF),WestJet B737 (C-GWSQ),Landed 17:39,2021-06-11
+76,76,18:09 CWA922,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUF),Landed 17:59,2021-06-11
+77,77,18:17 MAL7059,,Regina (YQR),Morningstar Air Express AT72,Landed 18:09,2021-06-11
+78,78,18:20 CRN7081,,Kelowna (YLW),Aerocaribbean SW4,Landed 18:24,2021-06-11
+79,79,18:20 NCB211T,,Lethbridge (YQL),Private owner B505 (C-GNCU),Landed 18:19,2021-06-11
+80,80,18:23 MAL7067,,Saskatoon (YXE),FedEx AT72 (C-FTMN),Landed 17:57,2021-06-11
+81,81,18:36 AC8372,,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZH),Landed 18:29,2021-06-11
+82,82,18:50 NCB1505,,Vancouver (YVR),North Cariboo Air RJ1H (C-FSUA),Landed 18:28,2021-06-11
+83,83,18:54,WS3344,Kelowna (YLW),WestJet DH8D (C-GLWJ),Landed 18:33,2021-06-11
+84,84,19:06 WS3158,,Fort McMurray (YMM),WestJet DH8D (C-GENO),Landed 18:45,2021-06-11
+85,85,19:21,WS122,Vancouver (YVR),WestJet B737 (C-GSWJ),Landed 19:03,2021-06-11
+86,86,19:22,WS613,Ottawa (YOW),WestJet B38M (C-GAMQ),Landed 19:09,2021-06-11
+87,87,19:36 WS217,,Montreal (YUL),WestJet B737 (C-GWJG),Landed 19:21,2021-06-11
+88,88,19:40,WS3112,Victoria (YYJ),WestJet DH8D (C-GENM),Landed 19:12,2021-06-11
+89,89,19:53 WS3336,,Comox (YQQ),WestJet DH8D (C-GEWR),Landed 19:30,2021-06-11
+90,90,20:04,WS671,Toronto (YYZ),WestJet B789 (C-GURP),Landed 19:42,2021-06-11
+91,91,20:15,AC220,Vancouver (YVR),Air Canada B38M (C-FSOI),Landed 20:05,2021-06-11
+92,92,20:21,DL4051,Minneapolis (MSP),Delta Connection CRJ9 (N821SK),Landed 20:03,2021-06-11
+93,93,20:21,WS124,Vancouver (YVR),WestJet B737 (C-GWAZ),Landed 20:01,2021-06-11
+94,94,20:33 WS231,,Halifax (YHZ),WestJet B737 (C-GYWJ),Landed 20:35,2021-06-11
+95,95,20:52 5T1727,,Edmonton (YEG),Canadian North B733 (C-GCNW),Landed 20:02,2021-06-11
+96,96,20:59,,Saguenay (YBG),- B733,Canceled,2021-06-11
+97,97,21:21 AC8376,,Fort McMurray (YMM),Air Canada Express DH8D (C-GGNY),Landed 20:56,2021-06-11
+98,98,21:40 MAL7063,,Vancouver (YVR),FedEx B752 (C-FMFG),Landed 21:09,2021-06-11
+99,99,21:54,AA3721,Dallas (DFW),American Eagle E75L (N300LK),Landed 21:33,2021-06-11
+100,100,22:00,AC323,Montreal (YUL),Air Canada A321 (C-GJWI),Landed 21:53,2021-06-11
+101,101,22:15,AC224,Vancouver (YVR),Air Canada B38M (C-FSDW),Landed 22:15,2021-06-11
+102,102,22:20 W8550,,Vancouver (YVR),Cargojet Airways B763 (C-FMIJ),Landed 22:08,2021-06-11
+103,103,22:55,AC157,Toronto (YYZ),Air Canada BCS3 (C-GJXY),Landed 22:46,2021-06-11
+104,104,23:30 CV7745,,Los Angeles (LAX),Cargolux 74Y,Unknown,2021-06-11
+105,105,23:30 CV7756,,Los Angeles (LAX),Cargolux B744 (LX-TCV),Landed 23:35,2021-06-11
+0,0,12:30 AM W8513,,Hamilton (YHM),Cargojet Airways B763 (C-GAJG),Landed 12:17 AM,2021-06-12
+1,1,12:44 AM SLQ7824,,Vancouver (YVR),SkyLink Express B190,Landed 12:39 AM,2021-06-12
+2,2,5:00 AM W8579,,Hamilton (YHM),Cargojet Airways 75V,Unknown,2021-06-12
+3,3,5:25 AM W8551,,Winnipeg (YWG),Cargojet Airways B762 (C-FGAJ),Landed 5:09 AM,2021-06-12
+4,4,7:05 AM FX140,,Memphis (MEM),FedEx A306 (N654FE),Landed 7:28 AM,2021-06-12
+5,5,8:13 AM,WS3160,Kelowna (YLW),WestJet DH8D (C-GENO),Landed 7:58 AM,2021-06-12
+6,6,8:19 AM,WS242,Edmonton (YEG),WestJet B737 (C-GCWJ),Landed 8:03 AM,2021-06-12
+7,7,8:21 AM,WS3144,Fort McMurray (YMM),WestJet DH8D (C-GWEP),Landed 8:00 AM,2021-06-12
+8,8,8:26 AM,WS271,Winnipeg (YWG),WestJet B737 (C-GWAZ),Landed 8:13 AM,2021-06-12
+9,9,8:29 AM,WS3378,Abbotsford (YXX),WestJet DH8D (C-GLWJ),Landed 8:06 AM,2021-06-12
+10,10,8:29 AM,WS3301,Regina (YQR),WestJet DH8D (C-GEWR),Landed 8:05 AM,2021-06-12
+11,11,8:30 AM,F8187,Vancouver (YVR),Flair Airlines B38M (C-FFEL),Landed 8:36 AM,2021-06-12
+12,12,8:31 AM 5X492,,Sioux Falls (FSD),UPS A306 (N161UP),Landed 8:48 AM,2021-06-12
+13,13,8:39 AM WS3170,,Victoria (YYJ),WestJet DH8D (C-GPWE),Landed 8:20 AM,2021-06-12
+14,14,8:40 AM,WS100,Vancouver (YVR),WestJet B737 (C-FMWJ),Landed 8:31 AM,2021-06-12
+15,15,8:42 AM WS653,,Toronto (YYZ),WestJet B38M (C-FCTK),Landed 8:19 AM,2021-06-12
+16,16,8:42 AM WS3117,,Saskatoon (YXE),WestJet DH8D (C-GENM),Landed 8:15 AM,2021-06-12
+17,17,8:44 AM CWA928,,Peace River (YPE),CanWest Air BE20 (C-GLUN),Landed 8:44 AM,2021-06-12
+18,18,9:12 AM CNK302,,Winnipeg (YWG),Sunwest Aviation B190,Unknown,2021-06-12
+19,19,10:00 AM,AC135,Toronto (YYZ),Air Canada B788 (C-GHQY),Landed 9:33 AM,2021-06-12
+20,20,10:01 AM,AC8370,Fort McMurray (YMM),Air Canada Express DH8D (C-GGCI),Landed 10:04 AM,2021-06-12
+21,21,10:02 AM AC8133,,Edmonton (YEG),Air Canada Express DH8D (C-GJZG),Landed 9:44 AM,2021-06-12
+22,22,10:15 AM AC8400,,Kelowna (YLW),Air Canada Express DH8D (C-GXJZ),Landed 9:53 AM,2021-06-12
+23,23,10:16 AM,AC8476,Grande Prairie (YQU),Air Canada Express DH8D (C-GBJZ),Landed 9:57 AM,2021-06-12
+24,24,10:23 AM,AC319,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 10:01 AM,2021-06-12
+25,25,10:35 AM AC204,,Vancouver (YVR),Air Canada B38M (C-FSIP),Landed 10:22 AM,2021-06-12
+26,26,10:59 AM W8919,,Cincinnati (CVG),Cargojet Airways B762 (C-FHCJ),Landed 10:49 AM,2021-06-12
+27,27,11:34 AM CWA922,,Edmonton (YEG),CanWest Air BE20 (C-GLUF),Landed 7:02 PM,2021-06-12
+28,28,11:37 AM 5T6066,,Saguenay (YBG),Canadian North B733 (C-GICN),Landed 11:22 AM,2021-06-12
+29,29,11:43 AM CWA922,,Edmonton (YEG),CanWest Air BE20 (C-GLUF),Landed 11:35 AM,2021-06-12
+30,30,12:04 PM,AA4291,Dallas (DFW),American Eagle E75L (N227NN),Landed 12:31 PM,2021-06-12
+31,31,12:10 PM,AC139,Toronto (YYZ),Air Canada BCS3 (C-GNAM),Landed 11:54 AM,2021-06-12
+32,32,1:25 PM,KL677,Amsterdam (AMS),KLM B772 (PH-BQK),Landed 2:32 PM,2021-06-12
+33,33,1:28 PM,WS3314,Kamloops (YKA),WestJet DH8D (C-FSWE),Unknown,2021-06-12
+34,34,1:40 PM CNK8,,Boston (BOS),Sunwest Aviation CL60 (C-GTJO),Unknown,2021-06-12
+35,35,1:42 PM,WS3188,Grande Prairie (YQU),WestJet DH8D (C-GWEP),Landed 1:18 PM,2021-06-12
+36,36,1:48 PM,UA5388,Denver (DEN),United Express E75L (N604UX),Landed 1:49 PM,2021-06-12
+37,37,1:59 PM,WS3116,Victoria (YYJ),WestJet DH8D (C-GENM),Landed 1:46 PM,2021-06-12
+38,38,2:06 PM,WS3172,Comox (YQQ),WestJet DH8D (C-FJWE),Landed 1:43 PM,2021-06-12
+39,39,2:10 PM,WS3369,Saskatoon (YXE),WestJet DH8D (C-GLWJ),Unknown,2021-06-12
+40,40,2:11 PM,WS3291,Regina (YQR),WestJet DH4,Unknown,2021-06-12
+41,41,2:19 PM WS3228,,Nanaimo (YCD),WestJet DH8D (C-GENO),Landed 2:05 PM,2021-06-12
+42,42,2:25 PM,WS659,Toronto (YYZ),WestJet B737 (C-GVWJ),Landed 2:15 PM,2021-06-12
+43,43,3:50 PM,AC214,Vancouver (YVR),Air Canada B38M (C-FSNQ),Landed 4:23 PM,2021-06-12
+44,44,3:55 PM,F8325,Ottawa (YOW),Flair Airlines B738 (C-FFLJ),Landed 3:51 PM,2021-06-12
+45,45,4:10 PM,AC147,Toronto (YYZ),Air Canada B38M (C-GEHY),Landed 3:54 PM,2021-06-12
+46,46,4:42 PM AC8141,,Edmonton (YEG),Air Canada Express DH8D (C-GGCI),Landed 4:27 PM,2021-06-12
+47,47,4:45 PM AC8402,,Kelowna (YLW),Air Canada Express DH8D (C-GXJZ),Unknown,2021-06-12
+48,48,4:45 PM,,Concord (CCR),- SF50 (N519EB),Landed 5:10 PM,2021-06-12
+49,49,5:20 PM CNK8,,Edmonton (YEG),Sunwest Aviation CL60,Landed 5:18 PM,2021-06-12
+50,50,5:22 PM,WS118,Vancouver (YVR),WestJet B737 (C-FMWJ),Landed 5:11 PM,2021-06-12
+51,51,5:54 PM WS3352,,Edmonton (YEG),WestJet DH8D (C-GENO),Landed 5:33 PM,2021-06-12
+52,52,5:57 PM WS533,,Hamilton (YHM),WestJet B737 (C-GWAZ),Landed 5:44 PM,2021-06-12
+53,53,6:36 PM AC8372,,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZG),Unknown,2021-06-12
+54,54,6:54 PM WS3344,,Kelowna (YLW),WestJet DH8D (C-GENV),Landed 6:34 PM,2021-06-12
+55,55,7:02 PM,,Grande Prairie (YQU),- C425 (C-GVCI),Landed 7:19 PM,2021-06-12
+56,56,7:06 PM WS3158,,Fort McMurray (YMM),WestJet DH8D (C-GEWR),Landed 6:43 PM,2021-06-12
+57,57,8:00 PM WS2247,,Puerto Vallarta (PVR),WestJet B38M (C-GZSG),Landed 8:26 PM,2021-06-12
+58,58,8:15 PM AC220,,Vancouver (YVR),Air Canada B38M (C-FSIP),Landed 8:06 PM,2021-06-12
+59,59,8:21 PM,DL4051,Minneapolis (MSP),Delta Connection CRJ9 (N161PQ),Landed 8:20 PM,2021-06-12
+60,60,8:21 PM,WS124,Vancouver (YVR),WestJet B737 (C-GWBF),Landed 8:01 PM,2021-06-12
+61,61,8:26 PM,WS671,Toronto (YYZ),WestJet B38M (C-FCTK),Landed 8:11 PM,2021-06-12
+62,62,9:15 PM,F8186,Winnipeg (YWG),Flair Airlines B38M (C-FFEL),Landed 9:05 PM,2021-06-12
+63,63,9:21 PM AC8376,,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZH),Landed 9:19 PM,2021-06-12
+64,64,9:54 PM,AA3721,Dallas (DFW),American Eagle E75L (N266NN),Landed 11:15 PM,2021-06-12
+65,65,10:00 PM,AC323,Montreal (YUL),Air Canada A320 (C-FZQS),Landed 9:48 PM,2021-06-12
+66,66,10:15 PM,AC224,Vancouver (YVR),Air Canada B38M (C-FSNQ),Landed 10:16 PM,2021-06-12
+67,67,10:55 PM,AC157,Toronto (YYZ),Air Canada BCS3 (C-GNGV),Landed 10:45 PM,2021-06-12
+68,68,11:41 PM,WS677,Toronto (YYZ),WestJet B737 (C-FKIW),Landed 11:33 PM,2021-06-12
+0,0,00:41 SLQ7824,,Vancouver (YVR),SkyLink Express B190,Landed 00:18,2021-06-13
+1,1,00:48 CWA922,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUF),Landed 00:42,2021-06-13
+2,2,01:19 W8509,,Hamilton (YHM),Cargojet Airways B763 (C-GAJG),Landed 00:51,2021-06-13
+3,3,02:53 CWA927,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUL),Landed 02:46,2021-06-13
+4,4,07:22 WS3178,,Grande Prairie (YQU),WestJet DH8D (C-FJWE),Landed 06:58,2021-06-13
+5,5,08:13 WS3160,,Kelowna (YLW),WestJet DH8D (C-GLWJ),Landed 08:20,2021-06-13
+6,6,08:19,WS242,Edmonton (YEG),WestJet B737 (C-GWAZ),Landed 08:08,2021-06-13
+7,7,08:26,WS271,Winnipeg (YWG),WestJet B737 (C-GSWJ),Landed 08:22,2021-06-13
+8,8,08:29,WS3301,Regina (YQR),WestJet DH8D (C-FSWE),Landed 08:09,2021-06-13
+9,9,08:29,WS3378,Abbotsford (YXX),WestJet DH8D (C-GEWR),Landed 08:00,2021-06-13
+10,10,08:30,F8813,Waterloo (YKF),Flair Airlines B738 (C-FFLA),Landed 08:40,2021-06-13
+11,11,08:39 WS3170,,Victoria (YYJ),WestJet DH8D (C-GWEP),Landed 08:24,2021-06-13
+12,12,08:40 WS100,,Vancouver (YVR),WestJet B737 (C-GWCN),Landed 08:32,2021-06-13
+13,13,08:42 WS653,,Toronto (YYZ),WestJet B38M (C-GCAM),Landed 09:18,2021-06-13
+14,14,08:42 WS3117,,Saskatoon (YXE),WestJet DH4,Unknown,2021-06-13
+15,15,08:52 CNK302,,Winnipeg (YWG),Sunwest Aviation SW4 (C-GSAF),Landed 08:22,2021-06-13
+16,16,09:00,,Grande Prairie (YQU),- HDJT,Unknown,2021-06-13
+17,17,10:00 AC135,,Toronto (YYZ),Air Canada B788 (C-GHPQ),Landed 09:53,2021-06-13
+18,18,10:01,AC8370,Fort McMurray (YMM),Air Canada Express DH8D (C-GGCI),Landed 09:49,2021-06-13
+19,19,10:02 AC8133,,Edmonton (YEG),Air Canada Express DH8D (C-GXJZ),Landed 09:47,2021-06-13
+20,20,10:15 AC8400,,Kelowna (YLW),Air Canada Express DH8D (C-GJZY),Landed 09:51,2021-06-13
+21,21,10:23 AC319,,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 10:02,2021-06-13
+22,22,10:35 AC204,,Vancouver (YVR),Air Canada B38M (C-FSOI),Landed 10:18,2021-06-13
+23,23,11:14 WS651,,Toronto (YYZ),WestJet B38M (C-GDDR),Landed 11:03,2021-06-13
+24,24,12:01 WS3003,,Lethbridge (YQL),WestJet Link SF34 (C-GPCI),Landed 11:50,2021-06-13
+25,25,12:04,AA4291,Dallas (DFW),American Eagle E75L (N215NN),Landed 11:35,2021-06-13
+26,26,12:20 WS3022,,Cranbrook (YXC),WestJet Link SF34 (C-GPCJ),Landed 12:11,2021-06-13
+27,27,12:23 WS108,,Vancouver (YVR),WestJet B737 (C-FWCN),Landed 12:09,2021-06-13
+28,28,12:24 CWA928,,Edmonton (YEG),CanWest Air BE20 (C-GLUN),Landed 12:26,2021-06-13
+29,29,12:50 WS3280,,Penticton (YYF),WestJet DH8D (C-GLWJ),Landed 12:32,2021-06-13
+30,30,12:54 WS3392,,Kelowna (YLW),WestJet DH8D (C-FWEZ),Landed 12:37,2021-06-13
+31,31,13:28 WS3314,,Kamloops (YKA),WestJet DH8D (C-GVEN),Landed 15:34,2021-06-13
+32,32,13:43 W81312,,Chicago (ORD),Cargojet Airways B763 (C-FCCJ),Landed 13:08,2021-06-13
+33,33,13:44,UA5388,Denver (DEN),United Express CRJ7 (N792SK),Landed 13:23,2021-06-13
+34,34,13:59 WS3116,,Victoria (YYJ),WestJet DH8D (C-FHEN),Landed 13:43,2021-06-13
+35,35,14:05,WS3136,Fort McMurray (YMM),WestJet DH8D (C-GEWR),Landed 13:45,2021-06-13
+36,36,14:06 WS3172,,Comox (YQQ),WestJet DH8D (C-FSWE),Landed 13:54,2021-06-13
+37,37,14:09 WS3350,,Edmonton (YEG),WestJet DH8D (C-GWUE),Landed 13:52,2021-06-13
+38,38,14:10,WS3369,Saskatoon (YXE),WestJet DH8D (C-FJWE),Landed 13:42,2021-06-13
+39,39,14:19 WS3228,,Nanaimo (YCD),WestJet DH8D (C-GWEP),Landed 14:10,2021-06-13
+40,40,14:25,WS269,Winnipeg (YWG),WestJet B737 (C-GSWJ),Landed 14:25,2021-06-13
+41,41,14:25 WS659,,Toronto (YYZ),WestJet B737 (C-FMWJ),Landed 14:20,2021-06-13
+42,42,15:10,F8814,Vancouver (YVR),Flair Airlines B738 (C-FFLA),Landed 15:27,2021-06-13
+43,43,15:50,AC214,Vancouver (YVR),Air Canada B38M (C-FSNQ),Landed 15:56,2021-06-13
+44,44,16:10,AC147,Toronto (YYZ),Air Canada BCS3 (C-GTZS),Landed 16:21,2021-06-13
+45,45,16:20 NCB2321,,Kelowna (YLW),North Cariboo Air B190 (C-FNCL),Landed 16:19,2021-06-13
+46,46,16:24 WS3162,,Kelowna (YLW),WestJet DH8D (C-GLWJ),Landed 16:50,2021-06-13
+47,47,16:30,,San Diego (SDM),- C750,Unknown,2021-06-13
+48,48,16:42 AC8141,,Edmonton (YEG),Air Canada Express DH8D (C-GXJZ),Landed 16:22,2021-06-13
+49,49,16:45 AC8402,,Kelowna (YLW),Air Canada Express DH8D (C-GGCI),Landed 16:25,2021-06-13
+50,50,17:12,WS1403,Phoenix (PHX),WestJet B38M (C-GZSG),Landed 17:02,2021-06-13
+51,51,17:22,WS118,Vancouver (YVR),WestJet B737 (C-GWSO),Landed 17:02,2021-06-13
+52,52,17:54 WS3352,,Edmonton (YEG),WestJet DH8D (C-FWEW),Landed 17:34,2021-06-13
+53,53,18:05 WS557,,Waterloo (YKF),WestJet B737 (C-GWAZ),Landed 18:01,2021-06-13
+54,54,18:36 AC8372,,Fort McMurray (YMM),Air Canada Express DH8D (C-GGFP),Landed 18:22,2021-06-13
+55,55,18:44,WS3249,Saskatoon (YXE),WestJet DH8D (C-GEWR),Landed 18:32,2021-06-13
+56,56,18:54,WS3344,Kelowna (YLW),WestJet DH8D (C-FSWE),Landed 18:38,2021-06-13
+57,57,18:55,WS3140,Edmonton (YEG),WestJet DH8D (C-GLWJ),Landed 19:48,2021-06-13
+58,58,19:06,WS3158,Fort McMurray (YMM),WestJet DH8D (C-FJWE),Landed 18:42,2021-06-13
+59,59,19:21,WS122,Vancouver (YVR),WestJet B737 (C-GWJG),Landed 19:10,2021-06-13
+60,60,19:22,WS613,Ottawa (YOW),WestJet B38M (C-FCTK),Landed 19:20,2021-06-13
+61,61,19:24,WS3271,Regina (YQR),WestJet DH8D (C-GWEP),Landed 19:01,2021-06-13
+62,62,19:36 WS217,,Montreal (YUL),WestJet B737 (C-GCWJ),Landed 19:34,2021-06-13
+63,63,19:40,WS3112,Victoria (YYJ),WestJet DH8D (C-FWEZ),Landed 19:17,2021-06-13
+64,64,19:53,WS3336,Comox (YQQ),WestJet DH8D (C-FHEN),Landed 21:27,2021-06-13
+65,65,20:03 CWA922,,Lethbridge (YQL),CanWest Air BE20 (C-GLUF),Landed 19:57,2021-06-13
+66,66,20:04,WS671,Toronto (YYZ),WestJet B789 (C-GURP),Landed 20:04,2021-06-13
+67,67,20:05 FX240,,Memphis (MEM),FedEx B763 (N141FE),Landed 19:25,2021-06-13
+68,68,20:15 AC220,,Vancouver (YVR),Air Canada B38M (C-GEHY),Landed 20:00,2021-06-13
+69,69,20:21,DL4051,Minneapolis (MSP),Delta Connection CRJ9 (N689CA),Landed 21:09,2021-06-13
+70,70,20:21,WS124,Vancouver (YVR),WestJet B737 (C-FWCN),Landed 20:09,2021-06-13
+71,71,20:33 WS231,,Halifax (YHZ),WestJet B737 (C-GWJO),Landed 20:44,2021-06-13
+72,72,21:21 AC8376,,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZH),Landed 21:12,2021-06-13
+73,73,21:35 W8514,,Vancouver (YVR),Cargojet Airways B763 (C-GVIJ),Landed 21:01,2021-06-13
+74,74,21:54,AA3721,Dallas (DFW),American Eagle E75L (N215NN),Landed 22:04,2021-06-13
+75,75,22:00,AC323,Montreal (YUL),Air Canada A320 (C-FZQS),Landed 21:37,2021-06-13
+76,76,22:15,AC224,Vancouver (YVR),Air Canada B38M (C-FSOI),Landed 22:06,2021-06-13
+77,77,22:37 5T1727,,Edmonton (YEG),Canadian North (CFL Livery) B733 (C-GCNO),Landed 21:44,2021-06-13
+78,78,22:55,AC157,Toronto (YYZ),Air Canada BCS3 (C-GMZN),Landed 22:42,2021-06-13
+0,0,00:41 W8545,,Hamilton (YHM),Cargojet Airways B763 (C-GAJG),Landed 00:29,2021-06-14
+1,1,00:41 SLQ7824,,Vancouver (YVR),SkyLink Express B190,Landed 00:17,2021-06-14
+2,2,00:50 W8513,,Hamilton (YHM),Cargojet Airways B763 (C-FMIJ),Landed 00:39,2021-06-14
+3,3,04:58 5T5012,,Edmonton (YEG),Canadian North B733 (C-GCNZ),Landed 04:45,2021-06-14
+4,4,05:25 W8919,,Cincinnati (CVG),Cargojet Airways B762 (C-FHCJ),Landed 05:07,2021-06-14
+5,5,07:10 WS378,,Grande Prairie (YQU),WestJet B38M (C-GCAM),Landed 06:59,2021-06-14
+6,6,08:11 MAL8066,,Saskatoon (YXE),FedEx AT72 (C-FTMN),Landed 07:53,2021-06-14
+7,7,08:13 WS3160,,Kelowna (YLW),WestJet DH8D (C-GEWR),Landed 08:09,2021-06-14
+8,8,08:19,WS242,Edmonton (YEG),WestJet B737 (C-FWCN),Landed 08:17,2021-06-14
+9,9,08:21 WS3144,,Fort McMurray (YMM),WestJet DH8D (C-GVEN),Landed 08:05,2021-06-14
+10,10,08:26,WS271,Winnipeg (YWG),WestJet B737 (C-GSWJ),Landed 08:08,2021-06-14
+11,11,08:29 WS3301,,Regina (YQR),WestJet DH8D (C-FWEZ),Landed 08:04,2021-06-14
+12,12,08:29,WS3378,Abbotsford (YXX),WestJet DH8D (C-FNEN),Landed 08:12,2021-06-14
+13,13,08:29 CNK302,,Winnipeg (YWG),Sunwest Aviation SW4 (C-GSAF),Landed 08:48,2021-06-14
+14,14,08:39 WS3170,,Victoria (YYJ),WestJet DH8D (C-FSWE),Landed 08:20,2021-06-14
+15,15,08:42 WS653,,Toronto (YYZ),WestJet B737 (C-FMWJ),Landed 08:24,2021-06-14
+16,16,08:42,WS3117,Saskatoon (YXE),WestJet DH8D (C-FJWE),Landed 08:30,2021-06-14
+17,17,08:43,WS3308,Fort St. John (YXJ),WestJet DH8D (C-GWEP),Landed 08:27,2021-06-14
+18,18,08:50 MAL8058,,Regina (YQR),FedEx AT72 (C-FVDO),Landed 08:47,2021-06-14
+19,19,09:10,,Prince Albert (YPA),- C510,Unknown,2021-06-14
+20,20,09:52,,Kelowna (YLW),- CL60 (C-GJDS),Landed 10:01,2021-06-14
+21,21,09:56 5T1705,,Fort MacKay (HZP),Canadian North (CFL Livery) B733 (C-GCNO),Landed 09:34,2021-06-14
+22,22,10:00,AC135,Toronto (YYZ),Air Canada B788 (C-GHPX),Landed 09:36,2021-06-14
+23,23,10:00 CWA927,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUL),Landed 09:52,2021-06-14
+24,24,10:01,AC8370,Fort McMurray (YMM),Air Canada Express DH8D (C-GXJZ),Landed 10:03,2021-06-14
+25,25,10:02 AC8133,,Edmonton (YEG),Air Canada Express DH8D (C-GGCI),Landed 09:47,2021-06-14
+26,26,10:06 WS4023,,Fort MacKay (YFI),WestJet B738 (C-GWWJ),Landed 09:48,2021-06-14
+27,27,10:15 AC8400,,Kelowna (YLW),Air Canada Express DH8D (C-GBJZ),Landed 09:49,2021-06-14
+28,28,10:16,AC8476,Grande Prairie (YQU),Air Canada Express DH8D (C-GGFJ),Landed 10:12,2021-06-14
+29,29,10:23,AC319,Montreal (YUL),Air Canada A333 (C-GFUR),Landed 09:58,2021-06-14
+30,30,10:35 AC204,,Vancouver (YVR),Air Canada B38M (C-FSNU),Landed 10:26,2021-06-14
+31,31,11:42 NCB2807,,Edmonton (YEG),North Cariboo Air B190 (C-FNCL),Landed 11:50,2021-06-14
+32,32,12:04,AA4291,Dallas (DFW),American Eagle E75L (N213NN),Landed 11:51,2021-06-14
+33,33,12:20 WS3022,,Cranbrook (YXC),WestJet Link SF34 (C-GPCJ),Landed 12:08,2021-06-14
+34,34,12:23,WS108,Vancouver (YVR),WestJet B737 (C-GWJG),Landed 12:06,2021-06-14
+35,35,12:45,WS188,Kelowna (YLW),WestJet B737 (C-FWCN),Landed 12:44,2021-06-14
+36,36,12:50,WS3280,Penticton (YYF),WestJet DH8D (C-GPWE),Landed 12:37,2021-06-14
+37,37,13:25,KL677,Amsterdam (AMS),KLM B789 (PH-BHA),Landed 14:11,2021-06-14
+38,38,13:28,WS3314,Kamloops (YKA),WestJet DH8D (C-FSWE),Landed 13:15,2021-06-14
+39,39,13:42,WS3188,Grande Prairie (YQU),WestJet DH8D (C-GVEN),Landed 13:19,2021-06-14
+40,40,13:44,UA5388,Denver (DEN),United Express CRJ7 (N779SK),Landed 14:07,2021-06-14
+41,41,13:59,WS3116,Victoria (YYJ),WestJet DH8D (C-GEWR),Landed 13:54,2021-06-14
+42,42,14:00 W8301,,Hamilton (YHM),Cargojet Airways B763 (C-FCAE),Landed 13:38,2021-06-14
+43,43,14:05,WS3136,Fort McMurray (YMM),WestJet DH8D (C-GWEP),Landed 13:46,2021-06-14
+44,44,14:06,WS3172,Comox (YQQ),WestJet DH8D (C-FHEN),Landed 14:04,2021-06-14
+45,45,14:11,WS3291,Regina (YQR),WestJet DH8D (C-FNEN),Landed 13:52,2021-06-14
+46,46,14:19 WS3228,,Nanaimo (YCD),WestJet DH8D (C-GLWJ),Landed 14:13,2021-06-14
+47,47,14:22,,Duluth (DLH),- HDJT (N420HB),Landed 13:44,2021-06-14
+48,48,14:25,WS659,Toronto (YYZ),WestJet B737 (C-GWSQ),Landed 14:09,2021-06-14
+49,49,15:50,AC214,Vancouver (YVR),Air Canada B38M (C-FSJJ),Landed 16:01,2021-06-14
+50,50,16:10,AC147,Toronto (YYZ),Air Canada B38M (C-FSES),Landed 15:51,2021-06-14
+51,51,16:20,,Kalispell (FCA),- C425 (C-FKSB),Landed 16:10,2021-06-14
+52,52,16:36 CNK215,,Edmonton (YEG),Sunwest Aviation B190,Unknown,2021-06-14
+53,53,16:39 9M8448,,Dease Lake (YDL),Central Mountain Air D328 (C-FHVX),Landed 16:39,2021-06-14
+54,54,16:42 AC8141,,Edmonton (YEG),Air Canada Express DH8D (C-GXJZ),Landed 16:12,2021-06-14
+55,55,16:45 AC8402,,Kelowna (YLW),Air Canada Express DH8D (C-GBJZ),Landed 16:28,2021-06-14
+56,56,16:45,F8821,Toronto (YYZ),Flair Airlines B38M (C-FFEL),Landed 16:53,2021-06-14
+57,57,17:05 WS3358,,Yellowknife (YZF),WestJet DH8D (C-FJWE),Unknown,2021-06-14
+58,58,17:10,WS665,Toronto (YYZ),WestJet B38M (C-GDDR),Landed 16:51,2021-06-14
+59,59,17:22,WS118,Vancouver (YVR),WestJet B738 (C-FUMF),Landed 17:08,2021-06-14
+60,60,17:30,,Bozeman (BZN),- KODI (N203KQ),Landed 20:32,2021-06-14
+61,61,17:32 CNK297,,Vancouver (YVR),Sunwest Aviation BE20,Landed 22:40,2021-06-14
+62,62,17:49 CRN7064,,Kamloops (YKA),Aerocaribbean SW4,Landed 17:38,2021-06-14
+63,63,17:54 WS3352,,Edmonton (YEG),WestJet DH8D (C-GWEF),Landed 17:41,2021-06-14
+64,64,18:03 W8920,,Edmonton (YEG),Cargojet Airways B762 (C-FHCJ),Landed 17:46,2021-06-14
+65,65,18:05 WS557,,Waterloo (YKF),WestJet B737 (C-GWAZ),Landed 17:38,2021-06-14
+66,66,18:13 MAL7067,,Saskatoon (YXE),Morningstar Air Express AT72,Unknown,2021-06-14
+67,67,18:17 CRN7081,,Kelowna (YLW),Aerocaribbean SW4,Landed 18:22,2021-06-14
+68,68,18:25 NCB211T,,Lethbridge (YQL),Private owner B505 (C-GNCU),Landed 18:08,2021-06-14
+69,69,18:36 AC8372,,Fort McMurray (YMM),Air Canada Express DH8D (C-GGCI),Landed 18:32,2021-06-14
+70,70,18:36 MAL7059,,Regina (YQR),Morningstar Air Express AT72,Landed 18:34,2021-06-14
+71,71,18:44,WS3249,Saskatoon (YXE),WestJet DH8D (C-FNEN),Landed 18:25,2021-06-14
+72,72,18:54 WS3344,,Kelowna (YLW),WestJet DH8D (C-FHEN),Landed 18:37,2021-06-14
+73,73,18:56 CWA922,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUF),Landed 18:51,2021-06-14
+74,74,19:06,WS3158,Fort McMurray (YMM),WestJet DH8D (C-GWEP),Unknown,2021-06-14
+75,75,19:21,WS122,Vancouver (YVR),WestJet B737 (C-GVWJ),Landed 19:04,2021-06-14
+76,76,19:22 WS613,,Ottawa (YOW),WestJet B38M (C-GCAM),Landed 19:57,2021-06-14
+77,77,19:36 WS217,,Montreal (YUL),WestJet B38M (C-GAMQ),Landed 19:19,2021-06-14
+78,78,19:56 WS3243,,Brandon (YBR),WestJet DH8D (C-GEWR),Unknown,2021-06-14
+79,79,19:58 NCB1503,,Terrace (YXT),North Cariboo Air RJ1H (C-FSUA),Landed 19:38,2021-06-14
+80,80,20:04,WS671,Toronto (YYZ),Westjet B789 (C-GMKS),Landed 19:47,2021-06-14
+81,81,20:11 WS4031,,Fort MacKay (YFI),WestJet -,Canceled,2021-06-14
+82,82,20:15,AC220,Vancouver (YVR),Air Canada B38M (C-GEHY),Landed 20:05,2021-06-14
+83,83,20:21,DL4051,Minneapolis (MSP),Delta Connection CRJ9 (N693CA),Landed 20:59,2021-06-14
+84,84,20:21 WS124,,Vancouver (YVR),WestJet B737 (C-GCWJ),Landed 20:09,2021-06-14
+85,85,20:22 WS4089,,Fort MacKay (YFI),WestJet DH8D (C-GVEN),Landed 20:20,2021-06-14
+86,86,20:33 WS231,,Halifax (YHZ),WestJet B737 (C-GWJO),Landed 20:12,2021-06-14
+87,87,20:49 QK2269,,Kelowna (YLW),Jazz Aviation DH8D,Landed 20:51,2021-06-14
+88,88,21:20 MAL7062,,Vancouver (YVR),FedEx B752 (C-FMEU),Landed 20:52,2021-06-14
+89,89,21:21 AC8376,,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZH),Landed 21:14,2021-06-14
+90,90,21:36 WS4049,,Fort MacKay (YFI),WestJet -,Canceled,2021-06-14
+91,91,21:51 WS4033,,Fort MacKay (YFI),WestJet B738 (C-GWWJ),Landed 21:35,2021-06-14
+92,92,21:54,AA3721,Dallas (DFW),American Eagle E75L (N207AN),Landed 21:21,2021-06-14
+93,93,21:57 5T1749,,Edmonton (YEG),Canadian North B733 (C-GCNW),Landed 21:45,2021-06-14
+94,94,22:00,AC323,Montreal (YUL),Air Canada A321 (C-FGKN),Landed 21:25,2021-06-14
+95,95,22:15,AC224,Vancouver (YVR),Air Canada B38M (C-FSNU),Landed 21:58,2021-06-14
+96,96,22:25 W8572,,Vancouver (YVR),Cargojet Airways B763 (C-FCAE),Landed 22:03,2021-06-14
+97,97,22:55,AC157,Toronto (YYZ),Air Canada (Trans-Canada Air Lines Livery) BCS3 (C-GNBN),Landed 22:40,2021-06-14
+98,98,23:00 CV7721,,Seattle (SEA),Cargolux B744 (LX-GCL),Unknown,2021-06-14
+99,99,23:00 CV7732,,Seattle (SEA),Cargolux 74F,Unknown,2021-06-14
+100,100,23:02,,Seattle (SEA),- B744 (LX-GCL),Landed 23:03,2021-06-14
+101,101,23:36 CWA922,,Lethbridge (YQL),CanWest Air BE20,Landed 23:22,2021-06-14
+102,102,23:59,F8325,Ottawa (YOW),Flair Airlines B738 (C-FFLJ),Unknown,2021-06-14
+0,0,00:43 SLQ7824,,Vancouver (YVR),SkyLink Express B190,Landed 00:30,2021-06-15
+1,1,01:22,,Edmonton (YEG),- B733,Canceled,2021-06-15
+2,2,03:39 W8583,,Hamilton (YHM),Cargojet Airways B752 (C-GCJT),Landed 03:11,2021-06-15
+3,3,03:42 MAL7051,,Toronto (YYZ),FedEx B752 (C-FMEP),Landed 03:13,2021-06-15
+4,4,04:10 W8571,,Winnipeg (YWG),Cargojet Airways B763 (C-GAJG),Landed 03:57,2021-06-15
+5,5,05:11 MAL8088,,Winnipeg (YWG),FedEx AT72 (C-FTAR),Landed 04:48,2021-06-15
+6,6,06:53 FX140,,Memphis (MEM),FedEx B763 (N180FE),Landed 07:19,2021-06-15
+7,7,07:14 5X492,,Sioux Falls (FSD),UPS Airlines B763 (N372UP),Landed 07:22,2021-06-15
+8,8,07:22,WS3178,Grande Prairie (YQU),WestJet DH8D (C-GEWR),Landed 07:10,2021-06-15
+9,9,08:04 W8919,,Cincinnati (CVG),Cargojet Airways B762 (C-FHCJ),Landed 07:54,2021-06-15
+10,10,08:11 MAL8066,,Saskatoon (YXE),Morningstar Air Express AT72,Landed 08:05,2021-06-15
+11,11,08:13 WS3160,,Kelowna (YLW),WestJet DH8D (C-GJEN),Landed 08:27,2021-06-15
+12,12,08:19 WS242,,Edmonton (YEG),WestJet B738 (C-GOCD),Landed 08:15,2021-06-15
+13,13,08:21 WS3144,,Fort McMurray (YMM),WestJet DH8D (C-FWEZ),Landed 08:07,2021-06-15
+14,14,08:24 CNK302,,Winnipeg (YWG),Sunwest Aviation SW4 (C-GSAF),Landed 09:08,2021-06-15
+15,15,08:26 WS271,,Winnipeg (YWG),WestJet B737 (C-GCWJ),Landed 08:16,2021-06-15
+16,16,08:29,WS3301,Regina (YQR),WestJet DH8D (C-FWEW),Landed 08:11,2021-06-15
+17,17,08:29,WS3378,Abbotsford (YXX),WestJet DH8D (C-FJWE),Landed 08:25,2021-06-15
+18,18,08:39 WS3170,,Victoria (YYJ),WestJet DH8D (C-FSWE),Landed 08:41,2021-06-15
+19,19,08:40 WS100,,Vancouver (YVR),WestJet B737 (C-GWJG),Landed 08:44,2021-06-15
+20,20,08:40 MAL8058,,Regina (YQR),FedEx AT72 (C-FVDO),Landed 08:27,2021-06-15
+21,21,08:42 WS3117,,Saskatoon (YXE),WestJet DH8D (C-GWEF),Landed 08:24,2021-06-15
+22,22,08:43 WS3308,,Fort St. John (YXJ),WestJet DH8D (C-FNEN),Landed 08:38,2021-06-15
+23,23,09:12,,Cranbrook (YXC),- PAY4 (C-GZPU),Landed 09:17,2021-06-15
+24,24,10:00,AC135,Toronto (YYZ),Air Canada B788 (C-GHQY),Landed 09:45,2021-06-15
+25,25,10:01,AC8370,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZG),Landed 10:05,2021-06-15
+26,26,10:02 AC8133,,Edmonton (YEG),Air Canada Express DH8D (C-GXJZ),Unknown,2021-06-15
+27,27,10:06 WS4047,,Fort MacKay (YFI),WestJet B737 (C-GWJO),Landed 09:59,2021-06-15
+28,28,10:15 AC8400,,Kelowna (YLW),Air Canada Express DH8D (C-GBJZ),Landed 10:13,2021-06-15
+29,29,10:16,AC8476,Grande Prairie (YQU),Air Canada Express DH8D (C-GGFP),Landed 09:56,2021-06-15
+30,30,10:23 AC319,,Montreal (YUL),Air Canada (Star Alliance Livery) A333 (C-GEGP),Landed 10:01,2021-06-15
+31,31,10:35 AC204,,Vancouver (YVR),Air Canada B38M (C-FSCY),Landed 10:32,2021-06-15
+32,32,10:36 5T1701,,Fort MacKay (HZP),Canadian North B733 (C-GICN),Landed 10:08,2021-06-15
+33,33,10:40,F8821,Toronto (YYZ),Flair Airlines B38M (C-FFEL),Landed 10:27,2021-06-15
+34,34,10:49 CWA927,,Medicine Hat (YXH),CanWest Air BE20 (C-GLUL),Landed 10:43,2021-06-15
+35,35,10:49 WS8900,,Calgary (YYC),WestJet B38M (C-GRAX),Landed 10:25,2021-06-15
+36,36,11:02 AC8151,,Edmonton (YEG),Air Canada Express DH8D (C-GGFJ),Unknown,2021-06-15
+37,37,11:14 WS651,,Toronto (YYZ),WestJet B737 (C-FMWJ),Landed 10:57,2021-06-15
+38,38,12:04,AA4291,Dallas (DFW),American Eagle E75L (N300LK),Landed 11:51,2021-06-15
+39,39,12:10 AC139,,Toronto (YYZ),Air Canada B38M (C-GEHY),Landed 11:57,2021-06-15
+40,40,12:10 AC137,,Toronto (YYZ),Air Canada A320 (C-FGJI),Landed 11:38,2021-06-15
+41,41,12:45 WS4451,,Kelowna (YLW),WestJet B738 (C-GWSR),Landed 13:04,2021-06-15
+42,42,12:54 WS3392,,Kelowna (YLW),WestJet DH8D (C-GVEN),Canceled,2021-06-15
+43,43,13:28 WS3314,,Kamloops (YKA),WestJet DH8D (C-FWEW),Landed 13:43,2021-06-15
+44,44,13:42 WS3188,,Grande Prairie (YQU),WestJet DH8D (C-FHEN),Landed 14:17,2021-06-15
+45,45,13:44,UA5388,Denver (DEN),United Express CRJ7 (N779SK),Landed 13:29,2021-06-15
+46,46,13:46 CNK99,,Edmonton (YEG),Sunwest Aviation B190 (C-GSWX),Landed 13:28,2021-06-15
+47,47,13:48 CWA922,,Edmonton (YEG),CanWest Air BE20 (C-GLUF),Landed 13:39,2021-06-15
+48,48,13:59 WS3116,,Victoria (YYJ),WestJet DH8D (C-GENO),Landed 14:54,2021-06-15
+49,49,14:00 W8301,,Hamilton (YHM),Cargojet Airways B763 (C-FCAE),Landed 13:27,2021-06-15
+50,50,14:04 WS3100,,Fort St. John (YXJ),WestJet DH8D (C-GVEN),Landed 14:36,2021-06-15
+51,51,14:05 WS3136,,Fort McMurray (YMM),WestJet DH8D (C-GJEN),Unknown,2021-06-15
+52,52,14:06 WS3172,,Comox (YQQ),WestJet DH8D (C-FJWE),Landed 14:58,2021-06-15
+53,53,14:10 WS3369,,Saskatoon (YXE),WestJet DH8D (C-GWEP),Landed 14:09,2021-06-15
+54,54,14:11 WS3291,,Regina (YQR),WestJet DH8D (C-GLWJ),Landed 14:39,2021-06-15
+55,55,14:19 WS3228,,Nanaimo (YCD),WestJet DH8D (C-FSWE),Landed 14:27,2021-06-15
+56,56,14:25 WS269,,Winnipeg (YWG),WestJet B737 (C-GCWJ),Landed 14:12,2021-06-15
+57,57,14:44 MAL7090,,Toronto (YYZ),FedEx B752 (C-FMEU),Landed 14:40,2021-06-15
+58,58,15:07 5T1603,,Fort MacKay (YFI),Canadian North B733 (C-GCNW),Landed 14:47,2021-06-15
+59,59,15:13 5T5062,,Edmonton (YEG),Canadian North (CFL Livery) B733 (C-GCNO),Landed 15:08,2021-06-15
+60,60,15:50,AC214,Vancouver (YVR),Air Canada B38M (C-GEIV),Landed 16:16,2021-06-15
+61,61,15:59,,Kalispell (FCA),- C414 (C-GTMJ),Landed 16:30,2021-06-15
+62,62,16:06 CNK66,,Conklin (CFM),Sunwest Aviation DH8C (C-GBOS),Landed 15:46,2021-06-15
+63,63,16:06 WS4027,,Fort MacKay (YFI),WestJet B737 (C-FKIW),Landed 15:53,2021-06-15
+64,64,16:07 CRN301,,Kelowna (YLW),Aerocaribbean SW4,Landed 16:02,2021-06-15
+65,65,16:10 AC147,,Toronto (YYZ),Air Canada B38M (C-FSES),Landed 15:55,2021-06-15
+66,66,16:15 CNK297,,Fort St. John (YXJ),Sunwest Aviation BE20,Canceled,2021-06-15
+67,67,16:28 CNK215,,Edmonton (YEG),Sunwest Aviation B190,Unknown,2021-06-15
+68,68,16:34,,Winnipeg (YWG),- DH8C (N857CA),Canceled,2021-06-15
+69,69,16:42 AC8141,,Edmonton (YEG),Air Canada Express DH8D (C-GJZG),Landed 16:37,2021-06-15
+70,70,16:45 AC8402,,Kelowna (YLW),Air Canada Express DH8D (C-GGFP),Landed 16:32,2021-06-15
+71,71,17:10,WS665,Toronto (YYZ),WestJet B738 (C-GJWS),Landed 16:56,2021-06-15
+72,72,17:14 5T1721,,Edmonton (YEG),Canadian North B733 (C-GICN),Landed 16:58,2021-06-15
+73,73,17:22,WS118,Vancouver (YVR),WestJet B737 (C-GWBF),Landed 17:07,2021-06-15
+74,74,17:25 WS9931,,Saskatoon (YXE),WestJet B737 (C-GWJG),Landed 17:18,2021-06-15
+75,75,17:26 CNK55,,Whitecourt (YZU),Sunwest Aviation B190 (C-GHCS),Landed 15:07,2021-06-15
+76,76,17:26 9M8416,,Dease Lake (YDL),Central Mountain Air DH8C,Landed 17:24,2021-06-15
+77,77,17:49 CRN7064,,Kamloops (YKA),Aerocaribbean SW4,Landed 17:17,2021-06-15
+78,78,17:54,WS3352,Edmonton (YEG),WestJet DH8D (C-FNEN),Landed 17:50,2021-06-15
+79,79,17:55 CNK381,,Red Deer (YQF),Sunwest Aviation B350,Unknown,2021-06-15
+80,80,18:03 W8920,,Edmonton (YEG),Cargojet Airways B762 (C-FHCJ),Landed 17:52,2021-06-15
+81,81,18:22 MAL7067,,Saskatoon (YXE),FedEx AT72 (C-FTMN),Landed 18:19,2021-06-15
+82,82,18:29 CRN7081,,Kelowna (YLW),Aerocaribbean SW4,Landed 18:18,2021-06-15
+83,83,18:36 AC8372,,Fort McMurray (YMM),Air Canada Express DH8D (C-GJZC),Landed 18:35,2021-06-15
+84,84,18:36 MAL7059,,Regina (YQR),Morningstar Air Express AT72,Landed 18:27,2021-06-15
+85,85,18:48,WS388,Fort McMurray (YMM),WestJet B737 (C-GWSQ),Landed 18:33,2021-06-15
+86,86,18:54,WS3344,Kelowna (YLW),WestJet DH8D (C-GLWJ),Landed 18:49,2021-06-15
+87,87,18:58 NCB1503,,Terrace (YXT),North Cariboo Air RJ1H (C-FSUA),Landed 18:51,2021-06-15
+88,88,19:05 NCB211T,,Lethbridge (YQL),Private owner B505 (C-GNCU),Landed 18:57,2021-06-15
+89,89,19:21,WS122,Vancouver (YVR),WestJet (Walt Disney World - Frozen Livery) B738 (C-GWSV),Landed 19:01,2021-06-15
+90,90,19:22 WS4077,,Fort MacKay (YFI),WestJet DH8D (C-GWEP),Landed 19:25,2021-06-15
+91,91,19:39 NCB2089,,Kelowna (YLW),North Caribou Flying Service BE20,Landed 19:43,2021-06-15
+92,92,20:15 AC220,,Vancouver (YVR),Air Canada B38M (C-GEHY),Landed 20:04,2021-06-15
+93,93,20:21,DL4051,Minneapolis (MSP),Delta Connection CRJ9 (N679CA),Landed 20:01,2021-06-15
+94,94,20:21,WS124,Vancouver (YVR),WestJet B737 (C-FMWJ),Landed 20:14,2021-06-15
+95,95,20:26,WS671,Toronto (YYZ),WestJet B38M (C-GZSG),Landed 20:08,2021-06-15
+96,96,20:28 CNK715,,Saskatoon (YXE),Sunwest Aviation G150,Unknown,2021-06-15
+97,97,21:07 AC398,,Fort McMurray (YMM),Air Canada A321 (C-FGKN),Landed 20:58,2021-06-15
+98,98,21:10 MAL7062,,Vancouver (YVR),FedEx B752 (C-FMEP),Landed 21:11,2021-06-15
+99,99,21:22 5T1741,,Fort MacKay (HZP),Canadian North (CFL Livery) B733 (C-GCNO),Landed 21:16,2021-06-15
+100,100,21:22 5T1743,,Fort MacKay (HZP),Canadian North B733 (C-GICN),Landed 21:32,2021-06-15
+101,101,21:31 CNK44,,Bonnyville (YBY),Sunwest Aviation DH8C (C-GFCD),Landed 21:44,2021-06-15
+102,102,21:36 WS4043,,Fort MacKay (YFI),WestJet B737 (C-GWJG),Landed 21:23,2021-06-15
+103,103,21:51 WS4035,,Fort MacKay (YFI),WestJet B738 (C-GOCD),Landed 21:51,2021-06-15
+104,104,21:54,AA3721,Dallas (DFW),American Eagle E75L (N251NN),Landed 21:42,2021-06-15
+105,105,22:00,AC323,Montreal (YUL),Air Canada BCS3 (C-GJYC),Landed 21:48,2021-06-15
+106,106,22:15,AC224,Vancouver (YVR),Air Canada B38M (C-FSOI),Landed 22:08,2021-06-15
+107,107,22:25 W8572,,Vancouver (YVR),Cargojet Airways B763 (C-GOCJ),Landed 21:59,2021-06-15
+108,108,22:55,AC157,Toronto (YYZ),Air Canada BCS3 (C-GTZU),Landed 22:50,2021-06-15

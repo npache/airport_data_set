@@ -1,0 +1,1202 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,06:45 TX541,,Pointe-a-Pitre (PTP),Air Caraibes A359 (F-HHAV),Landed 06:32,2021-06-08
+1,1,07:00,AF853,Cayenne (CAY),Air France B772 (F-GSPN),Landed 07:00,2021-06-08
+2,2,07:15,AF841,Fort-de-France (FDF),Air France B77W (F-GSQS),Landed 07:08,2021-06-08
+3,3,07:30,BF701,Saint-Denis (RUN),French bee A359 (F-HREN),Landed 07:28,2021-06-08
+4,4,07:40 TX511,,Fort-de-France (FDF),Air Caraibes A359 (F-HTRE),Landed 07:33,2021-06-08
+5,5,07:50 AF6103,,Toulouse (TLS),Air France A320 (F-HBNK),Landed 07:38,2021-06-08
+6,6,07:55 CE120,,Limoges (LIG),Chalair Aviation AT75 (F-HAPL),Landed 07:41,2021-06-08
+7,7,07:55 CE291,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Landed 07:52,2021-06-08
+8,8,08:00 AF6201,,Nice (NCE),Air France A319 (F-GRXB),Landed 07:40,2021-06-08
+9,9,08:00 T781,,Le Puy (LPY),Twin Jet B190 (F-GRYL),Landed 08:06,2021-06-08
+10,10,08:10 AF7471,,Perpignan (PGF),Air France A318 (F-GUGM),Landed 07:50,2021-06-08
+11,11,08:15 AF7615,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 08:00,2021-06-08
+12,12,08:15 TO4445,,Toulon (TLN),Transavia B738 (F-HTVO),Landed 07:54,2021-06-08
+13,13,08:20 AF6105,,Toulouse (TLS),Air France A321 (F-GMZD),Landed 08:01,2021-06-08
+14,14,08:20 AF7451,,Pau (PUF),Air France A318 (F-GUGL),Landed 08:05,2021-06-08
+15,15,08:25 AF7599,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 08:03,2021-06-08
+16,16,08:25 AF7603,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 08:10,2021-06-08
+17,17,08:30 AF1863,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 08:08,2021-06-08
+18,18,08:30 AF6003,,Marseille (MRS),Air France A318 (F-GUGP),Landed 08:23,2021-06-08
+19,19,08:35 B0101,,New York (EWR),La Compagnie 321,Unknown,2021-06-08
+20,20,08:35,XK770,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 08:25,2021-06-08
+21,21,08:35,XK780,Bastia (BIA),Air Corsica A20N (F-HXKB),Landed 08:13,2021-06-08
+22,22,08:40 AF7539,,Montpellier (MPL),Air France A318 (F-GUGC),Landed 08:20,2021-06-08
+23,23,08:45,XK752,Figari (FSC),Air Corsica A320 (F-HBSA),Landed 08:32,2021-06-08
+24,24,09:00 AF6203,,Nice (NCE),Air France A320 (F-HBND),Landed 08:40,2021-06-08
+25,25,09:05,UX1027,Madrid (MAD),Air Europa B738 (EC-LXV),Landed 09:09,2021-06-08
+26,26,09:10 AF671,,Saint-Denis (RUN),Air France B77W (F-GZNG),Landed 08:50,2021-06-08
+27,27,09:10,TP452,Porto (OPO),TAP Air Portugal A320 (CS-TNQ),Landed 09:07,2021-06-08
+28,28,09:30,IB3402,Madrid (MAD),Iberia A321 (EC-JQZ),Landed 09:19,2021-06-08
+29,29,10:00 U24024,,Toulouse (TLS),easyJet A320 (OE-IJS),Landed 09:43,2021-06-08
+30,30,10:15 SS866,,Fort-de-France (FDF),Corsair A339 (F-HRNB),Landed 10:02,2021-06-08
+31,31,10:20 AF6005,,Marseille (MRS),Air France A319 (F-GRHE),Landed 10:01,2021-06-08
+32,32,10:20 AF6115,,Toulouse (TLS),Air France A318 (F-GUGE),Landed 10:08,2021-06-08
+33,33,10:25 TO4431,,Biarritz (BIQ),Transavia B738 (F-GZHA),Landed 10:06,2021-06-08
+34,34,10:25 U24064,,Nice (NCE),easyJet A320 (OE-IVM),Landed 10:05,2021-06-08
+35,35,10:40 AF7543,,Montpellier (MPL),Air France A319 (F-GRHX),Landed 10:24,2021-06-08
+36,36,10:40 TO4471,,Brest (BES),Transavia B738 (F-HTVA),Landed 10:29,2021-06-08
+37,37,10:45 TU634,,Djerba (DJE),Tunisair B736 (TS-IOK),Landed 10:27,2021-06-08
+38,38,10:55 AF6207,,Nice (NCE),Air France A319 (F-GRHJ),Landed 10:44,2021-06-08
+39,39,11:00 AF7455,,Pau (PUF),Air France A318 (F-GUGK),Landed 10:42,2021-06-08
+40,40,11:10,TP434,Lisbon (LIS),TAP Express E190 (CS-TPO),Landed 11:01,2021-06-08
+41,41,11:10 TU718,,Tunis (TUN),Tunisair A320 (TS-IMF),Landed 10:59,2021-06-08
+42,42,11:20 AF6117,,Toulouse (TLS),Air France A320 (F-HBNA),Landed 11:16,2021-06-08
+43,43,11:20 TO4443,,Toulon (TLN),Transavia B738 (F-HTVJ),Landed 11:19,2021-06-08
+44,44,11:40,VY6251,Rome (FCO),Vueling A320 (EC-MXG),Landed 11:18,2021-06-08
+45,45,11:55,XK782,Bastia (BIA),Air Corsica A320 (F-HBEV),Landed 11:37,2021-06-08
+46,46,12:00 AF6209,,Nice (NCE),Air France A321 (F-GMZC),Landed 11:35,2021-06-08
+47,47,12:05,XK772,Ajaccio (AJA),Air Corsica A320 (F-HZDP),Landed 12:06,2021-06-08
+48,48,12:15 VY8204,,Madrid (MAD),Vueling A320 (EC-MKM),Landed 11:55,2021-06-08
+49,49,12:20,VY8020,Barcelona (BCN),Vueling A321 (EC-MMU),Landed 12:13,2021-06-08
+50,50,12:30 AF7465,,Perpignan (PGF),Air France A319 (F-GRHQ),Landed 10:11,2021-06-08
+51,51,12:30 AH1010,,Algiers (ALG),Air Algerie A332 (7T-VJY),Landed 12:23,2021-06-08
+52,52,12:40 AF1873,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 12:27,2021-06-08
+53,53,13:05 TO3431,,Lisbon (LIS),Transavia B738 (F-HTVT),Landed 13:17,2021-06-08
+54,54,13:20 AF6123,,Toulouse (TLS),Air France A320 (F-HBND),Landed 13:08,2021-06-08
+55,55,13:20 PC1133,,Istanbul (SAW),Pegasus A20N (TC-NCM),Landed 13:03,2021-06-08
+56,56,13:25,XK760,Calvi (CLY),Air Corsica A20N (F-HXKB),Landed 13:06,2021-06-08
+57,57,13:35,IB3406,Madrid (MAD),Iberia A321 (EC-JZM),Landed 13:12,2021-06-08
+58,58,13:35 TO3371,,Djerba (DJE),Transavia B738 (F-GZHU),Landed 13:11,2021-06-08
+59,59,13:40 TO4797,,Monastir (MIR),Transavia B738 (F-GZHZ),Landed 13:16,2021-06-08
+60,60,13:50 AF6013,,Marseille (MRS),Air France A318 (F-GUGP),Landed 13:39,2021-06-08
+61,61,14:00 AF6215,,Nice (NCE),Air France A321 (F-GMZD),Landed 13:50,2021-06-08
+62,62,14:30 TO3151,,Lanzarote (ACE),Transavia B738 (F-HTVB),Landed 14:35,2021-06-08
+63,63,14:45 TO3291,,Fuerteventura (FUE),Transavia B738 (F-HTVC),Landed 14:50,2021-06-08
+64,64,15:20 AF6129,,Toulouse (TLS),Air France A319 (F-GRHJ),Landed 15:04,2021-06-08
+65,65,15:45,XK784,Bastia (BIA),Air Corsica 320,Unknown,2021-06-08
+66,66,15:50,TP442,Lisbon (LIS),TAP Express E190 (CS-TPT),Landed 15:45,2021-06-08
+67,67,15:50,XK774,Ajaccio (AJA),Air Corsica 320,Unknown,2021-06-08
+68,68,15:55,VY3135,Tenerife (TFS),Vueling A20N (EC-NDB),Landed 15:35,2021-06-08
+69,69,16:15 U23986,,Nice (NCE),easyJet A319 (OE-LQL),Landed 15:59,2021-06-08
+70,70,16:50,UX1297,Palma de Mallorca (PMI),Air Europa B738 (EC-LQX),Landed 16:43,2021-06-08
+71,71,17:00,VY8154,Valencia (VLC),Vueling A320 (EC-LVO),Landed 16:39,2021-06-08
+72,72,17:05 VY2861,,Palma de Mallorca (PMI),Vueling A20N (EC-NAV),Landed 16:58,2021-06-08
+73,73,17:15,VY8174,Malaga (AGP),Vueling A20N (EC-NDA),Landed 17:11,2021-06-08
+74,74,17:35 TO3331,,Beirut (BEY),Transavia B738 (F-HTVP),Landed 17:26,2021-06-08
+75,75,17:35 VY2867,,Ibiza (IBZ),Vueling A320 (EC-MKM),Landed 17:21,2021-06-08
+76,76,17:40 AF7551,,Montpellier (MPL),Air France 318,Unknown,2021-06-08
+77,77,18:00 AF6227,,Nice (NCE),Air France A320 (F-HBNI),Landed 17:57,2021-06-08
+78,78,18:10,VY8012,Barcelona (BCN),Vueling A320 (EC-MAI),Landed 18:00,2021-06-08
+79,79,18:10 T787,,Le Puy (LPY),Twin Jet BEH,Unknown,2021-06-08
+80,80,18:20 AF6137,,Toulouse (TLS),Air France A320 (F-GKXG),Landed 18:08,2021-06-08
+81,81,18:30,IB3444,Madrid (MAD),Iberia A321 (EC-JQZ),Landed 18:20,2021-06-08
+82,82,18:50 AF6023,,Marseille (MRS),Air France A321 (F-GMZD),Landed 18:47,2021-06-08
+83,83,18:55 AZ352,,Milan (LIN),Alitalia E75S (EI-RDG),Landed 18:43,2021-06-08
+84,84,19:00 AF6231,,Nice (NCE),Air France A319 (F-GRHQ),Landed 18:40,2021-06-08
+85,85,19:05 TO3121,,Tenerife (TFS),Transavia B738 (F-HTVE),Landed 18:55,2021-06-08
+86,86,19:10 AF7579,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 18:45,2021-06-08
+87,87,19:20 CE124,,Limoges (LIG),Chalair Aviation AT45 (F-GPYM),Landed 19:10,2021-06-08
+88,88,19:20 AF6141,,Toulouse (TLS),Air France 321,Unknown,2021-06-08
+89,89,19:30 AF7605,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 19:09,2021-06-08
+90,90,19:35 AF1861,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 19:19,2021-06-08
+91,91,19:35 AF7619,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 19:27,2021-06-08
+92,92,19:35 TO4449,,Toulon (TLN),Transavia B738 (F-HTVJ),Landed 19:14,2021-06-08
+93,93,19:40 CE295,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Landed 19:22,2021-06-08
+94,94,19:40,VY8251,Alicante (ALC),Vueling A320 (EC-MEA),Landed 19:36,2021-06-08
+95,95,19:50 AF6025,,Marseille (MRS),Air France A318 (F-GUGK),Landed 19:37,2021-06-08
+96,96,19:50 AF7555,,Montpellier (MPL),Air France A318 (F-GUGP),Landed 19:24,2021-06-08
+97,97,20:00 AF6235,,Nice (NCE),Air France A321 (F-GMZB),Landed 19:41,2021-06-08
+98,98,20:20 AF6145,,Toulouse (TLS),Air France A319 (F-GRHX),Landed 20:06,2021-06-08
+99,99,20:20,XK786,Bastia (BIA),Air Corsica A320 (F-HBEV),Landed 19:58,2021-06-08
+100,100,20:25 U24072,,Nice (NCE),easyJet A319 (OE-LQL),Landed 20:09,2021-06-08
+101,101,20:25,XK776,Ajaccio (AJA),Air Corsica A320 (F-HZDP),Landed 20:11,2021-06-08
+102,102,20:35 TO3407,,Porto (OPO),Transavia B738 (F-HTVB),Landed 20:47,2021-06-08
+103,103,20:45 TO4437,,Biarritz (BIQ),Transavia B738 (F-HTVO),Landed 20:22,2021-06-08
+104,104,20:50 AF7461,,Pau (PUF),Air France A318 (F-GUGE),Landed 20:33,2021-06-08
+105,105,21:00 AF6237,,Nice (NCE),Air France A319 (F-GRHE),Landed 20:40,2021-06-08
+106,106,21:05,VY8014,Barcelona (BCN),Vueling A320 (EC-MOG),Landed 20:51,2021-06-08
+107,107,21:20 AF6147,,Toulouse (TLS),Air France A319 (F-GRHJ),Landed 21:12,2021-06-08
+108,108,21:50 AF6029,,Marseille (MRS),Air France A318 (F-GUGM),Landed 21:31,2021-06-08
+109,109,22:00 AF6239,,Nice (NCE),Air France A320 (F-HBNH),Landed 21:44,2021-06-08
+110,110,22:05,IB3400,Madrid (MAD),Iberia A321 (EC-JZM),Landed 21:57,2021-06-08
+111,111,22:05 TO4355,,Tunis (TUN),Transavia B738 (F-GZHZ),Landed 21:54,2021-06-08
+112,112,22:05,VY8016,Barcelona (BCN),Vueling A320 (EC-MXP),Landed 22:00,2021-06-08
+113,113,22:10 AF7469,,Perpignan (PGF),Air France A318 (F-GUGC),Landed 21:48,2021-06-08
+114,114,22:15 U24034,,Toulouse (TLS),easyJet A320 (OE-IVM),Landed 22:11,2021-06-08
+115,115,22:35,VY1982,Lisbon (LIS),Vueling A320 (EC-MXG),Landed 22:05,2021-06-08
+116,116,22:35,VY6254,Rome (FCO),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 22:08,2021-06-08
+117,117,22:50 TO3459,,Porto (OPO),Transavia B738 (F-HTVA),Landed 22:28,2021-06-08
+118,118,23:00,TP446,Lisbon (LIS),TAP Air Portugal A20N (CS-TVA),Landed 22:41,2021-06-08
+0,0,06:45 TX541,,Pointe-a-Pitre (PTP),Air Caraibes 359,Unknown,2021-06-09
+1,1,07:25 SS773,,Saint-Denis (RUN),Corsair A339 (F-HSKA),Landed 06:51,2021-06-09
+2,2,07:50 AF6103,,Toulouse (TLS),Air France A320 (F-HBNK),Landed 07:36,2021-06-09
+3,3,07:55 CE120,,Limoges (LIG),Chalair Aviation AT45 (F-GPYK),Landed 07:44,2021-06-09
+4,4,07:55 CE291,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Landed 07:41,2021-06-09
+5,5,08:00 AF6201,,Nice (NCE),Air France A319 (F-GRHQ),Landed 07:40,2021-06-09
+6,6,08:00,NL1220,Rodez (RDZ),Amelia International E145 (F-HRAP),Landed 07:51,2021-06-09
+7,7,08:00 T781,,Le Puy (LPY),Twin Jet B190 (F-GRYL),Landed 07:55,2021-06-09
+8,8,08:10,AF795,Pointe-a-Pitre (PTP),Air France B77W (F-GSQT),Landed 07:47,2021-06-09
+9,9,08:10 AF7471,,Perpignan (PGF),Air France 318,Canceled,2021-06-09
+10,10,08:15 AF7615,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 07:58,2021-06-09
+11,11,08:15 TO4445,,Toulon (TLN),Transavia B738 (F-HTVP),Landed 07:53,2021-06-09
+12,12,08:20 AF6003,,Marseille (MRS),Air France A319 (F-GRHI),Landed 08:10,2021-06-09
+13,13,08:20 AF6105,,Toulouse (TLS),Air France A320 (F-HBNI),Landed 08:04,2021-06-09
+14,14,08:20 AF7451,,Pau (PUF),Air France A318 (F-GUGP),Landed 08:12,2021-06-09
+15,15,08:20 AF7539,,Montpellier (MPL),Air France A318 (F-GUGL),Landed 08:08,2021-06-09
+16,16,08:25 AF7599,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 08:03,2021-06-09
+17,17,08:25 AF7603,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 08:01,2021-06-09
+18,18,08:30 SS985,,Abidjan (ABJ),Corsair A333 (F-HROK),Landed 08:32,2021-06-09
+19,19,08:30 AF1863,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 08:06,2021-06-09
+20,20,08:35 B0101,,New York (EWR),La Compagnie 321,Unknown,2021-06-09
+21,21,08:35,XK770,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 08:21,2021-06-09
+22,22,08:35,XK780,Bastia (BIA),Air Corsica A320 (F-HBEV),Unknown,2021-06-09
+23,23,08:45,XK752,Figari (FSC),Air Corsica A20N (F-HXKB),Landed 08:34,2021-06-09
+24,24,08:50 TX571,,Cayenne (CAY),Air Caraibes A359 (F-HHAV),Landed 08:39,2021-06-09
+25,25,09:00 AF6203,,Nice (NCE),Air France A320 (F-HBNA),Landed 08:37,2021-06-09
+26,26,09:25,VY8020,Barcelona (BCN),Vueling A20N (EC-NAE),Landed 09:02,2021-06-09
+27,27,09:30,IB3402,Madrid (MAD),Iberia A321 (EC-ILP),Landed 09:17,2021-06-09
+28,28,10:00 U24024,,Toulouse (TLS),easyJet A320 (OE-IVE),Landed 09:44,2021-06-09
+29,29,10:20 AF6005,,Marseille (MRS),Air France A318 (F-GUGC),Landed 10:06,2021-06-09
+30,30,10:20 AF6115,,Toulouse (TLS),Air France A320 (F-HBNB),Landed 09:59,2021-06-09
+31,31,10:25 TO4431,,Biarritz (BIQ),Transavia B738 (F-HTVJ),Landed 11:13,2021-06-09
+32,32,10:25 U24064,,Nice (NCE),easyJet A320 (OE-ICP),Landed 10:04,2021-06-09
+33,33,10:30 AF7465,,Perpignan (PGF),Air France A319 (F-GRHJ),Landed 10:13,2021-06-09
+34,34,10:40 AF7543,,Montpellier (MPL),Air France A318 (F-GUGE),Landed 10:38,2021-06-09
+35,35,10:40 TO4471,,Brest (BES),Transavia B738 (F-HTVO),Landed 10:29,2021-06-09
+36,36,10:55 AF6207,,Nice (NCE),Air France A319 (F-GRHX),Landed 10:42,2021-06-09
+37,37,11:00 AF7455,,Pau (PUF),Air France A318 (F-GUGM),Landed 10:46,2021-06-09
+38,38,11:10,TP434,Lisbon (LIS),TAP Air Portugal A20N (CS-TVD),Landed 11:08,2021-06-09
+39,39,11:10 TU718,,Tunis (TUN),Tunisair A320 (TS-IMT),Landed 11:09,2021-06-09
+40,40,11:20 AF6117,,Toulouse (TLS),Air France A318 (F-GUGK),Landed 11:00,2021-06-09
+41,41,11:20 TO4443,,Toulon (TLN),Transavia B738 (F-HTVB),Landed 11:05,2021-06-09
+42,42,11:55,XK782,Bastia (BIA),Air Corsica A320 (F-HZDP),Landed 11:34,2021-06-09
+43,43,12:00 AF6209,,Nice (NCE),Air France A319 (F-GRHE),Landed 11:59,2021-06-09
+44,44,12:05,XK772,Ajaccio (AJA),Air Corsica A320 (F-HBSA),Landed 11:50,2021-06-09
+45,45,12:30,VY8172,Malaga (AGP),Vueling A320 (EC-MKM),Landed 12:21,2021-06-09
+46,46,12:40 AF1873,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 12:10,2021-06-09
+47,47,13:05 TO3431,,Lisbon (LIS),Transavia B738 (F-HTVA),Landed 13:02,2021-06-09
+48,48,13:15,VY8255,Alicante (ALC),Vueling A20N (EC-NCT),Landed 13:11,2021-06-09
+49,49,13:20 AF6123,,Toulouse (TLS),Air France A320 (F-HBNA),Landed 13:07,2021-06-09
+50,50,13:20 PC1133,,Istanbul (SAW),Pegasus A21N (TC-RBA),Landed 13:15,2021-06-09
+51,51,13:25,XK760,Calvi (CLY),Air Corsica A320 (F-HBEV),Landed 13:05,2021-06-09
+52,52,13:35,IB3406,Madrid (MAD),Iberia A321 (EC-JZM),Landed 13:17,2021-06-09
+53,53,13:50 AF6013,,Marseille (MRS),Air France A319 (F-GRHI),Landed 13:36,2021-06-09
+54,54,14:00 AF6215,,Nice (NCE),Air France A321 (F-GMZC),Landed 14:01,2021-06-09
+55,55,14:30,VY8008,Barcelona (BCN),Vueling A320 (EC-LLJ),Landed 14:26,2021-06-09
+56,56,14:54 AF380V,,Marseille (MRS),Air France A318 (F-GUGG),Landed 14:46,2021-06-09
+57,57,15:20 AF6129,,Toulouse (TLS),Air France A319 (F-GRHX),Landed 15:05,2021-06-09
+58,58,15:45,XK784,Bastia (BIA),Air Corsica 32N,Unknown,2021-06-09
+59,59,15:50,TP442,Lisbon (LIS),TAP Air Portugal A319 (CS-TTS),Landed 15:43,2021-06-09
+60,60,15:50,XK774,Ajaccio (AJA),Air Corsica 320,Unknown,2021-06-09
+61,61,16:15 U23986,,Nice (NCE),easyJet A320 (OE-INE),Landed 16:02,2021-06-09
+62,62,16:20 TO4121,,Monastir (MIR),Transavia B738 (F-HTVR),Landed 16:18,2021-06-09
+63,63,16:35 TU722,,Tunis (TUN),Tunisair A320 (TS-IMS),Landed 16:31,2021-06-09
+64,64,16:45 TO3405,,Porto (OPO),Transavia B738 (F-HTVO),Landed 17:04,2021-06-09
+65,65,16:55,VY9437,Milan (MXP),Vueling A20N (EC-NAE),Landed 17:01,2021-06-09
+66,66,17:05 VY2867,,Ibiza (IBZ),Vueling A320 (EC-LVO),Landed 17:16,2021-06-09
+67,67,17:25,TP456,Porto (OPO),TAP Air Portugal A20N (CS-TVH),Landed 17:07,2021-06-09
+68,68,17:30 VY2856,,Palma de Mallorca (PMI),Vueling A320 (EC-KLB),Landed 17:19,2021-06-09
+69,69,17:30,VY8156,Valencia (VLC),Vueling A320 (EC-MXG),Landed 18:03,2021-06-09
+70,70,17:40 AF7551,,Montpellier (MPL),Air France 318,Unknown,2021-06-09
+71,71,17:45 TO3931,,Tel Aviv (TLV),Transavia B738 (F-HTVQ),Landed 18:12,2021-06-09
+72,72,18:00 AF6227,,Nice (NCE),Air France A321 (F-GMZD),Landed 18:03,2021-06-09
+73,73,18:10 T787,,Le Puy (LPY),Twin Jet BEH,Unknown,2021-06-09
+74,74,18:20 AF6137,,Toulouse (TLS),Air France A320 (F-HBNA),Landed 18:16,2021-06-09
+75,75,18:25,VY8012,Barcelona (BCN),Vueling A321 (EC-MGZ),Landed 19:20,2021-06-09
+76,76,18:30,IB3444,Madrid (MAD),Iberia A321 (EC-HUI),Landed 18:12,2021-06-09
+77,77,18:50 AF6023,,Marseille (MRS),Air France A319 (F-GRHI),Landed 18:32,2021-06-09
+78,78,18:55 AZ352,,Milan (LIN),Alitalia E75S (EI-RDH),Landed 18:42,2021-06-09
+79,79,19:00 AF6231,,Nice (NCE),Air France A320 (F-HBNK),Landed 19:25,2021-06-09
+80,80,19:10 AF7579,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 18:46,2021-06-09
+81,81,19:15,UX1025,Madrid (MAD),Air Europa B738 (EC-LUT),Landed 19:04,2021-06-09
+82,82,19:20 CE124,,Limoges (LIG),Chalair Aviation AT45 (F-GPYK),Landed 19:07,2021-06-09
+83,83,19:25,VY6254,Rome (FCO),Vueling A20N (EC-NAX),Landed 19:35,2021-06-09
+84,84,19:30 AF7605,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 19:12,2021-06-09
+85,85,19:35 AF7619,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 19:32,2021-06-09
+86,86,19:35 TO4449,,Toulon (TLN),Transavia B738 (F-HTVJ),Landed 19:16,2021-06-09
+87,87,19:35 AF1861,,Tarbes (LDE),Amelia International E145 (F-HRGD),Unknown,2021-06-09
+88,88,19:40 CE295,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Landed 19:29,2021-06-09
+89,89,19:50 AF6025,,Marseille (MRS),Air France A318 (F-GUGC),Landed 19:37,2021-06-09
+90,90,19:50 AF7555,,Montpellier (MPL),Air France A318 (F-GUGM),Landed 19:28,2021-06-09
+91,91,20:00 AF6235,,Nice (NCE),Air France A320 (F-HBNI),Landed 19:46,2021-06-09
+92,92,20:00 W61353,,Warsaw (WAW),Wizz Air 32Q,Unknown,2021-06-09
+93,93,20:20 AF6145,,Toulouse (TLS),Air France A319 (F-GRHX),Landed 20:17,2021-06-09
+94,94,20:20,XK786,Bastia (BIA),Air Corsica A20N (F-HXKB),Landed 20:00,2021-06-09
+95,95,20:25 U24072,,Nice (NCE),easyJet A320 (OE-IVM),Landed 20:38,2021-06-09
+96,96,20:25,XK776,Ajaccio (AJA),Air Corsica A320 (F-HBSA),Landed 20:08,2021-06-09
+97,97,20:35 TO3407,,Porto (OPO),Transavia B738 (F-HTVA),Landed 20:14,2021-06-09
+98,98,20:45 TO4437,,Biarritz (BIQ),Transavia B738 (F-HTVM),Landed 20:14,2021-06-09
+99,99,20:50 AF7461,,Pau (PUF),Air France A318 (F-GUGK),Landed 20:35,2021-06-09
+100,100,20:50,VY1504,Florence (FLR),Vueling A319 (EC-NGB),Landed 20:26,2021-06-09
+101,101,21:00 AF6237,,Nice (NCE),Air France A319 (F-GRHJ),Landed 20:48,2021-06-09
+102,102,21:05,VY8014,Barcelona (BCN),Vueling A321 (EC-MHS),Landed 20:56,2021-06-09
+103,103,21:20 AF6147,,Toulouse (TLS),Air France A321 (F-GMZC),Landed 21:09,2021-06-09
+104,104,21:50 AF6029,,Marseille (MRS),Air France A318 (F-GUGE),Landed 21:33,2021-06-09
+105,105,22:00 AF6239,,Nice (NCE),Air France A320 (F-HBNH),Landed 21:43,2021-06-09
+106,106,22:00 TO3367,,Djerba (DJE),Transavia B738 (F-GZHZ),Landed 21:47,2021-06-09
+107,107,22:00 TO3557,,Santorini (JTR),Transavia B738 (F-HTVD),Landed 21:38,2021-06-09
+108,108,22:05,IB3400,Madrid (MAD),Iberia A321 (EC-JQZ),Landed 21:41,2021-06-09
+109,109,22:10 AF7469,,Perpignan (PGF),Air France A318 (F-GUGG),Landed 22:36,2021-06-09
+110,110,22:15 U24034,,Toulouse (TLS),easyJet A320 (OE-INE),Landed 22:01,2021-06-09
+111,111,22:35 VY8204,,Madrid (MAD),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 22:26,2021-06-09
+112,112,22:40 TO3409,,Porto (OPO),Transavia B738 (F-HTVR),Landed 22:38,2021-06-09
+113,113,22:40 TO3589,,Thessaloniki (SKG),Transavia B738 (F-HTVE),Landed 22:23,2021-06-09
+114,114,22:45 TO3539,,Chania (CHQ),Transavia B738 (F-HTVB),Landed 22:45,2021-06-09
+115,115,22:50 TO3459,,Porto (OPO),Transavia B738 (F-GZHF),Landed 22:31,2021-06-09
+116,116,23:00,TP446,Lisbon (LIS),TAP Air Portugal A20N (CS-TVI),Landed 22:52,2021-06-09
+0,0,06:45 TX541,,Pointe-a-Pitre (PTP),Air Caraïbes A35K (F-HMIL),Landed 07:22,2021-06-10
+1,1,07:15,AF841,Fort-de-France (FDF),Air France B77W (F-GZNG),Landed 07:29,2021-06-10
+2,2,07:30,BF701,Saint-Denis (RUN),French bee A359 (F-HREV),Landed 07:08,2021-06-10
+3,3,07:40 TX511,,Fort-de-France (FDF),Air Caraibes A359 (F-HNET),Landed 07:51,2021-06-10
+4,4,07:50 AF6103,,Toulouse (TLS),Air France A321 (F-GMZD),Landed 07:26,2021-06-10
+5,5,07:55 TX537,,Pointe-a-Pitre (PTP),Air Caraibes 359,Unknown,2021-06-10
+6,6,07:55 CE291,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Unknown,2021-06-10
+7,7,08:00 AF6201,,Nice (NCE),Air France A319 (F-GRHQ),Landed 07:37,2021-06-10
+8,8,08:00 T781,,Le Puy (LPY),Twin Jet BEH,Unknown,2021-06-10
+9,9,08:10,AF795,Pointe-a-Pitre (PTP),Air France B77W (F-GSQT),Landed 08:12,2021-06-10
+10,10,08:10,AF853,Cayenne (CAY),Air France B772 (F-GSPN),Landed 07:49,2021-06-10
+11,11,08:10 AF7471,,Perpignan (PGF),Air France 318,Canceled,2021-06-10
+12,12,08:15 TO4445,,Toulon (TLN),Transavia B738 (F-GZHU),Landed 08:03,2021-06-10
+13,13,08:15 AF7615,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 07:54,2021-06-10
+14,14,08:20 AF6003,,Marseille (MRS),Air France A319 (F-GRXB),Landed 08:17,2021-06-10
+15,15,08:20 AF7539,,Montpellier (MPL),Air France A318 (F-GUGP),Landed 08:43,2021-06-10
+16,16,08:20 AF6105,,Toulouse (TLS),Air France A320 (F-HBNK),Landed 07:58,2021-06-10
+17,17,08:20 AF7451,,Pau (PUF),Air France A318 (F-GUGM),Landed 07:53,2021-06-10
+18,18,08:25 AF7599,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 08:07,2021-06-10
+19,19,08:25 AF7603,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 08:04,2021-06-10
+20,20,08:30 AF1863,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 07:59,2021-06-10
+21,21,08:35 B0101,,New York (EWR),La Compagnie 321,Unknown,2021-06-10
+22,22,08:35,XK770,Ajaccio (AJA),Air Corsica A320 (F-HBSA),Unknown,2021-06-10
+23,23,08:35,XK780,Bastia (BIA),Air Corsica A320 (F-HZDP),Landed 08:14,2021-06-10
+24,24,08:45,VY1504,Florence (FLR),Vueling A319 (EC-NGB),Landed 08:36,2021-06-10
+25,25,08:45,XK752,Figari (FSC),Air Corsica A320 (F-HBEV),Landed 08:41,2021-06-10
+26,26,09:00,VY8000,Barcelona (BCN),Vueling A20N (EC-NBA),Landed 08:50,2021-06-10
+27,27,09:00 AF6203,,Nice (NCE),Air France A320 (F-HBNA),Landed 08:45,2021-06-10
+28,28,09:05,UX1027,Madrid (MAD),Air Europa B738 (EC-LUT),Landed 08:54,2021-06-10
+29,29,09:10,TP452,Porto (OPO),TAP Air Portugal A320 (CS-TNW),Landed 08:46,2021-06-10
+30,30,09:20 SS927,,Pointe-a-Pitre (PTP),Corsair A333 (F-HJAZ),Landed 10:16,2021-06-10
+31,31,09:20,VY8172,Malaga (AGP),Vueling A320 (EC-MVE),Landed 08:51,2021-06-10
+32,32,09:30,IB3402,Madrid (MAD),Iberia A321 (EC-JZM),Landed 09:17,2021-06-10
+33,33,10:00 U24024,,Toulouse (TLS),easyJet A320 (OE-ICP),Landed 09:41,2021-06-10
+34,34,10:10 SS925,,Fort-de-France (FDF),Corsair A339 (F-HRNB),Landed 13:14,2021-06-10
+35,35,10:20 AF6115,,Toulouse (TLS),Air France A321 (F-GMZC),Landed 09:59,2021-06-10
+36,36,10:20 AF6005,,Marseille (MRS),Air France A318 (F-GUGE),Landed 10:14,2021-06-10
+37,37,10:25 TO4431,,Biarritz (BIQ),Transavia B738 (F-HTVM),Landed 09:58,2021-06-10
+38,38,10:25 U24064,,Nice (NCE),easyJet A320 (OE-IVE),Landed 10:20,2021-06-10
+39,39,10:40 AF7543,,Montpellier (MPL),Air France A318 (F-GUGK),Landed 10:42,2021-06-10
+40,40,10:45 TU634,,Djerba (DJE),Tunisair B736 (TS-IOK),Landed 11:11,2021-06-10
+41,41,10:55 AF6207,,Nice (NCE),Air France A319 (F-GRHJ),Landed 10:53,2021-06-10
+42,42,11:00 AF7455,,Pau (PUF),Air France A318 (F-GUGL),Landed 10:40,2021-06-10
+43,43,11:10,TP434,Lisbon (LIS),TAP Air Portugal A20N (CS-TVE),Landed 10:54,2021-06-10
+44,44,11:10 TU718,,Tunis (TUN),Tunisair A320 (TS-IMS),Landed 11:17,2021-06-10
+45,45,11:20 TO3401,,Porto (OPO),Transavia B738 (F-HTVJ),Landed 11:03,2021-06-10
+46,46,11:20 TO4443,,Toulon (TLN),Transavia B738 (F-GZHF),Landed 11:06,2021-06-10
+47,47,11:20 AF6117,,Toulouse (TLS),Air France A320 (F-HBND),Landed 10:55,2021-06-10
+48,48,11:55,XK782,Bastia (BIA),Air Corsica A20N (F-HXKB),Landed 11:33,2021-06-10
+49,49,12:00 AF6209,,Nice (NCE),Air France A319 (F-GRHX),Landed 11:47,2021-06-10
+50,50,12:05,VY6251,Rome (FCO),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 11:44,2021-06-10
+51,51,12:05,XK772,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 11:54,2021-06-10
+52,52,12:20,VY8020,Barcelona (BCN),Vueling A321 (EC-MRF),Landed 11:58,2021-06-10
+53,53,12:30 U24058,,Nice (NCE),easyJet A320 (OE-IVZ),Landed 12:17,2021-06-10
+54,54,12:30 AF7465,,Perpignan (PGF),Air France A319 (F-GRHQ),Landed 12:08,2021-06-10
+55,55,12:30 AH1010,,Algiers (ALG),Air Algerie A332 (7T-VJX),Landed 13:01,2021-06-10
+56,56,12:40 AF1873,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 12:14,2021-06-10
+57,57,13:10 TO4797,,Monastir (MIR),Transavia B738 (F-GZHZ),Landed 12:50,2021-06-10
+58,58,13:15 TO3021,,Oujda (OUD),Transavia B738 (F-HTVV),Landed 12:41,2021-06-10
+59,59,13:20 PC1133,,Istanbul (SAW),Pegasus A21N (TC-RBF),Landed 12:58,2021-06-10
+60,60,13:20 AF6123,,Toulouse (TLS),Air France A320 (F-HBNA),Landed 13:07,2021-06-10
+61,61,13:25,XK760,Calvi (CLY),Air Corsica A320 (F-HBEV),Landed 13:21,2021-06-10
+62,62,13:35,IB3406,Madrid (MAD),Iberia A320 (EC-LVD),Landed 13:19,2021-06-10
+63,63,13:50,VY8008,Barcelona (BCN),Vueling A319 (EC-MGF),Landed 13:27,2021-06-10
+64,64,13:50 AF6013,,Marseille (MRS),Air France A319 (F-GRXB),Landed 13:43,2021-06-10
+65,65,13:55 TO3561,,Kalamata (KLX),Transavia B738 (F-HTVE),Landed 13:49,2021-06-10
+66,66,14:00 AF6215,,Nice (NCE),Air France A321 (F-GMZD),Landed 13:51,2021-06-10
+67,67,15:15 TO3201,,Seville (SVQ),Transavia B738 (F-HTVD),Landed 15:53,2021-06-10
+68,68,15:20 AF6129,,Toulouse (TLS),Air France A319 (F-GRHJ),Landed 15:13,2021-06-10
+69,69,15:30 TO3161,,Malaga (AGP),Transavia B738 (F-HTVN),Landed 15:33,2021-06-10
+70,70,15:45,XK784,Bastia (BIA),Air Corsica 320,Unknown,2021-06-10
+71,71,15:50,TP442,Lisbon (LIS),TAP Air Portugal A20N (CS-TVG),Landed 15:42,2021-06-10
+72,72,15:50,XK774,Ajaccio (AJA),Air Corsica A320 (F-HBSA),Unknown,2021-06-10
+73,73,16:05,VY3188,Lanzarote (ACE),Vueling A320 (EC-LVO),Landed 15:39,2021-06-10
+74,74,16:10 TO3551,,Santorini (JTR),Transavia B738 (F-HTVB),Landed 16:02,2021-06-10
+75,75,16:15 U23986,,Nice (NCE),easyJet A319 (OE-LQL),Landed 16:00,2021-06-10
+76,76,16:20 VY2867,,Ibiza (IBZ),Vueling A320 (EC-LOC),Landed 16:11,2021-06-10
+77,77,16:30,AF7593,Bastia (BIA),Air France A321 (F-GMZC),Landed 16:15,2021-06-10
+78,78,16:50,UX1297,Palma de Mallorca (PMI),Air Europa B738 (EC-MJU),Landed 16:38,2021-06-10
+79,79,16:55,VY1986,Porto (OPO),Vueling A320 (EC-MXP),Landed 16:45,2021-06-10
+80,80,17:05,VY8156,Valencia (VLC),Vueling A320 (EC-MKM),Landed 17:01,2021-06-10
+81,81,17:20 TO3475,,Faro (FAO),Transavia B738 (F-GZHU),Landed 17:21,2021-06-10
+82,82,17:25,TP456,Porto (OPO),TAP Air Portugal A320 (CS-TNQ),Landed 17:07,2021-06-10
+83,83,17:35 TO3331,,Beirut (BEY),Transavia B738 (F-HTVA),Landed 17:19,2021-06-10
+84,84,17:40 AF7551,,Montpellier (MPL),Air France A318 (F-GUGK),Landed 17:27,2021-06-10
+85,85,17:40 VY2856,,Palma de Mallorca (PMI),Vueling A320 (EC-LVS),Landed 17:29,2021-06-10
+86,86,17:45 TO3435,,Lisbon (LIS),Transavia B738 (F-HTVO),Landed 17:49,2021-06-10
+87,87,17:55,KM466,Luqa (MLA),Air Malta A320 (9H-AHS),Landed 17:46,2021-06-10
+88,88,18:00 AF6227,,Nice (NCE),Air France A321 (F-GMZB),Landed 18:40,2021-06-10
+89,89,18:10 T787,,Le Puy (LPY),Twin Jet BEH,Unknown,2021-06-10
+90,90,18:20 AF6137,,Toulouse (TLS),Air France A320 (F-HBNA),Landed 18:31,2021-06-10
+91,91,18:30,IB3444,Madrid (MAD),Iberia A321 (EC-IJN),Landed 18:10,2021-06-10
+92,92,18:30 TO3207,,Seville (SVQ),Transavia B738 (F-GZHC),Landed 18:13,2021-06-10
+93,93,18:35 U24030,,Toulouse (TLS),easyJet A320 (OE-ICP),Landed 18:55,2021-06-10
+94,94,18:50 TO3217,,Palma de Mallorca (PMI),Transavia B738 (F-HTVG),Landed 21:09,2021-06-10
+95,95,18:50 AF6023,,Marseille (MRS),Air France A318 (F-GUGG),Landed 18:35,2021-06-10
+96,96,18:55 AZ352,,Milan (LIN),Alitalia E75S (EI-RDB),Landed 18:53,2021-06-10
+97,97,19:00 AF6231,,Nice (NCE),Air France A319 (F-GRHE),Landed 18:45,2021-06-10
+98,98,19:10 AF7579,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 18:42,2021-06-10
+99,99,19:20 CE124,,Limoges (LIG),Chalair Aviation AT45 (F-GPYK),Landed 19:02,2021-06-10
+100,100,19:30 AF7605,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 19:11,2021-06-10
+101,101,19:35 TO4449,,Toulon (TLN),Transavia B738 (F-GZHF),Landed 19:07,2021-06-10
+102,102,19:35 AF1861,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 19:08,2021-06-10
+103,103,19:35 AF7619,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 19:27,2021-06-10
+104,104,19:40 CE295,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Landed 19:36,2021-06-10
+105,105,19:40 TO3187,,Madrid (MAD),Transavia France -,Unknown,2021-06-10
+106,106,19:50 AF6025,,Marseille (MRS),Air France A318 (F-GUGM),Landed 19:41,2021-06-10
+107,107,19:50 AF7555,,Montpellier (MPL),Air France A318 (F-GUGL),Landed 19:22,2021-06-10
+108,108,20:00 AF6235,,Nice (NCE),Air France A320 (F-HBND),Landed 19:45,2021-06-10
+109,109,20:20,XK786,Bastia (BIA),Air Corsica A20N (F-HXKB),Landed 20:05,2021-06-10
+110,110,20:20 AF6145,,Toulouse (TLS),Air France A319 (F-GRHJ),Landed 20:22,2021-06-10
+111,111,20:25 U24072,,Nice (NCE),easyJet A319 (OE-LQL),Landed 19:59,2021-06-10
+112,112,20:25,XK776,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 20:29,2021-06-10
+113,113,20:30 TO4471,,Brest (BES),Transavia B738 (F-HTVM),Landed 20:24,2021-06-10
+114,114,20:35 TO3407,,Porto (OPO),Transavia B738 (F-GZHD),Landed 20:30,2021-06-10
+115,115,20:35,VY1982,Lisbon (LIS),Vueling A320 (EC-MXG),Landed 20:11,2021-06-10
+116,116,20:45 TO4437,,Biarritz (BIQ),Transavia B738 (F-HTVN),Landed 20:15,2021-06-10
+117,117,20:45,VY8251,Alicante (ALC),Vueling A320 (EC-MEA),Landed 20:34,2021-06-10
+118,118,20:50 AF7461,,Pau (PUF),Air France A319 (F-GRXB),Landed 20:32,2021-06-10
+119,119,21:00 AF6237,,Nice (NCE),Air France A319 (F-GRHQ),Landed 20:42,2021-06-10
+120,120,21:05,VY8014,Barcelona (BCN),Vueling (Disneyland Paris Livery) A320 (EC-MYC),Landed 20:49,2021-06-10
+121,121,21:20 AF6147,,Toulouse (TLS),Air France A321 (F-GMZC),Landed 21:24,2021-06-10
+122,122,21:40 TO3509,,Heraklion (HER),Transavia B738 (F-GZHJ),Landed 21:30,2021-06-10
+123,123,21:50 AF6029,,Marseille (MRS),Air France A320 (F-HBNI),Landed 21:38,2021-06-10
+124,124,21:55 TO3549,,Corfu (CFU),Transavia B738 (F-HTVE),Landed 21:40,2021-06-10
+125,125,22:00 AF6239,,Nice (NCE),Air France A320 (F-HBNK),Landed 21:47,2021-06-10
+126,126,22:00 TO3367,,Djerba (DJE),Transavia B738 (F-GZHZ),Landed 21:34,2021-06-10
+127,127,22:00 TO3519,,Mykonos (JMK),Transavia B738 (F-HTVT),Landed 21:45,2021-06-10
+128,128,22:05,IB3400,Madrid (MAD),Iberia A321 (EC-JQZ),Landed 21:52,2021-06-10
+129,129,22:05 TO4119,,Tunis (TUN),Transavia B738 (F-HTVV),Landed 21:36,2021-06-10
+130,130,22:10 AF7469,,Perpignan (PGF),Air France A318 (F-GUGP),Landed 21:49,2021-06-10
+131,131,22:10 TO3529,,Athens (ATH),Transavia B738 (F-HTVI),Landed 21:56,2021-06-10
+132,132,22:15 U24034,,Toulouse (TLS),easyJet A320 (OE-ICP),Landed 22:47,2021-06-10
+133,133,22:35 TO3239,,Barcelona (BCN),Transavia B738 (F-GZHU),Landed 22:53,2021-06-10
+134,134,22:40 TO3439,,Lisbon (LIS),Transavia B738 (F-HTVD),Landed 22:55,2021-06-10
+135,135,22:50 TO3619,,Rhodes (RHO),Transavia B738 (F-GZHX),Landed 22:45,2021-06-10
+136,136,22:50 TO3459,,Porto (OPO),Transavia B738 (F-HTVJ),Landed 22:39,2021-06-10
+137,137,23:00,TP446,Lisbon (LIS),TAP Air Portugal A20N (CS-TVG),Landed 22:50,2021-06-10
+0,0,6:45 AM TX541,,Pointe-a-Pitre (PTP),Air Caraibes A359 (F-HTRE),Landed 6:35 AM,2021-06-11
+1,1,7:25 AM SS911,,Saint-Denis (RUN),Corsair A339 (F-HSKA),Landed 7:02 AM,2021-06-11
+2,2,7:40 AM TX511,,Fort-de-France (FDF),Air Caraïbes A35K (F-HMIL),Landed 7:43 AM,2021-06-11
+3,3,7:50 AM AF6103,,Toulouse (TLS),Air France A321 (F-GMZD),Landed 7:37 AM,2021-06-11
+4,4,7:55 AM CE120,,Limoges (LIG),Chalair Aviation AT3,Unknown,2021-06-11
+5,5,8:00 AM AF6201,,Nice (NCE),Air France A319 (F-GRHX),Landed 7:49 AM,2021-06-11
+6,6,8:00 AM T781,,Le Puy (LPY),Twin Jet BEH,Unknown,2021-06-11
+7,7,8:10 AM,AF795,Pointe-a-Pitre (PTP),Air France B77W (F-GSQT),Landed 7:50 AM,2021-06-11
+8,8,8:10 AM AF7471,,Perpignan (PGF),Air France A318 (F-GUGL),Landed 7:48 AM,2021-06-11
+9,9,8:15 AM TO4445,,Toulon (TLN),Transavia B738 (F-HTVO),Landed 8:14 AM,2021-06-11
+10,10,8:15 AM AF7615,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 7:58 AM,2021-06-11
+11,11,8:20 AM AF6003,,Marseille (MRS),Air France A318 (F-GUGK),Landed 8:03 AM,2021-06-11
+12,12,8:20 AM AF7539,,Montpellier (MPL),Air France A318 (F-GUGC),Landed 8:07 AM,2021-06-11
+13,13,8:20 AM AF6105,,Toulouse (TLS),Air France A320 (F-GKXK),Landed 8:06 AM,2021-06-11
+14,14,8:20 AM AF7451,,Pau (PUF),Air France A318 (F-GUGM),Landed 8:03 AM,2021-06-11
+15,15,8:25 AM AF7599,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 8:09 AM,2021-06-11
+16,16,8:25 AM AF7603,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 7:53 AM,2021-06-11
+17,17,8:30 AM SS985,,Abidjan (ABJ),Corsair A333 (F-HROK),Landed 8:20 AM,2021-06-11
+18,18,8:30 AM AF1863,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 7:55 AM,2021-06-11
+19,19,8:35 AM B0101,,New York (EWR),La Compagnie 321,Unknown,2021-06-11
+20,20,8:35 AM,XK780,Bastia (BIA),Air Corsica A320 (F-HZDP),Landed 8:18 AM,2021-06-11
+21,21,8:35 AM,XK770,Ajaccio (AJA),Air Corsica A320 (F-HBSA),Landed 8:31 AM,2021-06-11
+22,22,8:50 AM TX571,,Cayenne (CAY),Air Caraibes A359 (F-HHAV),Landed 8:32 AM,2021-06-11
+23,23,8:50 AM,VY8000,Barcelona (BCN),Vueling A319 (EC-MGF),Landed 8:23 AM,2021-06-11
+24,24,9:00 AM AF6203,,Nice (NCE),Air France A320 (F-HBNA),Landed 8:41 AM,2021-06-11
+25,25,9:05 AM,UX1027,Madrid (MAD),Air Europa B738 (EC-LUT),Landed 8:51 AM,2021-06-11
+26,26,9:10 AM AF671,,Saint-Denis (RUN),Air France B77W (F-GSQX),Landed 8:53 AM,2021-06-11
+27,27,9:10 AM,TP452,Porto (OPO),TAP Air Portugal A20N (CS-TVH),Landed 8:59 AM,2021-06-11
+28,28,9:10 AM,VY8152,Valencia (VLC),Vueling A320 (EC-MES),Landed 8:44 AM,2021-06-11
+29,29,9:20 AM,VY8253,Alicante (ALC),Vueling A20N (EC-NCT),Landed 8:56 AM,2021-06-11
+30,30,9:50 AM TX543,,Pointe-a-Pitre (PTP),Air Caraibes A359 (F-HNET),Landed 9:31 AM,2021-06-11
+31,31,10:00 AM AF6205,,Nice (NCE),Air France A320 (F-HBNK),Landed 9:45 AM,2021-06-11
+32,32,10:00 AM U24024,,Toulouse (TLS),easyJet A320 (OE-ICP),Landed 9:35 AM,2021-06-11
+33,33,10:15 AM SS866,,Fort-de-France (FDF),Corsair A333 (F-HZEN),Landed 10:34 AM,2021-06-11
+34,34,10:20 AM AF6005,,Marseille (MRS),Air France A318 (F-GUGP),Landed 10:06 AM,2021-06-11
+35,35,10:20 AM AF6115,,Toulouse (TLS),Air France A321 (F-GMZC),Landed 9:58 AM,2021-06-11
+36,36,10:25 AM TO4431,,Biarritz (BIQ),Transavia B738 (F-HTVM),Landed 10:04 AM,2021-06-11
+37,37,10:25 AM U24064,,Nice (NCE),easyJet A320 (OE-INE),Landed 10:13 AM,2021-06-11
+38,38,10:30 AM TU634,,Monastir (MIR),Tunisair A320 (TS-IMF),Unknown,2021-06-11
+39,39,10:35 AM,XK778,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 10:17 AM,2021-06-11
+40,40,10:40 AM AF7543,,Montpellier (MPL),Air France A319 (F-GRXB),Landed 10:26 AM,2021-06-11
+41,41,10:55 AM AF6207,,Nice (NCE),Air France A320 (F-HBNB),Landed 10:42 AM,2021-06-11
+42,42,11:00 AM AF7455,,Pau (PUF),Air France A318 (F-GUGE),Landed 10:39 AM,2021-06-11
+43,43,11:05 AM TO3261,,Mahon (MAH),Transavia B738 (F-GZHF),Landed 11:04 AM,2021-06-11
+44,44,11:10 AM,TP434,Lisbon (LIS),TAP Air Portugal A320 (CS-TNY),Landed 11:02 AM,2021-06-11
+45,45,11:10 AM TU718,,Tunis (TUN),Tunisair A320 (TS-IMW),Landed 11:11 AM,2021-06-11
+46,46,11:20 AM AF6117,,Toulouse (TLS),Air France A319 (F-GRHQ),Landed 11:14 AM,2021-06-11
+47,47,11:20 AM TO4443,,Toulon (TLN),Transavia B738 (F-HTVN),Landed 11:10 AM,2021-06-11
+48,48,11:20 AM,VY8008,Barcelona (BCN),Vueling A20N (EC-NFK),Landed 11:28 AM,2021-06-11
+49,49,11:30 AM VY2861,,Palma de Mallorca (PMI),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 11:30 AM,2021-06-11
+50,50,11:40 AM,VY6251,Rome (FCO),Vueling A320 (EC-LVO),Landed 11:22 AM,2021-06-11
+51,51,11:45 AM U24060,,Nice (NCE),easyJet A320 (OE-IVC),Landed 11:44 AM,2021-06-11
+52,52,11:50 AM,VY8020,Barcelona (BCN),Vueling A20N (EC-NFH),Landed 11:24 AM,2021-06-11
+53,53,11:55 AM AT666,,Tangier (TNG),Royal Air Maroc 73H,Canceled,2021-06-11
+54,54,11:55 AM,XK782,Bastia (BIA),Air Corsica A20N (F-HXKJ),Landed 11:31 AM,2021-06-11
+55,55,12:00 PM AF6209,,Nice (NCE),Air France A319 (F-GRHJ),Landed 11:57 AM,2021-06-11
+56,56,12:00 PM,IB3436,Madrid (MAD),Iberia A321 (EC-JZM),Landed 11:39 AM,2021-06-11
+57,57,12:05 PM,XK772,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Landed 11:47 AM,2021-06-11
+58,58,12:10 PM AT650,,Oujda (OUD),Royal Air Maroc 73H,Canceled,2021-06-11
+59,59,12:10 PM CE293,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Landed 11:53 AM,2021-06-11
+60,60,12:15 PM TU634,,Djerba (DJE),Tunisair A320 (TS-IMF),Unknown,2021-06-11
+61,61,12:20 PM AT760,,Casablanca (CMN),Royal Air Maroc 73H,Canceled,2021-06-11
+62,62,12:20 PM AT780,,Rabat (RBA),Royal Air Maroc 73H,Canceled,2021-06-11
+63,63,12:30 PM AF7465,,Perpignan (PGF),Air France A319 (F-GRHX),Landed 12:09 PM,2021-06-11
+64,64,12:30 PM TU440,,Monastir (MIR),Tunisair A319 (TS-IMQ),Landed 12:02 PM,2021-06-11
+65,65,12:40 PM AF1873,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 12:18 PM,2021-06-11
+66,66,1:10 PM TO3431,,Lisbon (LIS),Transavia B738 (F-GZHA),Landed 1:13 PM,2021-06-11
+67,67,1:20 PM AF6123,,Toulouse (TLS),Air France A321 (F-GMZD),Landed 1:26 PM,2021-06-11
+68,68,1:20 PM PC1133,,Istanbul (SAW),Pegasus A21N (TC-RBC),Landed 1:02 PM,2021-06-11
+69,69,1:35 PM,IB3406,Madrid (MAD),Iberia A321 (EC-JGS),Landed 1:18 PM,2021-06-11
+70,70,1:40 PM TO3073,,Tangier (TNG),Transavia France 73H,Unknown,2021-06-11
+71,71,1:50 PM,AF4261,Calvi (CLY),Air France A320 (F-HBNA),Landed 1:34 PM,2021-06-11
+72,72,1:50 PM AF6013,,Marseille (MRS),Air France A318 (F-GUGC),Landed 1:42 PM,2021-06-11
+73,73,2:00 PM TO3015,,Marrakesh (RAK),Transavia France 73H,Unknown,2021-06-11
+74,74,2:00 PM AF6215,,Nice (NCE),Air France A320 (F-GKXK),Landed 2:04 PM,2021-06-11
+75,75,2:10 PM W61353,,Warsaw (WAW),Wizz Air A21N (HA-LVA),Landed 2:00 PM,2021-06-11
+76,76,2:20 PM TO3513,,Mykonos (JMK),Transavia B738 (F-HTVT),Landed 1:51 PM,2021-06-11
+77,77,2:25 PM U24298,,Milan (LIN),easyJet A320 (OE-IVU),Landed 2:25 PM,2021-06-11
+78,78,2:30 PM,AF7567,Ajaccio (AJA),Air France A321 (F-GMZB),Landed 2:19 PM,2021-06-11
+79,79,2:30 PM,XK754,Figari (FSC),Air Corsica A320 (F-HBEV),Landed 2:21 PM,2021-06-11
+80,80,2:55 PM TO3401,,Porto (OPO),Transavia B738 (F-GZHU),Landed 3:04 PM,2021-06-11
+81,81,3:10 PM TO3201,,Seville (SVQ),Transavia B738 (F-HTVO),Landed 3:18 PM,2021-06-11
+82,82,3:20 PM AF6129,,Toulouse (TLS),Air France A319 (F-GRXB),Landed 3:25 PM,2021-06-11
+83,83,3:25 PM,VY8174,Malaga (AGP),Vueling A320 (EC-MVE),Landed 3:15 PM,2021-06-11
+84,84,3:45 PM,AF7561,Figari (FSC),Air France A320 (F-HBNK),Landed 4:12 PM,2021-06-11
+85,85,3:45 PM TO4213,,Split (SPU),Transavia B738 (F-GZHZ),Landed 3:39 PM,2021-06-11
+86,86,3:45 PM,XK784,Bastia (BIA),Air Corsica A320 (F-HZDP),Landed 3:40 PM,2021-06-11
+87,87,3:50 PM,TP442,Lisbon (LIS),TAP Air Portugal A319 (CS-TTN),Landed 3:54 PM,2021-06-11
+88,88,3:50 PM,XK774,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 5:09 PM,2021-06-11
+89,89,4:15 PM AT764,,Casablanca (CMN),Royal Air Maroc 73H,Canceled,2021-06-11
+90,90,4:15 PM U23986,,Nice (NCE),easyJet A320 (OE-IJZ),Landed 4:11 PM,2021-06-11
+91,91,4:25 PM TB7501,,Casablanca (CMN),TUIfly Belgium 73H,Unknown,2021-06-11
+92,92,4:30 PM,AF7593,Bastia (BIA),Air France A321 (F-GMZC),Landed 4:17 PM,2021-06-11
+93,93,4:40 PM U24294,,Venice (VCE),easyJet A319 (OE-LQN),Landed 4:24 PM,2021-06-11
+94,94,4:45 PM TO3245,,Alicante (ALC),Transavia B738 (F-HTVH),Landed 5:12 PM,2021-06-11
+95,95,4:45 PM VY2867,,Ibiza (IBZ),Vueling A320 (EC-MXG),Landed 4:45 PM,2021-06-11
+96,96,4:50 PM U24244,,Rome (FCO),easyJet A320 (OE-ICP),Landed 4:33 PM,2021-06-11
+97,97,4:50 PM,VY9437,Milan (MXP),Vueling A20N (EC-NAE),Landed 7:36 PM,2021-06-11
+98,98,4:55 PM U24214,,Pisa (PSA),easyJet A320 (OE-IVC),Landed 5:17 PM,2021-06-11
+99,99,5:00 PM TO3255,,Ibiza (IBZ),Transavia B738 (F-HTVB),Landed 5:05 PM,2021-06-11
+100,100,5:15 PM TO3175,,Valencia (VLC),Transavia B738 (F-HTVN),Landed 5:36 PM,2021-06-11
+101,101,5:20 PM AF6133,,Toulouse (TLS),Air France A319 (F-GRHJ),Landed 5:32 PM,2021-06-11
+102,102,5:25 PM,TP456,Porto (OPO),TAP Air Portugal A20N (CS-TVH),Landed 5:25 PM,2021-06-11
+103,103,5:30 PM TO3367,,Djerba (DJE),Transavia B738 (F-HTVV),Landed 5:19 PM,2021-06-11
+104,104,5:30 PM U21395,,Geneva (GVA),easyJet A320 (HB-JXI),Landed 5:22 PM,2021-06-11
+105,105,5:35 PM TO3931,,Tel Aviv (TLV),Transavia B738 (F-HTVA),Landed 5:47 PM,2021-06-11
+106,106,5:40 PM AF7551,,Montpellier (MPL),Air France A318 (F-GUGL),Landed 5:30 PM,2021-06-11
+107,107,5:50 PM TO3475,,Faro (FAO),Transavia B738 (F-GZHL),Landed 5:41 PM,2021-06-11
+108,108,6:00 PM AF6227,,Nice (NCE),Air France A319 (F-GRHQ),Landed 5:58 PM,2021-06-11
+109,109,6:05 PM AT770,,Casablanca (CMN),Royal Air Maroc 73H,Canceled,2021-06-11
+110,110,6:10 PM T787,,Le Puy (LPY),Twin Jet BEH,Unknown,2021-06-11
+111,111,6:20 PM AF6137,,Toulouse (TLS),Air France A320 (F-HBNB),Landed 6:22 PM,2021-06-11
+112,112,6:30 PM,IB3444,Madrid (MAD),Iberia A321 (EC-IJN),Landed 6:33 PM,2021-06-11
+113,113,6:35 PM U24030,,Toulouse (TLS),easyJet A320 (OE-IVU),Landed 6:30 PM,2021-06-11
+114,114,6:50 PM TO3217,,Palma de Mallorca (PMI),Transavia B738 (F-GZHX),Landed 7:14 PM,2021-06-11
+115,115,6:50 PM AF6023,,Marseille (MRS),Air France A318 (F-GUGC),Landed 6:44 PM,2021-06-11
+116,116,6:55 PM AZ352,,Milan (LIN),Alitalia E75S (EI-RDG),Landed 7:09 PM,2021-06-11
+117,117,7:00 PM AF6231,,Nice (NCE),Air France A320 (F-HBNH),Landed 6:46 PM,2021-06-11
+118,118,7:10 PM AF7579,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 6:49 PM,2021-06-11
+119,119,7:15 PM AT622,,Dakhla (VIL),Royal Air Maroc 73H,Canceled,2021-06-11
+120,120,7:15 PM,UX1025,Madrid (MAD),Air Europa B738 (EC-LPR),Landed 7:19 PM,2021-06-11
+121,121,7:20 PM AF9429,,Bari (BRI),Air France A318 (F-GUGM),Landed 7:27 PM,2021-06-11
+122,122,7:20 PM CE124,,Limoges (LIG),Chalair Aviation AT45 (F-GPYM),Landed 7:15 PM,2021-06-11
+123,123,7:20 PM AF6141,,Toulouse (TLS),Air France A320 (F-HBNA),Landed 7:25 PM,2021-06-11
+124,124,7:25 PM AT652,,Fes (FEZ),Royal Air Maroc 73H,Canceled,2021-06-11
+125,125,7:25 PM,XK760,Calvi (CLY),Air Corsica A320 (F-HBEV),Landed 7:17 PM,2021-06-11
+126,126,7:30 PM,NL1228,Rodez (RDZ),Amelia International E145 (F-HRAP),Landed 7:21 PM,2021-06-11
+127,127,7:30 PM AF7605,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 7:13 PM,2021-06-11
+128,128,7:35 PM TO3187,,Madrid (MAD),Transavia B738 (F-GZHA),Landed 8:21 PM,2021-06-11
+129,129,7:35 PM TO4449,,Toulon (TLN),Transavia B738 (F-HTVI),Landed 7:23 PM,2021-06-11
+130,130,7:35 PM AF7619,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 7:29 PM,2021-06-11
+131,131,7:35 PM AF1861,,Tarbes (LDE),Amelia International E145 (F-HRGD),Unknown,2021-06-11
+132,132,7:40 PM CE295,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Unknown,2021-06-11
+133,133,7:50 PM AF6025,,Marseille (MRS),Air France A318 (F-GUGE),Landed 7:34 PM,2021-06-11
+134,134,7:50 PM AF7555,,Montpellier (MPL),Air France A318 (F-GUGP),Landed 7:32 PM,2021-06-11
+135,135,7:55 PM U25539,,Berlin (BER),easyJet A320 (OE-IZU),Landed 7:49 PM,2021-06-11
+136,136,8:00 PM TO4437,,Biarritz (BIQ),Transavia B738 (F-GZHD),Landed 7:40 PM,2021-06-11
+137,137,8:00 PM AF6235,,Nice (NCE),Air France A320 (F-GKXK),Landed 7:56 PM,2021-06-11
+138,138,8:05 PM TO4479,,Brest (BES),Transavia B738 (F-HTVM),Landed 7:57 PM,2021-06-11
+139,139,8:10 PM TO3167,,Malaga (AGP),Transavia B738 (F-GZHC),Landed 8:26 PM,2021-06-11
+140,140,8:20 PM AF6145,,Toulouse (TLS),Air France A320 (F-HBND),Landed 8:09 PM,2021-06-11
+141,141,8:20 PM AT740,,Marrakesh (RAK),Royal Air Maroc 73H,Canceled,2021-06-11
+142,142,8:20 PM,XK786,Bastia (BIA),Air Corsica A20N (F-HXKJ),Landed 8:01 PM,2021-06-11
+143,143,8:25 PM U24072,,Nice (NCE),easyJet A320 (OE-IJZ),Landed 8:12 PM,2021-06-11
+144,144,8:25 PM,XK776,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Landed 8:15 PM,2021-06-11
+145,145,8:30 PM TO3479,,Faro (FAO),Transavia B738 (F-HTVQ),Landed 10:32 PM,2021-06-11
+146,146,8:30 PM,VY8251,Alicante (ALC),Vueling A20N (EC-NCT),Landed 8:19 PM,2021-06-11
+147,147,8:50 PM AF7461,,Pau (PUF),Air France A320 (F-HBNK),Landed 8:34 PM,2021-06-11
+148,148,8:55 PM AT664,,Agadir (AGA),Royal Air Maroc 73H,Canceled,2021-06-11
+149,149,8:55 PM TO3407,,Porto (OPO),Transavia B738 (F-HTVO),Landed 8:59 PM,2021-06-11
+150,150,9:00 PM TO3019,,Marrakesh (RAK),Transavia France 73H,Unknown,2021-06-11
+151,151,9:00 PM AF6237,,Nice (NCE),Air France A319 (F-GRHX),Landed 8:57 PM,2021-06-11
+152,152,9:05 PM,VY8014,Barcelona (BCN),Vueling A320 (EC-MAI),Landed 9:02 PM,2021-06-11
+153,153,9:10 PM W62367,,Budapest (BUD),Wizz Air A320 (HA-LWE),Landed 8:54 PM,2021-06-11
+154,154,9:20 PM AF6147,,Toulouse (TLS),Air France A321 (F-GMZC),Landed 9:23 PM,2021-06-11
+155,155,9:25 PM TO3529,,Athens (ATH),Transavia B738 (F-HTVE),Landed 9:20 PM,2021-06-11
+156,156,9:35 PM,VY8156,Valencia (VLC),Vueling A320 (EC-LVO),Landed 9:49 PM,2021-06-11
+157,157,9:40 PM TO3069,,Casablanca (CMN),Transavia France 73H,Unknown,2021-06-11
+158,158,9:40 PM U24258,,Naples (NAP),easyJet A320 (OE-INE),Landed 9:33 PM,2021-06-11
+159,159,9:50 PM AF6029,,Marseille (MRS),Air France A318 (F-GUGL),Landed 9:43 PM,2021-06-11
+160,160,9:55 PM TO3539,,Chania (CHQ),Transavia B738 (F-HTVP),Unknown,2021-06-11
+161,161,10:00 PM AF6239,,Nice (NCE),Air France A319 (F-GRHJ),Landed 10:13 PM,2021-06-11
+162,162,10:05 PM,IB3400,Madrid (MAD),Iberia A321 (EC-HUH),Landed 9:51 PM,2021-06-11
+163,163,10:05 PM TO4119,,Tunis (TUN),Transavia B738 (F-GZHB),Landed 10:26 PM,2021-06-11
+164,164,10:10 PM,VY8016,Barcelona (BCN),Vueling A320 (EC-MXG),Landed 10:03 PM,2021-06-11
+165,165,10:10 PM AF7469,,Perpignan (PGF),Air France A321 (F-GMZD),Landed 9:45 PM,2021-06-11
+166,166,10:15 PM TO3439,,Lisbon (LIS),Transavia B738 (F-HTVC),Landed 10:31 PM,2021-06-11
+167,167,10:15 PM TO3809,,Catania (CTA),Transavia B738 (F-GZHU),Landed 9:55 PM,2021-06-11
+168,168,10:15 PM U24034,,Toulouse (TLS),easyJet A320 (OE-IVU),Landed 9:59 PM,2021-06-11
+169,169,10:20 PM TO4439,,Biarritz (BIQ),Transavia B738 (F-GZHL),Landed 10:01 PM,2021-06-11
+170,170,10:25 PM TO3509,,Heraklion (HER),Transavia B738 (F-HTVJ),Landed 10:29 PM,2021-06-11
+171,171,10:25 PM TO3815,,Palermo (PMO),Transavia B738 (F-HTVT),Landed 9:53 PM,2021-06-11
+172,172,10:30 PM TO4089,,Algiers (ALG),Transavia France 73H,Canceled,2021-06-11
+173,173,10:35 PM TO3189,,Madrid (MAD),Transavia B738 (F-HTVB),Landed 10:27 PM,2021-06-11
+174,174,10:35 PM TO3559,,Santorini (JTR),Transavia B738 (F-HTVD),Landed 10:23 PM,2021-06-11
+175,175,10:35 PM TO3859,,Olbia (OLB),Transavia B738 (F-HTVN),Landed 10:57 PM,2021-06-11
+176,176,10:35 PM,VY1982,Lisbon (LIS),Vueling A20N (EC-NFH),Landed 10:19 PM,2021-06-11
+177,177,10:35 PM VY8204,,Madrid (MAD),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 10:24 PM,2021-06-11
+178,178,10:45 PM TO3239,,Barcelona (BCN),Transavia B738 (F-HTVV),Landed 11:05 PM,2021-06-11
+179,179,10:45 PM TO3829,,Naples (NAP),Transavia B738 (F-GZHZ),Landed 10:48 PM,2021-06-11
+180,180,10:50 PM TO3459,,Porto (OPO),Transavia B738 (F-GZHF),Landed 10:52 PM,2021-06-11
+181,181,11:00 PM,TP446,Lisbon (LIS),TAP Air Portugal A319 (CS-TTN),Landed 10:58 PM,2021-06-11
+0,0,07:00 AF853A,,Cayenne (CAY),Air France B772 (F-GSPN),Landed 12:44,2021-06-12
+1,1,07:00,AF853,Cayenne (CAY),Air France B772 (F-GSPN),Landed 12:44,2021-06-12
+2,2,07:15,AF841,Fort-de-France (FDF),Air France B77W (F-GZNG),Landed 07:17,2021-06-12
+3,3,07:40,XK780,Bastia (BIA),Air Corsica A20N (F-HXKJ),Landed 07:16,2021-06-12
+4,4,07:40,XK778,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Landed 07:22,2021-06-12
+5,5,08:15 AF7471,,Perpignan (PGF),Air France A318 (F-GUGP),Landed 07:54,2021-06-12
+6,6,08:20 AF6105,,Toulouse (TLS),Air France A320 (F-HBNL),Landed 08:16,2021-06-12
+7,7,08:30 SS985,,Abidjan (ABJ),Corsair A333 (F-HSKY),Landed 08:22,2021-06-12
+8,8,08:30 TX530,,Fort-de-France (FDF),Air Caraibes A359 (F-HTRE),Landed 08:18,2021-06-12
+9,9,08:30 U24062,,Nice (NCE),easyJet A319 (OE-LQA),Landed 08:29,2021-06-12
+10,10,08:35 B0101,,New York (EWR),La Compagnie 321,Unknown,2021-06-12
+11,11,08:35 TO4445,,Toulon (TLN),Transavia B738 (F-HTVH),Landed 08:13,2021-06-12
+12,12,08:50 AF6003,,Marseille (MRS),Air France A318 (F-GUGM),Landed 08:39,2021-06-12
+13,13,08:55 TX571,,Cayenne (CAY),Air Caraibes A359 (F-HNET),Landed 09:03,2021-06-12
+14,14,08:55 AF1863,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 08:25,2021-06-12
+15,15,08:55,VY8000,Barcelona (BCN),Vueling A321 (EC-MHS),Landed 08:46,2021-06-12
+16,16,09:00 AF6203,,Nice (NCE),Air France A320 (F-HBNH),Landed 08:43,2021-06-12
+17,17,09:05,UX1027,Madrid (MAD),Air Europa B738 (EC-LTM),Landed 08:59,2021-06-12
+18,18,09:20,VY8172,Malaga (AGP),Vueling A320 (EC-LUO),Landed 09:08,2021-06-12
+19,19,09:40 AF7543,,Montpellier (MPL),Air France A318 (F-GUGK),Landed 09:36,2021-06-12
+20,20,09:50,BF713,Pointe-a-Pitre (PTP),French bee A359 (F-HREN),Landed 10:06,2021-06-12
+21,21,10:00 AF6205,,Nice (NCE),Air France A321 (F-GMZC),Landed 09:45,2021-06-12
+22,22,10:10 AF7451,,Pau (PUF),Air France A318 (F-GUGE),Landed 09:55,2021-06-12
+23,23,10:15 U24022,,Toulouse (TLS),easyJet A320 (OE-INE),Landed 10:10,2021-06-12
+24,24,10:15,VY8255,Alicante (ALC),Vueling A20N (EC-NCT),Landed 09:57,2021-06-12
+25,25,10:20 AF6113,,Toulouse (TLS),Air France A321 (F-GMZB),Landed 10:11,2021-06-12
+26,26,10:40,VY6251,Rome (FCO),Vueling A320 (EC-MJC),Landed 10:30,2021-06-12
+27,27,10:45 TU634,,Djerba (DJE),Tunisair 736,Canceled,2021-06-12
+28,28,11:00 AF6207,,Nice (NCE),Air France A318 (F-GUGL),Landed 10:44,2021-06-12
+29,29,11:05,VY1502,Florence (FLR),Vueling A319 (EC-NGB),Landed 10:51,2021-06-12
+30,30,11:05,VY8156,Valencia (VLC),Vueling A320 (EC-LVO),Landed 10:39,2021-06-12
+31,31,11:10,TP434,Lisbon (LIS),TAP Air Portugal (Retro Livery) A21N (CS-TJR),Landed 11:04,2021-06-12
+32,32,11:10 TU718,,Tunis (TUN),Tunisair A320 (TS-IMN),Landed 11:53,2021-06-12
+33,33,11:20,AF7567,Ajaccio (AJA),Air France A321 (F-GMZD),Landed 11:11,2021-06-12
+34,34,11:20 AF6117,,Toulouse (TLS),Air France A319 (F-GRHJ),Landed 11:05,2021-06-12
+35,35,11:30,AF7561,Figari (FSC),Air France A320 (F-HBND),Landed 11:09,2021-06-12
+36,36,11:45 TO3161,,Malaga (AGP),Transavia B738 (F-HTVO),Landed 11:56,2021-06-12
+37,37,11:55 AF6009,,Marseille (MRS),Air France A319 (F-GRHI),Landed 11:37,2021-06-12
+38,38,12:00 AF6209,,Nice (NCE),Air France A320 (F-HBNA),Landed 11:39,2021-06-12
+39,39,12:00,IB3436,Madrid (MAD),Iberia A321 (EC-ILP),Landed 11:41,2021-06-12
+40,40,12:10 AT650,,Oujda (OUD),Royal Air Maroc 73H,Unknown,2021-06-12
+41,41,12:20 AT780,,Rabat (RBA),Royal Air Maroc 73H,Unknown,2021-06-12
+42,42,12:20 AT760,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-12
+43,43,12:20 TO4441,,Toulon (TLN),Transavia B738 (F-HTVM),Landed 11:58,2021-06-12
+44,44,12:20 VY2867,,Ibiza (IBZ),Vueling A20N (EC-NFH),Landed 12:19,2021-06-12
+45,45,12:30 AF7465,,Perpignan (PGF),Air France A321 (F-GTAX),Landed 12:23,2021-06-12
+46,46,12:35 TO4111,,Tunis (TUN),Transavia B738 (F-GZHC),Landed 12:32,2021-06-12
+47,47,12:35 TO4123,,Sfax (SFA),Transavia B738 (F-GZHB),Landed 12:14,2021-06-12
+48,48,12:40 TO4433,,Biarritz (BIQ),Transavia B738 (F-GZHL),Landed 12:16,2021-06-12
+49,49,12:40 VY8808,,Seville (SVQ),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 12:25,2021-06-12
+50,50,12:55 TO3251,,Ibiza (IBZ),Transavia B738 (F-GZHZ),Landed 13:12,2021-06-12
+51,51,13:00 AF6213,,Nice (NCE),Air France A320 (F-HBNL),Landed 12:58,2021-06-12
+52,52,13:05 AF1873,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 12:38,2021-06-12
+53,53,13:15 TB7511,,Oujda (OUD),TUIfly Belgium 73H,Unknown,2021-06-12
+54,54,13:20 PC1133,,Istanbul (SAW),Pegasus A21N (TC-RBF),Landed 12:56,2021-06-12
+55,55,13:20 TO3601,,Zakynthos (ZTH),Transavia B738 (F-HTVI),Landed 13:21,2021-06-12
+56,56,13:20 AF6123,,Toulouse (TLS),Air France A320 (F-HBNH),Landed 13:07,2021-06-12
+57,57,13:35,IB3406,Madrid (MAD),Iberia A321 (EC-JQZ),Landed 13:10,2021-06-12
+58,58,13:50 AF7457,,Pau (PUF),Air France A318 (F-GUGM),Landed 13:37,2021-06-12
+59,59,13:50 AF6013,,Marseille (MRS),Air France A318 (F-GUGK),Landed 13:41,2021-06-12
+60,60,14:05 TO3363,,Djerba (DJE),Transavia B738 (F-HTVJ),Landed 13:57,2021-06-12
+61,61,14:30 AF6217,,Nice (NCE),Air France A320 (F-GKXG),Landed 15:10,2021-06-12
+62,62,14:30 TO3011,,Marrakesh (RAK),Transavia France 73H,Unknown,2021-06-12
+63,63,14:30 TO4435,,Biarritz (BIQ),Transavia B738 (F-GZHA),Landed 14:10,2021-06-12
+64,64,14:40 AF7547,,Montpellier (MPL),Air France A318 (F-GUGE),Landed 14:19,2021-06-12
+65,65,14:55 TO3151,,Lanzarote (ACE),Transavia B738 (F-HTVD),Landed 15:15,2021-06-12
+66,66,15:00 AF6219,,Nice (NCE),Air France A321 (F-GMZB),Landed 15:17,2021-06-12
+67,67,15:05,AF7563,Ajaccio (AJA),Air France A321 (F-GMZC),Landed 15:06,2021-06-12
+68,68,15:05,AF7611,Calvi (CLY),Air France A320 (F-HBNI),Landed 14:46,2021-06-12
+69,69,15:05 TO3201,,Seville (SVQ),Transavia B738 (F-HTVP),Landed 15:30,2021-06-12
+70,70,15:05 U24220,,Olbia (OLB),easyJet A320 (OE-INE),Landed 15:14,2021-06-12
+71,71,15:15 TO3061,,Casablanca (CMN),Transavia France 73H,Unknown,2021-06-12
+72,72,15:20 AF6129,,Toulouse (TLS),Air France A318 (F-GUGL),Landed 15:08,2021-06-12
+73,73,15:40 VY3192,,Fuerteventura (FUE),Vueling A20N (EC-NAE),Landed 15:12,2021-06-12
+74,74,15:50 TO3571,,Kos (KGS),Transavia B738 (F-HTVB),Landed 15:40,2021-06-12
+75,75,15:50,TP442,Lisbon (LIS),TAP Air Portugal A21N (CS-TJK),Landed 15:50,2021-06-12
+76,76,15:50 TU722,,Tunis (TUN),Tunisair A320 (TS-IMS),Landed 20:38,2021-06-12
+77,77,15:55 TO4471,,Brest (BES),Transavia B738 (F-HTVV),Landed 15:38,2021-06-12
+78,78,16:05 TO3473,,Faro (FAO),Transavia B738 (F-GZHR),Landed 16:01,2021-06-12
+79,79,16:05 TO4447,,Toulon (TLN),Transavia B738 (F-HTVN),Landed 15:52,2021-06-12
+80,80,16:05,VY3188,Lanzarote (ACE),Vueling A320 (EC-MXG),Landed 15:45,2021-06-12
+81,81,16:10 AF6221,,Nice (NCE),Air France A320 (F-HBND),Landed 15:54,2021-06-12
+82,82,16:10 TO3435,,Lisbon (LIS),Transavia B738 (F-HTVQ),Landed 16:49,2021-06-12
+83,83,16:15 AT764,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-12
+84,84,16:20 TO3551,,Santorini (JTR),Transavia B738 (F-GZHX),Landed 16:03,2021-06-12
+85,85,16:25 TB7501,,Casablanca (CMN),TUIfly Belgium 73H,Unknown,2021-06-12
+86,86,16:25 TO3291,,Fuerteventura (FUE),Transavia B738 (F-GZHU),Landed 16:32,2021-06-12
+87,87,16:25 TO3221,,Gran Canaria (LPA),Transavia B738 (F-HTVE),Landed 16:43,2021-06-12
+88,88,16:25,XK772,Ajaccio (AJA),Air Corsica 32N,Canceled,2021-06-12
+89,89,16:30,AF7591,Bastia (BIA),Air France A321 (F-GMZD),Landed 16:15,2021-06-12
+90,90,16:35 AT664,,Agadir (AGA),Royal Air Maroc 73H,Unknown,2021-06-12
+91,91,16:50 U23986,,Nice (NCE),easyJet A319 (OE-LQA),Landed 16:24,2021-06-12
+92,92,16:55,VY1986,Porto (OPO),Vueling (Vueling ❤️ Barcelona Livery) A320 (EC-MNZ),Landed 18:53,2021-06-12
+93,93,17:00 AF6225,,Nice (NCE),Air France A320 (F-HBNB),Landed 16:41,2021-06-12
+94,94,17:10,XK784,Bastia (BIA),Air Corsica 32N,Canceled,2021-06-12
+95,95,17:20 TO3451,,Porto (OPO),Transavia B738 (F-GZHD),Landed 17:37,2021-06-12
+96,96,17:25,AF7573,Calvi (CLY),Air France A319 (F-GRHI),Landed 16:59,2021-06-12
+97,97,17:25,TP456,Porto (OPO),TAP Air Portugal A320 (CS-TNW),Landed 17:18,2021-06-12
+98,98,17:55,AF7595,Bastia (BIA),Air France A320 (F-HBNA),Landed 17:36,2021-06-12
+99,99,17:55,KM466,Luqa (MLA),Air Malta A320 (9H-AEP),Landed 17:31,2021-06-12
+100,100,18:00 AF6227,,Nice (NCE),Air France A320 (F-HBNK),Landed 17:41,2021-06-12
+101,101,18:05,AF7565,Ajaccio (AJA),Air France A321 (F-GTAX),Landed 17:53,2021-06-12
+102,102,18:05 AT770,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-12
+103,103,18:30,IB3444,Madrid (MAD),Iberia A321 (EC-HUI),Landed 18:09,2021-06-12
+104,104,18:30 TO3513,,Mykonos (JMK),Transavia B738 (F-HTVH),Landed 18:01,2021-06-12
+105,105,18:55,AF7571,Calvi (CLY),Air France A320 (F-HBNH),Landed 18:32,2021-06-12
+106,106,18:55,VY8012,Barcelona (BCN),Vueling A321 (EC-MOO),Landed 18:30,2021-06-12
+107,107,19:10 TO3217,,Palma de Mallorca (PMI),Transavia B738 (F-HTVO),Landed 18:46,2021-06-12
+108,108,19:15,UX1025,Madrid (MAD),Air Europa B738 (EC-LPR),Landed 19:01,2021-06-12
+109,109,19:25 AT654,,Oujda (OUD),Royal Air Maroc 73H,Unknown,2021-06-12
+110,110,19:30,XK754,Figari (FSC),Air Corsica A320 (F-HBEV),Landed 19:07,2021-06-12
+111,111,19:35,AF7569,Ajaccio (AJA),Air France A320 (F-HBNL),Landed 19:32,2021-06-12
+112,112,20:00 AF6235,,Nice (NCE),Air France A318 (F-GUGL),Landed 19:43,2021-06-12
+113,113,20:00,AF7593,Bastia (BIA),Air France A321 (F-GMZC),Landed 20:10,2021-06-12
+114,114,20:15,VY8174,Malaga (AGP),Vueling A320 (EC-MVE),Landed 20:01,2021-06-12
+115,115,20:20,AF7613,Calvi (CLY),Air France A320 (F-GKXG),Landed 20:04,2021-06-12
+116,116,20:20 AT740,,Marrakesh (RAK),Royal Air Maroc 73H,Unknown,2021-06-12
+117,117,20:20 TO3331,,Beirut (BEY),Transavia B738 (F-HTVT),Landed 20:07,2021-06-12
+118,118,20:25 AF6145,,Toulouse (TLS),Air France A318 (F-GUGG),Landed 20:06,2021-06-12
+119,119,20:30,AF9425,Ajaccio (AJA),Air France A320 (F-HBNI),Landed 20:18,2021-06-12
+120,120,20:55 TO3407,,Porto (OPO),Transavia B738 (F-HTVM),Landed 20:58,2021-06-12
+121,121,21:00 TO3019,,Marrakesh (RAK),Transavia France 73H,Unknown,2021-06-12
+122,122,21:20 U24278,,Faro (FAO),easyJet A320 (OE-IJS),Landed 22:17,2021-06-12
+123,123,21:30,AF7597,Bastia (BIA),Air France A320 (F-HBND),Landed 21:09,2021-06-12
+124,124,21:30 TO4089,,Algiers (ALG),Transavia B738 (F-GZHC),Unknown,2021-06-12
+125,125,21:35 TO3505,,Heraklion (HER),Transavia B738 (F-HTVA),Landed 21:42,2021-06-12
+126,126,22:00 AF6239,,Nice (NCE),Air France A320 (F-HBNB),Landed 21:40,2021-06-12
+127,127,22:00 VY2856,,Palma de Mallorca (PMI),Vueling A320 (EC-MXG),Landed 21:37,2021-06-12
+128,128,22:00 TO3521,,Athens (ATH),Transavia B738 (F-HTVC),Landed 21:52,2021-06-12
+129,129,22:05,IB3400,Madrid (MAD),Iberia A321 (EC-JZM),Landed 21:35,2021-06-12
+130,130,22:05 TO3009,,Agadir (AGA),Transavia France 73H,Unknown,2021-06-12
+131,131,22:05 TO3039,,Rabat (RBA),Transavia France 73H,Unknown,2021-06-12
+132,132,22:05 TO4269,,Monastir (MIR),Transavia B738 (F-GZHB),Landed 21:49,2021-06-12
+133,133,22:10,AF7559,Figari (FSC),Air France A320 (F-GKXK),Landed 22:10,2021-06-12
+134,134,22:25 TO3029,,Oujda (OUD),Transavia France 73H,Unknown,2021-06-12
+135,135,22:30 TO3507,,Heraklion (HER),Transavia B738 (F-HTVI),Landed 22:29,2021-06-12
+136,136,22:35,VY3135,Tenerife (TFS),Vueling A20N (EC-NFH),Landed 22:18,2021-06-12
+137,137,22:40 TO4205,,Dubrovnik (DBV),Transavia B738 (F-GZHZ),Landed 22:15,2021-06-12
+138,138,22:45 TO3879,,Bari (BRI),Transavia B738 (F-HTVV),Landed 22:24,2021-06-12
+139,139,22:50 TO4159,,Oran (ORN),Transavia France 73H,Unknown,2021-06-12
+140,140,23:00,TP446,Lisbon (LIS),TAP Air Portugal A21N (CS-TJL),Landed 22:49,2021-06-12
+0,0,06:45 TX541,,Pointe-a-Pitre (PTP),Air Caraibes 359,Unknown,2021-06-13
+1,1,07:00,AF853,Cayenne (CAY),Air France B77W (F-GZNG),Landed 06:52,2021-06-13
+2,2,07:25 SS773,,Saint-Denis (RUN),Corsair A339 (F-HRNB),Landed 07:00,2021-06-13
+3,3,07:30,BF701,Saint-Denis (RUN),French bee A359 (F-HREV),Landed 07:54,2021-06-13
+4,4,07:30 TO3131,,Tenerife (TFS),Transavia B738 (F-HTVP),Landed 07:34,2021-06-13
+5,5,07:40 TX511,,Fort-de-France (FDF),Air Caraïbes A35K (F-HMIL),Landed 07:50,2021-06-13
+6,6,07:40,TX607,Punta Cana (PUJ),Air Caraibes 333,Unknown,2021-06-13
+7,7,07:40,XK778,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Unknown,2021-06-13
+8,8,07:40,XK780,Bastia (BIA),Air Corsica A20N (F-HXKJ),Unknown,2021-06-13
+9,9,08:10,AF795,Pointe-a-Pitre (PTP),Air France B77W (F-GSQT),Landed 07:57,2021-06-13
+10,10,08:30 SS985,,Abidjan (ABJ),Corsair A333 (F-HSKY),Landed 08:30,2021-06-13
+11,11,08:30 U24062,,Nice (NCE),easyJet A319 (OE-LQA),Landed 08:06,2021-06-13
+12,12,08:50 AF6003,,Marseille (MRS),Air France A318 (F-GUGC),Landed 08:43,2021-06-13
+13,13,08:50,VY8000,Barcelona (BCN),Vueling A321 (EC-MJR),Landed 09:08,2021-06-13
+14,14,09:10 AF671,,Saint-Denis (RUN),Air France B77W (F-GSQS),Landed 08:27,2021-06-13
+15,15,09:20 SS927,,Pointe-a-Pitre (PTP),Corsair A339 (F-HSKA),Landed 09:39,2021-06-13
+16,16,09:20 AF6109,,Toulouse (TLS),Air France A319 (F-GRXB),Landed 09:06,2021-06-13
+17,17,09:50 AF7471,,Perpignan (PGF),Air France A318 (F-GUGM),Landed 09:22,2021-06-13
+18,18,10:00 TX543,,Pointe-a-Pitre (PTP),Air Caraibes A359 (F-HTRE),Landed 09:44,2021-06-13
+19,19,10:00 AF6205,,Nice (NCE),Air France A320 (F-GKXK),Landed 09:43,2021-06-13
+20,20,10:10 SS925,,Fort-de-France (FDF),Corsair A333 (F-HROK),Landed 10:14,2021-06-13
+21,21,10:15 TX571,,Cayenne (CAY),Air Caraibes A359 (F-HHAV),Landed 09:47,2021-06-13
+22,22,10:50 TB7501,,Casablanca (CMN),TUIfly Belgium 73H,Unknown,2021-06-13
+23,23,11:10 TO3181,,Madrid (MAD),Transavia B738 (F-HTVO),Landed 11:01,2021-06-13
+24,24,11:10,TP434,Lisbon (LIS),TAP Air Portugal (Retro Livery) A21N (CS-TJR),Landed 10:57,2021-06-13
+25,25,11:10 TU718,,Tunis (TUN),Tunisair A332 (TS-IFN),Landed 11:19,2021-06-13
+26,26,11:25 AF6117,,Toulouse (TLS),Air France A320 (F-GKXG),Landed 10:58,2021-06-13
+27,27,11:30 TO4201,,Dubrovnik (DBV),Transavia B738 (F-GZHA),Landed 11:21,2021-06-13
+28,28,11:30 VY2861,,Palma de Mallorca (PMI),Vueling A20N (EC-NAE),Landed 11:26,2021-06-13
+29,29,11:50,VY8253,Alicante (ALC),Vueling A20N (EC-NFH),Landed 11:38,2021-06-13
+30,30,11:55 AT666,,Tangier (TNG),Royal Air Maroc 73H,Unknown,2021-06-13
+31,31,12:00 AF6209,,Nice (NCE),Air France A321 (F-GMZD),Landed 11:47,2021-06-13
+32,32,12:00,IB3436,Madrid (MAD),Iberia A321 (EC-ILP),Landed 11:32,2021-06-13
+33,33,12:00 TU634,,Monastir (MIR),Tunisair A320 (TS-IMF),Landed 11:44,2021-06-13
+34,34,12:00,VY8020,Barcelona (BCN),Vueling A320 (EC-MAN),Landed 11:28,2021-06-13
+35,35,12:10 AT650,,Oujda (OUD),Royal Air Maroc 73H,Unknown,2021-06-13
+36,36,12:10 TO3261,,Mahon (MAH),Transavia B738 (F-GZHD),Landed 12:19,2021-06-13
+37,37,12:20 AT780,,Rabat (RBA),Royal Air Maroc 73H,Unknown,2021-06-13
+38,38,12:20 AT760,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-13
+39,39,12:30 TO4795,,Monastir (MIR),Transavia B738 (F-HTVD),Landed 12:10,2021-06-13
+40,40,12:30 AF7465,,Perpignan (PGF),Air France A318 (F-GUGG),Landed 12:14,2021-06-13
+41,41,12:35 TO4111,,Tunis (TUN),Transavia B738 (F-GZHB),Landed 12:14,2021-06-13
+42,42,12:35 VY8808,,Seville (SVQ),Vueling A320 (EC-KDH),Landed 12:17,2021-06-13
+43,43,12:50 AF6011,,Marseille (MRS),Air France A318 (F-GUGP),Landed 12:40,2021-06-13
+44,44,12:55 S73763,,Moscow (DME),S7 Airlines A319 (VP-BHQ),Landed 12:32,2021-06-13
+45,45,13:00,AF7561,Figari (FSC),Air France A321 (F-GMZC),Landed 12:48,2021-06-13
+46,46,13:10 TO3431,,Lisbon (LIS),Transavia B738 (F-HTVX),Landed 13:38,2021-06-13
+47,47,13:15,VY8012,Barcelona (BCN),Vueling A321 (EC-MPV),Landed 12:58,2021-06-13
+48,48,13:20 PC1133,,Istanbul (SAW),Pegasus A21N (TC-RBC),Landed 13:22,2021-06-13
+49,49,13:25,AF9425,Ajaccio (AJA),Air France A320 (F-HBNL),Landed 13:06,2021-06-13
+50,50,13:35,IB3406,Madrid (MAD),Iberia A321 (EC-JQZ),Landed 13:12,2021-06-13
+51,51,13:35 TO3021,,Oujda (OUD),Transavia France 73H,Unknown,2021-06-13
+52,52,13:45 TO3365,,Djerba (DJE),Transavia B738 (F-GZHR),Landed 13:36,2021-06-13
+53,53,13:50 AF7457,,Pau (PUF),Air France A318 (F-GUGC),Landed 13:40,2021-06-13
+54,54,13:50,VY8174,Malaga (AGP),Vueling A20N (EC-NAY),Landed 13:26,2021-06-13
+55,55,13:50,XK752,Figari (FSC),Air Corsica A320 (F-HBEV),Landed 13:51,2021-06-13
+56,56,14:00 AF6215,,Nice (NCE),Air France A320 (F-HBNI),Landed 14:22,2021-06-13
+57,57,14:05 U24064,,Nice (NCE),easyJet A320 (OE-IVE),Landed 14:07,2021-06-13
+58,58,14:25 TO3521,,Athens (ATH),Transavia B738 (F-HTVA),Landed 14:27,2021-06-13
+59,59,14:35 TO3009,,Agadir (AGA),Transavia France 73H,Unknown,2021-06-13
+60,60,14:45,AF7567,Ajaccio (AJA),Air France A321 (F-GTAX),Landed 14:31,2021-06-13
+61,61,14:45 U24028,,Toulouse (TLS),easyJet A320 (OE-INE),Landed 15:02,2021-06-13
+62,62,14:50,AF7611,Calvi (CLY),Air France A320 (F-HBNH),Landed 14:38,2021-06-13
+63,63,15:00 AF6219,,Nice (NCE),Air France A320 (F-GKXK),Landed 14:56,2021-06-13
+64,64,15:00 TO4089,,Algiers (ALG),Transavia France 73H,Unknown,2021-06-13
+65,65,15:10,AF7595,Bastia (BIA),Air France A321 (F-GMZB),Landed 14:58,2021-06-13
+66,66,15:10 TO3205,,Seville (SVQ),Transavia B738 (F-GZHN),Landed 15:44,2021-06-13
+67,67,15:15 TO3561,,Kalamata (KLX),Transavia B738 (F-HTVH),Landed 15:14,2021-06-13
+68,68,15:25 TO3543,,Corfu (CFU),Transavia B738 (F-HTVJ),Landed 15:16,2021-06-13
+69,69,15:30 AF1873,,Tarbes (LDE),Amelia International E145 (F-HRGD),Landed 15:03,2021-06-13
+70,70,15:30 TO3013,,Marrakesh (RAK),Transavia France 73H,Unknown,2021-06-13
+71,71,15:50 AF6017,,Marseille (MRS),Air France A318 (F-GUGK),Landed 15:47,2021-06-13
+72,72,15:50 TO4435,,Biarritz (BIQ),Transavia B738 (F-GZHZ),Landed 15:26,2021-06-13
+73,73,15:50,TP442,Lisbon (LIS),TAP Air Portugal A20N (CS-TVI),Landed 15:49,2021-06-13
+74,74,15:55 TO3473,,Faro (FAO),Transavia B738 (F-GZHL),Landed 15:55,2021-06-13
+75,75,16:00 AF6221,,Nice (NCE),Air France A320 (F-GKXG),Landed 15:45,2021-06-13
+76,76,16:00 VY8193,,Mahon (MAH),Vueling A320 (EC-LVO),Landed 15:40,2021-06-13
+77,77,16:05 TO3237,,Barcelona (BCN),Transavia B738 (F-GZHF),Landed 16:03,2021-06-13
+78,78,16:10,VY8152,Valencia (VLC),Vueling A320 (EC-MES),Landed 15:52,2021-06-13
+79,79,16:15 AT764,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-13
+80,80,16:25 TU722,,Tunis (TUN),Tunisair A320 (TS-IMW),Landed 18:40,2021-06-13
+81,81,16:30 AF6223,,Nice (NCE),Air France A320 (F-HBNB),Landed 16:20,2021-06-13
+82,82,16:30 TO3613,,Rhodes (RHO),Transavia B738 (F-HTVB),Landed 16:30,2021-06-13
+83,83,16:35 AT664,,Agadir (AGA),Royal Air Maroc 73H,Unknown,2021-06-13
+84,84,16:40 U24294,,Venice (VCE),easyJet A319 (OE-LQN),Landed 16:38,2021-06-13
+85,85,16:50,UX1297,Palma de Mallorca (PMI),Air Europa B738 (EC-MJU),Landed 16:40,2021-06-13
+86,86,17:00 AF6225,,Nice (NCE),Air France A321 (F-GMZD),Landed 17:06,2021-06-13
+87,87,17:00 TO3175,,Valencia (VLC),Transavia B738 (F-GZHE),Landed 17:28,2021-06-13
+88,88,17:00 TO3501,,Heraklion (HER),Transavia B738 (F-HTVI),Landed 17:00,2021-06-13
+89,89,17:00 U24066,,Nice (NCE),easyJet A320 (OE-IJH),Landed 16:51,2021-06-13
+90,90,17:05,VY8016,Barcelona (BCN),Vueling A320 (EC-MFN),Landed 17:22,2021-06-13
+91,91,17:05,VY9437,Milan (MXP),Vueling A320 (EC-KDH),Landed 16:36,2021-06-13
+92,92,17:10 TO3451,,Porto (OPO),Transavia B738 (F-HTVV),Landed 17:04,2021-06-13
+93,93,17:10,XK784,Bastia (BIA),Air Corsica A320 (F-HZDP),Landed 16:52,2021-06-13
+94,94,17:15,AF7565,Ajaccio (AJA),Air France A320 (F-HBND),Landed 17:02,2021-06-13
+95,95,17:15 U24244,,Rome (FCO),easyJet A320 (OE-IVU),Landed 17:13,2021-06-13
+96,96,17:20 AF6133,,Toulouse (TLS),Air France A318 (F-GUGG),Landed 17:12,2021-06-13
+97,97,17:25,TP456,Porto (OPO),TAP Air Portugal A20N (CS-TVH),Landed 17:08,2021-06-13
+98,98,17:30 TO3255,,Ibiza (IBZ),Transavia B738 (F-HTVN),Landed 17:14,2021-06-13
+99,99,17:35 TO4447,,Toulon (TLN),Transavia B738 (F-HTVQ),Landed 17:31,2021-06-13
+100,100,17:35 VY2867,,Ibiza (IBZ),Vueling A320 (EC-LVP),Landed 17:10,2021-06-13
+101,101,17:40 AF7551,,Montpellier (MPL),Air France A320 (F-HBNK),Landed 17:25,2021-06-13
+102,102,17:40 TO3931,,Tel Aviv (TLV),Transavia B738 (F-HTVG),Landed 17:39,2021-06-13
+103,103,17:40,VY1986,Porto (OPO),Vueling A20N (EC-NAE),Landed 17:33,2021-06-13
+104,104,18:00 AF6227,,Nice (NCE),Air France A321 (F-GMZC),Landed 18:00,2021-06-13
+105,105,18:05 AT770,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-13
+106,106,18:05 U24298,,Milan (LIN),easyJet A320 (OE-IVE),Landed 18:29,2021-06-13
+107,107,18:20 AF6137,,Toulouse (TLS),Air France A319 (F-GRXB),Landed 18:05,2021-06-13
+108,108,18:30,IB3444,Madrid (MAD),Iberia A321 (EC-ILP),Landed 18:15,2021-06-13
+109,109,18:35,VY1504,Florence (FLR),Vueling A319 (EC-NGB),Landed 18:28,2021-06-13
+110,110,18:50 TO3215,,Palma de Mallorca (PMI),Transavia B738 (F-HTVM),Landed 18:38,2021-06-13
+111,111,18:55 TB7531,,Rabat (RBA),TUIfly Belgium 73H,Unknown,2021-06-13
+112,112,18:55 AZ352,,Milan (LIN),Alitalia E75S (EI-RDN),Landed 18:49,2021-06-13
+113,113,19:00 AF6231,,Nice (NCE),Air France A320 (F-HBNA),Landed 18:49,2021-06-13
+114,114,19:10,XK754,Figari (FSC),Air Corsica A320 (F-HBEV),Landed 18:59,2021-06-13
+115,115,19:10 AF7579,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 18:44,2021-06-13
+116,116,19:15,UX1025,Madrid (MAD),Air Europa B788 (EC-MPE),Landed 19:03,2021-06-13
+117,117,19:20 AF9429,,Bari (BRI),Air France A318 (F-GUGM),Landed 19:10,2021-06-13
+118,118,19:25 AF6141,,Toulouse (TLS),Air France A318 (F-GUGP),Landed 19:07,2021-06-13
+119,119,19:25 AT652,,Fes (FEZ),Royal Air Maroc 73H,Unknown,2021-06-13
+120,120,19:25 AT654,,Oujda (OUD),Royal Air Maroc 73H,Unknown,2021-06-13
+121,121,19:30 AF6233,,Nice (NCE),Air France A320 (F-HBNI),Landed 19:24,2021-06-13
+122,122,19:30 VY3189,,Gran Canaria (LPA),Vueling A20N (EC-NIJ),Landed 18:45,2021-06-13
+123,123,19:30 AF7605,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 19:15,2021-06-13
+124,124,19:30,NL1228,Rodez (RDZ),Amelia International E145 (F-HRAP),Landed 19:11,2021-06-13
+125,125,19:35 TO4445,,Toulon (TLN),Transavia B738 (F-GZHR),Landed 19:20,2021-06-13
+126,126,19:35 AF1861,,Tarbes (LDE),Amelia International E145 (F-HRAM),Landed 19:32,2021-06-13
+127,127,19:35 AF7619,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 19:19,2021-06-13
+128,128,19:45,XK774,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 19:37,2021-06-13
+129,129,19:50 AF6025,,Marseille (MRS),Air France A318 (F-GUGC),Landed 20:05,2021-06-13
+130,130,20:00 AF6235,,Nice (NCE),Air France A321 (F-GMZB),Landed 20:00,2021-06-13
+131,131,20:00 W61353,,Warsaw (WAW),Wizz Air A21N (HA-LVA),Landed 20:46,2021-06-13
+132,132,20:15 TO3167,,Malaga (AGP),Transavia B738 (F-HTVP),Landed 20:38,2021-06-13
+133,133,20:15 U25535,,Berlin (BER),easyJet A320 (OE-IZP),Landed 19:58,2021-06-13
+134,134,20:20 AF6145,,Toulouse (TLS),Air France A320 (F-GKXK),Landed 20:04,2021-06-13
+135,135,20:20 AT740,,Marrakesh (RAK),Royal Air Maroc 73H,Unknown,2021-06-13
+136,136,20:20 TO4439,,Biarritz (BIQ),Transavia B738 (F-GZHZ),Landed 19:48,2021-06-13
+137,137,20:20,VY8251,Alicante (ALC),Vueling A20N (EC-NCT),Landed 19:50,2021-06-13
+138,138,20:30 TO3479,,Faro (FAO),Transavia B738 (F-GZHD),Landed 20:32,2021-06-13
+139,139,20:40 TO3517,,Mykonos (JMK),Transavia B738 (F-HTVE),Landed 20:42,2021-06-13
+140,140,20:45,KM466,Luqa (MLA),Air Malta A20N (9H-NED),Landed 20:35,2021-06-13
+141,141,20:45,XK776,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Landed 20:51,2021-06-13
+142,142,20:45 TB7521,,Marrakesh (RAK),TUIfly Belgium 73H,Unknown,2021-06-13
+143,143,20:50,XK786,Bastia (BIA),Air Corsica A20N (F-HXKJ),Landed 20:40,2021-06-13
+144,144,20:55 TO3069,,Casablanca (CMN),Transavia France 73H,Unknown,2021-06-13
+145,145,20:55 TO3019,,Marrakesh (RAK),Transavia France 73H,Unknown,2021-06-13
+146,146,20:55 TO3407,,Porto (OPO),Transavia France 73H,Unknown,2021-06-13
+147,147,21:00 U24072,,Nice (NCE),easyJet A320 (OE-IJH),Landed 20:48,2021-06-13
+148,148,21:05 AF6237,,Nice (NCE),Air France A320 (F-HBNH),Landed 20:53,2021-06-13
+149,149,21:05 AF7461,,Pau (PUF),Air France A318 (F-GUGL),Landed 20:45,2021-06-13
+150,150,21:05 TO3249,,Alicante (ALC),Transavia B738 (F-HTVT),Landed 21:33,2021-06-13
+151,151,21:05 U24258,,Naples (NAP),easyJet A320 (OE-INE),Landed 20:59,2021-06-13
+152,152,21:05,VY6254,Rome (FCO),Vueling A20N (EC-NAX),Landed 20:54,2021-06-13
+153,153,21:10,VY8014,Barcelona (BCN),Vueling A321 (EC-MQB),Landed 20:52,2021-06-13
+154,154,21:10 W62367,,Budapest (BUD),Wizz Air A320 (HA-LWE),Landed 21:01,2021-06-13
+155,155,21:15 TO4219,,Split (SPU),Transavia B738 (F-HTVJ),Landed 20:57,2021-06-13
+156,156,21:15 U21393,,Geneva (GVA),easyJet A320 (HB-JXJ),Landed 21:04,2021-06-13
+157,157,21:25,AF7597,Bastia (BIA),Air France A321 (F-GTAX),Landed 21:20,2021-06-13
+158,158,21:25 TO3529,,Athens (ATH),Transavia B738 (F-GZHX),Landed 21:34,2021-06-13
+159,159,21:30,AF7571,Calvi (CLY),Air France A320 (F-GKXG),Landed 21:06,2021-06-13
+160,160,21:50 AF7557,,Montpellier (MPL),Air France A320 (F-HBNB),Landed 21:31,2021-06-13
+161,161,22:00 TO3589,,Thessaloniki (SKG),Transavia B738 (F-HTVA),Landed 21:51,2021-06-13
+162,162,22:00 AF6239,,Nice (NCE),Air France A319 (F-GRHE),Landed 21:54,2021-06-13
+163,163,22:05,IB3400,Madrid (MAD),Iberia A321 (EC-HUH),Landed 21:38,2021-06-13
+164,164,22:05 TO4119,,Tunis (TUN),Transavia B738 (F-GZHB),Landed 21:48,2021-06-13
+165,165,22:10 TO4421,,Biarritz (BIQ),Transavia B738 (F-HTVN),Landed 21:41,2021-06-13
+166,166,22:10 AF7469,,Perpignan (PGF),Air France A318 (F-GUGG),Landed 21:44,2021-06-13
+167,167,22:15 TO3819,,Palermo (PMO),Transavia B738 (F-GZHL),Landed 22:19,2021-06-13
+168,168,22:20 AF6149,,Toulouse (TLS),Air France A321 (F-GMZD),Landed 22:06,2021-06-13
+169,169,22:20 TO3859,,Olbia (OLB),Transavia B738 (F-HTVI),Landed 22:36,2021-06-13
+170,170,22:20 TO4479,,Brest (BES),Transavia B738 (F-HTVO),Landed 22:01,2021-06-13
+171,171,22:20 U24216,,Pisa (PSA),easyJet A320 (OE-IVU),Landed 22:14,2021-06-13
+172,172,22:25 U24034,,Toulouse (TLS),easyJet A320 (OE-IVE),Landed 22:12,2021-06-13
+173,173,22:25,VY8156,Valencia (VLC),Vueling A320 (EC-MFN),Landed 23:05,2021-06-13
+174,174,22:30 TO3509,,Heraklion (HER),Transavia B738 (F-HTVX),Landed 22:17,2021-06-13
+175,175,22:30 TO3559,,Santorini (JTR),Transavia B738 (F-HTVC),Landed 22:24,2021-06-13
+176,176,22:35 TO3539,,Chania (CHQ),Transavia B738 (F-HTVD),Landed 22:35,2021-06-13
+177,177,22:35 TO3829,,Naples (NAP),Transavia B738 (F-HTVB),Landed 22:30,2021-06-13
+178,178,22:35 TO4449,,Toulon (TLN),Transavia B738 (F-GZHE),Landed 22:22,2021-06-13
+179,179,22:35,VY1982,Lisbon (LIS),Vueling A320 (EC-MAN),Landed 22:15,2021-06-13
+180,180,22:35 VY8204,,Madrid (MAD),Vueling A320 (EC-LVO),Landed 22:37,2021-06-13
+181,181,22:40 TO3239,,Barcelona (BCN),Transavia B738 (F-HTVQ),Landed 22:26,2021-06-13
+182,182,22:40 TO3809,,Catania (CTA),Transavia B738 (F-HTVH),Landed 22:57,2021-06-13
+183,183,22:50 TO3433,,Lisbon (LIS),Transavia B738 (F-GZHF),Landed 22:40,2021-06-13
+184,184,22:50 TO3459,,Porto (OPO),Transavia B738 (F-GZHU),Landed 22:32,2021-06-13
+185,185,22:55 TO3183,,Madrid (MAD),Transavia B738 (F-HTVV),Landed 23:18,2021-06-13
+186,186,23:00,TP446,Lisbon (LIS),TAP Air Portugal (Star Alliance Livery) A20N (CS-TVF),Landed 22:47,2021-06-13
+187,187,23:05 TO3039,,Rabat (RBA),Transavia France 73H,Unknown,2021-06-13
+0,0,06:45 TX541,,Pointe-a-Pitre (PTP),Air Caraibes 359,Unknown,2021-06-14
+1,1,07:00,AF853,Cayenne (CAY),Air France B772 (F-GSPN),Landed 06:39,2021-06-14
+2,2,07:15,AF841,Fort-de-France (FDF),Air France B77W (F-GZNG),Landed 07:09,2021-06-14
+3,3,07:40 TX511,,Fort-de-France (FDF),Air Caraibes A333 (F-ORLY),Landed 07:47,2021-06-14
+4,4,07:50 AF6103,,Toulouse (TLS),Air France A321 (F-GMZC),Landed 07:34,2021-06-14
+5,5,07:55 CE120,,Limoges (LIG),Chalair Aviation AT45 (F-GPYK),Landed 07:27,2021-06-14
+6,6,07:55 CE291,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Landed 07:38,2021-06-14
+7,7,08:00 AF6201,,Nice (NCE),Air France A319 (F-GRXB),Landed 07:53,2021-06-14
+8,8,08:00,NL1220,Rodez (RDZ),Amelia International E145 (F-HRAP),Landed 07:42,2021-06-14
+9,9,08:00 T781,,Le Puy (LPY),Twin Jet BEH,Unknown,2021-06-14
+10,10,08:10,AF795,Pointe-a-Pitre (PTP),Air France B77W (F-GSQS),Landed 07:57,2021-06-14
+11,11,08:10 AF7471,,Perpignan (PGF),Air France A318 (F-GUGP),Landed 07:44,2021-06-14
+12,12,08:15 AF7615,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 08:02,2021-06-14
+13,13,08:20 AF6003,,Marseille (MRS),Air France A318 (F-GUGE),Landed 08:22,2021-06-14
+14,14,08:20 AF6105,,Toulouse (TLS),Air France A319 (F-GRHQ),Landed 08:19,2021-06-14
+15,15,08:20 AF7451,,Pau (PUF),Air France A318 (F-GUGM),Landed 07:55,2021-06-14
+16,16,08:20 AF7539,,Montpellier (MPL),Air France A318 (F-GUGK),Landed 08:09,2021-06-14
+17,17,08:20,VY8000,Barcelona (BCN),Vueling A321 (EC-MJR),Landed 08:08,2021-06-14
+18,18,08:25 AF7599,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 08:14,2021-06-14
+19,19,08:25 AF7603,,Brive (BVE),Amelia International E145 (S5-ACJ),Landed 08:16,2021-06-14
+20,20,08:30 SS985,,Abidjan (ABJ),Corsair A333 (F-HROK),Landed 08:11,2021-06-14
+21,21,08:30 AF1863,,Tarbes (LDE),Amelia International E145 (F-HRAM),Landed 08:06,2021-06-14
+22,22,08:35 B0101,,New York (EWR),La Compagnie A21N (F-HNCO),Landed 07:51,2021-06-14
+23,23,08:35,XK770,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Landed 08:25,2021-06-14
+24,24,08:35,XK780,Bastia (BIA),Air Corsica A20N (F-HXKJ),Landed 08:17,2021-06-14
+25,25,08:50,VY8253,Alicante (ALC),Vueling A20N (EC-NCT),Landed 08:43,2021-06-14
+26,26,09:00 AF6203,,Nice (NCE),Air France A320 (F-HBNI),Landed 08:36,2021-06-14
+27,27,09:20,VY8172,Malaga (AGP),Vueling A320 (EC-MVE),Landed 08:58,2021-06-14
+28,28,09:25 AF6109,,Toulouse (TLS),Air France A321 (F-GMZB),Landed 09:18,2021-06-14
+29,29,09:30,IB3402,Madrid (MAD),Iberia A321 (EC-JGS),Landed 09:11,2021-06-14
+30,30,09:50 TO4443,,Toulon (TLN),Transavia B738 (F-HTVN),Landed 09:31,2021-06-14
+31,31,09:50,AF6111,Toulouse (TLS),Air France A319 (F-GRHE),Landed 09:34,2021-06-14
+32,32,10:00 AF6205,,Nice (NCE),Air France A320 (F-GKXG),Landed 09:43,2021-06-14
+33,33,10:00 U24024,,Toulouse (TLS),easyJet A320 (OE-IVE),Landed 09:49,2021-06-14
+34,34,10:15 TX571,,Cayenne (CAY),Air Caraibes A359 (F-HNET),Landed 09:15,2021-06-14
+35,35,10:20 AF6005,,Marseille (MRS),Air France A318 (F-GUGG),Landed 10:43,2021-06-14
+36,36,10:20 TO3231,,Barcelona (BCN),Transavia B738 (F-GZHZ),Landed 11:08,2021-06-14
+37,37,10:25 TO4431,,Biarritz (BIQ),Transavia B738 (F-HTVO),Landed 10:01,2021-06-14
+38,38,10:25 U24064,,Nice (NCE),easyJet A320 (OE-IJS),Landed 10:16,2021-06-14
+39,39,10:30 TU440,,Monastir (MIR),Tunisair A319 (TS-IMQ),Landed 10:12,2021-06-14
+40,40,10:40 AF7543,,Montpellier (MPL),Air France A318 (F-GUGC),Landed 10:33,2021-06-14
+41,41,10:50 AF6115,,Toulouse (TLS),Air France A321 (F-GMZD),Landed 10:40,2021-06-14
+42,42,10:50 TB7501,,Casablanca (CMN),TUIfly Belgium 73H,Unknown,2021-06-14
+43,43,10:55 AF6207,,Nice (NCE),Air France A320 (F-HBNB),Landed 10:47,2021-06-14
+44,44,11:00 AF7455,,Pau (PUF),Air France A318 (F-GUGL),Landed 12:27,2021-06-14
+45,45,11:10 TO3181,,Madrid (MAD),Transavia B738 (F-GZHL),Landed 10:49,2021-06-14
+46,46,11:10,TP434,Lisbon (LIS),TAP Air Portugal A20N (CS-TVJ),Landed 10:56,2021-06-14
+47,47,11:10 TU718,,Tunis (TUN),Tunisair A320 (TS-IMS),Landed 16:15,2021-06-14
+48,48,11:10 U24292,,Venice (VCE),easyJet A320 (OE-ICP),Landed 10:55,2021-06-14
+49,49,11:10,XK752,Figari (FSC),Air Corsica A320 (F-HBEV),Landed 11:09,2021-06-14
+50,50,11:20 AF6117,,Toulouse (TLS),Air France A320 (F-GKXK),Landed 10:57,2021-06-14
+51,51,11:20 TO3401,,Porto (OPO),Transavia B738 (F-HTVF),Landed 11:13,2021-06-14
+52,52,11:40 VY2861,,Palma de Mallorca (PMI),Vueling A320 (EC-MFN),Landed 11:19,2021-06-14
+53,53,11:40,VY6251,Rome (FCO),Vueling A320 (EC-LVO),Landed 11:17,2021-06-14
+54,54,11:55,XK782,Bastia (BIA),Air Corsica 32N,Unknown,2021-06-14
+55,55,12:00 AF6209,,Nice (NCE),Air France A319 (F-GRHI),Landed 11:47,2021-06-14
+56,56,12:00 TU634,,Djerba (DJE),Tunisair A320 (TS-IMF),Landed 11:44,2021-06-14
+57,57,12:00 TU634,,Monastir (MIR),Tunisair 32A,Unknown,2021-06-14
+58,58,12:05,XK772,Ajaccio (AJA),Air Corsica 32N,Unknown,2021-06-14
+59,59,12:10 AT650,,Oujda (OUD),Royal Air Maroc 73H,Unknown,2021-06-14
+60,60,12:10 CE293,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Landed 11:57,2021-06-14
+61,61,12:15,VY8020,Barcelona (BCN),Vueling A321 (EC-MRF),Landed 12:32,2021-06-14
+62,62,12:20 AT760,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-14
+63,63,12:20 AT780,,Rabat (RBA),Royal Air Maroc 73H,Unknown,2021-06-14
+64,64,12:25 TB7515,,Nador (NDR),TUIfly Belgium 7M8,Unknown,2021-06-14
+65,65,12:30 AF7465,,Perpignan (PGF),Air France A319 (F-GRXB),Landed 12:23,2021-06-14
+66,66,12:40 AF1873,,Tarbes (LDE),Amelia International E145 (F-HRAM),Landed 12:18,2021-06-14
+67,67,13:00 TO3265,,Mahon (MAH),Transavia B738 (F-HTVM),Landed 12:49,2021-06-14
+68,68,13:05 TO3431,,Lisbon (LIS),Transavia B738 (F-GZHF),Landed 13:23,2021-06-14
+69,69,13:20 AF6123,,Toulouse (TLS),Air France A320 (F-HBNI),Landed 12:55,2021-06-14
+70,70,13:20 PC1133,,Istanbul (SAW),Pegasus A21N (TC-RBA),Landed 13:12,2021-06-14
+71,71,13:35,IB3406,Madrid (MAD),Iberia A321 (EC-HUH),Landed 13:13,2021-06-14
+72,72,13:45 TO3071,,Tangier (TNG),Transavia France 73H,Unknown,2021-06-14
+73,73,13:45 TO3363,,Djerba (DJE),Transavia B738 (F-GZHB),Landed 13:25,2021-06-14
+74,74,13:50 AF6013,,Marseille (MRS),Air France A318 (F-GUGE),Landed 13:54,2021-06-14
+75,75,13:50 VY8808,,Seville (SVQ),Vueling A320 (EC-MGE),Landed 13:26,2021-06-14
+76,76,13:55 TO3531,,Chania (CHQ),Transavia B738 (F-HTVI),Landed 13:52,2021-06-14
+77,77,14:00 AF6215,,Nice (NCE),Air France A321 (F-GMZC),Landed 14:08,2021-06-14
+78,78,14:00 TO4795,,Monastir (MIR),Transavia B738 (F-HTVX),Landed 13:19,2021-06-14
+79,79,14:15 TO3021,,Oujda (OUD),Transavia France 73H,Unknown,2021-06-14
+80,80,14:25 TO3501,,Heraklion (HER),Transavia B738 (F-HTVT),Landed 14:13,2021-06-14
+81,81,14:30,AF7567,Ajaccio (AJA),Air France A321 (F-GMZB),Landed 14:27,2021-06-14
+82,82,15:05 TO3201,,Seville (SVQ),Transavia B738 (F-HTVB),Landed 15:06,2021-06-14
+83,83,15:15 TO3511,,Mykonos (JMK),Transavia B738 (F-HTVV),Landed 16:16,2021-06-14
+84,84,15:20 AF6129,,Toulouse (TLS),Air France A319 (F-GRHQ),Landed 15:03,2021-06-14
+85,85,15:20 U24250,,Naples (NAP),easyJet A320 (OE-IVU),Landed 15:20,2021-06-14
+86,86,15:45,AF7561,Figari (FSC),Air France A320 (F-GKXG),Landed 15:45,2021-06-14
+87,87,15:45,XK784,Bastia (BIA),Air Corsica A320 (F-HBSA),Landed 15:25,2021-06-14
+88,88,15:50,TP442,Lisbon (LIS),TAP Air Portugal A320 (CS-TMW),Landed 15:49,2021-06-14
+89,89,15:50,XK774,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 15:28,2021-06-14
+90,90,16:05,XK760,Calvi (CLY),Air Corsica A320 (F-HBEV),Landed 15:51,2021-06-14
+91,91,16:10 TO3473,,Faro (FAO),Transavia B738 (F-GZHP),Landed 15:46,2021-06-14
+92,92,16:15 AT764,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-14
+93,93,16:15 U23986,,Nice (NCE),easyJet A320 (OE-IJH),Landed 15:55,2021-06-14
+94,94,16:30,AF7593,Bastia (BIA),Air France A321 (F-GMZD),Landed 16:21,2021-06-14
+95,95,16:30 TU722,,Tunis (TUN),Tunisair A320 (TS-IMW),Landed 19:53,2021-06-14
+96,96,16:50 TO3215,,Palma de Mallorca (PMI),Transavia B738 (F-HTVN),Landed 16:31,2021-06-14
+97,97,16:55,VY1986,Porto (OPO),Vueling A20N (EC-NAE),Landed 16:34,2021-06-14
+98,98,17:00 TO3405,,Porto (OPO),Transavia B738 (F-GZHZ),Landed 17:09,2021-06-14
+99,99,17:00,VY8010,Barcelona (BCN),Vueling A20N (EC-NFK),Landed 16:53,2021-06-14
+100,100,17:05 TO3435,,Lisbon (LIS),Transavia B738 (F-GZHU),Landed 17:32,2021-06-14
+101,101,17:20 AF6133,,Toulouse (TLS),Air France A319 (F-GRHI),Landed 17:02,2021-06-14
+102,102,17:25,TP456,Porto (OPO),TAP Air Portugal A20N (CS-TVH),Landed 17:05,2021-06-14
+103,103,17:40 AF7551,,Montpellier (MPL),Air France 318,Unknown,2021-06-14
+104,104,18:00 AF6227,,Nice (NCE),Air France A320 (F-HBNA),Landed 17:59,2021-06-14
+105,105,18:05 AT770,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-14
+106,106,18:10 T787,,Le Puy (LPY),Twin Jet BEH,Unknown,2021-06-14
+107,107,18:20 AF6137,,Toulouse (TLS),Air France A320 (F-HBNI),Landed 17:52,2021-06-14
+108,108,18:25 TO4471,,Brest (BES),Transavia B738 (F-HTVD),Landed 18:02,2021-06-14
+109,109,18:30,IB3444,Madrid (MAD),Iberia A321 (EC-JZM),Landed 18:08,2021-06-14
+110,110,18:35 U24030,,Toulouse (TLS),easyJet A320 (OE-ICP),Landed 18:20,2021-06-14
+111,111,18:50 AF6023,,Marseille (MRS),Air France A318 (F-GUGE),Landed 18:46,2021-06-14
+112,112,18:55 AZ352,,Milan (LIN),Alitalia E75S (EI-RDH),Landed 19:05,2021-06-14
+113,113,18:55 TB7531,,Rabat (RBA),TUIfly Belgium 73H,Unknown,2021-06-14
+114,114,19:00 AF6231,,Nice (NCE),Air France A319 (F-GRHJ),Landed 18:41,2021-06-14
+115,115,19:05,VY8174,Malaga (AGP),Vueling A320 (EC-MVE),Landed 18:53,2021-06-14
+116,116,19:10 AF7579,,Brive (BVE),Amelia International E145 (F-HRAV),Landed 18:45,2021-06-14
+117,117,19:15,UX1025,Madrid (MAD),Air Europa B738 (EC-MKL),Landed 19:00,2021-06-14
+118,118,19:20 AF6141,,Toulouse (TLS),Air France A320 (F-HBNB),Landed 18:55,2021-06-14
+119,119,19:20 AF9429,,Bari (BRI),Air France A318 (F-GUGC),Landed 19:15,2021-06-14
+120,120,19:30 AF7605,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 19:08,2021-06-14
+121,121,19:35 AF1861,,Tarbes (LDE),Amelia International E145 (F-HRAM),Landed 19:10,2021-06-14
+122,122,19:35 AF7619,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 19:22,2021-06-14
+123,123,19:35 TO4449,,Toulon (TLN),Transavia B738 (F-HTVT),Landed 19:37,2021-06-14
+124,124,19:50 AF6025,,Marseille (MRS),Air France A318 (F-GUGL),Landed 19:41,2021-06-14
+125,125,19:50 AF7555,,Montpellier (MPL),Air France A318 (F-GUGP),Landed 19:35,2021-06-14
+126,126,20:00 AF6235,,Nice (NCE),Air France A319 (F-GRXB),Landed 19:49,2021-06-14
+127,127,20:10 W61353,,Warsaw (WAW),Wizz Air 321,Unknown,2021-06-14
+128,128,20:20 AF6145,,Toulouse (TLS),Air France A319 (F-GRHQ),Landed 19:57,2021-06-14
+129,129,20:20 AT740,,Marrakesh (RAK),Royal Air Maroc 73H,Unknown,2021-06-14
+130,130,20:20,XK786,Bastia (BIA),Air Corsica A20N (F-HXKJ),Landed 20:09,2021-06-14
+131,131,20:25 U24072,,Nice (NCE),easyJet A319 (OE-LQL),Landed 20:07,2021-06-14
+132,132,20:25,XK776,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Landed 20:13,2021-06-14
+133,133,20:40 TO3819,,Palermo (PMO),Transavia B738 (F-HTVI),Landed 20:33,2021-06-14
+134,134,20:45 TO4437,,Biarritz (BIQ),Transavia B738 (F-HTVB),Landed 20:14,2021-06-14
+135,135,20:50 AF7461,,Pau (PUF),Air France A320 (F-GKXG),Landed 20:32,2021-06-14
+136,136,20:50 TO3529,,Athens (ATH),Transavia B738 (F-HTVE),Landed 20:56,2021-06-14
+137,137,20:55 AT664,,Agadir (AGA),Royal Air Maroc 73H,Unknown,2021-06-14
+138,138,20:55 TO3933,,Tel Aviv (TLV),Transavia B738 (F-HTVP),Landed 21:10,2021-06-14
+139,139,21:00 AF6237,,Nice (NCE),Air France A319 (F-GRHE),Landed 20:47,2021-06-14
+140,140,21:20 AF6147,,Toulouse (TLS),Air France A319 (F-GRHI),Landed 20:53,2021-06-14
+141,141,21:50 AF6029,,Marseille (MRS),Air France A320 (F-HBNH),Landed 22:37,2021-06-14
+142,142,21:50 TO3367,,Djerba (DJE),Transavia B738 (F-HTVX),Landed 21:36,2021-06-14
+143,143,21:50 TO3507,,Heraklion (HER),Transavia B738 (F-HTVC),Landed 22:00,2021-06-14
+144,144,21:55,VY8016,Barcelona (BCN),Vueling A320 (EC-MKM),Landed 22:00,2021-06-14
+145,145,22:00 AF6239,,Nice (NCE),Air France A321 (F-GMZD),Landed 21:56,2021-06-14
+146,146,22:05,IB3400,Madrid (MAD),Iberia A321 (EC-HUH),Landed 21:51,2021-06-14
+147,147,22:05 TO4119,,Tunis (TUN),Transavia B738 (F-GZHB),Landed 21:44,2021-06-14
+148,148,22:10 AF7469,,Perpignan (PGF),Air France A318 (F-GUGM),Landed 21:39,2021-06-14
+149,149,22:15 U24034,,Toulouse (TLS),easyJet A320 (OE-ICP),Landed 21:55,2021-06-14
+150,150,22:15,VY8156,Valencia (VLC),Vueling A20N (EC-NFK),Landed 22:47,2021-06-14
+151,151,22:25 AT776,,Casablanca (CMN),Royal Air Maroc 73H,Unknown,2021-06-14
+152,152,22:25 TO3259,,Ibiza (IBZ),Transavia B738 (F-HTVN),Landed 22:17,2021-06-14
+153,153,22:25,VY8251,Alicante (ALC),Vueling A320 (EC-KDH),Landed 22:09,2021-06-14
+154,154,22:30 U24074,,Nice (NCE),easyJet A320 (OE-IVE),Landed 22:29,2021-06-14
+155,155,22:35 TO3559,,Santorini (JTR),Transavia B738 (F-HTVH),Landed 22:19,2021-06-14
+156,156,22:35 TO3829,,Naples (NAP),Transavia B738 (F-GZHF),Landed 22:24,2021-06-14
+157,157,22:35,VY1982,Lisbon (LIS),Vueling A320 (EC-MFN),Landed 22:08,2021-06-14
+158,158,22:40 TO3439,,Lisbon (LIS),Transavia B738 (F-GZHL),Landed 22:35,2021-06-14
+159,159,22:40 TO3809,,Catania (CTA),Transavia B738 (F-HTVM),Landed 22:11,2021-06-14
+160,160,22:50 TO3069,,Casablanca (CMN),Transavia France 73H,Unknown,2021-06-14
+161,161,22:50 TO3459,,Porto (OPO),Transavia B738 (F-HTVJ),Landed 22:31,2021-06-14
+162,162,23:00,TP446,Lisbon (LIS),TAP Air Portugal A319 (CS-TTN),Landed 22:50,2021-06-14
+0,0,06:45 TX541,,Pointe-a-Pitre (PTP),Air Caraïbes A35K (F-HMIL),Landed 06:53,2021-06-15
+1,1,07:00,AF853,Cayenne (CAY),Air France B772 (F-GSPN),Landed 06:40,2021-06-15
+2,2,07:15,AF841,Fort-de-France (FDF),Air France B77W (F-GSQT),Landed 07:01,2021-06-15
+3,3,07:30,BF701,Saint-Denis (RUN),French bee A359 (F-HREY),Landed 08:04,2021-06-15
+4,4,07:40 TX511,,Fort-de-France (FDF),Air Caraibes A359 (F-HHAV),Landed 07:49,2021-06-15
+5,5,07:50 AF6103,,Toulouse (TLS),Air France A321 (F-GMZC),Landed 08:00,2021-06-15
+6,6,07:55 CE120,,Limoges (LIG),Chalair Aviation AT45 (F-GPYM),Landed 07:51,2021-06-15
+7,7,07:55 CE291,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Unknown,2021-06-15
+8,8,08:00 AF6201,,Nice (NCE),Air France A319 (F-GRHJ),Landed 07:44,2021-06-15
+9,9,08:00 T781,,Le Puy (LPY),Twin Jet B190 (F-GUPE),Landed 08:18,2021-06-15
+10,10,08:10,AF795,Pointe-a-Pitre (PTP),Air France B77W (F-GSQS),Landed 08:11,2021-06-15
+11,11,08:10 AF7471,,Perpignan (PGF),Air France A318 (F-GUGP),Landed 08:22,2021-06-15
+12,12,08:15 TX559,,Punta Cana (PUJ),Air Caraibes 359,Unknown,2021-06-15
+13,13,08:15 AF7615,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 08:23,2021-06-15
+14,14,08:15 TO4445,,Toulon (TLN),Transavia B738 (F-HTVO),Landed 07:59,2021-06-15
+15,15,08:20 AF7451,,Pau (PUF),Air France A318 (F-GUGC),Landed 08:15,2021-06-15
+16,16,08:20 AF7539,,Montpellier (MPL),Air France A318 (F-GUGK),Landed 08:14,2021-06-15
+17,17,08:20 AF6105,,Toulouse (TLS),Air France A320 (F-HBNB),Landed 08:16,2021-06-15
+18,18,08:25 AF7599,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 08:09,2021-06-15
+19,19,08:25 AF7603,,Brive (BVE),Amelia International E145 (F-HRAV),Landed 08:02,2021-06-15
+20,20,08:30 SS985,,Abidjan (ABJ),Corsair A333 (F-HROK),Landed 08:38,2021-06-15
+21,21,08:30 AF1863,,Tarbes (LDE),Amelia International E145 (F-HRAM),Landed 08:12,2021-06-15
+22,22,08:30 AF6003,,Marseille (MRS),Air France A318 (F-GUGE),Landed 08:27,2021-06-15
+23,23,08:35,XK770,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 08:25,2021-06-15
+24,24,08:35,XK780,Bastia (BIA),Air Corsica A320 (F-HBEV),Landed 08:20,2021-06-15
+25,25,08:45,XK752,Figari (FSC),Air Corsica A320 (F-HBSA),Landed 08:31,2021-06-15
+26,26,08:50 TX571,,Cayenne (CAY),Air Caraibes A359 (F-HTRE),Landed 08:34,2021-06-15
+27,27,09:00 AF6203,,Nice (NCE),Air France A320 (F-GKXK),Landed 08:36,2021-06-15
+28,28,09:05,UX1027,Madrid (MAD),Air Europa B738 (EC-MJU),Landed 08:59,2021-06-15
+29,29,09:10 AF671,,Saint-Denis (RUN),Air France B77W (F-GSQX),Landed 08:44,2021-06-15
+30,30,09:20 SS927,,Pointe-a-Pitre (PTP),Corsair A339 (F-HRNB),Landed 09:18,2021-06-15
+31,31,09:25,VY8008,Barcelona (BCN),Vueling A320 (EC-MAH),Landed 09:05,2021-06-15
+32,32,09:30,IB3402,Madrid (MAD),Iberia A321 (EC-JGS),Landed 09:15,2021-06-15
+33,33,10:00 U24024,,Toulouse (TLS),easyJet A320 (OE-INE),Landed 09:48,2021-06-15
+34,34,10:10 SS925,,Fort-de-France (FDF),Corsair A333 (F-HZEN),Landed 10:35,2021-06-15
+35,35,10:10 TO4471,,Brest (BES),Transavia B738 (F-HTVH),Landed 09:55,2021-06-15
+36,36,10:20 AF6005,,Marseille (MRS),Air France A318 (F-GUGM),Landed 10:08,2021-06-15
+37,37,10:20 AF6115,,Toulouse (TLS),Air France A321 (F-GMZD),Landed 10:12,2021-06-15
+38,38,10:25 TO4431,,Biarritz (BIQ),Transavia B738 (F-HTVN),Landed 10:03,2021-06-15
+39,39,10:25 U24064,,Nice (NCE),easyJet A320 (OE-ICP),Landed 10:05,2021-06-15
+40,40,10:40 AF7543,,Montpellier (MPL),Air France A319 (F-GRHJ),Landed 12:21,2021-06-15
+41,41,10:45 TU634,,Djerba (DJE),Tunisair A320 (TS-IMF),Landed 10:59,2021-06-15
+42,42,10:55 AF6207,,Nice (NCE),Air France A319 (F-GRHI),Landed 10:49,2021-06-15
+43,43,10:55 TB7521,,Marrakesh (RAK),TUIfly Belgium 73H,Unknown,2021-06-15
+44,44,11:00 AF7455,,Pau (PUF),Air France A318 (F-GUGL),Landed 10:46,2021-06-15
+45,45,11:10,TP434,Lisbon (LIS),TAP Express E190 (CS-TPW),Landed 11:05,2021-06-15
+46,46,11:10 TU718,,Tunis (TUN),Tunisair A320 (TS-IMT),Landed 11:18,2021-06-15
+47,47,11:20 AF6117,,Toulouse (TLS),Air France A320 (F-HBNH),Landed 11:16,2021-06-15
+48,48,11:20 TO3401,,Porto (OPO),Transavia B738 (F-HTVT),Landed 11:25,2021-06-15
+49,49,11:20 TO4443,,Toulon (TLN),Transavia B738 (F-HTVB),Landed 11:07,2021-06-15
+50,50,11:40,VY6251,Rome (FCO),Vueling A320 (EC-KDH),Landed 11:22,2021-06-15
+51,51,11:40 AT762,,Casablanca (CMN),Royal Air Maroc B738 (CN-RGK),Landed 11:21,2021-06-15
+52,52,11:55,XK782,Bastia (BIA),Air Corsica A20N (F-HXKJ),Landed 11:29,2021-06-15
+53,53,12:00 AF6209,,Nice (NCE),Air France A319 (F-GRHQ),Landed 11:41,2021-06-15
+54,54,12:05,XK772,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Landed 11:37,2021-06-15
+55,55,12:10 AT650,,Oujda (OUD),Royal Air Maroc B738 (CN-ROS),Landed 11:35,2021-06-15
+56,56,12:10 AT640,,Marrakesh (RAK),Royal Air Maroc B738 (CN-ROE),Landed 11:58,2021-06-15
+57,57,12:15 VY8204,,Madrid (MAD),Vueling A320 (EC-LVO),Landed 13:29,2021-06-15
+58,58,12:20 AT760,,Casablanca (CMN),Royal Air Maroc B738 (CN-ROC),Landed 11:56,2021-06-15
+59,59,12:20 AT780,,Rabat (RBA),Royal Air Maroc (Oneworld Livery) B738 (CN-RGJ),Landed 12:09,2021-06-15
+60,60,12:20,VY8020,Barcelona (BCN),Vueling A321 (EC-MJR),Landed 12:06,2021-06-15
+61,61,12:30 AH1010,,Algiers (ALG),Air Algerie A332 (7T-VJY),Landed 12:25,2021-06-15
+62,62,12:40 AF1873,,Tarbes (LDE),Amelia International E145 (F-HRAM),Landed 12:23,2021-06-15
+63,63,13:05 TO3431,,Lisbon (LIS),Transavia B738 (F-HTVM),Landed 12:55,2021-06-15
+64,64,13:15 TB7511,,Oujda (OUD),TUI B738 (OO-TUP),Landed 13:10,2021-06-15
+65,65,13:20 AF6123,,Toulouse (TLS),Air France A320 (F-GKXK),Landed 13:01,2021-06-15
+66,66,13:20 PC1133,,Istanbul (SAW),Pegasus A21N (TC-RBE),Landed 12:57,2021-06-15
+67,67,13:25,XK760,Calvi (CLY),Air Corsica A320 (F-HBSA),Landed 13:25,2021-06-15
+68,68,13:35,IB3406,Madrid (MAD),Iberia A321 (EC-JQZ),Landed 13:44,2021-06-15
+69,69,13:40 TO4797,,Monastir (MIR),Transavia B738 (F-HTVX),Landed 13:22,2021-06-15
+70,70,13:50 AF6013,,Marseille (MRS),Air France A318 (F-GUGE),Landed 13:42,2021-06-15
+71,71,14:00 AF6215,,Nice (NCE),Air France A321 (F-GMZC),Landed 14:18,2021-06-15
+72,72,14:30 TO3151,,Lanzarote (ACE),Transavia B738 (F-HTVC),Landed 14:28,2021-06-15
+73,73,14:45 TO3291,,Fuerteventura (FUE),Transavia B738 (F-HTVA),Landed 14:54,2021-06-15
+74,74,15:20 AF6129,,Toulouse (TLS),Air France A319 (F-GRHI),Landed 15:06,2021-06-15
+75,75,15:45,XK784,Bastia (BIA),Air Corsica A320 (F-HBEV),Unknown,2021-06-15
+76,76,15:50,TP442,Lisbon (LIS),TAP Express E190 (CS-TPQ),Landed 15:40,2021-06-15
+77,77,15:50 TU722,,Tunis (TUN),Tunisair A320 (TS-IMN),Landed 15:44,2021-06-15
+78,78,15:50,XK774,Ajaccio (AJA),Air Corsica A320 (F-HZGS),Landed 15:30,2021-06-15
+79,79,15:55,VY3135,Tenerife (TFS),Vueling A320 (EC-MFN),Landed 15:26,2021-06-15
+80,80,16:05 TO3405,,Porto (OPO),Transavia B738 (F-HTVO),Landed 16:06,2021-06-15
+81,81,16:10 TO3473,,Faro (FAO),Transavia B738 (F-GZHS),Landed 16:08,2021-06-15
+82,82,16:15 AT764,,Casablanca (CMN),Royal Air Maroc B738 (CN-RNJ),Landed 16:03,2021-06-15
+83,83,16:15 U23986,,Nice (NCE),easyJet A319 (OE-LQA),Landed 16:01,2021-06-15
+84,84,16:15 AT666,,Agadir (AGA),Royal Air Maroc B738 (CN-ROJ),Landed 15:58,2021-06-15
+85,85,16:25 TB7501,,Casablanca (CMN),TUI B738 (OO-JAY),Landed 16:35,2021-06-15
+86,86,16:35 TO4437,,Biarritz (BIQ),Transavia B738 (F-HTVB),Landed 16:21,2021-06-15
+87,87,16:50,UX1297,Palma de Mallorca (PMI),Air Europa B738 (EC-LXV),Landed 16:39,2021-06-15
+88,88,16:50 VY2861,,Palma de Mallorca (PMI),Vueling A320 (EC-MAN),Landed 16:45,2021-06-15
+89,89,17:15,VY8174,Malaga (AGP),Vueling A320 (EC-MVE),Landed 17:07,2021-06-15
+90,90,17:25,TP456,Porto (OPO),TAP Air Portugal A320 (CS-TNQ),Landed 17:11,2021-06-15
+91,91,17:35 TO3331,,Beirut (BEY),Transavia B738 (F-HTVG),Landed 17:34,2021-06-15
+92,92,17:35 VY2867,,Ibiza (IBZ),Vueling A320 (EC-MAH),Landed 17:21,2021-06-15
+93,93,17:40 AF7551,,Montpellier (MPL),Air France 318,Unknown,2021-06-15
+94,94,17:45 TO3435,,Lisbon (LIS),Transavia B738 (F-HTVD),Landed 17:51,2021-06-15
+95,95,18:00 AF6227,,Nice (NCE),Air France A320 (F-HBNI),Landed 17:36,2021-06-15
+96,96,18:05 AT770,,Casablanca (CMN),Royal Air Maroc B738 (CN-ROR),Landed 17:53,2021-06-15
+97,97,18:10 T787,,Le Puy (LPY),Twin Jet BEH,Unknown,2021-06-15
+98,98,18:20 AF6137,,Toulouse (TLS),Air France A320 (F-GKXK),Landed 18:04,2021-06-15
+99,99,18:20 TO3013,,Marrakesh (RAK),Transavia B738 (F-GZHU),Landed 19:33,2021-06-15
+100,100,18:30,IB3444,Madrid (MAD),Iberia A321 (EC-HUI),Landed 18:18,2021-06-15
+101,101,18:50 AF6023,,Marseille (MRS),Air France A319 (F-GRHJ),Landed 18:52,2021-06-15
+102,102,18:55 AZ352,,Milan (LIN),Alitalia E75S (EI-RDB),Landed 18:40,2021-06-15
+103,103,19:00 AF6231,,Nice (NCE),Air France A319 (F-GRXB),Landed 18:34,2021-06-15
+104,104,19:00 AT774,,Casablanca (CMN),Royal Air Maroc B738 (CN-ROZ),Landed 18:48,2021-06-15
+105,105,19:05 TO3121,,Tenerife (TFS),Transavia B738 (F-HTVJ),Landed 18:56,2021-06-15
+106,106,19:05 TB7513,,Oujda (OUD),TUI B737 (OO-JAR),Landed 18:55,2021-06-15
+107,107,19:10 AF7579,,Brive (BVE),Amelia International E145 (F-HRAV),Landed 18:45,2021-06-15
+108,108,19:15 AT622,,Dakhla (VIL),Royal Air Maroc 73H,Unknown,2021-06-15
+109,109,19:20 CE124,,Limoges (LIG),Chalair Aviation B190 (F-HETS),Landed 19:02,2021-06-15
+110,110,19:30 AF7605,,Aurillac (AUR),Amelia International AT45 (F-HLIA),Landed 19:11,2021-06-15
+111,111,19:35 AF1861,,Tarbes (LDE),Amelia International E145 (F-HRAM),Landed 19:08,2021-06-15
+112,112,19:35 AF7619,,Castres (DCM),Amelia International E145 (F-HOXY),Landed 19:14,2021-06-15
+113,113,19:35 TO4449,,Toulon (TLN),Transavia B738 (F-GZHX),Landed 19:23,2021-06-15
+114,114,19:40 CE295,,Quimper (UIP),Chalair Aviation B190 (F-HBCJ),Landed 19:24,2021-06-15
+115,115,19:40,VY8251,Alicante (ALC),Vueling A20N (EC-NDB),Landed 19:30,2021-06-15
+116,116,19:40 TO3003,,Agadir (AGA),Transavia B738 (F-GZHB),Landed 19:29,2021-06-15
+117,117,19:50 AF7555,,Montpellier (MPL),Air France A318 (F-GUGL),Landed 19:20,2021-06-15
+118,118,19:50 AF6025,,Marseille (MRS),Air France A318 (F-GUGP),Landed 19:50,2021-06-15
+119,119,19:55 AT654,,Oujda (OUD),Royal Air Maroc B738 (CN-ROE),Landed 22:04,2021-06-15
+120,120,20:00 AF6235,,Nice (NCE),Air France A321 (F-GTAX),Landed 19:38,2021-06-15
+121,121,20:05 TB7551,,Agadir (AGA),TUI B738 (OO-TUV),Landed 19:43,2021-06-15
+122,122,20:15 TO3167,,Malaga (AGP),Transavia B738 (F-HTVS),Landed 20:22,2021-06-15
+123,123,20:15 TO3529,,Athens (ATH),Transavia B738 (F-HTVH),Landed 20:03,2021-06-15
+124,124,20:20 AF6145,,Toulouse (TLS),Air France A319 (F-GRHI),Landed 20:00,2021-06-15
+125,125,20:20 AT740,,Marrakesh (RAK),Royal Air Maroc B738 (CN-ROL),Landed 20:21,2021-06-15
+126,126,20:20,XK786,Bastia (BIA),Air Corsica A20N (F-HXKJ),Landed 20:07,2021-06-15
+127,127,20:25 U24072,,Nice (NCE),easyJet A319 (OE-LQA),Landed 20:01,2021-06-15
+128,128,20:25,XK776,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Landed 20:16,2021-06-15
+129,129,20:35 TO3407,,Porto (OPO),Transavia B738 (F-HTVN),Landed 20:16,2021-06-15
+130,130,20:50 AF7461,,Pau (PUF),Air France A318 (F-GUGE),Landed 20:18,2021-06-15
+131,131,20:55 AT664,,Agadir (AGA),Royal Air Maroc B738 (CN-ROS),Diverted to CDG,2021-06-15
+132,132,21:00 AF6237,,Nice (NCE),Air France A319 (F-GRHQ),Landed 20:34,2021-06-15
+133,133,21:00 TO3029,,Oujda (OUD),Transavia B738 (F-HTVM),Landed 20:45,2021-06-15
+134,134,21:20 AF6147,,Toulouse (TLS),Air France A321 (F-GMZC),Landed 21:18,2021-06-15
+135,135,21:20 AT750,,Casablanca (CMN),Royal Air Maroc B738 (CN-RGH),Landed 20:53,2021-06-15
+136,136,21:25 TO3367,,Djerba (DJE),Transavia B738 (F-HTVR),Landed 22:00,2021-06-15
+137,137,21:30 TO3879,,Bari (BRI),Transavia B738 (F-HTVC),Landed 21:09,2021-06-15
+138,138,21:30 TO3039,,Rabat (RBA),Transavia B738 (F-GZHP),Landed 21:15,2021-06-15
+139,139,21:50 AF6029,,Marseille (MRS),Air France A318 (F-GUGK),Landed 21:43,2021-06-15
+140,140,22:00 AF6239,,Nice (NCE),Air France A320 (F-HBNB),Landed 21:38,2021-06-15
+141,141,22:00 TO3069,,Casablanca (CMN),Transavia B738 (F-GZHS),Landed 23:01,2021-06-15
+142,142,22:05,IB3400,Madrid (MAD),Iberia A321 (EC-JQZ),Landed 21:36,2021-06-15
+143,143,22:05 TO4355,,Tunis (TUN),Transavia B738 (F-HTVA),Landed 22:14,2021-06-15
+144,144,22:05,VY8016,Barcelona (BCN),Vueling A20N (EC-NCU),Landed 21:53,2021-06-15
+145,145,22:05 TO3409,,Porto (OPO),Transavia B738 (F-HTVB),Landed 22:59,2021-06-15
+146,146,22:10 AF7469,,Perpignan (PGF),Air France A320 (F-GKXG),Landed 21:41,2021-06-15
+147,147,22:15 U24034,,Toulouse (TLS),easyJet A320 (OE-IVC),Landed 21:51,2021-06-15
+148,148,22:30 TO3559,,Santorini (JTR),Transavia B738 (F-HTVT),Landed 22:23,2021-06-15
+149,149,22:35 TO3439,,Lisbon (LIS),Transavia B738 (F-HTVO),Landed 23:10,2021-06-15
+150,150,22:45 TO3005,,Agadir (AGA),Transavia B738 (F-GZHF),Landed 22:50,2021-06-15
+151,151,22:50 TO3459,,Porto (OPO),Transavia B738 (F-HTVV),Landed 22:38,2021-06-15
+152,152,23:00,TP446,Lisbon (LIS),TAP Air Portugal (Star Alliance Livery) A20N (CS-TVF),Landed 22:43,2021-06-15

@@ -1,0 +1,753 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:40 WD5802,,Campinas (VCP),Modern Logistics 737,Unknown,2021-06-08
+1,1,00:50 AD4646,,Recife (REC),Azul Linhas Aereas A20N (PR-YSB),Landed 01:18,2021-06-08
+2,2,00:50,LA3137,Sao Paulo (GRU),LATAM Airlines A321 (PT-MXL),Landed 00:31,2021-06-08
+3,3,07:00 G31835,,Porto Velho (PVH),GOL Linhas Aereas B38M (PR-XMD),Landed 06:37,2021-06-08
+4,4,07:10,LA3001,Teresina (THE),LATAM Airlines A319 (PT-TMG),Landed 07:02,2021-06-08
+5,5,07:23,LA3286,Campo Grande (CGR),LATAM Airlines A320 (PR-MHP),Landed 07:14,2021-06-08
+6,6,07:25 G31713,,Cuiaba (CGB),GOL Linhas Aereas B738 (PR-GYA),Landed 07:31,2021-06-08
+7,7,07:32 LA3289,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-MHF),Landed 07:30,2021-06-08
+8,8,07:42,LA3284,Curitiba (CWB),LATAM Airlines A320 (PR-MYK),Landed 07:35,2021-06-08
+9,9,07:43,LA3290,Goiania (GYN),LATAM Airlines A321 (PT-XPG),Landed 07:37,2021-06-08
+10,10,07:45 AD4047,,Campinas (VCP),Azul Linhas Aereas (Company Values Livery) E295 (PR-PJN),Landed 07:29,2021-06-08
+11,11,07:45 G31439,,Boa Vista (BVB),GOL Linhas Aereas B738 (PR-GZI),Landed 07:34,2021-06-08
+12,12,07:45,LA3278,Florianopolis (FLN),LATAM Airlines A320 (PR-MHR),Landed 07:27,2021-06-08
+13,13,07:53 LA4580,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMD),Landed 07:42,2021-06-08
+14,14,07:55,G31707,Fortaleza (FOR),GOL Linhas Aereas B738 (PR-GXW),Landed 07:47,2021-06-08
+15,15,07:55,LA3283,Vitoria (VIX),LATAM Airlines A320 (PT-MZY),Unknown,2021-06-08
+16,16,07:56,LA3277,Porto Alegre (POA),LATAM Airlines A321 (PT-MXB),Landed 07:51,2021-06-08
+17,17,07:56,LA3282,Rio de Janeiro (GIG),LATAM Airlines A320 (PR-MYZ),Landed 07:48,2021-06-08
+18,18,07:58,LA3420,Sao Paulo (CGH),LATAM Airlines A320 (PR-TYD),Landed 07:52,2021-06-08
+19,19,08:00,G31745,Recife (REC),GOL Linhas Aereas B38M (PR-XMM),Landed 07:43,2021-06-08
+20,20,08:00 2Z2279,,Sao Jose Do Rio Preto (SJP),VoePass Linhas Aereas AT76 (PR-PDO),Landed 07:49,2021-06-08
+21,21,08:00 2Z2251,,Uberlandia (UDI),Passaredo Linhas Aereas AT7,Unknown,2021-06-08
+22,22,08:05 G31771,,Campinas (VCP),GOL Linhas Aereas B738 (PR-GUL),Landed 07:45,2021-06-08
+23,23,08:05,G32036,Rio de Janeiro (GIG),GOL Linhas Aereas B738 (PR-GUH),Landed 07:55,2021-06-08
+24,24,08:10 G31152,,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GXT),Landed 07:59,2021-06-08
+25,25,08:10,G31408,Sao Paulo (GRU),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 07:56,2021-06-08
+26,26,08:10 G31845,,Florianopolis (FLN),GOL Linhas Aereas B738 (PR-GUI),Landed 08:04,2021-06-08
+27,27,08:14,LA3619,Fortaleza (FOR),LATAM Airlines A321 (PT-MXC),Landed 08:06,2021-06-08
+28,28,08:15 G31442,,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GUD),Landed 08:01,2021-06-08
+29,29,08:20 G31703,,Belo Horizonte (CNF),GOL Linhas Aereas B738 (PR-GUF),Landed 08:14,2021-06-08
+30,30,08:20,G31971,Salvador (SSA),GOL Linhas Aereas B738 (PR-GUV),Landed 08:12,2021-06-08
+31,31,08:25 G31179,,Goiania (GYN),GOL Linhas Aereas B738 (PR-GZS),Landed 08:06,2021-06-08
+32,32,08:25,G31785,Curitiba (CWB),GOL Linhas Aereas B738 (PR-GZK),Landed 08:09,2021-06-08
+33,33,08:25,G31922,Porto Alegre (POA),GOL Linhas Aereas B737 (PR-GOW),Landed 08:05,2021-06-08
+34,34,08:31,LA4609,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYQ),Landed 08:20,2021-06-08
+35,35,08:35 AD4800,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYD),Landed 08:24,2021-06-08
+36,36,08:47,LA3422,Sao Paulo (CGH),LATAM Airlines A319 (PT-TMC),Landed 08:37,2021-06-08
+37,37,09:10 WD5803,,Manaus (MAO),Modern Logistics 737,Unknown,2021-06-08
+38,38,09:35 AD4673,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AYJ),Unknown,2021-06-08
+39,39,09:44,LA3142,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYV),Unknown,2021-06-08
+40,40,09:55 AD4702,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEE),Landed 09:56,2021-06-08
+41,41,10:40,G31572,Sao Paulo (GRU),GOL Linhas Aereas B737 (PR-VBN),Landed 10:41,2021-06-08
+42,42,12:15,G31664,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GXH),Landed 11:55,2021-06-08
+43,43,12:52,LA3033,Porto Alegre (POA),LATAM Airlines A320 (PR-MYP),Landed 12:39,2021-06-08
+44,44,12:55 AD4054,,Campinas (VCP),Azul Linhas Aereas 295,Unknown,2021-06-08
+45,45,13:16 LA3312,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMG),Landed 13:08,2021-06-08
+46,46,13:20 LA3027,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-TYD),Landed 13:12,2021-06-08
+47,47,13:45,LA3157,Maceio (MCZ),LATAM Airlines A320 (PT-MZZ),Unknown,2021-06-08
+48,48,13:50 AD4793,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYD),Landed 13:52,2021-06-08
+49,49,13:50,LA4603,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYI),Landed 13:43,2021-06-08
+50,50,14:25,LA3125,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHZ),Landed 14:00,2021-06-08
+51,51,14:30 AD4706,,Belo Horizonte (CNF),Azul Linhas Aereas E95,Unknown,2021-06-08
+52,52,14:40 AD4745,,Campinas (VCP),Azul Linhas Aereas 295,Unknown,2021-06-08
+53,53,16:26 LA3331,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMD),Landed 16:19,2021-06-08
+54,54,16:45,LA3316,Santarem (STM),LATAM Airlines A320 (PR-TYL),Landed 16:27,2021-06-08
+55,55,17:05 AD4224,,Belo Horizonte (CNF),Azul Linhas Aereas 320,Unknown,2021-06-08
+56,56,17:30,LA3374,Maraba (MAB),LATAM Airlines A319 (PT-TMC),Landed 17:15,2021-06-08
+57,57,17:45 AD4704,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEH),Landed 17:46,2021-06-08
+58,58,17:55,LA4607,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYJ),Landed 17:40,2021-06-08
+59,59,18:20 AD4532,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AUP),Landed 18:16,2021-06-08
+60,60,18:50 G31472,,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUJ),Landed 18:31,2021-06-08
+61,61,18:50,LA3366,Maceio (MCZ),LATAM Airlines A320 (PT-MZW),Unknown,2021-06-08
+62,62,18:55,LA3378,Teresina (THE),LATAM Airlines A320 (PR-MHW),Landed 18:36,2021-06-08
+63,63,19:02 LA3336,,Cuiaba (CGB),LATAM Airlines A320 (PR-MYY),Landed 18:57,2021-06-08
+64,64,19:05,LA3355,Aracaju (AJU),LATAM Airlines A320 (PR-MYX),Landed 19:06,2021-06-08
+65,65,19:05,LA3377,Belem (BEL),LATAM Airlines A321 (PT-MXP),Landed 18:46,2021-06-08
+66,66,19:10,LA3354,Natal (NAT),LATAM Airlines A321 (PT-MXA),Landed 18:53,2021-06-08
+67,67,19:10,LA3367,Joao Pessoa (JPA),LATAM Airlines A320 (PR-MHQ),Landed 19:00,2021-06-08
+68,68,19:15 LA3375,,Recife (REC),LATAM Airlines A321 (PT-MXF),Landed 19:08,2021-06-08
+69,69,19:20,LA3379,Salvador (SSA),LATAM Airlines A320 (PR-MHE),Landed 19:03,2021-06-08
+70,70,19:25,LA3696,Manaus (MAO),LATAM Airlines A321 (PT-MXN),Landed 19:10,2021-06-08
+71,71,19:26 LA3035,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMG),Landed 19:21,2021-06-08
+72,72,19:28,LA4611,Sao Paulo (GRU),LATAM Airlines A320 (PT-MZY),Unknown,2021-06-08
+73,73,19:30,LA3376,Sao Luis (SLZ),LATAM Airlines A321 (PT-MXH),Landed 19:14,2021-06-08
+74,74,19:30,LA3428,Sao Paulo (CGH),LATAM Airlines A320 (PR-MYR),Landed 19:11,2021-06-08
+75,75,19:35 AD4195,,Rio de Janeiro (SDU),Azul Linhas Aereas 320,Unknown,2021-06-08
+76,76,19:35 AD4896,,Cuiaba (CGB),Azul Linhas Aereas E195 (PR-AXN),Landed 19:19,2021-06-08
+77,77,19:35 G31897,,Belem (BEL),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 19:25,2021-06-08
+78,78,19:40 G31761,,Palmas (PMW),GOL Linhas Aereas B738 (PR-GZK),Landed 19:17,2021-06-08
+79,79,19:40 G31975,,Salvador (SSA),GOL Linhas Aereas B738 (PR-GUX),Landed 19:28,2021-06-08
+80,80,19:40,LA3693,Fortaleza (FOR),LATAM Airlines A321 (PT-XPD),Landed 19:50,2021-06-08
+81,81,19:40,LA4585,Fortaleza (FOR),LATAM Airlines A320 (PR-MYP),Landed 19:23,2021-06-08
+82,82,19:45,AD4548,Campinas (VCP),Azul Linhas Aereas E295 (PS-AED),Landed 19:41,2021-06-08
+83,83,19:45,G31456,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GGX),Landed 19:31,2021-06-08
+84,84,19:50,G31759,Recife (REC),GOL Linhas Aereas B738 (PR-GUH),Landed 19:45,2021-06-08
+85,85,19:55,G31791,Natal (NAT),GOL Linhas Aereas B738 (PR-GXA),Landed 19:40,2021-06-08
+86,86,19:55,G32047,Rio Branco (RBR),GOL Linhas Aereas B738 (PR-GZI),Landed 19:38,2021-06-08
+87,87,19:55,G32068,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GXB),Landed 19:47,2021-06-08
+88,88,20:00,G31735,Sao Luis (SLZ),GOL Linhas Aereas B38M (PR-XMM),Landed 19:43,2021-06-08
+89,89,20:00,G31999,Maceio (MCZ),GOL Linhas Aereas B738 (PR-GXQ),Landed 19:55,2021-06-08
+90,90,20:15 LA4692,,Recife (REC),LATAM Airlines A320 (PR-MYV),Landed 19:59,2021-06-08
+91,91,20:40,AD4430,Recife (REC),Azul Linhas Aereas A20N (PR-YSF),Landed 20:41,2021-06-08
+92,92,20:40 G31709,,Fortaleza (FOR),GOL Linhas Aereas B738 (PR-GZZ),Landed 20:13,2021-06-08
+93,93,22:40,LA3430,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHU),Landed 22:14,2021-06-08
+94,94,22:59 LA3353,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMD),Landed 22:51,2021-06-08
+95,95,23:40,AD4126,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AYG),Unknown,2021-06-08
+96,96,23:45 AD4663,,Campinas (VCP),Azul Linhas Aereas (Company Values Livery) E295 (PR-PJN),Landed 23:32,2021-06-08
+97,97,23:55,G31406,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUI),Landed 23:54,2021-06-08
+0,0,00:40 WD5800,,Campinas (VCP),Modern Logistics 737,Unknown,2021-06-09
+1,1,00:50 AD4646,,Recife (REC),Azul Linhas Aereas A20N (PR-YYH),Landed 00:50,2021-06-09
+2,2,00:50,LA3137,Sao Paulo (GRU),LATAM Airlines A321 (PT-MXI),Landed 00:37,2021-06-09
+3,3,07:23,LA3286,Campo Grande (CGR),LATAM Airlines A320 (PR-MYI),Landed 07:13,2021-06-09
+4,4,07:25 G31713,,Cuiaba (CGB),GOL Linhas Aereas B738 (PR-GGX),Landed 07:02,2021-06-09
+5,5,07:27 LA3289,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-MBH),Landed 07:24,2021-06-09
+6,6,07:35,LA3278,Florianopolis (FLN),LATAM Airlines A320 (PR-MHW),Landed 07:21,2021-06-09
+7,7,07:38 LA3029,,Recife (REC),LATAM Airlines A320 (PR-MYR),Landed 07:35,2021-06-09
+8,8,07:40,LA3284,Curitiba (CWB),LATAM Airlines A320 (PR-MYV),Landed 07:19,2021-06-09
+9,9,07:40,LA3235,Salvador (SSA),LATAM Airlines A321 (PT-MXP),Landed 07:28,2021-06-09
+10,10,07:45 AD4047,,Campinas (VCP),Azul Linhas Aereas (Tropical Spix's Macaw Livery) E295 (PS-AEF),Canceled,2021-06-09
+11,11,07:45 G31439,,Boa Vista (BVB),GOL Linhas Aereas B738 (PR-GUH),Landed 07:30,2021-06-09
+12,12,07:51,LA3005,Vitoria (VIX),LATAM Airlines A319 (PT-TML),Landed 07:48,2021-06-09
+13,13,07:54,LA3277,Porto Alegre (POA),LATAM Airlines A321 (PT-XPH),Landed 07:39,2021-06-09
+14,14,07:55,LA3031,Natal (NAT),LATAM Airlines A320 (PT-MZW),Unknown,2021-06-09
+15,15,07:55,LA3282,Rio de Janeiro (GIG),LATAM Airlines A320 (PR-MYP),Landed 07:43,2021-06-09
+16,16,08:00 LA4580,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBN),Landed 07:58,2021-06-09
+17,17,08:00 2Z2251,,Uberlandia (UDI),Passaredo Linhas Aereas AT7,Unknown,2021-06-09
+18,18,08:00 2Z2279,,Sao Jose Do Rio Preto (SJP),VoePass Linhas Aereas AT76 (PR-PDO),Landed 07:47,2021-06-09
+19,19,08:05 G31771,,Campinas (VCP),GOL Linhas Aereas B738 (PR-GXQ),Landed 07:51,2021-06-09
+20,20,08:05 G32036,,Rio de Janeiro (GIG),GOL Linhas Aereas B38M (PR-XMM),Landed 08:02,2021-06-09
+21,21,08:05,LA3619,Fortaleza (FOR),LATAM Airlines A321 (PT-MXD),Landed 07:53,2021-06-09
+22,22,08:10 G31152,,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GUZ),Landed 08:00,2021-06-09
+23,23,08:10,G31408,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUG),Landed 08:05,2021-06-09
+24,24,08:10,G31922,Porto Alegre (POA),GOL Linhas Aereas B737 (PR-GEQ),Landed 07:54,2021-06-09
+25,25,08:10,LA3420,Sao Paulo (CGH),LATAM Airlines A320 (PR-TYD),Landed 07:46,2021-06-09
+26,26,08:15 G31442,,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GGW),Landed 07:58,2021-06-09
+27,27,08:20 G31703,,Belo Horizonte (CNF),GOL Linhas Aereas B738 (PR-GUC),Landed 08:07,2021-06-09
+28,28,08:20,G31971,Salvador (SSA),GOL Linhas Aereas B738 (PR-GUX),Landed 08:01,2021-06-09
+29,29,08:20,LA4609,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYH),Landed 08:20,2021-06-09
+30,30,08:25 G31179,,Goiania (GYN),GOL Linhas Aereas B738 (PR-GUJ),Landed 08:14,2021-06-09
+31,31,08:25,G31785,Curitiba (CWB),GOL Linhas Aereas B738 (PR-GTF),Landed 07:56,2021-06-09
+32,32,08:35 AD4800,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYE),Landed 08:27,2021-06-09
+33,33,08:55,LA3422,Sao Paulo (CGH),LATAM Airlines A319 (PT-TMA),Landed 08:39,2021-06-09
+34,34,09:10 WD5801,,Manaus (MAO),Modern Logistics 737,Unknown,2021-06-09
+35,35,09:35 AD4673,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AYZ),Unknown,2021-06-09
+36,36,09:55 AD4702,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEC),Landed 09:26,2021-06-09
+37,37,10:40,G31572,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GOP),Landed 10:26,2021-06-09
+38,38,12:15,G31664,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GUL),Landed 11:54,2021-06-09
+39,39,12:55,AD4054,Campinas (VCP),Azul Linhas Aereas 295,Unknown,2021-06-09
+40,40,13:12 LA3312,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBN),Landed 13:02,2021-06-09
+41,41,13:17 LA3027,,Belo Horizonte (CNF),LATAM Airlines A319 (PT-TML),Landed 13:05,2021-06-09
+42,42,13:20,LA4603,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHJ),Landed 13:15,2021-06-09
+43,43,13:50 AD4793,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYD),Landed 13:41,2021-06-09
+44,44,13:50,LA3025,Curitiba (CWB),LATAM Airlines A320 (PR-TYL),Landed 13:31,2021-06-09
+45,45,14:25,LA3125,Sao Paulo (CGH),LATAM Airlines A320 (PR-MYX),Landed 13:58,2021-06-09
+46,46,14:30,AD4706,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AYW),Canceled,2021-06-09
+47,47,14:40 AD4745,,Campinas (VCP),Azul Linhas Aereas E195 (PR-AXL),Unknown,2021-06-09
+48,48,14:40,LA3033,Porto Alegre (POA),LATAM Airlines A320 (PR-MYP),Landed 14:23,2021-06-09
+49,49,16:17 LA3331,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMA),Landed 16:14,2021-06-09
+50,50,16:50,G31859,Salvador (SSA),GOL Linhas Aereas B738 (PR-GXQ),Landed 16:48,2021-06-09
+51,51,17:05 AD4224,,Belo Horizonte (CNF),Azul Linhas Aereas 320,Unknown,2021-06-09
+52,52,17:45 AD4704,,Campinas (VCP),Azul Linhas Aereas (Tropical Spix's Macaw Livery) E295 (PS-AEF),Landed 17:40,2021-06-09
+53,53,17:45 2Z2257,,Araguaina (AUX),Passaredo Linhas Aereas AT7,Unknown,2021-06-09
+54,54,17:50,LA4607,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYF),Landed 17:33,2021-06-09
+55,55,18:20 AD4532,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AXP),Landed 18:18,2021-06-09
+56,56,18:20,LA3370,Macapa (MCP),LATAM Airlines A321 (PT-MXP),Landed 18:34,2021-06-09
+57,57,18:45 G31893,,Manaus (MAO),GOL Linhas Aereas B738 (PR-GUI),Landed 18:52,2021-06-09
+58,58,18:45,LA3318,Boa Vista (BVB),LATAM Airlines A320 (PT-MZY),Unknown,2021-06-09
+59,59,18:50 G31472,,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GZK),Landed 18:40,2021-06-09
+60,60,18:50,LA3355,Aracaju (AJU),LATAM Airlines A320 (PR-MHP),Landed 18:43,2021-06-09
+61,61,18:50,LA3366,Maceio (MCZ),LATAM Airlines A320 (PT-MZU),Unknown,2021-06-09
+62,62,18:50,LA3378,Teresina (THE),LATAM Airlines A320 (PR-MHR),Landed 18:40,2021-06-09
+63,63,18:54 LA3375,,Recife (REC),LATAM Airlines A321 (PT-MXC),Landed 18:52,2021-06-09
+64,64,19:03 LA3336,,Cuiaba (CGB),LATAM Airlines A320 (PR-MYQ),Landed 18:57,2021-06-09
+65,65,19:05,LA3354,Natal (NAT),LATAM Airlines A321 (PT-MXG),Landed 18:56,2021-06-09
+66,66,19:10,LA3367,Joao Pessoa (JPA),LATAM Airlines A320 (PR-TYA),Landed 21:44,2021-06-09
+67,67,19:11,LA3377,Belem (BEL),LATAM Airlines A320 (PR-MYJ),Landed 19:10,2021-06-09
+68,68,19:15 2Z2271,,Barreiras (BRA),VoePass Linhas Aereas AT76 (PR-PDO),Landed 19:15,2021-06-09
+69,69,19:20,G31884,Maraba (MAB),GOL Linhas Aereas B738 (PR-GXH),Landed 19:04,2021-06-09
+70,70,19:20,LA3379,Salvador (SSA),LATAM Airlines A320 (PR-MHX),Landed 19:09,2021-06-09
+71,71,19:21 LA3035,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 19:13,2021-06-09
+72,72,19:25,LA3696,Manaus (MAO),LATAM Airlines A321 (PT-MXH),Landed 19:19,2021-06-09
+73,73,19:30,LA3428,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHG),Landed 19:36,2021-06-09
+74,74,19:31,LA3376,Sao Luis (SLZ),LATAM Airlines A321 (PT-MXB),Landed 19:29,2021-06-09
+75,75,19:35 AD4195,,Rio de Janeiro (SDU),Azul Linhas Aereas 320,Unknown,2021-06-09
+76,76,19:35 AD4896,,Cuiaba (CGB),Azul Linhas Aereas E195 (PR-AUE),Landed 19:15,2021-06-09
+77,77,19:35 G31897,,Belem (BEL),GOL Linhas Aereas B738 (PR-GGX),Landed 19:16,2021-06-09
+78,78,19:38,LA4611,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYR),Landed 19:40,2021-06-09
+79,79,19:40 G31975,,Salvador (SSA),GOL Linhas Aereas B738 (PR-GUG),Landed 19:35,2021-06-09
+80,80,19:40 G31761,,Palmas (PMW),GOL Linhas Aereas B738 (PR-GZS),Landed 19:24,2021-06-09
+81,81,19:40,LA3693,Fortaleza (FOR),LATAM Airlines A321 (PT-MXF),Landed 19:25,2021-06-09
+82,82,19:45,AD4548,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEE),Landed 19:44,2021-06-09
+83,83,19:45,G31456,Sao Paulo (CGH),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 19:32,2021-06-09
+84,84,19:50,G31731,Joao Pessoa (JPA),GOL Linhas Aereas B738 (PR-GTF),Landed 19:25,2021-06-09
+85,85,19:50,G31759,Recife (REC),GOL Linhas Aereas B738 (PR-GUX),Landed 19:37,2021-06-09
+86,86,19:55,G31683,Teresina (THE),GOL Linhas Aereas B738 (PR-GGW),Landed 19:49,2021-06-09
+87,87,19:55,G32068,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GUZ),Landed 20:02,2021-06-09
+88,88,19:55,G31791,Natal (NAT),GOL Linhas Aereas B738 (PR-GUP),Landed 19:57,2021-06-09
+89,89,19:55,G31815,Macapa (MCP),GOL Linhas Aereas B738 (PR-GUJ),Landed 19:24,2021-06-09
+90,90,20:00,G31999,Maceio (MCZ),GOL Linhas Aereas B738 (PR-GXB),Landed 19:44,2021-06-09
+91,91,20:00,G31735,Sao Luis (SLZ),GOL Linhas Aereas B738 (PR-GUR),Landed 19:46,2021-06-09
+92,92,20:00 G31869,,Carajas (CKS),GOL Linhas Aereas B737 (PR-GEQ),Landed 19:48,2021-06-09
+93,93,20:40,AD4430,Recife (REC),Azul Linhas Aereas A20N (PR-YYJ),Landed 20:23,2021-06-09
+94,94,20:40 G31709,,Fortaleza (FOR),GOL Linhas Aereas B38M (PR-XMM),Landed 20:18,2021-06-09
+95,95,22:40,LA3430,Sao Paulo (CGH),LATAM Airlines A319 (PT-TMI),Landed 22:09,2021-06-09
+96,96,22:59 LA3353,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMA),Landed 22:51,2021-06-09
+97,97,23:40,AD4126,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AUO),Landed 23:25,2021-06-09
+98,98,23:45 AD4663,,Campinas (VCP),Azul Linhas Aereas (Pink Ribbon Livery) E295 (PS-AEA),Landed 00:01,2021-06-09
+99,99,23:55,G31406,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUU),Landed 23:45,2021-06-09
+0,0,00:40 WD5802,,Campinas (VCP),Modern Logistics 737,Unknown,2021-06-10
+1,1,00:50 AD4646,,Recife (REC),Azul Linhas Aereas A20N (PR-YRF),Landed 00:39,2021-06-10
+2,2,07:00 G31835,,Porto Velho (PVH),GOL Linhas Aereas B38M (PR-XMM),Landed 06:39,2021-06-10
+3,3,07:20,LA3001,Teresina (THE),LATAM Airlines A320 (PT-MZU),Unknown,2021-06-10
+4,4,07:25 G31713,,Cuiaba (CGB),GOL Linhas Aereas B738 (PR-GUY),Landed 06:51,2021-06-10
+5,5,07:27,LA3282,Rio de Janeiro (GIG),LATAM Airlines A320 (PR-MHR),Landed 07:39,2021-06-10
+6,6,07:30,LA3286,Campo Grande (CGR),LATAM Airlines A320 (PR-MHA),Landed 07:16,2021-06-10
+7,7,07:34,LA3284,Curitiba (CWB),LATAM Airlines A320 (PR-MHP),Landed 07:23,2021-06-10
+8,8,07:34 LA3289,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-MHX),Landed 07:29,2021-06-10
+9,9,07:36,LA3278,Florianopolis (FLN),LATAM Airlines A320 (PR-MHF),Landed 07:26,2021-06-10
+10,10,07:40,LA3290,Goiania (GYN),LATAM Airlines A321 (PT-MXF),Landed 07:31,2021-06-10
+11,11,07:45 AD4047,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AED),Landed 07:22,2021-06-10
+12,12,07:45 G31439,,Boa Vista (BVB),GOL Linhas Aereas B738 (PR-GUJ),Landed 07:34,2021-06-10
+13,13,07:45 LA4580,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 07:51,2021-06-10
+14,14,07:55,G31707,Fortaleza (FOR),GOL Linhas Aereas B738 (PR-GGW),Landed 07:37,2021-06-10
+15,15,07:55,LA3283,Vitoria (VIX),LATAM Airlines A320 (PT-MZY),Unknown,2021-06-10
+16,16,08:00 2Z2251,,Uberlandia (UDI),VoePass Linhas Aereas AT76 (PR-PDO),Landed 07:46,2021-06-10
+17,17,08:00 2Z2279,,Sao Jose Do Rio Preto (SJP),Passaredo Linhas Aereas AT7,Unknown,2021-06-10
+18,18,08:00,G31745,Recife (REC),GOL Linhas Aereas (Brazil Football Livery) B738 (PR-GUM),Landed 07:44,2021-06-10
+19,19,08:00,LA3277,Porto Alegre (POA),LATAM Airlines A320 (PR-MYQ),Landed 07:46,2021-06-10
+20,20,08:05 G31771,,Campinas (VCP),GOL Linhas Aereas B738 (PR-GXB),Landed 07:54,2021-06-10
+21,21,08:05,G32036,Rio de Janeiro (GIG),GOL Linhas Aereas (TV ao vivo a bordo Livery) B738 (PR-GTM),Landed 07:49,2021-06-10
+22,22,08:10,G31152,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GUX),Landed 07:54,2021-06-10
+23,23,08:10 G31845,,Florianopolis (FLN),GOL Linhas Aereas B738 (PR-GUR),Landed 07:52,2021-06-10
+24,24,08:10,G31408,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GTP),Landed 08:39,2021-06-10
+25,25,08:12,LA3420,Sao Paulo (CGH),LATAM Airlines A320 (PR-MYZ),Landed 08:01,2021-06-10
+26,26,08:15,G31442,Sao Paulo (CGH),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 07:58,2021-06-10
+27,27,08:20 G31703,,Belo Horizonte (CNF),GOL Linhas Aereas B738 (PR-GUB),Landed 08:10,2021-06-10
+28,28,08:20,G31971,Salvador (SSA),GOL Linhas Aereas B737 (PR-GEQ),Landed 08:04,2021-06-10
+29,29,08:25 G31179,,Goiania (GYN),GOL Linhas Aereas B738 (PR-GUI),Landed 08:13,2021-06-10
+30,30,08:25,G31785,Curitiba (CWB),GOL Linhas Aereas B738 (PR-GTF),Landed 08:08,2021-06-10
+31,31,08:25,G31922,Porto Alegre (POA),GOL Linhas Aereas B737 (PR-VBN),Landed 08:06,2021-06-10
+32,32,08:30,LA4609,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYD),Landed 08:32,2021-06-10
+33,33,08:35 AD4800,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYD),Landed 08:20,2021-06-10
+34,34,08:55,LA3422,Sao Paulo (CGH),LATAM Airlines A320 (PR-MYX),Landed 08:36,2021-06-10
+35,35,09:10 WD5803,,Manaus (MAO),Modern Logistics 737,Unknown,2021-06-10
+36,36,09:35 AD4673,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AXK),Unknown,2021-06-10
+37,37,09:55 AD4702,,Campinas (VCP),Azul Linhas Aereas (Pink Ribbon Livery) E295 (PS-AEA),Landed 09:40,2021-06-10
+38,38,10:40,G31572,Sao Paulo (GRU),GOL Linhas Aereas B38M (PR-XMF),Landed 10:21,2021-06-10
+39,39,11:35 G32002,,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GXH),Landed 11:08,2021-06-10
+40,40,11:35,LA3157,Maceio (MCZ),LATAM Airlines 319,Unknown,2021-06-10
+41,41,12:15,G31664,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GUC),Landed 12:04,2021-06-10
+42,42,12:55 AD4054,,Campinas (VCP),Azul Linhas Aereas 295,Unknown,2021-06-10
+43,43,13:14 LA3312,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 13:06,2021-06-10
+44,44,13:20,LA4603,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYH),Landed 13:11,2021-06-10
+45,45,13:50 AD4793,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYE),Landed 13:39,2021-06-10
+46,46,14:25,LA3125,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHU),Landed 14:01,2021-06-10
+47,47,14:30 AD4706,,Belo Horizonte (CNF),Azul Linhas Aereas (50 cities Livery) E195 (PR-AXH),Unknown,2021-06-10
+48,48,14:32,LA3033,Porto Alegre (POA),LATAM Airlines A320 (PR-MHX),Landed 14:17,2021-06-10
+49,49,14:40 AD4745,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEE),Landed 14:26,2021-06-10
+50,50,16:15,LA4694,Natal (NAT),LATAM Airlines A320 (PR-MYX),Landed 16:07,2021-06-10
+51,51,16:25 LA3331,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMA),Landed 16:13,2021-06-10
+52,52,17:05 AD4224,,Belo Horizonte (CNF),Azul Linhas Aereas 320,Unknown,2021-06-10
+53,53,17:30,LA3374,Maraba (MAB),LATAM Airlines A319 (PT-TMI),Landed 17:17,2021-06-10
+54,54,17:45 AD4704,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEH),Landed 17:48,2021-06-10
+55,55,17:50,LA4607,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYK),Landed 17:40,2021-06-10
+56,56,18:20 AD4532,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AUJ),Landed 18:06,2021-06-10
+57,57,18:35,LA3018,Boa Vista (BVB),LATAM Airlines A320 (PR-MHF),Landed 18:22,2021-06-10
+58,58,18:45 G31893,,Manaus (MAO),GOL Linhas Aereas B38M (PR-XMA),Landed 18:31,2021-06-10
+59,59,18:50,LA3378,Teresina (THE),LATAM Airlines A320 (PR-MHW),Landed 18:29,2021-06-10
+60,60,18:50,LA3366,Maceio (MCZ),LATAM Airlines A320 (PT-MZT),Unknown,2021-06-10
+61,61,18:50 G31472,,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GXQ),Landed 18:39,2021-06-10
+62,62,19:00,LA3355,Aracaju (AJU),LATAM Airlines A320 (PR-MYI),Landed 18:41,2021-06-10
+63,63,19:00 LA3375,,Recife (REC),LATAM Airlines A321 (PT-MXJ),Landed 18:47,2021-06-10
+64,64,19:05,LA3354,Natal (NAT),LATAM Airlines A321 (PT-MXI),Landed 18:49,2021-06-10
+65,65,19:10,LA3377,Belem (BEL),LATAM Airlines A321 (PT-MXQ),Landed 18:53,2021-06-10
+66,66,19:15 LA3336,,Cuiaba (CGB),LATAM Airlines A320 (PR-MYT),Landed 18:57,2021-06-10
+67,67,19:15,LA3367,Joao Pessoa (JPA),LATAM Airlines A320 (PR-MYA),Landed 19:00,2021-06-10
+68,68,19:20,LA3379,Salvador (SSA),LATAM Airlines A320 (PR-TYF),Landed 19:03,2021-06-10
+69,69,19:30,LA3428,Sao Paulo (CGH),LATAM Airlines A320 (PR-MBH),Landed 19:08,2021-06-10
+70,70,19:30,LA3696,Manaus (MAO),LATAM Airlines A321 (PT-MXE),Landed 19:19,2021-06-10
+71,71,19:35 AD4195,,Rio de Janeiro (SDU),Azul Linhas Aereas 320,Unknown,2021-06-10
+72,72,19:35 AD4896,,Cuiaba (CGB),Azul Linhas Aereas E195 (PR-AXP),Landed 19:12,2021-06-10
+73,73,19:35 LA3035,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 19:16,2021-06-10
+74,74,19:35,LA3376,Sao Luis (SLZ),LATAM Airlines A320 (PR-MYV),Landed 19:15,2021-06-10
+75,75,19:35 G31897,,Belem (BEL),GOL Linhas Aereas B738 (PR-GUI),Landed 19:11,2021-06-10
+76,76,19:40 G31761,,Palmas (PMW),GOL Linhas Aereas B738 (PR-GTF),Landed 19:29,2021-06-10
+77,77,19:40 G31975,,Salvador (SSA),GOL Linhas Aereas B738 (PR-GUP),Landed 19:33,2021-06-10
+78,78,19:40,LA3693,Fortaleza (FOR),LATAM Airlines A321 (PT-MXN),Landed 19:27,2021-06-10
+79,79,19:40,LA4585,Fortaleza (FOR),LATAM Airlines A320 (PR-MYQ),Landed 19:33,2021-06-10
+80,80,19:45,AD4548,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEC),Landed 19:43,2021-06-10
+81,81,19:45,G31456,Sao Paulo (CGH),GOL Linhas Aereas 738,Unknown,2021-06-10
+82,82,19:50,LA4611,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHG),Landed 19:40,2021-06-10
+83,83,19:50,G31731,Joao Pessoa (JPA),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 19:43,2021-06-10
+84,84,19:50,G31759,Recife (REC),GOL Linhas Aereas B738 (PR-GUX),Landed 19:30,2021-06-10
+85,85,19:55,G32047,Rio Branco (RBR),GOL Linhas Aereas B738 (PR-GUJ),Landed 19:41,2021-06-10
+86,86,19:55,G32068,Rio de Janeiro (SDU),GOL Linhas Aereas 738,Unknown,2021-06-10
+87,87,19:55,G31791,Natal (NAT),GOL Linhas Aereas B738 (PR-GUF),Landed 19:39,2021-06-10
+88,88,20:00,G31735,Sao Luis (SLZ),GOL Linhas Aereas B738 (PR-GGW),Landed 19:48,2021-06-10
+89,89,20:00,G31999,Maceio (MCZ),GOL Linhas Aereas B738 (PR-GXW),Landed 19:37,2021-06-10
+90,90,20:40,AD4430,Recife (REC),Azul Linhas Aereas A20N (PR-YYG),Landed 20:37,2021-06-10
+91,91,20:40 G31709,,Fortaleza (FOR),GOL Linhas Aereas B738 (PR-GGK),Landed 20:19,2021-06-10
+92,92,22:10 G32006,,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GUY),Landed 21:52,2021-06-10
+93,93,22:40,LA3430,Sao Paulo (CGH),LATAM Airlines A320 (PR-MYP),Landed 22:15,2021-06-10
+94,94,23:06 LA3353,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMG),Landed 23:00,2021-06-10
+95,95,23:40,AD4126,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AUJ),Landed 23:19,2021-06-10
+96,96,23:45 AD4663,,Campinas (VCP),Azul Linhas Aereas (Pink Ribbon Livery) E295 (PS-AEA),Landed 23:56,2021-06-10
+97,97,23:55,G31406,Sao Paulo (GRU),GOL Linhas Aereas B737 (PR-GEA),Landed 23:51,2021-06-10
+0,0,00:40 WD5800,,Campinas (VCP),Modern Logistics 737,Unknown,2021-06-11
+1,1,00:50 AD4646,,Recife (REC),Azul Linhas Aereas A20N (PR-YYJ),Landed 00:37,2021-06-11
+2,2,00:50 LA3137,,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHP),Landed 00:47,2021-06-11
+3,3,04:55 TP59,,Lisbon (LIS),TAP Air Portugal A339 (CS-TUS),Landed 04:15,2021-06-11
+4,4,07:21 LA3286,,Campo Grande (CGR),LATAM Airlines A320 (PR-MHG),Landed 07:38,2021-06-11
+5,5,07:25 G31713,,Cuiaba (CGB),GOL Linhas Aereas B737 (PR-GEQ),Landed 06:53,2021-06-11
+6,6,07:31 LA3289,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-MYV),Landed 07:30,2021-06-11
+7,7,07:32 LA3278,,Florianopolis (FLN),LATAM Airlines A320 (PR-MYQ),Landed 07:29,2021-06-11
+8,8,07:35,LA3235,Salvador (SSA),LATAM Airlines A321 (PT-MXP),Landed 07:21,2021-06-11
+9,9,07:35,LA3284,Curitiba (CWB),LATAM Airlines A320 (PR-MHW),Landed 07:34,2021-06-11
+10,10,07:40,LA3290,Goiania (GYN),LATAM Airlines A321 (PT-MXN),Landed 07:38,2021-06-11
+11,11,07:41 LA3029,,Recife (REC),LATAM Airlines A320 (PR-MYA),Landed 07:40,2021-06-11
+12,12,07:45 AD4047,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEH),Landed 07:37,2021-06-11
+13,13,07:45 G31439,,Boa Vista (BVB),GOL Linhas Aereas B38M (PR-XMA),Landed 07:34,2021-06-11
+14,14,07:49,LA3283,Vitoria (VIX),LATAM Airlines A320 (PR-TYF),Landed 07:49,2021-06-11
+15,15,07:50,LA3031,Natal (NAT),LATAM Airlines A321 (PT-MXJ),Landed 07:46,2021-06-11
+16,16,07:55,LA3277,Porto Alegre (POA),LATAM Airlines A321 (PT-MXM),Landed 07:54,2021-06-11
+17,17,07:55,LA3282,Rio de Janeiro (GIG),LATAM Airlines A320 (PR-MYI),Landed 07:46,2021-06-11
+18,18,07:56 LA4580,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 07:56,2021-06-11
+19,19,08:00 2Z2251,,Uberlandia (UDI),Passaredo Linhas Aereas AT7,Unknown,2021-06-11
+20,20,08:00 2Z2279,,Sao Jose Do Rio Preto (SJP),VoePass Linhas Aereas AT76 (PR-PDO),Landed 07:43,2021-06-11
+21,21,08:00,LA3619,Fortaleza (FOR),LATAM Airlines A321 (PT-MXG),Landed 07:55,2021-06-11
+22,22,08:05,G32036,Rio de Janeiro (GIG),GOL Linhas Aereas B738 (PR-GUZ),Landed 07:57,2021-06-11
+23,23,08:05 G31771,,Campinas (VCP),GOL Linhas Aereas B738 (PR-GUJ),Landed 07:50,2021-06-11
+24,24,08:10,G31408,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GXW),Landed 08:14,2021-06-11
+25,25,08:10 G31152,,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GUA),Landed 07:59,2021-06-11
+26,26,08:10,LA3420,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHF),Landed 08:01,2021-06-11
+27,27,08:15 G31442,,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GUI),Landed 08:03,2021-06-11
+28,28,08:20 G31703,,Belo Horizonte (CNF),GOL Linhas Aereas B738 (PR-GUL),Landed 08:15,2021-06-11
+29,29,08:20,G31971,Salvador (SSA),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 08:03,2021-06-11
+30,30,08:25 G31179,,Goiania (GYN),GOL Linhas Aereas B738 (PR-GUF),Landed 08:08,2021-06-11
+31,31,08:25,G31785,Curitiba (CWB),GOL Linhas Aereas B738 (PR-GGW),Landed 08:12,2021-06-11
+32,32,08:25,G31922,Porto Alegre (POA),GOL Linhas Aereas B738 (PR-GGX),Landed 08:05,2021-06-11
+33,33,08:33,LA4609,Sao Paulo (GRU),LATAM Airlines A321 (PT-XPH),Landed 08:28,2021-06-11
+34,34,08:35 AD4800,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYC),Landed 08:33,2021-06-11
+35,35,08:42,LA3422,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHX),Landed 08:35,2021-06-11
+36,36,09:10 WD5801,,Manaus (MAO),Modern Logistics 737,Unknown,2021-06-11
+37,37,09:35 AD4673,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AYF),Unknown,2021-06-11
+38,38,09:55 AD4702,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEE),Landed 10:05,2021-06-11
+39,39,10:40,G31572,Sao Paulo (GRU),GOL Linhas Aereas B38M (PR-XMD),Landed 10:41,2021-06-11
+40,40,11:10 LA3027,,Belo Horizonte (CNF),LATAM Airlines A319 (PT-TMA),Landed 11:00,2021-06-11
+41,41,11:35 G32002,,Rio de Janeiro (SDU),GOL Linhas Aereas B737 (PR-GEA),Landed 11:28,2021-06-11
+42,42,12:15,G31664,Sao Paulo (CGH),GOL Linhas Aereas B737 (PR-VBH),Landed 12:07,2021-06-11
+43,43,12:55,AD4054,Campinas (VCP),Azul Linhas Aereas 295,Unknown,2021-06-11
+44,44,13:15 LA3312,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 13:07,2021-06-11
+45,45,13:20,LA4603,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHE),Landed 13:26,2021-06-11
+46,46,13:50 AD4793,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYC),Landed 13:56,2021-06-11
+47,47,14:25,LA3125,Sao Paulo (CGH),LATAM Airlines A320 (PR-MYJ),Landed 14:01,2021-06-11
+48,48,14:30,AD4706,Belo Horizonte (CNF),Azul Linhas Aereas E95,Unknown,2021-06-11
+49,49,14:40,LA3033,Porto Alegre (POA),LATAM Airlines A320 (PR-MYP),Landed 15:31,2021-06-11
+50,50,14:40 AD4745,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEB),Landed 14:39,2021-06-11
+51,51,16:12 LA3331,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMA),Landed 16:03,2021-06-11
+52,52,16:45,LA3316,Santarem (STM),LATAM Airlines A320 (PR-MYA),Landed 16:22,2021-06-11
+53,53,16:50,G31859,Salvador (SSA),GOL Linhas Aereas B738 (PR-GXQ),Landed 16:30,2021-06-11
+54,54,17:05 AD4224,,Belo Horizonte (CNF),Azul Linhas Aereas 320,Unknown,2021-06-11
+55,55,17:45 2Z2257,,Araguaina (AUX),Passaredo Linhas Aereas AT7,Unknown,2021-06-11
+56,56,17:45 AD4704,,Campinas (VCP),Azul Linhas Aereas (Azul Viagens Livery) E195 (PR-AYY),Unknown,2021-06-11
+57,57,18:00,LA4607,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYZ),Landed 17:41,2021-06-11
+58,58,18:20 AD4532,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AXJ),Unknown,2021-06-11
+59,59,18:20,LA3370,Macapa (MCP),LATAM Airlines A320 (PR-TYF),Landed 18:02,2021-06-11
+60,60,18:40,LA3378,Teresina (THE),LATAM Airlines A320 (PR-TYD),Landed 18:22,2021-06-11
+61,61,18:45 G31893,,Manaus (MAO),GOL Linhas Aereas B38M (PR-XMA),Landed 18:31,2021-06-11
+62,62,18:45 LA3375,,Recife (REC),LATAM Airlines A321 (PT-XPG),Landed 18:36,2021-06-11
+63,63,18:50,LA3318,Boa Vista (BVB),LATAM Airlines A320 (PR-MHF),Landed 18:33,2021-06-11
+64,64,18:50,LA3355,Aracaju (AJU),LATAM Airlines A320 (PR-MHP),Landed 18:25,2021-06-11
+65,65,18:50,LA3366,Maceio (MCZ),LATAM Airlines A320 (PR-MHQ),Unknown,2021-06-11
+66,66,18:50 G31472,,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GZK),Landed 18:42,2021-06-11
+67,67,18:52,LA3377,Belem (BEL),LATAM Airlines A321 (PT-XPE),Landed 18:49,2021-06-11
+68,68,19:05,LA3354,Natal (NAT),LATAM Airlines A321 (PT-MXQ),Landed 18:42,2021-06-11
+69,69,19:05 LA3336,,Cuiaba (CGB),LATAM Airlines A320 (PR-MYT),Landed 18:59,2021-06-11
+70,70,19:10,LA3367,Joao Pessoa (JPA),LATAM Airlines A320 (PR-TYN),Landed 18:56,2021-06-11
+71,71,19:15 2Z2271,,Barreiras (BRA),Passaredo Linhas Aereas AT7,Unknown,2021-06-11
+72,72,19:20,G31884,Maraba (MAB),GOL Linhas Aereas B738 (PR-GGW),Landed 19:03,2021-06-11
+73,73,19:25,LA3379,Salvador (SSA),LATAM Airlines A320 (PR-MHZ),Landed 19:01,2021-06-11
+74,74,19:25,LA3696,Manaus (MAO),LATAM Airlines A321 (PT-MXL),Landed 19:13,2021-06-11
+75,75,19:35 AD4195,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYE),Landed 19:36,2021-06-11
+76,76,19:35 AD4896,,Cuiaba (CGB),Azul Linhas Aereas E195 (PR-AUJ),Landed 19:14,2021-06-11
+77,77,19:35 LA3035,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 19:22,2021-06-11
+78,78,19:35,LA3376,Sao Luis (SLZ),LATAM Airlines A320 (PR-MYY),Landed 19:20,2021-06-11
+79,79,19:35 G31897,,Belem (BEL),GOL Linhas Aereas B738 (PR-GUI),Landed 19:05,2021-06-11
+80,80,19:40 G31761,,Palmas (PMW),GOL Linhas Aereas B738 (PR-GUF),Landed 19:23,2021-06-11
+81,81,19:40 G31975,,Salvador (SSA),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 19:31,2021-06-11
+82,82,19:40,LA3693,Fortaleza (FOR),LATAM Airlines A321 (PT-XPF),Landed 19:17,2021-06-11
+83,83,19:44,LA4611,Sao Paulo (GRU),LATAM Airlines A320 (PT-MZY),Unknown,2021-06-11
+84,84,19:45,AD4548,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEH),Landed 19:49,2021-06-11
+85,85,19:45,G31456,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GUJ),Landed 19:40,2021-06-11
+86,86,19:50,G31731,Joao Pessoa (JPA),GOL Linhas Aereas (Brazil Football Livery) B738 (PR-GUM),Landed 19:27,2021-06-11
+87,87,19:50,G31759,Recife (REC),GOL Linhas Aereas B738 (PR-GUL),Landed 19:43,2021-06-11
+88,88,19:55 G31683,,Teresina (THE),GOL Linhas Aereas B738 (PR-GUX),Landed 19:41,2021-06-11
+89,89,19:55,G31815,Macapa (MCP),GOL Linhas Aereas B738 (PR-GTP),Landed 19:25,2021-06-11
+90,90,19:55,G32068,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GUD),Landed 19:58,2021-06-11
+91,91,19:55,G31791,Natal (NAT),GOL Linhas Aereas (TV ao vivo a bordo Livery) B738 (PR-GTM),Landed 19:33,2021-06-11
+92,92,19:56,LA3428,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHA),Landed 19:52,2021-06-11
+93,93,20:00,G31735,Sao Luis (SLZ),GOL Linhas Aereas B738 (PR-GTO),Landed 19:54,2021-06-11
+94,94,20:00 G31869,,Carajas (CKS),GOL Linhas Aereas 73G,Unknown,2021-06-11
+95,95,20:00,G31999,Maceio (MCZ),GOL Linhas Aereas B738 (PR-GUB),Landed 19:50,2021-06-11
+96,96,20:40,AD4430,Recife (REC),Azul Linhas Aereas A20N (PR-YYK),Landed 20:31,2021-06-11
+97,97,20:40 G31709,,Fortaleza (FOR),GOL Linhas Aereas B38M (PR-XMB),Landed 20:04,2021-06-11
+98,98,22:10 G32006,,Rio de Janeiro (SDU),GOL Linhas Aereas B737 (PR-GED),Landed 21:55,2021-06-11
+99,99,22:40,LA3430,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHK),Landed 22:25,2021-06-11
+100,100,22:55 LA3353,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMA),Landed 22:44,2021-06-11
+101,101,23:40,AD4126,Belo Horizonte (CNF),Azul Linhas Aereas (50 cities Livery) E195 (PR-AXH),Unknown,2021-06-11
+102,102,23:42,CM205,Panama City (PTY),Copa Airlines B738 (HP-1726CMP),Landed 23:30,2021-06-11
+103,103,23:45 AD4663,,Campinas (VCP),Azul Linhas Aereas E195 (PR-AYJ),Unknown,2021-06-11
+104,104,23:55,G31406,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUZ),Landed 23:55,2021-06-11
+0,0,00:40 WD5802,,Campinas (VCP),Modern Logistics 737,Unknown,2021-06-12
+1,1,00:50 AD4646,,Recife (REC),Azul Linhas Aereas A20N (PR-YRB),Landed 00:46,2021-06-12
+2,2,00:50,LA3137,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYA),Landed 00:44,2021-06-12
+3,3,07:00 G31835,,Porto Velho (PVH),GOL Linhas Aereas B38M (PR-XMB),Landed 06:44,2021-06-12
+4,4,07:07,LA3001,Teresina (THE),LATAM Airlines A320 (PR-MYA),Landed 06:59,2021-06-12
+5,5,07:25 G31713,,Cuiaba (CGB),GOL Linhas Aereas B737 (PR-VBN),Landed 07:01,2021-06-12
+6,6,07:26,LA3286,Campo Grande (CGR),LATAM Airlines A320 (PR-TYD),Landed 07:17,2021-06-12
+7,7,07:28,LA3278,Florianopolis (FLN),LATAM Airlines A320 (PR-MYY),Landed 07:24,2021-06-12
+8,8,07:28,LA3284,Curitiba (CWB),LATAM Airlines A320 (PR-MYT),Landed 07:28,2021-06-12
+9,9,07:37,LA3290,Goiania (GYN),LATAM Airlines A321 (PT-XPF),Landed 07:37,2021-06-12
+10,10,07:38 LA3289,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-TYF),Landed 07:33,2021-06-12
+11,11,07:44,LA3282,Rio de Janeiro (GIG),LATAM Airlines A320 (PR-MHG),Landed 07:44,2021-06-12
+12,12,07:44,LA3283,Vitoria (VIX),LATAM Airlines A320 (PR-MYP),Landed 07:46,2021-06-12
+13,13,07:45 G31439,,Boa Vista (BVB),GOL Linhas Aereas B738 (PR-GUI),Landed 07:23,2021-06-12
+14,14,07:51,LA3619,Fortaleza (FOR),LATAM Airlines A321 (PT-XPH),Landed 07:47,2021-06-12
+15,15,07:55,G31707,Fortaleza (FOR),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 07:30,2021-06-12
+16,16,08:00 2Z2251,,Uberlandia (UDI),Passaredo Linhas Aereas AT7,Unknown,2021-06-12
+17,17,08:00 2Z2279,,Sao Jose Do Rio Preto (SJP),Passaredo Linhas Aereas AT7,Unknown,2021-06-12
+18,18,08:00,G31745,Recife (REC),GOL Linhas Aereas B738 (PR-GUC),Landed 07:43,2021-06-12
+19,19,08:02,LA3420,Sao Paulo (CGH),LATAM Airlines A320 (PR-TYH),Landed 07:51,2021-06-12
+20,20,08:04 LA4580,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 08:01,2021-06-12
+21,21,08:05,G32036,Rio de Janeiro (GIG),GOL Linhas Aereas B738 (PR-GZZ),Landed 07:57,2021-06-12
+22,22,08:05 G31771,,Campinas (VCP),GOL Linhas Aereas B738 (PR-GTO),Landed 07:53,2021-06-12
+23,23,08:10 G31845,,Florianopolis (FLN),GOL Linhas Aereas B738 (PR-GUP),Landed 07:49,2021-06-12
+24,24,08:10,LA3277,Porto Alegre (POA),LATAM Airlines A321 (PT-MXA),Landed 08:00,2021-06-12
+25,25,08:10,G31152,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GYA),Landed 08:06,2021-06-12
+26,26,08:10,G31408,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GTF),Landed 08:02,2021-06-12
+27,27,08:15,G31442,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GXR),Landed 08:04,2021-06-12
+28,28,08:20,G31971,Salvador (SSA),GOL Linhas Aereas B38M (PR-XMA),Landed 08:09,2021-06-12
+29,29,08:20 G31703,,Belo Horizonte (CNF),GOL Linhas Aereas B738 (PR-GOP),Landed 08:11,2021-06-12
+30,30,08:25 G31179,,Goiania (GYN),GOL Linhas Aereas B738 (PR-GYD),Landed 08:13,2021-06-12
+31,31,08:25,G31922,Porto Alegre (POA),GOL Linhas Aereas B738 (PR-GUH),Landed 08:07,2021-06-12
+32,32,08:25,G31785,Curitiba (CWB),GOL Linhas Aereas B738 (PR-GZW),Landed 07:57,2021-06-12
+33,33,08:35 AD4800,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YRY),Landed 08:29,2021-06-12
+34,34,08:35,LA4609,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHF),Landed 08:25,2021-06-12
+35,35,08:55,LA3422,Sao Paulo (CGH),LATAM Airlines A319 (PT-TMC),Landed 08:44,2021-06-12
+36,36,09:10 WD5803,,Manaus (MAO),Modern Logistics 737,Unknown,2021-06-12
+37,37,09:35 AD4673,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AYL),Unknown,2021-06-12
+38,38,09:55,AD4702,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEG),Landed 09:47,2021-06-12
+39,39,10:40,G31572,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUZ),Landed 10:30,2021-06-12
+40,40,11:35 G32002,,Rio de Janeiro (SDU),GOL Linhas Aereas B737 (PR-GED),Landed 11:23,2021-06-12
+41,41,13:12 LA3312,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 13:03,2021-06-12
+42,42,13:27,LA4603,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYX),Landed 13:17,2021-06-12
+43,43,13:45,LA3157,Maceio (MCZ),LATAM Airlines 320,Unknown,2021-06-12
+44,44,13:50,LA3025,Curitiba (CWB),LATAM Airlines A320 (PR-MHG),Landed 13:39,2021-06-12
+45,45,14:25,AD4710,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AYL),Unknown,2021-06-12
+46,46,14:30,LA3125,Sao Paulo (CGH),LATAM Airlines A319 (PT-TMB),Landed 14:07,2021-06-12
+47,47,14:40 AD4745,,Campinas (VCP),Azul Linhas Aereas E195 (PR-AXF),Unknown,2021-06-12
+48,48,16:13 LA3331,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMC),Landed 16:11,2021-06-12
+49,49,17:35,LA3374,Maraba (MAB),LATAM Airlines A320 (PT-MZY),Unknown,2021-06-12
+50,50,18:00,LA4607,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYR),Landed 17:41,2021-06-12
+51,51,18:10,LA3370,Macapa (MCP),LATAM Airlines A320 (PR-TYD),Landed 17:54,2021-06-12
+52,52,18:40,LA3377,Belem (BEL),LATAM Airlines A321 (PT-MXF),Landed 18:42,2021-06-12
+53,53,18:45,LA3378,Teresina (THE),LATAM Airlines A320 (PR-MHR),Landed 18:21,2021-06-12
+54,54,18:49 LA3375,,Recife (REC),LATAM Airlines A321 (PT-MXP),Landed 18:35,2021-06-12
+55,55,18:55,LA3355,Aracaju (AJU),LATAM Airlines A320 (PR-MHW),Landed 18:28,2021-06-12
+56,56,18:55,LA3366,Maceio (MCZ),LATAM Airlines A320 (PR-MHJ),Landed 18:31,2021-06-12
+57,57,19:00,LA3354,Natal (NAT),LATAM Airlines A321 (PT-MXO),Landed 18:38,2021-06-12
+58,58,19:10,LA3367,Joao Pessoa (JPA),LATAM Airlines A320 (PR-MYH),Landed 18:47,2021-06-12
+59,59,19:20,LA3379,Salvador (SSA),LATAM Airlines A320 (PR-MYI),Landed 18:55,2021-06-12
+60,60,19:25,LA3696,Manaus (MAO),LATAM Airlines A321 (PT-MXD),Landed 19:27,2021-06-12
+61,61,19:29,LA3376,Sao Luis (SLZ),LATAM Airlines A320 (PR-MHU),Landed 19:14,2021-06-12
+62,62,19:30,LA3428,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHZ),Landed 19:20,2021-06-12
+63,63,19:31 LA3035,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBW),Landed 19:24,2021-06-12
+64,64,19:35 AD4896,,Cuiaba (CGB),Azul Linhas Aereas (Azul Viagens Livery) E195 (PR-AYY),Unknown,2021-06-12
+65,65,19:40,LA3693,Fortaleza (FOR),LATAM Airlines A321 (PT-MXB),Landed 19:22,2021-06-12
+66,66,19:41,LA4611,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYP),Landed 19:44,2021-06-12
+67,67,19:55 G32047,,Rio Branco (RBR),GOL Linhas Aereas B738 (PR-GUI),Landed 19:42,2021-06-12
+68,68,20:00,G31735,Sao Luis (SLZ),GOL Linhas Aereas B737 (PR-VBN),Landed 19:34,2021-06-12
+69,69,20:05 LA3336,,Cuiaba (CGB),LATAM Airlines A320 (PR-MHA),Landed 19:55,2021-06-12
+70,70,20:15 LA4692,,Recife (REC),LATAM Airlines A320 (PR-MYX),Landed 19:51,2021-06-12
+71,71,22:40,LA3430,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHE),Landed 22:21,2021-06-12
+72,72,22:57 LA3353,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMC),Landed 22:47,2021-06-12
+73,73,23:25,AD4779,Belo Horizonte (CNF),Azul Linhas Aereas (50 cities Livery) E195 (PR-AXH),Unknown,2021-06-12
+74,74,23:42,CM205,Panama City (PTY),Copa Airlines B738 (HP-1843CMP),Landed 23:10,2021-06-12
+75,75,23:45 AD4663,,Campinas (VCP),Azul Linhas Aereas E195 (PR-AUO),Canceled,2021-06-12
+0,0,07:30,LA3023,Campo Grande (CGR),LATAM Airlines A320 (PR-MYI),Landed 07:14,2021-06-13
+1,1,07:40,LA3284,Curitiba (CWB),LATAM Airlines A320 (PR-MYH),Landed 07:38,2021-06-13
+2,2,07:40 LA3289,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-MHR),Landed 07:25,2021-06-13
+3,3,07:45,LA3278,Florianopolis (FLN),LATAM Airlines A320 (PR-MYX),Landed 07:30,2021-06-13
+4,4,07:50 LA3029,,Recife (REC),LATAM Airlines A320 (PR-TYD),Landed 07:23,2021-06-13
+5,5,07:55,LA3031,Natal (NAT),LATAM Airlines A320 (PR-MYP),Landed 07:33,2021-06-13
+6,6,07:55,LA3282,Rio de Janeiro (GIG),LATAM Airlines A320 (PR-MHG),Landed 07:43,2021-06-13
+7,7,08:05,LA3277,Porto Alegre (POA),LATAM Airlines A321 (PT-MXB),Landed 07:53,2021-06-13
+8,8,08:10,LA3420,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHX),Landed 07:51,2021-06-13
+9,9,08:22,LA4609,Sao Paulo (GRU),LATAM Airlines A320 (PR-MBH),Landed 08:26,2021-06-13
+10,10,08:36,LA3422,Sao Paulo (CGH),LATAM Airlines A319 (PT-TMI),Landed 08:31,2021-06-13
+11,11,09:52 LA4580,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MYC),Landed 09:43,2021-06-13
+12,12,09:55,AD4706,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AXB),Landed 09:51,2021-06-13
+13,13,09:55 AD4702,,Campinas (VCP),Azul Linhas Aereas A20N (PR-YRR),Landed 09:46,2021-06-13
+14,14,10:40,G31572,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUL),Landed 10:35,2021-06-13
+15,15,12:45,AD4697,Campinas (VCP),Azul Linhas Aereas E195 (PR-AUO),Landed 12:49,2021-06-13
+16,16,13:20,LA4603,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYA),Landed 13:14,2021-06-13
+17,17,13:24 LA3312,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMC),Landed 13:17,2021-06-13
+18,18,13:50 AD4793,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYF),Landed 13:43,2021-06-13
+19,19,14:25,LA3125,Sao Paulo (CGH),LATAM Airlines A320 (PT-MZY),Unknown,2021-06-13
+20,20,14:34,LA3033,Porto Alegre (POA),LATAM Airlines A319 (PR-MYL),Landed 14:24,2021-06-13
+21,21,14:40 AD4745,,Campinas (VCP),Azul Linhas Aereas E195 (PR-AXC),Unknown,2021-06-13
+22,22,16:10 LA3331,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MYC),Landed 16:05,2021-06-13
+23,23,16:36,LA3316,Santarem (STM),LATAM Airlines A320 (PR-MHZ),Landed 16:19,2021-06-13
+24,24,16:50,G31859,Salvador (SSA),GOL Linhas Aereas B737 (PR-VBH),Landed 16:58,2021-06-13
+25,25,17:45 AD4704,,Campinas (VCP),Azul Linhas Aereas 295,Unknown,2021-06-13
+26,26,17:55,LA4607,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYZ),Landed 17:39,2021-06-13
+27,27,18:20 AD4532,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AUE),Landed 18:11,2021-06-13
+28,28,18:20,LA3011,Macapa (MCP),LATAM Airlines A320 (PR-MYH),Landed 17:59,2021-06-13
+29,29,18:40,LA3378,Teresina (THE),LATAM Airlines A320 (PR-MYK),Landed 18:24,2021-06-13
+30,30,18:45 G31893,,Manaus (MAO),GOL Linhas Aereas B738 (PR-GUV),Landed 18:34,2021-06-13
+31,31,18:50 G31472,,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GZW),Landed 18:31,2021-06-13
+32,32,18:50,LA3355,Aracaju (AJU),LATAM Airlines A320 (PR-MHP),Landed 18:40,2021-06-13
+33,33,18:55,LA3318,Boa Vista (BVB),LATAM Airlines A320 (PR-MHX),Landed 18:41,2021-06-13
+34,34,18:55,LA3366,Maceio (MCZ),LATAM Airlines A320 (PR-TYH),Landed 18:36,2021-06-13
+35,35,18:55 LA3375,,Recife (REC),LATAM Airlines A321 (PT-XPD),Landed 18:29,2021-06-13
+36,36,19:05,LA3354,Natal (NAT),LATAM Airlines A321 (PT-MXM),Landed 20:36,2021-06-13
+37,37,19:05,LA3367,Joao Pessoa (JPA),LATAM Airlines A320 (PR-MYY),Landed 18:54,2021-06-13
+38,38,19:05 LA3336,,Cuiaba (CGB),LATAM Airlines A320 (PR-MHK),Landed 18:50,2021-06-13
+39,39,19:10,LA3377,Belem (BEL),LATAM Airlines A321 (PT-XPA),Landed 18:47,2021-06-13
+40,40,19:15 2Z2271,,Barreiras (BRA),VoePass Linhas Aereas AT76 (PR-PDO),Landed 19:06,2021-06-13
+41,41,19:20,G31884,Maraba (MAB),GOL Linhas Aereas B738 (PR-GOP),Landed 18:58,2021-06-13
+42,42,19:20,LA3379,Salvador (SSA),LATAM Airlines A320 (PR-MYT),Landed 19:00,2021-06-13
+43,43,19:25,LA3696,Manaus (MAO),LATAM Airlines A321 (PT-MXC),Landed 19:27,2021-06-13
+44,44,19:30,LA3428,Sao Paulo (CGH),LATAM Airlines A320 (PR-TYA),Landed 19:18,2021-06-13
+45,45,19:35 AD4195,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYE),Landed 19:50,2021-06-13
+46,46,19:35 AD4896,,Cuiaba (CGB),Azul Linhas Aereas E195 (PR-AUJ),Landed 19:12,2021-06-13
+47,47,19:35 G31897,,Belem (BEL),GOL Linhas Aereas B38M (PR-XMA),Landed 19:08,2021-06-13
+48,48,19:40 G31761,,Palmas (PMW),GOL Linhas Aereas B738 (PR-GTF),Landed 19:15,2021-06-13
+49,49,19:40 G31975,,Salvador (SSA),GOL Linhas Aereas B738 (PR-GYA),Landed 19:26,2021-06-13
+50,50,19:40 LA3035,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMC),Landed 19:24,2021-06-13
+51,51,19:40,LA3376,Sao Luis (SLZ),LATAM Airlines A320 (PR-MHF),Landed 19:22,2021-06-13
+52,52,19:40,LA3693,Fortaleza (FOR),LATAM Airlines A321 (PT-MXJ),Landed 19:28,2021-06-13
+53,53,19:45,AD4548,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEE),Landed 19:44,2021-06-13
+54,54,19:45,G31456,Sao Paulo (CGH),GOL Linhas Aereas B737 (PR-GEA),Landed 19:41,2021-06-13
+55,55,19:50 G31759,,Recife (REC),GOL Linhas Aereas B738 (PR-GTO),Landed 19:39,2021-06-13
+56,56,19:50,G31731,Joao Pessoa (JPA),GOL Linhas Aereas B737 (PR-VBN),Landed 19:54,2021-06-13
+57,57,19:55,G31815,Macapa (MCP),GOL Linhas Aereas B738 (PR-VBF),Landed 19:19,2021-06-13
+58,58,19:55 G32047,,Rio Branco (RBR),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 19:35,2021-06-13
+59,59,19:55,G32068,Rio de Janeiro (SDU),GOL Linhas Aereas B737 (PR-GED),Landed 19:47,2021-06-13
+60,60,19:55,LA4611,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHG),Landed 19:38,2021-06-13
+61,61,19:55,G31791,Natal (NAT),GOL Linhas Aereas B738 (PR-GUB),Landed 19:31,2021-06-13
+62,62,20:00,G31735,Sao Luis (SLZ),GOL Linhas Aereas B738 (PR-GUH),Landed 19:51,2021-06-13
+63,63,20:00,G31999,Maceio (MCZ),GOL Linhas Aereas B738 (PR-GUX),Landed 20:02,2021-06-13
+64,64,20:40,AD4430,Recife (REC),Azul Linhas Aereas A20N (PR-YYH),Landed 20:28,2021-06-13
+65,65,20:40 G31709,,Fortaleza (FOR),GOL Linhas Aereas B38M (PR-XMF),Landed 20:15,2021-06-13
+66,66,20:49,LA4585,Fortaleza (FOR),LATAM Airlines A320 (PR-MHJ),Landed 20:33,2021-06-13
+67,67,22:10 G32006,,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GUN),Landed 22:07,2021-06-13
+68,68,22:40,LA3430,Sao Paulo (CGH),LATAM Airlines A320 (PR-MHZ),Landed 22:25,2021-06-13
+69,69,23:01 LA3353,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBV),Landed 22:57,2021-06-13
+70,70,23:40,AD4126,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AXZ),Unknown,2021-06-13
+71,71,23:45 AD4663,,Campinas (VCP),Azul Linhas Aereas E195 (PR-AXC),Unknown,2021-06-13
+72,72,23:45 G34916,,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUL),Unknown,2021-06-13
+73,73,23:55,G31406,Sao Paulo (GRU),GOL Linhas Aereas B38M (PR-XME),Landed 23:56,2021-06-13
+0,0,00:50 AD4646,,Recife (REC),Azul Linhas Aereas A20N (PR-YRA),Landed 00:30,2021-06-14
+1,1,00:50 LA3137,,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYD),Landed 00:39,2021-06-14
+2,2,04:55 TP59,,Lisbon (LIS),TAP Air Portugal A339 (CS-TUA),Landed 04:30,2021-06-14
+3,3,07:00 G31835,,Porto Velho (PVH),GOL Linhas Aereas B38M (PR-XMF),Landed 06:36,2021-06-14
+4,4,07:25 G31713,,Cuiaba (CGB),GOL Linhas Aereas B738 (PR-GXR),Landed 06:59,2021-06-14
+5,5,07:26 LA3289,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-MHF),Landed 07:20,2021-06-14
+6,6,07:30,LA3286,Campo Grande (CGR),LATAM Airlines A320 (PR-TYH),Landed 07:16,2021-06-14
+7,7,07:37,LA3290,Goiania (GYN),LATAM Airlines A321 (PT-MXJ),Landed 07:34,2021-06-14
+8,8,07:40,LA3235,Salvador (SSA),LATAM Airlines A320 (PR-MYK),Landed 07:30,2021-06-14
+9,9,07:40,LA3284,Curitiba (CWB),LATAM Airlines A320 (PR-MHK),Landed 07:39,2021-06-14
+10,10,07:45 AD4047,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEE),Landed 07:27,2021-06-14
+11,11,07:45 G31439,,Boa Vista (BVB),GOL Linhas Aereas B738 (PR-GUI),Landed 07:32,2021-06-14
+12,12,07:45,LA3278,Florianopolis (FLN),LATAM Airlines A320 (PT-MZY),Unknown,2021-06-14
+13,13,07:55,G31707,Fortaleza (FOR),GOL Linhas Aereas B737 (PR-GEQ),Landed 07:40,2021-06-14
+14,14,08:00,G31745,Recife (REC),GOL Linhas Aereas B737 (PR-GED),Landed 07:48,2021-06-14
+15,15,08:00,LA3619,Fortaleza (FOR),LATAM Airlines A321 (PT-MXF),Landed 07:53,2021-06-14
+16,16,08:00 2Z2251,,Uberlandia (UDI),VoePass Linhas Aereas AT7,Unknown,2021-06-14
+17,17,08:00 2Z2279,,Sao Jose Do Rio Preto (SJP),VoePass Linhas Aereas AT76 (PR-PDO),Landed 07:50,2021-06-14
+18,18,08:03,LA3282,Rio de Janeiro (GIG),LATAM Airlines A320 (PR-MBH),Landed 07:56,2021-06-14
+19,19,08:05 G31771,,Campinas (VCP),GOL Linhas Aereas (Voa Canarinho Livery) B738 (PR-GUK),Landed 07:55,2021-06-14
+20,20,08:05,G32036,Rio de Janeiro (GIG),GOL Linhas Aereas B738 (PR-GUC),Landed 07:50,2021-06-14
+21,21,08:05,LA3277,Porto Alegre (POA),LATAM Airlines A321 (PT-MXI),Landed 07:44,2021-06-14
+22,22,08:05,LA3283,Vitoria (VIX),LATAM Airlines A320 (PR-MHP),Landed 07:58,2021-06-14
+23,23,08:08 LA4580,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMC),Landed 08:03,2021-06-14
+24,24,08:10,G31152,Rio de Janeiro (SDU),GOL Linhas Aereas (Brazil Football Livery) B738 (PR-GUM),Landed 08:00,2021-06-14
+25,25,08:10,G31408,Sao Paulo (GRU),GOL Linhas Aereas B38M (PR-XMB),Landed 08:05,2021-06-14
+26,26,08:10 G31845,,Florianopolis (FLN),GOL Linhas Aereas B738 (PR-VBF),Landed 07:52,2021-06-14
+27,27,08:15,G31442,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GTO),Landed 08:00,2021-06-14
+28,28,08:19,LA4609,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYP),Landed 08:25,2021-06-14
+29,29,08:20 G31703,,Belo Horizonte (CNF),GOL Linhas Aereas B738 (PR-GXA),Landed 08:22,2021-06-14
+30,30,08:20,G31971,Salvador (SSA),GOL Linhas Aereas B738 (PR-GXB),Landed 08:13,2021-06-14
+31,31,08:25 G31179,,Goiania (GYN),GOL Linhas Aereas B738 (PR-GOP),Landed 08:17,2021-06-14
+32,32,08:25,G31785,Curitiba (CWB),GOL Linhas Aereas B738 (PR-GUZ),Landed 08:08,2021-06-14
+33,33,08:25,LA3142,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHX),Landed 08:10,2021-06-14
+34,34,08:25,LA3420,Sao Paulo (CGH),LATAM Airlines A320 (PR-MYJ),Landed 08:20,2021-06-14
+35,35,08:35 AD4800,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYE),Landed 08:36,2021-06-14
+36,36,08:49,LA3422,Sao Paulo (CGH),LATAM Airlines A319 (PR-MBN),Landed 08:41,2021-06-14
+37,37,09:35 AD4673,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AYW),Unknown,2021-06-14
+38,38,09:55 AD4702,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEC),Landed 09:44,2021-06-14
+39,39,10:40,G31572,Sao Paulo (GRU),GOL Linhas Aereas B737 (PR-GOW),Landed 10:30,2021-06-14
+40,40,11:35 G32002,,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GUN),Landed 11:24,2021-06-14
+41,41,12:15 AD5920,,Jundiai (QDV),Azul Linhas Aereas CN1,Unknown,2021-06-14
+42,42,12:15,G31664,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GUD),Landed 12:10,2021-06-14
+43,43,13:20,LA4603,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYQ),Landed 13:11,2021-06-14
+44,44,13:27 LA3312,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMC),Landed 13:17,2021-06-14
+45,45,13:45,LA3157,Maceio (MCZ),LATAM Airlines A319 (PR-MBV),Landed 13:40,2021-06-14
+46,46,13:50 AD4793,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYD),Landed 14:02,2021-06-14
+47,47,13:50,LA3025,Curitiba (CWB),LATAM Airlines A320 (PR-MYT),Landed 13:36,2021-06-14
+48,48,14:25,LA3125,Sao Paulo (CGH),LATAM Airlines A320 (PR-TYF),Landed 14:07,2021-06-14
+49,49,14:30,AD4706,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AYW),Unknown,2021-06-14
+50,50,14:40 AD4745,,Campinas (VCP),Azul Linhas Aereas (Company Values Livery) E295 (PR-PJN),Landed 14:36,2021-06-14
+51,51,14:40,LA3033,Porto Alegre (POA),LATAM Airlines A320 (PR-MHF),Landed 14:17,2021-06-14
+52,52,16:11 LA3331,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBN),Landed 16:05,2021-06-14
+53,53,16:50,G31859,Salvador (SSA),GOL Linhas Aereas B738 (PR-GGX),Landed 16:45,2021-06-14
+54,54,17:45 AD4704,,Campinas (VCP),Azul Linhas Aereas E195 (PR-AUM),Landed 17:38,2021-06-14
+55,55,17:45 2Z2257,,Araguaina (AUX),VoePass Linhas Aereas AT7,Unknown,2021-06-14
+56,56,17:50,LA4607,Sao Paulo (GRU),LATAM Airlines A320 (PR-MBG),Unknown,2021-06-14
+57,57,18:20 AD4532,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AXX),Unknown,2021-06-14
+58,58,18:45 G31893,,Manaus (MAO),GOL Linhas Aereas B38M (PR-XMA),Landed 18:53,2021-06-14
+59,59,18:50 G31472,,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUH),Landed 19:13,2021-06-14
+60,60,18:50,LA3318,Boa Vista (BVB),LATAM Airlines A320 (PR-MHJ),Landed 18:46,2021-06-14
+61,61,18:50,LA3355,Aracaju (AJU),LATAM Airlines A320 (PR-MHW),Landed 18:44,2021-06-14
+62,62,18:50,LA3378,Teresina (THE),LATAM Airlines A320 (PR-MYH),Landed 18:36,2021-06-14
+63,63,18:55,LA3366,Maceio (MCZ),LATAM Airlines A320 (PR-TYD),Landed 18:41,2021-06-14
+64,64,19:10 LA3336,,Cuiaba (CGB),LATAM Airlines A320 (PR-MHR),Landed 18:57,2021-06-14
+65,65,19:10,LA3354,Natal (NAT),LATAM Airlines A321 (PT-XPA),Landed 18:49,2021-06-14
+66,66,19:10,LA3367,Joao Pessoa (JPA),LATAM Airlines A320 (PR-MHQ),Landed 19:05,2021-06-14
+67,67,19:14 LA3375,,Recife (REC),LATAM Airlines A321 (PT-MXL),Landed 19:08,2021-06-14
+68,68,19:15 2Z2271,,Barreiras (BRA),VoePass Linhas Aereas AT76 (PR-PDO),Landed 19:22,2021-06-14
+69,69,19:20,G31884,Maraba (MAB),GOL Linhas Aereas B738 (PR-GUD),Landed 19:12,2021-06-14
+70,70,19:20,LA3379,Salvador (SSA),LATAM Airlines A320 (PT-MZT),Unknown,2021-06-14
+71,71,19:25,LA3696,Manaus (MAO),LATAM Airlines A321 (PT-XPC),Landed 19:18,2021-06-14
+72,72,19:30,LA3428,Sao Paulo (CGH),LATAM Airlines A320 (PR-MYV),Landed 19:16,2021-06-14
+73,73,19:35 AD4195,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYF),Landed 20:23,2021-06-14
+74,74,19:35 AD4896,,Cuiaba (CGB),Azul Linhas Aereas E195 (PR-AUJ),Landed 19:20,2021-06-14
+75,75,19:35 G31897,,Belem (BEL),GOL Linhas Aereas B738 (PR-GTP),Landed 19:10,2021-06-14
+76,76,19:35 LA3035,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMC),Landed 19:30,2021-06-14
+77,77,19:35,LA3377,Belem (BEL),LATAM Airlines A321 (PT-MXH),Landed 19:15,2021-06-14
+78,78,19:40 G31761,,Palmas (PMW),GOL Linhas Aereas B738 (PR-GXH),Landed 19:24,2021-06-14
+79,79,19:40 G31975,,Salvador (SSA),GOL Linhas Aereas B738 (PR-GUL),Landed 19:33,2021-06-14
+80,80,19:40,LA3376,Sao Luis (SLZ),LATAM Airlines A320 (PR-MYZ),Landed 19:26,2021-06-14
+81,81,19:40,LA3693,Fortaleza (FOR),LATAM Airlines A321 (PT-MXG),Landed 19:32,2021-06-14
+82,82,19:45,AD4548,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEG),Landed 19:57,2021-06-14
+83,83,19:45,G31456,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GUV),Landed 19:23,2021-06-14
+84,84,19:45,LA3021,Maraba (MAB),LATAM Airlines A320 (PR-MYQ),Landed 19:34,2021-06-14
+85,85,19:50,G31731,Joao Pessoa (JPA),GOL Linhas Aereas B738 (PR-GXB),Landed 19:37,2021-06-14
+86,86,19:50,G31759,Recife (REC),GOL Linhas Aereas B738 (PR-GUN),Landed 20:14,2021-06-14
+87,87,19:50,LA4611,Sao Paulo (GRU),LATAM Airlines A320 (PR-MHA),Landed 19:39,2021-06-14
+88,88,19:55,G31683,Teresina (THE),GOL Linhas Aereas B738 (PR-VBF),Landed 20:02,2021-06-14
+89,89,19:55,G31791,Natal (NAT),GOL Linhas Aereas B738 (PR-GUF),Landed 19:28,2021-06-14
+90,90,19:55,G31815,Macapa (MCP),GOL Linhas Aereas B38M (PR-XMF),Landed 19:45,2021-06-14
+91,91,19:55,G32068,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GUA),Landed 19:49,2021-06-14
+92,92,20:00,G31735,Sao Luis (SLZ),GOL Linhas Aereas B738 (PR-GXR),Landed 19:59,2021-06-14
+93,93,20:00 G31869,,Carajas (CKS),GOL Linhas Aereas B737 (PR-GEQ),Landed 19:41,2021-06-14
+94,94,20:00,G31999,Maceio (MCZ),GOL Linhas Aereas B38M (PR-XMM),Landed 19:51,2021-06-14
+95,95,20:40,AD4430,Recife (REC),Azul Linhas Aereas A20N (PR-YYI),Landed 20:57,2021-06-14
+96,96,20:40 G31709,,Fortaleza (FOR),GOL Linhas Aereas B738 (PR-GTF),Landed 20:20,2021-06-14
+97,97,22:40,LA3430,Sao Paulo (CGH),LATAM Airlines A320 (PT-MZZ),Unknown,2021-06-14
+98,98,22:55 LA3353,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBV),Landed 22:44,2021-06-14
+99,99,23:40,AD4126,Belo Horizonte (CNF),Azul Linhas Aereas (Azul Viagens Livery) E195 (PR-AYY),Unknown,2021-06-14
+100,100,23:42,CM205,Panama City (PTY),Copa Airlines B738 (HP-1841CMP),Landed 23:18,2021-06-14
+101,101,23:45 AD4663,,Campinas (VCP),Azul Linhas Aereas (Company Values Livery) E295 (PR-PJN),Landed 23:50,2021-06-14
+102,102,23:55,G31406,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GXW),Landed 23:46,2021-06-14
+0,0,00:40 WD5802,,Campinas (VCP),Modern Logistics 737,Unknown,2021-06-15
+1,1,00:50 AD4646,,Recife (REC),Azul Linhas Aereas A20N (PR-YRA),Landed 00:45,2021-06-15
+2,2,00:50,LA3137,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYN),Landed 00:40,2021-06-15
+3,3,07:00 G31835,,Porto Velho (PVH),GOL Linhas Aereas B738 (PR-GTF),Landed 06:47,2021-06-15
+4,4,07:23,LA3286,Campo Grande (CGR),LATAM Airlines A320 (PR-MYZ),Landed 07:13,2021-06-15
+5,5,07:25 G31713,,Cuiaba (CGB),GOL Linhas Aereas B738 (PR-GUG),Landed 07:02,2021-06-15
+6,6,07:30,LA3001,Teresina (THE),LATAM Airlines A319 (PT-TMC),Landed 07:18,2021-06-15
+7,7,07:30,LA3278,Florianopolis (FLN),LATAM Airlines A320 (PR-TYD),Landed 07:15,2021-06-15
+8,8,07:33,LA3290,Goiania (GYN),LATAM Airlines A321 (PT-XPC),Landed 07:30,2021-06-15
+9,9,07:37 LA3289,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-MYQ),Landed 07:26,2021-06-15
+10,10,07:42,LA3277,Porto Alegre (POA),LATAM Airlines A321 (PT-MXG),Landed 07:33,2021-06-15
+11,11,07:45 AD4047,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEC),Landed 07:42,2021-06-15
+12,12,07:45 G31439,,Boa Vista (BVB),GOL Linhas Aereas B38M (PR-XMA),Landed 07:40,2021-06-15
+13,13,07:45,LA3284,Curitiba (CWB),LATAM Airlines A320 (PR-MYV),Landed 07:20,2021-06-15
+14,14,07:54,LA3283,Vitoria (VIX),LATAM Airlines A320 (PR-MHR),Landed 07:46,2021-06-15
+15,15,07:55,G31707,Fortaleza (FOR),GOL Linhas Aereas B738 (PR-GUV),Landed 07:49,2021-06-15
+16,16,07:55,LA3282,Rio de Janeiro (GIG),LATAM Airlines A320 (PR-MBG),Unknown,2021-06-15
+17,17,07:55,LA3420,Sao Paulo (CGH),LATAM Airlines A320 (PR-MYH),Landed 07:41,2021-06-15
+18,18,07:58 LA4580,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBN),Landed 07:55,2021-06-15
+19,19,08:00,G31745,Recife (REC),GOL Linhas Aereas B738 (PR-GZK),Landed 07:46,2021-06-15
+20,20,08:00 2Z2251,,Uberlandia (UDI),VoePass Linhas Aereas AT7,Unknown,2021-06-15
+21,21,08:00 2Z2279,,Sao Jose Do Rio Preto (SJP),VoePass Linhas Aereas AT76 (PR-PDO),Landed 07:34,2021-06-15
+22,22,08:05 G31771,,Campinas (VCP),GOL Linhas Aereas B738 (PR-VBF),Landed 07:58,2021-06-15
+23,23,08:05,G32036,Rio de Janeiro (GIG),GOL Linhas Aereas 73G,Canceled,2021-06-15
+24,24,08:05,LA3619,Fortaleza (FOR),LATAM Airlines A321 (PT-MXH),Landed 07:57,2021-06-15
+25,25,08:10 G31152,,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GYD),Landed 07:50,2021-06-15
+26,26,08:10,G31408,Sao Paulo (GRU),GOL Linhas Aereas (TV ao vivo a bordo Livery) B738 (PR-GTM),Landed 07:52,2021-06-15
+27,27,08:10 G31845,,Florianopolis (FLN),GOL Linhas Aereas B738 (PR-GXB),Landed 07:39,2021-06-15
+28,28,08:10,LA3142,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYH),Landed 08:00,2021-06-15
+29,29,08:15 G31442,,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GTP),Landed 07:48,2021-06-15
+30,30,08:20 G31703,,Belo Horizonte (CNF),GOL Linhas Aereas B737 (PR-GEA),Landed 08:13,2021-06-15
+31,31,08:20,G31971,Salvador (SSA),GOL Linhas Aereas B738 (PR-GUI),Landed 08:05,2021-06-15
+32,32,08:22,LA4609,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYK),Landed 08:10,2021-06-15
+33,33,08:25 G31179,,Goiania (GYN),GOL Linhas Aereas B738 (PR-GUH),Landed 08:04,2021-06-15
+34,34,08:25,G31785,Curitiba (CWB),GOL Linhas Aereas B738 (PR-GUL),Landed 08:22,2021-06-15
+35,35,08:25,G31922,Porto Alegre (POA),GOL Linhas Aereas B738 (PR-GUJ),Landed 08:05,2021-06-15
+36,36,08:35 AD4800,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYC),Landed 08:18,2021-06-15
+37,37,08:50,LA3422,Sao Paulo (CGH),LATAM Airlines A319 (PR-MYL),Landed 08:40,2021-06-15
+38,38,09:10 WD5803,,Manaus (MAO),Modern Logistics 737,Unknown,2021-06-15
+39,39,09:35 AD4673,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AUN),Landed 09:13,2021-06-15
+40,40,09:55 AD4702,,Campinas (VCP),Azul Linhas Aereas (Tropical Spix's Macaw Livery) E295 (PS-AEF),Landed 09:57,2021-06-15
+41,41,10:40,G31572,Sao Paulo (GRU),GOL Linhas Aereas B737 (PR-VBN),Landed 10:24,2021-06-15
+42,42,12:15,G31664,Sao Paulo (CGH),GOL Linhas Aereas B738 (PR-GUU),Landed 12:08,2021-06-15
+43,43,12:50,LA3033,Porto Alegre (POA),LATAM Airlines A320 (PT-MZT),Unknown,2021-06-15
+44,44,13:20 LA3027,,Belo Horizonte (CNF),LATAM Airlines A320 (PR-MHR),Landed 13:09,2021-06-15
+45,45,13:20 LA3312,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMC),Landed 12:55,2021-06-15
+46,46,13:20,LA4603,Sao Paulo (GRU),LATAM Airlines A320 (PR-MBH),Landed 13:04,2021-06-15
+47,47,13:45,LA3157,Maceio (MCZ),LATAM Airlines A320 (PR-MHX),Landed 13:29,2021-06-15
+48,48,13:50 AD4793,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYE),Landed 13:59,2021-06-15
+49,49,14:25,LA3125,Sao Paulo (CGH),LATAM Airlines A320 (PT-MZU),Unknown,2021-06-15
+50,50,14:30 AD4706,,Belo Horizonte (CNF),Azul Linhas Aereas E95,Unknown,2021-06-15
+51,51,14:40 AD4745,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEH),Landed 14:26,2021-06-15
+52,52,15:35 AD5921,,Palmas (PMW),Azul Linhas Aereas CN1,Unknown,2021-06-15
+53,53,16:20 LA3331,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBV),Landed 15:58,2021-06-15
+54,54,16:45,LA3316,Santarem (STM),LATAM Airlines A320 (PR-MYK),Landed 16:27,2021-06-15
+55,55,17:35,LA3374,Maraba (MAB),LATAM Airlines A319 (PR-MBN),Landed 17:17,2021-06-15
+56,56,17:50 AD4704,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEG),Landed 17:42,2021-06-15
+57,57,17:50,LA4607,Sao Paulo (GRU),LATAM Airlines A320 (PR-MYR),Landed 17:32,2021-06-15
+58,58,18:20 AD4532,,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AXI),Unknown,2021-06-15
+59,59,18:39,LA3377,Belem (BEL),LATAM Airlines A321 (PT-MXE),Landed 18:49,2021-06-15
+60,60,18:50 G31472,,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-GUT),Landed 18:32,2021-06-15
+61,61,18:50,LA3355,Aracaju (AJU),LATAM Airlines A320 (PR-MYA),Landed 18:36,2021-06-15
+62,62,18:50,LA3378,Teresina (THE),LATAM Airlines A320 (PR-MYZ),Landed 18:52,2021-06-15
+63,63,18:50,LA3366,Maceio (MCZ),LATAM Airlines A320 (PR-MBG),Unknown,2021-06-15
+64,64,18:55 LA3375,,Recife (REC),LATAM Airlines A321 (PT-MXP),Landed 18:54,2021-06-15
+65,65,19:05,LA3354,Natal (NAT),LATAM Airlines A321 (PT-XPI),Landed 18:46,2021-06-15
+66,66,19:10 LA3336,,Cuiaba (CGB),LATAM Airlines A320 (PR-MHG),Landed 18:59,2021-06-15
+67,67,19:10,LA3367,Joao Pessoa (JPA),LATAM Airlines A320 (PR-MHM),Landed 19:03,2021-06-15
+68,68,19:20,LA3379,Salvador (SSA),LATAM Airlines A320 (PT-MZY),Unknown,2021-06-15
+69,69,19:25,LA3696,Manaus (MAO),LATAM Airlines A321 (PT-MXJ),Landed 19:11,2021-06-15
+70,70,19:30,LA3428,Sao Paulo (CGH),LATAM Airlines A320 (PR-TYF),Landed 19:14,2021-06-15
+71,71,19:35 AD4195,,Rio de Janeiro (SDU),Azul Linhas Aereas A20N (PR-YYD),Landed 19:33,2021-06-15
+72,72,19:35 AD4896,,Cuiaba (CGB),Azul Linhas Aereas E195 (PR-AXK),Unknown,2021-06-15
+73,73,19:35 G31897,,Belem (BEL),GOL Linhas Aereas B738 (PR-GUI),Landed 19:34,2021-06-15
+74,74,19:35 LA3035,,Rio de Janeiro (SDU),LATAM Airlines A319 (PT-TMD),Landed 19:09,2021-06-15
+75,75,19:40 G31761,,Palmas (PMW),GOL Linhas Aereas (TV ao vivo a bordo Livery) B738 (PR-GTM),Landed 19:27,2021-06-15
+76,76,19:40 G31975,,Salvador (SSA),GOL Linhas Aereas B738 (PR-GXQ),Landed 19:36,2021-06-15
+77,77,19:40,LA3376,Sao Luis (SLZ),LATAM Airlines A320 (PR-MHF),Landed 19:42,2021-06-15
+78,78,19:40,LA3693,Fortaleza (FOR),LATAM Airlines A321 (PT-MXB),Landed 19:49,2021-06-15
+79,79,19:40,LA4585,Fortaleza (FOR),LATAM Airlines A320 (PT-MZT),Unknown,2021-06-15
+80,80,19:45,AD4548,Campinas (VCP),Azul Linhas Aereas E295 (PS-AEC),Landed 19:30,2021-06-15
+81,81,19:45,G31456,Sao Paulo (CGH),GOL Linhas Aereas B737 (PR-GEQ),Landed 19:19,2021-06-15
+82,82,19:45,LA4611,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYO),Landed 19:27,2021-06-15
+83,83,19:50,G31759,Recife (REC),GOL Linhas Aereas B738 (PR-GUG),Landed 19:43,2021-06-15
+84,84,19:55,G31791,Natal (NAT),GOL Linhas Aereas B738 (PR-GTF),Landed 19:37,2021-06-15
+85,85,19:55,G32047,Rio Branco (RBR),GOL Linhas Aereas B38M (PR-XMA),Landed 19:39,2021-06-15
+86,86,19:55,G32068,Rio de Janeiro (SDU),GOL Linhas Aereas B738 (PR-GYA),Landed 19:21,2021-06-15
+87,87,20:00,G31735,Sao Luis (SLZ),GOL Linhas Aereas B738 (PR-GUV),Landed 19:58,2021-06-15
+88,88,20:00,G31999,Maceio (MCZ),GOL Linhas Aereas B738 (PR-GXI),Landed 19:52,2021-06-15
+89,89,20:05 LA4692,,Recife (REC),LATAM Airlines A320 (PR-MBH),Landed 19:47,2021-06-15
+90,90,20:40,AD4430,Recife (REC),Azul Linhas Aereas A20N (PR-YSG),Landed 20:41,2021-06-15
+91,91,20:40 G31709,,Fortaleza (FOR),GOL Linhas Aereas B738 (PR-GXT),Landed 20:12,2021-06-15
+92,92,22:40,LA3430,Sao Paulo (CGH),LATAM Airlines A20N (PR-XBE),Landed 22:14,2021-06-15
+93,93,23:10 LA3353,,Rio de Janeiro (SDU),LATAM Airlines A319 (PR-MBN),Landed 22:45,2021-06-15
+94,94,23:40,AD4126,Belo Horizonte (CNF),Azul Linhas Aereas E195 (PR-AUE),Landed 23:08,2021-06-15
+95,95,23:45 AD4663,,Campinas (VCP),Azul Linhas Aereas E295 (PS-AED),Landed 23:36,2021-06-15
+96,96,23:53,CM205,Panama City (PTY),Copa Airlines B738 (HP-1851CMP),Landed 23:32,2021-06-15
+97,97,23:55,G31406,Sao Paulo (GRU),GOL Linhas Aereas B738 (PR-VBK),Landed 23:50,2021-06-15

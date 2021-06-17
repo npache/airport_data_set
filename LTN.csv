@@ -1,0 +1,477 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:05 W95104,,Dalaman (DLM),Wizz Air UK 32Q,Unknown,2021-06-08
+1,1,00:15 W62065,,Lublin (LUZ),Wizz Air A21N (G-WUKO),Landed 00:02,2021-06-08
+2,2,00:40 U22352,,Heraklion (HER),easyJet A320 (G-EZWY),Landed 00:39,2021-06-08
+3,3,01:55 W98130,,Tenerife (TFS),Wizz Air UK 32Q,Canceled,2021-06-08
+4,4,07:15 W63771,,Sibiu (SBZ),Wizz Air A320 (HA-LWY),Landed 06:59,2021-06-08
+5,5,07:15 W63753,,Craiova (CRA),Wizz Air 320,Unknown,2021-06-08
+6,6,07:20 W63301,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LWK),Landed 06:55,2021-06-08
+7,7,07:20 W63501,,Timisoara (TSR),Wizz Air 320,Unknown,2021-06-08
+8,8,07:30 W64301,,Sofia (SOF),Wizz Air A321 (HA-LXC),Landed 07:16,2021-06-08
+9,9,07:45 W61001,,Katowice (KTW),Wizz Air A320 (HA-LPJ),Landed 07:20,2021-06-08
+10,10,07:55 W62201,,Budapest (BUD),Wizz Air A321 (HA-LXR),Landed 07:34,2021-06-08
+11,11,08:00 W61601,,Gdansk (GDN),Wizz Air 320,Unknown,2021-06-08
+12,12,08:05 W63001,,Bucharest (OTP),Wizz Air A320 (HA-LWL),Landed 07:37,2021-06-08
+13,13,08:20 U266,,Glasgow (GLA),easyJet A320 (G-EZRZ),Landed 08:06,2021-06-08
+14,14,08:25 0B131,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-08
+15,15,08:55 W64472,,Tirana (TIA),Wizz Air A21N (HA-LVO),Landed 08:36,2021-06-08
+16,16,09:55 0B2931,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 09:22,2021-06-08
+17,17,10:10 U2182,,Belfast (BFS),easyJet A319 (G-EZDR),Landed 09:52,2021-06-08
+18,18,11:15 W92181,,Olsztyn (SZY),Wizz Air UK 321,Unknown,2021-06-08
+19,19,12:00 W64486,,Lviv (LWO),Wizz Air A21N (G-WUKN),Landed 11:42,2021-06-08
+20,20,12:10 U22244,,Split (SPU),easyJet A320 (G-EZWA),Landed 11:44,2021-06-08
+21,21,12:10 W95116,,Kaunas (KUN),Wizz Air UK 321,Unknown,2021-06-08
+22,22,12:45 W63649,,Satu Mare (SUJ),Wizz Air A21N (G-WUKP),Landed 12:35,2021-06-08
+23,23,12:55 U22016,,Faro (FAO),easyJet 320,Canceled,2021-06-08
+24,24,12:55 W93605,,Suceava (SCV),Wizz Air UK 32Q,Unknown,2021-06-08
+25,25,13:05 U2154,,Inverness (INV),easyJet A20N (G-UZHX),Landed 13:03,2021-06-08
+26,26,13:35 W95124,,Malaga (AGP),Wizz Air UK 32Q,Unknown,2021-06-08
+27,27,14:15 U22454,,Palermo (PMO),easyJet A319 (G-EZAU),Landed 13:59,2021-06-08
+28,28,14:15 W98162,,Zakynthos (ZTH),Wizz Air UK 32Q,Unknown,2021-06-08
+29,29,14:20 W66002,,Kyiv (IEV),Wizz Air A320 (G-WUKF),Landed 14:10,2021-06-08
+30,30,15:00 W65156,,Funchal (FNC),Wizz Air A21N (G-WUKO),Landed 00:20,2021-06-08
+31,31,15:05 W94464,,Thessaloniki (SKG),Wizz Air UK 321,Unknown,2021-06-08
+32,32,15:30 W64460,,Larnaca (LCA),Wizz Air A21N (HA-LVG),Landed 15:17,2021-06-08
+33,33,15:40 W98166,,Corfu (CFU),Wizz Air UK 321,Unknown,2021-06-08
+34,34,16:10 U22188,,Mykonos (JMK),easyJet A20N (G-UZHO),Landed 16:02,2021-06-08
+35,35,16:35 U22362,,Santorini (JTR),easyJet A320 (G-EZWY),Landed 16:23,2021-06-08
+36,36,18:00 U22274,,Palma de Mallorca (PMI),easyJet A320 (G-EZWZ),Landed 17:42,2021-06-08
+37,37,18:00 W95136,,Alicante (ALC),Wizz Air UK 321,Unknown,2021-06-08
+38,38,18:15 W98114,,Porto (OPO),Wizz Air UK 32Q,Unknown,2021-06-08
+39,39,18:20 W95112,,Palanga (PLQ),Wizz Air UK 321,Unknown,2021-06-08
+40,40,18:30 U22286,,Milan (MXP),easyJet A319 (OE-LQT),Landed 18:23,2021-06-08
+41,41,19:05 W61307,,Warsaw (WAW),Wizz Air A320 (HA-LPW),Landed 18:49,2021-06-08
+42,42,19:20 W65003,,Krakow (KRK),Wizz Air 320,Unknown,2021-06-08
+43,43,19:35 0B1231,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-08
+44,44,20:50 W67701,,Skopje (SKP),Wizz Air A21N (HA-LVX),Landed 20:25,2021-06-08
+45,45,21:00 W63005,,Bucharest (OTP),Wizz Air A21N (HA-LVH),Landed 20:40,2021-06-08
+46,46,21:10 W65503,,Milan (MXP),Wizz Air 32Q,Unknown,2021-06-08
+47,47,21:20 W63653,,Iasi (IAS),Wizz Air A320 (HA-LWV),Landed 20:57,2021-06-08
+48,48,21:25 U22404,,Malaga (AGP),easyJet A320 (G-EZWA),Landed 21:19,2021-06-08
+49,49,21:25 W61803,,Wroclaw (WRO),Wizz Air 320,Unknown,2021-06-08
+50,50,22:15 U220,,Edinburgh (EDI),easyJet A320 (G-EZWZ),Landed 22:03,2021-06-08
+51,51,22:35 U22020,,Faro (FAO),easyJet A20N (G-UZHX),Landed 22:22,2021-06-08
+52,52,22:45 W63797,,Chisinau (KIV),Wizz Air A320 (G-WUKE),Landed 22:20,2021-06-08
+53,53,22:50 W97901,,Split (SPU),Wizz Air UK 321,Unknown,2021-06-08
+54,54,22:55 W95142,,Catania (CTA),Wizz Air UK 321,Unknown,2021-06-08
+55,55,23:10 W98168,,Heraklion (HER),Wizz Air UK 32Q,Unknown,2021-06-08
+56,56,23:25 FR3473,,Rzeszow (RZE),Ryanair B738 (EI-EBC),Landed 22:54,2021-06-08
+57,57,23:40 W63775,,Constanta (CND),Wizz Air A21N (G-WUKN),Landed 23:20,2021-06-08
+58,58,23:50 W64551,,Burgas (BOJ),Wizz Air A21N (G-WUKM),Landed 23:43,2021-06-08
+59,59,23:55 W98170,,Rhodes (RHO),Wizz Air UK 321,Unknown,2021-06-08
+0,0,00:15 W92065,,Lublin (LUZ),Wizz Air UK 321,Unknown,2021-06-10
+1,1,00:30 MB311,,Istanbul (ISL),MNG Airlines A306 (TC-MCG),Diverted to EMA,2021-06-10
+2,2,00:30 W94494,,Lisbon (LIS),Wizz Air UK 32Q,Canceled,2021-06-10
+3,3,00:40 U22352,,Heraklion (HER),easyJet A320 (G-EZWA),Landed 01:08,2021-06-10
+4,4,01:10 W94452,,Tel Aviv (TLV),Wizz Air UK 32Q,Unknown,2021-06-10
+5,5,01:55 W98130,,Tenerife (TFS),Wizz Air UK 32Q,Unknown,2021-06-10
+6,6,02:30 MB311,,East Midlands (EMA),MNG Airlines A306 (TC-MCG),Diverted to OST,2021-06-10
+7,7,07:15 W63753,,Craiova (CRA),Wizz Air A320 (HA-LWM),Landed 07:09,2021-06-10
+8,8,07:15 W63771,,Sibiu (SBZ),Wizz Air A320 (HA-LWY),Landed 06:50,2021-06-10
+9,9,07:20 W63501,,Timisoara (TSR),Wizz Air A320 (HA-LYO),Landed 06:58,2021-06-10
+10,10,07:30 W63901,,Bacau (BCM),Wizz Air A320 (HA-LWA),Landed 07:06,2021-06-10
+11,11,07:45 W61001,,Katowice (KTW),Wizz Air 320,Unknown,2021-06-10
+12,12,07:55 U212,,Edinburgh (EDI),easyJet A20N (G-UZHU),Landed 07:24,2021-06-10
+13,13,08:05 W63001,,Bucharest (OTP),Wizz Air A21N (HA-LVI),Landed 07:39,2021-06-10
+14,14,08:20 U266,,Glasgow (GLA),easyJet A20N (G-UZLF),Landed 08:14,2021-06-10
+15,15,08:20 BA3385,,Frankfurt (FRA),British Airways AB6,Unknown,2021-06-10
+16,16,08:25 0B131,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-10
+17,17,08:55 W64472,,Tirana (TIA),Wizz Air A21N (HA-LVJ),Landed 08:41,2021-06-10
+18,18,09:30 W64460,,Larnaca (LCA),Wizz Air 320,Unknown,2021-06-10
+19,19,09:55 0B2931,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 09:40,2021-06-10
+20,20,10:10 U2182,,Belfast (BFS),easyJet A319 (G-EZGO),Landed 10:05,2021-06-10
+21,21,11:36,,Berlin (BER),- GL5T (N116QS),Landed 11:21,2021-06-10
+22,22,12:00 W94486,,Lviv (LWO),Wizz Air UK 321,Unknown,2021-06-10
+23,23,12:10 W65116,,Kaunas (KUN),Wizz Air A21N (G-WUKN),Landed 11:49,2021-06-10
+24,24,12:40 U22296,,Reykjavik (KEF),easyJet A20N (G-UZLH),Landed 12:53,2021-06-10
+25,25,12:45 U22098,,Porto (OPO),easyJet 320,Canceled,2021-06-10
+26,26,12:45 W93649,,Satu Mare (SUJ),Wizz Air UK 32Q,Unknown,2021-06-10
+27,27,12:55 U22016,,Faro (FAO),easyJet A320 (G-EZUR),Landed 12:47,2021-06-10
+28,28,12:55 W63605,,Suceava (SCV),Wizz Air A21N (G-WUKO),Landed 12:55,2021-06-10
+29,29,13:30 W65124,,Malaga (AGP),Wizz Air A21N (G-WUKP),Landed 13:12,2021-06-10
+30,30,14:20 W96002,,Kyiv (IEV),Wizz Air UK 320,Unknown,2021-06-10
+31,31,14:40 W62205,,Budapest (BUD),Wizz Air A320 (HA-LYS),Landed 14:29,2021-06-10
+32,32,15:00 W95156,,Funchal (FNC),Wizz Air UK 320,Unknown,2021-06-10
+33,33,15:05 W94464,,Thessaloniki (SKG),Wizz Air UK 321,Unknown,2021-06-10
+34,34,15:45 W64551,,Burgas (BOJ),Wizz Air A21N (G-WUKM),Landed 15:44,2021-06-10
+35,35,16:10 W98114,,Porto (OPO),Wizz Air UK 320,Unknown,2021-06-10
+36,36,17:40 W91901,,Poznan (POZ),Wizz Air UK 321,Unknown,2021-06-10
+37,37,19:05 W61307,,Warsaw (WAW),Wizz Air A320 (HA-LWQ),Landed 18:37,2021-06-10
+38,38,19:15 U218,,Edinburgh (EDI),easyJet A20N (G-UZLH),Landed 18:58,2021-06-10
+39,39,19:20 W65003,,Krakow (KRK),Wizz Air A320 (HA-LYF),Landed 18:40,2021-06-10
+40,40,19:30 U2188,,Belfast (BFS),easyJet A320 (G-EZUR),Landed 19:27,2021-06-10
+41,41,19:35 0B1231,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-10
+42,42,20:40 W61607,,Gdansk (GDN),Wizz Air A21N (HA-LVM),Landed 20:08,2021-06-10
+43,43,20:50 W97701,,Skopje (SKP),Wizz Air UK 320,Unknown,2021-06-10
+44,44,21:00 W63005,,Bucharest (OTP),Wizz Air A21N (HA-LVX),Landed 20:42,2021-06-10
+45,45,21:05 W63305,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LYL),Landed 20:37,2021-06-10
+46,46,21:05 W64305,,Sofia (SOF),Wizz Air A21N (HA-LVS),Landed 21:07,2021-06-10
+47,47,21:10 W61803,,Wroclaw (WRO),Wizz Air 320,Unknown,2021-06-10
+48,48,21:10 W64501,,Varna (VAR),Wizz Air A320 (HA-LWZ),Landed 20:54,2021-06-10
+49,49,21:10 W65503,,Milan (MXP),Wizz Air 32Q,Unknown,2021-06-10
+50,50,21:10 W61005,,Katowice (KTW),Wizz Air A320 (HA-LPJ),Landed 21:01,2021-06-10
+51,51,21:20 W63653,,Iasi (IAS),Wizz Air A320 (HA-LPN),Landed 20:48,2021-06-10
+52,52,22:05 U278,,Glasgow (GLA),easyJet A320 (G-EZTB),Landed 21:46,2021-06-10
+53,53,22:15 U2156,,Inverness (INV),easyJet A320 (G-EZWZ),Landed 22:11,2021-06-10
+54,54,22:15 W95136,,Alicante (ALC),Wizz Air UK 321,Unknown,2021-06-10
+55,55,22:30 W95126,,Palma de Mallorca (PMI),Wizz Air UK 320,Unknown,2021-06-10
+56,56,22:50 W97901,,Split (SPU),Wizz Air UK 321,Unknown,2021-06-10
+57,57,23:10 W98168,,Heraklion (HER),Wizz Air UK 32Q,Unknown,2021-06-10
+58,58,23:35 FR3473,,Rzeszow (RZE),Ryanair B738 (EI-EBC),Landed 23:29,2021-06-10
+59,59,23:40 W93775,,Constanta (CND),Wizz Air UK 321,Unknown,2021-06-10
+60,60,23:45 U22022,,Faro (FAO),easyJet 320,Canceled,2021-06-10
+61,61,23:45 W63797,,Chisinau (KIV),Wizz Air A321 (G-WUKG),Landed 23:12,2021-06-10
+0,0,12:05 AM W94468,,Athens (ATH),Wizz Air UK 32Q,Unknown,2021-06-11
+1,1,12:15 AM W92065,,Lublin (LUZ),Wizz Air UK 321,Unknown,2021-06-11
+2,2,1:10 AM W64452,,Tel Aviv (TLV),Wizz Air A21N (G-WUKO),Landed 1:19 AM,2021-06-11
+3,3,1:30 AM MB452,,Paris (CDG),MNG Airlines ABF,Unknown,2021-06-11
+4,4,1:55 AM W98130,,Tenerife (TFS),Wizz Air UK 321,Unknown,2021-06-11
+5,5,2:30 AM MB451,,East Midlands (EMA),MNG Airlines A306 (TC-MCG),Diverted to CGN,2021-06-11
+6,6,7:15 AM W63753,,Craiova (CRA),Wizz Air A320 (HA-LWM),Landed 7:03 AM,2021-06-11
+7,7,7:20 AM W63301,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LYB),Landed 6:55 AM,2021-06-11
+8,8,7:20 AM W63501,,Timisoara (TSR),Wizz Air A320 (HA-LYR),Landed 6:57 AM,2021-06-11
+9,9,7:30 AM W64301,,Sofia (SOF),Wizz Air A320 (HA-LWV),Landed 7:14 AM,2021-06-11
+10,10,7:30 AM W63901,,Bacau (BCM),Wizz Air A320 (HA-LWA),Landed 7:09 AM,2021-06-11
+11,11,7:35 AM W61301,,Warsaw (WAW),Wizz Air 32Q,Unknown,2021-06-11
+12,12,7:45 AM W61001,,Katowice (KTW),Wizz Air 320,Unknown,2021-06-11
+13,13,7:50 AM W68001,,Vilnius (VNO),Wizz Air A320 (HA-LYW),Landed 7:20 AM,2021-06-11
+14,14,8:00 AM,,Teterboro (TEB),- GLF4 (N440QS),Landed 7:22 AM,2021-06-11
+15,15,8:05 AM W63001,,Bucharest (OTP),Wizz Air A20N (HA-LJE),Landed 7:50 AM,2021-06-11
+16,16,8:05 AM W96937,,Chisinau (KIV),Wizz Air UK 32Q,Unknown,2021-06-11
+17,17,8:15 AM FR2145,,Kaunas (KUN),Ryanair B738 (SP-RSG),Landed 7:54 AM,2021-06-11
+18,18,8:20 AM U266,,Glasgow (GLA),easyJet A320 (G-EZUZ),Landed 8:02 AM,2021-06-11
+19,19,8:25 AM 0B131,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-11
+20,20,9:30 AM W64460,,Larnaca (LCA),Wizz Air 320,Unknown,2021-06-11
+21,21,9:55 AM 0B2931,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 9:22 AM,2021-06-11
+22,22,11:30 AM U214,,Edinburgh (EDI),easyJet A319 (G-EZDI),Landed 11:09 AM,2021-06-11
+23,23,11:35 AM W95108,,Poprad (TAT),Wizz Air UK 321,Unknown,2021-06-11
+24,24,11:35 AM W65114,,Kosice (KSC),Wizz Air A321 (G-WUKG),Landed 11:54 AM,2021-06-11
+25,25,12:10 PM W95116,,Kaunas (KUN),Wizz Air UK 321,Unknown,2021-06-11
+26,26,12:25 PM W62503,,Riga (RIX),Wizz Air A320 (G-WUKE),Landed 12:13 PM,2021-06-11
+27,27,1:05 PM U2154,,Inverness (INV),easyJet A20N (G-UZHX),Landed 12:53 PM,2021-06-11
+28,28,1:05 PM W63605,,Suceava (SCV),Wizz Air A21N (G-WUKM),Landed 12:38 PM,2021-06-11
+29,29,1:10 PM U22364,,Lisbon (LIS),easyJet 320,Unknown,2021-06-11
+30,30,1:30 PM W95124,,Malaga (AGP),Wizz Air UK 32Q,Unknown,2021-06-11
+31,31,1:30 PM W67791,,Pristina (PRN),Wizz Air A21N (G-WUKO),Landed 1:33 PM,2021-06-11
+32,32,1:35 PM FR7785,,Malaga (AGP),Ryanair B738 (EI-EBK),Landed 1:25 PM,2021-06-11
+33,33,1:40 PM W64001,,Belgrade (BEG),Wizz Air A21N (G-WUKN),Landed 1:38 PM,2021-06-11
+34,34,2:05 PM W65003,,Krakow (KRK),Wizz Air A320 (HA-LYF),Landed 1:43 PM,2021-06-11
+35,35,2:40 PM W62205,,Budapest (BUD),Wizz Air 320,Unknown,2021-06-11
+36,36,2:45 PM U2184,,Belfast (BFS),easyJet A319 (G-EZDV),Landed 2:24 PM,2021-06-11
+37,37,2:50 PM FR3467,,Vilnius (VNO),Ryanair B738 (SP-RKT),Landed 2:42 PM,2021-06-11
+38,38,3:00 PM FR7806,,Athens (ATH),Ryanair B738 (EI-EKP),Landed 2:45 PM,2021-06-11
+39,39,3:55 PM W94551,,Burgas (BOJ),Wizz Air UK 321,Unknown,2021-06-11
+40,40,4:10 PM W95122,,Fuerteventura (FUE),Wizz Air UK 32Q,Unknown,2021-06-11
+41,41,5:40 PM W61901,,Poznan (POZ),Wizz Air A321 (G-WUKG),Landed 5:27 PM,2021-06-11
+42,42,5:40 PM W94482,,Bratislava (BTS),Wizz Air UK 321,Unknown,2021-06-11
+43,43,5:50 PM W95126,,Palma de Mallorca (PMI),Wizz Air UK 321,Unknown,2021-06-11
+44,44,6:20 PM FR843,,Kerry (KIR),Ryanair B738 (EI-ENI),Landed 6:09 PM,2021-06-11
+45,45,6:25 PM U2182,,Belfast (BFS),easyJet A319 (G-EZDV),Landed 6:05 PM,2021-06-11
+46,46,6:25 PM U22018,,Faro (FAO),easyJet A20N (G-UZLH),Landed 7:20 PM,2021-06-11
+47,47,6:30 PM U22368,,Lisbon (LIS),easyJet A20N (G-UZHO),Landed 6:56 PM,2021-06-11
+48,48,6:35 PM 0B2031,,Bacau (BCM),Blue Air 738,Unknown,2021-06-11
+49,49,6:55 PM W62879,,Vienna (VIE),Wizz Air 320,Unknown,2021-06-11
+50,50,7:05 PM W61307,,Warsaw (WAW),Wizz Air A320 (HA-LWN),Landed 6:46 PM,2021-06-11
+51,51,7:25 PM U218,,Edinburgh (EDI),easyJet A20N (G-UZHK),Landed 7:13 PM,2021-06-11
+52,52,7:30 PM W61607,,Gdansk (GDN),Wizz Air A320 (HA-LYF),Landed 7:11 PM,2021-06-11
+53,53,7:35 PM 0B1231,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-11
+54,54,8:05 PM W67851,,Debrecen (DEB),Wizz Air A320 (HA-LPL),Landed 7:47 PM,2021-06-11
+55,55,9:00 PM W63005,,Bucharest (OTP),Wizz Air A20N (HA-LJE),Landed 9:11 PM,2021-06-11
+56,56,9:05 PM W62207,,Budapest (BUD),Wizz Air A321 (HA-LXR),Landed 8:35 PM,2021-06-11
+57,57,9:05 PM W63305,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LYB),Landed 8:45 PM,2021-06-11
+58,58,9:05 PM W64305,,Sofia (SOF),Wizz Air A21N (HA-LVS),Landed 9:42 PM,2021-06-11
+59,59,9:05 PM W65677,,Palermo (PMO),Wizz Air 32Q,Unknown,2021-06-11
+60,60,9:10 PM W61005,,Katowice (KTW),Wizz Air 320,Unknown,2021-06-11
+61,61,9:10 PM W61803,,Wroclaw (WRO),Wizz Air A320 (HA-LWO),Landed 8:55 PM,2021-06-11
+62,62,9:10 PM W65503,,Milan (MXP),Wizz Air A21N (HA-LVU),Landed 9:00 PM,2021-06-11
+63,63,9:10 PM W64501,,Varna (VAR),Wizz Air A320 (HA-LYN),Landed 9:05 PM,2021-06-11
+64,64,9:20 PM W63653,,Iasi (IAS),Wizz Air A320 (HA-LYC),Landed 8:50 PM,2021-06-11
+65,65,9:30 PM U2148,,Aberdeen (ABZ),easyJet A319 (G-EZDR),Landed 9:14 PM,2021-06-11
+66,66,9:45 PM FR424,,Cork (ORK),Ryanair B738 (EI-ENI),Landed 9:29 PM,2021-06-11
+67,67,9:45 PM W63797,,Chisinau (KIV),Wizz Air A21N (G-WUKM),Landed 9:35 PM,2021-06-11
+68,68,9:55 PM W64466,,Tirana (TIA),Wizz Air A21N (HA-LVJ),Landed 10:05 PM,2021-06-11
+69,69,10:05 PM U278,,Glasgow (GLA),easyJet A319 (G-EZGO),Landed 9:51 PM,2021-06-11
+70,70,10:20 PM W65148,,Gibraltar (GIB),Wizz Air A320 (G-WUKE),Landed 10:50 PM,2021-06-11
+71,71,10:25 PM U2156,,Inverness (INV),easyJet (Nantes Livery) A320 (G-EZUC),Landed 10:18 PM,2021-06-11
+72,72,10:25 PM W98124,,St. Petersburg (LED),Wizz Air UK 321,Canceled,2021-06-11
+73,73,10:50 PM FR8426,,Alicante (ALC),Ryanair B738 (EI-EKP),Landed 10:42 PM,2021-06-11
+74,74,10:50 PM W97901,,Split (SPU),Wizz Air UK 321,Unknown,2021-06-11
+75,75,10:55 PM FR1641,,Bydgoszcz (BZG),Ryanair B738 (EI-EBK),Landed 10:45 PM,2021-06-11
+76,76,11:10 PM W94468,,Athens (ATH),Wizz Air UK 32Q,Unknown,2021-06-11
+77,77,11:35 PM W95152,,Santorini (JTR),Wizz Air UK 32Q,Unknown,2021-06-11
+78,78,11:45 PM W93615,,Suceava (SCV),Wizz Air UK 32Q,Unknown,2021-06-11
+79,79,11:45 PM U22022,,Faro (FAO),easyJet 320,Unknown,2021-06-11
+0,0,00:05 W95104,,Dalaman (DLM),Wizz Air UK 32Q,Unknown,2021-06-12
+1,1,00:15 W62065,,Lublin (LUZ),Wizz Air A21N (G-WUKO),Landed 23:58,2021-06-12
+2,2,00:30 W94494,,Lisbon (LIS),Wizz Air UK 320,Canceled,2021-06-12
+3,3,00:50 W65102,,Faro (FAO),Wizz Air A21N (G-WUKN),Landed 00:48,2021-06-12
+4,4,01:55 W98130,,Tenerife (TFS),Wizz Air UK 32Q,Unknown,2021-06-12
+5,5,07:15 W63753,,Craiova (CRA),Wizz Air A320 (HA-LWM),Landed 07:10,2021-06-12
+6,6,07:15 W63771,,Sibiu (SBZ),Wizz Air A320 (HA-LWY),Landed 06:59,2021-06-12
+7,7,07:20 W63301,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LYZ),Landed 07:03,2021-06-12
+8,8,07:30 W64301,,Sofia (SOF),Wizz Air A320 (HA-LPK),Landed 07:31,2021-06-12
+9,9,07:45 W61001,,Katowice (KTW),Wizz Air A320 (HA-LSB),Landed 07:37,2021-06-12
+10,10,07:55 W62201,,Budapest (BUD),Wizz Air A21N (HA-LVF),Landed 07:48,2021-06-12
+11,11,08:00 W61601,,Gdansk (GDN),Wizz Air (100 Livery) A321 (HA-LTD),Landed 07:42,2021-06-12
+12,12,08:00 W65001,,Krakow (KRK),Wizz Air 320,Unknown,2021-06-12
+13,13,08:05 W63001,,Bucharest (OTP),Wizz Air A320 (HA-LYV),Landed 07:55,2021-06-12
+14,14,08:25 0B131,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-12
+15,15,08:55 W64472,,Tirana (TIA),Wizz Air A21N (HA-LVJ),Landed 08:44,2021-06-12
+16,16,09:30 W64460,,Larnaca (LCA),Wizz Air A21N (HA-LVG),Landed 09:24,2021-06-12
+17,17,09:55 0B2931,,Bacau (BCM),Blue Air B738 (YR-BMQ),Landed 09:39,2021-06-12
+18,18,10:15 U212,,Edinburgh (EDI),easyJet (NEO Livery) A20N (G-UZHA),Landed 09:52,2021-06-12
+19,19,11:15 W92181,,Olsztyn (SZY),Wizz Air UK 321,Unknown,2021-06-12
+20,20,11:35 U22098,,Porto (OPO),easyJet 320,Unknown,2021-06-12
+21,21,12:00 W64486,,Lviv (LWO),Wizz Air A21N (G-WUKM),Landed 12:07,2021-06-12
+22,22,12:10 W95116,,Kaunas (KUN),Wizz Air UK 321,Unknown,2021-06-12
+23,23,12:20 W63649,,Satu Mare (SUJ),Wizz Air A21N (G-WUKN),Landed 12:11,2021-06-12
+24,24,12:48,,San Jose (SJC),- GLEX (N147QS),Landed 12:53,2021-06-12
+25,25,12:50 W63009,,Bucharest (OTP),Wizz Air A21N (HA-LVX),Landed 12:44,2021-06-12
+26,26,12:55 U22016,,Faro (FAO),easyJet 320,Unknown,2021-06-12
+27,27,12:55 W63605,,Suceava (SCV),Wizz Air A321 (G-WUKG),Landed 12:56,2021-06-12
+28,28,13:05 U272,,Glasgow (GLA),easyJet A320 (G-EZRZ),Landed 12:51,2021-06-12
+29,29,13:05 U2154,,Inverness (INV),easyJet A319 (G-EZAU),Landed 13:01,2021-06-12
+30,30,13:35 W95124,,Malaga (AGP),Wizz Air UK 32Q,Unknown,2021-06-12
+31,31,13:40 U22364,,Lisbon (LIS),easyJet 320,Unknown,2021-06-12
+32,32,13:55 FR9207,,Faro (FAO),Ryanair B738 (EI-EBK),Landed 13:58,2021-06-12
+33,33,14:20 W96002,,Kyiv (IEV),Wizz Air A320 (G-WUKE),Landed 14:21,2021-06-12
+34,34,15:00 W65156,,Funchal (FNC),Wizz Air A21N (G-WUKO),Landed 15:18,2021-06-12
+35,35,15:20 W98162,,Zakynthos (ZTH),Wizz Air UK 32Q,Unknown,2021-06-12
+36,36,15:40 W98166,,Corfu (CFU),Wizz Air UK 320,Unknown,2021-06-12
+37,37,16:45 U2184,,Belfast (BFS),easyJet A319 (G-EZAU),Landed 16:39,2021-06-12
+38,38,18:00 W95136,,Alicante (ALC),Wizz Air UK 321,Unknown,2021-06-12
+39,39,18:15 W68114,,Porto (OPO),Wizz Air A21N (G-WUKM),Landed 18:24,2021-06-12
+40,40,18:20 W95112,,Palanga (PLQ),Wizz Air UK 321,Unknown,2021-06-12
+41,41,18:30 U22368,,Lisbon (LIS),easyJet 320,Unknown,2021-06-12
+42,42,19:05 W61307,,Warsaw (WAW),Wizz Air A320 (HA-LWN),Landed 18:55,2021-06-12
+43,43,19:35 0B1231,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-12
+44,44,19:40 U22018,,Faro (FAO),easyJet A320 (G-EZWY),Landed 19:40,2021-06-12
+45,45,20:45 W63797,,Chisinau (KIV),Wizz Air A21N (G-WUKN),Landed 20:36,2021-06-12
+46,46,20:50 W67701,,Skopje (SKP),Wizz Air A320 (HA-LYE),Landed 20:33,2021-06-12
+47,47,21:00 0B2131,,Bacau (BCM),Blue Air 738,Unknown,2021-06-12
+48,48,21:10 W65503,,Milan (MXP),Wizz Air 32Q,Unknown,2021-06-12
+49,49,21:20 W63653,,Iasi (IAS),Wizz Air A320 (HA-LPN),Landed 21:02,2021-06-12
+50,50,21:25 W61803,,Wroclaw (WRO),Wizz Air 320,Unknown,2021-06-12
+51,51,21:30 5F617,,Chisinau (KIV),Fly One A319 (ER-00002),Landed 21:53,2021-06-12
+52,52,21:55 W99002,,Split (SPU),Wizz Air UK 320,Unknown,2021-06-12
+53,53,21:55 W64466,,Tirana (TIA),Wizz Air A21N (HA-LVO),Landed 22:02,2021-06-12
+54,54,22:45 FR7806,,Athens (ATH),Ryanair B738 (EI-EKP),Landed 22:36,2021-06-12
+55,55,22:45 W64551,,Burgas (BOJ),Wizz Air A320 (G-WUKE),Landed 22:40,2021-06-12
+56,56,22:50 W98168,,Heraklion (HER),Wizz Air UK 32Q,Unknown,2021-06-12
+57,57,22:55 W95142,,Catania (CTA),Wizz Air UK 321,Unknown,2021-06-12
+58,58,23:25 W64464,,Thessaloniki (SKG),Wizz Air A321 (G-WUKG),Landed 23:04,2021-06-12
+59,59,23:35 FR3473,,Rzeszow (RZE),Ryanair B738 (EI-EBK),Landed 23:21,2021-06-12
+60,60,23:45 W63775,,Constanta (CND),Wizz Air A21N (G-WUKO),Landed 23:36,2021-06-12
+61,61,23:55 W98170,,Rhodes (RHO),Wizz Air UK 32Q,Unknown,2021-06-12
+0,0,01:10 W94452,,Tel Aviv (TLV),Wizz Air UK 32Q,Unknown,2021-06-13
+1,1,01:50 W64498,,Reykjavik (KEF),Wizz Air A21N (G-WUKM),Landed 02:11,2021-06-13
+2,2,01:55 W92972,,Gran Canaria (LPA),Wizz Air UK 320,Unknown,2021-06-13
+3,3,07:15 W63753,,Craiova (CRA),Wizz Air A320 (HA-LYZ),Landed 07:04,2021-06-13
+4,4,07:15 W63771,,Sibiu (SBZ),Wizz Air A320 (HA-LWY),Landed 06:58,2021-06-13
+5,5,07:20 W63301,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LWK),Landed 07:16,2021-06-13
+6,6,07:20 W63501,,Timisoara (TSR),Wizz Air A320 (HA-LYO),Landed 07:10,2021-06-13
+7,7,07:30 W64301,,Sofia (SOF),Wizz Air A21N (HA-LVF),Landed 07:29,2021-06-13
+8,8,07:30 W63901,,Bacau (BCM),Wizz Air A320 (HA-LWA),Landed 07:23,2021-06-13
+9,9,07:45 W61001,,Katowice (KTW),Wizz Air 320,Unknown,2021-06-13
+10,10,07:50 W68001,,Vilnius (VNO),Wizz Air A320 (HA-LWT),Landed 07:36,2021-06-13
+11,11,08:25 0B131,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-13
+12,12,09:30 W64460,,Larnaca (LCA),Wizz Air 320,Unknown,2021-06-13
+13,13,09:55 0B2931,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 09:46,2021-06-13
+14,14,10:20 W65503,,Milan (MXP),Wizz Air A20N (HA-LJA),Landed 10:03,2021-06-13
+15,15,11:15 W94496,,Castellon (CDT),Wizz Air UK 321,Unknown,2021-06-13
+16,16,11:25 U272,,Glasgow (GLA),easyJet A320 (G-EZUZ),Landed 11:02,2021-06-13
+17,17,12:10 W65116,,Kaunas (KUN),Wizz Air A21N (G-WUKN),Landed 11:39,2021-06-13
+18,18,12:45 W64472,,Tirana (TIA),Wizz Air A21N (HA-LVO),Landed 13:19,2021-06-13
+19,19,12:50 W63009,,Bucharest (OTP),Wizz Air A21N (HA-LVE),Landed 12:41,2021-06-13
+20,20,12:55 W63605,,Suceava (SCV),Wizz Air A21N (G-WUKO),Landed 12:29,2021-06-13
+21,21,13:05 U2154,,Inverness (INV),easyJet A319 (G-EZAU),Landed 12:57,2021-06-13
+22,22,13:30 U22296,,Reykjavik (KEF),easyJet (NEO Livery) A20N (G-UZHA),Landed 13:27,2021-06-13
+23,23,13:35 W92503,,Riga (RIX),Wizz Air UK 321,Unknown,2021-06-13
+24,24,13:35 W63701,,Targu Mures (TGM),Wizz Air A320 (G-WUKE),Landed 13:34,2021-06-13
+25,25,13:45 U22364,,Lisbon (LIS),easyJet A20N (G-UZHW),Landed 14:36,2021-06-13
+26,26,13:50 U2184,,Belfast (BFS),easyJet A20N (G-UZLJ),Landed 13:36,2021-06-13
+27,27,14:40 W62205,,Budapest (BUD),Wizz Air 320,Unknown,2021-06-13
+28,28,15:30 W98126,,Moscow (VKO),Wizz Air UK 32Q,Unknown,2021-06-13
+29,29,15:55 W94551,,Burgas (BOJ),Wizz Air UK 321,Unknown,2021-06-13
+30,30,16:05 W61307,,Warsaw (WAW),Wizz Air A321 (HA-LXY),Landed 15:47,2021-06-13
+31,31,16:30 FR3473,,Rzeszow (RZE),Ryanair B738 (EI-EBK),Landed 16:24,2021-06-13
+32,32,16:55 FR424,,Cork (ORK),Ryanair B738 (EI-EKP),Landed 16:46,2021-06-13
+33,33,17:35 U2146,,Aberdeen (ABZ),easyJet A320 (G-EZOI),Landed 17:21,2021-06-13
+34,34,17:35 W95126,,Palma de Mallorca (PMI),Wizz Air UK 32Q,Unknown,2021-06-13
+35,35,17:40 W91901,,Poznan (POZ),Wizz Air UK 321,Unknown,2021-06-13
+36,36,17:40 W64482,,Bratislava (BTS),Wizz Air A321 (G-WUKG),Landed 17:17,2021-06-13
+37,37,17:45 MB723,,Istanbul (ISL),MNG Airlines A306 (TC-MCG),Landed 17:46,2021-06-13
+38,38,18:25 U22018,,Faro (FAO),easyJet A320 (G-EZWA),Landed 17:57,2021-06-13
+39,39,18:45 U218,,Edinburgh (EDI),easyJet A319 (G-EZAU),Landed 18:20,2021-06-13
+40,40,18:55 W62879,,Vienna (VIE),Wizz Air 320,Unknown,2021-06-13
+41,41,19:20 W65003,,Krakow (KRK),Wizz Air A320 (HA-LWU),Landed 18:52,2021-06-13
+42,42,19:35 0B1231,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-13
+43,43,20:40 W61607,,Gdansk (GDN),Wizz Air A20N (HA-LJB),Landed 21:58,2021-06-13
+44,44,20:45 W63797,,Chisinau (KIV),Wizz Air A21N (G-WUKM),Landed 20:29,2021-06-13
+45,45,21:00 0B2031,,Bacau (BCM),Blue Air 738,Unknown,2021-06-13
+46,46,21:00 W63005,,Bucharest (OTP),Wizz Air A21N (HA-LVI),Landed 20:38,2021-06-13
+47,47,21:05 W62207,,Budapest (BUD),Wizz Air A321 (HA-LTE),Landed 20:46,2021-06-13
+48,48,21:05 W63305,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LWM),Landed 20:51,2021-06-13
+49,49,21:05 W64305,,Sofia (SOF),Wizz Air A21N (HA-LVF),Landed 21:49,2021-06-13
+50,50,21:10 W61005,,Katowice (KTW),Wizz Air A320 (HA-LWJ),Landed 21:02,2021-06-13
+51,51,21:10 W61803,,Wroclaw (WRO),Wizz Air 320,Unknown,2021-06-13
+52,52,21:10 W64501,,Varna (VAR),Wizz Air A320 (HA-LYN),Landed 20:59,2021-06-13
+53,53,21:20 W63653,,Iasi (IAS),Wizz Air A320 (HA-LPN),Landed 21:12,2021-06-13
+54,54,21:30 W65124,,Malaga (AGP),Wizz Air A320 (G-WUKE),Landed 21:19,2021-06-13
+55,55,21:55 U278,,Glasgow (GLA),easyJet A320 (G-EZUR),Landed 21:40,2021-06-13
+56,56,21:55 W64466,,Tirana (TIA),Wizz Air A21N (HA-LVJ),Landed 21:34,2021-06-13
+57,57,22:30 W96002,,Kyiv (IEV),Wizz Air UK 320,Unknown,2021-06-13
+58,58,22:45 W65102,,Faro (FAO),Wizz Air A21N (G-WUKO),Landed 22:48,2021-06-13
+59,59,22:50 FR7806,,Athens (ATH),Ryanair B738 (EI-ENI),Landed 22:41,2021-06-13
+60,60,22:55 FR8426,,Alicante (ALC),Ryanair B738 (EI-EKP),Landed 22:45,2021-06-13
+61,61,22:55 W95136,,Alicante (ALC),Wizz Air UK 32Q,Unknown,2021-06-13
+62,62,23:10 U2190,,Belfast (BFS),easyJet A319 (G-EZDR),Landed 22:55,2021-06-13
+63,63,23:10 W94468,,Athens (ATH),Wizz Air UK 32Q,Unknown,2021-06-13
+64,64,23:15 U2156,,Inverness (INV),easyJet A319 (G-EZAU),Landed 22:51,2021-06-13
+65,65,23:45 U22022,,Faro (FAO),easyJet 320,Unknown,2021-06-13
+0,0,00:05 W95106,,Ohrid (OHD),Wizz Air UK 32Q,Unknown,2021-06-14
+1,1,00:10 U22370,,Lisbon (LIS),easyJet 320,Unknown,2021-06-14
+2,2,00:15 W92065,,Lublin (LUZ),Wizz Air UK 321,Unknown,2021-06-14
+3,3,00:30 W64494,,Lisbon (LIS),Wizz Air A21N (G-WUKP),Landed 00:31,2021-06-14
+4,4,01:10 W64452,,Tel Aviv (TLV),Wizz Air A21N (G-WUKN),Landed 01:28,2021-06-14
+5,5,01:55 W98130,,Tenerife (TFS),Wizz Air UK 321,Unknown,2021-06-14
+6,6,02:55 W99002,,Split (SPU),Wizz Air UK 320,Unknown,2021-06-14
+7,7,07:15 W63753,,Craiova (CRA),Wizz Air A320 (HA-LWT),Landed 07:01,2021-06-14
+8,8,07:20 W63301,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LWM),Landed 07:06,2021-06-14
+9,9,07:20 W63501,,Timisoara (TSR),Wizz Air A320 (HA-LYR),Landed 07:09,2021-06-14
+10,10,07:30 W64301,,Sofia (SOF),Wizz Air A21N (HA-LVF),Landed 07:31,2021-06-14
+11,11,07:30 W63901,,Bacau (BCM),Wizz Air A320 (HA-LWA),Landed 07:13,2021-06-14
+12,12,07:35 W61301,,Warsaw (WAW),Wizz Air A320 (HA-LWG),Landed 07:24,2021-06-14
+13,13,07:35 W63651,,Iasi (IAS),Wizz Air A320 (HA-LYA),Landed 07:18,2021-06-14
+14,14,07:40 W65501,,Milan (MXP),Wizz Air 32Q,Unknown,2021-06-14
+15,15,07:50 W68001,,Vilnius (VNO),Wizz Air A320 (HA-LYZ),Landed 07:37,2021-06-14
+16,16,07:55 W62201,,Budapest (BUD),Wizz Air A20N (HA-LJC),Landed 07:40,2021-06-14
+17,17,07:55 W64503,,Varna (VAR),Wizz Air A321 (HA-LXO),Landed 08:07,2021-06-14
+18,18,08:00 W61601,,Gdansk (GDN),Wizz Air A20N (HA-LJB),Landed 07:48,2021-06-14
+19,19,08:00 W65001,,Krakow (KRK),Wizz Air 321,Unknown,2021-06-14
+20,20,08:00 W94621,,Sarajevo (SJJ),Wizz Air UK 320,Unknown,2021-06-14
+21,21,08:00 X3882,,Hannover (HAJ),TUI fly 7S8,Unknown,2021-06-14
+22,22,08:05 W62503,,Riga (RIX),Wizz Air A320 (HA-LYJ),Landed 07:57,2021-06-14
+23,23,08:05 W63001,,Bucharest (OTP),Wizz Air A321 (HA-LXF),Landed 07:51,2021-06-14
+24,24,08:15 FR2145,,Kaunas (KUN),Ryanair B738 (SP-RSI),Landed 08:12,2021-06-14
+25,25,08:20 U266,,Glasgow (GLA),easyJet A20N (G-UZLF),Landed 08:17,2021-06-14
+26,26,08:20 U212,,Edinburgh (EDI),easyJet A320 (G-EZPB),Landed 08:03,2021-06-14
+27,27,08:25 0B131,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-14
+28,28,09:30 W64460,,Larnaca (LCA),Wizz Air 321,Unknown,2021-06-14
+29,29,09:55 0B2931,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 09:28,2021-06-14
+30,30,11:10 U2182,,Belfast (BFS),easyJet A319 (G-EZFV),Landed 10:46,2021-06-14
+31,31,11:35 W65114,,Kosice (KSC),Wizz Air A320 (G-WUKE),Landed 11:26,2021-06-14
+32,32,11:35 W95108,,Poprad (TAT),Wizz Air UK 321,Unknown,2021-06-14
+33,33,12:10 W95116,,Kaunas (KUN),Wizz Air UK 321,Unknown,2021-06-14
+34,34,12:40 U22296,,Reykjavik (KEF),easyJet A20N (G-UZLH),Landed 12:24,2021-06-14
+35,35,12:45 U22406,,Malaga (AGP),easyJet A320 (G-EZWZ),Landed 12:21,2021-06-14
+36,36,12:50 W95102,,Faro (FAO),Wizz Air UK 320,Unknown,2021-06-14
+37,37,12:55 U22016,,Faro (FAO),easyJet A20N (G-UZHO),Landed 12:31,2021-06-14
+38,38,12:55 W92503,,Riga (RIX),Wizz Air UK 32Q,Unknown,2021-06-14
+39,39,13:05 U2154,,Inverness (INV),easyJet A319 (G-EZGO),Landed 12:56,2021-06-14
+40,40,13:05 W63605,,Suceava (SCV),Wizz Air A21N (G-WUKM),Landed 12:50,2021-06-14
+41,41,13:15 FR7785,,Malaga (AGP),Ryanair B738 (EI-ENI),Landed 12:58,2021-06-14
+42,42,13:30 W67791,,Pristina (PRN),Wizz Air A21N (G-WUKO),Landed 13:31,2021-06-14
+43,43,13:30 W95124,,Malaga (AGP),Wizz Air UK 32Q,Unknown,2021-06-14
+44,44,13:40 W64001,,Belgrade (BEG),Wizz Air A21N (G-WUKP),Landed 13:36,2021-06-14
+45,45,13:50 U2148,,Aberdeen (ABZ),easyJet A320 (G-EZTB),Landed 13:28,2021-06-14
+46,46,14:45 W61001,,Katowice (KTW),Wizz Air A320 (HA-LPY),Landed 14:16,2021-06-14
+47,47,15:30 W98126,,Moscow (VKO),Wizz Air UK 321,Unknown,2021-06-14
+48,48,15:55 W94551,,Burgas (BOJ),Wizz Air UK 321,Unknown,2021-06-14
+49,49,16:00 FR7806,,Athens (ATH),Ryanair B738 (EI-EKP),Landed 15:50,2021-06-14
+50,50,16:10 W95122,,Fuerteventura (FUE),Wizz Air UK 32Q,Unknown,2021-06-14
+51,51,16:35 W66937,,Chisinau (KIV),Wizz Air A21N (G-WUKN),Landed 16:14,2021-06-14
+52,52,17:40 W94482,,Bratislava (BTS),Wizz Air UK 321,Unknown,2021-06-14
+53,53,17:50 W95126,,Palma de Mallorca (PMI),Wizz Air UK 321,Unknown,2021-06-14
+54,54,18:20 FR843,,Kerry (KIR),Ryanair B738 (EI-ENI),Landed 18:10,2021-06-14
+55,55,18:30 FR1641,,Bydgoszcz (BZG),Ryanair B738 (EI-EBK),Landed 18:34,2021-06-14
+56,56,18:30 U22368,,Lisbon (LIS),easyJet 320,Unknown,2021-06-14
+57,57,18:35 W61901,,Poznan (POZ),Wizz Air A21N (G-WUKM),Landed 18:27,2021-06-14
+58,58,18:40 FR3467,,Vilnius (VNO),Ryanair B738 (SP-RST),Landed 18:31,2021-06-14
+59,59,18:55 W62879,,Vienna (VIE),Wizz Air 321,Unknown,2021-06-14
+60,60,19:35 0B1231,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-14
+61,61,20:05 W67851,,Debrecen (DEB),Wizz Air A320 (HA-LPL),Landed 19:46,2021-06-14
+62,62,21:00 W63005,,Bucharest (OTP),Wizz Air A21N (HA-LVE),Landed 21:06,2021-06-14
+63,63,21:05 W64305,,Sofia (SOF),Wizz Air A21N (HA-LVS),Landed 21:06,2021-06-14
+64,64,21:05 W63305,,Cluj-Napoca (CLJ),Wizz Air 320,Unknown,2021-06-14
+65,65,21:05 W65677,,Palermo (PMO),Wizz Air 321,Unknown,2021-06-14
+66,66,21:10 W61803,,Wroclaw (WRO),Wizz Air A320 (HA-LWO),Landed 20:52,2021-06-14
+67,67,21:10 W64501,,Varna (VAR),Wizz Air 320,Unknown,2021-06-14
+68,68,21:10 W65503,,Milan (MXP),Wizz Air 32Q,Unknown,2021-06-14
+69,69,21:20 W63653,,Iasi (IAS),Wizz Air 320,Unknown,2021-06-14
+70,70,21:40 U2190,,Belfast (BFS),easyJet A20N (G-UZHM),Landed 21:28,2021-06-14
+71,71,21:50 W63797,,Chisinau (KIV),Wizz Air A21N (G-WUKO),Landed 21:45,2021-06-14
+72,72,21:55 W64466,,Tirana (TIA),Wizz Air A320 (HA-LPO),Landed 22:40,2021-06-14
+73,73,22:05 U278,,Glasgow (GLA),easyJet A319 (G-EZGO),Landed 21:55,2021-06-14
+74,74,22:15 U220,,Edinburgh (EDI),easyJet A319 (G-EZDR),Landed 21:48,2021-06-14
+75,75,22:20 W65148,,Gibraltar (GIB),Wizz Air A320 (G-WUKE),Landed 22:27,2021-06-14
+76,76,22:25 W98124,,St. Petersburg (LED),Wizz Air UK 32Q,Unknown,2021-06-14
+77,77,22:45 FR9207,,Faro (FAO),Ryanair B738 (EI-EKP),Landed 22:29,2021-06-14
+78,78,22:50 W97901,,Split (SPU),Wizz Air UK 321,Unknown,2021-06-14
+79,79,22:55 W95152,,Santorini (JTR),Wizz Air UK 321,Unknown,2021-06-14
+80,80,23:10 W94468,,Athens (ATH),Wizz Air UK 32Q,Unknown,2021-06-14
+81,81,23:45 U22022,,Faro (FAO),easyJet 320,Unknown,2021-06-14
+82,82,23:45 W93615,,Suceava (SCV),Wizz Air UK 32Q,Unknown,2021-06-14
+0,0,00:05 W95104,,Dalaman (DLM),Wizz Air UK 32Q,Unknown,2021-06-15
+1,1,00:15 W62065,,Lublin (LUZ),Wizz Air A21N (G-WUKP),Landed 23:56,2021-06-15
+2,2,00:30 W94494,,Lisbon (LIS),Wizz Air UK 321,Unknown,2021-06-15
+3,3,01:55 W98130,,Tenerife (TFS),Wizz Air UK 32Q,Unknown,2021-06-15
+4,4,07:15 W63771,,Sibiu (SBZ),Wizz Air A320 (HA-LWY),Landed 07:02,2021-06-15
+5,5,07:15 W63753,,Craiova (CRA),Wizz Air 320,Unknown,2021-06-15
+6,6,07:20 W63301,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LYB),Landed 07:08,2021-06-15
+7,7,07:20 W63501,,Timisoara (TSR),Wizz Air 320,Unknown,2021-06-15
+8,8,07:30 W64301,,Sofia (SOF),Wizz Air A21N (HA-LVE),Landed 07:26,2021-06-15
+9,9,07:30 W63901,,Bacau (BCM),Wizz Air 320,Unknown,2021-06-15
+10,10,07:45 W61001,,Katowice (KTW),Wizz Air 320,Unknown,2021-06-15
+11,11,07:50 W68001,,Vilnius (VNO),Wizz Air 320,Unknown,2021-06-15
+12,12,08:00 W61601,,Gdansk (GDN),Wizz Air 321,Unknown,2021-06-15
+13,13,08:05 W63001,,Bucharest (OTP),Wizz Air A320 (HA-LPS),Landed 07:51,2021-06-15
+14,14,08:20 U266,,Glasgow (GLA),easyJet A320 (G-EZUZ),Landed 08:01,2021-06-15
+15,15,08:25 0B131,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-15
+16,16,08:55 W64472,,Tirana (TIA),Wizz Air A21N (HA-LVO),Landed 08:38,2021-06-15
+17,17,09:30 W64460,,Larnaca (LCA),Wizz Air A21N (HA-LVG),Landed 09:14,2021-06-15
+18,18,09:55 0B2931,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 09:39,2021-06-15
+19,19,10:10 U2182,,Belfast (BFS),easyJet A319 (G-EZAU),Landed 09:52,2021-06-15
+20,20,11:15 W92181,,Olsztyn (SZY),Wizz Air UK 321,Unknown,2021-06-15
+21,21,12:00 W64486,,Lviv (LWO),Wizz Air A21N (G-WUKN),Landed 12:23,2021-06-15
+22,22,12:45 W63649,,Satu Mare (SUJ),Wizz Air A21N (G-WUKM),Landed 12:32,2021-06-15
+23,23,12:55 U22016,,Faro (FAO),easyJet 320,Unknown,2021-06-15
+24,24,12:55 W93605,,Suceava (SCV),Wizz Air UK 32Q,Unknown,2021-06-15
+25,25,13:05 U2154,,Inverness (INV),easyJet A20N (G-UZHO),Landed 12:55,2021-06-15
+26,26,13:10 BY5209,,Palma de Mallorca (PMI),TUI Airways 73H,Unknown,2021-06-15
+27,27,13:10 U22364,,Lisbon (LIS),easyJet 320,Unknown,2021-06-15
+28,28,13:35 W95124,,Malaga (AGP),Wizz Air UK 32Q,Unknown,2021-06-15
+29,29,14:05 W61307,,Warsaw (WAW),Wizz Air A320 (HA-LWQ),Landed 14:03,2021-06-15
+30,30,14:15 W98162,,Zakynthos (ZTH),Wizz Air UK 32Q,Unknown,2021-06-15
+31,31,14:20 W66002,,Kyiv (IEV),Wizz Air A320 (G-WUKE),Landed 14:24,2021-06-15
+32,32,15:00 W95156,,Funchal (FNC),Wizz Air UK 32Q,Unknown,2021-06-15
+33,33,15:05 W94464,,Thessaloniki (SKG),Wizz Air UK 320,Unknown,2021-06-15
+34,34,15:40 W98166,,Corfu (CFU),Wizz Air UK 321,Unknown,2021-06-15
+35,35,17:30 W62503,,Riga (RIX),Wizz Air 320,Unknown,2021-06-15
+36,36,17:55 W62201,,Budapest (BUD),Wizz Air A320 (HA-LWE),Landed 17:28,2021-06-15
+37,37,18:00 W95136,,Alicante (ALC),Wizz Air UK 321,Unknown,2021-06-15
+38,38,18:20 W95112,,Palanga (PLQ),Wizz Air UK 321,Unknown,2021-06-15
+39,39,18:30 U22286,,Milan (MXP),easyJet A319 (OE-LQS),Landed 18:22,2021-06-15
+40,40,18:50 U22020,,Faro (FAO),easyJet A20N (G-UZHX),Landed 18:29,2021-06-15
+41,41,19:20 W65003,,Krakow (KRK),Wizz Air A320 (HA-LWB),Landed 18:53,2021-06-15
+42,42,19:35 0B1231,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-15
+43,43,20:00 W67853,,Debrecen (DEB),Wizz Air 320,Unknown,2021-06-15
+44,44,20:10 W95116,,Kaunas (KUN),Wizz Air UK 32Q,Unknown,2021-06-15
+45,45,20:45 W63797,,Chisinau (KIV),Wizz Air A21N (G-WUKP),Landed 23:43,2021-06-15
+46,46,20:50 W67701,,Skopje (SKP),Wizz Air A21N (HA-LVU),Landed 20:22,2021-06-15
+47,47,21:00 W63005,,Bucharest (OTP),Wizz Air A21N (HA-LVI),Landed 20:52,2021-06-15
+48,48,21:10 W64501,,Varna (VAR),Wizz Air A321 (HA-LXO),Landed 20:46,2021-06-15
+49,49,21:10 W65503,,Milan (MXP),Wizz Air 32Q,Unknown,2021-06-15
+50,50,21:20 W63653,,Iasi (IAS),Wizz Air A320 (HA-LYA),Landed 20:48,2021-06-15
+51,51,21:25 U22404,,Malaga (AGP),easyJet (NEO Livery) A20N (G-UZHA),Landed 21:07,2021-06-15
+52,52,21:25 W61803,,Wroclaw (WRO),Wizz Air 320,Unknown,2021-06-15
+53,53,21:55 W64466,,Tirana (TIA),Wizz Air A21N (HA-LVB),Landed 21:44,2021-06-15
+54,54,22:15 U220,,Edinburgh (EDI),easyJet A320 (G-EZWZ),Landed 23:40,2021-06-15
+55,55,22:25 BY5215,,Zakynthos (ZTH),TUI Airways 73H,Unknown,2021-06-15
+56,56,22:45 W94551,,Burgas (BOJ),Wizz Air UK 320,Unknown,2021-06-15
+57,57,22:50 W97901,,Split (SPU),Wizz Air UK 321,Unknown,2021-06-15
+58,58,22:55 W95142,,Catania (CTA),Wizz Air UK 321,Unknown,2021-06-15
+59,59,23:10 W98168,,Heraklion (HER),Wizz Air UK 32Q,Unknown,2021-06-15
+60,60,23:25 FR3473,,Rzeszow (RZE),Ryanair B738 (EI-DLE),Landed 23:07,2021-06-15
+61,61,23:40 W63775,,Constanta (CND),Wizz Air A21N (G-WUKO),Landed 23:16,2021-06-15
+62,62,23:55 W98170,,Rhodes (RHO),Wizz Air UK 321,Unknown,2021-06-15

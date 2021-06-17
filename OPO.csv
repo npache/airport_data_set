@@ -1,0 +1,468 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:20,TP1928,Lisbon (LIS),TAP Air Portugal A20N (CS-TVH),Landed 23:57,2021-06-08
+1,1,06:40 3V4958,,Liege (LGG),ASL Airlines Belgium B734 (OE-IAD),Landed 06:19,2021-06-08
+2,2,07:00 UX1147,,Madrid (MAD),Air Europa Express E195 (EC-LFZ),Landed 06:53,2021-06-08
+3,3,07:45,IB8776,Madrid (MAD),Iberia Regional CRJX (EC-MPA),Landed 07:37,2021-06-08
+4,4,07:51 3V4724,,Toulouse (TLS),FedEx B738 (F-HIQD),Landed 07:34,2021-06-08
+5,5,07:55,TP1926,Lisbon (LIS),TAP Express E195 (CS-TTX),Landed 07:45,2021-06-08
+6,6,09:30 FR8865,,Budapest (BUD),Ryanair B738 (SP-RKW),Landed 09:28,2021-06-08
+7,7,10:35,TP1710,Funchal (FNC),TAP Air Portugal A320 (CS-TNW),Landed 10:21,2021-06-08
+8,8,10:40,KL1711,Amsterdam (AMS),KLM E190 (PH-EXD),Landed 10:38,2021-06-08
+9,9,10:45,LH1782,Munich (MUC),Air Dolomiti (Star Alliance Livery) E195 (I-ADJV),Landed 10:34,2021-06-08
+10,10,11:05,TP453,Paris (ORY),TAP Air Portugal A320 (CS-TNQ),Landed 10:58,2021-06-08
+11,11,11:15,LH1176,Frankfurt (FRA),Lufthansa A20N (D-AINC),Landed 11:14,2021-06-08
+12,12,11:30 FR9134,,Paris (BVA),Ryanair B738 (EI-GSH),Landed 11:29,2021-06-08
+13,13,11:40,S4172,Ponta Delgada (PDL),Azores Airlines (Breathe Livery) A21N (CS-TSF),Landed 11:25,2021-06-08
+14,14,11:40 FR8343,,London (STN),Ryanair B738 (EI-EVJ),Landed 11:21,2021-06-08
+15,15,12:35 U27586,,Funchal (FNC),easyJet A320 (OE-INB),Landed 12:22,2021-06-08
+16,16,13:15,TP1936,Lisbon (LIS),TAP Express E190 (CS-TPS),Landed 12:51,2021-06-08
+17,17,13:35 TO3458,,Paris (ORY),Transavia B738 (F-HTVA),Landed 13:25,2021-06-08
+18,18,14:05,LX2066,Zurich (ZRH),Swiss BCS1 (HB-JBB),Landed 13:44,2021-06-08
+19,19,14:20,TP1331,London (LGW),TAP Air Portugal A20N (CS-TVH),Landed 13:58,2021-06-08
+20,20,14:45 FR7465,,Tours (TUF),Ryanair B738 (EI-GXL),Landed 15:18,2021-06-08
+21,21,15:15 W98113,,London (LTN),Wizz Air UK 32Q,Canceled,2021-06-08
+22,22,15:30,AF1528,Paris (CDG),Air France A319 (F-GRXE),Landed 15:10,2021-06-08
+23,23,16:25 FR2632,,Ponta Delgada (PDL),Ryanair B738 (EI-GXJ),Landed 16:00,2021-06-08
+24,24,16:30 FR2928,,Brussels (BRU),Ryanair B738 (EI-ENB),Landed 16:19,2021-06-08
+25,25,16:40 FR4507,,Bordeaux (BOD),Ryanair B738 (EI-EVJ),Landed 16:41,2021-06-08
+26,26,16:45 U23521,,Manchester (MAN),easyJet A20N (G-UZHL),Landed 16:37,2021-06-08
+27,27,16:45 FR9139,,Dole (DLE),Ryanair B738 (EI-GSH),Landed 17:09,2021-06-08
+28,28,16:50 TO3406,,Paris (ORY),Transavia B738 (F-HTVB),Landed 16:55,2021-06-08
+29,29,17:15 BA3383,,Madrid (MAD),British Airways 75F,Unknown,2021-06-08
+30,30,17:20 U21455,,Geneva (GVA),easyJet A320 (OE-ICU),Landed 17:13,2021-06-08
+31,31,17:35 FR4599,,Memmingen (FMM),Ryanair B738 (9H-QBO),Landed 17:31,2021-06-08
+32,32,18:45 U21463,,Geneva (GVA),easyJet A320 (HB-JXM),Landed 18:32,2021-06-08
+33,33,18:55,TP1920,Lisbon (LIS),TAP Express E190 (CS-TPS),Landed 18:37,2021-06-08
+34,34,19:05 TO3459,,Funchal (FNC),Transavia B738 (F-HTVA),Landed 18:40,2021-06-08
+35,35,19:20 FR4018,,Milan (MXP),Ryanair B738 (9H-QDX),Landed 18:58,2021-06-08
+36,36,19:40 FR8347,,London (STN),Ryanair B738 (EI-DWK),Landed 19:25,2021-06-08
+37,37,20:20 FR6603,,Edinburgh (EDI),Ryanair B738 (EI-DWZ),Landed 20:03,2021-06-08
+38,38,20:35 FR7801,,Palma de Mallorca (PMI),Ryanair B738 (EI-DYE),Landed 20:13,2021-06-08
+39,39,20:45,TP1866,Ponta Delgada (PDL),TAP Air Portugal A20N (CS-TVH),Landed 20:21,2021-06-08
+40,40,20:50 U26147,,Bristol (BRS),easyJet A20N (G-UZHG),Landed 20:35,2021-06-08
+41,41,21:00 W62395,,Budapest (BUD),Wizz Air 320,Unknown,2021-06-08
+42,42,21:25 U22097,,London (LTN),easyJet A20N (G-UZHK),Landed 21:02,2021-06-08
+43,43,21:25 FR5487,,Faro (FAO),Ryanair B738 (EI-DWE),Unknown,2021-06-08
+44,44,21:40 FR2864,,Dortmund (DTM),Ryanair B738 (EI-GXL),Landed 21:48,2021-06-08
+45,45,22:30 U21459,,Geneva (GVA),easyJet A320 (OE-INB),Landed 22:09,2021-06-08
+46,46,22:45 FR2863,,Luxembourg (LUX),Ryanair B738 (EI-ENB),Landed 22:25,2021-06-08
+47,47,22:55 U21133,,Basel (BSL),easyJet A320 (OE-ICM),Landed 22:47,2021-06-08
+48,48,23:00 FR2161,,Treviso (TSF),Ryanair B738 (EI-EVJ),Landed 22:54,2021-06-08
+49,49,23:05 FR9205,,Hamburg (HAM),Ryanair B738 (EI-EFX),Unknown,2021-06-08
+50,50,23:10 FR6038,,Lajes (TER),Ryanair B738 (EI-GSH),Landed 23:04,2021-06-08
+51,51,23:30 FR4533,,Warsaw (WMI),Ryanair B738 (EI-ENE),Landed 23:08,2021-06-08
+0,0,00:20,TP1928,Lisbon (LIS),TAP Air Portugal A20N (CS-TVA),Landed 00:02,2021-06-10
+1,1,06:40 3V4958,,Liege (LGG),ASL Airlines Belgium B734 (OE-IBI),Landed 06:09,2021-06-10
+2,2,07:35 TO3400,,Paris (ORY),Transavia B738 (F-HTVJ),Landed 07:26,2021-06-10
+3,3,07:35,LG3769,Luxembourg (LUX),Luxair B737 (LX-LGS),Landed 07:23,2021-06-10
+4,4,07:45,IB8776,Madrid (MAD),Iberia Regional CRJX (EC-MJP),Landed 07:30,2021-06-10
+5,5,07:51 3V4724,,Toulouse (TLS),FedEx B738 (F-HIQD),Landed 07:34,2021-06-10
+6,6,07:55,TP1926,Lisbon (LIS),TAP Air Portugal A320 (CS-TNU),Landed 07:44,2021-06-10
+7,7,07:55 W64721,,Dortmund (DTM),Wizz Air 320,Unknown,2021-06-10
+8,8,08:20 TO4850,,Lyon (LYS),Transavia B738 (F-HTVU),Landed 08:08,2021-06-10
+9,9,08:55 U21457,,Geneva (GVA),easyJet A320 (HB-JYD),Landed 08:41,2021-06-10
+10,10,09:55 U22097,,London (LTN),easyJet 320,Canceled,2021-06-10
+11,11,10:35,TP1710,Funchal (FNC),TAP Air Portugal A320 (CS-TNQ),Landed 10:18,2021-06-10
+12,12,10:40,KL1711,Amsterdam (AMS),KLM B737 (PH-BGR),Landed 10:42,2021-06-10
+13,13,10:45,TP76,Rio de Janeiro (GIG),TAP Air Portugal A339 (CS-TUL),Landed 10:38,2021-06-10
+14,14,10:45,LH1782,Munich (MUC),Lufthansa A20N (D-AINN),Landed 10:46,2021-06-10
+15,15,11:05,TP453,Paris (ORY),TAP Air Portugal A320 (CS-TNW),Landed 10:54,2021-06-10
+16,16,11:15,LH1176,Frankfurt (FRA),Lufthansa A20N (D-AINE),Landed 11:06,2021-06-10
+17,17,11:40 FR8343,,London (STN),Ryanair B738 (EI-EML),Unknown,2021-06-10
+18,18,11:55 FR9134,,Paris (BVA),Ryanair B738 (EI-GSH),Landed 11:40,2021-06-10
+19,19,12:05 FR2863,,Luxembourg (LUX),Ryanair B738 (EI-EVJ),Landed 11:55,2021-06-10
+20,20,12:25,SN3811,Brussels (BRU),Brussels Airlines A320 (OO-TCH),Landed 12:08,2021-06-10
+21,21,12:30 U21131,,Basel (BSL),easyJet A320 (OE-ICU),Landed 12:23,2021-06-10
+22,22,13:05,VY1985,Paris (ORY),Vueling A320 (EC-MXP),Landed 12:45,2021-06-10
+23,23,13:10 W98113,,London (LTN),Wizz Air UK 320,Unknown,2021-06-10
+24,24,13:15,TP1936,Lisbon (LIS),TAP Air Portugal A319 (CS-TTS),Landed 13:21,2021-06-10
+25,25,13:35 TO3458,,Paris (ORY),Transavia B738 (F-HTVJ),Landed 13:27,2021-06-10
+26,26,13:35 TO4851,,Funchal (FNC),Transavia B738 (F-HTVU),Landed 13:30,2021-06-10
+27,27,13:40 FR6603,,Edinburgh (EDI),Ryanair B738 (EI-EMP),Landed 13:17,2021-06-10
+28,28,14:00 FR1470,,Ponta Delgada (PDL),Ryanair B738 (EI-GXL),Landed 13:47,2021-06-10
+29,29,14:20,LX2064,Zurich (ZRH),Swiss A20N (HB-JDB),Landed 14:15,2021-06-10
+30,30,14:20,TP1331,London (LGW),TAP Air Portugal A20N (CS-TVH),Landed 13:55,2021-06-10
+31,31,14:40,LH1178,Frankfurt (FRA),Lufthansa A20N (D-AIJA),Landed 14:41,2021-06-10
+32,32,15:10,VY8478,Barcelona (BCN),Vueling A320 (EC-KHN),Landed 14:48,2021-06-10
+33,33,15:30,AF1528,Paris (CDG),Air France A319 (F-GRXL),Landed 15:17,2021-06-10
+34,34,15:55 U21455,,Geneva (GVA),easyJet A320 (OE-ICM),Landed 15:49,2021-06-10
+35,35,16:05,IB8664,Madrid (MAD),Iberia Regional CRJX (EC-MQQ),Landed 15:57,2021-06-10
+36,36,16:25 FR2632,,Ponta Delgada (PDL),Ryanair B738 (EI-GXJ),Landed 16:02,2021-06-10
+37,37,16:50 TO3406,,Paris (ORY),Transavia B738 (F-GZHD),Landed 16:47,2021-06-10
+38,38,17:15 BA3383,,Madrid (MAD),British Airways 75F,Unknown,2021-06-10
+39,39,18:00 FR2928,,Brussels (BRU),Ryanair B738 (EI-EKG),Landed 18:10,2021-06-10
+40,40,18:05 FR6531,,Marseille (MRS),Ryanair B738 (EI-GSH),Landed 17:52,2021-06-10
+41,41,18:10 FR5489,,Weeze (NRN),Ryanair B738 (EI-EML),Landed 18:00,2021-06-10
+42,42,18:45 U21463,,Geneva (GVA),easyJet A320 (HB-JXJ),Landed 18:40,2021-06-10
+43,43,18:55,TP1920,Lisbon (LIS),TAP Express E190 (CS-TPS),Landed 18:44,2021-06-10
+44,44,19:05 TO3459,,Funchal (FNC),Transavia B738 (F-HTVJ),Landed 18:48,2021-06-10
+45,45,19:20,TP457,Paris (ORY),TAP Air Portugal A320 (CS-TNQ),Landed 19:02,2021-06-10
+46,46,19:25 FR4018,,Milan (MXP),Ryanair B738 (9H-QBS),Landed 19:09,2021-06-10
+47,47,19:25 S45174,,Lajes (TER),Azores Airlines (Breathe Livery) A21N (CS-TSF),Landed 18:59,2021-06-10
+48,48,19:55 U24447,,Lyon (LYS),easyJet A320 (OE-IVS),Landed 19:46,2021-06-10
+49,49,20:45,TP1866,Ponta Delgada (PDL),TAP Air Portugal A20N (CS-TVH),Landed 20:44,2021-06-10
+50,50,21:25 FR5487,,Faro (FAO),Ryanair B738 (EI-DCW),Unknown,2021-06-10
+51,51,21:40 FR2864,,Dortmund (DTM),Ryanair B738 (EI-DCI),Landed 21:23,2021-06-10
+52,52,21:40 U27586,,Funchal (FNC),easyJet A320 (OE-ICU),Landed 21:20,2021-06-10
+53,53,22:50 FR7801,,Palma de Mallorca (PMI),Ryanair B738 (EI-EML),Landed 22:36,2021-06-10
+54,54,22:55 U27584,,Luxembourg (LUX),easyJet A320 (OE-ICM),Landed 22:55,2021-06-10
+55,55,23:10 FR7475,,Paris (BVA),Ryanair B738 (EI-GSH),Landed 22:58,2021-06-10
+56,56,23:10 FR8347,,London (STN),Ryanair B738 (EI-EVJ),Landed 22:52,2021-06-10
+0,0,12:20 AM,TP1928,Lisbon (LIS),TAP Air Portugal A319 (CS-TTN),Landed 12:01 AM,2021-06-11
+1,1,6:40 AM 3V4958,,Liege (LGG),ASL Airlines Belgium B734 (OO-TNO),Landed 6:18 AM,2021-06-11
+2,2,7:25 AM U21453,,Geneva (GVA),easyJet A320 (HB-JXC),Landed 7:22 AM,2021-06-11
+3,3,7:35 AM,LG3769,Luxembourg (LUX),Luxair B737 (LX-LBR),Landed 7:26 AM,2021-06-11
+4,4,7:45 AM,IB8776,Madrid (MAD),Iberia Regional CRJX (EC-MPA),Landed 7:37 AM,2021-06-11
+5,5,7:51 AM 3V4724,,Toulouse (TLS),FedEx B738 (F-HIQD),Landed 7:54 AM,2021-06-11
+6,6,7:55 AM,TP1926,Lisbon (LIS),TAP Air Portugal A319 (CS-TTS),Landed 8:09 AM,2021-06-11
+7,7,8:15 AM FR1386,,Brussels (CRL),Ryanair B738 (EI-DPM),Landed 8:02 AM,2021-06-11
+8,8,8:25 AM,AF1428,Paris (CDG),Air France E170 (F-HBXG),Landed 8:17 AM,2021-06-11
+9,9,9:10 AM FR7275,,Vienna (VIE),Lauda Europe A320 (9H-LON),Landed 8:50 AM,2021-06-11
+10,10,9:30 AM W61595,,Warsaw (WAW),Wizz Air A320 (HA-LWG),Landed 9:02 AM,2021-06-11
+11,11,10:10 AM,TP1924,Lisbon (LIS),TAP Air Portugal A319 (CS-TTO),Landed 10:01 AM,2021-06-11
+12,12,10:20 AM FR4585,,Barcelona (BCN),Ryanair B738 (EI-GXL),Landed 10:33 AM,2021-06-11
+13,13,10:35 AM,TP1710,Funchal (FNC),TAP Air Portugal A320 (CS-TNQ),Landed 10:42 AM,2021-06-11
+14,14,10:40 AM,KL1711,Amsterdam (AMS),KLM B737 (PH-BGM),Landed 10:26 AM,2021-06-11
+15,15,10:45 AM,LH1782,Munich (MUC),Lufthansa A20N (D-AINW),Landed 10:30 AM,2021-06-11
+16,16,11:05 AM,TP453,Paris (ORY),TAP Air Portugal A20N (CS-TVH),Landed 11:00 AM,2021-06-11
+17,17,11:10 AM TO3400,,Paris (ORY),Transavia B738 (F-GZHU),Landed 11:19 AM,2021-06-11
+18,18,11:15 AM,LH1176,Frankfurt (FRA),Lufthansa A319 (D-AIBH),Landed 11:07 AM,2021-06-11
+19,19,11:35 AM U27586,,Funchal (FNC),easyJet A320 (OE-INB),Landed 11:34 AM,2021-06-11
+20,20,11:40 AM FR8343,,London (STN),Ryanair B738 (EI-DCI),Landed 11:37 AM,2021-06-11
+21,21,11:40 AM,S4172,Ponta Delgada (PDL),Azores Airlines (Natural Livery) A320 (CS-TKQ),Landed 12:19 PM,2021-06-11
+22,22,11:55 AM FR5264,,Cagliari (CAG),Ryanair B738 (EI-EVJ),Landed 11:51 AM,2021-06-11
+23,23,12:00 PM FR4702,,Milan (BGY),Ryanair B738 (EI-DWT),Landed 12:02 PM,2021-06-11
+24,24,12:10 PM,LX2060,Zurich (ZRH),Swiss BCS3 (HB-JCU),Landed 11:58 AM,2021-06-11
+25,25,12:25 PM FR7228,,Valencia (VLC),Ryanair B738 (EI-EGC),Landed 12:24 PM,2021-06-11
+26,26,12:25 PM,SN3811,Brussels (BRU),Brussels Airlines (Star Alliance Livery) A320 (OO-SNC),Landed 12:12 PM,2021-06-11
+27,27,12:30 PM U21131,,Basel (BSL),easyJet A320 (OE-ICM),Landed 12:28 PM,2021-06-11
+28,28,12:40 PM TO4650,,Nantes (NTE),Transavia B738 (F-HTVL),Landed 12:38 PM,2021-06-11
+29,29,1:25 PM FR1509,,Luqa (MLA),Ryanair B738 (EI-EKG),Landed 1:16 PM,2021-06-11
+30,30,1:35 PM,LX2078,Geneva (GVA),Swiss BCS1 (HB-JBA),Landed 1:08 PM,2021-06-11
+31,31,1:35 PM TO3458,,Paris (ORY),Transavia B738 (F-GZHF),Landed 1:40 PM,2021-06-11
+32,32,1:45 PM FR2863,,Luxembourg (LUX),Ryanair B738 (EI-EFX),Landed 1:28 PM,2021-06-11
+33,33,2:15 PM,HV6001,Amsterdam (AMS),Transavia B738 (PH-HSB),Landed 1:43 PM,2021-06-11
+34,34,2:20 PM,TP1331,London (LGW),TAP Air Portugal A320 (CS-TNW),Landed 2:02 PM,2021-06-11
+35,35,2:40 PM FR3047,,Krakow (KRK),Ryanair B738 (EI-EML),Landed 2:53 PM,2021-06-11
+36,36,2:40 PM,LH1178,Frankfurt (FRA),Lufthansa A20N (D-AINY),Landed 2:22 PM,2021-06-11
+37,37,2:40 PM,TP1936,Lisbon (LIS),TAP Air Portugal A319 (CS-TTO),Landed 2:18 PM,2021-06-11
+38,38,2:45 PM FR5466,,Seville (SVQ),Ryanair B738 (EI-DYC),Landed 2:33 PM,2021-06-11
+39,39,2:50 PM U28493,,London (LGW),easyJet 320,Unknown,2021-06-11
+40,40,3:10 PM,UX1143,Madrid (MAD),Air Europa Express E195 (EC-LLR),Landed 2:46 PM,2021-06-11
+41,41,3:40 PM,AF1528,Paris (CDG),Air France A319 (F-GRHY),Landed 3:24 PM,2021-06-11
+42,42,3:40 PM FR7072,,Dublin (DUB),Ryanair B738 (EI-DWZ),Landed 3:33 PM,2021-06-11
+43,43,4:05 PM,IB8664,Madrid (MAD),Iberia Regional CRJX (EC-LJX),Landed 3:50 PM,2021-06-11
+44,44,4:15 PM FR6038,,Lajes (TER),Ryanair B738 (EI-GSH),Landed 4:09 PM,2021-06-11
+45,45,4:15 PM FR5464,,Marrakesh (RAK),Ryanair 73H,Canceled,2021-06-11
+46,46,4:15 PM FR9132,,Rome (CIA),Ryanair B738 (9H-QBY),Landed 3:55 PM,2021-06-11
+47,47,4:25 PM FR2632,,Ponta Delgada (PDL),Ryanair B738 (EI-GXH),Landed 4:24 PM,2021-06-11
+48,48,4:40 PM BA2782,,London (LHR),British Airways A21N (G-NEOR),Landed 4:21 PM,2021-06-11
+49,49,4:40 PM U27594,,Zurich (ZRH),easyJet A320 (OE-IJQ),Landed 4:17 PM,2021-06-11
+50,50,5:10 PM TO3406,,Paris (ORY),Transavia B738 (F-HTVO),Landed 5:08 PM,2021-06-11
+51,51,5:15 PM U23521,,Manchester (MAN),easyJet 320,Unknown,2021-06-11
+52,52,5:15 PM U23775,,Paris (CDG),easyJet (250th Airbus Livery) A320 (OE-IJB),Landed 4:55 PM,2021-06-11
+53,53,5:20 PM U21455,,Geneva (GVA),easyJet A320 (OE-INB),Landed 5:28 PM,2021-06-11
+54,54,5:55 PM FR9202,,Liverpool (LPL),Ryanair B738 (EI-EVJ),Landed 5:43 PM,2021-06-11
+55,55,6:05 PM FR5257,,Brive (BVE),Ryanair B738 (EI-DWT),Landed 6:09 PM,2021-06-11
+56,56,6:40 PM U27481,,Bordeaux (BOD),easyJet A319 (OE-LQB),Landed 6:18 PM,2021-06-11
+57,57,6:45 PM,LX2064,Zurich (ZRH),Swiss A320 (HB-IJI),Landed 6:21 PM,2021-06-11
+58,58,6:45 PM U21463,,Geneva (GVA),easyJet A320 (HB-JYD),Landed 6:35 PM,2021-06-11
+59,59,6:50 PM FR5479,,Karlsruhe/Baden-Baden (FKB),Ryanair B738 (9H-QAC),Landed 6:50 PM,2021-06-11
+60,60,6:50 PM FR6531,,Marseille (MRS),Ryanair B738 (EI-EKG),Landed 6:46 PM,2021-06-11
+61,61,6:55 PM,TP1920,Lisbon (LIS),TAP Express E195 (CS-TTY),Landed 6:58 PM,2021-06-11
+62,62,6:55 PM U21133,,Basel (BSL),easyJet A320 (OE-ICM),Landed 6:40 PM,2021-06-11
+63,63,7:05 PM TO3459,,Funchal (FNC),Transavia B738 (F-GZHF),Landed 7:02 PM,2021-06-11
+64,64,7:20 PM,TP457,Paris (ORY),TAP Air Portugal A20N (CS-TVH),Landed 7:05 PM,2021-06-11
+65,65,7:40 PM FR8347,,London (STN),Ryanair B738 (EI-EFX),Landed 7:18 PM,2021-06-11
+66,66,8:00 PM FR5484,,Madrid (MAD),Ryanair B738 (EI-DYB),Landed 8:15 PM,2021-06-11
+67,67,8:10 PM TO4844,,Lyon (LYS),Transavia B738 (F-GZHI),Landed 8:03 PM,2021-06-11
+68,68,8:15 PM,VY8480,Barcelona (BCN),Vueling A320 (EC-MKM),Landed 8:07 PM,2021-06-11
+69,69,8:25 PM FR1175,,Manchester (MAN),Ryanair B738 (EI-ENS),Landed 8:11 PM,2021-06-11
+70,70,9:15 PM S4174,,Ponta Delgada (PDL),Azores Airlines A320 (CS-TKK),Landed 9:16 PM,2021-06-11
+71,71,9:25 PM FR5487,,Faro (FAO),Ryanair B738 (EI-EXF),Unknown,2021-06-11
+72,72,9:27 PM,,Lisbon (LIS),- CL60 (N800WC),Landed 10:16 PM,2021-06-11
+73,73,10:15 PM,KL1715,Amsterdam (AMS),KLM B737 (PH-BGR),Landed 9:42 PM,2021-06-11
+74,74,10:25 PM FR7473,,Eindhoven (EIN),Ryanair B738 (EI-GXH),Landed 10:28 PM,2021-06-11
+75,75,10:30 PM FR1536,,Frankfurt (FRA),Ryanair B738 (EI-DCI),Landed 10:21 PM,2021-06-11
+76,76,11:00 PM FR8899,,Copenhagen (CPH),Ryanair B738 (EI-EML),Landed 10:40 PM,2021-06-11
+77,77,11:10 PM FR7475,,Paris (BVA),Ryanair B738 (EI-EVJ),Landed 10:48 PM,2021-06-11
+78,78,11:25 PM U27584,,Luxembourg (LUX),easyJet A320 (OE-IJQ),Landed 11:16 PM,2021-06-11
+79,79,11:50 PM FR2946,,Berlin (BER),Ryanair B738 (EI-GSH),Landed 11:36 PM,2021-06-11
+80,80,11:55 PM FR2928,,Brussels (BRU),Ryanair B738 (EI-DWT),Landed 11:52 PM,2021-06-11
+0,0,00:20,TP1928,Lisbon (LIS),TAP Air Portugal A319 (CS-TTR),Landed 00:05,2021-06-12
+1,1,07:00 UX1147,,Madrid (MAD),Air Europa Express E195 (EC-LLR),Landed 06:46,2021-06-12
+2,2,07:15 U21453,,Geneva (GVA),easyJet A320 (HB-JXQ),Landed 06:50,2021-06-12
+3,3,07:45,IB8776,Madrid (MAD),Iberia Regional CRJX (EC-MPA),Landed 07:17,2021-06-12
+4,4,07:55,TP1926,Lisbon (LIS),TAP Air Portugal A319 (CS-TTL),Landed 07:42,2021-06-12
+5,5,07:55 U21611,,Nice (NCE),easyJet A320 (OE-IJZ),Landed 07:22,2021-06-12
+6,6,08:18,,New York (EWR),- A339 (CS-TUL),Landed 08:24,2021-06-12
+7,7,08:20 TO4850,,Lyon (LYS),Transavia B738 (F-GZHP),Landed 08:05,2021-06-12
+8,8,08:20 TO3450,,Paris (ORY),Transavia B738 (F-GZHD),Landed 08:20,2021-06-12
+9,9,08:40 U22097,,London (LTN),easyJet 320,Unknown,2021-06-12
+10,10,08:45,TP212,New York (EWR),TAP Air Portugal A339 (CS-TUL),Unknown,2021-06-12
+11,11,09:00,AF1428,Paris (CDG),Air France E190 (F-HBLM),Landed 09:10,2021-06-12
+12,12,09:10 FR2928,,Brussels (BRU),Ryanair B738 (EI-DLD),Landed 08:51,2021-06-12
+13,13,09:15 BA2822,,London (LHR),British Airways A320 (G-EUUD),Landed 08:45,2021-06-12
+14,14,10:20 FR4507,,Bordeaux (BOD),Ryanair B738 (EI-EML),Landed 10:15,2021-06-12
+15,15,10:30 FR4585,,Barcelona (BCN),Ryanair B738 (EI-DYB),Landed 10:12,2021-06-12
+16,16,10:35,TK1451,Istanbul (IST),Turkish Airlines B738 (TC-JVK),Landed 09:50,2021-06-12
+17,17,10:35,TP1710,Funchal (FNC),TAP Air Portugal A320 (CS-TNQ),Landed 10:22,2021-06-12
+18,18,10:40,KL1711,Amsterdam (AMS),KLM B737 (PH-BGH),Landed 10:26,2021-06-12
+19,19,10:45,LH1782,Munich (MUC),Lufthansa A20N (D-AINN),Landed 10:19,2021-06-12
+20,20,11:15,LH1176,Frankfurt (FRA),Lufthansa A320 (D-AIZW),Landed 11:12,2021-06-12
+21,21,11:25 FR9134,,Paris (BVA),Ryanair B738 (EI-EVJ),Landed 11:18,2021-06-12
+22,22,11:40 FR8343,,London (STN),Ryanair B738 (EI-EKG),Landed 11:21,2021-06-12
+23,23,11:40,S4172,Ponta Delgada (PDL),Azores Airlines (Natural Livery) A320 (CS-TKQ),Landed 11:33,2021-06-12
+24,24,11:50,LX2060,Zurich (ZRH),Swiss A21N (HB-JPA),Landed 11:15,2021-06-12
+25,25,12:20 FR2161,,Treviso (TSF),Ryanair B738 (EI-DWT),Landed 12:07,2021-06-12
+26,26,12:25,SN3811,Brussels (BRU),Brussels Airlines A320 (OO-SNK),Landed 12:04,2021-06-12
+27,27,12:40 U21131,,Basel (BSL),easyJet A320 (OE-ICU),Landed 12:11,2021-06-12
+28,28,13:05,VY1985,Paris (ORY),Vueling A320 (EC-LVO),Unknown,2021-06-12
+29,29,13:10,LG3799,Luxembourg (LUX),Luxair B737 (LX-LBT),Landed 13:03,2021-06-12
+30,30,13:15,TP1936,Lisbon (LIS),TAP Air Portugal A21N (CS-TJQ),Landed 13:29,2021-06-12
+31,31,13:20 FR1470,,Ponta Delgada (PDL),Ryanair B738 (EI-GSH),Landed 13:13,2021-06-12
+32,32,13:35,LX2078,Geneva (GVA),Swiss BCS3 (HB-JCN),Landed 13:17,2021-06-12
+33,33,13:35 TO4851,,Funchal (FNC),Transavia B738 (F-GZHP),Landed 13:42,2021-06-12
+34,34,13:40 TO3451,,Funchal (FNC),Transavia B738 (F-GZHD),Landed 13:51,2021-06-12
+35,35,14:20,TP1331,London (LGW),TAP Air Portugal A20N (CS-TVH),Landed 13:49,2021-06-12
+36,36,14:40,LH1178,Frankfurt (FRA),Lufthansa A20N (D-AIND),Landed 14:38,2021-06-12
+37,37,14:45 FR7465,,Tours (TUF),Ryanair B738 (EI-GXH),Landed 14:29,2021-06-12
+38,38,14:50,LX2064,Zurich (ZRH),Swiss BCS3 (HB-JCU),Landed 14:33,2021-06-12
+39,39,15:10,VY8478,Barcelona (BCN),Vueling A320 (EC-KHN),Landed 14:56,2021-06-12
+40,40,15:15 W68113,,London (LTN),Wizz Air A21N (G-WUKM),Landed 15:01,2021-06-12
+41,41,15:20 FR2632,,Ponta Delgada (PDL),Ryanair B738 (EI-GXL),Landed 15:17,2021-06-12
+42,42,15:30,AF1528,Paris (CDG),Air France A319 (F-GRXK),Landed 15:13,2021-06-12
+43,43,15:30 FR6531,,Marseille (MRS),Ryanair B738 (EI-DYB),Landed 15:07,2021-06-12
+44,44,15:45 FR9139,,Dole (DLE),Ryanair B738 (EI-EML),Landed 15:41,2021-06-12
+45,45,16:20 U21455,,Geneva (GVA),easyJet A320 (OE-INB),Landed 16:09,2021-06-12
+46,46,17:10 TO3406,,Paris (ORY),Transavia B738 (F-HTVM),Landed 17:02,2021-06-12
+47,47,17:35 FR4599,,Memmingen (FMM),Ryanair B738 (9H-QBO),Landed 17:40,2021-06-12
+48,48,17:40 U27586,,Funchal (FNC),easyJet A320 (OE-IJQ),Landed 18:19,2021-06-12
+49,49,18:50 U21463,,Geneva (GVA),easyJet A320 (HB-JXE),Landed 18:22,2021-06-12
+50,50,18:55 FR4018,,Milan (MXP),Ryanair B738 (9H-QBI),Landed 18:26,2021-06-12
+51,51,18:55,TP1920,Lisbon (LIS),TAP Air Portugal A319 (CS-TTO),Landed 18:47,2021-06-12
+52,52,19:20,TP457,Paris (ORY),TAP Air Portugal A320 (CS-TNW),Landed 19:04,2021-06-12
+53,53,20:05,HV6003,Amsterdam (AMS),Transavia B738 (PH-HXC),Diverted to AMS,2021-06-12
+54,54,20:30 U26147,,Bristol (BRS),easyJet 319,Unknown,2021-06-12
+55,55,20:35 FR4597,,Bologna (BLQ),Ryanair B738 (9H-QAA),Landed 20:10,2021-06-12
+56,56,20:45,TP1866,Ponta Delgada (PDL),TAP Air Portugal A20N (CS-TVH),Landed 20:35,2021-06-12
+57,57,21:00 W62395,,Budapest (BUD),Wizz Air A320 (HA-LWE),Landed 20:54,2021-06-12
+58,58,21:25 FR5487,,Faro (FAO),Ryanair B738 (EI-EVR),Unknown,2021-06-12
+59,59,22:15,KL1715,Amsterdam (AMS),KLM B737 (PH-BGQ),Landed 21:56,2021-06-12
+60,60,22:20 FR7801,,Palma de Mallorca (PMI),Ryanair B738 (EI-DWT),Landed 22:00,2021-06-12
+61,61,22:40 FR6603,,Edinburgh (EDI),Ryanair B738 (EI-GSH),Landed 22:34,2021-06-12
+62,62,22:40 U27596,,Ibiza (IBZ),easyJet A320 (OE-ICU),Landed 22:28,2021-06-12
+63,63,22:45 FR2863,,Luxembourg (LUX),Ryanair B738 (EI-GXH),Landed 22:31,2021-06-12
+64,64,22:55 U21133,,Basel (BSL),easyJet A320 (OE-INB),Landed 22:26,2021-06-12
+65,65,23:05 FR9205,,Hamburg (HAM),Ryanair B738 (EI-EML),Unknown,2021-06-12
+66,66,23:10 FR7475,,Paris (BVA),Ryanair B738 (EI-EKG),Landed 23:13,2021-06-12
+67,67,23:10 FR8347,,London (STN),Ryanair B738 (EI-DYB),Landed 22:49,2021-06-12
+68,68,23:30 FR4533,,Warsaw (WMI),Ryanair B738 (EI-EVJ),Landed 23:43,2021-06-12
+69,69,23:55 FR8865,,Budapest (BUD),Ryanair B738 (EI-EFX),Landed 23:40,2021-06-12
+0,0,00:20,TP1928,Lisbon (LIS),TAP Air Portugal A319 (CS-TTR),Landed 00:09,2021-06-13
+1,1,00:55 BA3416,,Madrid (MAD),British Airways 75F,Unknown,2021-06-13
+2,2,07:15 U21453,,Geneva (GVA),easyJet A320 (HB-JXI),Landed 06:52,2021-06-13
+3,3,07:45,IB8776,Madrid (MAD),Iberia Regional CRJX (EC-MQQ),Landed 07:13,2021-06-13
+4,4,07:55,TP1926,Lisbon (LIS),TAP Air Portugal A320 (CS-TNU),Landed 07:52,2021-06-13
+5,5,08:20 TO3450,,Paris (ORY),Transavia B738 (F-HTVV),Landed 08:23,2021-06-13
+6,6,08:30 3V4724,,Madrid (MAD),FedEx B738 (F-HIQD),Landed 09:07,2021-06-13
+7,7,08:35 FR1536,,Frankfurt (FRA),Ryanair B738 (9H-QCL),Landed 09:10,2021-06-13
+8,8,09:15 FR2946,,Berlin (BER),Ryanair B738 (9H-QEC),Landed 08:46,2021-06-13
+9,9,10:40,KL1711,Amsterdam (AMS),KLM B737 (PH-BGU),Landed 10:35,2021-06-13
+10,10,10:45,LH1782,Munich (MUC),Lufthansa A20N (D-AINM),Landed 10:27,2021-06-13
+11,11,11:15,LH1176,Frankfurt (FRA),Lufthansa A321 (D-AIDH),Landed 11:11,2021-06-13
+12,12,11:30 U27586,,Funchal (FNC),easyJet A320 (OE-INB),Landed 11:29,2021-06-13
+13,13,11:35 FR2863,,Luxembourg (LUX),Ryanair B738 (EI-EFX),Landed 11:21,2021-06-13
+14,14,11:40 FR8343,,London (STN),Ryanair B738 (EI-DCI),Landed 11:34,2021-06-13
+15,15,11:40,S4172,Ponta Delgada (PDL),Azores Airlines (Natural Livery) A320 (CS-TKQ),Landed 11:42,2021-06-13
+16,16,11:50,LX2060,Zurich (ZRH),Swiss A20N (HB-JDC),Landed 11:25,2021-06-13
+17,17,11:55 FR7473,,Eindhoven (EIN),Ryanair B738 (EI-DWT),Landed 11:56,2021-06-13
+18,18,12:10 FR5484,,Madrid (MAD),Ryanair B738 (EI-DPV),Landed 11:59,2021-06-13
+19,19,12:30 U21131,,Basel (BSL),easyJet A320 (OE-ICU),Landed 12:21,2021-06-13
+20,20,12:35 FR1386,,Brussels (CRL),Ryanair B738 (EI-EKG),Landed 12:27,2021-06-13
+21,21,12:40 FR1470,,Ponta Delgada (PDL),Ryanair B738 (EI-GXH),Landed 12:32,2021-06-13
+22,22,12:45 TO4640,,Nantes (NTE),Transavia B738 (F-HTVK),Landed 12:41,2021-06-13
+23,23,13:00 FR5489,,Weeze (NRN),Ryanair B738 (EI-EML),Landed 12:45,2021-06-13
+24,24,13:15,TP1936,Lisbon (LIS),TAP Express E195 (CS-TTY),Landed 13:35,2021-06-13
+25,25,13:30 TO3451,,Funchal (FNC),Transavia B738 (F-HTVV),Landed 13:19,2021-06-13
+26,26,13:35,LX2078,Geneva (GVA),Swiss BCS3 (HB-JCT),Landed 13:23,2021-06-13
+27,27,13:45 TO3458,,Paris (ORY),Transavia B738 (F-GZHU),Unknown,2021-06-13
+28,28,13:50 U24445,,Lyon (LYS),easyJet A320 (OE-IVW),Landed 13:40,2021-06-13
+29,29,13:50,VY1985,Paris (ORY),Vueling A20N (EC-NAE),Landed 13:31,2021-06-13
+30,30,14:03 IB2872,,Madrid (MAD),Iberia A320 (EC-IZR),Landed 13:57,2021-06-13
+31,31,14:20,TP1331,London (LGW),TAP Air Portugal A320 (CS-TNW),Landed 14:02,2021-06-13
+32,32,14:40,LH1178,Frankfurt (FRA),Lufthansa A20N (D-AINJ),Landed 14:31,2021-06-13
+33,33,15:10,UX1143,Madrid (MAD),Air Europa Express E195 (EC-LEK),Landed 14:57,2021-06-13
+34,34,15:15 U28497,,London (LGW),easyJet A319 (G-EZFU),Landed 14:54,2021-06-13
+35,35,15:30,AF1528,Paris (CDG),Air France A319 (F-GRHV),Landed 15:20,2021-06-13
+36,36,15:40 FR4585,,Barcelona (BCN),Ryanair B738 (EI-EMK),Landed 15:27,2021-06-13
+37,37,15:50 FR7072,,Dublin (DUB),Ryanair B738 (EI-EVJ),Landed 15:46,2021-06-13
+38,38,15:55,SN3809,Brussels (BRU),Brussels Airlines (The Smurfs Livery) A320 (OO-SND),Landed 15:58,2021-06-13
+39,39,16:05 U27594,,Zurich (ZRH),easyJet A320 (OE-IJQ),Landed 15:42,2021-06-13
+40,40,16:05,IB8664,Madrid (MAD),Iberia Regional CRJX (EC-MTO),Landed 15:52,2021-06-13
+41,41,16:10,LX2062,Zurich (ZRH),Swiss 221,Canceled,2021-06-13
+42,42,16:20 FR6038,,Lajes (TER),Ryanair B738 (EI-GSH),Landed 16:10,2021-06-13
+43,43,16:25 FR2632,,Ponta Delgada (PDL),Ryanair B738 (EI-GXJ),Landed 16:15,2021-06-13
+44,44,16:40 W64721,,Dortmund (DTM),Wizz Air A320 (HA-LYI),Landed 16:36,2021-06-13
+45,45,17:10 TO3406,,Paris (ORY),Transavia B738 (F-GZHV),Landed 17:25,2021-06-13
+46,46,17:15 U23775,,Paris (CDG),easyJet A320 (OE-INA),Landed 17:04,2021-06-13
+47,47,17:20 U21455,,Geneva (GVA),easyJet A320 (OE-ICM),Landed 17:16,2021-06-13
+48,48,18:05 FR4565,,Paris (XCR),Ryanair B738 (EI-EFX),Landed 17:59,2021-06-13
+49,49,18:05 FR7228,,Valencia (VLC),Ryanair B738 (EI-EML),Landed 17:47,2021-06-13
+50,50,18:10 FR9134,,Paris (BVA),Ryanair B738 (EI-GXH),Landed 18:05,2021-06-13
+51,51,18:35,LG3761,Luxembourg (LUX),Luxair B737 (LX-LGS),Landed 18:33,2021-06-13
+52,52,18:40 U27481,,Bordeaux (BOD),easyJet A319 (OE-LKM),Landed 18:29,2021-06-13
+53,53,18:45,LX2064,Zurich (ZRH),Swiss A20N (HB-JDC),Landed 18:36,2021-06-13
+54,54,18:45 U21463,,Geneva (GVA),easyJet A320 (HB-JZZ),Landed 18:41,2021-06-13
+55,55,18:55,TP1920,Lisbon (LIS),TAP Air Portugal A21N (CS-TJN),Landed 19:08,2021-06-13
+56,56,18:55 U23521,,Manchester (MAN),easyJet 320,Unknown,2021-06-13
+57,57,19:05 TO3459,,Funchal (FNC),Transavia B738 (F-GZHU),Landed 18:57,2021-06-13
+58,58,19:05 U21133,,Basel (BSL),easyJet A320 (OE-ICU),Landed 19:04,2021-06-13
+59,59,19:10 FR2864,,Dortmund (DTM),Ryanair B738 (EI-EKG),Landed 19:30,2021-06-13
+60,60,19:10 FR9973,,Cologne (CGN),Ryanair B738 (EI-DWT),Landed 19:27,2021-06-13
+61,61,19:20,TP457,Paris (ORY),TAP Air Portugal A20N (CS-TVH),Landed 19:11,2021-06-13
+62,62,19:40,HV6003,Amsterdam (AMS),Transavia B738 (PH-HXK),Landed 19:50,2021-06-13
+63,63,20:00 TO4844,,Lyon (LYS),Transavia B738 (F-HTVU),Landed 20:43,2021-06-13
+64,64,20:05,VY8480,Barcelona (BCN),Vueling (Visit Tenerife Livery) A20N (EC-NIX),Landed 20:02,2021-06-13
+65,65,20:15 IB2873,,Porto Santo (PXO),Iberia A320 (EC-IZR),Landed 20:08,2021-06-13
+66,66,20:30 FR4042,,Milan (BGY),Ryanair B738 (9H-QCU),Landed 20:26,2021-06-13
+67,67,21:10 FR1175,,Manchester (MAN),Ryanair B738 (EI-DYM),Landed 21:06,2021-06-13
+68,68,21:15 S4174,,Ponta Delgada (PDL),Azores Airlines A320 (CS-TKK),Landed 21:15,2021-06-13
+69,69,21:25 FR5487,,Faro (FAO),Ryanair B738 (EI-EXF),Unknown,2021-06-13
+70,70,22:15,KL1715,Amsterdam (AMS),KLM B737 (PH-BGG),Landed 22:00,2021-06-13
+71,71,22:20 FR1207,,Tenerife (TFS),Ryanair B738 (EI-EVJ),Landed 22:08,2021-06-13
+72,72,22:20 FR5466,,Seville (SVQ),Ryanair B738 (EI-DWT),Landed 22:29,2021-06-13
+73,73,22:30 FR2280,,Brussels (BRU),Ryanair B738 (EI-GSH),Landed 22:36,2021-06-13
+74,74,22:55 U27584,,Luxembourg (LUX),easyJet A320 (OE-INB),Landed 22:50,2021-06-13
+75,75,23:10 FR7475,,Paris (BVA),Ryanair B738 (EI-EFX),Landed 23:05,2021-06-13
+76,76,23:25 FR2029,,Alicante (ALC),Ryanair B738 (EI-DYB),Landed 23:02,2021-06-13
+77,77,23:25 FR6531,,Marseille (MRS),Ryanair B738 (EI-DCI),Landed 23:15,2021-06-13
+78,78,23:30 FR8514,,Birmingham (BHX),Ryanair B738 (EI-EML),Landed 23:24,2021-06-13
+79,79,23:40 FR8347,,London (STN),Ryanair B738 (EI-GXH),Landed 23:30,2021-06-13
+0,0,00:20,TP1928,Lisbon (LIS),TAP Air Portugal A320 (CS-TNS),Landed 00:04,2021-06-14
+1,1,00:25,TP1714,Funchal (FNC),TAP Air Portugal A21N (CS-TJN),Landed 00:40,2021-06-14
+2,2,04:50 3V4958,,Liege (LGG),ASL Airlines Belgium B734 (OE-IAM),Landed 04:26,2021-06-14
+3,3,07:35,LG3769,Luxembourg (LUX),Luxair B737 (LX-LGS),Landed 07:30,2021-06-14
+4,4,07:35 TO3400,,Paris (ORY),Transavia B738 (F-HTVF),Landed 07:27,2021-06-14
+5,5,07:45,IB8776,Madrid (MAD),Iberia Regional CRJX (EC-MTO),Landed 07:22,2021-06-14
+6,6,07:50 FR1386,,Brussels (CRL),Ryanair B738 (EI-DCN),Landed 07:45,2021-06-14
+7,7,07:55,TP1926,Lisbon (LIS),TAP Air Portugal A319 (CS-TTN),Landed 07:36,2021-06-14
+8,8,08:00 U21453,,Geneva (GVA),easyJet A320 (HB-JXJ),Landed 07:53,2021-06-14
+9,9,08:25,AF1428,Paris (CDG),Air France E190 (F-HBLC),Landed 08:19,2021-06-14
+10,10,09:15 FR1536,,Frankfurt (FRA),Ryanair B738 (9H-QAF),Landed 09:07,2021-06-14
+11,11,09:30 W61595,,Warsaw (WAW),Wizz Air A21N (HA-LVC),Landed 09:35,2021-06-14
+12,12,09:35 BA2822,,London (LHR),British Airways A320 (G-GATU),Landed 09:15,2021-06-14
+13,13,10:35,TK1451,Istanbul (IST),Turkish Airlines B38M (TC-LCD),Landed 10:10,2021-06-14
+14,14,10:35,TP1710,Funchal (FNC),TAP Air Portugal A320 (CS-TNS),Landed 10:18,2021-06-14
+15,15,10:40,KL1711,Amsterdam (AMS),KLM B737 (PH-BGU),Landed 10:31,2021-06-14
+16,16,10:45,LH1782,Munich (MUC),Lufthansa A20N (D-AINU),Landed 10:37,2021-06-14
+17,17,11:15,LH1176,Frankfurt (FRA),Lufthansa A319 (D-AIBA),Landed 11:06,2021-06-14
+18,18,11:35 FR5264,,Cagliari (CAG),Ryanair B738 (EI-DWT),Landed 11:54,2021-06-14
+19,19,11:40,S4172,Ponta Delgada (PDL),Azores Airlines (Natural Livery) A320 (CS-TKQ),Landed 11:52,2021-06-14
+20,20,11:50 FR8343,,London (STN),Ryanair B738 (EI-EFX),Landed 11:57,2021-06-14
+21,21,12:00 FR4702,,Milan (BGY),Ryanair B738 (EI-GSH),Landed 12:54,2021-06-14
+22,22,12:00 FR9132,,Rome (CIA),Ryanair B738 (EI-EML),Landed 11:47,2021-06-14
+23,23,12:25 U27584,,Luxembourg (LUX),easyJet A320 (OE-IJQ),Landed 12:11,2021-06-14
+24,24,12:45 U21131,,Basel (BSL),easyJet A320 (OE-INB),Landed 12:22,2021-06-14
+25,25,13:00 FR1509,,Luqa (MLA),Ryanair B738 (EI-DCI),Landed 12:42,2021-06-14
+26,26,13:05,VY1985,Paris (ORY),Vueling A20N (EC-NAE),Landed 12:46,2021-06-14
+27,27,13:15 TO3404,,Paris (ORY),Transavia B738 (F-GZHZ),Landed 13:22,2021-06-14
+28,28,13:15,TP1936,Lisbon (LIS),TAP Express E195 (CS-TTW),Landed 13:12,2021-06-14
+29,29,13:35 TO3458,,Paris (ORY),Transavia B738 (F-HTVJ),Landed 13:43,2021-06-14
+30,30,14:05,LX2066,Zurich (ZRH),Swiss A20N (HB-JDA),Landed 13:57,2021-06-14
+31,31,14:10 FR7475,,Paris (BVA),Ryanair B738 (EI-GXH),Landed 13:53,2021-06-14
+32,32,14:15 U21499,,Geneva (GVA),easyJet A320 (HB-JXQ),Landed 14:13,2021-06-14
+33,33,14:20,TP1331,London (LGW),TAP Air Portugal A320 (CS-TNQ),Landed 13:50,2021-06-14
+34,34,14:40,LH1178,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A319 (D-AIBJ),Landed 14:40,2021-06-14
+35,35,14:55 FR3047,,Krakow (KRK),Ryanair B738 (EI-EVJ),Landed 14:45,2021-06-14
+36,36,15:10,UX1143,Madrid (MAD),Air Europa Express E195 (EC-LKX),Landed 15:20,2021-06-14
+37,37,15:10,VY8478,Barcelona (BCN),Vueling (We ♥ Places Livery) A20N (EC-NAJ),Landed 14:48,2021-06-14
+38,38,15:20 FR2632,,Ponta Delgada (PDL),Ryanair B738 (EI-GXL),Landed 15:08,2021-06-14
+39,39,15:30,AF1528,Paris (CDG),Air France A319 (F-GRHR),Landed 15:16,2021-06-14
+40,40,16:00,SN3809,Brussels (BRU),Brussels Airlines A320 (OO-TCV),Landed 15:41,2021-06-14
+41,41,16:05,IB8664,Madrid (MAD),Iberia Regional (Valencia C.F. Livery) CRJX (EC-MXA),Landed 15:44,2021-06-14
+42,42,16:55 FR7072,,Dublin (DUB),Ryanair B738 (EI-GXM),Landed 16:47,2021-06-14
+43,43,17:05 FR4585,,Barcelona (BCN),Ryanair B738 (EI-DWT),Landed 17:07,2021-06-14
+44,44,17:15 U27586,,Funchal (FNC),easyJet A320 (OE-ICU),Landed 16:56,2021-06-14
+45,45,17:25 FR6531,,Marseille (MRS),Ryanair B738 (EI-EML),Landed 18:07,2021-06-14
+46,46,18:00 FR2928,,Brussels (BRU),Ryanair B738 (EI-DYB),Landed 17:49,2021-06-14
+47,47,18:10 FR7275,,Vienna (VIE),Lauda Europe A320 (9H-LOW),Landed 17:59,2021-06-14
+48,48,18:55,TP1920,Lisbon (LIS),TAP Express E195 (CS-TTZ),Landed 18:59,2021-06-14
+49,49,19:05 TO3459,,Funchal (FNC),Transavia B738 (F-HTVJ),Landed 18:47,2021-06-14
+50,50,19:20 FR5479,,Karlsruhe/Baden-Baden (FKB),Ryanair B738 (EI-DCI),Landed 19:04,2021-06-14
+51,51,19:20,TP457,Paris (ORY),TAP Air Portugal A20N (CS-TVH),Landed 19:01,2021-06-14
+52,52,19:40 FR8347,,London (STN),Ryanair B738 (EI-EVL),Landed 19:28,2021-06-14
+53,53,19:55 TO4844,,Lyon (LYS),Transavia B738 (F-GZHQ),Landed 19:47,2021-06-14
+54,54,20:05,HV6001,Amsterdam (AMS),Transavia B738 (PH-HXF),Landed 19:38,2021-06-14
+55,55,20:05 W62875,,Vienna (VIE),Wizz Air A320 (HA-LWX),Landed 19:42,2021-06-14
+56,56,20:30 FR9202,,Liverpool (LPL),Ryanair B738 (EI-DCH),Landed 20:16,2021-06-14
+57,57,21:15 W65519,,Milan (MXP),Wizz Air 32Q,Unknown,2021-06-14
+58,58,21:20 FR5487,,Faro (FAO),Ryanair B738 (EI-GJS),Unknown,2021-06-14
+59,59,22:15 FR5464,,Marrakesh (RAK),Ryanair 73H,Unknown,2021-06-14
+60,60,22:15,KL1715,Amsterdam (AMS),KLM B737 (PH-BGU),Landed 21:49,2021-06-14
+61,61,22:20 FR5257,,Brive (BVE),Ryanair B738 (EI-DYB),Landed 22:07,2021-06-14
+62,62,22:30 FR9134,,Paris (BVA),Ryanair B738 (EI-GXM),Landed 22:27,2021-06-14
+63,63,22:35 U21459,,Geneva (GVA),easyJet A320 (OE-INB),Landed 22:17,2021-06-14
+64,64,22:45 FR2863,,Luxembourg (LUX),Ryanair B738 (EI-EFX),Landed 22:45,2021-06-14
+65,65,22:50 FR1470,,Ponta Delgada (PDL),Ryanair B738 (EI-GSH),Landed 22:42,2021-06-14
+66,66,23:00 U23775,,Paris (CDG),easyJet A320 (OE-ICU),Landed 22:52,2021-06-14
+67,67,23:10 U27594,,Zurich (ZRH),easyJet A320 (OE-IJQ),Landed 22:39,2021-06-14
+68,68,23:35 FR8899,,Copenhagen (CPH),Ryanair B738 (EI-EVJ),Landed 23:16,2021-06-14
+0,0,00:20,TP1928,Lisbon (LIS),TAP Air Portugal A20N (CS-TVD),Landed 23:43,2021-06-15
+1,1,06:40 3V4958,,Liege (LGG),ASL Airlines Belgium B734 (OE-IAY),Landed 06:24,2021-06-15
+2,2,07:35 TO3400,,Paris (ORY),Transavia B738 (F-HTVT),Landed 07:22,2021-06-15
+3,3,07:45,IB8776,Madrid (MAD),Iberia Regional CRJX (EC-MRI),Landed 07:47,2021-06-15
+4,4,07:51 3V4724,,Toulouse (TLS),ASL Airlines France B738 (F-HIQC),Landed 07:42,2021-06-15
+5,5,07:55,TP1926,Lisbon (LIS),TAP Express E195 (CS-TTZ),Landed 07:57,2021-06-15
+6,6,08:15 TO4850,,Lyon (LYS),Transavia B738 (F-GZHD),Landed 08:10,2021-06-15
+7,7,08:35 W69001,,Budapest (BUD),Wizz Air A320 (HA-LYS),Landed 08:38,2021-06-15
+8,8,09:30 FR8865,,Budapest (BUD),Ryanair B738 (SP-RSA),Landed 09:13,2021-06-15
+9,9,10:35,TP1710,Funchal (FNC),TAP Air Portugal A320 (CS-TNQ),Landed 10:12,2021-06-15
+10,10,10:40,KL1711,Amsterdam (AMS),KLM B737 (PH-BGU),Landed 10:35,2021-06-15
+11,11,10:45,LH1782,Munich (MUC),Air Dolomiti E195 (I-ADJX),Landed 10:31,2021-06-15
+12,12,11:15,LH1176,Frankfurt (FRA),Lufthansa A20N (D-AINK),Landed 11:08,2021-06-15
+13,13,11:30 FR9134,,Paris (BVA),Ryanair B738 (EI-GSH),Landed 11:42,2021-06-15
+14,14,11:35 U27586,,Funchal (FNC),easyJet A320 (OE-ICM),Landed 11:14,2021-06-15
+15,15,11:40 FR8343,,London (STN),Ryanair B738 (EI-EVJ),Landed 11:20,2021-06-15
+16,16,11:40,S4172,Ponta Delgada (PDL),Azores Airlines (Natural Livery) A320 (CS-TKQ),Landed 11:37,2021-06-15
+17,17,12:25 TO3404,,Paris (ORY),Transavia B738 (F-HTVO),Landed 12:19,2021-06-15
+18,18,13:15,TP1936,Lisbon (LIS),TAP Express E195 (CS-TTW),Landed 13:14,2021-06-15
+19,19,13:35 TO3458,,Paris (ORY),Transavia B738 (F-HTVV),Landed 13:29,2021-06-15
+20,20,13:35 TO4851,,Funchal (FNC),Transavia B738 (F-GZHD),Landed 13:09,2021-06-15
+21,21,14:05,LX2066,Zurich (ZRH),Swiss BCS1 (HB-JBG),Landed 13:41,2021-06-15
+22,22,14:20,TP1331,London (LGW),TAP Air Portugal A20N (CS-TVH),Landed 13:55,2021-06-15
+23,23,15:30,AF1528,Paris (CDG),Air France A319 (F-GRXJ),Landed 15:14,2021-06-15
+24,24,16:25 FR2632,,Ponta Delgada (PDL),Ryanair B738 (EI-GXJ),Landed 16:20,2021-06-15
+25,25,16:30 FR2928,,Brussels (BRU),Ryanair B738 (EI-DWT),Landed 16:33,2021-06-15
+26,26,16:40 FR4507,,Bordeaux (BOD),Ryanair B738 (EI-DCI),Landed 16:28,2021-06-15
+27,27,16:45 FR9139,,Dole (DLE),Ryanair B738 (EI-GSH),Landed 17:05,2021-06-15
+28,28,16:45 U23521,,Manchester (MAN),easyJet 320,Unknown,2021-06-15
+29,29,16:50 TO3406,,Paris (ORY),Transavia B738 (F-HTVN),Landed 16:45,2021-06-15
+30,30,17:15 BA3383,,Madrid (MAD),British Airways 75F,Unknown,2021-06-15
+31,31,17:20 U21455,,Geneva (GVA),easyJet A320 (OE-INB),Diverted to SCQ,2021-06-15
+32,32,17:35 FR4599,,Memmingen (FMM),Ryanair B738 (9H-QEE),Landed 17:22,2021-06-15
+33,33,18:20 TO3408,,Paris (ORY),Transavia B738 (F-HTVB),Landed 18:51,2021-06-15
+34,34,18:45 U21463,,Geneva (GVA),easyJet A320 (HB-JZZ),Landed 19:12,2021-06-15
+35,35,18:55,TP1920,Lisbon (LIS),TAP Express E190 (CS-TPR),Diverted to LIS,2021-06-15
+36,36,19:05 TO3459,,Funchal (FNC),Transavia B738 (F-HTVV),Landed 19:06,2021-06-15
+37,37,19:20 FR4018,,Milan (MXP),Ryanair B738 (9H-QBS),Landed 19:19,2021-06-15
+38,38,19:20,TP457,Paris (ORY),TAP Air Portugal A320 (CS-TNQ),Landed 19:16,2021-06-15
+39,39,19:40 FR8347,,London (STN),Ryanair B738 (EI-EBX),Landed 19:22,2021-06-15
+40,40,20:20 FR6603,,Edinburgh (EDI),Ryanair B738 (EI-DWF),Landed 20:26,2021-06-15
+41,41,20:35 FR7801,,Palma de Mallorca (PMI),Ryanair B738 (EI-DHD),Landed 20:29,2021-06-15
+42,42,20:45,TP1866,Ponta Delgada (PDL),TAP Air Portugal A20N (CS-TVH),Landed 20:45,2021-06-15
+43,43,20:50 U26147,,Bristol (BRS),easyJet 320,Unknown,2021-06-15
+44,44,21:00 W62395,,Budapest (BUD),Wizz Air 320,Unknown,2021-06-15
+45,45,21:15 W98113,,London (LTN),Wizz Air UK 320,Unknown,2021-06-15
+46,46,21:15 U21455,,Santiago (SCQ),easyJet A320 (OE-INB),Landed 21:32,2021-06-15
+47,47,21:25 FR5487,,Faro (FAO),Ryanair B738 (EI-DYV),Unknown,2021-06-15
+48,48,21:25 U22097,,London (LTN),easyJet 320,Unknown,2021-06-15
+49,49,21:40 FR2864,,Dortmund (DTM),Ryanair B738 (EI-EFX),Landed 21:59,2021-06-15
+50,50,22:15,KL1715,Amsterdam (AMS),KLM B737 (PH-BGL),Landed 21:54,2021-06-15
+51,51,22:30 U21459,,Geneva (GVA),easyJet A320 (OE-IJQ),Landed 22:08,2021-06-15
+52,52,22:45 FR2863,,Luxembourg (LUX),Ryanair B738 (EI-DYB),Landed 22:34,2021-06-15
+53,53,22:55 U21133,,Basel (BSL),easyJet A320 (OE-ICM),Landed 22:31,2021-06-15
+54,54,23:00 FR2161,,Treviso (TSF),Ryanair B738 (EI-DCI),Landed 22:48,2021-06-15
+55,55,23:05 FR9205,,Hamburg (HAM),Ryanair B738 (EI-EVL),Unknown,2021-06-15
+56,56,23:10 FR6038,,Lajes (TER),Ryanair B738 (EI-GSH),Landed 23:04,2021-06-15
+57,57,23:30 FR4533,,Warsaw (WMI),Ryanair B738 (EI-EVJ),Landed 23:13,2021-06-15

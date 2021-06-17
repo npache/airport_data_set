@@ -1,0 +1,297 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,01:05 X3949,,Hannover (HAJ),TUI B738 (D-ATUO),Landed 01:07,2021-06-08
+1,1,05:25 WT8014,,Paris (CDG),Swiftair AT72 (EC-KAD),Landed 05:41,2021-06-08
+2,2,08:20,EW8000,Berlin (BER),Eurowings A320 (D-AEWN),Landed 07:58,2021-06-08
+3,3,08:20 PNX501,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-08
+4,4,08:20 PNX6501,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-08
+5,5,10:15,LH128,Frankfurt (FRA),Lufthansa A319 (D-AILE),Landed 10:12,2021-06-08
+6,6,10:25,EW2759,Vienna (VIE),Eurowings A319 (OE-LYX),Landed 10:00,2021-06-08
+7,7,10:45 EW2029,,Hamburg (HAM),Eurowings A319 (D-AGWN),Landed 10:29,2021-06-08
+8,8,10:55 X32715,,Palma de Mallorca (PMI),TUI B738 (D-ATUO),Landed 10:40,2021-06-08
+9,9,12:40 TK7750,,Istanbul (SAW),AnadoluJet B738 (TC-JFE),Landed 12:17,2021-06-08
+10,10,12:55 X34715,,Heraklion (HER),TUI B738 (D-ATUM),Landed 12:46,2021-06-08
+11,11,13:15 PC969,,Istanbul (SAW),Pegasus B738 (TC-CPD),Landed 12:59,2021-06-08
+12,12,13:30 X34707,,Rhodes (RHO),TUI B738 (D-ATUJ),Landed 13:23,2021-06-08
+13,13,15:00 EW2683,,Thessaloniki (SKG),Eurowings A320 (D-AEWK),Landed 14:56,2021-06-08
+14,14,15:10,EW8004,Berlin (BER),Eurowings A319 (D-AGWF),Landed 15:01,2021-06-08
+15,15,16:35 EW2587,,Palma de Mallorca (PMI),Eurowings A320 (D-AEWT),Landed 16:17,2021-06-08
+16,16,16:35 EW2685,,Athens (ATH),Eurowings A319 (D-AGWX),Landed 16:20,2021-06-08
+17,17,17:05 EW2041,,Hamburg (HAM),Eurowings A319 (D-AGWN),Landed 16:36,2021-06-08
+18,18,17:05 EW2593,,Palma de Mallorca (PMI),Eurowings A320 (D-AEWW),Unknown,2021-06-08
+19,19,17:20 X32917,,Ibiza (IBZ),TUI fly 73H,Unknown,2021-06-08
+20,20,17:25 EW2689,,Kavala (KVA),Eurowings A319 (D-AGWJ),Unknown,2021-06-08
+21,21,17:40,KL1875,Amsterdam (AMS),KLM E75L (PH-EXI),Landed 17:37,2021-06-08
+22,22,18:00 A3808,,Athens (ATH),Aegean Airlines A20N (SX-NEA),Landed 17:49,2021-06-08
+23,23,18:00 0B3729,,Cluj-Napoca (CLJ),Blue Air 738,Unknown,2021-06-08
+24,24,18:10 EW2819,,Catania (CTA),Eurowings A319 (OE-LYX),Landed 18:05,2021-06-08
+25,25,18:20 TK1705,,Istanbul (IST),Turkish Airlines A21N (TC-LSK),Landed 18:00,2021-06-08
+26,26,18:50 PNX505,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-08
+27,27,18:50 PNX6505,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-08
+28,28,19:00,EW8006,Berlin (BER),Eurowings A319 (D-AGWB),Landed 18:50,2021-06-08
+29,29,20:55 EW2043,,Hamburg (HAM),Eurowings A320 (D-AEWW),Landed 20:41,2021-06-08
+30,30,20:55 XQ150,,Antalya (AYT),SunExpress B738 (TC-SEZ),Landed 20:32,2021-06-08
+0,0,01:05 X3949,,Hannover (HAJ),TUI B738 (D-ABAG),Landed 01:05,2021-06-10
+1,1,05:25 WT8014,,Paris (CDG),Swiftair AT72 (EC-KAD),Estimated 05:35,2021-06-10
+2,2,08:20 PNX501,,Munster (FMO),AIS Airlines J32,Scheduled,2021-06-10
+3,3,08:35 A3510,,Thessaloniki (SKG),Aegean Airlines 32A,Scheduled,2021-06-10
+4,4,09:00,JU340,Belgrade (BEG),AirSERBIA 319,Scheduled,2021-06-10
+5,5,10:00,TK1701,Istanbul (IST),Turkish Airlines 321,Scheduled,2021-06-10
+6,6,10:10 EW6951,,Dusseldorf (DUS),Eurowings A319 (OE-LYV),Scheduled,2021-06-10
+7,7,10:15,EW2003,Berlin (BER),Eurowings A319 (D-AGWF),Scheduled,2021-06-10
+8,8,10:15,LH128,Frankfurt (FRA),Lufthansa A319 (D-AIBG),Scheduled,2021-06-10
+9,9,10:25 EW2045,,Hamburg (HAM),Eurowings A319 (D-AGWJ),Scheduled,2021-06-10
+10,10,10:25,EW2759,Vienna (VIE),Eurowings A319 (D-AGWN),Scheduled,2021-06-10
+11,11,10:30,KL1869,Amsterdam (AMS),KLM E75L (PH-EXX),Scheduled,2021-06-10
+12,12,11:00 X32715,,Palma de Mallorca (PMI),TUI fly 73H,Scheduled,2021-06-10
+13,13,12:05 EW2593,,Palma de Mallorca (PMI),Eurowings 320,Scheduled,2021-06-10
+14,14,12:10 DE1525,,Palma de Mallorca (PMI),Condor 320,Scheduled,2021-06-10
+15,15,12:20 BA918,,London (LHR),British Airways 77F,Scheduled,2021-06-10
+16,16,12:40 TK7750,,Istanbul (SAW),Turkish Airlines 73H,Scheduled,2021-06-10
+17,17,12:45 X34855,,Kos (KGS),TUI fly 73H,Scheduled,2021-06-10
+18,18,13:15 EW2581,,Palma de Mallorca (PMI),Eurowings (Europa Park Livery) A320 (D-ABDQ),Scheduled,2021-06-10
+19,19,13:15 PC969,,Istanbul (SAW),Pegasus Airlines 738,Scheduled,2021-06-10
+20,20,13:25 W22420,,Lubeck (LBC),Flexflight AT7,Scheduled,2021-06-10
+21,21,13:50 0B329,,Sibiu (SBZ),Blue Air 738,Scheduled,2021-06-10
+22,22,13:55 XQ972,,Izmir (ADB),SunExpress (Eintracht Frankfurt Livery) B738 (TC-SPC),Scheduled,2021-06-10
+23,23,14:10 EW2673,,Heraklion (HER),Eurowings A320 (D-AEWO),Scheduled,2021-06-10
+24,24,14:25 0B129,,Bucharest (OTP),Blue Air 738,Scheduled,2021-06-10
+25,25,16:00 EW2589,,Palma de Mallorca (PMI),Eurowings 319,Scheduled,2021-06-10
+26,26,16:00 XC3557,,Izmir (ADB),Corendon Airlines 738,Scheduled,2021-06-10
+27,27,16:10 XR9875,,Rhodes (RHO),Corendon Airlines Europe 738,Scheduled,2021-06-10
+28,28,16:25 EW2531,,Valencia (VLC),Eurowings A319 (D-AGWJ),Scheduled,2021-06-10
+29,29,16:25 EW2735,,Krakow (KRK),Eurowings A319 (D-AGWN),Scheduled,2021-06-10
+30,30,16:30 EW2605,,Lisbon (LIS),Eurowings A319 (D-AGWA),Scheduled,2021-06-10
+31,31,17:05 EW2041,,Hamburg (HAM),Eurowings A320 (D-AEWS),Scheduled,2021-06-10
+32,32,17:10,VY3440,Palma de Mallorca (PMI),Vueling A320 (EC-LVS),Scheduled,2021-06-10
+33,33,17:25 EW2033,,Bremen (BRE),Eurowings (Europa Park Livery) A320 (D-ABDQ),Scheduled,2021-06-10
+34,34,17:40,KL1875,Amsterdam (AMS),KLM E190 (PH-EZC),Scheduled,2021-06-10
+35,35,18:50 PNX6505,,Munster (FMO),AIS Airlines J32,Scheduled,2021-06-10
+36,36,18:50 PNX505,,Munster (FMO),AIS Airlines J32,Scheduled,2021-06-10
+37,37,18:55,OS187,Vienna (VIE),Austrian Airlines E195 (OE-LWM),Scheduled,2021-06-10
+38,38,19:00 EW7048,,Hamburg (HAM),Eurowings A320 (D-AEWI),Scheduled,2021-06-10
+39,39,19:00,EW8006,Berlin (BER),Eurowings A319 (D-AGWB),Scheduled,2021-06-10
+40,40,19:30 X34715,,Heraklion (HER),TUI fly 73H,Scheduled,2021-06-10
+41,41,20:20,EW8004,Berlin (BER),Eurowings A319 (D-AGWA),Scheduled,2021-06-10
+42,42,20:30 EW2521,,Barcelona (BCN),Eurowings A320 (D-AEWO),Scheduled,2021-06-10
+43,43,20:55 EW2037,,Hamburg (HAM),Eurowings A320 (D-AEWW),Scheduled,2021-06-10
+44,44,20:55 XQ150,,Antalya (AYT),SunExpress B738 (TC-SEJ),Scheduled,2021-06-10
+45,45,21:00 EW2785,,Budapest (BUD),Eurowings A319 (D-AGWN),Scheduled,2021-06-10
+46,46,21:00 EW2823,,Milan (MXP),Eurowings (Europa Park Livery) A320 (D-ABDQ),Scheduled,2021-06-10
+47,47,21:40 EW2465,,London (LHR),Eurowings A319 (D-AGWF),Scheduled,2021-06-10
+48,48,23:00 X34705,,Patras (GPA),TUI fly 73H,Scheduled,2021-06-10
+49,49,23:25 X32168,,Fuerteventura (FUE),TUI fly 73H,Scheduled,2021-06-10
+0,0,1:05 AM X3949,,Hannover (HAJ),TUI B738 (D-ABAG),Landed 1:05 AM,2021-06-11
+1,1,5:25 AM WT8014,,Paris (CDG),Swiftair AT72 (EC-KAD),Landed 5:26 AM,2021-06-11
+2,2,8:20 AM PNX501,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-11
+3,3,8:35 AM A3510,,Thessaloniki (SKG),Aegean Airlines A320 (SX-DNE),Landed 8:21 AM,2021-06-11
+4,4,9:00 AM,JU340,Belgrade (BEG),AirSERBIA A319 (YU-APA),Landed 8:35 AM,2021-06-11
+5,5,10:00 AM,TK1701,Istanbul (IST),Turkish Airlines A21N (TC-LTD),Landed 9:50 AM,2021-06-11
+6,6,10:10 AM EW6951,,Dusseldorf (DUS),Eurowings A319 (OE-LYV),Landed 9:48 AM,2021-06-11
+7,7,10:15 AM,EW2003,Berlin (BER),Eurowings A319 (D-AGWF),Landed 9:52 AM,2021-06-11
+8,8,10:15 AM,LH128,Frankfurt (FRA),Lufthansa A319 (D-AIBG),Landed 10:05 AM,2021-06-11
+9,9,10:25 AM EW2045,,Hamburg (HAM),Eurowings A319 (D-AGWJ),Landed 10:03 AM,2021-06-11
+10,10,10:25 AM,EW2759,Vienna (VIE),Eurowings A319 (D-AGWN),Landed 9:58 AM,2021-06-11
+11,11,10:30 AM,KL1869,Amsterdam (AMS),KLM E75L (PH-EXX),Landed 10:23 AM,2021-06-11
+12,12,11:00 AM X32715,,Palma de Mallorca (PMI),TUI B738 (D-ATUO),Landed 11:10 AM,2021-06-11
+13,13,12:05 PM EW2593,,Palma de Mallorca (PMI),Eurowings A320 (D-AEWW),Landed 11:49 AM,2021-06-11
+14,14,12:10 PM DE1525,,Palma de Mallorca (PMI),Condor A320 (D-AICP),Landed 12:05 PM,2021-06-11
+15,15,12:20 PM BA918,,London (LHR),British Airways B78X (G-ZBLB),Landed 12:24 PM,2021-06-11
+16,16,12:40 PM TK7750,,Istanbul (SAW),Turkish Airlines A320 (TC-JPI),Landed 12:27 PM,2021-06-11
+17,17,12:45 PM X34855,,Kos (KGS),TUI B738 (D-ATUA),Landed 12:34 PM,2021-06-11
+18,18,1:15 PM EW2581,,Palma de Mallorca (PMI),Eurowings (Europa Park Livery) A320 (D-ABDQ),Landed 12:47 PM,2021-06-11
+19,19,1:15 PM PC969,,Istanbul (SAW),Pegasus B738 (TC-ADP),Landed 1:06 PM,2021-06-11
+20,20,1:25 PM W22420,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-11
+21,21,1:50 PM 0B329,,Sibiu (SBZ),Blue Air 738,Unknown,2021-06-11
+22,22,1:55 PM XQ972,,Izmir (ADB),SunExpress (Eintracht Frankfurt Livery) B738 (TC-SPC),Landed 1:47 PM,2021-06-11
+23,23,2:10 PM EW2673,,Heraklion (HER),Eurowings A320 (D-AEWO),Landed 1:51 PM,2021-06-11
+24,24,2:25 PM 0B129,,Bucharest (OTP),Blue Air B738 (YR-BMK),Landed 2:16 PM,2021-06-11
+25,25,4:00 PM EW2589,,Palma de Mallorca (PMI),Eurowings A319 (D-AGWF),Landed 3:45 PM,2021-06-11
+26,26,4:00 PM XC3557,,Izmir (ADB),Corendon Airlines B738 (TC-COR),Landed 4:52 PM,2021-06-11
+27,27,4:10 PM XR9875,,Rhodes (RHO),Corendon Airlines Europe 738,Unknown,2021-06-11
+28,28,4:25 PM EW2531,,Valencia (VLC),Eurowings A319 (D-AGWJ),Landed 4:09 PM,2021-06-11
+29,29,4:25 PM EW2735,,Krakow (KRK),Eurowings A319 (D-AGWN),Landed 4:06 PM,2021-06-11
+30,30,4:30 PM EW2605,,Lisbon (LIS),Eurowings A319 (D-AGWA),Landed 4:47 PM,2021-06-11
+31,31,5:05 PM EW2041,,Hamburg (HAM),Eurowings A320 (D-AEWW),Landed 4:49 PM,2021-06-11
+32,32,5:10 PM,VY3440,Palma de Mallorca (PMI),Vueling A320 (EC-LVS),Landed 4:55 PM,2021-06-11
+33,33,5:25 PM EW2033,,Bremen (BRE),Eurowings (Europa Park Livery) A320 (D-ABDQ),Landed 5:18 PM,2021-06-11
+34,34,5:40 PM,KL1875,Amsterdam (AMS),KLM E190 (PH-EZC),Landed 5:20 PM,2021-06-11
+35,35,6:50 PM PNX6505,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-11
+36,36,6:50 PM PNX505,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-11
+37,37,6:55 PM,OS187,Vienna (VIE),Austrian Airlines E195 (OE-LWM),Landed 6:44 PM,2021-06-11
+38,38,7:00 PM EW7048,,Hamburg (HAM),Eurowings A320 (D-AEWI),Landed 7:13 PM,2021-06-11
+39,39,7:00 PM,EW8006,Berlin (BER),Eurowings A319 (D-AGWB),Landed 6:27 PM,2021-06-11
+40,40,7:30 PM X34715,,Heraklion (HER),TUI B738 (D-ATUO),Landed 7:05 PM,2021-06-11
+41,41,8:20 PM,EW8004,Berlin (BER),Eurowings A319 (D-AGWN),Landed 7:54 PM,2021-06-11
+42,42,8:30 PM EW2521,,Barcelona (BCN),Eurowings A320 (D-AEWO),Landed 8:05 PM,2021-06-11
+43,43,8:55 PM EW2037,,Hamburg (HAM),Eurowings A320 (D-AEWW),Landed 8:23 PM,2021-06-11
+44,44,8:55 PM XQ150,,Antalya (AYT),SunExpress B738 (TC-SEJ),Landed 8:25 PM,2021-06-11
+45,45,9:00 PM EW2785,,Budapest (BUD),Eurowings A319 (D-AGWA),Landed 8:40 PM,2021-06-11
+46,46,9:00 PM EW2823,,Milan (MXP),Eurowings (Europa Park Livery) A320 (D-ABDQ),Landed 9:11 PM,2021-06-11
+47,47,9:40 PM EW2465,,London (LHR),Eurowings A319 (D-AGWF),Landed 9:18 PM,2021-06-11
+48,48,11:00 PM X34705,,Patras (GPA),TUI B738 (D-ATUA),Unknown,2021-06-11
+49,49,11:25 PM X32168,,Fuerteventura (FUE),TUI B738 (D-ABAG),Landed 11:03 PM,2021-06-11
+0,0,01:05 X3949,,Hannover (HAJ),TUI B738 (D-ATUM),Landed 01:11,2021-06-12
+1,1,06:30 VO114,,Varna (VAR),Voyage Air 735,Unknown,2021-06-12
+2,2,06:40 XC5601,,Kayseri (ASR),Corendon Airlines B738 (TC-TJR),Landed 07:17,2021-06-12
+3,3,06:45 XQ760,,Kayseri (ASR),SunExpress B738 (TC-SEJ),Landed 06:37,2021-06-12
+4,4,08:35 A3510,,Thessaloniki (SKG),Aegean Airlines (Star Alliance livery) A320 (SX-DVQ),Landed 08:20,2021-06-12
+5,5,09:05,OS177,Vienna (VIE),Austrian Airlines E195 (OE-LWM),Landed 08:49,2021-06-12
+6,6,09:35 XQ200,,Dalaman (DLM),SunExpress B738 (TC-SEN),Landed 09:06,2021-06-12
+7,7,10:05,AF1808,Paris (CDG),Air France E190 (F-HBLJ),Landed 10:15,2021-06-12
+8,8,10:10 BY528P,,Greenville-Spartanburg (GSP),TUI B789 (G-TUIO),Landed 09:08,2021-06-12
+9,9,10:15,LH128,Frankfurt (FRA),Lufthansa A20N (D-AINP),Landed 10:14,2021-06-12
+10,10,10:50 EW2141,,Sylt (GWT),Eurowings A319 (D-AGWA),Landed 11:21,2021-06-12
+11,11,10:50 EW2965,,Split (SPU),Eurowings A320 (D-AEWW),Landed 11:14,2021-06-12
+12,12,10:55 X32715,,Palma de Mallorca (PMI),TUI B738 (D-ATUM),Landed 10:36,2021-06-12
+13,13,11:50 EW2593,,Palma de Mallorca (PMI),Eurowings (Europa Park Livery) A320 (D-ABDQ),Landed 11:51,2021-06-12
+14,14,12:15 DE1411,,Preveza (PVK),Condor A320 (D-AICP),Landed 12:15,2021-06-12
+15,15,12:20 EW2815,,Zakynthos (ZTH),Eurowings A320 (D-AEWO),Landed 11:49,2021-06-12
+16,16,12:40 EW2683,,Thessaloniki (SKG),Eurowings A319 (OE-LYV),Landed 12:26,2021-06-12
+17,17,12:40 TK7750,,Istanbul (SAW),AnadoluJet B738 (TC-JFP),Landed 12:28,2021-06-12
+18,18,12:50 EW2619,,Corfu (CFU),Eurowings A319 (D-AGWF),Landed 13:03,2021-06-12
+19,19,13:05 X34855,,Kos (KGS),TUI B738 (D-ABAG),Landed 12:45,2021-06-12
+20,20,13:15 PC969,,Istanbul (SAW),Pegasus B738 (TC-CPM),Landed 13:14,2021-06-12
+21,21,13:25 EW2685,,Athens (ATH),Eurowings A319 (D-AGWB),Landed 13:46,2021-06-12
+22,22,13:50 IB3664,,Madrid (MAD),Iberia Express A320 (EC-MEG),Landed 13:47,2021-06-12
+23,23,13:55 TK7812,,Ankara (ESB),AnadoluJet B738 (TC-JZR),Landed 13:39,2021-06-12
+24,24,13:55 XQ972,,Izmir (ADB),SunExpress B738 (TC-SPB),Landed 13:41,2021-06-12
+25,25,14:10 EW2819,,Catania (CTA),Eurowings A319 (D-AGWX),Landed 14:04,2021-06-12
+26,26,14:10 X34715,,Heraklion (HER),TUI B738 (D-ATUA),Landed 14:07,2021-06-12
+27,27,15:40 EW2825,,Olbia (OLB),Eurowings A320 (D-AEWW),Landed 16:06,2021-06-12
+28,28,17:00,LH130,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNK),Landed 16:59,2021-06-12
+29,29,17:40,KL1875,Amsterdam (AMS),KLM E75L (PH-EXL),Landed 17:37,2021-06-12
+30,30,18:00 0B3729,,Cluj-Napoca (CLJ),Blue Air 738,Unknown,2021-06-12
+31,31,18:00 A3808,,Athens (ATH),Aegean Airlines A320 (SX-DNB),Landed 17:58,2021-06-12
+32,32,18:20 TK1705,,Istanbul (IST),Turkish Airlines A21N (TC-LSO),Landed 18:03,2021-06-12
+33,33,18:35 EW2597,,Palma de Mallorca (PMI),Eurowings A319 (D-AGWF),Landed 18:33,2021-06-12
+34,34,18:55 EW2695,,Rhodes (RHO),Eurowings A319 (D-AGWA),Landed 18:59,2021-06-12
+35,35,20:00 EW2545,,Ibiza (IBZ),Eurowings A320 (D-ABZK),Landed 19:51,2021-06-12
+36,36,20:20 EW5713,,Pristina (PRN),Eurowings A320 (D-AEWK),Landed 20:34,2021-06-12
+37,37,20:45 EW2679,,Chania (CHQ),Eurowings (Europa Park Livery) A320 (D-ABDQ),Landed 20:32,2021-06-12
+38,38,20:55 X32917,,Ibiza (IBZ),TUI fly 73H,Unknown,2021-06-12
+39,39,20:55 XQ150,,Antalya (AYT),SunExpress B738 (TC-SOY),Landed 20:36,2021-06-12
+40,40,21:00 EW2649,,Faro (FAO),Eurowings A320 (D-AEWO),Landed 20:44,2021-06-12
+41,41,21:00 EW2673,,Heraklion (HER),Eurowings A319 (D-AGWB),Landed 20:50,2021-06-12
+42,42,21:00 EW2689,,Kavala (KVA),Eurowings A319 (D-AGWX),Landed 20:52,2021-06-12
+43,43,21:40 EW2581,,Palma de Mallorca (PMI),Eurowings A319 (OE-LYV),Landed 21:24,2021-06-12
+44,44,22:05 X34707,,Rhodes (RHO),TUI B738 (D-ATUA),Landed 22:06,2021-06-12
+45,45,23:25 X32218,,Fuerteventura (FUE),TUI B738 (D-ATUM),Landed 23:06,2021-06-12
+0,0,06:45 XQ750,,Samsun (SZF),SunExpress B738 (TC-SOY),Landed 06:31,2021-06-13
+1,1,08:00 W21272,,Hurghada (HRG),Flexflight 320,Unknown,2021-06-13
+2,2,08:35 0B129,,Bucharest (OTP),Blue Air B735 (YR-BAG),Landed 08:32,2021-06-13
+3,3,10:00,TK1701,Istanbul (IST),Turkish Airlines A321 (TC-JTH),Landed 10:05,2021-06-13
+4,4,10:15,LH128,Frankfurt (FRA),Lufthansa A319 (D-AILK),Landed 10:08,2021-06-13
+5,5,10:30,KL1869,Amsterdam (AMS),KLM E75L (PH-EXT),Landed 10:24,2021-06-13
+6,6,11:05 DE1525,,Palma de Mallorca (PMI),Condor A320 (D-AICP),Landed 10:43,2021-06-13
+7,7,11:40 X32483,,Mahon (MAH),TUI B738 (D-ABAG),Unknown,2021-06-13
+8,8,11:55 EW5713,,Pristina (PRN),Eurowings A320 (D-AEWW),Landed 11:49,2021-06-13
+9,9,12:40 TK7750,,Istanbul (SAW),AnadoluJet B738 (TC-JFR),Landed 12:24,2021-06-13
+10,10,12:45 X34715,,Heraklion (HER),TUI B738 (D-ATUM),Landed 12:44,2021-06-13
+11,11,13:00 EW2683,,Thessaloniki (SKG),Eurowings A319 (D-AGWX),Landed 12:41,2021-06-13
+12,12,13:15 EO2171,,St. Petersburg (LED),Pegas Fly E90,Unknown,2021-06-13
+13,13,13:15 PC969,,Istanbul (SAW),Pegasus B738 (TC-AZP),Landed 13:10,2021-06-13
+14,14,13:25 W22420,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-13
+15,15,13:40 EW2537,,Malaga (AGP),Eurowings A320 (D-AEWK),Landed 13:31,2021-06-13
+16,16,13:50 0B329,,Sibiu (SBZ),Blue Air B735 (YR-BAG),Landed 13:49,2021-06-13
+17,17,13:55 EW2673,,Heraklion (HER),Eurowings A320 (D-ABZK),Landed 13:53,2021-06-13
+18,18,13:55 XQ972,,Izmir (ADB),SunExpress B738 (TC-SOU),Landed 13:43,2021-06-13
+19,19,14:00 IV732,,Pristina (PRN),Caspian Airlines 734,Unknown,2021-06-13
+20,20,14:10,VY1866,Barcelona (BCN),Vueling A320 (EC-MXP),Landed 13:50,2021-06-13
+21,21,14:55 EW2977,,Zagreb (ZAG),Eurowings A319 (D-AGWF),Landed 14:34,2021-06-13
+22,22,16:05 TK7752,,Istanbul (SAW),AnadoluJet B738 (TC-JZL),Landed 15:45,2021-06-13
+23,23,16:20 EW2593,,Palma de Mallorca (PMI),Eurowings A320 (D-AEWO),Landed 16:06,2021-06-13
+24,24,17:00,LH130,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNB),Landed 16:55,2021-06-13
+25,25,17:05 XC7703,,Antalya (AYT),Corendon Airlines B738 (TC-TJT),Landed 17:05,2021-06-13
+26,26,17:25 EW2125,,Santorini (JTR),Eurowings A319 (D-AGWA),Landed 17:20,2021-06-13
+27,27,17:40,KL1875,Amsterdam (AMS),KLM E75L (PH-EXZ),Landed 17:41,2021-06-13
+28,28,17:55 EW2605,,Lisbon (LIS),Eurowings A319 (D-AGWB),Landed 17:56,2021-06-13
+29,29,18:05 EW2049,,Hamburg (HAM),Eurowings A320 (D-AEWW),Landed 17:54,2021-06-13
+30,30,18:05,VY3440,Palma de Mallorca (PMI),Vueling A320 (EC-LVS),Landed 17:44,2021-06-13
+31,31,18:30,EW2059,Berlin (BER),Eurowings A319 (D-AGWX),Landed 18:19,2021-06-13
+32,32,18:35 A3510,,Thessaloniki (SKG),Aegean Airlines A320 (SX-DVM),Landed 18:32,2021-06-13
+33,33,18:35 X32168,,Gran Canaria (LPA),TUI B738 (D-ATUA),Landed 18:26,2021-06-13
+34,34,18:55,OS187,Vienna (VIE),Austrian Airlines E195 (OE-LWG),Landed 18:51,2021-06-13
+35,35,19:00 EW7048,,Hamburg (HAM),Eurowings A320 (D-AEWP),Landed 18:38,2021-06-13
+36,36,20:50 EW2591,,Palma de Mallorca (PMI),Eurowings A319 (D-AGWF),Landed 20:32,2021-06-13
+37,37,20:55 XQ150,,Antalya (AYT),SunExpress B738 (TC-SEJ),Landed 20:49,2021-06-13
+38,38,21:00 EW2785,,Budapest (BUD),Eurowings A320 (D-AEWO),Landed 20:44,2021-06-13
+39,39,21:05 EW2585,,Palma de Mallorca (PMI),Eurowings A320 (D-AEWK),Landed 20:47,2021-06-13
+40,40,21:14,,Gander (YQX),- G280 (N282CC),Landed 20:54,2021-06-13
+41,41,21:50 X32715,,Palma de Mallorca (PMI),TUI B738 (D-ABAG),Landed 21:30,2021-06-13
+42,42,22:30 X32223,,Jerez (XRY),TUI fly 7S8,Unknown,2021-06-13
+43,43,23:25 X32811,,Funchal (FNC),TUI B738 (D-ATUM),Landed 23:12,2021-06-13
+0,0,06:45 XQ790,,Ankara (ESB),SunExpress B738 (TC-SEJ),Landed 06:23,2021-06-14
+1,1,07:35 T741,,Lyon (LYS),Twin Jet BEH,Unknown,2021-06-14
+2,2,08:20,EW8000,Berlin (BER),Eurowings A320 (D-AEWV),Landed 07:52,2021-06-14
+3,3,08:20 PNX501,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-14
+4,4,08:40 EW7046,,Hamburg (HAM),Eurowings A320 (D-AEWP),Landed 08:15,2021-06-14
+5,5,10:00 EW2031,,Bremen (BRE),Eurowings (Europa Park Livery) A320 (D-ABDQ),Landed 09:45,2021-06-14
+6,6,10:00,TK1701,Istanbul (IST),Turkish Airlines A21N (TC-LSU),Landed 09:49,2021-06-14
+7,7,10:15,EW2003,Berlin (BER),Eurowings A319 (D-AGWF),Landed 09:54,2021-06-14
+8,8,10:15,LH128,Frankfurt (FRA),Lufthansa A319 (D-AILE),Landed 10:13,2021-06-14
+9,9,10:25 EW2045,,Hamburg (HAM),Eurowings A320 (D-ABZK),Landed 10:07,2021-06-14
+10,10,10:30,EW2759,Vienna (VIE),Eurowings A319 (OE-LYV),Landed 10:11,2021-06-14
+11,11,10:30 EW2821,,Milan (MXP),Eurowings A320 (D-AEWO),Landed 10:08,2021-06-14
+12,12,10:30,KL1869,Amsterdam (AMS),KLM E75L (PH-EXU),Landed 10:42,2021-06-14
+13,13,11:10 EW2781,,Budapest (BUD),Eurowings A319 (D-AGWA),Landed 10:51,2021-06-14
+14,14,11:25 IB3664,,Madrid (MAD),Iberia Express A320 (EC-JFG),Landed 11:05,2021-06-14
+15,15,11:55 X32715,,Palma de Mallorca (PMI),TUI B738 (D-ATUO),Landed 11:47,2021-06-14
+16,16,12:30 X32223,,Jerez (XRY),TUI B738 (D-ATUM),Landed 12:05,2021-06-14
+17,17,12:40 SU2336,,Moscow (SVO),Aeroflot A320 (VP-BFA),Landed 12:15,2021-06-14
+18,18,12:40 TK7750,,Istanbul (SAW),AnadoluJet B738 (TC-SBV),Landed 12:20,2021-06-14
+19,19,12:45 X34855,,Kos (KGS),TUI B738 (D-ABAG),Landed 12:33,2021-06-14
+20,20,13:15 PC969,,Istanbul (SAW),Pegasus B738 (TC-CPL),Landed 12:59,2021-06-14
+21,21,13:25 W22420,,Lubeck (LBC),Flexflight AT7,Unknown,2021-06-14
+22,22,13:50 0B329,,Sibiu (SBZ),Blue Air 738,Unknown,2021-06-14
+23,23,13:55 XQ972,,Izmir (ADB),SunExpress B738 (TC-SOG),Landed 13:49,2021-06-14
+24,24,14:25 0B129,,Bucharest (OTP),Blue Air B737 (YR-BMR),Landed 14:18,2021-06-14
+25,25,15:10 EW2735,,Krakow (KRK),Eurowings A319 (D-AGWF),Landed 14:55,2021-06-14
+26,26,16:05 EW2529,,Barcelona (BCN),Eurowings A319 (D-AGWB),Landed 15:39,2021-06-14
+27,27,16:05 EW2585,,Palma de Mallorca (PMI),Eurowings (Europa Park Livery) A320 (D-ABDQ),Landed 15:46,2021-06-14
+28,28,16:25 EW2531,,Valencia (VLC),Eurowings A320 (D-ABZK),Landed 16:05,2021-06-14
+29,29,16:45 EW2595,,Ibiza (IBZ),Eurowings A319 (OE-LYV),Landed 16:25,2021-06-14
+30,30,17:25 EW2583,,Palma de Mallorca (PMI),Eurowings A320 (D-AEWO),Landed 17:19,2021-06-14
+31,31,17:40,KL1875,Amsterdam (AMS),KLM E75L (PH-EXK),Landed 17:34,2021-06-14
+32,32,18:00,AF1808,Paris (CDG),Air France E170 (F-HBXM),Landed 18:06,2021-06-14
+33,33,18:05 EW2589,,Palma de Mallorca (PMI),Eurowings A319 (D-AGWA),Landed 17:51,2021-06-14
+34,34,18:45 X32649,,Palma de Mallorca (PMI),TUI B738 (D-ATUO),Unknown,2021-06-14
+35,35,18:50 PNX505,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-14
+36,36,19:00,EW8006,Berlin (BER),Eurowings A319 (D-AGWN),Landed 18:45,2021-06-14
+37,37,20:05,JU344,Belgrade (BEG),AirSERBIA A319 (YU-APA),Landed 19:50,2021-06-14
+38,38,20:55 EW2043,,Hamburg (HAM),Eurowings (Europa Park Livery) A320 (D-ABDQ),Landed 20:36,2021-06-14
+39,39,21:35 X34707,,Rhodes (RHO),TUI B738 (D-ATUM),Landed 21:04,2021-06-14
+40,40,21:45 X34715,,Heraklion (HER),TUI B738 (D-ABAG),Landed 21:30,2021-06-14
+0,0,01:05 X3949,,Hannover (HAJ),TUI B738 (D-ATUK),Landed 00:56,2021-06-15
+1,1,05:25 WT8014,,Paris (CDG),Swiftair AT72 (EC-LSN),Landed 05:33,2021-06-15
+2,2,08:20 PNX501,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-15
+3,3,08:20 PNX6501,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-15
+4,4,10:15,EW2003,Berlin (BER),Eurowings A320 (D-AEWV),Landed 10:02,2021-06-15
+5,5,10:15,LH128,Frankfurt (FRA),Lufthansa A319 (D-AILD),Landed 10:15,2021-06-15
+6,6,10:25,EW2759,Vienna (VIE),Eurowings A319 (OE-LYV),Landed 10:12,2021-06-15
+7,7,10:45 EW2029,,Hamburg (HAM),Eurowings A319 (D-AGWX),Landed 10:22,2021-06-15
+8,8,10:55 X32715,,Palma de Mallorca (PMI),TUI B738 (D-ATUM),Landed 10:29,2021-06-15
+9,9,12:40 TK7750,,Istanbul (SAW),AnadoluJet B738 (TC-JGR),Landed 12:35,2021-06-15
+10,10,12:55 X34715,,Heraklion (HER),TUI B738 (D-ATUK),Landed 12:40,2021-06-15
+11,11,13:15 PC969,,Istanbul (SAW),Pegasus A21N (TC-RBF),Landed 13:04,2021-06-15
+12,12,13:30 X34707,,Rhodes (RHO),TUI B738 (D-AHFT),Landed 13:10,2021-06-15
+13,13,15:00 EW2683,,Thessaloniki (SKG),Eurowings A320 (D-AEWO),Landed 14:48,2021-06-15
+14,14,15:05 EW2825,,Olbia (OLB),Eurowings A319 (D-AGWN),Landed 15:10,2021-06-15
+15,15,15:10,EW8004,Berlin (BER),Eurowings A320 (D-AEWW),Landed 14:50,2021-06-15
+16,16,15:55 EW2587,,Palma de Mallorca (PMI),Eurowings A320 (D-ABZK),Landed 15:32,2021-06-15
+17,17,16:10 EW2593,,Palma de Mallorca (PMI),Eurowings A320 (D-AEWV),Landed 16:00,2021-06-15
+18,18,16:35 EW2685,,Athens (ATH),Eurowings A319 (D-AGWF),Landed 16:19,2021-06-15
+19,19,17:05 EW2041,,Hamburg (HAM),Eurowings A319 (D-AGWX),Landed 16:38,2021-06-15
+20,20,17:20 X32917,,Ibiza (IBZ),TUI fly 73H,Unknown,2021-06-15
+21,21,17:25 EW2689,,Kavala (KVA),Eurowings A319 (D-AGWA),Landed 17:08,2021-06-15
+22,22,17:40,KL1875,Amsterdam (AMS),KLM E190 (PH-EXV),Landed 17:35,2021-06-15
+23,23,18:00 A3808,,Athens (ATH),Aegean Airlines A20N (SX-NED),Landed 17:51,2021-06-15
+24,24,18:00 0B3729,,Cluj-Napoca (CLJ),Blue Air 738,Unknown,2021-06-15
+25,25,18:10 EW2819,,Catania (CTA),Eurowings A319 (OE-LYV),Landed 17:58,2021-06-15
+26,26,18:20 TK1705,,Istanbul (IST),Turkish Airlines A21N (TC-LSV),Landed 18:44,2021-06-15
+27,27,18:35 A3510,,Thessaloniki (SKG),Aegean Airlines A320 (SX-DVM),Landed 18:14,2021-06-15
+28,28,18:50 PNX505,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-15
+29,29,18:50 PNX6505,,Munster (FMO),AIS Airlines J32,Unknown,2021-06-15
+30,30,18:55,OS187,Vienna (VIE),Austrian Airlines E195 (OE-LWK),Landed 18:47,2021-06-15
+31,31,19:00,EW8006,Berlin (BER),Eurowings A319 (D-AGWB),Landed 18:36,2021-06-15
+32,32,20:55 EW2043,,Hamburg (HAM),Eurowings A319 (D-AGWN),Landed 20:28,2021-06-15
+33,33,20:55 XQ150,,Antalya (AYT),SunExpress B738 (TC-SOF),Landed 20:46,2021-06-15

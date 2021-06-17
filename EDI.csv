@@ -1,0 +1,275 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,05:35 3V4125,,Liege (LGG),ASL Airlines France B734 (F-GIXN),Landed 05:24,2021-06-08
+1,1,08:20 U2421,,Bristol (BRS),easyJet A320 (G-EZUF),Landed 07:55,2021-06-08
+2,2,09:20,BA1434,London (LHR),British Airways A319 (G-EUPP),Landed 09:00,2021-06-08
+3,3,09:45 FR2885,,Kaunas (KUN),Ryanair B738 (SP-RSG),Unknown,2021-06-08
+4,4,10:15,KL1279,Amsterdam (AMS),KLM E75L (PH-EXN),Landed 10:07,2021-06-08
+5,5,10:40 U2803,,London (LGW),easyJet A319 (G-EZDI),Landed 10:10,2021-06-08
+6,6,11:40,LM351,Sumburgh (LSI),Loganair SF34 (G-LGNK),Canceled,2021-06-08
+7,7,12:45 FR6267,,Barcelona (BCN),Ryanair B738 (EI-DPI),Landed 12:38,2021-06-08
+8,8,13:05,BA1442,London (LHR),British Airways A319 (G-EUPN),Landed 12:54,2021-06-08
+9,9,14:25 FR6460,,Lisbon (LIS),Ryanair B738 (EI-EST),Landed 14:12,2021-06-08
+10,10,14:35 U2231,,London (STN),easyJet A319 (G-EZDI),Landed 14:06,2021-06-08
+11,11,16:00 FR7845,,Corfu (CFU),Ryanair B738 (EI-EGA),Landed 15:40,2021-06-08
+12,12,16:30 EI3656,,Belfast (BHD),Stobart Air AT76 (EI-FMJ),Landed 16:20,2021-06-08
+13,13,16:50,BA1448,London (LHR),British Airways A20N (G-TTNI),Landed 16:40,2021-06-08
+14,14,18:15 FR6653,,Malaga (AGP),Ryanair B738 (EI-DLX),Landed 18:02,2021-06-08
+15,15,18:40 BA8712,,London (LCY),British Airways E190 (G-LCYJ),Landed 18:23,2021-06-08
+16,16,18:45,BA1454,London (LHR),British Airways A319 (G-DBCH),Landed 18:38,2021-06-08
+17,17,19:10 U2489,,Belfast (BFS),easyJet A319 (G-EZDI),Landed 18:57,2021-06-08
+18,18,19:45 FR1018,,Budapest (BUD),Ryanair B738 (SP-RSR),Landed 19:31,2021-06-08
+19,19,20:00,LM397,Kirkwall (KOI),Loganair SF34 (G-LGNK),Landed 19:17,2021-06-08
+20,20,20:25 FR6827,,Faro (FAO),Ryanair B738 (EI-DWF),Landed 20:21,2021-06-08
+21,21,20:30 U219,,London (LTN),easyJet A320 (G-EZWZ),Landed 20:24,2021-06-08
+22,22,20:45 FR7922,,Gdansk (GDN),Ryanair B738 (SP-RSB),Landed 20:27,2021-06-08
+23,23,21:20,LM328,Southampton (SOU),Loganair E145 (G-SAJJ),Landed 20:59,2021-06-08
+24,24,21:35,KL1293,Amsterdam (AMS),KLM E75L (PH-EXZ),Landed 21:25,2021-06-08
+25,25,22:45 U2504,,Birmingham (BHX),easyJet A319 (G-EZDI),Landed 22:11,2021-06-08
+26,26,23:25 FR6606,,Porto (OPO),Ryanair B738 (EI-DHZ),Landed 23:23,2021-06-08
+0,0,05:35 3V4125,,Liege (LGG),ASL Airlines France B734 (F-GIXN),Landed 05:29,2021-06-10
+1,1,07:45 W61407,,Warsaw (WAW),Wizz Air 32Q,Unknown,2021-06-10
+2,2,07:55,EI3250,Dublin (DUB),Aer Lingus Regional AT76 (EI-FAV),Landed 07:53,2021-06-10
+3,3,08:05 EI3650,,Belfast (BHD),Stobart Air AT76 (EI-FSK),Landed 08:14,2021-06-10
+4,4,08:15 W63013,,Bucharest (OTP),Wizz Air 320,Unknown,2021-06-10
+5,5,08:20 U2421,,Bristol (BRS),easyJet A20N (G-UZHH),Landed 07:56,2021-06-10
+6,6,08:35 FR6625,,Krakow (KRK),Ryanair B738 (SP-RKO),Landed 08:19,2021-06-10
+7,7,09:20,BA1434,London (LHR),British Airways A319 (G-EUPD),Landed 09:04,2021-06-10
+8,8,09:20 U2481,,Belfast (BFS),easyJet A319 (G-EZDI),Landed 08:59,2021-06-10
+9,9,09:45 U211,,London (LTN),easyJet A20N (G-UZHU),Landed 09:24,2021-06-10
+10,10,10:15,KL1279,Amsterdam (AMS),KLM E75L (PH-EXZ),Landed 10:00,2021-06-10
+11,11,10:35,BA1438,London (LHR),British Airways A20N (G-TTNB),Landed 10:20,2021-06-10
+12,12,11:05,LH962,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNM),Landed 11:09,2021-06-10
+13,13,11:40,LM351,Sumburgh (LSI),Loganair SF34 (G-LGNK),Landed 11:23,2021-06-10
+14,14,11:45 U2803,,London (LGW),easyJet A320 (G-EZWC),Landed 11:15,2021-06-10
+15,15,12:15 U2419,,Bristol (BRS),easyJet A20N (G-UZHH),Landed 11:51,2021-06-10
+16,16,12:50 FR6827,,Faro (FAO),Ryanair B738 (EI-EST),Landed 12:40,2021-06-10
+17,17,13:05,BA1442,London (LHR),British Airways A319 (G-DBCC),Landed 12:53,2021-06-10
+18,18,13:10 U26986,,Lisbon (LIS),easyJet 320,Canceled,2021-06-10
+19,19,13:25,LM324,Southampton (SOU),Loganair E145 (G-SAJJ),Landed 13:18,2021-06-10
+20,20,13:40 U2231,,London (STN),easyJet A319 (G-EZDI),Landed 13:15,2021-06-10
+21,21,13:45 U2292,,Bournemouth (BOH),easyJet A20N (G-UZHU),Landed 13:23,2021-06-10
+22,22,14:30 BA8716,,London (LCY),British Airways E190 (G-LCYZ),Landed 14:16,2021-06-10
+23,23,14:40 U2491,,Belfast (BFS),easyJet A320 (G-EZWC),Landed 14:20,2021-06-10
+24,24,15:05 FR5161,,Sofia (SOF),Ryanair B738 (EI-EGA),Landed 15:07,2021-06-10
+25,25,16:30 EI3656,,Belfast (BHD),Stobart Air AT76 (EI-FSK),Landed 16:13,2021-06-10
+26,26,16:40,BA1448,London (LHR),British Airways A20N (G-TTNK),Landed 16:45,2021-06-10
+27,27,16:40 FR6606,,Porto (OPO),Ryanair B738 (EI-EMP),Landed 16:24,2021-06-10
+28,28,16:40,KL1289,Amsterdam (AMS),KLM E190 (PH-EZK),Landed 16:27,2021-06-10
+29,29,17:00 U2427,,Bristol (BRS),easyJet A320 (G-EZOF),Landed 16:42,2021-06-10
+30,30,17:20,LM318,Exeter (EXT),Loganair E145 (G-SAJJ),Landed 16:57,2021-06-10
+31,31,17:30 U217,,London (LTN),easyJet A20N (G-UZLH),Landed 17:16,2021-06-10
+32,32,18:25 U2487,,Belfast (BFS),easyJet A319 (G-EZDI),Landed 18:48,2021-06-10
+33,33,18:40 BA8712,,London (LCY),British Airways E190 (G-LCAD),Landed 18:39,2021-06-10
+34,34,18:50,BA1454,London (LHR),British Airways A320 (G-TTOE),Landed 18:33,2021-06-10
+35,35,20:00,LM397,Kirkwall (KOI),Loganair SF34 (G-LGNK),Landed 19:42,2021-06-10
+36,36,20:45 U2811,,London (LGW),easyJet A319 (G-EZFU),Landed 20:21,2021-06-10
+37,37,21:35,KL1293,Amsterdam (AMS),KLM E190 (PH-EZL),Landed 21:18,2021-06-10
+38,38,22:15 U2239,,London (STN),easyJet A320 (G-EZWC),Landed 21:57,2021-06-10
+39,39,22:15 U2504,,Birmingham (BHX),easyJet A319 (G-EZDI),Landed 21:47,2021-06-10
+40,40,22:30 FR6460,,Lisbon (LIS),Ryanair B738 (EI-EST),Landed 22:22,2021-06-10
+41,41,23:05 A3632,,Athens (ATH),Aegean Airlines A321 (SX-DGQ),Landed 22:46,2021-06-10
+42,42,23:35 FR3171,,Riga (RIX),Ryanair B738 (EI-DCO),Landed 23:11,2021-06-10
+0,0,5:35 AM 3V4125,,Liege (LGG),ASL Airlines France B734 (F-GIXN),Landed 5:32 AM,2021-06-11
+1,1,7:40 AM FR6619,,Poznan (POZ),Ryanair B738 (SP-RSW),Landed 7:24 AM,2021-06-11
+2,2,7:50 AM FR4525,,Warsaw (WMI),Ryanair B738 (SP-RSS),Landed 7:35 AM,2021-06-11
+3,3,7:55 AM,EI3250,Dublin (DUB),Aer Lingus Regional AT76 (EI-FAV),Landed 7:28 AM,2021-06-11
+4,4,8:05 AM EI3650,,Belfast (BHD),Aer Lingus Regional AT76 (EI-FNA),Landed 8:01 AM,2021-06-11
+5,5,8:05 AM FR6682,,Rome (CIA),Ryanair B738 (9H-QBY),Landed 7:52 AM,2021-06-11
+6,6,8:20 AM U2421,,Bristol (BRS),easyJet A320 (G-EZUF),Landed 7:48 AM,2021-06-11
+7,7,9:10 AM 8H5595,,Burgas (BOJ),BH Air 320,Unknown,2021-06-11
+8,8,9:20 AM,BA1434,London (LHR),British Airways A319 (G-EUPO),Landed 8:56 AM,2021-06-11
+9,9,9:30 AM U2502,,Birmingham (BHX),easyJet A319 (G-EZDI),Landed 9:04 AM,2021-06-11
+10,10,9:45 AM U2803,,London (LGW),easyJet A20N (G-UZLB),Landed 9:18 AM,2021-06-11
+11,11,9:55 AM LM380,,Newquay (NQY),Loganair E145 (G-SAJJ),Landed 9:44 AM,2021-06-11
+12,12,10:15 AM,KL1279,Amsterdam (AMS),KLM E75L (PH-EXK),Landed 10:10 AM,2021-06-11
+13,13,10:35 AM,BA1438,London (LHR),British Airways A319 (G-DBCD),Landed 10:27 AM,2021-06-11
+14,14,11:05 AM FR2377,,Berlin (BER),Ryanair B738 (EI-DWF),Landed 11:01 AM,2021-06-11
+15,15,11:15 AM BA2216,,London (LCY),British Airways E190 (G-LCYZ),Landed 10:57 AM,2021-06-11
+16,16,11:40 AM,LM351,Sumburgh (LSI),Loganair SF34 (G-LGNK),Landed 11:38 AM,2021-06-11
+17,17,12:10 PM FR5833,,Milan (BGY),Ryanair B738 (9H-QCY),Landed 12:37 PM,2021-06-11
+18,18,12:35 PM U2483,,Belfast (BFS),easyJet A20N (G-UZLB),Landed 12:18 PM,2021-06-11
+19,19,12:50 PM FR6827,,Faro (FAO),Ryanair B738 (EI-EGA),Landed 12:44 PM,2021-06-11
+20,20,1:05 PM,BA1442,London (LHR),British Airways A319 (G-EUOE),Landed 12:58 PM,2021-06-11
+21,21,1:20 PM U213,,London (LTN),easyJet A319 (G-EZDI),Landed 12:54 PM,2021-06-11
+22,22,1:25 PM,QR29,Doha (DOH),Qatar Airways B788 (A7-BCW),Landed 1:17 PM,2021-06-11
+23,23,1:40 PM,LM324,Southampton (SOU),Loganair E145 (G-SAJJ),Landed 1:54 PM,2021-06-11
+24,24,2:10 PM FR6657,,Palma de Mallorca (PMI),Ryanair B738 (EI-DHZ),Landed 1:58 PM,2021-06-11
+25,25,3:00 PM,LM344,Stornoway (SYY),Loganair SF34 (G-LGNK),Landed 2:34 PM,2021-06-11
+26,26,3:20 PM BA8716,,London (LCY),British Airways E190 (G-LCYZ),Landed 3:08 PM,2021-06-11
+27,27,3:35 PM FR6627,,Lanzarote (ACE),Ryanair B738 (EI-EST),Landed 3:28 PM,2021-06-11
+28,28,4:40 PM,BA1448,London (LHR),British Airways A319 (G-EUPP),Landed 4:31 PM,2021-06-11
+29,29,4:40 PM,KL1289,Amsterdam (AMS),KLM E75L (PH-EXX),Landed 4:27 PM,2021-06-11
+30,30,5:00 PM U2425,,Bristol (BRS),easyJet A20N (G-UZHN),Landed 4:37 PM,2021-06-11
+31,31,5:20 PM U26964,,Jersey (JER),easyJet A20N (G-UZLB),Landed 5:25 PM,2021-06-11
+32,32,5:30 PM,LM318,Exeter (EXT),Loganair E145 (G-SAJJ),Landed 5:30 PM,2021-06-11
+33,33,5:40 PM U217,,London (LTN),easyJet A20N (G-UZHK),Landed 5:22 PM,2021-06-11
+34,34,6:25 PM U2487,,Belfast (BFS),easyJet A320 (G-EZPB),Landed 6:15 PM,2021-06-11
+35,35,6:30 PM U2237,,London (STN),easyJet A319 (G-EZDI),Landed 6:11 PM,2021-06-11
+36,36,6:40 PM BA8712,,London (LCY),British Airways E190 (G-LCYO),Landed 6:18 PM,2021-06-11
+37,37,7:30 PM W62225,,Budapest (BUD),Wizz Air 320,Unknown,2021-06-11
+38,38,7:50 PM EI3658,,Belfast (BHD),Stobart Air AT76 (EI-FSL),Landed 9:37 PM,2021-06-11
+39,39,8:00 PM,LM397,Kirkwall (KOI),Loganair SF34 (G-LGNK),Landed 7:39 PM,2021-06-11
+40,40,8:10 PM,BA1458,London (LHR),British Airways A320 (G-EUUM),Landed 7:51 PM,2021-06-11
+41,41,8:25 PM U2429,,Bristol (BRS),easyJet A20N (G-UZHN),Landed 8:07 PM,2021-06-11
+42,42,8:55 PM FR3171,,Riga (RIX),Ryanair B738 (EI-DPI),Landed 8:41 PM,2021-06-11
+43,43,9:20 PM W61627,,Gdansk (GDN),Wizz Air 320,Unknown,2021-06-11
+44,44,9:20 PM,LM328,Southampton (SOU),Loganair E145 (G-SAJJ),Landed 8:59 PM,2021-06-11
+45,45,9:35 PM,KL1293,Amsterdam (AMS),KLM E75L (PH-EXX),Landed 9:26 PM,2021-06-11
+46,46,9:55 PM FR818,,Dublin (DUB),Ryanair B738 (EI-EBW),Landed 9:35 PM,2021-06-11
+47,47,10:15 PM U2504,,Birmingham (BHX),easyJet A320 (G-EZPB),Landed 9:50 PM,2021-06-11
+48,48,10:15 PM U2239,,London (STN),easyJet A319 (G-EZDI),Landed 9:46 PM,2021-06-11
+49,49,10:25 PM U2813,,London (LGW),easyJet A20N (G-UZLB),Landed 9:59 PM,2021-06-11
+50,50,11:40 PM FR6622,,Tenerife (TFS),Ryanair B738 (EI-EGA),Landed 11:30 PM,2021-06-11
+0,0,05:35 3V4125,,Liege (LGG),ASL Airlines France B734 (F-GIXU),Landed 05:28,2021-06-12
+1,1,07:55,EI3250,Dublin (DUB),Aer Lingus AT7,Canceled,2021-06-12
+2,2,08:05 EI3650,,Belfast (BHD),Aer Lingus AT7,Canceled,2021-06-12
+3,3,08:20 U2421,,Bristol (BRS),easyJet A319 (G-EZAN),Landed 08:09,2021-06-12
+4,4,08:25 U211,,London (LTN),easyJet (NEO Livery) A20N (G-UZHA),Landed 08:07,2021-06-12
+5,5,10:10,KL1279,Amsterdam (AMS),KLM E75L (PH-EXW),Landed 10:22,2021-06-12
+6,6,10:20 U2231,,London (STN),easyJet A319 (G-EZDI),Landed 10:09,2021-06-12
+7,7,10:40,BA1438,London (LHR),British Airways A319 (G-DBCG),Landed 10:26,2021-06-12
+8,8,10:40 U2803,,London (LGW),easyJet A20N (G-UZHI),Landed 10:28,2021-06-12
+9,9,10:45 FR2885,,Kaunas (KUN),Ryanair B738 (SP-RKB),Unknown,2021-06-12
+10,10,11:05,LH962,Frankfurt (FRA),Lufthansa A20N (D-AIJC),Landed 11:23,2021-06-12
+11,11,12:40,LM351,Sumburgh (LSI),Loganair SF34 (G-LGNK),Landed 12:22,2021-06-12
+12,12,12:45 FR6267,,Barcelona (BCN),Ryanair B738 (EI-EBG),Landed 12:40,2021-06-12
+13,13,12:45 LM380,,Newquay (NQY),Loganair E145 (G-RJXH),Landed 12:44,2021-06-12
+14,14,12:50 FR6827,,Faro (FAO),Ryanair B738 (EI-EST),Landed 12:34,2021-06-12
+15,15,13:05,BA1442,London (LHR),British Airways A319 (G-DBCD),Landed 12:53,2021-06-12
+16,16,13:25 U2481,,Belfast (BFS),easyJet A319 (G-EZDI),Landed 13:03,2021-06-12
+17,17,13:35 FR816,,Dublin (DUB),Ryanair B738 (EI-ENL),Landed 13:21,2021-06-12
+18,18,13:40,LM324,Southampton (SOU),Loganair E145 (G-SAJJ),Landed 13:37,2021-06-12
+19,19,14:30 U26932,,Gibraltar (GIB),easyJet A320 (G-EZOP),Landed 14:23,2021-06-12
+20,20,15:25 BA2340,,Faro (FAO),British Airways E90,Canceled,2021-06-12
+21,21,15:35 FR7845,,Corfu (CFU),Ryanair B738 (EI-EGA),Landed 15:34,2021-06-12
+22,22,16:15,AF1486,Paris (CDG),Air France E170 (F-HBXE),Landed 16:43,2021-06-12
+23,23,16:45,BA1448,London (LHR),British Airways A319 (G-DBCB),Landed 16:30,2021-06-12
+24,24,17:15,AY1373,Helsinki (HEL),Finnair E190 (OH-LKF),Landed 16:59,2021-06-12
+25,25,17:35 FR1018,,Budapest (BUD),Ryanair B738 (EI-DHZ),Landed 17:36,2021-06-12
+26,26,17:40,LM318,Exeter (EXT),Loganair ER4,Canceled,2021-06-12
+27,27,18:50,BA1454,London (LHR),British Airways A319 (G-DBCD),Landed 18:32,2021-06-12
+28,28,19:35 FR6606,,Porto (OPO),Ryanair B738 (EI-GSH),Landed 19:34,2021-06-12
+29,29,19:55 FR7922,,Gdansk (GDN),Ryanair B738 (SP-RSB),Landed 19:49,2021-06-12
+30,30,21:35,KL1293,Amsterdam (AMS),KLM E75L (PH-EXK),Landed 21:35,2021-06-12
+31,31,21:55 FR6460,,Lisbon (LIS),Ryanair B738 (EI-EST),Landed 21:38,2021-06-12
+32,32,23:50 FR6653,,Malaga (AGP),Ryanair B738 (EI-EBW),Landed 23:45,2021-06-12
+0,0,07:45 W61407,,Warsaw (WAW),Wizz Air 32Q,Unknown,2021-06-13
+1,1,10:00 LM915,,Glasgow (GLA),Loganair E145 (G-SAJK),Landed 09:31,2021-06-13
+2,2,10:10 FR2377,,Berlin (BER),Ryanair B738 (9H-QBD),Landed 10:00,2021-06-13
+3,3,10:15,KL1279,Amsterdam (AMS),KLM E75L (PH-EXS),Landed 10:18,2021-06-13
+4,4,10:35,BA1438,London (LHR),British Airways A320 (G-MIDS),Landed 10:15,2021-06-13
+5,5,11:05,LH962,Frankfurt (FRA),Lufthansa A20N (D-AINB),Landed 11:11,2021-06-13
+6,6,12:50 FR6827,,Faro (FAO),Ryanair B738 (EI-EBW),Landed 12:39,2021-06-13
+7,7,12:55 U2292,,Bournemouth (BOH),easyJet A320 (G-EZPB),Landed 12:28,2021-06-13
+8,8,13:05,BA1442,London (LHR),British Airways A319 (G-DBCE),Landed 12:44,2021-06-13
+9,9,13:10 U26980,,Lisbon (LIS),easyJet 320,Unknown,2021-06-13
+10,10,13:40,LM326,Southampton (SOU),Loganair E145 (G-SAJK),Landed 13:25,2021-06-13
+11,11,14:00 BA8714,,London (LCY),British Airways E190 (G-LCYP),Landed 13:40,2021-06-13
+12,12,14:25 FR3171,,Riga (RIX),Ryanair B738 (EI-EST),Landed 14:22,2021-06-13
+13,13,15:00,LM344,Stornoway (SYY),Loganair SF34 (G-LGNC),Landed 14:30,2021-06-13
+14,14,15:25 U2425,,Bristol (BRS),easyJet A319 (G-EZDJ),Landed 15:03,2021-06-13
+15,15,15:25 BA2340,,Faro (FAO),British Airways E90,Canceled,2021-06-13
+16,16,15:35 U2502,,Birmingham (BHX),easyJet A20N (G-UZHU),Landed 15:16,2021-06-13
+17,17,16:10,EI3256,Dublin (DUB),Aer Lingus AT7,Canceled,2021-06-13
+18,18,16:40,KL1289,Amsterdam (AMS),KLM E75L (PH-EXS),Landed 16:47,2021-06-13
+19,19,16:50,BA1448,London (LHR),British Airways A319 (G-EUPZ),Landed 16:43,2021-06-13
+20,20,16:55 FR1053,,Prague (PRG),Ryanair B738 (EI-DWF),Landed 16:39,2021-06-13
+21,21,17:00 EI3656,,Belfast (BHD),Aer Lingus AT7,Canceled,2021-06-13
+22,22,17:00 U217,,London (LTN),easyJet A319 (G-EZAU),Landed 16:34,2021-06-13
+23,23,17:20 U26964,,Jersey (JER),easyJet A320 (G-EZPB),Landed 17:10,2021-06-13
+24,24,17:30 LM380,,Newquay (NQY),Loganair E145 (G-SAJK),Unknown,2021-06-13
+25,25,17:40 U2809,,London (LGW),easyJet A320 (G-EZOT),Landed 17:27,2021-06-13
+26,26,18:15 U2237,,London (STN),easyJet A319 (G-EZDI),Landed 17:53,2021-06-13
+27,27,18:25 U2487,,Belfast (BFS),easyJet A20N (G-UZHU),Landed 18:12,2021-06-13
+28,28,19:10,BA1454,London (LHR),British Airways A319 (G-EUPL),Landed 19:03,2021-06-13
+29,29,19:15 U2815,,London (LGW),easyJet A319 (G-EZAT),Landed 18:44,2021-06-13
+30,30,19:15 W63013,,Bucharest (OTP),Wizz Air A320 (HA-LSB),Landed 19:11,2021-06-13
+31,31,19:50 EI3658,,Belfast (BHD),Aer Lingus AT7,Canceled,2021-06-13
+32,32,20:00,LM397,Kirkwall (KOI),Loganair SF34 (G-LGNC),Landed 19:30,2021-06-13
+33,33,20:25 U2433,,Bristol (BRS),easyJet A320 (G-EZUF),Landed 20:00,2021-06-13
+34,34,20:30 FR6625,,Krakow (KRK),Ryanair B738 (SP-RKK),Landed 20:24,2021-06-13
+35,35,20:45 U2811,,London (LGW),easyJet (Europcar Livery) A320 (G-EZPD),Landed 20:16,2021-06-13
+36,36,21:20,LM328,Southampton (SOU),Loganair E145 (G-SAJD),Landed 21:51,2021-06-13
+37,37,21:25 U2489,,Belfast (BFS),easyJet (Amsterdam Livery) A319 (G-EZDN),Landed 21:05,2021-06-13
+38,38,21:35,KL1293,Amsterdam (AMS),KLM E75L (PH-EXR),Landed 21:38,2021-06-13
+39,39,21:50 FR6604,,Ibiza (IBZ),Ryanair B738 (EI-EST),Landed 21:56,2021-06-13
+40,40,21:55 U2431,,Bristol (BRS),easyJet A320 (G-EZPB),Landed 21:40,2021-06-13
+41,41,22:15 U2241,,London (STN),easyJet A20N (G-UZHU),Landed 22:01,2021-06-13
+42,42,22:20 FR818,,Dublin (DUB),Ryanair B738 (EI-DWI),Landed 22:12,2021-06-13
+43,43,22:30 FR5161,,Sofia (SOF),Ryanair B738 (EI-EBW),Landed 22:22,2021-06-13
+44,44,22:35 U2504,,Birmingham (BHX),easyJet A319 (G-EZDI),Landed 22:04,2021-06-13
+0,0,00:25 FR5578,,Alicante (ALC),Ryanair B738 (EI-DWF),Landed 00:04,2021-06-14
+1,1,07:55,EI3250,Dublin (DUB),Aer Lingus AT7,Canceled,2021-06-14
+2,2,08:05 EI3650,,Belfast (BHD),Aer Lingus AT7,Canceled,2021-06-14
+3,3,08:15 BA8700,,London (LCY),British Airways E190 (G-LCYW),Landed 08:32,2021-06-14
+4,4,08:50 8H5579,,Burgas (BOJ),BH Air 320,Unknown,2021-06-14
+5,5,09:20,BA1434,London (LHR),British Airways A319 (G-DBCE),Landed 09:03,2021-06-14
+6,6,09:20 U2481,,Belfast (BFS),easyJet A320 (G-EZOP),Landed 09:00,2021-06-14
+7,7,09:25 U2231,,London (STN),easyJet A319 (G-EZDI),Landed 09:10,2021-06-14
+8,8,09:30 U2502,,Birmingham (BHX),easyJet A320 (G-EZWC),Landed 09:06,2021-06-14
+9,9,09:55,TK1343,Istanbul (IST),Turkish Airlines A21N (TC-LSR),Landed 09:37,2021-06-14
+10,10,10:00 FR6619,,Poznan (POZ),Ryanair B738 (SP-RSV),Landed 10:02,2021-06-14
+11,11,10:10,LM322,Southampton (SOU),Loganair E145 (G-RJXH),Landed 11:26,2021-06-14
+12,12,10:10 U211,,London (LTN),easyJet A320 (G-EZPB),Landed 09:47,2021-06-14
+13,13,10:15,KL1279,Amsterdam (AMS),KLM E190 (PH-EZD),Landed 10:19,2021-06-14
+14,14,10:40,BA1438,London (LHR),British Airways A320 (G-TTOE),Landed 10:24,2021-06-14
+15,15,11:30 U2807,,London (LGW),easyJet A320 (G-EZTG),Landed 11:06,2021-06-14
+16,16,11:40,LM351,Sumburgh (LSI),Loganair SF34 (G-LGNC),Landed 11:08,2021-06-14
+17,17,11:40 U2803,,London (LGW),easyJet A20N (G-UZHI),Landed 11:25,2021-06-14
+18,18,12:45 BA2216,,London (LCY),British Airways E190 (G-LCYX),Landed 12:44,2021-06-14
+19,19,13:05,BA1442,London (LHR),British Airways A20N (G-TTND),Landed 13:04,2021-06-14
+20,20,13:15 U2423,,Bristol (BRS),easyJet A320 (G-EZOP),Landed 12:54,2021-06-14
+21,21,13:25 FR3171,,Riga (RIX),Ryanair B738 (EI-EBG),Landed 13:21,2021-06-14
+22,22,13:35 FR816,,Dublin (DUB),Ryanair B738 (EI-DHE),Landed 13:28,2021-06-14
+23,23,13:35 FR6827,,Faro (FAO),Ryanair B738 (EI-EST),Landed 13:32,2021-06-14
+24,24,13:35 U2239,,London (STN),easyJet A320 (G-EZWC),Landed 13:37,2021-06-14
+25,25,14:10 FR6657,,Palma de Mallorca (PMI),Ryanair B738 (EI-EGA),Landed 14:03,2021-06-14
+26,26,15:00,LM344,Stornoway (SYY),Loganair SF34 (G-LGNC),Landed 14:35,2021-06-14
+27,27,15:50 U2485,,Belfast (BFS),easyJet A20N (G-UZHZ),Landed 15:33,2021-06-14
+28,28,16:00 FR6682,,Rome (CIA),Ryanair B738 (9H-QAG),Landed 15:54,2021-06-14
+29,29,16:30 EI3656,,Belfast (BHD),Aer Lingus AT7,Canceled,2021-06-14
+30,30,16:50,BA1448,London (LHR),British Airways A320 (G-EUYC),Landed 16:50,2021-06-14
+31,31,16:55 LH964,,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNC),Landed 17:17,2021-06-14
+32,32,16:55,LM318,Exeter (EXT),Loganair AT76 (G-FBXB),Landed 18:11,2021-06-14
+33,33,17:10 LM380,,Newquay (NQY),Loganair E145 (G-RJXH),Landed 17:34,2021-06-14
+34,34,17:40 BA8712,,London (LCY),British Airways E190 (G-LCYO),Landed 17:21,2021-06-14
+35,35,18:50,BA1454,London (LHR),British Airways A319 (G-DBCB),Landed 18:48,2021-06-14
+36,36,19:30 W62225,,Budapest (BUD),Wizz Air 321,Unknown,2021-06-14
+37,37,20:00,LM397,Kirkwall (KOI),Loganair SF34 (G-LGNC),Landed 19:16,2021-06-14
+38,38,20:10 FR4525,,Warsaw (WMI),Ryanair B738 (SP-RKR),Landed 19:52,2021-06-14
+39,39,20:25 FR5833,,Milan (BGY),Ryanair B738 (9H-QCY),Landed 20:06,2021-06-14
+40,40,20:30 U219,,London (LTN),easyJet A319 (G-EZDR),Landed 20:03,2021-06-14
+41,41,21:20,LM328,Southampton (SOU),Loganair E145 (G-RJXH),Landed 21:39,2021-06-14
+42,42,21:20 W61627,,Gdansk (GDN),Wizz Air 321,Unknown,2021-06-14
+43,43,21:35,KL1293,Amsterdam (AMS),KLM E75L (PH-EXT),Landed 21:42,2021-06-14
+0,0,05:35 3V4125,,Liege (LGG),ASL Airlines France B734 (F-GIXU),Landed 05:26,2021-06-15
+1,1,08:15 BA8700,,London (LCY),British Airways E190 (G-LCAD),Landed 08:05,2021-06-15
+2,2,08:20 U2421,,Bristol (BRS),easyJet A319 (G-EZDJ),Landed 07:56,2021-06-15
+3,3,09:20,BA1434,London (LHR),British Airways A20N (G-TTNE),Landed 09:09,2021-06-15
+4,4,09:45 FR2885,,Kaunas (KUN),Ryanair B738 (SP-RSI),Unknown,2021-06-15
+5,5,10:15,KL1279,Amsterdam (AMS),KLM E190 (PH-EZP),Landed 10:19,2021-06-15
+6,6,10:40 U2803,,London (LGW),easyJet A319 (G-EZDK),Landed 10:14,2021-06-15
+7,7,11:05,LH962,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNK),Landed 10:58,2021-06-15
+8,8,11:40,LM351,Sumburgh (LSI),Loganair SF34 (G-LGNC),Landed 11:28,2021-06-15
+9,9,12:45 FR6267,,Barcelona (BCN),Ryanair B738 (EI-DWI),Landed 12:35,2021-06-15
+10,10,13:05,BA1442,London (LHR),British Airways A319 (G-DBCK),Landed 12:49,2021-06-15
+11,11,13:40 BY1215,,Palma de Mallorca (PMI),TUI Airways 73H,Unknown,2021-06-15
+12,12,14:25 FR6460,,Lisbon (LIS),Ryanair B738 (EI-EST),Landed 14:00,2021-06-15
+13,13,14:30 BA8716,,London (LCY),British Airways E190 (G-LCYM),Landed 14:14,2021-06-15
+14,14,14:35 U2231,,London (STN),easyJet A319 (G-EZDK),Landed 14:11,2021-06-15
+15,15,15:15,LM392,Kirkwall (KOI),Loganair SF34 (G-LGNC),Landed 14:37,2021-06-15
+16,16,16:00 FR7845,,Corfu (CFU),Ryanair B738 (EI-ENL),Landed 15:58,2021-06-15
+17,17,16:30 EI3656,,Belfast (BHD),Aer Lingus AT7,Canceled,2021-06-15
+18,18,16:50,BA1448,London (LHR),British Airways A319 (G-EUPZ),Landed 16:31,2021-06-15
+19,19,18:15 FR6653,,Malaga (AGP),Ryanair B738 (EI-DCZ),Landed 17:58,2021-06-15
+20,20,18:45,BA1454,London (LHR),British Airways A319 (G-DBCE),Landed 18:25,2021-06-15
+21,21,19:10 U2489,,Belfast (BFS),easyJet A319 (G-EZDK),Landed 19:00,2021-06-15
+22,22,19:45 FR1018,,Budapest (BUD),Ryanair B738 (SP-RSR),Landed 19:39,2021-06-15
+23,23,20:00,LM397,Kirkwall (KOI),Loganair SF34 (G-LGNC),Landed 19:21,2021-06-15
+24,24,20:25 FR6827,,Faro (FAO),Ryanair B738 (EI-EBW),Landed 20:10,2021-06-15
+25,25,20:30 U219,,London (LTN),easyJet A320 (G-EZWZ),Landed 20:52,2021-06-15
+26,26,20:45 FR7922,,Gdansk (GDN),Ryanair B738 (SP-RSB),Landed 20:30,2021-06-15
+27,27,21:20,LM328,Southampton (SOU),Loganair E145 (G-SAJK),Landed 21:03,2021-06-15
+28,28,21:35,KL1293,Amsterdam (AMS),KLM E75L (PH-EXZ),Landed 21:29,2021-06-15
+29,29,22:45 U2504,,Birmingham (BHX),easyJet A319 (G-EZDK),Landed 22:00,2021-06-15
+30,30,23:25 FR6606,,Porto (OPO),Ryanair B738 (EI-DWF),Landed 23:37,2021-06-15

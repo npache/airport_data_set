@@ -1,0 +1,1982 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:05 WN543,,Fort Lauderdale (FLL),Southwest Airlines B737 (N401WN),Landed 23:38,2021-06-08
+1,1,00:25 WN1403,,Orlando (MCO),Southwest Airlines B738 (N8651A),Landed 00:10,2021-06-08
+2,2,00:25 WN1597,,Dallas (DAL),Southwest Airlines B738 (N8527Q),Landed 01:01,2021-06-08
+3,3,00:40 WN302,,Salt Lake City (SLC),Southwest Airlines B38M (N8813Q),Landed 01:30,2021-06-08
+4,4,00:45 WN1782,,San Diego (SAN),Southwest Airlines B737 (N494WN),Landed 01:32,2021-06-08
+5,5,00:45 WN2364,,Las Vegas (LAS),Southwest Airlines B738 (N8552Z),Landed 00:42,2021-06-08
+6,6,00:50 WN657,,Los Angeles (LAX),Southwest Airlines B38M (N8812Q),Landed 00:37,2021-06-08
+7,7,01:15 WN1931,,Denver (DEN),Southwest Airlines B737 (N7849A),Landed 02:18,2021-06-08
+8,8,01:40 WN1705,,Phoenix (PHX),Southwest Airlines B738 (N8559Q),Landed 01:27,2021-06-08
+9,9,06:25 WN3622,,Cincinnati (CVG),Southwest Airlines B737 (N551WN),Landed 06:02,2021-06-08
+10,10,06:45 WN1967,,Philadelphia (PHL),Southwest Airlines B737 (N278WN),Landed 06:26,2021-06-08
+11,11,06:50 WN389,,Buffalo (BUF),Southwest Airlines B738 (N8310C),Landed 06:36,2021-06-08
+12,12,06:50 WN4397,,Louisville (SDF),Southwest Airlines B738 (N8534Z),Landed 06:32,2021-06-08
+13,13,06:55 WN3432,,Charleston (CHS),Southwest Airlines B737 (N291WN),Landed 06:42,2021-06-08
+14,14,06:55 WN3469,,Cleveland (CLE),Southwest Airlines B738 (N8569Z),Landed 06:39,2021-06-08
+15,15,07:05 WN2454,,Atlanta (ATL),Southwest Airlines B738 (N8624J),Landed 06:54,2021-06-08
+16,16,07:15 WN364,,New York (LGA),Southwest Airlines B737 (N7715E),Landed 06:56,2021-06-08
+17,17,07:15 WN3868,,Washington (DCA),Southwest Airlines B737 (N221WN),Landed 06:57,2021-06-08
+18,18,07:20 WN1829,,Minneapolis (MSP),Southwest Airlines B737 (N932WN),Landed 06:59,2021-06-08
+19,19,07:20 WN2884,,Grand Rapids (GRR),Southwest Airlines B737 (N247WN),Landed 07:00,2021-06-08
+20,20,07:20 WN4120,,Detroit (DTW),Southwest Airlines B738 (N8526W),Landed 07:13,2021-06-08
+21,21,07:25 WN2978,,Windsor Locks (BDL),Southwest Airlines B738 (N8511K),Landed 07:07,2021-06-08
+22,22,07:25 WN4177,,Providence (PVD),Southwest Airlines B738 (N8583Z),Landed 07:04,2021-06-08
+23,23,07:25 WN5549,,Myrtle Beach (MYR),Southwest Airlines B738 (N8605E),Landed 06:48,2021-06-08
+24,24,07:30 WN3775,,Pittsburgh (PIT),Southwest Airlines B737 (N939WN),Landed 07:12,2021-06-08
+25,25,07:30 WN4370,,Boston (BOS),Southwest Airlines B737 (N954WN),Landed 07:01,2021-06-08
+26,26,07:35 WN1473,,Raleigh-Durham (RDU),Southwest Airlines B737 (N944WN),Landed 07:10,2021-06-08
+27,27,07:35 WN3535,,Columbus (CMH),Southwest Airlines B738 (N8690A),Landed 07:20,2021-06-08
+28,28,07:35 WN5391,,Memphis (MEM),Southwest Airlines B737 (N236WN),Landed 07:21,2021-06-08
+29,29,07:40 WN3639,,Albany (ALB),Southwest Airlines (Maryland One Livery) B737 (N214WN),Landed 07:23,2021-06-08
+30,30,07:40 WN4794,,Omaha (OMA),Southwest Airlines B737 (N245WN),Landed 07:26,2021-06-08
+31,31,07:45 WN4580,,Washington (IAD),Southwest Airlines B38M (N8747Q),Landed 07:17,2021-06-08
+32,32,07:45 WN4682,,St. Louis (STL),Southwest Airlines B737 (N7829B),Landed 07:32,2021-06-08
+33,33,08:00 WN555,,Kansas City (MCI),Southwest Airlines B737 (N7846A),Landed 07:47,2021-06-08
+34,34,08:00 WN3131,,Fort Myers (RSW),Southwest Airlines B737 (N750SA),Landed 07:43,2021-06-08
+35,35,08:10 WN2392,,Nashville (BNA),Southwest Airlines B738 (N8678E),Landed 07:49,2021-06-08
+36,36,08:10 WN4643,,Orlando (MCO),Southwest Airlines B737 (N558WN),Landed 07:52,2021-06-08
+37,37,08:15 WN3071,,Manchester (MHT),Southwest Airlines B737 (N228WN),Landed 07:53,2021-06-08
+38,38,08:20 WN4984,,Sarasota (SRQ),Southwest Airlines (Classic Retro Livery) B737 (N711HK),Landed 08:01,2021-06-08
+39,39,08:30 WN4746,,Tampa (TPA),Southwest Airlines B738 (N8699A),Landed 08:11,2021-06-08
+40,40,08:35 WN460,,Dallas (DAL),Southwest Airlines B737 (N908WN),Landed 08:16,2021-06-08
+41,41,08:40 WN5420,,Miami (MIA),Southwest Airlines B737 (N926WN),Landed 08:29,2021-06-08
+42,42,08:45 WN5536,,New Orleans (MSY),Southwest Airlines B737 (N7702A),Landed 08:37,2021-06-08
+43,43,08:50 DL5155,,Detroit (DTW),Delta Connection CRJ7 (N655CA),Landed 08:38,2021-06-08
+44,44,08:55 WN1209,,Baltimore (BWI),Southwest Airlines B737 (N935WN),Canceled,2021-06-08
+45,45,09:05 WN4275,,Fort Lauderdale (FLL),Southwest Airlines B737 (N7884G),Landed 08:54,2021-06-08
+46,46,09:10,DL2483,Atlanta (ATL),Delta Air Lines A319 (N344NB),Landed 08:46,2021-06-08
+47,47,09:24 1I601,,Chicago (PWK),NetJets C68A (N601QS),Unknown,2021-06-08
+48,48,09:25 WN4874,,Houston (HOU),Southwest Airlines B737 (N7877H),Landed 09:50,2021-06-08
+49,49,09:30 WN3583,,Colorado Springs (COS),Southwest Airlines B737 (N560WN),Landed 09:11,2021-06-08
+50,50,09:30 WN5403,,Denver (DEN),Southwest Airlines B737 (N941WN),Landed 09:15,2021-06-08
+51,51,09:35 WN3526,,Atlanta (ATL),Southwest Airlines B737 (N7837A),Landed 09:09,2021-06-08
+52,52,09:50 WN2291,,Orlando (MCO),Southwest Airlines B738 (N8581Z),Landed 09:27,2021-06-08
+53,53,09:50 WN4957,,Fort Myers (RSW),Southwest Airlines B737 (N7750A),Landed 09:34,2021-06-08
+54,54,09:51 DL5008,,Minneapolis (MSP),Delta Connection CRJ7 (N668CA),Landed 09:32,2021-06-08
+55,55,09:55 WN4615,,Houston (IAH),Southwest Airlines B737 (N785SW),Landed 09:16,2021-06-08
+56,56,09:55 WN5052,,Kansas City (MCI),Southwest Airlines (Colorado One Livery) B737 (N230WN),Landed 09:38,2021-06-08
+57,57,10:00 WN5581,,Salt Lake City (SLC),Southwest Airlines B738 (N8639B),Landed 09:48,2021-06-08
+58,58,10:06 CNS224,,Indianapolis (IND),PlaneSense PC12 (N112AF),Landed 10:00,2021-06-08
+59,59,10:10 WN4995,,Nashville (BNA),Southwest Airlines B737 (N422WN),Landed 09:52,2021-06-08
+60,60,10:20 WN3190,,Dallas (DAL),Southwest Airlines B38M (N8713M),Landed 10:04,2021-06-08
+61,61,10:20 WN3642,,Austin (AUS),Southwest Airlines B737 (N264LV),Landed 10:09,2021-06-08
+62,62,10:50 Y4940,,Guadalajara (GDL),Volaris A20N (XA-VRR),Landed 11:04,2021-06-08
+63,63,10:54 1I800,,West Palm Beach (PBI),NetJets C700,Unknown,2021-06-08
+64,64,11:00 WN6066,,Detroit (DTW),Southwest Airlines B737 (N7841A),Landed 10:34,2021-06-08
+65,65,11:05 WN3075,,Louisville (SDF),Southwest Airlines B737 (N7739A),Landed 10:47,2021-06-08
+66,66,11:15 WN4851,,Las Vegas (LAS),Southwest Airlines B737 (N480WN),Landed 11:06,2021-06-08
+67,67,11:25 WN3668,,Denver (DEN),Southwest Airlines B738 (N8648A),Landed 11:23,2021-06-08
+68,68,11:35 WN142,,Baltimore (BWI),Southwest Airlines B737 (N7854B),Landed 11:51,2021-06-08
+69,69,11:40 WN4706,,Tampa (TPA),Southwest Airlines B738 (N8614M),Landed 12:15,2021-06-08
+70,70,11:45 WN2185,,St. Louis (STL),Southwest Airlines B738 (N8557Q),Landed 11:28,2021-06-08
+71,71,11:45 WN5165,,Pensacola (PNS),Southwest Airlines B737 (N7831B),Landed 11:18,2021-06-08
+72,72,11:55 DL5759,,Atlanta (ATL),Delta Connection E75S (N220JQ),Landed 11:49,2021-06-08
+73,73,11:55 WN3204,,Kansas City (MCI),Southwest Airlines B738 (N8583Z),Landed 11:44,2021-06-08
+74,74,11:55 WN5415,,Houston (HOU),Southwest Airlines B738 (N8510E),Landed 15:20,2021-06-08
+75,75,12:05 WN2331,,Ontario (ONT),Southwest Airlines B737 (N929WN),Landed 11:45,2021-06-08
+76,76,12:05 WN2935,,Boise (BOI),Southwest Airlines B738 (N8608N),Landed 11:47,2021-06-08
+77,77,12:15 WN843,,Salt Lake City (SLC),Southwest Airlines B738 (N8556Z),Landed 12:10,2021-06-08
+78,78,12:15 WN2973,,Minneapolis (MSP),Southwest Airlines B737 (N7819A),Landed 11:54,2021-06-08
+79,79,12:15 WN5011,,Los Angeles (LAX),Southwest Airlines B737 (N567WN),Landed 12:01,2021-06-08
+80,80,12:25 WN1101,,Tucson (TUS),Southwest Airlines B737 (N464WN),Landed 12:14,2021-06-08
+81,81,12:25 WN5262,,Sacramento (SMF),Southwest Airlines B38M (N8816Q),Landed 12:17,2021-06-08
+82,82,12:30 DL5229,,Detroit (DTW),Delta Connection CRJ7 (N371CA),Landed 12:28,2021-06-08
+83,83,12:35 WN4314,,Spokane (GEG),Southwest Airlines (Arizona One Livery) B737 (N955WN),Landed 12:37,2021-06-08
+84,84,12:35 WN4726,,San Francisco (SFO),Southwest Airlines B738 (N8612K),Landed 12:31,2021-06-08
+85,85,12:35 WN5159,,Phoenix (PHX),Southwest Airlines B738 (N8622A),Landed 12:34,2021-06-08
+86,86,12:40 WN723,,Philadelphia (PHL),Southwest Airlines B737 (N7830A),Landed 12:20,2021-06-08
+87,87,12:40 WN4870,,Portland (PDX),Southwest Airlines B738 (N8659D),Landed 12:33,2021-06-08
+88,88,12:40 WN5618,,Oakland (OAK),Southwest Airlines B737 (N218WN),Landed 12:38,2021-06-08
+89,89,12:45 WN2320,,Omaha (OMA),Southwest Airlines B737 (N926WN),Landed 12:48,2021-06-08
+90,90,12:45 WN2633,,Las Vegas (LAS),Southwest Airlines B38M (N8734Q),Landed 12:42,2021-06-08
+91,91,12:45 WN3500,,Fort Lauderdale (FLL),Southwest Airlines B738 (N8668A),Landed 12:23,2021-06-08
+92,92,12:50 WN4083,,San Antonio (SAT),Southwest Airlines B737 (N217JC),Landed 12:40,2021-06-08
+93,93,12:50 WN4461,,Seattle (SEA),Southwest Airlines B737 (N968WN),Landed 12:44,2021-06-08
+94,94,12:54 1I555,,Teterboro (TEB),NetJets C56X,Unknown,2021-06-08
+95,95,13:00 WN775,,San Diego (SAN),Southwest Airlines B738 (N8697C),Landed 12:55,2021-06-08
+96,96,13:00 WN3950,,Burbank (BUR),Southwest Airlines B738 (N8301J),Landed 12:47,2021-06-08
+97,97,13:05 WN2116,,San Jose (SJC),Southwest Airlines B737 (N7856A),Landed 12:53,2021-06-08
+98,98,13:10 WN4427,,Detroit (DTW),Southwest Airlines B737 (N405WN),Landed 12:45,2021-06-08
+99,99,13:15 WN3876,,New Orleans (MSY),Southwest Airlines B737 (N7875A),Landed 13:20,2021-06-08
+100,100,13:15 WN5380,,Atlanta (ATL),Southwest Airlines B737 (N7866A),Unknown,2021-06-08
+101,101,13:20 WN2603,,Cleveland (CLE),Southwest Airlines B737 (N499WN),Landed 13:03,2021-06-08
+102,102,13:25 WN3411,,Denver (DEN),Southwest Airlines B737 (N202WN),Landed 13:11,2021-06-08
+103,103,13:40 WN4138,,Pittsburgh (PIT),Southwest Airlines B738 (N8657B),Landed 13:18,2021-06-08
+104,104,13:45 WN3818,,Tampa (TPA),Southwest Airlines B738 (N8565Z),Landed 13:25,2021-06-08
+105,105,13:52,,Oakland County (PTK),- (N724GP),Landed 13:21,2021-06-08
+106,106,13:55 WN5353,,Orlando (MCO),Southwest Airlines B738 (N8552Z),Landed 13:38,2021-06-08
+107,107,14:00 WN2766,,Washington (IAD),Southwest Airlines B737 (N237WN),Landed 13:34,2021-06-08
+108,108,14:10 WN3183,,Washington (DCA),Southwest Airlines B737 (N297WN),Landed 13:51,2021-06-08
+109,109,14:15 WN3061,,Dallas (DAL),Southwest Airlines B737 (N483WN),Landed 14:02,2021-06-08
+110,110,14:15 WN4050,,Austin (AUS),Southwest Airlines B737 (N262WN),Landed 13:58,2021-06-08
+111,111,14:15 WN5173,,Columbus (CMH),Southwest Airlines B738 (N8572X),Landed 14:03,2021-06-08
+112,112,14:20 WN3647,,Savannah (SAV),Southwest Airlines B737 (N7852A),Landed 14:20,2021-06-08
+113,113,14:25 WN2407,,Richmond (RIC),Southwest Airlines B738 (N8623F),Landed 13:51,2021-06-08
+114,114,14:25 WN3098,,Panama City (ECP),Southwest Airlines B737 (N269WN),Landed 14:34,2021-06-08
+115,115,14:25 WN3888,,Boston (BOS),Southwest Airlines B738 (N8695D),Landed 14:00,2021-06-08
+116,116,14:30 WN3654,,Las Vegas (LAS),Southwest Airlines B738 (N8652B),Landed 14:23,2021-06-08
+117,117,14:30 WN3725,,New York (LGA),Southwest Airlines B737 (N936WN),Landed 19:48,2021-06-08
+118,118,14:45 WN3787,,Cincinnati (CVG),Southwest Airlines B737 (N292WN),Landed 14:49,2021-06-08
+119,119,14:50 WN264,,Baltimore (BWI),Southwest Airlines B738 (N8678E),Landed 14:38,2021-06-08
+120,120,14:50 WN5253,,Fort Myers (RSW),Southwest Airlines B38M (N8800L),Landed 14:28,2021-06-08
+121,121,14:54 Y4942,,Silao (BJX),Volaris A320 (N511VL),Landed 14:27,2021-06-08
+122,122,14:55 WN1091,,Kansas City (MCI),Southwest Airlines B737 (N754SW),Landed 14:57,2021-06-08
+123,123,14:55 WN5341,,Houston (HOU),Southwest Airlines B737 (N7889A),Landed 14:58,2021-06-08
+124,124,15:09,DL2537,Atlanta (ATL),Delta Air Lines A319 (N357NB),Landed 14:55,2021-06-08
+125,125,15:10 WN2852,,Destin Fort Walton Beach (VPS),Southwest Airlines B737 (N278WN),Landed 15:26,2021-06-08
+126,126,15:15 WN5814,,Cleveland (CLE),Southwest Airlines B737 (N924WN),Landed 15:22,2021-06-08
+127,127,15:16,,Chicago (DPA),- (N704LB),Landed 15:54,2021-06-08
+128,128,15:20 WN219,,Cancun (CUN),Southwest Airlines B737 (N906WN),Landed 14:54,2021-06-08
+129,129,15:30 WN4916,,Phoenix (PHX),Southwest Airlines B737 (N7734H),Landed 15:16,2021-06-08
+130,130,15:40 WN5911,,Buffalo (BUF),Southwest Airlines B738 (N8649A),Landed 15:36,2021-06-08
+131,131,15:45 WN103,,Nashville (BNA),Southwest Airlines B738 (N8543Z),Landed 15:25,2021-06-08
+132,132,15:45 WN4217,,Orlando (MCO),Southwest Airlines B737 (N919WN),Landed 15:29,2021-06-08
+133,133,15:45 1I625,,Naples (APF),NetJets C68A,Unknown,2021-06-08
+134,134,15:55 WN5896,,Las Vegas (LAS),Southwest Airlines B737 (N556WN),Landed 15:50,2021-06-08
+135,135,16:00 WN6246,,Albany (ALB),Southwest Airlines B737 (N444WN),Landed 15:46,2021-06-08
+136,136,16:06,,Denver (APA),- EA50 (N512MB),Unknown,2021-06-08
+137,137,16:15 WN4838,,Reno (RNO),Southwest Airlines B737 (N477WN),Landed 16:12,2021-06-08
+138,138,16:20 WN314,,Santa Ana (SNA),Southwest Airlines B737 (N744SW),Landed 16:01,2021-06-08
+139,139,16:20 WN4376,,Oklahoma City (OKC),Southwest Airlines B737 (N215WN),Landed 16:10,2021-06-08
+140,140,16:21 LXJ529,,Indianapolis (TYQ),Flexjet CL30,Unknown,2021-06-08
+141,141,16:28,DL4828,Detroit (DTW),Delta Connection CRJ7 (N655CA),Landed 17:38,2021-06-08
+142,142,16:42 Y4944,,Durango (DGO),Volaris A20N (N541VL),Landed 16:21,2021-06-08
+143,143,16:54 1I569,,Chicago (UGN),NetJets C68A,Unknown,2021-06-08
+144,144,16:55 WN1427,,Myrtle Beach (MYR),Southwest Airlines B737 (N432WN),Landed 16:38,2021-06-08
+145,145,17:00 WN459,,Portland (PDX),Southwest Airlines B737 (N431WN),Landed 16:51,2021-06-08
+146,146,17:03 WN18,,Dallas (DAL),Southwest Airlines B737,Canceled,2021-06-08
+147,147,17:05 WN5863,,San Jose (SJC),Southwest Airlines B737 (N7846A),Landed 17:49,2021-06-08
+148,148,17:05 WN5981,,Phoenix (PHX),Southwest Airlines B738 (N8683D),Landed 16:53,2021-06-08
+149,149,17:07,DL4949,Minneapolis (MSP),Delta Connection CRJ7 (N398CA),Landed 16:49,2021-06-08
+150,150,17:10 WN2995,,Omaha (OMA),Southwest Airlines B737 (N204WN),Landed 17:23,2021-06-08
+151,151,17:10 WN3822,,Grand Rapids (GRR),Southwest Airlines B738 (N8565Z),Landed 16:59,2021-06-08
+152,152,17:10 WN5054,,Detroit (DTW),Southwest Airlines B38M (N8745K),Landed 17:51,2021-06-08
+153,153,17:15 WN1809,,Albuquerque (ABQ),Southwest Airlines B38M (N8709Q),Landed 17:31,2021-06-08
+154,154,17:15 WN4065,,Las Vegas (LAS),Southwest Airlines B738 (N8513F),Landed 17:39,2021-06-08
+155,155,17:15 WN4556,,Windsor Locks (BDL),Southwest Airlines B737 (N7881A),Landed 17:15,2021-06-08
+156,156,17:20 WN3326,,San Diego (SAN),Southwest Airlines B738 (N8517F),Landed 17:05,2021-06-08
+157,157,17:20 WN3737,,Colorado Springs (COS),Southwest Airlines B737 (N712SW),Landed 17:07,2021-06-08
+158,158,17:25 WN971,,San Juan (SJU),Southwest Airlines B738 (N8617E),Landed 17:21,2021-06-08
+159,159,17:25 WN2504,,Salt Lake City (SLC),Southwest Airlines B738 (N8629A),Landed 18:27,2021-06-08
+160,160,17:25 WN4479,,Minneapolis (MSP),Southwest Airlines B738 (N8612K),Landed 17:04,2021-06-08
+161,161,17:27 Y4946,,Morelia (MLM),Volaris A20N (XA-VRN),Landed 17:26,2021-06-08
+162,162,17:30 WN2455,,Sacramento (SMF),Southwest Airlines B737 (N256WN),Landed 17:28,2021-06-08
+163,163,17:30 WN3869,,Oakland (OAK),Southwest Airlines B737 (N7848A),Landed 17:16,2021-06-08
+164,164,17:30 WN5205,,Long Beach (LGB),Southwest Airlines B38M (N8728Q),Landed 17:34,2021-06-08
+165,165,17:40 WN4880,,Los Angeles (LAX),Southwest Airlines B738 (N8667D),Landed 17:42,2021-06-08
+166,166,17:41,DL5811,Atlanta (ATL),Delta Connection E75S (N231JQ),Landed 17:41,2021-06-08
+167,167,17:45 WN117,,St. Louis (STL),Southwest Airlines B737 (N201LV),Landed 17:37,2021-06-08
+168,168,17:50 WN1043,,Montego Bay (MBJ),Southwest Airlines B737 (N221WN),Landed 17:38,2021-06-08
+169,169,17:50 WN2386,,Denver (DEN),Southwest Airlines B738 (N8523W),Landed 17:47,2021-06-08
+170,170,17:50 WN2794,,Seattle (SEA),Southwest Airlines B738 (N8624J),Landed 17:55,2021-06-08
+171,171,17:55 WN332,,Sarasota (SRQ),Southwest Airlines B737 (N287WN),Landed 20:01,2021-06-08
+172,172,17:55 WN4666,,Birmingham (BHM),Southwest Airlines B737 (N405WN),Landed 17:59,2021-06-08
+173,173,18:10 WN4983,,Philadelphia (PHL),Southwest Airlines B738 (N8310C),Landed 18:45,2021-06-08
+174,174,18:15 WN3492,,Phoenix (PHX),Southwest Airlines B738 (N8542Z),Landed 18:10,2021-06-08
+175,175,18:15 WN5677,,Charleston (CHS),Southwest Airlines B737 (N476WN),Landed 18:03,2021-06-08
+176,176,18:20 WN1914,,Jacksonville (JAX),Southwest Airlines B737 (N246LV),Landed 18:47,2021-06-08
+177,177,18:25 WN3572,,Orlando (MCO),Southwest Airlines B737 (N7840A),Landed 18:15,2021-06-08
+178,178,18:30 WN4306,,Houston (IAH),Southwest Airlines B738 (N8569Z),Unknown,2021-06-08
+179,179,18:36 1I532,,Atlantic City (BLM),NetJets C68A,Unknown,2021-06-08
+180,180,18:40 WN1531,,Tampa (TPA),Southwest Airlines B738 (N8556Z),Landed 19:26,2021-06-08
+181,181,18:40 WN5123,,Austin (AUS),Southwest Airlines B738 (N8547V),Landed 18:32,2021-06-08
+182,182,19:05 WN4854,,Miami (MIA),Southwest Airlines B737 (N480WN),Landed 18:20,2021-06-08
+183,183,19:05 WN5261,,Providence (PVD),Southwest Airlines B38M (N8816Q),Landed 19:27,2021-06-08
+184,184,19:15 WN5239,,Louisville (SDF),Southwest Airlines B738 (N8553W),Landed 18:51,2021-06-08
+185,185,19:20 WN217,,Cancun (CUN),Southwest Airlines B737 (N792SW),Landed 19:46,2021-06-08
+186,186,19:25 WN3705,,Columbus (CMH),Southwest Airlines B737 (N7833A),Landed 20:05,2021-06-08
+187,187,19:30 WN3312,,Buffalo (BUF),Southwest Airlines B738 (N8673F),Landed 19:07,2021-06-08
+188,188,19:30 WN5188,,Boston (BOS),Southwest Airlines B737 (N487WN),Landed 19:51,2021-06-08
+189,189,19:30 WN5558,,Fort Lauderdale (FLL),Southwest Airlines B738 (N8528Q),Landed 19:15,2021-06-08
+190,190,19:35 WN4549,,Pittsburgh (PIT),Southwest Airlines B738 (N8640D),Landed 19:33,2021-06-08
+191,191,19:35 WN4552,,Albany (ALB),Southwest Airlines B738 (N8544Z),Landed 19:13,2021-06-08
+192,192,19:40 WN504,,Memphis (MEM),Southwest Airlines B738 (N8685B),Landed 19:29,2021-06-08
+193,193,19:40 WN3255,,Portland (PWM),Southwest Airlines B738 (N8697C),Landed 19:22,2021-06-08
+194,194,19:40 WN4867,,Washington (DCA),Southwest Airlines (Triple Crown One Livery) B737 (N409WN),Landed 19:20,2021-06-08
+195,195,19:45 WN4342,,Charlotte (CLT),Southwest Airlines B737 (N7734H),Landed 21:28,2021-06-08
+196,196,19:45 WN4451,,Norfolk (ORF),Southwest Airlines B738 (N8623F),Landed 19:58,2021-06-08
+197,197,19:45 WN4724,,Baltimore (BWI),Southwest Airlines B738 (N8692F),Landed 19:31,2021-06-08
+198,198,19:50 WN2050,,Washington (IAD),Southwest Airlines B737 (N7836A),Landed 20:11,2021-06-08
+199,199,19:50 WN2327,,Minneapolis (MSP),Southwest Airlines B737 (N478WN),Landed 19:45,2021-06-08
+200,200,19:50 WN4075,,Cleveland (CLE),Southwest Airlines B737 (N566WN),Landed 19:36,2021-06-08
+201,201,19:55 WN433,,New Orleans (MSY),Southwest Airlines B738 (N8536Z),Landed 21:00,2021-06-08
+202,202,19:55 WN4383,,Richmond (RIC),Southwest Airlines B737 (N488WN),Landed 19:56,2021-06-08
+203,203,19:55 WN5487,,Nashville (BNA),Southwest Airlines B737 (N438WN),Unknown,2021-06-08
+204,204,20:00 WN623,,Raleigh-Durham (RDU),Southwest Airlines B737 (N498WN),Landed 20:15,2021-06-08
+205,205,20:00 WN2847,,Atlanta (ATL),Southwest Airlines B738 (N8560Z),Landed 20:36,2021-06-08
+206,206,20:00 WN5320,,Manchester (MHT),Southwest Airlines B737 (N483WN),Landed 19:53,2021-06-08
+207,207,20:05 WN2396,,Phoenix (PHX),Southwest Airlines B38M (N8741L),Landed 20:33,2021-06-08
+208,208,20:05 WN5095,,Fort Myers (RSW),Southwest Airlines B738 (N8526W),Landed 20:21,2021-06-08
+209,209,20:06 1I523,,Mason City (MCW),NetJets C68A,Unknown,2021-06-08
+210,210,20:10 WN3472,,Las Vegas (LAS),Southwest Airlines B738 (N8312C),Landed 20:49,2021-06-08
+211,211,20:15 WN590,,New York (LGA),Southwest Airlines B737 (N237WN),Landed 22:27,2021-06-08
+212,212,20:15 WN1153,,Dallas (DAL),Southwest Airlines B738 (N8696E),Landed 20:09,2021-06-08
+213,213,20:32,,Indianapolis (IND),- LJ31,Canceled,2021-06-08
+214,214,20:34 Y4908,,Aguascalientes (AGU),Volaris A20N (XA-VRR),Landed 20:37,2021-06-08
+215,215,20:38 XSR359,,Columbus (CMH),AirShare E55P (N359AS),Landed 20:28,2021-06-08
+216,216,20:40 WN5202,,Denver (DEN),Southwest Airlines B737 (N755SA),Landed 20:23,2021-06-08
+217,217,20:45 WN2312,,Tampa (TPA),Southwest Airlines B738 (N8580Z),Landed 21:16,2021-06-08
+218,218,20:45 WN5140,,Houston (HOU),Southwest Airlines B737 (N7863A),Landed 20:39,2021-06-08
+219,219,20:50 WN2915,,Orlando (MCO),Southwest Airlines B737 (N725SW),Landed 20:45,2021-06-08
+220,220,21:00 WN3569,,Austin (AUS),Southwest Airlines (Classic Retro Livery) B737 (N714CB),Landed 20:40,2021-06-08
+221,221,21:20 WN5986,,Oakland (OAK),Southwest Airlines B738 (N8527Q),Landed 21:04,2021-06-08
+222,222,21:25 WN5322,,San Diego (SAN),Southwest Airlines B738 (N8551Q),Landed 21:12,2021-06-08
+223,223,21:44,,Pueblo (PUB),- HDJT (C-GMKT),Landed 21:43,2021-06-08
+224,224,21:45 WN5514,,Las Vegas (LAS),Southwest Airlines B737 (N485WN),Landed 21:34,2021-06-08
+225,225,22:00 WN2212,,Los Angeles (LAX),Southwest Airlines B737 (N464WN),Landed 22:25,2021-06-08
+226,226,22:03,DL5235,Minneapolis (MSP),Delta Connection CRJ7 (N398CA),Landed 22:32,2021-06-08
+227,227,22:05 WN4532,,Dallas (DAL),Southwest Airlines B737 (N557WN),Landed 21:55,2021-06-08
+228,228,22:10 WN5210,,St. Louis (STL),Southwest Airlines B38M (N8728Q),Landed 21:47,2021-06-08
+229,229,22:15 WN2650,,Fort Lauderdale (FLL),Southwest Airlines B38M (N8739L),Landed 22:02,2021-06-08
+230,230,22:30 WN4144,,Nashville (BNA),Southwest Airlines B737 (N278WN),Landed 22:05,2021-06-08
+231,231,22:30 WN4918,,Fort Myers (RSW),Southwest Airlines B738 (N8683D),Landed 23:26,2021-06-08
+232,232,22:35 WN5657,,Orlando (MCO),Southwest Airlines B737 (N720WN),Landed 22:35,2021-06-08
+233,233,22:40 WN1506,,Baltimore (BWI),Southwest Airlines B737 (N902WN),Landed 22:50,2021-06-08
+234,234,22:53,,Rice Lake (RIE),- PC12 (N586AT),Canceled,2021-06-08
+235,235,22:55 WN4753,,Miami (MIA),Southwest Airlines B737 (N930WN),Landed 22:37,2021-06-08
+236,236,23:00 WN5013,,Atlanta (ATL),Southwest Airlines B738 (N8699A),Landed 23:43,2021-06-08
+237,237,23:10 WN5020,,Phoenix (PHX),Southwest Airlines B737 (N760SW),Unknown,2021-06-08
+238,238,23:20 WN5545,,Tampa (TPA),Southwest Airlines B738 (N8303R),Landed 01:14,2021-06-08
+239,239,23:25 WN3603,,San Diego (SAN),Southwest Airlines B737 (N425LV),Landed 00:12,2021-06-08
+240,240,23:30 WN4619,,Houston (HOU),Southwest Airlines B38M (N8736J),Landed 23:15,2021-06-08
+241,241,23:35 WN6258,,Oakland (OAK),Southwest Airlines B737 (N799SW),Landed 23:12,2021-06-08
+242,242,23:41,DL2469,Atlanta (ATL),Delta Air Lines A319 (N345NB),Landed 23:22,2021-06-08
+243,243,23:55 WN2660,,Denver (DEN),Southwest Airlines B737 (N7849A),Landed 23:50,2021-06-08
+0,0,00:10 WN3648,,Dallas (DAL),Southwest Airlines B737 (N7850B),Landed 00:08,2021-06-09
+1,1,00:35 WN571,,Los Angeles (LAX),Southwest Airlines B738 (N8657B),Landed 00:47,2021-06-09
+2,2,00:55 WN1198,,Las Vegas (LAS),Southwest Airlines B738 (N8671D),Landed 01:49,2021-06-09
+3,3,00:55 WN5662,,Phoenix (PHX),Southwest Airlines (Missouri One Livery) B737 (N280WN),Landed 01:58,2021-06-09
+4,4,01:15 WN1931,,Denver (DEN),Southwest Airlines B38M (N8708Q),Landed 00:58,2021-06-09
+5,5,01:54 1I620,,Burbank (BUR),NetJets C68A,Unknown,2021-06-09
+6,6,05:26,,Oakland County (PTK),- CL60 (N991SH),Landed 05:45,2021-06-09
+7,7,06:25 WN3622,,Cincinnati (CVG),Southwest Airlines B737 (N469WN),Landed 06:09,2021-06-09
+8,8,06:45 WN1967,,Philadelphia (PHL),Southwest Airlines B737 (N219WN),Landed 06:33,2021-06-09
+9,9,06:50 WN389,,Buffalo (BUF),Southwest Airlines B738 (N8691A),Landed 06:44,2021-06-09
+10,10,06:50 WN4397,,Louisville (SDF),Southwest Airlines B738 (N8583Z),Landed 06:39,2021-06-09
+11,11,06:55 WN3432,,Charleston (CHS),Southwest Airlines B737 (N276WN),Landed 06:35,2021-06-09
+12,12,06:55 WN3469,,Cleveland (CLE),Southwest Airlines B738 (N8622A),Landed 06:37,2021-06-09
+13,13,07:05 WN2454,,Atlanta (ATL),Southwest Airlines B737 (N448WN),Landed 07:00,2021-06-09
+14,14,07:15 WN364,,New York (LGA),Southwest Airlines B737 (N7879A),Landed 06:48,2021-06-09
+15,15,07:15 WN3868,,Washington (DCA),Southwest Airlines B737 (N566WN),Landed 06:55,2021-06-09
+16,16,07:20 WN1829,,Minneapolis (MSP),Southwest Airlines B737 (N488WN),Landed 06:59,2021-06-09
+17,17,07:20 WN2884,,Grand Rapids (GRR),Southwest Airlines B737 (N483WN),Landed 07:11,2021-06-09
+18,18,07:20 WN4120,,Detroit (DTW),Southwest Airlines B738 (N8323C),Landed 07:06,2021-06-09
+19,19,07:25 WN2978,,Windsor Locks (BDL),Southwest Airlines B738 (N8667D),Landed 07:02,2021-06-09
+20,20,07:25 WN4177,,Providence (PVD),Southwest Airlines B738 (N8603F),Unknown,2021-06-09
+21,21,07:25 WN5549,,Myrtle Beach (MYR),Southwest Airlines B738 (N8608N),Landed 06:46,2021-06-09
+22,22,07:30 WN3775,,Pittsburgh (PIT),Southwest Airlines B737 (N411WN),Landed 07:14,2021-06-09
+23,23,07:30 WN4370,,Boston (BOS),Southwest Airlines B737 (N405WN),Landed 07:12,2021-06-09
+24,24,07:35 WN1473,,Raleigh-Durham (RDU),Southwest Airlines B737 (N201LV),Landed 07:21,2021-06-09
+25,25,07:35 WN3535,,Columbus (CMH),Southwest Airlines B738 (N8656B),Landed 07:30,2021-06-09
+26,26,07:35 WN5391,,Memphis (MEM),Southwest Airlines B737 (N7837A),Landed 07:17,2021-06-09
+27,27,07:40 WN3639,,Albany (ALB),Southwest Airlines B737 (N7744A),Landed 07:22,2021-06-09
+28,28,07:40 WN4794,,Omaha (OMA),Southwest Airlines B737 (N7752B),Landed 07:35,2021-06-09
+29,29,07:45 WN4580,,Washington (IAD),Southwest Airlines B38M (N8801Q),Landed 07:28,2021-06-09
+30,30,07:45 WN4682,,St. Louis (STL),Southwest Airlines B737 (N245WN),Landed 07:24,2021-06-09
+31,31,08:00 WN555,,Kansas City (MCI),Southwest Airlines B737 (N239WN),Landed 07:41,2021-06-09
+32,32,08:00 WN3131,,Fort Myers (RSW),Southwest Airlines B737 (N909WN),Landed 07:38,2021-06-09
+33,33,08:10 WN4643,,Orlando (MCO),Southwest Airlines B737 (N550WN),Landed 07:45,2021-06-09
+34,34,08:10 WN2392,,Nashville (BNA),Southwest Airlines B737 (N755SA),Landed 07:54,2021-06-09
+35,35,08:15 WN3071,,Manchester (MHT),Southwest Airlines B737 (N252WN),Landed 07:46,2021-06-09
+36,36,08:20 WN4984,,Sarasota (SRQ),Southwest Airlines (California One Livery) B737 (N943WN),Landed 07:58,2021-06-09
+37,37,08:30 WN4746,,Tampa (TPA),Southwest Airlines B738 (N8513F),Landed 08:12,2021-06-09
+38,38,08:35 WN460,,Dallas (DAL),Southwest Airlines B737 (N499WN),Landed 08:13,2021-06-09
+39,39,08:40 WN5420,,Miami (MIA),Southwest Airlines B737 (N7853B),Landed 08:02,2021-06-09
+40,40,08:45 WN5536,,New Orleans (MSY),Southwest Airlines B737 (N228WN),Landed 08:29,2021-06-09
+41,41,08:50 DL5155,,Detroit (DTW),Delta Connection CRJ7 (N368CA),Landed 08:34,2021-06-09
+42,42,08:55 WN1209,,Baltimore (BWI),Southwest Airlines B737 (N495WN),Landed 08:36,2021-06-09
+43,43,09:05 WN4275,,Fort Lauderdale (FLL),Southwest Airlines B737 (N7889A),Landed 08:50,2021-06-09
+44,44,09:07,,Champaign (CMI),- LJ45,Canceled,2021-06-09
+45,45,09:10 DL2483,,Atlanta (ATL),Delta Air Lines A319 (N344NB),Landed 08:59,2021-06-09
+46,46,09:12 1I693P,,Madison (MSN),Netjets C56X (N693QS),Unknown,2021-06-09
+47,47,09:25 WN4874,,Houston (HOU),Southwest Airlines B737 (N7855A),Landed 09:05,2021-06-09
+48,48,09:30 WN3583,,Colorado Springs (COS),Southwest Airlines B737 (N7868K),Landed 09:08,2021-06-09
+49,49,09:30 WN5403,,Denver (DEN),Southwest Airlines B737 (N244WN),Landed 09:17,2021-06-09
+50,50,09:35 WN3526,,Atlanta (ATL),Southwest Airlines B737 (N7729A),Landed 09:32,2021-06-09
+51,51,09:50 WN2291,,Orlando (MCO),Southwest Airlines B38M (N8744B),Landed 09:48,2021-06-09
+52,52,09:50 WN4957,,Fort Myers (RSW),Southwest Airlines B737 (N7702A),Landed 09:34,2021-06-09
+53,53,09:50,,Champaign (CMI),- LJ75,Canceled,2021-06-09
+54,54,09:51 DL5008,,Minneapolis (MSP),Delta Connection CRJ7 (N390CA),Landed 09:28,2021-06-09
+55,55,09:55 WN4615,,Houston (IAH),Southwest Airlines B737 (N253WN),Landed 09:27,2021-06-09
+56,56,09:55 WN5052,,Kansas City (MCI),Southwest Airlines B737 (N465WN),Landed 09:37,2021-06-09
+57,57,10:00 WN5581,,Salt Lake City (SLC),Southwest Airlines B738 (N8549Z),Landed 09:55,2021-06-09
+58,58,10:10 WN4995,,Nashville (BNA),Southwest Airlines B737 (N241WN),Landed 09:58,2021-06-09
+59,59,10:20 WN3190,,Dallas (DAL),Southwest Airlines B738 (N8576Z),Landed 10:00,2021-06-09
+60,60,10:20 WN3642,,Austin (AUS),Southwest Airlines B737 (N7847A),Landed 09:55,2021-06-09
+61,61,10:40 WN6217,,Denver (DEN),Southwest Airlines B737 (N903WN),Landed 11:33,2021-06-09
+62,62,10:50 Y4940,,Guadalajara (GDL),Volaris A320 (N512VL),Landed 10:47,2021-06-09
+63,63,10:51,,Kansas City (JCI),- BE20 (N982RA),Landed 10:42,2021-06-09
+64,64,11:05 WN3075,,Louisville (SDF),Southwest Airlines B737 (N408WN),Landed 10:48,2021-06-09
+65,65,11:15 WN4851,,Las Vegas (LAS),Southwest Airlines B737 (N7731A),Landed 11:12,2021-06-09
+66,66,11:25 WN3668,,Denver (DEN),Southwest Airlines B38M (N8731J),Landed 11:19,2021-06-09
+67,67,11:35 WN142,,Baltimore (BWI),Southwest Airlines B737 (N284WN),Landed 11:28,2021-06-09
+68,68,11:40 WN4706,,Tampa (TPA),Southwest Airlines B738 (N8571Z),Landed 11:22,2021-06-09
+69,69,11:45 WN2185,,St. Louis (STL),Southwest Airlines B38M (N8804L),Landed 11:38,2021-06-09
+70,70,11:45 WN5165,,Pensacola (PNS),Southwest Airlines B737 (N7867A),Landed 11:34,2021-06-09
+71,71,11:55 DL5759,,Atlanta (ATL),Delta Connection E75S (N204JQ),Landed 13:23,2021-06-09
+72,72,11:55 WN3204,,Kansas City (MCI),Southwest Airlines B738 (N8603F),Landed 11:49,2021-06-09
+73,73,11:55 WN5415,,Houston (HOU),Southwest Airlines B738 (N8679A),Landed 11:38,2021-06-09
+74,74,12:05 WN2331,,Ontario (ONT),Southwest Airlines B737 (N247WN),Landed 11:55,2021-06-09
+75,75,12:05 WN2935,,Boise (BOI),Southwest Airlines B38M (N8711Q),Landed 11:50,2021-06-09
+76,76,12:07,,Burlington (BTV),- CL35 (N312HC),Canceled,2021-06-09
+77,77,12:14 1I391,,Kankakee (IKK),NetJets E55P,Unknown,2021-06-09
+78,78,12:15 WN843,,Salt Lake City (SLC),Southwest Airlines B738 (N8635F),Landed 12:15,2021-06-09
+79,79,12:15 WN2973,,Minneapolis (MSP),Southwest Airlines B737 (N908WN),Landed 11:53,2021-06-09
+80,80,12:15 WN5011,,Los Angeles (LAX),Southwest Airlines B737 (N210WN),Landed 12:23,2021-06-09
+81,81,12:25 WN1101,,Tucson (TUS),Southwest Airlines B737 (N496WN),Landed 12:08,2021-06-09
+82,82,12:25 WN5262,,Sacramento (SMF),Southwest Airlines B738 (N8680C),Landed 12:17,2021-06-09
+83,83,12:25 1I743,,Omaha (OMA),NetJets CL35,Unknown,2021-06-09
+84,84,12:30 DL5229,,Detroit (DTW),Delta Connection CRJ7 (N340CA),Landed 12:11,2021-06-09
+85,85,12:35 WN4314,,Spokane (GEG),Southwest Airlines B737 (N7878A),Landed 12:35,2021-06-09
+86,86,12:35 WN4726,,San Francisco (SFO),Southwest Airlines B738 (N8605E),Landed 12:11,2021-06-09
+87,87,12:35 WN5159,,Phoenix (PHX),Southwest Airlines B738 (N8509U),Landed 12:24,2021-06-09
+88,88,12:40 WN723,,Philadelphia (PHL),Southwest Airlines B737 (N7746C),Landed 12:21,2021-06-09
+89,89,12:40 WN4870,,Portland (PDX),Southwest Airlines B738 (N8692F),Landed 12:28,2021-06-09
+90,90,12:40 WN5618,,Oakland (OAK),Southwest Airlines B737 (N487WN),Landed 12:27,2021-06-09
+91,91,12:41,,Wisconsin Rapids (ISW),- PC12 (N578NG),Landed 13:17,2021-06-09
+92,92,12:45 WN2320,,Omaha (OMA),Southwest Airlines B737 (N7853B),Landed 12:38,2021-06-09
+93,93,12:45 WN2633,,Las Vegas (LAS),Southwest Airlines B738 (N8582Z),Landed 12:35,2021-06-09
+94,94,12:45 WN3500,,Fort Lauderdale (FLL),Southwest Airlines B738 (N8617E),Landed 12:26,2021-06-09
+95,95,12:50 WN4083,,San Antonio (SAT),Southwest Airlines B737 (N950WN),Landed 12:29,2021-06-09
+96,96,12:50 WN4461,,Seattle (SEA),Southwest Airlines B737 (N238WN),Landed 12:47,2021-06-09
+97,97,13:00 WN775,,San Diego (SAN),Southwest Airlines B738 (N8526W),Landed 12:40,2021-06-09
+98,98,13:00 WN3950,,Burbank (BUR),Southwest Airlines B738 (N8611F),Landed 12:52,2021-06-09
+99,99,13:05 WN2116,,San Jose (SJC),Southwest Airlines B737 (N259WN),Landed 12:46,2021-06-09
+100,100,13:10 WN4427,,Detroit (DTW),Southwest Airlines B737 (N735SA),Landed 13:13,2021-06-09
+101,101,13:15 WN3876,,New Orleans (MSY),Southwest Airlines B737 (N773SA),Landed 12:59,2021-06-09
+102,102,13:15 WN5380,,Atlanta (ATL),Southwest Airlines B737 (N927WN),Landed 13:03,2021-06-09
+103,103,13:15 1I743,,North Platte (LBF),NetJets CL30,Unknown,2021-06-09
+104,104,13:20 WN2603,,Cleveland (CLE),Southwest Airlines B737 (N476WN),Landed 13:21,2021-06-09
+105,105,13:22 LXJ530,,St. Louis (SUS),Flexjet CL30,Unknown,2021-06-09
+106,106,13:25 WN3411,,Denver (DEN),Southwest Airlines B737 (N260WN),Landed 13:31,2021-06-09
+107,107,13:40 WN4138,,Pittsburgh (PIT),Southwest Airlines B738 (N8519R),Landed 13:21,2021-06-09
+108,108,13:45 WN3818,,Tampa (TPA),Southwest Airlines B38M (N8745K),Landed 13:35,2021-06-09
+109,109,13:55 WN5353,,Orlando (MCO),Southwest Airlines B738 (N8699A),Landed 13:33,2021-06-09
+110,110,13:55 WN6290,,Oakland (OAK),Southwest Airlines B737 (N285WN),Landed 13:35,2021-06-09
+111,111,14:00 WN2766,,Washington (IAD),Southwest Airlines B737 (N724SW),Landed 14:31,2021-06-09
+112,112,14:06 1I424,,Lexington (LEX),NetJets E55P,Unknown,2021-06-09
+113,113,14:10 WN3183,,Washington (DCA),Southwest Airlines B737 (N428WN),Landed 13:55,2021-06-09
+114,114,14:15 WN3061,,Dallas (DAL),Southwest Airlines B737 (N7732A),Landed 13:59,2021-06-09
+115,115,14:15 WN4050,,Austin (AUS),Southwest Airlines B737 (N7843A),Landed 13:47,2021-06-09
+116,116,14:15 WN5173,,Columbus (CMH),Southwest Airlines B738 (N8555Z),Landed 14:06,2021-06-09
+117,117,14:20 WN3647,,Savannah (SAV),Southwest Airlines B737 (N7865A),Landed 14:05,2021-06-09
+118,118,14:25 WN2407,,Richmond (RIC),Southwest Airlines B738 (N8685B),Landed 13:52,2021-06-09
+119,119,14:25 WN3098,,Panama City (ECP),Southwest Airlines (Colorado One Livery) B737 (N230WN),Landed 14:13,2021-06-09
+120,120,14:25 WN3888,,Boston (BOS),Southwest Airlines B738 (N8584Z),Landed 14:12,2021-06-09
+121,121,14:25 JL20,,Indianapolis (IND),Private owner BE40 (N20PJ),Landed 10:50,2021-06-09
+122,122,14:30 WN3654,,Las Vegas (LAS),Southwest Airlines B738 (N8537Z),Landed 14:30,2021-06-09
+123,123,14:30 WN3725,,New York (LGA),Southwest Airlines B737 (N295WN),Landed 14:06,2021-06-09
+124,124,14:35,,Oakland County (PTK),- CL60 (N991SH),Landed 15:43,2021-06-09
+125,125,14:39,,Houston (IAH),- WW24 (N22AV),Landed 15:31,2021-06-09
+126,126,14:45 WN3787,,Cincinnati (CVG),Southwest Airlines B737 (N7730A),Landed 14:35,2021-06-09
+127,127,14:50 WN5253,,Fort Myers (RSW),Southwest Airlines B738 (N8616C),Landed 14:38,2021-06-09
+128,128,14:50 WN264,,Baltimore (BWI),Southwest Airlines B737 (N755SA),Landed 14:36,2021-06-09
+129,129,14:51 GAJ867,,Madison (MSN),Wheels Up B350 (N867UP),Landed 14:53,2021-06-09
+130,130,14:55 WN1091,,Kansas City (MCI),Southwest Airlines B737 (N969WN),Landed 14:41,2021-06-09
+131,131,14:55 WN5341,,Houston (HOU),Southwest Airlines B737 (N7850B),Landed 14:45,2021-06-09
+132,132,14:56 XOJ769,,Miami (OPF),Xojet C750 (N769XJ),Unknown,2021-06-09
+133,133,15:03 Y4942,,Silao (BJX),Volaris A320 (XA-VOZ),Landed 14:55,2021-06-09
+134,134,15:09,DL2537,Atlanta (ATL),Delta Air Lines A319 (N349NB),Landed 15:35,2021-06-09
+135,135,15:10 WN2852,,Destin Fort Walton Beach (VPS),Southwest Airlines B737 (N219WN),Landed 15:14,2021-06-09
+136,136,15:13 XOJ578,,White Plains (HPN),Xojet CL30 (N578XJ),Unknown,2021-06-09
+137,137,15:15 WN5814,,Cleveland (CLE),Southwest Airlines 73W,Canceled,2021-06-09
+138,138,15:18 1I589,,Clarksville (CKV),NetJets C56X,Unknown,2021-06-09
+139,139,15:20 WN219,,Cancun (CUN),Southwest Airlines B737 (N902WN),Landed 14:56,2021-06-09
+140,140,15:30 WN4916,,Phoenix (PHX),Southwest Airlines B737 (N444WN),Landed 15:23,2021-06-09
+141,141,15:32 XOJ751,,Lincoln (LNK),Xojet C750 (N751XJ),Unknown,2021-06-09
+142,142,15:40 WN5911,,Buffalo (BUF),Southwest Airlines B738 (N8556Z),Landed 15:26,2021-06-09
+143,143,15:45 WN103,,Nashville (BNA),Southwest Airlines B738 (N8618N),Landed 15:38,2021-06-09
+144,144,15:45 WN4217,,Orlando (MCO),Southwest Airlines B737 (N737JW),Landed 16:24,2021-06-09
+145,145,15:48 1I522,,Chicago (PWK),NetJets C68A,Unknown,2021-06-09
+146,146,15:52,,Birmingham (BHM),- BE20 (N989LA),Landed 16:06,2021-06-09
+147,147,15:55 WN5896,,Las Vegas (LAS),Southwest Airlines B737 (N292WN),Landed 16:14,2021-06-09
+148,148,16:00 1I579,,Santa Barbara (SBA),NetJets C56X,Unknown,2021-06-09
+149,149,16:15 WN4838,,Reno (RNO),Southwest Airlines B737 (N728SW),Landed 16:14,2021-06-09
+150,150,16:20 WN314,,Santa Ana (SNA),Southwest Airlines B737 (N750SA),Landed 16:19,2021-06-09
+151,151,16:20 WN4376,,Oklahoma City (OKC),Southwest Airlines B737 (N490WN),Landed 16:25,2021-06-09
+152,152,16:28,DL4828,Detroit (DTW),Delta Connection CRJ7 (N340CA),Landed 16:12,2021-06-09
+153,153,16:45 WN6291,,Nashville (BNA),Southwest Airlines B737 (N762SW),Landed 16:30,2021-06-09
+154,154,16:50 Y4946,,Morelia (MLM),Volaris A20N (XA-VRR),Landed 16:39,2021-06-09
+155,155,16:55 WN1427,,Myrtle Beach (MYR),Southwest Airlines B737 (N944WN),Landed 16:55,2021-06-09
+156,156,17:00 WN459,,Portland (PDX),Southwest Airlines B737 (N7815L),Landed 16:48,2021-06-09
+157,157,17:00 WN4867,,Fort Lauderdale (FLL),Southwest Airlines B737 (N953WN),Landed 20:02,2021-06-09
+158,158,17:05 WN5863,,San Jose (SJC),Southwest Airlines B737 (N291WN),Landed 16:48,2021-06-09
+159,159,17:05 WN5981,,Phoenix (PHX),Southwest Airlines B738 (N8671D),Landed 17:12,2021-06-09
+160,160,17:07,DL4949,Minneapolis (MSP),Delta Connection CRJ7 (N376CA),Landed 16:53,2021-06-09
+161,161,17:10 WN2995,,Omaha (OMA),Southwest Airlines B737 (N7742B),Landed 16:55,2021-06-09
+162,162,17:10 WN3822,,Grand Rapids (GRR),Southwest Airlines B38M (N8745K),Landed 17:01,2021-06-09
+163,163,17:10 WN5054,,Detroit (DTW),Southwest Airlines B738 (N8630B),Landed 16:57,2021-06-09
+164,164,17:11 1I391,,St. Louis (STL),NetJets E55P,Unknown,2021-06-09
+165,165,17:15 WN1809,,Albuquerque (ABQ),Southwest Airlines B738 (N8675A),Landed 17:05,2021-06-09
+166,166,17:15 WN4065,,Las Vegas (LAS),Southwest Airlines B738 (N8648A),Landed 16:50,2021-06-09
+167,167,17:15 WN4556,,Windsor Locks (BDL),Southwest Airlines B737 (N7880D),Landed 16:52,2021-06-09
+168,168,17:20 WN3326,,San Diego (SAN),Southwest Airlines B738 (N8577Z),Landed 17:02,2021-06-09
+169,169,17:20 WN3737,,Colorado Springs (COS),Southwest Airlines B737 (N401WN),Landed 17:27,2021-06-09
+170,170,17:22 TWY967,,Chicago (PWK),- C25A,Unknown,2021-06-09
+171,171,17:25 WN971,,San Juan (SJU),Southwest Airlines B738 (N8624J),Landed 17:16,2021-06-09
+172,172,17:25 WN2504,,Salt Lake City (SLC),Southwest Airlines B738 (N8315C),Landed 17:37,2021-06-09
+173,173,17:25 WN4479,,Minneapolis (MSP),Southwest Airlines B738 (N8605E),Landed 17:10,2021-06-09
+174,174,17:30 WN2455,,Sacramento (SMF),Southwest Airlines B738 (N8568Z),Landed 18:49,2021-06-09
+175,175,17:30 WN3869,,Oakland (OAK),Southwest Airlines B737 (N566WN),Landed 17:09,2021-06-09
+176,176,17:30 WN5205,,Long Beach (LGB),Southwest Airlines B38M (N8733M),Landed 18:30,2021-06-09
+177,177,17:40 WN4880,,Los Angeles (LAX),Southwest Airlines B738 (N8628A),Landed 17:38,2021-06-09
+178,178,17:41,DL5811,Atlanta (ATL),Delta Connection E75S (N204JQ),Landed 18:32,2021-06-09
+179,179,17:45 WN117,,St. Louis (STL),Southwest Airlines B737 (N231WN),Landed 17:32,2021-06-09
+180,180,17:50 WN1043,,Montego Bay (MBJ),Southwest Airlines B737 (N239WN),Landed 18:28,2021-06-09
+181,181,17:50 WN2386,,Denver (DEN),Southwest Airlines B738 (N8698B),Landed 17:33,2021-06-09
+182,182,17:50 WN2794,,Seattle (SEA),Southwest Airlines B38M (N8713M),Landed 17:59,2021-06-09
+183,183,17:55 WN332,,Sarasota (SRQ),Southwest Airlines B737 (N709SW),Landed 17:39,2021-06-09
+184,184,17:55 WN4666,,Birmingham (BHM),Southwest Airlines B737 (N735SA),Landed 18:29,2021-06-09
+185,185,18:10 WN4983,,Philadelphia (PHL),Southwest Airlines B738 (N8566Z),Landed 18:23,2021-06-09
+186,186,18:15 WN5677,,Charleston (CHS),Southwest Airlines B737 (N7844A),Landed 18:02,2021-06-09
+187,187,18:15 WN3492,,Phoenix (PHX),Southwest Airlines B738 (N8538V),Landed 18:12,2021-06-09
+188,188,18:20 WN1914,,Jacksonville (JAX),Southwest Airlines B737 (N746SW),Landed 18:59,2021-06-09
+189,189,18:25 WN3572,,Orlando (MCO),Southwest Airlines B737 (N951WN),Landed 19:24,2021-06-09
+190,190,18:30 WN4306,,Houston (IAH),Southwest Airlines B738 (N8622A),Landed 19:05,2021-06-09
+191,191,18:40 WN1531,,Tampa (TPA),Southwest Airlines B738 (N8679A),Landed 18:33,2021-06-09
+192,192,18:40 WN5123,,Austin (AUS),Southwest Airlines B738 (N8681M),Landed 18:41,2021-06-09
+193,193,19:05 WN4854,,Miami (MIA),Southwest Airlines B737 (N408WN),Landed 18:40,2021-06-09
+194,194,19:05 WN5261,,Providence (PVD),Southwest Airlines B738 (N8680C),Landed 19:05,2021-06-09
+195,195,19:09 SIS300,,Chicago (PWK),Silver Air CL30 (N300NJ),Landed 19:15,2021-06-09
+196,196,19:15 WN5239,,Louisville (SDF),Southwest Airlines B738 (N8504G),Landed 19:27,2021-06-09
+197,197,19:20 WN217,,Cancun (CUN),Southwest Airlines B737 (N555LV),Landed 19:19,2021-06-09
+198,198,19:25 WN3705,,Columbus (CMH),Southwest Airlines (California One Livery) B737 (N943WN),Landed 19:24,2021-06-09
+199,199,19:30 WN3312,,Buffalo (BUF),Southwest Airlines B38M (N8732S),Landed 19:28,2021-06-09
+200,200,19:30 WN5188,,Boston (BOS),Southwest Airlines B737 (N431WN),Landed 19:41,2021-06-09
+201,201,19:30 WN5558,,Fort Lauderdale (FLL),Southwest Airlines B38M (N8734Q),Landed 19:46,2021-06-09
+202,202,19:35 WN4549,,Pittsburgh (PIT),Southwest Airlines B738 (N8662F),Landed 19:34,2021-06-09
+203,203,19:35 WN4552,,Albany (ALB),Southwest Airlines B38M (N8743K),Landed 19:51,2021-06-09
+204,204,19:40 WN504,,Memphis (MEM),Southwest Airlines B38M (N8730Q),Landed 19:56,2021-06-09
+205,205,19:40 WN3255,,Portland (PWM),Southwest Airlines B738 (N8526W),Landed 19:26,2021-06-09
+206,206,19:40 WN4867,,Washington (DCA),Southwest Airlines B737,Canceled,2021-06-09
+207,207,19:45 WN4342,,Charlotte (CLT),Southwest Airlines B737 (N295WN),Landed 19:43,2021-06-09
+208,208,19:45 WN4451,,Norfolk (ORF),Southwest Airlines B738 (N8519R),Landed 20:27,2021-06-09
+209,209,19:45 WN4724,,Baltimore (BWI),Southwest Airlines B738 (N8541W),Landed 19:38,2021-06-09
+210,210,19:50 WN2050,,Washington (IAD),Southwest Airlines B737 (N7864B),Landed 19:56,2021-06-09
+211,211,19:50 WN2327,,Minneapolis (MSP),Southwest Airlines (Louisiana One Livery) B737 (N946WN),Landed 20:15,2021-06-09
+212,212,19:50 WN4075,,Cleveland (CLE),Southwest Airlines B737 (N725SW),Unknown,2021-06-09
+213,213,19:55 WN433,,New Orleans (MSY),Southwest Airlines B738 (N8503A),Landed 19:49,2021-06-09
+214,214,19:55 WN4383,,Richmond (RIC),Southwest Airlines B737 (N952WN),Landed 19:52,2021-06-09
+215,215,19:55 WN5487,,Nashville (BNA),Southwest Airlines B737 (N422WN),Landed 20:51,2021-06-09
+216,216,20:00 WN623,,Raleigh-Durham (RDU),Southwest Airlines B737 (N7739A),Landed 19:50,2021-06-09
+217,217,20:00 WN2847,,Atlanta (ATL),Southwest Airlines B738 (N8569Z),Landed 20:09,2021-06-09
+218,218,20:00 WN5320,,Manchester (MHT),Southwest Airlines B737 (N7732A),Landed 19:43,2021-06-09
+219,219,20:05 WN2396,,Phoenix (PHX),Southwest Airlines B738 (N8602F),Landed 19:56,2021-06-09
+220,220,20:05 WN5095,,Fort Myers (RSW),Southwest Airlines B738 (N8323C),Landed 20:04,2021-06-09
+221,221,20:10 WN3472,,Las Vegas (LAS),Southwest Airlines B738 (N8623F),Landed 19:54,2021-06-09
+222,222,20:15 WN590,,New York (LGA),Southwest Airlines B737 (N469WN),Canceled,2021-06-09
+223,223,20:15 WN1153,,Dallas (DAL),Southwest Airlines B738 (N8661A),Landed 20:25,2021-06-09
+224,224,20:21 FTH904,,Denver (BJC),- C750,Unknown,2021-06-09
+225,225,20:22 Y4948,,Zacatecas (ZCL),Volaris A320 (N512VL),Landed 20:04,2021-06-09
+226,226,20:40 WN5202,,Denver (DEN),Southwest Airlines B737 (N565WN),Landed 20:27,2021-06-09
+227,227,20:45 WN2312,,Tampa (TPA),Southwest Airlines B738 (N8607M),Landed 20:44,2021-06-09
+228,228,20:45 WN5140,,Houston (HOU),Southwest Airlines B737 (N751SW),Landed 20:58,2021-06-09
+229,229,20:50 WN2915,,Orlando (MCO),Southwest Airlines B737 (N956WN),Landed 20:41,2021-06-09
+230,230,21:00 WN3569,,Austin (AUS),Southwest Airlines B737 (N958WN),Landed 21:02,2021-06-09
+231,231,21:20 WN5986,,Oakland (OAK),Southwest Airlines B738 (N8625A),Landed 20:53,2021-06-09
+232,232,21:25 WN5322,,San Diego (SAN),Southwest Airlines B738 (N8544Z),Landed 20:58,2021-06-09
+233,233,21:26,,Denver (BJC),- BE40 (N100FN),Landed 21:45,2021-06-09
+234,234,21:45 WN5514,,Las Vegas (LAS),Southwest Airlines (Triple Crown One Livery) B737 (N409WN),Landed 21:48,2021-06-09
+235,235,21:45 1I520,,Columbus (CSG),Netjets C68A (N520QS),Unknown,2021-06-09
+236,236,22:00 WN2212,,Los Angeles (LAX),Southwest Airlines B737 (N496WN),Landed 21:38,2021-06-09
+237,237,22:03,DL5235,Minneapolis (MSP),Delta Connection CRJ7 (N376CA),Unknown,2021-06-09
+238,238,22:05 WN4532,,Dallas (DAL),Southwest Airlines B737 (N461WN),Landed 21:47,2021-06-09
+239,239,22:10 WN5210,,St. Louis (STL),Southwest Airlines B38M (N8733M),Landed 21:53,2021-06-09
+240,240,22:15 WN2650,,Fort Lauderdale (FLL),Southwest Airlines B738 (N8687A),Landed 21:46,2021-06-09
+241,241,22:30 WN4144,,Nashville (BNA),Southwest Airlines B737 (N7878A),Landed 22:30,2021-06-09
+242,242,22:30 WN4918,,Fort Myers (RSW),Southwest Airlines B737 (N444WN),Landed 22:16,2021-06-09
+243,243,22:35 WN5657,,Orlando (MCO),Southwest Airlines B737 (N7886A),Landed 22:19,2021-06-09
+244,244,22:40 WN1506,,Baltimore (BWI),Southwest Airlines B737 (N7736A),Landed 22:21,2021-06-09
+245,245,22:55 WN4753,,Miami (MIA),Southwest Airlines B737 (N748SW),Landed 23:31,2021-06-09
+246,246,23:00 WN5013,,Atlanta (ATL),Southwest Airlines B738 (N8534Z),Landed 22:35,2021-06-09
+247,247,23:10 WN5020,,Phoenix (PHX),Southwest Airlines B737 (N957WN),Landed 23:21,2021-06-09
+248,248,23:20 WN5545,,Tampa (TPA),Southwest Airlines B738 (N8523W),Landed 23:08,2021-06-09
+249,249,23:25 WN3603,,San Diego (SAN),Southwest Airlines B737 (N200WN),Landed 23:43,2021-06-09
+250,250,23:30 WN4619,,Houston (HOU),Southwest Airlines B738 (N8639B),Landed 00:05,2021-06-09
+251,251,23:41,DL2469,Atlanta (ATL),Delta Air Lines A319 (N337NB),Landed 23:33,2021-06-09
+252,252,23:55 WN2660,,Denver (DEN),Southwest Airlines B737 (N550WN),Landed 00:09,2021-06-09
+0,0,00:10 WN3648,,Dallas (DAL),Southwest Airlines B737 (N278WN),Landed 23:47,2021-06-10
+1,1,00:35 WN571,,Los Angeles (LAX),Southwest Airlines B738 (N8582Z),Landed 00:20,2021-06-10
+2,2,00:55 WN1198,,Las Vegas (LAS),Southwest Airlines B738 (N8646B),Landed 01:01,2021-06-10
+3,3,00:55 WN5662,,Phoenix (PHX),Southwest Airlines B737 (N413WN),Landed 02:10,2021-06-10
+4,4,01:15 WN1931,,Denver (DEN),Southwest Airlines B738 (N8622A),Landed 01:01,2021-06-10
+5,5,06:05 WN361,,Buffalo (BUF),Southwest Airlines B737 (N234WN),Landed 06:12,2021-06-10
+6,6,06:50 WN560,,Cincinnati (CVG),Southwest Airlines B737 (N414WN),Landed 06:36,2021-06-10
+7,7,07:00 WN177,,Atlanta (ATL),Southwest Airlines B737 (N745SW),Landed 07:29,2021-06-10
+8,8,07:00 WN694,,Washington (DCA),Southwest Airlines (Arizona One Livery) B737 (N955WN),Landed 07:20,2021-06-10
+9,9,07:00 WN1911,,Grand Rapids (GRR),Southwest Airlines B737 (N7732A),Unknown,2021-06-10
+10,10,07:02,,Detroit (YIP),- C310 (N6209X),Landed 07:15,2021-06-10
+11,11,07:05 WN482,,Cleveland (CLE),Southwest Airlines B737 (N236WN),Landed 06:53,2021-06-10
+12,12,07:05 WN1174,,Manchester (MHT),Southwest Airlines B738 (N8681M),Landed 06:39,2021-06-10
+13,13,07:05 WN1903,,Providence (PVD),Southwest Airlines B737 (N7830A),Landed 06:56,2021-06-10
+14,14,07:10 WN1112,,Detroit (DTW),Southwest Airlines B738 (N8673F),Landed 06:44,2021-06-10
+15,15,07:10 WN1562,,Pittsburgh (PIT),Southwest Airlines B738 (N8537Z),Landed 06:51,2021-06-10
+16,16,07:15 WN364,,New York (LGA),Southwest Airlines B737 (N7822A),Landed 07:27,2021-06-10
+17,17,07:15 WN1926,,Raleigh-Durham (RDU),Southwest Airlines B38M (N8801Q),Landed 07:07,2021-06-10
+18,18,07:20 WN255,,Windsor Locks (BDL),Southwest Airlines B738 (N8628A),Landed 07:02,2021-06-10
+19,19,07:20 WN1829,,Minneapolis (MSP),Southwest Airlines B737 (N952WN),Landed 07:05,2021-06-10
+20,20,07:25 WN430,,Baltimore (BWI),Southwest Airlines B737 (N555LV),Landed 06:54,2021-06-10
+21,21,07:25 WN1318,,Boston (BOS),Southwest Airlines B738 (N8677A),Landed 06:59,2021-06-10
+22,22,07:30 WN140,,Albany (ALB),Southwest Airlines B737 (N760SW),Landed 06:58,2021-06-10
+23,23,07:30 WN370,,Charleston (CHS),Southwest Airlines B737 (N415WN),Landed 07:18,2021-06-10
+24,24,07:30 WN507,,Philadelphia (PHL),Southwest Airlines B737 (N410WN),Landed 07:09,2021-06-10
+25,25,07:35 WN519,,Columbus (CMH),Southwest Airlines B737 (N7743B),Landed 07:17,2021-06-10
+26,26,07:35 WN1588,,Myrtle Beach (MYR),Southwest Airlines B738 (N8698B),Unknown,2021-06-10
+27,27,07:35 WN2080,,Louisville (SDF),Southwest Airlines B738 (N8603F),Landed 07:11,2021-06-10
+28,28,07:40 WN321,,Washington (IAD),Southwest Airlines B738 (N8663A),Landed 07:12,2021-06-10
+29,29,07:40 WN520,,Charlotte (CLT),Southwest Airlines B737 (N908WN),Landed 07:26,2021-06-10
+30,30,07:40 WN3275,,Memphis (MEM),Southwest Airlines B737 (N7737E),Landed 07:41,2021-06-10
+31,31,07:45 WN1624,,Nashville (BNA),Southwest Airlines B738 (N8533S),Landed 07:30,2021-06-10
+32,32,07:50 WN1249,,Fort Myers (RSW),Southwest Airlines B738 (N8605E),Landed 07:47,2021-06-10
+33,33,07:50 WN1443,,St. Louis (STL),Southwest Airlines B737 (N923WN),Landed 07:34,2021-06-10
+34,34,07:50 WN2258,,Sarasota (SRQ),Southwest Airlines (Lone Star One Livery) B737 (N931WN),Landed 07:32,2021-06-10
+35,35,07:55 WN1235,,Kansas City (MCI),Southwest Airlines B738 (N8619F),Landed 07:37,2021-06-10
+36,36,08:05 WN1891,,Miami (MIA),Southwest Airlines B737 (N950WN),Landed 07:41,2021-06-10
+37,37,08:05 WN2310,,Tampa (TPA),Southwest Airlines B737 (N472WN),Landed 07:45,2021-06-10
+38,38,08:14 CTL35,,Kansas City (MKC),Central Airlines (N719CA),Landed 08:13,2021-06-10
+39,39,08:15 WN871,,New Orleans (MSY),Southwest Airlines B737 (N495WN),Landed 08:08,2021-06-10
+40,40,08:20 WN1256,,Fort Lauderdale (FLL),Southwest Airlines B737 (N209WN),Landed 08:05,2021-06-10
+41,41,08:25 WN994,,Houston (HOU),Southwest Airlines B738 (N8318F),Landed 08:26,2021-06-10
+42,42,08:30 WN1653,,Dallas (DAL),Southwest Airlines B737 (N785SW),Landed 08:22,2021-06-10
+43,43,08:39 1I661,,Battle Creek (BTL),NetJets C56X,Unknown,2021-06-10
+44,44,08:45 WN1029,,Orlando (MCO),Southwest Airlines B738 (N8627B),Landed 08:24,2021-06-10
+45,45,08:50 DL5155,,Detroit (DTW),Delta Connection CRJ7 (N391CA),Landed 08:57,2021-06-10
+46,46,08:55 WN744,,Denver (DEN),Southwest Airlines B38M (N8739L),Landed 08:44,2021-06-10
+47,47,09:00 G41621,,Punta Gorda (PGD),Allegiant Air A320 (N220NV),Landed 08:40,2021-06-10
+48,48,09:00 WN1830,,Omaha (OMA),Southwest Airlines B737 (N269WN),Landed 08:58,2021-06-10
+49,49,09:10 DL2483,,Atlanta (ATL),Delta Air Lines A319 (N349NB),Landed 08:42,2021-06-10
+50,50,09:25 WN1040,,Houston (IAH),Southwest Airlines B737 (N219WN),Landed 09:00,2021-06-10
+51,51,09:30 WN548,,Colorado Springs (COS),Southwest Airlines B737 (N490WN),Landed 09:49,2021-06-10
+52,52,09:35 WN1564,,Baltimore (BWI),Southwest Airlines B737 (N566WN),Landed 09:21,2021-06-10
+53,53,09:35 WN2289,,Atlanta (ATL),Southwest Airlines B737 (N428WN),Landed 09:16,2021-06-10
+54,54,09:50 WN5602,,Tampa (TPA),Southwest Airlines B737 (N966WN),Landed 10:01,2021-06-10
+55,55,09:51 DL5008,,Minneapolis (MSP),Delta Connection CRJ7 (N398CA),Landed 09:52,2021-06-10
+56,56,09:55 WN1412,,Nashville (BNA),Southwest Airlines B737 (N444WN),Landed 09:34,2021-06-10
+57,57,10:13 G41932,,Destin Fort Walton Beach (VPS),Allegiant Air A320 (N277NV),Landed 10:05,2021-06-10
+58,58,10:15 WN2173,,Salt Lake City (SLC),Southwest Airlines B737 (N426WN),Unknown,2021-06-10
+59,59,10:20 WN1449,,Orlando (MCO),Southwest Airlines B737 (N769SW),Landed 10:26,2021-06-10
+60,60,10:26 JL1,,St. Louis (STL),Private owner BE40 (N1JP),Landed 10:29,2021-06-10
+61,61,10:30 WN629,,Dallas (DAL),Southwest Airlines B38M (N8742M),Landed 10:13,2021-06-10
+62,62,10:40 WN1820,,Phoenix (PHX),Southwest Airlines B737 (N427WN),Landed 10:46,2021-06-10
+63,63,10:50 Y4940,,Guadalajara (GDL),Volaris A20N (XA-VRT),Landed 11:19,2021-06-10
+64,64,11:06,,Stuart (SUA),- CL60 (N898AK),Landed 11:47,2021-06-10
+65,65,11:15 WN522,,Las Vegas (LAS),Southwest Airlines B737 (N205WN),Landed 11:27,2021-06-10
+66,66,11:35 WN5484,,Oakland (OAK),Southwest Airlines B737 (N475WN),Landed 11:22,2021-06-10
+67,67,11:40 WN1320,,Denver (DEN),Southwest Airlines B738 (N8614M),Landed 11:22,2021-06-10
+68,68,11:40 WN1753,,Pensacola (PNS),Southwest Airlines B737 (N245WN),Landed 11:44,2021-06-10
+69,69,11:45 WN4777,,Reno (RNO),Southwest Airlines B737 (N929WN),Landed 11:34,2021-06-10
+70,70,11:50 WN1016,,St. Louis (STL),Southwest Airlines B737 (N497WN),Landed 11:36,2021-06-10
+71,71,11:55 DL5759,,Atlanta (ATL),Delta Connection E75L (N227JQ),Landed 11:39,2021-06-10
+72,72,12:01 DCM1510,,Charleston (CHS),Fltplan PC12 (N770FL),Diverted to GSP,2021-06-10
+73,73,12:05 WN747,,Sacramento (SMF),Southwest Airlines B738 (N8626B),Landed 11:46,2021-06-10
+74,74,12:05 WN805,,New Orleans (MSY),Southwest Airlines B737 (N482WN),Landed 12:52,2021-06-10
+75,75,12:10 WN287,,Omaha (OMA),Southwest Airlines B738 (N8533S),Landed 12:53,2021-06-10
+76,76,12:10 WN355,,Los Angeles (LAX),Southwest Airlines B737 (N763SW),Landed 12:24,2021-06-10
+77,77,12:10 WN1365,,Austin (AUS),Southwest Airlines B737 (N7812G),Landed 11:58,2021-06-10
+78,78,12:14 EDG91,,Teterboro (TEB),- GLF4 (N913HH),Landed 12:27,2021-06-10
+79,79,12:15 WN512,,Louisville (SDF),Southwest Airlines B738 (N8667D),Landed 11:53,2021-06-10
+80,80,12:15 WN1006,,Fort Myers (RSW),Southwest Airlines B737 (N218WN),Landed 11:57,2021-06-10
+81,81,12:20 WN652,,San Francisco (SFO),Southwest Airlines B738 (N8579Z),Landed 12:42,2021-06-10
+82,82,12:20 WN1215,,Seattle (SEA),Southwest Airlines B737 (N7729A),Landed 12:04,2021-06-10
+83,83,12:20 WN2263,,Destin Fort Walton Beach (VPS),Southwest Airlines B737 (N734SA),Landed 12:14,2021-06-10
+84,84,12:25 WN892,,Spokane (GEG),Southwest Airlines B737 (N7735A),Landed 12:22,2021-06-10
+85,85,12:25 WN1101,,Tucson (TUS),Southwest Airlines B737 (N248WN),Landed 12:13,2021-06-10
+86,86,12:25 WN1439,,Houston (HOU),Southwest Airlines B738 (N8661A),Landed 12:29,2021-06-10
+87,87,12:30 DL5229,,Detroit (DTW),Delta Connection CRJ7 (N354CA),Landed 12:17,2021-06-10
+88,88,12:30 WN130,,Minneapolis (MSP),Southwest Airlines B737 (N785SW),Landed 12:18,2021-06-10
+89,89,12:30 WN127,,Orlando (MCO),Southwest Airlines B738 (N8689C),Landed 12:48,2021-06-10
+90,90,12:30 WN1537,,Portland (PDX),Southwest Airlines B738 (N8688J),Landed 12:19,2021-06-10
+91,91,12:35 WN719,,Las Vegas (LAS),Southwest Airlines B738 (N8524Z),Landed 12:36,2021-06-10
+92,92,12:35 WN8890,,New York (LGA),Southwest Airlines B737 (N7704B),Landed 12:27,2021-06-10
+93,93,12:40 WN723,,Philadelphia (PHL),Southwest Airlines B737 (N7858A),Landed 12:31,2021-06-10
+94,94,12:40 WN2161,,Tampa (TPA),Southwest Airlines B737 (N272WN),Landed 12:22,2021-06-10
+95,95,12:45 WN909,,San Antonio (SAT),Southwest Airlines B738 (N8655D),Landed 12:41,2021-06-10
+96,96,12:45 WN2016,,San Diego (SAN),Southwest Airlines B738 (N8323C),Landed 12:15,2021-06-10
+97,97,12:46 CTL35,,Saginaw (MBS),Central Airlines (N719CA),Diverted to MKC,2021-06-10
+98,98,12:50 WN166,,Cincinnati (CVG),Southwest Airlines B737 (N566WN),Landed 13:43,2021-06-10
+99,99,13:00 G4428,,Knoxville (TYS),Allegiant Air A320 (N242NV),Landed 12:38,2021-06-10
+100,100,13:00 WN1379,,Kansas City (MCI),Southwest Airlines B738 (N8627B),Landed 13:06,2021-06-10
+101,101,13:00 WN1582,,Washington (IAD),Southwest Airlines B737 (N495WN),Landed 13:01,2021-06-10
+102,102,13:05 WN5847,,San Jose (SJC),Southwest Airlines B737 (N276WN),Landed 12:49,2021-06-10
+103,103,13:15 WN702,,Cleveland (CLE),Southwest Airlines B738 (N8564Z),Landed 13:23,2021-06-10
+104,104,13:15 WN960,,Columbus (CMH),Southwest Airlines B737 (N7875A),Landed 13:42,2021-06-10
+105,105,13:20 WN320,,Phoenix (PHX),Southwest Airlines B738 (N8574Z),Landed 12:56,2021-06-10
+106,106,13:20 WN1250,,Oklahoma City (OKC),Southwest Airlines B737 (N295WN),Landed 13:10,2021-06-10
+107,107,13:20 WN5594,,Detroit (DTW),Southwest Airlines B737 (N966WN),Landed 13:51,2021-06-10
+108,108,13:25 WN1307,,Pittsburgh (PIT),Southwest Airlines B738 (N8325D),Landed 13:53,2021-06-10
+109,109,13:30 WN1014,,Washington (DCA),Southwest Airlines B737 (N7813P),Landed 13:09,2021-06-10
+110,110,13:40 WN872,,Charleston (CHS),Southwest Airlines B737 (N209WN),Landed 13:50,2021-06-10
+111,111,13:45 WN318,,Denver (DEN),Southwest Airlines B38M (N8811L),Landed 13:36,2021-06-10
+112,112,13:50 WN649,,Birmingham (BHM),Southwest Airlines B737 (N559WN),Landed 13:51,2021-06-10
+113,113,13:55 WN598,,Ontario (ONT),Southwest Airlines B737 (N755SA),Landed 13:30,2021-06-10
+114,114,14:00 WN586,,Fort Lauderdale (FLL),Southwest Airlines B737 (N7826B),Landed 14:15,2021-06-10
+115,115,14:05 WN1087,,Richmond (RIC),Southwest Airlines B737 (N293WN),Landed 14:13,2021-06-10
+116,116,14:05 WN5975,,Grand Rapids (GRR),Southwest Airlines B737 (N745SW),Landed 13:48,2021-06-10
+117,117,14:15 WN1884,,Savannah (SAV),Southwest Airlines B737 (N243WN),Landed 13:59,2021-06-10
+118,118,14:17,,Madison (MSN),- F900 (N70LF),Landed 14:42,2021-06-10
+119,119,14:20 WN1332,,Boston (BOS),Southwest Airlines B737 (N202WN),Landed 14:27,2021-06-10
+120,120,14:21,,Chicago (PWK),- C55B (N93VR),Canceled,2021-06-10
+121,121,14:25 WN1695,,Las Vegas (LAS),Southwest Airlines B737 (N7748A),Landed 14:34,2021-06-10
+122,122,14:30 WN746,,Colorado Springs (COS),Southwest Airlines B737 (N252WN),Landed 14:06,2021-06-10
+123,123,14:35 WN416,,New York (LGA),Southwest Airlines B737 (N282WN),Landed 14:31,2021-06-10
+124,124,14:45 WN18,,Dallas (DAL),Southwest Airlines B737 (N425LV),Landed 14:56,2021-06-10
+125,125,14:45 WN3121,,Orlando (MCO),Southwest Airlines B737 (N452WN),Landed 14:43,2021-06-10
+126,126,14:50 WN264,,Baltimore (BWI),Southwest Airlines B737 (N259WN),Landed 15:39,2021-06-10
+127,127,15:00 WN668,,Panama City (ECP),Southwest Airlines B737 (N7859B),Landed 14:55,2021-06-10
+128,128,15:00 1I802,,Scottsdale (SCF),NetJets C700 (N802QS),Landed 15:06,2021-06-10
+129,129,15:03 Y4942,,Silao (BJX),Volaris A20N (XA-VRR),Landed 14:50,2021-06-10
+130,130,15:05 1I808,,Chicago (PWK),Netjets C700 (N808QS),Landed 15:08,2021-06-10
+131,131,15:09,DL2537,Atlanta (ATL),Delta Air Lines A319 (N340NB),Landed 15:03,2021-06-10
+132,132,15:15 WN876,,Atlanta (ATL),Southwest Airlines B737 (N7837A),Landed 15:12,2021-06-10
+133,133,15:20 WN219,,Cancun (CUN),Southwest Airlines B737 (N556WN),Landed 17:33,2021-06-10
+134,134,15:30 WN2309,,Nashville (BNA),Southwest Airlines (Missouri One Livery) B737 (N280WN),Landed 15:47,2021-06-10
+135,135,15:35 WN1334,,Los Angeles (LAX),Southwest Airlines B738 (N8610A),Landed 15:14,2021-06-10
+136,136,15:36 1I613P,,Memphis (MEM),NetJets C56X,Unknown,2021-06-10
+137,137,15:42 1I100,,Oakland (OAK),NetJets GL5T,Unknown,2021-06-10
+138,138,15:45 WN393,,Miami (MIA),Southwest Airlines B738 (N8507C),Landed 15:21,2021-06-10
+139,139,15:45 WN454,,Albuquerque (ABQ),Southwest Airlines B737 (N241WN),Landed 16:39,2021-06-10
+140,140,15:45 WN3914,,Myrtle Beach (MYR),Southwest Airlines B737 (N494WN),Landed 15:25,2021-06-10
+141,141,15:50 WN992,,Washington (DCA),Southwest Airlines B737 (N716SW),Landed 15:35,2021-06-10
+142,142,15:50 WN5952,,Buffalo (BUF),Southwest Airlines B738 (N8520Q),Landed 15:39,2021-06-10
+143,143,15:55 WN1594,,Kansas City (MCI),Southwest Airlines B737 (N257WN),Landed 15:51,2021-06-10
+144,144,15:55 WN5857,,Las Vegas (LAS),Southwest Airlines B737 (N265WN),Landed 15:53,2021-06-10
+145,145,15:57 Y4946,,Morelia (MLM),Volaris A320 (N512VL),Landed 15:44,2021-06-10
+146,146,15:58,,Kennett (KNT),- BE36 (N316JG),Landed 16:16,2021-06-10
+147,147,16:00 WN253,,Denver (DEN),Southwest Airlines B738 (N8611F),Landed 16:04,2021-06-10
+148,148,16:00 WN923,,Phoenix (PHX),Southwest Airlines B38M (N8734Q),Landed 16:17,2021-06-10
+149,149,16:05 WN1721,,Santa Ana (SNA),Southwest Airlines B737 (N451WN),Landed 15:52,2021-06-10
+150,150,16:06 1I157,,Naples (APF),NetJets GLEX (N157QS),Diverted to PDK,2021-06-10
+151,151,16:15 WN1113,,Boise (BOI),Southwest Airlines B738 (N8616C),Landed 15:58,2021-06-10
+152,152,16:24 1I310,,Bedford (BED),NetJets E55P,Unknown,2021-06-10
+153,153,16:24 1I316,,Hickory (HKY),NetJets E55P,Unknown,2021-06-10
+154,154,16:24 1I231,,St. Louis (SUS),NetJets CL60,Unknown,2021-06-10
+155,155,16:28,DL4828,Detroit (DTW),Delta Connection CRJ7 (N317CA),Landed 16:15,2021-06-10
+156,156,16:30 SIS300,,Atlanta (PDK),Silver Air CL30 (N300NJ),Landed 16:23,2021-06-10
+157,157,16:35 WN1261,,Tampa (TPA),Southwest Airlines B737 (N407WN),Landed 16:25,2021-06-10
+158,158,16:35 WN1618,,Austin (AUS),Southwest Airlines B737 (N411WN),Landed 16:24,2021-06-10
+159,159,16:41 WN9007,,Dallas (DAL),Southwest Airlines B737 (N928WN),Landed 17:45,2021-06-10
+160,160,16:45 1I157,,Atlanta (PDK),NetJets GLEX (N157QS),Diverted to PVD,2021-06-10
+161,161,16:49 1I408,,Magangue (MGN),NetJets EP3,Unknown,2021-06-10
+162,162,16:50 WN1155,,Philadelphia (PHL),Southwest Airlines B737 (N205WN),Landed 18:11,2021-06-10
+163,163,16:55 WN1793,,Seattle (SEA),Southwest Airlines B38M (N8806Q),Landed 17:43,2021-06-10
+164,164,16:59 DL8884,,St. Louis (CPS),Delta Air Lines B752 (N664DN),Landed 17:00,2021-06-10
+165,165,17:00 WN445,,Dallas (DAL),Southwest Airlines B737 (N469WN),Unknown,2021-06-10
+166,166,17:00 1I367,,St. Louis (STL),NetJets E55P,Unknown,2021-06-10
+167,167,17:07,DL4949,Minneapolis (MSP),Delta Connection CRJ7 (N376CA),Unknown,2021-06-10
+168,168,17:13 DPJ26,,Teterboro (TEB),Delta Private Jets CL60 (N226MY),Landed 17:10,2021-06-10
+169,169,17:15 WN797,,Burbank (BUR),Southwest Airlines B737 (N7816B),Landed 17:04,2021-06-10
+170,170,17:15 WN839,,San Diego (SAN),Southwest Airlines B738 (N8519R),Landed 16:54,2021-06-10
+171,171,17:20 WN383,,Salt Lake City (SLC),Southwest Airlines B738 (N8607M),Landed 17:10,2021-06-10
+172,172,17:20 WN1429,,Sarasota (SRQ),Southwest Airlines B737 (N200WN),Landed 17:07,2021-06-10
+173,173,17:25 WN858,,Houston (IAH),Southwest Airlines B38M (N8745K),Landed 16:57,2021-06-10
+174,174,17:25 WN1012,,Houston (HOU),Southwest Airlines B38M (N8733M),Landed 18:00,2021-06-10
+175,175,17:25 WN1774,,Oakland (OAK),Southwest Airlines B38M (N8814K),Landed 17:23,2021-06-10
+176,176,17:29 Y45946,,Morelia (MLM),Volaris A320 (XA-VLC),Landed 17:20,2021-06-10
+177,177,17:30 WN1525,,Jacksonville (JAX),Southwest Airlines B737 (N7720F),Landed 17:43,2021-06-10
+178,178,17:30 WN1934,,Minneapolis (MSP),Southwest Airlines B737 (N737JW),Landed 17:52,2021-06-10
+179,179,17:30 WN2307,,Sacramento (SMF),Southwest Airlines B738 (N8545V),Landed 17:48,2021-06-10
+180,180,17:30 1I323,,Oakland County (PTK),NetJets C680,Unknown,2021-06-10
+181,181,17:35 WN815,,Portland (PDX),Southwest Airlines B738 (N8671D),Landed 17:39,2021-06-10
+182,182,17:35 WN1336,,Detroit (DTW),Southwest Airlines B737 (N412WN),Landed 17:39,2021-06-10
+183,183,17:35 WN1959,,St. Louis (STL),Southwest Airlines B738 (N8625A),Landed 17:15,2021-06-10
+184,184,17:40 WN278,,San Juan (SJU),Southwest Airlines B738 (N8517F),Landed 17:27,2021-06-10
+185,185,17:40 WN351,,Grand Rapids (GRR),Southwest Airlines B737 (N7726A),Landed 17:34,2021-06-10
+186,186,17:40 WN566,,Omaha (OMA),Southwest Airlines B737 (N949WN),Landed 17:33,2021-06-10
+187,187,17:41,DL5811,Atlanta (ATL),Delta Connection E75S (N204JQ),Landed 17:24,2021-06-10
+188,188,17:45 WN1005,,Denver (DEN),Southwest Airlines B738 (N8652B),Landed 17:49,2021-06-10
+189,189,17:45 WN1217,,Las Vegas (LAS),Southwest Airlines B737 (N7829B),Landed 17:19,2021-06-10
+190,190,17:45 WN1904,,Long Beach (LGB),Southwest Airlines B737 (N7830A),Landed 18:02,2021-06-10
+191,191,17:50 WN827,,Orlando (MCO),Southwest Airlines B737 (N232WN),Unknown,2021-06-10
+192,192,17:50 WN1043,,Montego Bay (MBJ),Southwest Airlines B737 (N7736A),Landed 18:04,2021-06-10
+193,193,17:50 WN5842,,Cleveland (CLE),Southwest Airlines B738 (N8542Z),Diverted to CLE,2021-06-10
+194,194,17:51,,Washington (IAD),- (N990WJ),Landed 19:06,2021-06-10
+195,195,18:00 1I436,,Memphis (MEM),NetJets E55P,Unknown,2021-06-10
+196,196,18:18,,Goshen (GSH),- C152 (N84MK),Landed 18:15,2021-06-10
+197,197,18:20 WN116,,San Jose (SJC),Southwest Airlines B737 (N7713A),Landed 18:07,2021-06-10
+198,198,18:25 WN1084,,Charleston (CHS),Southwest Airlines B737 (N915WN),Landed 20:00,2021-06-10
+199,199,18:25 WN1300,,New Orleans (MSY),Southwest Airlines B737 (N445WN),Landed 19:20,2021-06-10
+200,200,18:40 WN856,,Fort Myers (RSW),Southwest Airlines B737 (N944WN),Landed 19:45,2021-06-10
+201,201,18:40 WN5967,,Phoenix (PHX),Southwest Airlines B38M (N8738K),Landed 19:06,2021-06-10
+202,202,18:40 WN5992,,Denver (DEN),Southwest Airlines B737 (N956WN),Landed 18:30,2021-06-10
+203,203,18:43 G42540,,Savannah (SAV),Allegiant Air A319 (N309NV),Landed 18:34,2021-06-10
+204,204,18:55,,Flint (FNT),- (N724GP),Unknown,2021-06-10
+205,205,19:04 WDY500,,Chicago (PWK),Private owner GLF5 (N900J),Landed 19:30,2021-06-10
+206,206,19:05 WN421,,Orlando (MCO),Southwest Airlines B738 (N8650F),Landed 18:42,2021-06-10
+207,207,19:05 WN1440,,Portland (PWM),Southwest Airlines B738 (N8574Z),Landed 19:27,2021-06-10
+208,208,19:05 WN2844,,Windsor Locks (BDL),Southwest Airlines B737 (N295WN),Landed 20:00,2021-06-10
+209,209,19:15 WN170,,Baltimore (BWI),Southwest Airlines B737 (N560WN),Canceled,2021-06-10
+210,210,19:20 WN217,,Cancun (CUN),Southwest Airlines B737 (N7827A),Landed 18:54,2021-06-10
+211,211,19:30 WN281,,Providence (PVD),Southwest Airlines B737 (N910WN),Landed 19:33,2021-06-10
+212,212,19:35 WN1736,,Louisville (SDF),Southwest Airlines B737 (N406WN),Landed 19:16,2021-06-10
+213,213,19:40 WN1346,,Manchester (MHT),Southwest Airlines B738 (N8325D),Landed 19:48,2021-06-10
+214,214,19:45 WN397,,Boston (BOS),Southwest Airlines B737 (N904WN),Landed 19:44,2021-06-10
+215,215,19:45 WN1543,,Cleveland (CLE),Southwest Airlines B737 (N7888A),Landed 19:34,2021-06-10
+216,216,19:50 WN1063,,Washington (DCA),Southwest Airlines B737 (N425LV),Landed 20:31,2021-06-10
+217,217,19:50 WN1172,,Albany (ALB),Southwest Airlines B738 (N8579Z),Landed 19:54,2021-06-10
+218,218,19:55 WN428,,Buffalo (BUF),Southwest Airlines B738 (N8649A),Landed 23:46,2021-06-10
+219,219,19:55 WN704,,Denver (DEN),Southwest Airlines B738 (N8564Z),Landed 19:33,2021-06-10
+220,220,19:55 WN1916,,Kansas City (MCI),Southwest Airlines B737 (N482WN),Landed 20:34,2021-06-10
+221,221,20:00 WN1620,,Raleigh-Durham (RDU),Southwest Airlines B738 (N8601C),Landed 20:49,2021-06-10
+222,222,20:00 WN1641,,Richmond (RIC),Southwest Airlines B738 (N8697C),Landed 20:06,2021-06-10
+223,223,20:00 WN2169,,Pittsburgh (PIT),Southwest Airlines B738 (N8540V),Landed 20:15,2021-06-10
+224,224,20:05 WN403,,Washington (IAD),Southwest Airlines B738 (N8582Z),Landed 20:55,2021-06-10
+225,225,20:05 WN1075,,Norfolk (ORF),Southwest Airlines B738 (N8608N),Landed 01:30,2021-06-10
+226,226,20:05 WN2158,,Memphis (MEM),Southwest Airlines B738 (N8536Z),Landed 20:40,2021-06-10
+227,227,20:10 WN1711,,Minneapolis (MSP),Southwest Airlines B737 (N237WN),Landed 19:43,2021-06-10
+228,228,20:10 WN1527,,St. Louis (STL),Southwest Airlines B737 (N7884G),Landed 20:44,2021-06-10
+229,229,20:10 WN1696,,Columbus (CMH),Southwest Airlines B737 (N763SW),Landed 20:39,2021-06-10
+230,230,20:10,,Kalamazoo (AZO),- BE4W (N95BZ),Landed 20:11,2021-06-10
+231,231,20:15 WN590,,New York (LGA),Southwest Airlines B737 (N7826B),Landed 20:49,2021-06-10
+232,232,20:15 WN1135,,Phoenix (PHX),Southwest Airlines B38M (N8747Q),Landed 20:27,2021-06-10
+233,233,20:15 WN5984,,Oakland (OAK),Southwest Airlines B38M (N8701Q),Landed 19:59,2021-06-10
+234,234,20:22 Y4948,,Zacatecas (ZCL),Volaris A20N (XA-VRT),Landed 20:28,2021-06-10
+235,235,20:25 WN417,,Austin (AUS),Southwest Airlines B38M (N8808Q),Landed 20:58,2021-06-10
+236,236,20:30 WN847,,Atlanta (ATL),Southwest Airlines (Nevada One Livery) B737 (N727SW),Landed 21:38,2021-06-10
+237,237,20:30 WN524,,Nashville (BNA),Southwest Airlines B738 (N8627B),Landed 21:07,2021-06-10
+238,238,20:45 WN2312,,Tampa (TPA),Southwest Airlines B737 (N472WN),Landed 20:50,2021-06-10
+239,239,20:50 WN1734,,Los Angeles (LAX),Southwest Airlines B738 (N8539V),Landed 20:32,2021-06-10
+240,240,20:55 WN2189,,Las Vegas (LAS),Southwest Airlines B738 (N8662F),Landed 22:13,2021-06-10
+241,241,21:00 WN1758,,Fort Myers (RSW),Southwest Airlines B737 (N473WN),Landed 21:05,2021-06-10
+242,242,21:05 WN44,,Dallas (DAL),Southwest Airlines B738 (N8515X),Landed 21:08,2021-06-10
+243,243,21:05 WN953,,Fort Lauderdale (FLL),Southwest Airlines B738 (N8621A),Landed 20:45,2021-06-10
+244,244,21:10 WN1420,,Orlando (MCO),Southwest Airlines B738 (N8622A),Landed 21:06,2021-06-10
+245,245,21:10 WN3268,,San Diego (SAN),Southwest Airlines B737 (N929WN),Landed 21:00,2021-06-10
+246,246,21:20 WN859,,Houston (HOU),Southwest Airlines B38M (N8818Q),Landed 22:17,2021-06-10
+247,247,21:35 WN1971,,Miami (MIA),Southwest Airlines B737 (N7702A),Landed 22:09,2021-06-10
+248,248,21:36 1I156,,Chicago (PWK),NetJets GLEX (N156QS),Landed 21:40,2021-06-10
+249,249,21:55 UA2545,,Chicago (ORD),United Airlines A320 (N447UA),Landed 21:25,2021-06-10
+250,250,21:55 WN588,,Baltimore (BWI),Southwest Airlines B737 (N255WN),Canceled,2021-06-10
+251,251,22:03,DL5235,Minneapolis (MSP),Delta Connection CRJ7 (N668CA),Landed 22:37,2021-06-10
+252,252,22:24 1I689,,White Plains (HPN),NetJets CJL,Canceled,2021-06-10
+253,253,22:40 WN1593,,Dallas (DAL),Southwest Airlines B737 (N407WN),Landed 23:00,2021-06-10
+254,254,22:50 WN680,,Atlanta (ATL),Southwest Airlines B737 (N725SW),Landed 22:38,2021-06-10
+255,255,22:55 WN2070,,Austin (AUS),Southwest Airlines B737 (N7848A),Landed 23:11,2021-06-10
+256,256,23:05 WN1602,,Las Vegas (LAS),Southwest Airlines B738 (N8656B),Landed 23:08,2021-06-10
+257,257,23:10 WN669,,Fort Myers (RSW),Southwest Airlines B737 (N7859B),Landed 23:23,2021-06-10
+258,258,23:20 WN241,,Nashville (BNA),Southwest Airlines B737 (N7833A),Landed 23:15,2021-06-10
+259,259,23:30 WN1826,,Tampa (TPA),Southwest Airlines B737 (N213WN),Landed 23:55,2021-06-10
+260,260,23:40 WN2678,,Denver (DEN),Southwest Airlines B737 (N563WN),Landed 00:52,2021-06-10
+261,261,23:41,DL2469,Atlanta (ATL),Delta Air Lines A319 (N347NB),Landed 23:41,2021-06-10
+262,262,23:50 WN807,,Phoenix (PHX),Southwest Airlines B737 (N951WN),Landed 23:31,2021-06-10
+263,263,23:50 WN1019,,Houston (HOU),Southwest Airlines B737 (N460WN),Landed 23:51,2021-06-10
+0,0,00:05 WN543,,Fort Lauderdale (FLL),Southwest Airlines B737 (N941WN),Landed 23:45,2021-06-11
+1,1,00:25 WN1403,,Orlando (MCO),Southwest Airlines B738 (N8645A),Landed 00:18,2021-06-11
+2,2,00:25 WN1597,,Dallas (DAL),Southwest Airlines B738 (N8641B),Landed 02:23,2021-06-11
+3,3,00:40 WN302,,Salt Lake City (SLC),Southwest Airlines B738 (N8327A),Landed 00:21,2021-06-11
+4,4,00:45 WN1782,,San Diego (SAN),Southwest Airlines B737 (N410WN),Landed 02:23,2021-06-11
+5,5,00:45 WN2364,,Las Vegas (LAS),Southwest Airlines B738 (N8695D),Landed 00:41,2021-06-11
+6,6,00:50 WN657,,Los Angeles (LAX),Southwest Airlines B738 (N8307K),Landed 00:34,2021-06-11
+7,7,01:15 WN1931,,Denver (DEN),Southwest Airlines B737 (N432WN),Canceled,2021-06-11
+8,8,01:40 WN1705,,Phoenix (PHX),Southwest Airlines B738 (N8659D),Landed 01:26,2021-06-11
+9,9,05:21 WN8679,,Sirnak (NKT),Southwest Airlines 7M8,Landed 21:19,2021-06-11
+10,10,06:05 WN361,,Buffalo (BUF),Southwest Airlines B737 (N7713A),Landed 08:13,2021-06-11
+11,11,06:50 WN560,,Cincinnati (CVG),Southwest Airlines B737 (N7857B),Landed 06:35,2021-06-11
+12,12,07:00 WN177,,Atlanta (ATL),Southwest Airlines B737 (N7854B),Landed 06:45,2021-06-11
+13,13,07:00 WN694,,Washington (DCA),Southwest Airlines (Colorado One Livery) B737 (N230WN),Landed 06:46,2021-06-11
+14,14,07:00 WN1911,,Grand Rapids (GRR),Southwest Airlines B737 (N7888A),Landed 06:34,2021-06-11
+15,15,07:05 WN482,,Cleveland (CLE),Southwest Airlines B737 (N560WN),Landed 06:57,2021-06-11
+16,16,07:05 WN1174,,Manchester (MHT),Southwest Airlines B738 (N8522P),Landed 07:08,2021-06-11
+17,17,07:05 WN1903,,Providence (PVD),Southwest Airlines B737 (N7736A),Landed 07:06,2021-06-11
+18,18,07:10 WN1112,,Detroit (DTW),Southwest Airlines B738 (N8625A),Landed 07:03,2021-06-11
+19,19,07:10 WN1562,,Pittsburgh (PIT),Southwest Airlines B738 (N8570W),Landed 07:20,2021-06-11
+20,20,07:15 WN364,,New York (LGA),Southwest Airlines B737 (N499WN),Landed 07:07,2021-06-11
+21,21,07:15 WN1926,,Raleigh-Durham (RDU),Southwest Airlines B738 (N8660A),Landed 06:58,2021-06-11
+22,22,07:19,,Austin (AUM),- G280 (N199HF),Landed 07:21,2021-06-11
+23,23,07:20 WN255,,Windsor Locks (BDL),Southwest Airlines B738 (N8573Z),Landed 06:59,2021-06-11
+24,24,07:20 WN1829,,Minneapolis (MSP),Southwest Airlines B737 (N912WN),Landed 07:02,2021-06-11
+25,25,07:25 WN430,,Baltimore (BWI),Southwest Airlines B737 (N420WN),Canceled,2021-06-11
+26,26,07:25 WN1318,,Boston (BOS),Southwest Airlines B738 (N8654B),Landed 07:13,2021-06-11
+27,27,07:30 WN140,,Albany (ALB),Southwest Airlines B737 (N7720F),Landed 07:24,2021-06-11
+28,28,07:30 WN370,,Charleston (CHS),Southwest Airlines B737 (N256WN),Landed 07:18,2021-06-11
+29,29,07:30 WN507,,Philadelphia (PHL),Southwest Airlines B737 (N962WN),Landed 07:16,2021-06-11
+30,30,07:35 WN519,,Columbus (CMH),Southwest Airlines B737 (N948WN),Landed 07:32,2021-06-11
+31,31,07:35 WN1588,,Myrtle Beach (MYR),Southwest Airlines B738 (N8519R),Landed 06:56,2021-06-11
+32,32,07:35 WN2080,,Louisville (SDF),Southwest Airlines B738 (N8676A),Landed 07:24,2021-06-11
+33,33,07:40 WN321,,Washington (IAD),Southwest Airlines B738 (N8671D),Landed 07:29,2021-06-11
+34,34,07:40 WN520,,Charlotte (CLT),Southwest Airlines B737 (N452WN),Landed 07:29,2021-06-11
+35,35,07:40 WN3275,,Memphis (MEM),Southwest Airlines B737 (N904WN),Landed 07:25,2021-06-11
+36,36,07:45 WN1624,,Nashville (BNA),Southwest Airlines B738 (N8515X),Landed 07:29,2021-06-11
+37,37,07:50 WN1249,,Fort Myers (RSW),Southwest Airlines B738 (N8572X),Landed 07:35,2021-06-11
+38,38,07:50 WN1443,,St. Louis (STL),Southwest Airlines B737 (N437WN),Landed 07:41,2021-06-11
+39,39,07:50 WN2258,,Sarasota (SRQ),Southwest Airlines B737 (N7881A),Landed 07:33,2021-06-11
+40,40,07:55 WN1235,,Kansas City (MCI),Southwest Airlines B738 (N8559Q),Landed 07:39,2021-06-11
+41,41,08:05 WN1891,,Miami (MIA),Southwest Airlines B737 (N7879A),Landed 07:41,2021-06-11
+42,42,08:05 WN2310,,Tampa (TPA),Southwest Airlines B737 (N495WN),Landed 08:20,2021-06-11
+43,43,08:15 WN871,,New Orleans (MSY),Southwest Airlines B737 (N920WN),Landed 08:19,2021-06-11
+44,44,08:20 WN1256,,Fort Lauderdale (FLL),Southwest Airlines B737 (N7735A),Landed 08:05,2021-06-11
+45,45,08:25 WN994,,Houston (HOU),Southwest Airlines B738 (N8545V),Landed 08:21,2021-06-11
+46,46,08:30 WN1653,,Dallas (DAL),Southwest Airlines B737 (N462WN),Landed 08:19,2021-06-11
+47,47,08:45 WN1029,,Orlando (MCO),Southwest Airlines B738 (N8536Z),Landed 08:39,2021-06-11
+48,48,08:50 DL5155,,Detroit (DTW),Delta Connection CRJ7 (N398CA),Landed 08:39,2021-06-11
+49,49,08:55 WN744,,Denver (DEN),Southwest Airlines B738 (N8508W),Landed 08:55,2021-06-11
+50,50,09:00 WN1830,,Omaha (OMA),Southwest Airlines B737 (N401WN),Landed 08:51,2021-06-11
+51,51,09:06 1I696,,St. Louis (SUS),NetJets CNJ,Canceled,2021-06-11
+52,52,09:10,DL2483,Atlanta (ATL),Delta Air Lines A319 (N319NB),Landed 08:52,2021-06-11
+53,53,09:25 WN1040,,Houston (IAH),Southwest Airlines B737 (N950WN),Landed 09:00,2021-06-11
+54,54,09:30 WN548,,Colorado Springs (COS),Southwest Airlines B737 (N404WN),Landed 09:10,2021-06-11
+55,55,09:35 WN1564,,Baltimore (BWI),Southwest Airlines B737 (N424WN),Landed 09:18,2021-06-11
+56,56,09:35 WN2289,,Atlanta (ATL),Southwest Airlines B737 (N202WN),Landed 09:31,2021-06-11
+57,57,09:50 WN5602,,Tampa (TPA),Southwest Airlines B737 (N755SA),Landed 09:37,2021-06-11
+58,58,09:51 DL5008,,Minneapolis (MSP),Delta Connection CRJ7 (N367CA),Landed 09:39,2021-06-11
+59,59,09:55 WN1412,,Nashville (BNA),Southwest Airlines B737 (N556WN),Landed 09:44,2021-06-11
+60,60,09:59 CNS331,,Portsmouth (PSM),PlaneSense PC24 (N154AF),Landed 10:01,2021-06-11
+61,61,10:15 WN2173,,Salt Lake City (SLC),Southwest Airlines B737 (N425LV),Landed 10:11,2021-06-11
+62,62,10:20 WN1449,,Orlando (MCO),Southwest Airlines B737 (N486WN),Landed 09:59,2021-06-11
+63,63,10:24 ERY65,,Cleveland (CLE),- BE40 (N65SQ),Landed 10:24,2021-06-11
+64,64,10:25 WQ9881,,Greensboro (GSO),iAero Airways B734 (N807TJ),Landed 10:21,2021-06-11
+65,65,10:30 WN629,,Dallas (DAL),Southwest Airlines B738 (N8652B),Landed 10:19,2021-06-11
+66,66,10:40 WN1820,,Phoenix (PHX),Southwest Airlines B737 (N295WN),Landed 10:28,2021-06-11
+67,67,10:50 Y4940,,Guadalajara (GDL),Volaris A20N (XA-VRN),Landed 11:05,2021-06-11
+68,68,11:15 WN522,,Las Vegas (LAS),Southwest Airlines B737 (N217JC),Landed 10:55,2021-06-11
+69,69,11:35 WN5484,,Oakland (OAK),Southwest Airlines B737 (N731SA),Landed 11:28,2021-06-11
+70,70,11:40 WN1320,,Denver (DEN),Southwest Airlines B738 (N8638A),Landed 11:30,2021-06-11
+71,71,11:40 WN1753,,Pensacola (PNS),Southwest Airlines B737 (N7819A),Landed 11:25,2021-06-11
+72,72,11:45 WN4777,,Reno (RNO),Southwest Airlines B737 (N492WN),Landed 11:33,2021-06-11
+73,73,11:50 WN1016,,St. Louis (STL),Southwest Airlines B737 (N558WN),Landed 11:36,2021-06-11
+74,74,11:55 DL5759,,Atlanta (ATL),Delta Connection E75S (N220JQ),Landed 11:52,2021-06-11
+75,75,12:05 WN747,,Sacramento (SMF),Southwest Airlines B738 (N8615E),Landed 12:04,2021-06-11
+76,76,12:05 WN805,,New Orleans (MSY),Southwest Airlines B737 (N7750A),Landed 12:18,2021-06-11
+77,77,12:10 WN287,,Omaha (OMA),Southwest Airlines B738 (N8307K),Landed 12:36,2021-06-11
+78,78,12:10 WN355,,Los Angeles (LAX),Southwest Airlines B737 (N450WN),Landed 12:00,2021-06-11
+79,79,12:10 WN1365,,Austin (AUS),Southwest Airlines B737 (N785SW),Landed 11:56,2021-06-11
+80,80,12:14 CNS299,,Destin (DSI),PlaneSense PC12 (N835AF),Landed 12:16,2021-06-11
+81,81,12:15 WN512,,Louisville (SDF),Southwest Airlines B738 (N8517F),Landed 12:20,2021-06-11
+82,82,12:15 WN1006,,Fort Myers (RSW),Southwest Airlines B737 (N259WN),Landed 12:20,2021-06-11
+83,83,12:20 WN652,,San Francisco (SFO),Southwest Airlines B738 (N8555Z),Landed 12:05,2021-06-11
+84,84,12:20 WN1215,,Seattle (SEA),Southwest Airlines B737 (N478WN),Landed 12:21,2021-06-11
+85,85,12:20 WN2263,,Destin Fort Walton Beach (VPS),Southwest Airlines B737 (N7878A),Landed 12:07,2021-06-11
+86,86,12:25 WN892,,Spokane (GEG),Southwest Airlines B737 (N757LV),Landed 12:31,2021-06-11
+87,87,12:25 WN1101,,Tucson (TUS),Southwest Airlines B737 (N7812G),Landed 12:07,2021-06-11
+88,88,12:25 WN1439,,Houston (HOU),Southwest Airlines B738 (N8695D),Landed 12:28,2021-06-11
+89,89,12:30 DL5229,,Detroit (DTW),Delta Connection CRJ7 (N391CA),Landed 12:22,2021-06-11
+90,90,12:30 WN130,,Minneapolis (MSP),Southwest Airlines B737 (N462WN),Landed 12:34,2021-06-11
+91,91,12:30 WN127,,Orlando (MCO),Southwest Airlines B738 (N8663A),Landed 12:14,2021-06-11
+92,92,12:30 WN1537,,Portland (PDX),Southwest Airlines B38M (N8800L),Landed 12:23,2021-06-11
+93,93,12:35 WN719,,Las Vegas (LAS),Southwest Airlines B38M (N8805L),Landed 12:26,2021-06-11
+94,94,12:40 WN723,,Philadelphia (PHL),Southwest Airlines B737 (N288WN),Landed 12:28,2021-06-11
+95,95,12:40 WN2161,,Tampa (TPA),Southwest Airlines B737 (N7840A),Landed 12:35,2021-06-11
+96,96,12:45 WN909,,San Antonio (SAT),Southwest Airlines B738 (N8574Z),Landed 12:37,2021-06-11
+97,97,12:45 WN2016,,San Diego (SAN),Southwest Airlines B738 (N8502Z),Landed 12:13,2021-06-11
+98,98,12:50 WN166,,Cincinnati (CVG),Southwest Airlines B737 (N424WN),Landed 12:47,2021-06-11
+99,99,13:00 WN1379,,Kansas City (MCI),Southwest Airlines B738 (N8536Z),Landed 12:54,2021-06-11
+100,100,13:00 WN1582,,Washington (IAD),Southwest Airlines B737 (N920WN),Landed 12:58,2021-06-11
+101,101,13:05 WN5847,,San Jose (SJC),Southwest Airlines B737 (N930WN),Landed 12:58,2021-06-11
+102,102,13:15 WN702,,Cleveland (CLE),Southwest Airlines B38M (N8730Q),Landed 13:26,2021-06-11
+103,103,13:15 WN960,,Columbus (CMH),Southwest Airlines B737 (N7724A),Landed 13:04,2021-06-11
+104,104,13:20 WN320,,Phoenix (PHX),Southwest Airlines B38M (N8719Q),Landed 13:36,2021-06-11
+105,105,13:20 WN1250,,Oklahoma City (OKC),Southwest Airlines B737 (N231WN),Landed 13:22,2021-06-11
+106,106,13:20 WN5594,,Detroit (DTW),Southwest Airlines B737 (N755SA),Landed 13:26,2021-06-11
+107,107,13:21 1I235,,Morristown (MMU),NetJets CCJ,Canceled,2021-06-11
+108,108,13:25 WN1307,,Pittsburgh (PIT),Southwest Airlines B38M (N8735L),Landed 13:19,2021-06-11
+109,109,13:30 WN1014,,Washington (DCA),Southwest Airlines B737 (N417WN),Landed 13:28,2021-06-11
+110,110,13:33 1I416,,Chicago (ORD),NetJets E55P,Unknown,2021-06-11
+111,111,13:36 1I417,,Aspen (ASE),NetJets E55P,Unknown,2021-06-11
+112,112,13:40 WN872,,Charleston (CHS),Southwest Airlines B737 (N7735A),Landed 13:46,2021-06-11
+113,113,13:45 WN318,,Denver (DEN),Southwest Airlines B738 (N8579Z),Landed 13:58,2021-06-11
+114,114,13:50 WN649,,Birmingham (BHM),Southwest Airlines B737 (N7744A),Landed 13:39,2021-06-11
+115,115,13:55 WN598,,Ontario (ONT),Southwest Airlines B737 (N413WN),Landed 13:47,2021-06-11
+116,116,14:00 WN586,,Fort Lauderdale (FLL),Southwest Airlines B737 (N7726A),Landed 13:43,2021-06-11
+117,117,14:05 WN1087,,Richmond (RIC),Southwest Airlines B737 (N566WN),Landed 13:38,2021-06-11
+118,118,14:05 WN5975,,Grand Rapids (GRR),Southwest Airlines B738 (N8540V),Landed 13:50,2021-06-11
+119,119,14:15 WN1884,,Savannah (SAV),Southwest Airlines B737 (N215WN),Landed 14:09,2021-06-11
+120,120,14:19 Y4942,,Silao (BJX),Volaris A20N (XA-VRR),Landed 14:23,2021-06-11
+121,121,14:20 WN1332,,Boston (BOS),Southwest Airlines B737 (N7877H),Landed 14:04,2021-06-11
+122,122,14:25 WN1695,,Las Vegas (LAS),Southwest Airlines B737 (N497WN),Landed 14:35,2021-06-11
+123,123,14:30 WN746,,Colorado Springs (COS),Southwest Airlines B737 (N220WN),Landed 14:19,2021-06-11
+124,124,14:35 WN416,,New York (LGA),Southwest Airlines B737 (N7827A),Landed 14:21,2021-06-11
+125,125,14:45 WN18,,Dallas (DAL),Southwest Airlines B737 (N964WN),Landed 15:23,2021-06-11
+126,126,14:45 WN3121,,Orlando (MCO),Southwest Airlines B737 (N247WN),Landed 14:47,2021-06-11
+127,127,14:50 WN264,,Baltimore (BWI),Southwest Airlines B738 (N8640D),Landed 15:48,2021-06-11
+128,128,15:00 WN668,,Panama City (ECP),Southwest Airlines B737 (N484WN),Landed 14:47,2021-06-11
+129,129,15:09,DL2537,Atlanta (ATL),Delta Air Lines A319 (N319NB),Landed 15:27,2021-06-11
+130,130,15:09 1I793,,Chicago (UGN),NetJets CL30,Unknown,2021-06-11
+131,131,15:15 WN876,,Atlanta (ATL),Southwest Airlines B737 (N256WN),Unknown,2021-06-11
+132,132,15:18,,Cleveland (CGF),- BE40 (N959CR),Landed 15:21,2021-06-11
+133,133,15:20 WN219,,Cancun (CUN),Southwest Airlines B737 (N7833A),Landed 14:58,2021-06-11
+134,134,15:27,,Jacksonville (JAX),- BE4W (N95BZ),Landed 14:51,2021-06-11
+135,135,15:30 WN2309,,Nashville (BNA),Southwest Airlines B737 (N458WN),Landed 16:01,2021-06-11
+136,136,15:35 WN1334,,Los Angeles (LAX),Southwest Airlines B738 (N8323C),Landed 15:14,2021-06-11
+137,137,15:45 WN393,,Miami (MIA),Southwest Airlines B738 (N8696E),Landed 15:06,2021-06-11
+138,138,15:45 WN454,,Albuquerque (ABQ),Southwest Airlines B737 (N436WN),Landed 15:31,2021-06-11
+139,139,15:45 WN3914,,Myrtle Beach (MYR),Southwest Airlines B737 (N434WN),Landed 15:50,2021-06-11
+140,140,15:50 WN992,,Washington (DCA),Southwest Airlines B737 (N7818L),Landed 15:44,2021-06-11
+141,141,15:50 WN5952,,Buffalo (BUF),Southwest Airlines B738 (N8542Z),Landed 15:30,2021-06-11
+142,142,15:55 WN1594,,Kansas City (MCI),Southwest Airlines B737 (N269WN),Landed 15:42,2021-06-11
+143,143,15:55 WN5857,,Las Vegas (LAS),Southwest Airlines B737 (N748SW),Landed 16:02,2021-06-11
+144,144,15:57 Y4946,,Morelia (MLM),Volaris A20N (XA-VRT),Landed 15:40,2021-06-11
+145,145,16:00 WN253,,Denver (DEN),Southwest Airlines B737 (N7743B),Landed 16:01,2021-06-11
+146,146,16:00 WN923,,Phoenix (PHX),Southwest Airlines B738 (N8618N),Landed 15:47,2021-06-11
+147,147,16:05 WN1721,,Santa Ana (SNA),Southwest Airlines B737 (N240WN),Landed 16:03,2021-06-11
+148,148,16:11,,Atlantic City (ACY),- C680,Canceled,2021-06-11
+149,149,16:15 WN1113,,Boise (BOI),Southwest Airlines B738 (N8551Q),Landed 15:52,2021-06-11
+150,150,16:28,DL4828,Detroit (DTW),Delta Connection CRJ9 (N132EV),Landed 16:20,2021-06-11
+151,151,16:35 WN1261,,Tampa (TPA),Southwest Airlines B737 (N7734H),Landed 16:35,2021-06-11
+152,152,16:35 WN1618,,Austin (AUS),Southwest Airlines B737 (N277WN),Unknown,2021-06-11
+153,153,16:45,,Madison (MSN),- F900 (N70LF),Landed 17:44,2021-06-11
+154,154,16:50 WN1155,,Philadelphia (PHL),Southwest Airlines B737 (N731SA),Landed 16:56,2021-06-11
+155,155,16:55 WN1793,,Seattle (SEA),Southwest Airlines B738 (N8631A),Landed 16:22,2021-06-11
+156,156,17:00 WN445,,Dallas (DAL),Southwest Airlines B737 (N255WN),Landed 17:04,2021-06-11
+157,157,17:07,DL4949,Minneapolis (MSP),Delta Connection CRJ7 (N668CA),Diverted to MSP,2021-06-11
+158,158,17:15 WN797,,Burbank (BUR),Southwest Airlines B737 (N451WN),Landed 17:27,2021-06-11
+159,159,17:15 WN839,,San Diego (SAN),Southwest Airlines B738 (N8553W),Landed 17:15,2021-06-11
+160,160,17:20 WN383,,Salt Lake City (SLC),Southwest Airlines B738 (N8568Z),Landed 17:05,2021-06-11
+161,161,17:20 WN1429,,Sarasota (SRQ),Southwest Airlines B737 (N7848A),Landed 17:10,2021-06-11
+162,162,17:25 WN858,,Houston (IAH),Southwest Airlines B38M (N8810L),Landed 17:00,2021-06-11
+163,163,17:25 WN1012,,Houston (HOU),Southwest Airlines B738 (N8667D),Landed 17:16,2021-06-11
+164,164,17:25 WN1774,,Oakland (OAK),Southwest Airlines B738 (N8650F),Landed 17:08,2021-06-11
+165,165,17:30 WN1525,,Jacksonville (JAX),Southwest Airlines B737 (N914WN),Landed 17:29,2021-06-11
+166,166,17:30 WN2307,,Sacramento (SMF),Southwest Airlines B38M (N8802Q),Landed 17:19,2021-06-11
+167,167,17:30 WN1934,,Minneapolis (MSP),Southwest Airlines B737 (N900WN),Landed 18:07,2021-06-11
+168,168,17:35 WN815,,Portland (PDX),Southwest Airlines B38M (N8734Q),Landed 17:38,2021-06-11
+169,169,17:35 WN1336,,Detroit (DTW),Southwest Airlines B737 (N758SW),Landed 17:25,2021-06-11
+170,170,17:35 WN1959,,St. Louis (STL),Southwest Airlines B738 (N8573Z),Landed 17:22,2021-06-11
+171,171,17:35,,Kenosha (ENW),- BE23 (N9749Q),Landed 17:44,2021-06-11
+172,172,17:37 DPJ499,,Green Bay (GRB),Private owner BE40 (N499TM),Landed 18:26,2021-06-11
+173,173,17:40 WN278,,San Juan (SJU),Southwest Airlines B738 (N8571Z),Landed 17:29,2021-06-11
+174,174,17:40 WN351,,Grand Rapids (GRR),Southwest Airlines B737 (N968WN),Landed 17:14,2021-06-11
+175,175,17:40 WN566,,Omaha (OMA),Southwest Airlines B737 (N7862A),Landed 17:39,2021-06-11
+176,176,17:41,DL5811,Atlanta (ATL),Delta Connection E75S (N220JQ),Canceled,2021-06-11
+177,177,17:41 DL5538,,Atlanta (ATL),Delta Connection CRJ9 (N320PQ),Landed 18:00,2021-06-11
+178,178,17:45 WN1005,,Denver (DEN),Southwest Airlines B38M (N8736J),Unknown,2021-06-11
+179,179,17:45 WN1217,,Las Vegas (LAS),Southwest Airlines B737 (N261WN),Landed 17:35,2021-06-11
+180,180,17:45 WN1904,,Long Beach (LGB),Southwest Airlines B737 (N406WN),Landed 17:47,2021-06-11
+181,181,17:50 WN827,,Orlando (MCO),Southwest Airlines B737 (N7830A),Landed 17:48,2021-06-11
+182,182,17:50 WN1043,,Montego Bay (MBJ),Southwest Airlines B737 (N7879A),Landed 19:39,2021-06-11
+183,183,17:50 WN5842,,Cleveland (CLE),Southwest Airlines B38M (N8711Q),Landed 18:07,2021-06-11
+184,184,17:59 G41215,,Asheville (AVL),Allegiant Air A320 (N219NV),Landed 17:54,2021-06-11
+185,185,18:20 WN116,,San Jose (SJC),Southwest Airlines B737 (N211WN),Landed 20:31,2021-06-11
+186,186,18:25 WN1084,,Charleston (CHS),Southwest Airlines B737 (N496WN),Landed 19:34,2021-06-11
+187,187,18:25 WN1300,,New Orleans (MSY),Southwest Airlines B737 (N438WN),Landed 18:59,2021-06-11
+188,188,18:30 EJM700,,Aspen (ASE),Executive Jet Management C700,Unknown,2021-06-11
+189,189,18:30 1I501,,Aspen (ASE),NetJets C68A,Unknown,2021-06-11
+190,190,18:39 1I209,,Omaha (OMA),Netjets CL60 (N209QS),Unknown,2021-06-11
+191,191,18:40 WN856,,Fort Myers (RSW),Southwest Airlines B737 (N7876A),Landed 18:45,2021-06-11
+192,192,18:40 WN5967,,Phoenix (PHX),Southwest Airlines B738 (N8309C),Landed 18:46,2021-06-11
+193,193,18:40 WN5992,,Denver (DEN),Southwest Airlines B737 (N227WN),Landed 19:02,2021-06-11
+194,194,18:48 1I574,,Bozeman (BZN),NetJets C56X,Unknown,2021-06-11
+195,195,18:57 1I788,,Chicago (ORD),NetJets CL30,Unknown,2021-06-11
+196,196,19:05 WN421,,Orlando (MCO),Southwest Airlines B38M (N8812Q),Landed 18:49,2021-06-11
+197,197,19:05 WN1440,,Portland (PWM),Southwest Airlines B738 (N8574Z),Landed 18:52,2021-06-11
+198,198,19:05 WN2844,,Windsor Locks (BDL),Southwest Airlines B737 (N231WN),Landed 19:10,2021-06-11
+199,199,19:06 1I652,,Oakland County (PTK),NetJets C68A,Unknown,2021-06-11
+200,200,19:15 WN170,,Baltimore (BWI),Southwest Airlines B737 (N235WN),Landed 19:30,2021-06-11
+201,201,19:18 SLH590,,Omaha (MIQ),Silverhawk Aviation BE9L (N590SH),Landed 19:23,2021-06-11
+202,202,19:20 WN217,,Cancun (CUN),Southwest Airlines B737 (N7728D),Landed 19:14,2021-06-11
+203,203,19:30 WN281,,Providence (PVD),Southwest Airlines B737 (N465WN),Landed 19:27,2021-06-11
+204,204,19:35 WN1736,,Louisville (SDF),Southwest Airlines B737 (N7742B),Landed 19:18,2021-06-11
+205,205,19:40 WN1346,,Manchester (MHT),Southwest Airlines B38M (N8735L),Landed 19:46,2021-06-11
+206,206,19:45 WN397,,Boston (BOS),Southwest Airlines B737 (N445WN),Landed 19:19,2021-06-11
+207,207,19:45 WN1543,,Cleveland (CLE),Southwest Airlines B737 (N752SW),Landed 19:28,2021-06-11
+208,208,19:48 1I502,,Chicago (PWK),Netjets C68A (N502QS),Unknown,2021-06-11
+209,209,19:50 WN1063,,Washington (DCA),Southwest Airlines B737 (N964WN),Landed 20:05,2021-06-11
+210,210,19:50 WN1172,,Albany (ALB),Southwest Airlines B737 (N799SW),Landed 21:10,2021-06-11
+211,211,19:55 WN428,,Buffalo (BUF),Southwest Airlines B738 (N8619F),Landed 19:40,2021-06-11
+212,212,19:55 WN704,,Denver (DEN),Southwest Airlines B38M (N8730Q),Landed 20:17,2021-06-11
+213,213,19:55 WN1916,,Kansas City (MCI),Southwest Airlines B737 (N7750A),Landed 19:52,2021-06-11
+214,214,20:00 WN1620,,Raleigh-Durham (RDU),Southwest Airlines B738 (N8528Q),Landed 20:22,2021-06-11
+215,215,20:00 WN1641,,Richmond (RIC),Southwest Airlines B738 (N8535S),Landed 19:43,2021-06-11
+216,216,20:00 WN2169,,Pittsburgh (PIT),Southwest Airlines B738 (N8525S),Landed 20:00,2021-06-11
+217,217,20:05 WN403,,Washington (IAD),Southwest Airlines B738 (N8662F),Landed 20:15,2021-06-11
+218,218,20:05 WN1075,,Norfolk (ORF),Southwest Airlines B738 (N8540V),Landed 20:33,2021-06-11
+219,219,20:05 WN2158,,Memphis (MEM),Southwest Airlines B738 (N8532S),Landed 19:55,2021-06-11
+220,220,20:10 WN1711,,Minneapolis (MSP),Southwest Airlines B737 (N403WN),Landed 20:17,2021-06-11
+221,221,20:10 WN1527,,St. Louis (STL),Southwest Airlines B737 (N7815L),Landed 20:28,2021-06-11
+222,222,20:10 WN1696,,Columbus (CMH),Southwest Airlines B737 (N450WN),Landed 20:14,2021-06-11
+223,223,20:15 WN590,,New York (LGA),Southwest Airlines B737 (N7881A),Landed 21:51,2021-06-11
+224,224,20:15 WN1135,,Phoenix (PHX),Southwest Airlines B738 (N8600F),Landed 20:01,2021-06-11
+225,225,20:15 WN5984,,Oakland (OAK),Southwest Airlines B738 (N8612K),Landed 20:08,2021-06-11
+226,226,20:22 Y4948,,Zacatecas (ZCL),Volaris A20N (XA-VRN),Landed 20:26,2021-06-11
+227,227,20:25 WN417,,Austin (AUS),Southwest Airlines B38M (N8739L),Landed 20:32,2021-06-11
+228,228,20:30 WN847,,Atlanta (ATL),Southwest Airlines B737 (N498WN),Landed 22:00,2021-06-11
+229,229,20:30 WN524,,Nashville (BNA),Southwest Airlines B738 (N8646B),Landed 21:03,2021-06-11
+230,230,20:45 WN2312,,Tampa (TPA),Southwest Airlines B737 (N228WN),Landed 21:10,2021-06-11
+231,231,20:50 WN1734,,Los Angeles (LAX),Southwest Airlines B738 (N8624J),Landed 20:42,2021-06-11
+232,232,20:55 WN2189,,Las Vegas (LAS),Southwest Airlines B738 (N8556Z),Landed 20:49,2021-06-11
+233,233,21:00 WN1758,,Fort Myers (RSW),Southwest Airlines B737 (N958WN),Landed 21:28,2021-06-11
+234,234,21:05 WN44,,Dallas (DAL),Southwest Airlines B38M (N8740A),Landed 21:44,2021-06-11
+235,235,21:05 WN953,,Fort Lauderdale (FLL),Southwest Airlines B738 (N8628A),Landed 21:01,2021-06-11
+236,236,21:10 WN1420,,Orlando (MCO),Southwest Airlines B738 (N8656B),Landed 21:46,2021-06-11
+237,237,21:10 WN3268,,San Diego (SAN),Southwest Airlines B737 (N7841A),Landed 21:00,2021-06-11
+238,238,21:15,,Oakland County (PTK),- DA40 (N886KC),Canceled,2021-06-11
+239,239,21:20 WN859,,Houston (HOU),Southwest Airlines B738 (N8570W),Landed 21:20,2021-06-11
+240,240,21:35 WN1971,,Miami (MIA),Southwest Airlines B737 (N920WN),Landed 00:31,2021-06-11
+241,241,21:55 WN588,,Baltimore (BWI),Southwest Airlines B737 (N7869A),Landed 22:11,2021-06-11
+242,242,22:03,DL5235,Minneapolis (MSP),Delta Connection CRJ7 (N668CA),Landed 21:56,2021-06-11
+243,243,22:40 WN1593,,Dallas (DAL),Southwest Airlines B737 (N240WN),Landed 23:04,2021-06-11
+244,244,22:50 WN680,,Atlanta (ATL),Southwest Airlines B737 (N7824A),Landed 23:07,2021-06-11
+245,245,22:55 WN2070,,Austin (AUS),Southwest Airlines B737 (N467WN),Landed 23:20,2021-06-11
+246,246,23:05 WN1602,,Las Vegas (LAS),Southwest Airlines B738 (N8641B),Landed 23:50,2021-06-11
+247,247,23:10 WN669,,Fort Myers (RSW),Southwest Airlines B737 (N484WN),Landed 23:10,2021-06-11
+248,248,23:20 WN241,,Nashville (BNA),Southwest Airlines (Nevada One Livery) B737 (N727SW),Landed 01:33,2021-06-11
+249,249,23:20,,South Bend (SBN),- BE20 (N6182A),Landed 00:44,2021-06-11
+250,250,23:30 WN1826,,Tampa (TPA),Southwest Airlines B737 (N7727A),Landed 23:59,2021-06-11
+251,251,23:40 WN2678,,Denver (DEN),Southwest Airlines B737 (N966WN),Landed 23:41,2021-06-11
+252,252,23:41,DL2469,Atlanta (ATL),Delta Air Lines A319 (N345NB),Landed 00:09,2021-06-11
+253,253,23:50 WN807,,Phoenix (PHX),Southwest Airlines (Florida One Livery) B737 (N945WN),Landed 02:11,2021-06-11
+254,254,23:50 WN1019,,Houston (HOU),Southwest Airlines B737 (N7852A),Landed 00:09,2021-06-11
+0,0,00:05 WN543,,Fort Lauderdale (FLL),Southwest Airlines B737 (N472WN),Landed 01:00,2021-06-12
+1,1,00:25 WN1403,,Orlando (MCO),Southwest Airlines B738 (N8685B),Landed 00:05,2021-06-12
+2,2,00:25 WN1597,,Dallas (DAL),Southwest Airlines B738 (N8682B),Landed 00:49,2021-06-12
+3,3,00:40 WN302,,Salt Lake City (SLC),Southwest Airlines B738 (N8675A),Landed 00:44,2021-06-12
+4,4,00:45 WN1782,,San Diego (SAN),Southwest Airlines B737 (N962WN),Landed 02:16,2021-06-12
+5,5,00:45 WN2364,,Las Vegas (LAS),Southwest Airlines B738 (N8543Z),Landed 00:42,2021-06-12
+6,6,00:50 WN657,,Los Angeles (LAX),Southwest Airlines B738 (N8659D),Landed 00:53,2021-06-12
+7,7,01:15 WN1931,,Denver (DEN),Southwest Airlines B737 (N957WN),Unknown,2021-06-12
+8,8,01:40 WN1705,,Phoenix (PHX),Southwest Airlines B738 (N8582Z),Landed 03:13,2021-06-12
+9,9,06:30 WN3435,,Charleston (CHS),Southwest Airlines B737 (N7864B),Landed 06:16,2021-06-12
+10,10,07:00 WN3032,,Pittsburgh (PIT),Southwest Airlines B738 (N8310C),Landed 06:46,2021-06-12
+11,11,07:00 WN4309,,Grand Rapids (GRR),Southwest Airlines B737 (N7869A),Landed 06:38,2021-06-12
+12,12,07:05 WN2388,,Norfolk (ORF),Southwest Airlines B738 (N8534Z),Landed 06:56,2021-06-12
+13,13,07:05 WN4317,,Nashville (BNA),Southwest Airlines B738 (N8541W),Landed 06:48,2021-06-12
+14,14,07:10 WN2887,,Cleveland (CLE),Southwest Airlines B737 (N246LV),Landed 06:51,2021-06-12
+15,15,07:10 WN3586,,Louisville (SDF),Southwest Airlines B738 (N8649A),Landed 06:54,2021-06-12
+16,16,07:10 WN3904,,Detroit (DTW),Southwest Airlines B738 (N8676A),Landed 07:08,2021-06-12
+17,17,07:15 WN1583,,Raleigh-Durham (RDU),Southwest Airlines B737 (N765SW),Landed 07:04,2021-06-12
+18,18,07:15 WN3478,,Atlanta (ATL),Southwest Airlines B738 (N8609A),Landed 06:57,2021-06-12
+19,19,07:20 WN391,,Philadelphia (PHL),Southwest Airlines B738 (N8580Z),Landed 07:01,2021-06-12
+20,20,07:20 WN2948,,Columbus (CMH),Southwest Airlines B737 (N439WN),Landed 07:07,2021-06-12
+21,21,07:20 WN4163,,Kansas City (MCI),Southwest Airlines B38M (N8804L),Landed 07:16,2021-06-12
+22,22,07:25 WN1318,,Boston (BOS),Southwest Airlines B38M (N8744B),Landed 06:59,2021-06-12
+23,23,07:25 WN3892,,Washington (DCA),Southwest Airlines B737 (N7855A),Landed 07:02,2021-06-12
+24,24,07:25 WN5549,,Myrtle Beach (MYR),Southwest Airlines B738 (N8520Q),Landed 07:05,2021-06-12
+25,25,07:30 WN9,,Omaha (OMA),Southwest Airlines B737 (N558WN),Landed 07:19,2021-06-12
+26,26,07:30 WN2279,,Savannah (SAV),Southwest Airlines B737 (N478WN),Landed 07:14,2021-06-12
+27,27,07:30 WN4367,,Minneapolis (MSP),Southwest Airlines B737 (N212WN),Landed 07:10,2021-06-12
+28,28,07:35 WN5498,,New Orleans (MSY),Southwest Airlines B737 (N758SW),Landed 07:23,2021-06-12
+29,29,07:40 WN2574,,Tampa (TPA),Southwest Airlines B738 (N8513F),Landed 07:21,2021-06-12
+30,30,07:40 WN3129,,Baltimore (BWI),Southwest Airlines (Lone Star One Livery) B737 (N931WN),Landed 07:12,2021-06-12
+31,31,07:45 WN4185,,New York (LGA),Southwest Airlines B737 (N7866A),Landed 07:29,2021-06-12
+32,32,07:55 WN3819,,Orlando (MCO),Southwest Airlines B737 (N414WN),Landed 07:34,2021-06-12
+33,33,08:00 WN2505,,Fort Myers (RSW),Southwest Airlines B738 (N8514F),Landed 07:44,2021-06-12
+34,34,08:10 WN2657,,Fort Lauderdale (FLL),Southwest Airlines B737 (N746SW),Landed 08:56,2021-06-12
+35,35,08:25 WN994,,Houston (HOU),Southwest Airlines B737 (N447WN),Landed 08:09,2021-06-12
+36,36,08:40 WN3721,,Denver (DEN),Southwest Airlines B738 (N8527Q),Landed 08:20,2021-06-12
+37,37,08:50 DL5155,,Detroit (DTW),Delta Connection CRJ7 (N376CA),Landed 08:33,2021-06-12
+38,38,09:05 WN4614,,St. Louis (STL),Southwest Airlines B737 (N7815L),Landed 08:57,2021-06-12
+39,39,09:10,DL2483,Atlanta (ATL),Delta Air Lines A319 (N319NB),Landed 08:46,2021-06-12
+40,40,09:15 WN2533,,Dallas (DAL),Southwest Airlines B737 (N277WN),Landed 09:13,2021-06-12
+41,41,09:25 WN2829,,Miami (MIA),Southwest Airlines B737 (N235WN),Landed 08:52,2021-06-12
+42,42,09:45 WN4655,,Orlando (MCO),Southwest Airlines B737 (N221WN),Landed 10:15,2021-06-12
+43,43,09:51 DL5008,,Minneapolis (MSP),Delta Connection CRJ7 (N371CA),Landed 09:30,2021-06-12
+44,44,10:10 WN4074,,Minneapolis (MSP),Southwest Airlines B737 (N236WN),Landed 09:51,2021-06-12
+45,45,10:25 WN610,,Phoenix (PHX),Southwest Airlines B738 (N8617E),Landed 10:30,2021-06-12
+46,46,10:30 WN3073,,Boise (BOI),Southwest Airlines B738 (N8567Z),Landed 09:57,2021-06-12
+47,47,10:30 WN3567,,Las Vegas (LAS),Southwest Airlines B737 (N7856A),Landed 10:18,2021-06-12
+48,48,10:30 WN4844,,Colorado Springs (COS),Southwest Airlines B737 (N917WN),Landed 10:05,2021-06-12
+49,49,10:50 Y4940,,Guadalajara (GDL),Volaris A20N (XA-VRO),Landed 10:39,2021-06-12
+50,50,11:00 WN1739,,Reno (RNO),Southwest Airlines B737 (N7731A),Landed 10:46,2021-06-12
+51,51,11:10 WN5046,,Tampa (TPA),Southwest Airlines B737 (N7876A),Landed 10:54,2021-06-12
+52,52,11:15 WN2942,,Seattle (SEA),Southwest Airlines B738 (N8512U),Landed 10:50,2021-06-12
+53,53,11:25 WN237,,Portland (PDX),Southwest Airlines B737 (N459WN),Landed 10:51,2021-06-12
+54,54,11:50 WN2787,,Los Angeles (LAX),Southwest Airlines B737 (N7734H),Landed 11:40,2021-06-12
+55,55,11:50 WN2839,,Houston (IAH),Southwest Airlines B737 (N944WN),Landed 11:21,2021-06-12
+56,56,11:50 WN4900,,Tucson (TUS),Southwest Airlines B737 (N403WN),Landed 11:32,2021-06-12
+57,57,11:55 DL5759,,Atlanta (ATL),Delta Connection E75S (N226JQ),Landed 11:45,2021-06-12
+58,58,11:55 WN2190,,Sacramento (SMF),Southwest Airlines B738 (N8690A),Landed 11:57,2021-06-12
+59,59,11:55 WN5154,,Fort Myers (RSW),Southwest Airlines B737 (N267WN),Landed 11:47,2021-06-12
+60,60,12:00 WN2661,,Albuquerque (ABQ),Southwest Airlines B38M (N8809L),Landed 12:08,2021-06-12
+61,61,12:00 WN3143,,San Antonio (SAT),Southwest Airlines B738 (N8318F),Landed 11:42,2021-06-12
+62,62,12:00 WN3384,,Salt Lake City (SLC),Southwest Airlines B738 (N8575Z),Landed 11:45,2021-06-12
+63,63,12:05 WN3703,,Orlando (MCO),Southwest Airlines B737 (N285WN),Landed 11:51,2021-06-12
+64,64,12:05 WN4456,,Austin (AUS),Southwest Airlines B738 (N8680C),Landed 12:01,2021-06-12
+65,65,12:05 WN2672,,Oakland (OAK),Southwest Airlines B737 (N425LV),Landed 13:16,2021-06-12
+66,66,12:08,,Danville (DNV),- BE36 (N78EU),Landed 11:30,2021-06-12
+67,67,12:10 WN2168,,Memphis (MEM),Southwest Airlines B38M (N8741L),Landed 12:09,2021-06-12
+68,68,12:10 WN2536,,Birmingham (BHM),Southwest Airlines B737 (N7855A),Landed 11:55,2021-06-12
+69,69,12:10 WN5508,,Cincinnati (CVG),Southwest Airlines B737 (N470WN),Landed 11:59,2021-06-12
+70,70,12:15 WN3926,,Houston (HOU),Southwest Airlines B38M (N8803L),Landed 12:27,2021-06-12
+71,71,12:29 GAJ875,,Bedford (BED),Wheels Up B350 (N875UP),Landed 12:24,2021-06-12
+72,72,12:30 DL5229,,Detroit (DTW),Delta Connection CRJ7 (N398CA),Landed 12:08,2021-06-12
+73,73,12:30 WN1328,,Atlanta (ATL),Southwest Airlines B38M (N8749Q),Landed 12:30,2021-06-12
+74,74,12:30 WN2751,,Denver (DEN),Southwest Airlines B737 (N468WN),Landed 12:33,2021-06-12
+75,75,12:35 WN2573,,Nashville (BNA),Southwest Airlines B737 (N473WN),Landed 12:18,2021-06-12
+76,76,12:35 WN3167,,Panama City (ECP),Southwest Airlines B737 (N927WN),Diverted to STL,2021-06-12
+77,77,12:35 WN4837,,Kansas City (MCI),Southwest Airlines B737 (N7715E),Unknown,2021-06-12
+78,78,12:35 WN3167,,St. Louis (STL),Southwest Airlines B737 (N927WN),Landed 17:10,2021-06-12
+79,79,12:40 WN4129,,San Jose (SJC),Southwest Airlines B738 (N8630B),Landed 12:25,2021-06-12
+80,80,12:40 WN4850,,Las Vegas (LAS),Southwest Airlines B738 (N8539V),Landed 12:31,2021-06-12
+81,81,12:44 1I152,,San Francisco (SFO),NetJets GLEX (N152QS),Landed 12:39,2021-06-12
+82,82,12:45 WN434,,Dallas (DAL),Southwest Airlines B737 (N278WN),Landed 12:59,2021-06-12
+83,83,12:45 WN3052,,Phoenix (PHX),Southwest Airlines B738 (N8648A),Landed 13:05,2021-06-12
+84,84,12:45 WN3500,,Fort Lauderdale (FLL),Southwest Airlines B738 (N8660A),Landed 12:19,2021-06-12
+85,85,12:50 WN2565,,San Diego (SAN),Southwest Airlines B737 (N7739A),Landed 12:37,2021-06-12
+86,86,12:55 WN3095,,Sarasota (SRQ),Southwest Airlines B737 (N7862A),Landed 13:34,2021-06-12
+87,87,13:05 WN4919,,St. Louis (STL),Southwest Airlines B738 (N8614M),Landed 12:46,2021-06-12
+88,88,13:10 WN2642,,Tampa (TPA),Southwest Airlines B738 (N8631A),Landed 13:18,2021-06-12
+89,89,13:18 LXJ425,,Jackson (JAC),Flexjet CL35,Canceled,2021-06-12
+90,90,13:20 WN4949,,Cleveland (CLE),Southwest Airlines B737 (N7884G),Landed 13:02,2021-06-12
+91,91,13:25 WN1483,,Philadelphia (PHL),Southwest Airlines (Florida One Livery) B737 (N945WN),Landed 13:25,2021-06-12
+92,92,13:30 WN3656,,Washington (DCA),Southwest Airlines B737 (N294WN),Landed 13:27,2021-06-12
+93,93,13:33 1I652,,Minneapolis (MSP),NetJets C68A,Unknown,2021-06-12
+94,94,13:45 WN3013,,Orlando (MCO),Southwest Airlines B737 (N7851A),Landed 14:01,2021-06-12
+95,95,13:45 WN4609,,New York (LGA),Southwest Airlines B38M (N8739L),Landed 13:38,2021-06-12
+96,96,13:45 WN5762,,Providence (PVD),Southwest Airlines B737 (N461WN),Landed 13:29,2021-06-12
+97,97,13:45 1I580,,Aiken (AIK),NetJets C56X,Unknown,2021-06-12
+98,98,13:48 1I436,,Manistee (MBL),NetJets E55P,Unknown,2021-06-12
+99,99,13:50 WN229,,Cancun (CUN),Southwest Airlines B737 (N7724A),Landed 13:41,2021-06-12
+100,100,13:50 WN3287,,Boston (BOS),Southwest Airlines B738 (N8615E),Landed 13:44,2021-06-12
+101,101,13:55 WN4321,,Colorado Springs (COS),Southwest Airlines B737 (N7836A),Landed 15:35,2021-06-12
+102,102,14:00 WN3993,,Myrtle Beach (MYR),Southwest Airlines B737 (N950WN),Landed 13:43,2021-06-12
+103,103,14:10 WN4118,,Jacksonville (JAX),Southwest Airlines B737 (N405WN),Landed 14:32,2021-06-12
+104,104,14:20 WN5999,,Grand Rapids (GRR),Southwest Airlines B737 (N282WN),Landed 16:50,2021-06-12
+105,105,14:30 WN4200,,Las Vegas (LAS),Southwest Airlines B38M (N8742M),Landed 14:25,2021-06-12
+106,106,14:30 WN5923,,Buffalo (BUF),Southwest Airlines B737 (N731SA),Landed 14:10,2021-06-12
+107,107,14:42 1I383,,Oakland County (PTK),NetJets E55P,Canceled,2021-06-12
+108,108,14:45 WN3151,,Oklahoma City (OKC),Southwest Airlines B737 (N434WN),Landed 14:27,2021-06-12
+109,109,14:45 DPJ81,,Cincinnati (LUK),Delta Private Jets C56X,Unknown,2021-06-12
+110,110,14:50 WN1698,,Omaha (OMA),Southwest Airlines B738 (N8697C),Landed 15:29,2021-06-12
+111,111,14:50 WN5887,,Cleveland (CLE),Southwest Airlines B38M (N8804L),Diverted to IND,2021-06-12
+112,112,14:50 WN5887,,Indianapolis (IND),Southwest Airlines B38M (N8804L),Landed 17:55,2021-06-12
+113,113,14:55 WDY500,,Teterboro (TEB),Private owner GLF5 (N900J),Diverted to PWK,2021-06-12
+114,114,15:09,DL2537,Atlanta (ATL),Delta Air Lines A319 (N343NB),Landed 15:47,2021-06-12
+115,115,15:10 WN2795,,Orlando (MCO),Southwest Airlines B737 (N442WN),Landed 15:31,2021-06-12
+116,116,15:20 WN5510,,Grand Rapids (GRR),Southwest Airlines B737 (N470WN),Landed 17:13,2021-06-12
+117,117,15:25 WN5752,,Manchester (MHT),Southwest Airlines B737 (N7815L),Landed 15:43,2021-06-12
+118,118,15:27 1I509,,Milwaukee (MKE),NetJets C68A,Unknown,2021-06-12
+119,119,15:30 WN5439,,Minneapolis (MSP),Southwest Airlines B38M (N8702L),Landed 17:27,2021-06-12
+120,120,15:35 WN2903,,Los Angeles (LAX),Southwest Airlines B38M (N8814K),Landed 15:27,2021-06-12
+121,121,15:35 WN6101,,San Jose (SJC),Southwest Airlines B737 (N7818L),Landed 15:25,2021-06-12
+122,122,15:45 WN4311,,Buffalo (BUF),Southwest Airlines B738 (N8577Z),Landed 17:21,2021-06-12
+123,123,15:55 WN4469,,Baltimore (BWI),Southwest Airlines B737 (N7824A),Landed 18:10,2021-06-12
+124,124,15:55 WN6018,,Las Vegas (LAS),Southwest Airlines B737 (N238WN),Landed 16:03,2021-06-12
+125,125,15:57 Y4946,,Morelia (MLM),Volaris A20N (XA-VRN),Landed 15:33,2021-06-12
+126,126,16:05 WN3077,,Orlando (MCO),Southwest Airlines B737 (N7735A),Landed 16:38,2021-06-12
+127,127,16:15 WN3487,,Raleigh-Durham (RDU),Southwest Airlines B737 (N566WN),Unknown,2021-06-12
+128,128,16:15 WN5797,,Denver (DEN),Southwest Airlines B737 (N901WN),Landed 15:50,2021-06-12
+129,129,16:20 WN4846,,Savannah (SAV),Southwest Airlines B737 (N917WN),Landed 16:15,2021-06-12
+130,130,16:22,,Westhampton Beach (FOK),- HDJT,Canceled,2021-06-12
+131,131,16:28,DL4828,Detroit (DTW),Delta Connection CRJ7 (N398CA),Landed 17:17,2021-06-12
+132,132,16:36 1I809,,Madison (MSN),Netjets C700 (N809QS),Unknown,2021-06-12
+133,133,16:42 Y4944,,Durango (DGO),Volaris A20N (N532VL),Landed 17:41,2021-06-12
+134,134,16:45 WN3571,,Portland (PWM),Southwest Airlines B737 (N7856A),Landed 18:35,2021-06-12
+135,135,16:50 WN3518,,Pensacola (PNS),Southwest Airlines B738 (N8527Q),Landed 17:04,2021-06-12
+136,136,17:00 WN4721,,Washington (DCA),Southwest Airlines B737 (N424WN),Landed 18:00,2021-06-12
+137,137,17:03 WDY500,,Chicago (PWK),Private owner GLF5 (N900J),Landed 17:30,2021-06-12
+138,138,17:07,DL4949,Minneapolis (MSP),Delta Connection CRJ7 (N368CA),Landed 18:15,2021-06-12
+139,139,17:15 WN3005,,Panama City (ECP),Southwest Airlines B738 (N8510E),Landed 19:09,2021-06-12
+140,140,17:20 WN2800,,Columbus (CMH),Southwest Airlines B737 (N457WN),Landed 17:23,2021-06-12
+141,141,17:25 WN2379,,Boston (BOS),Southwest Airlines B737 (N932WN),Landed 18:26,2021-06-12
+142,142,17:30 WN4375,,Destin Fort Walton Beach (VPS),Southwest Airlines B737 (N217JC),Landed 20:51,2021-06-12
+143,143,17:30 WN3226,,Phoenix (PHX),Southwest Airlines B737 (N483WN),Landed 19:02,2021-06-12
+144,144,17:41,DL5811,Atlanta (ATL),Delta Connection E75S (N230JQ),Landed 18:09,2021-06-12
+145,145,17:45 WN3857,,Charleston (CHS),Southwest Airlines B737 (N7855A),Landed 17:36,2021-06-12
+146,146,17:50 WN1043,,Montego Bay (MBJ),Southwest Airlines B737 (N472WN),Landed 21:05,2021-06-12
+147,147,17:50 WN2662,,Washington (IAD),Southwest Airlines B38M (N8809L),Landed 17:45,2021-06-12
+148,148,17:50 WN5580,,Richmond (RIC),Southwest Airlines B38M (N8803L),Landed 17:58,2021-06-12
+149,149,17:55 WN3611,,Kansas City (MCI),Southwest Airlines B737 (N474WN),Landed 17:42,2021-06-12
+150,150,17:55 WN4455,,Detroit (DTW),Southwest Airlines B738 (N8508W),Landed 17:49,2021-06-12
+151,151,17:55 WN5060,,San Juan (SJU),Southwest Airlines B737 (N218WN),Landed 19:02,2021-06-12
+152,152,18:00 WN544,,Cleveland (CLE),Southwest Airlines B737 (N967WN),Landed 17:47,2021-06-12
+153,153,18:00 WN3495,,Manchester (MHT),Southwest Airlines B737 (N227WN),Landed 19:18,2021-06-12
+154,154,18:00 WN3886,,Charlotte (CLT),Southwest Airlines B737 (N7739A),Landed 18:51,2021-06-12
+155,155,18:05 WN2956,,Pittsburgh (PIT),Southwest Airlines B738 (N8573Z),Landed 18:12,2021-06-12
+156,156,18:05 WN3835,,Windsor Locks (BDL),Southwest Airlines B737 (N272WN),Landed 18:42,2021-06-12
+157,157,18:05 WN4759,,Tampa (TPA),Southwest Airlines B738 (N8626B),Landed 18:29,2021-06-12
+158,158,18:10 WN2968,,Providence (PVD),Southwest Airlines B737 (N7868K),Landed 19:03,2021-06-12
+159,159,18:10 WN4078,,Albany (ALB),Southwest Airlines B738 (N8503A),Landed 17:51,2021-06-12
+160,160,18:14 GAJ848,,Louisville (SDF),Wheels Up B350 (N848UP),Landed 18:13,2021-06-12
+161,161,18:20 WN3228,,Fort Myers (RSW),Southwest Airlines B737 (N550WN),Landed 18:16,2021-06-12
+162,162,18:24,,Dayton (DAY),- BE20 (N6182A),Landed 18:22,2021-06-12
+163,163,18:30 WN3637,,San Jose del Cabo (SJD),Southwest Airlines B737 (N7704B),Landed 18:38,2021-06-12
+164,164,18:30 WN4745,,Orlando (MCO),Southwest Airlines B737 (N7865A),Landed 18:59,2021-06-12
+165,165,18:33 GAJ848,,Chicago (PWK),Wheels Up B350 (N848UP),Landed 19:09,2021-06-12
+166,166,18:40 WN4117,,Denver (DEN),Southwest Airlines B737 (N948WN),Unknown,2021-06-12
+167,167,18:50 WN6002,,Oakland (OAK),Southwest Airlines B738 (N8327A),Landed 18:36,2021-06-12
+168,168,18:55 WN238,,Cancun (CUN),Southwest Airlines B737 (N906WN),Landed 18:55,2021-06-12
+169,169,18:59 WN4284,,Long Beach (LGB),Southwest Airlines B738 (N8649A),Landed 18:31,2021-06-12
+170,170,19:00 WN6056,,Sacramento (SMF),Southwest Airlines B738 (N8582Z),Landed 18:46,2021-06-12
+171,171,19:05 WN5569,,Miami (MIA),Southwest Airlines B737 (N284WN),Landed 20:32,2021-06-12
+172,172,19:20 WN2854,,Atlanta (ATL),Southwest Airlines B38M (N8741L),Landed 19:22,2021-06-12
+173,173,19:20 WN5061,,Portland (PDX),Southwest Airlines B737 (N965WN),Landed 18:57,2021-06-12
+174,174,19:45 WN5672,,Seattle (SEA),Southwest Airlines B737 (N203WN),Landed 19:26,2021-06-12
+175,175,19:50 WN5658,,San Diego (SAN),Southwest Airlines B38M (N8731J),Landed 19:31,2021-06-12
+176,176,19:55 WN2369,,Sarasota (SRQ),Southwest Airlines B737 (N765SW),Landed 20:44,2021-06-12
+177,177,20:00 WN3473,,Omaha (OMA),Southwest Airlines B737 (N7731A),Diverted to OMA,2021-06-12
+178,178,20:00 WN3836,,Houston (HOU),Southwest Airlines B737 (N7875A),Landed 20:27,2021-06-12
+179,179,20:03 1I539,,Dallas (DAL),NetJets C68A,Unknown,2021-06-12
+180,180,20:05 WN3457,,New Orleans (MSY),Southwest Airlines B738 (N8644C),Landed 19:51,2021-06-12
+181,181,20:05 WN3900,,Dallas (DAL),Southwest Airlines B738 (N8534Z),Landed 20:11,2021-06-12
+182,182,20:05 WN3931,,Phoenix (PHX),Southwest Airlines B738 (N8523W),Landed 20:06,2021-06-12
+183,183,20:10 WN401,,Salt Lake City (SLC),Southwest Airlines B738 (N8580Z),Landed 20:23,2021-06-12
+184,184,20:10 WN4711,,Las Vegas (LAS),Southwest Airlines B738 (N8512U),Landed 20:00,2021-06-12
+185,185,20:10 WN5684,,Santa Ana (SNA),Southwest Airlines B737 (N919WN),Landed 19:47,2021-06-12
+186,186,20:15 WN580,,Minneapolis (MSP),Southwest Airlines B738 (N8600F),Landed 20:16,2021-06-12
+187,187,20:15 WN1282,,St. Louis (STL),Southwest Airlines B737 (N7878A),Landed 19:55,2021-06-12
+188,188,20:20 WN861,,Houston (IAH),Southwest Airlines (Florida One Livery) B737 (N945WN),Landed 19:35,2021-06-12
+189,189,20:20 WN2592,,Fort Lauderdale (FLL),Southwest Airlines B737 (N435WN),Landed 20:09,2021-06-12
+190,190,20:20 WN3145,,Albuquerque (ABQ),Southwest Airlines B738 (N8682B),Landed 19:59,2021-06-12
+191,191,20:20 WN3419,,Denver (DEN),Southwest Airlines B737 (N261WN),Landed 21:33,2021-06-12
+192,192,20:25 WN2890,,Orlando (MCO),Southwest Airlines B738 (N8519R),Landed 20:21,2021-06-12
+193,193,20:25 WN3396,,Austin (AUS),Southwest Airlines B737 (N798SW),Landed 00:28,2021-06-12
+194,194,20:25 WN3651,,Kansas City (MCI),Southwest Airlines B737 (N463WN),Landed 20:38,2021-06-12
+195,195,20:34 Y4908,,Aguascalientes (AGU),Volaris A20N (XA-VRO),Landed 20:15,2021-06-12
+196,196,20:40 WN3012,,Tampa (TPA),Southwest Airlines B738 (N8625A),Landed 20:57,2021-06-12
+197,197,21:00 WN2886,,Nashville (BNA),Southwest Airlines B738 (N8318F),Unknown,2021-06-12
+198,198,21:15 WN6008,,Phoenix (PHX),Southwest Airlines B38M (N8744B),Diverted to MKE,2021-06-12
+199,199,21:15 WN6008,,Milwaukee (MKE),Southwest Airlines B38M (N8744B),Landed 23:28,2021-06-12
+200,200,21:18 1I432,,Minneapolis (MSP),NetJets E55P,Unknown,2021-06-12
+201,201,21:45 WN3669,,Baltimore (BWI),Southwest Airlines B737 (N7835A),Landed 22:18,2021-06-12
+202,202,21:45 WN5671,,Denver (DEN),Southwest Airlines B737 (N264LV),Diverted to STL,2021-06-12
+203,203,21:45 WN5671,,St. Louis (STL),Southwest Airlines B737 (N264LV),Landed 23:13,2021-06-12
+204,204,21:50 WN4438,,Atlanta (ATL),Southwest Airlines B737 (N240WN),Diverted to IND,2021-06-12
+205,205,21:50 WN4438,,Indianapolis (IND),Southwest Airlines B737 (N240WN),Landed 23:19,2021-06-12
+206,206,21:55 WN1724,,Orlando (MCO),Southwest Airlines B738 (N8583Z),Landed 22:40,2021-06-12
+207,207,22:23 1I612,,Saginaw (MBS),NetJets C68A,Unknown,2021-06-12
+208,208,22:30 WN4572,,New York (LGA),Southwest Airlines B738 (N8544Z),Diverted to CLE,2021-06-12
+209,209,22:30 WN4572,,Cleveland (CLE),Southwest Airlines B738 (N8544Z),Landed 23:15,2021-06-12
+210,210,22:30 WN4572,,Cleveland (CLE),Southwest Airlines B738,Unknown,2021-06-12
+211,211,22:50 WN1060,,Tampa (TPA),Southwest Airlines B737 (N936WN),Landed 00:08,2021-06-12
+212,212,22:55 WN4753,,Miami (MIA),Southwest Airlines B737 (N250WN),Landed 22:45,2021-06-12
+213,213,23:15 WN3056,,Houston (HOU),Southwest Airlines B737 (N7745A),Landed 00:07,2021-06-12
+214,214,23:20 WN4394,,Phoenix (PHX),Southwest Airlines B737 (N241WN),Landed 23:26,2021-06-12
+215,215,23:25 WN1707,,Orlando (MCO),Southwest Airlines B737 (N274WN),Landed 00:30,2021-06-12
+216,216,23:25 WN2547,,San Diego (SAN),Southwest Airlines B737 (N231WN),Landed 23:10,2021-06-12
+217,217,23:25 WN5564,,Las Vegas (LAS),Southwest Airlines B38M (N8716B),Landed 01:17,2021-06-12
+218,218,23:35 WN2983,,Fort Myers (RSW),Southwest Airlines B737 (N7833A),Landed 00:41,2021-06-12
+219,219,23:41,DL2469,Atlanta (ATL),Delta Air Lines A319 (N349NB),Landed 23:31,2021-06-12
+220,220,23:45 WN3961,,Denver (DEN),Southwest Airlines B737 (N935WN),Landed 00:35,2021-06-12
+221,221,23:45 WN2673,,Dallas (DAL),Southwest Airlines B738 (N8578Q),Landed 00:40,2021-06-12
+0,0,00:05 WN543,,Fort Lauderdale (FLL),Southwest Airlines B737 (N968WN),Landed 01:13,2021-06-13
+1,1,00:45 WN1933,,Los Angeles (LAX),Southwest Airlines B738 (N8581Z),Landed 00:27,2021-06-13
+2,2,00:55 WN4287,,Las Vegas (LAS),Southwest Airlines B738 (N8301J),Landed 02:20,2021-06-13
+3,3,01:10 WN3895,,Phoenix (PHX),Southwest Airlines B738 (N8667D),Landed 01:22,2021-06-13
+4,4,01:26 WN3473,,Omaha (OMA),Southwest Airlines B737 (N7731A),Landed 01:07,2021-06-13
+5,5,05:16 BFF100,,Oshawa (YOO),Air Nunavut FA10 (C-GSXC),Landed 05:12,2021-06-13
+6,6,06:05 WN4251,,Detroit (DTW),Southwest Airlines B738 (N8644C),Landed 05:55,2021-06-13
+7,7,06:55 WN2528,,Pittsburgh (PIT),Southwest Airlines B38M (N8805L),Landed 06:50,2021-06-13
+8,8,06:55 WN3982,,Washington (DCA),Southwest Airlines B737 (N563WN),Landed 06:43,2021-06-13
+9,9,07:00 WN646,,Philadelphia (PHL),Southwest Airlines B737 (N249WN),Landed 06:55,2021-06-13
+10,10,07:00 WN5472,,Manchester (MHT),Southwest Airlines B738 (N8650F),Landed 06:39,2021-06-13
+11,11,07:10 WN4409,,Boston (BOS),Southwest Airlines B737 (N205WN),Landed 07:03,2021-06-13
+12,12,07:10 WN4477,,Grand Rapids (GRR),Southwest Airlines B737 (N417WN),Landed 06:46,2021-06-13
+13,13,07:15 WN364,,New York (LGA),Southwest Airlines B737 (N7849A),Landed 07:01,2021-06-13
+14,14,07:15 WN3041,,Louisville (SDF),Southwest Airlines B737 (N7734H),Landed 07:05,2021-06-13
+15,15,07:15 WN3540,,Cleveland (CLE),Southwest Airlines (Colorado One Livery) B737 (N230WN),Landed 07:13,2021-06-13
+16,16,07:20 WN2705,,Albany (ALB),Southwest Airlines B38M (N8701Q),Landed 07:32,2021-06-13
+17,17,07:20 WN3278,,Buffalo (BUF),Southwest Airlines B738 (N8515X),Landed 07:11,2021-06-13
+18,18,07:20 WN3508,,Charleston (CHS),Southwest Airlines B737 (N463WN),Canceled,2021-06-13
+19,19,07:25 WN2130,,St. Louis (STL),Southwest Airlines B738 (N8511K),Landed 07:09,2021-06-13
+20,20,07:25 WN3687,,Raleigh-Durham (RDU),Southwest Airlines B738 (N8556Z),Landed 07:07,2021-06-13
+21,21,07:25 WN4649,,Myrtle Beach (MYR),Southwest Airlines B738 (N8668A),Landed 06:52,2021-06-13
+22,22,07:30 WN63,,Omaha (OMA),Southwest Airlines B737 (N7715E),Landed 09:16,2021-06-13
+23,23,07:30 WN2727,,Charlotte (CLT),Southwest Airlines B737 (N462WN),Landed 07:22,2021-06-13
+24,24,07:35 WN2986,,Windsor Locks (BDL),Southwest Airlines B738 (N8691A),Landed 07:24,2021-06-13
+25,25,07:35 WN4716,,Washington (IAD),Southwest Airlines B738 (N8526W),Landed 07:16,2021-06-13
+26,26,07:35 WN5548,,Minneapolis (MSP),Southwest Airlines B737 (N444WN),Landed 07:15,2021-06-13
+27,27,07:40 G41635,,Punta Gorda (PGD),Allegiant Air A320 (N253NV),Landed 07:30,2021-06-13
+28,28,07:40 WN2543,,Providence (PVD),Southwest Airlines B737 (N912WN),Landed 07:27,2021-06-13
+29,29,07:40 WN3723,,Cincinnati (CVG),Southwest Airlines B737 (N278WN),Landed 07:35,2021-06-13
+30,30,07:40 WN4358,,Atlanta (ATL),Southwest Airlines B738 (N8573Z),Landed 07:28,2021-06-13
+31,31,07:50 WN3306,,Fort Myers (RSW),Southwest Airlines B738 (N8572X),Landed 07:33,2021-06-13
+32,32,08:00 WN3421,,Baltimore (BWI),Southwest Airlines B738 (N8614M),Landed 07:51,2021-06-13
+33,33,08:00 WN3675,,Tampa (TPA),Southwest Airlines B38M (N8800L),Unknown,2021-06-13
+34,34,08:00 WN3777,,Nashville (BNA),Southwest Airlines B38M (N8731J),Landed 07:46,2021-06-13
+35,35,08:05 WN3246,,Kansas City (MCI),Southwest Airlines B737 (N7740A),Landed 07:50,2021-06-13
+36,36,08:14 DPJ497,,Cleveland (CLE),Private owner BE40 (N497TM),Landed 08:05,2021-06-13
+37,37,08:15 WN4430,,Fort Lauderdale (FLL),Southwest Airlines B737 (N747SA),Landed 08:07,2021-06-13
+38,38,08:20 WN3208,,Dallas (DAL),Southwest Airlines B737 (N7815L),Landed 08:03,2021-06-13
+39,39,08:25 WN5611,,New Orleans (MSY),Southwest Airlines B738 (N8507C),Landed 08:09,2021-06-13
+40,40,08:35 SY8672,,Minneapolis (MSP),Sun Country Airlines B738 (N824SY),Landed 08:01,2021-06-13
+41,41,08:36 DPJ900,,Teterboro (TEB),Delta Private Jets C56X,Unknown,2021-06-13
+42,42,08:50 DL5155,,Detroit (DTW),Delta Connection CRJ7 (N390CA),Landed 08:34,2021-06-13
+43,43,08:55 WN2503,,Houston (HOU),Southwest Airlines B737 (N914WN),Landed 08:42,2021-06-13
+44,44,09:10,DL2483,Atlanta (ATL),Delta Air Lines A319 (N352NB),Landed 09:10,2021-06-13
+45,45,09:15 WN3438,,Atlanta (ATL),Southwest Airlines B38M (N8801Q),Landed 09:13,2021-06-13
+46,46,09:15 WN4625,,Houston (IAH),Southwest Airlines B737 (N480WN),Landed 08:39,2021-06-13
+47,47,09:25 WN5302,,Orlando (MCO),Southwest Airlines B738 (N8546V),Landed 10:11,2021-06-13
+48,48,09:30 WN3830,,Columbus (CMH),Southwest Airlines B737 (N944WN),Landed 10:01,2021-06-13
+49,49,09:35 WN2946,,Austin (AUS),Southwest Airlines B737 (N932WN),Landed 09:37,2021-06-13
+50,50,09:40 WN5227,,Kansas City (MCI),Southwest Airlines B737 (N211WN),Landed 09:45,2021-06-13
+51,51,09:45 WN3133,,Denver (DEN),Southwest Airlines B38M (N8707P),Landed 09:41,2021-06-13
+52,52,09:50 WN3977,,Nashville (BNA),Southwest Airlines B737 (N738CB),Landed 09:39,2021-06-13
+53,53,09:51 DL5008,,Minneapolis (MSP),Delta Connection CRJ7 (N371CA),Landed 09:36,2021-06-13
+54,54,09:54 1I540,,Bloomington (BMG),NetJets C68A,Unknown,2021-06-13
+55,55,10:04 GAJ875,,St. Louis (STL),Wheels Up B350 (N875UP),Landed 10:54,2021-06-13
+56,56,10:06 WN8500,,Chicago (ORD),Southwest Airlines B737,Unknown,2021-06-13
+57,57,10:30 WN629,,Dallas (DAL),Southwest Airlines B738 (N8568Z),Landed 10:09,2021-06-13
+58,58,10:43 G41943,,Destin Fort Walton Beach (VPS),Allegiant Air A320 (N277NV),Landed 10:49,2021-06-13
+59,59,10:50 WN3664,,Colorado Springs (COS),Southwest Airlines B737 (N487WN),Landed 10:24,2021-06-13
+60,60,10:50 Y4940,,Guadalajara (GDL),Volaris A20N (XA-VRQ),Landed 10:46,2021-06-13
+61,61,10:55 WN3212,,Boise (BOI),Southwest Airlines B737 (N7735A),Landed 10:34,2021-06-13
+62,62,11:05 WN4018,,Houston (HOU),Southwest Airlines B738 (N8576Z),Landed 11:02,2021-06-13
+63,63,11:20 WN2888,,Baltimore (BWI),Southwest Airlines B738 (N8699A),Landed 11:15,2021-06-13
+64,64,11:20 WN3444,,Seattle (SEA),Southwest Airlines B38M (N8748Q),Landed 11:25,2021-06-13
+65,65,11:25 WN3873,,Tucson (TUS),Southwest Airlines B737 (N411WN),Landed 11:05,2021-06-13
+66,66,11:40 WN1285,,Philadelphia (PHL),Southwest Airlines B38M (N8807L),Landed 11:31,2021-06-13
+67,67,11:40 WN4946,,Spokane (GEG),Southwest Airlines B737 (N458WN),Landed 11:29,2021-06-13
+68,68,11:45 WN3267,,Denver (DEN),Southwest Airlines B738 (N8633A),Landed 11:33,2021-06-13
+69,69,11:46 LXJ455,,Hilton Head Island (HHH),Flexjet GLF4 (N455FX),Landed 11:40,2021-06-13
+70,70,11:50 WN1341,,Sarasota (SRQ),Southwest Airlines B737 (N951WN),Landed 11:35,2021-06-13
+71,71,11:50 WN4958,,Las Vegas (LAS),Southwest Airlines B38M (N8815L),Landed 11:53,2021-06-13
+72,72,11:55 WN4283,,Orlando (MCO),Southwest Airlines B738 (N8698B),Landed 11:56,2021-06-13
+73,73,11:55 DL5759,,Atlanta (ATL),Delta Connection E75S (N208JQ),Landed 11:46,2021-06-13
+74,74,11:57 LXJ341,,Oakland County (PTK),Flexjet E55P,Canceled,2021-06-13
+75,75,12:05 WN5063,,Los Angeles (LAX),Southwest Airlines (Arizona One Livery) B737 (N955WN),Landed 12:07,2021-06-13
+76,76,12:20 WN652,,San Francisco (SFO),Southwest Airlines B738 (N8509U),Landed 12:00,2021-06-13
+77,77,12:20 WN1020,,Phoenix (PHX),Southwest Airlines B738 (N8557Q),Landed 12:02,2021-06-13
+78,78,12:20 WN4834,,Cincinnati (CVG),Southwest Airlines B737 (N494WN),Landed 12:12,2021-06-13
+79,79,12:25 WN2647,,Minneapolis (MSP),Southwest Airlines B737 (N221WN),Landed 12:30,2021-06-13
+80,80,12:30 WN2909,,Salt Lake City (SLC),Southwest Airlines B738 (N8626B),Landed 12:13,2021-06-13
+81,81,12:30 DL5229,,Detroit (DTW),Delta Connection CRJ7 (N390CA),Landed 12:26,2021-06-13
+82,82,12:35 WN1360,,Omaha (OMA),Southwest Airlines B737 (N737JW),Landed 12:36,2021-06-13
+83,83,12:35 WN3427,,Portland (PDX),Southwest Airlines B738 (N8652B),Landed 12:17,2021-06-13
+84,84,12:35 WN4085,,Ontario (ONT),Southwest Airlines B738 (N8564Z),Landed 12:15,2021-06-13
+85,85,12:40 WN3136,,Reno (RNO),Southwest Airlines B737 (N7832A),Landed 12:28,2021-06-13
+86,86,12:40 WN4390,,St. Louis (STL),Southwest Airlines B738 (N8537Z),Landed 12:22,2021-06-13
+87,87,12:45 WN2016,,San Diego (SAN),Southwest Airlines B738 (N8619F),Landed 12:19,2021-06-13
+88,88,12:45 WN3530,,Memphis (MEM),Southwest Airlines B737 (N762SW),Landed 13:16,2021-06-13
+89,89,12:50 WN2613,,Fort Lauderdale (FLL),Southwest Airlines B737 (N712SW),Landed 12:44,2021-06-13
+90,90,12:50 WN3657,,Louisville (SDF),Southwest Airlines B737 (N231WN),Landed 14:15,2021-06-13
+91,91,12:55 WN441,,Miami (MIA),Southwest Airlines B738 (N8635F),Landed 12:09,2021-06-13
+92,92,12:55 WN554,,Orlando (MCO),Southwest Airlines B737 (N936WN),Landed 13:14,2021-06-13
+93,93,12:55 WN4610,,Las Vegas (LAS),Southwest Airlines B737 (N407WN),Unknown,2021-06-13
+94,94,13:00 G4428,,Knoxville (TYS),Allegiant Air A320 (N217NV),Landed 12:57,2021-06-13
+95,95,13:00 WN4433,,Columbus (CMH),Southwest Airlines B737 (N746SW),Landed 13:35,2021-06-13
+96,96,13:00 WN5374,,Kansas City (MCI),Southwest Airlines B38M (N8702L),Landed 13:21,2021-06-13
+97,97,13:00 WN5428,,Pittsburgh (PIT),Southwest Airlines B738 (N8572X),Landed 12:59,2021-06-13
+98,98,13:05 WN2803,,Nashville (BNA),Southwest Airlines B737 (N254WN),Landed 12:52,2021-06-13
+99,99,13:05 WN5859,,San Jose (SJC),Southwest Airlines B737 (N284WN),Landed 12:54,2021-06-13
+100,100,13:05 WN5926,,Oakland (OAK),Southwest Airlines B737 (N730SW),Landed 12:51,2021-06-13
+101,101,13:10 WN5255,,Tampa (TPA),Southwest Airlines B737 (N7878A),Landed 13:09,2021-06-13
+102,102,13:15 WN3502,,Burbank (BUR),Southwest Airlines B737 (N286WN),Landed 13:33,2021-06-13
+103,103,13:17,,Bozeman (BZN),- (N492FT),Landed 13:19,2021-06-13
+104,104,13:25 WN2579,,Denver (DEN),Southwest Airlines B737 (N434WN),Landed 13:29,2021-06-13
+105,105,13:39 JL120,,Lincoln (LNK),Private owner GLF4 (N120SB),Landed 13:38,2021-06-13
+106,106,13:40 WN2871,,Cleveland (CLE),Southwest Airlines B737 (N7733B),Landed 13:31,2021-06-13
+107,107,13:40 WN3673,,Houston (HOU),Southwest Airlines B38M (N8745K),Landed 13:36,2021-06-13
+108,108,13:45 WN1283,,Detroit (DTW),Southwest Airlines B738 (N8661A),Landed 13:28,2021-06-13
+109,109,13:48 1I808,,St. Petersburg (PIE),NetJets C700,Unknown,2021-06-13
+110,110,13:50 WN5356,,Charleston (CHS),Southwest Airlines B737 (N249WN),Landed 13:43,2021-06-13
+111,111,13:53 GAJ855,,Columbus (OSU),Wheels Up B350 (N855UP),Landed 14:24,2021-06-13
+112,112,14:00 WN3722,,Boston (BOS),Southwest Airlines B737 (N278WN),Landed 14:19,2021-06-13
+113,113,14:00 WN5457,,Baltimore (BWI),Southwest Airlines B38M (N8813Q),Landed 15:20,2021-06-13
+114,114,14:05 WN1503,,Fort Myers (RSW),Southwest Airlines B38M (N8805L),Landed 14:17,2021-06-13
+115,115,14:25 WN5664,,San Antonio (SAT),Southwest Airlines B737 (N212WN),Landed 14:22,2021-06-13
+116,116,14:40 WN4698,,Austin (AUS),Southwest Airlines B737 (N959WN),Landed 14:44,2021-06-13
+117,117,14:45 WN4424,,Atlanta (ATL),Southwest Airlines B738 (N8542Z),Landed 14:35,2021-06-13
+118,118,14:55 WN4159,,Minneapolis (MSP),Southwest Airlines B38M (N8816Q),Landed 14:33,2021-06-13
+119,119,15:00 WN2489,,Pensacola (PNS),Southwest Airlines B738 (N8607M),Landed 14:55,2021-06-13
+120,120,15:00 WN3318,,Phoenix (PHX),Southwest Airlines B738 (N8529Z),Landed 15:05,2021-06-13
+121,121,15:03 Y4942,,Silao (BJX),Volaris A320 (XA-VRA),Landed 15:34,2021-06-13
+122,122,15:09,DL2537,Atlanta (ATL),Delta Air Lines A319 (N344NB),Landed 15:03,2021-06-13
+123,123,15:10 WN2316,,Dallas (DAL),Southwest Airlines B738 (N8644C),Landed 15:08,2021-06-13
+124,124,15:10 WN4068,,Los Angeles (LAX),Southwest Airlines B738 (N8625A),Landed 14:54,2021-06-13
+125,125,15:15 WN2786,,New York (LGA),Southwest Airlines B737 (N7720F),Landed 15:00,2021-06-13
+126,126,15:20 WN219,,Cancun (CUN),Southwest Airlines B737 (N7833A),Landed 14:58,2021-06-13
+127,127,15:20 WN5313,,Orlando (MCO),Southwest Airlines B737 (N7865A),Landed 21:14,2021-06-13
+128,128,15:30 WN3866,,Washington (DCA),Southwest Airlines B737 (N7862A),Landed 15:33,2021-06-13
+129,129,15:30 WN4453,,Las Vegas (LAS),Southwest Airlines B738 (N8577Z),Landed 15:16,2021-06-13
+130,130,15:40 WN5554,,Tampa (TPA),Southwest Airlines B737 (N444WN),Landed 16:14,2021-06-13
+131,131,15:40 WN5911,,Buffalo (BUF),Southwest Airlines B737 (N731SA),Landed 15:41,2021-06-13
+132,132,15:45 WN5430,,Seattle (SEA),Southwest Airlines B737 (N917WN),Landed 15:39,2021-06-13
+133,133,15:50 WN5877,,Cleveland (CLE),Southwest Airlines B738 (N8641B),Landed 15:47,2021-06-13
+134,134,15:55 WN3149,,Albuquerque (ABQ),Southwest Airlines B38M (N8732S),Landed 16:11,2021-06-13
+135,135,15:57 Y4946,,Morelia (MLM),Volaris A20N (XA-VRO),Landed 15:52,2021-06-13
+136,136,16:03 DPJ418,,Georgetown (GED),Private owner BE40 (N418TM),Unknown,2021-06-13
+137,137,16:05 WN3616,,Oklahoma City (OKC),Southwest Airlines B738 (N8600F),Landed 15:45,2021-06-13
+138,138,16:17,,Boston (BOS),- HDJT (N137JT),Landed 17:23,2021-06-13
+139,139,16:20 WN3887,,Miami (MIA),Southwest Airlines B737 (N251WN),Landed 15:55,2021-06-13
+140,140,16:20 WN4270,,St. Louis (STL),Southwest Airlines B737 (N468WN),Landed 16:00,2021-06-13
+141,141,16:28,DL4828,Detroit (DTW),Delta Connection CRJ9 (N930XJ),Landed 16:13,2021-06-13
+142,142,16:35,,Morristown (MMU),- CL60 (N696KT),Landed 16:53,2021-06-13
+143,143,16:45 WN3458,,Santa Ana (SNA),Southwest Airlines B737 (N7854B),Landed 17:04,2021-06-13
+144,144,16:55 WN5878,,Las Vegas (LAS),Southwest Airlines B737 (N7728D),Landed 16:51,2021-06-13
+145,145,17:05 WN2791,,Savannah (SAV),Southwest Airlines B737 (N944WN),Landed 17:19,2021-06-13
+146,146,17:07,DL4949,Minneapolis (MSP),Delta Connection CRJ7 (N354CA),Landed 16:46,2021-06-13
+147,147,17:10 WN152,,Oakland (OAK),Southwest Airlines B738 (N8654B),Landed 16:54,2021-06-13
+148,148,17:10 WN5799,,Denver (DEN),Southwest Airlines B737 (N7836A),Landed 17:11,2021-06-13
+149,149,17:15 WN4673,,Phoenix (PHX),Southwest Airlines B738 (N8580Z),Landed 17:02,2021-06-13
+150,150,17:15 WN5623,,Birmingham (BHM),Southwest Airlines B738 (N8534Z),Landed 17:25,2021-06-13
+151,151,17:15 WN3074,,Omaha (OMA),Southwest Airlines B737 (N7869A),Landed 17:41,2021-06-13
+152,152,17:20 WN2341,,Sacramento (SMF),Southwest Airlines B737 (N273WN),Landed 17:20,2021-06-13
+153,153,17:20 WN2401,,Boston (BOS),Southwest Airlines B737 (N7888A),Landed 17:06,2021-06-13
+154,154,17:20 WN2437,,Louisville (SDF),Southwest Airlines B738 (N8616C),Landed 17:35,2021-06-13
+155,155,17:25 WN3179,,Austin (AUS),Southwest Airlines B738 (N8517F),Landed 17:17,2021-06-13
+156,156,17:25 WN5361,,Cincinnati (CVG),Southwest Airlines B737 (N249WN),Landed 17:07,2021-06-13
+157,157,17:29 Y45946,,Morelia (MLM),Volaris A20N (N541VL),Landed 17:15,2021-06-13
+158,158,17:30 WN4703,,Grand Rapids (GRR),Southwest Airlines B737 (N234WN),Landed 17:42,2021-06-13
+159,159,17:35 WN4176,,Salt Lake City (SLC),Southwest Airlines B738 (N8301J),Landed 17:36,2021-06-13
+160,160,17:35 WN4734,,Long Beach (LGB),Southwest Airlines B738 (N8614M),Landed 17:45,2021-06-13
+161,161,17:40 WN3700,,San Diego (SAN),Southwest Airlines B737 (N7881A),Landed 17:23,2021-06-13
+162,162,17:40 WN4460,,Houston (IAH),Southwest Airlines B738 (N8535S),Landed 17:10,2021-06-13
+163,163,17:40 WN4544,,Destin Fort Walton Beach (VPS),Southwest Airlines B737 (N7887A),Landed 17:56,2021-06-13
+164,164,17:41,DL5811,Atlanta (ATL),Delta Connection E75S (N209JQ),Landed 17:54,2021-06-13
+165,165,17:45 WN64,,San Jose (SJC),Southwest Airlines B738 (N8581Z),Landed 18:26,2021-06-13
+166,166,17:45 WN3362,,Omaha (OMA),Southwest Airlines B738 (N8543Z),Landed 17:33,2021-06-13
+167,167,17:45 WN5097,,Panama City (ECP),Southwest Airlines B737 (N558WN),Landed 17:40,2021-06-13
+168,168,17:49 DPJ497,,Georgetown (GED),Private owner BE40 (N497TM),Landed 17:44,2021-06-13
+169,169,17:50 WN1043,,Montego Bay (MBJ),Southwest Airlines B737 (N240WN),Landed 17:47,2021-06-13
+170,170,17:55 WN2732,,Fort Myers (RSW),Southwest Airlines B738 (N8551Q),Landed 17:55,2021-06-13
+171,171,18:00 WN4981,,Jacksonville (JAX),Southwest Airlines B38M (N8711Q),Landed 18:39,2021-06-13
+172,172,18:00 1I594,,Syracuse (SYR),NetJets C56X,Unknown,2021-06-13
+173,173,18:05 WN2821,,New Orleans (MSY),Southwest Airlines B738 (N8579Z),Landed 17:58,2021-06-13
+174,174,18:25 UA2503,,Detroit (DTW),United Airlines A320 (N415UA),Landed 17:50,2021-06-13
+175,175,18:25 WN4652,,Las Vegas (LAS),Southwest Airlines B738 (N8320J),Landed 18:12,2021-06-13
+176,176,18:35 WN2147,,Denver (DEN),Southwest Airlines B738 (N8630B),Landed 18:31,2021-06-13
+177,177,18:35 WN5005,,Kansas City (MCI),Southwest Airlines B737 (N7863A),Landed 18:38,2021-06-13
+178,178,18:40 WN3072,,Phoenix (PHX),Southwest Airlines B737 (N7867A),Landed 18:30,2021-06-13
+179,179,18:43 G42540,,Savannah (SAV),Allegiant Air A319 (N309NV),Landed 18:36,2021-06-13
+180,180,18:50 WN3812,,Atlanta (ATL),Southwest Airlines B738 (N8682B),Landed 18:41,2021-06-13
+181,181,18:50 WN3893,,St. Louis (STL),Southwest Airlines B38M (N8747Q),Landed 19:22,2021-06-13
+182,182,18:55 WN5126,,Nashville (BNA),Southwest Airlines B737 (N447WN),Landed 19:26,2021-06-13
+183,183,19:20 WN217,,Cancun (CUN),Southwest Airlines B737 (N563WN),Landed 19:32,2021-06-13
+184,184,19:25 WN4611,,Portland (PWM),Southwest Airlines B737 (N407WN),Landed 19:24,2021-06-13
+185,185,19:30 DL8888,,St. Petersburg (PIE),Delta Air Lines B752 (N676DL),Landed 20:03,2021-06-13
+186,186,19:35 WN2466,,Baltimore (BWI),Southwest Airlines B738 (N8569Z),Landed 19:35,2021-06-13
+187,187,19:35 WN3627,,Orlando (MCO),Southwest Airlines B738 (N8561Z),Canceled,2021-06-13
+188,188,19:35 WN5665,,Richmond (RIC),Southwest Airlines B737 (N212WN),Landed 19:53,2021-06-13
+189,189,19:35 WN8506,,Columbus (CMH),Southwest Airlines B737 (N7729A),Landed 19:14,2021-06-13
+190,190,19:42 1I567,,Columbia (COU),NetJets CNJ,Unknown,2021-06-13
+191,191,19:45 WN5925,,Grand Rapids (GRR),Southwest Airlines B738 (N8645A),Landed 19:28,2021-06-13
+192,192,19:50 WN3196,,Washington (DCA),Southwest Airlines B737 (N932WN),Landed 20:29,2021-06-13
+193,193,19:54 DL8884,,Detroit (DTW),Delta Air Lines B752 (N699DL),Landed 20:20,2021-06-13
+194,194,19:55 WN2369,,Sarasota (SRQ),Southwest Airlines B738 (N8572X),Landed 20:11,2021-06-13
+195,195,19:55 WN2619,,San Juan (SJU),Southwest Airlines B738 (N8650F),Landed 21:10,2021-06-13
+196,196,19:55 WN3055,,Columbus (CMH),Southwest Airlines B737 (N472WN),Landed 00:50,2021-06-13
+197,197,20:00 WN2846,,Myrtle Beach (MYR),Southwest Airlines B737 (N7877H),Landed 19:58,2021-06-13
+198,198,20:00 WN4274,,Philadelphia (PHL),Southwest Airlines B38M (N8801Q),Landed 19:38,2021-06-13
+199,199,20:00 WN5382,,Pittsburgh (PIT),Southwest Airlines B737 (N242WN),Landed 20:32,2021-06-13
+200,200,20:00 1I407,,Detroit (YIP),NetJets E55P,Unknown,2021-06-13
+201,201,20:05 WN3395,,Buffalo (BUF),Southwest Airlines B738 (N8324A),Landed 20:05,2021-06-13
+202,202,20:05 WN4964,,Minneapolis (MSP),Southwest Airlines B38M (N8815L),Landed 19:43,2021-06-13
+203,203,20:05 WN5218,,Raleigh-Durham (RDU),Southwest Airlines B738 (N8621A),Landed 21:54,2021-06-13
+204,204,20:06 1I612,,Cincinnati (LUK),NetJets CNJ,Canceled,2021-06-13
+205,205,20:10 WN3244,,Cleveland (CLE),Southwest Airlines B38M (N8810L),Landed 20:23,2021-06-13
+206,206,20:10 WN4061,,New York (LGA),Southwest Airlines B737 (N730SW),Landed 20:34,2021-06-13
+207,207,20:15 WN3239,,Charleston (CHS),Southwest Airlines B38M (N8804L),Landed 20:15,2021-06-13
+208,208,20:15 WN3283,,Washington (IAD),Southwest Airlines B738 (N8515X),Landed 21:04,2021-06-13
+209,209,20:15 WN5998,,Phoenix (PHX),Southwest Airlines B38M (N8734Q),Landed 20:24,2021-06-13
+210,210,20:15,,Omaha (OMA),- P180 (N493JD),Landed 20:28,2021-06-13
+211,211,20:20 WN2777,,Windsor Locks (BDL),Southwest Airlines B738 (N8601C),Landed 00:30,2021-06-13
+212,212,20:20 WN3638,,Norfolk (ORF),Southwest Airlines B738 (N8606C),Landed 20:06,2021-06-13
+213,213,20:20 WN5499,,Albany (ALB),Southwest Airlines B738 (N8640D),Landed 20:36,2021-06-13
+214,214,20:22 Y4948,,Zacatecas (ZCL),Volaris A20N (XA-VRQ),Landed 20:13,2021-06-13
+215,215,20:25 WN3415,,Manchester (MHT),Southwest Airlines B737 (N907WN),Landed 20:42,2021-06-13
+216,216,20:25 WN4733,,Providence (PVD),Southwest Airlines B737 (N959WN),Landed 20:44,2021-06-13
+217,217,20:25 WN2994,,Detroit (DTW),Southwest Airlines B738 (N8691A),Landed 20:26,2021-06-13
+218,218,20:40 WN3920,,Las Vegas (LAS),Southwest Airlines B738 (N8680C),Landed 20:40,2021-06-13
+219,219,20:45 WN4385,,Charlotte (CLT),Southwest Airlines B738 (N8577Z),Landed 21:00,2021-06-13
+220,220,20:49 1I782,,Des Moines (DSM),NetJets CL30,Unknown,2021-06-13
+221,221,21:00 WN5596,,Dallas (DAL),Southwest Airlines B738 (N8504G),Landed 21:20,2021-06-13
+222,222,21:04 WN8902,,Louisville (SDF),Southwest Airlines B738 (N8546V),Landed 20:54,2021-06-13
+223,223,21:10 WN2516,,Houston (HOU),Southwest Airlines B38M (N8736J),Landed 21:16,2021-06-13
+224,224,21:10 WN3360,,Tampa (TPA),Southwest Airlines B738 (N8533S),Landed 21:12,2021-06-13
+225,225,21:15 WN4551,,Fort Myers (RSW),Southwest Airlines B737 (N910WN),Landed 21:06,2021-06-13
+226,226,21:25 WN5030,,Nashville (BNA),Southwest Airlines B738 (N8643A),Landed 21:18,2021-06-13
+227,227,21:30 WN2659,,Denver (DEN),Southwest Airlines B738 (N8562Z),Landed 22:25,2021-06-13
+228,228,21:42 1I304,,Chicago (DPA),NetJets EP3,Canceled,2021-06-13
+229,229,21:45 WN3798,,Orlando (MCO),Southwest Airlines B737 (N7816B),Canceled,2021-06-13
+230,230,21:50 WN3092,,Las Vegas (LAS),Southwest Airlines B738 (N8658A),Landed 21:44,2021-06-13
+231,231,22:03,DL5235,Minneapolis (MSP),Delta Connection CRJ7 (N354CA),Landed 21:33,2021-06-13
+232,232,22:10 WN5274,,Miami (MIA),Southwest Airlines B737 (N7713A),Landed 22:45,2021-06-13
+233,233,22:25 WN2862,,St. Louis (STL),Southwest Airlines B38M (N8745K),Landed 22:05,2021-06-13
+234,234,22:45 WN182,,Baltimore (BWI),Southwest Airlines B737 (N7851A),Landed 23:05,2021-06-13
+235,235,22:55 WN2132,,Orlando (MCO),Southwest Airlines B737,Canceled,2021-06-13
+236,236,22:55 WN5072,,Phoenix (PHX),Southwest Airlines B737 (N7748A),Landed 01:48,2021-06-13
+237,237,23:00 WN4247,,Kansas City (MCI),Southwest Airlines B738 (N8681M),Landed 22:40,2021-06-13
+238,238,23:05 WN5025,,Salt Lake City (SLC),Southwest Airlines B738 (N8624J),Landed 23:28,2021-06-13
+239,239,23:30 WN4046,,Tampa (TPA),Southwest Airlines B38M (N8806Q),Landed 00:42,2021-06-13
+240,240,23:31 WN8513,,Omaha (OMA),Southwest Airlines B737 (N287WN),Landed 01:43,2021-06-13
+241,241,23:32 1I320,,Holy Cross (HCR),NetJets CJ8,Unknown,2021-06-13
+242,242,23:35 WN1536,,Atlanta (ATL),Southwest Airlines B737 (N746SW),Landed 23:43,2021-06-13
+243,243,23:40 WN2174,,Fort Myers (RSW),Southwest Airlines B737 (N452WN),Landed 01:10,2021-06-13
+244,244,23:41,DL2469,Atlanta (ATL),Delta Air Lines A319 (N348NB),Landed 23:50,2021-06-13
+245,245,23:45 WN2802,,Houston (HOU),Southwest Airlines B737 (N291WN),Landed 00:13,2021-06-13
+246,246,23:55 WN56,,Orlando (MCO),Southwest Airlines B737 (N729SW),Landed 00:27,2021-06-13
+0,0,00:05 WN543,,Fort Lauderdale (FLL),Southwest Airlines B737 (N752SW),Landed 00:32,2021-06-14
+1,1,00:05 WN2032,,Phoenix (PHX),Southwest Airlines B737 (N7812G),Landed 00:24,2021-06-14
+2,2,00:05 WN2961,,Dallas (DAL),Southwest Airlines B738 (N8581Z),Landed 00:21,2021-06-14
+3,3,00:10 WN2698,,Denver (DEN),Southwest Airlines B737 (N904WN),Landed 00:38,2021-06-14
+4,4,00:10 WN4312,,Los Angeles (LAX),Southwest Airlines B738 (N8605E),Landed 01:22,2021-06-14
+5,5,00:10 WN4849,,San Diego (SAN),Southwest Airlines B737 (N906WN),Landed 01:07,2021-06-14
+6,6,00:40 WN4693,,Las Vegas (LAS),Southwest Airlines B738 (N8522P),Landed 00:56,2021-06-14
+7,7,06:05 WN361,,Buffalo (BUF),Southwest Airlines B737 (N925WN),Landed 05:57,2021-06-14
+8,8,06:50 WN560,,Cincinnati (CVG),Southwest Airlines (California One Livery) B737 (N943WN),Landed 06:34,2021-06-14
+9,9,07:00 WN177,,Atlanta (ATL),Southwest Airlines B738 (N8538V),Landed 06:47,2021-06-14
+10,10,07:00 WN694,,Washington (DCA),Southwest Airlines B737 (N486WN),Landed 07:13,2021-06-14
+11,11,07:00 WN1911,,Grand Rapids (GRR),Southwest Airlines B737 (N7851A),Landed 06:38,2021-06-14
+12,12,07:05 WN482,,Cleveland (CLE),Southwest Airlines B737 (N244WN),Landed 06:56,2021-06-14
+13,13,07:05 WN1174,,Manchester (MHT),Southwest Airlines B738 (N8555Z),Landed 07:09,2021-06-14
+14,14,07:05 WN1903,,Providence (PVD),Southwest Airlines B737 (N470WN),Landed 06:51,2021-06-14
+15,15,07:10 WN1112,,Detroit (DTW),Southwest Airlines B738 (N8565Z),Landed 06:53,2021-06-14
+16,16,07:10 WN1562,,Pittsburgh (PIT),Southwest Airlines B738 (N8690A),Landed 07:05,2021-06-14
+17,17,07:15 WN364,,New York (LGA),Southwest Airlines B737 (N235WN),Landed 06:58,2021-06-14
+18,18,07:15 WN1926,,Raleigh-Durham (RDU),Southwest Airlines B738 (N8536Z),Landed 07:02,2021-06-14
+19,19,07:20 WN255,,Windsor Locks (BDL),Southwest Airlines B738 (N8693A),Landed 07:11,2021-06-14
+20,20,07:20 WN1829,,Minneapolis (MSP),Southwest Airlines B737 (N271LV),Landed 07:04,2021-06-14
+21,21,07:25 WN430,,Baltimore (BWI),Southwest Airlines B737 (N7884G),Landed 07:35,2021-06-14
+22,22,07:25 WN1318,,Boston (BOS),Southwest Airlines B738 (N8552Z),Landed 07:08,2021-06-14
+23,23,07:30 WN140,,Albany (ALB),Southwest Airlines B737 (N496WN),Landed 07:15,2021-06-14
+24,24,07:30 WN370,,Charleston (CHS),Southwest Airlines B737 (N201LV),Landed 07:18,2021-06-14
+25,25,07:30 WN507,,Philadelphia (PHL),Southwest Airlines B737 (N718SW),Landed 07:24,2021-06-14
+26,26,07:35 WN519,,Columbus (CMH),Southwest Airlines B737 (N7747C),Landed 07:42,2021-06-14
+27,27,07:35 WN1588,,Myrtle Beach (MYR),Southwest Airlines B738 (N8509U),Landed 07:06,2021-06-14
+28,28,07:35 WN2080,,Louisville (SDF),Southwest Airlines B738 (N8650F),Landed 07:22,2021-06-14
+29,29,07:40 WN321,,Washington (IAD),Southwest Airlines B738 (N8695D),Landed 07:40,2021-06-14
+30,30,07:40 WN520,,Charlotte (CLT),Southwest Airlines B737 (N725SW),Landed 07:29,2021-06-14
+31,31,07:40 WN3275,,Memphis (MEM),Southwest Airlines B737 (N7816B),Canceled,2021-06-14
+32,32,07:45 WN1624,,Nashville (BNA),Southwest Airlines B738 (N8327A),Landed 07:38,2021-06-14
+33,33,07:50 WN1249,,Fort Myers (RSW),Southwest Airlines B738 (N8560Z),Landed 07:43,2021-06-14
+34,34,07:50 WN1443,,St. Louis (STL),Southwest Airlines B737 (N959WN),Landed 07:37,2021-06-14
+35,35,07:50 WN2258,,Sarasota (SRQ),Southwest Airlines B737 (N7820L),Unknown,2021-06-14
+36,36,07:55 WN1235,,Kansas City (MCI),Southwest Airlines B738 (N8575Z),Landed 07:46,2021-06-14
+37,37,08:05 WN1891,,Miami (MIA),Southwest Airlines B737 (N562WN),Landed 07:40,2021-06-14
+38,38,08:05 WN2310,,Tampa (TPA),Southwest Airlines B737 (N7729A),Landed 07:53,2021-06-14
+39,39,08:15 WN871,,New Orleans (MSY),Southwest Airlines B737 (N414WN),Landed 08:11,2021-06-14
+40,40,08:19 1I238,,Teterboro (TEB),Netjets CL60 (N238QS),Landed 08:18,2021-06-14
+41,41,08:20 WN1256,,Fort Lauderdale (FLL),Southwest Airlines B737 (N919WN),Landed 08:03,2021-06-14
+42,42,08:25 WN994,,Houston (HOU),Southwest Airlines B738 (N8547V),Landed 08:20,2021-06-14
+43,43,08:30 WN1653,,Dallas (DAL),Southwest Airlines B737 (N494WN),Landed 08:08,2021-06-14
+44,44,08:45 WN1029,,Orlando (MCO),Southwest Airlines B738 (N8603F),Landed 08:45,2021-06-14
+45,45,08:50 DL5155,,Detroit (DTW),Delta Connection CRJ7 (N317CA),Landed 08:37,2021-06-14
+46,46,08:55 WN744,,Denver (DEN),Southwest Airlines B738 (N8620H),Landed 08:35,2021-06-14
+47,47,09:00 WN1830,,Omaha (OMA),Southwest Airlines B737 (N209WN),Landed 08:43,2021-06-14
+48,48,09:10,DL2483,Atlanta (ATL),Delta Air Lines A319 (N337NB),Landed 08:50,2021-06-14
+49,49,09:23,,Ankeny (QQK),- (N812RA),Landed 09:11,2021-06-14
+50,50,09:25 WN1040,,Houston (IAH),Southwest Airlines B737 (N720WN),Landed 09:18,2021-06-14
+51,51,09:30 WN548,,Colorado Springs (COS),Southwest Airlines B737 (N730SW),Landed 09:07,2021-06-14
+52,52,09:35 WN1564,,Baltimore (BWI),Southwest Airlines B737 (N405WN),Landed 09:29,2021-06-14
+53,53,09:35 WN2289,,Atlanta (ATL),Southwest Airlines B737 (N474WN),Landed 09:24,2021-06-14
+54,54,09:50 WN5602,,Tampa (TPA),Southwest Airlines B737 (N267WN),Landed 09:33,2021-06-14
+55,55,09:51 DL5008,,Minneapolis (MSP),Delta Connection CRJ7 (N371CA),Landed 09:36,2021-06-14
+56,56,09:55 WN1412,,Nashville (BNA),Southwest Airlines B737 (N746SW),Landed 09:37,2021-06-14
+57,57,10:15 WN2173,,Salt Lake City (SLC),Southwest Airlines B737 (N565WN),Landed 10:09,2021-06-14
+58,58,10:18 WDY500,,Teterboro (TEB),Private owner GLF5 (N900J),Landed 10:28,2021-06-14
+59,59,10:20 WN1449,,Orlando (MCO),Southwest Airlines (Louisiana One Livery) B737 (N946WN),Landed 10:20,2021-06-14
+60,60,10:24 1I501,,Sarasota (SRQ),NetJets C68A,Unknown,2021-06-14
+61,61,10:30 WN629,,Dallas (DAL),Southwest Airlines B738 (N8664J),Landed 10:18,2021-06-14
+62,62,10:40 WN1820,,Phoenix (PHX),Southwest Airlines B737 (N908WN),Landed 10:26,2021-06-14
+63,63,10:50 Y4940,,Guadalajara (GDL),Volaris A20N (N531VL),Landed 10:37,2021-06-14
+64,64,11:02 1I555,,Muskegon (MKG),NetJets C56X,Unknown,2021-06-14
+65,65,11:15 WN522,,Las Vegas (LAS),Southwest Airlines B737 (N458WN),Landed 11:03,2021-06-14
+66,66,11:35 WN5484,,Oakland (OAK),Southwest Airlines B737 (N7736A),Landed 11:22,2021-06-14
+67,67,11:40 WN1320,,Denver (DEN),Southwest Airlines B738 (N8698B),Unknown,2021-06-14
+68,68,11:40 WN1753,,Pensacola (PNS),Southwest Airlines B737 (N933WN),Landed 11:43,2021-06-14
+69,69,11:45 WN4777,,Reno (RNO),Southwest Airlines B737 (N213WN),Landed 11:39,2021-06-14
+70,70,11:50 WN1016,,St. Louis (STL),Southwest Airlines B737 (N451WN),Landed 11:37,2021-06-14
+71,71,11:55 DL5759,,Atlanta (ATL),Delta Connection E75S (N230JQ),Landed 11:40,2021-06-14
+72,72,12:05 WN747,,Sacramento (SMF),Southwest Airlines B38M (N8720L),Landed 11:51,2021-06-14
+73,73,12:05 WN805,,New Orleans (MSY),Southwest Airlines B737 (N763SW),Landed 11:57,2021-06-14
+74,74,12:10 WN287,,Omaha (OMA),Southwest Airlines B738 (N8327A),Landed 12:12,2021-06-14
+75,75,12:10 WN355,,Los Angeles (LAX),Southwest Airlines B737 (N941WN),Landed 12:04,2021-06-14
+76,76,12:10 WN1365,,Austin (AUS),Southwest Airlines B737 (N7842A),Landed 12:03,2021-06-14
+77,77,12:15 WN512,,Louisville (SDF),Southwest Airlines B738 (N8613K),Landed 12:19,2021-06-14
+78,78,12:15 WN1006,,Fort Myers (RSW),Southwest Airlines B737 (N7847A),Landed 12:18,2021-06-14
+79,79,12:20 WN652,,San Francisco (SFO),Southwest Airlines B738 (N8685B),Landed 12:07,2021-06-14
+80,80,12:20 WN1215,,Seattle (SEA),Southwest Airlines B737 (N550WN),Landed 12:10,2021-06-14
+81,81,12:20 WN2263,,Destin Fort Walton Beach (VPS),Southwest Airlines B737 (N480WN),Landed 12:11,2021-06-14
+82,82,12:25 WN892,,Spokane (GEG),Southwest Airlines B737 (N428WN),Landed 12:15,2021-06-14
+83,83,12:25 WN1101,,Tucson (TUS),Southwest Airlines B737 (N265WN),Landed 12:27,2021-06-14
+84,84,12:25 WN1439,,Houston (HOU),Southwest Airlines B38M (N8806Q),Landed 12:26,2021-06-14
+85,85,12:30 DL5229,,Detroit (DTW),Delta Connection CRJ7 (N398CA),Landed 12:14,2021-06-14
+86,86,12:30 WN127,,Orlando (MCO),Southwest Airlines B738 (N8614M),Landed 13:02,2021-06-14
+87,87,12:30 WN130,,Minneapolis (MSP),Southwest Airlines B737 (N494WN),Landed 12:51,2021-06-14
+88,88,12:30 WN1537,,Portland (PDX),Southwest Airlines B738 (N8628A),Landed 12:23,2021-06-14
+89,89,12:35 WN719,,Las Vegas (LAS),Southwest Airlines B738 (N8600F),Landed 12:32,2021-06-14
+90,90,12:40 WN723,,Philadelphia (PHL),Southwest Airlines (Lone Star One Livery) B737 (N931WN),Landed 12:25,2021-06-14
+91,91,12:40 WN2161,,Tampa (TPA),Southwest Airlines B737 (N729SW),Landed 13:19,2021-06-14
+92,92,12:45 WN909,,San Antonio (SAT),Southwest Airlines B738 (N8611F),Landed 12:29,2021-06-14
+93,93,12:45 WN2016,,San Diego (SAN),Southwest Airlines B738 (N8691A),Landed 12:17,2021-06-14
+94,94,12:50 WN166,,Cincinnati (CVG),Southwest Airlines B737 (N405WN),Landed 12:58,2021-06-14
+95,95,13:00 WN1379,,Kansas City (MCI),Southwest Airlines B738 (N8603F),Landed 12:59,2021-06-14
+96,96,13:00 WN1582,,Washington (IAD),Southwest Airlines B737 (N7820L),Landed 13:36,2021-06-14
+97,97,13:05 WN5847,,San Jose (SJC),Southwest Airlines B737 (N284WN),Landed 12:46,2021-06-14
+98,98,13:15 WN702,,Cleveland (CLE),Southwest Airlines B738 (N8622A),Landed 13:07,2021-06-14
+99,99,13:15 WN960,,Columbus (CMH),Southwest Airlines B737 (N273WN),Landed 13:30,2021-06-14
+100,100,13:20 WN320,,Phoenix (PHX),Southwest Airlines B738 (N8325D),Landed 12:56,2021-06-14
+101,101,13:20 WN1250,,Oklahoma City (OKC),Southwest Airlines B737 (N464WN),Landed 13:14,2021-06-14
+102,102,13:20 WN5594,,Detroit (DTW),Southwest Airlines B737 (N267WN),Landed 13:22,2021-06-14
+103,103,13:25 WN1307,,Pittsburgh (PIT),Southwest Airlines B738 (N8562Z),Landed 13:23,2021-06-14
+104,104,13:30 WN1014,,Washington (DCA),Southwest Airlines B737 (N262WN),Landed 14:35,2021-06-14
+105,105,13:40 WN872,,Charleston (CHS),Southwest Airlines B737 (N919WN),Landed 13:25,2021-06-14
+106,106,13:45 WN318,,Denver (DEN),Southwest Airlines B38M (N8707P),Landed 13:46,2021-06-14
+107,107,13:50 WN649,,Birmingham (BHM),Southwest Airlines B737 (N7734H),Landed 13:49,2021-06-14
+108,108,13:55 WN598,,Ontario (ONT),Southwest Airlines B737 (N415WN),Landed 13:34,2021-06-14
+109,109,14:00 WN586,,Fort Lauderdale (FLL),Southwest Airlines (Nevada One Livery) B737 (N727SW),Landed 18:09,2021-06-14
+110,110,14:00 DPJ498,,Savannah (SAV),Private owner BE40 (N498TM),Landed 13:52,2021-06-14
+111,111,14:05 WN1087,,Richmond (RIC),Southwest Airlines B737 (N488WN),Landed 14:19,2021-06-14
+112,112,14:05 WN5975,,Grand Rapids (GRR),Southwest Airlines B38M (N8720L),Landed 16:41,2021-06-14
+113,113,14:12 WN8543,,Louisville (SDF),Southwest Airlines B737 (N565WN),Landed 14:12,2021-06-14
+114,114,14:15 WN1884,,Savannah (SAV),Southwest Airlines B737 (N913WN),Landed 14:07,2021-06-14
+115,115,14:20 WN1332,,Boston (BOS),Southwest Airlines B737 (N7737E),Landed 14:30,2021-06-14
+116,116,14:25 WN1695,,Las Vegas (LAS),Southwest Airlines B737 (N482WN),Landed 14:23,2021-06-14
+117,117,14:30 WN746,,Colorado Springs (COS),Southwest Airlines B737 (N7730A),Landed 14:31,2021-06-14
+118,118,14:35 WN416,,New York (LGA),Southwest Airlines B737 (N249WN),Landed 14:26,2021-06-14
+119,119,14:36 1I407,,Des Moines (DSM),NetJets E55P,Unknown,2021-06-14
+120,120,14:43 WN9003,,Orlando (MCO),Southwest Airlines B737 (N211WN),Landed 15:25,2021-06-14
+121,121,14:45 WN18,,Dallas (DAL),Southwest Airlines B737 (N292WN),Landed 15:21,2021-06-14
+122,122,14:45 WN3121,,Orlando (MCO),Southwest Airlines B737 (N211WN),Unknown,2021-06-14
+123,123,14:50 WN264,,Baltimore (BWI),Southwest Airlines B737 (N734SA),Landed 14:43,2021-06-14
+124,124,15:00 WN668,,Panama City (ECP),Southwest Airlines B737 (N238WN),Landed 14:49,2021-06-14
+125,125,15:09,DL2537,Atlanta (ATL),Delta Air Lines A319 (N319NB),Landed 15:03,2021-06-14
+126,126,15:15 WN876,,Atlanta (ATL),Southwest Airlines B737 (N222WN),Landed 15:13,2021-06-14
+127,127,15:20 WN219,,Cancun (CUN),Southwest Airlines B737 (N906WN),Landed 15:27,2021-06-14
+128,128,15:30 WN2309,,Nashville (BNA),Southwest Airlines (Florida One Livery) B737 (N945WN),Landed 16:01,2021-06-14
+129,129,15:35 WN1334,,Los Angeles (LAX),Southwest Airlines B738 (N8309C),Unknown,2021-06-14
+130,130,15:45 WN393,,Miami (MIA),Southwest Airlines B738 (N8503A),Landed 19:14,2021-06-14
+131,131,15:45 WN454,,Albuquerque (ABQ),Southwest Airlines B737 (N413WN),Landed 15:45,2021-06-14
+132,132,15:45 WN3914,,Myrtle Beach (MYR),Southwest Airlines B737 (N431WN),Landed 15:35,2021-06-14
+133,133,15:50 WN992,,Washington (DCA),Southwest Airlines B737 (N470WN),Landed 16:08,2021-06-14
+134,134,15:50 WN5929,,Buffalo (BUF),Southwest Airlines B737 (N731SA),Landed 15:40,2021-06-14
+135,135,15:55 WN1594,,Kansas City (MCI),Southwest Airlines B737 (N248WN),Landed 16:02,2021-06-14
+136,136,15:55 WN5857,,Las Vegas (LAS),Southwest Airlines B737 (N904WN),Landed 15:55,2021-06-14
+137,137,15:57 Y4946,,Morelia (MLM),Volaris A20N (XA-VRQ),Landed 15:48,2021-06-14
+138,138,16:00 WN253,,Denver (DEN),Southwest Airlines B738 (N8514F),Landed 15:52,2021-06-14
+139,139,16:00 WN923,,Phoenix (PHX),Southwest Airlines B738 (N8602F),Landed 15:49,2021-06-14
+140,140,16:05 WN1721,,Santa Ana (SNA),Southwest Airlines B737 (N444WN),Landed 15:56,2021-06-14
+141,141,16:07,,Scottsdale (SCF),- C680,Canceled,2021-06-14
+142,142,16:11 WN8546,,Minneapolis (MSP),Southwest Airlines B737 (N288WN),Landed 16:47,2021-06-14
+143,143,16:15 WN1113,,Boise (BOI),Southwest Airlines B38M (N8811L),Landed 16:06,2021-06-14
+144,144,16:26,,Napa (APC),- C560 (N725JA),Landed 16:03,2021-06-14
+145,145,16:28,DL4828,Detroit (DTW),Delta Connection CRJ7 (N376CA),Landed 16:22,2021-06-14
+146,146,16:35 WN1261,,Tampa (TPA),Southwest Airlines B737 (N7738A),Landed 19:40,2021-06-14
+147,147,16:35 WN1618,,Austin (AUS),Southwest Airlines B737 (N406WN),Landed 16:23,2021-06-14
+148,148,16:50 WN1155,,Philadelphia (PHL),Southwest Airlines B737 (N458WN),Landed 16:34,2021-06-14
+149,149,16:55 WN1793,,Seattle (SEA),Southwest Airlines B38M (N8803L),Landed 16:29,2021-06-14
+150,150,17:00 WN445,,Dallas (DAL),Southwest Airlines B737 (N7752B),Landed 17:20,2021-06-14
+151,151,17:05 WN8621,,Charleston (CRW),Southwest Airlines B738 (N8535S),Landed 17:49,2021-06-14
+152,152,17:07,DL4949,Minneapolis (MSP),Delta Connection CRJ7 (N354CA),Landed 16:53,2021-06-14
+153,153,17:15 WN797,,Burbank (BUR),Southwest Airlines B737 (N425LV),Landed 17:12,2021-06-14
+154,154,17:15 WN839,,San Diego (SAN),Southwest Airlines B738 (N8502Z),Landed 17:01,2021-06-14
+155,155,17:20 WN383,,Salt Lake City (SLC),Southwest Airlines B738 (N8694E),Landed 17:15,2021-06-14
+156,156,17:20 WN1429,,Sarasota (SRQ),Southwest Airlines B737 (N242WN),Landed 17:10,2021-06-14
+157,157,17:25 WN858,,Houston (IAH),Southwest Airlines B38M (N8805L),Landed 17:09,2021-06-14
+158,158,17:25 WN1774,,Oakland (OAK),Southwest Airlines B738 (N8677A),Landed 17:14,2021-06-14
+159,159,17:25 WN1012,,Houston (HOU),Southwest Airlines B738 (N8305E),Landed 17:18,2021-06-14
+160,160,17:30 WN1525,,Jacksonville (JAX),Southwest Airlines B737 (N924WN),Landed 17:26,2021-06-14
+161,161,17:30 WN1934,,Minneapolis (MSP),Southwest Airlines B737 (N7868K),Landed 17:23,2021-06-14
+162,162,17:30 WN2307,,Sacramento (SMF),Southwest Airlines B38M (N8740A),Landed 17:54,2021-06-14
+163,163,17:30 1I548,,Columbus (OSU),NetJets C68A,Unknown,2021-06-14
+164,164,17:34 GAJ875,,Sukagawa (FKS),Gama Aviation BET,Unknown,2021-06-14
+165,165,17:35 WN815,,Portland (PDX),Southwest Airlines B738 (N8654B),Landed 17:21,2021-06-14
+166,166,17:35 WN1336,,Detroit (DTW),Southwest Airlines B737 (N212WN),Landed 17:45,2021-06-14
+167,167,17:35 WN1959,,St. Louis (STL),Southwest Airlines B38M (N8734Q),Landed 18:16,2021-06-14
+168,168,17:40 WN278,,San Juan (SJU),Southwest Airlines B738 (N8515X),Landed 17:30,2021-06-14
+169,169,17:40 WN351,,Grand Rapids (GRR),Southwest Airlines B737 (N7749B),Landed 18:22,2021-06-14
+170,170,17:40 WN566,,Omaha (OMA),Southwest Airlines B737 (N419WN),Landed 17:36,2021-06-14
+171,171,17:41,DL5811,Atlanta (ATL),Delta Connection E75S (N230JQ),Landed 17:44,2021-06-14
+172,172,17:45 WN1005,,Denver (DEN),Southwest Airlines B738 (N8610A),Canceled,2021-06-14
+173,173,17:45 WN1217,,Las Vegas (LAS),Southwest Airlines B737 (N7836A),Landed 17:41,2021-06-14
+174,174,17:45 WN1904,,Long Beach (LGB),Southwest Airlines B737 (N244WN),Landed 17:25,2021-06-14
+175,175,17:45 1I342,,Chicago (PWK),NetJets C680,Unknown,2021-06-14
+176,176,17:50 WN827,,Orlando (MCO),Southwest Airlines B737 (N498WN),Landed 18:33,2021-06-14
+177,177,17:50 WN1043,,Montego Bay (MBJ),Southwest Airlines B737 (N414WN),Landed 18:01,2021-06-14
+178,178,17:50 WN5842,,Cleveland (CLE),Southwest Airlines B738 (N8548P),Landed 18:44,2021-06-14
+179,179,17:51,,Paducah (PAH),- TBM9 (N897TF),Landed 18:47,2021-06-14
+180,180,17:54 1I505,,Dayton (MGY),NetJets C68A,Unknown,2021-06-14
+181,181,17:54 1I800,,Traverse City (TVC),NetJets C700 (N800QS),Landed 17:59,2021-06-14
+182,182,17:59 G41215,,Asheville (AVL),Allegiant Air A320 (N242NV),Landed 17:57,2021-06-14
+183,183,18:20 WN116,,San Jose (SJC),Southwest Airlines B737 (N253WN),Landed 18:13,2021-06-14
+184,184,18:25 WN1084,,Charleston (CHS),Southwest Airlines B737 (N7874B),Landed 18:38,2021-06-14
+185,185,18:25 WN1300,,New Orleans (MSY),Southwest Airlines B737 (N785SW),Landed 18:15,2021-06-14
+186,186,18:40 WN856,,Fort Myers (RSW),Southwest Airlines B737 (N417WN),Landed 18:37,2021-06-14
+187,187,18:40 WN5992,,Denver (DEN),Southwest Airlines B737 (N287WN),Landed 18:20,2021-06-14
+188,188,18:40 WN5967,,Phoenix (PHX),Southwest Airlines B738 (N8542Z),Landed 18:35,2021-06-14
+189,189,18:45 WN5790,,Albuquerque (ABQ),Southwest Airlines B737 (N296WN),Landed 18:32,2021-06-14
+190,190,19:00 JL20,,Minneapolis (FCM),Private owner BE40 (N20PJ),Landed 18:54,2021-06-14
+191,191,19:05 WN421,,Orlando (MCO),Southwest Airlines B38M (N8733M),Landed 20:05,2021-06-14
+192,192,19:05 WN1440,,Portland (PWM),Southwest Airlines B38M (N8806Q),Landed 18:52,2021-06-14
+193,193,19:05 WN2844,,Windsor Locks (BDL),Southwest Airlines B737 (N464WN),Landed 19:50,2021-06-14
+194,194,19:15 WN170,,Baltimore (BWI),Southwest Airlines B737 (N297WN),Landed 20:44,2021-06-14
+195,195,19:20 WN217,,Cancun (CUN),Southwest Airlines B737 (N556WN),Landed 19:12,2021-06-14
+196,196,19:30 WN281,,Providence (PVD),Southwest Airlines B737 (N7867A),Landed 20:46,2021-06-14
+197,197,19:35 WN1736,,Louisville (SDF),Southwest Airlines B737 (N7830A),Landed 19:18,2021-06-14
+198,198,19:40 WN1346,,Manchester (MHT),Southwest Airlines B738 (N8602F),Canceled,2021-06-14
+199,199,19:45 WN397,,Boston (BOS),Southwest Airlines B737 (N709SW),Landed 20:10,2021-06-14
+200,200,19:45 WN1543,,Cleveland (CLE),Southwest Airlines B737 (N434WN),Landed 19:48,2021-06-14
+201,201,19:48 1I767,,Napa (APC),Netjets CL35 (N767QS),Unknown,2021-06-14
+202,202,19:50 WN1063,,Washington (DCA),Southwest Airlines B737 (N292WN),Landed 20:39,2021-06-14
+203,203,19:50 WN1172,,Albany (ALB),Southwest Airlines B737 (N550WN),Landed 20:00,2021-06-14
+204,204,19:50 WN6054,,Detroit (DTW),Southwest Airlines B737 (N221WN),Landed 19:42,2021-06-14
+205,205,19:54 1I407,,Tampa (TPA),NetJets E55P,Unknown,2021-06-14
+206,206,19:55 WN428,,Buffalo (BUF),Southwest Airlines B738 (N8651A),Landed 19:52,2021-06-14
+207,207,19:55 WN704,,Denver (DEN),Southwest Airlines B738 (N8556Z),Landed 20:08,2021-06-14
+208,208,19:55 WN1916,,Kansas City (MCI),Southwest Airlines B737 (N763SW),Landed 20:03,2021-06-14
+209,209,20:00 WN1620,,Raleigh-Durham (RDU),Southwest Airlines B38M (N8801Q),Landed 20:31,2021-06-14
+210,210,20:00 WN1641,,Richmond (RIC),Southwest Airlines B738 (N8629A),Landed 19:44,2021-06-14
+211,211,20:00 WN2169,,Pittsburgh (PIT),Southwest Airlines B738 (N8525S),Landed 20:02,2021-06-14
+212,212,20:05 WN403,,Washington (IAD),Southwest Airlines B738 (N8681M),Landed 19:54,2021-06-14
+213,213,20:05 WN1075,,Norfolk (ORF),Southwest Airlines B38M (N8707P),Landed 19:58,2021-06-14
+214,214,20:05 WN2158,,Memphis (MEM),Southwest Airlines B738 (N8537Z),Landed 01:14,2021-06-14
+215,215,20:10 WN1527,,St. Louis (STL),Southwest Airlines B737 (N7866A),Landed 19:57,2021-06-14
+216,216,20:10 WN1696,,Columbus (CMH),Southwest Airlines B737 (N941WN),Landed 20:33,2021-06-14
+217,217,20:10 WN1711,,Minneapolis (MSP),Southwest Airlines B737 (N225WN),Landed 20:21,2021-06-14
+218,218,20:15 WN590,,New York (LGA),Southwest Airlines B737 (N565WN),Landed 20:28,2021-06-14
+219,219,20:15 WN1135,,Phoenix (PHX),Southwest Airlines B738 (N8324A),Landed 20:06,2021-06-14
+220,220,20:15 WN5984,,Oakland (OAK),Southwest Airlines B738 (N8648A),Landed 20:16,2021-06-14
+221,221,20:25 WN417,,Austin (AUS),Southwest Airlines B738 (N8604K),Landed 21:56,2021-06-14
+222,222,20:30 WN524,,Nashville (BNA),Southwest Airlines B738 (N8603F),Landed 20:49,2021-06-14
+223,223,20:30 WN847,,Atlanta (ATL),Southwest Airlines B737 (N928WN),Landed 20:26,2021-06-14
+224,224,20:34 Y4908,,Aguascalientes (AGU),Volaris A20N (N531VL),Landed 20:41,2021-06-14
+225,225,20:45 WN2312,,Tampa (TPA),Southwest Airlines B737 (N7729A),Landed 20:30,2021-06-14
+226,226,20:50 WN1734,,Los Angeles (LAX),Southwest Airlines B38M (N8738K),Landed 20:48,2021-06-14
+227,227,20:55 WN2189,,Las Vegas (LAS),Southwest Airlines B738 (N8508W),Landed 20:37,2021-06-14
+228,228,21:00 WN1758,,Fort Myers (RSW),Southwest Airlines B737 (N475WN),Landed 21:02,2021-06-14
+229,229,21:05 WN44,,Dallas (DAL),Southwest Airlines B738 (N8696E),Unknown,2021-06-14
+230,230,21:05 WN953,,Fort Lauderdale (FLL),Southwest Airlines B738 (N8526W),Landed 20:51,2021-06-14
+231,231,21:10 WN1420,,Orlando (MCO),Southwest Airlines B38M (N8747Q),Landed 00:51,2021-06-14
+232,232,21:10 WN3268,,San Diego (SAN),Southwest Airlines B737 (N767SW),Landed 21:01,2021-06-14
+233,233,21:20 WN859,,Houston (HOU),Southwest Airlines B738 (N8645A),Landed 21:23,2021-06-14
+234,234,21:35 WN1971,,Miami (MIA),Southwest Airlines B737 (N421LV),Landed 21:24,2021-06-14
+235,235,21:55 WN588,,Baltimore (BWI),Southwest Airlines B737 (N566WN),Canceled,2021-06-14
+236,236,22:03,DL5235,Minneapolis (MSP),Delta Connection CRJ7 (N668CA),Landed 21:34,2021-06-14
+237,237,22:40 WN1593,,Dallas (DAL),Southwest Airlines B737 (N737JW),Landed 01:37,2021-06-14
+238,238,22:50 WN680,,Atlanta (ATL),Southwest Airlines B737 (N712SW),Landed 01:12,2021-06-14
+239,239,22:55 WN2070,,Austin (AUS),Southwest Airlines B737 (N495WN),Landed 02:03,2021-06-14
+240,240,23:05 WN1602,,Las Vegas (LAS),Southwest Airlines B38M (N8802Q),Landed 23:40,2021-06-14
+241,241,23:10 WN669,,Fort Myers (RSW),Southwest Airlines B737 (N238WN),Landed 23:01,2021-06-14
+242,242,23:20 WN241,,Nashville (BNA),Southwest Airlines B737,Canceled,2021-06-14
+243,243,23:30 WN1826,,Tampa (TPA),Southwest Airlines B737 (N747SA),Landed 01:19,2021-06-14
+244,244,23:31 WN8513,,Omaha (OMA),Southwest Airlines B737,Canceled,2021-06-14
+245,245,23:40 WN2678,,Denver (DEN),Southwest Airlines B737 (N7731A),Unknown,2021-06-14
+246,246,23:41,DL2469,Atlanta (ATL),Delta Air Lines A319 (N347NB),Landed 23:34,2021-06-14
+247,247,23:50 WN807,,Phoenix (PHX),Southwest Airlines B737 (N569WN),Unknown,2021-06-14
+248,248,23:50 WN1019,,Houston (HOU),Southwest Airlines B738 (N8517F),Landed 03:06,2021-06-14
+0,0,00:05 WN543,,Fort Lauderdale (FLL),Southwest Airlines B737 (N925WN),Landed 04:56,2021-06-15
+1,1,00:25 WN1403,,Orlando (MCO),Southwest Airlines B738 (N8544Z),Landed 01:51,2021-06-15
+2,2,00:25 WN1597,,Dallas (DAL),Southwest Airlines B737 (N907WN),Unknown,2021-06-15
+3,3,00:40 WN302,,Salt Lake City (SLC),Southwest Airlines B738 (N8684F),Unknown,2021-06-15
+4,4,00:45 WN1782,,San Diego (SAN),Southwest Airlines B737 (N7841A),Landed 02:35,2021-06-15
+5,5,00:45 WN2364,,Las Vegas (LAS),Southwest Airlines B38M (N8742M),Unknown,2021-06-15
+6,6,00:50 WN657,,Los Angeles (LAX),Southwest Airlines B738 (N8631A),Landed 02:44,2021-06-15
+7,7,01:15 WN1931,,Denver (DEN),Southwest Airlines B737 (N901WN),Landed 04:41,2021-06-15
+8,8,01:40 WN1705,,Phoenix (PHX),Southwest Airlines B738 (N8637A),Landed 02:56,2021-06-15
+9,9,06:25 WN3622,,Cincinnati (CVG),Southwest Airlines B737 (N7733B),Landed 06:08,2021-06-15
+10,10,06:45 WN1967,,Philadelphia (PHL),Southwest Airlines B737 (N7879A),Landed 06:33,2021-06-15
+11,11,06:50 WN389,,Buffalo (BUF),Southwest Airlines B738 (N8644C),Landed 06:36,2021-06-15
+12,12,06:50 WN4397,,Louisville (SDF),Southwest Airlines B738 (N8652B),Landed 06:43,2021-06-15
+13,13,06:55 WN3432,,Charleston (CHS),Southwest Airlines B737 (N7836A),Landed 06:47,2021-06-15
+14,14,06:55 WN3469,,Cleveland (CLE),Southwest Airlines B738 (N8611F),Landed 06:41,2021-06-15
+15,15,07:05 WN2454,,Atlanta (ATL),Southwest Airlines B738 (N8658A),Landed 06:55,2021-06-15
+16,16,07:15 WN364,,New York (LGA),Southwest Airlines B737 (N287WN),Landed 07:03,2021-06-15
+17,17,07:15 WN3868,,Washington (DCA),Southwest Airlines (Nevada One Livery) B737 (N727SW),Landed 06:58,2021-06-15
+18,18,07:20 WN1829,,Minneapolis (MSP),Southwest Airlines (Tennessee One Livery) B737 (N922WN),Landed 06:52,2021-06-15
+19,19,07:20 WN2884,,Grand Rapids (GRR),Southwest Airlines B737 (N260WN),Landed 07:10,2021-06-15
+20,20,07:20 WN4120,,Detroit (DTW),Southwest Airlines B738 (N8677A),Landed 07:27,2021-06-15
+21,21,07:25 WN2978,,Windsor Locks (BDL),Southwest Airlines B738 (N8657B),Landed 07:14,2021-06-15
+22,22,07:25 WN4177,,Providence (PVD),Southwest Airlines B738 (N8639B),Landed 07:11,2021-06-15
+23,23,07:25 WN5549,,Myrtle Beach (MYR),Southwest Airlines B738 (N8635F),Landed 07:01,2021-06-15
+24,24,07:30 WN3775,,Pittsburgh (PIT),Southwest Airlines B737 (N773SA),Landed 07:57,2021-06-15
+25,25,07:30 WN4370,,Boston (BOS),Southwest Airlines B737 (N445WN),Landed 07:07,2021-06-15
+26,26,07:35 WN1473,,Raleigh-Durham (RDU),Southwest Airlines B737 (N479WN),Landed 07:17,2021-06-15
+27,27,07:35 WN3535,,Columbus (CMH),Southwest Airlines B738 (N8535S),Landed 07:29,2021-06-15
+28,28,07:35 WN5391,,Memphis (MEM),Southwest Airlines B737 (N709SW),Landed 07:31,2021-06-15
+29,29,07:40 WN3639,,Albany (ALB),Southwest Airlines B737 (N7741C),Landed 07:20,2021-06-15
+30,30,07:40 WN4794,,Omaha (OMA),Southwest Airlines B737 (N7726A),Landed 07:26,2021-06-15
+31,31,07:45 WN4580,,Washington (IAD),Southwest Airlines B738 (N8562Z),Landed 07:24,2021-06-15
+32,32,07:45 WN4682,,St. Louis (STL),Southwest Airlines B737 (N286WN),Landed 07:32,2021-06-15
+33,33,08:00 WN555,,Kansas City (MCI),Southwest Airlines B737 (N245WN),Landed 07:45,2021-06-15
+34,34,08:00 WN3131,,Fort Myers (RSW),Southwest Airlines (Classic Retro Livery) B737 (N714CB),Landed 08:08,2021-06-15
+35,35,08:10 WN2392,,Nashville (BNA),Southwest Airlines B738 (N8564Z),Canceled,2021-06-15
+36,36,08:10 WN4643,,Orlando (MCO),Southwest Airlines B737 (N752SW),Landed 08:26,2021-06-15
+37,37,08:15 WN3071,,Manchester (MHT),Southwest Airlines B737 (N556WN),Landed 07:55,2021-06-15
+38,38,08:20 WN4984,,Sarasota (SRQ),Southwest Airlines B737 (N738CB),Landed 08:02,2021-06-15
+39,39,08:30 WN4746,,Tampa (TPA),Southwest Airlines B738 (N8548P),Landed 08:37,2021-06-15
+40,40,08:35 WN460,,Dallas (DAL),Southwest Airlines B737 (N792SW),Landed 08:22,2021-06-15
+41,41,08:40 WN5420,,Miami (MIA),Southwest Airlines B737 (N7715E),Landed 08:05,2021-06-15
+42,42,08:45 WN5536,,New Orleans (MSY),Southwest Airlines B737 (N485WN),Landed 08:39,2021-06-15
+43,43,08:50 DL5155,,Detroit (DTW),Delta Connection CRJ7 (N368CA),Landed 08:32,2021-06-15
+44,44,08:54 LXJ452,,Dallas (DAL),Flexjet GLF4 (N452FX),Landed 08:44,2021-06-15
+45,45,08:55 WN1209,,Baltimore (BWI),Southwest Airlines B737 (N482WN),Landed 08:42,2021-06-15
+46,46,09:05 WN4275,,Fort Lauderdale (FLL),Southwest Airlines B737 (N218WN),Landed 09:00,2021-06-15
+47,47,09:10,DL2483,Atlanta (ATL),Delta Air Lines A319 (N337NB),Landed 09:02,2021-06-15
+48,48,09:25 WN4874,,Houston (HOU),Southwest Airlines B737 (N733SA),Landed 09:12,2021-06-15
+49,49,09:30 WN3583,,Colorado Springs (COS),Southwest Airlines B737 (N928WN),Landed 09:05,2021-06-15
+50,50,09:30 WN5403,,Denver (DEN),Southwest Airlines B737 (N751SW),Landed 09:47,2021-06-15
+51,51,09:35 WN3526,,Atlanta (ATL),Southwest Airlines B737 (N902WN),Landed 09:25,2021-06-15
+52,52,09:44,,Boston (BOS),- P180 (N493JD),Landed 09:34,2021-06-15
+53,53,09:47 EJM792,,Vero Beach (VRB),Private owner GA5C (N792MP),Landed 10:10,2021-06-15
+54,54,09:50 WN2291,,Orlando (MCO),Southwest Airlines B737 (N7876A),Landed 10:26,2021-06-15
+55,55,09:50 WN4957,,Fort Myers (RSW),Southwest Airlines B737 (N725SW),Canceled,2021-06-15
+56,56,09:51 DL5008,,Minneapolis (MSP),Delta Connection CRJ7 (N390CA),Diverted to MSP,2021-06-15
+57,57,09:55 WN4615,,Houston (IAH),Southwest Airlines B737 (N240WN),Landed 09:30,2021-06-15
+58,58,09:55 WN5052,,Kansas City (MCI),Southwest Airlines B737 (N7732A),Landed 09:38,2021-06-15
+59,59,10:00 WN5581,,Salt Lake City (SLC),Southwest Airlines B738 (N8518R),Landed 09:45,2021-06-15
+60,60,10:07 RAX200,,Oakland County (PTK),Private owner BE20 (N220RA),Landed 10:33,2021-06-15
+61,61,10:10 WN4995,,Nashville (BNA),Southwest Airlines B737 (N737JW),Landed 10:40,2021-06-15
+62,62,10:11 GAJ509,,Washington (IAD),Wheels Up C56X (N509UP),Landed 10:42,2021-06-15
+63,63,10:20 WN3190,,Dallas (DAL),Southwest Airlines B738 (N8634A),Landed 10:07,2021-06-15
+64,64,10:20 WN3642,,Austin (AUS),Southwest Airlines B737 (N209WN),Unknown,2021-06-15
+65,65,10:35,,Chicago (DPA),- BE40 (N127EJ),Landed 10:30,2021-06-15
+66,66,10:50 Y4940,,Guadalajara (GDL),Volaris A20N (XA-VRN),Landed 10:38,2021-06-15
+67,67,11:00 DL5538,,Atlanta (ATL),Delta Connection CRJ9 (N906XJ),Landed 11:39,2021-06-15
+68,68,11:05 WN3075,,Louisville (SDF),Southwest Airlines B737 (N481WN),Landed 11:19,2021-06-15
+69,69,11:15 WN4851,,Las Vegas (LAS),Southwest Airlines B737 (N7878A),Landed 11:07,2021-06-15
+70,70,11:25 WN3668,,Denver (DEN),Southwest Airlines B738 (N8560Z),Landed 11:30,2021-06-15
+71,71,11:35 WN142,,Baltimore (BWI),Southwest Airlines (Florida One Livery) B737 (N945WN),Landed 12:36,2021-06-15
+72,72,11:37,,Flint (FNT),- (N724GP),Landed 12:22,2021-06-15
+73,73,11:40 WN4706,,Tampa (TPA),Southwest Airlines B738 (N8614M),Landed 11:41,2021-06-15
+74,74,11:45 WN2185,,St. Louis (STL),Southwest Airlines B738 (N8528Q),Landed 12:09,2021-06-15
+75,75,11:45 WN5165,,Pensacola (PNS),Southwest Airlines B737 (N951WN),Landed 11:35,2021-06-15
+76,76,11:55 DL5759,,Atlanta (ATL),Delta Connection E75S (N223JQ),Canceled,2021-06-15
+77,77,11:55 WN3204,,Kansas City (MCI),Southwest Airlines B738 (N8639B),Landed 11:48,2021-06-15
+78,78,11:55 WN5415,,Houston (HOU),Southwest Airlines B38M (N8742M),Landed 12:03,2021-06-15
+79,79,12:05 WN2331,,Ontario (ONT),Southwest Airlines B737 (N7702A),Landed 11:59,2021-06-15
+80,80,12:05 WN2935,,Boise (BOI),Southwest Airlines B738 (N8571Z),Landed 11:45,2021-06-15
+81,81,12:15 WN843,,Salt Lake City (SLC),Southwest Airlines B738 (N8656B),Landed 12:07,2021-06-15
+82,82,12:15 WN2973,,Minneapolis (MSP),Southwest Airlines B737 (N7869A),Landed 11:52,2021-06-15
+83,83,12:15 WN5011,,Los Angeles (LAX),Southwest Airlines B737 (N401WN),Landed 12:15,2021-06-15
+84,84,12:25 WN1101,,Tucson (TUS),Southwest Airlines B737 (N484WN),Landed 12:50,2021-06-15
+85,85,12:25 WN5262,,Sacramento (SMF),Southwest Airlines B738 (N8603F),Landed 12:23,2021-06-15
+86,86,12:30 DL5229,,Detroit (DTW),Delta Connection CRJ7 (N391CA),Landed 12:06,2021-06-15
+87,87,12:35 WN4314,,Spokane (GEG),Southwest Airlines B737 (N7750A),Landed 12:49,2021-06-15
+88,88,12:35 WN4726,,San Francisco (SFO),Southwest Airlines B738 (N8549Z),Landed 12:31,2021-06-15
+89,89,12:35 WN5159,,Phoenix (PHX),Southwest Airlines B738 (N8566Z),Landed 12:28,2021-06-15
+90,90,12:40 WN723,,Philadelphia (PHL),Southwest Airlines B737 (N958WN),Landed 12:26,2021-06-15
+91,91,12:40 WN4870,,Portland (PDX),Southwest Airlines B738 (N8550Q),Landed 12:20,2021-06-15
+92,92,12:40 WN5618,,Oakland (OAK),Southwest Airlines B737 (N452WN),Landed 12:33,2021-06-15
+93,93,12:45 WN2320,,Omaha (OMA),Southwest Airlines B737 (N7715E),Landed 12:45,2021-06-15
+94,94,12:45 WN2633,,Las Vegas (LAS),Southwest Airlines B38M (N8750Q),Landed 12:43,2021-06-15
+95,95,12:45 WN3500,,Fort Lauderdale (FLL),Southwest Airlines B38M (N8817L),Landed 12:34,2021-06-15
+96,96,12:50 WN4083,,San Antonio (SAT),Southwest Airlines B737 (N746SW),Landed 12:39,2021-06-15
+97,97,12:50 WN4461,,Seattle (SEA),Southwest Airlines B737 (N7886A),Diverted to MKE,2021-06-15
+98,98,12:50 WN4461,,Milwaukee (MKE),Southwest Airlines B737 (N7886A),Landed 15:14,2021-06-15
+99,99,13:00 WN775,,San Diego (SAN),Southwest Airlines B738 (N8546V),Canceled,2021-06-15
+100,100,13:00 WN3950,,Burbank (BUR),Southwest Airlines B738 (N8601C),Landed 12:52,2021-06-15
+101,101,13:05 WN2116,,San Jose (SJC),Southwest Airlines B737 (N555LV),Landed 12:54,2021-06-15
+102,102,13:07,,Battle Creek (BTL),- SR20 (N65TH),Landed 13:27,2021-06-15
+103,103,13:10 WN4427,,Detroit (DTW),Southwest Airlines B737 (N241WN),Landed 15:48,2021-06-15
+104,104,13:15 WN3876,,New Orleans (MSY),Southwest Airlines B737 (N232WN),Landed 13:11,2021-06-15
+105,105,13:15 WN5380,,Atlanta (ATL),Southwest Airlines B737 (N254WN),Landed 13:02,2021-06-15
+106,106,13:20 WN2603,,Cleveland (CLE),Southwest Airlines B737 (N278WN),Landed 15:05,2021-06-15
+107,107,13:20,,Jackson (JXN),- SR22 (N253CD),Landed 13:25,2021-06-15
+108,108,13:25 WN3411,,Denver (DEN),Southwest Airlines B737 (N7854B),Landed 13:22,2021-06-15
+109,109,13:40 WN4138,,Pittsburgh (PIT),Southwest Airlines B738 (N8643A),Landed 15:10,2021-06-15
+110,110,13:45 WN3818,,Tampa (TPA),Southwest Airlines B38M (N8810L),Landed 13:44,2021-06-15
+111,111,13:55 WN5353,,Orlando (MCO),Southwest Airlines B738 (N8631A),Landed 13:47,2021-06-15
+112,112,14:00 WN2766,,Washington (IAD),Southwest Airlines B737 (N567WN),Landed 15:37,2021-06-15
+113,113,14:06 1I162,,Baltimore (BWI),NetJets GLEX,Unknown,2021-06-15
+114,114,14:10 WN3183,,Washington (DCA),Southwest Airlines B737 (N7883A),Landed 15:53,2021-06-15
+115,115,14:12 1I769,,East Hampton (HTO),NetJets CL30,Unknown,2021-06-15
+116,116,14:15 WN3061,,Dallas (DAL),Southwest Airlines B737 (N7879A),Landed 16:39,2021-06-15
+117,117,14:15 WN4050,,Austin (AUS),Southwest Airlines B737 (N7751A),Landed 16:18,2021-06-15
+118,118,14:15 WN5173,,Columbus (CMH),Southwest Airlines B738 (N8694E),Landed 15:03,2021-06-15
+119,119,14:20 WN3647,,Savannah (SAV),Southwest Airlines B737 (N7836A),Landed 15:45,2021-06-15
+120,120,14:25 WN2407,,Richmond (RIC),Southwest Airlines B738 (N8551Q),Landed 16:05,2021-06-15
+121,121,14:25 WN3098,,Panama City (ECP),Southwest Airlines B737 (N7867A),Canceled,2021-06-15
+122,122,14:25 WN3888,,Boston (BOS),Southwest Airlines B738 (N8327A),Landed 16:30,2021-06-15
+123,123,14:30 WN3654,,Las Vegas (LAS),Southwest Airlines B738 (N8532S),Landed 14:28,2021-06-15
+124,124,14:30 WN3725,,New York (LGA),Southwest Airlines B737 (N264LV),Landed 15:57,2021-06-15
+125,125,14:45 WN3787,,Cincinnati (CVG),Southwest Airlines B737 (N486WN),Canceled,2021-06-15
+126,126,14:50 WN264,,Baltimore (BWI),Southwest Airlines B738 (N8664J),Canceled,2021-06-15
+127,127,14:50 WN5253,,Fort Myers (RSW),Southwest Airlines B738 (N8693A),Landed 16:24,2021-06-15
+128,128,14:50 WN6065,,Sacramento (SMF),Southwest Airlines B737 (N236WN),Landed 14:36,2021-06-15
+129,129,14:54 Y4942,,Silao (BJX),Volaris A20N (XA-VRR),Landed 16:35,2021-06-15
+130,130,14:55 WN1091,,Kansas City (MCI),Southwest Airlines B737 (N7843A),Canceled,2021-06-15
+131,131,14:55 WN5341,,Houston (HOU),Southwest Airlines B737 (N7819A),Canceled,2021-06-15
+132,132,15:09,DL2537,Atlanta (ATL),Delta Air Lines A319 (N320NB),Landed 15:01,2021-06-15
+133,133,15:10 WN2852,,Destin Fort Walton Beach (VPS),Southwest Airlines B737 (N930WN),Landed 16:21,2021-06-15
+134,134,15:15 WN5814,,Cleveland (CLE),Southwest Airlines B737 (N763SW),Canceled,2021-06-15
+135,135,15:20 WN219,,Cancun (CUN),Southwest Airlines B737 (N565WN),Landed 14:52,2021-06-15
+136,136,15:30 WN4916,,Phoenix (PHX),Southwest Airlines B737 (N410WN),Landed 17:13,2021-06-15
+137,137,15:40 WN5911,,Buffalo (BUF),Southwest Airlines B737 (N253WN),Canceled,2021-06-15
+138,138,15:45 WN103,,Nashville (BNA),Southwest Airlines B38M (N8737L),Canceled,2021-06-15
+139,139,15:45 WN4217,,Orlando (MCO),Southwest Airlines B737 (N249WN),Canceled,2021-06-15
+140,140,15:55 WN5896,,Las Vegas (LAS),Southwest Airlines B737 (N413WN),Canceled,2021-06-15
+141,141,16:00 1I433,,Alexandria (AXN),NetJets E55P,Unknown,2021-06-15
+142,142,16:15 WN4838,,Reno (RNO),Southwest Airlines B737 (N7844A),Landed 17:41,2021-06-15
+143,143,16:20 WN314,,Santa Ana (SNA),Southwest Airlines B737 (N901WN),Landed 18:20,2021-06-15
+144,144,16:20 WN4376,,Oklahoma City (OKC),Southwest Airlines B737 (N7747C),Canceled,2021-06-15
+145,145,16:28,DL4828,Detroit (DTW),Delta Connection CRJ7 (N367CA),Landed 16:15,2021-06-15
+146,146,16:42 Y4944,,Durango (DGO),Volaris A320 (XA-VLS),Landed 16:37,2021-06-15
+147,147,16:55 WN1427,,Myrtle Beach (MYR),Southwest Airlines B737 (N403WN),Landed 16:55,2021-06-15
+148,148,17:00 WN459,,Portland (PDX),Southwest Airlines B737 (N7725A),Landed 18:07,2021-06-15
+149,149,17:03 GAJ837,,Chicago (PWK),Wheels Up B350 (N837UP),Landed 17:36,2021-06-15
+150,150,17:05 WN5968,,Phoenix (PHX),Southwest Airlines B738 (N8517F),Canceled,2021-06-15
+151,151,17:05 WN5863,,San Jose (SJC),Southwest Airlines B737 (N284WN),Landed 18:51,2021-06-15
+152,152,17:07,DL4949,Minneapolis (MSP),Delta Connection CRJ7 (N340CA),Landed 16:45,2021-06-15
+153,153,17:10 WN2995,,Omaha (OMA),Southwest Airlines B737 (N435WN),Canceled,2021-06-15
+154,154,17:10 WN3822,,Grand Rapids (GRR),Southwest Airlines B738,Canceled,2021-06-15
+155,155,17:10 WN5054,,Detroit (DTW),Southwest Airlines B738 (N8645A),Canceled,2021-06-15
+156,156,17:15 WN1809,,Albuquerque (ABQ),Southwest Airlines B38M (N8816Q),Canceled,2021-06-15
+157,157,17:15 WN4065,,Las Vegas (LAS),Southwest Airlines B38M (N8711Q),Unknown,2021-06-15
+158,158,17:15 WN4556,,Windsor Locks (BDL),Southwest Airlines B737 (N224WN),Canceled,2021-06-15
+159,159,17:20 WN3326,,San Diego (SAN),Southwest Airlines B738 (N8301J),Landed 20:22,2021-06-15
+160,160,17:20 WN3737,,Colorado Springs (COS),Southwest Airlines B737 (N222WN),Canceled,2021-06-15
+161,161,17:25 WN971,,San Juan (SJU),Southwest Airlines B738 (N8687A),Landed 19:01,2021-06-15
+162,162,17:25 WN2504,,Salt Lake City (SLC),Southwest Airlines B738 (N8308K),Landed 20:18,2021-06-15
+163,163,17:25 WN4479,,Minneapolis (MSP),Southwest Airlines B738 (N8549Z),Canceled,2021-06-15
+164,164,17:27 Y4946,,Morelia (MLM),Volaris A20N (N531VL),Landed 17:07,2021-06-15
+165,165,17:30 WN2455,,Sacramento (SMF),Southwest Airlines B737 (N290WN),Landed 20:15,2021-06-15
+166,166,17:30 WN3869,,Oakland (OAK),Southwest Airlines B737 (N724SW),Canceled,2021-06-15
+167,167,17:30 WN5205,,Long Beach (LGB),Southwest Airlines B738 (N8613K),Canceled,2021-06-15
+168,168,17:40 WN4880,,Los Angeles (LAX),Southwest Airlines B738 (N8653A),Landed 21:24,2021-06-15
+169,169,17:41,DL5811,Atlanta (ATL),Delta Connection E75S (N208JQ),Landed 17:32,2021-06-15
+170,170,17:45 WN117,,St. Louis (STL),Southwest Airlines B737 (N745SW),Canceled,2021-06-15
+171,171,17:50 WN1043,,Montego Bay (MBJ),Southwest Airlines B737 (N238WN),Landed 18:14,2021-06-15
+172,172,17:50 WN2386,,Denver (DEN),Southwest Airlines B738 (N8623F),Canceled,2021-06-15
+173,173,17:50 WN2794,,Seattle (SEA),Southwest Airlines B738 (N8658A),Canceled,2021-06-15
+174,174,17:55 WN4666,,Birmingham (BHM),Southwest Airlines B737 (N241WN),Landed 21:22,2021-06-15
+175,175,17:55 WN332,,Sarasota (SRQ),Southwest Airlines B737 (N7832A),Canceled,2021-06-15
+176,176,18:10 WN4983,,Philadelphia (PHL),Southwest Airlines B738 (N8644C),Diverted to LAS,2021-06-15
+177,177,18:15 WN3492,,Phoenix (PHX),Southwest Airlines B738 (N8680C),Landed 19:47,2021-06-15
+178,178,18:15 WN5677,,Charleston (CHS),Southwest Airlines B737 (N7858A),Landed 18:29,2021-06-15
+179,179,18:20 WN1914,,Jacksonville (JAX),Southwest Airlines B737 (N7748A),Landed 19:36,2021-06-15
+180,180,18:25 WN3572,,Orlando (MCO),Southwest Airlines B737 (N249WN),Unknown,2021-06-15
+181,181,18:25 WN6500,,Houston (HOU),Southwest Airlines B737 (N731SA),Landed 20:17,2021-06-15
+182,182,18:30 WN4306,,Houston (IAH),Southwest Airlines B738 (N8640D),Landed 21:30,2021-06-15
+183,183,18:31 XSR325,,Providence (PVD),AirShare E55P (N325AS),Landed 18:24,2021-06-15
+184,184,18:40 WN1531,,Tampa (TPA),Southwest Airlines B738 (N8646B),Landed 19:34,2021-06-15
+185,185,18:40 WN5123,,Austin (AUS),Southwest Airlines B737 (N227WN),Landed 20:11,2021-06-15
+186,186,19:05 WN4854,,Miami (MIA),Southwest Airlines B737 (N7878A),Landed 21:26,2021-06-15
+187,187,19:05 WN5261,,Providence (PVD),Southwest Airlines B738 (N8550Q),Landed 19:55,2021-06-15
+188,188,19:15 WN5239,,Louisville (SDF),Southwest Airlines B738 (N8628A),Landed 20:29,2021-06-15
+189,189,19:20 WN217,,Cancun (CUN),Southwest Airlines B737 (N7728D),Landed 19:14,2021-06-15
+190,190,19:24 1I523,,Dayton (DAY),NetJets C68A,Unknown,2021-06-15
+191,191,19:25 WN3705,,Columbus (CMH),Southwest Airlines B737 (N470WN),Landed 20:14,2021-06-15
+192,192,19:30 WN3312,,Buffalo (BUF),Southwest Airlines B738 (N8561Z),Landed 20:00,2021-06-15
+193,193,19:30 WN5188,,Boston (BOS),Southwest Airlines B737 (N566WN),Landed 19:30,2021-06-15
+194,194,19:30 WN5558,,Fort Lauderdale (FLL),Southwest Airlines B738 (N8695D),Landed 19:28,2021-06-15
+195,195,19:30 WN8920,,New York (LGA),Southwest Airlines B737 (N408WN),Unknown,2021-06-15
+196,196,19:35 WN4549,,Pittsburgh (PIT),Southwest Airlines B738 (N8305E),Landed 21:35,2021-06-15
+197,197,19:35 WN4552,,Albany (ALB),Southwest Airlines B738 (N8571Z),Unknown,2021-06-15
+198,198,19:35 WN6062,,Oakland (OAK),Southwest Airlines B738 (N8537Z),Landed 20:21,2021-06-15
+199,199,19:36 1I424,,Sheboygan (SBM),NetJets E55P (N424QS),Unknown,2021-06-15
+200,200,19:40 WN504,,Memphis (MEM),Southwest Airlines B38M (N8740A),Landed 20:36,2021-06-15
+201,201,19:40 WN3255,,Portland (PWM),Southwest Airlines B738 (N8637A),Landed 19:54,2021-06-15
+202,202,19:40 WN4867,,Washington (DCA),Southwest Airlines B737 (N451WN),Landed 20:13,2021-06-15
+203,203,19:45 WN4342,,Charlotte (CLT),Southwest Airlines B737 (N264LV),Landed 21:32,2021-06-15
+204,204,19:45 WN4451,,Norfolk (ORF),Southwest Airlines B738 (N8643A),Landed 21:41,2021-06-15
+205,205,19:45 WN4724,,Baltimore (BWI),Southwest Airlines B738 (N8664J),Landed 20:08,2021-06-15
+206,206,19:50 WN2050,,Washington (IAD),Southwest Airlines B738 (N8528Q),Landed 19:40,2021-06-15
+207,207,19:50 WN2327,,Minneapolis (MSP),Southwest Airlines B737 (N954WN),Landed 23:18,2021-06-15
+208,208,19:50 WN4075,,Cleveland (CLE),Southwest Airlines B737 (N746SW),Landed 20:27,2021-06-15
+209,209,19:55 WN433,,New Orleans (MSY),Southwest Airlines B738 (N8538V),Landed 21:19,2021-06-15
+210,210,19:55 WN4383,,Richmond (RIC),Southwest Airlines B737 (N949WN),Landed 21:56,2021-06-15
+211,211,19:55 WN5487,,Nashville (BNA),Southwest Airlines B737,Canceled,2021-06-15
+212,212,20:00 WN623,,Raleigh-Durham (RDU),Southwest Airlines B738 (N8642E),Unknown,2021-06-15
+213,213,20:00 WN2847,,Atlanta (ATL),Southwest Airlines B738,Canceled,2021-06-15
+214,214,20:00 WN5320,,Manchester (MHT),Southwest Airlines B737 (N7879A),Landed 22:24,2021-06-15
+215,215,20:05 WN2396,,Phoenix (PHX),Southwest Airlines B738 (N8519R),Landed 20:59,2021-06-15
+216,216,20:05 WN5095,,Fort Myers (RSW),Southwest Airlines B738 (N8677A),Landed 01:17,2021-06-15
+217,217,20:10 WN3472,,Las Vegas (LAS),Southwest Airlines B38M (N8743K),Landed 22:01,2021-06-15
+218,218,20:15 WN590,,New York (LGA),Southwest Airlines B737 (N7883A),Landed 21:49,2021-06-15
+219,219,20:15 WN1153,,Dallas (DAL),Southwest Airlines B738,Canceled,2021-06-15
+220,220,20:34 Y4908,,Aguascalientes (AGU),Volaris A20N (XA-VRN),Landed 20:25,2021-06-15
+221,221,20:40 WN5202,,Denver (DEN),Southwest Airlines B737 (N912WN),Landed 23:32,2021-06-15
+222,222,20:45 WN2312,,Tampa (TPA),Southwest Airlines B738,Canceled,2021-06-15
+223,223,20:45 WN5140,,Houston (HOU),Southwest Airlines B737 (N7727A),Landed 23:28,2021-06-15
+224,224,20:50 WN2915,,Orlando (MCO),Southwest Airlines B737,Canceled,2021-06-15
+225,225,21:00 WN3569,,Austin (AUS),Southwest Airlines B737 (N459WN),Landed 22:15,2021-06-15
+226,226,21:14 GAJ853,,Chicago (ORD),Gama Aviation B350,Unknown,2021-06-15
+227,227,21:20 WN5986,,Oakland (OAK),Southwest Airlines B737 (N724SW),Landed 22:19,2021-06-15
+228,228,21:25 WN5322,,San Diego (SAN),Southwest Airlines B738 (N8648A),Landed 22:17,2021-06-15
+229,229,21:45 WN5514,,Las Vegas (LAS),Southwest Airlines B737,Canceled,2021-06-15
+230,230,22:00 WN2212,,Los Angeles (LAX),Southwest Airlines B737,Canceled,2021-06-15
+231,231,22:03,DL5235,Minneapolis (MSP),Delta Connection CRJ7 (N340CA),Landed 21:34,2021-06-15
+232,232,22:05 WN4532,,Dallas (DAL),Southwest Airlines B737 (N431WN),Landed 00:21,2021-06-15
+233,233,22:10 WN5210,,St. Louis (STL),Southwest Airlines B38M (N8801Q),Canceled,2021-06-15
+234,234,22:15 WN2650,,Fort Lauderdale (FLL),Southwest Airlines B38M (N8727M),Landed 22:52,2021-06-15
+235,235,22:30 WN4144,,Nashville (BNA),Southwest Airlines B737 (N930WN),Landed 00:11,2021-06-15
+236,236,22:30 WN4918,,Fort Myers (RSW),Southwest Airlines B737 (N410WN),Landed 00:48,2021-06-15
+237,237,22:35 WN5657,,Orlando (MCO),Southwest Airlines B737 (N908WN),Canceled,2021-06-15
+238,238,22:40 WN1506,,Baltimore (BWI),Southwest Airlines B737 (N730SW),Landed 22:40,2021-06-15
+239,239,22:55 WN4753,,Miami (MIA),Southwest Airlines B737 (N7839A),Landed 22:49,2021-06-15
+240,240,23:00 WN5013,,Atlanta (ATL),Southwest Airlines B738 (N8625A),Landed 23:51,2021-06-15
+241,241,23:10 WN5020,,Phoenix (PHX),Southwest Airlines B737 (N404WN),Landed 02:01,2021-06-15
+242,242,23:20 WN5545,,Tampa (TPA),Southwest Airlines B38M (N8704Q),Canceled,2021-06-15
+243,243,23:25 WN3603,,San Diego (SAN),Southwest Airlines B737 (N956WN),Landed 00:45,2021-06-15
+244,244,23:30 WN4619,,Houston (HOU),Southwest Airlines B737 (N750SA),Canceled,2021-06-15
+245,245,23:41,DL2469,Atlanta (ATL),Delta Air Lines A319 (N318NB),Landed 00:51,2021-06-15
+246,246,23:55 WN2660,,Denver (DEN),Southwest Airlines B737 (N927WN),Landed 02:52,2021-06-15

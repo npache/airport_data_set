@@ -3401,3 +3401,556 @@
 47,47,20:40 AK6129,,Penang (PEN),AirAsia 320,Unknown,2021-06-07
 48,48,22:35,MH2647,Kota Kinabalu (BKI),Malaysia Airlines 738,Canceled,2021-06-07
 49,49,23:36,NH815,Tokyo (NRT),All Nippon Airways B789 (JA898A),Landed 23:36,2021-06-07
+0,0,00:05 EK449,,Auckland (AKL),Emirates B77W (A6-EGE),Landed 23:30,2021-06-08
+1,1,00:50 MH6204,,Sydney (SYD),MASkargo A332 (9M-MUB),Landed 04:33,2021-06-08
+2,2,01:00 BG86,,Dhaka (DAC),Biman Bangladesh Airlines 738,Unknown,2021-06-08
+3,3,02:15 MH6163,,Shanghai (PVG),MASkargo A332 (9M-MUA),Landed 02:52,2021-06-08
+4,4,02:25 G9923,,Sharjah (SHJ),Air Arabia -,Canceled,2021-06-08
+5,5,04:50 D7221,,Sydney (SYD),AirAsia X (AirAsia X Turns 9 Livery) A333 (9M-XXA),Landed 04:53,2021-06-08
+6,6,05:00 YG9029,,Tianjin (TSN),YTO Cargo Airlines 73F,Unknown,2021-06-08
+7,7,05:45 IX624,,Tiruchirapalli (TRZ),Air India Express 738,Unknown,2021-06-08
+8,8,05:50 YG9137,,Kunming (KMG),YTO Cargo Airlines 73F,Unknown,2021-06-08
+9,9,05:50 YG9109,,Shenzhen (SZX),YTO Cargo Airlines 73F,Unknown,2021-06-08
+10,10,06:00 YG9115,,Nanning (NNG),YTO Cargo Airlines 73F,Unknown,2021-06-08
+11,11,06:00 YG9051,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2830),Landed 16:11,2021-06-08
+12,12,07:15 OD613,,Guangzhou (CAN),Malindo Air B739 (9M-LNL),Unknown,2021-06-08
+13,13,08:10,QR844,Doha (DOH),Qatar Airways A359 (A7-ALB),Landed 08:02,2021-06-08
+14,14,09:00 O37228,,Shenzhen (SZX),SF Airlines B752 (B-2845),Landed 15:42,2021-06-08
+15,15,09:10 LD8571,,Hong Kong (HKG),DHL A306 (B-LDA),Landed 09:02,2021-06-08
+16,16,09:15 MH6127,,Dubai (DWC),MASkargo A332 (9M-MUD),Landed 09:39,2021-06-08
+17,17,09:30,SQ106,Singapore (SIN),Singapore Airlines B77W (9V-SWW),Landed 09:06,2021-06-08
+18,18,11:55 MH6015,,Kuching (KCH),Malaysia Airlines 33X,Unknown,2021-06-08
+19,19,12:10 CZ349,,Guangzhou (CAN),China Southern Airlines B789 (B-1297),Landed 11:53,2021-06-08
+20,20,12:35,EY418,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNB),Landed 12:33,2021-06-08
+21,21,12:45 AK5747,,Tawau (TWU),AirAsia 320,Unknown,2021-06-08
+22,22,13:00 O37174,,Zhengzhou (CGO),SF Airlines 73F,Unknown,2021-06-08
+23,23,13:25 CI721,,Taipei (TPE),China Airlines B77W (B-18053),Landed 12:56,2021-06-08
+24,24,14:05 JX725,,Taipei (TPE),STARLUX A21N (B-58202),Landed 13:32,2021-06-08
+25,25,14:10 QZ202,,Jakarta (CGK),Indonesia AirAsia 320,Unknown,2021-06-08
+26,26,14:25,EK346,Dubai (DXB),Emirates B77W (A6-EPH),Landed 14:05,2021-06-08
+27,27,14:30,MH2621,Kota Kinabalu (BKI),Malaysia Airlines 738,Canceled,2021-06-08
+28,28,14:45 OD315,,Jakarta (CGK),Malindo Air B738 (9M-LCR),Landed 15:04,2021-06-08
+29,29,14:50,QR848,Doha (DOH),Qatar Airways B77W (A7-BEW),Landed 14:41,2021-06-08
+30,30,15:30 BA33,,London (LHR),British Airways B789 (G-ZBKO),Landed 15:38,2021-06-08
+31,31,15:50 AK6439,,Kota Bharu (KBR),AirAsia 320,Unknown,2021-06-08
+32,32,16:25 MH144,,Auckland (AKL),Malaysia Airlines A333 (9M-MTC),Landed 16:02,2021-06-08
+33,33,16:30,MH1437,Langkawi (LGK),Malaysia Airlines 738,Canceled,2021-06-08
+34,34,16:40 CX725,,Hong Kong (HKG),Cathay Pacific A333 (B-LAM),Landed 16:19,2021-06-08
+35,35,17:05,TK60,Istanbul (IST),Turkish Airlines B77W (TC-JJR),Landed 16:13,2021-06-08
+36,36,17:15,H9890,Kathmandu (KTM),Himalaya Airlines 320,Unknown,2021-06-08
+37,37,17:45,JL723,Tokyo (NRT),Japan Airlines B789 (JA869J),Landed 17:20,2021-06-08
+38,38,18:20,KL839,Singapore (SIN),KLM B789 (PH-BHC),Landed 18:02,2021-06-08
+39,39,18:35 AK5137,,Kota Kinabalu (BKI),AirAsia 320,Unknown,2021-06-08
+40,40,19:05,MH2517,Kuching (KCH),Malaysia Airlines B738 (9M-MLM),Landed 18:22,2021-06-08
+41,41,19:30,MH2607,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MXO),Landed 19:06,2021-06-08
+42,42,19:45 EK448,,Dubai (DXB),Emirates B77W (A6-ECO),Landed 19:35,2021-06-08
+43,43,19:45,MH1397,Kota Bharu (KBR),Malaysia Airlines B738 (9M-MSE),Landed 18:26,2021-06-08
+44,44,19:45,SQ126,Singapore (SIN),Singapore Airlines B738 (9V-MGA),Landed 19:25,2021-06-08
+45,45,19:55 MH6115,,Hong Kong (HKG),Malaysia Airlines 33X,Unknown,2021-06-08
+46,46,20:00 OD349,,Jakarta (CGK),Malindo Air 738,Unknown,2021-06-08
+47,47,20:10 OD183,,Kathmandu (KTM),Malindo Air 739,Unknown,2021-06-08
+48,48,20:35,TR466,Singapore (SIN),Scoot A20N (9V-TNA),Landed 20:13,2021-06-08
+49,49,20:40,3K687,Singapore (SIN),Jetstar Airways A320 (9V-JSK),Landed 20:02,2021-06-08
+50,50,21:05 MH175,,Mumbai (BOM),Malaysia Airlines 333,Canceled,2021-06-08
+51,51,21:30,MH722,Jakarta (CGK),Malaysia Airlines A333 (9M-MTN),Landed 21:10,2021-06-08
+52,52,22:10 AK5131,,Kota Kinabalu (BKI),AirAsia A320 (9M-AGZ),Landed 21:42,2021-06-08
+53,53,22:30,MH767,Ho Chi Minh City (SGN),Malaysia Airlines A333 (9M-MTH),Landed 22:04,2021-06-08
+54,54,23:55,NH815,Tokyo (NRT),All Nippon Airways B789 (JA894A),Landed 23:19,2021-06-08
+0,0,00:05 EK449,,Auckland (AKL),Emirates B77W (A6-EBR),Landed 23:43,2021-06-09
+1,1,01:00 BG86,,Dhaka (DAC),Biman Bangladesh Airlines 738,Unknown,2021-06-09
+2,2,02:00 BS317,,Dhaka (DAC),US-Bangla Airlines 73H,Unknown,2021-06-09
+3,3,02:23 HX2747,,Hong Kong (HKG),Hong Kong Airlines A333 (B-LNM),Landed 02:23,2021-06-09
+4,4,02:45 MH6165,,Shanghai (PVG),Malaysia Airlines 33X,Unknown,2021-06-09
+5,5,04:30 RA415,,Kathmandu (KTM),Nepal Airlines 320,Unknown,2021-06-09
+6,6,05:00 YG9029,,Tianjin (TSN),YTO Cargo Airlines 73F,Unknown,2021-06-09
+7,7,05:00 MH140,,Sydney (SYD),Malaysia Airlines (Oneworld Livery) A333 (9M-MTE),Landed 04:32,2021-06-09
+8,8,05:50 YG9137,,Kunming (KMG),YTO Cargo Airlines 73F,Unknown,2021-06-09
+9,9,06:00 MH128,,Melbourne (MEL),Malaysia Airlines A333 (9M-MTA),Landed 05:04,2021-06-09
+10,10,06:00 YG9115,,Nanning (NNG),YTO Cargo Airlines 73F,Unknown,2021-06-09
+11,11,06:00 YG9051,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2830),Unknown,2021-06-09
+12,12,06:30,MH181,Chennai (MAA),Malaysia Airlines 333,Canceled,2021-06-09
+13,13,06:30 CI5854,,Jakarta (CGK),China Airlines Cargo B744 (B-18723),Landed 06:39,2021-06-09
+14,14,06:55,MH191,Delhi (DEL),Malaysia Airlines A333 (9M-MTJ),Landed 06:36,2021-06-09
+15,15,06:55 OD161,,Dhaka (DAC),Malindo Air 739,Unknown,2021-06-09
+16,16,07:20,MH193,Bengaluru (BLR),Malaysia Airlines 333,Canceled,2021-06-09
+17,17,07:35,MH195,Mumbai (BOM),Malaysia Airlines A333 (9M-MTM),Landed 07:21,2021-06-09
+18,18,08:10,QR844,Doha (DOH),Qatar Airways A359 (A7-ALG),Landed 08:30,2021-06-09
+19,19,08:10,3K683,Singapore (SIN),Jetstar Airways A320 (9V-JSL),Landed 07:42,2021-06-09
+20,20,08:45 MH6179,,Guangzhou (CAN),MASkargo A332 (9M-MUB),Landed 08:38,2021-06-09
+21,21,08:50 G9921,,Sharjah (SHJ),Air Arabia -,Canceled,2021-06-09
+22,22,09:00 O37228,,Shenzhen (SZX),SF Airlines B763 (B-1576),Unknown,2021-06-09
+23,23,09:30,SQ106,Singapore (SIN),Singapore Airlines B738 (9V-MGL),Landed 09:41,2021-06-09
+24,24,12:00 SV842,,Jeddah (JED),Saudia B789 (HZ-ARA),Landed 12:03,2021-06-09
+25,25,12:30 CX723,,Hong Kong (HKG),Cathay Pacific A333 (B-LBB),Landed 12:02,2021-06-09
+26,26,12:35,EY418,Abu Dhabi (AUH),Etihad (ADNOC - Choose Thailand Livery) B789 (A6-BLJ),Landed 12:34,2021-06-09
+27,27,12:40 AK5173,,Labuan (LBU),AirAsia 320,Unknown,2021-06-09
+28,28,13:00 O37174,,Zhengzhou (CGO),SF Airlines 73F,Unknown,2021-06-09
+29,29,13:15,MH2715,Sibu (SBW),Malaysia Airlines B738 (9M-MXT),Landed 13:14,2021-06-09
+30,30,13:25,CI721,Taipei (TPE),China Airlines B77W (B-18001),Landed 12:43,2021-06-09
+31,31,13:50,MH2661,Tawau (TWU),Malaysia Airlines B738 (9M-MLQ),Landed 13:31,2021-06-09
+32,32,14:00 8M5001,,Yangon (RGN),Myanmar Airways International A320 (XY-ALR),Landed 14:08,2021-06-09
+33,33,14:15 OD1605,,Kuching (KCH),Malindo Air B739 (9M-LNK),Landed 13:42,2021-06-09
+34,34,14:30,MH2575,Miri (MYY),Malaysia Airlines 738,Unknown,2021-06-09
+35,35,14:30,MH2621,Kota Kinabalu (BKI),Malaysia Airlines 738,Unknown,2021-06-09
+36,36,14:40 AK5197,,Sandakan (SDK),AirAsia 320,Unknown,2021-06-09
+37,37,14:50,QR848,Doha (DOH),Qatar Airways B77W (A7-BEH),Landed 14:27,2021-06-09
+38,38,15:00 IX422,,Cochin (COK),Air India Express 738,Unknown,2021-06-09
+39,39,15:25 CV7302,,Singapore (SIN),Cargolux 74Y,Unknown,2021-06-09
+40,40,15:25 CV7303,,Singapore (SIN),Cargolux B748 (LX-VCG),Landed 14:55,2021-06-09
+41,41,15:45 AK5207,,Kuching (KCH),AirAsia (Save our Malayan Tiger Livery) A320 (9M-AQZ),Landed 15:06,2021-06-09
+42,42,16:15 QZ124,,Medan (KNO),AirAsia A320 (PK-AZO),Landed 15:53,2021-06-09
+43,43,16:15 OD315,,Jakarta (CGK),Malindo Air 738,Unknown,2021-06-09
+44,44,16:35,MH67,Seoul (ICN),Malaysia Airlines A333 (9M-MTN),Landed 15:46,2021-06-09
+45,45,16:45,MH1149,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-09
+46,46,16:55 MH6103,,Labuan (LBU),Malaysia Airlines 33X,Unknown,2021-06-09
+47,47,17:05,TK60,Istanbul (IST),Turkish Airlines B77W (TC-JJI),Landed 16:19,2021-06-09
+48,48,17:15,H9890,Kathmandu (KTM),Himalaya Airlines 320,Unknown,2021-06-09
+49,49,17:25,MH753,Hanoi (HAN),Malaysia Airlines A333 (9M-MTH),Landed 16:55,2021-06-09
+50,50,17:30 QZ330,,Surabaya (SUB),AirAsia A320 (PK-AXY),Landed 17:06,2021-06-09
+51,51,17:55 UL314,,Colombo (CMB),SriLankan Airlines A21N (4R-AND),Landed 17:27,2021-06-09
+52,52,18:20 MH183,,Chennai (MAA),Malaysia Airlines 333,Canceled,2021-06-09
+53,53,18:35 AK5137,,Kota Kinabalu (BKI),AirAsia 320,Unknown,2021-06-09
+54,54,19:10 AK6439,,Kota Bharu (KBR),AirAsia 320,Unknown,2021-06-09
+55,55,19:20 AK5749,,Tawau (TWU),AirAsia 320,Unknown,2021-06-09
+56,56,19:30,MH2607,Kota Kinabalu (BKI),Malaysia Airlines 738,Canceled,2021-06-09
+57,57,19:45 EK448,,Dubai (DXB),Emirates B77W (A6-ECV),Landed 19:20,2021-06-09
+58,58,19:45,SQ126,Singapore (SIN),Singapore Airlines B77W (9V-SWO),Landed 19:31,2021-06-09
+59,59,20:00 OD349,,Jakarta (CGK),Malindo Air 738,Unknown,2021-06-09
+60,60,20:05 RH327,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNY),Landed 19:54,2021-06-09
+61,61,20:10 OD183,,Kathmandu (KTM),Malindo Air 739,Unknown,2021-06-09
+62,62,20:20,BI873,Brunei (BWN),Royal Brunei Airlines B788 (V8-DLC),Landed 20:01,2021-06-09
+63,63,20:20,KE671,Seoul (ICN),Korean Air B789 (HL8082),Landed 19:24,2021-06-09
+64,64,20:25 MH144,,Auckland (AKL),Malaysia Airlines 332,Unknown,2021-06-09
+65,65,20:30,MH148,Melbourne (MEL),Malaysia Airlines A333 (9M-MTB),Landed 19:42,2021-06-09
+66,66,20:30,MH2711,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MLN),Landed 19:50,2021-06-09
+67,67,20:35,TR466,Singapore (SIN),Scoot A20N (9V-TNA),Landed 20:13,2021-06-09
+68,68,21:05 MH173,,Delhi (DEL),Malaysia Airlines 333,Canceled,2021-06-09
+69,69,21:05 MH175,,Mumbai (BOM),Malaysia Airlines 333,Canceled,2021-06-09
+70,70,21:45 AK5105,,Kota Kinabalu (BKI),AirAsia 320,Unknown,2021-06-09
+71,71,23:04 NH815,,Tokyo (NRT),All Nippon Airways B789 (JA898A),Landed 23:07,2021-06-09
+0,0,00:05 EK449,,Auckland (AKL),Emirates B77W (A6-ECO),Landed 23:37,2021-06-10
+1,1,01:00 BG86,,Dhaka (DAC),Biman Bangladesh Airlines 738,Unknown,2021-06-10
+2,2,02:50 CV8703,,Kuwait City (KWI),Cargolux B748 (LX-VCD),Landed 04:19,2021-06-10
+3,3,02:55 MH6171,,Shanghai (PVG),MASkargo A332 (9M-MUB),Landed 04:35,2021-06-10
+4,4,03:15 8M5003,,Yangon (RGN),Myanmar Airways International 319,Unknown,2021-06-10
+5,5,05:00 YG9029,,Tianjin (TSN),YTO Cargo Airlines 73F,Unknown,2021-06-10
+6,6,05:00 MH140,,Sydney (SYD),Malaysia Airlines (Oneworld Livery) A333 (9M-MTE),Landed 04:27,2021-06-10
+7,7,05:45 IX624,,Tiruchirapalli (TRZ),Air India Express (Kathakali-Bharatanatyam Livery) B738 (VT-GHE),Landed 05:41,2021-06-10
+8,8,05:50 YG9109,,Shenzhen (SZX),YTO Cargo Airlines 73F,Unknown,2021-06-10
+9,9,05:50 YG9137,,Kunming (KMG),YTO Cargo Airlines 73F,Unknown,2021-06-10
+10,10,06:00 MH128,,Melbourne (MEL),Malaysia Airlines A333 (9M-MTJ),Landed 05:27,2021-06-10
+11,11,06:00 YG9051,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2830),Landed 16:16,2021-06-10
+12,12,06:00 YG9115,,Nanning (NNG),YTO Cargo Airlines 73F,Unknown,2021-06-10
+13,13,06:30,MH181,Chennai (MAA),Malaysia Airlines A333 (9M-MTM),Landed 05:56,2021-06-10
+14,14,06:50 AK117,,Guangzhou (CAN),AirAsia A320 (9M-AGZ),Landed 06:29,2021-06-10
+15,15,06:50 KE8383,,Singapore (SIN),Korean Air Cargo B744 (HL7605),Landed 11:51,2021-06-10
+16,16,06:55,MH191,Delhi (DEL),Malaysia Airlines 333,Canceled,2021-06-10
+17,17,07:00 MH1133,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-10
+18,18,07:20 MH193,,Bengaluru (BLR),Malaysia Airlines A333 (9M-MTB),Landed 07:11,2021-06-10
+19,19,07:35 MH195,,Mumbai (BOM),Malaysia Airlines A333 (9M-MTH),Landed 06:34,2021-06-10
+20,20,08:00 MH197,,Dhaka (DAC),Malaysia Airlines 332,Unknown,2021-06-10
+21,21,08:05 MH6191,,Taipei (TPE),MASkargo A332 (9M-MUA),Unknown,2021-06-10
+22,22,08:10,QR844,Doha (DOH),Qatar Airways A359 (A7-ALO),Landed 08:09,2021-06-10
+23,23,08:10 3K683,,Singapore (SIN),Jetstar Airways A320 (9V-JSK),Landed 07:49,2021-06-10
+24,24,09:00 O37228,,Shenzhen (SZX),SF Airlines B763 (B-1589),Landed 13:59,2021-06-10
+25,25,09:30,SQ106,Singapore (SIN),Singapore Airlines B77W (9V-SWH),Landed 09:12,2021-06-10
+26,26,10:00 W583,,Tehran (IKA),Mahan Air 343,Unknown,2021-06-10
+27,27,11:00 SG7805,,Chennai (MAA),SpiceXpress B738 (VT-SFG),Canceled,2021-06-10
+28,28,11:00 MH1143,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-10
+29,29,11:50 GA820,,Jakarta (CGK),Garuda Indonesia A332 (PK-GPS),Unknown,2021-06-10
+30,30,12:00 MH1269,,Kuantan (KUA),Malaysia Airlines 738,Canceled,2021-06-10
+31,31,12:35 EY418,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLZ),Landed 12:25,2021-06-10
+32,32,12:45 AK5747,,Tawau (TWU),AirAsia 320,Unknown,2021-06-10
+33,33,13:00 O37174,,Zhengzhou (CGO),SF Airlines 73F,Unknown,2021-06-10
+34,34,13:25 CI721,,Taipei (TPE),China Airlines B77W (B-18005),Landed 12:56,2021-06-10
+35,35,14:00 OD1007,,Kota Kinabalu (BKI),Malindo Air 738,Unknown,2021-06-10
+36,36,14:00 8M5001,,Yangon (RGN),Myanmar Airways International A320 (XY-ALR),Landed 14:17,2021-06-10
+37,37,14:10 QZ202,,Jakarta (CGK),AirAsia A320 (PK-AXG),Unknown,2021-06-10
+38,38,14:15 OD1605,,Kuching (KCH),Malindo Air 739,Canceled,2021-06-10
+39,39,14:20,MH2609,Labuan (LBU),Malaysia Airlines B738 (9M-MLT),Diverted to KUA,2021-06-10
+40,40,14:25,EK346,Dubai (DXB),Emirates B77W (A6-EPA),Landed 14:20,2021-06-10
+41,41,14:30,MH2575,Miri (MYY),Malaysia Airlines B738 (9M-MLV),Landed 14:25,2021-06-10
+42,42,14:50,QR848,Doha (DOH),Qatar Airways B77W (A7-BER),Landed 14:28,2021-06-10
+43,43,15:00 PR527,,Manila (MNL),Philippine Airlines 320,Unknown,2021-06-10
+44,44,15:10 OD2205,,Langkawi (LGK),Malindo Air 738,Unknown,2021-06-10
+45,45,15:30 BA33,,London (LHR),British Airways B789 (G-ZBKG),Landed 15:30,2021-06-10
+46,46,15:50 AK6439,,Kota Bharu (KBR),AirAsia 320,Unknown,2021-06-10
+47,47,15:55,MH1209,Alor Setar (AOR),Malaysia Airlines 738,Canceled,2021-06-10
+48,48,16:15 OD315,,Jakarta (CGK),Malindo Air 738,Unknown,2021-06-10
+49,49,16:25 MH144,,Auckland (AKL),Malaysia Airlines (Malayan Tiger Livery) A333 (9M-MTG),Landed 16:12,2021-06-10
+50,50,16:30 MH1437,,Langkawi (LGK),Malaysia Airlines 738,Canceled,2021-06-10
+51,51,16:45,MH1149,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-10
+52,52,16:47,MH2609,Kuantan (KUA),Malaysia Airlines B738 (9M-MLT),Landed 16:57,2021-06-10
+53,53,17:15,H9890,Kathmandu (KTM),Himalaya Airlines 320,Unknown,2021-06-10
+54,54,17:20 OD2107,,Penang (PEN),Malindo Air 739,Unknown,2021-06-10
+55,55,17:30 OD1015,,Kota Kinabalu (BKI),Malindo Air 738,Unknown,2021-06-10
+56,56,17:30 QZ330,,Surabaya (SUB),AirAsia A320 (PK-AXY),Landed 17:00,2021-06-10
+57,57,17:45,ET618,Bangkok (BKK),Ethiopian Airlines B788 (ET-ASH),Landed 17:11,2021-06-10
+58,58,17:45,JL723,Tokyo (NRT),Japan Airlines B789 (JA881J),Landed 17:03,2021-06-10
+59,59,18:10 MH1455,,Langkawi (LGK),Malaysia Airlines 738,Canceled,2021-06-10
+60,60,18:35 AK5137,,Kota Kinabalu (BKI),AirAsia 320,Unknown,2021-06-10
+61,61,18:55 AK5245,,Bintulu (BTU),AirAsia A20N (9M-RAR),Landed 18:37,2021-06-10
+62,62,18:55,MH1397,Kota Bharu (KBR),Malaysia Airlines 738,Unknown,2021-06-10
+63,63,19:00,MH705,Manila (MNL),Malaysia Airlines A333 (9M-MTJ),Landed 18:30,2021-06-10
+64,64,19:05,MH1335,Kuala Terengganu (TGG),Malaysia Airlines 738,Canceled,2021-06-10
+65,65,19:05,MH2517,Kuching (KCH),Malaysia Airlines B738 (9M-MXQ),Landed 18:27,2021-06-10
+66,66,19:30,MH2607,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MXW),Landed 19:01,2021-06-10
+67,67,19:30 MH6119,,Hong Kong (HKG),MASkargo A332 (9M-MUB),Landed 21:14,2021-06-10
+68,68,19:45,SQ126,Singapore (SIN),Singapore Airlines B738 (9V-MGN),Landed 19:31,2021-06-10
+69,69,19:45 EK448,,Dubai (DXB),Emirates B77W (A6-ECT),Unknown,2021-06-10
+70,70,20:00 OD349,,Jakarta (CGK),Malindo Air 738,Unknown,2021-06-10
+71,71,20:05 MH1058,,Johor Bahru (JHB),Malaysia Airlines 738,Canceled,2021-06-10
+72,72,20:10 OD183,,Kathmandu (KTM),Malindo Air 739,Unknown,2021-06-10
+73,73,20:20 MH1155,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-10
+74,74,20:35,TR466,Singapore (SIN),Scoot A20N (9V-TNE),Landed 20:14,2021-06-10
+75,75,20:40,3K687,Singapore (SIN),Jetstar Airways A320 (9V-JSK),Landed 20:09,2021-06-10
+76,76,21:05 MH175,,Mumbai (BOM),Malaysia Airlines 333,Canceled,2021-06-10
+77,77,21:40 OD1013,,Kota Kinabalu (BKI),Malindo Air 738,Unknown,2021-06-10
+78,78,21:50 AK5131,,Kota Kinabalu (BKI),AirAsia A320 (9M-AGZ),Landed 21:26,2021-06-10
+79,79,21:55,MH2631,Kota Kinabalu (BKI),Malaysia Airlines 738,Canceled,2021-06-10
+80,80,22:30,MH767,Ho Chi Minh City (SGN),Malaysia Airlines A333 (9M-MTD),Landed 22:11,2021-06-10
+81,81,23:00,WY815,Bangkok (BKK),Oman Air 788,Canceled,2021-06-10
+82,82,23:27 NH815,,Tokyo (NRT),All Nippon Airways B789 (JA894A),Landed 23:27,2021-06-10
+0,0,12:05 AM EK449,,Auckland (AKL),Emirates B77W (A6-ECV),Landed 11:36 PM,2021-06-11
+1,1,1:00 AM BG86,,Dhaka (DAC),Biman Bangladesh Airlines 738,Unknown,2021-06-11
+2,2,2:00 AM BS317,,Dhaka (DAC),US-Bangla Airlines 73H,Unknown,2021-06-11
+3,3,2:40 AM HX2747,,Hong Kong (HKG),Hong Kong Airlines A333 (B-LNO),Landed 2:27 AM,2021-06-11
+4,4,3:05 AM MH6173,,Shanghai (PVG),MASkargo A332 (9M-MUA),Landed 4:14 AM,2021-06-11
+5,5,4:30 AM RA415,,Kathmandu (KTM),Nepal Airlines 320,Unknown,2021-06-11
+6,6,5:00 AM YG9029,,Tianjin (TSN),YTO Cargo Airlines 73F,Unknown,2021-06-11
+7,7,5:00 AM MH140,,Sydney (SYD),Malaysia Airlines A333 (9M-MTA),Landed 4:43 AM,2021-06-11
+8,8,5:50 AM YG9137,,Kunming (KMG),YTO Cargo Airlines 73F,Unknown,2021-06-11
+9,9,6:00 AM YG9051,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2812),Landed 4:13 PM,2021-06-11
+10,10,6:00 AM YG9115,,Nanning (NNG),YTO Cargo Airlines 73F,Unknown,2021-06-11
+11,11,6:20 AM AK70,,Dhaka (DAC),AirAsia 320,Unknown,2021-06-11
+12,12,6:30 AM,MH181,Chennai (MAA),Malaysia Airlines 333,Canceled,2021-06-11
+13,13,6:40 AM MH105,,Bengaluru (BLR),Malaysia Airlines 333,Canceled,2021-06-11
+14,14,6:55 AM,MH191,Delhi (DEL),Malaysia Airlines (Malayan Tiger Livery) A333 (9M-MTG),Landed 6:54 AM,2021-06-11
+15,15,7:00 AM MH1133,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-11
+16,16,7:15 AM MH3,,London (LHR),Malaysia Airlines A359 (9M-MAB),Landed 6:03 AM,2021-06-11
+17,17,7:35 AM MH195,,Mumbai (BOM),Malaysia Airlines A333 (9M-MTC),Landed 6:34 AM,2021-06-11
+18,18,8:10 AM,QR844,Doha (DOH),Qatar Airways A359 (A7-ALR),Landed 8:08 AM,2021-06-11
+19,19,8:35 AM MH6125,,Dubai (DWC),MASkargo A332 (9M-MUD),Landed 8:00 AM,2021-06-11
+20,20,9:00 AM O37228,,Shenzhen (SZX),SF Airlines B752 (B-220A),Landed 3:40 PM,2021-06-11
+21,21,9:30 AM,SQ106,Singapore (SIN),Singapore Airlines B738 (9V-MGE),Landed 9:21 AM,2021-06-11
+22,22,11:00 AM PK894,,Islamabad (ISB),Pakistan International Airlines B772 (AP-BHX),Landed 12:59 PM,2021-06-11
+23,23,11:00 AM MH1143,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-11
+24,24,11:15 AM BR217,,Taipei (TPE),EVA Air B77W (B-16728),Landed 10:32 AM,2021-06-11
+25,25,11:30 AM MH1385,,Kota Bharu (KBR),Malaysia Airlines 738,Unknown,2021-06-11
+26,26,11:45 AM LD8571,,Hong Kong (HKG),DHL A306 (B-LDC),Landed 11:10 AM,2021-06-11
+27,27,12:35 PM EY418,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNA),Landed 12:26 PM,2021-06-11
+28,28,12:40 PM AK5173,,Labuan (LBU),AirAsia 320,Unknown,2021-06-11
+29,29,12:40 PM AK5197,,Sandakan (SDK),AirAsia 320,Unknown,2021-06-11
+30,30,1:00 PM O37174,,Zhengzhou (CGO),SF Airlines 73F,Unknown,2021-06-11
+31,31,1:25 PM MF847,,Xiamen (XMN),Xiamen Air B738 (B-5658),Landed 1:05 PM,2021-06-11
+32,32,1:25 PM CI721,,Taipei (TPE),China Airlines B77W (B-18055),Landed 12:41 PM,2021-06-11
+33,33,1:50 PM MH2661,,Tawau (TWU),Malaysia Airlines 738,Unknown,2021-06-11
+34,34,1:50 PM MH2743,,Bintulu (BTU),Malaysia Airlines B738 (9M-MXM),Landed 1:50 PM,2021-06-11
+35,35,2:00 PM OD1007,,Kota Kinabalu (BKI),Malindo Air 738,Unknown,2021-06-11
+36,36,2:05 PM JX725,,Taipei (TPE),STARLUX A21N (B-58202),Landed 1:39 PM,2021-06-11
+37,37,2:10 PM CZ349,,Guangzhou (CAN),China Southern Airlines B789 (B-1297),Landed 1:47 PM,2021-06-11
+38,38,2:15 PM OD1605,,Kuching (KCH),Malindo Air B739 (9M-LNL),Landed 1:53 PM,2021-06-11
+39,39,2:20 PM MH2609,,Labuan (LBU),Malaysia Airlines B738 (9M-MXX),Landed 2:13 PM,2021-06-11
+40,40,2:45 PM SV828,,Riyadh (RUH),Saudia B789 (HZ-ARH),Landed 3:22 PM,2021-06-11
+41,41,2:50 PM QR848,,Doha (DOH),Qatar Airways (FIFA World Cup 2022 Livery) B77W (A7-BEB),Landed 2:48 PM,2021-06-11
+42,42,2:50 PM MH2513,,Kuching (KCH),Malaysia Airlines B738 (9M-MXS),Landed 2:38 PM,2021-06-11
+43,43,3:00 PM IX626,,Tiruchirapalli (TRZ),Air India Express (Elephant-Camel Livery) B738 (VT-GHA),Landed 3:18 PM,2021-06-11
+44,44,3:00 PM QG8524,,Dili (DIL),Citilink A20N (PK-GTJ),Landed 5:58 PM,2021-06-11
+45,45,3:10 PM OD2205,,Langkawi (LGK),Malindo Air 738,Unknown,2021-06-11
+46,46,3:50 PM AK6439,,Kota Bharu (KBR),AirAsia 320,Unknown,2021-06-11
+47,47,3:55 PM MH1209,,Alor Setar (AOR),Malaysia Airlines 738,Canceled,2021-06-11
+48,48,4:10 PM MH6013,,Kota Kinabalu (BKI),Malaysia Airlines 33X,Unknown,2021-06-11
+49,49,4:15 PM OD315,,Jakarta (CGK),Malindo Air 738,Unknown,2021-06-11
+50,50,4:15 PM QZ124,,Medan (KNO),AirAsia A320 (PK-AZO),Landed 4:01 PM,2021-06-11
+51,51,4:30 PM MH1437,,Langkawi (LGK),Malaysia Airlines 738,Canceled,2021-06-11
+52,52,4:35 PM MH67,,Seoul (ICN),Malaysia Airlines A333 (9M-MTD),Landed 4:05 PM,2021-06-11
+53,53,4:45 PM MH1149,,Penang (PEN),Malaysia Airlines 738,Unknown,2021-06-11
+54,54,5:05 PM,TK60,Istanbul (IST),Turkish Airlines B77W (TC-JJT),Landed 4:28 PM,2021-06-11
+55,55,5:15 PM,H9890,Kathmandu (KTM),Himalaya Airlines 320,Unknown,2021-06-11
+56,56,5:20 PM,MH71,Tokyo (NRT),Malaysia Airlines A333 (9M-MTH),Landed 4:34 PM,2021-06-11
+57,57,5:20 PM OD2107,,Penang (PEN),Malindo Air 739,Unknown,2021-06-11
+58,58,5:30 PM OD1015,,Kota Kinabalu (BKI),Malindo Air 738,Unknown,2021-06-11
+59,59,5:30 PM QZ330,,Surabaya (SUB),AirAsia A320 (PK-AZG),Landed 5:30 PM,2021-06-11
+60,60,6:10 PM MH1455,,Langkawi (LGK),Malaysia Airlines 738,Canceled,2021-06-11
+61,61,6:20 PM,KL839,Singapore (SIN),KLM B789 (PH-BHP),Landed 6:06 PM,2021-06-11
+62,62,6:20 PM MH183,,Chennai (MAA),Malaysia Airlines 333,Canceled,2021-06-11
+63,63,6:35 PM AK5137,,Kota Kinabalu (BKI),AirAsia 320,Unknown,2021-06-11
+64,64,6:55 PM,MH1397,Kota Bharu (KBR),Malaysia Airlines B738 (9M-MSB),Landed 6:46 PM,2021-06-11
+65,65,7:05 PM,MH1335,Kuala Terengganu (TGG),Malaysia Airlines 738,Unknown,2021-06-11
+66,66,7:05 PM,MH2517,Kuching (KCH),Malaysia Airlines B738 (9M-MXH),Landed 6:14 PM,2021-06-11
+67,67,7:20 PM AK5749,,Tawau (TWU),AirAsia A320 (9M-AGZ),Landed 6:49 PM,2021-06-11
+68,68,7:30 PM,MH2607,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MXD),Landed 7:09 PM,2021-06-11
+69,69,7:45 PM EK448,,Dubai (DXB),Emirates B77W (A6-ECR),Landed 7:30 PM,2021-06-11
+70,70,7:45 PM,SQ126,Singapore (SIN),Singapore Airlines B77W (9V-SWO),Landed 7:26 PM,2021-06-11
+71,71,8:00 PM OD349,,Jakarta (CGK),Malindo Air B738 (9M-LNP),Landed 7:42 PM,2021-06-11
+72,72,8:05 PM RH327,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNZ),Landed 9:09 PM,2021-06-11
+73,73,8:05 PM MH1058,,Johor Bahru (JHB),Malaysia Airlines 738,Canceled,2021-06-11
+74,74,8:10 PM OD183,,Kathmandu (KTM),Malindo Air 739,Unknown,2021-06-11
+75,75,8:15 PM,MH122,Sydney (SYD),Malaysia Airlines (Oneworld Livery) A333 (9M-MTO),Landed 7:53 PM,2021-06-11
+76,76,8:20 PM,KE671,Seoul (ICN),Korean Air A333 (HL8002),Landed 7:46 PM,2021-06-11
+77,77,8:20 PM,BI873,Brunei (BWN),Royal Brunei Airlines B788 (V8-DLB),Landed 7:58 PM,2021-06-11
+78,78,8:20 PM MH1155,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-11
+79,79,8:30 PM,MH2711,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MLS),Landed 7:56 PM,2021-06-11
+80,80,8:35 PM,TR466,Singapore (SIN),Scoot A20N (9V-TNA),Landed 8:11 PM,2021-06-11
+81,81,8:40 PM,3K687,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 8:06 PM,2021-06-11
+82,82,9:00 PM MH389,,Shanghai (PVG),Malaysia Airlines 333,Canceled,2021-06-11
+83,83,9:05 PM MH173,,Delhi (DEL),Malaysia Airlines 333,Canceled,2021-06-11
+84,84,9:05 PM MH175,,Mumbai (BOM),Malaysia Airlines 333,Canceled,2021-06-11
+85,85,9:25 PM,MH2645,Kota Kinabalu (BKI),Malaysia Airlines 738,Unknown,2021-06-11
+86,86,9:30 PM,MH722,Jakarta (CGK),Malaysia Airlines A333 (9M-MTJ),Landed 8:58 PM,2021-06-11
+87,87,9:40 PM OD1013,,Kota Kinabalu (BKI),Malindo Air 738,Unknown,2021-06-11
+88,88,9:40 PM,UL314,Colombo (CMB),SriLankan Airlines A332 (4R-ALA),Landed 9:40 PM,2021-06-11
+89,89,9:50 PM AK5131,,Kota Kinabalu (BKI),AirAsia 320,Unknown,2021-06-11
+90,90,9:55 PM,MH2631,Kota Kinabalu (BKI),Malaysia Airlines 738,Unknown,2021-06-11
+91,91,10:35 PM,MH2647,Kota Kinabalu (BKI),Malaysia Airlines 738,Canceled,2021-06-11
+92,92,11:05 PM MH6053,,Hanoi (HAN),Malaysia Airlines 33X,Unknown,2021-06-11
+93,93,11:55 PM,NH815,Tokyo (NRT),All Nippon Airways B789 (JA922A),Landed 11:10 PM,2021-06-11
+0,0,00:01 CV7844,,Singapore (SIN),Cargolux B748 (LX-VCJ),Unknown,2021-06-12
+1,1,00:01 CV7855,,Singapore (SIN),Cargolux B748 (LX-VCJ),Landed 01:17,2021-06-12
+2,2,00:05 EK449,,Auckland (AKL),Emirates B77W (A6-ECT),Landed 00:06,2021-06-12
+3,3,01:00 BG86,,Dhaka (DAC),Biman Bangladesh Airlines 738,Unknown,2021-06-12
+4,4,02:30 MH6208,,Sydney (SYD),MASkargo A332 (9M-MUB),Landed 02:00,2021-06-12
+5,5,03:40 KE367,,Seoul (ICN),Korean Air Cargo B744 (HL7601),Landed 03:00,2021-06-12
+6,6,04:30 RA415,,Kathmandu (KTM),Nepal Airlines 320,Unknown,2021-06-12
+7,7,05:00 MH140,,Sydney (SYD),Malaysia Airlines A333 (9M-MTC),Landed 04:38,2021-06-12
+8,8,05:00 YG9029,,Tianjin (TSN),YTO Cargo Airlines 73F,Unknown,2021-06-12
+9,9,05:45 IX624,,Tiruchirapalli (TRZ),Air India Express 738,Unknown,2021-06-12
+10,10,05:50 YG9109,,Shenzhen (SZX),YTO Cargo Airlines 73F,Unknown,2021-06-12
+11,11,05:50 YG9137,,Kunming (KMG),YTO Cargo Airlines 73F,Unknown,2021-06-12
+12,12,06:00 YG9051,,Hangzhou (HGH),YTO Cargo Airlines 73F,Unknown,2021-06-12
+13,13,06:00 YG9115,,Nanning (NNG),YTO Cargo Airlines 73F,Unknown,2021-06-12
+14,14,06:30,MH181,Chennai (MAA),Malaysia Airlines (Malayan Tiger Livery) A333 (9M-MTG),Landed 05:57,2021-06-12
+15,15,06:55 MH191,,Delhi (DEL),Malaysia Airlines 333,Canceled,2021-06-12
+16,16,07:00 MH1133,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-12
+17,17,07:15 MH3,,London (LHR),Malaysia Airlines (Malaysia Negaraku Livery) A359 (9M-MAF),Landed 06:23,2021-06-12
+18,18,07:20 MH193,,Bengaluru (BLR),Malaysia Airlines A333 (9M-MTH),Landed 07:10,2021-06-12
+19,19,07:35 MH195,,Mumbai (BOM),Malaysia Airlines 333,Canceled,2021-06-12
+20,20,07:59 MH197,,Dhaka (DAC),Malaysia Airlines 333,Unknown,2021-06-12
+21,21,08:10,QR844,Doha (DOH),Qatar Airways A359 (A7-ALS),Landed 07:56,2021-06-12
+22,22,08:10 3K683,,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 07:46,2021-06-12
+23,23,09:00 MH6179,,Guangzhou (CAN),MASkargo A332 (9M-MUA),Landed 09:36,2021-06-12
+24,24,09:00 O37228,,Shenzhen (SZX),SF Airlines B763 (B-1423),Landed 15:01,2021-06-12
+25,25,09:30,SQ106,Singapore (SIN),Singapore Airlines B738 (9V-MGM),Landed 09:18,2021-06-12
+26,26,10:00 W583,,Tehran (IKA),Mahan Air A343 (EP-MMA),Landed 09:53,2021-06-12
+27,27,11:00 MH1143,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-12
+28,28,11:10 QR8986,,Doha (DOH),Qatar Cargo B77L (A7-BFJ),Landed 10:52,2021-06-12
+29,29,11:15 PR525,,Manila (MNL),Philippine Airlines A21N (RP-C9933),Landed 10:36,2021-06-12
+30,30,11:30 MH1385,,Kota Bharu (KBR),Malaysia Airlines 738,Unknown,2021-06-12
+31,31,12:00 MH1269,,Kuantan (KUA),Malaysia Airlines 738,Unknown,2021-06-12
+32,32,12:15 CV7585,,Dammam (DMM),Cargolux B748 (LX-VCD),Landed 13:51,2021-06-12
+33,33,12:35 EY418,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLL),Landed 12:49,2021-06-12
+34,34,13:00 O37174,,Zhengzhou (CGO),SF Airlines 73F,Unknown,2021-06-12
+35,35,13:15 MH2715,,Sibu (SBW),Malaysia Airlines 738,Unknown,2021-06-12
+36,36,13:25 CI721,,Taipei (TPE),China Airlines B77W (B-18055),Landed 13:04,2021-06-12
+37,37,13:50 MH2661,,Tawau (TWU),Malaysia Airlines 738,Unknown,2021-06-12
+38,38,14:15 OD1605,,Kuching (KCH),Malindo Air B739 (9M-LNK),Landed 14:01,2021-06-12
+39,39,14:20 AK5879,,Sibu (SBW),AirAsia A320 (9M-AJC),Landed 14:41,2021-06-12
+40,40,14:20 MH2609,,Labuan (LBU),Malaysia Airlines 738,Unknown,2021-06-12
+41,41,14:25 EK346,,Dubai (DXB),Emirates B77W (A6-EGQ),Landed 13:54,2021-06-12
+42,42,14:30 MH2575,,Miri (MYY),Malaysia Airlines 738,Unknown,2021-06-12
+43,43,14:30 MH2621,,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MLP),Landed 14:21,2021-06-12
+44,44,14:40 AK5197,,Sandakan (SDK),AirAsia A20N (9M-AGH),Landed 14:17,2021-06-12
+45,45,14:50 QR848,,Doha (DOH),Qatar Airways B77W (A7-BAS),Landed 14:39,2021-06-12
+46,46,15:30 BA33,,London (LHR),British Airways B789 (G-ZBKN),Landed 15:42,2021-06-12
+47,47,15:35,MH2611,Kota Kinabalu (BKI),Malaysia Airlines 738,Unknown,2021-06-12
+48,48,15:50,MH741,Yangon (RGN),Malaysia Airlines A333 (9M-MTD),Landed 15:30,2021-06-12
+49,49,15:55,MH1209,Alor Setar (AOR),Malaysia Airlines 738,Canceled,2021-06-12
+50,50,16:30 MH1437,,Langkawi (LGK),Malaysia Airlines 738,Canceled,2021-06-12
+51,51,16:40 CX725,,Hong Kong (HKG),Cathay Pacific A333 (B-LAR),Landed 16:05,2021-06-12
+52,52,16:45,MH1149,Penang (PEN),Malaysia Airlines B738 (9M-MLF),Landed 16:25,2021-06-12
+53,53,17:00 MH6109,,Hong Kong (HKG),Malaysia Airlines 33X,Unknown,2021-06-12
+54,54,17:05,TK60,Istanbul (IST),Turkish Airlines B77W (TC-JJS),Landed 16:45,2021-06-12
+55,55,17:15,H9890,Kathmandu (KTM),Himalaya Airlines 320,Unknown,2021-06-12
+56,56,17:20 MH71,,Tokyo (NRT),Malaysia Airlines A333 (9M-MTM),Landed 17:03,2021-06-12
+57,57,17:30 QZ330,,Surabaya (SUB),AirAsia A320 (PK-AZG),Landed 17:11,2021-06-12
+58,58,17:35 AK5137,,Kota Kinabalu (BKI),AirAsia A20N (9M-AGQ),Landed 17:06,2021-06-12
+59,59,17:35 CV8705,,Dubai (DWC),Cargolux B748 (LX-VCI),Landed 06:53,2021-06-12
+60,60,17:40,TR468,Singapore (SIN),Scoot A20N (9V-TNA),Landed 17:20,2021-06-12
+61,61,17:40,MH2593,Miri (MYY),Malaysia Airlines (Oneworld Livery) B738 (9M-MXC),Landed 17:34,2021-06-12
+62,62,17:45,JL723,Tokyo (NRT),Japan Airlines B789 (JA865J),Landed 17:08,2021-06-12
+63,63,18:10 MH1455,,Langkawi (LGK),Malaysia Airlines 738,Canceled,2021-06-12
+64,64,18:20 MH183,,Chennai (MAA),Malaysia Airlines 333,Canceled,2021-06-12
+65,65,18:55,MH1397,Kota Bharu (KBR),Malaysia Airlines 738,Unknown,2021-06-12
+66,66,19:05,MH2517,Kuching (KCH),Malaysia Airlines B738 (9M-MLO),Landed 18:27,2021-06-12
+67,67,19:30,MH2607,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MLR),Landed 19:15,2021-06-12
+68,68,19:45,SQ126,Singapore (SIN),Singapore Airlines (Star Alliance livery) B77W (9V-SWI),Landed 19:22,2021-06-12
+69,69,19:50 MH6071,,Manila (MNL),MASkargo A332 (9M-MUA),Landed 20:05,2021-06-12
+70,70,20:00 AK5645,,Miri (MYY),AirAsia A320 (9M-AGZ),Landed 20:11,2021-06-12
+71,71,20:00 OD349,,Jakarta (CGK),Malindo Air 738,Unknown,2021-06-12
+72,72,20:05 MH1058,,Johor Bahru (JHB),Malaysia Airlines 738,Canceled,2021-06-12
+73,73,20:15,MH2645,Kota Kinabalu (BKI),Malaysia Airlines 738,Canceled,2021-06-12
+74,74,20:20 MH1155,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-12
+75,75,20:30,MH2711,Kota Kinabalu (BKI),Malaysia Airlines 738,Unknown,2021-06-12
+76,76,21:05 MH173,,Delhi (DEL),Malaysia Airlines 333,Canceled,2021-06-12
+77,77,21:30,MH722,Jakarta (CGK),Malaysia Airlines A333 (9M-MTL),Landed 21:14,2021-06-12
+78,78,21:55,MH2631,Kota Kinabalu (BKI),Malaysia Airlines 738,Unknown,2021-06-12
+79,79,22:30,MH767,Ho Chi Minh City (SGN),Malaysia Airlines A333 (9M-MTD),Landed 21:57,2021-06-12
+80,80,22:45,MH124,Perth (PER),Malaysia Airlines 738,Canceled,2021-06-12
+81,81,23:00,WY815,Bangkok (BKK),Oman Air 330,Unknown,2021-06-12
+82,82,23:08 NH815,,Tokyo (NRT),All Nippon Airways (Star Alliance Livery) B789 (JA899A),Landed 23:09,2021-06-12
+0,0,00:00 CV7855,,Singapore (SIN),Cargolux 74F,Unknown,2021-06-13
+1,1,00:05 EK449,,Auckland (AKL),Emirates B77W (A6-ECR),Landed 00:29,2021-06-13
+2,2,01:00 BG86,,Dhaka (DAC),Biman Bangladesh Airlines 738,Unknown,2021-06-13
+3,3,01:35 MH6477,,Chennai (MAA),Malaysia Airlines 33X,Unknown,2021-06-13
+4,4,02:31 HX2747,,Hong Kong (HKG),Hong Kong Airlines A333 (B-LNM),Landed 02:31,2021-06-13
+5,5,03:05 MH6171,,Shanghai (PVG),MASkargo A332 (9M-MUD),Landed 03:19,2021-06-13
+6,6,04:25 CI5854,,Jakarta (CGK),China Airlines Cargo B744 (B-18717),Landed 05:56,2021-06-13
+7,7,04:45 MH6063,,Bangkok (BKK),Malaysia Airlines 33X,Unknown,2021-06-13
+8,8,05:00 YG9029,,Tianjin (TSN),YTO Cargo Airlines 73F,Unknown,2021-06-13
+9,9,05:45 IX622,,Chennai (MAA),Air India Express (Garba-Bihu Dance Livery) B738 (VT-AXU),Landed 05:22,2021-06-13
+10,10,05:50 YG9137,,Kunming (KMG),YTO Cargo Airlines 73F,Unknown,2021-06-13
+11,11,06:00 MH128,,Melbourne (MEL),Malaysia Airlines A333 (9M-MTH),Landed 05:59,2021-06-13
+12,12,06:00 YG9051,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2830),Landed 16:00,2021-06-13
+13,13,06:30 MH181,,Chennai (MAA),Malaysia Airlines 333,Canceled,2021-06-13
+14,14,06:40 MH105,,Bengaluru (BLR),Malaysia Airlines 333,Canceled,2021-06-13
+15,15,07:20 MH6103,,Hong Kong (HKG),Malaysia Airlines 33X,Unknown,2021-06-13
+16,16,08:05 CV7946,,Singapore (SIN),Cargolux B748 (LX-VCE),Landed 08:08,2021-06-13
+17,17,08:10,QR844,Doha (DOH),Qatar Airways A359 (A7-ALI),Landed 08:00,2021-06-13
+18,18,09:00 O37228,,Shenzhen (SZX),SF Airlines B752 (B-1145),Landed 15:02,2021-06-13
+19,19,09:15 QZ124,,Medan (KNO),Indonesia AirAsia 320,Unknown,2021-06-13
+20,20,09:30,SQ106,Singapore (SIN),Singapore Airlines B738 (9V-MGD),Landed 09:28,2021-06-13
+21,21,09:40 QZ320,,Surabaya (SUB),AirAsia A320 (PK-AZG),Landed 09:25,2021-06-13
+22,22,10:40 3K663,,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 10:08,2021-06-13
+23,23,11:00 SG7805,,Chennai (MAA),SpiceXpress B738 (VT-SFG),Canceled,2021-06-13
+24,24,11:10 MH6171,,Shanghai (PVG),Malaysia Airlines 33X,Unknown,2021-06-13
+25,25,11:45 LD8571,,Hong Kong (HKG),DHL A306 (B-LDF),Landed 11:16,2021-06-13
+26,26,11:50 GA820,,Jakarta (CGK),Garuda Indonesia (PK-GNN using the same modes.) AT76 (PK-GAF),Unknown,2021-06-13
+27,27,12:10 MH1052,,Johor Bahru (JHB),Malaysia Airlines 738,Canceled,2021-06-13
+28,28,12:15 TG415,,Bangkok (BKK),Thai Airways A359 (HS-THN),Landed 11:29,2021-06-13
+29,29,12:35 EY418,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BNA),Landed 12:28,2021-06-13
+30,30,13:25 CI721,,Taipei (TPE),China Airlines B77W (B-18001),Landed 12:54,2021-06-13
+31,31,13:50 MH2661,,Tawau (TWU),Malaysia Airlines (40 Years Retro Livery) B738 (9M-MXA),Landed 13:39,2021-06-13
+32,32,14:05 JX725,,Taipei (TPE),STARLUX A21N (B-58202),Landed 13:30,2021-06-13
+33,33,14:20,MH2609,Labuan (LBU),Malaysia Airlines B738 (9M-MXO),Landed 14:45,2021-06-13
+34,34,14:30,MH2575,Miri (MYY),Malaysia Airlines B738 (9M-MXJ),Landed 15:28,2021-06-13
+35,35,14:50,QR848,Doha (DOH),Qatar Airways (FIFA World Cup 2022 Livery) B77W (A7-BAX),Landed 14:27,2021-06-13
+36,36,14:50,FM885,Shanghai (PVG),Shanghai Airlines B738 (B-1968),Landed 14:20,2021-06-13
+37,37,15:05 MH6206,,Sydney (SYD),Malaysia Airlines 33X,Unknown,2021-06-13
+38,38,15:10 AK553,,Vientiane (VTE),AirAsia A320 (9M-AGZ),Landed 14:32,2021-06-13
+39,39,15:45 AK5207,,Kuching (KCH),AirAsia A20N (9M-RAR),Landed 14:55,2021-06-13
+40,40,16:20,MH138,Adelaide (ADL),Malaysia Airlines 333,Canceled,2021-06-13
+41,41,16:25 MH144,,Auckland (AKL),Malaysia Airlines A333 (9M-MTA),Landed 16:39,2021-06-13
+42,42,16:30,MH1437,Langkawi (LGK),Malaysia Airlines 738,Canceled,2021-06-13
+43,43,16:40 MH6241,,Chennai (MAA),MASkargo A332 (9M-MUD),Landed 16:11,2021-06-13
+44,44,16:40 CX725,,Hong Kong (HKG),Cathay Pacific 333,Unknown,2021-06-13
+45,45,17:05 AK583,,Manila (MNL),AirAsia A20N (9M-AGH),Landed 16:35,2021-06-13
+46,46,17:15,H9890,Kathmandu (KTM),Himalaya Airlines 320,Unknown,2021-06-13
+47,47,17:20,MH71,Tokyo (NRT),Malaysia Airlines (Oneworld Livery) A333 (9M-MTO),Landed 16:58,2021-06-13
+48,48,17:45,ET618,Bangkok (BKK),Ethiopian Airlines B788 (ET-AOS),Landed 17:06,2021-06-13
+49,49,18:20,KL839,Singapore (SIN),KLM B789 (PH-BHH),Landed 18:06,2021-06-13
+50,50,18:35 AK5137,,Kota Kinabalu (BKI),AirAsia 320,Unknown,2021-06-13
+51,51,18:55,MH1397,Kota Bharu (KBR),Malaysia Airlines 738,Canceled,2021-06-13
+52,52,19:05,MH2517,Kuching (KCH),Malaysia Airlines B738 (9M-MXI),Landed 18:31,2021-06-13
+53,53,19:20 AK5749,,Tawau (TWU),AirAsia (Save our Malayan Tiger Livery) A320 (9M-AQZ),Landed 18:57,2021-06-13
+54,54,19:20 CV7957,,Hong Kong (HKG),Cargolux B748 (LX-VCE),Landed 08:26,2021-06-13
+55,55,19:30,MH2607,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MXK),Landed 19:15,2021-06-13
+56,56,19:45 EK448,,Dubai (DXB),Emirates B77W (A6-ECF),Landed 19:35,2021-06-13
+57,57,19:45,SQ126,Singapore (SIN),Singapore Airlines (Star Alliance livery) B77W (9V-SWI),Landed 19:31,2021-06-13
+58,58,20:00 OD349,,Jakarta (CGK),Malindo Air 738,Unknown,2021-06-13
+59,59,20:05 RH327,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNZ),Landed 19:23,2021-06-13
+60,60,20:20,KE671,Seoul (ICN),Korean Air A333 (HL8001),Landed 19:18,2021-06-13
+61,61,20:30 7L673,,Baku (GYD),Silk Way West Airlines 74Y,Unknown,2021-06-13
+62,62,20:30,MH2711,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MXE),Landed 19:59,2021-06-13
+63,63,20:35,TR466,Singapore (SIN),Scoot A20N (9V-TNE),Landed 20:13,2021-06-13
+64,64,20:40,3K687,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 19:56,2021-06-13
+65,65,20:50 MH6245,,Mumbai (BOM),MASkargo A332 (9M-MUB),Landed 20:47,2021-06-13
+66,66,21:00 MH389,,Shanghai (PVG),Malaysia Airlines 333,Canceled,2021-06-13
+67,67,21:00 MH6107,,Hong Kong (HKG),MASkargo A332 (9M-MUA),Landed 20:22,2021-06-13
+68,68,21:05 MH173,,Delhi (DEL),Malaysia Airlines 333,Canceled,2021-06-13
+69,69,21:30,MH722,Jakarta (CGK),Malaysia Airlines A333 (9M-MTL),Landed 21:26,2021-06-13
+70,70,22:35,MH2647,Kota Kinabalu (BKI),Malaysia Airlines 738,Canceled,2021-06-13
+71,71,23:55,NH815,Tokyo (NRT),All Nippon Airways B789 (JA922A),Landed 23:11,2021-06-13
+0,0,01:00 BG86,,Dhaka (DAC),Biman Bangladesh Airlines 738,Unknown,2021-06-14
+1,1,02:00 BS317,,Dhaka (DAC),US-Bangla Airlines 73H,Unknown,2021-06-14
+2,2,05:00 YG9029,,Tianjin (TSN),YTO Cargo Airlines 73F,Unknown,2021-06-14
+3,3,06:00 MH128,,Melbourne (MEL),Malaysia Airlines A333 (9M-MTD),Landed 05:38,2021-06-14
+4,4,06:55,MH191,Delhi (DEL),Malaysia Airlines A333 (9M-MTH),Landed 06:29,2021-06-14
+5,5,07:15,MH3,London (LHR),Malaysia Airlines A359 (9M-MAE),Landed 06:04,2021-06-14
+6,6,07:20,MH193,Bengaluru (BLR),Malaysia Airlines (Oneworld Livery) A333 (9M-MTO),Landed 07:05,2021-06-14
+7,7,08:10,QR844,Doha (DOH),Qatar Airways A359 (A7-ALQ),Landed 08:05,2021-06-14
+8,8,08:10,3K683,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 07:49,2021-06-14
+9,9,08:20 MH6179,,Guangzhou (CAN),MASkargo A332 (9M-MUD),Landed 08:53,2021-06-14
+10,10,09:15 QZ124,,Medan (KNO),AirAsia A320 (PK-AZM),Landed 09:19,2021-06-14
+11,11,09:30,SQ106,Singapore (SIN),Singapore Airlines (Star Alliance livery) B77W (9V-SWI),Landed 09:15,2021-06-14
+12,12,09:40 QZ320,,Surabaya (SUB),Indonesia AirAsia 320,Unknown,2021-06-14
+13,13,10:00 W583,,Tehran (IKA),Mahan Air 343,Unknown,2021-06-14
+14,14,12:00 SV842,,Jeddah (JED),Saudia B78X (HZ-AR25),Landed 12:10,2021-06-14
+15,15,12:40 CI6882,,Penang (PEN),China Airlines 74Y,Unknown,2021-06-14
+16,16,13:00 O37174,,Zhengzhou (CGO),SF Airlines 73F,Unknown,2021-06-14
+17,17,13:25,CI721,Taipei (TPE),China Airlines B77W (B-18051),Landed 12:40,2021-06-14
+18,18,13:35 MF847,,Xiamen (XMN),Xiamen Air B738 (B-5161),Landed 13:11,2021-06-14
+19,19,14:00 8M5001,,Yangon (RGN),Myanmar Airways International A320 (XY-ALL),Landed 13:52,2021-06-14
+20,20,14:15 OD1605,,Kuching (KCH),Malindo Air B738 (9M-LCR),Landed 13:39,2021-06-14
+21,21,14:30,MH2621,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MSE),Landed 14:17,2021-06-14
+22,22,14:50,QR848,Doha (DOH),Qatar Airways B77W (A7-BET),Landed 14:21,2021-06-14
+23,23,15:00 IX626,,Tiruchirapalli (TRZ),Air India Express (Mehrangarh Fort-Mysore Livery) B738 (VT-AXM),Landed 15:09,2021-06-14
+24,24,17:15,H9890,Kathmandu (KTM),Himalaya Airlines 320,Unknown,2021-06-14
+25,25,17:20,MH71,Tokyo (NRT),Malaysia Airlines A333 (9M-MTN),Landed 16:45,2021-06-14
+26,26,19:30,MH2607,Kota Kinabalu (BKI),Malaysia Airlines 738,Canceled,2021-06-14
+27,27,19:45 EK448,,Dubai (DXB),Emirates B77W (A6-EBR),Landed 19:22,2021-06-14
+28,28,19:45,SQ126,Singapore (SIN),Singapore Airlines B738 (9V-MGA),Landed 19:25,2021-06-14
+29,29,20:00 OD349,,Jakarta (CGK),Malindo Air 738,Unknown,2021-06-14
+30,30,20:05 MH377,,Guangzhou (CAN),Malaysia Airlines B738 (9M-MXQ),Landed 19:48,2021-06-14
+31,31,20:35,TR466,Singapore (SIN),Scoot A20N (9V-TNA),Landed 20:08,2021-06-14
+32,32,21:50 AK5131,,Kota Kinabalu (BKI),AirAsia A320 (9M-AGZ),Landed 21:34,2021-06-14
+33,33,22:59,NH815,Tokyo (NRT),All Nippon Airways B789 (JA894A),Landed 22:59,2021-06-14
+0,0,00:05 EK449,,Auckland (AKL),Emirates B77W (A6-ECF),Landed 23:53,2021-06-15
+1,1,00:05 OD8346,,Manado (MDC),Malindo Air B739 (9M-LNL),Landed 00:03,2021-06-15
+2,2,01:00 BG86,,Dhaka (DAC),Biman Bangladesh Airlines 738,Unknown,2021-06-15
+3,3,01:40 MH6429,,General Santos (GES),Malaysia Airlines 33X,Unknown,2021-06-15
+4,4,02:45 MH6204,,Sydney (SYD),MASkargo A332 (9M-MUB),Landed 02:57,2021-06-15
+5,5,02:55,MH89,Tokyo (NRT),Malaysia Airlines A333 (9M-MTJ),Landed 02:22,2021-06-15
+6,6,03:00 MH6163,,Shanghai (PVG),MASkargo A332 (9M-MUD),Landed 02:11,2021-06-15
+7,7,03:25 MH6429,,Brunei (BWN),Malaysia Airlines 33X,Unknown,2021-06-15
+8,8,03:30 MH6424,,Adelaide (ADL),Malaysia Airlines 33X,Unknown,2021-06-15
+9,9,03:35 MH6422,,Perth (PER),Malaysia Airlines 33X,Unknown,2021-06-15
+10,10,04:50 D7221,,Sydney (SYD),AirAsia X (AirAsia X Turns 9 Livery) A333 (9M-XXA),Landed 04:56,2021-06-15
+11,11,05:00 YG9029,,Tianjin (TSN),YTO Cargo Airlines 73F,Unknown,2021-06-15
+12,12,05:50 YG9137,,Kunming (KMG),YTO Cargo Airlines 73F,Unknown,2021-06-15
+13,13,05:50 YG9109,,Shenzhen (SZX),YTO Cargo Airlines 73F,Unknown,2021-06-15
+14,14,06:00 YG9051,,Hangzhou (HGH),YTO Cargo Airlines B752 (B-2830),Landed 15:51,2021-06-15
+15,15,06:00 YG9115,,Nanning (NNG),YTO Cargo Airlines 73F,Unknown,2021-06-15
+16,16,06:15 MH6422,,Perth (PER),Malaysia Airlines 33X,Unknown,2021-06-15
+17,17,07:15 OD613,,Guangzhou (CAN),Malindo Air B739 (9M-LNK),Unknown,2021-06-15
+18,18,08:10,QR844,Doha (DOH),Qatar Airways A359 (A7-ALP),Landed 08:11,2021-06-15
+19,19,09:00 O37228,,Shenzhen (SZX),SF Airlines B752 (B-20CX),Landed 17:18,2021-06-15
+20,20,09:15 MH6127,,Dubai (DWC),MASkargo A332 (9M-MUA),Landed 09:40,2021-06-15
+21,21,09:30,SQ106,Singapore (SIN),Singapore Airlines (Star Alliance livery) B77W (9V-SWI),Landed 09:06,2021-06-15
+22,22,11:55 MH6015,,Kuching (KCH),Malaysia Airlines 33X,Unknown,2021-06-15
+23,23,12:10 CZ349,,Guangzhou (CAN),China Southern Airlines B789 (B-1297),Landed 11:39,2021-06-15
+24,24,12:35,EY418,Abu Dhabi (AUH),Etihad (ADNOC - Choose Thailand Livery) B789 (A6-BLJ),Landed 12:25,2021-06-15
+25,25,12:45 AK5747,,Tawau (TWU),AirAsia 320,Unknown,2021-06-15
+26,26,13:00 O37174,,Zhengzhou (CGO),SF Airlines 73F,Unknown,2021-06-15
+27,27,13:25,CI721,Taipei (TPE),China Airlines (SkyTeam Livery) A333 (B-18311),Landed 13:07,2021-06-15
+28,28,14:25,EK346,Dubai (DXB),Emirates B77W (A6-EGQ),Landed 14:11,2021-06-15
+29,29,14:30,MH2621,Kota Kinabalu (BKI),Malaysia Airlines B738 (9M-MLM),Landed 14:21,2021-06-15
+30,30,14:50,QR848,Doha (DOH),Qatar Airways B77W (A7-BAT),Landed 14:31,2021-06-15
+31,31,15:30 BA33,,London (LHR),British Airways B789 (G-ZBKC),Landed 15:14,2021-06-15
+32,32,15:50 AK6439,,Kota Bharu (KBR),AirAsia 320,Unknown,2021-06-15
+33,33,16:25 MH144,,Auckland (AKL),Malaysia Airlines (Oneworld Livery) A333 (9M-MTE),Landed 17:27,2021-06-15
+34,34,16:30 MH6471,,Manila (MNL),Malaysia Airlines 33X,Unknown,2021-06-15
+35,35,16:40 CX725,,Hong Kong (HKG),Cathay Pacific A333 (B-LBA),Landed 16:06,2021-06-15
+36,36,17:05,TK60,Istanbul (IST),Turkish Airlines B77W (TC-JJI),Landed 16:24,2021-06-15
+37,37,17:15,H9890,Kathmandu (KTM),Himalaya Airlines 320,Unknown,2021-06-15
+38,38,17:30 QZ330,,Surabaya (SUB),AirAsia A320 (PK-AXY),Landed 17:12,2021-06-15
+39,39,17:45,JL723,Tokyo (NRT),Japan Airlines B789 (JA872J),Landed 17:14,2021-06-15
+40,40,18:20,KL839,Singapore (SIN),KLM B789 (PH-BHI),Landed 17:58,2021-06-15
+41,41,18:35 AK5137,,Kota Kinabalu (BKI),AirAsia 320,Unknown,2021-06-15
+42,42,18:55,MH1397,Kota Bharu (KBR),Malaysia Airlines 738,Canceled,2021-06-15
+43,43,19:05,MH2517,Kuching (KCH),Malaysia Airlines B738 (9M-MXT),Landed 18:45,2021-06-15
+44,44,19:30,MH2607,Kota Kinabalu (BKI),Malaysia Airlines 738,Canceled,2021-06-15
+45,45,19:40 MH6117,,Hong Kong (HKG),MASkargo A332 (9M-MUD),Landed 19:51,2021-06-15
+46,46,19:45 EK448,,Dubai (DXB),Emirates B77W (A6-ECR),Landed 19:22,2021-06-15
+47,47,19:45,SQ126,Singapore (SIN),Singapore Airlines B738 (9V-MGD),Landed 19:13,2021-06-15
+48,48,19:55 MH6115,,Hong Kong (HKG),Malaysia Airlines 33X,Unknown,2021-06-15
+49,49,20:00 OD349,,Jakarta (CGK),Malindo Air B738 (9M-LCR),Landed 20:02,2021-06-15
+50,50,20:35,TR466,Singapore (SIN),Scoot A20N (9V-TNE),Landed 19:55,2021-06-15
+51,51,20:40,3K687,Singapore (SIN),Jetstar Airways A320 (9V-JSU),Landed 20:23,2021-06-15
+52,52,21:05 MH175,,Mumbai (BOM),Malaysia Airlines 333,Canceled,2021-06-15
+53,53,21:30,MH722,Jakarta (CGK),Malaysia Airlines A333 (9M-MTH),Landed 21:10,2021-06-15
+54,54,21:50 AK5131,,Kota Kinabalu (BKI),AirAsia 320,Unknown,2021-06-15
+55,55,21:55 KE671,,Seoul (ICN),Korean Air 333,Canceled,2021-06-15
+56,56,22:30,MH767,Ho Chi Minh City (SGN),Malaysia Airlines (Oneworld Livery) A333 (9M-MTO),Landed 22:05,2021-06-15
+57,57,22:30 MH1165,,Penang (PEN),Malaysia Airlines 738,Canceled,2021-06-15
+58,58,22:35 OD8346,,Manado (MDC),Malindo Air B738 (9M-LNP),Landed 22:44,2021-06-15
+59,59,23:55,NH815,Tokyo (NRT),All Nippon Airways B789 (JA898A),Landed 23:35,2021-06-15

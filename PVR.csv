@@ -1,0 +1,408 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,08:50,AM328,Mexico City (MEX),Aeromexico Connect E190 (XA-AEE),Landed 08:31,2021-06-08
+1,1,10:40 VW120,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 10:24,2021-06-08
+2,2,10:54,AM330,Mexico City (MEX),Aeromexico Connect E190 (XA-GAE),Landed 10:38,2021-06-08
+3,3,11:29,AA353,Dallas (DFW),American Airlines A21N (N408AN),Landed 11:34,2021-06-08
+4,4,12:07,AM332,Mexico City (MEX),Aeromexico B738 (XA-AMS),Landed 11:56,2021-06-08
+5,5,12:20 VB4342,,Monterrey (MTY),VivaAerobus A21N (XA-VBA),Landed 12:12,2021-06-08
+6,6,12:41 AA554,,Phoenix (PHX),American Airlines A21N (N428AA),Landed 12:21,2021-06-08
+7,7,12:41,DL1941,Atlanta (ATL),Delta Air Lines B739 (N874DN),Landed 12:24,2021-06-08
+8,8,12:50,UA1622,Houston (IAH),United Airlines A320 (N406UA),Landed 12:53,2021-06-08
+9,9,13:10 WN514,,Denver (DEN),Southwest Airlines B737 (N7844A),Landed 13:06,2021-06-08
+10,10,13:17,AA1215,Dallas (DFW),American Airlines B738 (N854NN),Landed 13:02,2021-06-08
+11,11,13:25 UA1686,,Chicago (ORD),United Airlines A320 (N459UA),Landed 15:16,2021-06-08
+12,12,13:30 WN108,,Houston (HOU),Southwest Airlines B737 (N7863A),Landed 13:37,2021-06-08
+13,13,13:33,Y4784,Mexico City (MEX),Volaris A20N (N528VL),Landed 13:24,2021-06-08
+14,14,13:35 VB1166,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 13:18,2021-06-08
+15,15,13:45,AM334,Mexico City (MEX),Aeromexico B738 (N845AM),Landed 13:59,2021-06-08
+16,16,13:50 WN763,,Santa Ana (SNA),Southwest Airlines B737 (N7704B),Landed 14:34,2021-06-08
+17,17,14:13,UA2257,Denver (DEN),United Airlines A320 (N421UA),Landed 14:11,2021-06-08
+18,18,14:31,UA1212,San Francisco (SFO),United Airlines A320 (N473UA),Landed 14:07,2021-06-08
+19,19,14:35 VW122,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 14:24,2021-06-08
+20,20,14:50,AS220,Los Angeles (LAX),Alaska Airlines B738 (N597AS),Landed 14:47,2021-06-08
+21,21,14:53,DL1921,Seattle (SEA),Delta Air Lines B738 (N3738B),Landed 14:27,2021-06-08
+22,22,14:55 UA319,,Los Angeles (LAX),United Airlines A320 (N468UA),Landed 14:31,2021-06-08
+23,23,15:00 WN1298,,Phoenix (PHX),Southwest Airlines B737 (N227WN),Landed 14:37,2021-06-08
+24,24,15:05 YQ461,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-08
+25,25,15:27,AA919,Dallas (DFW),American Airlines A321 (N931AM),Landed 15:20,2021-06-08
+26,26,15:33,UA1584,Denver (DEN),United Airlines A320 (N417UA),Landed 15:13,2021-06-08
+27,27,15:34,DL1865,Los Angeles (LAX),Delta Air Lines B738 (N377DE),Landed 15:09,2021-06-08
+28,28,15:48,DL1948,Salt Lake City (SLC),Delta Air Lines B738 (N3772H),Landed 15:35,2021-06-08
+29,29,16:00 AS206,,Seattle (SEA),Alaska Airlines B739 (N491AS),Landed 16:05,2021-06-08
+30,30,16:24,,Boise (BOI),- CL35 (N762QS),Canceled,2021-06-08
+31,31,17:02,UA304,Houston (IAH),United Airlines A320 (N402UA),Landed 20:12,2021-06-08
+32,32,17:18,AS1272,San Francisco (SFO),Alaska Airlines A320 (N855VA),Landed 16:59,2021-06-08
+33,33,17:28,AA1530,Dallas (DFW),American Airlines A319 (N765US),Landed 17:38,2021-06-08
+34,34,17:35 VW124,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 17:31,2021-06-08
+35,35,17:40,AM338,Mexico City (MEX),Aeromexico Connect E190 (XA-GAG),Landed 17:25,2021-06-08
+36,36,17:45 YQ445,,Aguascalientes (AGU),TAR Aerolineas ERJ,Unknown,2021-06-08
+37,37,17:50 UA2218,,Los Angeles (LAX),United Airlines A320 (N470UA),Landed 17:27,2021-06-08
+38,38,17:55 VB1168,,Mexico City (MEX),VivaAerobus A320,Landed 17:35,2021-06-08
+39,39,17:58 Y4550,,Tijuana (TIJ),Volaris A320 (XA-VLC),Landed 17:53,2021-06-08
+40,40,18:48,Y4786,Mexico City (MEX),Volaris A320 (N519VL),Landed 18:55,2021-06-08
+41,41,19:59,,Santa Ana (SNA),- (N925JB),Canceled,2021-06-08
+42,42,22:57,AM340,Mexico City (MEX),Aeromexico Connect E190 (XA-DAC),Landed 23:36,2021-06-08
+0,0,8:50 AM,AM328,Mexico City (MEX),Aeromexico Connect E190 (XA-AEL),Landed 8:29 AM,2021-06-09
+1,1,10:40 AM VW120,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 10:23 AM,2021-06-09
+2,2,10:54 AM,AM330,Mexico City (MEX),Aeromexico Connect E190 (XA-ACI),Landed 12:28 PM,2021-06-09
+3,3,11:29 AM,AA353,Dallas (DFW),American Airlines A321 (N907AA),Landed 11:30 AM,2021-06-09
+4,4,11:35 AM YQ445,,Aguascalientes (AGU),TAR Aerolineas E145 (XA-AFH),Landed 6:53 PM,2021-06-09
+5,5,12:07 PM,AM332,Mexico City (MEX),Aeromexico B738 (XA-AME),Landed 12:06 PM,2021-06-09
+6,6,12:20 PM VB4342,,Monterrey (MTY),VivaAerobus A21N (XA-VBH),Landed 12:20 PM,2021-06-09
+7,7,12:41 PM AA554,,Phoenix (PHX),American Airlines A321 (N521UW),Landed 12:31 PM,2021-06-09
+8,8,12:41 PM,DL1941,Atlanta (ATL),Delta Air Lines B739 (N852DN),Landed 12:23 PM,2021-06-09
+9,9,12:50 PM,UA1622,Houston (IAH),United Airlines A320 (N419UA),Landed 12:27 PM,2021-06-09
+10,10,1:10 PM WN514,,Denver (DEN),Southwest Airlines B737 (N717SA),Landed 12:53 PM,2021-06-09
+11,11,1:17 PM,AA1215,Dallas (DFW),American Airlines B738 (N980NN),Landed 1:08 PM,2021-06-09
+12,12,1:25 PM UA1686,,Chicago (ORD),United Airlines A320 (N403UA),Landed 12:35 PM,2021-06-09
+13,13,1:30 PM WN108,,Houston (HOU),Southwest Airlines B737 (N7715E),Landed 1:12 PM,2021-06-09
+14,14,1:33 PM,Y4784,Mexico City (MEX),Volaris A320 (XA-VRA),Landed 1:08 PM,2021-06-09
+15,15,1:35 PM VB1166,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 1:14 PM,2021-06-09
+16,16,1:50 PM,AM334,Mexico City (MEX),Aeromexico B738 (XA-AMN),Landed 2:40 PM,2021-06-09
+17,17,1:50 PM WN763,,Santa Ana (SNA),Southwest Airlines B737 (N227WN),Landed 1:30 PM,2021-06-09
+18,18,2:10 PM YQ432,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-09
+19,19,2:13 PM,UA2257,Denver (DEN),United Airlines A320 (N459UA),Landed 2:02 PM,2021-06-09
+20,20,2:31 PM,UA1212,San Francisco (SFO),United Airlines A320 (N469UA),Landed 2:20 PM,2021-06-09
+21,21,2:35 PM VW122,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 2:08 PM,2021-06-09
+22,22,2:50 PM,AS220,Los Angeles (LAX),Alaska Airlines A320 (N839VA),Landed 2:42 PM,2021-06-09
+23,23,2:53 PM,DL1921,Seattle (SEA),Delta Air Lines B738 (N389DA),Landed 2:35 PM,2021-06-09
+24,24,2:55 PM UA319,,Los Angeles (LAX),United Airlines A320 (N452UA),Landed 2:44 PM,2021-06-09
+25,25,3:00 PM WN1298,,Phoenix (PHX),Southwest Airlines B737 (N7832A),Landed 2:31 PM,2021-06-09
+26,26,3:10 PM AS276,,San Diego (SAN),Alaska Airlines B738 (N516AS),Landed 2:54 PM,2021-06-09
+27,27,3:27 PM,AA919,Dallas (DFW),American Airlines A321 (N127AA),Landed 5:24 PM,2021-06-09
+28,28,3:33 PM,UA1584,Denver (DEN),United Airlines A320 (N423UA),Landed 3:07 PM,2021-06-09
+29,29,3:34 PM,DL1865,Los Angeles (LAX),Delta Air Lines B738 (N3768),Landed 3:12 PM,2021-06-09
+30,30,3:48 PM,DL1948,Salt Lake City (SLC),Delta Air Lines B738 (N385DN),Landed 3:29 PM,2021-06-09
+31,31,4:20 PM VB5086,,Tijuana (TIJ),VivaAerobus A20N (XA-VIJ),Landed 4:02 PM,2021-06-09
+32,32,5:02 PM,UA304,Houston (IAH),United Airlines A320 (N494UA),Landed 4:35 PM,2021-06-09
+33,33,5:18 PM,AS1272,San Francisco (SFO),Alaska Airlines A320 (N842VA),Landed 5:07 PM,2021-06-09
+34,34,5:25 PM VB1168,,Mexico City (MEX),VivaAerobus A20N (XA-VIU),Landed 5:02 PM,2021-06-09
+35,35,5:28 PM,AA1530,Dallas (DFW),American Airlines (America West Heritage Livery) A319 (N838AW),Landed 5:33 PM,2021-06-09
+36,36,5:35 PM VW124,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 5:21 PM,2021-06-09
+37,37,5:40 PM,AM338,Mexico City (MEX),Aeromexico Connect E190 (XA-HAC),Landed 5:45 PM,2021-06-09
+38,38,5:50 PM UA2218,,Los Angeles (LAX),United Airlines A320 (N402UA),Landed 8:31 PM,2021-06-09
+39,39,5:58 PM Y4550,,Tijuana (TIJ),Volaris A20N (N538VL),Landed 5:54 PM,2021-06-09
+40,40,6:48 PM,Y4786,Mexico City (MEX),Volaris A20N (N541VL),Landed 6:57 PM,2021-06-09
+41,41,10:39 PM,,Las Vegas (LAS),- C68A (N501QS),Canceled,2021-06-09
+42,42,10:57 PM,AM340,Mexico City (MEX),Aeromexico B738 (XA-AMV),Landed 10:48 PM,2021-06-09
+0,0,08:09,Y4246,Silao (BJX),Volaris A320 (XA-VLQ),Landed 07:47,2021-06-10
+1,1,08:50,AM328,Mexico City (MEX),Aeromexico B738 (XA-ZAM),Landed 08:32,2021-06-10
+2,2,09:30 VW120,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 09:12,2021-06-10
+3,3,10:54,AM330,Mexico City (MEX),Aeromexico B738 (XA-AMV),Landed 10:45,2021-06-10
+4,4,11:19,,El Paso (ELP),- LJ60 (N662AR),Unknown,2021-06-10
+5,5,11:29,AA353,Dallas (DFW),American Airlines A321 (N127AA),Landed 11:14,2021-06-10
+6,6,11:45 VB3232,,Guadalajara (GDL),VivaAerobus A320 (XA-VAY),Landed 11:20,2021-06-10
+7,7,12:07,AM332,Mexico City (MEX),Aeromexico B738 (N958AM),Unknown,2021-06-10
+8,8,12:20 VB4342,,Monterrey (MTY),VivaAerobus A21N (XA-VBH),Landed 12:03,2021-06-10
+9,9,12:25,F960,Las Vegas (LAS),Frontier (Tex the Armadillo Livery) A20N (N364FR),Landed 12:11,2021-06-10
+10,10,12:30 VW122,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 12:36,2021-06-10
+11,11,12:41 AA554,,Phoenix (PHX),American Airlines A21N (N419AN),Unknown,2021-06-10
+12,12,12:41,DL1941,Atlanta (ATL),Delta Air Lines B739 (N921DU),Landed 12:27,2021-06-10
+13,13,12:50,UA1622,Houston (IAH),United Airlines A320 (N410UA),Landed 12:23,2021-06-10
+14,14,13:10 WN514,,Denver (DEN),Southwest Airlines B737 (N457WN),Landed 13:20,2021-06-10
+15,15,13:15 YQ480,,Chihuahua (CUU),TAR Aerolineas ERJ,Unknown,2021-06-10
+16,16,13:17,AA1215,Dallas (DFW),American Airlines B738 (N305NX),Landed 12:51,2021-06-10
+17,17,13:25 UA1686,,Chicago (ORD),United Airlines A320 (N457UA),Landed 12:32,2021-06-10
+18,18,13:30 WN108,,Houston (HOU),Southwest Airlines B737 (N229WN),Landed 13:17,2021-06-10
+19,19,13:33,Y4784,Mexico City (MEX),Volaris A321 (XA-VLT),Landed 13:23,2021-06-10
+20,20,13:35 VB1166,,Mexico City (MEX),VivaAerobus A21N (XA-VBA),Landed 13:14,2021-06-10
+21,21,13:40 VW873,,Guadalajara (GDL),Aeromar AT76 (XA-UZE),Landed 13:39,2021-06-10
+22,22,13:45,AM334,Mexico City (MEX),Aeromexico B738 (XA-ZAM),Landed 13:34,2021-06-10
+23,23,13:50 WN763,,Santa Ana (SNA),Southwest Airlines B737 (N201LV),Landed 13:56,2021-06-10
+24,24,14:13,UA2257,Denver (DEN),United Airlines A320 (N4901U),Landed 14:15,2021-06-10
+25,25,14:31,UA1212,San Francisco (SFO),United Airlines A320 (N494UA),Landed 15:26,2021-06-10
+26,26,14:32,UA306,Houston (IAH),United Airlines A320 (N452UA),Landed 14:31,2021-06-10
+27,27,14:45 YQ461,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-10
+28,28,14:50,AS220,Los Angeles (LAX),Alaska Airlines A320 (N845VA),Landed 15:40,2021-06-10
+29,29,14:53,DL1921,Seattle (SEA),Delta Air Lines B738 (N3736C),Landed 14:11,2021-06-10
+30,30,14:55 UA319,,Los Angeles (LAX),United Airlines A320 (N485UA),Landed 14:45,2021-06-10
+31,31,15:00 WN1298,,Phoenix (PHX),Southwest Airlines B737 (N273WN),Landed 15:16,2021-06-10
+32,32,15:27,AA919,Dallas (DFW),American Airlines A321 (N149AN),Landed 15:48,2021-06-10
+33,33,15:30 VW124,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 15:36,2021-06-10
+34,34,15:30 EDG131,,Van Nuys (VNY),- GLF4 (N131JE),Landed 15:29,2021-06-10
+35,35,15:33,UA1584,Denver (DEN),United Airlines A320 (N463UA),Landed 15:04,2021-06-10
+36,36,15:34,DL1865,Los Angeles (LAX),Delta Air Lines B738 (N3743H),Landed 15:22,2021-06-10
+37,37,15:48,DL1948,Salt Lake City (SLC),Delta Air Lines B738 (N3757D),Landed 15:32,2021-06-10
+38,38,15:59,AM336,Mexico City (MEX),Aeromexico Connect E190 (XA-GAH),Landed 15:54,2021-06-10
+39,39,16:00 AS206,,Seattle (SEA),Alaska Airlines (UNCF livery) B739 (N492AS),Landed 16:03,2021-06-10
+40,40,16:05 YQ481,,San Luis Potosi (SLP),TAR Aerolineas ERJ,Unknown,2021-06-10
+41,41,16:30,Y4376,Mexico City (MEX),Volaris A20N (XA-VRE),Landed 16:21,2021-06-10
+42,42,17:02,UA304,Houston (IAH),United Airlines A320 (N416UA),Landed 16:39,2021-06-10
+43,43,17:18,AS1272,San Francisco (SFO),Alaska Airlines A320 (N847VA),Landed 17:19,2021-06-10
+44,44,17:28,AA1530,Dallas (DFW),American Airlines A319 (N758US),Landed 19:33,2021-06-10
+45,45,17:28 Y4196,,Monterrey (MTY),Volaris A319 (XA-VOI),Landed 17:33,2021-06-10
+46,46,17:40,AM338,Mexico City (MEX),Aeromexico Connect E190 (XA-ACE),Landed 17:29,2021-06-10
+47,47,17:45 YQ445,,Aguascalientes (AGU),TAR Aerolineas ERJ,Landed 19:14,2021-06-10
+48,48,17:50 UA2218,,Los Angeles (LAX),United Airlines A320 (N429UA),Landed 17:26,2021-06-10
+49,49,17:55 VB1168,,Mexico City (MEX),VivaAerobus A320 (XA-VAP),Landed 18:01,2021-06-10
+50,50,17:58 Y4550,,Tijuana (TIJ),Volaris A320 (N521VL),Unknown,2021-06-10
+51,51,18:30 VW126,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 18:28,2021-06-10
+52,52,18:30 YQ414,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-10
+53,53,18:48,Y4786,Mexico City (MEX),Volaris A320 (N506VL),Landed 19:18,2021-06-10
+54,54,19:30 VB4346,,Monterrey (MTY),VivaAerobus A320 (XA-VAV),Landed 19:29,2021-06-10
+55,55,19:55,Y4366,Queretaro (QRO),Volaris A20N (XA-VRE),Landed 19:39,2021-06-10
+56,56,20:25 Y4552,,Tijuana (TIJ),Volaris A320 (XA-VOZ),Landed 20:33,2021-06-10
+57,57,21:55 VB9156,,Ciudad Juarez (CJS),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 21:33,2021-06-10
+58,58,22:57,AM340,Mexico City (MEX),Aeromexico B738 (XA-AMC),Landed 23:16,2021-06-10
+0,0,08:09,Y4246,Silao (BJX),Volaris A320 (XA-VRA),Landed 07:45,2021-06-11
+1,1,08:50,AM328,Mexico City (MEX),Aeromexico B738 (XA-DRC),Landed 08:44,2021-06-11
+2,2,09:30 VW120,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 09:20,2021-06-11
+3,3,10:09 Y45550,,Tijuana (TIJ),Volaris A320 (N517VL),Landed 09:47,2021-06-11
+4,4,10:54,AM330,Mexico City (MEX),Aeromexico B738 (XA-ADT),Landed 10:49,2021-06-11
+5,5,11:22,,Dallas (DAL),- GLF4 (N403JS),Landed 11:07,2021-06-11
+6,6,11:29,AA353,Dallas (DFW),American Airlines A321 (N167AN),Landed 11:24,2021-06-11
+7,7,11:35 YQ445,,Aguascalientes (AGU),TAR Aerolineas ERJ,Unknown,2021-06-11
+8,8,11:49,,Hayward (HWD),- C750,Unknown,2021-06-11
+9,9,12:07,AM332,Mexico City (MEX),Aeromexico B738 (XA-DRA),Landed 11:50,2021-06-11
+10,10,12:20 VB4342,,Monterrey (MTY),VivaAerobus A21N (XA-VBH),Landed 12:01,2021-06-11
+11,11,12:30 VW122,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 12:30,2021-06-11
+12,12,12:41 AA554,,Phoenix (PHX),American Airlines A21N (N410AN),Landed 12:25,2021-06-11
+13,13,12:41,DL1941,Atlanta (ATL),Delta Air Lines B739 (N894DN),Landed 12:10,2021-06-11
+14,14,12:50,UA1622,Houston (IAH),United Airlines A320 (N1902U),Landed 12:18,2021-06-11
+15,15,13:10 WN514,,Denver (DEN),Southwest Airlines B737 (N278WN),Landed 13:04,2021-06-11
+16,16,13:14 EDG30,,Van Nuys (VNY),- GLF4 (N130JE),Landed 13:08,2021-06-11
+17,17,13:17,AA1215,Dallas (DFW),American Airlines B738 (N987AN),Landed 13:39,2021-06-11
+18,18,13:25 UA1686,,Chicago (ORD),United Airlines A320 (N465UA),Landed 12:28,2021-06-11
+19,19,13:28,,San Diego (SAN),- (N700DU),Landed 14:29,2021-06-11
+20,20,13:30 WN108,,Houston (HOU),Southwest Airlines B737 (N466WN),Landed 13:19,2021-06-11
+21,21,13:33,Y4784,Mexico City (MEX),Volaris A321 (XA-VLW),Landed 13:29,2021-06-11
+22,22,13:35 VB1166,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 13:25,2021-06-11
+23,23,13:45,AM334,Mexico City (MEX),Aeromexico B738 (N958AM),Landed 13:35,2021-06-11
+24,24,13:50 WN763,,Santa Ana (SNA),Southwest Airlines B737 (N724SW),Landed 13:41,2021-06-11
+25,25,14:03 SY533,,Dallas (DFW),Sun Country Airlines B738 (N815SY),Landed 13:54,2021-06-11
+26,26,14:10 YQ432,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-11
+27,27,14:13,UA2257,Denver (DEN),United Airlines A320 (N469UA),Landed 14:02,2021-06-11
+28,28,14:31,UA1212,San Francisco (SFO),United Airlines A320 (N458UA),Landed 14:12,2021-06-11
+29,29,14:50,AS220,Los Angeles (LAX),Alaska Airlines A320 (N848VA),Landed 14:44,2021-06-11
+30,30,14:53,DL1921,Seattle (SEA),Delta Air Lines B738 (N3765),Landed 14:30,2021-06-11
+31,31,14:55 UA319,,Los Angeles (LAX),United Airlines A320 (N468UA),Landed 14:40,2021-06-11
+32,32,15:00 WN1298,,Phoenix (PHX),Southwest Airlines B737 (N464WN),Landed 14:27,2021-06-11
+33,33,15:21 SIS522,,Santa Barbara (SBA),Silver Air CL35,Unknown,2021-06-11
+34,34,15:26,,Tucson (TUS),- C551 (N518MV),Landed 15:12,2021-06-11
+35,35,15:27,AA919,Dallas (DFW),American Airlines A321 (N133AN),Landed 15:19,2021-06-11
+36,36,15:30 VW124,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 15:26,2021-06-11
+37,37,15:33,UA1584,Denver (DEN),United Airlines A320 (N494UA),Landed 15:23,2021-06-11
+38,38,15:34,DL1865,Los Angeles (LAX),Delta Air Lines B738 (N774DE),Landed 15:34,2021-06-11
+39,39,15:48,DL1948,Salt Lake City (SLC),Delta Air Lines B738 (N3743H),Landed 15:30,2021-06-11
+40,40,15:59,AM336,Mexico City (MEX),Aeromexico B738 (N825AM),Landed 16:14,2021-06-11
+41,41,16:20 VB5086,,Tijuana (TIJ),VivaAerobus A20N (XA-VIJ),Landed 16:07,2021-06-11
+42,42,17:02,UA304,Houston (IAH),United Airlines A320 (N443UA),Landed 16:45,2021-06-11
+43,43,17:10 VB3234,,Guadalajara (GDL),VivaAerobus A320 (XA-VAN),Landed 16:53,2021-06-11
+44,44,17:18,AS1272,San Francisco (SFO),Alaska Airlines A320 (N853VA),Landed 17:04,2021-06-11
+45,45,17:28,AA1530,Dallas (DFW),American Airlines A319 (N824AW),Landed 17:34,2021-06-11
+46,46,17:40,AM338,Mexico City (MEX),Aeromexico Connect E190 (XA-GAH),Landed 17:48,2021-06-11
+47,47,17:50 UA2218,,Los Angeles (LAX),United Airlines A320 (N424UA),Landed 17:30,2021-06-11
+48,48,17:55 VB1168,,Mexico City (MEX),VivaAerobus A20N (XA-VIO),Landed 19:26,2021-06-11
+49,49,17:58 Y4550,,Tijuana (TIJ),Volaris A320 (XA-VLD),Landed 17:45,2021-06-11
+50,50,18:30 VW126,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 18:21,2021-06-11
+51,51,18:48,Y4786,Mexico City (MEX),Volaris A21N (N536VL),Landed 18:46,2021-06-11
+52,52,21:50 VB4348,,Monterrey (MTY),VivaAerobus A20N (XA-VIH),Landed 21:34,2021-06-11
+53,53,22:57,AM340,Mexico City (MEX),Aeromexico Connect E190 (XA-ACS),Landed 22:36,2021-06-11
+0,0,8:05 AM VB1164,,Mexico City (MEX),VivaAerobus A320,Unknown,2021-06-12
+1,1,8:09 AM,Y4246,Silao (BJX),Volaris A20N (XA-VRS),Landed 7:56 AM,2021-06-12
+2,2,8:50 AM,AM328,Mexico City (MEX),Aeromexico Connect E190 (XA-AEI),Landed 8:27 AM,2021-06-12
+3,3,9:30 AM VW120,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 9:11 AM,2021-06-12
+4,4,10:09 AM,,Houma (HUM),- C68A (N532QS),Unknown,2021-06-12
+5,5,10:24 AM,,St. Louis (STL),- C68A (N692QS),Unknown,2021-06-12
+6,6,10:39 AM,,Chattanooga (CHA),- C56X (N568QS),Unknown,2021-06-12
+7,7,10:54 AM,AM330,Mexico City (MEX),Aeromexico B738 (XA-AMK),Landed 10:41 AM,2021-06-12
+8,8,11:29 AM,AA353,Dallas (DFW),American Airlines A321 (N560UW),Unknown,2021-06-12
+9,9,11:40 AM YQ432,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-12
+10,10,12:07 PM,AM332,Mexico City (MEX),Aeromexico Connect E190 (XA-ACJ),Landed 12:00 PM,2021-06-12
+11,11,12:20 PM VB4342,,Monterrey (MTY),VivaAerobus A21N (XA-VBB),Landed 12:04 PM,2021-06-12
+12,12,12:24 PM AA2517,,Chicago (ORD),American Airlines B738 (N962AN),Landed 12:10 PM,2021-06-12
+13,13,12:40 PM AA1074,,Charlotte (CLT),American Airlines A319 (N8001N),Landed 12:18 PM,2021-06-12
+14,14,12:41 PM,DL1941,Atlanta (ATL),Delta Air Lines B739 (N837DN),Landed 12:37 PM,2021-06-12
+15,15,12:41 PM AA554,,Phoenix (PHX),American Airlines A21N (N403AN),Landed 12:26 PM,2021-06-12
+16,16,12:50 PM,UA1622,Houston (IAH),United Airlines A320 (N414UA),Landed 12:57 PM,2021-06-12
+17,17,1:10 PM WN514,,Denver (DEN),Southwest Airlines B737 (N264LV),Landed 1:05 PM,2021-06-12
+18,18,1:12 PM,AS218,Los Angeles (LAX),Alaska Airlines B738 (N577AS),Landed 1:02 PM,2021-06-12
+19,19,1:16 PM,UA1161,New York (EWR),United Airlines B738 (N76526),Landed 12:22 PM,2021-06-12
+20,20,1:17 PM,AA1215,Dallas (DFW),American Airlines B738 (N847NN),Landed 1:52 PM,2021-06-12
+21,21,1:25 PM UA1686,,Chicago (ORD),United Airlines A320 (N444UA),Landed 12:43 PM,2021-06-12
+22,22,1:30 PM WN108,,Houston (HOU),Southwest Airlines B737 (N275WN),Landed 1:42 PM,2021-06-12
+23,23,1:33 PM,Y4784,Mexico City (MEX),Volaris A21N (N534VL),Unknown,2021-06-12
+24,24,1:35 PM VB1166,,Mexico City (MEX),VivaAerobus A21N (XA-VBA),Landed 1:23 PM,2021-06-12
+25,25,1:42 PM,,Cabo San Lucas (CSL),- C680 (N380QS),Unknown,2021-06-12
+26,26,1:45 PM,AM334,Mexico City (MEX),Aeromexico B738 (XA-MIA),Landed 1:49 PM,2021-06-12
+27,27,1:48 PM,,Long Beach (LGB),- B350 (N779AM),Landed 2:25 PM,2021-06-12
+28,28,1:50 PM WN763,,Santa Ana (SNA),Southwest Airlines B737 (N487WN),Landed 1:40 PM,2021-06-12
+29,29,2:13 PM,UA2257,Denver (DEN),United Airlines A320 (N451UA),Landed 4:34 PM,2021-06-12
+30,30,2:25 PM YQ445,,Aguascalientes (AGU),TAR Aerolineas ERJ,Unknown,2021-06-12
+31,31,2:31 PM,UA1212,San Francisco (SFO),United Airlines A320 (N494UA),Landed 2:37 PM,2021-06-12
+32,32,2:40 PM AA1880,,Los Angeles (LAX),American Airlines B738 (N881NN),Landed 2:21 PM,2021-06-12
+33,33,2:40 PM VW873,,Guadalajara (GDL),Aeromar AT46 (XA-UYK),Landed 2:42 PM,2021-06-12
+34,34,2:50 PM,AS220,Los Angeles (LAX),Alaska Airlines A320 (N855VA),Landed 3:20 PM,2021-06-12
+35,35,2:53 PM,DL1921,Seattle (SEA),Delta Air Lines B738 (N3753),Landed 2:15 PM,2021-06-12
+36,36,2:55 PM UA319,,Los Angeles (LAX),United Airlines A320 (N471UA),Landed 2:33 PM,2021-06-12
+37,37,3:00 PM WN1298,,Phoenix (PHX),Southwest Airlines B737 (N482WN),Landed 2:30 PM,2021-06-12
+38,38,3:10 PM AS276,,San Diego (SAN),Alaska Airlines B738 (N552AS),Landed 3:07 PM,2021-06-12
+39,39,3:25 PM WS2246,,Calgary (YYC),WestJet B38M (C-GZSG),Landed 3:11 PM,2021-06-12
+40,40,3:27 PM,AA919,Dallas (DFW),American Airlines A321 (N902AA),Landed 4:00 PM,2021-06-12
+41,41,3:33 PM,UA1584,Denver (DEN),United Airlines A320 (N445UA),Landed 4:28 PM,2021-06-12
+42,42,3:45 PM AS270,,San Jose (SJC),Alaska Airlines (Boeing House Livery) B738 (N512AS),Landed 4:22 PM,2021-06-12
+43,43,3:45 PM,DL1865,Los Angeles (LAX),Delta Air Lines B738 (N3738B),Landed 3:34 PM,2021-06-12
+44,44,3:48 PM,DL1948,Salt Lake City (SLC),Delta Air Lines B738 (N37700),Landed 4:18 PM,2021-06-12
+45,45,3:59 PM,AM336,Mexico City (MEX),Aeromexico B738 (XA-AMS),Landed 4:24 PM,2021-06-12
+46,46,4:00 PM AS206,,Seattle (SEA),Alaska Airlines B739 (N481AS),Landed 4:31 PM,2021-06-12
+47,47,4:30 PM,Y4376,Mexico City (MEX),Volaris A320 (XA-VLM),Landed 5:47 PM,2021-06-12
+48,48,5:02 PM,UA304,Houston (IAH),United Airlines A320 (N446UA),Landed 4:52 PM,2021-06-12
+49,49,5:18 PM,AA1530,Dallas (DFW),American Airlines (TWA Heritage Livery) B738 (N915NN),Landed 5:56 PM,2021-06-12
+50,50,5:18 PM,AS1272,San Francisco (SFO),Alaska Airlines A320 (N848VA),Landed 6:02 PM,2021-06-12
+51,51,5:40 PM VW124,,Guadalajara (GDL),Aeromar AT46 (XA-UYK),Landed 5:29 PM,2021-06-12
+52,52,5:50 PM,AM338,Mexico City (MEX),Aeromexico Connect E190 (XA-AEC),Landed 9:02 PM,2021-06-12
+53,53,5:50 PM UA2218,,Los Angeles (LAX),United Airlines A320 (N461UA),Landed 5:34 PM,2021-06-12
+54,54,5:58 PM Y4550,,Tijuana (TIJ),Volaris A320 (XA-VLS),Landed 5:52 PM,2021-06-12
+55,55,6:48 PM,Y4786,Mexico City (MEX),Volaris A320 (N506VL),Landed 6:47 PM,2021-06-12
+56,56,7:55 PM,Y4366,Queretaro (QRO),Volaris A320 (XA-VLM),Landed 9:14 PM,2021-06-12
+57,57,8:25 PM Y4552,,Tijuana (TIJ),Volaris A320 (N521VL),Unknown,2021-06-12
+58,58,10:57 PM,AM340,Mexico City (MEX),Aeromexico B738 (N845AM),Landed 10:53 PM,2021-06-12
+0,0,08:09,Y4246,Silao (BJX),Volaris A20N (XA-VRL),Landed 07:49,2021-06-13
+1,1,08:50,AM328,Mexico City (MEX),Aeromexico B738 (XA-AME),Landed 08:17,2021-06-13
+2,2,09:30 VW120,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 09:05,2021-06-13
+3,3,10:40 VW110,,Guadalajara (GDL),Aeromar AT46 (XA-UYK),Landed 10:23,2021-06-13
+4,4,10:54,AM330,Mexico City (MEX),Aeromexico B738 (XA-AMW),Landed 10:52,2021-06-13
+5,5,11:29,AA353,Dallas (DFW),American Airlines A321 (N981UY),Landed 11:40,2021-06-13
+6,6,11:40 YQ432,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-13
+7,7,12:07,AM332,Mexico City (MEX),Aeromexico B738 (XA-AMO),Landed 11:53,2021-06-13
+8,8,12:20 VB4342,,Monterrey (MTY),VivaAerobus A21N (XA-VBA),Landed 12:10,2021-06-13
+9,9,12:24 AA2517,,Chicago (ORD),American Airlines B738 (N964NN),Landed 11:58,2021-06-13
+10,10,12:41 AA554,,Phoenix (PHX),American Airlines A321 (N151UW),Landed 12:53,2021-06-13
+11,11,12:41,DL1941,Atlanta (ATL),Delta Air Lines B739 (N814DN),Landed 12:18,2021-06-13
+12,12,12:50,UA1622,Houston (IAH),United Airlines A320 (N471UA),Landed 12:39,2021-06-13
+13,13,13:10 WN514,,Denver (DEN),Southwest Airlines B737 (N919WN),Landed 13:03,2021-06-13
+14,14,13:15 YQ480,,Chihuahua (CUU),TAR Aerolineas ERJ,Unknown,2021-06-13
+15,15,13:16,UA1161,New York (EWR),United Airlines B738 (N14237),Landed 12:14,2021-06-13
+16,16,13:17,AA1215,Dallas (DFW),American Airlines B738 (N930NN),Landed 13:07,2021-06-13
+17,17,13:25 UA1686,,Chicago (ORD),United Airlines A320 (N406UA),Landed 12:48,2021-06-13
+18,18,13:30 WN108,,Houston (HOU),Southwest Airlines B737 (N413WN),Landed 13:44,2021-06-13
+19,19,13:33,Y4784,Mexico City (MEX),Volaris A21N (N535VL),Landed 13:21,2021-06-13
+20,20,13:35 VB1166,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 13:16,2021-06-13
+21,21,13:40 VW122,,Guadalajara (GDL),Aeromar AT46 (XA-UYK),Landed 13:25,2021-06-13
+22,22,13:45,AM334,Mexico City (MEX),Aeromexico B737 (XA-DRD),Landed 13:32,2021-06-13
+23,23,13:50 WN763,,Santa Ana (SNA),Southwest Airlines B737 (N7852A),Landed 13:48,2021-06-13
+24,24,14:13,UA2257,Denver (DEN),United Airlines A320 (N429UA),Landed 13:58,2021-06-13
+25,25,14:19 AA1880,,Los Angeles (LAX),American Airlines A321 (N129AA),Landed 14:26,2021-06-13
+26,26,14:25 YQ445,,Aguascalientes (AGU),TAR Aerolineas ERJ,Unknown,2021-06-13
+27,27,14:31,UA1212,San Francisco (SFO),United Airlines A320 (N466UA),Landed 14:12,2021-06-13
+28,28,14:32,UA306,Houston (IAH),United Airlines B738 (N38268),Landed 14:07,2021-06-13
+29,29,14:35 VB5086,,Tijuana (TIJ),VivaAerobus A20N (XA-VIK),Landed 14:39,2021-06-13
+30,30,14:50,AS220,Los Angeles (LAX),Alaska Airlines A320 (N838VA),Landed 15:00,2021-06-13
+31,31,14:53,DL1921,Seattle (SEA),Delta Air Lines B738 (N3767),Landed 14:30,2021-06-13
+32,32,14:55 UA319,,Los Angeles (LAX),United Airlines A320 (N456UA),Landed 15:03,2021-06-13
+33,33,15:00 WN1298,,Phoenix (PHX),Southwest Airlines B737 (N277WN),Landed 15:13,2021-06-13
+34,34,15:10 AS276,,San Diego (SAN),Alaska Airlines A320 (N851VA),Landed 15:10,2021-06-13
+35,35,15:27,AA919,Dallas (DFW),American Airlines A321 (N995AN),Landed 15:35,2021-06-13
+36,36,15:30 VW124,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 15:32,2021-06-13
+37,37,15:33,UA1584,Denver (DEN),United Airlines A320 (N483UA),Landed 15:21,2021-06-13
+38,38,15:34,DL1865,Los Angeles (LAX),Delta Air Lines B738 (N3759),Landed 15:24,2021-06-13
+39,39,15:48,DL1948,Salt Lake City (SLC),Delta Air Lines B738 (N391DA),Landed 15:38,2021-06-13
+40,40,15:59,AM336,Mexico City (MEX),Aeromexico B738 (XA-ADT),Landed 15:48,2021-06-13
+41,41,16:05 YQ481,,San Luis Potosi (SLP),TAR Aerolineas ERJ,Unknown,2021-06-13
+42,42,16:10 VB3234,,Guadalajara (GDL),VivaAerobus A20N (XA-VII),Landed 15:52,2021-06-13
+43,43,17:02,UA304,Houston (IAH),United Airlines A320 (N405UA),Landed 16:47,2021-06-13
+44,44,17:10 VB1168,,Mexico City (MEX),VivaAerobus A20N (XA-VIU),Landed 16:53,2021-06-13
+45,45,17:18,AS1272,San Francisco (SFO),Alaska Airlines A320 (N849VA),Landed 17:08,2021-06-13
+46,46,17:28,AA1530,Dallas (DFW),American Airlines A319 (N754UW),Landed 17:49,2021-06-13
+47,47,17:33 Y4196,,Monterrey (MTY),Volaris A319 (XA-VOI),Landed 17:25,2021-06-13
+48,48,17:40,F960,Las Vegas (LAS),Frontier (Choo the Pika Livery) A20N (N331FR),Landed 17:53,2021-06-13
+49,49,17:50 UA2218,,Los Angeles (LAX),United Airlines A320 (N452UA),Landed 17:42,2021-06-13
+50,50,17:58 Y4550,,Tijuana (TIJ),Volaris A320 (N521VL),Unknown,2021-06-13
+51,51,18:00,AM338,Mexico City (MEX),Aeromexico B738 (N377AR),Landed 17:46,2021-06-13
+52,52,18:30 YQ414,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-13
+53,53,18:30 VW126,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 18:24,2021-06-13
+54,54,18:48,Y4786,Mexico City (MEX),Volaris A20N (XA-VRK),Landed 18:30,2021-06-13
+55,55,18:50 VB4346,,Monterrey (MTY),VivaAerobus (Tecate Pal Norte 2019 Livery) A20N (XA-VIE),Landed 19:06,2021-06-13
+56,56,20:25 Y4552,,Tijuana (TIJ),Volaris A20N (N533VL),Landed 20:26,2021-06-13
+57,57,20:45 VB9156,,Ciudad Juarez (CJS),VivaAerobus A20N (XA-VIT),Landed 20:37,2021-06-13
+58,58,22:57,AM340,Mexico City (MEX),Aeromexico Connect E190 (XA-GAG),Landed 23:13,2021-06-13
+0,0,08:08 Y45786,,Mexico City (MEX),Volaris A320 (N522VL),Landed 08:05,2021-06-14
+1,1,08:50,AM328,Mexico City (MEX),Aeromexico B738 (XA-AMO),Landed 08:27,2021-06-14
+2,2,09:49,,Austin (AUS),- E55P (N363QS),Unknown,2021-06-14
+3,3,10:40 VW130,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 10:18,2021-06-14
+4,4,10:54,AM330,Mexico City (MEX),Aeromexico B738 (XA-AMM),Landed 11:15,2021-06-14
+5,5,11:29,AA353,Dallas (DFW),American Airlines A321 (N166NN),Landed 12:24,2021-06-14
+6,6,11:35 YQ445,,Aguascalientes (AGU),TAR Aerolineas E145 (XA-NFP),Landed 14:17,2021-06-14
+7,7,12:07,AM332,Mexico City (MEX),Aeromexico Connect E190 (XA-AAC),Landed 11:40,2021-06-14
+8,8,12:20 VB4342,,Monterrey (MTY),VivaAerobus A21N (XA-VBA),Landed 12:38,2021-06-14
+9,9,12:41 AA554,,Phoenix (PHX),American Airlines A21N (N412UW),Landed 12:29,2021-06-14
+10,10,12:41,DL1941,Atlanta (ATL),Delta Air Lines B739 (N805DN),Landed 12:33,2021-06-14
+11,11,12:50,UA1622,Houston (IAH),United Airlines A320 (N456UA),Landed 12:54,2021-06-14
+12,12,13:10 WN514,,Denver (DEN),Southwest Airlines B737 (N442WN),Landed 13:28,2021-06-14
+13,13,13:17,AA1215,Dallas (DFW),American Airlines B738 (N869NN),Landed 13:02,2021-06-14
+14,14,13:25 UA1686,,Chicago (ORD),United Airlines A320 (N415UA),Landed 12:46,2021-06-14
+15,15,13:30 WN108,,Houston (HOU),Southwest Airlines B737 (N487WN),Landed 13:17,2021-06-14
+16,16,13:33,Y4784,Mexico City (MEX),Volaris A20N (XA-VRF),Landed 13:20,2021-06-14
+17,17,13:35 VB1166,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 13:23,2021-06-14
+18,18,13:40,,San Diego (CLD),- F2TH (N700DS),Unknown,2021-06-14
+19,19,13:50,AM334,Mexico City (MEX),Aeromexico B738 (N958AM),Landed 14:07,2021-06-14
+20,20,13:50 WN763,,Santa Ana (SNA),Southwest Airlines B737 (N272WN),Landed 13:38,2021-06-14
+21,21,13:59 OKC904,,Washington (IAD),- E35L (N904FL),Landed 15:30,2021-06-14
+22,22,14:03 SY533,,Dallas (DFW),Sun Country Airlines B738 (N801SY),Landed 14:25,2021-06-14
+23,23,14:10 YQ432,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-14
+24,24,14:13,UA2257,Denver (DEN),United Airlines A320 (N408UA),Landed 13:48,2021-06-14
+25,25,14:31,UA1212,San Francisco (SFO),United Airlines A320 (N462UA),Landed 14:28,2021-06-14
+26,26,14:35 VW122,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 14:22,2021-06-14
+27,27,14:50,AS220,Los Angeles (LAX),Alaska Airlines A320 (N361VA),Landed 15:03,2021-06-14
+28,28,14:53,DL1921,Seattle (SEA),Delta Air Lines B738 (N3730B),Landed 14:44,2021-06-14
+29,29,14:55 UA319,,Los Angeles (LAX),United Airlines A320 (N460UA),Landed 14:41,2021-06-14
+30,30,15:00 WN1298,,Phoenix (PHX),Southwest Airlines B737 (N295WN),Landed 14:50,2021-06-14
+31,31,15:27,AA919,Dallas (DFW),American Airlines A321 (N120EE),Landed 15:43,2021-06-14
+32,32,15:33,UA1584,Denver (DEN),United Airlines A320 (N448UA),Landed 15:13,2021-06-14
+33,33,15:34,DL1865,Los Angeles (LAX),Delta Air Lines B738 (N3763D),Landed 15:48,2021-06-14
+34,34,15:48,DL1948,Salt Lake City (SLC),Delta Air Lines B738 (N374DA),Landed 15:38,2021-06-14
+35,35,17:02,UA304,Houston (IAH),United Airlines A320 (N472UA),Landed 16:51,2021-06-14
+36,36,17:10 VB3234,,Guadalajara (GDL),VivaAerobus A20N (XA-VIM),Landed 16:42,2021-06-14
+37,37,17:18,AS1272,San Francisco (SFO),Alaska Airlines A320 (N838VA),Landed 17:14,2021-06-14
+38,38,17:28,AA1530,Dallas (DFW),American Airlines A319 (N804AW),Landed 17:27,2021-06-14
+39,39,17:35 VW124,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 17:22,2021-06-14
+40,40,17:40,AM338,Mexico City (MEX),Aeromexico B737 (XA-DRD),Landed 17:48,2021-06-14
+41,41,17:50 UA2218,,Los Angeles (LAX),United Airlines A320 (N419UA),Landed 17:40,2021-06-14
+42,42,18:03 Y4550,,Tijuana (TIJ),Volaris A20N (XA-VRJ),Landed 17:59,2021-06-14
+43,43,18:23 XOJ546,,Oakland (OAK),Xojet CL30,Canceled,2021-06-14
+44,44,18:48,Y4786,Mexico City (MEX),Volaris A320 (XA-VLE),Landed 18:50,2021-06-14
+45,45,19:15 VB5088,,Tijuana (TIJ),VivaAerobus A20N (XA-VIS),Landed 19:21,2021-06-14
+46,46,20:25 Y4552,,Tijuana (TIJ),Volaris A320 (XA-VLL),Landed 20:25,2021-06-14
+47,47,21:55 VB1176,,Mexico City (MEX),VivaAerobus A320 (XA-VAU),Landed 22:03,2021-06-14
+48,48,22:57,AM340,Mexico City (MEX),Aeromexico B738 (N950AM),Landed 23:06,2021-06-14
+0,0,08:50,AM328,Mexico City (MEX),Aeromexico B738 (XA-AMS),Landed 08:34,2021-06-15
+1,1,10:40 VW120,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 10:27,2021-06-15
+2,2,10:54,AM330,Mexico City (MEX),Aeromexico Connect E190 (XA-CAC),Landed 10:45,2021-06-15
+3,3,11:29,AA353,Dallas (DFW),American Airlines A321 (N159AN),Landed 11:28,2021-06-15
+4,4,12:07,AM332,Mexico City (MEX),Aeromexico B738 (XA-ADT),Landed 11:52,2021-06-15
+5,5,12:20 VB4342,,Monterrey (MTY),Viva Aerobus A21N (XA-VBK),Landed 12:00,2021-06-15
+6,6,12:41,DL1941,Atlanta (ATL),Delta Air Lines B739 (N846DN),Landed 12:15,2021-06-15
+7,7,12:41 AA554,,Phoenix (PHX),American Airlines A21N (N409AA),Unknown,2021-06-15
+8,8,12:50,UA1622,Houston (IAH),United Airlines A320 (N411UA),Landed 12:43,2021-06-15
+9,9,13:10 WN514,,Denver (DEN),Southwest Airlines B737 (N275WN),Landed 13:03,2021-06-15
+10,10,13:17,AA1215,Dallas (DFW),American Airlines B738 (N805NN),Landed 13:00,2021-06-15
+11,11,13:25 UA1686,,Chicago (ORD),United Airlines A320 (N413UA),Landed 12:34,2021-06-15
+12,12,13:30 WN108,,Houston (HOU),Southwest Airlines B737 (N7727A),Landed 13:19,2021-06-15
+13,13,13:35 VB1166,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 13:45,2021-06-15
+14,14,13:45,AM334,Mexico City (MEX),Aeromexico B738 (N368AR),Landed 13:55,2021-06-15
+15,15,13:50 WN763,,Santa Ana (SNA),Southwest Airlines B737 (N7880D),Landed 13:49,2021-06-15
+16,16,14:13,UA2257,Denver (DEN),United Airlines A320 (N467UA),Landed 13:59,2021-06-15
+17,17,14:31,UA1212,San Francisco (SFO),United Airlines A320 (N448UA),Landed 14:23,2021-06-15
+18,18,14:35 VW122,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 14:16,2021-06-15
+19,19,14:40 VW873,,Guadalajara (GDL),Aeromar AT72,Unknown,2021-06-15
+20,20,14:50,AS220,Los Angeles (LAX),Alaska Airlines B738 (N558AS),Landed 14:57,2021-06-15
+21,21,14:53,DL1921,Seattle (SEA),Delta Air Lines B738 (N3735D),Landed 14:30,2021-06-15
+22,22,14:55 UA319,,Los Angeles (LAX),United Airlines A320 (N458UA),Landed 14:41,2021-06-15
+23,23,15:00 WN1298,,Phoenix (PHX),Southwest Airlines B737 (N250WN),Landed 16:26,2021-06-15
+24,24,15:05 YQ461,,Guadalajara (GDL),TAR Aerolineas ERJ,Unknown,2021-06-15
+25,25,15:27,AA919,Dallas (DFW),American Airlines A321 (N934AA),Landed 16:17,2021-06-15
+26,26,15:33,UA1584,Denver (DEN),United Airlines A320 (N449UA),Landed 15:14,2021-06-15
+27,27,15:34,DL1865,Los Angeles (LAX),Delta Air Lines B738 (N3741S),Unknown,2021-06-15
+28,28,15:48,DL1948,Salt Lake City (SLC),Delta Air Lines B738 (N3757D),Landed 15:33,2021-06-15
+29,29,16:00 AS206,,Seattle (SEA),Alaska Airlines B739 (N260AK),Landed 16:38,2021-06-15
+30,30,17:02,UA304,Houston (IAH),United Airlines A320 (N443UA),Landed 16:47,2021-06-15
+31,31,17:18,AS1272,San Francisco (SFO),Alaska Airlines A320 (N361VA),Landed 17:10,2021-06-15
+32,32,17:28,AA1530,Dallas (DFW),American Airlines A319 (N770UW),Landed 19:36,2021-06-15
+33,33,17:35 VW124,,Guadalajara (GDL),Aeromar AT46 (XA-UYL),Landed 17:26,2021-06-15
+34,34,17:40,AM338,Mexico City (MEX),Aeromexico Connect E190 (XA-MAC),Landed 17:40,2021-06-15
+35,35,17:45 YQ445,,Aguascalientes (AGU),TAR Aerolineas ERJ,Unknown,2021-06-15
+36,36,17:50 UA2218,,Los Angeles (LAX),United Airlines A320 (N418UA),Landed 18:45,2021-06-15
+37,37,17:55 VB1168,,Mexico City (MEX),VivaAerobus A20N (XA-VIN),Landed 17:34,2021-06-15
+38,38,18:03 Y4550,,Tijuana (TIJ),Volaris A320 (XA-VLE),Landed 17:54,2021-06-15
+39,39,18:48,Y4786,Mexico City (MEX),Volaris A320 (XA-VLC),Landed 18:32,2021-06-15
+40,40,22:57,AM340,Mexico City (MEX),Aeromexico Connect E190 (XA-BAC),Landed 22:59,2021-06-15

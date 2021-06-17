@@ -1,0 +1,85 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,8:45 AM,NZ611,Auckland (AKL),Air New Zealand A320 (ZK-OXA),Landed 9:21 AM,2021-06-11
+1,1,9:30 AM,NZ5643,Christchurch (CHC),Air New Zealand AT76 (ZK-MVJ),Canceled,2021-06-11
+2,2,9:35 AM,NZ613,Auckland (AKL),Air New Zealand A21N (ZK-NNB),Landed 9:44 AM,2021-06-11
+3,3,10:05 AM,JQ279,Wellington (WLG),Jetstar Airways A320 (VH-VFV),Landed 9:57 AM,2021-06-11
+4,4,10:25 AM,JQ295,Auckland (AKL),Jetstar Airways A320 (VH-VFO),Landed 10:17 AM,2021-06-11
+5,5,11:25 AM,NZ615,Auckland (AKL),Air New Zealand A21N (ZK-NNC),Landed 11:34 AM,2021-06-11
+6,6,11:45 AM,NZ603,Wellington (WLG),Air New Zealand A320 (ZK-OXD),Landed 11:46 AM,2021-06-11
+7,7,1:10 PM,NZ619,Auckland (AKL),Air New Zealand A320 (ZK-OXM),Landed 1:03 PM,2021-06-11
+8,8,1:45 PM,NZ605,Wellington (WLG),Air New Zealand A320 (ZK-OJI),Landed 1:43 PM,2021-06-11
+9,9,1:55 PM,NZ621,Auckland (AKL),Air New Zealand A21N (ZK-NNG),Landed 1:54 PM,2021-06-11
+10,10,2:30 PM,NZ264,Melbourne (MEL),Air New Zealand 32N,Canceled,2021-06-11
+11,11,2:30 PM QF121,,Sydney (SYD),Qantas B738 (VH-XZH),Landed 2:15 PM,2021-06-11
+12,12,3:25 PM,NZ607,Wellington (WLG),Air New Zealand A320 (ZK-OXE),Landed 3:30 PM,2021-06-11
+13,13,3:40 PM,JQ293,Auckland (AKL),Jetstar Airways A320 (VH-VQA),Landed 3:36 PM,2021-06-11
+14,14,3:45 PM,NZ5653,Christchurch (CHC),Air New Zealand AT76 (ZK-MZB),Landed 3:44 PM,2021-06-11
+15,15,4:25 PM,NZ623,Auckland (AKL),Air New Zealand A320 (ZK-OXK),Landed 4:13 PM,2021-06-11
+16,16,7:15 PM,NZ625,Auckland (AKL),Air New Zealand A320 (ZK-OXA),Landed 7:16 PM,2021-06-11
+17,17,8:40 PM,NZ651,Christchurch (CHC),Air New Zealand A320 (ZK-OXE),Landed 8:59 PM,2021-06-11
+0,0,08:45,NZ611,Auckland (AKL),Air New Zealand A21N (ZK-NNA),Landed 10:55,2021-06-12
+1,1,10:25,NZ603,Wellington (WLG),Air New Zealand A320 (ZK-OXH),Landed 11:09,2021-06-12
+2,2,10:25,JQ295,Auckland (AKL),Jetstar Airways A320 (VH-VFF),Landed 12:14,2021-06-12
+3,3,11:05,NZ647,Christchurch (CHC),Air New Zealand A320 (ZK-OXF),Landed 11:55,2021-06-12
+4,4,11:25,NZ615,Auckland (AKL),Air New Zealand A21N (ZK-NNE),Landed 11:26,2021-06-12
+5,5,12:00 NZ5407,,Wellington (WLG),Air New Zealand AT76 (ZK-MVN),Landed 12:50,2021-06-12
+6,6,13:55 QF177,,Melbourne (MEL),Qantas 73H,Unknown,2021-06-12
+7,7,13:55,NZ621,Auckland (AKL),Air New Zealand A21N (ZK-NND),Landed 13:50,2021-06-12
+8,8,14:25,NZ232,Sydney (SYD),Air New Zealand A20N (ZK-NHB),Landed 13:59,2021-06-12
+9,9,14:30 QF121,,Sydney (SYD),Qantas (Mendoowoorrji Livery) B738 (VH-XZJ),Landed 14:08,2021-06-12
+10,10,14:45,NZ260,Brisbane (BNE),Air New Zealand A20N (ZK-NHC),Landed 14:29,2021-06-12
+11,11,15:35 QF185,,Brisbane (BNE),Qantas B738 (VH-XZC),Landed 15:03,2021-06-12
+12,12,15:40,JQ293,Auckland (AKL),Jetstar Airways A320 (VH-VFV),Landed 15:33,2021-06-12
+13,13,16:10,NZ5655,Christchurch (CHC),Air New Zealand AT76 (ZK-MVQ),Landed 16:11,2021-06-12
+14,14,16:25,NZ623,Auckland (AKL),Air New Zealand A320 (ZK-OXH),Landed 16:18,2021-06-12
+0,0,08:45,NZ611,Auckland (AKL),Air New Zealand A21N (ZK-NNA),Landed 08:38,2021-06-13
+1,1,10:05,JQ279,Wellington (WLG),Jetstar Airways A320 (VH-VFL),Landed 09:56,2021-06-13
+2,2,10:25,JQ295,Auckland (AKL),Jetstar Airways A320 (VH-VFF),Landed 10:13,2021-06-13
+3,3,11:05,NZ647,Christchurch (CHC),Air New Zealand A320 (ZK-OXF),Landed 10:54,2021-06-13
+4,4,11:25,NZ615,Auckland (AKL),Air New Zealand A21N (ZK-NNF),Landed 11:13,2021-06-13
+5,5,11:45,NZ603,Wellington (WLG),Air New Zealand A320 (ZK-OJS),Landed 11:35,2021-06-13
+6,6,13:10,NZ619,Auckland (AKL),Air New Zealand A21N (ZK-NNE),Landed 13:32,2021-06-13
+7,7,13:55,NZ621,Auckland (AKL),Air New Zealand A21N (ZK-NNA),Landed 13:57,2021-06-13
+8,8,14:10 QF121,,Sydney (SYD),Qantas B738 (VH-VZU),Landed 13:48,2021-06-13
+9,9,14:25,NZ232,Sydney (SYD),Air New Zealand A20N (ZK-NHB),Landed 14:06,2021-06-13
+10,10,14:30,NZ264,Melbourne (MEL),Air New Zealand A20N (ZK-NHD),Canceled,2021-06-13
+11,11,15:15,NZ5651,Christchurch (CHC),Air New Zealand AT76 (ZK-MVR),Canceled,2021-06-13
+12,12,15:20 QF185,,Brisbane (BNE),Qantas B738 (VH-XZH),Landed 14:45,2021-06-13
+13,13,15:25,NZ607,Wellington (WLG),Air New Zealand A320 (ZK-OXE),Landed 15:23,2021-06-13
+14,14,15:40,JQ293,Auckland (AKL),Jetstar Airways A320 (VH-VFV),Landed 15:29,2021-06-13
+15,15,15:55 NZ1201,,Wellington (WLG),Air New Zealand A320 (ZK-OXC),Landed 15:45,2021-06-13
+16,16,16:10,NZ655,Christchurch (CHC),Air New Zealand A320 (ZK-OXF),Landed 16:06,2021-06-13
+17,17,16:25,NZ623,Auckland (AKL),Air New Zealand A320 (ZK-OXJ),Landed 16:14,2021-06-13
+18,18,17:20,NZ631,Auckland (AKL),Air New Zealand A320 (ZK-OXG),Landed 17:24,2021-06-13
+19,19,19:15,NZ625,Auckland (AKL),Air New Zealand A21N (ZK-NNA),Landed 19:08,2021-06-13
+20,20,20:40,NZ651,Christchurch (CHC),Air New Zealand A320 (ZK-OXE),Landed 20:40,2021-06-13
+0,0,08:45,NZ611,Auckland (AKL),Air New Zealand A21N (ZK-NNA),Landed 08:38,2021-06-14
+1,1,09:30,NZ5643,Christchurch (CHC),Air New Zealand AT76 (ZK-MVN),Landed 09:28,2021-06-14
+2,2,09:45,NZ613,Auckland (AKL),Air New Zealand A320 (ZK-OXL),Landed 09:36,2021-06-14
+3,3,10:25,JQ295,Auckland (AKL),Jetstar Airways A320 (VH-VFL),Landed 10:23,2021-06-14
+4,4,11:25,NZ615,Auckland (AKL),Air New Zealand A320 (ZK-OXG),Landed 11:23,2021-06-14
+5,5,11:45,NZ603,Wellington (WLG),Air New Zealand A320 (ZK-OXE),Landed 11:43,2021-06-14
+6,6,13:55 QF177,,Melbourne (MEL),Qantas 73H,Unknown,2021-06-14
+7,7,13:55,NZ621,Auckland (AKL),Air New Zealand A21N (ZK-NNA),Landed 13:51,2021-06-14
+8,8,14:30 QF121,,Sydney (SYD),Qantas B738 (VH-XZE),Landed 14:22,2021-06-14
+9,9,15:25,NZ607,Wellington (WLG),Air New Zealand A320 (ZK-OXC),Landed 15:16,2021-06-14
+10,10,15:35 QF185,,Brisbane (BNE),Qantas B738 (VH-XZH),Landed 15:11,2021-06-14
+11,11,15:40,JQ293,Auckland (AKL),Jetstar Airways A320 (VH-VFF),Landed 15:25,2021-06-14
+12,12,15:45,NZ5653,Christchurch (CHC),Air New Zealand AT76 (ZK-MVL),Landed 15:38,2021-06-14
+13,13,16:25,NZ623,Auckland (AKL),Air New Zealand A320 (ZK-OXJ),Landed 16:04,2021-06-14
+14,14,19:15,NZ625,Auckland (AKL),Air New Zealand A21N (ZK-NNA),Landed 18:58,2021-06-14
+15,15,20:40,NZ651,Christchurch (CHC),Air New Zealand A320 (ZK-OXC),Diverted to CHC,2021-06-14
+0,0,08:45,NZ611,Auckland (AKL),Air New Zealand A21N (ZK-NNA),Landed 08:47,2021-06-15
+1,1,09:30,NZ5643,Christchurch (CHC),Air New Zealand AT76 (ZK-MVP),Landed 11:18,2021-06-15
+2,2,10:25,JQ295,Auckland (AKL),Jetstar Airways A320 (VH-VFL),Landed 10:13,2021-06-15
+3,3,10:35 NZ1209,,Wellington (WLG),Air New Zealand A320 (ZK-OXM),Landed 10:57,2021-06-15
+4,4,11:25,NZ615,Auckland (AKL),Air New Zealand A320 (ZK-OXL),Landed 11:25,2021-06-15
+5,5,11:45,NZ603,Wellington (WLG),Air New Zealand A320 (ZK-OXF),Landed 12:12,2021-06-15
+6,6,13:55,NZ621,Auckland (AKL),Air New Zealand A21N (ZK-NNA),Landed 14:02,2021-06-15
+7,7,14:25,NZ232,Sydney (SYD),Air New Zealand A20N (ZK-NHD),Landed 14:09,2021-06-15
+8,8,14:30,NZ264,Melbourne (MEL),Air New Zealand 32N,Canceled,2021-06-15
+9,9,14:30 QF121,,Sydney (SYD),Qantas (Mendoowoorrji Livery) B738 (VH-XZJ),Landed 14:17,2021-06-15
+10,10,15:40,JQ293,Auckland (AKL),Jetstar Airways A320 (VH-VFF),Landed 15:25,2021-06-15
+11,11,15:45,NZ5653,Christchurch (CHC),Air New Zealand AT76 (ZK-MVA),Landed 15:42,2021-06-15
+12,12,16:25,NZ623,Auckland (AKL),Air New Zealand A320 (ZK-OXB),Landed 16:13,2021-06-15
+13,13,20:40,NZ651,Christchurch (CHC),Air New Zealand A320 (ZK-OXL),Landed 20:48,2021-06-15

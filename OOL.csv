@@ -1,0 +1,278 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,4:35 AM JTE7443,,Sydney (SYD),Cobham Aviation B463 (VH-NJF),Landed 5:35 AM,2021-06-11
+1,1,4:35 AM QF7443,,Sydney (SYD),Cobham Aviation B463 (VH-NJF),Unknown,2021-06-11
+2,2,7:20 AM,JQ400,Sydney (SYD),Jetstar Airways A320 (VH-XSJ),Landed 7:28 AM,2021-06-11
+3,3,8:10 AM,VA725,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-11
+4,4,8:15 AM,JQ430,Melbourne (MEL),Jetstar Airways A320 (VH-VQP),Canceled,2021-06-11
+5,5,8:35 AM,JQ408,Sydney (SYD),Jetstar Airways A321 (VH-VWW),Landed 8:28 AM,2021-06-11
+6,6,8:40 AM,VA505,Sydney (SYD),Virgin Australia B738 (VH-YFR),Landed 8:44 AM,2021-06-11
+7,7,9:30 AM,JQ404,Sydney (SYD),Jetstar Airways A320 (VH-VGP),Landed 9:19 AM,2021-06-11
+8,8,9:50 AM ZL520,,Sydney (SYD),Regional Express B738 (VH-PAG),Landed 10:02 AM,2021-06-11
+9,9,10:05 AM,JQ432,Melbourne (MEL),Jetstar Airways B788 (VH-VKH),Canceled,2021-06-11
+10,10,10:15 AM,VA731,Melbourne (MEL),Virgin Australia 73H,Canceled,2021-06-11
+11,11,10:35 AM ZL658,,Melbourne (MEL),Regional Express 738,Canceled,2021-06-11
+12,12,10:35 AM,JQ454,Adelaide (ADL),Jetstar Airways A320 (VH-VGN),Landed 10:41 AM,2021-06-11
+13,13,10:40 AM,VA511,Sydney (SYD),Virgin Australia B738 (VH-YFZ),Landed 10:32 AM,2021-06-11
+14,14,10:45 AM,NZ187,Auckland (AKL),Air New Zealand A21N (ZK-NND),Landed 10:55 AM,2021-06-11
+15,15,11:15 AM,VA733,Melbourne (MEL),Virgin Australia B738 (VH-VUK),Landed 11:04 AM,2021-06-11
+16,16,11:35 AM,JQ420,Sydney (SYD),Jetstar Airways A320 (VH-XSJ),Landed 11:44 AM,2021-06-11
+17,17,11:40 AM,JQ967,Cairns (CNS),Jetstar Airways A320 (VH-VFN),Landed 11:59 AM,2021-06-11
+18,18,11:40 AM,VA1447,Adelaide (ADL),Virgin Australia B738 (VH-YIU),Landed 11:35 AM,2021-06-11
+19,19,11:40 AM,VA515,Sydney (SYD),Virgin Australia B738 (VH-YQR),Landed 11:35 AM,2021-06-11
+20,20,11:55 AM,QF594,Sydney (SYD),Qantas B738 (VH-VZA),Landed 11:52 AM,2021-06-11
+21,21,12:00 PM,VA1687,Canberra (CBR),Virgin Australia B738 (VH-YFC),Landed 2:01 PM,2021-06-11
+22,22,12:20 PM,JQ438,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-11
+23,23,12:40 PM,VA517,Sydney (SYD),Virgin Australia B738 (VH-YFV),Landed 1:01 PM,2021-06-11
+24,24,1:20 PM,QF880,Melbourne (MEL),Qantas B738 (VH-XZM),Landed 12:59 PM,2021-06-11
+25,25,1:35 PM,JQ134,Auckland (AKL),Jetstar Airways A320 (VH-VGR),Landed 1:27 PM,2021-06-11
+26,26,1:40 PM,JQ412,Sydney (SYD),Jetstar Airways A320 (VH-VGP),Landed 1:36 PM,2021-06-11
+27,27,1:40 PM,VA519,Sydney (SYD),Virgin Australia B738 (VH-YQM),Landed 1:46 PM,2021-06-11
+28,28,1:50 PM ZL540,,Sydney (SYD),Regional Express B738 (VH-PAG),Landed 2:11 PM,2021-06-11
+29,29,2:15 PM,VA741,Melbourne (MEL),Virgin Australia B738 (VH-VUZ),Canceled,2021-06-11
+30,30,2:40 PM,VA523,Sydney (SYD),Virgin Australia B738 (VH-VUQ),Landed 2:35 PM,2021-06-11
+31,31,3:15 PM,QF592,Sydney (SYD),Qantas B738 (VH-XZL),Landed 3:30 PM,2021-06-11
+32,32,3:15 PM,VA743,Melbourne (MEL),Virgin Australia B738 (VH-YVD),Landed 3:09 PM,2021-06-11
+33,33,3:25 PM QF1764,,Canberra (CBR),QantasLink B712 (VH-YQT),Landed 3:12 PM,2021-06-11
+34,34,3:30 PM,JQ494,Newcastle (NTL),Jetstar Airways A320 (VH-VQL),Landed 3:27 PM,2021-06-11
+35,35,3:40 PM,VA525,Sydney (SYD),Virgin Australia B738 (VH-YQR),Landed 3:50 PM,2021-06-11
+36,36,3:55 PM,JQ418,Sydney (SYD),Jetstar Airways A320 (VH-VFH),Landed 3:51 PM,2021-06-11
+37,37,4:15 PM,VA745,Melbourne (MEL),Virgin Australia B738 (VH-YIY),Canceled,2021-06-11
+38,38,4:20 PM ZL680,,Melbourne (MEL),REX Regional Express B738 (VH-RQC),Landed 4:14 PM,2021-06-11
+39,39,4:30 PM,JQ410,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 4:25 PM,2021-06-11
+40,40,4:40 PM,VA527,Sydney (SYD),Virgin Australia B738 (VH-YIB),Landed 4:49 PM,2021-06-11
+41,41,5:15 PM,VA749,Melbourne (MEL),Virgin Australia B738 (VH-VUL),Canceled,2021-06-11
+42,42,5:20 PM,JQ434,Melbourne (MEL),Jetstar Airways B788 (VH-VKH),Canceled,2021-06-11
+43,43,5:40 PM,VA531,Sydney (SYD),Virgin Australia B738 (VH-VOL),Landed 5:50 PM,2021-06-11
+44,44,6:00 PM,JQ414,Sydney (SYD),Jetstar Airways A320 (VH-VGR),Landed 5:58 PM,2021-06-11
+45,45,6:15 PM QF598,,Sydney (SYD),Qantas B738 (VH-VXN),Landed 6:17 PM,2021-06-11
+46,46,6:15 PM,VA751,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-11
+47,47,6:40 PM,VA535,Sydney (SYD),Virgin Australia B738 (VH-YFK),Landed 6:45 PM,2021-06-11
+48,48,7:00 PM,JQ424,Sydney (SYD),Jetstar Airways A321 (VH-VWT),Landed 7:23 PM,2021-06-11
+49,49,7:05 PM,TL180,Townsville (TSV),Airnorth E170 (VH-ANO),Landed 6:48 PM,2021-06-11
+50,50,7:15 PM,VA753,Melbourne (MEL),Virgin Australia B738 (VH-YFU),Canceled,2021-06-11
+51,51,7:30 PM,JQ416,Sydney (SYD),Jetstar Airways A320 (VH-VFI),Landed 7:40 PM,2021-06-11
+52,52,7:40 PM,VA539,Sydney (SYD),Virgin Australia B738 (VH-VUT),Landed 8:32 PM,2021-06-11
+53,53,7:45 PM,JQ444,Melbourne (MEL),Jetstar Airways A320 (VH-VGQ),Landed 7:48 PM,2021-06-11
+54,54,8:15 PM,VA755,Melbourne (MEL),Virgin Australia B738 (VH-YVD),Canceled,2021-06-11
+55,55,8:35 PM,VA543,Sydney (SYD),Virgin Australia B738 (VH-YIW),Landed 8:38 PM,2021-06-11
+56,56,8:40 PM,QF596,Sydney (SYD),Qantas B738 (VH-VZZ),Landed 8:34 PM,2021-06-11
+57,57,8:45 PM,VA757,Melbourne (MEL),Virgin Australia B738 (VH-YFT),Canceled,2021-06-11
+58,58,9:15 PM QF878,,Melbourne (MEL),Qantas 73H,Unknown,2021-06-11
+59,59,9:15 PM,JQ442,Melbourne (MEL),Jetstar Airways A320 (VH-VFN),Canceled,2021-06-11
+60,60,9:20 PM JQ695,,Hobart (HBA),Jetstar Airways A320 (VH-VGP),Landed 9:20 PM,2021-06-11
+61,61,9:40 PM,VA545,Sydney (SYD),Virgin Australia B738 (VH-VUS),Landed 9:54 PM,2021-06-11
+62,62,10:05 PM,JQ630,Melbourne (AVV),Jetstar Airways 320,Unknown,2021-06-11
+63,63,10:40 PM,VA761,Melbourne (MEL),Virgin Australia B738 (VH-YVA),Canceled,2021-06-11
+0,0,06:05,JQ983,Perth (PER),Jetstar Airways A320 (VH-VGR),Landed 06:29,2021-06-12
+1,1,07:20,JQ400,Sydney (SYD),Jetstar Airways A320 (VH-VGU),Landed 07:14,2021-06-12
+2,2,08:10,VA725,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-12
+3,3,08:15,JQ430,Melbourne (MEL),Jetstar Airways A320 (VH-VQH),Canceled,2021-06-12
+4,4,08:35,JQ408,Sydney (SYD),Jetstar Airways A321 (VH-VWW),Landed 08:33,2021-06-12
+5,5,08:40,VA505,Sydney (SYD),Virgin Australia B738 (VH-YIF),Landed 09:01,2021-06-12
+6,6,09:30,JQ404,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 09:21,2021-06-12
+7,7,09:40 VA509,,Sydney (SYD),Virgin Australia B738 (VH-YIB),Landed 09:38,2021-06-12
+8,8,09:50 ZL520,,Sydney (SYD),Regional Express B738 (VH-RYU),Landed 09:47,2021-06-12
+9,9,10:05,JQ432,Melbourne (MEL),Jetstar Airways B788 (VH-VKI),Canceled,2021-06-12
+10,10,10:15,VA731,Melbourne (MEL),Virgin Australia 737,Canceled,2021-06-12
+11,11,10:35 ZL658,,Melbourne (MEL),Regional Express 738,Unknown,2021-06-12
+12,12,10:35,JQ454,Adelaide (ADL),Jetstar Airways A320 (VH-VFQ),Landed 10:34,2021-06-12
+13,13,10:40,VA511,Sydney (SYD),Virgin Australia B738 (VH-VUZ),Landed 10:39,2021-06-12
+14,14,10:45,NZ187,Auckland (AKL),Air New Zealand A21N (ZK-NNG),Landed 10:42,2021-06-12
+15,15,11:15,VA733,Melbourne (MEL),Virgin Australia B738 (VH-YFK),Canceled,2021-06-12
+16,16,11:35,JQ420,Sydney (SYD),Jetstar Airways A320 (VH-VGU),Landed 11:23,2021-06-12
+17,17,11:40,VA515,Sydney (SYD),Virgin Australia B738 (VH-YVD),Landed 11:36,2021-06-12
+18,18,11:40,JQ967,Cairns (CNS),Jetstar Airways A320 (VH-VQL),Landed 11:46,2021-06-12
+19,19,11:40,VA1447,Adelaide (ADL),Virgin Australia B738 (VH-YIU),Landed 11:40,2021-06-12
+20,20,11:55,QF594,Sydney (SYD),Qantas B738 (VH-VZP),Landed 11:50,2021-06-12
+21,21,12:00,VA1687,Canberra (CBR),Virgin Australia B738 (VH-VUQ),Landed 11:47,2021-06-12
+22,22,12:20,JQ438,Melbourne (MEL),Jetstar Airways A320 (VH-VGR),Canceled,2021-06-12
+23,23,12:40,VA517,Sydney (SYD),Virgin Australia B738 (VH-YIW),Landed 12:41,2021-06-12
+24,24,13:15,VA739,Melbourne (MEL),Virgin Australia B738 (VH-VUS),Canceled,2021-06-12
+25,25,13:20,QF880,Melbourne (MEL),Qantas B738 (VH-VZJ),Landed 13:07,2021-06-12
+26,26,13:30,NZ279,Christchurch (CHC),Air New Zealand A320 (ZK-OJI),Landed 13:26,2021-06-12
+27,27,13:35,JQ134,Auckland (AKL),Jetstar Airways A320 (VH-VGP),Landed 13:38,2021-06-12
+28,28,13:40,JQ412,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 13:35,2021-06-12
+29,29,13:40,VA519,Sydney (SYD),Virgin Australia B738 (VH-VUT),Landed 14:10,2021-06-12
+30,30,13:50 ZL540,,Sydney (SYD),Regional Express B738 (VH-PAG),Landed 13:52,2021-06-12
+31,31,14:15,VA741,Melbourne (MEL),Virgin Australia B738 (VH-VUZ),Canceled,2021-06-12
+32,32,14:40,VA523,Sydney (SYD),Virgin Australia B738 (VH-YVA),Landed 15:34,2021-06-12
+33,33,15:15,QF592,Sydney (SYD),Qantas B738 (VH-VYC),Landed 15:27,2021-06-12
+34,34,15:15,VA743,Melbourne (MEL),Virgin Australia B738 (VH-YQM),Landed 16:30,2021-06-12
+35,35,15:25 QF1764,,Canberra (CBR),QantasLink B712 (VH-NXK),Landed 15:00,2021-06-12
+36,36,15:30,JQ494,Newcastle (NTL),Jetstar Airways A320 (VH-VQL),Landed 15:19,2021-06-12
+37,37,15:50,VA747,Melbourne (MEL),Virgin Australia B738 (VH-YIT),Canceled,2021-06-12
+38,38,15:55,JQ418,Sydney (SYD),Jetstar Airways A320 (VH-VFH),Landed 15:46,2021-06-12
+39,39,16:15,VA745,Melbourne (MEL),Virgin Australia B738 (VH-VUE),Canceled,2021-06-12
+40,40,16:20 ZL680,,Melbourne (MEL),Regional Express B738 (VH-REX),Landed 16:11,2021-06-12
+41,41,16:30,JQ410,Sydney (SYD),Jetstar Airways A320 (VH-VGR),Landed 16:25,2021-06-12
+42,42,16:40,VA527,Sydney (SYD),Virgin Australia B738 (VH-YVD),Landed 16:44,2021-06-12
+43,43,17:15,VA749,Melbourne (MEL),Virgin Australia B738 (VH-YFK),Canceled,2021-06-12
+44,44,17:20,JQ434,Melbourne (MEL),Jetstar Airways B788 (VH-VKI),Canceled,2021-06-12
+45,45,18:00,JQ414,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 17:48,2021-06-12
+46,46,19:00,JQ424,Sydney (SYD),Jetstar Airways A321 (VH-VWT),Landed 18:49,2021-06-12
+47,47,19:15,VA753,Melbourne (MEL),Virgin Australia B738 (VH-YFF),Canceled,2021-06-12
+48,48,19:20,VA539,Sydney (SYD),Virgin Australia B738 (VH-YVA),Landed 19:43,2021-06-12
+49,49,19:45,JQ444,Melbourne (MEL),Jetstar Airways A320 (VH-VQR),Landed 19:36,2021-06-12
+50,50,20:15,VA755,Melbourne (MEL),Virgin Australia B738 (VH-YFC),Canceled,2021-06-12
+51,51,21:15 QF878,,Melbourne (MEL),Qantas 73H,Unknown,2021-06-12
+52,52,21:15,JQ442,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-12
+53,53,22:05,JQ630,Melbourne (AVV),Jetstar Airways 320,Unknown,2021-06-12
+0,0,08:15,JQ430,Melbourne (MEL),Jetstar Airways A320 (VH-VGD),Canceled,2021-06-13
+1,1,08:35,JQ408,Sydney (SYD),Jetstar Airways A321 (VH-VWW),Landed 08:25,2021-06-13
+2,2,09:30,JQ404,Sydney (SYD),Jetstar Airways A320 (VH-VQL),Landed 09:16,2021-06-13
+3,3,09:50 ZL520,,Sydney (SYD),Regional Express B738 (VH-PAG),Landed 09:47,2021-06-13
+4,4,10:05,JQ432,Melbourne (MEL),Jetstar Airways B788 (VH-VKH),Canceled,2021-06-13
+5,5,10:35 ZL658,,Melbourne (MEL),Regional Express 738,Unknown,2021-06-13
+6,6,10:35,JQ454,Adelaide (ADL),Jetstar Airways A320 (VH-VQQ),Landed 11:15,2021-06-13
+7,7,10:40,VA511,Sydney (SYD),Virgin Australia B738 (VH-VUS),Landed 10:50,2021-06-13
+8,8,10:45,NZ187,Auckland (AKL),Air New Zealand A21N (ZK-NNB),Landed 10:40,2021-06-13
+9,9,11:15,VA733,Melbourne (MEL),Virgin Australia B738 (VH-YFV),Landed 11:06,2021-06-13
+10,10,11:35,JQ420,Sydney (SYD),Jetstar Airways A320 (VH-VFD),Landed 11:22,2021-06-13
+11,11,11:40,VA515,Sydney (SYD),Virgin Australia B738 (VH-YIS),Landed 11:32,2021-06-13
+12,12,11:40,JQ967,Cairns (CNS),Jetstar Airways A320 (VH-VGP),Landed 11:35,2021-06-13
+13,13,11:40,VA1447,Adelaide (ADL),Virgin Australia B738 (VH-YFW),Landed 11:43,2021-06-13
+14,14,11:55,QF594,Sydney (SYD),Qantas B738 (VH-VXL),Landed 11:47,2021-06-13
+15,15,12:00,VA1687,Canberra (CBR),Virgin Australia B738 (VH-YFR),Landed 11:51,2021-06-13
+16,16,12:15,VA735,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-13
+17,17,12:20,JQ438,Melbourne (MEL),Jetstar Airways A320 (VH-VQL),Canceled,2021-06-13
+18,18,12:40,VA517,Sydney (SYD),Virgin Australia B738 (VH-YFX),Landed 12:38,2021-06-13
+19,19,13:15,VA739,Melbourne (MEL),Virgin Australia 73H,Canceled,2021-06-13
+20,20,13:20,QF880,Melbourne (MEL),Qantas B738 (VH-XZO),Landed 13:14,2021-06-13
+21,21,13:35,JQ134,Auckland (AKL),Jetstar Airways A320 (VH-VGR),Landed 13:21,2021-06-13
+22,22,13:40,JQ412,Sydney (SYD),Jetstar Airways A320 (VH-VQL),Landed 13:27,2021-06-13
+23,23,13:40,VA519,Sydney (SYD),Virgin Australia B738 (VH-VOK),Landed 13:34,2021-06-13
+24,24,13:50 ZL540,,Sydney (SYD),Regional Express B738 (VH-PAG),Landed 14:01,2021-06-13
+25,25,14:15,VA741,Melbourne (MEL),Virgin Australia B738 (VH-YFV),Canceled,2021-06-13
+26,26,14:40,VA523,Sydney (SYD),Virgin Australia 73H,Unknown,2021-06-13
+27,27,15:15,VA743,Melbourne (MEL),Virgin Australia B738 (VH-YFF),Canceled,2021-06-13
+28,28,15:15,QF592,Sydney (SYD),Qantas B738 (VH-XZE),Landed 15:09,2021-06-13
+29,29,15:25 QF1764,,Canberra (CBR),QantasLink B712 (VH-YQX),Landed 15:19,2021-06-13
+30,30,15:30,JQ494,Newcastle (NTL),Jetstar Airways A320 (VH-VGP),Landed 15:27,2021-06-13
+31,31,15:40,VA525,Sydney (SYD),Virgin Australia B738 (VH-VUS),Landed 15:40,2021-06-13
+32,32,15:55,JQ418,Sydney (SYD),Jetstar Airways A320 (VH-VFD),Landed 16:04,2021-06-13
+33,33,16:15,VA745,Melbourne (MEL),Virgin Australia B738 (VH-YFZ),Canceled,2021-06-13
+34,34,16:20 ZL680,,Melbourne (MEL),Regional Express B738 (VH-REX),Landed 16:14,2021-06-13
+35,35,16:30,JQ410,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 16:17,2021-06-13
+36,36,16:40,VA527,Sydney (SYD),Virgin Australia B738 (VH-YIS),Landed 16:31,2021-06-13
+37,37,17:15,VA749,Melbourne (MEL),Virgin Australia B738 (VH-YFX),Canceled,2021-06-13
+38,38,17:20,JQ434,Melbourne (MEL),Jetstar Airways B788 (VH-VKH),Canceled,2021-06-13
+39,39,18:00,JQ414,Sydney (SYD),Jetstar Airways A320 (VH-VQL),Landed 17:50,2021-06-13
+40,40,18:40,VA535,Sydney (SYD),Virgin Australia B738 (VH-YFX),Landed 18:44,2021-06-13
+41,41,19:00,JQ424,Sydney (SYD),Jetstar Airways A321 (VH-VWT),Landed 18:59,2021-06-13
+42,42,19:15,VA753,Melbourne (MEL),Virgin Australia 73H,Canceled,2021-06-13
+43,43,19:30,JQ416,Sydney (SYD),Jetstar Airways A320 (VH-XSJ),Landed 19:29,2021-06-13
+44,44,19:40,VA539,Sydney (SYD),Virgin Australia B738 (VH-YIE),Landed 19:36,2021-06-13
+45,45,19:45,JQ444,Melbourne (MEL),Jetstar Airways A321 (VH-VWQ),Landed 19:33,2021-06-13
+46,46,20:15,VA755,Melbourne (MEL),Virgin Australia B738 (VH-VUW),Canceled,2021-06-13
+47,47,20:40,QF596,Sydney (SYD),Qantas B738 (VH-VXO),Landed 20:34,2021-06-13
+48,48,21:15 QF878,,Melbourne (MEL),Qantas 73H,Unknown,2021-06-13
+49,49,21:15,JQ442,Melbourne (MEL),Jetstar Airways A320 (VH-VGP),Canceled,2021-06-13
+50,50,21:20 JQ695,,Hobart (HBA),Jetstar Airways A320 (VH-VGR),Landed 21:25,2021-06-13
+51,51,22:05,JQ630,Melbourne (AVV),Jetstar Airways A320 (VH-VQW),Unknown,2021-06-13
+0,0,06:05 JQ983,,Perth (PER),Jetstar Airways A320 (VH-VGP),Landed 06:36,2021-06-14
+1,1,07:20,JQ400,Sydney (SYD),Jetstar Airways A320 (VH-VFO),Landed 07:02,2021-06-14
+2,2,08:10,VA725,Melbourne (MEL),Virgin Australia B738 (VH-YFZ),Landed 07:52,2021-06-14
+3,3,08:15,JQ430,Melbourne (MEL),Jetstar Airways A320 (VH-VQR),Canceled,2021-06-14
+4,4,08:35,JQ408,Sydney (SYD),Jetstar Airways A321 (VH-VWT),Landed 08:30,2021-06-14
+5,5,08:40,VA505,Sydney (SYD),Virgin Australia B738 (VH-YVD),Landed 08:35,2021-06-14
+6,6,09:30,JQ404,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 09:26,2021-06-14
+7,7,09:50 ZL520,,Sydney (SYD),Regional Express B738 (VH-PAG),Landed 09:38,2021-06-14
+8,8,10:05,JQ432,Melbourne (MEL),Jetstar Airways B788 (VH-VKI),Canceled,2021-06-14
+9,9,10:35 ZL658,,Melbourne (MEL),Regional Express 738,Unknown,2021-06-14
+10,10,10:35,JQ454,Adelaide (ADL),Jetstar Airways A320 (VH-VGN),Landed 10:30,2021-06-14
+11,11,10:40,VA511,Sydney (SYD),Virgin Australia B738 (VH-YIU),Landed 10:41,2021-06-14
+12,12,10:45,NZ187,Auckland (AKL),Air New Zealand A21N (ZK-NND),Landed 10:37,2021-06-14
+13,13,11:15,VA733,Melbourne (MEL),Virgin Australia B738 (VH-YIR),Landed 10:57,2021-06-14
+14,14,11:35,JQ420,Sydney (SYD),Jetstar Airways A320 (VH-VFO),Landed 11:17,2021-06-14
+15,15,11:40,JQ967,Cairns (CNS),Jetstar Airways A320 (VH-VGR),Landed 11:37,2021-06-14
+16,16,11:40,VA1447,Adelaide (ADL),Virgin Australia B738 (VH-YQO),Landed 11:32,2021-06-14
+17,17,11:40,VA515,Sydney (SYD),Virgin Australia B738 (VH-YFK),Canceled,2021-06-14
+18,18,11:55,QF594,Sydney (SYD),Qantas B738 (VH-VZS),Landed 11:35,2021-06-14
+19,19,12:00,VA1687,Canberra (CBR),Virgin Australia B738 (VH-YIO),Landed 12:00,2021-06-14
+20,20,12:20,JQ438,Melbourne (MEL),Jetstar Airways A320 (VH-VGQ),Canceled,2021-06-14
+21,21,12:40,VA517,Sydney (SYD),Virgin Australia B738 (VH-YIF),Landed 12:49,2021-06-14
+22,22,13:20,QF880,Melbourne (MEL),Qantas B738 (VH-VYC),Landed 13:01,2021-06-14
+23,23,13:35,JQ134,Auckland (AKL),Jetstar Airways A320 (VH-VQL),Landed 13:29,2021-06-14
+24,24,13:40,JQ412,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 13:58,2021-06-14
+25,25,13:40,VA519,Sydney (SYD),Virgin Australia B738 (VH-YIY),Landed 13:47,2021-06-14
+26,26,13:50 ZL540,,Sydney (SYD),Regional Express B738 (VH-PAG),Landed 13:52,2021-06-14
+27,27,14:15,VA741,Melbourne (MEL),Virgin Australia B738 (VH-YIY),Canceled,2021-06-14
+28,28,14:40,VA523,Sydney (SYD),Virgin Australia B738 (VH-YIS),Landed 14:34,2021-06-14
+29,29,15:15,QF592,Sydney (SYD),Qantas B738 (VH-VZP),Landed 15:13,2021-06-14
+30,30,15:15,VA743,Melbourne (MEL),Virgin Australia B738 (VH-VON),Landed 15:08,2021-06-14
+31,31,15:25 QF1764,,Canberra (CBR),QantasLink B712 (VH-NXJ),Landed 15:11,2021-06-14
+32,32,15:30,JQ494,Newcastle (NTL),Jetstar Airways A320 (VH-VGP),Landed 15:19,2021-06-14
+33,33,15:40,VA525,Sydney (SYD),Virgin Australia B738 (VH-YIE),Landed 15:35,2021-06-14
+34,34,15:55,JQ418,Sydney (SYD),Jetstar Airways A320 (VH-VFO),Landed 15:39,2021-06-14
+35,35,16:20 ZL680,,Melbourne (MEL),Regional Express B738 (VH-RYU),Landed 16:13,2021-06-14
+36,36,16:30,JQ410,Sydney (SYD),Jetstar Airways A320 (VH-VGR),Landed 16:18,2021-06-14
+37,37,16:40,VA527,Sydney (SYD),Virgin Australia B738 (VH-YFR),Landed 16:38,2021-06-14
+38,38,17:15,VA749,Melbourne (MEL),Virgin Australia B738 (VH-VOO),Canceled,2021-06-14
+39,39,17:20,JQ434,Melbourne (MEL),Jetstar Airways B788 (VH-VKI),Canceled,2021-06-14
+40,40,17:40,VA531,Sydney (SYD),Virgin Australia B738 (VH-YIF),Landed 17:34,2021-06-14
+41,41,18:00,JQ414,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 17:51,2021-06-14
+42,42,18:15 QF598,,Sydney (SYD),Qantas B738 (VH-XZO),Landed 18:00,2021-06-14
+43,43,18:40,VA535,Sydney (SYD),Virgin Australia B738 (VH-YIB),Landed 18:39,2021-06-14
+44,44,19:00,JQ424,Sydney (SYD),Jetstar Airways A321 (VH-VWN),Landed 18:50,2021-06-14
+45,45,19:15,VA753,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-14
+46,46,19:40,VA539,Sydney (SYD),Virgin Australia B738 (VH-VUP),Landed 19:42,2021-06-14
+47,47,19:45,JQ444,Melbourne (MEL),Jetstar Airways A320 (VH-VGQ),Landed 19:37,2021-06-14
+48,48,20:15,VA755,Melbourne (MEL),Virgin Australia B738 (VH-YQO),Canceled,2021-06-14
+49,49,20:40,QF596,Sydney (SYD),Qantas B738 (VH-VZP),Landed 21:25,2021-06-14
+50,50,20:45,VA757,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-14
+51,51,21:15,JQ442,Melbourne (MEL),Jetstar Airways A320 (VH-VQL),Canceled,2021-06-14
+52,52,21:15 QF878,,Melbourne (MEL),Qantas 73H,Unknown,2021-06-14
+53,53,21:40,VA545,Sydney (SYD),Virgin Australia B738 (VH-YID),Landed 21:33,2021-06-14
+54,54,22:05,JQ630,Melbourne (AVV),Jetstar Airways A320 (VH-VFF),Unknown,2021-06-14
+55,55,22:40,VA547,Sydney (SYD),Virgin Australia B738 (VH-YIF),Landed 22:25,2021-06-14
+56,56,22:40,VA761,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-14
+0,0,04:35 QF7443,,Sydney (SYD),Cobham Aviation B463 (VH-NJF),Landed 04:40,2021-06-15
+1,1,07:20,JQ400,Sydney (SYD),Jetstar Airways A320 (VH-VGU),Landed 07:19,2021-06-15
+2,2,08:10,VA725,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-15
+3,3,08:15,JQ430,Melbourne (MEL),Jetstar Airways A320 (VH-VGY),Canceled,2021-06-15
+4,4,08:35,JQ408,Sydney (SYD),Jetstar Airways A321 (VH-VWN),Landed 08:24,2021-06-15
+5,5,08:40,VA505,Sydney (SYD),Virgin Australia B738 (VH-YIY),Landed 08:31,2021-06-15
+6,6,09:30,JQ404,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 09:14,2021-06-15
+7,7,09:50 ZL520,,Sydney (SYD),Regional Express B738 (VH-RQG),Landed 09:40,2021-06-15
+8,8,10:05,JQ432,Melbourne (MEL),Jetstar Airways 788,Canceled,2021-06-15
+9,9,10:35 ZL658,,Melbourne (MEL),Regional Express 738,Unknown,2021-06-15
+10,10,10:40,VA511,Sydney (SYD),Virgin Australia B738 (VH-YFT),Landed 10:54,2021-06-15
+11,11,10:45,NZ187,Auckland (AKL),Air New Zealand A21N (ZK-NNE),Landed 11:07,2021-06-15
+12,12,11:15,VA733,Melbourne (MEL),Virgin Australia B738 (VH-YFW),Canceled,2021-06-15
+13,13,11:35,JQ420,Sydney (SYD),Jetstar Airways A320 (VH-VGU),Landed 11:21,2021-06-15
+14,14,11:40,JQ967,Cairns (CNS),Jetstar Airways A320 (VH-VGQ),Landed 11:32,2021-06-15
+15,15,11:40,VA1447,Adelaide (ADL),Virgin Australia B738 (VH-VUZ),Landed 11:40,2021-06-15
+16,16,11:55,QF594,Sydney (SYD),Qantas B738 (VH-XZM),Landed 11:44,2021-06-15
+17,17,12:00,VA1687,Canberra (CBR),Virgin Australia B738 (VH-YFC),Landed 12:22,2021-06-15
+18,18,12:20,JQ438,Melbourne (MEL),Jetstar Airways A320 (VH-VFN),Canceled,2021-06-15
+19,19,12:40,VA517,Sydney (SYD),Virgin Australia B738 (VH-YFZ),Landed 12:42,2021-06-15
+20,20,13:15,VA739,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-15
+21,21,13:20,QF880,Melbourne (MEL),Qantas B738 (VH-VXM),Landed 13:04,2021-06-15
+22,22,13:30,NZ279,Christchurch (CHC),Air New Zealand A320 (ZK-OJI),Landed 13:28,2021-06-15
+23,23,13:35,JQ134,Auckland (AKL),Jetstar Airways A320 (VH-VGP),Landed 13:37,2021-06-15
+24,24,13:40,VA519,Sydney (SYD),Virgin Australia B738 (VH-YIH),Landed 14:04,2021-06-15
+25,25,13:50 ZL540,,Sydney (SYD),Regional Express B738 (VH-PAG),Landed 13:53,2021-06-15
+26,26,14:15,VA741,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-15
+27,27,14:40,VA523,Sydney (SYD),Virgin Australia B738 (VH-YFY),Landed 14:29,2021-06-15
+28,28,15:15,QF592,Sydney (SYD),Qantas B738 (VH-VXP),Landed 15:05,2021-06-15
+29,29,15:15,VA743,Melbourne (MEL),Virgin Australia B738 (VH-YIZ),Landed 14:59,2021-06-15
+30,30,15:25 QF1764,,Canberra (CBR),QantasLink B712 (VH-NXJ),Landed 15:18,2021-06-15
+31,31,15:30,JQ494,Newcastle (NTL),Jetstar Airways A320 (VH-VGQ),Landed 15:23,2021-06-15
+32,32,15:55,JQ418,Sydney (SYD),Jetstar Airways A320 (VH-VGU),Landed 15:49,2021-06-15
+33,33,16:20 ZL680,,Melbourne (MEL),REX Regional Express B738 (VH-RQC),Landed 16:09,2021-06-15
+34,34,16:30,JQ410,Sydney (SYD),Jetstar Airways A320 (VH-VFN),Landed 16:13,2021-06-15
+35,35,16:40,VA527,Sydney (SYD),Virgin Australia B738 (VH-VOO),Landed 16:31,2021-06-15
+36,36,17:15,VA749,Melbourne (MEL),Virgin Australia B738 (VH-YFU),Canceled,2021-06-15
+37,37,17:20,JQ434,Melbourne (MEL),Jetstar Airways 788,Canceled,2021-06-15
+38,38,18:00,JQ414,Sydney (SYD),Jetstar Airways A320 (VH-VQL),Landed 17:51,2021-06-15
+39,39,19:00,JQ424,Sydney (SYD),Jetstar Airways A321 (VH-VWX),Landed 18:58,2021-06-15
+40,40,19:40,VA539,Sydney (SYD),Virgin Australia B738 (VH-VUQ),Landed 19:40,2021-06-15
+41,41,19:45,JQ444,Melbourne (MEL),Jetstar Airways A320 (VH-VQC),Landed 19:31,2021-06-15
+42,42,20:15,VA755,Melbourne (MEL),Virgin Australia B738 (VH-VUE),Canceled,2021-06-15
+43,43,20:40,QF596,Sydney (SYD),Qantas B738 (VH-VZC),Landed 20:28,2021-06-15
+44,44,21:15,JQ442,Melbourne (MEL),Jetstar Airways A320 (VH-VQL),Canceled,2021-06-15
+45,45,21:15 QF878,,Melbourne (MEL),Qantas B738 (VH-VXF),Unknown,2021-06-15
+46,46,21:20 JQ695,,Hobart (HBA),Jetstar Airways A320 (VH-VGP),Landed 21:16,2021-06-15
+47,47,21:40,VA545,Sydney (SYD),Virgin Australia B738 (VH-YFZ),Landed 21:31,2021-06-15
+48,48,22:05,JQ630,Melbourne (AVV),Jetstar Airways A320 (VH-VFN),Unknown,2021-06-15
+49,49,22:40,VA761,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-15

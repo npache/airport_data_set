@@ -1,0 +1,1876 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:05 SU6990,,Simferopol (SIP),Rossiya A319 (VQ-BAR),Landed 23:49,2021-06-08
+1,1,00:05,WZ736,Sochi (AER),Red Wings A321 (VP-BER),Landed 23:44,2021-06-08
+2,2,00:10,WZ702,Simferopol (SIP),Red Wings A320 (VP-BWW),Landed 23:53,2021-06-08
+3,3,00:15,EO795,Orsk (OSW),Pegas Fly E90,Unknown,2021-06-08
+4,4,00:25 5N518,,Murmansk (MMK),Smartavia B737 (VP-BYY),Landed 00:09,2021-06-08
+5,5,00:30 SU2815,,Sochi (AER),Aeroflot A320 (VP-BFE),Landed 00:20,2021-06-08
+6,6,00:35,WZ648,Krasnodar (KRR),Red Wings A320 (VP-BWX),Landed 00:18,2021-06-08
+7,7,00:40,SU34,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 00:29,2021-06-08
+8,8,00:40 5N540,,Kaliningrad (KGD),SmartAvia A20N (VP-BOF),Landed 00:25,2021-06-08
+9,9,01:05 SU6116,,Volgograd (VOG),Rossiya A319 (VP-BBT),Landed 00:48,2021-06-08
+10,10,01:15,S71025,Moscow (DME),S7 Airlines A321 (VQ-BQH),Landed 00:57,2021-06-08
+11,11,01:20 SU6314,,Krasnodar (KRR),Rossiya A319 (VQ-BAU),Landed 01:12,2021-06-08
+12,12,01:40 5N526,,Simferopol (SIP),Smartavia B738 (VQ-BBW),Landed 01:32,2021-06-08
+13,13,02:00 SU46,,Moscow (SVO),Aeroflot B738 (VP-BMD),Unknown,2021-06-08
+14,14,02:25 SU6992,,Simferopol (SIP),Aeroflot 319,Canceled,2021-06-08
+15,15,02:30 U68582,,Dushanbe (DYU),Ural Airlines A321 (VP-BVR),Landed 03:57,2021-06-08
+16,16,02:45 N42028,,Tamchy (IKU),Nordwind Airlines B738 (VP-BSO),Landed 02:28,2021-06-08
+17,17,02:45 BJ882,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-08
+18,18,02:55 SU36,,Moscow (SVO),Aeroflot A321 (VP-BKR),Landed 02:33,2021-06-08
+19,19,03:15 SU6998,,Simferopol (SIP),Rossiya A319 (VQ-BBA),Landed 03:11,2021-06-08
+20,20,04:10 U628,,Sochi (AER),Ural Airlines A320 (VQ-BCY),Landed 04:03,2021-06-08
+21,21,04:35 U6512,,Simferopol (SIP),Ural Airlines A321 (VP-BBH),Landed 04:45,2021-06-08
+22,22,05:20 ZF1402,,Nukus (NCU),Azur Air B763 (VP-BUX),Landed 05:01,2021-06-08
+23,23,05:25 SU2805,,Sochi (AER),Aeroflot B738 (VP-BCF),Landed 05:17,2021-06-08
+24,24,05:30 BJ826,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-08
+25,25,05:45,WZ800,Kaliningrad (KGD),Red Wings A321 (VP-BER),Landed 05:11,2021-06-08
+26,26,05:55 SU6582,,Perm (PEE),Rossiya A319 (VP-BWJ),Landed 05:47,2021-06-08
+27,27,05:55 SU6596,,Kazan (KZN),Rossiya A319 (VQ-BOX),Landed 05:40,2021-06-08
+28,28,06:05 DP570,,Perm (PEE),Pobeda B738 (VP-BPJ),Landed 05:53,2021-06-08
+29,29,06:15 DP560,,Ufa (UFA),Pobeda B738 (VQ-BTI),Landed 06:12,2021-06-08
+30,30,06:15 SU6358,,Mineralnye Vody (MRV),Rossiya A319 (VP-BBU),Landed 05:57,2021-06-08
+31,31,06:15 SU6328,,Kaliningrad (KGD),Aeroflot B738 (VQ-BVV),Landed 05:51,2021-06-08
+32,32,06:20 SU6442,,Surgut (SGC),Rossiya A319 (VQ-BAT),Landed 06:15,2021-06-08
+33,33,06:30,SU6304,Arkhangelsk (ARH),Rossiya SU95 (RA-89131),Landed 06:22,2021-06-08
+34,34,06:35 DP516,,Yekaterinburg (SVX),Pobeda B738 (VQ-BAW),Landed 07:18,2021-06-08
+35,35,06:45 SU6900,,Simferopol (SIP),Rossiya A319 (VQ-BAV),Landed 06:38,2021-06-08
+36,36,06:50 SU6412,,Ufa (UFA),Rossiya A319 (VP-BIT),Landed 06:44,2021-06-08
+37,37,06:55 SU6452,,Tyumen (TJM),Rossiya A319 (VP-BWG),Landed 06:50,2021-06-08
+38,38,06:55 UT489,,Moscow (VKO),UTair 738,Unknown,2021-06-08
+39,39,07:00 SU6574,,Krasnoyarsk (KJA),Rossiya A320 (VP-BZR),Landed 07:16,2021-06-08
+40,40,07:05 SU6402,,Yekaterinburg (SVX),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 07:12,2021-06-08
+41,41,07:05 SU6472,,Omsk (OMS),Rossiya A319 (VQ-BCO),Landed 06:55,2021-06-08
+42,42,07:10 DP550,,Chelyabinsk (CEK),Pobeda B738 (VP-BPS),Landed 06:52,2021-06-08
+43,43,07:15 SU6344,,Murmansk (MMK),Rossiya A319 (VQ-BAU),Landed 07:21,2021-06-08
+44,44,07:15 SU6462,,Chelyabinsk (CEK),Rossiya A319 (VP-BIV),Landed 07:00,2021-06-08
+45,45,07:20 SU6454,,Orenburg (REN),Rossiya A320 (VP-BWH),Landed 07:03,2021-06-08
+46,46,07:20 SU6542,,Novosibirsk (OVB),Rossiya A319 (VP-BIU),Landed 06:58,2021-06-08
+47,47,07:25,SU2,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 07:14,2021-06-08
+48,48,07:30 SU6232,,Samara (KUF),Rossiya A319 (VQ-BAQ),Landed 07:07,2021-06-08
+49,49,07:30 SU6588,,Syktyvkar (SCW),Rossiya A319 (VP-BNJ),Landed 07:10,2021-06-08
+50,50,07:40 TK1233,,Antalya (AYT),Turkish Airlines 73H,Unknown,2021-06-08
+51,51,07:45 N4330,,Kazan (KZN),Nordwind Airlines A321 (VQ-BRL),Landed 07:23,2021-06-08
+52,52,08:00 5N592,,Ufa (UFA),Smartavia B738 (VP-BAB),Landed 07:34,2021-06-08
+53,53,08:05 SU6022,,Moscow (VKO),Rossiya A320 (VQ-BFM),Landed 08:08,2021-06-08
+54,54,08:05 5N584,,Perm (PEE),Smartavia B738 (VQ-BBW),Landed 07:53,2021-06-08
+55,55,08:25 D219,,Cherepovets (CEE),Severstal CRJ2 (RA-67230),Landed 08:20,2021-06-08
+56,56,08:25,SU6,Moscow (SVO),Aeroflot A321 (VP-BKR),Landed 08:11,2021-06-08
+57,57,08:40 5N149,,Arkhangelsk (ARH),Smartavia B737 (VP-BYY),Landed 08:14,2021-06-08
+58,58,08:40 5N578,,Tyumen (TJM),Smartavia B737 (VQ-BBI),Landed 08:24,2021-06-08
+59,59,09:00 DP558,,Novosibirsk (OVB),Pobeda Airlines B738 (VP-BQZ),Landed 08:55,2021-06-08
+60,60,09:00 5N528,,Chelyabinsk (CEK),SmartAvia A20N (VP-BOF),Landed 08:38,2021-06-08
+61,61,09:05,S71005,Moscow (DME),S7 Airlines A320 (VP-BCS),Landed 08:47,2021-06-08
+62,62,09:15 N4762,,Novokuznetsk (NOZ),Nordwind Airlines B738 (VP-BSZ),Landed 09:11,2021-06-08
+63,63,09:25,EO586,Belgorod (EGO),Pegas Fly E190 (VP-BZJ),Landed 09:30,2021-06-08
+64,64,09:25 UT528,,Tyumen (TJM),UTair B735 (VP-BXQ),Landed 09:08,2021-06-08
+65,65,09:35 7R554,,Voronezh (VOZ),Rusline CRJ1 (VP-BNO),Landed 09:18,2021-06-08
+66,66,09:40 5N512,,Volgograd (VOG),SmartAvia A20N (VP-BOS),Landed 09:29,2021-06-08
+67,67,09:50 SU10,,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 09:33,2021-06-08
+68,68,09:50 SU6010,,Moscow (VKO),Rossiya A319 (VQ-BAR),Landed 09:47,2021-06-08
+69,69,09:55,JU670,Belgrade (BEG),AirSERBIA A319 (YU-APA),Landed 09:53,2021-06-08
+70,70,09:55 U6225,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BLO),Landed 09:43,2021-06-08
+71,71,10:00 VGV612,,Vologda (VGD),- YK4,Unknown,2021-06-08
+72,72,10:05 U654,,Kaliningrad (KGD),Ural Airlines 320,Unknown,2021-06-08
+73,73,10:10 DP203,,Moscow (VKO),Pobeda B738 (VP-BQG),Landed 09:59,2021-06-08
+74,74,10:20 N4177,,Moscow (SVO),Nordwind Airlines A321 (VQ-BRY),Landed 10:18,2021-06-08
+75,75,10:35 YC877,,Nadym (NYM),Yamal Airlines SU95 (RA-89081),Landed 10:22,2021-06-08
+76,76,10:40 SU6898,,Simferopol (SIP),Aeroflot 319,Canceled,2021-06-08
+77,77,10:55 DP205,,Moscow (VKO),Pobeda B738 (VP-BQH),Landed 10:53,2021-06-08
+78,78,11:10 DP306,,Sochi (AER),Pobeda B738 (VQ-BHR),Landed 10:59,2021-06-08
+79,79,11:10,SU12,Moscow (SVO),Aeroflot A320 (VQ-BKT),Landed 10:48,2021-06-08
+80,80,11:30,S71027,Moscow (DME),S7 Airlines A320 (VQ-BRD),Landed 12:12,2021-06-08
+81,81,11:30 BJ814,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-08
+82,82,11:35 A4303,,Krasnodar (KRR),Azimuth SU95 (RA-89096),Landed 11:17,2021-06-08
+83,83,11:40 DP308,,Anapa (AAQ),Pobeda B738 (VP-BPK),Landed 11:44,2021-06-08
+84,84,11:40 SU6306,,Arkhangelsk (ARH),Rossiya A319 (VQ-BOX),Landed 11:23,2021-06-08
+85,85,11:40 U679,,Moscow (DME),Ural Airlines A320 (VQ-BCZ),Landed 11:42,2021-06-08
+86,86,11:50 S76377,,Irkutsk (IKT),S7 Airlines A20N (VP-BVJ),Landed 11:51,2021-06-08
+87,87,11:55,UT369,Moscow (VKO),UTair B734 (VQ-BID),Landed 11:57,2021-06-08
+88,88,12:00 SU6018,,Moscow (VKO),Rossiya A320 (VP-BZQ),Landed 12:05,2021-06-08
+89,89,12:05 N4400,,Cairo (CAI),Nordwind Airlines B772 (VP-BJH),Landed 11:54,2021-06-08
+90,90,12:05,SU14,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 11:47,2021-06-08
+91,91,12:10,EO317,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZI),Landed 12:08,2021-06-08
+92,92,12:10 N4140,,Sochi (AER),Nordwind Airlines B738 (VP-BSA),Landed 12:10,2021-06-08
+93,93,12:10,SU6324,Kaliningrad (KGD),Rossiya A320 (VP-BWI),Landed 12:15,2021-06-08
+94,94,12:15 S75003,,Novosibirsk (OVB),S7 Airlines B738 (VP-BLE),Landed 12:01,2021-06-08
+95,95,12:25 N4300,,Vladivostok (VVO),Nordwind Airlines A332 (VP-BUC),Landed 12:30,2021-06-08
+96,96,12:25 U68532,,Dushanbe (DYU),Ural Airlines A321 (VP-BVP),Diverted to KUF,2021-06-08
+97,97,12:25 ZF8794,,Antalya (AYT),Azur Air 76W,Unknown,2021-06-08
+98,98,12:30 A4203,,Rostov-on-Don (ROV),Azimuth SU95 (RA-89080),Landed 12:19,2021-06-08
+99,99,12:35 DP6821,,Moscow (SVO),Pobeda B738 (VP-BQJ),Landed 12:17,2021-06-08
+100,100,12:50 U6548,,Sochi (AER),Ural Airlines A321 (VP-BBH),Landed 13:12,2021-06-08
+101,101,12:55 SU6028,,Moscow (VKO),Rossiya A319 (VP-BWG),Landed 12:51,2021-06-08
+102,102,13:00 R3487,,Barnaul (BAX),Yakutia Airlines 73W,Unknown,2021-06-08
+103,103,13:00,SU16,Moscow (SVO),Aeroflot (95 years with you Livery) A321 (VP-BEE),Landed 12:53,2021-06-08
+104,104,13:05 5N145,,Arkhangelsk (ARH),Smartavia B737 (VP-BYY),Landed 12:55,2021-06-08
+105,105,13:15 DP536,,Kaliningrad (KGD),Pobeda Airlines B738 (VP-BQZ),Landed 13:06,2021-06-08
+106,106,13:15,SU6342,Murmansk (MMK),Rossiya A319 (VQ-BAU),Landed 13:01,2021-06-08
+107,107,13:20,SU42,Moscow (SVO),Aeroflot A320 (VQ-BEH),Landed 12:59,2021-06-08
+108,108,13:25 AY707,,Helsinki (HEL),Finnair AT75 (OH-ATF),Landed 13:16,2021-06-08
+109,109,13:25 DP528,,Naberezhnye Chelny (NBC),Pobeda B738 (VP-BPJ),Landed 13:08,2021-06-08
+110,110,13:35 DP538,,Stavropol (STW),Pobeda B738 (VP-BGQ),Landed 13:33,2021-06-08
+111,111,13:45 DP211,,Moscow (VKO),Pobeda B738 (VQ-BHV),Landed 13:41,2021-06-08
+112,112,13:55 D258,,Apatity (KVK),Severstal Aircompany CR2,Unknown,2021-06-08
+113,113,13:55,SU18,Moscow (SVO),Aeroflot A320 (VP-BLN),Landed 13:25,2021-06-08
+114,114,14:00 DP505,,Makhachkala (MCX),Pobeda B738 (VQ-BTJ),Landed 13:54,2021-06-08
+115,115,14:05,QR279,Doha (DOH),Qatar Airways 320,Unknown,2021-06-08
+116,116,14:05 7R108,,Ivanovo (IWA),Rusline CRJ1 (VP-BNO),Landed 13:51,2021-06-08
+117,117,14:20 7R104,,Ivanovo (IWA),Rusline CR2,Unknown,2021-06-08
+118,118,14:20 5N508,,Murmansk (MMK),SmartAvia A20N (VP-BOF),Landed 14:03,2021-06-08
+119,119,14:30,S71011,Moscow (DME),S7 Airlines A20N (VP-BVH),Landed 14:12,2021-06-08
+120,120,14:35 DP540,,Mineralnye Vody (MRV),Pobeda B738 (VP-BPS),Landed 14:23,2021-06-08
+121,121,14:40 U68716,,Ganja (KVD),Ural Airlines A321 (VP-BVR),Landed 15:09,2021-06-08
+122,122,14:40 5N504,,Syktyvkar (SCW),Smartavia 73W,Unknown,2021-06-08
+123,123,14:40 5N598,,Kazan (KZN),Smartavia B738 (VP-BAB),Landed 14:32,2021-06-08
+124,124,14:44 U68532,,Samara (KUF),Ural Airlines A321 (VP-BVP),Landed 14:45,2021-06-08
+125,125,14:45 SU6002,,Irkutsk (IKT),Aeroflot B738 (VQ-BVU),Landed 14:48,2021-06-08
+126,126,14:45 SU6372,,Rostov-on-Don (ROV),Rossiya A319 (VQ-BCO),Landed 14:26,2021-06-08
+127,127,14:50 SU6892,,Simferopol (SIP),Rossiya A319 (VP-BBU),Landed 14:51,2021-06-08
+128,128,14:55 SU6326,,Kaliningrad (KGD),Rossiya A319 (VP-BIV),Landed 14:40,2021-06-08
+129,129,14:55,TK401,Istanbul (IST),Turkish Airlines 321,Unknown,2021-06-08
+130,130,14:55 U659,,Moscow (DME),Ural Airlines A320 (VQ-BDJ),Landed 15:30,2021-06-08
+131,131,15:00,WZ792,Anapa (AAQ),Red Wings A321 (VP-BER),Landed 14:42,2021-06-08
+132,132,15:05,SU20,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 14:54,2021-06-08
+133,133,15:15 SU6106,,Nizhny Novgorod (GOJ),Rossiya SU95 (RA-89128),Landed 15:07,2021-06-08
+134,134,15:25 SU6216,,Gelendzhik (GDZ),Rossiya A319 (VQ-BAQ),Landed 15:25,2021-06-08
+135,135,15:30 SU6014,,Moscow (VKO),Rossiya A319 (VQ-BAT),Landed 15:34,2021-06-08
+136,136,15:30 SU6356,,Mineralnye Vody (MRV),Rossiya A319 (VQ-BBA),Landed 15:20,2021-06-08
+137,137,15:30 YM540,,Tivat (TIV),Montenegro Airlines E95,Unknown,2021-06-08
+138,138,15:45 SU6202,,Anapa (AAQ),Rossiya A319 (VP-BNJ),Landed 15:43,2021-06-08
+139,139,15:45 SU6316,,Krasnodar (KRR),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 15:46,2021-06-08
+140,140,15:45 S75005,,Novosibirsk (OVB),S7 Airlines A20N (VQ-BDQ),Landed 15:28,2021-06-08
+141,141,15:45 5N532,,Samara (KUF),SmartAvia A20N (VP-BOS),Landed 16:01,2021-06-08
+142,142,15:50 U6366,,Yekaterinburg (SVX),Ural Airlines 320,Unknown,2021-06-08
+143,143,15:50 U6623,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BCI),Landed 15:51,2021-06-08
+144,144,15:55 WZ7065,,Simferopol (SIP),Red Wings A321 (VP-BVT),Landed 16:05,2021-06-08
+145,145,16:00 SU6564,,Sochi (AER),Rossiya A319 (VP-BIT),Landed 15:55,2021-06-08
+146,146,16:05 DP314,,Sochi (AER),Pobeda B738 (VP-BFB),Landed 16:13,2021-06-08
+147,147,16:05 WZ794,,Yekaterinburg (SVX),Red Wings A320 (VP-BWW),Landed 21:08,2021-06-08
+148,148,16:10 N4130,,Simferopol (SIP),Nordwind Airlines A321 (VP-BRD),Landed 15:58,2021-06-08
+149,149,16:20,S71013,Moscow (DME),S7 Airlines A321 (VQ-BQH),Landed 16:20,2021-06-08
+150,150,16:20 5N546,,Sochi (AER),Smartavia B738 (VQ-BBW),Landed 16:10,2021-06-08
+151,151,16:30 U6392,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BCZ),Landed 16:34,2021-06-08
+152,152,16:45 DP588,,Kaliningrad (KGD),Pobeda B738 (VP-BQJ),Landed 16:37,2021-06-08
+153,153,16:45 SU22,,Moscow (SVO),Aeroflot A320 (VQ-BKT),Landed 16:52,2021-06-08
+154,154,16:45 SU6110,,Nalchik (NAL),Aeroflot (N89131),Unknown,2021-06-08
+155,155,17:05 DP518,,Volgograd (VOG),Pobeda B738 (VP-BQH),Landed 17:02,2021-06-08
+156,156,17:10 5N586,,Krasnodar (KRR),Smartavia A20N (VP-BOZ),Landed 17:07,2021-06-08
+157,157,17:30 DP201,,Moscow (VKO),Pobeda 738,Unknown,2021-06-08
+158,158,17:30 D2324,,Ukhta (UCT),Severstal SU95 (RA-89118),Landed 17:29,2021-06-08
+159,159,17:40 DP510,,Krasnodar (KRR),Pobeda B738 (VP-BQG),Landed 17:32,2021-06-08
+160,160,17:40 SU6984,,Simferopol (SIP),Rossiya A319 (VP-BWJ),Landed 17:37,2021-06-08
+161,161,17:40 5N534,,Kaliningrad (KGD),Smartavia B737 (VP-BYY),Landed 17:22,2021-06-08
+162,162,17:45 A4643,,Bryansk (BZK),Azimuth SU95 (RA-89080),Landed 17:47,2021-06-08
+163,163,17:45 U6346,,Anapa (AAQ),Ural Airlines A320 (VQ-BLO),Landed 17:26,2021-06-08
+164,164,17:50 N41914,,Dusseldorf (DUS),Nordwind Airlines 73H,Unknown,2021-06-08
+165,165,17:50 SU38,,Moscow (SVO),Aeroflot B738 (VQ-BVO),Landed 17:41,2021-06-08
+166,166,17:55 DP209,,Moscow (VKO),Pobeda B738 (VP-BPX),Landed 19:14,2021-06-08
+167,167,17:55 WZ532,,Tivat (TIV),Red Wings 320,Unknown,2021-06-08
+168,168,18:00 ZF7812,,Djerba (DJE),Azur Air B763 (VP-BUX),Landed 17:45,2021-06-08
+169,169,18:10 U6658,,Simferopol (SIP),Ural Airlines A320 (VQ-BCY),Landed 18:23,2021-06-08
+170,170,18:15 SU6234,,Samara (KUF),Rossiya A319 (VQ-BAR),Landed 18:07,2021-06-08
+171,171,18:25 SU6986,,Simferopol (SIP),Rossiya A319 (VP-BBT),Landed 18:26,2021-06-08
+172,172,18:30 DP526,,Cheboksary (CSY),Pobeda Airlines B738 (VP-BQZ),Landed 18:14,2021-06-08
+173,173,18:35,SU24,Moscow (SVO),Aeroflot A320 (VQ-BEH),Landed 18:20,2021-06-08
+174,174,18:40,S71015,Moscow (DME),S7 Airlines B738 (VQ-BVM),Landed 19:00,2021-06-08
+175,175,18:45 SU6066,,Makhachkala (MCX),Rossiya A320 (VP-BZR),Landed 18:38,2021-06-08
+176,176,18:50 SU6030,,Moscow (VKO),Rossiya A319 (VP-BWG),Landed 19:18,2021-06-08
+177,177,18:55,EO795,Orsk (OSW),Pegas Fly E190 (VP-BZJ),Landed 18:44,2021-06-08
+178,178,19:00 SU6566,,Sochi (AER),Rossiya A319 (VP-BIU),Landed 18:48,2021-06-08
+179,179,19:05 SU2833,,Larnaca (LCA),Aeroflot B738 (VP-BMD),Landed 19:05,2021-06-08
+180,180,19:10 UT264,,Grozny (GRV),UTair B735 (VP-BXQ),Landed 19:12,2021-06-08
+181,181,19:15 7R262,,Lipetsk (LPK),Rusline CRJ1 (VP-BNO),Landed 19:03,2021-06-08
+182,182,19:20 5N147,,Arkhangelsk (ARH),Smartavia B737 (VQ-BBI),Landed 19:10,2021-06-08
+183,183,19:25 SU6012,,Moscow (VKO),Rossiya A320 (VP-BZQ),Landed 20:10,2021-06-08
+184,184,19:30 UT381,,Moscow (VKO),UTair B734 (VQ-BIF),Landed 19:57,2021-06-08
+185,185,19:35 A4607,,Elista (ESL),Azimuth SU95 (RA-89096),Landed 18:52,2021-06-08
+186,186,19:35 DP576,,Voronezh (VOZ),Pobeda B738 (VP-BPS),Landed 19:45,2021-06-08
+187,187,19:50 SU6006,,Krasnodar (KRR),Aeroflot B738 (VQ-BVV),Landed 19:53,2021-06-08
+188,188,19:55 N4147,,Moscow (SVO),Nordwind Airlines B738 (VP-BSC),Landed 19:39,2021-06-08
+189,189,20:05,S71017,Moscow (DME),S7 Airlines B738 (VQ-BKV),Landed 20:52,2021-06-08
+190,190,20:15,SU26,Moscow (SVO),Aeroflot (95 years with you Livery) A321 (VP-BEE),Landed 19:59,2021-06-08
+191,191,20:20 UT469,,Surgut (SGC),UTair B735 (VP-BFS),Landed 20:35,2021-06-08
+192,192,20:25 SU6988,,Simferopol (SIP),Rossiya A319 (VQ-BOX),Landed 20:17,2021-06-08
+193,193,20:30 SU6004,,Anapa (AAQ),Rossiya B738 (VP-BUS),Landed 20:24,2021-06-08
+194,194,20:30,SU6330,Kaliningrad (KGD),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 20:21,2021-06-08
+195,195,20:50,WZ782,Simferopol (SIP),Red Wings A321 (VP-BVQ),Unknown,2021-06-08
+196,196,20:50 5N9111,,Moscow (DME),SmartAvia B738 (VP-BAM),Landed 20:30,2021-06-08
+197,197,21:00 S76486,,Urgench (UGC),S7 Airlines B738 (VQ-BVL),Landed 20:38,2021-06-08
+198,198,21:10 7R294,,Kaluga (KLF),Rusline CRJ1 (VP-BNM),Landed 21:03,2021-06-08
+199,199,21:15 5N536,,Rostov-on-Don (ROV),Smartavia B738 (VP-BAB),Landed 21:26,2021-06-08
+200,200,21:20,SU28,Moscow (SVO),Aeroflot A321 (VP-BKJ),Landed 20:56,2021-06-08
+201,201,21:20 SU6598,,Kazan (KZN),Rossiya A319 (VP-BIV),Landed 21:15,2021-06-08
+202,202,21:25 D221,,Cherepovets (CEE),Severstal CRJ2 (RA-67239),Landed 21:24,2021-06-08
+203,203,21:35 SU6036,,Moscow (VKO),Rossiya A319 (VP-BNJ),Landed 21:32,2021-06-08
+204,204,21:35,S71019,Moscow (DME),S7 Airlines A320 (VQ-BPL),Landed 21:48,2021-06-08
+205,205,21:40 DP508,,Beslan (OGZ),Pobeda B738 (VQ-BHV),Landed 21:42,2021-06-08
+206,206,21:55 SU6104,,Rostov-on-Don (ROV),Aeroflot B738 (VQ-BVU),Landed 21:46,2021-06-08
+207,207,22:00,SU30,Moscow (SVO),Aeroflot B738 (VQ-BWA),Landed 21:39,2021-06-08
+208,208,22:00 S75007,,Novosibirsk (OVB),S7 Airlines A20N (VP-BWT),Landed 21:37,2021-06-08
+209,209,22:10 N41900,,Tel Aviv (TLV),Nordwind Airlines B738 (VP-BSO),Landed 21:54,2021-06-08
+210,210,22:10 5N596,,Gelendzhik (GDZ),SmartAvia A20N (VP-BOF),Landed 22:03,2021-06-08
+211,211,22:20,SU6346,Murmansk (MMK),Rossiya A319 (VP-BIT),Landed 21:59,2021-06-08
+212,212,22:30,SU32,Moscow (SVO),Aeroflot (SkyTeam Livery) A320 (VQ-BRW),Landed 22:09,2021-06-08
+213,213,22:35 U638,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BLO),Landed 22:42,2021-06-08
+214,214,22:40 SU6204,,Anapa (AAQ),Rossiya A319 (VP-BBU),Landed 22:28,2021-06-08
+215,215,22:45 D256,,Apatity (KVK),Severstal SU95 (RA-89118),Landed 22:31,2021-06-08
+216,216,22:50 SU6562,,Sochi (AER),Rossiya A319 (VQ-BAU),Landed 22:35,2021-06-08
+217,217,22:55,SU6308,Arkhangelsk (ARH),Rossiya A319 (VP-BBT),Landed 22:47,2021-06-08
+218,218,23:00 SU44,,Moscow (SVO),Aeroflot A320 (VQ-BKT),Landed 22:38,2021-06-08
+219,219,23:00 SU6404,,Yekaterinburg (SVX),Rossiya A319 (VQ-BBA),Landed 22:56,2021-06-08
+220,220,23:10 DP548,,Kazan (KZN),Pobeda B738 (VP-BQH),Landed 23:03,2021-06-08
+221,221,23:10 SU6414,,Ufa (UFA),Rossiya A319 (VQ-BAT),Landed 22:50,2021-06-08
+222,222,23:10 SU6896,,Simferopol (SIP),Rossiya A319 (VQ-BCO),Landed 23:00,2021-06-08
+223,223,23:15 DP530,,Kaliningrad (KGD),Pobeda B738 (VP-BPX),Landed 23:15,2021-06-08
+224,224,23:15 SU6024,,Moscow (VKO),Rossiya A320 (VP-BWH),Landed 23:10,2021-06-08
+225,225,23:20 5N542,,Mineralnye Vody (MRV),Smartavia B738 (VQ-BBW),Landed 00:02,2021-06-08
+226,226,23:25 DP578,,Saratov (GSV),Pobeda B738 (VP-BQG),Landed 23:06,2021-06-08
+227,227,23:40 DP207,,Moscow (VKO),Pobeda B738 (VP-BOD),Landed 23:35,2021-06-08
+228,228,23:45,TK403,Istanbul (IST),Turkish Airlines 321,Unknown,2021-06-08
+229,229,23:45 5N582,,Samara (KUF),Smartavia B737 (VP-BYY),Landed 23:21,2021-06-08
+230,230,23:50 SU6016,,Moscow (VKO),Rossiya A319 (VP-BIU),Landed 23:44,2021-06-08
+0,0,00:05 SU6990,,Simferopol (SIP),Rossiya A319 (VQ-BAQ),Landed 23:59,2021-06-09
+1,1,00:20 ZF402,,Dalaman (DLM),Azur Air 76W,Unknown,2021-06-09
+2,2,00:35,WZ648,Krasnodar (KRR),Red Wings A320 (VP-BWW),Landed 04:37,2021-06-09
+3,3,00:40,SU34,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 00:24,2021-06-09
+4,4,01:05 SU2815,,Sochi (AER),Aeroflot A320 (VP-BFE),Landed 01:12,2021-06-09
+5,5,01:05 SU6116,,Volgograd (VOG),Rossiya SU95 (RA-89128),Landed 00:51,2021-06-09
+6,6,01:15,S71025,Moscow (DME),S7 Airlines A320 (VP-BCP),Landed 00:48,2021-06-09
+7,7,01:20 SU6314,,Krasnodar (KRR),Rossiya A319 (VP-BWJ),Landed 01:09,2021-06-09
+8,8,01:40 5N526,,Simferopol (SIP),Smartavia A20N (VP-BOZ),Landed 01:19,2021-06-09
+9,9,02:00 SU46,,Moscow (SVO),Aeroflot B738 (VP-BKN),Landed 01:53,2021-06-09
+10,10,02:25 SU6992,,Simferopol (SIP),Rossiya A319 (VQ-BAR),Landed 02:17,2021-06-09
+11,11,02:50 U67182,,Pafos (PFO),Ural Airlines 321,Unknown,2021-06-09
+12,12,02:55 SU36,,Moscow (SVO),Aeroflot A321 (VP-BKJ),Landed 02:40,2021-06-09
+13,13,03:05 U62734,,Osh (OSS),Ural Airlines A321 (VP-BBH),Landed 02:59,2021-06-09
+14,14,03:15 BJ890,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-09
+15,15,04:10 U628,,Sochi (AER),Ural Airlines A320 (VQ-BCY),Landed 04:17,2021-06-09
+16,16,04:35 U6512,,Simferopol (SIP),Ural Airlines A320 (VQ-BDJ),Landed 04:23,2021-06-09
+17,17,05:25 SU2805,,Sochi (AER),Aeroflot B738 (VP-BMD),Landed 05:32,2021-06-09
+18,18,05:55 SU6582,,Perm (PEE),Rossiya A319 (VQ-BAU),Landed 05:45,2021-06-09
+19,19,05:55 SU6596,,Kazan (KZN),Rossiya A319 (VP-BBU),Landed 05:42,2021-06-09
+20,20,05:55,WZ612,Tyumen (TJM),Red Wings A321 (VP-BVQ),Landed 05:35,2021-06-09
+21,21,06:05 DP570,,Perm (PEE),Pobeda B738 (VP-BOD),Landed 05:50,2021-06-09
+22,22,06:15 DP560,,Ufa (UFA),Pobeda B738 (VP-BQG),Landed 06:00,2021-06-09
+23,23,06:15 SU6328,,Kaliningrad (KGD),Rossiya B738 (VQ-BVV),Landed 05:57,2021-06-09
+24,24,06:15 SU6358,,Mineralnye Vody (MRV),Rossiya A319 (VP-BWG),Landed 05:54,2021-06-09
+25,25,06:20 SU6442,,Surgut (SGC),Rossiya A319 (VP-BNJ),Landed 06:06,2021-06-09
+26,26,06:30,SU6304,Arkhangelsk (ARH),Rossiya A319 (VP-BBT),Landed 06:18,2021-06-09
+27,27,06:35 DP516,,Yekaterinburg (SVX),Pobeda B738 (VQ-BTE),Landed 06:32,2021-06-09
+28,28,06:45 SU6900,,Simferopol (SIP),Rossiya A319 (VQ-BAV),Landed 06:48,2021-06-09
+29,29,06:50 SU6412,,Ufa (UFA),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 06:50,2021-06-09
+30,30,06:55 SU6452,,Tyumen (TJM),Rossiya A319 (VP-BIT),Landed 06:52,2021-06-09
+31,31,06:55 WZ738,,Sochi (AER),Red Wings A321 (VP-BRB),Landed 06:41,2021-06-09
+32,32,06:55 UT489,,Moscow (VKO),UTair 738,Unknown,2021-06-09
+33,33,07:00 SU6574,,Krasnoyarsk (KJA),Rossiya A320 (VP-BZR),Landed 06:38,2021-06-09
+34,34,07:05 SU6402,,Yekaterinburg (SVX),Rossiya A319 (VQ-BAT),Landed 07:02,2021-06-09
+35,35,07:05 SU6472,,Omsk (OMS),Rossiya A319 (VQ-BOX),Landed 06:54,2021-06-09
+36,36,07:10 DP550,,Chelyabinsk (CEK),Pobeda B738 (VQ-BTI),Landed 06:45,2021-06-09
+37,37,07:15 SU6344,,Murmansk (MMK),Rossiya A319 (VQ-BAQ),Landed 07:13,2021-06-09
+38,38,07:15 SU6462,,Chelyabinsk (CEK),Rossiya A319 (VQ-BCO),Landed 07:04,2021-06-09
+39,39,07:20 SU6454,,Orenburg (REN),Rossiya A320 (VP-BWH),Landed 07:15,2021-06-09
+40,40,07:20 SU6542,,Novosibirsk (OVB),Rossiya A320 (VP-BZQ),Landed 06:57,2021-06-09
+41,41,07:25,SU2,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 07:09,2021-06-09
+42,42,07:30 SU6232,,Samara (KUF),Rossiya A319 (VP-BIU),Landed 07:00,2021-06-09
+43,43,07:30 SU6588,,Syktyvkar (SCW),Rossiya A319 (VQ-BBA),Landed 07:06,2021-06-09
+44,44,07:40 TK1233,,Antalya (AYT),Turkish Airlines 73J,Unknown,2021-06-09
+45,45,07:45 5N519,,Murmansk (MMK),Smartavia B737 (VQ-BBI),Landed 07:25,2021-06-09
+46,46,07:50 5N9218,,Adana (ADA),Smartavia B738 (VP-BAB),Landed 08:25,2021-06-09
+47,47,08:00 5N592,,Ufa (UFA),Smartavia B738 (VQ-BBW),Landed 07:39,2021-06-09
+48,48,08:05 SU6022,,Moscow (VKO),Rossiya A319 (VP-BIV),Landed 07:56,2021-06-09
+49,49,08:20 5N9216,,Adana (ADA),SmartAvia B738 (VP-BAM),Landed 08:03,2021-06-09
+50,50,08:25 D219,,Cherepovets (CEE),Severstal SU95 (RA-89117),Landed 08:17,2021-06-09
+51,51,08:25,SU6,Moscow (SVO),Aeroflot A321 (VP-BKJ),Landed 07:59,2021-06-09
+52,52,08:40 5N149,,Arkhangelsk (ARH),Smartavia 32N,Unknown,2021-06-09
+53,53,08:45 9U181,,Chisinau (KIV),Air Moldova 319,Unknown,2021-06-09
+54,54,08:45 5N588,,Orenburg (REN),Smartavia B737 (VP-BYY),Landed 08:21,2021-06-09
+55,55,08:55 DP211,,Moscow (VKO),Pobeda B738 (VP-BPJ),Landed 08:41,2021-06-09
+56,56,09:00 DP558,,Novosibirsk (OVB),Pobeda B738 (VQ-BHV),Landed 08:57,2021-06-09
+57,57,09:00 N4764,,Gorno-Altaysk (RGK),Nordwind Airlines B738 (VP-BSZ),Landed 09:09,2021-06-09
+58,58,09:00 5N528,,Chelyabinsk (CEK),Smartavia A20N (VP-BOZ),Landed 08:45,2021-06-09
+59,59,09:05,S71005,Moscow (DME),S7 Airlines A320 (VQ-BRG),Landed 08:50,2021-06-09
+60,60,09:10 BT442,,Riga (RIX),Air Baltic BCS3 (YL-AAR),Landed 08:54,2021-06-09
+61,61,09:25 UT528,,Tyumen (TJM),UTair B735 (VP-BXQ),Landed 09:04,2021-06-09
+62,62,09:35 7R554,,Voronezh (VOZ),Rusline CRJ1 (VQ-BND),Landed 09:15,2021-06-09
+63,63,09:40 5N512,,Volgograd (VOG),SmartAvia A20N (VP-BOF),Landed 09:12,2021-06-09
+64,64,09:50,EO317,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZI),Landed 09:34,2021-06-09
+65,65,09:50 SU10,,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 09:27,2021-06-09
+66,66,09:50 SU6010,,Moscow (VKO),Rossiya A319 (VP-BWJ),Landed 09:54,2021-06-09
+67,67,09:55 U6225,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BRE),Landed 09:39,2021-06-09
+68,68,10:05 U654,,Kaliningrad (KGD),Ural Airlines 320,Unknown,2021-06-09
+69,69,10:10 DP203,,Moscow (VKO),Pobeda B738 (VP-BPX),Landed 09:56,2021-06-09
+70,70,10:10 BJ426,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-09
+71,71,10:20 N4177,,Moscow (SVO),Nordwind Airlines 73H,Unknown,2021-06-09
+72,72,10:40 SU6898,,Simferopol (SIP),Aeroflot 319,Canceled,2021-06-09
+73,73,10:55 DP205,,Moscow (VKO),Pobeda B738 (VQ-BTS),Landed 10:55,2021-06-09
+74,74,11:00 ZF5044,,Karshi (KSQ),Azur Air B763 (VP-BUX),Landed 11:21,2021-06-09
+75,75,11:10 DP306,,Sochi (AER),Pobeda B738 (VQ-BTD),Landed 10:51,2021-06-09
+76,76,11:10,SU12,Moscow (SVO),Aeroflot A320 (VQ-BKT),Landed 11:01,2021-06-09
+77,77,11:25 YC845,,Novy Urengoy (NUX),Yamal Airlines SU9,Unknown,2021-06-09
+78,78,11:30,S71027,Moscow (DME),S7 Airlines A320 (VQ-BRC),Landed 11:05,2021-06-09
+79,79,11:40 SU6306,,Arkhangelsk (ARH),Rossiya A319 (VP-BBU),Landed 11:29,2021-06-09
+80,80,11:40 U679,,Moscow (DME),Ural Airlines A320 (VP-BKX),Landed 11:35,2021-06-09
+81,81,11:50 S76377,,Irkutsk (IKT),S7 Airlines A20N (VP-BTX),Landed 11:32,2021-06-09
+82,82,11:55 DP308,,Anapa (AAQ),Pobeda B738 (VP-BPU),Landed 11:48,2021-06-09
+83,83,11:55,UT369,Moscow (VKO),UTair B734 (VQ-BIG),Unknown,2021-06-09
+84,84,12:00 SU6018,,Moscow (VKO),Rossiya A320 (VP-BWI),Landed 11:52,2021-06-09
+85,85,12:05,SU14,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 11:45,2021-06-09
+86,86,12:10,SU6324,Kaliningrad (KGD),Rossiya A320 (VQ-BFM),Landed 12:09,2021-06-09
+87,87,12:15 S75003,,Novosibirsk (OVB),S7 Airlines A321 (VP-BPC),Landed 12:04,2021-06-09
+88,88,12:35 A4203,,Rostov-on-Don (ROV),Azimuth SU9,Landed 12:15,2021-06-09
+89,89,12:35 DP6821,,Moscow (SVO),Pobeda B738 (VQ-BHT),Landed 12:56,2021-06-09
+90,90,12:35 N4590,,Barnaul (BAX),Nordwind Airlines B738 (VP-BSO),Landed 12:25,2021-06-09
+91,91,12:45 DP201,,Moscow (VKO),Pobeda B738 (VP-BGQ),Landed 12:41,2021-06-09
+92,92,12:50 U6548,,Sochi (AER),Ural Airlines A321 (VQ-BCX),Landed 14:04,2021-06-09
+93,93,12:55 SU6028,,Moscow (VKO),Rossiya A319 (VP-BIV),Landed 12:53,2021-06-09
+94,94,13:00,SU16,Moscow (SVO),Aeroflot A321 (VP-BFF),Landed 12:49,2021-06-09
+95,95,13:05 5N145,,Arkhangelsk (ARH),Smartavia B737 (VP-BYY),Landed 12:47,2021-06-09
+96,96,13:10 LO683,,Warsaw (WAW),LOT E75S (SP-LIN),Landed 13:07,2021-06-09
+97,97,13:15 DP536,,Kaliningrad (KGD),Pobeda B738 (VQ-BHV),Landed 13:16,2021-06-09
+98,98,13:15,SU6342,Murmansk (MMK),Rossiya A319 (VQ-BAT),Landed 13:04,2021-06-09
+99,99,13:20,SU42,Moscow (SVO),Aeroflot (PBC CSKA Moscow Livery) A320 (VQ-BEJ),Landed 12:59,2021-06-09
+100,100,13:20 WZ5074,,Larnaca (LCA),Red Wings B772 (VP-BLI),Landed 13:28,2021-06-09
+101,101,13:25 AY707,,Helsinki (HEL),Finnair AT75 (OH-ATK),Landed 13:32,2021-06-09
+102,102,13:35 DP538,,Stavropol (STW),Pobeda B738 (VP-BQY),Landed 13:34,2021-06-09
+103,103,13:40 7R220,,Kursk (URS),Rusline CRJ1 (VP-BNO),Landed 13:23,2021-06-09
+104,104,13:55,SU18,Moscow (SVO),Aeroflot A320 (VP-BIP),Landed 13:37,2021-06-09
+105,105,13:55 5N324,,Naryan-Mar (NNM),Smartavia 73W,Unknown,2021-06-09
+106,106,14:00 DP505,,Makhachkala (MCX),Pobeda Airlines B738 (VP-BQZ),Landed 13:51,2021-06-09
+107,107,14:05 7R108,,Ivanovo (IWA),Rusline CRJ1 (VQ-BND),Landed 13:47,2021-06-09
+108,108,14:10 DP528,,Naberezhnye Chelny (NBC),Pobeda B738 (VP-BOD),Landed 14:00,2021-06-09
+109,109,14:15 I8925,,Izhevsk (IJK),Izhavia B738 (VP-BUU),Landed 15:19,2021-06-09
+110,110,14:20,AF1464,Paris (CDG),Air France A319 (F-GRXC),Landed 14:11,2021-06-09
+111,111,14:20 7R104,,Ivanovo (IWA),Rusline CR2,Unknown,2021-06-09
+112,112,14:20 5N508,,Murmansk (MMK),Smartavia A20N (VP-BOZ),Landed 14:08,2021-06-09
+113,113,14:30,S71011,Moscow (DME),S7 Airlines (Street Art Museum Livery) A320 (VP-BOG),Landed 14:13,2021-06-09
+114,114,14:35 DP540,,Mineralnye Vody (MRV),Pobeda B738 (VQ-BTI),Landed 14:31,2021-06-09
+115,115,14:40 5N598,,Kazan (KZN),Smartavia B738 (VP-BAB),Landed 14:20,2021-06-09
+116,116,14:45 SU6372,,Rostov-on-Don (ROV),Rossiya A319 (VP-BNJ),Landed 14:26,2021-06-09
+117,117,14:50 SU6892,,Simferopol (SIP),Rossiya A319 (VP-BWG),Landed 14:34,2021-06-09
+118,118,14:55 SU6326,,Kaliningrad (KGD),Rossiya A319 (VP-BWJ),Landed 14:59,2021-06-09
+119,119,14:55,TK401,Istanbul (IST),Turkish Airlines 321,Unknown,2021-06-09
+120,120,14:55 U659,,Moscow (DME),Ural Airlines A320 (VQ-BQN),Landed 15:16,2021-06-09
+121,121,15:00 DP514,,Kirov (KVX),Pobeda B738 (VP-BPJ),Landed 14:37,2021-06-09
+122,122,15:00 D2324,,Ukhta (UCT),Severstal SU95 (RA-89117),Landed 15:04,2021-06-09
+123,123,15:05,SU20,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 14:42,2021-06-09
+124,124,15:15 SU2825,,Dusseldorf (DUS),Aeroflot A320 (VQ-BPV),Landed 15:07,2021-06-09
+125,125,15:15 SU6106,,Nizhny Novgorod (GOJ),Rossiya A319 (VQ-BAU),Landed 14:57,2021-06-09
+126,126,15:20,WZ704,Sochi (AER),Red Wings A321 (VP-BVQ),Landed 15:10,2021-06-09
+127,127,15:25 SU6216,,Gelendzhik (GDZ),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 15:14,2021-06-09
+128,128,15:25,WZ602,Simferopol (SIP),Red Wings A321 (VP-BRB),Landed 15:22,2021-06-09
+129,129,15:30 SU6014,,Moscow (VKO),Rossiya A319 (VQ-BCO),Landed 15:37,2021-06-09
+130,130,15:30 SU6356,,Mineralnye Vody (MRV),Rossiya A319 (VQ-BAV),Landed 15:29,2021-06-09
+131,131,15:30 YM540,,Tivat (TIV),Montenegro Airlines E95,Unknown,2021-06-09
+132,132,15:45 SU6202,,Anapa (AAQ),Rossiya A319 (VP-BBT),Landed 15:40,2021-06-09
+133,133,15:45 SU6316,,Krasnodar (KRR),Rossiya A319 (VP-BIU),Landed 15:48,2021-06-09
+134,134,15:45 S75005,,Novosibirsk (OVB),S7 Airlines A20N (VP-BTB),Landed 15:33,2021-06-09
+135,135,15:45 5N532,,Samara (KUF),SmartAvia A20N (VP-BOF),Landed 15:43,2021-06-09
+136,136,16:00 SU6564,,Sochi (AER),Rossiya A319 (VQ-BAR),Landed 15:56,2021-06-09
+137,137,16:00 WZ794,,Yekaterinburg (SVX),Red Wings A320 (VP-BWW),Landed 15:24,2021-06-09
+138,138,16:05 DP314,,Sochi (AER),Pobeda B738 (VQ-BHR),Landed 15:52,2021-06-09
+139,139,16:05 U6174,,Yekaterinburg (SVX),Ural Airlines 320,Unknown,2021-06-09
+140,140,16:05 U6256,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BLO),Landed 16:31,2021-06-09
+141,141,16:05 U6366,,Yekaterinburg (SVX),Ural Airlines 320,Unknown,2021-06-09
+142,142,16:10,LH1436,Frankfurt (FRA),Lufthansa A20N (D-AINI),Landed 16:24,2021-06-09
+143,143,16:10 UT264,,Grozny (GRV),UTair B735 (VP-BYL),Landed 15:59,2021-06-09
+144,144,16:10 U67036,,Larnaca (LCA),Ural Airlines A321 (VP-BBH),Landed 16:27,2021-06-09
+145,145,16:20,S71013,Moscow (DME),S7 Airlines A320 (VQ-BPL),Landed 16:11,2021-06-09
+146,146,16:20 5N546,,Sochi (AER),Smartavia B738 (VQ-BBW),Landed 16:04,2021-06-09
+147,147,16:30 U6392,,Kaliningrad (KGD),Ural Airlines A320 (VP-BKX),Landed 16:14,2021-06-09
+148,148,16:45 DP588,,Kaliningrad (KGD),Pobeda B738 (VQ-BHT),Landed 16:58,2021-06-09
+149,149,16:45 SU22,,Moscow (SVO),Aeroflot A320 (VQ-BKT),Landed 16:39,2021-06-09
+150,150,16:45 SU6110,,Nalchik (NAL),Rossiya SU95 (RA-89128),Landed 16:35,2021-06-09
+151,151,17:05 DP518,,Volgograd (VOG),Pobeda B738 (VQ-BTS),Landed 16:51,2021-06-09
+152,152,17:10 5N586,,Krasnodar (KRR),SmartAvia A20N (VP-BOS),Landed 17:07,2021-06-09
+153,153,17:40 DP510,,Krasnodar (KRR),Pobeda B738 (VP-BPX),Landed 17:32,2021-06-09
+154,154,17:40 SU6984,,Simferopol (SIP),Rossiya A319 (VQ-BBA),Landed 17:31,2021-06-09
+155,155,17:40 5N534,,Kaliningrad (KGD),Smartavia B737 (VP-BYY),Landed 17:15,2021-06-09
+156,156,17:45 U6346,,Anapa (AAQ),Ural Airlines A320 (VQ-BRE),Landed 17:35,2021-06-09
+157,157,17:50 A4637,,Kaluga (KLF),Azimuth SU9,Landed 17:22,2021-06-09
+158,158,17:50 SU38,,Moscow (SVO),Aeroflot B738 (VQ-BWA),Landed 17:40,2021-06-09
+159,159,17:55 DP209,,Moscow (VKO),Pobeda B738 (VQ-BTG),Landed 17:58,2021-06-09
+160,160,18:00 7R292,,Tambov (TBW),Rusline CRJ1 (VP-BNM),Landed 18:08,2021-06-09
+161,161,18:00 ZF7818,,Pula (PUY),Azur Air 757,Unknown,2021-06-09
+162,162,18:05 SU6008,,Gelendzhik (GDZ),Rossiya B738 (VQ-BVV),Landed 17:44,2021-06-09
+163,163,18:05 SU6030,,Moscow (VKO),Rossiya A319 (VP-BIV),Landed 18:12,2021-06-09
+164,164,18:10 N4140,,Sochi (AER),Nordwind Airlines B738 (VP-BSZ),Landed 17:54,2021-06-09
+165,165,18:10 U6658,,Simferopol (SIP),Ural Airlines A320 (VQ-BCY),Landed 18:30,2021-06-09
+166,166,18:15 SU6234,,Samara (KUF),Rossiya A319 (VP-BBU),Landed 18:05,2021-06-09
+167,167,18:20 SU6566,,Sochi (AER),Rossiya A319 (VP-BIT),Landed 18:02,2021-06-09
+168,168,18:25 SU6986,,Simferopol (SIP),Rossiya A319 (VQ-BOX),Landed 18:15,2021-06-09
+169,169,18:25 7R290,,Yoshkar-Ola (JOK),Rusline CRJ1 (VQ-BND),Landed 19:35,2021-06-09
+170,170,18:35,SU24,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 18:23,2021-06-09
+171,171,18:40,S71015,Moscow (DME),S7 Airlines B738 (VQ-BRP),Landed 18:25,2021-06-09
+172,172,18:45 DP566,,Ulyanovsk (ULV),Pobeda B738 (VQ-BHV),Landed 18:33,2021-06-09
+173,173,18:45 SU6066,,Makhachkala (MCX),Rossiya A320 (VP-BZR),Landed 18:40,2021-06-09
+174,174,19:05 YC855,,Salekhard (SLY),Yamal Airlines SU95 (RA-89091),Landed 18:36,2021-06-09
+175,175,19:15 N4664,,Istanbul (IST),Nordwind Airlines 73H,Unknown,2021-06-09
+176,176,19:25 SU6012,,Moscow (VKO),Rossiya A319 (VP-BWG),Landed 19:21,2021-06-09
+177,177,19:30 UT381,,Moscow (VKO),UTair B734 (VQ-BIG),Landed 19:49,2021-06-09
+178,178,19:35 DP576,,Voronezh (VOZ),Pobeda B738 (VQ-BTI),Landed 19:28,2021-06-09
+179,179,19:35 5N504,,Syktyvkar (SCW),Smartavia B737 (VQ-BBI),Landed 19:24,2021-06-09
+180,180,19:50 SU6004,,Anapa (AAQ),Rossiya B738 (VQ-BVU),Landed 19:53,2021-06-09
+181,181,19:50 SU6006,,Krasnodar (KRR),Rossiya B738 (VP-BUS),Landed 19:56,2021-06-09
+182,182,19:55 DP520,,Astrakhan (ASF),Pobeda B738 (VP-BGQ),Landed 19:58,2021-06-09
+183,183,19:55 N4147,,Moscow (SVO),Pegas Fly B739 (VP-BZV),Landed 19:39,2021-06-09
+184,184,20:05,S71017,Moscow (DME),S7 Airlines B738 (VQ-BVL),Landed 19:46,2021-06-09
+185,185,20:05 5N147,,Arkhangelsk (ARH),SmartAvia A20N (VP-BOF),Landed 20:12,2021-06-09
+186,186,20:15,SU26,Moscow (SVO),Aeroflot A321 (VP-BEA),Landed 20:10,2021-06-09
+187,187,20:20 N42128,,Belgrade (BEG),Nordwind Airlines B738 (VP-BSO),Landed 20:04,2021-06-09
+188,188,20:20 UT469,,Surgut (SGC),UTair B735 (VP-BFS),Landed 20:33,2021-06-09
+189,189,20:25 SU6988,,Simferopol (SIP),Rossiya A319 (VQ-BAQ),Landed 20:16,2021-06-09
+190,190,20:25 U66019,,Moscow (DME),Ural Airlines A320 (VQ-BCI),Landed 20:28,2021-06-09
+191,191,20:30,SU6330,Kaliningrad (KGD),Rossiya A319 (VQ-BAV),Landed 20:30,2021-06-09
+192,192,20:40 YK879,,Bishkek (FRU),Avia Traffic 737,Unknown,2021-06-09
+193,193,20:55 Y71061,,Moscow (DME),NordStar 738,Unknown,2021-06-09
+194,194,21:05 EO622,,Yerevan (EVN),Pegas Fly E190 (VP-BZI),Landed 20:59,2021-06-09
+195,195,21:15 5N536,,Rostov-on-Don (ROV),Smartavia B738 (VP-BAB),Landed 21:18,2021-06-09
+196,196,21:20,SU28,Moscow (SVO),Aeroflot (95 years with you Livery) A321 (VP-BEE),Landed 20:46,2021-06-09
+197,197,21:20 SU6598,,Kazan (KZN),Rossiya A319 (VP-BWJ),Landed 21:13,2021-06-09
+198,198,21:25 D221,,Cherepovets (CEE),Severstal CRJ2 (RA-67240),Landed 21:19,2021-06-09
+199,199,21:30 5N524,,Anapa (AAQ),Smartavia A20N (VP-BOZ),Landed 21:32,2021-06-09
+200,200,21:35 SU6036,,Moscow (VKO),Rossiya A319 (VQ-BAR),Landed 21:36,2021-06-09
+201,201,21:35,S71019,Moscow (DME),S7 Airlines A320 (VP-BCS),Landed 21:46,2021-06-09
+202,202,21:40 DP508,,Beslan (OGZ),Pobeda B738 (VP-BOD),Landed 21:38,2021-06-09
+203,203,21:50,QR281,Doha (DOH),Qatar Airways 320,Unknown,2021-06-09
+204,204,21:55 7R254,,Yaroslavl (IAR),Rusline CR2,Unknown,2021-06-09
+205,205,22:00,SU30,Moscow (SVO),Aeroflot B738 (VP-BKF),Landed 22:45,2021-06-09
+206,206,22:00 S75007,,Novosibirsk (OVB),S7 Airlines A20N (VP-BWT),Landed 21:42,2021-06-09
+207,207,22:15 U68186,,Dushanbe (DYU),Ural Airlines A321 (VP-BVA),Landed 23:40,2021-06-09
+208,208,22:20,SU6346,Murmansk (MMK),Rossiya A319 (VP-BBT),Landed 22:05,2021-06-09
+209,209,22:30,SU32,Moscow (SVO),Aeroflot A320 (VP-BIW),Landed 22:14,2021-06-09
+210,210,22:35 U638,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BRE),Landed 22:30,2021-06-09
+211,211,22:40 SU6204,,Anapa (AAQ),Rossiya A319 (VQ-BAU),Landed 22:34,2021-06-09
+212,212,22:45 D256,,Apatity (KVK),Severstal SU95 (RA-89117),Landed 22:36,2021-06-09
+213,213,22:50 SU6562,,Sochi (AER),Rossiya A319 (VQ-BAT),Landed 22:38,2021-06-09
+214,214,22:55 LH1438,,Frankfurt (FRA),Lufthansa A20N (D-AINB),Landed 23:02,2021-06-09
+215,215,22:55,SU6308,Arkhangelsk (ARH),Rossiya SU95 (RA-89128),Landed 22:43,2021-06-09
+216,216,23:00 SU44,,Moscow (SVO),Aeroflot A320 (VQ-BKT),Landed 22:41,2021-06-09
+217,217,23:00 SU6404,,Yekaterinburg (SVX),Rossiya A319 (VQ-BCO),Landed 22:58,2021-06-09
+218,218,23:10 DP548,,Kazan (KZN),Pobeda B738 (VQ-BTS),Landed 22:50,2021-06-09
+219,219,23:10 SU6414,,Ufa (UFA),Rossiya A319 (VP-BIU),Landed 22:54,2021-06-09
+220,220,23:10 SU6896,,Simferopol (SIP),Rossiya A319 (VP-BNJ),Landed 22:48,2021-06-09
+221,221,23:15 DP530,,Kaliningrad (KGD),Pobeda B738 (VQ-BHV),Landed 23:08,2021-06-09
+222,222,23:15 SU6024,,Moscow (VKO),Rossiya A319 (VP-BIV),Landed 23:12,2021-06-09
+223,223,23:25 DP578,,Saratov (GSV),Pobeda B738 (VP-BPX),Landed 23:05,2021-06-09
+224,224,23:40 DP207,,Moscow (VKO),Pobeda Airlines B738 (VP-BQZ),Unknown,2021-06-09
+225,225,23:45,TK403,Istanbul (IST),Turkish Airlines 321,Unknown,2021-06-09
+226,226,23:45 5N582,,Samara (KUF),Smartavia B737 (VP-BYY),Landed 23:17,2021-06-09
+227,227,23:50 SU6016,,Moscow (VKO),Rossiya A319 (VP-BBU),Landed 23:50,2021-06-09
+228,228,23:55 ZF344,,Sochi (AER),Azur Air B738 (VQ-BAL),Landed 00:57,2021-06-09
+0,0,00:05 SU6990,,Simferopol (SIP),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 23:58,2021-06-10
+1,1,00:05,WZ736,Sochi (AER),Red Wings A321 (VP-BRB),Landed 23:54,2021-06-10
+2,2,00:10,WZ702,Simferopol (SIP),Red Wings 321,Unknown,2021-06-10
+3,3,00:15 SU2815,,Sochi (AER),Aeroflot A320 (VQ-BPV),Landed 23:49,2021-06-10
+4,4,00:35,WZ648,Krasnodar (KRR),Red Wings A320 (VP-BWW),Landed 00:30,2021-06-10
+5,5,00:35 5N518,,Murmansk (MMK),Smartavia B737 (VQ-BBI),Landed 00:09,2021-06-10
+6,6,00:40,SU34,Moscow (SVO),Aeroflot (PBC CSKA Moscow Livery) A320 (VQ-BEJ),Landed 00:19,2021-06-10
+7,7,00:40 5N540,,Kaliningrad (KGD),SmartAvia A20N (VP-BOF),Landed 00:27,2021-06-10
+8,8,01:05 SU6116,,Volgograd (VOG),Aeroflot (N89131),Unknown,2021-06-10
+9,9,01:15,S71025,Moscow (DME),S7 Airlines A320 (VQ-BRG),Landed 01:01,2021-06-10
+10,10,01:20 SU6314,,Krasnodar (KRR),Rossiya A319 (VQ-BBA),Landed 01:11,2021-06-10
+11,11,01:40 5N526,,Simferopol (SIP),SmartAvia A20N (VP-BOS),Landed 01:15,2021-06-10
+12,12,01:55 ZF422,,Bodrum (BJV),Azur Air 75W,Unknown,2021-06-10
+13,13,02:00 SU46,,Moscow (SVO),Aeroflot B738 (VP-BGI),Landed 01:51,2021-06-10
+14,14,02:25 SU6992,,Simferopol (SIP),Aeroflot 319,Canceled,2021-06-10
+15,15,02:55 SU36,,Moscow (SVO),Aeroflot A321 (VP-BKR),Landed 02:42,2021-06-10
+16,16,03:15 SU6998,,Simferopol (SIP),Aeroflot 319,Unknown,2021-06-10
+17,17,04:10 U628,,Sochi (AER),Ural Airlines A320 (VQ-BCY),Landed 04:11,2021-06-10
+18,18,04:35 U6512,,Simferopol (SIP),Ural Airlines A320 (VP-BBQ),Landed 04:23,2021-06-10
+19,19,05:25 SU2805,,Sochi (AER),Aeroflot B738 (VP-BKN),Landed 05:21,2021-06-10
+20,20,05:35 SU2817,,Chisinau (KIV),Aeroflot (SkyTeam Livery) A320 (VQ-BRW),Landed 05:29,2021-06-10
+21,21,05:45,WZ800,Kaliningrad (KGD),Red Wings A321 (VP-BRB),Landed 05:15,2021-06-10
+22,22,05:55 SU6582,,Perm (PEE),Rossiya A319 (VQ-BOX),Landed 05:45,2021-06-10
+23,23,05:55 SU6596,,Kazan (KZN),Rossiya A319 (VP-BIT),Landed 05:58,2021-06-10
+24,24,05:55 U68416,,Kulob (TJU),Ural Airlines A321 (VP-BBH),Landed 06:23,2021-06-10
+25,25,06:05 DP570,,Perm (PEE),Pobeda B738 (VP-BPT),Landed 05:54,2021-06-10
+26,26,06:15 DP560,,Ufa (UFA),Pobeda B738 (VP-BPX),Landed 06:10,2021-06-10
+27,27,06:15 SU6328,,Kaliningrad (KGD),Rossiya SU95 (RA-89128),Landed 05:56,2021-06-10
+28,28,06:15 SU6358,,Mineralnye Vody (MRV),Rossiya A319 (VQ-BAR),Landed 06:04,2021-06-10
+29,29,06:20 SU6442,,Surgut (SGC),Rossiya A319 (VP-BWG),Landed 06:06,2021-06-10
+30,30,06:30,SU6304,Arkhangelsk (ARH),Rossiya A319 (VP-BNJ),Landed 06:14,2021-06-10
+31,31,06:35 DP516,,Yekaterinburg (SVX),Pobeda B738 (VQ-BHV),Landed 06:18,2021-06-10
+32,32,06:45 SU6900,,Simferopol (SIP),Rossiya A319 (VP-BBT),Landed 06:38,2021-06-10
+33,33,06:50 SU6412,,Ufa (UFA),Rossiya A319 (VP-BIU),Landed 06:43,2021-06-10
+34,34,06:55 SU6452,,Tyumen (TJM),Rossiya A319 (VQ-BAV),Landed 06:51,2021-06-10
+35,35,06:55 UT489,,Moscow (VKO),UTair B738 (VQ-BJG),Landed 07:02,2021-06-10
+36,36,07:00 SU6574,,Krasnoyarsk (KJA),Rossiya A320 (VP-BZQ),Landed 06:46,2021-06-10
+37,37,07:05 SU6402,,Yekaterinburg (SVX),Rossiya A319 (VQ-BAU),Landed 07:10,2021-06-10
+38,38,07:05 SU6472,,Omsk (OMS),Rossiya B738 (VP-BUS),Unknown,2021-06-10
+39,39,07:10 DP550,,Chelyabinsk (CEK),Pobeda B738 (VQ-BTS),Landed 06:56,2021-06-10
+40,40,07:15 SU6344,,Murmansk (MMK),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 07:07,2021-06-10
+41,41,07:15 SU6462,,Chelyabinsk (CEK),Rossiya A319 (VP-BIV),Landed 07:12,2021-06-10
+42,42,07:20 SU6454,,Orenburg (REN),Rossiya A320 (VP-BWH),Landed 06:59,2021-06-10
+43,43,07:20 SU6542,,Novosibirsk (OVB),Rossiya A320 (VP-BZR),Landed 07:00,2021-06-10
+44,44,07:25,SU2,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 07:17,2021-06-10
+45,45,07:30 SU6232,,Samara (KUF),Rossiya A319 (VP-BBU),Landed 07:05,2021-06-10
+46,46,07:30 SU6588,,Syktyvkar (SCW),Rossiya A319 (VQ-BCO),Landed 06:55,2021-06-10
+47,47,07:40 TK1233,,Antalya (AYT),Turkish Airlines 73H,Unknown,2021-06-10
+48,48,08:00 5N592,,Ufa (UFA),Smartavia B738 (VP-BAB),Unknown,2021-06-10
+49,49,08:05 SU6022,,Moscow (VKO),Rossiya A319 (VP-BWJ),Landed 08:03,2021-06-10
+50,50,08:05 5N584,,Perm (PEE),Smartavia B737 (VP-BYY),Landed 07:48,2021-06-10
+51,51,08:20 Y7406,,Norilsk (NSK),NordStar B738 (VQ-BVW),Landed 07:52,2021-06-10
+52,52,08:25,SU6,Moscow (SVO),Aeroflot A321 (VP-BFQ),Landed 08:08,2021-06-10
+53,53,08:25 D219,,Cherepovets (CEE),Severstal CRJ2 (RA-67239),Landed 08:18,2021-06-10
+54,54,08:40 5N149,,Arkhangelsk (ARH),SmartAvia A20N (VP-BOF),Landed 08:27,2021-06-10
+55,55,08:40 5N578,,Tyumen (TJM),Smartavia B737 (VQ-BBI),Landed 08:23,2021-06-10
+56,56,09:00 5N528,,Chelyabinsk (CEK),SmartAvia A20N (VP-BOS),Landed 09:03,2021-06-10
+57,57,09:00 DP558,,Novosibirsk (OVB),Pobeda B738 (VP-BOD),Landed 08:42,2021-06-10
+58,58,09:05,S71005,Moscow (DME),S7 Airlines A320 (VQ-BRC),Landed 08:47,2021-06-10
+59,59,09:15 N4762,,Novokuznetsk (NOZ),Nordwind Airlines B738 (VP-BSO),Landed 09:15,2021-06-10
+60,60,09:20 5N512,,Volgograd (VOG),Smartavia A20N (VP-BOZ),Landed 08:56,2021-06-10
+61,61,09:20,EO317,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZI),Landed 09:00,2021-06-10
+62,62,09:35 7R554,,Voronezh (VOZ),Rusline CRJ1 (VQ-BND),Landed 09:19,2021-06-10
+63,63,09:50 SU10,,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 09:27,2021-06-10
+64,64,09:50 SU6010,,Moscow (VKO),Rossiya A319 (VQ-BAT),Unknown,2021-06-10
+65,65,09:55 U6225,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BLO),Landed 09:52,2021-06-10
+66,66,10:00 VGV612,,Vologda (VGD),- YK4,Unknown,2021-06-10
+67,67,10:05 N4594,,Tomsk (TOF),Nordwind Airlines B738 (VP-BSZ),Landed 10:03,2021-06-10
+68,68,10:05 U654,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BCY),Landed 09:49,2021-06-10
+69,69,10:10,U6223,Yekaterinburg (SVX),Ural Airlines A320 (VP-BDL),Landed 10:36,2021-06-10
+70,70,10:10 DP203,,Moscow (VKO),Pobeda B738 (VP-BPV),Landed 10:15,2021-06-10
+71,71,10:20 N4177,,Moscow (SVO),Nordwind Airlines A321 (VQ-BRX),Landed 10:12,2021-06-10
+72,72,10:40 SU6898,,Simferopol (SIP),Rossiya A319 (VQ-BAQ),Landed 10:25,2021-06-10
+73,73,10:45 N4266,,Khabarovsk (KHV),Nordwind Airlines A332 (VP-BUA),Landed 13:01,2021-06-10
+74,74,10:55 DP205,,Moscow (VKO),Pobeda B738 (VP-BPX),Unknown,2021-06-10
+75,75,11:05 ZF1312,,Dushanbe (DYU),Azur Air 76W,Unknown,2021-06-10
+76,76,11:10,SU12,Moscow (SVO),Aeroflot A320 (VQ-BKT),Landed 10:58,2021-06-10
+77,77,11:10 DP306,,Sochi (AER),Pobeda B738 (VQ-BHT),Landed 11:05,2021-06-10
+78,78,11:20,EO586,Belgorod (EGO),Pegas Fly E190 (VP-BZJ),Landed 11:26,2021-06-10
+79,79,11:20 YC850,,Noyabrsk (NOJ),Yamal Airlines SU95 (RA-89091),Landed 11:01,2021-06-10
+80,80,11:25 SU6398,,Osh (OSS),Rossiya B738 (VQ-BVV),Landed 11:40,2021-06-10
+81,81,11:30,S71027,Moscow (DME),S7 Airlines A320 (VP-BDT),Landed 11:20,2021-06-10
+82,82,11:35 A4303,,Krasnodar (KRR),Azimuth Airlines SU95 (RA-89179),Landed 11:15,2021-06-10
+83,83,11:40 DP308,,Anapa (AAQ),Pobeda B738 (VP-BQB),Landed 11:47,2021-06-10
+84,84,11:40 U679,,Moscow (DME),Ural Airlines A320 (VQ-BFW),Landed 11:41,2021-06-10
+85,85,11:40 SU6306,,Arkhangelsk (ARH),Rossiya A319 (VP-BNJ),Landed 11:32,2021-06-10
+86,86,11:50 S76377,,Irkutsk (IKT),S7 Airlines A20N (VP-BVJ),Landed 11:20,2021-06-10
+87,87,11:55,UT369,Moscow (VKO),UTair B738 (VQ-BJG),Landed 11:58,2021-06-10
+88,88,12:00 SU6018,,Moscow (VKO),Rossiya A320 (VP-BWI),Landed 12:09,2021-06-10
+89,89,12:05,SU14,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 11:51,2021-06-10
+90,90,12:10,SU6324,Kaliningrad (KGD),Rossiya A320 (VP-BZQ),Landed 11:55,2021-06-10
+91,91,12:20 D2324,,Ukhta (UCT),Severstal SU95 (RA-89117),Landed 12:12,2021-06-10
+92,92,12:35 SU2821,,Bishkek (FRU),Aeroflot A320 (VP-BIW),Landed 12:28,2021-06-10
+93,93,12:35 DP6821,,Moscow (SVO),Pobeda B738 (VQ-BHX),Landed 12:22,2021-06-10
+94,94,12:50 U6548,,Sochi (AER),Ural Airlines A321 (VP-BVA),Landed 13:12,2021-06-10
+95,95,12:55 DP201,,Moscow (VKO),Pobeda B738 (VP-BGR),Landed 12:49,2021-06-10
+96,96,12:55 SU6028,,Moscow (VKO),Rossiya A319 (VP-BWJ),Landed 12:54,2021-06-10
+97,97,13:00,SU16,Moscow (SVO),Aeroflot A320 (VP-BTC),Landed 12:44,2021-06-10
+98,98,13:05 5N145,,Arkhangelsk (ARH),Smartavia B737 (VQ-BBI),Landed 12:46,2021-06-10
+99,99,13:15 DP536,,Kaliningrad (KGD),Pobeda B738 (VP-BOD),Landed 13:31,2021-06-10
+100,100,13:15,SU6342,Murmansk (MMK),Rossiya A319 (VQ-BAV),Landed 13:15,2021-06-10
+101,101,13:20 CY412,,Larnaca (LCA),Cyprus Airways A319 (5B-DCW),Landed 13:18,2021-06-10
+102,102,13:20,SU42,Moscow (SVO),Aeroflot (PBC CSKA Moscow Livery) A320 (VQ-BEJ),Landed 13:04,2021-06-10
+103,103,13:25 DP528,,Naberezhnye Chelny (NBC),Pobeda B738 (VQ-BTS),Landed 13:21,2021-06-10
+104,104,13:35 DP538,,Stavropol (STW),Pobeda B738 (VP-BQC),Landed 13:25,2021-06-10
+105,105,13:45 DP211,,Moscow (VKO),Pobeda B738 (VP-BQJ),Landed 13:48,2021-06-10
+106,106,13:55,SU18,Moscow (SVO),Aeroflot A321 (VP-BJX),Landed 13:43,2021-06-10
+107,107,14:00 DP505,,Makhachkala (MCX),Pobeda B738 (VQ-BTI),Landed 13:51,2021-06-10
+108,108,14:05,QR279,Doha (DOH),Qatar Airways 320,Unknown,2021-06-10
+109,109,14:05 7R108,,Ivanovo (IWA),Rusline CRJ1 (VQ-BND),Landed 13:58,2021-06-10
+110,110,14:20 5N508,,Murmansk (MMK),SmartAvia A20N (VP-BOS),Landed 14:11,2021-06-10
+111,111,14:20 7R104,,Ivanovo (IWA),Rusline CR2,Unknown,2021-06-10
+112,112,14:30,S71011,Moscow (DME),S7 Airlines (Street Art Museum Livery) A320 (VP-BOG),Landed 14:31,2021-06-10
+113,113,14:35 DP540,,Mineralnye Vody (MRV),Pobeda B738 (VP-BPT),Landed 14:25,2021-06-10
+114,114,14:40,QS886,Prague (PRG),Smartwings B737 (OK-SWW),Landed 14:48,2021-06-10
+115,115,14:40 5N504,,Syktyvkar (SCW),Smartavia B737 (VP-BYY),Landed 14:28,2021-06-10
+116,116,14:40 5N598,,Kazan (KZN),SmartAvia A20N (VP-BOF),Landed 14:34,2021-06-10
+117,117,14:45 SU6002,,Irkutsk (IKT),Rossiya B738 (VQ-BVU),Landed 14:23,2021-06-10
+118,118,14:45 SU6372,,Rostov-on-Don (ROV),Rossiya A319 (VQ-BAR),Landed 14:37,2021-06-10
+119,119,14:50 SU6892,,Simferopol (SIP),Rossiya A319 (VQ-BBA),Landed 14:43,2021-06-10
+120,120,14:55 SU6326,,Kaliningrad (KGD),Rossiya A319 (VP-BBT),Landed 15:50,2021-06-10
+121,121,14:55 U659,,Moscow (DME),Ural Airlines A20N (VP-BRY),Landed 15:06,2021-06-10
+122,122,15:00,SU20,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 14:45,2021-06-10
+123,123,15:00,WZ792,Anapa (AAQ),Red Wings A321 (VP-BRB),Landed 14:40,2021-06-10
+124,124,15:15 SU6106,,Nizhny Novgorod (GOJ),Rossiya SU95 (RA-89128),Landed 14:51,2021-06-10
+125,125,15:25 5N532,,Samara (KUF),Smartavia A20N (VP-BOZ),Landed 15:12,2021-06-10
+126,126,15:25 SU6216,,Gelendzhik (GDZ),Rossiya A319 (VQ-BAU),Landed 15:09,2021-06-10
+127,127,15:30 SU6014,,Moscow (VKO),Rossiya A319 (VQ-BAT),Landed 15:25,2021-06-10
+128,128,15:30 SU6356,,Mineralnye Vody (MRV),Rossiya A320 (VP-BZR),Landed 15:27,2021-06-10
+129,129,15:40 WZ794,,Yekaterinburg (SVX),Red Wings A320 (VP-BWW),Landed 15:33,2021-06-10
+130,130,15:45 S75005,,Novosibirsk (OVB),S7 Airlines B738 (VP-BLE),Landed 15:30,2021-06-10
+131,131,15:45 SU6202,,Anapa (AAQ),Rossiya A319 (VP-BWG),Landed 15:47,2021-06-10
+132,132,15:45 U68814,,Yerevan (EVN),Ural Airlines A321 (VP-BBH),Landed 16:32,2021-06-10
+133,133,15:45 SU6316,,Krasnodar (KRR),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 15:43,2021-06-10
+134,134,16:00 SU6564,,Sochi (AER),Rossiya A319 (VP-BIU),Landed 15:53,2021-06-10
+135,135,16:00 WZ4334,,Yerevan (EVN),Red Wings 320,Unknown,2021-06-10
+136,136,16:05 DP314,,Sochi (AER),Pobeda B738 (VQ-BHU),Landed 15:56,2021-06-10
+137,137,16:10 N4130,,Simferopol (SIP),Nordwind Airlines A321 (VP-BRD),Landed 16:16,2021-06-10
+138,138,16:20,S71013,Moscow (DME),S7 Airlines A320 (VP-BOL),Landed 16:01,2021-06-10
+139,139,16:20 U6174,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BGI),Landed 16:48,2021-06-10
+140,140,16:20 U6623,,Yekaterinburg (SVX),Ural Airlines 320,Unknown,2021-06-10
+141,141,16:20 5N546,,Sochi (AER),Smartavia B738 (VP-BAB),Landed 16:05,2021-06-10
+142,142,16:25 7R348,,Kaluga (KLF),Rusline CR2,Unknown,2021-06-10
+143,143,16:30 U6392,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BFW),Landed 18:15,2021-06-10
+144,144,16:45 SU22,,Moscow (SVO),Aeroflot A321 (VP-BAE),Landed 16:38,2021-06-10
+145,145,16:45 DP588,,Kaliningrad (KGD),Pobeda B738 (VQ-BHX),Landed 16:42,2021-06-10
+146,146,16:45 SU6110,,Nalchik (NAL),Rossiya SU95 (RA-89131),Landed 16:35,2021-06-10
+147,147,16:50 EO1910,,Berlin (BER),Pegas Fly E190 (VP-BZI),Landed 16:54,2021-06-10
+148,148,16:50 SU2827,,Munich (MUC),Aeroflot B738 (VP-BGI),Landed 16:46,2021-06-10
+149,149,17:05 DP518,,Volgograd (VOG),Pobeda B738 (VP-BPX),Landed 16:57,2021-06-10
+150,150,17:10 5N586,,Krasnodar (KRR),Smartavia B738 (VQ-BBV),Landed 17:02,2021-06-10
+151,151,17:35 LO685,,Warsaw (WAW),LOT E195 (SP-LND),Landed 18:03,2021-06-10
+152,152,17:40 DP510,,Krasnodar (KRR),Pobeda B738 (VP-BPV),Landed 17:44,2021-06-10
+153,153,17:40 SU6984,,Simferopol (SIP),Rossiya A319 (VP-BIT),Landed 21:56,2021-06-10
+154,154,17:40 5N534,,Kaliningrad (KGD),Smartavia B737 (VQ-BBI),Landed 17:15,2021-06-10
+155,155,17:45 U6346,,Anapa (AAQ),Ural Airlines A320 (VQ-BLO),Landed 17:36,2021-06-10
+156,156,17:50 SU38,,Moscow (SVO),Aeroflot B738 (VQ-BWA),Landed 17:33,2021-06-10
+157,157,17:55 D227,,Cherepovets (CEE),Severstal CRJ2 (RA-67230),Landed 17:51,2021-06-10
+158,158,17:55 WZ532,,Tivat (TIV),Red Wings 320,Unknown,2021-06-10
+159,159,17:55 DP209,,Moscow (VKO),Pobeda B738 (VP-BQH),Landed 17:48,2021-06-10
+160,160,18:00 DP514,,Kirov (KVX),Pobeda B738 (VP-BGR),Landed 17:39,2021-06-10
+161,161,18:05 SU6030,,Moscow (VKO),Rossiya A319 (VP-BWJ),Landed 18:12,2021-06-10
+162,162,18:10 N4140,,Sochi (AER),Nordwind Airlines B738 (VP-BSO),Landed 18:36,2021-06-10
+163,163,18:10 U6658,,Simferopol (SIP),Ural Airlines A320 (VQ-BCY),Landed 18:44,2021-06-10
+164,164,18:15 SU6234,,Samara (KUF),Rossiya A319 (VQ-BCO),Landed 18:17,2021-06-10
+165,165,18:20 ZF7868,,Thessaloniki (SKG),Azur Air 75W,Unknown,2021-06-10
+166,166,18:25 SU6986,,Simferopol (SIP),Rossiya A319 (VQ-BOX),Landed 18:27,2021-06-10
+167,167,18:30 DP526,,Cheboksary (CSY),Pobeda 738,Unknown,2021-06-10
+168,168,18:35,SU24,Moscow (SVO),Aeroflot (PBC CSKA Moscow Livery) A320 (VQ-BEJ),Landed 18:22,2021-06-10
+169,169,18:40,S71015,Moscow (DME),S7 Airlines B738 (VQ-BVM),Landed 18:24,2021-06-10
+170,170,18:45 SU6066,,Makhachkala (MCX),Rossiya A320 (VP-BWH),Landed 18:42,2021-06-10
+171,171,19:00 SU6566,,Sochi (AER),Rossiya A319 (VQ-BAQ),Landed 18:48,2021-06-10
+172,172,19:15 N4664,,Istanbul (IST),Nordwind Airlines 73H,Unknown,2021-06-10
+173,173,19:20 SU6628,,Tel Aviv (TLV),Aeroflot 319,Unknown,2021-06-10
+174,174,19:25 SU6012,,Moscow (VKO),Rossiya A320 (VP-BWI),Landed 19:43,2021-06-10
+175,175,19:30,EO281,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZJ),Landed 19:14,2021-06-10
+176,176,19:30 UT381,,Moscow (VKO),UTair B734 (VQ-BIE),Landed 19:36,2021-06-10
+177,177,19:35 A4607,,Elista (ESL),Azimuth Airlines SU95 (RA-89179),Landed 19:17,2021-06-10
+178,178,19:35 DP576,,Voronezh (VOZ),Pobeda B738 (VP-BPT),Landed 19:23,2021-06-10
+179,179,19:45 D2172,,Sovetsky (OVS),Severstal SU95 (RA-89117),Landed 19:46,2021-06-10
+180,180,19:50 SU6006,,Krasnodar (KRR),Rossiya B738 (VQ-BVV),Landed 20:10,2021-06-10
+181,181,19:55,EO147,Moscow (SVO),Pegas Fly B739 (VP-BZY),Landed 19:34,2021-06-10
+182,182,20:00 SU6004,,Anapa (AAQ),Rossiya A320 (VP-BZQ),Landed 20:08,2021-06-10
+183,183,20:05 5N147,,Arkhangelsk (ARH),Smartavia A20N (VP-BOZ),Landed 22:08,2021-06-10
+184,184,20:05,S71017,Moscow (DME),S7 Airlines B738 (VQ-BRQ),Landed 19:55,2021-06-10
+185,185,20:15,SU26,Moscow (SVO),Aeroflot A321 (VP-BES),Landed 20:04,2021-06-10
+186,186,20:20 SU2813,,Yerevan (EVN),Aeroflot (SkyTeam Livery) A320 (VQ-BRW),Landed 20:01,2021-06-10
+187,187,20:20 UT469,,Surgut (SGC),UTair B735 (VQ-BJT),Landed 19:58,2021-06-10
+188,188,20:20 UT544,,Nizhnevartovsk (NJC),UTair B735 (VP-BXQ),Landed 19:51,2021-06-10
+189,189,20:25 SU6988,,Simferopol (SIP),Rossiya A319 (VP-BNJ),Landed 20:24,2021-06-10
+190,190,20:30,SU6330,Kaliningrad (KGD),Rossiya A320 (VP-BZR),Landed 20:47,2021-06-10
+191,191,20:45 7R106,,Ivanovo (IWA),Rusline CRJ1 (VQ-BND),Landed 20:20,2021-06-10
+192,192,20:45,JU674,Belgrade (BEG),AirSERBIA A319 (YU-APC),Landed 21:03,2021-06-10
+193,193,20:50 7R294,,Kaluga (KLF),Rusline CRJ1 (VP-BNM),Landed 20:52,2021-06-10
+194,194,20:50,WZ782,Simferopol (SIP),Red Wings A320 (VP-BWX),Landed 20:56,2021-06-10
+195,195,21:15 5N536,,Rostov-on-Don (ROV),SmartAvia A20N (VP-BOS),Landed 20:58,2021-06-10
+196,196,21:20,SU28,Moscow (SVO),Aeroflot A321 (VP-BAF),Landed 20:48,2021-06-10
+197,197,21:20 SU6598,,Kazan (KZN),Rossiya A320 (VQ-BFM),Landed 21:14,2021-06-10
+198,198,21:25 D221,,Cherepovets (CEE),Severstal CRJ2 (RA-67229),Unknown,2021-06-10
+199,199,21:35,S71019,Moscow (DME),S7 Airlines A320 (VP-BOL),Landed 21:16,2021-06-10
+200,200,21:35 SU6036,,Moscow (VKO),Rossiya A319 (VP-BBT),Landed 21:34,2021-06-10
+201,201,21:40 DP508,,Beslan (OGZ),Pobeda B738 (VP-BQJ),Landed 21:50,2021-06-10
+202,202,21:45 N42156,,Lankaran (LLK),Nordwind Airlines B738 (VP-BSZ),Landed 21:24,2021-06-10
+203,203,21:55 5N542,,Mineralnye Vody (MRV),Smartavia B737 (VP-BYY),Landed 22:20,2021-06-10
+204,204,22:00,SU30,Moscow (SVO),Aeroflot B738 (VQ-BWF),Landed 21:46,2021-06-10
+205,205,22:00 S75007,,Novosibirsk (OVB),S7 Airlines A20N (VQ-BSC),Landed 21:43,2021-06-10
+206,206,22:10 5N596,,Gelendzhik (GDZ),SmartAvia A20N (VP-BOF),Landed 22:06,2021-06-10
+207,207,22:20 SU6104,,Rostov-on-Don (ROV),Rossiya B738 (VQ-BVU),Landed 22:24,2021-06-10
+208,208,22:20,SU6346,Murmansk (MMK),Rossiya A319 (VP-BIU),Landed 22:01,2021-06-10
+209,209,22:30,SU32,Moscow (SVO),Aeroflot A320 (VP-BAC),Landed 22:16,2021-06-10
+210,210,22:35 U638,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BLO),Landed 23:15,2021-06-10
+211,211,22:40 SU6204,,Anapa (AAQ),Rossiya A319 (VQ-BAR),Landed 22:33,2021-06-10
+212,212,22:45 D256,,Apatity (KVK),Severstal Aircompany SU9,Unknown,2021-06-10
+213,213,22:50 SU6562,,Sochi (AER),Rossiya A319 (VP-BIV),Landed 22:36,2021-06-10
+214,214,22:55,SU6308,Arkhangelsk (ARH),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 22:40,2021-06-10
+215,215,23:00 SU44,,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 22:48,2021-06-10
+216,216,23:00 SU6404,,Yekaterinburg (SVX),Rossiya A319 (VQ-BAU),Landed 23:31,2021-06-10
+217,217,23:10 SU6414,,Ufa (UFA),Rossiya A319 (VQ-BAT),Landed 23:06,2021-06-10
+218,218,23:10 DP548,,Kazan (KZN),Pobeda B738 (VP-BPX),Landed 23:12,2021-06-10
+219,219,23:10 SU6896,,Simferopol (SIP),Rossiya A319 (VQ-BAV),Landed 23:03,2021-06-10
+220,220,23:15 DP530,,Kaliningrad (KGD),Pobeda B738 (VP-BOD),Landed 23:24,2021-06-10
+221,221,23:15 SU6024,,Moscow (VKO),Rossiya A319 (VQ-BCO),Landed 23:00,2021-06-10
+222,222,23:25 DP578,,Saratov (GSV),Pobeda B738 (VP-BPV),Landed 23:17,2021-06-10
+223,223,23:40 DP207,,Moscow (VKO),Pobeda B738 (VQ-BTC),Landed 23:44,2021-06-10
+224,224,23:45 5N582,,Samara (KUF),Smartavia B737 (VQ-BBI),Landed 23:38,2021-06-10
+225,225,23:50 SU6016,,Moscow (VKO),Rossiya A319 (VQ-BOX),Landed 23:47,2021-06-10
+226,226,23:55 N42100,,Djerba (DJE),Nordwind Airlines B772 (VP-BJH),Landed 23:43,2021-06-10
+0,0,12:05 AM SU6990,,Simferopol (SIP),Rossiya A319 (VQ-BBA),Landed 12:03 AM,2021-06-11
+1,1,12:05 AM,WZ736,Sochi (AER),Red Wings A321 (VP-BRB),Landed 11:57 PM,2021-06-11
+2,2,12:15 AM,EO795,Orsk (OSW),Pegas Fly E90,Unknown,2021-06-11
+3,3,12:30 AM SU2815,,Sochi (AER),Aeroflot A320 (VP-BIW),Landed 12:22 AM,2021-06-11
+4,4,12:35 AM,WZ648,Krasnodar (KRR),Red Wings A320 (VP-BWW),Landed 1:04 AM,2021-06-11
+5,5,12:40 AM,SU34,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 12:30 AM,2021-06-11
+6,6,12:45 AM 7R250,,Yaroslavl (IAR),Rusline CRJ1 (VQ-BND),Landed 12:36 AM,2021-06-11
+7,7,1:05 AM SU6116,,Volgograd (VOG),Rossiya SU95 (RA-89128),Landed 12:53 AM,2021-06-11
+8,8,1:15 AM,S71025,Moscow (DME),S7 Airlines A320 (VP-BCZ),Landed 1:13 AM,2021-06-11
+9,9,1:20 AM SU6314,,Krasnodar (KRR),Rossiya A319 (VP-BWG),Landed 1:17 AM,2021-06-11
+10,10,1:40 AM 5N526,,Simferopol (SIP),Smartavia B738 (VQ-BBV),Landed 1:50 AM,2021-06-11
+11,11,2:00 AM SU46,,Moscow (SVO),Aeroflot B738 (VP-BZB),Landed 2:01 AM,2021-06-11
+12,12,2:25 AM SU6992,,Simferopol (SIP),Rossiya A319 (VP-BWJ),Landed 2:13 AM,2021-06-11
+13,13,2:55 AM SU36,,Moscow (SVO),Aeroflot (95 years with you Livery) A321 (VP-BEE),Landed 2:45 AM,2021-06-11
+14,14,4:10 AM U628,,Sochi (AER),Ural Airlines A320 (VQ-BCY),Landed 3:57 AM,2021-06-11
+15,15,4:35 AM U6512,,Simferopol (SIP),Ural Airlines A321 (VP-BVA),Landed 5:17 AM,2021-06-11
+16,16,4:45 AM U68364,,Karshi (KSQ),Ural Airlines A321 (VP-BBH),Landed 6:06 AM,2021-06-11
+17,17,5:25 AM SU2805,,Sochi (AER),Aeroflot B738 (VP-BGI),Landed 5:08 AM,2021-06-11
+18,18,5:45 AM BJ814,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-11
+19,19,5:45 AM,WZ800,Kaliningrad (KGD),Red Wings A321 (VP-BRB),Landed 5:12 AM,2021-06-11
+20,20,5:55 AM,WZ612,Tyumen (TJM),Red Wings A320 (VP-BWX),Landed 5:24 AM,2021-06-11
+21,21,5:55 AM SU6582,,Perm (PEE),Rossiya A319 (VQ-BAT),Landed 5:44 AM,2021-06-11
+22,22,5:55 AM SU6596,,Kazan (KZN),Rossiya A319 (VP-BQK),Landed 5:34 AM,2021-06-11
+23,23,6:05 AM DP570,,Perm (PEE),Pobeda B738 (VP-BPV),Landed 5:49 AM,2021-06-11
+24,24,6:15 AM SU6328,,Kaliningrad (KGD),Rossiya B738 (VQ-BVU),Landed 5:56 AM,2021-06-11
+25,25,6:15 AM DP560,,Ufa (UFA),Pobeda B738 (VQ-BTC),Landed 6:17 AM,2021-06-11
+26,26,6:15 AM SU6358,,Mineralnye Vody (MRV),Rossiya A319 (VP-BIU),Landed 6:03 AM,2021-06-11
+27,27,6:20 AM SU6442,,Surgut (SGC),Rossiya A319 (VP-BBU),Landed 5:59 AM,2021-06-11
+28,28,6:30 AM,SU6304,Arkhangelsk (ARH),Rossiya A319 (VQ-BAU),Landed 6:11 AM,2021-06-11
+29,29,6:35 AM DP516,,Yekaterinburg (SVX),Pobeda B738 (VP-BGR),Landed 6:36 AM,2021-06-11
+30,30,6:45 AM SU6900,,Simferopol (SIP),Rossiya A319 (VP-BIT),Landed 6:33 AM,2021-06-11
+31,31,6:50 AM SU6412,,Ufa (UFA),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 6:30 AM,2021-06-11
+32,32,6:55 AM SU6452,,Tyumen (TJM),Rossiya A319 (VQ-BAR),Landed 6:40 AM,2021-06-11
+33,33,6:55 AM UT489,,Moscow (VKO),UTair B738 (VQ-BJG),Landed 7:24 AM,2021-06-11
+34,34,7:00 AM SU6574,,Krasnoyarsk (KJA),Rossiya A320 (VP-BWH),Landed 6:51 AM,2021-06-11
+35,35,7:05 AM SU6402,,Yekaterinburg (SVX),Rossiya A320 (VP-BZQ),Landed 6:54 AM,2021-06-11
+36,36,7:05 AM SU6472,,Omsk (OMS),Rossiya B738 (VP-BUS),Landed 6:49 AM,2021-06-11
+37,37,7:10 AM DP550,,Chelyabinsk (CEK),Pobeda B738 (VP-BQJ),Landed 6:46 AM,2021-06-11
+38,38,7:15 AM SU6344,,Murmansk (MMK),Rossiya A319 (VQ-BBA),Landed 7:01 AM,2021-06-11
+39,39,7:15 AM SU6462,,Chelyabinsk (CEK),Rossiya A319 (VP-BIV),Landed 7:11 AM,2021-06-11
+40,40,7:20 AM SU6454,,Orenburg (REN),Rossiya A320 (VP-BZR),Landed 7:07 AM,2021-06-11
+41,41,7:20 AM SU6542,,Novosibirsk (OVB),Rossiya A320 (VP-BWI),Unknown,2021-06-11
+42,42,7:25 AM,SU2,Moscow (SVO),Aeroflot A320 (VQ-BIU),Landed 7:14 AM,2021-06-11
+43,43,7:30 AM SU6232,,Samara (KUF),Rossiya A319 (VQ-BCO),Landed 6:57 AM,2021-06-11
+44,44,7:30 AM SU6588,,Syktyvkar (SCW),Rossiya A319 (VQ-BAV),Landed 7:03 AM,2021-06-11
+45,45,8:00 AM 5N592,,Ufa (UFA),SmartAvia A20N (VP-BOS),Landed 7:36 AM,2021-06-11
+46,46,8:05 AM SU6022,,Moscow (VKO),Rossiya A319 (VP-BBT),Landed 7:57 AM,2021-06-11
+47,47,8:05 AM 5N584,,Perm (PEE),Smartavia 73W,Unknown,2021-06-11
+48,48,8:25 AM,SU6,Moscow (SVO),Aeroflot A321 (VP-BTK),Landed 8:02 AM,2021-06-11
+49,49,8:25 AM D219,,Cherepovets (CEE),Severstal CRJ2 (RA-67239),Landed 8:20 AM,2021-06-11
+50,50,8:45 AM 5N588,,Orenburg (REN),Smartavia B737 (VQ-BBI),Landed 8:26 AM,2021-06-11
+51,51,8:50 AM,EO317,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZI),Landed 8:29 AM,2021-06-11
+52,52,8:55 AM DP211,,Moscow (VKO),Pobeda B738 (VP-BQB),Landed 8:44 AM,2021-06-11
+53,53,9:00 AM 5N528,,Chelyabinsk (CEK),Smartavia B738 (VQ-BBV),Landed 9:03 AM,2021-06-11
+54,54,9:00 AM DP558,,Novosibirsk (OVB),Pobeda B738 (VP-BPX),Landed 9:12 AM,2021-06-11
+55,55,9:00 AM N4764,,Gorno-Altaysk (RGK),Nordwind Airlines B738 (VP-BSO),Landed 8:37 AM,2021-06-11
+56,56,9:05 AM,S71005,Moscow (DME),S7 Airlines A320 (VP-BOL),Landed 9:08 AM,2021-06-11
+57,57,9:10 AM BT442,,Riga (RIX),Air Baltic BCS3 (YL-CSC),Landed 9:06 AM,2021-06-11
+58,58,9:10 AM 5N149,,Arkhangelsk (ARH),Smartavia A20N (VP-BOZ),Landed 8:57 AM,2021-06-11
+59,59,9:15 AM YK881,,Osh (OSS),Avia Traffic 737,Unknown,2021-06-11
+60,60,9:20 AM N4150,,Kemerovo (KEJ),Nordwind Airlines B738 (VP-BSZ),Landed 9:00 AM,2021-06-11
+61,61,9:25 AM UT528,,Tyumen (TJM),UTair B735 (VP-BXQ),Landed 8:53 AM,2021-06-11
+62,62,9:35 AM,B2941,Minsk (MSQ),Belavia B738 (EW-438PA),Landed 9:42 AM,2021-06-11
+63,63,9:35 AM 7R554,,Voronezh (VOZ),Rusline CRJ1 (VP-BNM),Landed 9:19 AM,2021-06-11
+64,64,9:40 AM 5N512,,Volgograd (VOG),SmartAvia A20N (VP-BOF),Landed 9:16 AM,2021-06-11
+65,65,9:50 AM SU10,,Moscow (SVO),Aeroflot A321 (VP-BOC),Landed 9:26 AM,2021-06-11
+66,66,9:50 AM SU6010,,Moscow (VKO),Rossiya A319 (VP-BWG),Landed 9:40 AM,2021-06-11
+67,67,9:55 AM U6225,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BFV),Landed 9:32 AM,2021-06-11
+68,68,10:05 AM U654,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BCY),Landed 9:30 AM,2021-06-11
+69,69,10:10 AM DP203,,Moscow (VKO),Pobeda B738 (VQ-BAW),Landed 9:57 AM,2021-06-11
+70,70,10:20 AM,EO177,Moscow (SVO),Pegas Fly B739 (VP-BZY),Landed 10:00 AM,2021-06-11
+71,71,10:40 AM SU6898,,Simferopol (SIP),Rossiya A319 (VQ-BAQ),Landed 10:30 AM,2021-06-11
+72,72,10:55 AM DP205,,Moscow (VKO),Pobeda B738 (VQ-BTS),Landed 10:42 AM,2021-06-11
+73,73,10:55 AM RL276,,Cairo (CAI),Royal Flight 752,Unknown,2021-06-11
+74,74,11:10 AM,SU12,Moscow (SVO),Aeroflot A321 (VP-BFF),Landed 10:53 AM,2021-06-11
+75,75,11:10 AM DP306,,Sochi (AER),Pobeda B738 (VP-BPL),Landed 10:56 AM,2021-06-11
+76,76,11:25 AM YC845,,Novy Urengoy (NUX),Yamal Airlines SU95 (RA-89091),Landed 11:05 AM,2021-06-11
+77,77,11:30 AM,S71027,Moscow (DME),S7 Airlines B738 (VQ-BRP),Landed 11:49 AM,2021-06-11
+78,78,11:35 AM A4303,,Krasnodar (KRR),Azimuth SU95 (RA-89079),Landed 12:52 PM,2021-06-11
+79,79,11:40 AM U679,,Moscow (DME),Ural Airlines 320,Unknown,2021-06-11
+80,80,11:40 AM SU6306,,Arkhangelsk (ARH),Rossiya A319 (VQ-BAT),Landed 11:31 AM,2021-06-11
+81,81,11:40 AM U61312,,Moscow (ZIA),Ural Airlines A321 (VQ-BGY),Landed 1:23 PM,2021-06-11
+82,82,11:50 AM S76377,,Irkutsk (IKT),S7 Airlines A20N (VP-BVJ),Landed 11:22 AM,2021-06-11
+83,83,11:55 AM DP308,,Anapa (AAQ),Pobeda B738 (VQ-BHV),Landed 12:02 PM,2021-06-11
+84,84,11:55 AM SU6038,,Samarkand (SKD),Rossiya B738 (VQ-BVV),Landed 11:45 AM,2021-06-11
+85,85,11:55 AM,UT369,Moscow (VKO),UTair B738 (VQ-BPT),Landed 12:24 PM,2021-06-11
+86,86,12:00 PM SU6018,,Moscow (VKO),Rossiya A320 (VP-BWH),Landed 12:00 PM,2021-06-11
+87,87,12:05 PM,SU14,Moscow (SVO),Aeroflot A321 (VP-BTR),Landed 11:52 AM,2021-06-11
+88,88,12:10 PM N4130,,Simferopol (SIP),Nordwind Airlines A321 (VP-BRD),Landed 11:57 AM,2021-06-11
+89,89,12:10 PM,SU6324,Kaliningrad (KGD),Rossiya A320 (VP-BZQ),Landed 12:15 PM,2021-06-11
+90,90,12:15 PM S75003,,Novosibirsk (OVB),S7 Airlines A321 (VP-BPO),Landed 11:55 AM,2021-06-11
+91,91,12:25 PM ZF8794,,Antalya (AYT),Azur Air 76W,Unknown,2021-06-11
+92,92,12:35 PM A4203,,Rostov-on-Don (ROV),Azimuth SU95 (RA-89093),Landed 12:28 PM,2021-06-11
+93,93,12:35 PM DP6821,,Moscow (SVO),Pobeda B738 (VQ-BHR),Landed 12:20 PM,2021-06-11
+94,94,12:40 PM D258,,Apatity (KVK),Severstal CRJ2 (RA-67239),Landed 12:44 PM,2021-06-11
+95,95,12:45 PM DP201,,Moscow (VKO),Pobeda B738 (VP-BOD),Landed 12:36 PM,2021-06-11
+96,96,12:50 PM U6548,,Sochi (AER),Ural Airlines A321 (VP-BBH),Landed 3:54 PM,2021-06-11
+97,97,12:55 PM SU6028,,Moscow (VKO),Rossiya A319 (VP-BQK),Landed 1:16 PM,2021-06-11
+98,98,12:55 PM SN1041,,Brussels (BRU),Brussels Airlines A319 (OO-SSX),Landed 12:40 PM,2021-06-11
+99,99,1:00 PM R3487,,Barnaul (BAX),Yakutia Airlines B737 (VQ-BGH),Landed 10:27 PM,2021-06-11
+100,100,1:00 PM,SU16,Moscow (SVO),Aeroflot A321 (VP-BAF),Landed 12:47 PM,2021-06-11
+101,101,1:00 PM ZF8406,,Sochi (AER),Azur Air B739 (VQ-BYO),Landed 12:55 PM,2021-06-11
+102,102,1:05 PM 5N145,,Arkhangelsk (ARH),Smartavia B737 (VQ-BBI),Landed 12:50 PM,2021-06-11
+103,103,1:10 PM LO683,,Warsaw (WAW),LOT B738 (SP-LWF),Landed 1:12 PM,2021-06-11
+104,104,1:15 PM DP536,,Kaliningrad (KGD),Pobeda B738 (VP-BQB),Landed 12:57 PM,2021-06-11
+105,105,1:15 PM,SU6342,Murmansk (MMK),Rossiya A319 (VP-BIU),Landed 1:07 PM,2021-06-11
+106,106,1:20 PM,SU42,Moscow (SVO),Aeroflot A320 (VQ-BIU),Landed 1:00 PM,2021-06-11
+107,107,1:25 PM AY707,,Helsinki (HEL),Finnair A319 (OH-LVI),Landed 1:18 PM,2021-06-11
+108,108,1:25 PM I8925,,Izhevsk (IJK),Izhavia B738 (VP-BUU),Landed 1:10 PM,2021-06-11
+109,109,1:25 PM,LX1310,Zurich (ZRH),Swiss BCS3 (HB-JCR),Landed 1:55 PM,2021-06-11
+110,110,1:35 PM RT240,,Usinsk (USK),UVT Aero CRJ2 (VQ-BOR),Landed 1:33 PM,2021-06-11
+111,111,1:35 PM DP538,,Stavropol (STW),Pobeda B738 (VQ-BTI),Landed 1:26 PM,2021-06-11
+112,112,1:55 PM DP213,,Moscow (VKO),Pobeda B738 (VP-BQG),Landed 2:05 PM,2021-06-11
+113,113,1:55 PM,SU18,Moscow (SVO),Aeroflot A320 (VP-BFH),Landed 1:29 PM,2021-06-11
+114,114,2:00 PM DP505,,Makhachkala (MCX),Pobeda B738 (VP-BQH),Landed 1:41 PM,2021-06-11
+115,115,2:10 PM SU2823,,Berlin (BER),Aeroflot A320 (VP-BIW),Landed 2:03 PM,2021-06-11
+116,116,2:10 PM DP528,,Naberezhnye Chelny (NBC),Pobeda B738 (VP-BPV),Landed 2:01 PM,2021-06-11
+117,117,2:15 PM 5N324,,Naryan-Mar (NNM),Smartavia B737 (VP-BYY),Landed 7:46 PM,2021-06-11
+118,118,2:20 PM 7R104,,Ivanovo (IWA),Rusline CR2,Unknown,2021-06-11
+119,119,2:20 PM 5N508,,Murmansk (MMK),Smartavia A20N (VP-BOZ),Landed 2:08 PM,2021-06-11
+120,120,2:30 PM,S71011,Moscow (DME),S7 Airlines A320 (VQ-BOA),Landed 2:15 PM,2021-06-11
+121,121,2:35 PM DP540,,Mineralnye Vody (MRV),Pobeda B738 (VP-BQJ),Landed 2:19 PM,2021-06-11
+122,122,2:40 PM 5N598,,Kazan (KZN),Smartavia B738 (VQ-BBV),Landed 2:38 PM,2021-06-11
+123,123,2:45 PM SU6372,,Rostov-on-Don (ROV),Rossiya A319 (VQ-BBA),Landed 2:27 PM,2021-06-11
+124,124,2:50 PM SU6654,,Hamburg (HAM),Rossiya A319 (VQ-BAR),Landed 2:42 PM,2021-06-11
+125,125,2:50 PM SU6892,,Simferopol (SIP),Rossiya A319 (VP-BWJ),Landed 2:44 PM,2021-06-11
+126,126,2:55 PM SU6326,,Kaliningrad (KGD),Rossiya A319 (VP-BIV),Landed 2:51 PM,2021-06-11
+127,127,2:55 PM U659,,Moscow (DME),Ural Airlines A20N (VP-BRY),Landed 2:56 PM,2021-06-11
+128,128,3:00 PM DP514,,Kirov (KVX),Pobeda B738 (VP-BPX),Landed 2:46 PM,2021-06-11
+129,129,3:00 PM D2324,,Ukhta (UCT),Severstal SU95 (RA-89117),Landed 2:53 PM,2021-06-11
+130,130,3:05 PM,SU20,Moscow (SVO),Aeroflot A321 (VP-BOC),Landed 2:48 PM,2021-06-11
+131,131,3:15 PM SU6106,,Nizhny Novgorod (GOJ),Rossiya SU95 (RA-89131),Landed 3:00 PM,2021-06-11
+132,132,3:20 PM,WZ704,Sochi (AER),Red Wings A320 (VP-BWX),Landed 3:13 PM,2021-06-11
+133,133,3:25 PM SU6216,,Gelendzhik (GDZ),Rossiya A319 (VP-BBU),Landed 3:08 PM,2021-06-11
+134,134,3:25 PM,WZ602,Simferopol (SIP),Red Wings A321 (VP-BRB),Landed 3:11 PM,2021-06-11
+135,135,3:30 PM 5F115,,Chisinau (KIV),Fly One A320 (ER-00005),Landed 3:19 PM,2021-06-11
+136,136,3:30 PM SU6014,,Moscow (VKO),Rossiya A320 (VP-BWI),Landed 3:38 PM,2021-06-11
+137,137,3:30 PM SU6356,,Mineralnye Vody (MRV),Rossiya A319 (VQ-BCO),Landed 3:26 PM,2021-06-11
+138,138,3:45 PM S75005,,Novosibirsk (OVB),S7 Airlines A20N (VP-BWB),Landed 3:16 PM,2021-06-11
+139,139,3:45 PM SU6202,,Anapa (AAQ),Rossiya A319 (VP-BNJ),Landed 3:35 PM,2021-06-11
+140,140,3:45 PM SU6316,,Krasnodar (KRR),Rossiya A319 (VQ-BAU),Landed 3:45 PM,2021-06-11
+141,141,3:45 PM 5N532,,Samara (KUF),SmartAvia A20N (VP-BOF),Landed 3:42 PM,2021-06-11
+142,142,4:00 PM WZ794,,Yekaterinburg (SVX),Red Wings A320 (VP-BWW),Landed 3:21 PM,2021-06-11
+143,143,4:00 PM SU6564,,Sochi (AER),Rossiya A319 (VQ-BAV),Landed 3:59 PM,2021-06-11
+144,144,4:05 PM DP314,,Sochi (AER),Pobeda B738 (VP-BFB),Landed 4:06 PM,2021-06-11
+145,145,4:10 PM 7R348,,Kaluga (KLF),Rusline CRJ1 (VQ-BND),Landed 3:50 PM,2021-06-11
+146,146,4:20 PM 5N546,,Sochi (AER),SmartAvia A20N (VP-BOS),Landed 4:15 PM,2021-06-11
+147,147,4:20 PM,LH1436,Frankfurt (FRA),Lufthansa A20N (D-AINC),Landed 4:53 PM,2021-06-11
+148,148,4:20 PM,S71013,Moscow (DME),S7 Airlines A320 (VP-BOM),Landed 4:19 PM,2021-06-11
+149,149,4:20 PM U6256,,Yekaterinburg (SVX),Ural Airlines 320,Unknown,2021-06-11
+150,150,4:20 PM U6366,,Yekaterinburg (SVX),Ural Airlines 320,Unknown,2021-06-11
+151,151,4:20 PM U6623,,Yekaterinburg (SVX),Ural Airlines 320,Unknown,2021-06-11
+152,152,4:20 PM U6174,,Yekaterinburg (SVX),Ural Airlines A320 (VP-BKX),Landed 4:58 PM,2021-06-11
+153,153,4:30 PM U6392,,Kaliningrad (KGD),Ural Airlines A321 (VQ-BGY),Landed 6:58 PM,2021-06-11
+154,154,4:45 PM SU22,,Moscow (SVO),Aeroflot A321 (VQ-BEA),Landed 4:28 PM,2021-06-11
+155,155,4:45 PM DP588,,Kaliningrad (KGD),Pobeda B738 (VQ-BHR),Landed 4:49 PM,2021-06-11
+156,156,4:45 PM SU6110,,Nalchik (NAL),Rossiya SU95 (RA-89128),Landed 4:47 PM,2021-06-11
+157,157,4:55 PM,KL1395,Amsterdam (AMS),KLM B738 (PH-BCD),Landed 5:04 PM,2021-06-11
+158,158,5:05 PM DP518,,Volgograd (VOG),Pobeda B738 (VQ-BTS),Landed 4:45 PM,2021-06-11
+159,159,5:10 PM 5N586,,Krasnodar (KRR),Smartavia B738 (VP-BCC),Landed 4:56 PM,2021-06-11
+160,160,5:20 PM DP302,,Gelendzhik (GDZ),Pobeda Airlines B738 (VP-BQZ),Landed 5:25 PM,2021-06-11
+161,161,5:40 PM ZF7808,,Enfidha (NBE),Azur Air B763 (VP-BUX),Landed 5:38 PM,2021-06-11
+162,162,5:40 PM DP510,,Krasnodar (KRR),Pobeda B738 (VQ-BAW),Landed 5:32 PM,2021-06-11
+163,163,5:40 PM SU6984,,Simferopol (SIP),Rossiya A319 (VP-BBT),Landed 5:34 PM,2021-06-11
+164,164,5:40 PM 5N534,,Kaliningrad (KGD),Smartavia B737 (VQ-BBI),Landed 5:27 PM,2021-06-11
+165,165,5:45 PM A4643,,Bryansk (BZK),Azimuth SU95 (RA-89093),Landed 5:36 PM,2021-06-11
+166,166,5:45 PM SU2831,,Rome (FCO),Aeroflot A320 (VP-BAC),Landed 5:44 PM,2021-06-11
+167,167,5:45 PM U6346,,Anapa (AAQ),Ural Airlines A320 (VQ-BFV),Landed 6:13 PM,2021-06-11
+168,168,5:50 PM SU38,,Moscow (SVO),Aeroflot B738 (VP-BZA),Landed 5:40 PM,2021-06-11
+169,169,5:50 PM A4637,,Kaluga (KLF),Azimuth SU95 (RA-89079),Landed 5:19 PM,2021-06-11
+170,170,5:55 PM DP209,,Moscow (VKO),Pobeda B738 (VQ-BTH),Landed 5:46 PM,2021-06-11
+171,171,6:05 PM SU6030,,Moscow (VKO),Rossiya A319 (VP-BIU),Landed 6:06 PM,2021-06-11
+172,172,6:05 PM U68834,,Bishkek (FRU),Ural Airlines 321,Unknown,2021-06-11
+173,173,6:10 PM N4140,,Sochi (AER),Nordwind Airlines B738 (VP-BSZ),Landed 5:56 PM,2021-06-11
+174,174,6:10 PM U6658,,Simferopol (SIP),Ural Airlines A320 (VQ-BCY),Landed 6:11 PM,2021-06-11
+175,175,6:15 PM SU6234,,Samara (KUF),Rossiya A319 (VQ-BAQ),Landed 6:02 PM,2021-06-11
+176,176,6:25 PM SU6008,,Gelendzhik (GDZ),Rossiya B738 (VQ-BVU),Landed 6:04 PM,2021-06-11
+177,177,6:25 PM SU6986,,Simferopol (SIP),Rossiya A319 (VQ-BOX),Landed 6:09 PM,2021-06-11
+178,178,6:35 PM,SU24,Moscow (SVO),Aeroflot A321 (VP-BTR),Landed 6:22 PM,2021-06-11
+179,179,6:40 PM,S71015,Moscow (DME),S7 Airlines B738 (VQ-BVL),Landed 6:54 PM,2021-06-11
+180,180,6:40 PM SU6922,,Yerevan (EVN),Rossiya A319 (VP-BIT),Landed 6:16 PM,2021-06-11
+181,181,6:45 PM SU6066,,Makhachkala (MCX),Rossiya A320 (VP-BZR),Landed 6:47 PM,2021-06-11
+182,182,6:45 PM DP566,,Ulyanovsk (ULV),Pobeda B738 (VP-BQB),Landed 6:29 PM,2021-06-11
+183,183,6:55 PM,EO795,Orsk (OSW),Pegas Fly E190 (VP-BZJ),Landed 7:01 PM,2021-06-11
+184,184,7:05 PM SU2833,,Larnaca (LCA),Aeroflot B738 (VP-BZB),Landed 6:51 PM,2021-06-11
+185,185,7:05 PM YC855,,Salekhard (SLY),Yamal Airlines SU95 (RA-89072),Landed 6:20 PM,2021-06-11
+186,186,7:10 PM SU6566,,Sochi (AER),Rossiya A319 (VP-BWG),Landed 6:45 PM,2021-06-11
+187,187,7:10 PM UT264,,Grozny (GRV),UTair B735 (VP-BXQ),Landed 7:11 PM,2021-06-11
+188,188,7:15 PM 5N518,,Murmansk (MMK),SmartAvia A20N (VP-BOS),Landed 9:48 PM,2021-06-11
+189,189,7:15 PM N4664,,Istanbul (IST),Nordwind Airlines 73H,Unknown,2021-06-11
+190,190,7:25 PM SU6012,,Moscow (VKO),Rossiya A320 (VP-BZQ),Landed 7:25 PM,2021-06-11
+191,191,7:30 PM UT381,,Moscow (VKO),UTair B734 (VQ-BIE),Landed 7:29 PM,2021-06-11
+192,192,7:35 PM DP576,,Voronezh (VOZ),Pobeda B738 (VP-BQJ),Landed 7:34 PM,2021-06-11
+193,193,7:35 PM 5N504,,Syktyvkar (SCW),Smartavia 73W,Unknown,2021-06-11
+194,194,7:50 PM SU6006,,Krasnodar (KRR),Rossiya B738 (VP-BUS),Landed 7:43 PM,2021-06-11
+195,195,7:55 PM DP520,,Astrakhan (ASF),Pobeda B738 (VP-BOD),Landed 7:59 PM,2021-06-11
+196,196,7:55 PM N4147,,Moscow (SVO),Nordwind Airlines B738 (VQ-BDC),Landed 7:37 PM,2021-06-11
+197,197,8:00 PM N4330,,Kazan (KZN),Nordwind Airlines 332,Unknown,2021-06-11
+198,198,8:00 PM SU6004,,Anapa (AAQ),Rossiya B738 (VQ-BVV),Landed 8:03 PM,2021-06-11
+199,199,8:00 PM EO330,,Kazan (KZN),Pegas Fly B763 (VP-BOY),Landed 7:51 PM,2021-06-11
+200,200,8:05 PM 5N147,,Arkhangelsk (ARH),SmartAvia A20N (VP-BOF),Landed 7:57 PM,2021-06-11
+201,201,8:05 PM,S71017,Moscow (DME),S7 Airlines A321 (VQ-BQH),Landed 8:07 PM,2021-06-11
+202,202,8:15 PM,SU26,Moscow (SVO),Aeroflot A321 (VP-BJX),Landed 7:55 PM,2021-06-11
+203,203,8:20 PM UT469,,Surgut (SGC),UTair B735 (VQ-BPR),Landed 8:06 PM,2021-06-11
+204,204,8:20 PM W98123,,London (LTN),Wizz Air UK 321,Canceled,2021-06-11
+205,205,8:25 PM SU6988,,Simferopol (SIP),Rossiya A319 (VQ-BAT),Landed 8:12 PM,2021-06-11
+206,206,8:30 PM,SU6330,Kaliningrad (KGD),Rossiya A320 (VP-BWI),Landed 9:29 PM,2021-06-11
+207,207,8:45 PM 7R106,,Ivanovo (IWA),Rusline CRJ1 (VP-BNM),Landed 8:23 PM,2021-06-11
+208,208,9:15 PM 5N536,,Rostov-on-Don (ROV),Smartavia B738 (VQ-BBV),Landed 9:20 PM,2021-06-11
+209,209,9:15 PM 7R262,,Lipetsk (LPK),Rusline CR2,Unknown,2021-06-11
+210,210,9:20 PM,EO281,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZI),Landed 9:14 PM,2021-06-11
+211,211,9:20 PM,SU28,Moscow (SVO),Aeroflot A321 (VQ-BTT),Landed 8:47 PM,2021-06-11
+212,212,9:20 PM SU6598,,Kazan (KZN),Rossiya A319 (VQ-BBA),Landed 9:26 PM,2021-06-11
+213,213,9:25 PM D221,,Cherepovets (CEE),Severstal CRJ2 (RA-67240),Landed 9:23 PM,2021-06-11
+214,214,9:30 PM 5N524,,Anapa (AAQ),Smartavia A20N (VP-BOZ),Landed 9:43 PM,2021-06-11
+215,215,9:35 PM,S71019,Moscow (DME),S7 Airlines (Siberian Airlines Livery) A320 (VQ-BPN),Landed 9:18 PM,2021-06-11
+216,216,9:35 PM SU6036,,Moscow (VKO),Rossiya A319 (VP-BBU),Landed 9:37 PM,2021-06-11
+217,217,9:40 PM N4648,,Baku (GYD),Nordwind Airlines B772 (VP-BJH),Landed 11:38 PM,2021-06-11
+218,218,9:40 PM DP508,,Beslan (OGZ),Pobeda B738 (VP-BPV),Landed 9:39 PM,2021-06-11
+219,219,9:50 PM 7R220,,Kursk (URS),Rusline CRJ1 (VQ-BND),Landed 9:13 PM,2021-06-11
+220,220,9:50 PM,QR281,Doha (DOH),Qatar Airways 320,Unknown,2021-06-11
+221,221,10:00 PM S75007,,Novosibirsk (OVB),S7 Airlines B738 (VP-BQD),Landed 9:33 PM,2021-06-11
+222,222,10:00 PM,SU30,Moscow (SVO),Aeroflot B738 (VP-BKF),Landed 9:45 PM,2021-06-11
+223,223,10:10 PM 5N295,,Moscow (DME),Smartavia B738 (VP-BBD),Landed 9:51 PM,2021-06-11
+224,224,10:20 PM,SU6346,Murmansk (MMK),Rossiya A319 (VQ-BCO),Landed 10:17 PM,2021-06-11
+225,225,10:30 PM,SU32,Moscow (SVO),Aeroflot A321 (VP-BKR),Landed 10:13 PM,2021-06-11
+226,226,10:35 PM U638,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BFV),Landed 11:32 PM,2021-06-11
+227,227,10:40 PM SU6204,,Anapa (AAQ),Rossiya A319 (VQ-BAR),Landed 10:53 PM,2021-06-11
+228,228,10:45 PM D256,,Apatity (KVK),Severstal SU95 (RA-89117),Landed 10:46 PM,2021-06-11
+229,229,10:50 PM SU6562,,Sochi (AER),Rossiya A319 (VP-BQK),Landed 11:09 PM,2021-06-11
+230,230,10:55 PM LH1438,,Frankfurt (FRA),Lufthansa A20N (D-AINQ),Landed 11:06 PM,2021-06-11
+231,231,10:55 PM,SU6308,Arkhangelsk (ARH),Rossiya A319 (VQ-BAU),Landed 10:40 PM,2021-06-11
+232,232,11:00 PM SU44,,Moscow (SVO),Aeroflot A321 (VQ-BEA),Landed 10:43 PM,2021-06-11
+233,233,11:00 PM SU6404,,Yekaterinburg (SVX),Rossiya A320 (VP-BWH),Landed 11:02 PM,2021-06-11
+234,234,11:10 PM SU6414,,Ufa (UFA),Rossiya A319 (VP-BNJ),Landed 10:56 PM,2021-06-11
+235,235,11:10 PM DP548,,Kazan (KZN),Pobeda Airlines B738 (VP-BQZ),Landed 11:19 PM,2021-06-11
+236,236,11:10 PM SU6896,,Simferopol (SIP),Rossiya A319 (VP-BWJ),Landed 11:00 PM,2021-06-11
+237,237,11:15 PM DP530,,Kaliningrad (KGD),Pobeda B738 (VP-BQB),Landed 11:12 PM,2021-06-11
+238,238,11:15 PM SU6024,,Moscow (VKO),Rossiya A319 (VP-BIU),Unknown,2021-06-11
+239,239,11:25 PM DP578,,Saratov (GSV),Pobeda B738 (VQ-BAW),Landed 11:16 PM,2021-06-11
+240,240,11:40 PM DP207,,Moscow (VKO),Pobeda B738 (VP-BQQ),Landed 11:49 PM,2021-06-11
+241,241,11:45 PM 5N582,,Samara (KUF),SmartAvia A20N (VP-BOS),Landed 3:46 AM,2021-06-11
+242,242,11:50 PM SU6016,,Moscow (VKO),Rossiya A319 (VP-BBT),Landed 11:56 PM,2021-06-11
+0,0,00:05 SU6990,,Simferopol (SIP),Rossiya A319 (VP-BIV),Landed 23:35,2021-06-12
+1,1,00:10 RL312,,Anapa (AAQ),Royal Flight B752 (VQ-BTR),Landed 22:37,2021-06-12
+2,2,00:10,WZ702,Simferopol (SIP),Red Wings A320 (VP-BWX),Landed 23:58,2021-06-12
+3,3,00:20 ZF402,,Dalaman (DLM),Azur Air 76W,Unknown,2021-06-12
+4,4,00:30 SU2815,,Sochi (AER),Aeroflot A320 (VP-BIW),Landed 00:14,2021-06-12
+5,5,00:35 5N1504,,Syktyvkar (SCW),Smartavia B737 (VP-BYY),Landed 00:41,2021-06-12
+6,6,00:35,WZ648,Krasnodar (KRR),Red Wings A320 (VP-BWW),Landed 00:48,2021-06-12
+7,7,00:40,SU34,Moscow (SVO),Aeroflot A320 (VQ-BIU),Landed 00:29,2021-06-12
+8,8,00:40 5N540,,Kaliningrad (KGD),SmartAvia A20N (VP-BOF),Landed 00:25,2021-06-12
+9,9,01:05 SU6116,,Volgograd (VOG),Rossiya SU95 (RA-89131),Landed 00:50,2021-06-12
+10,10,01:15 BJ806,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-12
+11,11,01:15,S71025,Moscow (DME),S7 Airlines A320 (VQ-BPL),Landed 01:10,2021-06-12
+12,12,01:20 SU6314,,Krasnodar (KRR),Rossiya A319 (VQ-BAV),Landed 01:43,2021-06-12
+13,13,01:30 BJ824,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-12
+14,14,01:40 5N526,,Simferopol (SIP),Smartavia B737 (VQ-BBI),Landed 01:29,2021-06-12
+15,15,02:00 SU46,,Moscow (SVO),Aeroflot B738 (VQ-BVO),Landed 02:47,2021-06-12
+16,16,02:25 SU6992,,Simferopol (SIP),Aeroflot 319,Unknown,2021-06-12
+17,17,02:55 SU36,,Moscow (SVO),Aeroflot A321 (VP-BTH),Landed 02:41,2021-06-12
+18,18,03:15 SU6998,,Simferopol (SIP),Rossiya A319 (VQ-BAQ),Landed 02:50,2021-06-12
+19,19,04:10 U628,,Sochi (AER),Ural Airlines A320 (VQ-BNI),Landed 04:23,2021-06-12
+20,20,04:35 U6512,,Simferopol (SIP),Ural Airlines A321 (VQ-BGX),Landed 06:24,2021-06-12
+21,21,05:10 SU6112,,Nizhnevartovsk (NJC),Rossiya B738 (VQ-BVU),Landed 04:53,2021-06-12
+22,22,05:25 SU2805,,Sochi (AER),Aeroflot B738 (VP-BZB),Landed 05:21,2021-06-12
+23,23,05:35 SU2817,,Chisinau (KIV),Aeroflot A320 (VP-BAC),Landed 05:31,2021-06-12
+24,24,05:45,WZ800,Kaliningrad (KGD),Red Wings A320 (VP-BWX),Landed 05:09,2021-06-12
+25,25,05:55 SU6582,,Perm (PEE),Rossiya A319 (VQ-BAU),Landed 05:39,2021-06-12
+26,26,05:55 SU6596,,Kazan (KZN),Rossiya A319 (VQ-BCO),Landed 05:43,2021-06-12
+27,27,06:05 DP570,,Perm (PEE),Pobeda B738 (VP-BQQ),Landed 05:49,2021-06-12
+28,28,06:15 SU6328,,Kaliningrad (KGD),Rossiya B738 (VP-BUS),Landed 05:58,2021-06-12
+29,29,06:15 DP560,,Ufa (UFA),Pobeda B738 (VQ-BAW),Landed 05:55,2021-06-12
+30,30,06:15 SU6358,,Mineralnye Vody (MRV),Rossiya A319 (VQ-BBA),Landed 06:03,2021-06-12
+31,31,06:20 SU6442,,Surgut (SGC),Rossiya A320 (VP-BWI),Landed 06:20,2021-06-12
+32,32,06:30,SU6304,Arkhangelsk (ARH),Rossiya A319 (VP-BIU),Landed 06:17,2021-06-12
+33,33,06:35 DP516,,Yekaterinburg (SVX),Pobeda B738 (VQ-BTD),Landed 06:35,2021-06-12
+34,34,06:45 SU6900,,Simferopol (SIP),Rossiya A319 (VP-BIT),Landed 06:33,2021-06-12
+35,35,06:50 SU6412,,Ufa (UFA),Rossiya A319 (VP-BQK),Landed 06:45,2021-06-12
+36,36,06:55 WZ738,,Sochi (AER),Red Wings A321 (VP-BRS),Landed 06:39,2021-06-12
+37,37,06:55 SU6452,,Tyumen (TJM),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 06:42,2021-06-12
+38,38,06:55 UT489,,Moscow (VKO),UTair B738 (VQ-BPT),Landed 06:58,2021-06-12
+39,39,07:00 SU6574,,Krasnoyarsk (KJA),Rossiya A320 (VP-BZR),Landed 06:56,2021-06-12
+40,40,07:05 SU6402,,Yekaterinburg (SVX),Rossiya A319 (VP-BWJ),Landed 06:50,2021-06-12
+41,41,07:10 DP550,,Chelyabinsk (CEK),Pobeda B738 (VP-BQB),Landed 06:52,2021-06-12
+42,42,07:15 SU6344,,Murmansk (MMK),Rossiya A319 (VP-BBT),Landed 07:20,2021-06-12
+43,43,07:15 SU6462,,Chelyabinsk (CEK),Rossiya A319 (VP-BBU),Landed 07:07,2021-06-12
+44,44,07:20 SU6454,,Orenburg (REN),Rossiya A320 (VQ-BFM),Landed 07:22,2021-06-12
+45,45,07:20 SU6542,,Novosibirsk (OVB),Rossiya A320 (VP-BZQ),Landed 07:01,2021-06-12
+46,46,07:25,SU2,Moscow (SVO),Aeroflot A320 (VQ-BHL),Landed 07:17,2021-06-12
+47,47,07:30 SU6232,,Samara (KUF),Rossiya A319 (VP-BIV),Landed 07:04,2021-06-12
+48,48,07:30 SU6588,,Syktyvkar (SCW),Rossiya A319 (VQ-BAR),Landed 07:10,2021-06-12
+49,49,07:35 SU6472,,Omsk (OMS),Rossiya A319 (VP-BWG),Landed 07:15,2021-06-12
+50,50,07:40 5F115,,Chisinau (KIV),Fly One A320 (ER-00004),Landed 07:26,2021-06-12
+51,51,08:00 5N592,,Ufa (UFA),SmartAvia A20N (VP-BOF),Landed 07:38,2021-06-12
+52,52,08:05 SU6022,,Moscow (VKO),Rossiya A319 (VQ-BAT),Landed 07:54,2021-06-12
+53,53,08:05 5N584,,Perm (PEE),Smartavia B737 (VQ-BBI),Landed 07:49,2021-06-12
+54,54,08:25 7R298,,Khanty-Mansiysk (HMA),Rusline CRJ1 (VQ-BND),Unknown,2021-06-12
+55,55,08:25,SU6,Moscow (SVO),Aeroflot A321 (VP-BKI),Landed 07:57,2021-06-12
+56,56,08:25 D219,,Cherepovets (CEE),Severstal CRJ2 (RA-67240),Landed 08:20,2021-06-12
+57,57,08:40 5N149,,Arkhangelsk (ARH),SmartAvia A20N (VP-BOS),Landed 08:39,2021-06-12
+58,58,08:40 5N578,,Tyumen (TJM),Smartavia B737 (VP-BYY),Landed 08:16,2021-06-12
+59,59,08:45 9U181,,Chisinau (KIV),Air Moldova A319 (ER-AXM),Landed 08:48,2021-06-12
+60,60,09:00 5N528,,Chelyabinsk (CEK),Smartavia B738 (VQ-BBV),Landed 08:51,2021-06-12
+61,61,09:00 DP558,,Novosibirsk (OVB),Pobeda B738 (VP-BPV),Landed 08:56,2021-06-12
+62,62,09:05,S71005,Moscow (DME),S7 Airlines A320 (VQ-BPL),Landed 08:54,2021-06-12
+63,63,09:15 N4762,,Novokuznetsk (NOZ),Nordwind Airlines B738 (VQ-BDC),Landed 09:10,2021-06-12
+64,64,09:20 5N512,,Volgograd (VOG),Smartavia A20N (VP-BOZ),Landed 09:03,2021-06-12
+65,65,09:25,EO586,Belgorod (EGO),Pegas Fly E190 (VP-BZJ),Landed 09:17,2021-06-12
+66,66,09:25 U68642,,Khudzhand (LBD),Ural Airlines A321 (VP-BVA),Landed 08:43,2021-06-12
+67,67,09:25 UT528,,Tyumen (TJM),UTair B735 (VP-BYL),Landed 08:59,2021-06-12
+68,68,09:35 7R554,,Voronezh (VOZ),Rusline CRJ1 (VP-BNM),Landed 09:15,2021-06-12
+69,69,09:40 YK879,,Bishkek (FRU),Avia Traffic 737,Unknown,2021-06-12
+70,70,09:50 SU10,,Moscow (SVO),Aeroflot A20N (VP-BPR),Landed 09:31,2021-06-12
+71,71,09:50 SU6010,,Moscow (VKO),Rossiya A320 (VP-BWH),Landed 09:52,2021-06-12
+72,72,09:55 U6225,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BCI),Landed 09:35,2021-06-12
+73,73,10:05 U654,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BNI),Landed 09:47,2021-06-12
+74,74,10:05 N4594,,Tomsk (TOF),Nordwind Airlines B738 (VP-BSZ),Landed 10:10,2021-06-12
+75,75,10:10,U6223,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BFW),Landed 10:06,2021-06-12
+76,76,10:10 DP203,,Moscow (VKO),Pobeda B738 (VQ-BWI),Landed 10:18,2021-06-12
+77,77,10:20 N4177,,Moscow (SVO),Nordwind Airlines A321 (VQ-BRT),Landed 10:15,2021-06-12
+78,78,10:30 RL9909,,Moscow (SVO),Royal Flight B752 (VP-BLB),Landed 10:29,2021-06-12
+79,79,10:35 S71031,,Moscow (DME),S7 Airlines A320 (VP-BCS),Landed 10:12,2021-06-12
+80,80,10:35 YC877,,Nadym (NYM),Yamal Airlines SU95 (RA-89072),Landed 10:20,2021-06-12
+81,81,10:40 SU6898,,Simferopol (SIP),Rossiya A319 (VQ-BOX),Landed 10:26,2021-06-12
+82,82,10:45 BJ462,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-12
+83,83,10:55 DP205,,Moscow (VKO),Pobeda B738 (VQ-BTD),Landed 10:44,2021-06-12
+84,84,11:00 DP215,,Moscow (VKO),Pobeda B738 (VP-BQE),Landed 11:05,2021-06-12
+85,85,11:10,SU12,Moscow (SVO),Aeroflot (Manchester United livery) A321 (VP-BTL),Landed 10:48,2021-06-12
+86,86,11:10 DP306,,Sochi (AER),Pobeda B738 (VP-BFB),Landed 10:55,2021-06-12
+87,87,11:30,S71027,Moscow (DME),S7 Airlines B738 (VQ-BRP),Landed 11:07,2021-06-12
+88,88,11:35 A4303,,Krasnodar (KRR),Azimuth Airlines SU95 (RA-89179),Landed 11:10,2021-06-12
+89,89,11:40,EO317,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZI),Landed 11:23,2021-06-12
+90,90,11:40 U679,,Moscow (DME),Ural Airlines A320 (VQ-BQN),Unknown,2021-06-12
+91,91,11:40 SU6306,,Arkhangelsk (ARH),Rossiya A319 (VP-BNJ),Landed 11:27,2021-06-12
+92,92,11:50 S76377,,Irkutsk (IKT),S7 Airlines A20N (VP-BWM),Landed 11:21,2021-06-12
+93,93,11:55 DP308,,Anapa (AAQ),Pobeda B738 (VQ-BTC),Landed 12:04,2021-06-12
+94,94,11:55 LO1683,,Warsaw (WAW),LOT (Grzeski Livery) E195 (SP-LNB),Landed 11:35,2021-06-12
+95,95,11:55,UT369,Moscow (VKO),UTair B738 (VQ-BPT),Landed 12:20,2021-06-12
+96,96,12:00 SU6018,,Moscow (VKO),Rossiya A320 (VP-BWI),Landed 11:54,2021-06-12
+97,97,12:05,SU14,Moscow (SVO),Aeroflot A321 (VP-BTR),Landed 11:50,2021-06-12
+98,98,12:10,SU6324,Kaliningrad (KGD),Rossiya A320 (VP-BZR),Landed 12:12,2021-06-12
+99,99,12:15 S75003,,Novosibirsk (OVB),S7 Airlines A321 (VP-BPC),Landed 12:10,2021-06-12
+100,100,12:25 N4300,,Vladivostok (VVO),Nordwind Airlines A332 (VP-BUC),Landed 12:23,2021-06-12
+101,101,12:35 A4203,,Rostov-on-Don (ROV),Azimuth SU95 (RA-89079),Landed 12:57,2021-06-12
+102,102,12:35 DP6821,,Moscow (SVO),Pobeda B738 (VQ-BHR),Landed 12:18,2021-06-12
+103,103,12:50 U6548,,Sochi (AER),Ural Airlines A321 (VQ-BGX),Landed 16:09,2021-06-12
+104,104,12:55 SU6028,,Moscow (VKO),Rossiya A320 (VQ-BFM),Landed 12:48,2021-06-12
+105,105,13:00,SU16,Moscow (SVO),Aeroflot A321 (VP-BAZ),Landed 12:42,2021-06-12
+106,106,13:05 5N145,,Arkhangelsk (ARH),Smartavia B737 (VQ-BBI),Landed 12:51,2021-06-12
+107,107,13:10 7R292,,Tambov (TBW),Rusline CRJ1 (VP-BVK),Landed 18:03,2021-06-12
+108,108,13:15 DP536,,Kaliningrad (KGD),Pobeda B738 (VP-BPV),Landed 13:04,2021-06-12
+109,109,13:15,SU6342,Murmansk (MMK),Rossiya A319 (VQ-BAQ),Landed 13:09,2021-06-12
+110,110,13:20,SU42,Moscow (SVO),Aeroflot A321 (VP-BOC),Landed 13:12,2021-06-12
+111,111,13:20 CY412,,Larnaca (LCA),Cyprus Airways A319 (5B-DCW),Landed 13:00,2021-06-12
+112,112,13:30 WZ5078,,Pafos (PFO),Red Wings B772 (VP-BLI),Landed 13:29,2021-06-12
+113,113,13:35 6R505,,Novosibirsk (OVB),Alrosa B738 (EI-ECL),Landed 13:24,2021-06-12
+114,114,13:35 SU2821,,Bishkek (FRU),Aeroflot A320 (VP-BIW),Landed 13:35,2021-06-12
+115,115,13:35 DP538,,Stavropol (STW),Pobeda B738 (VQ-BTJ),Landed 13:30,2021-06-12
+116,116,13:40 IO396,,Saransk (SKX),IrAero SU95 (RA-89076),Landed 13:54,2021-06-12
+117,117,13:45 DP211,,Moscow (VKO),Pobeda B738 (VP-BQM),Landed 13:33,2021-06-12
+118,118,13:55 DP213,,Moscow (VKO),Pobeda B738 (VQ-BWH),Landed 13:43,2021-06-12
+119,119,13:55,SU18,Moscow (SVO),Aeroflot A321 (VQ-BEG),Landed 13:37,2021-06-12
+120,120,13:55 SN2837,,Brussels (BRU),Brussels Airlines A320 (OO-SNJ),Landed 13:57,2021-06-12
+121,121,14:00 DP505,,Makhachkala (MCX),Pobeda B738 (VP-BPT),Landed 13:47,2021-06-12
+122,122,14:05,QR279,Doha (DOH),Qatar Airways 320,Unknown,2021-06-12
+123,123,14:10 DP528,,Naberezhnye Chelny (NBC),Pobeda B738 (VP-BQQ),Landed 13:52,2021-06-12
+124,124,14:20,AF1464,Paris (CDG),Air France A320 (F-HZFM),Landed 14:16,2021-06-12
+125,125,14:20 7R104,,Ivanovo (IWA),Rusline CRJ1 (VP-BNM),Landed 13:46,2021-06-12
+126,126,14:20 5N508,,Murmansk (MMK),Smartavia B737 (VP-BYY),Landed 14:01,2021-06-12
+127,127,14:30,S71011,Moscow (DME),S7 Airlines A320 (VQ-BOA),Landed 14:11,2021-06-12
+128,128,14:30 SU6622,,Prague (PRG),Rossiya A319 (VQ-BBA),Landed 14:09,2021-06-12
+129,129,14:35 DP540,,Mineralnye Vody (MRV),Pobeda B738 (VP-BQB),Landed 14:19,2021-06-12
+130,130,14:40 5N504,,Syktyvkar (SCW),Smartavia A20N (VP-BOZ),Landed 14:36,2021-06-12
+131,131,14:40 5N598,,Kazan (KZN),Smartavia B738 (VQ-BBV),Landed 14:21,2021-06-12
+132,132,14:45 SU6002,,Irkutsk (IKT),Rossiya B738 (VQ-BVV),Landed 14:25,2021-06-12
+133,133,14:45 SU6372,,Rostov-on-Don (ROV),Rossiya A319 (VP-BQK),Landed 14:28,2021-06-12
+134,134,14:50 SU6892,,Simferopol (SIP),Rossiya A319 (VQ-BAV),Landed 14:40,2021-06-12
+135,135,14:55 SU6326,,Kaliningrad (KGD),Rossiya A320 (VP-BWH),Landed 14:58,2021-06-12
+136,136,14:55 U659,,Moscow (DME),Ural Airlines A20N (VP-BRZ),Landed 15:42,2021-06-12
+137,137,15:00,SU20,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 14:38,2021-06-12
+138,138,15:00,WZ792,Anapa (AAQ),Red Wings A321 (VP-BRS),Landed 14:43,2021-06-12
+139,139,15:15 SU2825,,Dusseldorf (DUS),Aeroflot A320 (VP-BAC),Landed 14:52,2021-06-12
+140,140,15:15 SU6106,,Nizhny Novgorod (GOJ),Rossiya SU95 (RA-89128),Landed 14:54,2021-06-12
+141,141,15:25 SU6216,,Gelendzhik (GDZ),Rossiya A319 (VQ-BAU),Landed 15:46,2021-06-12
+142,142,15:25 5N532,,Samara (KUF),SmartAvia A20N (VP-BOS),Landed 15:25,2021-06-12
+143,143,15:30 SU6014,,Moscow (VKO),Rossiya A319 (VQ-BOX),Landed 15:16,2021-06-12
+144,144,15:30 YM540,,Tivat (TIV),Montenegro Airlines E95,Unknown,2021-06-12
+145,145,15:30 SU6356,,Mineralnye Vody (MRV),Rossiya A319 (VQ-BCO),Landed 15:18,2021-06-12
+146,146,15:45 S75005,,Novosibirsk (OVB),S7 Airlines A20N (VQ-BCH),Landed 15:06,2021-06-12
+147,147,15:45 SU6202,,Anapa (AAQ),Rossiya A319 (VP-BIV),Landed 15:36,2021-06-12
+148,148,15:45 SU6316,,Krasnodar (KRR),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 15:59,2021-06-12
+149,149,15:55 DP314,,Sochi (AER),Pobeda B738 (VP-BPL),Landed 15:32,2021-06-12
+150,150,15:55 WZ7065,,Simferopol (SIP),Red Wings A321 (VP-BVQ),Landed 15:39,2021-06-12
+151,151,16:05 SU6564,,Sochi (AER),Rossiya A319 (VP-BBU),Landed 16:03,2021-06-12
+152,152,16:05 WZ794,,Yekaterinburg (SVX),Red Wings A320 (VP-BWW),Landed 15:21,2021-06-12
+153,153,16:10 N4130,,Simferopol (SIP),Nordwind Airlines B738 (VP-BSO),Landed 16:13,2021-06-12
+154,154,16:10 SU6658,,Munich (MUC),Rossiya A319 (VQ-BAT),Landed 16:05,2021-06-12
+155,155,16:20,S71013,Moscow (DME),S7 Airlines A320 (VP-BCS),Landed 16:11,2021-06-12
+156,156,16:20,LH1436,Frankfurt (FRA),Lufthansa A321 (D-AISJ),Landed 16:20,2021-06-12
+157,157,16:20 5N546,,Sochi (AER),SmartAvia A20N (VP-BOF),Landed 16:06,2021-06-12
+158,158,16:30 U6392,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BQN),Landed 16:58,2021-06-12
+159,159,16:45 SU22,,Moscow (SVO),Aeroflot (Manchester United livery) A321 (VP-BTL),Landed 16:31,2021-06-12
+160,160,16:45 SU6110,,Nalchik (NAL),Rossiya SU95 (RA-89131),Landed 16:40,2021-06-12
+161,161,16:45 DP588,,Kaliningrad (KGD),Pobeda B738 (VQ-BHR),Landed 16:49,2021-06-12
+162,162,17:00 SU6634,,Nice (NCE),Rossiya A319 (VP-BWJ),Landed 16:37,2021-06-12
+163,163,17:00,SU6674,Milan (MXP),Rossiya A319 (VP-BIU),Landed 17:10,2021-06-12
+164,164,17:00 U6174,,Yekaterinburg (SVX),Ural Airlines A320 (VP-BDL),Landed 17:13,2021-06-12
+165,165,17:05 DP518,,Volgograd (VOG),Pobeda B738 (VQ-BTD),Landed 16:47,2021-06-12
+166,166,17:10 5N586,,Krasnodar (KRR),Smartavia B738 (VP-BEV),Landed 17:00,2021-06-12
+167,167,17:15 SU2833,,Larnaca (LCA),Aeroflot B738 (VQ-BVO),Landed 17:31,2021-06-12
+168,168,17:20 DP302,,Gelendzhik (GDZ),Pobeda 738,Unknown,2021-06-12
+169,169,17:35 LO685,,Warsaw (WAW),LOT B738 (SP-LWD),Landed 17:58,2021-06-12
+170,170,17:40 DP510,,Krasnodar (KRR),Pobeda B738 (VQ-BWI),Landed 17:29,2021-06-12
+171,171,17:40 SU6984,,Simferopol (SIP),Rossiya A319 (VP-BBT),Landed 17:38,2021-06-12
+172,172,17:40 5N534,,Kaliningrad (KGD),Smartavia B737 (VQ-BBI),Landed 17:16,2021-06-12
+173,173,17:45 U6346,,Anapa (AAQ),Ural Airlines A320 (VQ-BCI),Landed 17:56,2021-06-12
+174,174,17:50 SU38,,Moscow (SVO),Aeroflot B738 (VP-BNP),Landed 17:39,2021-06-12
+175,175,17:50 A4637,,Kaluga (KLF),Azimuth SU95 (RA-89079),Landed 17:20,2021-06-12
+176,176,17:55 DP209,,Moscow (VKO),Pobeda B738 (VP-BOD),Landed 17:35,2021-06-12
+177,177,18:05 SU6030,,Moscow (VKO),Rossiya A319 (VQ-BAQ),Landed 18:06,2021-06-12
+178,178,18:10 N4140,,Sochi (AER),Nordwind Airlines B738 (VQ-BDC),Landed 18:16,2021-06-12
+179,179,18:10 U6658,,Simferopol (SIP),Ural Airlines A320 (VQ-BNI),Landed 18:20,2021-06-12
+180,180,18:15 SU6234,,Samara (KUF),Rossiya A320 (VP-BWI),Landed 18:33,2021-06-12
+181,181,18:20 U6352,,Simferopol (SIP),Ural Airlines A321 (VP-BVA),Landed 18:24,2021-06-12
+182,182,18:25 SU6986,,Simferopol (SIP),Rossiya A319 (VP-BIT),Landed 18:01,2021-06-12
+183,183,18:30 D2324,,Ukhta (UCT),Severstal SU95 (RA-89118),Landed 18:35,2021-06-12
+184,184,18:30 DP526,,Cheboksary (CSY),Pobeda B738 (VP-BPV),Landed 18:14,2021-06-12
+185,185,18:35,SU24,Moscow (SVO),Aeroflot A321 (VP-BTR),Landed 18:31,2021-06-12
+186,186,18:40,S71015,Moscow (DME),S7 Airlines B738 (VQ-BVM),Landed 19:12,2021-06-12
+187,187,18:45 SU6066,,Makhachkala (MCX),Rossiya A320 (VP-BZQ),Landed 18:41,2021-06-12
+188,188,19:05 A4607,,Elista (ESL),Azimuth Airlines SU95 (RA-89179),Landed 18:58,2021-06-12
+189,189,19:10 SU6566,,Sochi (AER),Rossiya A319 (VP-BWG),Landed 18:44,2021-06-12
+190,190,19:15 7R262,,Lipetsk (LPK),Rusline CRJ1 (VP-BNM),Landed 19:10,2021-06-12
+191,191,19:15 YC850,,Noyabrsk (NOJ),Yamal Airlines SU95 (RA-89072),Landed 18:54,2021-06-12
+192,192,19:20 5N147,,Arkhangelsk (ARH),Smartavia B737 (VP-BYY),Landed 19:01,2021-06-12
+193,193,19:25 EO1914,,Dusseldorf (DUS),Pegas Fly E190 (VP-BZI),Landed 19:15,2021-06-12
+194,194,19:25 SU6012,,Moscow (VKO),Rossiya A320 (VQ-BFM),Landed 19:36,2021-06-12
+195,195,19:30,EO281,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZJ),Landed 19:07,2021-06-12
+196,196,19:30 UT381,,Moscow (VKO),UTair B734 (VQ-BHZ),Landed 19:25,2021-06-12
+197,197,19:35 DP576,,Voronezh (VOZ),Pobeda B738 (VP-BQB),Landed 20:01,2021-06-12
+198,198,19:50 SU6004,,Anapa (AAQ),Rossiya B738 (VP-BUS),Landed 19:46,2021-06-12
+199,199,19:55 SU6006,,Krasnodar (KRR),Rossiya B738 (VQ-BVU),Landed 19:39,2021-06-12
+200,200,19:55 N4147,,Moscow (SVO),Aeroflot B738 (VP-BMO),Landed 19:43,2021-06-12
+201,201,20:05,S71017,Moscow (DME),S7 Airlines A321 (VQ-BQJ),Landed 19:57,2021-06-12
+202,202,20:15 N4622,,Yerevan (EVN),Nordwind Airlines B738 (VP-BSZ),Landed 20:00,2021-06-12
+203,203,20:15,SU26,Moscow (SVO),Aeroflot A321 (VP-BKZ),Landed 19:54,2021-06-12
+204,204,20:20 UT469,,Surgut (SGC),UTair B735 (VQ-BPQ),Landed 20:04,2021-06-12
+205,205,20:25 SU6988,,Simferopol (SIP),Rossiya A320 (VP-BZR),Landed 20:25,2021-06-12
+206,206,20:30,SU6330,Kaliningrad (KGD),Rossiya A320 (VP-BWH),Landed 20:30,2021-06-12
+207,207,20:50,WZ782,Simferopol (SIP),Red Wings A320 (VP-BWX),Landed 20:56,2021-06-12
+208,208,21:00 SU6982,,Geneva (GVA),Rossiya A319 (VP-BNJ),Landed 21:15,2021-06-12
+209,209,21:15 5N536,,Rostov-on-Don (ROV),Smartavia B738 (VQ-BBV),Landed 21:02,2021-06-12
+210,210,21:20,SU28,Moscow (SVO),Aeroflot A321 (VP-BAF),Landed 20:49,2021-06-12
+211,211,21:20 SU6598,,Kazan (KZN),Rossiya A319 (VQ-BOX),Landed 21:17,2021-06-12
+212,212,21:25 D221,,Cherepovets (CEE),Severstal CRJ2 (RA-67230),Landed 21:22,2021-06-12
+213,213,21:35,S71019,Moscow (DME),S7 Airlines A320 (VP-BCS),Landed 21:19,2021-06-12
+214,214,21:35 SU6036,,Moscow (VKO),Rossiya A319 (VP-BWJ),Landed 21:25,2021-06-12
+215,215,21:40 DP508,,Beslan (OGZ),Pobeda B738 (VP-BQQ),Landed 22:26,2021-06-12
+216,216,22:00 S75007,,Novosibirsk (OVB),S7 Airlines A20N (VP-BVI),Landed 21:28,2021-06-12
+217,217,22:00,SU30,Moscow (SVO),Aeroflot B738 (VP-BZA),Landed 21:32,2021-06-12
+218,218,22:10 5N596,,Gelendzhik (GDZ),Smartavia A20N (VP-BOZ),Landed 22:00,2021-06-12
+219,219,22:20 SU6104,,Rostov-on-Don (ROV),Rossiya B738 (VQ-BVV),Landed 22:10,2021-06-12
+220,220,22:20,SU6346,Murmansk (MMK),Rossiya A319 (VP-BBU),Landed 22:07,2021-06-12
+221,221,22:30,SU32,Moscow (SVO),Aeroflot (Retro Livery) A320 (VP-BNT),Landed 22:13,2021-06-12
+222,222,22:35 7R250,,Yaroslavl (IAR),Rusline CRJ1 (VP-BVK),Landed 22:32,2021-06-12
+223,223,22:35 U638,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BNI),Landed 23:20,2021-06-12
+224,224,22:35 I8927,,Izhevsk (IJK),Izhavia B738 (VP-BUU),Landed 22:20,2021-06-12
+225,225,22:40 SU6204,,Anapa (AAQ),Rossiya A319 (VP-BQK),Landed 22:29,2021-06-12
+226,226,22:45 D256,,Apatity (KVK),Severstal SU95 (RA-89118),Landed 23:16,2021-06-12
+227,227,22:50 SU6562,,Sochi (AER),Rossiya A319 (VQ-BBA),Landed 22:48,2021-06-12
+228,228,22:55,SU6308,Arkhangelsk (ARH),Rossiya SU95 (RA-89131),Landed 22:36,2021-06-12
+229,229,23:00 SU44,,Moscow (SVO),Aeroflot A320 (VP-BID),Landed 22:44,2021-06-12
+230,230,23:00 SU6404,,Yekaterinburg (SVX),Rossiya A319 (VP-BIV),Landed 22:41,2021-06-12
+231,231,23:10 SU6414,,Ufa (UFA),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 22:55,2021-06-12
+232,232,23:10 DP548,,Kazan (KZN),Pobeda B738 (VQ-BTD),Landed 23:10,2021-06-12
+233,233,23:10 SU6896,,Simferopol (SIP),Rossiya A319 (VQ-BAV),Landed 22:58,2021-06-12
+234,234,23:15 DP530,,Kaliningrad (KGD),Pobeda B738 (VP-BPV),Landed 23:03,2021-06-12
+235,235,23:15 SU6024,,Moscow (VKO),Rossiya A319 (VQ-BAT),Landed 23:00,2021-06-12
+236,236,23:20 5N542,,Mineralnye Vody (MRV),SmartAvia A20N (VP-BOS),Landed 23:14,2021-06-12
+237,237,23:25 DP578,,Saratov (GSV),Pobeda B738 (VQ-BWI),Landed 23:07,2021-06-12
+238,238,23:40 DP207,,Moscow (VKO),Pobeda B738 (VQ-BTI),Landed 23:26,2021-06-12
+239,239,23:45 5N582,,Samara (KUF),Smartavia B737 (VQ-BBI),Landed 23:23,2021-06-12
+240,240,23:50 SU6016,,Moscow (VKO),Rossiya A319 (VQ-BAQ),Landed 23:38,2021-06-12
+0,0,00:05 SU6990,,Simferopol (SIP),Rossiya A319 (VQ-BCO),Landed 23:48,2021-06-13
+1,1,00:05,WZ736,Sochi (AER),Red Wings A321 (VP-BRS),Landed 23:42,2021-06-13
+2,2,00:30 SU2815,,Sochi (AER),Aeroflot A320 (VP-BAC),Landed 00:27,2021-06-13
+3,3,00:35,WZ648,Krasnodar (KRR),Red Wings A320 (VP-BWW),Landed 00:31,2021-06-13
+4,4,00:40 ZF7874,,Larnaca (LCA),Azur Air B763 (VP-BUX),Landed 00:36,2021-06-13
+5,5,00:40,SU34,Moscow (SVO),Aeroflot A320 (VQ-BEH),Landed 00:23,2021-06-13
+6,6,01:05 SU6116,,Volgograd (VOG),Rossiya SU95 (RA-89128),Landed 00:43,2021-06-13
+7,7,01:15,S71025,Moscow (DME),S7 Airlines A320 (VP-BOL),Landed 01:04,2021-06-13
+8,8,01:20 SU6314,,Krasnodar (KRR),Rossiya A319 (VP-BIU),Landed 01:20,2021-06-13
+9,9,01:40 5N526,,Simferopol (SIP),Smartavia B738 (VP-BEV),Landed 02:14,2021-06-13
+10,10,02:00 SU46,,Moscow (SVO),Aeroflot B738 (VP-BKA),Landed 01:59,2021-06-13
+11,11,02:25 SU6992,,Simferopol (SIP),Rossiya A319 (VQ-BAU),Landed 02:11,2021-06-13
+12,12,02:55 SU36,,Moscow (SVO),Aeroflot A321 (VP-BAV),Landed 02:42,2021-06-13
+13,13,03:15 BJ810,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-13
+14,14,03:30 FV5660,,Sharjah (SHJ),Rossiya B738 (VP-BOI),Landed 02:56,2021-06-13
+15,15,04:10 U628,,Sochi (AER),Ural Airlines A320 (VQ-BCI),Landed 03:56,2021-06-13
+16,16,04:35 U6512,,Simferopol (SIP),Ural Airlines A321 (VP-BVR),Landed 09:11,2021-06-13
+17,17,05:25 SU2805,,Sochi (AER),Aeroflot B738 (VQ-BVO),Landed 05:40,2021-06-13
+18,18,05:35 SU6020,,Chisinau (KIV),Rossiya B738 (VP-BUS),Landed 05:29,2021-06-13
+19,19,05:45,WZ800,Kaliningrad (KGD),Red Wings A321 (VP-BRS),Landed 05:13,2021-06-13
+20,20,05:55,WZ612,Tyumen (TJM),Red Wings A320 (VP-BWX),Landed 05:27,2021-06-13
+21,21,05:55 SU6582,,Perm (PEE),Rossiya A319 (VQ-BBA),Landed 05:47,2021-06-13
+22,22,05:55 SU6596,,Kazan (KZN),Rossiya A319 (VP-BNJ),Landed 05:38,2021-06-13
+23,23,06:05 DP570,,Perm (PEE),Pobeda B738 (VQ-BTI),Landed 05:58,2021-06-13
+24,24,06:15 SU6328,,Kaliningrad (KGD),Rossiya B738 (VQ-BVU),Landed 06:47,2021-06-13
+25,25,06:15 DP560,,Ufa (UFA),Pobeda B738 (VQ-BWI),Landed 05:54,2021-06-13
+26,26,06:15 SU6358,,Mineralnye Vody (MRV),Rossiya A319 (VP-BBU),Landed 06:01,2021-06-13
+27,27,06:20 SU6442,,Surgut (SGC),Rossiya A319 (VQ-BAR),Landed 06:14,2021-06-13
+28,28,06:30,SU6304,Arkhangelsk (ARH),Rossiya A319 (VQ-BCO),Landed 06:13,2021-06-13
+29,29,06:35 U68378,,Navoiy (NVI),Ural Airlines A321 (VP-BVA),Landed 06:50,2021-06-13
+30,30,06:35 DP516,,Yekaterinburg (SVX),Pobeda B738 (VP-BQH),Landed 06:29,2021-06-13
+31,31,06:45 SU6900,,Simferopol (SIP),Rossiya A319 (VQ-BOX),Landed 06:38,2021-06-13
+32,32,06:50 SU6412,,Ufa (UFA),Rossiya A319 (VQ-BAV),Landed 06:42,2021-06-13
+33,33,06:55 SU6452,,Tyumen (TJM),Rossiya A319 (VP-BIT),Landed 06:46,2021-06-13
+34,34,06:55 UT489,,Moscow (VKO),UTair B738 (VQ-BJF),Landed 06:52,2021-06-13
+35,35,07:00 SU6574,,Krasnoyarsk (KJA),Rossiya A320 (VP-BZQ),Landed 07:08,2021-06-13
+36,36,07:05 SU6402,,Yekaterinburg (SVX),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 06:57,2021-06-13
+37,37,07:05 SU6472,,Omsk (OMS),Rossiya B738 (VQ-BVV),Landed 07:47,2021-06-13
+38,38,07:10 DP550,,Chelyabinsk (CEK),Pobeda B738 (VQ-BTD),Landed 07:00,2021-06-13
+39,39,07:15 SU6344,,Murmansk (MMK),Rossiya A319 (VP-BIU),Landed 07:15,2021-06-13
+40,40,07:15 SU6462,,Chelyabinsk (CEK),Rossiya A319 (VQ-BAT),Landed 07:10,2021-06-13
+41,41,07:20 SU6454,,Orenburg (REN),Rossiya A319 (VP-BIV),Landed 06:55,2021-06-13
+42,42,07:20 SU6542,,Novosibirsk (OVB),Rossiya A320 (VP-BZR),Landed 07:13,2021-06-13
+43,43,07:25,SU2,Moscow (SVO),Aeroflot A320 (VQ-BIW),Landed 07:18,2021-06-13
+44,44,07:30 SU6232,,Samara (KUF),Rossiya A319 (VQ-BAQ),Landed 07:05,2021-06-13
+45,45,07:30 SU6588,,Syktyvkar (SCW),Rossiya A319 (VP-BWJ),Landed 07:03,2021-06-13
+46,46,07:45 5N519,,Murmansk (MMK),Smartavia B737 (VP-BYY),Landed 07:23,2021-06-13
+47,47,08:00 5N592,,Ufa (UFA),Smartavia B738 (VQ-BBV),Landed 07:44,2021-06-13
+48,48,08:05 SU6022,,Moscow (VKO),Rossiya A319 (VP-BBT),Landed 07:56,2021-06-13
+49,49,08:15 SU6972,,Tashkent (TAS),Rossiya A320 (VP-BWH),Landed 08:03,2021-06-13
+50,50,08:25,SU6,Moscow (SVO),Aeroflot A321 (VP-BEG),Landed 08:00,2021-06-13
+51,51,08:40 5N570,,Simferopol (SIP),SmartAvia A20N (VP-BOS),Landed 08:15,2021-06-13
+52,52,08:40 5N149,,Arkhangelsk (ARH),Smartavia B737 (VQ-BBI),Landed 08:11,2021-06-13
+53,53,08:50,EO317,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZJ),Landed 08:29,2021-06-13
+54,54,08:55 DP211,,Moscow (VKO),Pobeda Airlines B738 (VP-BQZ),Landed 08:33,2021-06-13
+55,55,09:00 DP558,,Novosibirsk (OVB),Pobeda B738 (VP-BQQ),Landed 08:42,2021-06-13
+56,56,09:00 N4764,,Gorno-Altaysk (RGK),Nordwind Airlines B738 (VQ-BDC),Landed 09:04,2021-06-13
+57,57,09:00 5N528,,Chelyabinsk (CEK),Smartavia B738 (VP-BEV),Landed 09:18,2021-06-13
+58,58,09:05,S71005,Moscow (DME),S7 Airlines A320 (VQ-BOA),Landed 08:47,2021-06-13
+59,59,09:10 BT442,,Riga (RIX),Air Baltic BCS3 (YL-AAT),Landed 09:07,2021-06-13
+60,60,09:30 6R641,,Krasnodar (KRR),Alrosa B737 (EI-GFR),Landed 09:00,2021-06-13
+61,61,09:35 7R554,,Voronezh (VOZ),RusLine CRJ1 (VP-BNK),Landed 09:16,2021-06-13
+62,62,09:40 N4590,,Barnaul (BAX),Nordwind Airlines B738 (VP-BSZ),Landed 09:30,2021-06-13
+63,63,09:40 5N512,,Volgograd (VOG),Smartavia A20N (VP-BOZ),Landed 09:14,2021-06-13
+64,64,09:50 SU10,,Moscow (SVO),Aeroflot A321 (VP-BTR),Landed 09:28,2021-06-13
+65,65,09:50 SU6010,,Moscow (VKO),Rossiya A319 (VP-BQK),Landed 09:38,2021-06-13
+66,66,09:55 R3467,,Yekaterinburg (SVX),Yakutia Airlines B737 (VQ-BGH),Landed 13:01,2021-06-13
+67,67,09:55 U6225,,Yekaterinburg (SVX),Ural Airlines A320 (VP-BMW),Landed 09:35,2021-06-13
+68,68,10:05 U654,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BCI),Landed 09:48,2021-06-13
+69,69,10:10 DP203,,Moscow (VKO),Pobeda B738 (VP-BPX),Landed 09:57,2021-06-13
+70,70,10:20 ZF365,,Moscow (VKO),Azur Air B739 (VQ-BYX),Landed 10:05,2021-06-13
+71,71,10:20,EO177,Moscow (SVO),Pegas Fly B739 (VP-BZV),Landed 10:02,2021-06-13
+72,72,10:40 SU6898,,Simferopol (SIP),Rossiya A319 (VP-BWG),Landed 10:21,2021-06-13
+73,73,10:55 DP205,,Moscow (VKO),Pobeda B738 (VQ-BHV),Landed 10:38,2021-06-13
+74,74,11:10,SU12,Moscow (SVO),Aeroflot A321 (VP-BKJ),Landed 10:52,2021-06-13
+75,75,11:10 DP306,,Sochi (AER),Pobeda B738 (VP-BPL),Landed 10:49,2021-06-13
+76,76,11:25 YC845,,Novy Urengoy (NUX),Yamal Airlines SU95 (RA-89072),Landed 12:25,2021-06-13
+77,77,11:30,S71027,Moscow (DME),S7 Airlines (Street Art Museum Livery) A320 (VP-BOG),Landed 11:16,2021-06-13
+78,78,11:35 A4303,,Krasnodar (KRR),Azimuth SU9,Landed 11:18,2021-06-13
+79,79,11:40 U679,,Moscow (DME),Ural Airlines A320 (VQ-BCZ),Landed 12:02,2021-06-13
+80,80,11:40 SU6306,,Arkhangelsk (ARH),Rossiya A319 (VQ-BAR),Landed 11:22,2021-06-13
+81,81,11:45 LO683,,Warsaw (WAW),LOT B738 (SP-LWB),Landed 11:30,2021-06-13
+82,82,11:50 RT371,,Usinsk (USK),UVT Aero CR2,Unknown,2021-06-13
+83,83,11:50 S76377,,Irkutsk (IKT),S7 Airlines A20N (VQ-BSD),Landed 12:33,2021-06-13
+84,84,11:55 DP308,,Anapa (AAQ),Pobeda B738 (VP-BQB),Landed 11:56,2021-06-13
+85,85,11:55,UT369,Moscow (VKO),UTair B738 (VQ-BJF),Landed 11:36,2021-06-13
+86,86,12:00 SU6018,,Moscow (VKO),Rossiya A320 (VQ-BFM),Landed 11:45,2021-06-13
+87,87,12:05,SU14,Moscow (SVO),Aeroflot A321 (VQ-BEA),Landed 11:50,2021-06-13
+88,88,12:10,SU6324,Kaliningrad (KGD),Rossiya A320 (VP-BZQ),Landed 12:07,2021-06-13
+89,89,12:15 S75003,,Novosibirsk (OVB),S7 Airlines B738 (VP-BQD),Landed 11:44,2021-06-13
+90,90,12:35 DP6821,,Moscow (SVO),Pobeda B738 (VQ-BTH),Landed 12:18,2021-06-13
+91,91,12:45 DP201,,Moscow (VKO),Pobeda B738 (VP-BQE),Landed 12:27,2021-06-13
+92,92,12:50 N42126,,Larnaca (LCA),Nordwind Airlines B772 (VP-BJH),Landed 12:13,2021-06-13
+93,93,12:50 U6548,,Sochi (AER),Ural Airlines A321 (VP-BVA),Landed 17:10,2021-06-13
+94,94,12:55 SU6028,,Moscow (VKO),Rossiya A320 (VP-BWI),Landed 13:03,2021-06-13
+95,95,13:00,SU16,Moscow (SVO),Aeroflot (95 years with you Livery) A321 (VP-BEE),Landed 12:51,2021-06-13
+96,96,13:05 5N145,,Arkhangelsk (ARH),Smartavia B737 (VQ-BBI),Landed 12:44,2021-06-13
+97,97,13:15 6R518,,Anapa (AAQ),Alrosa B738 (EI-ECL),Landed 13:20,2021-06-13
+98,98,13:15 DP536,,Kaliningrad (KGD),Pobeda B738 (VP-BQQ),Landed 12:53,2021-06-13
+99,99,13:15,SU6342,Murmansk (MMK),Rossiya A319 (VQ-BBA),Landed 13:07,2021-06-13
+100,100,13:20,SU42,Moscow (SVO),Aeroflot A321 (VP-BOC),Landed 12:57,2021-06-13
+101,101,13:25 I8925,,Izhevsk (IJK),Izhavia B738 (VP-BUU),Landed 13:14,2021-06-13
+102,102,13:35 DP538,,Stavropol (STW),Pobeda B738 (VP-BQG),Landed 13:10,2021-06-13
+103,103,13:55 5N324,,Naryan-Mar (NNM),Smartavia B737 (VP-BYY),Landed 13:36,2021-06-13
+104,104,13:55,SU18,Moscow (SVO),Aeroflot A320 (VP-BIJ),Landed 13:32,2021-06-13
+105,105,14:00 DP505,,Makhachkala (MCX),Pobeda B738 (VP-BPJ),Landed 13:56,2021-06-13
+106,106,14:05 7R108,,Ivanovo (IWA),Rusline CRJ1 (VP-BVK),Landed 13:50,2021-06-13
+107,107,14:05 DP213,,Moscow (VKO),Pobeda B738 (VQ-BTS),Landed 13:45,2021-06-13
+108,108,14:10 SU6642,,Berlin (BER),Rossiya A319 (VQ-BAT),Landed 14:16,2021-06-13
+109,109,14:10 DP528,,Naberezhnye Chelny (NBC),Pobeda B738 (VQ-BWI),Landed 14:09,2021-06-13
+110,110,14:20 7R104,,Ivanovo (IWA),Rusline CR2,Unknown,2021-06-13
+111,111,14:20 5N508,,Murmansk (MMK),SmartAvia A20N (VP-BOS),Landed 14:05,2021-06-13
+112,112,14:30,S71011,Moscow (DME),S7 Airlines A320 (VQ-BET),Landed 14:12,2021-06-13
+113,113,14:35 DP540,,Mineralnye Vody (MRV),Pobeda B738 (VQ-BTD),Landed 14:18,2021-06-13
+114,114,14:40,QS886,Prague (PRG),Smartwings B738 (OK-TVY),Landed 14:48,2021-06-13
+115,115,14:40 5N598,,Kazan (KZN),Smartavia B738 (VP-BEV),Landed 14:46,2021-06-13
+116,116,14:45 SU6372,,Rostov-on-Don (ROV),Rossiya A319 (VQ-BAQ),Landed 14:38,2021-06-13
+117,117,14:50 SU6892,,Simferopol (SIP),Rossiya A319 (VP-BNJ),Landed 14:31,2021-06-13
+118,118,14:55 SU6460,,Minsk (MSQ),Rossiya A320 (VP-BZR),Landed 14:43,2021-06-13
+119,119,14:55 SU6326,,Kaliningrad (KGD),Rossiya A319 (VP-BQK),Landed 14:58,2021-06-13
+120,120,14:55 U659,,Moscow (DME),Ural Airlines A20N (VP-BRX),Landed 17:41,2021-06-13
+121,121,15:00 DP514,,Kirov (KVX),Pobeda Airlines B738 (VP-BQZ),Landed 14:34,2021-06-13
+122,122,15:05,SU20,Moscow (SVO),Aeroflot A321 (VP-BFX),Landed 14:41,2021-06-13
+123,123,15:15 SU6106,,Nizhny Novgorod (GOJ),Rossiya SU95 (RA-89128),Landed 14:55,2021-06-13
+124,124,15:20,WZ704,Sochi (AER),Red Wings A320 (VP-BWX),Landed 14:53,2021-06-13
+125,125,15:25 SU6216,,Gelendzhik (GDZ),Rossiya A319 (VP-BBU),Landed 15:06,2021-06-13
+126,126,15:25 SU6604,,Vienna (VIE),Rossiya A319 (VP-BIT),Landed 15:16,2021-06-13
+127,127,15:25,WZ602,Simferopol (SIP),Red Wings A321 (VP-BRS),Landed 15:21,2021-06-13
+128,128,15:30 SU6014,,Moscow (VKO),Rossiya A319 (VP-BWG),Landed 15:23,2021-06-13
+129,129,15:30 SU6356,,Mineralnye Vody (MRV),Rossiya A319 (VP-BIV),Landed 15:03,2021-06-13
+130,130,15:45 S75005,,Novosibirsk (OVB),S7 Airlines A20N (VP-BTY),Landed 15:19,2021-06-13
+131,131,15:45 SU6202,,Anapa (AAQ),Rossiya A319 (VQ-BAV),Landed 15:55,2021-06-13
+132,132,15:45 SU6316,,Krasnodar (KRR),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 15:37,2021-06-13
+133,133,15:45 5N532,,Samara (KUF),Smartavia A20N (VP-BOZ),Landed 15:34,2021-06-13
+134,134,15:50 U6366,,Yekaterinburg (SVX),Ural Airlines 320,Unknown,2021-06-13
+135,135,15:50 U6623,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BFW),Landed 15:40,2021-06-13
+136,136,16:00 WZ794,,Yekaterinburg (SVX),Red Wings A320 (VP-BWW),Landed 15:00,2021-06-13
+137,137,16:00 SU6564,,Sochi (AER),Rossiya A319 (VQ-BCO),Landed 15:47,2021-06-13
+138,138,16:05 7R290,,Yoshkar-Ola (JOK),RusLine CRJ1 (VP-BNK),Landed 15:43,2021-06-13
+139,139,16:15 DP314,,Sochi (AER),Pobeda B738 (VQ-BHT),Landed 15:52,2021-06-13
+140,140,16:20,S71013,Moscow (DME),S7 Airlines A320 (VP-BCZ),Landed 16:14,2021-06-13
+141,141,16:20 5N546,,Sochi (AER),Smartavia B738 (VQ-BBV),Landed 15:58,2021-06-13
+142,142,16:30 U6392,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BCZ),Landed 16:58,2021-06-13
+143,143,16:45 SU22,,Moscow (SVO),Aeroflot A321 (VP-BTR),Landed 16:32,2021-06-13
+144,144,16:45 SU6110,,Nalchik (NAL),Rossiya SU95 (RA-89131),Landed 16:30,2021-06-13
+145,145,16:45 DP588,,Kaliningrad (KGD),Pobeda B738 (VQ-BTH),Landed 17:06,2021-06-13
+146,146,16:55,KL1395,Amsterdam (AMS),KLM B738 (PH-BXL),Landed 17:01,2021-06-13
+147,147,16:55 N41910,,Berlin (BER),Nordwind Airlines B738 (VP-BSZ),Landed 16:39,2021-06-13
+148,148,17:00 SU2829,,Milan (MXP),Aeroflot B738 (VP-BKA),Landed 17:17,2021-06-13
+149,149,17:05 DP518,,Volgograd (VOG),Pobeda B738 (VQ-BHV),Landed 16:54,2021-06-13
+150,150,17:10 5N586,,Krasnodar (KRR),SmartAvia A20N (VP-BOF),Landed 17:04,2021-06-13
+151,151,17:10 SU6636,,Paris (CDG),Rossiya A319 (VQ-BAU),Landed 18:06,2021-06-13
+152,152,17:15 D2324,,Ukhta (UCT),Severstal SU95 (RA-89117),Landed 17:12,2021-06-13
+153,153,17:20 DP302,,Gelendzhik (GDZ),Pobeda B738 (VP-BQH),Landed 17:26,2021-06-13
+154,154,17:30 SU2827,,Munich (MUC),Aeroflot A320 (VP-BAC),Landed 17:24,2021-06-13
+155,155,17:40 DP510,,Krasnodar (KRR),Pobeda B738 (VP-BPX),Landed 17:22,2021-06-13
+156,156,17:40 SU6984,,Simferopol (SIP),Rossiya A319 (VP-BBT),Landed 17:32,2021-06-13
+157,157,17:40 5N534,,Kaliningrad (KGD),Smartavia B737 (VQ-BBI),Landed 17:36,2021-06-13
+158,158,17:45,SU6676,Rome (FCO),Rossiya A319 (VQ-BOX),Landed 17:47,2021-06-13
+159,159,17:45 U6346,,Anapa (AAQ),Ural Airlines A320 (VP-BMW),Landed 17:53,2021-06-13
+160,160,17:45 A4643,,Bryansk (BZK),Azimuth SU9,Landed 17:39,2021-06-13
+161,161,17:50 SU38,,Moscow (SVO),Aeroflot B738 (VQ-BWF),Landed 17:33,2021-06-13
+162,162,17:55 DP209,,Moscow (VKO),Pobeda B738 (VP-BPK),Landed 17:50,2021-06-13
+163,163,18:00,AY705,Helsinki (HEL),Finnair A319 (OH-LVI),Landed 17:58,2021-06-13
+164,164,18:00 EO2172,,Stuttgart (STR),Pegas Fly E90,Unknown,2021-06-13
+165,165,18:05 SU6030,,Moscow (VKO),Rossiya A319 (VQ-BBA),Unknown,2021-06-13
+166,166,18:10 N4140,,Sochi (AER),Nordwind Airlines B738 (VQ-BDC),Landed 17:55,2021-06-13
+167,167,18:10 U6658,,Simferopol (SIP),Ural Airlines A320 (VQ-BCI),Landed 18:46,2021-06-13
+168,168,18:15 SU6234,,Samara (KUF),Rossiya A320 (VQ-BFM),Landed 18:13,2021-06-13
+169,169,18:25 SU6008,,Gelendzhik (GDZ),Rossiya B738 (VQ-BVU),Landed 18:09,2021-06-13
+170,170,18:25 SU6986,,Simferopol (SIP),Rossiya A319 (VP-BWJ),Landed 18:11,2021-06-13
+171,171,18:35,SU24,Moscow (SVO),Aeroflot A321 (VQ-BEA),Landed 18:19,2021-06-13
+172,172,18:40,S71015,Moscow (DME),S7 Airlines B738 (VQ-BVM),Landed 18:58,2021-06-13
+173,173,18:45 SU6066,,Makhachkala (MCX),Rossiya A320 (VP-BWH),Landed 18:29,2021-06-13
+174,174,18:45 DP566,,Ulyanovsk (ULV),Pobeda B738 (VP-BQQ),Landed 18:23,2021-06-13
+175,175,18:55 LO1685,,Warsaw (WAW),LOT B788 (SP-LRH),Landed 20:10,2021-06-13
+176,176,18:55 SN2837,,Brussels (BRU),Brussels Airlines A320 (OO-SNJ),Landed 19:07,2021-06-13
+177,177,19:05 A4203,,Rostov-on-Don (ROV),Azimuth SU95 (RA-89094),Landed 18:41,2021-06-13
+178,178,19:05 N42128,,Belgrade (BEG),Nordwind Airlines 73H,Unknown,2021-06-13
+179,179,19:05 YC855,,Salekhard (SLY),Yamal Airlines SU95 (RA-89081),Landed 18:35,2021-06-13
+180,180,19:10 SU6566,,Sochi (AER),Rossiya A319 (VQ-BAR),Landed 19:23,2021-06-13
+181,181,19:25 SU6012,,Moscow (VKO),Rossiya A319 (VQ-BAT),Landed 19:18,2021-06-13
+182,182,19:30 UT381,,Moscow (VKO),UTair B735 (VP-BVN),Landed 19:20,2021-06-13
+183,183,19:35 DP576,,Voronezh (VOZ),Pobeda B738 (VQ-BTD),Landed 19:26,2021-06-13
+184,184,19:35 5N504,,Syktyvkar (SCW),Smartavia B737 (VP-BYY),Landed 19:15,2021-06-13
+185,185,19:50 SU6006,,Krasnodar (KRR),Rossiya B738 (VP-BUS),Landed 19:36,2021-06-13
+186,186,19:55 N4147,,Moscow (SVO),Pegas Fly B763 (VP-BMC),Landed 19:33,2021-06-13
+187,187,19:55 DP520,,Astrakhan (ASF),Pobeda B738 (VP-BQE),Landed 19:51,2021-06-13
+188,188,20:00 SU6004,,Anapa (AAQ),Rossiya B738 (VQ-BVV),Landed 20:01,2021-06-13
+189,189,20:05 5N147,,Arkhangelsk (ARH),Smartavia B737 (VQ-BBI),Landed 21:51,2021-06-13
+190,190,20:05,S71017,Moscow (DME),S7 Airlines A321 (VQ-BQI),Landed 20:03,2021-06-13
+191,191,20:15,SU26,Moscow (SVO),Aeroflot A321 (VP-BTH),Landed 19:47,2021-06-13
+192,192,20:20 UT544,,Nizhnevartovsk (NJC),UTair B735 (VP-BYL),Landed 19:57,2021-06-13
+193,193,20:20 UT469,,Surgut (SGC),UTair B735 (VQ-BJN),Landed 20:12,2021-06-13
+194,194,20:25 SU6988,,Simferopol (SIP),Rossiya A320 (VP-BZQ),Landed 20:05,2021-06-13
+195,195,20:30,SU6330,Kaliningrad (KGD),Rossiya A319 (VP-BIT),Landed 20:25,2021-06-13
+196,196,20:45 7R106,,Ivanovo (IWA),Rusline CRJ1 (VP-BVK),Landed 20:19,2021-06-13
+197,197,20:50 H4435,,Chisinau (KIV),- 319,Unknown,2021-06-13
+198,198,20:55 Y71061,,Moscow (DME),NordStar B738 (VQ-BDO),Landed 20:29,2021-06-13
+199,199,21:15 5N536,,Rostov-on-Don (ROV),Smartavia B738 (VP-BEV),Landed 21:21,2021-06-13
+200,200,21:15 7R262,,Lipetsk (LPK),Rusline CR2,Unknown,2021-06-13
+201,201,21:20,SU28,Moscow (SVO),Aeroflot A321 (VQ-BTU),Landed 20:46,2021-06-13
+202,202,21:20 SU6598,,Kazan (KZN),Rossiya A320 (VP-BZR),Landed 21:17,2021-06-13
+203,203,21:20,EO281,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZJ),Landed 21:10,2021-06-13
+204,204,21:25 DP215,,Moscow (VKO),Pobeda 737,Unknown,2021-06-13
+205,205,21:25 D221,,Cherepovets (CEE),Severstal CRJ2 (RA-67230),Landed 21:20,2021-06-13
+206,206,21:30 5N524,,Anapa (AAQ),SmartAvia A20N (VP-BOS),Landed 21:46,2021-06-13
+207,207,21:35,S71019,Moscow (DME),S7 Airlines B738 (VP-BNG),Landed 21:13,2021-06-13
+208,208,21:35 SU6036,,Moscow (VKO),Rossiya A319 (VQ-BCO),Landed 21:24,2021-06-13
+209,209,21:40 DP508,,Beslan (OGZ),Pobeda B738 (VQ-BWI),Landed 21:33,2021-06-13
+210,210,21:55 ZF392,,Kaliningrad (KGD),Azur Air B739 (VQ-BYX),Landed 21:38,2021-06-13
+211,211,22:00 S75007,,Novosibirsk (OVB),S7 Airlines A20N (VP-BSR),Landed 21:49,2021-06-13
+212,212,22:00,SU30,Moscow (SVO),Aeroflot B738 (VP-BGG),Landed 21:35,2021-06-13
+213,213,22:10 5N295,,Moscow (DME),SmartAvia B738 (VP-BAM),Landed 21:42,2021-06-13
+214,214,22:15 U68332,,Namangan (NMA),Ural Airlines A321 (VP-BVR),Landed 22:13,2021-06-13
+215,215,22:20,SU6346,Murmansk (MMK),Rossiya A319 (VP-BWG),Landed 22:05,2021-06-13
+216,216,22:30,SU32,Moscow (SVO),Aeroflot A320 (VQ-BSL),Landed 22:09,2021-06-13
+217,217,22:30 SZ203,,Dushanbe (DYU),Somon Air B738 (EY-787),Unknown,2021-06-13
+218,218,22:35 U638,,Kaliningrad (KGD),Ural Airlines A320 (VP-BMW),Landed 23:15,2021-06-13
+219,219,22:40 7R220,,Kursk (URS),RusLine CRJ1 (VP-BNK),Landed 22:26,2021-06-13
+220,220,22:40 SU6204,,Anapa (AAQ),Rossiya A319 (VP-BQK),Landed 22:30,2021-06-13
+221,221,22:45 D256,,Apatity (KVK),Severstal SU95 (RA-89117),Landed 22:33,2021-06-13
+222,222,22:50 SU6562,,Sochi (AER),Rossiya A319 (VQ-BAQ),Landed 22:35,2021-06-13
+223,223,22:50 RL312,,Anapa (AAQ),Royal Flight 752,Unknown,2021-06-13
+224,224,22:55 LH1438,,Frankfurt (FRA),Lufthansa A321 (D-AIDC),Landed 23:03,2021-06-13
+225,225,22:55,SU6308,Arkhangelsk (ARH),Rossiya SU95 (RA-89131),Landed 22:51,2021-06-13
+226,226,23:00 SU44,,Moscow (SVO),Aeroflot A320 (VQ-BIW),Landed 22:39,2021-06-13
+227,227,23:00 SU6404,,Yekaterinburg (SVX),Rossiya A319 (VP-BIV),Unknown,2021-06-13
+228,228,23:10 SU6414,,Ufa (UFA),Rossiya A319 (VQ-BAV),Landed 22:57,2021-06-13
+229,229,23:10 DP548,,Kazan (KZN),Pobeda B738 (VP-BQH),Landed 22:48,2021-06-13
+230,230,23:10 SU6896,,Simferopol (SIP),Rossiya A319 (VP-BNJ),Landed 22:42,2021-06-13
+231,231,23:15 DP530,,Kaliningrad (KGD),Pobeda B738 (VQ-BTD),Landed 23:47,2021-06-13
+232,232,23:15 SU6024,,Moscow (VKO),Rossiya A319 (VQ-BBA),Landed 23:01,2021-06-13
+233,233,23:25 DP578,,Saratov (GSV),Pobeda B738 (VP-BPX),Landed 23:12,2021-06-13
+234,234,23:40 DP207,,Moscow (VKO),Pobeda B738 (VP-BQE),Landed 23:33,2021-06-13
+235,235,23:45 5N582,,Samara (KUF),Smartavia A20N (VP-BOZ),Landed 23:24,2021-06-13
+236,236,23:50 SU6016,,Moscow (VKO),Rossiya A319 (VP-BBT),Landed 23:36,2021-06-13
+237,237,23:55 ZF344,,Sochi (AER),Azur Air (Anex Tour Livery) B738 (VP-BIR),Landed 23:30,2021-06-13
+0,0,00:05 SU6990,,Simferopol (SIP),Rossiya A319 (VP-BBU),Landed 23:51,2021-06-14
+1,1,00:10,WZ702,Simferopol (SIP),Red Wings A320 (VP-BWX),Landed 23:56,2021-06-14
+2,2,00:30 SU2815,,Sochi (AER),Aeroflot (Retro Livery) A320 (VP-BNT),Landed 01:02,2021-06-14
+3,3,00:35 5N518,,Murmansk (MMK),Smartavia B737 (VP-BYY),Landed 00:23,2021-06-14
+4,4,00:35,WZ648,Krasnodar (KRR),Red Wings A320 (VP-BWW),Landed 00:21,2021-06-14
+5,5,00:40,SU34,Moscow (SVO),Aeroflot (PBC CSKA Moscow Livery) A320 (VQ-BEJ),Landed 00:17,2021-06-14
+6,6,00:45 7R218,,Kursk (URS),Rusline CR2,Unknown,2021-06-14
+7,7,01:05 SU6116,,Volgograd (VOG),Rossiya SU95 (RA-89128),Landed 00:48,2021-06-14
+8,8,01:15,S71025,Moscow (DME),S7 Airlines A320 (VP-BCS),Landed 01:57,2021-06-14
+9,9,01:20 SU6314,,Krasnodar (KRR),Rossiya A319 (VQ-BAU),Landed 01:46,2021-06-14
+10,10,01:40 5N526,,Simferopol (SIP),SmartAvia A20N (VP-BOF),Landed 01:42,2021-06-14
+11,11,02:00 SU46,,Moscow (SVO),Aeroflot B738 (VP-BCG),Landed 01:48,2021-06-14
+12,12,02:25 SU6992,,Simferopol (SIP),Aeroflot 319,Unknown,2021-06-14
+13,13,02:55 SU2819,,Yerevan (EVN),Aeroflot A320 (VP-BAC),Landed 02:59,2021-06-14
+14,14,02:55 SU36,,Moscow (SVO),Aeroflot A321 (VP-BEG),Landed 02:33,2021-06-14
+15,15,03:15 SU6998,,Simferopol (SIP),Rossiya A319 (VP-BWJ),Landed 03:35,2021-06-14
+16,16,03:15 SU6998,,Simferopol (SIP),Rossiya A319 (VP-BWJ),Landed 03:35,2021-06-14
+17,17,04:10 U628,,Sochi (AER),Ural Airlines A320 (VQ-BCI),Landed 03:49,2021-06-14
+18,18,04:35 U6512,,Simferopol (SIP),Ural Airlines A321 (VP-BVA),Landed 09:49,2021-06-14
+19,19,05:10 SU6112,,Nizhnevartovsk (NJC),Rossiya B738 (VQ-BVU),Landed 04:59,2021-06-14
+20,20,05:25 SU2805,,Sochi (AER),Aeroflot B738 (VP-BKA),Landed 05:13,2021-06-14
+21,21,05:45,WZ800,Kaliningrad (KGD),Red Wings A320 (VP-BWX),Landed 05:29,2021-06-14
+22,22,05:55 SU6582,,Perm (PEE),Rossiya A319 (VP-BWG),Landed 05:34,2021-06-14
+23,23,05:55 SU6596,,Kazan (KZN),Rossiya A319 (VP-BIU),Landed 05:44,2021-06-14
+24,24,06:05 DP570,,Perm (PEE),Pobeda B738 (VP-BQE),Landed 05:46,2021-06-14
+25,25,06:15 DP560,,Ufa (UFA),Pobeda B738 (VP-BQG),Landed 05:59,2021-06-14
+26,26,06:15 SU6328,,Kaliningrad (KGD),Rossiya B738 (VP-BUS),Landed 06:02,2021-06-14
+27,27,06:15 SU6358,,Mineralnye Vody (MRV),Rossiya A319 (VQ-BCO),Landed 05:53,2021-06-14
+28,28,06:20 SU6442,,Surgut (SGC),Rossiya A319 (VP-BIT),Landed 06:09,2021-06-14
+29,29,06:30,SU6304,Arkhangelsk (ARH),Rossiya A319 (VP-BIV),Landed 06:16,2021-06-14
+30,30,06:35 DP516,,Yekaterinburg (SVX),Pobeda B738 (VP-BQQ),Landed 06:38,2021-06-14
+31,31,06:45 SU6900,,Simferopol (SIP),Rossiya A319 (VQ-BOX),Landed 06:34,2021-06-14
+32,32,06:50 SU6412,,Ufa (UFA),Rossiya A319 (VQ-BBA),Landed 06:44,2021-06-14
+33,33,06:55 SU6452,,Tyumen (TJM),Rossiya A320 (VP-BZQ),Landed 06:46,2021-06-14
+34,34,06:55 UT489,,Moscow (VKO),UTair B738 (VQ-BDH),Landed 06:49,2021-06-14
+35,35,06:55 WZ738,,Sochi (AER),Red Wings A321 (VP-BRB),Landed 06:31,2021-06-14
+36,36,07:00 SU6574,,Krasnoyarsk (KJA),Rossiya A320 (VP-BWH),Landed 07:10,2021-06-14
+37,37,07:05 SU6402,,Yekaterinburg (SVX),Rossiya A319 (VP-BQK),Landed 06:54,2021-06-14
+38,38,07:05 SU6472,,Omsk (OMS),Rossiya A319 (VQ-BAT),Landed 06:41,2021-06-14
+39,39,07:10 DP550,,Chelyabinsk (CEK),Pobeda B738 (VP-BPX),Landed 06:51,2021-06-14
+40,40,07:15 SU6344,,Murmansk (MMK),Rossiya A319 (VP-BBU),Landed 06:56,2021-06-14
+41,41,07:15 SU6462,,Chelyabinsk (CEK),Rossiya A319 (VQ-BAQ),Landed 07:07,2021-06-14
+42,42,07:20 SU6542,,Novosibirsk (OVB),Rossiya A320 (VQ-BFM),Landed 07:02,2021-06-14
+43,43,07:20 SU6454,,Orenburg (REN),Rossiya A320 (VP-BWI),Landed 07:17,2021-06-14
+44,44,07:25,SU2,Moscow (SVO),Aeroflot A320 (VQ-BIW),Landed 07:41,2021-06-14
+45,45,07:30 SU6232,,Samara (KUF),Rossiya A319 (VP-BNJ),Landed 07:00,2021-06-14
+46,46,07:30 SU6588,,Syktyvkar (SCW),Rossiya A319 (VQ-BAV),Landed 07:04,2021-06-14
+47,47,08:00 5N592,,Ufa (UFA),Smartavia B738 (VP-BEV),Landed 07:34,2021-06-14
+48,48,08:05 SU6022,,Moscow (VKO),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 07:52,2021-06-14
+49,49,08:05 5N584,,Perm (PEE),Smartavia B737 (VP-BYY),Landed 07:45,2021-06-14
+50,50,08:20 Y7406,,Norilsk (NSK),NordStar B738 (VQ-BDO),Landed 07:55,2021-06-14
+51,51,08:25 D219,,Cherepovets (CEE),Severstal CRJ2 (RA-67240),Landed 08:17,2021-06-14
+52,52,08:25,SU6,Moscow (SVO),Aeroflot A321 (VP-BJX),Landed 08:04,2021-06-14
+53,53,08:25 7R298,,Khanty-Mansiysk (HMA),Rusline CRJ1 (VP-BVK),Unknown,2021-06-14
+54,54,08:45 5N588,,Orenburg (REN),Smartavia A20N (VP-BOZ),Landed 08:23,2021-06-14
+55,55,08:45 9U181,,Chisinau (KIV),Air Moldova A319 (ER-AXL),Landed 08:44,2021-06-14
+56,56,08:50,EO317,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZJ),Landed 08:31,2021-06-14
+57,57,08:55 DP211,,Moscow (VKO),Pobeda B738 (VQ-BWH),Landed 08:49,2021-06-14
+58,58,09:00 DP558,,Novosibirsk (OVB),Pobeda B738 (VP-BQH),Landed 09:05,2021-06-14
+59,59,09:00 5N528,,Chelyabinsk (CEK),SmartAvia A20N (VP-BOF),Landed 08:57,2021-06-14
+60,60,09:00 5N149,,Arkhangelsk (ARH),Smartavia B737 (VQ-BBI),Landed 08:46,2021-06-14
+61,61,09:05,S71005,Moscow (DME),S7 Airlines A320 (VQ-BPL),Landed 08:37,2021-06-14
+62,62,09:10 BT442,,Riga (RIX),Air Baltic BCS3 (YL-AAW),Landed 09:02,2021-06-14
+63,63,09:15 W64347,,Sofia (SOF),Wizz Air 321,Unknown,2021-06-14
+64,64,09:15 YK881,,Osh (OSS),Avia Traffic 737,Unknown,2021-06-14
+65,65,09:20 N4150,,Kemerovo (KEJ),Nordwind Airlines B738 (VQ-BDC),Landed 09:08,2021-06-14
+66,66,09:25,EO586,Belgorod (EGO),Pegas Fly E190 (VP-BZI),Landed 09:14,2021-06-14
+67,67,09:25 UT528,,Tyumen (TJM),UTair B735 (VP-BYL),Landed 08:54,2021-06-14
+68,68,09:25 W63281,,Bucharest (OTP),Wizz Air 321,Unknown,2021-06-14
+69,69,09:35 7R554,,Voronezh (VOZ),RusLine CRJ1 (VP-BNK),Landed 09:39,2021-06-14
+70,70,09:40 5N512,,Volgograd (VOG),SmartAvia A20N (VP-BOS),Landed 09:17,2021-06-14
+71,71,09:50 SU10,,Moscow (SVO),Aeroflot A321 (VP-BTR),Landed 09:24,2021-06-14
+72,72,09:50 SU6010,,Moscow (VKO),Rossiya A319 (VP-BWJ),Landed 09:36,2021-06-14
+73,73,09:55 U6225,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BGJ),Landed 09:46,2021-06-14
+74,74,10:05 N4594,,Tomsk (TOF),Nordwind Airlines B738 (VP-BSZ),Landed 10:17,2021-06-14
+75,75,10:05 U654,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BCI),Landed 09:29,2021-06-14
+76,76,10:10 DP203,,Moscow (VKO),Pobeda B738 (VQ-BTC),Landed 10:21,2021-06-14
+77,77,10:10,U6223,Yekaterinburg (SVX),Ural Airlines A320 (VP-BMW),Landed 10:03,2021-06-14
+78,78,10:20,EO177,Moscow (SVO),Pegas Fly B739 (VP-BZY),Landed 10:00,2021-06-14
+79,79,10:40 SU6898,,Simferopol (SIP),Rossiya A319 (VQ-BAR),Landed 10:26,2021-06-14
+80,80,10:45 N4266,,Khabarovsk (KHV),Nordwind Airlines A332 (VP-BUC),Landed 10:46,2021-06-14
+81,81,10:55 DP205,,Moscow (VKO),Pobeda B738 (VQ-BAW),Landed 11:06,2021-06-14
+82,82,11:10 DP306,,Sochi (AER),Pobeda B738 (VQ-BHU),Landed 11:03,2021-06-14
+83,83,11:10,SU12,Moscow (SVO),Aeroflot A320 (VQ-BIU),Landed 10:43,2021-06-14
+84,84,11:25 YC845,,Novy Urengoy (NUX),Yamal Airlines SU95 (RA-89081),Landed 11:08,2021-06-14
+85,85,11:30,S71027,Moscow (DME),S7 Airlines (Street Art Museum Livery) A320 (VP-BOG),Landed 11:12,2021-06-14
+86,86,11:30 ZF8406,,Sochi (AER),Azur Air B739 (VQ-BYO),Landed 11:35,2021-06-14
+87,87,11:35 A4303,,Krasnodar (KRR),Azimuth SU95 (RA-89149),Landed 11:16,2021-06-14
+88,88,11:40 SU6306,,Arkhangelsk (ARH),Rossiya A319 (VP-BIT),Landed 11:27,2021-06-14
+89,89,11:40 U679,,Moscow (DME),Ural Airlines A319 (VQ-BTY),Landed 11:43,2021-06-14
+90,90,11:50 S76377,,Irkutsk (IKT),S7 Airlines A20N (VQ-BGT),Landed 11:46,2021-06-14
+91,91,11:55 DP308,,Anapa (AAQ),Pobeda B738 (VP-BGR),Landed 11:55,2021-06-14
+92,92,11:55,UT369,Moscow (VKO),UTair B738 (VQ-BDH),Landed 11:59,2021-06-14
+93,93,11:55 U68574,,Urgench (UGC),Ural Airlines A321 (VP-BVR),Landed 11:32,2021-06-14
+94,94,12:00 SU6018,,Moscow (VKO),Rossiya A320 (VP-BZQ),Landed 11:40,2021-06-14
+95,95,12:05,SU14,Moscow (SVO),Aeroflot A320 (VQ-BIW),Landed 11:49,2021-06-14
+96,96,12:10,SU6324,Kaliningrad (KGD),Rossiya A320 (VP-BZR),Landed 12:07,2021-06-14
+97,97,12:15 S75003,,Novosibirsk (OVB),S7 Airlines B738 (VQ-BRP),Landed 11:53,2021-06-14
+98,98,12:20 ZF5046,,Bukhara (BHK),Azur Air B763 (VP-BUX),Landed 16:30,2021-06-14
+99,99,12:35 A4203,,Rostov-on-Don (ROV),Azimuth (M-1 Global Livery) SU95 (RA-89136),Landed 12:19,2021-06-14
+100,100,12:35 DP6821,,Moscow (SVO),Pobeda B738 (VQ-BHR),Landed 12:16,2021-06-14
+101,101,12:35 SU6396,,Bishkek (FRU),Rossiya B738 (VQ-BVV),Landed 12:26,2021-06-14
+102,102,12:45 DP201,,Moscow (VKO),Pobeda B738 (VP-BQY),Landed 12:28,2021-06-14
+103,103,12:50 LO685,,Warsaw (WAW),LOT B738 (SP-LWD),Landed 12:56,2021-06-14
+104,104,12:50 U6548,,Sochi (AER),Ural Airlines A321 (VP-BVA),Landed 18:58,2021-06-14
+105,105,12:55 SU6028,,Moscow (VKO),Rossiya A319 (VQ-BOX),Landed 12:47,2021-06-14
+106,106,13:00,SU16,Moscow (SVO),Aeroflot A321 (VP-BKZ),Landed 12:40,2021-06-14
+107,107,13:05 5N145,,Arkhangelsk (ARH),Smartavia B737 (VP-BYY),Landed 12:43,2021-06-14
+108,108,13:15 DP536,,Kaliningrad (KGD),Pobeda B738 (VP-BQH),Landed 13:04,2021-06-14
+109,109,13:15,SU6342,Murmansk (MMK),Rossiya A319 (VQ-BAQ),Landed 12:59,2021-06-14
+110,110,13:20,SU42,Moscow (SVO),Aeroflot A321 (VP-BOC),Landed 13:02,2021-06-14
+111,111,13:25 AY707,,Helsinki (HEL),Finnair AT75 (OH-ATP),Landed 13:24,2021-06-14
+112,112,13:35 DP538,,Stavropol (STW),Pobeda B738 (VP-BQM),Landed 13:12,2021-06-14
+113,113,13:40 7R220,,Kursk (URS),RusLine CRJ1 (VP-BNK),Landed 19:38,2021-06-14
+114,114,13:55 DP213,,Moscow (VKO),Pobeda B738 (VP-BQE),Landed 14:13,2021-06-14
+115,115,13:55,SU18,Moscow (SVO),Aeroflot A320 (VP-BTO),Landed 13:30,2021-06-14
+116,116,14:00 DP505,,Makhachkala (MCX),Pobeda B738 (VQ-BTD),Landed 13:53,2021-06-14
+117,117,14:05 SU6326,,Kaliningrad (KGD),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 13:50,2021-06-14
+118,118,14:05 7R104,,Ivanovo (IWA),RusLine CRJ1 (VP-BNK),Landed 13:37,2021-06-14
+119,119,14:10 DP528,,Naberezhnye Chelny (NBC),Pobeda B738 (VP-BQQ),Landed 13:47,2021-06-14
+120,120,14:10 SU2823,,Berlin (BER),Aeroflot B738 (VP-BCG),Landed 13:59,2021-06-14
+121,121,14:15 I8925,,Izhevsk (IJK),Izhavia B738 (VP-BUU),Landed 14:16,2021-06-14
+122,122,14:20 5N508,,Murmansk (MMK),SmartAvia A20N (VP-BOF),Landed 14:07,2021-06-14
+123,123,14:30,S71011,Moscow (DME),S7 Airlines A320 (VQ-BRC),Landed 14:09,2021-06-14
+124,124,14:35 DP540,,Mineralnye Vody (MRV),Pobeda B738 (VP-BPX),Landed 14:11,2021-06-14
+125,125,14:40 5N598,,Kazan (KZN),Smartavia A20N (VP-BOZ),Landed 14:53,2021-06-14
+126,126,14:40 5N504,,Syktyvkar (SCW),Smartavia B737 (VQ-BBI),Landed 14:24,2021-06-14
+127,127,14:45 SU6372,,Rostov-on-Don (ROV),Rossiya A319 (VQ-BAT),Landed 14:27,2021-06-14
+128,128,14:50 SU6892,,Simferopol (SIP),Rossiya A319 (VQ-BAU),Landed 14:33,2021-06-14
+129,129,14:55 U659,,Moscow (DME),Ural Airlines A20N (VP-BRX),Landed 16:50,2021-06-14
+130,130,15:00 DP514,,Kirov (KVX),Pobeda B738 (VQ-BWH),Landed 14:30,2021-06-14
+131,131,15:05,SU20,Moscow (SVO),Aeroflot A321 (VP-BTR),Landed 14:37,2021-06-14
+132,132,15:15 SU6106,,Nizhny Novgorod (GOJ),Rossiya SU95 (RA-89128),Landed 14:50,2021-06-14
+133,133,15:15 SU6644,,Dusseldorf (DUS),Rossiya A319 (VQ-BBA),Landed 15:00,2021-06-14
+134,134,15:20,WZ704,Sochi (AER),Red Wings A320 (VP-BWX),Landed 14:58,2021-06-14
+135,135,15:25 SU6216,,Gelendzhik (GDZ),Rossiya A320 (VQ-BFM),Landed 15:17,2021-06-14
+136,136,15:25,WZ602,Simferopol (SIP),Red Wings A321 (VP-BRB),Landed 15:19,2021-06-14
+137,137,15:30 SU6014,,Moscow (VKO),Rossiya A319 (VQ-BAR),Landed 15:12,2021-06-14
+138,138,15:30 SU6356,,Mineralnye Vody (MRV),Rossiya A319 (VP-BIV),Landed 15:10,2021-06-14
+139,139,15:30 YM540,,Tivat (TIV),Montenegro Airlines E95,Unknown,2021-06-14
+140,140,15:45 SU6202,,Anapa (AAQ),Rossiya A319 (VQ-BCO),Landed 15:40,2021-06-14
+141,141,15:45 SU6316,,Krasnodar (KRR),Rossiya A319 (VP-BWG),Landed 15:58,2021-06-14
+142,142,15:45 S75005,,Novosibirsk (OVB),S7 Airlines B738 (VP-BQD),Landed 15:27,2021-06-14
+143,143,15:45 5N532,,Samara (KUF),SmartAvia A20N (VP-BOS),Landed 15:31,2021-06-14
+144,144,16:00 SU6564,,Sochi (AER),Rossiya A319 (VQ-BAV),Landed 15:34,2021-06-14
+145,145,16:00 WZ794,,Yekaterinburg (SVX),Red Wings A320 (VP-BWW),Landed 15:08,2021-06-14
+146,146,16:05 DP314,,Sochi (AER),Pobeda B738 (VQ-BHT),Landed 15:54,2021-06-14
+147,147,16:10 N4130,,Simferopol (SIP),Nordwind Airlines B738 (VP-BPI),Landed 16:12,2021-06-14
+148,148,16:20,S71013,Moscow (DME),S7 Airlines (Siberian Airlines Livery) A320 (VQ-BPN),Landed 16:05,2021-06-14
+149,149,16:20 U6174,,Yekaterinburg (SVX),Ural Airlines 319,Unknown,2021-06-14
+150,150,16:20 5N546,,Sochi (AER),Smartavia B738 (VP-BEV),Landed 15:50,2021-06-14
+151,151,16:30 U6392,,Kaliningrad (KGD),Ural Airlines A319 (VQ-BTY),Landed 16:44,2021-06-14
+152,152,16:45 DP588,,Kaliningrad (KGD),Pobeda B738 (VQ-BHR),Landed 16:23,2021-06-14
+153,153,16:45 SU22,,Moscow (SVO),Aeroflot A321 (VQ-BEA),Landed 16:26,2021-06-14
+154,154,16:45 SU6110,,Nalchik (NAL),Rossiya SU95 (RA-89131),Landed 16:41,2021-06-14
+155,155,17:00 IO673,,Moscow (DME),IrAero SU95 (RA-89076),Landed 16:48,2021-06-14
+156,156,17:05 DP518,,Volgograd (VOG),Pobeda B738 (VQ-BAW),Landed 16:55,2021-06-14
+157,157,17:10 5N586,,Krasnodar (KRR),Smartavia B738 (VP-BAB),Landed 16:57,2021-06-14
+158,158,17:20 DP302,,Gelendzhik (GDZ),Pobeda B738 (VP-BPT),Landed 17:08,2021-06-14
+159,159,17:30 W62465,,Budapest (BUD),Wizz Air 320,Unknown,2021-06-14
+160,160,17:40 DP510,,Krasnodar (KRR),Pobeda B738 (VQ-BTC),Landed 17:40,2021-06-14
+161,161,17:40 SU6984,,Simferopol (SIP),Rossiya A319 (VP-BQK),Landed 17:26,2021-06-14
+162,162,17:40 5N534,,Kaliningrad (KGD),Smartavia B737 (VP-BYY),Landed 17:16,2021-06-14
+163,163,17:45 A4643,,Bryansk (BZK),Azimuth (M-1 Global Livery) SU95 (RA-89136),Landed 17:29,2021-06-14
+164,164,17:45 U6346,,Anapa (AAQ),Ural Airlines A320 (VQ-BGJ),Landed 17:42,2021-06-14
+165,165,17:50,AF1664,Paris (CDG),Air France A319 (F-GRHZ),Landed 17:46,2021-06-14
+166,166,17:50 A4637,,Kaluga (KLF),Azimuth SU95 (RA-89149),Landed 17:18,2021-06-14
+167,167,17:50 SU38,,Moscow (SVO),Aeroflot B738 (VQ-BVP),Landed 17:32,2021-06-14
+168,168,17:55 DP209,,Moscow (VKO),Pobeda B738 (VQ-BTG),Landed 17:51,2021-06-14
+169,169,18:00 D2324,,Ukhta (UCT),Severstal SU95 (RA-89118),Landed 17:56,2021-06-14
+170,170,18:05 SU6030,,Moscow (VKO),Rossiya A319 (VQ-BOX),Landed 18:11,2021-06-14
+171,171,18:10 N4140,,Sochi (AER),Nordwind Airlines B738 (VQ-BDC),Landed 18:00,2021-06-14
+172,172,18:10 U6658,,Simferopol (SIP),Ural Airlines A320 (VQ-BCI),Landed 18:02,2021-06-14
+173,173,18:15 SU6234,,Samara (KUF),Rossiya A319 (VP-BIT),Landed 18:05,2021-06-14
+174,174,18:25 SU2813,,Yerevan (EVN),Aeroflot A320 (VQ-BSL),Landed 18:06,2021-06-14
+175,175,18:25 SU6702,,Barcelona (BCN),Rossiya A319 (VP-BNJ),Landed 18:14,2021-06-14
+176,176,18:25 SU6986,,Simferopol (SIP),Rossiya A319 (VP-BBU),Landed 18:09,2021-06-14
+177,177,18:30 DP526,,Cheboksary (CSY),Pobeda B738 (VP-BQH),Landed 18:21,2021-06-14
+178,178,18:35,SU24,Moscow (SVO),Aeroflot A321 (VP-BOC),Landed 18:18,2021-06-14
+179,179,18:40,S71015,Moscow (DME),S7 Airlines B738 (VQ-BMG),Landed 18:24,2021-06-14
+180,180,18:45 SU6066,,Makhachkala (MCX),Rossiya A320 (VP-BWH),Landed 18:37,2021-06-14
+181,181,18:45 7R250,,Yaroslavl (IAR),Rusline CRJ1 (VP-BVK),Landed 19:26,2021-06-14
+182,182,18:45 ZF7866,,Heraklion (HER),Azur Air 75W,Unknown,2021-06-14
+183,183,18:55 SN2837,,Brussels (BRU),Brussels Airlines A320 (OO-SNL),Landed 18:44,2021-06-14
+184,184,19:05 YC855,,Salekhard (SLY),Yamal Airlines SU9,Unknown,2021-06-14
+185,185,19:10 SU6566,,Sochi (AER),Rossiya A319 (VP-BWJ),Landed 18:40,2021-06-14
+186,186,19:10 UT264,,Grozny (GRV),UTair B735 (VP-BYL),Landed 19:00,2021-06-14
+187,187,19:25 SU6012,,Moscow (VKO),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 19:21,2021-06-14
+188,188,19:30 UT381,,Moscow (VKO),UTair B738 (VQ-BJG),Unknown,2021-06-14
+189,189,19:35 DP576,,Voronezh (VOZ),Pobeda B738 (VP-BPX),Landed 19:23,2021-06-14
+190,190,19:50 SU6004,,Anapa (AAQ),Rossiya B738 (VQ-BVU),Landed 20:10,2021-06-14
+191,191,19:50 SU6006,,Krasnodar (KRR),Rossiya B738 (VP-BUS),Landed 19:32,2021-06-14
+192,192,19:55 DP520,,Astrakhan (ASF),Pobeda B738 (VP-BQY),Landed 19:36,2021-06-14
+193,193,19:55 N4147,,Moscow (SVO),Nordwind Airlines A21N (VQ-BJC),Landed 19:30,2021-06-14
+194,194,19:55,EO281,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZI),Landed 19:34,2021-06-14
+195,195,20:00 RL312,,Anapa (AAQ),Royal Flight B752 (VQ-BTR),Landed 20:27,2021-06-14
+196,196,20:00 U6191,,Moscow (DME),Ural Airlines A321 (VQ-BGX),Landed 22:47,2021-06-14
+197,197,20:05,S71017,Moscow (DME),S7 Airlines B738 (VQ-BVK),Landed 19:48,2021-06-14
+198,198,20:05 5N147,,Arkhangelsk (ARH),SmartAvia A20N (VP-BOS),Landed 19:56,2021-06-14
+199,199,20:15,SU26,Moscow (SVO),Aeroflot A321 (VP-BTR),Landed 19:50,2021-06-14
+200,200,20:20 UT469,,Surgut (SGC),UTair B735 (VQ-BJS),Landed 20:23,2021-06-14
+201,201,20:20 W98123,,London (LTN),Wizz Air UK 32Q,Unknown,2021-06-14
+202,202,20:25 SU6988,,Simferopol (SIP),Rossiya A319 (VP-BIU),Landed 20:07,2021-06-14
+203,203,20:30,SU6330,Kaliningrad (KGD),Rossiya A320 (VP-BZR),Landed 20:31,2021-06-14
+204,204,20:35 S71031,,Moscow (DME),S7 Airlines A321 (VQ-BQK),Landed 20:13,2021-06-14
+205,205,21:15 5N536,,Rostov-on-Don (ROV),Smartavia A20N (VP-BOZ),Landed 21:01,2021-06-14
+206,206,21:20,SU28,Moscow (SVO),Aeroflot A321 (VQ-BTT),Landed 20:43,2021-06-14
+207,207,21:20 SU6598,,Kazan (KZN),Rossiya A319 (VQ-BBA),Landed 21:13,2021-06-14
+208,208,21:25 D221,,Cherepovets (CEE),Severstal CRJ2 (RA-67240),Landed 21:18,2021-06-14
+209,209,21:30 5N524,,Anapa (AAQ),SmartAvia A20N (VP-BOF),Landed 21:37,2021-06-14
+210,210,21:35 SU6036,,Moscow (VKO),Rossiya A319 (VP-BWG),Landed 21:22,2021-06-14
+211,211,21:35,S71019,Moscow (DME),S7 Airlines A321 (VQ-BQH),Landed 21:28,2021-06-14
+212,212,21:40 DP508,,Beslan (OGZ),Pobeda B738 (VP-BQQ),Landed 21:30,2021-06-14
+213,213,21:40 N42098,,Monastir (MIR),Nordwind Airlines B772 (VP-BJH),Landed 21:26,2021-06-14
+214,214,21:40 YK879,,Bishkek (FRU),Avia Traffic 737,Unknown,2021-06-14
+215,215,21:55 SU6104,,Rostov-on-Don (ROV),Rossiya B738 (VQ-BVV),Landed 21:54,2021-06-14
+216,216,22:00,SU30,Moscow (SVO),Aeroflot B738 (VP-BKF),Landed 21:40,2021-06-14
+217,217,22:00 S75007,,Novosibirsk (OVB),S7 Airlines A20N (VP-BWC),Landed 21:46,2021-06-14
+218,218,22:10 5N295,,Moscow (DME),Smartavia B738 (VP-BCC),Landed 22:03,2021-06-14
+219,219,22:20,SU6346,Murmansk (MMK),Rossiya A319 (VQ-BAV),Landed 22:10,2021-06-14
+220,220,22:30,SU32,Moscow (SVO),Aeroflot A320 (VP-BEO),Landed 22:07,2021-06-14
+221,221,22:30 5F115,,Chisinau (KIV),Fly One 320,Unknown,2021-06-14
+222,222,22:35 U638,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BGJ),Landed 22:35,2021-06-14
+223,223,22:40 SU6204,,Anapa (AAQ),Rossiya A319 (VQ-BAU),Landed 22:50,2021-06-14
+224,224,22:45 D256,,Apatity (KVK),Severstal SU95 (RA-89118),Landed 22:29,2021-06-14
+225,225,22:50 SU6562,,Sochi (AER),Rossiya A319 (VQ-BAQ),Landed 22:31,2021-06-14
+226,226,22:55,SU6308,Arkhangelsk (ARH),Rossiya A319 (VP-BQK),Landed 22:38,2021-06-14
+227,227,23:00 SU44,,Moscow (SVO),Aeroflot A320 (VQ-BIW),Landed 22:41,2021-06-14
+228,228,23:00 SU6404,,Yekaterinburg (SVX),Rossiya A320 (VQ-BFM),Landed 23:05,2021-06-14
+229,229,23:10 DP548,,Kazan (KZN),Pobeda B738 (VQ-BTC),Landed 22:52,2021-06-14
+230,230,23:10 SU6414,,Ufa (UFA),Rossiya A320 (VP-BZQ),Landed 23:00,2021-06-14
+231,231,23:10 SU6896,,Simferopol (SIP),Rossiya A319 (VQ-BAT),Landed 23:02,2021-06-14
+232,232,23:15 DP530,,Kaliningrad (KGD),Pobeda B738 (VP-BQH),Landed 23:08,2021-06-14
+233,233,23:15 SU6024,,Moscow (VKO),Rossiya A319 (VQ-BOX),Landed 22:57,2021-06-14
+234,234,23:25 DP578,,Saratov (GSV),Pobeda B738 (VP-BPT),Landed 23:11,2021-06-14
+235,235,23:40 DP207,,Moscow (VKO),Pobeda B738 (VQ-BHV),Landed 23:55,2021-06-14
+236,236,23:45 5N582,,Samara (KUF),Smartavia B738 (VP-BAB),Landed 23:18,2021-06-14
+237,237,23:50 SU6016,,Moscow (VKO),Rossiya A319 (VP-BBU),Landed 23:32,2021-06-14
+0,0,00:05 SU6990,,Simferopol (SIP),Rossiya A319 (VQ-BAR),Landed 23:46,2021-06-15
+1,1,00:05,WZ736,Sochi (AER),Red Wings A321 (VP-BRB),Landed 23:36,2021-06-15
+2,2,00:10,WZ702,Simferopol (SIP),Red Wings A320 (VP-BWX),Landed 23:44,2021-06-15
+3,3,00:25 5N518,,Murmansk (MMK),Smartavia B737 (VP-BYY),Landed 00:26,2021-06-15
+4,4,00:30 SU2815,,Sochi (AER),Aeroflot (Retro Livery) A320 (VP-BNT),Landed 00:29,2021-06-15
+5,5,00:35,WZ648,Krasnodar (KRR),Red Wings A320 (VP-BWW),Landed 00:23,2021-06-15
+6,6,00:40,SU34,Moscow (SVO),Aeroflot (PBC CSKA Moscow Livery) A320 (VQ-BEJ),Landed 00:20,2021-06-15
+7,7,00:40 5N540,,Kaliningrad (KGD),SmartAvia A20N (VP-BOS),Landed 00:17,2021-06-15
+8,8,01:05 SU6116,,Volgograd (VOG),Rossiya SU95 (RA-89128),Landed 00:45,2021-06-15
+9,9,01:15,S71025,Moscow (DME),S7 Airlines A320 (VQ-BRD),Landed 00:59,2021-06-15
+10,10,01:20 SU6314,,Krasnodar (KRR),Rossiya A319 (VQ-BCO),Landed 01:06,2021-06-15
+11,11,01:40 U68186,,Dushanbe (DYU),Ural Airlines A321 (VP-BVA),Landed 08:25,2021-06-15
+12,12,01:40 5N526,,Simferopol (SIP),Smartavia B737 (VQ-BBI),Landed 01:19,2021-06-15
+13,13,02:00 SU46,,Moscow (SVO),Aeroflot B738 (VP-BON),Landed 02:10,2021-06-15
+14,14,02:25 SU6992,,Simferopol (SIP),Aeroflot 319,Unknown,2021-06-15
+15,15,02:45 N42028,,Tamchy (IKU),Nordwind Airlines B738 (VP-BSZ),Landed 02:06,2021-06-15
+16,16,02:45 BJ882,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-15
+17,17,02:55 SU36,,Moscow (SVO),Aeroflot A321 (VP-BEA),Landed 02:34,2021-06-15
+18,18,04:10 U628,,Sochi (AER),Ural Airlines A320 (VQ-BFW),Landed 04:36,2021-06-15
+19,19,04:35 U6512,,Simferopol (SIP),Ural Airlines A321 (VP-BVR),Landed 05:26,2021-06-15
+20,20,05:10 SU6112,,Nizhnevartovsk (NJC),Rossiya B738 (VP-BUS),Landed 04:56,2021-06-15
+21,21,05:25 SU2805,,Sochi (AER),Aeroflot B738 (VP-BCG),Landed 05:23,2021-06-15
+22,22,05:30 BJ826,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-15
+23,23,05:45,WZ800,Kaliningrad (KGD),Red Wings A321 (VP-BRB),Landed 05:39,2021-06-15
+24,24,05:55 SU6582,,Perm (PEE),Rossiya A319 (VQ-BAQ),Landed 05:49,2021-06-15
+25,25,05:55 SU6596,,Kazan (KZN),Rossiya B738 (VQ-BVV),Landed 05:36,2021-06-15
+26,26,06:05 DP570,,Perm (PEE),Pobeda B738 (VP-BQC),Landed 05:56,2021-06-15
+27,27,06:05 SU6998,,Simferopol (SIP),Rossiya A319 (VP-BWG),Landed 05:44,2021-06-15
+28,28,06:15 DP560,,Ufa (UFA),Pobeda B738 (VP-BQH),Landed 05:59,2021-06-15
+29,29,06:15 SU6328,,Kaliningrad (KGD),Rossiya A320 (VP-BWH),Landed 05:52,2021-06-15
+30,30,06:15 SU6358,,Mineralnye Vody (MRV),Rossiya A319 (VQ-BAV),Landed 06:02,2021-06-15
+31,31,06:20 SU6442,,Surgut (SGC),Rossiya A319 (VP-BIV),Landed 06:12,2021-06-15
+32,32,06:30,SU6304,Arkhangelsk (ARH),Rossiya A319 (VP-BIU),Landed 06:17,2021-06-15
+33,33,06:35 DP516,,Yekaterinburg (SVX),Pobeda (Thanks Doctors Livery) B738 (VQ-BWG),Landed 07:22,2021-06-15
+34,34,06:45 SU6900,,Simferopol (SIP),Rossiya A319 (VP-BIT),Landed 06:53,2021-06-15
+35,35,06:50 SU6412,,Ufa (UFA),Rossiya A319 (VP-BBT),Landed 06:33,2021-06-15
+36,36,06:55 SU6452,,Tyumen (TJM),Rossiya A319 (VQ-BBA),Landed 06:48,2021-06-15
+37,37,06:55 UT489,,Moscow (VKO),UTair B738 (VQ-BJG),Landed 06:44,2021-06-15
+38,38,07:00 SU6574,,Krasnoyarsk (KJA),Rossiya A320 (VP-BWI),Landed 07:10,2021-06-15
+39,39,07:05 SU6402,,Yekaterinburg (SVX),Rossiya A319 (VQ-BAU),Landed 07:05,2021-06-15
+40,40,07:05 SU6472,,Omsk (OMS),Rossiya A319 (VP-BNJ),Landed 06:55,2021-06-15
+41,41,07:10 DP550,,Chelyabinsk (CEK),Pobeda B738 (VP-BPT),Landed 06:49,2021-06-15
+42,42,07:15 SU6344,,Murmansk (MMK),Rossiya A319 (VQ-BCO),Landed 07:16,2021-06-15
+43,43,07:15 SU6462,,Chelyabinsk (CEK),Rossiya A319 (VP-BQK),Landed 07:19,2021-06-15
+44,44,07:20 SU6454,,Orenburg (REN),Rossiya A320 (VQ-BFM),Landed 07:08,2021-06-15
+45,45,07:20 SU6542,,Novosibirsk (OVB),Rossiya A320 (VP-BZR),Landed 07:26,2021-06-15
+46,46,07:25,SU2,Moscow (SVO),Aeroflot A320 (VQ-BIW),Landed 07:01,2021-06-15
+47,47,07:30 SU6232,,Samara (KUF),Rossiya A319 (VQ-BOX),Landed 06:58,2021-06-15
+48,48,07:30 SU6588,,Syktyvkar (SCW),Rossiya A319 (VQ-BAT),Landed 07:13,2021-06-15
+49,49,07:45 EO330,,Kazan (KZN),Pegas Fly B763 (VP-BMC),Landed 07:35,2021-06-15
+50,50,08:00 5N592,,Ufa (UFA),Smartavia A20N (VP-BOZ),Landed 07:32,2021-06-15
+51,51,08:05 SU6022,,Moscow (VKO),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 07:48,2021-06-15
+52,52,08:05 5N584,,Perm (PEE),Smartavia B737 (VQ-BBI),Landed 07:41,2021-06-15
+53,53,08:25 D219,,Cherepovets (CEE),Severstal CRJ2 (RA-67239),Landed 08:17,2021-06-15
+54,54,08:25,SU6,Moscow (SVO),Aeroflot A321 (VP-BEG),Landed 08:02,2021-06-15
+55,55,08:40 5N149,,Arkhangelsk (ARH),Smartavia B738 (VP-BAB),Landed 08:23,2021-06-15
+56,56,08:40 5N578,,Tyumen (TJM),Smartavia B737 (VP-BYY),Landed 08:20,2021-06-15
+57,57,09:00 DP558,,Novosibirsk (OVB),Pobeda B738 (VP-BQQ),Landed 08:53,2021-06-15
+58,58,09:00 5N528,,Chelyabinsk (CEK),SmartAvia A20N (VP-BOS),Landed 08:56,2021-06-15
+59,59,09:05,S71005,Moscow (DME),S7 Airlines A320 (VP-BDT),Landed 08:38,2021-06-15
+60,60,09:15 N4762,,Novokuznetsk (NOZ),Nordwind Airlines B738 (VQ-BDC),Landed 09:04,2021-06-15
+61,61,09:25,EO586,Belgorod (EGO),Pegas Fly E190 (VP-BZJ),Landed 09:13,2021-06-15
+62,62,09:25 UT528,,Tyumen (TJM),UTair B735 (VP-BYL),Diverted to TJM,2021-06-15
+63,63,09:35 7R554,,Voronezh (VOZ),Rusline CRJ1 (VQ-BND),Landed 09:44,2021-06-15
+64,64,09:40 5N512,,Volgograd (VOG),SmartAvia A20N (VP-BOF),Landed 09:29,2021-06-15
+65,65,09:50 SU10,,Moscow (SVO),Aeroflot A320 (VQ-BEH),Landed 09:42,2021-06-15
+66,66,09:50 SU6010,,Moscow (VKO),Rossiya A319 (VP-BBU),Landed 09:39,2021-06-15
+67,67,09:55,JU670,Belgrade (BEG),AirSERBIA A319 (YU-APK),Landed 09:54,2021-06-15
+68,68,09:55 U6225,,Yekaterinburg (SVX),Ural Airlines A320 (VP-BDL),Landed 11:46,2021-06-15
+69,69,10:00 VGV612,,Vologda (VGD),- YK4,Unknown,2021-06-15
+70,70,10:05 U654,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BFW),Landed 09:47,2021-06-15
+71,71,10:10 DP203,,Moscow (VKO),Pobeda B738 (VP-BOD),Landed 10:16,2021-06-15
+72,72,10:20 N4177,,Moscow (SVO),Nordwind Airlines A321 (VQ-BRY),Landed 10:11,2021-06-15
+73,73,10:35 YC877,,Nadym (NYM),Yamal Airlines SU95 (RA-89081),Landed 10:32,2021-06-15
+74,74,10:40 SU6898,,Simferopol (SIP),Rossiya A319 (VP-BWJ),Landed 10:28,2021-06-15
+75,75,10:55 DP205,,Moscow (VKO),Pobeda B738 (VQ-BTD),Landed 10:45,2021-06-15
+76,76,11:10 DP306,,Sochi (AER),Pobeda B738 (VQ-BHV),Landed 10:51,2021-06-15
+77,77,11:10,SU12,Moscow (SVO),Aeroflot (PBC CSKA Moscow Livery) A320 (VQ-BEJ),Landed 10:39,2021-06-15
+78,78,11:30,S71027,Moscow (DME),S7 Airlines A320 (VQ-BET),Landed 11:16,2021-06-15
+79,79,11:30 BJ814,,Monastir (MIR),Nouvelair Tunisie 320,Unknown,2021-06-15
+80,80,11:35 A4303,,Krasnodar (KRR),Azimuth SU9,Landed 11:13,2021-06-15
+81,81,11:40 DP308,,Anapa (AAQ),Pobeda B738 (VQ-BTE),Landed 11:34,2021-06-15
+82,82,11:40 SU6306,,Arkhangelsk (ARH),Rossiya A319 (VP-BIU),Landed 11:25,2021-06-15
+83,83,11:40 U679,,Moscow (DME),Ural Airlines A320 (VP-BBQ),Landed 11:42,2021-06-15
+84,84,11:55,UT369,Moscow (VKO),UTair B738 (VQ-BJH),Landed 11:48,2021-06-15
+85,85,12:00 SU6018,,Moscow (VKO),Rossiya A320 (VP-BZQ),Landed 11:53,2021-06-15
+86,86,12:05 N4400,,Cairo (CAI),Nordwind Airlines B772 (VP-BJH),Landed 12:13,2021-06-15
+87,87,12:05,SU14,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 11:44,2021-06-15
+88,88,12:10,EO317,Nizhny Novgorod (GOJ),Pegas Fly E190 (VP-BZI),Landed 11:51,2021-06-15
+89,89,12:10 N4140,,Sochi (AER),Nordwind Airlines B738 (VP-BSA),Landed 12:18,2021-06-15
+90,90,12:10,SU6324,Kaliningrad (KGD),Rossiya A320 (VP-BWH),Landed 12:23,2021-06-15
+91,91,12:15 S75003,,Novosibirsk (OVB),S7 Airlines B738 (VP-BLE),Landed 11:58,2021-06-15
+92,92,12:25 N4300,,Vladivostok (VVO),Nordwind Airlines A332 (VP-BUA),Landed 13:21,2021-06-15
+93,93,12:25 U68532,,Dushanbe (DYU),Ural Airlines A321 (VQ-BKG),Diverted to DME,2021-06-15
+94,94,12:30 A4203,,Rostov-on-Don (ROV),Azimuth SU95 (RA-89095),Landed 12:16,2021-06-15
+95,95,12:35 DP6821,,Moscow (SVO),Pobeda B738 (VQ-BHR),Landed 12:21,2021-06-15
+96,96,12:50 U6548,,Sochi (AER),Ural Airlines A321 (VP-BVA),Landed 17:06,2021-06-15
+97,97,12:55 SU6028,,Moscow (VKO),Rossiya A319 (VP-BIT),Landed 12:45,2021-06-15
+98,98,13:00 LO683,,Warsaw (WAW),LOT B738 (SP-LWC),Landed 12:41,2021-06-15
+99,99,13:00 R3487,,Barnaul (BAX),Yakutia Airlines B737 (VQ-BGH),Landed 15:18,2021-06-15
+100,100,13:00,SU16,Moscow (SVO),Aeroflot A320 (VP-BTI),Landed 12:36,2021-06-15
+101,101,13:05 5N145,,Arkhangelsk (ARH),Smartavia B737 (VP-BYY),Landed 13:00,2021-06-15
+102,102,13:15 DP536,,Kaliningrad (KGD),Pobeda B738 (VP-BQQ),Landed 13:14,2021-06-15
+103,103,13:15,SU6342,Murmansk (MMK),Rossiya A319 (VQ-BAU),Landed 13:32,2021-06-15
+104,104,13:20,SU42,Moscow (SVO),Aeroflot A320 (VQ-BIW),Landed 12:52,2021-06-15
+105,105,13:25 AY707,,Helsinki (HEL),Finnair A319 (OH-LVL),Landed 13:28,2021-06-15
+106,106,13:25 DP528,,Naberezhnye Chelny (NBC),Pobeda (Thanks Doctors Livery) B738 (VQ-BWG),Landed 13:04,2021-06-15
+107,107,13:35 DP538,,Stavropol (STW),Pobeda B738 (VP-BPV),Landed 13:11,2021-06-15
+108,108,13:55 DP211,,Moscow (VKO),Pobeda B738 (VQ-BTJ),Landed 15:02,2021-06-15
+109,109,13:55,SU18,Moscow (SVO),Aeroflot A320 (VP-BFE),Landed 13:24,2021-06-15
+110,110,14:00 DP505,,Makhachkala (MCX),Pobeda B738 (VP-BPS),Landed 13:54,2021-06-15
+111,111,14:05 DP213,,Moscow (VKO),Pobeda B738 (VQ-BTC),Landed 13:39,2021-06-15
+112,112,14:05 7R108,,Ivanovo (IWA),Rusline CRJ1 (VQ-BND),Landed 13:45,2021-06-15
+113,113,14:20 7R104,,Ivanovo (IWA),Rusline CR2,Unknown,2021-06-15
+114,114,14:20 5N508,,Murmansk (MMK),SmartAvia A20N (VP-BOS),Landed 14:20,2021-06-15
+115,115,14:30,S71011,Moscow (DME),S7 Airlines A320 (VP-BCS),Landed 14:09,2021-06-15
+116,116,14:35 DP540,,Mineralnye Vody (MRV),Pobeda B738 (VP-BPT),Landed 14:24,2021-06-15
+117,117,14:40 U68716,,Ganja (KVD),Ural Airlines A321 (VP-BVR),Landed 15:45,2021-06-15
+118,118,14:40 5N504,,Syktyvkar (SCW),Smartavia B737 (VQ-BBI),Landed 14:29,2021-06-15
+119,119,14:40 5N598,,Kazan (KZN),Smartavia B738 (VP-BAB),Landed 14:32,2021-06-15
+120,120,14:40 RL2902,,Fergana (FEG),Royal Flight B752 (VQ-BTR),Landed 16:12,2021-06-15
+121,121,14:45 SU6372,,Rostov-on-Don (ROV),Rossiya A319 (VQ-BAQ),Landed 14:26,2021-06-15
+122,122,14:45 SU6002,,Irkutsk (IKT),Rossiya B738 (VQ-BVU),Landed 14:44,2021-06-15
+123,123,14:50 SU6892,,Simferopol (SIP),Rossiya A319 (VQ-BAV),Landed 14:54,2021-06-15
+124,124,14:55 SU6326,,Kaliningrad (KGD),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 15:00,2021-06-15
+125,125,15:00,WZ792,Anapa (AAQ),Red Wings A321 (VP-BRB),Landed 14:57,2021-06-15
+126,126,15:05,SU20,Moscow (SVO),Aeroflot A320 (VQ-BEH),Landed 14:36,2021-06-15
+127,127,15:15 SU6106,,Nizhny Novgorod (GOJ),Rossiya SU95 (RA-89128),Landed 14:48,2021-06-15
+128,128,15:25 SU6216,,Gelendzhik (GDZ),Rossiya A319 (VQ-BCO),Landed 15:07,2021-06-15
+129,129,15:30 SU6014,,Moscow (VKO),Rossiya A319 (VQ-BAT),Landed 15:16,2021-06-15
+130,130,15:30 SU6356,,Mineralnye Vody (MRV),Rossiya A320 (VP-BZR),Landed 15:21,2021-06-15
+131,131,15:30 YM540,,Tivat (TIV),Montenegro Airlines E95,Unknown,2021-06-15
+132,132,15:35 U68532,,Moscow (DME),Ural Airlines A321 (VQ-BKG),Landed 15:47,2021-06-15
+133,133,15:40 WZ794,,Yekaterinburg (SVX),Red Wings A320 (VP-BWX),Landed 15:31,2021-06-15
+134,134,15:45 SU6202,,Anapa (AAQ),Rossiya A319 (VP-BBT),Landed 15:57,2021-06-15
+135,135,15:45 SU6316,,Krasnodar (KRR),Rossiya A319 (VP-BIV),Landed 15:39,2021-06-15
+136,136,15:45 S75005,,Novosibirsk (OVB),S7 Airlines A20N (VQ-BSC),Landed 15:24,2021-06-15
+137,137,15:45 5N532,,Samara (KUF),SmartAvia A20N (VP-BOF),Landed 15:43,2021-06-15
+138,138,15:50 U6366,,Yekaterinburg (SVX),Ural Airlines 320,Unknown,2021-06-15
+139,139,15:50 U6623,,Yekaterinburg (SVX),Ural Airlines A320 (VQ-BGJ),Landed 18:24,2021-06-15
+140,140,15:55 WZ7065,,Simferopol (SIP),Red Wings A321 (VP-BVQ),Landed 15:33,2021-06-15
+141,141,16:00 SU6564,,Sochi (AER),Rossiya A319 (VP-BNJ),Landed 15:28,2021-06-15
+142,142,16:05 DP314,,Sochi (AER),Pobeda B738 (VP-BQY),Landed 15:55,2021-06-15
+143,143,16:10 N4130,,Simferopol (SIP),Nordwind Airlines B738 (VP-BSK),Landed 16:15,2021-06-15
+144,144,16:20,S71013,Moscow (DME),S7 Airlines A320 (VP-BOM),Landed 16:06,2021-06-15
+145,145,16:20 5N546,,Sochi (AER),Smartavia A20N (VP-BOZ),Landed 16:01,2021-06-15
+146,146,16:30 U6392,,Kaliningrad (KGD),Ural Airlines A320 (VP-BBQ),Landed 16:35,2021-06-15
+147,147,16:45 DP588,,Kaliningrad (KGD),Pobeda B738 (VQ-BHR),Landed 16:40,2021-06-15
+148,148,16:45 SU22,,Moscow (SVO),Aeroflot (PBC CSKA Moscow Livery) A320 (VQ-BEJ),Landed 16:28,2021-06-15
+149,149,16:45 SU6110,,Nalchik (NAL),Rossiya SU95 (RA-89131),Landed 16:38,2021-06-15
+150,150,17:05 DP518,,Volgograd (VOG),Pobeda B738 (VQ-BTD),Landed 16:49,2021-06-15
+151,151,17:10 5N586,,Krasnodar (KRR),Smartavia B738 (VP-BCC),Landed 17:12,2021-06-15
+152,152,17:20 DP302,,Gelendzhik (GDZ),Pobeda B738 (VP-BPU),Landed 18:02,2021-06-15
+153,153,17:30 D2324,,Ukhta (UCT),Severstal SU95 (RA-89118),Landed 17:42,2021-06-15
+154,154,17:35 LO685,,Warsaw (WAW),LOT B738 (SP-LWF),Landed 18:09,2021-06-15
+155,155,17:35 LO1685,,Warsaw (WAW),LOT E195 (SP-LNG),Landed 17:55,2021-06-15
+156,156,17:40 DP510,,Krasnodar (KRR),Pobeda B738 (VP-BOD),Landed 17:40,2021-06-15
+157,157,17:40 SU6984,,Simferopol (SIP),Rossiya A319 (VQ-BBA),Landed 17:19,2021-06-15
+158,158,17:40 5N534,,Kaliningrad (KGD),Smartavia B737 (VP-BYY),Landed 17:33,2021-06-15
+159,159,17:45 A4643,,Bryansk (BZK),Azimuth SU95 (RA-89095),Landed 17:29,2021-06-15
+160,160,17:45 U6346,,Anapa (AAQ),Ural Airlines A320 (VQ-BFW),Landed 18:20,2021-06-15
+161,161,17:50 SU38,,Moscow (SVO),Aeroflot B738 (VQ-BVP),Landed 17:47,2021-06-15
+162,162,17:55 DP209,,Moscow (VKO),Pobeda B738 (VQ-BTI),Landed 18:11,2021-06-15
+163,163,17:55 WZ532,,Tivat (TIV),Red Wings 320,Unknown,2021-06-15
+164,164,18:00 ZF7812,,Djerba (DJE),Azur Air B763 (VP-BUX),Landed 17:37,2021-06-15
+165,165,18:05 SU6030,,Moscow (VKO),Rossiya A319 (VP-BWJ),Landed 18:05,2021-06-15
+166,166,18:10 U6658,,Simferopol (SIP),Ural Airlines A320 (VP-BDL),Landed 20:54,2021-06-15
+167,167,18:15 SU6234,,Samara (KUF),Rossiya A319 (VP-BQK),Landed 18:07,2021-06-15
+168,168,18:25 SU6986,,Simferopol (SIP),Rossiya A319 (VP-BBU),Landed 18:00,2021-06-15
+169,169,18:30 DP526,,Cheboksary (CSY),Pobeda B738 (VP-BQQ),Landed 18:15,2021-06-15
+170,170,18:35,SU24,Moscow (SVO),Aeroflot A320 (VQ-BIW),Landed 18:22,2021-06-15
+171,171,18:40,S71015,Moscow (DME),S7 Airlines A20N (VQ-BCR),Landed 18:18,2021-06-15
+172,172,18:45 SU6066,,Makhachkala (MCX),Rossiya A320 (VQ-BFM),Landed 18:28,2021-06-15
+173,173,18:55,EO795,Orsk (OSW),Pegas Fly E190 (VP-BZJ),Landed 18:42,2021-06-15
+174,174,19:00 SU6566,,Sochi (AER),Rossiya A319 (VP-BWG),Landed 18:53,2021-06-15
+175,175,19:05 A4607,,Elista (ESL),Azimuth SU9,Landed 18:55,2021-06-15
+176,176,19:05 SU2833,,Larnaca (LCA),Aeroflot B738 (VP-BON),Landed 18:59,2021-06-15
+177,177,19:10 UT264,,Grozny (GRV),UTair B735 (VP-BFS),Landed 22:57,2021-06-15
+178,178,19:15 7R262,,Lipetsk (LPK),Rusline CRJ1 (VP-BNO),Landed 01:49,2021-06-15
+179,179,19:20 5N147,,Arkhangelsk (ARH),Smartavia B737 (VQ-BBI),Landed 19:05,2021-06-15
+180,180,19:25 SU6012,,Moscow (VKO),Rossiya A320 (VP-BWH),Landed 19:21,2021-06-15
+181,181,19:30 UT381,,Moscow (VKO),UTair B734 (VQ-BIG),Landed 19:11,2021-06-15
+182,182,19:35 DP576,,Voronezh (VOZ),Pobeda B738 (VP-BPT),Landed 21:03,2021-06-15
+183,183,19:50 SU6006,,Krasnodar (KRR),Rossiya B738 (VQ-BVV),Landed 19:45,2021-06-15
+184,184,19:50 U659,,Moscow (DME),Ural Airlines A321 (VP-BVR),Landed 22:05,2021-06-15
+185,185,19:55 N4147,,Moscow (SVO),Nordwind Airlines B738 (VP-BSC),Landed 19:34,2021-06-15
+186,186,20:05,S71017,Moscow (DME),S7 Airlines B738 (VQ-BRR),Landed 20:07,2021-06-15
+187,187,20:15,SU26,Moscow (SVO),Aeroflot A321 (VP-BKI),Landed 19:51,2021-06-15
+188,188,20:20 UT469,,Surgut (SGC),UTair B735 (VQ-BJN),Landed 20:04,2021-06-15
+189,189,20:25 SU6988,,Simferopol (SIP),Rossiya A319 (VP-BIU),Landed 20:16,2021-06-15
+190,190,20:30 SU6004,,Anapa (AAQ),Rossiya B738 (VP-BUS),Landed 20:36,2021-06-15
+191,191,20:30,SU6330,Kaliningrad (KGD),Rossiya A320 (VP-BZR),Landed 20:38,2021-06-15
+192,192,20:50 DP217,,Moscow (VKO),Pobeda B738 (VP-BQB),Landed 21:28,2021-06-15
+193,193,20:50,WZ782,Simferopol (SIP),Red Wings A320 (VP-BWW),Landed 20:58,2021-06-15
+194,194,21:00 S76486,,Urgench (UGC),S7 Airlines B738 (VP-BQF),Landed 20:32,2021-06-15
+195,195,21:10 7R294,,Kaluga (KLF),Rusline CRJ1 (VP-BNO),Landed 20:44,2021-06-15
+196,196,21:15 5N536,,Rostov-on-Don (ROV),Smartavia B738 (VP-BAB),Landed 21:05,2021-06-15
+197,197,21:20,SU28,Moscow (SVO),Aeroflot A321 (VP-BAV),Landed 20:50,2021-06-15
+198,198,21:20 SU6598,,Kazan (KZN),Rossiya (Sports Livery) A319 (VQ-BCP),Landed 21:08,2021-06-15
+199,199,21:25 D221,,Cherepovets (CEE),Severstal CRJ2 (RA-67230),Landed 21:23,2021-06-15
+200,200,21:35 SU6036,,Moscow (VKO),Rossiya A319 (VP-BIV),Landed 21:54,2021-06-15
+201,201,21:35,S71019,Moscow (DME),S7 Airlines A319 (VP-BHP),Landed 21:18,2021-06-15
+202,202,21:40 DP508,,Beslan (OGZ),Pobeda B738 (VQ-BTJ),Landed 22:28,2021-06-15
+203,203,21:50 DP215,,Moscow (VKO),Pobeda B738 (VP-BPV),Landed 21:48,2021-06-15
+204,204,21:55 SU6104,,Rostov-on-Don (ROV),Rossiya B738 (VQ-BVU),Landed 22:07,2021-06-15
+205,205,22:00,SU30,Moscow (SVO),Aeroflot B738 (VP-BKA),Landed 21:43,2021-06-15
+206,206,22:00 S75007,,Novosibirsk (OVB),S7 Airlines A20N (VP-BWM),Landed 21:46,2021-06-15
+207,207,22:10 N41900,,Tel Aviv (TLV),Nordwind Airlines 73H,Unknown,2021-06-15
+208,208,22:10 5N596,,Gelendzhik (GDZ),SmartAvia A20N (VP-BOS),Landed 21:52,2021-06-15
+209,209,22:20,SU6346,Murmansk (MMK),Rossiya A319 (VP-BNJ),Landed 22:10,2021-06-15
+210,210,22:30,SU32,Moscow (SVO),Aeroflot A320 (VP-BIX),Landed 22:14,2021-06-15
+211,211,22:35 U638,,Kaliningrad (KGD),Ural Airlines A320 (VQ-BGJ),Landed 23:42,2021-06-15
+212,212,22:40 SU6204,,Anapa (AAQ),Rossiya A319 (VQ-BAV),Landed 22:38,2021-06-15
+213,213,22:45 D256,,Apatity (KVK),Severstal SU95 (RA-89118),Landed 22:35,2021-06-15
+214,214,22:50 SU6562,,Sochi (AER),Rossiya A319 (VP-BIT),Landed 22:31,2021-06-15
+215,215,22:55,SU6308,Arkhangelsk (ARH),Rossiya SU95 (RA-89131),Landed 22:53,2021-06-15
+216,216,23:00 SU44,,Moscow (SVO),Aeroflot A320 (VQ-BEH),Landed 22:45,2021-06-15
+217,217,23:00 SU6404,,Yekaterinburg (SVX),Rossiya A319 (VQ-BAT),Landed 23:17,2021-06-15
+218,218,23:10 DP548,,Kazan (KZN),Pobeda B738 (VP-BPU),Landed 00:02,2021-06-15
+219,219,23:10 SU6414,,Ufa (UFA),Rossiya A319 (VQ-BCO),Landed 22:42,2021-06-15
+220,220,23:10 SU6896,,Simferopol (SIP),Rossiya A319 (VQ-BAU),Landed 23:04,2021-06-15
+221,221,23:15 DP530,,Kaliningrad (KGD),Pobeda B738 (VP-BOD),Landed 23:09,2021-06-15
+222,222,23:15 SU6024,,Moscow (VKO),Rossiya A319 (VP-BWJ),Landed 23:01,2021-06-15
+223,223,23:20 5N542,,Mineralnye Vody (MRV),SmartAvia A20N (VP-BOF),Landed 23:12,2021-06-15
+224,224,23:25 DP578,,Saratov (GSV),Pobeda B738 (VP-BQQ),Landed 23:59,2021-06-15
+225,225,23:40 DP207,,Moscow (VKO),Pobeda B738 (VP-BPS),Unknown,2021-06-15
+226,226,23:45 5N582,,Samara (KUF),Smartavia B737 (VP-BYY),Landed 23:24,2021-06-15
+227,227,23:50 SU6016,,Moscow (VKO),Rossiya A319 (VP-BBU),Unknown,2021-06-15

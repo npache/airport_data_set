@@ -9698,3 +9698,551 @@
 72,72,23:50 FR7120,,Tenerife (TFS),Ryanair B738 (EI-EVK),Landed 23:36,2021-06-07
 73,73,23:55 FR5323,,Szczecin (SZZ),Ryanair B738 (EI-DHT),Landed 23:48,2021-06-07
 74,74,23:55 FR9998,,Palma de Mallorca (PMI),Ryanair B738 (EI-DHP),Landed 23:45,2021-06-07
+0,0,04:16,,Boston (BOS),- A21N (EI-LRC),Landed 03:59,2021-06-08
+1,1,04:45,EI132,Boston (BOS),Aer Lingus A21N (EI-LRC),Unknown,2021-06-08
+2,2,04:50,EI104,New York (JFK),Aer Lingus A333 (EI-GAJ),Landed 04:16,2021-06-08
+3,3,05:00 ET574,,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AUP),Landed 04:40,2021-06-08
+4,4,05:00,ET500,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AXL),Landed 04:50,2021-06-08
+5,5,05:00 3V4109,,Liege (LGG),Bluebird Nordic B734 (TF-BBO),Landed 04:47,2021-06-08
+6,6,05:10 ET552,,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANN),Landed 04:53,2021-06-08
+7,7,05:55,EI122,Chicago (ORD),Aer Lingus A333 (EI-EIN),Landed 05:50,2021-06-08
+8,8,07:05,UA23,New York (EWR),United Airlines B78X (N12010),Landed 06:58,2021-06-08
+9,9,07:50 FR6015,,Sofia (SOF),Ryanair B738 (SP-RSU),Landed 07:26,2021-06-08
+10,10,08:15 FR8012,,Warsaw (WMI),Ryanair B738 (SP-RSF),Landed 07:52,2021-06-08
+11,11,08:20,KL933,Amsterdam (AMS),KLM E90,Unknown,2021-06-08
+12,12,08:35,EI3201,Kerry (KIR),Aer Lingus Regional AT76 (EI-FCY),Landed 08:25,2021-06-08
+13,13,08:50,EI3401,Donegal (CFN),Aer Lingus Regional AT46 (EI-GEV),Landed 08:32,2021-06-08
+14,14,08:55,AA722,Philadelphia (PHL),American Airlines B788 (N814AA),Landed 08:22,2021-06-08
+15,15,09:55 FR115,,London (LGW),Ryanair B738 (EI-EBY),Landed 09:47,2021-06-08
+16,16,10:00 0B3755,,Cluj-Napoca (CLJ),Blue Air B738 (YR-BML),Landed 09:28,2021-06-08
+17,17,10:25,KL945,Amsterdam (AMS),KLM B737 (PH-BGR),Landed 10:19,2021-06-08
+18,18,10:55,LH978,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNF),Landed 10:55,2021-06-08
+19,19,11:10,EI603,Amsterdam (AMS),Aer Lingus A320 (EI-CVB),Landed 10:45,2021-06-08
+20,20,11:20,EI155,London (LHR),Aer Lingus A320 (EI-DEL),Landed 10:42,2021-06-08
+21,21,11:20,EI521,Paris (CDG),Aer Lingus A320 (EI-DER),Landed 11:00,2021-06-08
+22,22,12:50 FR5061,,Cagliari (CAG),Ryanair B738 (EI-DWI),Landed 12:54,2021-06-08
+23,23,13:05 FR7045,,Malaga (AGP),Ryanair B738 (EI-DPJ),Landed 12:56,2021-06-08
+24,24,14:55 FR225,,London (STN),Ryanair B738 (EI-DHE),Landed 14:29,2021-06-08
+25,25,14:55 FR7357,,Basel (BSL),Ryanair B738 (EI-EBY),Landed 14:49,2021-06-08
+26,26,15:10,EI3205,Kerry (KIR),Aer Lingus Regional AT76 (EI-FAT),Landed 14:44,2021-06-08
+27,27,15:15 QR8891,,London (LHR),Qatar Airways B77W (A7-BEL),Landed 14:32,2021-06-08
+28,28,15:20 FR7125,,Lanzarote (ACE),Ryanair B738 (EI-GSI),Landed 14:55,2021-06-08
+29,29,15:30 FR5347,,Katowice (KTW),Ryanair B738 (SP-RKP),Landed 15:11,2021-06-08
+30,30,15:35,EI3403,Donegal (CFN),Aer Lingus Regional AT46 (EI-GEV),Landed 15:32,2021-06-08
+31,31,15:50 FR6090,,Bodrum (BJV),Ryanair B738 (EI-ENG),Landed 15:29,2021-06-08
+32,32,16:10 FR9176,,Ibiza (IBZ),Ryanair B738 (EI-DLG),Landed 15:55,2021-06-08
+33,33,16:15 FR673,,Birmingham (BHX),Ryanair B738 (EI-DHO),Landed 16:10,2021-06-08
+34,34,16:25 FR7147,,Seville (SVQ),Ryanair B738 (EI-EKJ),Landed 16:15,2021-06-08
+35,35,18:15,EI169,London (LHR),Aer Lingus A320 (EI-GAL),Landed 17:41,2021-06-08
+36,36,18:25 FR6841,,Naples (NAP),Ryanair B738 (9H-QAZ),Landed 18:29,2021-06-08
+37,37,19:05 FR1455,,Milan (MXP),Ryanair B738 (9H-QDS),Landed 18:48,2021-06-08
+38,38,19:10 FR9371,,Faro (FAO),Ryanair B738 (EI-EVR),Landed 18:54,2021-06-08
+39,39,19:45 FR8559,,Berlin (BER),Ryanair B738 (EI-DPF),Landed 19:16,2021-06-08
+40,40,20:00 BO6809,,Reykjavik (KEF),Bluebird Nordic B734 (TF-BBO),Landed 19:50,2021-06-08
+41,41,21:10 FR1893,,Bydgoszcz (BZG),Ryanair B738 (EI-EGD),Landed 20:57,2021-06-08
+42,42,22:10 5F711,,Chisinau (KIV),Fly One 320,Unknown,2021-06-08
+43,43,22:10 9U831,,Chisinau (KIV),Air Moldova A319 (ER-AXM),Landed 22:07,2021-06-08
+44,44,22:20 FR7157,,Madrid (MAD),Ryanair B738 (EI-EVV),Landed 22:20,2021-06-08
+45,45,22:25,EI179,London (LHR),Aer Lingus A333 (EI-FNH),Landed 21:47,2021-06-08
+46,46,22:25,KL939,Amsterdam (AMS),KLM B737 (PH-BGQ),Landed 22:03,2021-06-08
+47,47,22:25,LH982,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNV),Landed 22:09,2021-06-08
+48,48,22:30,EI587,Malaga (AGP),Aer Lingus A320 (EI-DVN),Landed 22:12,2021-06-08
+49,49,22:30 EI497,,Faro (FAO),Aer Lingus A320 (EI-DEN),Landed 22:30,2021-06-08
+50,50,22:30 FR5611,,Palanga (PLQ),Ryanair B738 (EI-DAS),Landed 22:15,2021-06-08
+51,51,22:40 FR6186,,Palma de Mallorca (PMI),Ryanair B738 (EI-DHW),Landed 22:34,2021-06-08
+52,52,23:30 FR271,,London (STN),Ryanair B738 (EI-DPF),Landed 23:02,2021-06-08
+53,53,23:50 FR7149,,Vilnius (VNO),Ryanair B738 (EI-DWP),Landed 23:48,2021-06-08
+0,0,00:20 FR7137,,Lisbon (LIS),Ryanair B738 (EI-GXG),Landed 00:00,2021-06-09
+1,1,00:50 0B2955,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 00:23,2021-06-09
+2,2,04:04,,Boston (BOS),- A21N (EI-LRD),Landed 03:55,2021-06-09
+3,3,04:45,EI132,Boston (BOS),Aer Lingus A21N (EI-LRD),Unknown,2021-06-09
+4,4,04:50,EI104,New York (JFK),Aer Lingus A333 (EI-FNG),Landed 04:41,2021-06-09
+5,5,05:00,ET500,Addis Ababa (ADD),Ethiopian Airlines B77W (ET-APY),Landed 04:33,2021-06-09
+6,6,05:00 ET574,,Addis Ababa (ADD),Ethiopian Airlines B788 (ET-AOV),Landed 04:28,2021-06-09
+7,7,05:00 3V4109,,Liege (LGG),Bluebird Nordic B734 (TF-BBO),Landed 04:48,2021-06-09
+8,8,05:55,EI122,Chicago (ORD),Aer Lingus A333 (EI-GCF),Landed 05:47,2021-06-09
+9,9,07:45 VJT801,,Boston (BOS),VistaJet Malta GLEX (9H-VJQ),Landed 07:09,2021-06-09
+10,10,08:20,KL933,Amsterdam (AMS),KLM E90,Unknown,2021-06-09
+11,11,08:35 BT661,,Riga (RIX),Air Baltic BCS3 (YL-AAO),Landed 08:12,2021-06-09
+12,12,08:35,EI3201,Kerry (KIR),Aer Lingus Regional AT76 (EI-FAT),Landed 08:15,2021-06-09
+13,13,08:50,EI3401,Donegal (CFN),Aer Lingus Regional AT46 (EI-GEV),Landed 08:41,2021-06-09
+14,14,08:55,AA722,Philadelphia (PHL),American Airlines B788 (N803AL),Unknown,2021-06-09
+15,15,09:00 FR553,,Manchester (MAN),Ryanair B738 (EI-EFH),Landed 08:45,2021-06-09
+16,16,09:05 FR7045,,Malaga (AGP),Ryanair B738 (EI-GXM),Landed 08:48,2021-06-09
+17,17,09:10 FR663,,Birmingham (BHX),Ryanair B738 (EI-DWP),Landed 08:52,2021-06-09
+18,18,09:30 AY1381,,Helsinki (HEL),Finnair E190 (OH-LKL),Landed 09:00,2021-06-09
+19,19,09:55,TP1322,Lisbon (LIS),TAP Express E190 (CS-TPS),Landed 09:37,2021-06-09
+20,20,10:15,EI203,Manchester (MAN),Aer Lingus A320 (EI-DEN),Landed 09:49,2021-06-09
+21,21,10:25,KL945,Amsterdam (AMS),KLM B738 (PH-BXB),Landed 10:01,2021-06-09
+22,22,11:20,EI155,London (LHR),Aer Lingus A21N (EI-LRC),Landed 10:52,2021-06-09
+23,23,11:20,EI521,Paris (CDG),Aer Lingus A320 (EI-DER),Landed 11:28,2021-06-09
+24,24,11:30 FR381,,Frankfurt (FRA),Ryanair B738 (EI-EGD),Landed 11:14,2021-06-09
+25,25,11:30 FR2371,,London (STN),Ryanair B738 (EI-EBW),Landed 11:09,2021-06-09
+26,26,12:05 FR9429,,Milan (BGY),Ryanair B738 (EI-DAS),Landed 11:59,2021-06-09
+27,27,12:10,EK161,Dubai (DXB),Emirates B77W (A6-ENP),Landed 11:52,2021-06-09
+28,28,12:30 FR7257,,Madrid (MAD),Ryanair B738 (EI-DLW),Landed 12:16,2021-06-09
+29,29,13:15,AF1816,Paris (CDG),Air France A318 (F-GUGR),Landed 13:12,2021-06-09
+30,30,13:25 FR9431,,Rome (CIA),Ryanair B738 (EI-ENP),Landed 13:18,2021-06-09
+31,31,13:35 FR1979,,Lodz (LCJ),Ryanair B738 (EI-DAM),Landed 13:21,2021-06-09
+32,32,13:55 FR7135,,Palermo (PMO),Ryanair B738 (EI-GXG),Landed 13:42,2021-06-09
+33,33,15:05 FR1927,,Wroclaw (WRO),Ryanair B738 (EI-DWP),Landed 15:10,2021-06-09
+34,34,15:10,EI3205,Kerry (KIR),Aer Lingus Regional AT76 (EI-FAT),Landed 14:43,2021-06-09
+35,35,15:15 FR817,,Edinburgh (EDI),Ryanair B738 (EI-DAS),Landed 15:02,2021-06-09
+36,36,15:35,EI3403,Donegal (CFN),Aer Lingus Regional AT46 (EI-GEV),Landed 15:18,2021-06-09
+37,37,15:40 FR7347,,Bucharest (OTP),Ryanair B738 (EI-ENL),Landed 15:43,2021-06-09
+38,38,16:00 FR1797,,Tallinn (TLL),Ryanair B738 (EI-EFH),Landed 15:53,2021-06-09
+39,39,16:00 FR1902,,Krakow (KRK),Ryanair B738 (SP-RKO),Landed 15:45,2021-06-09
+40,40,16:15 FR4519,,Athens (ATH),Ryanair B738 (EI-EKJ),Diverted to STN,2021-06-09
+41,41,16:15 FR4519,,London (STN),Ryanair 73H,Unknown,2021-06-09
+42,42,16:25 FR1975,,Poznan (POZ),Ryanair B738 (EI-DLG),Landed 16:19,2021-06-09
+43,43,16:50 FR2972,,Kaunas (KUN),Ryanair B738 (SP-RSG),Landed 16:34,2021-06-09
+44,44,16:55,LH980,Frankfurt (FRA),Lufthansa A319 (D-AILC),Landed 16:39,2021-06-09
+45,45,18:05,IB3790,Madrid (MAD),Iberia Express A320 (EC-LVQ),Landed 18:03,2021-06-09
+46,46,18:15,EI169,London (LHR),Aer Lingus A21N (EI-LRB),Landed 17:56,2021-06-09
+47,47,18:20 0B155,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-09
+48,48,19:30 FR7063,,Alicante (ALC),Ryanair B738 (EI-DHW),Landed 19:11,2021-06-09
+49,49,20:00 BO6809,,Reykjavik (KEF),Bluebird Nordic B734 (TF-BBO),Landed 19:47,2021-06-09
+50,50,20:10 FR9506,,Lublin (LUZ),Ryanair B738 (EI-DLF),Landed 20:31,2021-06-09
+51,51,20:30 FR1909,,Gdansk (GDN),Ryanair B738 (SP-RKM),Landed 20:10,2021-06-09
+52,52,21:05 FR1341,,Split (SPU),Ryanair B738 (EI-GSG),Landed 21:00,2021-06-09
+53,53,21:55,EI179,London (LHR),Aer Lingus A333 (EI-DUZ),Landed 21:24,2021-06-09
+54,54,22:25,KL939,Amsterdam (AMS),KLM B737 (PH-BGL),Landed 21:59,2021-06-09
+55,55,22:25,LH982,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNE),Landed 22:05,2021-06-09
+56,56,22:40 FR7313,,Zadar (ZAD),Ryanair B738 (EI-DHP),Landed 22:01,2021-06-09
+57,57,23:10 FR119,,London (LGW),Ryanair B738 (EI-DHW),Landed 22:54,2021-06-09
+58,58,23:35 FR271,,London (STN),Ryanair B738 (EI-DAS),Landed 23:15,2021-06-09
+0,0,00:15 FR7355,,Chania (CHQ),Ryanair B738 (EI-EVA),Landed 23:57,2021-06-10
+1,1,04:03,,Boston (BOS),- A21N (EI-LRE),Landed 04:06,2021-06-10
+2,2,04:45,EI132,Boston (BOS),Aer Lingus A21N (EI-LRE),Unknown,2021-06-10
+3,3,04:50,EI104,New York (JFK),Aer Lingus A333 (EI-EDY),Landed 04:03,2021-06-10
+4,4,05:00,ET500,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANO),Landed 04:50,2021-06-10
+5,5,05:00 ET574,,Addis Ababa (ADD),Ethiopian Airlines B788 (ET-AOT),Landed 04:35,2021-06-10
+6,6,05:00 3V4109,,Liege (LGG),Bluebird Nordic B734 (TF-BBO),Landed 04:41,2021-06-10
+7,7,05:10 ET552,,Addis Ababa (ADD),Ethiopian Airlines A359 (ET-AWM),Landed 04:41,2021-06-10
+8,8,05:55,EI122,Chicago (ORD),Aer Lingus A333 (EI-EAV),Landed 05:43,2021-06-10
+9,9,07:05,UA23,New York (EWR),United Airlines B789 (N25982),Landed 07:45,2021-06-10
+10,10,07:10,QR19,Doha (DOH),Qatar Airways B788 (A7-BCG),Landed 06:25,2021-06-10
+11,11,08:20,KL933,Amsterdam (AMS),KLM E90,Unknown,2021-06-10
+12,12,08:35,EI3201,Kerry (KIR),Aer Lingus Regional AT76 (EI-FAT),Landed 08:16,2021-06-10
+13,13,08:50,EI3401,Donegal (CFN),Aer Lingus Regional AT46 (EI-GEV),Landed 08:37,2021-06-10
+14,14,08:55,AA722,Philadelphia (PHL),American Airlines B788 (N807AA),Landed 08:22,2021-06-10
+15,15,09:10 FR505,,Bristol (BRS),Ryanair B738 (EI-DAN),Landed 08:49,2021-06-10
+16,16,09:25 FR6015,,Sofia (SOF),Ryanair B738 (SP-RKN),Landed 09:10,2021-06-10
+17,17,09:30,EI3251,Edinburgh (EDI),Aer Lingus Regional AT76 (EI-FAV),Landed 09:41,2021-06-10
+18,18,09:30 OU512,,Zagreb (ZAG),Croatia Airlines A319 (9A-CTH),Landed 09:18,2021-06-10
+19,19,10:00 0B3755,,Cluj-Napoca (CLJ),Blue Air B738 (YR-BML),Landed 09:32,2021-06-10
+20,20,10:10,VY8720,Barcelona (BCN),Vueling A320 (EC-LVV),Landed 09:39,2021-06-10
+21,21,10:15,EI203,Manchester (MAN),Aer Lingus A320 (EI-CVB),Landed 09:51,2021-06-10
+22,22,10:25,KL945,Amsterdam (AMS),KLM B738 (PH-BCE),Landed 10:05,2021-06-10
+23,23,10:45 LH2516,,Munich (MUC),Lufthansa CRJ9 (D-ACKI),Landed 10:33,2021-06-10
+24,24,10:55,LH978,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNE),Landed 11:01,2021-06-10
+25,25,11:10,EI603,Amsterdam (AMS),Aer Lingus A320 (EI-DVI),Landed 10:56,2021-06-10
+26,26,11:20,EI521,Paris (CDG),Aer Lingus A320 (EI-DEL),Landed 11:27,2021-06-10
+27,27,11:20,EI155,London (LHR),Aer Lingus A21N (EI-LRD),Landed 10:49,2021-06-10
+28,28,11:50,EY45,Abu Dhabi (AUH),Etihad (ADNOC - Choose Italy Livery) B789 (A6-BLH),Landed 11:24,2021-06-10
+29,29,11:55,EI3223,Glasgow (GLA),Aer Lingus Regional AT76 (EI-FAT),Landed 11:41,2021-06-10
+30,30,11:55 FR6874,,Barcelona (BCN),Ryanair B738 (EI-GSI),Landed 11:35,2021-06-10
+31,31,12:10 FR7257,,Madrid (MAD),Ryanair B738 (EI-DYF),Landed 11:57,2021-06-10
+32,32,12:25 SK535,,Stockholm (ARN),SAS A20N (SE-ROA),Landed 12:14,2021-06-10
+33,33,12:30 FR8557,,Berlin (BER),Ryanair B738 (EI-DYP),Landed 12:01,2021-06-10
+34,34,13:00,EI3323,Manchester (MAN),Aer Lingus Regional AT76 (EI-FAV),Landed 12:51,2021-06-10
+35,35,13:15,AF1816,Paris (CDG),Air France E170 (F-HBXJ),Landed 13:04,2021-06-10
+36,36,13:25 FR2371,,London (STN),Ryanair B738 (EI-EFD),Landed 13:07,2021-06-10
+37,37,14:05 LX406,,Zurich (ZRH),Swiss BCS1 (HB-JBF),Landed 14:00,2021-06-10
+38,38,14:40,BA836,London (LHR),British Airways A319 (G-EUPD),Landed 14:20,2021-06-10
+39,39,15:10 TK1977,,Istanbul (IST),Turkish Airlines B77W (TC-JJL),Landed 14:23,2021-06-10
+40,40,15:10,EI3205,Kerry (KIR),Aer Lingus Regional AT76 (EI-FAT),Landed 14:40,2021-06-10
+41,41,15:35,EI3403,Donegal (CFN),Aer Lingus Regional AT46 (EI-GEV),Landed 15:18,2021-06-10
+42,42,16:10 FR117,,London (LGW),Ryanair B738 (EI-DYP),Landed 15:47,2021-06-10
+43,43,16:45 FR7045,,Malaga (AGP),Ryanair B738 (EI-DAN),Landed 16:29,2021-06-10
+44,44,17:50 FR6841,,Naples (NAP),Ryanair B738 (9H-QBK),Landed 17:31,2021-06-10
+45,45,18:15,EI169,London (LHR),Aer Lingus A21N (EI-LRA),Landed 17:43,2021-06-10
+46,46,18:45,TP1324,Lisbon (LIS),TAP Air Portugal A319 (CS-TTS),Landed 18:26,2021-06-10
+47,47,19:20 FR8012,,Warsaw (WMI),Ryanair B738 (SP-RKR),Landed 18:53,2021-06-10
+48,48,19:35 FR9371,,Faro (FAO),Ryanair B738 (EI-EVR),Landed 19:19,2021-06-10
+49,49,20:00 BO6809,,Reykjavik (KEF),Bluebird Nordic B734 (TF-BBO),Landed 20:09,2021-06-10
+50,50,20:05 FR3007,,Amsterdam (AMS),Ryanair B738 (EI-EVV),Landed 19:49,2021-06-10
+51,51,22:25,EI179,London (LHR),Aer Lingus A333 (EI-EIM),Landed 21:50,2021-06-10
+52,52,22:25,KL939,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 21:53,2021-06-10
+53,53,22:30,EI587,Malaga (AGP),Aer Lingus A320 (EI-DVN),Landed 22:00,2021-06-10
+54,54,22:30 EI499,,Faro (FAO),Aer Lingus A320 (EI-DEH),Landed 21:55,2021-06-10
+55,55,23:25 FR9230,,Kyiv (KBP),Ryanair B738 (EI-EVK),Landed 23:18,2021-06-10
+56,56,23:30 FR271,,London (STN),Ryanair B738 (EI-EVS),Landed 23:04,2021-06-10
+57,57,23:50 FR7137,,Lisbon (LIS),Ryanair B738 (EI-GSK),Landed 23:42,2021-06-10
+0,0,12:15 AM FR7149,,Vilnius (VNO),Ryanair B738 (EI-ENA),Landed 12:22 AM,2021-06-11
+1,1,12:40 AM FR863,,Rzeszow (RZE),Ryanair B738 (EI-DWP),Landed 12:45 AM,2021-06-11
+2,2,12:50 AM 0B2955,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 12:25 AM,2021-06-11
+3,3,3:48 AM,,Boston (BOS),- A21N (EI-LRB),Landed 3:46 AM,2021-06-11
+4,4,4:45 AM,EI132,Boston (BOS),Aer Lingus A21N (EI-LRB),Unknown,2021-06-11
+5,5,4:50 AM,EI104,New York (JFK),Aer Lingus A333 (EI-FNH),Landed 3:59 AM,2021-06-11
+6,6,5:00 AM,ET500,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANN),Landed 4:34 AM,2021-06-11
+7,7,5:00 AM ET574,,Addis Ababa (ADD),Ethiopian Airlines B788 (ET-AOV),Landed 5:06 AM,2021-06-11
+8,8,5:00 AM 3V4109,,Liege (LGG),Bluebird Nordic B734 (TF-BBO),Landed 4:42 AM,2021-06-11
+9,9,5:55 AM,EI122,Chicago (ORD),Aer Lingus A333 (EI-GCF),Landed 5:41 AM,2021-06-11
+10,10,8:20 AM,KL933,Amsterdam (AMS),KLM E90,Unknown,2021-06-11
+11,11,8:35 AM BT661,,Riga (RIX),Air Baltic (Latvia's 100th anniversary Livery) BCS3 (YL-CSL),Landed 8:14 AM,2021-06-11
+12,12,8:35 AM,EI3201,Kerry (KIR),Aer Lingus Regional AT76 (EI-FAT),Landed 8:07 AM,2021-06-11
+13,13,8:50 AM,EI3401,Donegal (CFN),Aer Lingus Regional AT46 (EI-GEV),Landed 8:29 AM,2021-06-11
+14,14,8:55 AM,AA722,Philadelphia (PHL),American Airlines B788 (N803AL),Landed 8:35 AM,2021-06-11
+15,15,9:00 AM FR553,,Manchester (MAN),Ryanair B738 (EI-DLC),Landed 8:47 AM,2021-06-11
+16,16,9:05 AM FR382,,Frankfurt (FRA),Ryanair B738 (9H-QCL),Landed 8:56 AM,2021-06-11
+17,17,9:10 AM FR663,,Birmingham (BHX),Ryanair B738 (EI-ENL),Landed 8:52 AM,2021-06-11
+18,18,9:30 AM,EI3251,Edinburgh (EDI),Aer Lingus Regional AT76 (EI-FAV),Landed 9:19 AM,2021-06-11
+19,19,9:35 AM FR1975,,Poznan (POZ),Ryanair B738 (SP-RSV),Landed 9:23 AM,2021-06-11
+20,20,9:55 AM,TP1322,Lisbon (LIS),TAP Express E190 (CS-TPW),Landed 9:40 AM,2021-06-11
+21,21,10:00 AM,BA828,London (LHR),British Airways A319 (G-DBCH),Landed 9:50 AM,2021-06-11
+22,22,10:15 AM,EI203,Manchester (MAN),Aer Lingus A320 (EI-CVA),Landed 9:53 AM,2021-06-11
+23,23,10:25 AM,KL945,Amsterdam (AMS),KLM B737 (PH-BGK),Landed 10:13 AM,2021-06-11
+24,24,10:45 AM LH2516,,Munich (MUC),Lufthansa A319 (D-AILY),Landed 10:22 AM,2021-06-11
+25,25,10:55 AM,EI263,Birmingham (BHX),Aer Lingus A320 (EI-DEP),Landed 10:35 AM,2021-06-11
+26,26,10:55 AM,LH978,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNF),Landed 10:47 AM,2021-06-11
+27,27,11:10 AM,EI603,Amsterdam (AMS),Aer Lingus A320 (EI-DVN),Landed 10:39 AM,2021-06-11
+28,28,11:20 AM,EI521,Paris (CDG),Aer Lingus A320 (EI-DEL),Landed 11:06 AM,2021-06-11
+29,29,11:20 AM FR9429,,Milan (BGY),Ryanair B738 (EI-DCG),Landed 11:32 AM,2021-06-11
+30,30,11:20 AM,EI155,London (LHR),Aer Lingus A21N (EI-LRE),Landed 10:50 AM,2021-06-11
+31,31,11:30 AM FR2371,,London (STN),Ryanair B738 (EI-EBL),Landed 11:10 AM,2021-06-11
+32,32,11:55 AM,EI3223,Glasgow (GLA),Aer Lingus Regional AT76 (EI-FAT),Landed 11:48 AM,2021-06-11
+33,33,11:55 AM FR6874,,Barcelona (BCN),Ryanair B738 (EI-EVI),Landed 11:53 AM,2021-06-11
+34,34,12:10 PM,EI3931,Newquay (NQY),Aer Lingus Regional AT46 (EI-GEV),Landed 11:46 AM,2021-06-11
+35,35,12:10 PM,EK161,Dubai (DXB),Emirates B77W (A6-EPC),Landed 11:41 AM,2021-06-11
+36,36,1:00 PM,EI3323,Manchester (MAN),Aer Lingus Regional AT76 (EI-FAV),Landed 12:28 PM,2021-06-11
+37,37,1:00 PM FR7073,,Porto (OPO),Ryanair B738 (EI-DWZ),Landed 12:51 PM,2021-06-11
+38,38,1:10 PM FR7045,,Malaga (AGP),Ryanair B738 (EI-EVT),Landed 12:56 PM,2021-06-11
+39,39,1:15 PM,AF1816,Paris (CDG),Air France E170 (F-HBXK),Landed 1:13 PM,2021-06-11
+40,40,1:25 PM FR9431,,Rome (CIA),Ryanair B738 (EI-DAS),Landed 1:15 PM,2021-06-11
+41,41,1:50 PM QR8868,,Doha (DOH),Qatar Airways B788 (A7-BDD),Landed 2:12 PM,2021-06-11
+42,42,1:50 PM SK535,,Stockholm (ARN),SAS A20N (SE-DOX),Landed 2:07 PM,2021-06-11
+43,43,2:00 PM FR9702,,Vienna (VIE),Ryanair B738 (EI-DPF),Landed 1:47 PM,2021-06-11
+44,44,2:35 PM,BA836,London (LHR),British Airways A319 (G-DBCH),Landed 2:15 PM,2021-06-11
+45,45,2:45 PM FR7359,,Bari (BRI),Ryanair B738 (EI-DWP),Landed 2:32 PM,2021-06-11
+46,46,3:10 PM FR7033,,Faro (FAO),Ryanair B738 (EI-EKJ),Unknown,2021-06-11
+47,47,3:10 PM,EI3205,Kerry (KIR),Aer Lingus Regional AT76 (EI-FAT),Landed 2:41 PM,2021-06-11
+48,48,3:15 PM FR7087,,Valencia (VLC),Ryanair B738 (EI-DLC),Landed 3:09 PM,2021-06-11
+49,49,3:30 PM FR1115,,Reus (REU),Ryanair B738 (EI-ENL),Landed 3:19 PM,2021-06-11
+50,50,3:30 PM FR7347,,Bucharest (OTP),Ryanair B738 (EI-EFG),Landed 3:28 PM,2021-06-11
+51,51,3:35 PM,EI3403,Donegal (CFN),Aer Lingus Regional AT46 (EI-GEV),Landed 3:17 PM,2021-06-11
+52,52,4:20 PM FR7063,,Alicante (ALC),Ryanair B738 (EI-DHB),Landed 4:08 PM,2021-06-11
+53,53,4:40 PM,KL937,Amsterdam (AMS),KLM E75L (PH-EXW),Landed 4:32 PM,2021-06-11
+54,54,4:45 PM FR9457,,Bologna (BLQ),Ryanair B738 (9H-QAE),Landed 4:35 PM,2021-06-11
+55,55,4:50 PM FR3333,,Pafos (PFO),Ryanair B738 (EI-EXE),Landed 4:38 PM,2021-06-11
+56,56,5:15 PM FR2972,,Kaunas (KUN),Ryanair B738 (SP-RKB),Landed 5:01 PM,2021-06-11
+57,57,5:40 PM VS521,,London (LHR),Virgin Atlantic 789,Unknown,2021-06-11
+58,58,6:05 PM IB3790,,Madrid (MAD),Iberia Express A320 (EC-LYE),Landed 6:09 PM,2021-06-11
+59,59,6:15 PM,EI169,London (LHR),Aer Lingus A21N (EI-LRD),Landed 5:43 PM,2021-06-11
+60,60,6:20 PM FR1453,,Brussels (BRU),Ryanair B738 (EI-EMO),Landed 6:16 PM,2021-06-11
+61,61,6:20 PM 0B155,,Bucharest (OTP),Blue Air B738 (YR-BMS),Landed 5:58 PM,2021-06-11
+62,62,6:50 PM LX406,,Zurich (ZRH),Swiss BCS1 (HB-JBE),Landed 6:51 PM,2021-06-11
+63,63,6:55 PM FR4283,,Bratislava (BTS),Ryanair B738 (SP-RSK),Landed 6:58 PM,2021-06-11
+64,64,7:10 PM FR509,,Bristol (BRS),Ryanair B738 (EI-DLW),Landed 7:01 PM,2021-06-11
+65,65,7:10 PM FR1909,,Gdansk (GDN),Ryanair B738 (EI-DLF),Landed 7:11 PM,2021-06-11
+66,66,7:20 PM FR9998,,Palma de Mallorca (PMI),Ryanair B738 (EI-DHD),Landed 7:23 PM,2021-06-11
+67,67,7:25 PM FR1024,,Budapest (BUD),Ryanair B738 (SP-RSA),Landed 7:28 PM,2021-06-11
+68,68,7:25 PM FR29,,Paris (BVA),Ryanair B738 (EI-EKW),Landed 7:08 PM,2021-06-11
+69,69,7:40 PM FR1455,,Milan (MXP),Ryanair B738 (9H-QBI),Landed 7:52 PM,2021-06-11
+70,70,8:00 PM FR5323,,Szczecin (SZZ),Ryanair B738 (EI-DAS),Landed 7:49 PM,2021-06-11
+71,71,8:00 PM BO6809,,Reykjavik (KEF),Bluebird Nordic B734 (TF-BBO),Landed 7:54 PM,2021-06-11
+72,72,8:25 PM FR8036,,Cologne (CGN),Ryanair B738 (EI-EBW),Landed 8:13 PM,2021-06-11
+73,73,8:35 PM FR7327,,Prague (PRG),Ryanair B738 (SP-RSM),Landed 8:28 PM,2021-06-11
+74,74,10:10 PM 5F711,,Chisinau (KIV),Fly One A320 (ER-00004),Landed 10:01 PM,2021-06-11
+75,75,10:10 PM 9U831,,Chisinau (KIV),Fly One A320 (ER-00005),Landed 10:36 PM,2021-06-11
+76,76,10:25 PM,EI179,London (LHR),Aer Lingus A333 (EI-GAJ),Landed 9:53 PM,2021-06-11
+77,77,10:25 PM,KL939,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 10:08 PM,2021-06-11
+78,78,10:25 PM,LH982,Frankfurt (FRA),Lufthansa CRJ9 (D-ACKJ),Landed 10:21 PM,2021-06-11
+79,79,11:05 PM FR119,,London (LGW),Ryanair B738 (EI-DLF),Landed 10:53 PM,2021-06-11
+80,80,11:10 PM FR1902,,Krakow (KRK),Ryanair B738 (EI-EVA),Landed 11:02 PM,2021-06-11
+81,81,11:15 PM FR3007,,Amsterdam (AMS),Ryanair B738 (EI-DLW),Landed 10:58 PM,2021-06-11
+82,82,11:25 PM FR271,,London (STN),Ryanair B738 (EI-DHE),Landed 11:07 PM,2021-06-11
+83,83,11:30 PM FR819,,Edinburgh (EDI),Ryanair B738 (EI-DPI),Landed 11:17 PM,2021-06-11
+84,84,11:30 PM FR9371,,Faro (FAO),Ryanair B738 (EI-EVK),Landed 11:20 PM,2021-06-11
+85,85,11:35 PM FR1977,,Riga (RIX),Ryanair B738 (EI-DYD),Landed 11:25 PM,2021-06-11
+86,86,11:50 PM FR7120,,Tenerife (TFS),Ryanair B738 (EI-GSI),Canceled,2021-06-11
+87,87,11:55 PM FR7243,,Luqa (MLA),Ryanair B738 (EI-EGD),Landed 11:45 PM,2021-06-11
+0,0,00:15 FR1927,,Wroclaw (WRO),Ryanair B738 (EI-EMO),Landed 00:23,2021-06-12
+1,1,04:11,,Boston (BOS),- A21N (EI-LRC),Landed 04:02,2021-06-12
+2,2,04:45,EI132,Boston (BOS),Aer Lingus A21N (EI-LRC),Unknown,2021-06-12
+3,3,04:50,EI104,New York (JFK),Aer Lingus A333 (EI-FNG),Landed 04:05,2021-06-12
+4,4,05:00,ET500,Addis Ababa (ADD),Ethiopian Airlines B77W (ET-APY),Landed 04:35,2021-06-12
+5,5,05:00 ET574,,Addis Ababa (ADD),Ethiopian Airlines B788 (ET-AOT),Landed 04:30,2021-06-12
+6,6,05:10 ET552,,Addis Ababa (ADD),Ethiopian Airlines A359 (ET-AVE),Landed 04:39,2021-06-12
+7,7,05:55,EI122,Chicago (ORD),Aer Lingus A333 (EI-DUZ),Landed 06:15,2021-06-12
+8,8,07:05,UA23,New York (EWR),United Airlines B789 (N24980),Landed 06:53,2021-06-12
+9,9,08:16,,Washington (IAD),- GLEX (N158QS),Landed 07:43,2021-06-12
+10,10,08:20 FR5347,,Katowice (KTW),Ryanair B738 (SP-RKI),Landed 08:22,2021-06-12
+11,11,08:20,KL933,Amsterdam (AMS),KLM E90,Unknown,2021-06-12
+12,12,08:35,EI3201,Kerry (KIR),Stobart Air AT76 (EI-FCY),Landed 08:25,2021-06-12
+13,13,08:50,EI3401,Donegal (CFN),Stobart Air AT46 (EI-GEV),Landed 08:44,2021-06-12
+14,14,08:55,AA722,Philadelphia (PHL),American Airlines B788 (N805AN),Landed 08:41,2021-06-12
+15,15,09:00 FR553,,Manchester (MAN),Ryanair B738 (EI-EVM),Landed 08:51,2021-06-12
+16,16,09:05 FR505,,Bristol (BRS),Ryanair B738 (EI-DYP),Landed 08:47,2021-06-12
+17,17,09:30,EI3251,Edinburgh (EDI),Aer Lingus AT7,Canceled,2021-06-12
+18,18,09:40 FR6015,,Sofia (SOF),Ryanair B738 (SP-RKN),Landed 09:25,2021-06-12
+19,19,09:40 TK1975,,Istanbul (IST),Turkish Airlines B77W (TC-JJF),Landed 09:01,2021-06-12
+20,20,09:55,TP1322,Lisbon (LIS),TAP Express E190 (CS-TPR),Landed 09:39,2021-06-12
+21,21,09:55 0B3755,,Cluj-Napoca (CLJ),Blue Air B738 (YR-BML),Landed 09:36,2021-06-12
+22,22,10:00,BA828,London (LHR),British Airways A320 (G-MIDS),Landed 10:21,2021-06-12
+23,23,10:25 FR113,,London (LGW),Ryanair B738 (EI-DYD),Landed 10:15,2021-06-12
+24,24,10:25,KL945,Amsterdam (AMS),KLM B738 (PH-BXI),Landed 10:31,2021-06-12
+25,25,10:45 LH2516,,Munich (MUC),Lufthansa (Star Alliance Livery) A319 (D-AILT),Landed 10:38,2021-06-12
+26,26,10:55,LH978,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNC),Landed 10:56,2021-06-12
+27,27,11:20,EI521,Paris (CDG),Aer Lingus A320 (EI-DER),Landed 11:08,2021-06-12
+28,28,11:20,EI155,London (LHR),Aer Lingus A21N (EI-LRB),Landed 10:41,2021-06-12
+29,29,11:30 FR2371,,London (STN),Ryanair B738 (EI-DHN),Landed 11:30,2021-06-12
+30,30,11:50,EY45,Abu Dhabi (AUH),Etihad (ADNOC-Choose Saudi Arabia Livery) B789 (A6-BLI),Landed 11:33,2021-06-12
+31,31,11:55,EI3223,Glasgow (GLA),Aer Lingus AT7,Canceled,2021-06-12
+32,32,11:55 FR6874,,Barcelona (BCN),Ryanair B738 (EI-ENL),Landed 11:38,2021-06-12
+33,33,12:05 FR8559,,Berlin (BER),Ryanair B738 (EI-EVK),Landed 11:56,2021-06-12
+34,34,12:10,EK161,Dubai (DXB),Emirates (Expo 2020 - Sustainability Livery) B77W (A6-EPL),Landed 12:00,2021-06-12
+35,35,12:40 BT667,,Vilnius (VNO),Air Baltic BCS3 (YL-AAO),Landed 12:50,2021-06-12
+36,36,13:00,EI3323,Manchester (MAN),Aer Lingus AT7,Canceled,2021-06-12
+37,37,13:15,AF1816,Paris (CDG),Air France A319 (F-GRHO),Landed 13:07,2021-06-12
+38,38,13:30 AF6735,,Chicago (ORD),Air France Cargo B77L (F-GUOB),Landed 13:35,2021-06-12
+39,39,13:50,QR17,Doha (DOH),Qatar Airways B788 (A7-BCR),Landed 13:13,2021-06-12
+40,40,14:00 FR7045,,Malaga (AGP),Ryanair B738 (EI-GXM),Landed 13:40,2021-06-12
+41,41,14:10 FR5061,,Cagliari (CAG),Ryanair B738 (EI-DLC),Landed 13:51,2021-06-12
+42,42,15:05 FR9176,,Ibiza (IBZ),Ryanair B738 (EI-EVT),Landed 14:46,2021-06-12
+43,43,15:10,EI3205,Kerry (KIR),Aer Lingus AT7,Canceled,2021-06-12
+44,44,15:15 FR817,,Edinburgh (EDI),Ryanair B738 (EI-EMP),Landed 14:51,2021-06-12
+45,45,15:35,EI3403,Donegal (CFN),Aer Lingus AT4,Canceled,2021-06-12
+46,46,15:35 FR6090,,Bodrum (BJV),Ryanair B738 (EI-EFG),Landed 15:37,2021-06-12
+47,47,15:55 FR7147,,Seville (SVQ),Ryanair B738 (EI-DYL),Landed 15:40,2021-06-12
+48,48,16:15 FR1797,,Tallinn (TLL),Ryanair B738 (EI-EVM),Landed 16:20,2021-06-12
+49,49,16:15 FR1893,,Bydgoszcz (BZG),Ryanair B738 (EI-DYD),Landed 16:16,2021-06-12
+50,50,16:40,KL937,Amsterdam (AMS),KLM B737 (PH-BGK),Landed 16:30,2021-06-12
+51,51,16:50 FR7125,,Lanzarote (ACE),Ryanair B738 (EI-EKJ),Landed 16:36,2021-06-12
+52,52,16:55,LH980,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNC),Landed 16:51,2021-06-12
+53,53,17:05 FR7357,,Basel (BSL),Ryanair B738 (EI-EVK),Landed 17:13,2021-06-12
+54,54,17:20,AY1385,Helsinki (HEL),Finnair E190 (OH-LKH),Landed 17:03,2021-06-12
+55,55,18:05 AC7208,,Toronto (YYZ),Air Canada B789 (C-FRSI),Landed 17:43,2021-06-12
+56,56,18:05 IB3790,,Madrid (MAD),Iberia Express A320 (EC-MUK),Landed 18:14,2021-06-12
+57,57,18:15,EI169,London (LHR),Aer Lingus A21N (EI-LRE),Landed 17:47,2021-06-12
+58,58,18:20 FR8012,,Warsaw (WMI),Ryanair B738 (SP-RSS),Landed 18:28,2021-06-12
+59,59,18:25 FR6841,,Naples (NAP),Ryanair B738 (9H-QAZ),Landed 17:59,2021-06-12
+60,60,18:45,TP1324,Lisbon (LIS),TAP Express E190 (CS-TPT),Landed 18:23,2021-06-12
+61,61,22:00 SU2590,,Moscow (SVO),Aeroflot A320 (VQ-BHN),Landed 21:32,2021-06-12
+62,62,22:25,KL939,Amsterdam (AMS),KLM B738 (PH-BXE),Landed 22:39,2021-06-12
+63,63,22:30 EI497,,Faro (FAO),Aer Lingus A320 (EI-DVN),Landed 21:58,2021-06-12
+64,64,22:30,EI587,Malaga (AGP),Aer Lingus A320 (EI-CVB),Landed 21:55,2021-06-12
+65,65,22:30 FR5611,,Palanga (PLQ),Ryanair B738 (EI-DLC),Landed 22:18,2021-06-12
+66,66,22:55 FR1979,,Lodz (LCJ),Ryanair B738 (EI-EVM),Landed 22:34,2021-06-12
+67,67,22:55 FR7033,,Faro (FAO),Ryanair B738 (EI-GSK),Unknown,2021-06-12
+68,68,23:05 FR9506,,Lublin (LUZ),Ryanair B738 (EI-EFG),Landed 22:44,2021-06-12
+69,69,23:10 FR3007,,Amsterdam (AMS),Ryanair B738 (EI-EKJ),Landed 22:57,2021-06-12
+70,70,23:20 FR271,,London (STN),Ryanair (Dreamliner Livery) B738 (EI-DCL),Landed 22:52,2021-06-12
+71,71,23:20 FR7137,,Lisbon (LIS),Ryanair B738 (EI-EVS),Landed 23:02,2021-06-12
+72,72,23:50 FR7149,,Vilnius (VNO),Ryanair B738 (EI-DYD),Landed 23:58,2021-06-12
+73,73,23:55 FR7157,,Madrid (MAD),Ryanair B738 (EI-ENB),Landed 23:40,2021-06-12
+0,0,00:50 0B2955,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 00:41,2021-06-13
+1,1,04:08,,Boston (BOS),- A21N (EI-LRA),Landed 04:10,2021-06-13
+2,2,04:45,EI132,Boston (BOS),Aer Lingus A21N (EI-LRA),Unknown,2021-06-13
+3,3,04:50,EI104,New York (JFK),Aer Lingus A333 (EI-FNH),Landed 04:17,2021-06-13
+4,4,05:00,ET500,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANN),Landed 04:29,2021-06-13
+5,5,05:00 ET574,,Addis Ababa (ADD),Ethiopian Airlines B788 (ET-AOP),Landed 04:22,2021-06-13
+6,6,05:55,EI122,Chicago (ORD),Aer Lingus A333 (EI-EDY),Canceled,2021-06-13
+7,7,07:10,QR19,Doha (DOH),Qatar Airways B788 (A7-BCU),Landed 06:22,2021-06-13
+8,8,08:20,KL933,Amsterdam (AMS),KLM E90,Unknown,2021-06-13
+9,9,08:35 BT661,,Riga (RIX),Air Baltic BCS3 (YL-CSM),Landed 08:18,2021-06-13
+10,10,08:55,AA722,Philadelphia (PHL),American Airlines B788 (N810AN),Landed 08:10,2021-06-13
+11,11,09:00 FR553,,Manchester (MAN),Ryanair B738 (EI-EVO),Landed 08:47,2021-06-13
+12,12,09:15 FR1455,,Milan (MXP),Ryanair B738 (9H-QBI),Landed 08:50,2021-06-13
+13,13,09:30 FR7045,,Malaga (AGP),Ryanair B738 (EI-EVB),Landed 09:00,2021-06-13
+14,14,09:30 OU512,,Zagreb (ZAG),Croatia Airlines A319 (9A-CTH),Landed 09:29,2021-06-13
+15,15,10:00,EI3201,Kerry (KIR),Aer Lingus AT7,Canceled,2021-06-13
+16,16,10:15,EI203,Manchester (MAN),Aer Lingus A320 (EI-DEF),Landed 10:04,2021-06-13
+17,17,10:25,KL945,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 10:22,2021-06-13
+18,18,10:45 LH2516,,Munich (MUC),Lufthansa CRJ9 (D-ACNG),Landed 10:30,2021-06-13
+19,19,10:55,EI263,Birmingham (BHX),Aer Lingus A320 (EI-DEH),Landed 10:27,2021-06-13
+20,20,10:55,LH978,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNF),Landed 10:51,2021-06-13
+21,21,11:10,EI603,Amsterdam (AMS),Aer Lingus A320 (EI-CVA),Landed 10:41,2021-06-13
+22,22,11:20,EI155,London (LHR),Aer Lingus A21N (EI-LRC),Landed 10:48,2021-06-13
+23,23,11:20,EI521,Paris (CDG),Aer Lingus A320 (EI-CVB),Landed 11:24,2021-06-13
+24,24,11:25,EI3401,Donegal (CFN),Aer Lingus AT4,Unknown,2021-06-13
+25,25,11:50 FR9429,,Milan (BGY),Ryanair B738 (EI-DYF),Landed 11:31,2021-06-13
+26,26,11:50,EY45,Abu Dhabi (AUH),Etihad (ADNOC - Choose Japan Livery) B789 (A6-BLK),Landed 11:52,2021-06-13
+27,27,11:55 FR6874,,Barcelona (BCN),Ryanair B738 (EI-DLW),Landed 11:34,2021-06-13
+28,28,12:10,EK161,Dubai (DXB),Emirates B77W (A6-EGR),Landed 11:55,2021-06-13
+29,29,12:40 FR1927,,Wroclaw (WRO),Ryanair B738 (EI-DYL),Landed 12:27,2021-06-13
+30,30,13:00 FR2371,,London (STN),Ryanair B738 (EI-DWL),Landed 12:59,2021-06-13
+31,31,13:10 FR7073,,Porto (OPO),Ryanair B738 (EI-EVJ),Landed 12:45,2021-06-13
+32,32,13:10 FR9431,,Rome (CIA),Ryanair B738 (EI-DAM),Landed 13:11,2021-06-13
+33,33,13:15,AF1816,Paris (CDG),Air France E190 (F-HBLB),Landed 13:16,2021-06-13
+34,34,13:40 FR7313,,Zadar (ZAD),Ryanair B738 (EI-EGD),Landed 13:02,2021-06-13
+35,35,14:20 SK2565,,Stockholm (ARN),SAS A20N (SE-RON),Landed 14:14,2021-06-13
+36,36,14:55,EI163,London (LHR),Aer Lingus A320 (EI-GAL),Landed 14:16,2021-06-13
+37,37,15:10,EI3205,Kerry (KIR),Aer Lingus AT7,Canceled,2021-06-13
+38,38,15:35 FR1115,,Reus (REU),Ryanair B738 (EI-DHP),Landed 15:16,2021-06-13
+39,39,15:35,EI3403,Donegal (CFN),Aer Lingus AT4,Canceled,2021-06-13
+40,40,15:40 FR7347,,Bucharest (OTP),Ryanair B738 (EI-EVA),Landed 15:31,2021-06-13
+41,41,15:45 FR9230,,Kyiv (KBP),Ryanair B738 (EI-EFD),Landed 15:28,2021-06-13
+42,42,15:55,BA830,London (LHR),British Airways A319 (G-EUPO),Landed 15:25,2021-06-13
+43,43,16:05 FR7063,,Alicante (ALC),Ryanair B738 (EI-EVO),Landed 15:56,2021-06-13
+44,44,16:10 FR7355,,Chania (CHQ),Ryanair B738 (EI-ENP),Landed 15:52,2021-06-13
+45,45,16:40,KL937,Amsterdam (AMS),KLM B737 (PH-BGK),Landed 16:16,2021-06-13
+46,46,16:45 FR1909,,Gdansk (GDN),Ryanair B738 (SP-RSB),Landed 16:28,2021-06-13
+47,47,16:50 FR2972,,Kaunas (KUN),Ryanair B738 (SP-RSI),Landed 16:34,2021-06-13
+48,48,16:50 FR4519,,Athens (ATH),Ryanair B738 (EI-ENA),Landed 16:31,2021-06-13
+49,49,16:55,LH980,Frankfurt (FRA),Lufthansa A319 (D-AIBI),Landed 17:05,2021-06-13
+50,50,17:55,EI3257,Edinburgh (EDI),Aer Lingus AT7,Canceled,2021-06-13
+51,51,18:05 IB3790,,Madrid (MAD),Iberia Express A320 (EC-LYE),Landed 17:47,2021-06-13
+52,52,18:10 FR382,,Frankfurt (FRA),Ryanair B738 (9H-QAD),Landed 18:43,2021-06-13
+53,53,18:15,EI169,London (LHR),Aer Lingus A21N (EI-LRB),Landed 17:42,2021-06-13
+54,54,18:20 0B155,,Bucharest (OTP),Blue Air B38M (YR-MXB),Landed 18:05,2021-06-13
+55,55,18:30,EI3327,Manchester (MAN),Aer Lingus AT7,Canceled,2021-06-13
+56,56,18:45 FR7087,,Valencia (VLC),Ryanair B738 (EI-EBD),Landed 18:15,2021-06-13
+57,57,18:45,TP1324,Lisbon (LIS),TAP Express E195 (CS-TTY),Landed 18:24,2021-06-13
+58,58,19:10 FR8012,,Warsaw (WMI),Ryanair B738 (EI-DPF),Landed 18:56,2021-06-13
+59,59,19:15 FR8036,,Cologne (CGN),Ryanair B738 (EI-DLF),Landed 19:04,2021-06-13
+60,60,19:25 FR1024,,Budapest (BUD),Ryanair B738 (SP-RKW),Landed 19:18,2021-06-13
+61,61,20:05 FR7031,,Faro (FAO),Ryanair B738 (EI-EKJ),Landed 19:48,2021-06-13
+62,62,20:15 FR7366,,Vienna (VIE),Ryanair B738 (EI-DHW),Landed 20:21,2021-06-13
+63,63,20:50 FR1975,,Poznan (POZ),Ryanair B738 (SP-RSV),Landed 20:57,2021-06-13
+64,64,20:55 FR3007,,Amsterdam (AMS),Ryanair B738 (EI-DWI),Landed 20:52,2021-06-13
+65,65,21:25,EI3229,Glasgow (GLA),Aer Lingus AT7,Canceled,2021-06-13
+66,66,21:45 3V4109,,Liege (LGG),Bluebird Nordic B734 (TF-BBO),Landed 21:34,2021-06-13
+67,67,22:10 5F711,,Chisinau (KIV),Fly One A319 (ER-00002),Landed 21:52,2021-06-13
+68,68,22:10 FR509,,Bristol (BRS),Ryanair B738 (EI-DLF),Landed 21:54,2021-06-13
+69,69,22:10 9U831,,Chisinau (KIV),Fly One A320 (ER-00005),Landed 22:06,2021-06-13
+70,70,22:20 FR669,,Birmingham (BHX),Ryanair B738 (EI-DWA),Landed 22:09,2021-06-13
+71,71,22:25,EI179,London (LHR),Aer Lingus A333 (EI-DUZ),Landed 21:57,2021-06-13
+72,72,22:25,KL939,Amsterdam (AMS),KLM B737 (PH-BGT),Landed 22:12,2021-06-13
+73,73,22:25,LH982,Frankfurt (FRA),Lufthansa CRJ9 (D-ACND),Landed 22:25,2021-06-13
+74,74,23:05 FR119,,London (LGW),Ryanair B738 (EI-DPF),Landed 22:49,2021-06-13
+75,75,23:20 FR1902,,Krakow (KRK),Ryanair B738 (EI-DCG),Landed 23:08,2021-06-13
+76,76,23:20 H4473,,Chisinau (KIV),- 320,Unknown,2021-06-13
+77,77,23:40 FR863,,Rzeszow (RZE),Ryanair B738 (EI-DLG),Landed 23:28,2021-06-13
+78,78,23:40 FR271,,London (STN),Ryanair B738 (EI-DHW),Landed 23:35,2021-06-13
+79,79,23:55 FR819,,Edinburgh (EDI),Ryanair B738 (EI-DHZ),Landed 23:44,2021-06-13
+80,80,23:55 FR1977,,Riga (RIX),Ryanair B738 (EI-DAN),Landed 23:38,2021-06-13
+0,0,00:20 FR1341,,Split (SPU),Ryanair B738 (EI-DHE),Landed 00:13,2021-06-14
+1,1,00:25 FR7135,,Palermo (PMO),Ryanair B738 (EI-EKW),Landed 00:07,2021-06-14
+2,2,00:50 0B2955,,Bacau (BCM),Blue Air B738 (YR-BMG),Landed 00:30,2021-06-14
+3,3,04:06,,Boston (BOS),- A21N (EI-LRE),Landed 03:51,2021-06-14
+4,4,04:45,EI132,Boston (BOS),Aer Lingus A21N (EI-LRE),Unknown,2021-06-14
+5,5,04:50,EI104,New York (JFK),Aer Lingus A333 (EI-EAV),Landed 03:53,2021-06-14
+6,6,05:00,ET500,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANP),Landed 04:49,2021-06-14
+7,7,05:00 ET574,,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AXS),Landed 04:45,2021-06-14
+8,8,05:55,EI122,Chicago (ORD),Aer Lingus A333 (EI-EIN),Landed 05:45,2021-06-14
+9,9,07:05,UA23,New York (EWR),United Airlines B789 (N27958),Landed 06:15,2021-06-14
+10,10,08:20,KL933,Amsterdam (AMS),KLM E90,Unknown,2021-06-14
+11,11,08:35,EI3201,Kerry (KIR),Aer Lingus AT7,Unknown,2021-06-14
+12,12,08:50,EI3401,Donegal (CFN),Aer Lingus AT4,Canceled,2021-06-14
+13,13,08:51 EI1124,,Chicago (ORD),Aer Lingus A333 (EI-EDY),Landed 08:47,2021-06-14
+14,14,08:55,AA722,Philadelphia (PHL),American Airlines B788 (N807AA),Landed 08:10,2021-06-14
+15,15,09:00 FR553,,Manchester (MAN),Ryanair B738 (EI-GSK),Landed 08:40,2021-06-14
+16,16,09:25 FR113,,London (LGW),Ryanair B738 (EI-DWP),Landed 09:07,2021-06-14
+17,17,09:30 FR663,,Birmingham (BHX),Ryanair B738 (EI-DWA),Landed 09:17,2021-06-14
+18,18,09:30,EI3251,Edinburgh (EDI),Aer Lingus AT7,Canceled,2021-06-14
+19,19,09:35 TK1975,,Istanbul (IST),Turkish Airlines B77W (TC-JJO),Landed 09:00,2021-06-14
+20,20,09:55,BA828,London (LHR),British Airways (BEA Retro Livery) A319 (G-EUPJ),Landed 09:38,2021-06-14
+21,21,10:15,EI203,Manchester (MAN),Aer Lingus A320 (EI-DVI),Landed 09:52,2021-06-14
+22,22,10:25,KL945,Amsterdam (AMS),KLM B737 (PH-BGR),Landed 10:16,2021-06-14
+23,23,10:35 FR1453,,Brussels (BRU),Ryanair B738 (EI-DHZ),Landed 10:35,2021-06-14
+24,24,10:45 LH2516,,Munich (MUC),Lufthansa A319 (D-AILB),Landed 10:49,2021-06-14
+25,25,10:55,EI263,Birmingham (BHX),Aer Lingus A320 (EI-DEN),Landed 10:43,2021-06-14
+26,26,10:55,LH978,Frankfurt (FRA),Lufthansa CRJ9 (D-ACND),Landed 10:51,2021-06-14
+27,27,11:05 SK535,,Stockholm (ARN),SAS A20N (SE-ROP),Landed 11:03,2021-06-14
+28,28,11:10,EI603,Amsterdam (AMS),Aer Lingus A320 (EI-DEH),Landed 10:47,2021-06-14
+29,29,11:20,EI155,London (LHR),Aer Lingus A21N (EI-LRD),Landed 10:57,2021-06-14
+30,30,11:20,EI521,Paris (CDG),Aer Lingus A320 (EI-DEL),Landed 11:26,2021-06-14
+31,31,11:25 FR4283,,Bratislava (BTS),Ryanair B738 (SP-RSK),Landed 11:18,2021-06-14
+32,32,11:30 FR2371,,London (STN),Ryanair B738 (EI-EVL),Landed 11:11,2021-06-14
+33,33,11:40 FR9429,,Milan (BGY),Ryanair B738 (EI-EVK),Landed 11:31,2021-06-14
+34,34,11:55 FR6874,,Barcelona (BCN),Ryanair B738 (EI-DHE),Landed 11:38,2021-06-14
+35,35,11:55,EI3223,Glasgow (GLA),Aer Lingus AT7,Canceled,2021-06-14
+36,36,12:10,EI3931,Newquay (NQY),Aer Lingus AT7,Canceled,2021-06-14
+37,37,13:00 FR7045,,Malaga (AGP),Ryanair (Dreamliner Livery) B738 (EI-DCL),Landed 12:46,2021-06-14
+38,38,13:00,EI3323,Manchester (MAN),Aer Lingus AT7,Canceled,2021-06-14
+39,39,13:15,AF1816,Paris (CDG),Air France E190 (F-HBLO),Landed 13:11,2021-06-14
+40,40,14:10 H4251,,Cluj-Napoca (CLJ),HiSky Europe 320,Unknown,2021-06-14
+41,41,14:15 FR7073,,Porto (OPO),Ryanair B738 (EI-EKG),Landed 13:56,2021-06-14
+42,42,14:25 FR29,,Paris (BVA),Ryanair B738 (EI-DHZ),Landed 14:26,2021-06-14
+43,43,15:00 FR7347,,Bucharest (OTP),Ryanair B738 (EI-EVO),Landed 15:17,2021-06-14
+44,44,15:05 FR817,,Edinburgh (EDI),Ryanair B738 (EI-DHE),Landed 14:54,2021-06-14
+45,45,15:10,EI3205,Kerry (KIR),Aer Lingus AT7,Canceled,2021-06-14
+46,46,15:15 QR8891,,London (LHR),Qatar Airways B77W (A7-BAL),Landed 14:34,2021-06-14
+47,47,15:25 FR1115,,Reus (REU),Ryanair B738 (EI-DWP),Landed 15:15,2021-06-14
+48,48,15:35,EI3403,Donegal (CFN),Aer Lingus AT4,Canceled,2021-06-14
+49,49,16:10 FR2972,,Kaunas (KUN),Ryanair B738 (SP-RSI),Landed 16:09,2021-06-14
+50,50,16:30 FR7063,,Alicante (ALC),Ryanair B738 (EI-GXI),Landed 16:18,2021-06-14
+51,51,16:40,KL937,Amsterdam (AMS),KLM E190 (PH-EZD),Landed 16:36,2021-06-14
+52,52,17:00 FR7359,,Bari (BRI),Ryanair B738 (EI-DWA),Landed 16:53,2021-06-14
+53,53,17:25 FR3333,,Pafos (PFO),Ryanair B738 (EI-EKW),Landed 17:16,2021-06-14
+54,54,17:35 FR9453,,Bologna (BLQ),Ryanair B738 (9H-QAE),Landed 17:13,2021-06-14
+55,55,18:05,IB3790,Madrid (MAD),Iberia Express A320 (EC-LYE),Landed 17:56,2021-06-14
+56,56,18:10 FR382,,Frankfurt (FRA),Ryanair B738 (9H-QDE),Landed 18:05,2021-06-14
+57,57,18:15,EI169,London (LHR),Aer Lingus A320 (EI-DEP),Landed 17:45,2021-06-14
+58,58,18:15 FR7327,,Prague (PRG),Ryanair B738 (SP-RSL),Landed 18:09,2021-06-14
+59,59,18:20 0B155,,Bucharest (OTP),Blue Air 738,Unknown,2021-06-14
+60,60,18:35 FR507,,Bristol (BRS),Ryanair B738 (EI-DLC),Landed 18:21,2021-06-14
+61,61,18:45,TP1324,Lisbon (LIS),TAP Express E190 (CS-TPV),Landed 18:32,2021-06-14
+62,62,19:20 FR7243,,Luqa (MLA),Ryanair B738 (9H-QDC),Landed 19:16,2021-06-14
+63,63,19:35 FR1902,,Krakow (KRK),Ryanair B738 (SP-RKK),Landed 19:21,2021-06-14
+64,64,20:00 BO6809,,Reykjavik (KEF),Bluebird Nordic B734 (TF-BBO),Landed 19:43,2021-06-14
+65,65,20:05 FR7137,,Lisbon (LIS),Ryanair B738 (EI-EKJ),Landed 19:52,2021-06-14
+66,66,20:30 FR1909,,Gdansk (GDN),Ryanair B738 (SP-RSB),Landed 20:16,2021-06-14
+67,67,21:55,EI179,London (LHR),Aer Lingus A333 (EI-EIM),Landed 21:29,2021-06-14
+68,68,22:25,KL939,Amsterdam (AMS),KLM B738 (PH-BXM),Landed 22:07,2021-06-14
+69,69,22:25,LH982,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNK),Landed 22:11,2021-06-14
+70,70,22:40 FR3007,,Amsterdam (AMS),Ryanair B738 (EI-DLC),Landed 22:38,2021-06-14
+71,71,23:05 FR1977,,Riga (RIX),Ryanair B738 (EI-DYD),Landed 23:13,2021-06-14
+72,72,23:10 FR1024,,Budapest (BUD),Ryanair B738 (EI-DHB),Landed 22:51,2021-06-14
+73,73,23:20 H4243,,Iasi (IAS),HiSky Europe 320,Unknown,2021-06-14
+74,74,23:40 FR7033,,Faro (FAO),Ryanair B738 (EI-EVO),Unknown,2021-06-14
+75,75,23:50 FR271,,London (STN),Ryanair B738 (EI-EKJ),Landed 23:29,2021-06-14
+76,76,23:50 FR7120,,Tenerife (TFS),Ryanair B738 (EI-EVM),Landed 23:36,2021-06-14
+77,77,23:55 FR5323,,Szczecin (SZZ),Ryanair B738 (EI-ENB),Landed 23:46,2021-06-14
+78,78,23:55 FR9998,,Palma de Mallorca (PMI),Ryanair B738 (EI-EFG),Landed 23:41,2021-06-14
+0,0,04:04,,Boston (BOS),- A21N (EI-LRB),Landed 03:50,2021-06-15
+1,1,04:45,EI132,Boston (BOS),Aer Lingus A21N (EI-LRB),Unknown,2021-06-15
+2,2,04:50,EI104,New York (JFK),Aer Lingus A333 (EI-GAJ),Landed 04:03,2021-06-15
+3,3,05:00,ET500,Addis Ababa (ADD),Ethiopian Airlines B77L (ET-ANN),Landed 04:39,2021-06-15
+4,4,05:00 ET574,,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AYC),Landed 04:43,2021-06-15
+5,5,05:00 3V4109,,Liege (LGG),Bluebird Nordic B734 (TF-BBO),Landed 04:56,2021-06-15
+6,6,05:10 ET552,,Addis Ababa (ADD),Ethiopian Airlines A359 (ET-AWN),Landed 04:49,2021-06-15
+7,7,05:55,EI122,Chicago (ORD),Aer Lingus A333 (EI-GCF),Landed 05:31,2021-06-15
+8,8,07:05,UA23,New York (EWR),United Airlines B789 (N26967),Landed 06:50,2021-06-15
+9,9,07:50 FR6015,,Sofia (SOF),Ryanair B738 (SP-RKN),Landed 07:33,2021-06-15
+10,10,08:15 FR8012,,Warsaw (WMI),Ryanair B738 (SP-RKG),Landed 08:01,2021-06-15
+11,11,08:20,KL933,Amsterdam (AMS),KLM E90,Unknown,2021-06-15
+12,12,08:35,EI3201,Kerry (KIR),Aer Lingus AT7,Canceled,2021-06-15
+13,13,08:50,EI3401,Donegal (CFN),Aer Lingus AT4,Canceled,2021-06-15
+14,14,08:55,AA722,Philadelphia (PHL),American Airlines B788 (N802AN),Landed 09:40,2021-06-15
+15,15,09:55 FR115,,London (LGW),Ryanair B738 (EI-DAM),Landed 09:42,2021-06-15
+16,16,09:55 0B3755,,Cluj-Napoca (CLJ),Blue Air B738 (YR-BML),Landed 09:37,2021-06-15
+17,17,10:25,KL945,Amsterdam (AMS),KLM B738 (PH-BXC),Landed 10:07,2021-06-15
+18,18,10:55,LH978,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNN),Landed 11:01,2021-06-15
+19,19,11:10,EI603,Amsterdam (AMS),Aer Lingus (Retro livery) A320 (EI-DVM),Landed 10:53,2021-06-15
+20,20,11:20,EI521,Paris (CDG),Aer Lingus A320 (EI-DEL),Landed 11:20,2021-06-15
+21,21,11:20,EI155,London (LHR),Aer Lingus A320 (EI-DEM),Landed 10:56,2021-06-15
+22,22,12:50 FR5061,,Cagliari (CAG),Ryanair B738 (EI-EGD),Landed 12:55,2021-06-15
+23,23,13:05 FR7045,,Malaga (AGP),Ryanair B738 (EI-DLG),Landed 13:18,2021-06-15
+24,24,14:55 FR225,,London (STN),Ryanair B738 (EI-EBL),Landed 14:38,2021-06-15
+25,25,14:55 FR7357,,Basel (BSL),Ryanair B738 (EI-DAM),Landed 14:54,2021-06-15
+26,26,15:10,EI3205,Kerry (KIR),Aer Lingus AT7,Canceled,2021-06-15
+27,27,15:15 QR8891,,London (LHR),Qatar Airways B77W (A7-BAL),Landed 14:19,2021-06-15
+28,28,15:20 FR7125,,Lanzarote (ACE),Ryanair B738 (EI-EKJ),Landed 14:47,2021-06-15
+29,29,15:30 FR5347,,Katowice (KTW),Ryanair B738 (SP-RKI),Landed 15:16,2021-06-15
+30,30,15:35,EI3403,Donegal (CFN),Aer Lingus AT4,Canceled,2021-06-15
+31,31,15:50 FR6090,,Bodrum (BJV),Ryanair B738 (EI-EVO),Landed 15:42,2021-06-15
+32,32,16:10 FR9176,,Ibiza (IBZ),Ryanair B738 (EI-DAN),Landed 16:58,2021-06-15
+33,33,16:15 FR673,,Birmingham (BHX),Ryanair B738 (EI-ENA),Landed 16:03,2021-06-15
+34,34,16:25 FR7147,,Seville (SVQ),Ryanair B738 (EI-DHO),Landed 16:16,2021-06-15
+35,35,16:40,KL937,Amsterdam (AMS),KLM E75L (PH-EXS),Landed 16:27,2021-06-15
+36,36,18:15,EI169,London (LHR),Aer Lingus 32S,Canceled,2021-06-15
+37,37,18:25 FR6841,,Naples (NAP),Ryanair B738 (9H-QEL),Landed 18:12,2021-06-15
+38,38,19:05 FR1455,,Milan (MXP),Ryanair B738 (9H-QDZ),Landed 18:47,2021-06-15
+39,39,19:10 FR9371,,Faro (FAO),Ryanair B738 (EI-GXN),Landed 18:49,2021-06-15
+40,40,19:45 FR8559,,Berlin (BER),Ryanair B738 (EI-ENP),Landed 19:25,2021-06-15
+41,41,20:00 BO6809,,Reykjavik (KEF),Bluebird Nordic B734 (TF-BBO),Landed 20:07,2021-06-15
+42,42,21:10 FR1893,,Bydgoszcz (BZG),Ryanair B738 (EI-EMP),Landed 20:57,2021-06-15
+43,43,22:10 5F711,,Chisinau (KIV),Fly One 320,Unknown,2021-06-15
+44,44,22:10 9U831,,Chisinau (KIV),Air Moldova A319 (ER-AXL),Landed 22:09,2021-06-15
+45,45,22:20 FR7157,,Madrid (MAD),Ryanair B738 (EI-DWC),Landed 22:06,2021-06-15
+46,46,22:25,EI179,London (LHR),Aer Lingus A333 (EI-FNH),Landed 22:00,2021-06-15
+47,47,22:25,KL939,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 22:13,2021-06-15
+48,48,22:25,LH982,Frankfurt (FRA),Lufthansa CRJ9 (D-ACNK),Landed 22:18,2021-06-15
+49,49,22:30,EI587,Malaga (AGP),Aer Lingus A320 (EI-DER),Landed 22:11,2021-06-15
+50,50,22:30 EI497,,Faro (FAO),Aer Lingus A320 (EI-DEN),Landed 22:02,2021-06-15
+51,51,22:30 FR5611,,Palanga (PLQ),Ryanair B738 (EI-DHP),Landed 22:16,2021-06-15
+52,52,22:40 FR6186,,Palma de Mallorca (PMI),Ryanair B738 (EI-ENA),Landed 22:21,2021-06-15
+53,53,23:30 FR271,,London (STN),Ryanair B738 (EI-ENP),Landed 23:05,2021-06-15
+54,54,23:50 FR7149,,Vilnius (VNO),Ryanair B738 (EI-EVA),Landed 23:35,2021-06-15

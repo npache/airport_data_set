@@ -1,0 +1,779 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:01,TG337,Bangkok (BKK),Thai Airways A359 (HS-THD),Landed 23:03,2021-06-08
+1,1,00:05 SG387,,Kolkata (CCU),SpiceJet 737,Unknown,2021-06-08
+2,2,00:10 6E294,,Kolkata (CCU),IndiGo A20N (VT-ITO),Unknown,2021-06-08
+3,3,01:20 KU1343,,Kuwait City (KWI),Kuwait Airways A338 (9K-APG),Landed 01:03,2021-06-08
+4,4,02:20 QR8394,,Doha (DOH),Qatar Airways B789 (A7-BHC),Landed 01:54,2021-06-08
+5,5,03:40 G9471,,Sharjah (SHJ),Air Arabia A320 (A6-AOP),Landed 03:35,2021-06-08
+6,6,04:40 AI950,,Kannur (CNN),Air India A321 (VT-PPE),Landed 03:59,2021-06-08
+7,7,04:40 6E1776,,Doha (DOH),IndiGo A20N (VT-IJJ),Landed 04:54,2021-06-08
+8,8,04:50 YG9129,,Kunming (KMG),YTO Cargo Airlines B752 (B-2859),Landed 11:35,2021-06-08
+9,9,06:55 O37069,,Shenzhen (SZX),SF Airlines B744 (B-2422),Landed 18:34,2021-06-08
+10,10,06:55 SG445,,Hyderabad (HYD),SpiceJet 737,Canceled,2021-06-08
+11,11,07:00 SG7089,,Delhi (DEL),SpiceXpress B737 (VT-SFB),Landed 07:17,2021-06-08
+12,12,07:20 SG3010,,Bengaluru (BLR),SpiceJet DH8D (VT-SUT),Unknown,2021-06-08
+13,13,07:40 G8305,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-08
+14,14,08:00 SG611,,Mumbai (BOM),SpiceJet B737 (VT-SLP),Landed 07:43,2021-06-08
+15,15,08:15 6E6269,,Bengaluru (BLR),IndiGo AT76 (VT-IYM),Landed 08:01,2021-06-08
+16,16,08:25 BZ201,,Bengaluru (BLR),Blue Dart Aviation B752 (VT-BDB),Landed 08:07,2021-06-08
+17,17,08:25 EK544,,Dubai (DXB),Emirates B77W (A6-EGA),Landed 08:03,2021-06-08
+18,18,08:35 I5510,,Hyderabad (HYD),AirAsia India 320,Canceled,2021-06-08
+19,19,08:40 BZ481,,Hyderabad (HYD),Blue Dart Aviation B752 (VT-BDO),Landed 08:22,2021-06-08
+20,20,08:55 CX43,,Hong Kong (HKG),Cathay Pacific 74Y,Unknown,2021-06-08
+21,21,09:10 SG107,,Delhi (DEL),SpiceJet 737,Unknown,2021-06-08
+22,22,09:15 6E121,,Hyderabad (HYD),IndiGo A20N (VT-IVN),Landed 08:49,2021-06-08
+23,23,09:35 2T532,,Salem (SXV),Trujet AT7,Unknown,2021-06-08
+24,24,09:40 6E7194,,Madurai (IXM),IndiGo AT76 (VT-IYG),Landed 09:09,2021-06-08
+25,25,09:45 6E7186,,Tuticorin (TCR),IndiGo AT76 (VT-IYN),Landed 09:29,2021-06-08
+26,26,09:55 6E905,,Port Blair (IXZ),IndiGo A20N (VT-IVC),Landed 09:25,2021-06-08
+27,27,10:00,UK833,Delhi (DEL),Vistara A20N (VT-TNV),Landed 09:48,2021-06-08
+28,28,10:10 AI550,,Port Blair (IXZ),Air India A321 (VT-PPD),Landed 09:41,2021-06-08
+29,29,10:55,AI671,Mumbai (BOM),Air India A20N (VT-CIE),Landed 11:27,2021-06-08
+30,30,11:30 6E238,,Ahmedabad (AMD),IndiGo A20N (VT-ITO),Landed 11:05,2021-06-08
+31,31,11:45 6E6212,,Bengaluru (BLR),IndiGo AT76 (VT-IYH),Landed 11:40,2021-06-08
+32,32,12:05 SG607,,Port Blair (IXZ),SpiceJet 737,Unknown,2021-06-08
+33,33,12:10 6E5322,,Mumbai (BOM),IndiGo A20N (VT-ISQ),Landed 11:49,2021-06-08
+34,34,12:40,AI429,Delhi (DEL),Air India A321 (VT-PPT),Landed 12:30,2021-06-08
+35,35,12:45 6E2129,,Delhi (DEL),IndiGo A20N (VT-IVX),Landed 12:25,2021-06-08
+36,36,12:50 G8304,,Port Blair (IXZ),Go Air 32A,Canceled,2021-06-08
+37,37,12:55 6E882,,Coimbatore (CJB),IndiGo AT76 (VT-IYM),Landed 12:41,2021-06-08
+38,38,13:40 6E696,,Visakhapatnam (VTZ),IndiGo AT76 (VT-IYW),Landed 13:56,2021-06-08
+39,39,15:05 AI672,,Madurai (IXM),Air India A20N (VT-CIE),Landed 15:08,2021-06-08
+40,40,15:05 6E141,,Cochin (COK),IndiGo AT76 (VT-IYN),Landed 15:17,2021-06-08
+41,41,15:10 2T536,,Cuddapah (CDP),Trujet AT7,Unknown,2021-06-08
+42,42,15:15 6E311,,Thiruvananthapuram (TRV),IndiGo AT76 (VT-IYR),Landed 15:27,2021-06-08
+43,43,15:20 6E6074,,Jodhpur (JDH),IndiGo A21N (VT-IUR),Landed 15:11,2021-06-08
+44,44,15:20 6E597,,Hyderabad (HYD),IndiGo AT76 (VT-IYC),Landed 15:14,2021-06-08
+45,45,15:25 6E804,,Port Blair (IXZ),IndiGo A20N (VT-IVC),Landed 15:34,2021-06-08
+46,46,15:45 6E7131,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYG),Landed 15:24,2021-06-08
+47,47,16:05 I5556,,Kolkata (CCU),AirAsia India 320,Unknown,2021-06-08
+48,48,16:10 6E841,,Bengaluru (BLR),IndiGo AT76 (VT-IYP),Landed 15:55,2021-06-08
+49,49,16:15 AI539,,Coimbatore (CJB),Air India A321 (VT-PPT),Landed 15:47,2021-06-08
+50,50,16:20 UK839,,Delhi (DEL),Vistara A20N (VT-TNU),Landed 16:06,2021-06-08
+51,51,16:50 SG521,,Goa (GOI),SpiceJet 737,Unknown,2021-06-08
+52,52,17:05 6E848,,Coimbatore (CJB),IndiGo AT76 (VT-IYM),Landed 16:57,2021-06-08
+53,53,17:15 QR8054,,Doha (DOH),Qatar Airways B77W (A7-BAP),Landed 16:48,2021-06-08
+54,54,17:15 SG766,,Jharsuguda (JRG),SpiceJet 737,Unknown,2021-06-08
+55,55,17:35 6E547,,Pune (PNQ),IndiGo A20N (VT-ITO),Landed 17:06,2021-06-08
+56,56,17:55 6E7916,,-,IndiGo AT76 (VT-IYW),Landed 17:24,2021-06-08
+57,57,18:15 SG548,,Patna (PAT),SpiceJet 737,Unknown,2021-06-08
+58,58,18:20 6E6827,,Kolkata (CCU),IndiGo A20N (VT-IVR),Landed 18:24,2021-06-08
+59,59,18:55 AI512,,Thiruvananthapuram (TRV),Air India 32B,Unknown,2021-06-08
+60,60,18:55 6E864,,Delhi (DEL),IndiGo A21N (VT-ILE),Landed 18:47,2021-06-08
+61,61,19:05 AI1126,,Delhi (DEL),Air India A20N (VT-EXR),Landed 19:18,2021-06-08
+62,62,19:35 SG7827,,Male (MLE),SpiceJet B738 (VT-SLM),Landed 18:31,2021-06-08
+63,63,19:40 6E7198,,Madurai (IXM),IndiGo AT76 (VT-IYG),Landed 19:26,2021-06-08
+64,64,19:55 6E986,,Cochin (COK),IndiGo ATR,Canceled,2021-06-08
+65,65,20:25 6E6174,,Hyderabad (HYD),IndiGo AT76 (VT-IYN),Landed 20:27,2021-06-08
+66,66,20:30 G8303,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-08
+67,67,20:45 2T203,,Hyderabad (HYD),Trujet AT7,Unknown,2021-06-08
+68,68,21:10 6E601,,Bengaluru (BLR),IndiGo AT76 (VT-IYM),Landed 21:11,2021-06-08
+69,69,21:10 6E2168,,Delhi (DEL),IndiGo A20N (VT-ITR),Landed 20:43,2021-06-08
+70,70,21:15 I5765,,Delhi (DEL),AirAsia India 320,Unknown,2021-06-08
+71,71,21:15 SG8103,,Delhi (DEL),SpiceJet 737,Canceled,2021-06-08
+72,72,21:40 SG7840,,Male (MLE),SpiceJet DH8D (VT-SUL),Unknown,2021-06-08
+73,73,21:45 SG251,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-08
+74,74,21:55 6E7918,,Kannur (CNN),IndiGo AT76 (VT-IYH),Landed 21:21,2021-06-08
+75,75,22:00 2T538,,Mysore (MYQ),Trujet AT7,Unknown,2021-06-08
+76,76,22:05 SG732,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-08
+77,77,22:05 6E911,,Mumbai (BOM),IndiGo A20N (VT-IVX),Landed 21:31,2021-06-08
+78,78,22:35 SG696,,Guwahati (GAU),SpiceJet 737,Unknown,2021-06-08
+79,79,22:45,MH180,Kuala Lumpur (KUL),Malaysia Airlines 333,Canceled,2021-06-08
+80,80,22:55 G8912,,Ahmedabad (AMD),Go Air 32A,Canceled,2021-06-08
+81,81,23:05 6E7212,,Madurai (IXM),IndiGo AT76 (VT-IYW),Landed 22:28,2021-06-08
+82,82,23:20 SG297,,Ahmedabad (AMD),SpiceJet 737,Unknown,2021-06-08
+83,83,23:35,AI540,Delhi (DEL),Air India A321 (VT-PPT),Landed 23:19,2021-06-08
+84,84,23:35 6E2162,,Delhi (DEL),IndiGo 320,Canceled,2021-06-08
+85,85,23:40 6E6007,,Hyderabad (HYD),IndiGo AT76 (VT-IYG),Landed 23:36,2021-06-08
+0,0,00:25 CX2033,,Hong Kong (HKG),Cathay Pacific Cargo B744 (B-LIA),Landed 00:10,2021-06-09
+1,1,00:30 6E6283,,Guwahati (GAU),IndiGo A20N (VT-ISQ),Landed 00:20,2021-06-09
+2,2,02:10 6E6972,,Patna (PAT),IndiGo 320,Canceled,2021-06-09
+3,3,02:20 QR528,,Doha (DOH),Qatar Airways B788 (A7-BCK),Landed 02:14,2021-06-09
+4,4,02:40 EK542,,Dubai (DXB),Emirates 77W,Unknown,2021-06-09
+5,5,02:45 J91427,,Kuwait City (KWI),Jazeera Airways A20N (9K-CBF),Landed 02:27,2021-06-09
+6,6,03:25 UL1029,,Colombo (CMB),SriLankan Airlines A332 (4R-ALS),Landed 03:08,2021-06-09
+7,7,03:40 G9471,,Sharjah (SHJ),Air Arabia 320,Canceled,2021-06-09
+8,8,05:35 SQ7362,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-06-09
+9,9,06:40 O37069,,Shenzhen (SZX),SF Airlines 73F,Unknown,2021-06-09
+10,10,06:55 SG445,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-09
+11,11,07:00 SG7131,,Delhi (DEL),SpiceXpress B738 (VT-SFG),Landed 06:54,2021-06-09
+12,12,07:20 SG3010,,Bengaluru (BLR),SpiceJet DH8D (VT-SUT),Unknown,2021-06-09
+13,13,07:35 WY251,,Muscat (MCT),Oman Air B738 (A4O-BAF),Landed 07:28,2021-06-09
+14,14,07:40 G8305,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-09
+15,15,08:00 SG611,,Mumbai (BOM),SpiceJet B738 (VT-SGV),Unknown,2021-06-09
+16,16,08:10 6E271,,Kolkata (CCU),IndiGo A20N (VT-IJF),Landed 07:25,2021-06-09
+17,17,08:15 6E6269,,Bengaluru (BLR),IndiGo AT76 (VT-IYO),Landed 08:05,2021-06-09
+18,18,08:25 BZ201,,Bengaluru (BLR),Blue Dart Aviation B752 (VT-BDN),Landed 08:21,2021-06-09
+19,19,08:25 EK544,,Dubai (DXB),Emirates B77W (A6-EGH),Landed 08:08,2021-06-09
+20,20,08:40 BZ481,,Hyderabad (HYD),Blue Dart Aviation B752 (VT-BDM),Landed 08:41,2021-06-09
+21,21,08:40 SG107,,Delhi (DEL),SpiceJet B737 (VT-SYU),Landed 08:24,2021-06-09
+22,22,08:45 SG7675,,Bengaluru (BLR),SpiceJet B739 (VT-SZL),Landed 09:26,2021-06-09
+23,23,09:00 LH8472,,Frankfurt (FRA),Lufthansa Cargo B77L (D-ALFD),Landed 08:36,2021-06-09
+24,24,09:15 6E121,,Hyderabad (HYD),IndiGo AT76 (VT-IYZ),Landed 09:31,2021-06-09
+25,25,09:20 QR8622,,Doha (DOH),Qatar Cargo B77L (A7-BFD),Landed 08:45,2021-06-09
+26,26,09:35 2T532,,Salem (SXV),Trujet AT7,Unknown,2021-06-09
+27,27,09:40 6E7194,,Madurai (IXM),IndiGo AT76 (VT-IYR),Landed 09:13,2021-06-09
+28,28,10:45 MH182,,Kuala Lumpur (KUL),Malaysia Airlines 333,Canceled,2021-06-09
+29,29,10:55,AI671,Mumbai (BOM),Air India A20N (VT-CID),Landed 10:39,2021-06-09
+30,30,11:20 6E9022,,Singapore (SIN),IndiGo A320 (VT-IFH),Landed 14:04,2021-06-09
+31,31,11:30 UK825,,Mumbai (BOM),Vistara B738 (VT-TGD),Landed 11:20,2021-06-09
+32,32,11:30 6E238,,Ahmedabad (AMD),IndiGo A20N (VT-ITR),Landed 11:09,2021-06-09
+33,33,11:40 SG324,,Siliguri (IXB),SpiceJet 737,Unknown,2021-06-09
+34,34,11:40 6E6212,,Bengaluru (BLR),IndiGo A20N (VT-IVV),Landed 11:24,2021-06-09
+35,35,12:05 SG607,,Port Blair (IXZ),SpiceJet 737,Unknown,2021-06-09
+36,36,12:10 6E5322,,Mumbai (BOM),IndiGo A20N (VT-IJJ),Landed 11:41,2021-06-09
+37,37,12:40,AI429,Delhi (DEL),Air India A321 (VT-PPT),Landed 12:29,2021-06-09
+38,38,12:40 6E7146,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYO),Landed 12:26,2021-06-09
+39,39,12:45 6E2129,,Delhi (DEL),IndiGo A20N (VT-IJQ),Landed 12:39,2021-06-09
+40,40,12:50 G8304,,Port Blair (IXZ),Go Air 32A,Canceled,2021-06-09
+41,41,12:55 6E882,,Coimbatore (CJB),IndiGo A20N (VT-ITY),Landed 12:17,2021-06-09
+42,42,13:35 6E192,,Kolkata (CCU),IndiGo A20N (VT-IVX),Landed 12:58,2021-06-09
+43,43,13:40 6E696,,Visakhapatnam (VTZ),IndiGo A20N (VT-ISS),Landed 13:14,2021-06-09
+44,44,13:55 AI672,,Madurai (IXM),Air India A20N (VT-CID),Landed 13:55,2021-06-09
+45,45,14:00 AI908,,Muscat (MCT),Air India A20N (VT-EXL),Landed 14:21,2021-06-09
+46,46,14:15 RH9375,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNZ),Landed 14:17,2021-06-09
+47,47,15:10 2T536,,Cuddapah (CDP),Trujet AT7,Unknown,2021-06-09
+48,48,15:15 6E311,,Thiruvananthapuram (TRV),IndiGo A20N (VT-ISI),Landed 14:48,2021-06-09
+49,49,15:20 6E6074,,Jodhpur (JDH),IndiGo A21N (VT-IUR),Landed 15:26,2021-06-09
+50,50,15:20 6E597,,Hyderabad (HYD),IndiGo A20N (VT-IJI),Landed 14:43,2021-06-09
+51,51,15:25 6E804,,Port Blair (IXZ),IndiGo 320,Unknown,2021-06-09
+52,52,16:05 I5556,,Kolkata (CCU),AirAsia India 320,Unknown,2021-06-09
+53,53,16:10 6E841,,Bengaluru (BLR),IndiGo AT76 (VT-IYT),Landed 15:54,2021-06-09
+54,54,16:15 AI539,,Coimbatore (CJB),Air India A321 (VT-PPT),Landed 15:47,2021-06-09
+55,55,16:20 UK839,,Delhi (DEL),Vistara A20N (VT-TNK),Landed 16:01,2021-06-09
+56,56,16:25 6E141,,Cochin (COK),IndiGo AT76 (VT-IYW),Landed 16:17,2021-06-09
+57,57,16:50 SG521,,Goa (GOI),SpiceJet 737,Unknown,2021-06-09
+58,58,17:05 AI765,,Kolkata (CCU),Air India A321 (VT-PPE),Landed 16:44,2021-06-09
+59,59,17:05 6E848,,Coimbatore (CJB),IndiGo AT76 (VT-IYN),Landed 17:16,2021-06-09
+60,60,17:15 SG766,,Jharsuguda (JRG),SpiceJet 737,Unknown,2021-06-09
+61,61,17:20 SG450,,Kolkata (CCU),SpiceJet 737,Unknown,2021-06-09
+62,62,17:45 6E7188,,Tuticorin (TCR),IndiGo AT76 (VT-IYG),Landed 17:26,2021-06-09
+63,63,18:15 TK6548,,Istanbul (ISL),Turkish Cargo A332 (TC-JDP),Landed 21:24,2021-06-09
+64,64,18:40 SG452,,Siliguri (IXB),SpiceJet 737,Unknown,2021-06-09
+65,65,18:45 6E6827,,Kolkata (CCU),IndiGo A20N (VT-ITR),Landed 18:14,2021-06-09
+66,66,18:55 6E864,,Delhi (DEL),IndiGo A20N (VT-ISC),Landed 18:33,2021-06-09
+67,67,19:00 6E925,,Patna (PAT),IndiGo A20N (VT-IZQ),Landed 18:23,2021-06-09
+68,68,19:05 AI1126,,Delhi (DEL),Air India A321 (VT-PPJ),Landed 18:57,2021-06-09
+69,69,19:40 6E7198,,Madurai (IXM),IndiGo AT76 (VT-IYR),Landed 19:18,2021-06-09
+70,70,19:55 6E986,,Cochin (COK),IndiGo ATR,Canceled,2021-06-09
+71,71,20:25 6E6174,,Hyderabad (HYD),IndiGo A320 (VT-IAX),Landed 19:57,2021-06-09
+72,72,20:30 G8303,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-09
+73,73,20:45 2T203,,Hyderabad (HYD),Trujet AT7,Unknown,2021-06-09
+74,74,20:55 SG3466,,Bengaluru (BLR),SpiceJet DH8D (VT-SUT),Unknown,2021-06-09
+75,75,21:10 6E601,,Bengaluru (BLR),IndiGo AT76 (VT-IYG),Landed 21:05,2021-06-09
+76,76,21:10 6E2168,,Delhi (DEL),IndiGo A20N (VT-IVM),Landed 20:49,2021-06-09
+77,77,21:15 I5765,,Delhi (DEL),AirAsia India 320,Unknown,2021-06-09
+78,78,21:15 SG8103,,Delhi (DEL),SpiceJet B737 (VT-SLA),Landed 21:03,2021-06-09
+79,79,21:45 SG251,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-09
+80,80,21:55 6E7918,,Kannur (CNN),IndiGo AT76 (VT-IYO),Landed 21:00,2021-06-09
+81,81,22:00 2T538,,Mysore (MYQ),Trujet AT7,Unknown,2021-06-09
+82,82,22:05 SG732,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-09
+83,83,22:05 6E911,,Mumbai (BOM),IndiGo A320 (VT-IKC),Landed 21:47,2021-06-09
+84,84,22:35 AI546,,Hyderabad (HYD),Air India 321,Unknown,2021-06-09
+85,85,22:35 SG696,,Guwahati (GAU),SpiceJet B738 (VT-SLM),Landed 22:12,2021-06-09
+86,86,22:40 CX17,,Hong Kong (HKG),Cathay Pacific Cargo B744 (B-LID),Landed 22:13,2021-06-09
+87,87,22:45,MH180,Kuala Lumpur (KUL),Malaysia Airlines A333 (9M-MTM),Landed 22:24,2021-06-09
+88,88,22:55 FZ8517,,Dubai (DXB),flydubai B738 (A6-FGI),Landed 22:38,2021-06-09
+89,89,22:55 G8912,,Ahmedabad (AMD),Go Air 32A,Canceled,2021-06-09
+90,90,23:05 SG297,,Andal (RDP),SpiceJet B737 (VT-SYU),Unknown,2021-06-09
+91,91,23:05 6E7212,,Madurai (IXM),IndiGo AT76 (VT-IYZ),Landed 22:47,2021-06-09
+92,92,23:35,AI540,Delhi (DEL),Air India A321 (VT-PPT),Landed 23:06,2021-06-09
+93,93,23:35 6E2162,,Delhi (DEL),IndiGo A20N (VT-ISR),Landed 23:12,2021-06-09
+94,94,23:40 6E6007,,Hyderabad (HYD),IndiGo AT76 (VT-IYR),Landed 23:30,2021-06-09
+0,0,00:05 SG387,,Kolkata (CCU),SpiceJet 737,Unknown,2021-06-10
+1,1,00:10 6E294,,Kolkata (CCU),IndiGo A20N (VT-ITR),Landed 00:01,2021-06-10
+2,2,00:45,EY268,Abu Dhabi (AUH),Etihad (Abu Dhabi Grand Prix Livery) B789 (A6-BLV),Landed 00:35,2021-06-10
+3,3,01:20 KU1343,,Kuwait City (KWI),Kuwait Airways A338 (9K-APG),Landed 00:51,2021-06-10
+4,4,02:20 QR528,,Doha (DOH),Qatar Airways B788 (A7-BCQ),Landed 02:03,2021-06-10
+5,5,02:40 EK542,,Dubai (DXB),Emirates 77W,Unknown,2021-06-10
+6,6,03:40 G9471,,Sharjah (SHJ),Air Arabia A320 (A6-AOR),Landed 03:44,2021-06-10
+7,7,04:40 6E1776,,Doha (DOH),IndiGo A20N (VT-IJQ),Landed 04:45,2021-06-10
+8,8,04:45 O37069,,Shenzhen (SZX),SF Airlines 737,Unknown,2021-06-10
+9,9,04:50 YG9129,,Kunming (KMG),YTO Cargo Airlines 73F,Unknown,2021-06-10
+10,10,05:45 SG7805,,Bengaluru (BLR),SpiceXpress B738 (VT-SFG),Canceled,2021-06-10
+11,11,06:30 QR8394,,Doha (DOH),Qatar Airways (FIFA World Cup 2022 Livery) B77W (A7-BEC),Landed 06:14,2021-06-10
+12,12,06:55 SG445,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-10
+13,13,07:20 SG3010,,Bengaluru (BLR),SpiceJet DH8D (VT-SUT),Unknown,2021-06-10
+14,14,07:40 G8305,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-10
+15,15,07:45 EK9349,,Hong Kong (HKG),Emirates 772,Unknown,2021-06-10
+16,16,08:00 SG611,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-10
+17,17,08:05 AI516,,Bengaluru (BLR),Air India 319,Unknown,2021-06-10
+18,18,08:15 6E6269,,Bengaluru (BLR),IndiGo AT76 (VT-IYO),Landed 07:58,2021-06-10
+19,19,08:25 BZ201,,Bengaluru (BLR),Blue Dart Aviation B752 (VT-BDO),Landed 08:28,2021-06-10
+20,20,08:25 EK544,,Dubai (DXB),Emirates (Expo 2020 - Opportunity Livery) B77W (A6-ECU),Landed 08:02,2021-06-10
+21,21,08:35 I5510,,Hyderabad (HYD),AirAsia India 320,Unknown,2021-06-10
+22,22,08:40 BZ481,,Hyderabad (HYD),Blue Dart Aviation B752 (VT-BDB),Landed 08:35,2021-06-10
+23,23,08:45 SG7675,,Bengaluru (BLR),SpiceJet B739 (VT-SZL),Landed 09:16,2021-06-10
+24,24,09:10 SG107,,Delhi (DEL),SpiceJet 737,Unknown,2021-06-10
+25,25,09:15 6E121,,Hyderabad (HYD),IndiGo AT76 (VT-IYY),Landed 09:22,2021-06-10
+26,26,09:35 2T532,,Salem (SXV),Trujet AT7,Unknown,2021-06-10
+27,27,09:40 6E7194,,Madurai (IXM),IndiGo AT76 (VT-IYN),Landed 09:13,2021-06-10
+28,28,09:45 6E7186,,Tuticorin (TCR),IndiGo AT76 (VT-IYZ),Landed 09:23,2021-06-10
+29,29,10:10 AI550,,Port Blair (IXZ),Air India A321 (VT-PPD),Landed 10:07,2021-06-10
+30,30,10:55,AI671,Mumbai (BOM),Air India A20N (VT-CIF),Landed 10:41,2021-06-10
+31,31,11:00 AI346,,Delhi (DEL),Air India B788 (VT-ANM),Landed 10:12,2021-06-10
+32,32,11:30 6E238,,Ahmedabad (AMD),IndiGo A20N (VT-ITR),Landed 11:09,2021-06-10
+33,33,11:45 6E6212,,Bengaluru (BLR),IndiGo A320 (VT-IFG),Landed 11:47,2021-06-10
+34,34,12:05 SG607,,Port Blair (IXZ),SpiceJet 737,Unknown,2021-06-10
+35,35,12:10 6E5322,,Mumbai (BOM),IndiGo A20N (VT-ISS),Landed 11:35,2021-06-10
+36,36,12:30 ET3685,,Hong Kong (HKG),Ethiopian Airlines 772,Unknown,2021-06-10
+37,37,12:40,AI429,Delhi (DEL),Air India A321 (VT-PPT),Landed 12:22,2021-06-10
+38,38,12:45 6E2129,,Delhi (DEL),IndiGo A20N (VT-IVV),Landed 12:27,2021-06-10
+39,39,12:50 G8304,,Port Blair (IXZ),Go Air 32A,Canceled,2021-06-10
+40,40,12:55 6E882,,Coimbatore (CJB),IndiGo AT76 (VT-IYO),Landed 12:42,2021-06-10
+41,41,13:30 6E9999,,Delhi (DEL),IndiGo AT76 (VT-IYI),Unknown,2021-06-10
+42,42,13:40 6E696,,Visakhapatnam (VTZ),IndiGo AT76 (VT-IYG),Landed 13:55,2021-06-10
+43,43,13:55 AI672,,Madurai (IXM),Air India A20N (VT-CIF),Landed 14:01,2021-06-10
+44,44,15:10 2T536,,Cuddapah (CDP),Trujet AT7,Unknown,2021-06-10
+45,45,15:15 6E311,,Thiruvananthapuram (TRV),IndiGo AT76 (VT-IYY),Landed 15:33,2021-06-10
+46,46,15:20 6E6074,,Jodhpur (JDH),IndiGo A21N (VT-IUR),Landed 15:15,2021-06-10
+47,47,15:20 6E597,,Hyderabad (HYD),IndiGo AT76 (VT-IYA),Landed 15:05,2021-06-10
+48,48,15:25 6E804,,Port Blair (IXZ),IndiGo A20N (VT-ITY),Landed 15:26,2021-06-10
+49,49,15:45 6E7131,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYN),Landed 15:23,2021-06-10
+50,50,16:05 I5556,,Kolkata (CCU),AirAsia India 320,Unknown,2021-06-10
+51,51,16:10 6E841,,Bengaluru (BLR),IndiGo AT76 (VT-IYF),Landed 15:52,2021-06-10
+52,52,16:15 AI539,,Coimbatore (CJB),Air India A321 (VT-PPT),Landed 15:56,2021-06-10
+53,53,16:20 UK839,,Delhi (DEL),Vistara A20N (VT-TNJ),Landed 16:06,2021-06-10
+54,54,16:25 6E141,,Cochin (COK),IndiGo AT76 (VT-IYZ),Landed 16:27,2021-06-10
+55,55,16:35 SG7806,,Kuala Lumpur (KUL),SpiceXpress B738 (VT-SFG),Canceled,2021-06-10
+56,56,16:50 SG521,,Goa (GOI),SpiceJet 737,Unknown,2021-06-10
+57,57,17:05 6E848,,Coimbatore (CJB),IndiGo AT76 (VT-IYW),Landed 17:14,2021-06-10
+58,58,17:15 SG766,,Jharsuguda (JRG),SpiceJet 737,Unknown,2021-06-10
+59,59,17:35 6E547,,Pune (PNQ),IndiGo A20N (VT-ITR),Landed 17:10,2021-06-10
+60,60,17:55 6E7916,,-,IndiGo AT76 (VT-IYG),Landed 17:17,2021-06-10
+61,61,18:00 6E9963,,Male (MLE),IndiGo 320,Unknown,2021-06-10
+62,62,18:15 CX2043,,Hong Kong (HKG),Cathay Pacific Cargo B744 (B-LIF),Landed 17:37,2021-06-10
+63,63,18:15 SG548,,Patna (PAT),SpiceJet B738 (VT-SLM),Landed 17:30,2021-06-10
+64,64,18:20 6E6827,,Kolkata (CCU),IndiGo A20N (VT-ISC),Landed 17:54,2021-06-10
+65,65,18:55 6E864,,Delhi (DEL),IndiGo A20N (VT-IJO),Landed 18:46,2021-06-10
+66,66,19:05 AI1126,,Delhi (DEL),Air India A20N (VT-EXU),Landed 18:55,2021-06-10
+67,67,19:40 6E7198,,Madurai (IXM),IndiGo AT76 (VT-IYN),Landed 19:17,2021-06-10
+68,68,19:50 I52393,,Bengaluru (BLR),AirAsia A320 (VT-BOM),Canceled,2021-06-10
+69,69,19:55 6E986,,Cochin (COK),IndiGo ATR,Unknown,2021-06-10
+70,70,20:25 6E6174,,Hyderabad (HYD),IndiGo A20N (VT-ITY),Landed 20:00,2021-06-10
+71,71,20:30 G8303,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-10
+72,72,20:45 2T203,,Hyderabad (HYD),Trujet AT7,Unknown,2021-06-10
+73,73,20:55 SG3466,,Bengaluru (BLR),SpiceJet DH8,Canceled,2021-06-10
+74,74,21:10 6E601,,Bengaluru (BLR),IndiGo AT76 (VT-IYW),Landed 21:20,2021-06-10
+75,75,21:10 6E2168,,Delhi (DEL),IndiGo A20N (VT-IZN),Landed 20:35,2021-06-10
+76,76,21:15 SG8103,,Delhi (DEL),SpiceJet 737,Canceled,2021-06-10
+77,77,21:45 SG251,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-10
+78,78,21:55 6E7918,,Kannur (CNN),IndiGo AT76 (VT-IYO),Landed 20:57,2021-06-10
+79,79,22:00 2T538,,Mysore (MYQ),Trujet AT7,Unknown,2021-06-10
+80,80,22:05 SG732,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-10
+81,81,22:05 6E911,,Mumbai (BOM),IndiGo A20N (VT-ISS),Landed 21:33,2021-06-10
+82,82,22:20 AI347,,Singapore (SIN),Air India B788 (VT-ANM),Landed 22:13,2021-06-10
+83,83,22:35 SG696,,Guwahati (GAU),SpiceJet 737,Unknown,2021-06-10
+84,84,22:45,MH180,Kuala Lumpur (KUL),Malaysia Airlines 333,Canceled,2021-06-10
+85,85,22:55 G8912,,Ahmedabad (AMD),Go Air 32A,Canceled,2021-06-10
+86,86,23:05 6E7212,,Madurai (IXM),IndiGo AT76 (VT-IYG),Landed 22:21,2021-06-10
+87,87,23:20 SG297,,Ahmedabad (AMD),SpiceJet 737,Unknown,2021-06-10
+88,88,23:35,AI540,Delhi (DEL),Air India A321 (VT-PPT),Landed 23:13,2021-06-10
+89,89,23:35 6E2162,,Delhi (DEL),IndiGo A20N (VT-IZW),Landed 23:21,2021-06-10
+90,90,23:40 6E6007,,Hyderabad (HYD),IndiGo AT76 (VT-IYD),Landed 00:04,2021-06-10
+0,0,12:01 AM TG337,,Bangkok (BKK),Thai Airways 359,Canceled,2021-06-11
+1,1,12:20 AM UL1426,,Colombo (CMB),SriLankan Airlines -,Canceled,2021-06-11
+2,2,12:30 AM 6E6283,,Guwahati (GAU),IndiGo A20N (VT-IVA),Landed 12:08 AM,2021-06-11
+3,3,1:35 AM 6E9694,,Ho Chi Minh City (SGN),IndiGo A21N (VT-IUA),Landed 1:15 AM,2021-06-11
+4,4,2:10 AM 6E6972,,Patna (PAT),IndiGo A20N (VT-ITR),Landed 1:04 AM,2021-06-11
+5,5,2:20 AM QR528,,Doha (DOH),Qatar Airways B788 (A7-BCG),Landed 2:28 AM,2021-06-11
+6,6,2:40 AM EK542,,Dubai (DXB),Emirates 77W,Unknown,2021-06-11
+7,7,2:45 AM J91427,,Kuwait City (KWI),Jazeera Airways A20N (9K-CBF),Landed 2:43 AM,2021-06-11
+8,8,3:25 AM AI274,,Colombo (CMB),Air India 32B,Unknown,2021-06-11
+9,9,3:40 AM G9471,,Sharjah (SHJ),Air Arabia A320 (A6-ANT),Landed 3:27 AM,2021-06-11
+10,10,4:00 AM FZ447,,Dubai (DXB),FlyDubai 73H,Canceled,2021-06-11
+11,11,4:40 AM AI938,,Kozhikode (CCJ),Air India A321 (VT-PPE),Landed 4:25 AM,2021-06-11
+12,12,4:50 AM 6E66,,Dubai (DXB),IndiGo 320,Unknown,2021-06-11
+13,13,5:00 AM QR8624,,Doha (DOH),Qatar Cargo B77L (A7-BFI),Landed 4:32 AM,2021-06-11
+14,14,6:40 AM O37069,,Shenzhen (SZX),SF Airlines B744 (B-2422),Unknown,2021-06-11
+15,15,6:55 AM SG445,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-11
+16,16,7:20 AM SG3010,,Bengaluru (BLR),SpiceJet DH8,Unknown,2021-06-11
+17,17,7:30 AM AI1962,,Hyderabad (HYD),Air India A20N (VT-EXL),Landed 7:46 AM,2021-06-11
+18,18,7:40 AM G8305,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-11
+19,19,8:00 AM SG611,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-11
+20,20,8:05 AM AI516,,Bengaluru (BLR),Air India 319,Unknown,2021-06-11
+21,21,8:10 AM 6E271,,Kolkata (CCU),IndiGo 320,Canceled,2021-06-11
+22,22,8:15 AM 6E6269,,Bengaluru (BLR),IndiGo AT76 (VT-IYB),Landed 7:59 AM,2021-06-11
+23,23,8:25 AM BZ201,,Bengaluru (BLR),Blue Dart Aviation B752 (VT-BDA),Landed 8:30 AM,2021-06-11
+24,24,8:25 AM EK544,,Dubai (DXB),Emirates B77W (A6-ECE),Landed 8:06 AM,2021-06-11
+25,25,8:35 AM I5510,,Hyderabad (HYD),AirAsia India 320,Unknown,2021-06-11
+26,26,8:40 AM BZ481,,Hyderabad (HYD),Blue Dart Aviation B752 (VT-BDN),Landed 8:27 AM,2021-06-11
+27,27,8:40 AM SG107,,Delhi (DEL),SpiceJet 737,Unknown,2021-06-11
+28,28,8:45 AM SG7676,,Bengaluru (BLR),SpiceJet B739 (VT-SZL),Landed 8:54 AM,2021-06-11
+29,29,8:50 AM UL1021,,Colombo (CMB),SriLankan Airlines A333 (4R-ALM),Landed 8:14 AM,2021-06-11
+30,30,9:15 AM 6E121,,Hyderabad (HYD),IndiGo AT76 (VT-IYO),Landed 9:05 AM,2021-06-11
+31,31,9:25 AM 6E5177,,Delhi (DEL),IndiGo A20N (VT-IJM),Landed 8:57 AM,2021-06-11
+32,32,9:35 AM 2T532,,Salem (SXV),Trujet AT7,Unknown,2021-06-11
+33,33,9:40 AM 6E7194,,Madurai (IXM),IndiGo AT76 (VT-IYW),Landed 9:18 AM,2021-06-11
+34,34,9:45 AM 6E7186,,Tuticorin (TCR),IndiGo AT76 (VT-IYG),Landed 9:22 AM,2021-06-11
+35,35,9:50 AM 6E9916,,Delhi (DEL),IndiGo A320 (VT-IFL),Diverted to BLR,2021-06-11
+36,36,9:50 AM 6E9915,,Bengaluru (BLR),IndiGo A320 (VT-IFL),Landed 11:27 AM,2021-06-11
+37,37,10:00 AM,UK833,Delhi (DEL),Vistara A20N (VT-TNY),Landed 9:54 AM,2021-06-11
+38,38,10:25 AM UL1427,,Singapore (SIN),SriLankan Airlines -,Canceled,2021-06-11
+39,39,10:45 AM MH182,,Kuala Lumpur (KUL),Malaysia Airlines 333,Canceled,2021-06-11
+40,40,10:55 AM,AI671,Mumbai (BOM),Air India A20N (VT-EXV),Landed 10:41 AM,2021-06-11
+41,41,11:05 AM SG7677,,Delhi (DEL),SpiceXpress B737 (VT-SFB),Landed 10:35 AM,2021-06-11
+42,42,11:15 AM 6E563,,Kolkata (CCU),IndiGo A20N (VT-ITD),Landed 10:23 AM,2021-06-11
+43,43,11:30 AM 6E238,,Ahmedabad (AMD),IndiGo A20N (VT-ISI),Landed 10:56 AM,2021-06-11
+44,44,11:30 AM UK825,,Mumbai (BOM),Vistara B738 (VT-TGG),Landed 11:03 AM,2021-06-11
+45,45,11:40 AM SG324,,Siliguri (IXB),SpiceJet 737,Unknown,2021-06-11
+46,46,11:40 AM 6E6212,,Bengaluru (BLR),IndiGo A20N (VT-ITQ),Landed 11:43 AM,2021-06-11
+47,47,12:10 PM 6E5322,,Mumbai (BOM),IndiGo A20N (VT-IZJ),Landed 11:38 AM,2021-06-11
+48,48,12:20 PM 6E9022,,Singapore (SIN),IndiGo A320 (VT-IFH),Landed 1:25 PM,2021-06-11
+49,49,12:40 PM 6E7146,,Tiruchirapalli (TRZ),IndiGo A320 (VT-IAX),Landed 12:13 PM,2021-06-11
+50,50,12:40 PM,AI429,Delhi (DEL),Air India A321 (VT-PPT),Landed 12:30 PM,2021-06-11
+51,51,12:45 PM 6E2129,,Delhi (DEL),IndiGo A20N (VT-ITS),Landed 12:26 PM,2021-06-11
+52,52,12:50 PM G8304,,Port Blair (IXZ),Go Air 32A,Canceled,2021-06-11
+53,53,12:55 PM 6E882,,Coimbatore (CJB),IndiGo AT76 (VT-IYD),Landed 12:43 PM,2021-06-11
+54,54,1:25 PM 6E7196,,Madurai (IXM),IndiGo AT76 (VT-IYG),Landed 1:02 PM,2021-06-11
+55,55,1:35 PM 6E192,,Kolkata (CCU),IndiGo A20N (VT-IZW),Landed 12:56 PM,2021-06-11
+56,56,1:40 PM 6E696,,Visakhapatnam (VTZ),IndiGo AT76 (VT-IYB),Landed 2:20 PM,2021-06-11
+57,57,1:55 PM AI672,,Madurai (IXM),Air India A20N (VT-EXV),Landed 2:02 PM,2021-06-11
+58,58,2:15 PM RH9375,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNV),Landed 1:35 PM,2021-06-11
+59,59,3:05 PM 6E928,,Mumbai (BOM),IndiGo A320 (VT-IAO),Landed 2:39 PM,2021-06-11
+60,60,3:10 PM 2T536,,Cuddapah (CDP),Trujet AT7,Unknown,2021-06-11
+61,61,3:15 PM 6E311,,Thiruvananthapuram (TRV),IndiGo A20N (VT-ITR),Landed 2:47 PM,2021-06-11
+62,62,3:20 PM 6E597,,Hyderabad (HYD),IndiGo A20N (VT-ITO),Landed 2:50 PM,2021-06-11
+63,63,3:20 PM 6E6074,,Jodhpur (JDH),IndiGo A21N (VT-IUR),Landed 3:02 PM,2021-06-11
+64,64,3:25 PM 6E804,,Port Blair (IXZ),IndiGo 320,Unknown,2021-06-11
+65,65,3:45 PM 6E7131,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYY),Landed 3:26 PM,2021-06-11
+66,66,3:55 PM I52461,,Bengaluru (BLR),AirAsia India 320,Unknown,2021-06-11
+67,67,4:05 PM I5556,,Kolkata (CCU),AirAsia India 320,Unknown,2021-06-11
+68,68,4:10 PM 6E841,,Bengaluru (BLR),IndiGo AT76 (VT-IYI),Landed 4:25 PM,2021-06-11
+69,69,4:15 PM AI539,,Coimbatore (CJB),Air India A321 (VT-PPT),Landed 4:04 PM,2021-06-11
+70,70,4:20 PM UK839,,Delhi (DEL),Vistara A21N (VT-TVA),Landed 4:11 PM,2021-06-11
+71,71,4:25 PM 6E141,,Cochin (COK),IndiGo AT76 (VT-IYW),Landed 4:17 PM,2021-06-11
+72,72,4:50 PM SG521,,Goa (GOI),SpiceJet 737,Unknown,2021-06-11
+73,73,5:05 PM AI765,,Kolkata (CCU),Air India A321 (VT-PPE),Landed 4:40 PM,2021-06-11
+74,74,5:05 PM 6E848,,Coimbatore (CJB),IndiGo AT76 (VT-IYO),Landed 5:07 PM,2021-06-11
+75,75,5:15 PM SG766,,Jharsuguda (JRG),SpiceJet 737,Unknown,2021-06-11
+76,76,5:20 PM SG450,,Kolkata (CCU),SpiceJet 737,Unknown,2021-06-11
+77,77,5:35 PM 6E547,,Pune (PNQ),IndiGo A20N (VT-ISI),Landed 5:16 PM,2021-06-11
+78,78,5:45 PM 6E7188,,Tuticorin (TCR),IndiGo AT76 (VT-IYG),Landed 5:56 PM,2021-06-11
+79,79,6:15 PM 6E956,,Varanasi (VNS),IndiGo A20N (VT-IZJ),Landed 5:51 PM,2021-06-11
+80,80,6:40 PM 6E1752,,Kuwait City (KWI),IndiGo A20N (VT-IJO),Landed 6:42 PM,2021-06-11
+81,81,6:40 PM SG452,,Siliguri (IXB),SpiceJet 737,Unknown,2021-06-11
+82,82,6:45 PM 6E6827,,Kolkata (CCU),IndiGo A20N (VT-IJI),Landed 6:31 PM,2021-06-11
+83,83,6:55 PM 6E864,,Delhi (DEL),IndiGo A20N (VT-IZV),Landed 6:45 PM,2021-06-11
+84,84,7:00 PM 6E925,,Patna (PAT),IndiGo A20N (VT-ISS),Landed 6:15 PM,2021-06-11
+85,85,7:05 PM AI1126,,Delhi (DEL),Air India B788 (VT-ANZ),Landed 6:37 PM,2021-06-11
+86,86,7:35 PM 6E6001,,Visakhapatnam (VTZ),IndiGo A20N (VT-IZW),Landed 6:54 PM,2021-06-11
+87,87,7:40 PM 6E7198,,Madurai (IXM),IndiGo AT76 (VT-IYY),Landed 7:27 PM,2021-06-11
+88,88,7:55 PM 6E986,,Cochin (COK),IndiGo AT76 (VT-IYB),Landed 7:40 PM,2021-06-11
+89,89,8:25 PM 6E6174,,Hyderabad (HYD),IndiGo A20N (VT-ITS),Landed 7:46 PM,2021-06-11
+90,90,8:30 PM G8303,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-11
+91,91,8:45 PM 2T203,,Hyderabad (HYD),Trujet AT7,Unknown,2021-06-11
+92,92,8:55 PM SG3466,,Bengaluru (BLR),SpiceJet DH8,Unknown,2021-06-11
+93,93,9:10 PM 6E601,,Bengaluru (BLR),IndiGo AT76 (VT-IYO),Landed 9:16 PM,2021-06-11
+94,94,9:10 PM 6E2168,,Delhi (DEL),IndiGo A20N (VT-IJJ),Landed 8:42 PM,2021-06-11
+95,95,9:15 PM SG8103,,Delhi (DEL),SpiceJet 737,Unknown,2021-06-11
+96,96,9:45 PM SG251,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-11
+97,97,9:55 PM 6E7918,,Kannur (CNN),IndiGo AT76 (VT-IYD),Landed 10:32 PM,2021-06-11
+98,98,10:00 PM I52462,,Guwahati (GAU),AirAsia India 320,Unknown,2021-06-11
+99,99,10:00 PM 2T538,,Mysore (MYQ),Trujet AT7,Unknown,2021-06-11
+100,100,10:05 PM SG732,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-11
+101,101,10:05 PM 6E911,,Mumbai (BOM),IndiGo A320 (VT-IEK),Landed 9:36 PM,2021-06-11
+102,102,10:35 PM AI546,,Hyderabad (HYD),Air India 321,Unknown,2021-06-11
+103,103,10:35 PM SG696,,Guwahati (GAU),SpiceJet 737,Unknown,2021-06-11
+104,104,10:45 PM,MH180,Kuala Lumpur (KUL),Malaysia Airlines (Malayan Tiger Livery) A333 (9M-MTG),Landed 10:45 PM,2021-06-11
+105,105,10:50 PM 6E7139,,Mangalore (IXE),IndiGo AT76 (VT-IYN),Landed 10:36 PM,2021-06-11
+106,106,10:55 PM G8912,,Ahmedabad (AMD),Go Air 32A,Canceled,2021-06-11
+107,107,11:05 PM SG297,,Andal (RDP),SpiceJet B738 (VT-SLM),Unknown,2021-06-11
+108,108,11:05 PM 6E7212,,Madurai (IXM),IndiGo AT76 (VT-IYW),Landed 10:28 PM,2021-06-11
+109,109,11:35 PM 6E2162,,Delhi (DEL),IndiGo A20N (VT-ISP),Landed 11:19 PM,2021-06-11
+110,110,11:35 PM,AI540,Delhi (DEL),Air India A321 (VT-PPT),Landed 11:12 PM,2021-06-11
+111,111,11:40 PM 6E6007,,Hyderabad (HYD),IndiGo AT76 (VT-IYY),Landed 11:36 PM,2021-06-11
+0,0,00:05 SG387,,Kolkata (CCU),SpiceJet 737,Unknown,2021-06-12
+1,1,00:10 6E294,,Kolkata (CCU),IndiGo A20N (VT-IJI),Landed 23:58,2021-06-12
+2,2,00:45,EY268,Abu Dhabi (AUH),Etihad Airways B77W (A6-ETB),Landed 00:17,2021-06-12
+3,3,01:45 SG7655,,Mumbai (BOM),SpiceXpress B737 (VT-SFD),Landed 01:36,2021-06-12
+4,4,02:20 QR528,,Doha (DOH),Qatar Airways B788 (A7-BCM),Landed 02:07,2021-06-12
+5,5,02:25 UL125,,Colombo (CMB),SriLankan Airlines A332 (4R-ALA),Landed 02:15,2021-06-12
+6,6,03:40 G9471,,Sharjah (SHJ),Air Arabia 320,Unknown,2021-06-12
+7,7,04:00 FZ447,,Dubai (DXB),flydubai B738 (A6-FGJ),Landed 03:46,2021-06-12
+8,8,04:50 YG9129,,Kunming (KMG),YTO Cargo Airlines 73F,Unknown,2021-06-12
+9,9,06:05 SG7086,,Bengaluru (BLR),SpiceXpress B737 (VT-SFE),Landed 05:46,2021-06-12
+10,10,06:55 QR8622,,Doha (DOH),Qatar Cargo B77L (A7-BFX),Landed 06:25,2021-06-12
+11,11,06:55 O37069,,Shenzhen (SZX),SF Airlines B744 (B-2422),Landed 07:18,2021-06-12
+12,12,06:55 SG445,,Hyderabad (HYD),SpiceJet 737,Canceled,2021-06-12
+13,13,07:20 SG3010,,Bengaluru (BLR),SpiceJet DH8D (VT-SUT),Unknown,2021-06-12
+14,14,07:35 I5883,,Delhi (DEL),AirAsia India 32N,Unknown,2021-06-12
+15,15,07:40 G8305,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-12
+16,16,08:00 SG611,,Mumbai (BOM),SpiceJet B738 (VT-SGH),Landed 07:35,2021-06-12
+17,17,08:10 6E9650,,Bangkok (BKK),IndiGo A320 (VT-IFI),Landed 07:58,2021-06-12
+18,18,08:15 6E6269,,Bengaluru (BLR),IndiGo AT76 (VT-IYW),Landed 07:53,2021-06-12
+19,19,08:25 BZ201,,Bengaluru (BLR),Blue Dart Aviation B752 (VT-BDB),Landed 08:23,2021-06-12
+20,20,08:25 EK544,,Dubai (DXB),Emirates B77W (A6-EBU),Landed 08:01,2021-06-12
+21,21,08:35 I5510,,Hyderabad (HYD),AirAsia India 320,Canceled,2021-06-12
+22,22,08:40 BZ481,,Hyderabad (HYD),Blue Dart Aviation B752 (VT-BDO),Landed 08:27,2021-06-12
+23,23,09:00 BZ482,,Hyderabad (HYD),Blue Dart Aviation 75C,Unknown,2021-06-12
+24,24,09:00 SG7677,,Delhi (DEL),SpiceJet B738 (VT-SYZ),Landed 08:53,2021-06-12
+25,25,09:10 SG107,,Delhi (DEL),SpiceJet B738 (VT-SYI),Landed 08:50,2021-06-12
+26,26,09:15 6E121,,Hyderabad (HYD),IndiGo AT76 (VT-IYY),Landed 09:22,2021-06-12
+27,27,09:25 6E5177,,Delhi (DEL),IndiGo A20N (VT-IVV),Landed 08:45,2021-06-12
+28,28,09:35 2T532,,Salem (SXV),Trujet AT7,Unknown,2021-06-12
+29,29,09:40 6E7194,,Madurai (IXM),IndiGo AT76 (VT-IYB),Landed 09:09,2021-06-12
+30,30,09:45 6E7186,,Tuticorin (TCR),IndiGo AT76 (VT-IYN),Landed 09:29,2021-06-12
+31,31,09:55 6E905,,Port Blair (IXZ),IndiGo A20N (VT-ITS),Landed 09:17,2021-06-12
+32,32,10:10 AI550,,Port Blair (IXZ),Air India A321 (VT-PPD),Landed 09:47,2021-06-12
+33,33,10:45 MH182,,Kuala Lumpur (KUL),Malaysia Airlines 333,Canceled,2021-06-12
+34,34,10:55,AI671,Mumbai (BOM),Air India A20N (VT-CID),Landed 10:38,2021-06-12
+35,35,11:30 6E238,,Ahmedabad (AMD),IndiGo A20N (VT-ISP),Landed 11:04,2021-06-12
+36,36,11:30 UK825,,Mumbai (BOM),Vistara B738 (VT-TGB),Landed 11:20,2021-06-12
+37,37,11:45 6E6212,,Bengaluru (BLR),IndiGo A20N (VT-IJO),Landed 11:32,2021-06-12
+38,38,12:10 6E5322,,Mumbai (BOM),IndiGo A20N (VT-IVY),Landed 11:28,2021-06-12
+39,39,12:40 6E7146,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYW),Landed 12:06,2021-06-12
+40,40,12:40,AI429,Delhi (DEL),Air India A321 (VT-PPX),Landed 12:18,2021-06-12
+41,41,12:45 6E2129,,Delhi (DEL),IndiGo A20N (VT-IZV),Landed 12:31,2021-06-12
+42,42,12:50 G8304,,Port Blair (IXZ),Go Air 32A,Canceled,2021-06-12
+43,43,12:55 6E882,,Coimbatore (CJB),IndiGo A20N (VT-ISI),Landed 12:14,2021-06-12
+44,44,13:25 6E7196,,Madurai (IXM),IndiGo AT76 (VT-IYN),Landed 13:13,2021-06-12
+45,45,13:40 6E696,,Visakhapatnam (VTZ),IndiGo A20N (VT-IJI),Landed 13:17,2021-06-12
+46,46,13:45 WY253,,Muscat (MCT),Oman Air B738 (A4O-BAB),Landed 13:42,2021-06-12
+47,47,15:05 AI672,,Madurai (IXM),Air India A20N (VT-CID),Landed 15:04,2021-06-12
+48,48,15:05 6E928,,Mumbai (BOM),IndiGo A20N (VT-IVE),Landed 15:09,2021-06-12
+49,49,15:10 2T536,,Cuddapah (CDP),Trujet AT7,Unknown,2021-06-12
+50,50,15:10 6E571,,Cochin (COK),IndiGo 320,Unknown,2021-06-12
+51,51,15:15 6E311,,Thiruvananthapuram (TRV),IndiGo A20N (VT-IZW),Landed 15:19,2021-06-12
+52,52,15:20 6E597,,Hyderabad (HYD),IndiGo A20N (VT-IJX),Landed 15:11,2021-06-12
+53,53,15:20 6E6074,,Jodhpur (JDH),IndiGo A21N (VT-IUR),Landed 15:22,2021-06-12
+54,54,15:20 6E119,,Guwahati (GAU),IndiGo A20N (VT-ITY),Landed 15:14,2021-06-12
+55,55,15:25 6E804,,Port Blair (IXZ),IndiGo A320 (VT-IAX),Landed 15:26,2021-06-12
+56,56,15:45 6E7131,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYB),Landed 15:28,2021-06-12
+57,57,15:55 I52461,,Bengaluru (BLR),AirAsia India 320,Unknown,2021-06-12
+58,58,16:05 I5556,,Kolkata (CCU),AirAsia India 320,Unknown,2021-06-12
+59,59,16:10 6E841,,Bengaluru (BLR),IndiGo A20N (VT-ITB),Landed 15:53,2021-06-12
+60,60,16:15 AI539,,Coimbatore (CJB),Air India A321 (VT-PPX),Unknown,2021-06-12
+61,61,16:20 UK839,,Delhi (DEL),Vistara A21N (VT-TVB),Landed 16:13,2021-06-12
+62,62,16:25 6E141,,Cochin (COK),IndiGo A20N (VT-ITN),Landed 15:54,2021-06-12
+63,63,16:40 6E6628,,Bhubaneswar (BBI),IndiGo A20N (VT-ISP),Landed 16:38,2021-06-12
+64,64,16:40 6E9962,,Colombo (CMB),IndiGo 320,Unknown,2021-06-12
+65,65,16:50 SG521,,Goa (GOI),SpiceJet 737,Unknown,2021-06-12
+66,66,17:05 RH9375,,Hong Kong (HKG),Hong Kong Air Cargo A332 (B-LNZ),Landed 17:08,2021-06-12
+67,67,17:05 6E848,,Coimbatore (CJB),IndiGo AT76 (VT-IYY),Landed 17:02,2021-06-12
+68,68,17:15 QR8054,,Doha (DOH),Qatar Airways 77W,Unknown,2021-06-12
+69,69,17:15 SG766,,Jharsuguda (JRG),SpiceJet 737,Unknown,2021-06-12
+70,70,17:35 6E547,,Pune (PNQ),IndiGo A20N (VT-IVY),Landed 17:27,2021-06-12
+71,71,17:45 6E7188,,Tuticorin (TCR),IndiGo AT76 (VT-IYW),Landed 17:17,2021-06-12
+72,72,17:55 6E7916,,-,IndiGo AT76 (VT-IYN),Landed 18:06,2021-06-12
+73,73,18:15 SG548,,Patna (PAT),SpiceJet 737,Unknown,2021-06-12
+74,74,18:20 6E6827,,Kolkata (CCU),IndiGo A20N (VT-IZQ),Landed 17:54,2021-06-12
+75,75,18:55 6E864,,Delhi (DEL),IndiGo A21N (VT-ILD),Landed 18:31,2021-06-12
+76,76,19:05 AI1126,,Delhi (DEL),Air India B788 (VT-ANK),Landed 18:36,2021-06-12
+77,77,19:40 6E7198,,Madurai (IXM),IndiGo AT76 (VT-IYB),Landed 19:13,2021-06-12
+78,78,19:50 I52393,,Bengaluru (BLR),AirAsia India 320,Unknown,2021-06-12
+79,79,19:55 6E986,,Cochin (COK),IndiGo AT76 (VT-IYD),Landed 19:52,2021-06-12
+80,80,20:00 6E9921,,Kolkata (CCU),IndiGo A21N (VT-IUA),Landed 01:20,2021-06-12
+81,81,20:25 6E6174,,Hyderabad (HYD),IndiGo A20N (VT-ISI),Landed 19:48,2021-06-12
+82,82,20:30 G8303,,Mumbai (BOM),GoAir A20N (VT-WGF),Landed 20:28,2021-06-12
+83,83,20:45 2T203,,Hyderabad (HYD),Trujet AT7,Unknown,2021-06-12
+84,84,20:55 SG3466,,Bengaluru (BLR),SpiceJet DH8D (VT-SUW),Unknown,2021-06-12
+85,85,21:00 SG7651,,Bengaluru (BLR),SpiceXpress B737 (VT-SFD),Landed 22:00,2021-06-12
+86,86,21:10 6E601,,Bengaluru (BLR),IndiGo AT76 (VT-IYY),Landed 21:21,2021-06-12
+87,87,21:10 6E2168,,Delhi (DEL),IndiGo A320 (VT-IFN),Landed 20:42,2021-06-12
+88,88,21:15 SG8103,,Delhi (DEL),SpiceJet 737,Canceled,2021-06-12
+89,89,21:45 SG251,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-12
+90,90,21:55 6E7918,,Kannur (CNN),IndiGo AT76 (VT-IYO),Landed 21:13,2021-06-12
+91,91,22:00 I52462,,Guwahati (GAU),AirAsia India 320,Unknown,2021-06-12
+92,92,22:00 2T538,,Mysore (MYQ),Trujet AT7,Unknown,2021-06-12
+93,93,22:05 SG732,,Hyderabad (HYD),SpiceJet 737,Canceled,2021-06-12
+94,94,22:05 6E911,,Mumbai (BOM),IndiGo A20N (VT-IVE),Landed 21:29,2021-06-12
+95,95,22:30 6E6934,,Ranchi (IXR),IndiGo A320 (VT-IAX),Landed 21:25,2021-06-12
+96,96,22:35 SG696,,Guwahati (GAU),SpiceJet B738 (VT-SGH),Landed 22:22,2021-06-12
+97,97,22:45,MH180,Kuala Lumpur (KUL),Malaysia Airlines 333,Canceled,2021-06-12
+98,98,22:50 6E7139,,Mangalore (IXE),IndiGo AT76 (VT-IYW),Landed 22:29,2021-06-12
+99,99,22:55 G8912,,Ahmedabad (AMD),GoAir A20N (VT-WJU),Canceled,2021-06-12
+100,100,23:05 6E7212,,Madurai (IXM),IndiGo AT76 (VT-IYN),Landed 22:48,2021-06-12
+101,101,23:20 SG297,,Ahmedabad (AMD),SpiceJet 737,Unknown,2021-06-12
+102,102,23:35 6E2162,,Delhi (DEL),IndiGo A20N (VT-IST),Landed 23:28,2021-06-12
+103,103,23:35,AI540,Delhi (DEL),Air India A321 (VT-PPX),Landed 23:10,2021-06-12
+104,104,23:40 6E6007,,Hyderabad (HYD),IndiGo AT76 (VT-IYB),Landed 23:48,2021-06-12
+0,0,00:45,EY268,Abu Dhabi (AUH),Etihad (ADNOC - Choose China Livery) B789 (A6-BLF),Landed 00:37,2021-06-13
+1,1,01:20 6E6283,,Guwahati (GAU),IndiGo 320,Unknown,2021-06-13
+2,2,01:35 6E9694,,Ho Chi Minh City (SGN),IndiGo A320 (VT-IFL),Landed 00:41,2021-06-13
+3,3,02:10 6E6972,,Patna (PAT),IndiGo A20N (VT-IVY),Landed 01:14,2021-06-13
+4,4,02:20 QR528,,Doha (DOH),Qatar Airways B788 (A7-BCC),Landed 02:08,2021-06-13
+5,5,03:00 QR8314,,Doha (DOH),Qatar Airways B77W (A7-BEV),Landed 06:11,2021-06-13
+6,6,03:20 6E66,,Dubai (DXB),IndiGo A20N (VT-IZL),Landed 02:53,2021-06-13
+7,7,03:40 G9471,,Sharjah (SHJ),Air Arabia A320 (A6-ANX),Landed 03:35,2021-06-13
+8,8,04:00 FZ447,,Dubai (DXB),FlyDubai 73H,Canceled,2021-06-13
+9,9,04:15 LH8472,,Frankfurt (FRA),Lufthansa Cargo B77L (D-ALFF),Landed 03:51,2021-06-13
+10,10,04:40 AI950,,Kannur (CNN),Air India A321 (VT-PPD),Landed 04:05,2021-06-13
+11,11,04:50 YG9129,,Kunming (KMG),YTO Cargo Airlines B752 (B-2853),Landed 11:39,2021-06-13
+12,12,05:45 SG7805,,Bengaluru (BLR),SpiceXpress B738 (VT-SFG),Canceled,2021-06-13
+13,13,06:35 SQ7368,,Singapore (SIN),Singapore Airlines 74Y,Unknown,2021-06-13
+14,14,06:40 O37069,,Shenzhen (SZX),SF Airlines 737,Unknown,2021-06-13
+15,15,06:55 SG445,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-13
+16,16,07:20 SG3010,,Bengaluru (BLR),SpiceJet DH8D (VT-SQE),Unknown,2021-06-13
+17,17,07:35 WY251,,Muscat (MCT),Oman Air 73J,Unknown,2021-06-13
+18,18,07:40 G8305,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-13
+19,19,08:00 SG611,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-13
+20,20,08:15 6E6269,,Bengaluru (BLR),IndiGo AT76 (VT-IYY),Landed 08:12,2021-06-13
+21,21,08:20 MH6240,,Kuala Lumpur (KUL),MASkargo A332 (9M-MUD),Landed 08:03,2021-06-13
+22,22,08:25 BZ201,,Bengaluru (BLR),Blue Dart Aviation B752 (VT-BDA),Landed 08:40,2021-06-13
+23,23,08:25 EK544,,Dubai (DXB),Emirates B77W (A6-EQF),Landed 08:15,2021-06-13
+24,24,08:40 IX621,,Kuala Lumpur (KUL),Air India Express (Garba-Bihu Dance Livery) B738 (VT-AXU),Landed 08:07,2021-06-13
+25,25,08:40 BZ481,,Hyderabad (HYD),Blue Dart Aviation B752 (VT-BDQ),Landed 08:33,2021-06-13
+26,26,08:45 SG7675,,Bengaluru (BLR),SpiceJet B739 (VT-SZL),Landed 08:37,2021-06-13
+27,27,09:10 SG107,,Delhi (DEL),SpiceJet B738 (VT-SLL),Landed 08:44,2021-06-13
+28,28,09:15 6E121,,Hyderabad (HYD),IndiGo AT76 (VT-IYP),Landed 09:23,2021-06-13
+29,29,09:25 6E5177,,Delhi (DEL),IndiGo A20N (VT-IJK),Landed 08:48,2021-06-13
+30,30,09:35 2T532,,Salem (SXV),Trujet AT7,Unknown,2021-06-13
+31,31,09:40 6E7194,,Madurai (IXM),IndiGo AT76 (VT-IYN),Landed 09:16,2021-06-13
+32,32,09:45 6E7186,,Tuticorin (TCR),IndiGo AT76 (VT-IYB),Landed 09:20,2021-06-13
+33,33,10:55 SQ7372,,Singapore (SIN),Singapore Airlines Cargo B744 (9V-SFI),Landed 17:26,2021-06-13
+34,34,10:55,AI671,Mumbai (BOM),Air India A20N (VT-EXV),Landed 10:38,2021-06-13
+35,35,11:30 6E238,,Ahmedabad (AMD),IndiGo A20N (VT-IZQ),Landed 11:06,2021-06-13
+36,36,11:45 6E6212,,Bengaluru (BLR),IndiGo A20N (VT-ISP),Landed 11:21,2021-06-13
+37,37,12:10 6E5322,,Mumbai (BOM),IndiGo A20N (VT-IVE),Landed 11:30,2021-06-13
+38,38,12:40 6E7146,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYY),Landed 12:13,2021-06-13
+39,39,12:40,AI429,Delhi (DEL),Air India A321 (VT-PPT),Landed 12:16,2021-06-13
+40,40,12:45 6E2129,,Delhi (DEL),IndiGo A20N (VT-ITL),Landed 12:29,2021-06-13
+41,41,12:50 G8304,,Port Blair (IXZ),Go Air 32A,Canceled,2021-06-13
+42,42,12:55 6E882,,Coimbatore (CJB),IndiGo AT76 (VT-IYO),Landed 12:49,2021-06-13
+43,43,13:20,UK833,Delhi (DEL),Vistara B789 (VT-TSD),Landed 13:00,2021-06-13
+44,44,13:25 6E7196,,Madurai (IXM),IndiGo AT76 (VT-IYB),Landed 13:06,2021-06-13
+45,45,13:40 6E696,,Visakhapatnam (VTZ),IndiGo A20N (VT-ITN),Landed 13:32,2021-06-13
+46,46,13:45 AI552,,Port Blair (IXZ),Air India A321 (VT-PPX),Landed 14:09,2021-06-13
+47,47,13:55 AI672,,Madurai (IXM),Air India A20N (VT-EXV),Landed 14:06,2021-06-13
+48,48,15:05 6E928,,Mumbai (BOM),IndiGo A320 (VT-IHH),Landed 14:44,2021-06-13
+49,49,15:10 2T536,,Cuddapah (CDP),Trujet AT7,Unknown,2021-06-13
+50,50,15:15 6E311,,Thiruvananthapuram (TRV),IndiGo AT76 (VT-IYP),Landed 15:50,2021-06-13
+51,51,15:20 6E597,,Hyderabad (HYD),IndiGo A20N (VT-IVU),Landed 14:53,2021-06-13
+52,52,15:20 6E119,,Guwahati (GAU),IndiGo A20N (VT-ISI),Landed 14:42,2021-06-13
+53,53,15:20 6E6074,,Jodhpur (JDH),IndiGo A21N (VT-ILD),Landed 15:04,2021-06-13
+54,54,15:25 6E804,,Port Blair (IXZ),IndiGo A20N (VT-IZW),Landed 15:18,2021-06-13
+55,55,15:45 6E7131,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYN),Landed 15:27,2021-06-13
+56,56,15:55 I52461,,Bengaluru (BLR),AirAsia India 320,Unknown,2021-06-13
+57,57,16:05 I5556,,Kolkata (CCU),AirAsia India 320,Unknown,2021-06-13
+58,58,16:10 6E841,,Bengaluru (BLR),IndiGo A20N (VT-ITK),Landed 15:46,2021-06-13
+59,59,16:15 AI539,,Coimbatore (CJB),Air India A321 (VT-PPT),Landed 15:56,2021-06-13
+60,60,16:20 UK839,,Delhi (DEL),Vistara A20N (VT-TNJ),Landed 16:14,2021-06-13
+61,61,16:25 6E141,,Cochin (COK),IndiGo A20N (VT-IJP),Landed 15:53,2021-06-13
+62,62,16:50 SG521,,Goa (GOI),SpiceJet 737,Unknown,2021-06-13
+63,63,17:05 6E848,,Coimbatore (CJB),IndiGo AT76 (VT-IYD),Landed 17:10,2021-06-13
+64,64,17:15 SG766,,Jharsuguda (JRG),SpiceJet 737,Unknown,2021-06-13
+65,65,17:35 6E547,,Pune (PNQ),IndiGo A20N (VT-IZL),Landed 17:14,2021-06-13
+66,66,17:45 6E7188,,Tuticorin (TCR),IndiGo AT76 (VT-IYB),Landed 17:18,2021-06-13
+67,67,17:55 6E7916,,-,IndiGo AT76 (VT-IYO),Unknown,2021-06-13
+68,68,18:15 6E956,,Varanasi (VNS),IndiGo A20N (VT-IVE),Landed 17:49,2021-06-13
+69,69,18:15 SG548,,Patna (PAT),SpiceJet B738 (VT-SLL),Landed 17:35,2021-06-13
+70,70,18:20 6E6827,,Kolkata (CCU),IndiGo A20N (VT-IVY),Landed 17:59,2021-06-13
+71,71,18:55 6E864,,Delhi (DEL),IndiGo A20N (VT-ITT),Landed 18:50,2021-06-13
+72,72,19:00 ET3685,,Hong Kong (HKG),Ethiopian Airlines 77X,Unknown,2021-06-13
+73,73,19:00 6E925,,Patna (PAT),IndiGo A20N (VT-IST),Landed 18:25,2021-06-13
+74,74,19:05 AI1126,,Delhi (DEL),Air India B788 (VT-ANA),Unknown,2021-06-13
+75,75,19:35 6E6001,,Visakhapatnam (VTZ),IndiGo A20N (VT-ITL),Landed 18:54,2021-06-13
+76,76,19:40 6E7198,,Madurai (IXM),IndiGo AT76 (VT-IYN),Landed 19:39,2021-06-13
+77,77,19:50 I52393,,Bengaluru (BLR),AirAsia India 320,Unknown,2021-06-13
+78,78,19:55 6E986,,Cochin (COK),IndiGo AT76 (VT-IYP),Landed 19:41,2021-06-13
+79,79,20:25 6E6174,,Hyderabad (HYD),IndiGo A20N (VT-ITK),Landed 20:00,2021-06-13
+80,80,20:30 G8303,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-13
+81,81,20:45 2T203,,Hyderabad (HYD),Trujet AT7,Unknown,2021-06-13
+82,82,20:55 SG3466,,Bengaluru (BLR),SpiceJet DH8,Canceled,2021-06-13
+83,83,21:00 GF68,,Bahrain (BAH),Gulf Air A20N (A9C-TD),Landed 20:47,2021-06-13
+84,84,21:10 6E601,,Bengaluru (BLR),IndiGo AT76 (VT-IYD),Landed 21:00,2021-06-13
+85,85,21:10 6E2168,,Delhi (DEL),IndiGo A320 (VT-IEL),Unknown,2021-06-13
+86,86,21:15 SG8103,,Delhi (DEL),SpiceJet 737,Unknown,2021-06-13
+87,87,21:35 CX43,,Hong Kong (HKG),Cathay Pacific Cargo B744 (B-LIA),Landed 21:15,2021-06-13
+88,88,21:45 SG251,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-13
+89,89,21:55 6E7918,,Kannur (CNN),IndiGo AT76 (VT-IYY),Landed 21:20,2021-06-13
+90,90,22:00 I52462,,Guwahati (GAU),AirAsia India 320,Unknown,2021-06-13
+91,91,22:00 2T538,,Mysore (MYQ),Trujet AT7,Unknown,2021-06-13
+92,92,22:05 SG732,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-13
+93,93,22:05 6E911,,Mumbai (BOM),IndiGo A20N (VT-ISS),Landed 21:49,2021-06-13
+94,94,22:30 6E6934,,Ranchi (IXR),IndiGo A20N (VT-ITS),Landed 21:29,2021-06-13
+95,95,22:30 TK6398,,Dubai (DWC),Turkish Cargo A332 (TC-JOV),Delayed 08:29,2021-06-13
+96,96,22:35 SG696,,Guwahati (GAU),SpiceJet 737,Unknown,2021-06-13
+97,97,22:50 6E7139,,Mangalore (IXE),IndiGo AT76 (VT-IYG),Landed 22:07,2021-06-13
+98,98,22:55 G8912,,Ahmedabad (AMD),Go Air 32A,Canceled,2021-06-13
+99,99,23:05 6E7212,,Madurai (IXM),IndiGo AT76 (VT-IYO),Landed 22:52,2021-06-13
+100,100,23:20 SG297,,Ahmedabad (AMD),SpiceJet 737,Unknown,2021-06-13
+101,101,23:35 6E2162,,Delhi (DEL),IndiGo A20N (VT-IZE),Landed 23:17,2021-06-13
+102,102,23:35 AI540,,Delhi (DEL),Air India A20N (VT-EXJ),Landed 23:22,2021-06-13
+103,103,23:40 6E6007,,Hyderabad (HYD),IndiGo AT76 (VT-IYN),Landed 23:54,2021-06-13
+0,0,01:30 QR8394,,Doha (DOH),Qatar Airways B77W (A7-BAH),Landed 01:00,2021-06-14
+1,1,02:20 QR528,,Doha (DOH),Qatar Airways B788 (A7-BCA),Landed 02:07,2021-06-14
+2,2,02:45 J91427,,Kuwait City (KWI),Jazeera Airways A20N (9K-CBE),Landed 02:36,2021-06-14
+3,3,03:40 G9471,,Sharjah (SHJ),Air Arabia 320,Unknown,2021-06-14
+4,4,04:00 FZ447,,Dubai (DXB),FlyDubai 73H,Canceled,2021-06-14
+5,5,04:40 6E1776,,Doha (DOH),IndiGo A20N (VT-IZL),Landed 04:51,2021-06-14
+6,6,04:40 AI938,,Kozhikode (CCJ),Air India A321 (VT-PPE),Landed 04:14,2021-06-14
+7,7,06:55 O37069,,Shenzhen (SZX),SF Airlines B744 (B-2423),Landed 13:23,2021-06-14
+8,8,06:55 SG445,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-14
+9,9,07:15 SG7086,,Bengaluru (BLR),SpiceJet B738 (VT-SYZ),Landed 07:14,2021-06-14
+10,10,07:20 SG3010,,Bengaluru (BLR),SpiceJet DH8,Canceled,2021-06-14
+11,11,07:40 G8305,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-14
+12,12,08:00 SG611,,Mumbai (BOM),SpiceJet B738 (VT-SZJ),Landed 07:38,2021-06-14
+13,13,08:10 6E271,,Kolkata (CCU),IndiGo A20N (VT-IZU),Landed 07:34,2021-06-14
+14,14,08:15 6E6269,,Bengaluru (BLR),IndiGo AT76 (VT-IYP),Landed 08:06,2021-06-14
+15,15,08:25 EK544,,Dubai (DXB),Emirates B77W (A6-ECM),Landed 08:00,2021-06-14
+16,16,08:35 I5510,,Hyderabad (HYD),AirAsia India 320,Unknown,2021-06-14
+17,17,08:40 SG107,,Delhi (DEL),SpiceJet 737,Unknown,2021-06-14
+18,18,09:15 6E121,,Hyderabad (HYD),IndiGo AT76 (VT-IYF),Landed 09:22,2021-06-14
+19,19,09:35 2T532,,Salem (SXV),Trujet AT7,Unknown,2021-06-14
+20,20,09:40 6E7194,,Madurai (IXM),IndiGo AT76 (VT-IYN),Landed 09:10,2021-06-14
+21,21,09:45 6E7186,,Tuticorin (TCR),IndiGo AT76 (VT-IYY),Landed 09:19,2021-06-14
+22,22,10:00,UK833,Delhi (DEL),Vistara A20N (VT-TNQ),Landed 09:47,2021-06-14
+23,23,10:55,AI671,Mumbai (BOM),Air India A20N (VT-CID),Landed 10:47,2021-06-14
+24,24,11:15 6E563,,Kolkata (CCU),IndiGo 320,Unknown,2021-06-14
+25,25,11:30 UK825,,Mumbai (BOM),Vistara B738 (VT-TGB),Landed 11:12,2021-06-14
+26,26,11:30 6E238,,Ahmedabad (AMD),IndiGo A20N (VT-IZE),Landed 11:08,2021-06-14
+27,27,11:40 SG324,,Siliguri (IXB),SpiceJet 737,Unknown,2021-06-14
+28,28,11:40 6E6212,,Bengaluru (BLR),IndiGo AT76 (VT-IYD),Landed 11:34,2021-06-14
+29,29,12:10 6E5322,,Mumbai (BOM),IndiGo A20N (VT-IST),Landed 11:42,2021-06-14
+30,30,12:40,AI429,Delhi (DEL),Air India A321 (VT-PPL),Landed 12:16,2021-06-14
+31,31,12:40 6E7146,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYP),Landed 12:21,2021-06-14
+32,32,12:45 6E2129,,Delhi (DEL),IndiGo A20N (VT-IJO),Landed 12:30,2021-06-14
+33,33,12:50 G8304,,Port Blair (IXZ),Go Air 32A,Canceled,2021-06-14
+34,34,12:55 6E882,,Coimbatore (CJB),IndiGo AT76 (VT-IYG),Landed 12:49,2021-06-14
+35,35,13:25 6E7196,,Madurai (IXM),IndiGo AT76 (VT-IYY),Landed 13:03,2021-06-14
+36,36,13:35 6E192,,Kolkata (CCU),IndiGo A20N (VT-IZL),Landed 13:06,2021-06-14
+37,37,13:40 6E696,,Visakhapatnam (VTZ),IndiGo A20N (VT-IVE),Landed 13:20,2021-06-14
+38,38,13:55 AI672,,Madurai (IXM),Air India A20N (VT-CID),Landed 14:00,2021-06-14
+39,39,14:15 RH9375,,Hong Kong (HKG),Hong Kong Air Cargo 330,Unknown,2021-06-14
+40,40,14:55 IX687,,Singapore (SIN),Air India Express (Garba-Bihu Dance Livery) B738 (VT-AXU),Landed 14:58,2021-06-14
+41,41,15:05 6E928,,Mumbai (BOM),IndiGo A20N (VT-IJM),Landed 14:34,2021-06-14
+42,42,15:10 2T536,,Cuddapah (CDP),Trujet AT7,Unknown,2021-06-14
+43,43,15:15 6E311,,Thiruvananthapuram (TRV),IndiGo 320,Canceled,2021-06-14
+44,44,15:20 6E597,,Hyderabad (HYD),IndiGo A20N (VT-ITA),Landed 14:43,2021-06-14
+45,45,15:20 6E6074,,Jodhpur (JDH),IndiGo A21N (VT-ILE),Landed 15:17,2021-06-14
+46,46,15:45 6E7131,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYD),Landed 15:20,2021-06-14
+47,47,15:55 I52461,,Bengaluru (BLR),AirAsia India 320,Unknown,2021-06-14
+48,48,16:05 I5556,,Kolkata (CCU),AirAsia A320 (VT-HYD),Canceled,2021-06-14
+49,49,16:10 6E841,,Bengaluru (BLR),IndiGo A20N (VT-ITY),Landed 15:46,2021-06-14
+50,50,16:15 AI539,,Coimbatore (CJB),Air India A321 (VT-PPL),Landed 16:02,2021-06-14
+51,51,16:20 UK839,,Delhi (DEL),Vistara A20N (VT-TQA),Landed 15:42,2021-06-14
+52,52,16:25 6E141,,Cochin (COK),IndiGo AT76 (VT-IYN),Landed 16:23,2021-06-14
+53,53,16:50 AI765,,Kolkata (CCU),Air India A321 (VT-PPX),Diverted to BLR,2021-06-14
+54,54,16:50 SG521,,Goa (GOI),SpiceJet 737,Unknown,2021-06-14
+55,55,17:05 6E848,,Coimbatore (CJB),IndiGo AT76 (VT-IYF),Landed 17:11,2021-06-14
+56,56,17:15 SG766,,Jharsuguda (JRG),SpiceJet 737,Unknown,2021-06-14
+57,57,17:20 SG450,,Kolkata (CCU),SpiceJet 737,Unknown,2021-06-14
+58,58,17:35 6E547,,Pune (PNQ),IndiGo A20N (VT-IZE),Landed 17:15,2021-06-14
+59,59,17:45 6E7188,,Tuticorin (TCR),IndiGo AT76 (VT-IYY),Landed 17:19,2021-06-14
+60,60,18:15 6E956,,Varanasi (VNS),IndiGo 320,Canceled,2021-06-14
+61,61,18:15 AI765,,Bengaluru (BLR),Air India A321 (VT-PPX),Landed 18:21,2021-06-14
+62,62,18:40 SG452,,Siliguri (IXB),SpiceJet 737,Unknown,2021-06-14
+63,63,18:45 6E6827,,Kolkata (CCU),IndiGo A20N (VT-ITL),Landed 18:32,2021-06-14
+64,64,18:55 6E864,,Delhi (DEL),IndiGo A20N (VT-IJN),Landed 18:40,2021-06-14
+65,65,19:00 6E925,,Patna (PAT),IndiGo A20N (VT-ISS),Landed 18:17,2021-06-14
+66,66,19:05 AI1126,,Delhi (DEL),Air India B788 (VT-ANM),Landed 18:44,2021-06-14
+67,67,19:40 6E7198,,Madurai (IXM),IndiGo AT76 (VT-IYD),Landed 19:12,2021-06-14
+68,68,19:50 I52393,,Bengaluru (BLR),AirAsia India 320,Canceled,2021-06-14
+69,69,19:55 6E986,,Cochin (COK),IndiGo AT76 (VT-IYG),Landed 19:31,2021-06-14
+70,70,20:25 6E6174,,Hyderabad (HYD),IndiGo A20N (VT-ITS),Landed 20:13,2021-06-14
+71,71,20:30 G8303,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-14
+72,72,20:45 2T203,,Hyderabad (HYD),Trujet AT7,Unknown,2021-06-14
+73,73,20:55 SG3466,,Bengaluru (BLR),SpiceJet DH8,Canceled,2021-06-14
+74,74,21:10 6E601,,Bengaluru (BLR),IndiGo AT76 (VT-IYF),Landed 21:07,2021-06-14
+75,75,21:10 6E2168,,Delhi (DEL),IndiGo A20N (VT-IJD),Landed 20:46,2021-06-14
+76,76,21:15 SG8103,,Delhi (DEL),SpiceJet 737,Unknown,2021-06-14
+77,77,21:40 CX2041,,Hong Kong (HKG),Cathay Pacific Cargo B744 (B-LIB),Landed 21:03,2021-06-14
+78,78,21:45 SG251,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-14
+79,79,21:55 6E7918,,Kannur (CNN),IndiGo AT76 (VT-IYP),Landed 21:11,2021-06-14
+80,80,22:00 I52462,,Guwahati (GAU),AirAsia India 320,Unknown,2021-06-14
+81,81,22:00 2T538,,Mysore (MYQ),Trujet AT7,Unknown,2021-06-14
+82,82,22:05 SG732,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-14
+83,83,22:05 6E911,,Mumbai (BOM),IndiGo A20N (VT-ISR),Landed 21:32,2021-06-14
+84,84,22:35 SG696,,Guwahati (GAU),SpiceJet B738 (VT-SLL),Landed 22:08,2021-06-14
+85,85,22:50 6E7139,,Mangalore (IXE),IndiGo AT7,Canceled,2021-06-14
+86,86,22:55 G8912,,Ahmedabad (AMD),Go Air 32A,Canceled,2021-06-14
+87,87,23:05 SG297,,Andal (RDP),SpiceJet 737,Unknown,2021-06-14
+88,88,23:05 6E7212,,Madurai (IXM),IndiGo AT76 (VT-IYN),Landed 22:41,2021-06-14
+89,89,23:35,AI540,Delhi (DEL),Air India A321 (VT-PPL),Landed 23:17,2021-06-14
+90,90,23:35 6E2162,,Delhi (DEL),IndiGo A20N (VT-IVK),Landed 23:23,2021-06-14
+91,91,23:40 6E6007,,Hyderabad (HYD),IndiGo AT76 (VT-IYD),Landed 23:57,2021-06-14
+0,0,00:01,TG337,Bangkok (BKK),Thai Airways A359 (HS-THN),Landed 23:04,2021-06-15
+1,1,00:05 SG387,,Kolkata (CCU),SpiceJet 737,Unknown,2021-06-15
+2,2,00:10 6E294,,Kolkata (CCU),IndiGo A20N (VT-IZG),Landed 23:48,2021-06-15
+3,3,01:20 KU1343,,Kuwait City (KWI),Kuwait Airways A338 (9K-APG),Landed 00:56,2021-06-15
+4,4,02:20 QR8394,,Doha (DOH),Qatar Airways B789 (A7-BHD),Landed 01:52,2021-06-15
+5,5,03:40 G9471,,Sharjah (SHJ),Air Arabia A320 (A6-ANX),Landed 03:41,2021-06-15
+6,6,04:40 6E1776,,Doha (DOH),IndiGo A20N (VT-IZL),Landed 04:51,2021-06-15
+7,7,04:40 AI950,,Kannur (CNN),Air India A321 (VT-PPE),Landed 04:19,2021-06-15
+8,8,04:50 YG9129,,Kunming (KMG),YTO Cargo Airlines B752 (B-2853),Landed 17:24,2021-06-15
+9,9,06:55 O37069,,Shenzhen (SZX),SF Airlines B744 (B-2423),Landed 17:38,2021-06-15
+10,10,06:55 SG445,,Hyderabad (HYD),SpiceJet 737,Unknown,2021-06-15
+11,11,07:20 SG3010,,Bengaluru (BLR),SpiceJet DH8,Unknown,2021-06-15
+12,12,07:40 G8305,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-15
+13,13,08:00 SG611,,Mumbai (BOM),SpiceJet B737 (VT-SYT),Landed 07:35,2021-06-15
+14,14,08:15 6E6269,,Bengaluru (BLR),IndiGo AT76 (VT-IYG),Landed 08:09,2021-06-15
+15,15,08:15 6E9048,,Bangkok (BKK),IndiGo A320 (VT-IFH),Landed 06:57,2021-06-15
+16,16,08:25 BZ201,,Bengaluru (BLR),Blue Dart Aviation B752 (VT-BDM),Landed 08:18,2021-06-15
+17,17,08:25 EK544,,Dubai (DXB),Emirates B77W (A6-EBU),Landed 08:04,2021-06-15
+18,18,08:35 I5510,,Hyderabad (HYD),AirAsia India 320,Unknown,2021-06-15
+19,19,08:40 BZ481,,Hyderabad (HYD),Blue Dart Aviation B752 (VT-BDB),Landed 08:22,2021-06-15
+20,20,08:55 CX43,,Hong Kong (HKG),Cathay Pacific 74Y,Unknown,2021-06-15
+21,21,09:10 SG107,,Delhi (DEL),SpiceJet B738 (VT-SXE),Landed 08:38,2021-06-15
+22,22,09:15 6E121,,Hyderabad (HYD),IndiGo AT76 (VT-IYN),Landed 09:24,2021-06-15
+23,23,09:35 2T532,,Salem (SXV),Trujet AT7,Unknown,2021-06-15
+24,24,09:40 6E7194,,Madurai (IXM),IndiGo AT76 (VT-IYD),Landed 09:12,2021-06-15
+25,25,09:45 6E7186,,Tuticorin (TCR),IndiGo AT76 (VT-IYY),Landed 09:16,2021-06-15
+26,26,09:55 6E905,,Port Blair (IXZ),IndiGo A20N (VT-IVK),Landed 09:29,2021-06-15
+27,27,10:00,UK833,Delhi (DEL),Vistara A20N (VT-TNC),Landed 09:39,2021-06-15
+28,28,10:10 AI550,,Port Blair (IXZ),Air India A321 (VT-PPL),Landed 09:52,2021-06-15
+29,29,10:55,AI671,Mumbai (BOM),Air India A20N (VT-CIQ),Landed 10:34,2021-06-15
+30,30,11:30 UK825,,Mumbai (BOM),Vistara 73H,Unknown,2021-06-15
+31,31,11:30 6E238,,Ahmedabad (AMD),IndiGo A20N (VT-ISR),Landed 11:07,2021-06-15
+32,32,11:45 6E6212,,Bengaluru (BLR),IndiGo AT76 (VT-IYP),Landed 11:33,2021-06-15
+33,33,12:10 6E5322,,Mumbai (BOM),IndiGo A20N (VT-IZL),Landed 11:36,2021-06-15
+34,34,12:40,AI429,Delhi (DEL),Air India A321 (VT-PPX),Landed 12:21,2021-06-15
+35,35,12:40 6E7146,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYG),Landed 12:08,2021-06-15
+36,36,12:45 6E2129,,Delhi (DEL),IndiGo A20N (VT-IJB),Landed 12:28,2021-06-15
+37,37,12:50 G8304,,Port Blair (IXZ),Go Air 32A,Unknown,2021-06-15
+38,38,12:55 6E882,,Coimbatore (CJB),IndiGo A320 (VT-IAP),Landed 12:25,2021-06-15
+39,39,13:25 6E7196,,Madurai (IXM),IndiGo AT76 (VT-IYY),Landed 13:14,2021-06-15
+40,40,13:40 6E696,,Visakhapatnam (VTZ),IndiGo A20N (VT-ITS),Landed 13:30,2021-06-15
+41,41,15:05 AI672,,Madurai (IXM),Air India A20N (VT-CIQ),Landed 15:14,2021-06-15
+42,42,15:05 6E141,,Cochin (COK),IndiGo AT76 (VT-IYF),Landed 15:19,2021-06-15
+43,43,15:05 6E928,,Mumbai (BOM),IndiGo A20N (VT-ITJ),Landed 15:05,2021-06-15
+44,44,15:10 2T536,,Cuddapah (CDP),Trujet AT7,Unknown,2021-06-15
+45,45,15:15 6E311,,Thiruvananthapuram (TRV),IndiGo A20N (VT-ISS),Landed 15:14,2021-06-15
+46,46,15:20 6E119,,Guwahati (GAU),IndiGo A20N (VT-IZG),Landed 15:11,2021-06-15
+47,47,15:20 6E597,,Hyderabad (HYD),IndiGo A20N (VT-ITO),Unknown,2021-06-15
+48,48,15:20 6E6074,,Jodhpur (JDH),IndiGo A21N (VT-IUR),Landed 15:31,2021-06-15
+49,49,15:25 6E804,,Port Blair (IXZ),IndiGo 320,Unknown,2021-06-15
+50,50,15:45 6E7131,,Tiruchirapalli (TRZ),IndiGo AT76 (VT-IYD),Landed 15:26,2021-06-15
+51,51,15:55 I52461,,Bengaluru (BLR),AirAsia India 320,Unknown,2021-06-15
+52,52,16:05 I5556,,Kolkata (CCU),AirAsia India 320,Unknown,2021-06-15
+53,53,16:10 6E841,,Bengaluru (BLR),IndiGo A20N (VT-IZK),Landed 15:56,2021-06-15
+54,54,16:15 AI539,,Coimbatore (CJB),Air India A321 (VT-PPX),Landed 15:36,2021-06-15
+55,55,16:20 UK839,,Delhi (DEL),Vistara A20N (VT-TNS),Landed 16:00,2021-06-15
+56,56,16:40 6E6628,,Bhubaneswar (BBI),IndiGo A20N (VT-ISR),Landed 16:21,2021-06-15
+57,57,16:50 SG521,,Goa (GOI),SpiceJet 737,Unknown,2021-06-15
+58,58,17:05 6E848,,Coimbatore (CJB),IndiGo AT76 (VT-IYN),Landed 17:07,2021-06-15
+59,59,17:15 QR8054,,Doha (DOH),Qatar Airways B77W (A7-BEW),Landed 19:51,2021-06-15
+60,60,17:15 SG766,,Jharsuguda (JRG),SpiceJet 737,Unknown,2021-06-15
+61,61,17:35 6E547,,Pune (PNQ),IndiGo A20N (VT-IZL),Landed 17:10,2021-06-15
+62,62,17:45 6E7188,,Tuticorin (TCR),IndiGo AT76 (VT-IYY),Landed 17:20,2021-06-15
+63,63,17:55 6E7916,,-,IndiGo AT76 (VT-IYP),Landed 17:35,2021-06-15
+64,64,18:15 SG548,,Patna (PAT),SpiceJet B738 (VT-SZJ),Landed 17:41,2021-06-15
+65,65,18:20 6E6827,,Kolkata (CCU),IndiGo A20N (VT-IJN),Landed 18:00,2021-06-15
+66,66,18:55 6E864,,Delhi (DEL),IndiGo A20N (VT-IVE),Landed 18:39,2021-06-15
+67,67,19:05 AI1126,,Delhi (DEL),Air India A321 (VT-PPD),Landed 19:03,2021-06-15
+68,68,19:40 6E7198,,Madurai (IXM),IndiGo AT76 (VT-IYD),Landed 19:23,2021-06-15
+69,69,19:50 I52393,,Bengaluru (BLR),AirAsia India 320,Unknown,2021-06-15
+70,70,19:55 6E986,,Cochin (COK),IndiGo AT76 (VT-IYF),Landed 19:42,2021-06-15
+71,71,20:25 6E6174,,Hyderabad (HYD),IndiGo A320 (VT-IKC),Landed 19:54,2021-06-15
+72,72,20:30 G8303,,Mumbai (BOM),Go Air 32A,Canceled,2021-06-15
+73,73,20:45 2T203,,Hyderabad (HYD),Trujet AT7,Unknown,2021-06-15
+74,74,21:10 6E601,,Bengaluru (BLR),IndiGo AT76 (VT-IYN),Landed 21:06,2021-06-15
+75,75,21:10 6E2168,,Delhi (DEL),IndiGo A20N (VT-IVL),Landed 20:40,2021-06-15
+76,76,21:15 SG8103,,Delhi (DEL),SpiceJet 737,Unknown,2021-06-15
+77,77,21:45 SG251,,Mumbai (BOM),SpiceJet 737,Unknown,2021-06-15
+78,78,21:55 6E7918,,Kannur (CNN),IndiGo AT76 (VT-IYG),Landed 21:03,2021-06-15
+79,79,22:00 I52462,,Guwahati (GAU),AirAsia India 320,Unknown,2021-06-15
+80,80,22:00 2T538,,Mysore (MYQ),Trujet AT7,Unknown,2021-06-15
+81,81,22:05 SG732,,Hyderabad (HYD),SpiceJet B738 (VT-SGH),Landed 21:41,2021-06-15
+82,82,22:05 6E911,,Mumbai (BOM),IndiGo A20N (VT-ISQ),Landed 21:31,2021-06-15
+83,83,22:30 6E6934,,Ranchi (IXR),IndiGo A21N (VT-IUR),Landed 21:26,2021-06-15
+84,84,22:35 SG696,,Guwahati (GAU),SpiceJet 737,Unknown,2021-06-15
+85,85,22:45,MH180,Kuala Lumpur (KUL),Malaysia Airlines A333 (9M-MTM),Landed 22:22,2021-06-15
+86,86,22:50 6E7139,,Mangalore (IXE),IndiGo AT76 (VT-IYE),Landed 22:27,2021-06-15
+87,87,22:55 G8912,,Ahmedabad (AMD),Go Air 32A,Canceled,2021-06-15
+88,88,23:05 6E7212,,Madurai (IXM),IndiGo AT76 (VT-IYP),Landed 22:41,2021-06-15
+89,89,23:20 SG297,,Ahmedabad (AMD),SpiceJet 737,Unknown,2021-06-15
+90,90,23:35,AI540,Delhi (DEL),Air India A321 (VT-PPX),Landed 23:09,2021-06-15
+91,91,23:35 6E2162,,Delhi (DEL),IndiGo A20N (VT-IJZ),Landed 23:15,2021-06-15
+92,92,23:40 6E6007,,Hyderabad (HYD),IndiGo AT76 (VT-IYI),Landed 00:04,2021-06-15

@@ -14678,3 +14678,881 @@
 115,115,22:55,WK215,Tenerife (TFS),Edelweiss Air 320,Canceled,2021-06-07
 116,116,22:55,WK399,Catania (CTA),Edelweiss Air 320,Unknown,2021-06-07
 117,117,22:55 WK210,,Tenerife (TFS),Edelweiss Air A320 (HB-IHX),Landed 22:42,2021-06-07
+0,0,06:10,LX177,Singapore (SIN),Swiss B77W (HB-JND),Landed 06:21,2021-06-08
+1,1,06:10,LX289,Johannesburg (JNB),Swiss A343 (HB-JMC),Landed 06:18,2021-06-08
+2,2,06:15,LX243,Dubai (DXB),Swiss B77W (HB-JNE),Landed 06:05,2021-06-08
+3,3,07:10,QR93,Doha (DOH),Qatar Airways (Oneworld Livery) A359 (A7-ALZ),Landed 06:46,2021-06-08
+4,4,07:40 LX155,,Mumbai (BOM),Swiss B77W (HB-JNH),Landed 06:50,2021-06-08
+5,5,07:55,UA52,Washington (IAD),United Airlines B763 (N675UA),Landed 07:23,2021-06-08
+6,6,08:05,UA134,New York (EWR),United Airlines B763 (N674UA),Landed 08:03,2021-06-08
+7,7,08:15,SQ346,Singapore (SIN),Singapore Airlines A359 (9V-SME),Landed 07:46,2021-06-08
+8,8,08:30 AC7216,,Toronto (YYZ),Air Canada B789 (C-FGDT),Landed 07:59,2021-06-08
+9,9,08:35,LH1184,Frankfurt (FRA),Lufthansa E190 (D-AECB),Landed 08:16,2021-06-08
+10,10,08:55,OS561,Vienna (VIE),Austrian Airlines A319 (OE-LDE),Landed 08:37,2021-06-08
+11,11,09:40,SK601,Copenhagen (CPH),SAS A20N (SE-ROG),Landed 09:23,2021-06-08
+12,12,09:55,LO411,Warsaw (WAW),LOT (Sliwka Naleczowska Livery) E195 (SP-LNC),Landed 09:50,2021-06-08
+13,13,09:55,TK1907,Istanbul (IST),Turkish Airlines A21N (TC-LSE),Landed 09:37,2021-06-08
+14,14,10:15,UX1675,Madrid (MAD),Air Europa B738 (EC-LVR),Landed 09:47,2021-06-08
+15,15,10:20,AZ572,Rome (FCO),Alitalia A319 (EI-IMN),Landed 10:29,2021-06-08
+16,16,10:20,A3850,Athens (ATH),Aegean Airlines A321 (SX-DGQ),Unknown,2021-06-08
+17,17,10:25 PC947,,Istanbul (SAW),Pegasus B738 (TC-CRA),Landed 10:07,2021-06-08
+18,18,10:30,LX93,Sao Paulo (GRU),Swiss B77W (HB-JNC),Landed 10:02,2021-06-08
+19,19,10:45,OU460,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQA),Landed 10:23,2021-06-08
+20,20,10:50,LX1069,Frankfurt (FRA),Swiss BCS1 (HB-JBE),Landed 10:34,2021-06-08
+21,21,10:55,LX15,New York (JFK),Swiss B77W (HB-JNG),Landed 10:26,2021-06-08
+22,22,11:00,LX65,Miami (MIA),Swiss A343 (HB-JMH),Landed 11:36,2021-06-08
+23,23,11:00,LX975,Berlin (BER),Swiss BCS3 (HB-JCQ),Landed 10:44,2021-06-08
+24,24,11:00,LX1575,Vienna (VIE),Helvetic Airways E290 (HB-AZF),Landed 10:41,2021-06-08
+25,25,11:05,IB3464,Madrid (MAD),Iberia A320 (EC-MDK),Landed 10:32,2021-06-08
+26,26,11:05,KL1957,Amsterdam (AMS),KLM B737 (PH-BGU),Landed 10:54,2021-06-08
+27,27,11:10,LX633,Paris (CDG),Swiss BCS1 (HB-JBI),Landed 10:59,2021-06-08
+28,28,11:10,LX1051,Hamburg (HAM),Swiss BCS1 (HB-JBB),Landed 11:02,2021-06-08
+29,29,11:10,LX1843,Athens (ATH),Swiss A320 (HB-JLT),Landed 10:52,2021-06-08
+30,30,11:15 LX1889,,Bucharest (OTP),Swiss BCS3 (HB-JCM),Landed 11:04,2021-06-08
+31,31,11:20 LX2291,,Kyiv (KBP),Swiss BCS3 (HB-JCE),Landed 11:05,2021-06-08
+32,32,11:25,LX1267,Copenhagen (CPH),Swiss BCS1 (HB-JBD),Landed 11:11,2021-06-08
+33,33,11:25 LX1413,,Belgrade (BEG),Swiss BCS3 (HB-JCR),Landed 11:10,2021-06-08
+34,34,11:25,LX1255,Stockholm (ARN),Swiss BCS3 (HB-JCD),Landed 11:17,2021-06-08
+35,35,11:30 LX563,,Nice (NCE),Swiss BCS3 (HB-JCU),Landed 11:18,2021-06-08
+36,36,11:30,LX2807,Geneva (GVA),Swiss BCS3 (HB-JCB),Landed 11:20,2021-06-08
+37,37,11:35,LX317,London (LHR),Swiss BCS1 (HB-JBC),Landed 11:07,2021-06-08
+38,38,12:00,WK403,Pristina (PRN),Edelweiss Air 320,Unknown,2021-06-08
+39,39,13:20,EK87,Dubai (DXB),Emirates B77W (A6-EQN),Landed 12:54,2021-06-08
+40,40,14:30 JU372,,Belgrade (BEG),AirSERBIA A319 (YU-APE),Landed 14:05,2021-06-08
+41,41,15:50 LX189,,Shanghai (PVG),Swiss B77W (HB-JNL),Landed 15:24,2021-06-08
+42,42,16:05,LX2811,Geneva (GVA),Swiss BCS3 (HB-JCQ),Landed 15:55,2021-06-08
+43,43,16:20,LX967,Berlin (BER),Swiss BCS3 (HB-JCU),Landed 16:11,2021-06-08
+44,44,16:30,LX333,London (LHR),Swiss BCS1 (HB-JBI),Landed 16:06,2021-06-08
+45,45,16:40 LX1953,,Barcelona (BCN),Swiss A20N (HB-JDC),Landed 16:30,2021-06-08
+46,46,17:05 LX2153,,Palma de Mallorca (PMI),Swiss A21N (HB-JPA),Landed 16:56,2021-06-08
+47,47,17:15 LX2143,,Valencia (VLC),Swiss BCS1 (HB-JBE),Landed 16:54,2021-06-08
+48,48,18:15,LX2067,Porto (OPO),Swiss BCS1 (HB-JBB),Landed 18:00,2021-06-08
+49,49,18:40,EW9766,Dusseldorf (DUS),Eurowings A319 (D-ABGN),Landed 18:11,2021-06-08
+50,50,18:50,EW7764,Hamburg (HAM),Eurowings A320 (D-AEWO),Landed 18:29,2021-06-08
+51,51,18:55,IB3474,Madrid (MAD),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 18:38,2021-06-08
+52,52,19:00,LX2085,Lisbon (LIS),Swiss A320 (HB-JLT),Landed 19:04,2021-06-08
+53,53,19:00 LX2111,,Malaga (AGP),Swiss A320 (HB-IJI),Landed 18:44,2021-06-08
+54,54,19:05 GM601,,Pristina (PRN),Chair Airlines A319 (HB-JOJ),Landed 10:42,2021-06-08
+55,55,19:10,OS565,Vienna (VIE),Austrian Airlines A319 (OE-LDF),Landed 18:58,2021-06-08
+56,56,20:10 JU374,,Belgrade (BEG),AirSERBIA A319 (YU-APA),Landed 19:49,2021-06-08
+57,57,21:00,LX1111,Munich (MUC),Swiss BCS1 (HB-JBI),Landed 20:36,2021-06-08
+58,58,21:30,LX1583,Vienna (VIE),Swiss A20N (HB-JDC),Landed 21:18,2021-06-08
+59,59,21:35 LX327,,London (LHR),Swiss A20N (HB-JDA),Landed 21:33,2021-06-08
+60,60,21:50,LX1077,Frankfurt (FRA),Swiss BCS1 (HB-JBB),Landed 21:53,2021-06-08
+61,61,21:55 LX2155,,Palma de Mallorca (PMI),Swiss BCS1 (HB-JBC),Landed 21:40,2021-06-08
+62,62,22:00,LX2819,Geneva (GVA),Swiss BCS3 (HB-JCF),Landed 22:11,2021-06-08
+63,63,22:25,KL1969,Amsterdam (AMS),KLM B737 (PH-BGK),Landed 21:52,2021-06-08
+64,64,22:40,WK349,Heraklion (HER),Edelweiss Air A320 (HB-IHY),Landed 22:21,2021-06-08
+65,65,22:55 GM631,,Skopje (SKP),Chair Airlines A319 (HB-JOJ),Landed 22:35,2021-06-08
+66,66,22:55,WK299,Faro (FAO),Edelweiss Air A320 (HB-IJU),Landed 22:40,2021-06-08
+0,0,06:20 WK25,,Cancun (CUN),Edelweiss Air 343,Unknown,2021-06-09
+1,1,06:20 WK27,,Punta Cana (PUJ),Edelweiss Air A343 (HB-JMG),Landed 06:27,2021-06-09
+2,2,06:20 WK35,,Punta Cana (PUJ),Edelweiss Air 343,Unknown,2021-06-09
+3,3,06:35 LX2689,,Shanghai (PVG),Swiss B77W (HB-JNJ),Landed 06:29,2021-06-09
+4,4,07:55 UA52,,Washington (IAD),United Airlines B763 (N674UA),Landed 07:32,2021-06-09
+5,5,08:05 UA134,,New York (EWR),United Airlines B763 (N667UA),Landed 08:57,2021-06-09
+6,6,08:15 SQ346,,Singapore (SIN),Singapore Airlines A359 (9V-SMM),Landed 08:04,2021-06-09
+7,7,08:20 XC3221,,Antalya (AYT),Corendon Airlines 738,Unknown,2021-06-09
+8,8,08:55 OS561,,Vienna (VIE),Austrian Airlines A319 (OE-LDD),Landed 08:38,2021-06-09
+9,9,09:30 LX197,,Beijing (PEK),Swiss B77W (HB-JNI),Landed 08:59,2021-06-09
+10,10,09:35 XQ960,,Izmir (ADB),SunExpress B738 (TC-SNT),Landed 09:02,2021-06-09
+11,11,09:40,SK601,Copenhagen (CPH),SAS CRJ9 (EI-FPT),Landed 09:26,2021-06-09
+12,12,09:45,AY1511,Helsinki (HEL),Finnair E190 (OH-LKE),Landed 09:34,2021-06-09
+13,13,09:55,TK1907,Istanbul (IST),Turkish Airlines B38M (TC-LCD),Landed 09:48,2021-06-09
+14,14,10:20,AZ572,Rome (FCO),Alitalia (SkyTeam Livery) E190 (EI-RND),Landed 10:16,2021-06-09
+15,15,10:20 WK2065,,Colombo (CMB),Edelweiss Air A343 (HB-JMD),Landed 09:30,2021-06-09
+16,16,10:25 PC947,,Istanbul (SAW),Pegasus B738 (TC-CPL),Landed 10:22,2021-06-09
+17,17,10:35 TK7878,,Istanbul (SAW),AnadoluJet B738 (TC-JFE),Landed 10:47,2021-06-09
+18,18,10:45 GM601,,Pristina (PRN),Chair Airlines A319 (HB-JOJ),Landed 10:52,2021-06-09
+19,19,10:50,LX9,Chicago (ORD),Swiss A343 (HB-JMA),Landed 10:42,2021-06-09
+20,20,10:55 LX257,,Tel Aviv (TLV),Swiss A333 (HB-JHF),Landed 10:25,2021-06-09
+21,21,11:00,LX1575,Vienna (VIE),Swiss BCS1 (HB-JBI),Landed 10:40,2021-06-09
+22,22,11:05,IB3464,Madrid (MAD),Iberia A319 (EC-JEI),Landed 10:59,2021-06-09
+23,23,11:05,KL1957,Amsterdam (AMS),KLM B737 (PH-BGW),Landed 10:50,2021-06-09
+24,24,11:10,LX1843,Athens (ATH),Swiss BCS1 (HB-JBD),Landed 10:57,2021-06-09
+25,25,11:25 LX1413,,Belgrade (BEG),Swiss A320 (HB-IJE),Landed 11:03,2021-06-09
+26,26,11:40,LX19,New York (EWR),Swiss A333 (HB-JHL),Landed 11:09,2021-06-09
+27,27,12:00,WK403,Pristina (PRN),Edelweiss Air A320 (HB-IHZ),Landed 11:50,2021-06-09
+28,28,12:25,TP932,Lisbon (LIS),TAP Air Portugal A20N (CS-TVG),Landed 12:12,2021-06-09
+29,29,12:30,BA712,London (LHR),British Airways B788 (G-ZBJB),Landed 12:18,2021-06-09
+30,30,12:40,WK337,Santorini (JTR),Edelweiss Air A320 (HB-JJN),Landed 12:26,2021-06-09
+31,31,13:00,EY73,Abu Dhabi (AUH),Etihad (ADNOC - Choose China Livery) B789 (A6-BLF),Landed 12:37,2021-06-09
+32,32,13:10,WK355,Mykonos (JMK),Edelweiss Air A320 (HB-IHX),Landed 13:01,2021-06-09
+33,33,13:20,EK87,Dubai (DXB),Emirates B77W (A6-EQH),Landed 12:52,2021-06-09
+34,34,13:40,QR95,Doha (DOH),Qatar Airways A359 (A7-ALY),Landed 13:20,2021-06-09
+35,35,13:55,LH1190,Frankfurt (FRA),Lufthansa A320 (D-AIZW),Landed 13:45,2021-06-09
+36,36,14:45 LX2153,,Palma de Mallorca (PMI),Swiss A20N (HB-JDA),Landed 14:31,2021-06-09
+37,37,14:55 LX161,,Tokyo (NRT),Swiss B77W (HB-JNK),Landed 14:25,2021-06-09
+38,38,15:45,LX39,San Francisco (SFO),Swiss B77W (HB-JNE),Landed 15:20,2021-06-09
+39,39,16:00,LX2061,Porto (OPO),Swiss BCS1 (HB-JBG),Landed 16:58,2021-06-09
+40,40,16:10 TK6329,,Tunis (TUN),Turkish Cargo A332 (TC-JOY),Unknown,2021-06-09
+41,41,16:30 LX1955,,Barcelona (BCN),Swiss A20N (HB-JDB),Landed 16:38,2021-06-09
+42,42,16:50 LX2151,,Palma de Mallorca (PMI),Swiss BCS3 (HB-JCL),Landed 16:31,2021-06-09
+43,43,16:55 LX2143,,Valencia (VLC),Swiss BCS3 (HB-JCF),Landed 16:35,2021-06-09
+44,44,17:15 GM445,,Hurghada (HRG),Chair Airlines 319,Unknown,2021-06-09
+45,45,17:15,UX1671,Madrid (MAD),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 16:55,2021-06-09
+46,46,17:15 S48790,,Lisbon (LIS),Azores Airlines 320,Unknown,2021-06-09
+47,47,17:20 A3448,,Heraklion (HER),Aegean Airlines A320 (SX-DVM),Landed 17:00,2021-06-09
+48,48,17:30 XQ120,,Antalya (AYT),SunExpress B738 (TC-SOA),Landed 17:12,2021-06-09
+49,49,17:40,A3852,Athens (ATH),Aegean Airlines A321 (SX-DGQ),Landed 17:46,2021-06-09
+50,50,17:40 AT352,,Casablanca (CMN),Royal Air Maroc Cargo B763 (CN-ROW),Diverted to BRU,2021-06-09
+51,51,18:20 LX2115,,Malaga (AGP),Swiss BCS1 (HB-JBE),Landed 18:23,2021-06-09
+52,52,18:20,WK215,Tenerife (TFS),Edelweiss Air 320,Canceled,2021-06-09
+53,53,18:20,WK321,Corfu (CFU),Edelweiss Air A320 (HB-JJM),Landed 17:57,2021-06-09
+54,54,18:20,WK229,Lanzarote (ACE),Edelweiss Air 320,Canceled,2021-06-09
+55,55,18:20 WK236,,Tenerife (TFS),Edelweiss Air A320 (HB-IHY),Landed 17:48,2021-06-09
+56,56,18:40,EW9766,Dusseldorf (DUS),Eurowings A320 (D-ABZL),Landed 18:25,2021-06-09
+57,57,18:50,EW7764,Hamburg (HAM),Eurowings A320 (D-ABDU),Landed 18:28,2021-06-09
+58,58,18:50,LO419,Warsaw (WAW),LOT E195 (SP-LNG),Landed 18:31,2021-06-09
+59,59,18:50,LX2085,Lisbon (LIS),Swiss BCS3 (HB-JCE),Landed 18:33,2021-06-09
+60,60,18:55,IB3474,Madrid (MAD),Iberia A319 (EC-JAZ),Landed 18:29,2021-06-09
+61,61,19:10,OS565,Vienna (VIE),Austrian Airlines A320 (OE-LXA),Landed 19:08,2021-06-09
+62,62,19:10 YM150,,Podgorica (TGD),Montenegro Airlines 100,Unknown,2021-06-09
+63,63,19:20,OU464,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Unknown,2021-06-09
+64,64,19:25 T71277,,Lyon (LYS),Twin Jet BEH,Unknown,2021-06-09
+65,65,19:25 LX8847,,Frankfurt (FRA),Swiss A320 (HB-IJE),Landed 19:00,2021-06-09
+66,66,19:55 JU374,,Belgrade (BEG),AirSERBIA A319 (YU-APB),Landed 19:40,2021-06-09
+67,67,20:00,VY6248,Barcelona (BCN),Vueling A320 (EC-LVV),Landed 19:38,2021-06-09
+68,68,21:20,LX2819,Geneva (GVA),Swiss BCS1 (HB-JBF),Landed 20:54,2021-06-09
+69,69,21:25,LX1055,Hamburg (HAM),Swiss BCS1 (HB-JBD),Landed 21:15,2021-06-09
+70,70,21:50,LX1077,Frankfurt (FRA),Swiss BCS3 (HB-JCL),Landed 21:44,2021-06-09
+71,71,22:00,LX979,Berlin (BER),Swiss A20N (HB-JDA),Landed 21:41,2021-06-09
+72,72,22:00,LX327,London (LHR),Edelweiss Air A343 (HB-JMD),Landed 21:58,2021-06-09
+73,73,22:25,KL1969,Amsterdam (AMS),KLM B738 (PH-BXL),Landed 22:00,2021-06-09
+74,74,22:25,WK267,Ibiza (IBZ),Edelweiss Air A320 (HB-JJN),Landed 22:02,2021-06-09
+75,75,22:30,TP928,Lisbon (LIS),TAP Air Portugal A20N (CS-TVG),Landed 22:19,2021-06-09
+76,76,22:45,WK357,Kos (KGS),Edelweiss Air 320,Unknown,2021-06-09
+77,77,22:50,WK387,Olbia (OLB),Edelweiss Air 320,Canceled,2021-06-09
+78,78,22:50,WK389,Cagliari (CAG),Edelweiss Air 320,Canceled,2021-06-09
+79,79,22:50,WK380,Cagliari (CAG),Edelweiss Air A320 (HB-IJV),Landed 22:39,2021-06-09
+80,80,22:55 GM631,,Skopje (SKP),Chair Airlines A319 (HB-JOJ),Landed 22:50,2021-06-09
+81,81,22:55,WK201,Gran Canaria (LPA),Edelweiss Air 320,Canceled,2021-06-09
+82,82,22:55,WK213,Fuerteventura (FUE),Edelweiss Air 320,Canceled,2021-06-09
+83,83,22:55,WK385,Lamezia Terme (SUF),Edelweiss Air 320,Canceled,2021-06-09
+84,84,22:55,WK399,Catania (CTA),Edelweiss Air 320,Canceled,2021-06-09
+85,85,22:55,WK208,Fuerteventura (FUE),Edelweiss Air A320 (HB-IJU),Landed 22:47,2021-06-09
+86,86,22:55,WK382,Lamezia Terme (SUF),Edelweiss Air A320 (HB-JJL),Landed 22:34,2021-06-09
+0,0,06:10,LX289,Johannesburg (JNB),Swiss A343 (HB-JMC),Landed 06:23,2021-06-10
+1,1,06:10,LX139,Hong Kong (HKG),Swiss B77W (HB-JNF),Landed 06:07,2021-06-10
+2,2,06:10,LX181,Bangkok (BKK),Swiss B77W (HB-JND),Landed 06:07,2021-06-10
+3,3,06:35 LX189,,Shanghai (PVG),Swiss 77W,Canceled,2021-06-10
+4,4,07:55,UA52,Washington (IAD),United Airlines B763 (N668UA),Landed 07:35,2021-06-10
+5,5,08:05,UA134,New York (EWR),United Airlines B763 (N674UA),Landed 08:09,2021-06-10
+6,6,08:15,SQ346,Singapore (SIN),Singapore Airlines A359 (9V-SMP),Landed 08:01,2021-06-10
+7,7,08:30 AC7216,,Toronto (YYZ),Air Canada B789 (C-FGEI),Landed 08:06,2021-06-10
+8,8,08:35 LH1184,,Frankfurt (FRA),Lufthansa A319 (D-AILK),Landed 08:19,2021-06-10
+9,9,08:55 OS561,,Vienna (VIE),Austrian Airlines A319 (OE-LDF),Landed 08:38,2021-06-10
+10,10,09:05 LX177,,Singapore (SIN),Swiss 77W,Unknown,2021-06-10
+11,11,09:40 SK601,,Copenhagen (CPH),SAS CRJ9 (EI-FPW),Landed 09:21,2021-06-10
+12,12,09:55 LO411,,Warsaw (WAW),LOT E75S (SP-LID),Landed 09:39,2021-06-10
+13,13,09:55 TK1907,,Istanbul (IST),Turkish Airlines A333 (TC-JOF),Landed 09:31,2021-06-10
+14,14,10:15 UX1675,,Madrid (MAD),Air Europa B738 (EC-LVR),Landed 09:51,2021-06-10
+15,15,10:20 A3850,,Athens (ATH),Aegean Airlines A321 (SX-DGT),Landed 10:06,2021-06-10
+16,16,10:20 AZ572,,Rome (FCO),Alitalia A319 (EI-IME),Landed 10:13,2021-06-10
+17,17,10:25 PC947,,Istanbul (SAW),Pegasus B738 (TC-CRE),Landed 10:15,2021-06-10
+18,18,10:30 LX93,,Sao Paulo (GRU),Swiss B77W (HB-JNA),Landed 10:04,2021-06-10
+19,19,10:40 AA9716,,Philadelphia (PHL),American Airlines B788,Unknown,2021-06-10
+20,20,10:45 GM601,,Pristina (PRN),Chair Airlines A319 (HB-JOG),Landed 10:37,2021-06-10
+21,21,10:45 OU460,,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Unknown,2021-06-10
+22,22,10:50 LX1069,,Frankfurt (FRA),Swiss BCS3 (HB-JCE),Landed 10:47,2021-06-10
+23,23,10:55 LX15,,New York (JFK),Swiss B77W (HB-JNL),Landed 10:09,2021-06-10
+24,24,11:00 IB3464,,Madrid (MAD),Iberia A320 (EC-MDK),Landed 10:34,2021-06-10
+25,25,11:00,LX975,Berlin (BER),Swiss A20N (HB-JDB),Landed 10:55,2021-06-10
+26,26,11:00,LX1017,Dusseldorf (DUS),Helvetic Airways E290 (HB-AZA),Landed 10:41,2021-06-10
+27,27,11:00,LX1575,Vienna (VIE),Swiss A20N (HB-JDC),Landed 10:36,2021-06-10
+28,28,11:05,LX2807,Geneva (GVA),Swiss A21N (HB-JPB),Landed 10:54,2021-06-10
+29,29,11:05,KL1957,Amsterdam (AMS),KLM B737 (PH-BGQ),Landed 10:44,2021-06-10
+30,30,11:10,LX633,Paris (CDG),Helvetic Airways E290 (HB-AZH),Landed 10:52,2021-06-10
+31,31,11:10,LX1051,Hamburg (HAM),Swiss BCS3 (HB-JCM),Landed 10:58,2021-06-10
+32,32,11:10,LX1843,Athens (ATH),Swiss BCS3 (HB-JCJ),Landed 11:14,2021-06-10
+33,33,11:15,LX787,Brussels (BRU),Swiss BCS1 (HB-JBD),Landed 11:12,2021-06-10
+34,34,11:15,LX1485,Prague (PRG),Swiss BCS3 (HB-JCQ),Unknown,2021-06-10
+35,35,11:20,LX563,Nice (NCE),Swiss BCS3 (HB-JCL),Landed 11:32,2021-06-10
+36,36,11:25,LX1371,Krakow (KRK),Swiss 221,Canceled,2021-06-10
+37,37,11:25,LX1267,Copenhagen (CPH),Swiss BCS3 (HB-JCB),Landed 11:16,2021-06-10
+38,38,11:25 LX1413,,Belgrade (BEG),Swiss A320 (HB-IJI),Landed 11:08,2021-06-10
+39,39,11:25,LY347,Tel Aviv (TLV),El Al Israel Airlines B738 (4X-EKJ),Landed 11:11,2021-06-10
+40,40,11:30,LX317,London (LHR),Swiss BCS1 (HB-JBF),Landed 11:18,2021-06-10
+41,41,11:35 LX391,,Manchester (MAN),Swiss 221,Canceled,2021-06-10
+42,42,11:35,LX1343,Warsaw (WAW),Swiss BCS3 (HB-JCF),Landed 11:33,2021-06-10
+43,43,12:00,WK403,Pristina (PRN),Edelweiss Air 320,Unknown,2021-06-10
+44,44,12:25,LH2368,Munich (MUC),Lufthansa CRJ9 (D-ACNQ),Landed 12:18,2021-06-10
+45,45,12:35,WK357,Kos (KGS),Edelweiss Air A320 (HB-IHY),Landed 12:41,2021-06-10
+46,46,13:00,WK345,Chania (CHQ),Edelweiss Air A320 (HB-JJM),Landed 12:44,2021-06-10
+47,47,13:05,WK349,Heraklion (HER),Edelweiss Air A320 (HB-JJL),Landed 12:50,2021-06-10
+48,48,13:20,EK87,Dubai (DXB),Emirates B77W (A6-EQN),Landed 12:53,2021-06-10
+49,49,13:30,BT641,Riga (RIX),Air Baltic BCS3 (YL-CSD),Landed 13:11,2021-06-10
+50,50,13:40,QR95,Doha (DOH),Qatar Airways A359 (A7-ALG),Landed 13:08,2021-06-10
+51,51,13:55,LH1190,Frankfurt (FRA),Lufthansa E190 (D-AECD),Landed 13:39,2021-06-10
+52,52,14:00 LX2021,,Madrid (MAD),Swiss BCS1 (HB-JBB),Landed 13:52,2021-06-10
+53,53,14:25,OS569,Vienna (VIE),Austrian Airlines A319 (OE-LDB),Landed 14:12,2021-06-10
+54,54,14:30 YM150,,Podgorica (TGD),Montenegro Airlines 100,Unknown,2021-06-10
+55,55,14:45 LX2153,,Palma de Mallorca (PMI),Swiss A320 (HB-JLT),Landed 14:36,2021-06-10
+56,56,15:45 GM651,,Podgorica (TGD),Chair Airlines A319 (HB-JOG),Unknown,2021-06-10
+57,57,15:55 EW6836,,Palma de Mallorca (PMI),Eurowings A319 (OE-LYZ),Landed 15:41,2021-06-10
+58,58,16:05,LX2811,Geneva (GVA),Swiss BCS1 (HB-JBH),Landed 15:51,2021-06-10
+59,59,16:20 LX1661,,Venice (VCE),Swiss BCS3 (HB-JCL),Landed 15:48,2021-06-10
+60,60,16:20 LX2111,,Malaga (AGP),Swiss BCS3 (HB-JCO),Landed 16:13,2021-06-10
+61,61,16:25 LX1679,,Florence (FLR),Helvetic Airways E290 (HB-AZG),Landed 16:04,2021-06-10
+62,62,16:30 LX1715,,Naples (NAP),Swiss BCS3 (HB-JCH),Landed 16:16,2021-06-10
+63,63,16:40 LX1417,,Belgrade (BEG),Swiss A320 (HB-JLS),Landed 16:20,2021-06-10
+64,64,16:40 LX1955,,Barcelona (BCN),Swiss BCS3 (HB-JCE),Landed 17:07,2021-06-10
+65,65,16:45,KM490,Luqa (MLA),Air Malta A320 (9H-AEP),Landed 16:40,2021-06-10
+66,66,16:45 LX1723,,Brindisi (BDS),Swiss BCS3 (HB-JCQ),Landed 16:28,2021-06-10
+67,67,16:50 LX1737,,Rome (FCO),Swiss A20N (HB-JDC),Landed 16:23,2021-06-10
+68,68,16:55,LH2372,Munich (MUC),Lufthansa CRJ9 (D-ACKF),Landed 17:16,2021-06-10
+69,69,17:00 LX2513,,Palermo (PMO),Swiss A320 (HB-IJD),Landed 16:43,2021-06-10
+70,70,17:05 LX2143,,Valencia (VLC),Swiss BCS3 (HB-JCJ),Landed 16:51,2021-06-10
+71,71,17:05,WK247,Palma de Mallorca (PMI),Edelweiss Air A320 (HB-IJU),Landed 16:53,2021-06-10
+72,72,17:15,LX333,London (LHR),Edelweiss Air A343 (HB-JMD),Landed 17:01,2021-06-10
+73,73,17:15,TP926,Lisbon (LIS),TAP Air Portugal A21N (CS-TJP),Landed 17:00,2021-06-10
+74,74,17:55 LX2581,,Thessaloniki (SKG),Swiss BCS3 (HB-JCU),Landed 17:38,2021-06-10
+75,75,18:10 LX407,,Dublin (DUB),Swiss BCS1 (HB-JBF),Landed 17:56,2021-06-10
+76,76,18:10 LX2115,,Malaga (AGP),Swiss BCS3 (HB-JCB),Landed 18:09,2021-06-10
+77,77,18:20,AY1513,Helsinki (HEL),Finnair A319 (OH-LVI),Landed 18:16,2021-06-10
+78,78,18:30,LX2065,Porto (OPO),Swiss A20N (HB-JDB),Landed 18:33,2021-06-10
+79,79,18:40,EW9766,Dusseldorf (DUS),Eurowings A320 (D-AEWS),Landed 18:22,2021-06-10
+80,80,18:50,EW7764,Hamburg (HAM),Eurowings A319 (D-AGWH),Landed 18:35,2021-06-10
+81,81,18:55,IB3474,Madrid (MAD),Iberia A20N (EC-NER),Landed 18:30,2021-06-10
+82,82,19:00,EW762,Cologne (CGN),Eurowings B738 (D-ABKJ),Landed 18:40,2021-06-10
+83,83,19:05,LX2085,Lisbon (LIS),Swiss A21N (HB-JPB),Landed 18:52,2021-06-10
+84,84,19:10,OS565,Vienna (VIE),Austrian Airlines (Retro Livery) A320 (OE-LBO),Landed 19:04,2021-06-10
+85,85,19:25 T71277,,Lyon (LYS),Twin Jet BEH,Unknown,2021-06-10
+86,86,19:50,WK299,Faro (FAO),Edelweiss Air A320 (HB-IHY),Landed 19:29,2021-06-10
+87,87,19:55 JU374,,Belgrade (BEG),AirSERBIA A319 (YU-APE),Landed 19:50,2021-06-10
+88,88,19:55,WK131,Hurghada (HRG),Edelweiss Air 320,Canceled,2021-06-10
+89,89,19:55,WK151,Marsa Alam (RMF),Edelweiss Air 320,Canceled,2021-06-10
+90,90,19:55 WK136,,Marsa Alam (RMF),Edelweiss Air A320 (HB-IHX),Landed 19:26,2021-06-10
+91,91,20:00,VY6248,Barcelona (BCN),Vueling A320 (EC-LLJ),Landed 19:45,2021-06-10
+92,92,20:50 GM107,,Ibiza (IBZ),Chair Airlines A319 (HB-JOJ),Landed 20:36,2021-06-10
+93,93,21:00 LX465,,London (LCY),Swiss 221,Canceled,2021-06-10
+94,94,21:15,LX829,Hannover (HAJ),Swiss 221,Canceled,2021-06-10
+95,95,21:15,WK285,Funchal (FNC),Edelweiss Air A320 (HB-IJV),Landed 21:07,2021-06-10
+96,96,21:20,LX2819,Geneva (GVA),Swiss BCS1 (HB-JBE),Landed 20:55,2021-06-10
+97,97,21:25,LX1055,Hamburg (HAM),Helvetic Airways E290 (HB-AZG),Landed 21:17,2021-06-10
+98,98,21:30,LX1583,Vienna (VIE),Helvetic Airways E290 (HB-AZF),Landed 21:15,2021-06-10
+99,99,21:30,LX2571,Sylt (GWT),Swiss BCS1 (HB-JBH),Landed 20:59,2021-06-10
+100,100,21:40,WK331,Zakynthos (ZTH),Edelweiss Air A320 (HB-JJL),Landed 21:20,2021-06-10
+101,101,21:50,LX1077,Frankfurt (FRA),Swiss BCS1 (HB-JBB),Landed 21:35,2021-06-10
+102,102,21:55 LX2155,,Palma de Mallorca (PMI),Swiss BCS3 (HB-JCH),Landed 21:49,2021-06-10
+103,103,22:00,LX979,Berlin (BER),Swiss BCS3 (HB-JCQ),Landed 21:38,2021-06-10
+104,104,22:25,KL1969,Amsterdam (AMS),KLM B737 (PH-BGU),Landed 22:06,2021-06-10
+105,105,22:30,WK347,Rhodes (RHO),Edelweiss Air A320 (HB-JJM),Landed 22:13,2021-06-10
+106,106,22:45 GM631,,Skopje (SKP),Chair Airlines A319 (HB-JOG),Landed 22:44,2021-06-10
+0,0,6:15 AM,LX87,Montreal (YUL),Swiss A333 (HB-JHF),Landed 6:25 AM,2021-06-11
+1,1,6:15 AM,LX243,Dubai (DXB),Swiss B77W (HB-JNK),Landed 6:07 AM,2021-06-11
+2,2,6:35 AM LX189,,Shanghai (PVG),Swiss B77W (HB-JNJ),Landed 6:14 AM,2021-06-11
+3,3,6:45 AM,LX2805,Geneva (GVA),Swiss A320 (HB-JLS),Landed 6:37 AM,2021-06-11
+4,4,7:40 AM LX155,,Mumbai (BOM),Swiss B77W (HB-JNE),Landed 7:00 AM,2021-06-11
+5,5,7:55 AM,UA52,Washington (IAD),United Airlines (Star Alliance livery) B763 (N653UA),Landed 9:41 AM,2021-06-11
+6,6,8:05 AM,UA134,New York (EWR),United Airlines B763 (N675UA),Landed 7:54 AM,2021-06-11
+7,7,8:15 AM,SQ346,Singapore (SIN),Singapore Airlines A359 (9V-SJA),Landed 8:15 AM,2021-06-11
+8,8,8:35 AM,LH1184,Frankfurt (FRA),Lufthansa E190 (D-AECH),Landed 8:18 AM,2021-06-11
+9,9,8:55 AM,OS561,Vienna (VIE),Austrian Airlines A320 (OE-LBN),Landed 8:43 AM,2021-06-11
+10,10,9:10 AM,JU370,Belgrade (BEG),AirSERBIA A319 (YU-APB),Landed 8:50 AM,2021-06-11
+11,11,9:30 AM LX197,,Beijing (PEK),Swiss B77W (HB-JNI),Unknown,2021-06-11
+12,12,9:45 AM,LX1069,Frankfurt (FRA),Swiss BCS3 (HB-JCQ),Landed 9:29 AM,2021-06-11
+13,13,9:50 AM TK6333,,Algiers (ALG),Turkish Cargo A332 (TC-JDS),Landed 4:57 PM,2021-06-11
+14,14,10:20 AM,AZ572,Rome (FCO),Alitalia A319 (EI-IMG),Landed 10:22 AM,2021-06-11
+15,15,10:25 AM,LX1255,Stockholm (ARN),Swiss BCS3 (HB-JCO),Landed 10:12 AM,2021-06-11
+16,16,10:25 AM LX1229,,Gothenburg (GOT),Helvetic Airways E290 (HB-AZD),Landed 10:10 AM,2021-06-11
+17,17,10:25 AM PC947,,Istanbul (SAW),Pegasus B738 (TC-CPD),Landed 10:07 AM,2021-06-11
+18,18,10:30 AM,LX93,Sao Paulo (GRU),Swiss B77W (HB-JNG),Landed 10:17 AM,2021-06-11
+19,19,10:30 AM,LX1343,Warsaw (WAW),Helvetic Airways E290 (HB-AZH),Landed 10:01 AM,2021-06-11
+20,20,10:45 AM,OU460,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQB),Landed 10:26 AM,2021-06-11
+21,21,10:45 AM GM601,,Pristina (PRN),Chair Airlines A319 (HB-JOJ),Landed 10:43 AM,2021-06-11
+22,22,10:50 AM,LX9,Chicago (ORD),Swiss A343 (HB-JMI),Landed 10:33 AM,2021-06-11
+23,23,10:50 AM TK7878,,Istanbul (SAW),AnadoluJet B738 (TC-SBP),Landed 10:32 AM,2021-06-11
+24,24,10:55 AM,LX15,New York (JFK),Swiss B77W (HB-JNB),Landed 10:03 AM,2021-06-11
+25,25,10:55 AM LX257,,Tel Aviv (TLV),Swiss A333 (HB-JHM),Landed 10:38 AM,2021-06-11
+26,26,10:55 AM,LX2807,Geneva (GVA),Swiss A20N (HB-JDC),Landed 10:37 AM,2021-06-11
+27,27,11:00 AM,LX65,Miami (MIA),Swiss A343 (HB-JMH),Landed 10:53 AM,2021-06-11
+28,28,11:00 AM,LX975,Berlin (BER),Swiss BCS3 (HB-JCA),Landed 10:57 AM,2021-06-11
+29,29,11:00 AM LX1485,,Prague (PRG),Swiss BCS3 (HB-JCL),Landed 10:30 AM,2021-06-11
+30,30,11:00 AM,LX1575,Vienna (VIE),Swiss BCS1 (HB-JBC),Landed 10:46 AM,2021-06-11
+31,31,11:05 AM,IB3464,Madrid (MAD),Iberia A319 (EC-JEI),Landed 10:59 AM,2021-06-11
+32,32,11:05 AM,KL1957,Amsterdam (AMS),KLM B737 (PH-BGX),Landed 10:52 AM,2021-06-11
+33,33,11:10 AM,LX1843,Athens (ATH),Swiss A320 (HB-IJE),Landed 10:41 AM,2021-06-11
+34,34,11:10 AM,LX633,Paris (CDG),Swiss BCS3 (HB-JCJ),Unknown,2021-06-11
+35,35,11:15 AM LX751,,Luxembourg (LUX),Swiss BCS1 (HB-JBE),Landed 11:00 AM,2021-06-11
+36,36,11:20 AM LX1267,,Copenhagen (CPH),Swiss BCS3 (HB-JCE),Landed 10:56 AM,2021-06-11
+37,37,11:20 AM LX2251,,Budapest (BUD),Swiss A320 (HB-JLT),Landed 11:16 AM,2021-06-11
+38,38,11:20 AM LX2291,,Kyiv (KBP),Swiss BCS1 (HB-JBG),Landed 11:32 AM,2021-06-11
+39,39,11:25 AM LX1413,,Belgrade (BEG),Swiss BCS3 (HB-JCF),Landed 11:13 AM,2021-06-11
+40,40,11:25 AM LX1889,,Bucharest (OTP),Swiss BCS1 (HB-JBD),Landed 11:19 AM,2021-06-11
+41,41,11:30 AM LX563,,Nice (NCE),Helvetic Airways E290 (HB-AZF),Landed 11:21 AM,2021-06-11
+42,42,11:30 AM WK387,,Olbia (OLB),Edelweiss Air 320,Canceled,2021-06-11
+43,43,11:30 AM WK389,,Cagliari (CAG),Edelweiss Air 320,Canceled,2021-06-11
+44,44,11:35 AM LX2153,,Palma de Mallorca (PMI),Swiss BCS3 (HB-JCH),Landed 11:28 AM,2021-06-11
+45,45,11:55 AM WK403,,Pristina (PRN),Edelweiss Air A320 (HB-IJU),Landed 11:39 AM,2021-06-11
+46,46,12:00 PM WK413,,Tirana (TIA),Edelweiss Air A320 (HB-JJM),Landed 11:44 AM,2021-06-11
+47,47,12:25 PM LH2368,,Munich (MUC),Lufthansa CRJ9 (D-ACNX),Landed 12:12 PM,2021-06-11
+48,48,12:25 PM,TP932,Lisbon (LIS),TAP Air Portugal A21N (CS-TJO),Landed 12:15 PM,2021-06-11
+49,49,1:00 PM,EY73,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLQ),Landed 12:38 PM,2021-06-11
+50,50,1:20 PM,EK87,Dubai (DXB),Emirates B77W (A6-EQN),Landed 12:54 PM,2021-06-11
+51,51,1:20 PM,FB491,Sofia (SOF),Bulgaria Air E190 (LZ-PLO),Landed 1:08 PM,2021-06-11
+52,52,1:40 PM,QR95,Doha (DOH),Qatar Airways A359 (A7-ALB),Landed 1:22 PM,2021-06-11
+53,53,1:55 PM,LH1190,Frankfurt (FRA),Lufthansa A320 (D-AIWC),Landed 1:50 PM,2021-06-11
+54,54,2:00 PM LX2021,,Madrid (MAD),Swiss BCS1 (HB-JBF),Landed 1:47 PM,2021-06-11
+55,55,2:05 PM,AF1614,Paris (CDG),Air France A320 (F-GKXP),Landed 1:53 PM,2021-06-11
+56,56,2:05 PM XQ960,,Izmir (ADB),SunExpress B738 (TC-SOZ),Landed 1:56 PM,2021-06-11
+57,57,2:25 PM,OU462,Split (SPU),Croatia Airlines DH8D (9A-CQF),Landed 1:59 PM,2021-06-11
+58,58,2:25 PM U27593,,Porto (OPO),easyJet A320 (OE-IJQ),Landed 2:24 PM,2021-06-11
+59,59,2:30 PM GM801,,Heraklion (HER),Chair Airlines 319,Unknown,2021-06-11
+60,60,3:00 PM,WK247,Palma de Mallorca (PMI),Edelweiss Air A320 (HB-JJN),Landed 2:49 PM,2021-06-11
+61,61,3:50 PM,LX1831,Athens (ATH),Swiss BCS1 (HB-JBH),Landed 3:36 PM,2021-06-11
+62,62,4:00 PM,LX1663,Venice (VCE),Swiss A320 (HB-JLT),Landed 3:41 PM,2021-06-11
+63,63,4:10 PM,LX1579,Vienna (VIE),Swiss A20N (HB-JDA),Landed 4:14 PM,2021-06-11
+64,64,4:15 PM,LX2811,Geneva (GVA),Swiss A20N (HB-JDB),Landed 4:01 PM,2021-06-11
+65,65,4:20 PM,LX967,Berlin (BER),Swiss BCS1 (HB-JBE),Landed 4:12 PM,2021-06-11
+66,66,4:20 PM,LX1057,Hamburg (HAM),Swiss A320 (HB-IJS),Landed 4:06 PM,2021-06-11
+67,67,4:20 PM LX2111,,Malaga (AGP),Swiss A320 (HB-IJD),Landed 4:10 PM,2021-06-11
+68,68,4:25 PM,LX1311,St. Petersburg (LED),Swiss BCS3 (HB-JCR),Landed 4:42 PM,2021-06-11
+69,69,4:25 PM,LX2061,Porto (OPO),Swiss BCS3 (HB-JCU),Landed 4:21 PM,2021-06-11
+70,70,4:25 PM LX2175,,Alicante (ALC),Swiss BCS3 (HB-JCQ),Landed 4:34 PM,2021-06-11
+71,71,4:30 PM,LX333,London (LHR),Swiss BCS3 (HB-JCF),Landed 4:36 PM,2021-06-11
+72,72,4:30 PM LX1327,,Moscow (DME),Swiss A21N (HB-JPB),Landed 4:44 PM,2021-06-11
+73,73,4:35 PM LX1417,,Belgrade (BEG),Swiss BCS3 (HB-JCL),Landed 4:41 PM,2021-06-11
+74,74,4:35 PM LX1713,,Naples (NAP),Swiss A20N (HB-JDC),Landed 4:20 PM,2021-06-11
+75,75,4:35 PM LX1737,,Rome (FCO),Swiss A321 (HB-ION),Landed 4:49 PM,2021-06-11
+76,76,4:35 PM LX2581,,Thessaloniki (SKG),Helvetic Airways E190 (HB-JVO),Landed 4:16 PM,2021-06-11
+77,77,4:40 PM LX1723,,Brindisi (BDS),Swiss A320 (HB-JLS),Landed 4:23 PM,2021-06-11
+78,78,4:40 PM LX1955,,Barcelona (BCN),Swiss BCS1 (HB-JBC),Landed 4:28 PM,2021-06-11
+79,79,4:40 PM LX2143,,Valencia (VLC),Swiss A320 (HB-JLP),Landed 4:24 PM,2021-06-11
+80,80,4:40 PM LX2513,,Palermo (PMO),Swiss BCS3 (HB-JCB),Landed 4:26 PM,2021-06-11
+81,81,4:45 PM,KL1961,Amsterdam (AMS),KLM E75L (PH-EXM),Landed 4:31 PM,2021-06-11
+82,82,4:45 PM,LX2085,Lisbon (LIS),Swiss A21N (HB-JPA),Landed 4:46 PM,2021-06-11
+83,83,4:45 PM,WK201,Gran Canaria (LPA),Edelweiss Air 320,Canceled,2021-06-11
+84,84,4:45 PM,WK215,Tenerife (TFS),Edelweiss Air 320,Canceled,2021-06-11
+85,85,4:45 PM WK210,,Tenerife (TFS),Edelweiss Air A320 (HB-IHY),Landed 4:47 PM,2021-06-11
+86,86,4:50 PM LX2157,,Palma de Mallorca (PMI),Swiss BCS3 (HB-JCE),Landed 4:38 PM,2021-06-11
+87,87,5:00 PM,WK141,Sharm el-Sheikh (SSH),Edelweiss Air 320,Unknown,2021-06-11
+88,88,5:05 PM LX1885,,Bucharest (OTP),Swiss BCS1 (HB-JBB),Landed 5:19 PM,2021-06-11
+89,89,5:15 PM,TP926,Lisbon (LIS),TAP Air Portugal A319 (CS-TTR),Landed 5:12 PM,2021-06-11
+90,90,5:15 PM,UX1671,Madrid (MAD),Air Europa Express E195 (EC-LEK),Landed 5:01 PM,2021-06-11
+91,91,5:15 PM,WK325,Kalamata (KLX),Edelweiss Air A320 (HB-JJL),Landed 4:55 PM,2021-06-11
+92,92,5:40 PM,A3852,Athens (ATH),Aegean Airlines A321 (SX-DGQ),Landed 5:27 PM,2021-06-11
+93,93,5:50 PM,BA716,London (LHR),British Airways A319 (G-EUPO),Landed 5:33 PM,2021-06-11
+94,94,6:10 PM LX2115,,Malaga (AGP),Swiss A321 (HB-IOC),Landed 6:08 PM,2021-06-11
+95,95,6:15 PM,WK131,Hurghada (HRG),Edelweiss Air 320,Unknown,2021-06-11
+96,96,6:20 PM,AY1513,Helsinki (HEL),Finnair E190 (OH-LKH),Landed 5:58 PM,2021-06-11
+97,97,6:25 PM TK1909,,Istanbul (IST),Turkish Airlines A21N (TC-LTD),Landed 6:12 PM,2021-06-11
+98,98,6:40 PM,EW9766,Dusseldorf (DUS),Eurowings A319 (D-AGWC),Landed 6:14 PM,2021-06-11
+99,99,6:50 PM,EW7764,Hamburg (HAM),Eurowings A319 (D-AGWH),Landed 6:35 PM,2021-06-11
+100,100,6:50 PM,LO419,Warsaw (WAW),LOT (Grzeski Livery) E195 (SP-LNB),Landed 6:49 PM,2021-06-11
+101,101,6:55 PM,IB3474,Madrid (MAD),Iberia A320 (EC-MDK),Landed 6:42 PM,2021-06-11
+102,102,7:00 PM,EW762,Cologne (CGN),Eurowings B738 (D-ABMQ),Landed 6:38 PM,2021-06-11
+103,103,7:10 PM,LX1839,Athens (ATH),Swiss BCS1 (HB-JBD),Landed 7:30 PM,2021-06-11
+104,104,7:10 PM,OS565,Vienna (VIE),Austrian Airlines A321 (OE-LBC),Landed 7:00 PM,2021-06-11
+105,105,7:35 PM A3534,,Thessaloniki (SKG),Aegean Airlines (Acropolis Museum Sticker) A320 (SX-DVV),Landed 7:24 PM,2021-06-11
+106,106,7:40 PM,WK449,Split (SPU),Edelweiss Air A320 (HB-JJN),Landed 7:22 PM,2021-06-11
+107,107,7:45 PM,SK609,Copenhagen (CPH),SAS A20N (SE-ROX),Landed 7:26 PM,2021-06-11
+108,108,7:50 PM,LX1251,Stockholm (ARN),Swiss A320 (HB-IJE),Landed 7:31 PM,2021-06-11
+109,109,7:50 PM LX2151,,Palma de Mallorca (PMI),Swiss BCS3 (HB-JCJ),Landed 7:41 PM,2021-06-11
+110,110,7:55 PM JU374,,Belgrade (BEG),AirSERBIA A319 (YU-APF),Landed 8:07 PM,2021-06-11
+111,111,7:55 PM LX465,,London (LCY),Swiss 221,Canceled,2021-06-11
+112,112,8:00 PM,VY6248,Barcelona (BCN),Vueling (We ♥ Places Livery) A20N (EC-NAJ),Landed 7:35 PM,2021-06-11
+113,113,9:05 PM,LX1027,Dusseldorf (DUS),Swiss BCS3 (HB-JCF),Landed 8:53 PM,2021-06-11
+114,114,9:20 PM,LX789,Brussels (BRU),Swiss A320 (HB-IJS),Landed 8:49 PM,2021-06-11
+115,115,9:20 PM,LX2819,Geneva (GVA),Swiss A320 (HB-JLS),Landed 9:10 PM,2021-06-11
+116,116,9:20 PM,WK355,Mykonos (JMK),Edelweiss Air A320 (HB-IJU),Landed 9:00 PM,2021-06-11
+117,117,9:30 PM,LX979,Berlin (BER),Swiss A320 (HB-JLT),Landed 9:18 PM,2021-06-11
+118,118,9:30 PM,WK337,Santorini (JTR),Edelweiss Air A320 (HB-JJM),Landed 9:22 PM,2021-06-11
+119,119,9:35 PM,LX327,London (LHR),Swiss A21N (HB-JPB),Landed 9:36 PM,2021-06-11
+120,120,9:40 PM,LX1055,Hamburg (HAM),Swiss BCS3 (HB-JCL),Landed 9:29 PM,2021-06-11
+121,121,9:50 PM,LX1077,Frankfurt (FRA),Swiss BCS1 (HB-JBB),Landed 10:08 PM,2021-06-11
+122,122,9:50 PM,LX2089,Lisbon (LIS),Swiss BCS1 (HB-JBG),Landed 9:46 PM,2021-06-11
+123,123,9:55 PM LX1419,,Belgrade (BEG),Swiss BCS3 (HB-JCQ),Landed 9:32 PM,2021-06-11
+124,124,9:55 PM LX1957,,Barcelona (BCN),Swiss A321 (HB-IOO),Landed 9:24 PM,2021-06-11
+125,125,10:00 PM LX2147,,Valencia (VLC),Swiss BCS1 (HB-JBH),Landed 9:52 PM,2021-06-11
+126,126,10:05 PM GM631,,Skopje (SKP),Chair Airlines A319 (HB-JOJ),Landed 9:41 PM,2021-06-11
+127,127,10:10 PM LX2155,,Palma de Mallorca (PMI),Swiss A20N (HB-JDB),Landed 10:01 PM,2021-06-11
+128,128,10:25 PM,KL1969,Amsterdam (AMS),KLM B737 (PH-BGW),Landed 10:03 PM,2021-06-11
+129,129,10:35 PM,WK439,Skopje (SKP),Edelweiss Air 320,Unknown,2021-06-11
+130,130,10:45 PM,WK405,Pristina (PRN),Edelweiss Air 320,Unknown,2021-06-11
+131,131,10:50 PM,WK267,Ibiza (IBZ),Edelweiss Air A320 (HB-IHX),Landed 10:35 PM,2021-06-11
+132,132,10:55 PM,LX2065,Porto (OPO),Swiss A320 (HB-IJI),Landed 10:51 PM,2021-06-11
+133,133,10:55 PM,WK349,Heraklion (HER),Edelweiss Air A320 (HB-IJV),Landed 10:33 PM,2021-06-11
+134,134,10:55 PM,WK399,Catania (CTA),Edelweiss Air A320 (HB-JJL),Landed 10:44 PM,2021-06-11
+0,0,06:10 LX289,,Johannesburg (JNB),Swiss A343 (HB-JMC),Landed 06:11,2021-06-12
+1,1,06:10,LX139,Hong Kong (HKG),Swiss B77W (HB-JNC),Landed 06:06,2021-06-12
+2,2,06:10,LX181,Bangkok (BKK),Swiss B77W (HB-JNF),Landed 06:13,2021-06-12
+3,3,06:15,LX243,Dubai (DXB),Swiss B77W (HB-JNE),Landed 06:08,2021-06-12
+4,4,07:05 LX2713,,Milan (MXP),Swiss A20N (HB-JDC),Landed 06:52,2021-06-12
+5,5,07:10,QR93,Doha (DOH),Qatar Airways A359 (A7-ALR),Landed 06:46,2021-06-12
+6,6,07:55,UA52,Washington (IAD),United Airlines (Star Alliance livery) B763 (N653UA),Landed 07:53,2021-06-12
+7,7,08:05,UA134,New York (EWR),United Airlines B763 (N646UA),Landed 07:45,2021-06-12
+8,8,08:15 W21231,,Hurghada (HRG),Flexflight 320,Unknown,2021-06-12
+9,9,08:15,SQ346,Singapore (SIN),Singapore Airlines A359 (9V-SML),Landed 08:07,2021-06-12
+10,10,08:20 XC6233,,Antalya (AYT),Corendon Air B738 (TC-TJP),Landed 09:20,2021-06-12
+11,11,08:35,LH1184,Frankfurt (FRA),Lufthansa A20N (D-AINE),Landed 08:19,2021-06-12
+12,12,08:55,OS561,Vienna (VIE),Austrian Airlines E195 (OE-LWA),Landed 08:45,2021-06-12
+13,13,09:00,VY6248,Barcelona (BCN),Vueling A319 (EC-MGF),Landed 08:36,2021-06-12
+14,14,09:10,JU370,Belgrade (BEG),AirSERBIA A319 (YU-APE),Landed 09:29,2021-06-12
+15,15,09:20,OU462,Split (SPU),Croatia Airlines DH8D (9A-CQF),Landed 08:50,2021-06-12
+16,16,09:45,AY1511,Helsinki (HEL),Finnair E190 (OH-LKE),Landed 09:31,2021-06-12
+17,17,09:55,LO411,Warsaw (WAW),LOT E75S (SP-LID),Landed 09:42,2021-06-12
+18,18,09:55,TK1907,Istanbul (IST),Turkish Airlines A333 (TC-JNP),Landed 09:47,2021-06-12
+19,19,10:15,UX1675,Madrid (MAD),Air Europa Express E195 (EC-LFZ),Landed 10:16,2021-06-12
+20,20,10:20,A3850,Athens (ATH),Aegean Airlines A321 (SX-DGQ),Landed 09:59,2021-06-12
+21,21,10:20,AZ572,Rome (FCO),Alitalia (SkyTeam Livery) E190 (EI-RND),Landed 10:19,2021-06-12
+22,22,10:25 PC947,,Istanbul (SAW),Pegasus B738 (TC-CPD),Landed 10:02,2021-06-12
+23,23,10:30,LX93,Sao Paulo (GRU),Swiss B77W (HB-JNL),Landed 10:35,2021-06-12
+24,24,10:35 GM631,,Skopje (SKP),Chair Airlines A319 (HB-JOG),Landed 10:34,2021-06-12
+25,25,10:40 AA9716,,Philadelphia (PHL),American Airlines B788,Unknown,2021-06-12
+26,26,10:45,OU460,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQB),Landed 10:27,2021-06-12
+27,27,10:45 GM601,,Pristina (PRN),Chair Airlines A319 (HB-JOJ),Landed 10:42,2021-06-12
+28,28,10:50,LX9,Chicago (ORD),Swiss A343 (HB-JMI),Landed 11:17,2021-06-12
+29,29,10:50,LX1069,Frankfurt (FRA),Swiss BCS1 (HB-JBD),Landed 11:15,2021-06-12
+30,30,10:55,LX15,New York (JFK),Swiss B77W (HB-JNB),Landed 10:13,2021-06-12
+31,31,10:55,LX1575,Vienna (VIE),Swiss BCS3 (HB-JCQ),Landed 10:50,2021-06-12
+32,32,10:55 LX257,,Tel Aviv (TLV),Swiss A333 (HB-JHE),Landed 10:24,2021-06-12
+33,33,11:00,IB3464,Madrid (MAD),Iberia A320 (EC-IEF),Landed 10:32,2021-06-12
+34,34,11:00 LX1229,,Gothenburg (GOT),Helvetic Airways E290 (HB-AZA),Landed 10:53,2021-06-12
+35,35,11:00 LX1485,,Prague (PRG),Swiss BCS3 (HB-JCB),Landed 10:40,2021-06-12
+36,36,11:05,LX53,Boston (BOS),Swiss A333 (HB-JHM),Landed 10:37,2021-06-12
+37,37,11:05,KL1957,Amsterdam (AMS),KLM B738 (PH-BXU),Landed 10:51,2021-06-12
+38,38,11:05,LX2807,Geneva (GVA),Swiss A321 (HB-IOM),Landed 10:49,2021-06-12
+39,39,11:10 LX633,,Paris (CDG),Helvetic Airways E290 (HB-AZH),Landed 11:12,2021-06-12
+40,40,11:10 LX725,,Amsterdam (AMS),Swiss A320 (HB-JLP),Landed 10:55,2021-06-12
+41,41,11:10,LX1051,Hamburg (HAM),Swiss A320 (HB-IJE),Landed 10:56,2021-06-12
+42,42,11:10,LX1343,Warsaw (WAW),Helvetic Airways E290 (HB-AZD),Landed 11:04,2021-06-12
+43,43,11:15,LX787,Brussels (BRU),Swiss BCS3 (HB-JCF),Landed 10:47,2021-06-12
+44,44,11:15,LX1255,Stockholm (ARN),Swiss BCS3 (HB-JCU),Landed 11:47,2021-06-12
+45,45,11:15 LX1889,,Bucharest (OTP),Swiss BCS1 (HB-JBF),Landed 11:02,2021-06-12
+46,46,11:20,LX2251,Budapest (BUD),Swiss BCS3 (HB-JCR),Landed 11:19,2021-06-12
+47,47,11:20 LX2291,,Kyiv (KBP),Swiss BCS3 (HB-JCA),Landed 11:14,2021-06-12
+48,48,11:25,LX1017,Dusseldorf (DUS),Helvetic Airways E190 (HB-JVO),Landed 11:09,2021-06-12
+49,49,11:25 LX1413,,Belgrade (BEG),Swiss BCS3 (HB-JCJ),Landed 11:13,2021-06-12
+50,50,11:25,LX1267,Copenhagen (CPH),Swiss BCS3 (HB-JCE),Landed 11:01,2021-06-12
+51,51,11:30 LX563,,Nice (NCE),Swiss BCS1 (HB-JBH),Landed 11:22,2021-06-12
+52,52,11:30,LX975,Berlin (BER),Swiss A20N (HB-JDB),Landed 11:06,2021-06-12
+53,53,11:30,LX1843,Athens (ATH),Swiss BCS3 (HB-JCH),Landed 11:30,2021-06-12
+54,54,11:35,LX317,London (LHR),Swiss BCS3 (HB-JCM),Landed 11:10,2021-06-12
+55,55,11:35 LX391,,Manchester (MAN),Swiss BCS1 (HB-JBB),Landed 12:45,2021-06-12
+56,56,11:40,LX19,New York (EWR),Swiss A333 (HB-JHL),Landed 11:34,2021-06-12
+57,57,11:40 LX401,,Dublin (DUB),Swiss BCS1 (HB-JBE),Landed 11:32,2021-06-12
+58,58,11:40,LX1219,Oslo (OSL),Swiss BCS1 (HB-JBC),Landed 11:51,2021-06-12
+59,59,11:55 LX2141,,Valencia (VLC),Swiss BCS1 (HB-JBH),Canceled,2021-06-12
+60,60,11:55 LX2583,,Thessaloniki (SKG),Swiss BCS1 (HB-JBG),Landed 11:33,2021-06-12
+61,61,11:55,WK403,Pristina (PRN),Edelweiss Air A320 (HB-IHZ),Landed 11:52,2021-06-12
+62,62,12:00 LX2149,,Palma de Mallorca (PMI),Swiss BCS3 (HB-JCO),Landed 11:39,2021-06-12
+63,63,12:05 LX1953,,Barcelona (BCN),Helvetic Airways E290 (HB-AZF),Landed 11:58,2021-06-12
+64,64,12:05 TK6381,,Minsk (MSQ),Turkish Airlines 33X,Unknown,2021-06-12
+65,65,12:50,LH2368,Munich (MUC),Lufthansa CRJ9 (D-ACKH),Landed 12:41,2021-06-12
+66,66,13:00,WK195,Bodrum (BJV),Edelweiss Air A320 (HB-JJL),Landed 12:51,2021-06-12
+67,67,13:00,EY73,Abu Dhabi (AUH),Etihad (ADNOC - Choose Thailand Livery) B789 (A6-BLO),Landed 12:24,2021-06-12
+68,68,13:10,WK385,Lamezia Terme (SUF),Edelweiss Air 320,Canceled,2021-06-12
+69,69,13:10,WK399,Catania (CTA),Edelweiss Air 320,Canceled,2021-06-12
+70,70,13:20,EK87,Dubai (DXB),Emirates B77W (A6-EQN),Landed 13:11,2021-06-12
+71,71,13:25,WK351,Heraklion (HER),Edelweiss Air A320 (HB-JJN),Landed 13:26,2021-06-12
+72,72,13:35,WK245,Palma de Mallorca (PMI),Swiss A321 (HB-IOL),Landed 13:17,2021-06-12
+73,73,13:55,LH1190,Frankfurt (FRA),Lufthansa CRJ9 (D-ACKK),Landed 13:38,2021-06-12
+74,74,14:15,WK371,Larnaca (LCA),Edelweiss Air A320 (HB-IJW),Landed 14:11,2021-06-12
+75,75,14:30 JU372,,Belgrade (BEG),AirSERBIA A319 (YU-APE),Landed 14:23,2021-06-12
+76,76,14:45 LX2159,,Palma de Mallorca (PMI),Swiss A321 (HB-IOC),Landed 14:28,2021-06-12
+77,77,14:55,LX161,Tokyo (NRT),Swiss B77W (HB-JNA),Landed 14:31,2021-06-12
+78,78,15:00,WK285,Funchal (FNC),Edelweiss Air A320 (HB-IJU),Landed 15:10,2021-06-12
+79,79,15:30,WK449,Split (SPU),Edelweiss Air A320 (HB-IHX),Landed 15:12,2021-06-12
+80,80,15:50,LX1831,Athens (ATH),Swiss A20N (HB-JDA),Landed 15:35,2021-06-12
+81,81,15:55 LX1675,,Florence (FLR),Helvetic Airways E290 (HB-AZD),Landed 15:33,2021-06-12
+82,82,15:55,WK215,Tenerife (TFS),Edelweiss Air A320 (HB-JJM),Landed 15:37,2021-06-12
+83,83,16:00 LX1663,,Venice (VCE),Helvetic Airways E190 (HB-JVO),Unknown,2021-06-12
+84,84,16:00,LX2061,Porto (OPO),Swiss A21N (HB-JPA),Landed 16:02,2021-06-12
+85,85,16:05,LX2811,Geneva (GVA),Swiss A320 (HB-IJI),Landed 15:59,2021-06-12
+86,86,16:20,LX967,Berlin (BER),Swiss BCS3 (HB-JCR),Landed 16:45,2021-06-12
+87,87,16:20 LX2111,,Malaga (AGP),Swiss A20N (HB-JDC),Landed 16:11,2021-06-12
+88,88,16:30,LX1057,Hamburg (HAM),Swiss BCS1 (HB-JBG),Landed 16:13,2021-06-12
+89,89,16:30 LX2549,,Sarajevo (SJJ),Swiss A320 (HB-JLP),Landed 16:28,2021-06-12
+90,90,16:30,LX333,London (LHR),Swiss BCS3 (HB-JCQ),Landed 16:36,2021-06-12
+91,91,16:35 LX1713,,Naples (NAP),Swiss BCS3 (HB-JCB),Landed 16:15,2021-06-12
+92,92,16:35,LX2571,Sylt (GWT),Helvetic Airways E290 (HB-AZG),Landed 16:09,2021-06-12
+93,93,16:40 EW6836,,Palma de Mallorca (PMI),Eurowings A319 (OE-LYU),Landed 16:41,2021-06-12
+94,94,16:40 LX1737,,Rome (FCO),Swiss A320 (HB-IJS),Landed 16:24,2021-06-12
+95,95,16:40 LX1955,,Barcelona (BCN),Swiss A320 (HB-IJE),Landed 16:31,2021-06-12
+96,96,16:45,KL1961,Amsterdam (AMS),KLM E190 (PH-EZR),Landed 16:35,2021-06-12
+97,97,16:55 LX2157,,Palma de Mallorca (PMI),Swiss A320 (HB-JLS),Landed 16:38,2021-06-12
+98,98,17:00 LX2513,,Palermo (PMO),Swiss A321 (HB-IOM),Landed 17:05,2021-06-12
+99,99,17:15,TP926,Lisbon (LIS),TAP Air Portugal A21N (CS-TJO),Landed 17:17,2021-06-12
+100,100,17:20 A3448,,Heraklion (HER),Aegean Airlines A320 (SX-DVL),Landed 16:50,2021-06-12
+101,101,17:20 LX2059,,Bilbao (BIO),Swiss BCS1 (HB-JBF),Landed 17:22,2021-06-12
+102,102,17:25 LX2143,,Valencia (VLC),Swiss A21N (HB-JPB),Landed 17:15,2021-06-12
+103,103,17:30 XQ120,,Antalya (AYT),SunExpress B738 (TC-SPA),Landed 17:07,2021-06-12
+104,104,17:40,WK321,Corfu (CFU),Edelweiss Air A320 (HB-JJK),Landed 17:28,2021-06-12
+105,105,17:50 LX2175,,Alicante (ALC),Swiss BCS3 (HB-JCE),Landed 17:49,2021-06-12
+106,106,17:50,LX2597,Luqa (MLA),Swiss A321 (HB-IOO),Landed 17:40,2021-06-12
+107,107,17:55 LX1723,,Brindisi (BDS),Swiss A320 (HB-JLT),Landed 17:47,2021-06-12
+108,108,18:10 A3482,,Rhodes (RHO),Aegean Airlines A320 (SX-DGC),Landed 18:00,2021-06-12
+109,109,18:20 LX2115,,Malaga (AGP),Swiss A321 (HB-ION),Landed 18:16,2021-06-12
+110,110,18:40 LX2581,,Thessaloniki (SKG),Swiss BCS1 (HB-JBC),Landed 18:33,2021-06-12
+111,111,18:50,WK131,Hurghada (HRG),Edelweiss Air 320,Canceled,2021-06-12
+112,112,18:50,WK141,Sharm el-Sheikh (SSH),Edelweiss Air 320,Canceled,2021-06-12
+113,113,18:55,IB3474,Madrid (MAD),Iberia A332 (EC-MMG),Landed 18:38,2021-06-12
+114,114,19:00,LX2065,Porto (OPO),Swiss BCS3 (HB-JCU),Landed 18:58,2021-06-12
+115,115,19:20,LX2085,Lisbon (LIS),Swiss A20N (HB-JDB),Landed 19:20,2021-06-12
+116,116,19:40 WK389,,Cagliari (CAG),Edelweiss Air 320,Canceled,2021-06-12
+117,117,19:40,WK393,Figari (FSC),Edelweiss Air 320,Canceled,2021-06-12
+118,118,19:40,WK394,Cagliari (CAG),Edelweiss Air A320 (HB-IHY),Landed 19:35,2021-06-12
+119,119,19:50 LX2151,,Palma de Mallorca (PMI),Swiss A320 (HB-IJD),Landed 19:36,2021-06-12
+120,120,21:15,WK355,Mykonos (JMK),Edelweiss Air A320 (HB-JJN),Landed 20:57,2021-06-12
+121,121,21:20,LX2819,Geneva (GVA),Swiss BCS3 (HB-JCB),Landed 21:00,2021-06-12
+122,122,21:30,LX1583,Vienna (VIE),Swiss BCS1 (HB-JBB),Landed 21:15,2021-06-12
+123,123,21:35,WK247,Palma de Mallorca (PMI),Swiss A320 (HB-IJI),Landed 21:16,2021-06-12
+124,124,21:35,WK421,Pula (PUY),Edelweiss Air A320 (HB-JJK),Landed 21:06,2021-06-12
+125,125,21:40 LX1327,,Moscow (DME),Swiss B77W (HB-JNE),Landed 21:45,2021-06-12
+126,126,21:40,WK267,Ibiza (IBZ),Swiss A20N (HB-JDA),Landed 21:39,2021-06-12
+127,127,21:40 GM445,,Hurghada (HRG),Chair Airlines 319,Unknown,2021-06-12
+128,128,21:50,LX1077,Frankfurt (FRA),Swiss BCS1 (HB-JBF),Landed 21:37,2021-06-12
+129,129,22:10,WK405,Pristina (PRN),Edelweiss Air 223,Unknown,2021-06-12
+130,130,22:15,WK201,Gran Canaria (LPA),Edelweiss Air A320 (HB-IHZ),Landed 22:08,2021-06-12
+131,131,22:25 GM639,,Ohrid (OHD),Chair Airlines A319 (HB-JOG),Landed 22:03,2021-06-12
+132,132,22:25,KL1969,Amsterdam (AMS),KLM B737 (PH-BGI),Landed 22:06,2021-06-12
+133,133,22:30,TP928,Lisbon (LIS),TAP Air Portugal A21N (CS-TJP),Landed 22:34,2021-06-12
+134,134,22:30,WK347,Rhodes (RHO),Edelweiss Air A320 (HB-IJW),Landed 22:18,2021-06-12
+135,135,22:35,WK387,Olbia (OLB),Edelweiss Air A320 (HB-JJM),Landed 22:23,2021-06-12
+136,136,22:40,WK357,Kos (KGS),Edelweiss Air A320 (HB-IJU),Landed 22:21,2021-06-12
+137,137,22:55,WK177,Antalya (AYT),Edelweiss Air A320 (HB-JJL),Landed 22:32,2021-06-12
+138,138,22:55,WK299,Faro (FAO),Swiss A321 (HB-IOC),Landed 22:49,2021-06-12
+139,139,22:55,WK349,Heraklion (HER),Edelweiss Air A320 (HB-IHX),Landed 22:36,2021-06-12
+0,0,06:10,LX177,Singapore (SIN),Swiss B77W (HB-JND),Landed 06:09,2021-06-13
+1,1,06:10,LX289,Johannesburg (JNB),Swiss A343 (HB-JMA),Landed 06:20,2021-06-13
+2,2,07:55,UA52,Washington (IAD),United Airlines B763 (N668UA),Landed 07:32,2021-06-13
+3,3,08:05,UA134,New York (EWR),United Airlines B763 (N654UA),Landed 08:06,2021-06-13
+4,4,08:15,SQ346,Singapore (SIN),Singapore Airlines A359 (9V-SMU),Landed 08:01,2021-06-13
+5,5,08:30 AC7216,,Toronto (YYZ),Air Canada B789 (C-FGDT),Landed 08:16,2021-06-13
+6,6,08:30 TK6381,,Algiers (ALG),Turkish Airlines 33F,Unknown,2021-06-13
+7,7,08:35,LH1184,Frankfurt (FRA),Lufthansa E190 (D-AECC),Landed 08:24,2021-06-13
+8,8,08:40,FB491,Sofia (SOF),Bulgaria Air E190 (LZ-SOF),Landed 08:31,2021-06-13
+9,9,08:55,OS561,Vienna (VIE),Austrian Airlines E195 (OE-LWD),Landed 08:42,2021-06-13
+10,10,09:10 LX345,,London (LHR),Swiss BCS1 (HB-JBG),Landed 08:54,2021-06-13
+11,11,09:30 LX2797,,Beijing (PEK),Swiss B77W (HB-JNJ),Landed 09:22,2021-06-13
+12,12,09:35 XQ960,,Izmir (ADB),SunExpress B738 (TC-SEU),Landed 09:35,2021-06-13
+13,13,09:55,TK1907,Istanbul (IST),Turkish Airlines A21N (TC-LSH),Landed 09:55,2021-06-13
+14,14,10:20,AZ572,Rome (FCO),Alitalia A319 (EI-IMT),Landed 10:14,2021-06-13
+15,15,10:25,LX1267,Copenhagen (CPH),Swiss BCS3 (HB-JCQ),Landed 10:00,2021-06-13
+16,16,10:25,LX1255,Stockholm (ARN),Swiss BCS3 (HB-JCJ),Landed 10:15,2021-06-13
+17,17,10:25 PC947,,Istanbul (SAW),Pegasus B738 (TC-CRF),Landed 10:12,2021-06-13
+18,18,10:30,LX93,Sao Paulo (GRU),Swiss B77W (HB-JNG),Landed 10:17,2021-06-13
+19,19,10:35 TK7878,,Istanbul (SAW),AnadoluJet B738 (TC-JFC),Landed 10:32,2021-06-13
+20,20,10:35,VY8348,Palma de Mallorca (PMI),Vueling A320 (EC-LVT),Landed 10:07,2021-06-13
+21,21,10:45 GM601,,Pristina (PRN),Chair Airlines A319 (HB-JOG),Landed 10:36,2021-06-13
+22,22,10:50,LX9,Chicago (ORD),Swiss A343 (HB-JMC),Landed 11:27,2021-06-13
+23,23,10:50,LX1069,Frankfurt (FRA),Swiss BCS1 (HB-JBC),Landed 10:35,2021-06-13
+24,24,10:55,LX15,New York (JFK),Swiss B77W (HB-JNB),Landed 09:52,2021-06-13
+25,25,10:55,LX2807,Geneva (GVA),Swiss BCS3 (HB-JCA),Landed 10:37,2021-06-13
+26,26,10:55 LX257,,Tel Aviv (TLV),Swiss A333 (HB-JHL),Landed 10:42,2021-06-13
+27,27,11:00,WK25,Cancun (CUN),Edelweiss Air 343,Unknown,2021-06-13
+28,28,11:00,WK27,Punta Cana (PUJ),Edelweiss Air A343 (HB-JMD),Landed 11:00,2021-06-13
+29,29,11:00,WK35,Punta Cana (PUJ),Edelweiss Air 343,Unknown,2021-06-13
+30,30,11:00,LX65,Miami (MIA),Swiss A343 (HB-JMI),Landed 10:58,2021-06-13
+31,31,11:00,IB3464,Madrid (MAD),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 10:39,2021-06-13
+32,32,11:00,LX1575,Vienna (VIE),Swiss BCS1 (HB-JBF),Landed 10:45,2021-06-13
+33,33,11:05,KL1957,Amsterdam (AMS),KLM B737 (PH-BGT),Landed 10:56,2021-06-13
+34,34,11:10,LX1843,Athens (ATH),Swiss BCS1 (HB-JBE),Landed 10:48,2021-06-13
+35,35,11:15 LX1413,,Belgrade (BEG),Swiss BCS3 (HB-JCF),Landed 11:04,2021-06-13
+36,36,11:15 LX1889,,Bucharest (OTP),Swiss BCS1 (HB-JBH),Landed 11:02,2021-06-13
+37,37,11:20,LX563,Nice (NCE),Swiss BCS3 (HB-JCM),Landed 11:08,2021-06-13
+38,38,11:20,LY347,Tel Aviv (TLV),El Al Israel Airlines B738 (4X-EKB),Landed 11:10,2021-06-13
+39,39,11:20 LX2291,,Kyiv (KBP),Swiss BCS3 (HB-JCH),Landed 10:53,2021-06-13
+40,40,11:25,LX317,London (LHR),Swiss A20N (HB-JDB),Landed 10:54,2021-06-13
+41,41,11:30,WK387,Olbia (OLB),Edelweiss Air 320,Canceled,2021-06-13
+42,42,11:30,WK389,Cagliari (CAG),Edelweiss Air 320,Canceled,2021-06-13
+43,43,11:40,LX19,New York (EWR),Swiss A333 (HB-JHM),Landed 11:06,2021-06-13
+44,44,11:40,LX1343,Warsaw (WAW),Swiss BCS1 (HB-JBD),Landed 11:33,2021-06-13
+45,45,12:00,WK403,Pristina (PRN),Edelweiss Air A320 (HB-IJU),Landed 11:53,2021-06-13
+46,46,12:25,TP932,Lisbon (LIS),TAP Air Portugal A20N (CS-TVA),Landed 12:21,2021-06-13
+47,47,12:25,WK355,Mykonos (JMK),Edelweiss Air A320 (HB-IHZ),Landed 12:23,2021-06-13
+48,48,12:50,LH2368,Munich (MUC),Lufthansa CRJ9 (D-ACNV),Landed 12:40,2021-06-13
+49,49,13:05 FI568,,Reykjavik (KEF),Icelandair B752 (TF-ISR),Landed 12:55,2021-06-13
+50,50,13:10,WK349,Heraklion (HER),Swiss A320 (HB-JLT),Landed 13:13,2021-06-13
+51,51,13:20,EK87,Dubai (DXB),Emirates B77W (A6-EQM),Landed 13:10,2021-06-13
+52,52,13:30,BT641,Riga (RIX),Air Baltic BCS3 (YL-AAY),Landed 13:07,2021-06-13
+53,53,13:40,QR95,Doha (DOH),Qatar Airways A359 (A7-ALA),Landed 13:26,2021-06-13
+54,54,13:55,LH1190,Frankfurt (FRA),Lufthansa A319 (D-AILK),Landed 13:41,2021-06-13
+55,55,13:55 U27593,,Porto (OPO),easyJet A320 (OE-IJQ),Landed 13:37,2021-06-13
+56,56,14:30 JU372,,Belgrade (BEG),AirSERBIA A319 (YU-APJ),Landed 14:18,2021-06-13
+57,57,14:30 YM150,,Podgorica (TGD),Montenegro Airlines 100,Unknown,2021-06-13
+58,58,14:45 LX2159,,Palma de Mallorca (PMI),Swiss A321 (HB-IOM),Landed 14:37,2021-06-13
+59,59,14:55,LX161,Tokyo (NRT),Swiss B77W (HB-JNK),Landed 14:23,2021-06-13
+60,60,15:00 LX2021,,Madrid (MAD),Swiss BCS3 (HB-JCB),Landed 14:53,2021-06-13
+61,61,15:30,WK201,Gran Canaria (LPA),Edelweiss Air A320 (HB-IHX),Landed 15:09,2021-06-13
+62,62,15:30,WK213,Fuerteventura (FUE),Edelweiss Air A320 (HB-JJN),Landed 15:14,2021-06-13
+63,63,15:45,LX39,San Francisco (SFO),Swiss B77W (HB-JNC),Landed 15:55,2021-06-13
+64,64,15:50,LX1831,Athens (ATH),Swiss BCS1 (HB-JBB),Landed 15:40,2021-06-13
+65,65,15:55,LX2571,Sylt (GWT),Swiss BCS1 (HB-JBC),Landed 15:41,2021-06-13
+66,66,15:55,WK247,Palma de Mallorca (PMI),Swiss A321 (HB-IOC),Landed 15:45,2021-06-13
+67,67,15:55 LX1675,,Florence (FLR),Helvetic Airways E290 (HB-AZF),Landed 15:52,2021-06-13
+68,68,15:55,WK215,Tenerife (TFS),Edelweiss Air A320 (HB-JJL),Landed 15:38,2021-06-13
+69,69,16:00,LX1663,Venice (VCE),Swiss BCS3 (HB-JCF),Landed 15:58,2021-06-13
+70,70,16:00,LX2061,Porto (OPO),Swiss A20N (HB-JDC),Landed 16:14,2021-06-13
+71,71,16:05,LX2811,Geneva (GVA),Swiss BCS3 (HB-JCC),Landed 16:09,2021-06-13
+72,72,16:10 LX159,,Osaka (KIX),Swiss B77W (HB-JNH),Landed 15:23,2021-06-13
+73,73,16:10 LX569,,Nice (NCE),Swiss BCS3 (HB-JCM),Landed 16:21,2021-06-13
+74,74,16:10,LX1579,Vienna (VIE),Swiss BCS3 (HB-JCA),Landed 16:00,2021-06-13
+75,75,16:15 GM445,,Hurghada (HRG),Chair Airlines 319,Unknown,2021-06-13
+76,76,16:20,LX967,Berlin (BER),Swiss A320 (HB-JLP),Landed 22:36,2021-06-13
+77,77,16:20 LX2111,,Malaga (AGP),Swiss A20N (HB-JDA),Landed 16:02,2021-06-13
+78,78,16:20 LX2549,,Sarajevo (SJJ),Swiss BCS1 (HB-JBE),Landed 16:49,2021-06-13
+79,79,16:20,WK347,Rhodes (RHO),Edelweiss Air A320 (HB-JJM),Landed 16:07,2021-06-13
+80,80,16:25 LX1737,,Rome (FCO),Swiss A321 (HB-IOD),Landed 16:23,2021-06-13
+81,81,16:30,LX333,London (LHR),Swiss A343 (HB-JMC),Landed 18:32,2021-06-13
+82,82,16:30 LX2513,,Palermo (PMO),Swiss BCS3 (HB-JCO),Landed 16:24,2021-06-13
+83,83,16:30 LX2581,,Thessaloniki (SKG),Swiss BCS1 (HB-JBG),Landed 16:28,2021-06-13
+84,84,16:35,LX1349,Warsaw (WAW),Helvetic Airways E290 (HB-AZC),Landed 16:38,2021-06-13
+85,85,16:35 LX1713,,Naples (NAP),Swiss A321 (HB-ION),Landed 16:19,2021-06-13
+86,86,16:35,LX2597,Luqa (MLA),Swiss BCS3 (HB-JCR),Landed 16:40,2021-06-13
+87,87,16:40 LX1417,,Belgrade (BEG),Swiss BCS3 (HB-JCJ),Landed 16:53,2021-06-13
+88,88,16:40 LX1723,,Brindisi (BDS),Swiss A320 (HB-IJI),Landed 16:26,2021-06-13
+89,89,16:40 LX1955,,Barcelona (BCN),Swiss A321 (HB-IOO),Landed 16:44,2021-06-13
+90,90,16:40 LX2143,,Valencia (VLC),Swiss A21N (HB-JPA),Landed 16:30,2021-06-13
+91,91,16:45,KL1961,Amsterdam (AMS),KLM E190 (PH-EZO),Landed 16:35,2021-06-13
+92,92,16:45,KM490,Luqa (MLA),Air Malta A320 (9H-AEP),Landed 16:32,2021-06-13
+93,93,16:45,LX2085,Lisbon (LIS),Swiss A21N (HB-JPB),Landed 16:56,2021-06-13
+94,94,16:50 LX2157,,Palma de Mallorca (PMI),Swiss A320 (HB-IJD),Landed 16:46,2021-06-13
+95,95,17:00 GM631,,Skopje (SKP),Chair Airlines A319 (HB-JOG),Landed 16:50,2021-06-13
+96,96,17:15,TP926,Lisbon (LIS),TAP Air Portugal A21N (CS-TJQ),Landed 17:10,2021-06-13
+97,97,17:15,UX1671,Madrid (MAD),Air Europa B738 (EC-LQX),Landed 16:51,2021-06-13
+98,98,17:25,WK413,Tirana (TIA),Edelweiss Air A320 (HB-IHY),Landed 17:22,2021-06-13
+99,99,17:30,BA716,London (LHR),British Airways B788 (G-ZBJD),Landed 17:16,2021-06-13
+100,100,17:30 XQ120,,Antalya (AYT),SunExpress B738 (TC-SOB),Landed 17:18,2021-06-13
+101,101,17:40,A3852,Athens (ATH),Aegean Airlines A320 (SX-DGE),Landed 17:46,2021-06-13
+102,102,17:45,WK257,Mahon (MAH),Edelweiss Air A320 (HB-IHZ),Landed 17:30,2021-06-13
+103,103,17:50,SK609,Copenhagen (CPH),SAS CRJ9 (EI-FPN),Landed 17:28,2021-06-13
+104,104,17:55 KE567,,Vienna (VIE),Korean Air Cargo B77L (HL8077),Landed 17:19,2021-06-13
+105,105,17:55 LX1885,,Bucharest (OTP),Swiss BCS3 (HB-JCQ),Landed 17:54,2021-06-13
+106,106,18:15 LX2115,,Malaga (AGP),Swiss A320 (HB-JLS),Landed 17:59,2021-06-13
+107,107,18:20,AY1513,Helsinki (HEL),Finnair E190 (OH-LKF),Landed 17:51,2021-06-13
+108,108,18:25 TK1909,,Istanbul (IST),Turkish Airlines A321 (TC-JRJ),Landed 18:19,2021-06-13
+109,109,18:30,EW9766,Dusseldorf (DUS),Eurowings A319 (D-ABGP),Landed 18:12,2021-06-13
+110,110,18:50,EW7764,Hamburg (HAM),Eurowings A320 (D-ABDT),Landed 18:27,2021-06-13
+111,111,18:50,LO419,Warsaw (WAW),LOT (Warmia Mazury Livery) E195 (SP-LNF),Landed 18:35,2021-06-13
+112,112,18:50,WK231,La Palma (SPC),Edelweiss Air 320,Canceled,2021-06-13
+113,113,18:55,IB3474,Madrid (MAD),Iberia A319 (EC-JAZ),Landed 18:37,2021-06-13
+114,114,19:00,WK229,Lanzarote (ACE),Edelweiss Air 320,Canceled,2021-06-13
+115,115,19:05,AF1414,Paris (CDG),Air France E170 (F-HBXM),Landed 18:50,2021-06-13
+116,116,19:10,LX1839,Athens (ATH),Swiss BCS3 (HB-JCH),Landed 18:59,2021-06-13
+117,117,19:10,OS565,Vienna (VIE),Austrian Airlines A321 (OE-LBF),Landed 19:02,2021-06-13
+118,118,19:20,OU464,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQE),Landed 19:16,2021-06-13
+119,119,19:40,WK249,Palma de Mallorca (PMI),Edelweiss Air A320 (HB-IJU),Landed 19:21,2021-06-13
+120,120,19:55 JU374,,Belgrade (BEG),AirSERBIA A319 (YU-APJ),Landed 19:29,2021-06-13
+121,121,20:00,LX1251,Stockholm (ARN),Swiss A20N (HB-JDB),Landed 19:51,2021-06-13
+122,122,20:00,VY6248,Barcelona (BCN),Vueling A20N (EC-NDA),Landed 19:47,2021-06-13
+123,123,20:15 LX2151,,Palma de Mallorca (PMI),Swiss A320 (HB-JLT),Landed 20:06,2021-06-13
+124,124,20:20,LX2063,Porto (OPO),Swiss 221,Canceled,2021-06-13
+125,125,20:20,LX971,Berlin (BER),Helvetic Airways E290 (HB-AZG),Landed 20:17,2021-06-13
+126,126,20:35 LX2117,,Malaga (AGP),Swiss BCS3 (HB-JCU),Landed 20:29,2021-06-13
+127,127,21:00,LX1111,Munich (MUC),Helvetic Airways E290 (HB-AZF),Landed 21:03,2021-06-13
+128,128,21:05,LX1027,Dusseldorf (DUS),Swiss BCS3 (HB-JCF),Landed 20:59,2021-06-13
+129,129,21:15 GM651,,Podgorica (TGD),Chair Airlines A319 (HB-JOG),Landed 21:38,2021-06-13
+130,130,21:20,LX2819,Geneva (GVA),Swiss A321 (HB-ION),Landed 21:05,2021-06-13
+131,131,21:25,LX1055,Hamburg (HAM),Swiss A320 (HB-IJI),Landed 21:07,2021-06-13
+132,132,21:30,LX1583,Vienna (VIE),Swiss A321 (HB-IOO),Landed 21:16,2021-06-13
+133,133,21:35 LX327,,London (LHR),Swiss BCS1 (HB-JBB),Landed 21:35,2021-06-13
+134,134,21:35 LX1499,,Prague (PRG),Swiss A321 (HB-IOM),Landed 20:57,2021-06-13
+135,135,21:40,LX979,Berlin (BER),Swiss A321 (HB-IOC),Landed 22:15,2021-06-13
+136,136,21:40,LX1371,Krakow (KRK),Swiss BCS3 (HB-JCA),Landed 22:13,2021-06-13
+137,137,21:40 LX1957,,Barcelona (BCN),Swiss A320 (HB-IJS),Landed 21:30,2021-06-13
+138,138,21:50,LX1077,Frankfurt (FRA),Swiss BCS1 (HB-JBE),Landed 21:40,2021-06-13
+139,139,21:50,LX2089,Lisbon (LIS),Swiss BCS3 (HB-JCE),Landed 21:48,2021-06-13
+140,140,21:55,LX1273,Copenhagen (CPH),Swiss A320 (HB-IJD),Landed 21:49,2021-06-13
+141,141,21:55 LX1419,,Belgrade (BEG),Swiss A21N (HB-JPA),Landed 22:11,2021-06-13
+142,142,22:00 LX2147,,Valencia (VLC),Swiss BCS1 (HB-JBH),Landed 21:54,2021-06-13
+143,143,22:05 GM107,,Ibiza (IBZ),Chair Airlines A319 (HB-JOJ),Landed 21:44,2021-06-13
+144,144,22:10 LX2155,,Palma de Mallorca (PMI),Swiss BCS1 (HB-JBD),Landed 21:58,2021-06-13
+145,145,22:25,KL1969,Amsterdam (AMS),KLM B737 (PH-BGM),Landed 22:06,2021-06-13
+146,146,22:30,WK223,Jerez (XRY),Edelweiss Air A320 (HB-JJN),Landed 22:09,2021-06-13
+147,147,22:45,WK405,Pristina (PRN),Edelweiss Air A320 (HB-JJL),Landed 22:39,2021-06-13
+148,148,22:50,WK131,Hurghada (HRG),Edelweiss Air A320 (HB-IJV),Landed 22:07,2021-06-13
+149,149,22:50,WK267,Ibiza (IBZ),Edelweiss Air A343 (HB-JMD),Landed 22:42,2021-06-13
+150,150,22:55,LX2065,Porto (OPO),Swiss A20N (HB-JDC),Landed 23:03,2021-06-13
+151,151,22:55,WK337,Santorini (JTR),Edelweiss Air A320 (HB-IHX),Landed 22:32,2021-06-13
+152,152,22:55,WK399,Catania (CTA),Edelweiss Air A320 (HB-JJM),Landed 22:48,2021-06-13
+0,0,06:10,LX139,Hong Kong (HKG),Swiss B77W (HB-JNF),Landed 06:04,2021-06-14
+1,1,06:10,LX181,Bangkok (BKK),Swiss B77W (HB-JNL),Unknown,2021-06-14
+2,2,06:15,LX87,Montreal (YUL),Swiss A333 (HB-JHE),Landed 06:10,2021-06-14
+3,3,06:15,WK29,Punta Cana (PUJ),Edelweiss Air A343 (HB-JMG),Landed 06:08,2021-06-14
+4,4,06:15,WK35,Punta Cana (PUJ),Edelweiss Air 343,Unknown,2021-06-14
+5,5,06:15,WK37,San Jose (SJO),Edelweiss Air 343,Unknown,2021-06-14
+6,6,06:15,LX243,Dubai (DXB),Swiss B77W (HB-JNG),Landed 06:06,2021-06-14
+7,7,06:35 LX189,,Shanghai (PVG),Swiss 77W,Canceled,2021-06-14
+8,8,07:50 T71271,,Lyon (LYS),Twin Jet BEH,Unknown,2021-06-14
+9,9,07:55,UA52,Washington (IAD),United Airlines B763 (N669UA),Landed 07:12,2021-06-14
+10,10,08:05,UA134,New York (EWR),United Airlines B763 (N675UA),Landed 07:36,2021-06-14
+11,11,08:15,SQ346,Singapore (SIN),Singapore Airlines A359 (9V-SMC),Landed 08:08,2021-06-14
+12,12,08:20,EW764,Cologne (CGN),Eurowings A319 (D-AGWD),Landed 07:48,2021-06-14
+13,13,08:30 A3534,,Thessaloniki (SKG),Aegean Airlines A320 (SX-DNE),Landed 08:14,2021-06-14
+14,14,08:30 EW7760,,Hamburg (HAM),Eurowings A319 (D-AGWH),Landed 08:01,2021-06-14
+15,15,08:30 EW9762,,Dusseldorf (DUS),Eurowings A319 (D-ABGN),Landed 08:04,2021-06-14
+16,16,08:35 LH1184,,Frankfurt (FRA),Lufthansa A319 (D-AILC),Landed 08:18,2021-06-14
+17,17,08:55 OS561,,Vienna (VIE),Austrian Airlines A320 (OE-LBI),Landed 08:43,2021-06-14
+18,18,09:10,JU370,Belgrade (BEG),AirSERBIA A319 (YU-APM),Landed 08:58,2021-06-14
+19,19,09:40,SK601,Copenhagen (CPH),SAS CRJ9 (EI-FPW),Landed 09:25,2021-06-14
+20,20,09:55,LO411,Warsaw (WAW),LOT E190 (SP-LMD),Landed 09:36,2021-06-14
+21,21,10:20,AZ572,Rome (FCO),Alitalia (SkyTeam Livery) E190 (EI-RND),Landed 10:15,2021-06-14
+22,22,10:20,A3850,Athens (ATH),Aegean Airlines A321 (SX-DNG),Landed 10:13,2021-06-14
+23,23,10:25 PC947,,Istanbul (SAW),Pegasus B738 (TC-CPK),Landed 10:21,2021-06-14
+24,24,10:30,LX93,Sao Paulo (GRU),Swiss B77W (HB-JNA),Landed 10:24,2021-06-14
+25,25,10:35 AC7218,,Toronto (YYZ),Air Canada A333 (C-GHKC),Landed 10:28,2021-06-14
+26,26,10:40 AA9716,,Philadelphia (PHL),American Airlines B788,Unknown,2021-06-14
+27,27,10:45 GM601,,Pristina (PRN),Chair Airlines A319 (HB-JOG),Landed 10:47,2021-06-14
+28,28,10:50,LX9,Chicago (ORD),Swiss A343 (HB-JMA),Landed 10:59,2021-06-14
+29,29,10:50,LX1069,Frankfurt (FRA),Swiss BCS1 (HB-JBB),Landed 10:40,2021-06-14
+30,30,10:55,LX15,New York (JFK),Swiss B77W (HB-JNB),Landed 10:05,2021-06-14
+31,31,10:55 LX257,,Tel Aviv (TLV),Swiss A333 (HB-JHF),Landed 10:37,2021-06-14
+32,32,10:55,LX2807,Geneva (GVA),Swiss A320 (HB-JLS),Landed 10:34,2021-06-14
+33,33,11:00,LX1575,Vienna (VIE),Helvetic Airways E290 (HB-AZD),Landed 11:44,2021-06-14
+34,34,11:00,LX975,Berlin (BER),Swiss A20N (HB-JDC),Landed 10:45,2021-06-14
+35,35,11:05,LX53,Boston (BOS),Swiss A333 (HB-JHL),Landed 10:31,2021-06-14
+36,36,11:05,IB3464,Madrid (MAD),Iberia A319 (EC-JAZ),Landed 10:43,2021-06-14
+37,37,11:05,KL1957,Amsterdam (AMS),KLM B738 (PH-BXW),Landed 11:18,2021-06-14
+38,38,11:10,LX633,Paris (CDG),Swiss A320 (HB-IJS),Landed 10:56,2021-06-14
+39,39,11:10,LX1051,Hamburg (HAM),Swiss A20N (HB-JDB),Landed 10:55,2021-06-14
+40,40,11:10 LX2259,,Budapest (BUD),Swiss A20N (HB-JDA),Landed 10:49,2021-06-14
+41,41,11:15,LX787,Brussels (BRU),Swiss BCS1 (HB-JBG),Landed 11:03,2021-06-14
+42,42,11:15 LX1229,,Gothenburg (GOT),Helvetic Airways E290 (HB-AZH),Landed 10:58,2021-06-14
+43,43,11:15 LX1889,,Bucharest (OTP),Swiss BCS3 (HB-JCJ),Landed 11:12,2021-06-14
+44,44,11:20,LX1255,Stockholm (ARN),Swiss BCS1 (HB-JBC),Landed 11:09,2021-06-14
+45,45,11:20 LX1413,,Belgrade (BEG),Swiss BCS1 (HB-JBH),Landed 11:15,2021-06-14
+46,46,11:20,LX1843,Athens (ATH),Swiss BCS3 (HB-JCB),Landed 11:25,2021-06-14
+47,47,11:20 LX2291,,Kyiv (KBP),Swiss A320 (HB-IJE),Landed 10:51,2021-06-14
+48,48,11:25,LX1267,Copenhagen (CPH),Swiss BCS3 (HB-JCF),Landed 11:06,2021-06-14
+49,49,11:30 LX563,,Nice (NCE),Swiss BCS3 (HB-JCH),Landed 11:23,2021-06-14
+50,50,11:30,LX815,Hannover (HAJ),Helvetic Airways E290 (HB-AZA),Landed 11:16,2021-06-14
+51,51,11:30,LX1343,Warsaw (WAW),Swiss BCS3 (HB-JCO),Landed 11:11,2021-06-14
+52,52,11:30 LX1485,,Prague (PRG),Swiss A320 (HB-JLT),Landed 11:04,2021-06-14
+53,53,11:35,LX19,New York (EWR),Swiss A333 (HB-JHM),Landed 11:27,2021-06-14
+54,54,11:35 LX391,,Manchester (MAN),Swiss BCS1 (HB-JBD),Landed 11:19,2021-06-14
+55,55,11:35 LX751,,Luxembourg (LUX),Helvetic Airways E290 (HB-AZC),Landed 11:21,2021-06-14
+56,56,11:40,LX317,London (LHR),Swiss A343 (HB-JMC),Landed 11:31,2021-06-14
+57,57,11:40,LX1219,Oslo (OSL),Swiss BCS1 (HB-JBF),Landed 11:41,2021-06-14
+58,58,12:00,WK403,Pristina (PRN),Edelweiss Air A320 (HB-IJV),Landed 11:49,2021-06-14
+59,59,12:25,LH2368,Munich (MUC),Lufthansa CRJ9 (D-ACNH),Landed 12:25,2021-06-14
+60,60,12:35,WK357,Kos (KGS),Edelweiss Air A320 (HB-JJN),Landed 12:28,2021-06-14
+61,61,13:20,EK87,Dubai (DXB),Emirates B77W (A6-EQJ),Landed 12:46,2021-06-14
+62,62,13:40,QR95,Doha (DOH),Qatar Airways A359 (A7-ALM),Landed 13:32,2021-06-14
+63,63,14:25 GM801,,Heraklion (HER),Chair Airlines 319,Unknown,2021-06-14
+64,64,14:30 YM150,,Podgorica (TGD),Montenegro Airlines 100,Unknown,2021-06-14
+65,65,14:45 LX2153,,Palma de Mallorca (PMI),Swiss A320 (HB-IJD),Landed 14:23,2021-06-14
+66,66,15:25,WK347,Rhodes (RHO),Edelweiss Air A320 (HB-IHZ),Landed 15:13,2021-06-14
+67,67,16:00,LX1663,Venice (VCE),Swiss BCS3 (HB-JCE),Landed 15:53,2021-06-14
+68,68,16:05,LX2811,Geneva (GVA),Swiss BCS3 (HB-JCC),Landed 15:50,2021-06-14
+69,69,16:10,LX1579,Vienna (VIE),Swiss BCS3 (HB-JCA),Landed 15:58,2021-06-14
+70,70,16:20,LX967,Berlin (BER),Swiss BCS3 (HB-JCB),Landed 16:33,2021-06-14
+71,71,16:20,LX1057,Hamburg (HAM),Helvetic Airways E290 (HB-AZH),Landed 16:31,2021-06-14
+72,72,16:20 LX2549,,Sarajevo (SJJ),Swiss BCS3 (HB-JCR),Landed 16:20,2021-06-14
+73,73,16:20 LX2111,,Malaga (AGP),Swiss BCS3 (HB-JCQ),Landed 15:56,2021-06-14
+74,74,16:30,LX333,London (LHR),Swiss BCS1 (HB-JBB),Landed 16:30,2021-06-14
+75,75,16:35 LX1713,,Naples (NAP),Swiss BCS3 (HB-JCJ),Landed 16:26,2021-06-14
+76,76,16:40 LX1955,,Barcelona (BCN),Swiss A321 (HB-ION),Landed 16:28,2021-06-14
+77,77,16:40 LX1417,,Belgrade (BEG),Swiss BCS3 (HB-JCO),Landed 16:45,2021-06-14
+78,78,16:45,KL1961,Amsterdam (AMS),KLM E75L (PH-EXG),Landed 16:16,2021-06-14
+79,79,16:50 LX1737,,Rome (FCO),Swiss BCS3 (HB-JCH),Landed 16:41,2021-06-14
+80,80,16:55,LH2372,Munich (MUC),Lufthansa CRJ9 (D-ACNO),Landed 16:48,2021-06-14
+81,81,17:05,WK247,Palma de Mallorca (PMI),Edelweiss Air A320 (HB-IJU),Landed 16:58,2021-06-14
+82,82,17:15,TP926,Lisbon (LIS),TAP Air Portugal A320 (CS-TNL),Landed 17:32,2021-06-14
+83,83,17:15,UX1671,Madrid (MAD),Air Europa B738 (EC-LUT),Landed 16:43,2021-06-14
+84,84,17:20 LX1725,,Brindisi (BDS),Swiss BCS1 (HB-JBD),Landed 17:06,2021-06-14
+85,85,17:20 LX2511,,Palermo (PMO),Swiss BCS1 (HB-JBH),Landed 17:09,2021-06-14
+86,86,17:25 LX2143,,Valencia (VLC),Swiss BCS1 (HB-JBC),Landed 17:11,2021-06-14
+87,87,17:25,WK267,Ibiza (IBZ),Edelweiss Air A320 (HB-JJM),Landed 17:14,2021-06-14
+88,88,17:45 LX2175,,Alicante (ALC),Swiss BCS3 (HB-JCL),Landed 17:35,2021-06-14
+89,89,17:50,WK331,Zakynthos (ZTH),Edelweiss Air A320 (HB-IHX),Landed 17:52,2021-06-14
+90,90,18:15,LX2067,Porto (OPO),Swiss A20N (HB-JDA),Landed 18:11,2021-06-14
+91,91,18:15 LX2115,,Malaga (AGP),Swiss A20N (HB-JDC),Landed 18:20,2021-06-14
+92,92,18:20,AY1513,Helsinki (HEL),Finnair E190 (OH-LKG),Landed 18:37,2021-06-14
+93,93,18:25 LX2581,,Thessaloniki (SKG),Swiss BCS1 (HB-JBG),Landed 18:22,2021-06-14
+94,94,18:25 TK1909,,Istanbul (IST),Turkish Arlines B38M (TC-LCK),Landed 18:15,2021-06-14
+95,95,18:50,LO419,Warsaw (WAW),LOT E195 (SP-LNE),Landed 18:25,2021-06-14
+96,96,18:55,IB3474,Madrid (MAD),Iberia A320 (EC-IEF),Landed 21:13,2021-06-14
+97,97,19:05 LX2159,,Palma de Mallorca (PMI),Swiss 221,Canceled,2021-06-14
+98,98,19:10,OS565,Vienna (VIE),Austrian Airlines A320 (OE-LBN),Landed 18:59,2021-06-14
+99,99,19:20,LX2085,Lisbon (LIS),Swiss A21N (HB-JPA),Landed 19:08,2021-06-14
+100,100,19:50 LX2151,,Palma de Mallorca (PMI),Swiss A320 (HB-JLT),Landed 19:40,2021-06-14
+101,101,19:55 JU374,,Belgrade (BEG),AirSERBIA A319 (YU-APM),Landed 19:42,2021-06-14
+102,102,20:05 LX1327,,Moscow (DME),Swiss A21N (HB-JPB),Landed 21:01,2021-06-14
+103,103,20:50 U27593,,Porto (OPO),easyJet A320 (OE-IJQ),Landed 20:27,2021-06-14
+104,104,21:20,LX2819,Geneva (GVA),Swiss BCS3 (HB-JCJ),Landed 21:10,2021-06-14
+105,105,21:50,LX1077,Frankfurt (FRA),Helvetic Airways E290 (HB-AZA),Landed 21:47,2021-06-14
+106,106,22:00 LX2147,,Valencia (VLC),Swiss BCS1 (HB-JBF),Landed 21:42,2021-06-14
+107,107,22:20,WK345,Chania (CHQ),Edelweiss Air A320 (HB-IJV),Landed 22:05,2021-06-14
+108,108,22:25,KL1969,Amsterdam (AMS),KLM B738 (PH-BXU),Landed 22:02,2021-06-14
+109,109,22:45 GM631,,Skopje (SKP),Chair Airlines A319 (HB-JOG),Landed 22:42,2021-06-14
+110,110,22:55,WK201,Gran Canaria (LPA),Edelweiss Air 320,Canceled,2021-06-14
+111,111,22:55,WK215,Tenerife (TFS),Edelweiss Air 320,Canceled,2021-06-14
+112,112,22:55 WK210,,Tenerife (TFS),Edelweiss Air A320 (HB-IHY),Landed 22:51,2021-06-14
+0,0,06:10,LX177,Singapore (SIN),Swiss B77W (HB-JND),Landed 06:07,2021-06-15
+1,1,06:10,LX289,Johannesburg (JNB),Swiss A343 (HB-JMI),Landed 06:05,2021-06-15
+2,2,06:15,LX243,Dubai (DXB),Swiss B77W (HB-JNA),Landed 06:08,2021-06-15
+3,3,07:10,QR93,Doha (DOH),Qatar Airways A359 (A7-ALS),Landed 06:34,2021-06-15
+4,4,07:40 LX155,,Mumbai (BOM),Swiss B77W (HB-JNJ),Landed 07:14,2021-06-15
+5,5,07:55,UA52,Washington (IAD),United Airlines (Star Alliance livery) B763 (N653UA),Landed 07:31,2021-06-15
+6,6,08:05,UA134,New York (EWR),United Airlines B763 (N669UA),Landed 07:33,2021-06-15
+7,7,08:15,SQ346,Singapore (SIN),Singapore Airlines A359 (9V-SML),Landed 07:58,2021-06-15
+8,8,08:30 AC7216,,Toronto (YYZ),Air Canada B789 (C-FNOH),Landed 08:13,2021-06-15
+9,9,08:35,LH1184,Frankfurt (FRA),Lufthansa (Star Alliance Livery) A319 (D-AIBJ),Landed 08:28,2021-06-15
+10,10,08:55,OS561,Vienna (VIE),Austrian Airlines A319 (OE-LDE),Landed 08:48,2021-06-15
+11,11,09:40,SK601,Copenhagen (CPH),SAS CRJ9 (EI-FPT),Landed 09:36,2021-06-15
+12,12,09:55,LO411,Warsaw (WAW),LOT E195 (SP-LND),Landed 09:34,2021-06-15
+13,13,09:55,TK1907,Istanbul (IST),Turkish Airlines A21N (TC-LSO),Landed 09:45,2021-06-15
+14,14,10:15,UX1675,Madrid (MAD),Air Europa (SkyTeam Livery) B738 (EC-LPQ),Landed 10:06,2021-06-15
+15,15,10:20,AZ572,Rome (FCO),Alitalia A319 (EI-IMG),Landed 10:18,2021-06-15
+16,16,10:20,A3850,Athens (ATH),Aegean Airlines A321 (SX-DNG),Landed 10:08,2021-06-15
+17,17,10:25 PC947,,Istanbul (SAW),Pegasus B738 (TC-CRG),Landed 09:56,2021-06-15
+18,18,10:30,LX93,Sao Paulo (GRU),Swiss B77W (HB-JNE),Landed 09:53,2021-06-15
+19,19,10:45,OU460,Zagreb (ZAG),Croatia Airlines DH8D (9A-CQB),Landed 10:35,2021-06-15
+20,20,10:50,LX1069,Frankfurt (FRA),Swiss BCS1 (HB-JBC),Landed 14:17,2021-06-15
+21,21,10:55,LX15,New York (JFK),Swiss B77W (HB-JNL),Landed 09:51,2021-06-15
+22,22,11:00,LX65,Miami (MIA),Swiss A343 (HB-JMA),Landed 10:43,2021-06-15
+23,23,11:00,LX975,Berlin (BER),Swiss BCS1 (HB-JBH),Landed 10:38,2021-06-15
+24,24,11:00,LX1575,Vienna (VIE),Swiss BCS1 (HB-JBF),Landed 10:39,2021-06-15
+25,25,11:05,IB3464,Madrid (MAD),Iberia A320 (EC-LUL),Landed 10:42,2021-06-15
+26,26,11:05,KL1957,Amsterdam (AMS),KLM B738 (PH-BXB),Landed 10:58,2021-06-15
+27,27,11:10,LX633,Paris (CDG),Swiss BCS3 (HB-JCQ),Landed 10:48,2021-06-15
+28,28,11:10,LX1051,Hamburg (HAM),Swiss BCS1 (HB-JBG),Landed 11:11,2021-06-15
+29,29,11:10,LX1843,Athens (ATH),Swiss BCS3 (HB-JCF),Landed 10:53,2021-06-15
+30,30,11:15,LX787,Brussels (BRU),Helvetic Airways E290 (HB-AZH),Landed 11:06,2021-06-15
+31,31,11:15 LX1889,,Bucharest (OTP),Swiss BCS3 (HB-JCU),Landed 11:18,2021-06-15
+32,32,11:20 LX1229,,Gothenburg (GOT),Swiss BCS1 (HB-JBB),Landed 10:51,2021-06-15
+33,33,11:20 LX2291,,Kyiv (KBP),Swiss A20N (HB-JDB),Landed 10:57,2021-06-15
+34,34,11:25,LX1267,Copenhagen (CPH),Swiss BCS3 (HB-JCJ),Landed 11:03,2021-06-15
+35,35,11:25,LX1255,Stockholm (ARN),Swiss A320 (HB-JLS),Landed 11:16,2021-06-15
+36,36,11:25 LX1413,,Belgrade (BEG),Swiss BCS3 (HB-JCE),Landed 11:09,2021-06-15
+37,37,11:30 LX563,,Nice (NCE),Swiss BCS1 (HB-JBD),Landed 11:07,2021-06-15
+38,38,11:30,LX2807,Geneva (GVA),Swiss A20N (HB-JDC),Landed 11:14,2021-06-15
+39,39,12:10 TU700,,Geneva (GVA),Tunisair A319 (TS-IMQ),Canceled,2021-06-15
+40,40,12:10 TU701,,Geneva (GVA),Tunisair A319 (TS-IMQ),Landed 11:59,2021-06-15
+41,41,12:25,LH2368,Munich (MUC),Lufthansa CRJ9 (D-ACKH),Landed 12:14,2021-06-15
+42,42,13:20,EK87,Dubai (DXB),Emirates B77W (A6-EQK),Landed 12:51,2021-06-15
+43,43,14:00 WK5107,,Amman (AMM),Edelweiss Air A343 (HB-JME),Canceled,2021-06-15
+44,44,14:55 LX5169,,Frankfurt (FRA),Swiss BCS1 (HB-JBC),Landed 14:17,2021-06-15
+45,45,15:50 LX189,,Shanghai (PVG),Swiss B77W (HB-JNK),Landed 15:24,2021-06-15
+46,46,16:05,LX2811,Geneva (GVA),Swiss BCS3 (HB-JCQ),Landed 15:49,2021-06-15
+47,47,16:20,LX967,Berlin (BER),Swiss BCS3 (HB-JCH),Landed 16:18,2021-06-15
+48,48,16:25,WK449,Split (SPU),Edelweiss Air A320 (HB-IHY),Landed 16:05,2021-06-15
+49,49,16:30,LX333,London (LHR),Swiss A320 (HB-IJI),Landed 16:13,2021-06-15
+50,50,16:40 LX1737,,Rome (FCO),Swiss A21N (HB-JPA),Landed 16:22,2021-06-15
+51,51,16:40 LX1953,,Barcelona (BCN),Swiss BCS3 (HB-JCU),Landed 16:45,2021-06-15
+52,52,16:50 LX1723,,Brindisi (BDS),Swiss BCS3 (HB-JCL),Landed 16:43,2021-06-15
+53,53,17:05 LX2153,,Palma de Mallorca (PMI),Swiss A21N (HB-JPB),Landed 16:57,2021-06-15
+54,54,17:15 LX2143,,Valencia (VLC),Swiss BCS1 (HB-JBH),Landed 16:59,2021-06-15
+55,55,18:15,LX2067,Porto (OPO),Swiss BCS1 (HB-JBG),Landed 18:34,2021-06-15
+56,56,18:20,AY1513,Helsinki (HEL),Finnair E190 (OH-LKR),Landed 18:02,2021-06-15
+57,57,18:40,EW9766,Dusseldorf (DUS),Eurowings A319 (D-ABGJ),Landed 18:13,2021-06-15
+58,58,18:50,EW7764,Hamburg (HAM),Eurowings A320 (D-AEWP),Landed 18:31,2021-06-15
+59,59,18:55,IB3474,Madrid (MAD),Iberia (Oneworld Livery) A319 (EC-KHM),Landed 18:35,2021-06-15
+60,60,19:00 LX2111,,Malaga (AGP),Swiss A20N (HB-JDA),Landed 18:39,2021-06-15
+61,61,19:00,LX2085,Lisbon (LIS),Swiss BCS3 (HB-JCF),Landed 18:58,2021-06-15
+62,62,19:05 GM601,,Pristina (PRN),Chair Airlines A319 (HB-JOJ),Landed 10:50,2021-06-15
+63,63,19:10,OS565,Vienna (VIE),Austrian Airlines A319 (OE-LDB),Landed 19:03,2021-06-15
+64,64,20:10 JU374,,Belgrade (BEG),AirSERBIA A319 (YU-APD),Landed 19:49,2021-06-15
+65,65,21:00,LX1111,Munich (MUC),Swiss BCS1 (HB-JBF),Landed 20:41,2021-06-15
+66,66,21:30,LX1583,Vienna (VIE),Swiss BCS3 (HB-JCU),Landed 21:13,2021-06-15
+67,67,21:35 LX327,,London (LHR),Swiss A20N (HB-JDB),Landed 21:26,2021-06-15
+68,68,21:50,LX1077,Frankfurt (FRA),Swiss BCS1 (HB-JBH),Landed 21:42,2021-06-15
+69,69,21:50 LX1733,,Rome (FCO),Swiss BCS3 (HB-JCJ),Landed 21:32,2021-06-15
+70,70,21:55 LX2155,,Palma de Mallorca (PMI),Swiss BCS1 (HB-JBD),Landed 21:36,2021-06-15
+71,71,22:00,LX2819,Geneva (GVA),Swiss BCS3 (HB-JCN),Landed 21:46,2021-06-15
+72,72,22:25,KL1969,Amsterdam (AMS),KLM B737 (PH-BGG),Landed 22:05,2021-06-15
+73,73,22:40,WK349,Heraklion (HER),Edelweiss Air A320 (HB-IJU),Landed 22:09,2021-06-15
+74,74,22:55 GM631,,Skopje (SKP),Chair Airlines A319 (HB-JOJ),Landed 22:41,2021-06-15
+75,75,22:55,WK299,Faro (FAO),Edelweiss Air A320 (HB-IHX),Landed 22:39,2021-06-15

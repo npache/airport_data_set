@@ -962,3 +962,297 @@
 19,19,22:05,AC271,Toronto (YYZ),Air Canada B38M (C-FSDQ),Landed 21:50,2021-06-07
 20,20,22:15 W8587,,Thunder Bay (YQT),First Air AT43 (C-FIQU),Landed 22:15,2021-06-07
 21,21,23:35 W8590,,Regina (YQR),Cargojet Airways B752 (C-GTCJ),Landed 23:20,2021-06-07
+0,0,00:05 W8566,,Calgary (YYC),Cargojet Airways B763 (C-GXAJ),Landed 00:03,2021-06-08
+1,1,00:05 W8570,,Vancouver (YVR),Cargojet Airways B763,Landed 23:48,2021-06-08
+2,2,00:08,WS526,Calgary (YYC),WestJet B737 (C-GWCN),Landed 23:54,2021-06-08
+3,3,00:13 MAL8079,,Vancouver (YVR),FedEx B752 (N976FD),Landed 00:00,2021-06-08
+4,4,00:30 W8574,,Edmonton (YEG),Cargojet Airways B762 (C-FGAJ),Landed 00:19,2021-06-08
+5,5,00:45 MAL7949,,Edmonton (YEG),FedEx B752 (C-FMFG),Landed 00:36,2021-06-08
+6,6,01:05 MAL7062,,Calgary (YYC),FedEx B752 (C-FMEU),Landed 00:39,2021-06-08
+7,7,01:30 W8567,,Montreal (YMX),Cargojet Airways B763 (C-GAJG),Landed 01:43,2021-06-08
+8,8,02:45 W8571,,Hamilton (YHM),Cargojet Airways B763 (C-FGSJ),Landed 02:49,2021-06-08
+9,9,02:50 W8573,,Hamilton (YHM),Cargojet Airways B763 (C-FMIJ),Landed 02:47,2021-06-08
+10,10,03:35 MAL7050,,Toronto (YYZ),FedEx B752 (C-FMEK),Landed 03:17,2021-06-08
+11,11,05:29 YP11,,The Pas (YQD),Perimeter Aviation SW3,Landed 05:29,2021-06-08
+12,12,05:56 CNK301,,Calgary (YYC),Sunwest Aviation SW4 (C-GSAF),Landed 05:53,2021-06-08
+13,13,06:08 CNK633,,Montreal (YUL),Sunwest Aviation LJ3,Unknown,2021-06-08
+14,14,07:29 5X496,,Minneapolis (MSP),UPS B752 (N461UP),Landed 08:08,2021-06-08
+15,15,07:43 FX134,,Memphis (MEM),FedEx A306 (N681FE),Landed 07:56,2021-06-08
+16,16,08:52 YP9,,The Pas (YQD),Perimeter Aviation SW3,Landed 08:47,2021-06-08
+17,17,09:55,AC259,Toronto (YYZ),Air Canada A321 (C-FGKN),Landed 09:33,2021-06-08
+18,18,10:47 MAL8940,,Thunder Bay (YQT),FedEx C208 (C-FEXH),Landed 10:48,2021-06-08
+19,19,10:55 WQ918,,Milwaukee (MKE),DHL B734 (N307GT),Landed 10:34,2021-06-08
+20,20,11:28 YP7,,Island Lake (YIV),Perimeter Aviation SW3,Landed 11:16,2021-06-08
+21,21,12:24 WS268,,Calgary (YYC),WestJet B737 (C-GWSQ),Landed 12:20,2021-06-08
+22,22,12:28 SLQ7746,,Regina (YQR),SkyLink Express B190,Landed 14:07,2021-06-08
+23,23,13:09 AC8544,,Vancouver (YVR),Air Canada Express CRJ9 (C-GJHZ),Landed 13:00,2021-06-08
+24,24,13:15 AC7017,,Montreal (YUL),Air Canada Jetz A319 (C-GBIK),Landed 12:44,2021-06-08
+25,25,13:42 WSG514,,Thunder Bay (YQT),Wasaya Airways PC12 (C-FWAF),Landed 13:42,2021-06-08
+26,26,14:34 YP2,,York Landing (ZAC),Perimeter Aviation SW4,Landed 14:34,2021-06-08
+27,27,16:15 AC7042,,Montreal (YHU),Air Canada 319,Canceled,2021-06-08
+28,28,16:25,,Winnipeg (YWG),- BE20,Landed 11:51,2021-06-08
+29,29,16:55 MO241,,Sanikiluaq (YSK),Calm Air AT4,Unknown,2021-06-08
+30,30,17:15 YP9,,Gods Lake Narrows (YGO),Perimeter Aviation SW3,Landed 17:15,2021-06-08
+31,31,17:49 AC8546,,Vancouver (YVR),Air Canada Express CRJ9 (C-FJZL),Landed 17:46,2021-06-08
+32,32,17:55 MAL7060,,Thunder Bay (YQT),FedEx C208 (C-FEXE),Landed 17:55,2021-06-08
+33,33,18:28 SLQ721,,Regina (YQR),SkyLink Express B190,Canceled,2021-06-08
+34,34,18:30 MO307,,Rankin Inlet (YRT),Calm Air 732,Unknown,2021-06-08
+35,35,18:30 5T157,,Rankin Inlet (YRT),Canadian North B734 (C-FFNF),Landed 19:20,2021-06-08
+36,36,21:28 YP13,,The Pas (YQD),Perimeter Aviation SW3,Landed 21:28,2021-06-08
+37,37,22:05,AC271,Toronto (YYZ),Air Canada B38M (C-FSDQ),Landed 22:53,2021-06-08
+38,38,22:15 W8587,,Thunder Bay (YQT),First Air AT43 (C-FIQU),Landed 21:51,2021-06-08
+39,39,23:35 W8590,,Regina (YQR),Cargojet Airways B752 (C-GTCJ),Unknown,2021-06-08
+0,0,12:05 AM W8566,,Calgary (YYC),Cargojet Airways B763 (C-FGSJ),Landed 12:16 AM,2021-06-09
+1,1,12:05 AM MAL8079,,Vancouver (YVR),FedEx B752 (N976FD),Landed 11:46 PM,2021-06-09
+2,2,12:20 AM W8570,,Vancouver (YVR),CargoJet Airways B763 (C-GCIJ),Landed 12:02 AM,2021-06-09
+3,3,12:30 AM W8574,,Edmonton (YEG),Cargojet Airways B763 (C-FMIJ),Landed 12:27 AM,2021-06-09
+4,4,12:45 AM MAL7949,,Edmonton (YEG),FedEx B752 (C-FMEK),Landed 12:12 AM,2021-06-09
+5,5,1:30 AM W8567,,Montreal (YMX),Cargojet Airways B763,Landed 1:44 AM,2021-06-09
+6,6,2:45 AM W8571,,Hamilton (YHM),Cargojet Airways B763 (C-GXAJ),Landed 2:33 AM,2021-06-09
+7,7,2:50 AM W8573,,Hamilton (YHM),Cargojet Airways B762 (C-FHCJ),Landed 2:28 AM,2021-06-09
+8,8,3:07 AM MAL7050,,Toronto (YYZ),FedEx B752 (C-FMAI),Landed 2:57 AM,2021-06-09
+9,9,5:36 AM QK2270,,Thunder Bay (YQT),Air Canada Express CRJ9 (C-GJNZ),Landed 5:44 AM,2021-06-09
+10,10,6:23 AM CNK301,,Calgary (YYC),Sunwest Aviation SW4 (C-GSAF),Landed 6:15 AM,2021-06-09
+11,11,7:29 AM 5X496,,Minneapolis (MSP),UPS B752 (N401UP),Landed 7:39 AM,2021-06-09
+12,12,7:37 AM FX134,,Memphis (MEM),FedEx A306 (N681FE),Landed 8:08 AM,2021-06-09
+13,13,8:45 AM FK504,,Edmonton (YEG),Keewatin Air C560,Unknown,2021-06-09
+14,14,9:55 AM,AC259,Toronto (YYZ),Air Canada BCS3 (C-GJXW),Landed 9:40 AM,2021-06-09
+15,15,10:09 AM WQ918,,Milwaukee (MKE),DHL B734 (N307GT),Landed 9:58 AM,2021-06-09
+16,16,10:35 AM WS305,,Toronto (YYZ),WestJet B737 (C-GWCN),Landed 10:28 AM,2021-06-09
+17,17,11:15 AM YP11,,Norway House (YNE),Perimeter Aviation SW3,Landed 10:41 AM,2021-06-09
+18,18,11:25 AM MAL8940,,Thunder Bay (YQT),Morningstar Air Express C208,Canceled,2021-06-09
+19,19,11:50 AM 9M9248,,Calgary (YYC),Central Mountain Air D328 (C-FHVX),Landed 11:43 AM,2021-06-09
+20,20,11:57 AM,,Regina (YQR),- PC12 (C-FPNG),Landed 11:53 AM,2021-06-09
+21,21,12:24 PM WS268,,Calgary (YYC),WestJet B737 (C-FKIW),Landed 12:36 PM,2021-06-09
+22,22,12:32 PM SLQ7746,,Regina (YQR),SkyLink Express B190,Canceled,2021-06-09
+23,23,1:09 PM AC8544,,Vancouver (YVR),Air Canada Express CRJ9 (C-GJHZ),Landed 12:57 PM,2021-06-09
+24,24,1:30 PM MO123,,The Pas (YQD),Calm Air AT43,Unknown,2021-06-09
+25,25,1:47 PM AC2273,,Calgary (YYC),Air Canada Express CRJ9 (C-GJNZ),Landed 2:21 PM,2021-06-09
+26,26,2:40 PM YP1731,,Regina (YQR),Perimeter Aviation SW4 (C-GAMI),Landed 2:16 PM,2021-06-09
+27,27,3:37 PM YP2,,The Pas (YQD),Perimeter Aviation SW4,Landed 3:40 PM,2021-06-09
+28,28,5:46 PM YP1531,,Big Trout (YTL),Perimeter Aviation DH8A,Landed 6:36 PM,2021-06-09
+29,29,5:47 PM 9M9248,,Timmins (YTS),Central Mountain Air D328 (C-FHVX),Landed 5:48 PM,2021-06-09
+30,30,5:49 PM AC8546,,Vancouver (YVR),Air Canada Express CRJ9 (C-FJGZ),Landed 5:45 PM,2021-06-09
+31,31,6:08 PM YP9,,Island Lake (YIV),Perimeter Aviation SWM,Landed 5:44 PM,2021-06-09
+32,32,6:27 PM SLQ721,,Regina (YQR),SkyLink Express B190,Landed 6:15 PM,2021-06-09
+33,33,6:30 PM MO307,,Rankin Inlet (YRT),Calm Air 732,Unknown,2021-06-09
+34,34,6:30 PM 5T157,,Rankin Inlet (YRT),Canadian North B734 (C-FFNF),Landed 6:31 PM,2021-06-09
+35,35,6:48 PM YP1531,,Wapekeka (YAX),Perimeter Aviation -,Unknown,2021-06-09
+36,36,6:50 PM MO117,,Thompson (YTH),Calm Air AT73 (C-FJCQ),Unknown,2021-06-09
+37,37,8:33 PM,,Kelowna (YLW),- TBM9 (C-FKRR),Landed 8:43 PM,2021-06-09
+38,38,10:05 PM,AC271,Toronto (YYZ),Air Canada BCS3 (C-GROV),Landed 9:42 PM,2021-06-09
+39,39,10:15 PM W8587,,Thunder Bay (YQT),First Air AT43 (C-FIQU),Landed 10:12 PM,2021-06-09
+40,40,11:08 PM MAL7940,,Toronto (YYZ),FedEx B752 (C-FMEP),Landed 11:10 PM,2021-06-09
+41,41,11:35 PM W8590,,Regina (YQR),Cargojet Airways B752 (C-GTCJ),Landed 10:53 PM,2021-06-09
+0,0,00:20 W8570,,Vancouver (YVR),Cargojet Airways B763,Landed 23:49,2021-06-10
+1,1,00:28 W8566,,Calgary (YYC),Cargojet Airways B763 (C-GXAJ),Landed 00:06,2021-06-10
+2,2,00:30 W8574,,Edmonton (YEG),Cargojet Airways B762 (C-FOIJ),Landed 00:26,2021-06-10
+3,3,00:45 MAL7949,,Edmonton (YEG),FedEx B752 (C-FMAI),Landed 00:09,2021-06-10
+4,4,01:05 MAL7062,,Calgary (YYC),FedEx B752 (C-FMEU),Landed 00:41,2021-06-10
+5,5,01:30 W8567,,Montreal (YMX),CargoJet Airways B763 (C-GCIJ),Landed 01:28,2021-06-10
+6,6,02:45 W8571,,Hamilton (YHM),Cargojet Airways B763 (C-FDIJ),Landed 02:25,2021-06-10
+7,7,02:50 W8573,,Hamilton (YHM),Cargojet Airways B763 (C-GAJG),Landed 02:33,2021-06-10
+8,8,03:21 MAL7050,,Toronto (YYZ),FedEx B752 (C-FMFG),Landed 03:19,2021-06-10
+9,9,05:49 CNK301,,Calgary (YYC),Sunwest Aviation SW4 (C-GSAF),Landed 06:08,2021-06-10
+10,10,07:11 FX134,,Memphis (MEM),FedEx A306 (N743FD),Landed 07:18,2021-06-10
+11,11,07:29 5X496,,Minneapolis (MSP),UPS B752 (N436UP),Landed 07:07,2021-06-10
+12,12,08:45,F8312,Toronto (YYZ),Flair Airlines B738 (C-FFLC),Landed 08:48,2021-06-10
+13,13,09:55,AC259,Toronto (YYZ),Air Canada B38M (C-FSCY),Landed 09:44,2021-06-10
+14,14,10:49 WQ918,,Milwaukee (MKE),DHL B734 (N307GT),Landed 10:29,2021-06-10
+15,15,10:54 MAL8940,,Thunder Bay (YQT),FedEx C208 (C-FEXH),Landed 10:51,2021-06-10
+16,16,11:10,,Winnipeg (YWG),- SW4,Landed 13:40,2021-06-10
+17,17,11:58,,Cold Lake (YOD),- F18,Canceled,2021-06-10
+18,18,12:04 YP1542,,Pikangikum (YPM),Perimeter Aviation DH8A,Landed 11:54,2021-06-10
+19,19,12:08 YP7,,Island Lake (YIV),Perimeter Aviation SW3,Landed 12:09,2021-06-10
+20,20,12:10 YP13,,St. Theresa Point (YST),Perimeter Aviation SW3,Landed 12:46,2021-06-10
+21,21,12:24 WS268,,Calgary (YYC),WestJet B38M (C-FNWD),Landed 12:22,2021-06-10
+22,22,13:09 AC8544,,Vancouver (YVR),Air Canada Express CRJ9 (C-FJQZ),Landed 13:03,2021-06-10
+23,23,13:39 YP1741,,Pikangikum (YPM),Perimeter Aviation SW4 (C-GAMI),Landed 13:28,2021-06-10
+24,24,13:44 SLQ7746,,Regina (YQR),SkyLink Express B190,Landed 15:31,2021-06-10
+25,25,14:01 WO164,,Abbotsford (YXX),Swoop 7S8,Unknown,2021-06-10
+26,26,15:16 WS3244,,Saskatoon (YXE),WestJet DH8D (C-GENK),Unknown,2021-06-10
+27,27,16:05,F8311,Vancouver (YVR),Flair Airlines B738 (C-FFLC),Landed 16:01,2021-06-10
+28,28,16:28 YP1200,,Sioux Lookout (YXL),Perimeter Aviation SW4,Landed 16:09,2021-06-10
+29,29,16:48 YP1543,,St. Theresa Point (YST),Perimeter Aviation DH8C,Landed 16:38,2021-06-10
+30,30,17:49,AC8546,Vancouver (YVR),Air Canada Express CRJ9 (C-GJHZ),Landed 17:37,2021-06-10
+31,31,17:59 MAL7060,,Thunder Bay (YQT),FedEx C208 (C-FEXE),Landed 17:44,2021-06-10
+32,32,18:30 MO307,,Rankin Inlet (YRT),Calm Air 732,Unknown,2021-06-10
+33,33,18:30 5T157,,Rankin Inlet (YRT),Canadian North B734 (C-FFNF),Landed 18:22,2021-06-10
+34,34,18:30 SLQ721,,Regina (YQR),SkyLink Express B190,Landed 18:09,2021-06-10
+35,35,19:27 YP1541,,Gillam (YGX),Perimeter Aviation DH8C,Landed 19:15,2021-06-10
+36,36,19:27 YP11,,Thompson (YTH),Perimeter Aviation SW3,Landed 19:32,2021-06-10
+37,37,20:02 YP1544,,Big Trout (YTL),Perimeter Aviation DH8A,Landed 19:52,2021-06-10
+38,38,22:05,AC271,Toronto (YYZ),Air Canada BCS3 (C-GJYI),Landed 22:03,2021-06-10
+39,39,22:15 W8587,,Thunder Bay (YQT),Cargojet Airways AT43,Landed 22:00,2021-06-10
+40,40,23:35 W8590,,Regina (YQR),Cargojet Airways B752 (C-GTCJ),Landed 23:23,2021-06-10
+0,0,00:05 W8566,,Calgary (YYC),Cargojet Airways B763 (C-FDIJ),Landed 00:21,2021-06-11
+1,1,00:08,WS526,Calgary (YYC),WestJet B737 (C-GWBF),Landed 00:10,2021-06-11
+2,2,00:20 W8570,,Vancouver (YVR),CargoJet Airways B763 (C-GCIJ),Landed 00:13,2021-06-11
+3,3,00:30 W8574,,Edmonton (YEG),Cargojet Airways B763 (C-GAJG),Landed 00:16,2021-06-11
+4,4,00:31 MAL8079,,Vancouver (YVR),FedEx B752 (C-FMEP),Landed 00:18,2021-06-11
+5,5,00:53 YP2611,,Island Lake (YIV),Perimeter Aviation DH8C,Landed 00:42,2021-06-11
+6,6,01:04 MAL7949,,Edmonton (YEG),FedEx B752 (C-FMFG),Landed 00:52,2021-06-11
+7,7,01:05 MAL7062,,Calgary (YYC),FedEx B752 (C-FMAI),Landed 01:04,2021-06-11
+8,8,01:30 W8567,,Montreal (YMX),Cargojet Airways B763,Landed 01:27,2021-06-11
+9,9,02:45 W8571,,Hamilton (YHM),Cargojet Airways B763 (C-FCCJ),Landed 02:49,2021-06-11
+10,10,02:50 W8573,,Hamilton (YHM),Cargojet Airways B763 (C-FMIJ),Landed 02:52,2021-06-11
+11,11,03:35 MAL7050,,Toronto (YYZ),FedEx B752 (N978FD),Landed 03:24,2021-06-11
+12,12,06:41 CNK301,,Calgary (YYC),Sunwest Aviation SW4,Landed 13:42,2021-06-11
+13,13,07:11 FX134,,Memphis (MEM),FedEx A306 (N657FE),Landed 07:34,2021-06-11
+14,14,07:12,,Regina (YQR),- C55B (C-FBRT),Landed 08:03,2021-06-11
+15,15,07:29 5X496,,Minneapolis (MSP),UPS B752 (N419UP),Landed 08:37,2021-06-11
+16,16,09:55,AC259,Toronto (YYZ),Air Canada B38M (C-FSDQ),Landed 09:49,2021-06-11
+17,17,10:35 WS305,,Toronto (YYZ),WestJet B737 (C-FWCN),Landed 10:17,2021-06-11
+18,18,11:12 5T6060,,Edmonton (YEG),Canadian North B733 (C-GCNU),Landed 10:52,2021-06-11
+19,19,12:16 YP9,,Cross Lake (YCR),Perimeter Aviation SW3,Landed 12:18,2021-06-11
+20,20,12:17 WQ918,,Milwaukee (MKE),DHL B734 (N307GT),Landed 12:06,2021-06-11
+21,21,12:24 WS268,,Calgary (YYC),WestJet B737 (C-GWAZ),Landed 12:36,2021-06-11
+22,22,12:34 SLQ7746,,Regina (YQR),SkyLink Express B190,Canceled,2021-06-11
+23,23,12:39 YP1,,Island Lake (YIV),Perimeter Aviation SW3,Landed 12:41,2021-06-11
+24,24,13:09 AC8544,,Vancouver (YVR),Air Canada Express CRJ9 (C-GJHZ),Landed 12:57,2021-06-11
+25,25,15:27 YP1710,,Regina (YQR),Perimeter Aviation SW4,Landed 15:29,2021-06-11
+26,26,15:54 YP13,,The Pas (YQD),Perimeter Aviation SW3,Landed 15:57,2021-06-11
+27,27,17:39 MAL7060,,Thunder Bay (YQT),FedEx C208 (C-FEXE),Landed 17:38,2021-06-11
+28,28,17:49 AC8546,,Vancouver (YVR),Air Canada Express CRJ9 (C-GJIZ),Landed 17:48,2021-06-11
+29,29,18:24 TGO860,,Thunder Bay (YQT),Department of Transport - Canada C550 (C-FMFM),Landed 17:43,2021-06-11
+30,30,18:30 MO307,,Rankin Inlet (YRT),Calm Air 73Q,Unknown,2021-06-11
+31,31,18:30 5T157,,Rankin Inlet (YRT),Canadian North B734 (C-FFNF),Landed 18:18,2021-06-11
+32,32,18:36 SLQ721,,Regina (YQR),SkyLink Express B190,Landed 18:23,2021-06-11
+33,33,19:02 YP11,,Lynn Lake (YYL),Perimeter Aviation SW3,Landed 19:06,2021-06-11
+34,34,19:28 PUL106,,Thunder Bay (YQT),Ornge Air PC12 (C-GRXM),Diverted to YXL,2021-06-11
+35,35,19:50 YP1210,,Thompson (YTH),Perimeter Aviation DH8A,Unknown,2021-06-11
+36,36,20:53 YP1550,,Red Sucker Lake (YRS),Perimeter Aviation DH8C,Landed 20:41,2021-06-11
+37,37,20:57,,Churchill (YYQ),- C55B (C-FBRT),Landed 21:16,2021-06-11
+38,38,21:45 MO129,,Flin Flon (YFO),Calm Air AT43,Landed 21:27,2021-06-11
+39,39,22:05,AC271,Toronto (YYZ),Air Canada B38M (C-FSDQ),Landed 22:00,2021-06-11
+40,40,22:11 YP7,,The Pas (YQD),Perimeter Aviation SW3,Landed 22:13,2021-06-11
+41,41,22:20 YP2191,,Thompson (YTH),Perimeter Aviation DH8A,Landed 22:09,2021-06-11
+42,42,23:15 W8587,,Thunder Bay (YQT),Cargojet Airways AT43,Landed 22:57,2021-06-11
+0,0,12:08 AM WS526,,Calgary (YYC),WestJet B737 (C-GWAZ),Landed 12:05 AM,2021-06-12
+1,1,1:45 AM W8550,,Calgary (YYC),Cargojet Airways B763 (C-FMIJ),Landed 1:29 AM,2021-06-12
+2,2,1:45 AM W8554,,Edmonton (YEG),Cargojet Airways B763 (C-GOCJ),Landed 1:10 AM,2021-06-12
+3,3,2:10 AM W8592,,Saskatoon (YXE),Cargojet Airways B752 (C-GTCJ),Landed 2:45 AM,2021-06-12
+4,4,3:50 AM W8551,,Hamilton (YHM),Cargojet Airways B762 (C-FGAJ),Landed 3:32 AM,2021-06-12
+5,5,4:20 AM W8555,,Hamilton (YHM),Cargojet Airways B763 (C-FDIJ),Landed 4:02 AM,2021-06-12
+6,6,5:44 AM CNK301,,Calgary (YYC),Sunwest Aviation B190 (C-GSWZ),Unknown,2021-06-12
+7,7,7:50 AM,,Sioux Lookout (YXL),- PC12 (C-GRXM),Diverted to YPM,2021-06-12
+8,8,7:57 AM 5X496,,Fargo (FAR),UPS B752 (N424UP),Landed 8:17 AM,2021-06-12
+9,9,9:17 AM CPT8065,,Fargo (FAR),FedEx C208 (N751FE),Landed 9:04 AM,2021-06-12
+10,10,9:43 AM CWA935,,Edmonton (YEG),CanWest Air B350 (C-GLUD),Landed 9:43 AM,2021-06-12
+11,11,9:55 AM,AC259,Toronto (YYZ),Air Canada A320 (C-FGJI),Landed 9:37 AM,2021-06-12
+12,12,12:15 PM,F8187,Calgary (YYC),Flair Airlines B38M (C-FFEL),Landed 12:18 PM,2021-06-12
+13,13,12:48 PM,,Sioux Lookout (YXL),- PC12 (C-GRXM),Landed 1:07 PM,2021-06-12
+14,14,1:09 PM AC8544,,Vancouver (YVR),Air Canada Express CRJ9 (C-GJIZ),Landed 12:48 PM,2021-06-12
+15,15,1:23 PM,,Sudbury (YSB),- T206 (C-GAGT),Unknown,2021-06-12
+16,16,1:47 PM YP1710,,The Pas (YQD),Perimeter Aviation SW4,Landed 1:36 PM,2021-06-12
+17,17,2:25 PM AC7114,,Calgary (YYC),Air Canada Express DH8C (C-GHTA),Landed 2:16 PM,2021-06-12
+18,18,2:45 PM,,Rankin Inlet (YRT),- B734,Unknown,2021-06-12
+19,19,2:47 PM,,Vernon (YVE),- TBM9 (C-GXJS),Landed 2:22 PM,2021-06-12
+20,20,3:35 PM YP1760,,Gods Lake Narrows (YGO),Perimeter Aviation SW4 (C-GAMI),Landed 3:25 PM,2021-06-12
+21,21,4:37 PM,,Sioux Lookout (YXL),- PC12 (C-GRXM),Landed 5:17 PM,2021-06-12
+22,22,4:48 PM YP1720,,Pikangikum (YPM),Perimeter Aviation SW4,Landed 4:49 PM,2021-06-12
+23,23,5:49 PM AC8546,,Vancouver (YVR),Air Canada Express CRJ9 (C-FKJZ),Landed 5:30 PM,2021-06-12
+24,24,6:38 PM,,Winnipeg (YWG),- BE20,Landed 9:13 AM,2021-06-12
+25,25,7:20 PM,F8186,Ottawa (YOW),Flair Airlines B38M (C-FFEL),Landed 7:12 PM,2021-06-12
+26,26,9:23 PM YP11,,Island Lake (YIV),Perimeter Aviation SW3,Landed 9:24 PM,2021-06-12
+27,27,10:15 PM,,Rankin Inlet (YRT),- B734,Unknown,2021-06-12
+0,0,00:08 WS526,,Calgary (YYC),WestJet B737 (C-GSWJ),Landed 23:54,2021-06-13
+1,1,05:52 CNK301,,Calgary (YYC),Sunwest Aviation SW4 (C-GSAF),Landed 05:38,2021-06-13
+2,2,06:05 YP11,,Island Lake (YIV),Perimeter Aviation SW3,Landed 06:03,2021-06-13
+3,3,07:43 PUL107,,Kenora (YQK),Ornge Air PC12,Landed 07:23,2021-06-13
+4,4,08:45,F8312,Toronto (YYZ),Flair Airlines B738 (C-FFLC),Landed 09:09,2021-06-13
+5,5,08:57 FK209,,Rankin Inlet (YRT),Keewatin Air -,Unknown,2021-06-13
+6,6,09:01 WO147,,Hamilton (YHM),Swoop B738 (C-GDMP),Landed 08:47,2021-06-13
+7,7,09:55,AC259,Toronto (YYZ),Air Canada BCS3 (C-GJYE),Landed 09:48,2021-06-13
+8,8,10:35 WS305,,Toronto (YYZ),WestJet B737 (C-GWBJ),Landed 10:23,2021-06-13
+9,9,11:47 YP1020,,Gods Lake Narrows (YGO),Perimeter Aviation SW4 (C-GAMI),Landed 11:35,2021-06-13
+10,10,12:24 WS268,,Calgary (YYC),WestJet B737 (C-GSWJ),Landed 12:13,2021-06-13
+11,11,12:25 PUL106,,Sioux Lookout (YXL),Ornge Air PC12 (C-GRXM),Landed 13:30,2021-06-13
+12,12,12:49,,Toronto (YKZ),- TBM9 (C-GXJS),Landed 12:22,2021-06-13
+13,13,13:09 AC8544,,Vancouver (YVR),Air Canada Express CRJ9 (C-FCJZ),Landed 13:00,2021-06-13
+14,14,14:01 WO164,,Abbotsford (YXX),Swoop B738 (C-GXRW),Landed 13:43,2021-06-13
+15,15,14:30,,Toronto (YTZ),- SW4 (C-FIOB),Landed 14:43,2021-06-13
+16,16,15:55 YP1030,,St. Theresa Point (YST),Perimeter Aviation SW4 (C-GAMI),Landed 15:46,2021-06-13
+17,17,16:05,F8311,Vancouver (YVR),Flair Airlines B738 (C-FFLC),Landed 16:34,2021-06-13
+18,18,16:17 YP2,,Churchill (YYQ),Perimeter Aviation SW4,Landed 16:06,2021-06-13
+19,19,16:55 MO241,,Sanikiluaq (YSK),Calm Air AT4,Unknown,2021-06-13
+20,20,17:49 AC8546,,Vancouver (YVR),Air Canada Express CRJ9 (C-GJHZ),Landed 17:52,2021-06-13
+21,21,18:30 MO307,,Rankin Inlet (YRT),Calm Air 732,Unknown,2021-06-13
+22,22,18:30 5T157,,Rankin Inlet (YRT),Canadian North B734 (C-FFNF),Landed 18:00,2021-06-13
+23,23,19:40 YP1570,,Shamattawa (ZTM),Perimeter Aviation DH8C,Landed 19:27,2021-06-13
+24,24,20:08 YP1510,,St. Theresa Point (YST),Perimeter Aviation DH8C,Landed 20:09,2021-06-13
+25,25,21:45 MO129,,Flin Flon (YFO),Calm Air AT72,Landed 21:15,2021-06-13
+26,26,22:05,AC271,Toronto (YYZ),Air Canada A320 (C-FXCD),Landed 21:46,2021-06-13
+27,27,23:16 YP11,,Norway House (YNE),Perimeter Aviation SW3,Landed 23:18,2021-06-13
+0,0,00:08,WS526,Calgary (YYC),WestJet B737 (C-GSWJ),Landed 00:00,2021-06-14
+1,1,03:16 YP9,,Island Lake (YIV),Perimeter Aviation SW3,Landed 03:17,2021-06-14
+2,2,03:33 FK209,,Churchill (YYQ),Keewatin Air -,Unknown,2021-06-14
+3,3,05:59 FX134,,Memphis (MEM),FedEx A306 (N732FD),Landed 06:04,2021-06-14
+4,4,06:09 CNK301,,Calgary (YYC),Sunwest Aviation SW4 (C-GSAF),Landed 06:17,2021-06-14
+5,5,06:46 WQ918,,Cincinnati (CVG),DHL B734 (N307GT),Landed 06:21,2021-06-14
+6,6,09:55,AC259,Toronto (YYZ),Air Canada BCS3 (C-GTZS),Unknown,2021-06-14
+7,7,12:29 WS3417,,Thunder Bay (YQT),WestJet DH8D (C-GWEU),Landed 12:04,2021-06-14
+8,8,12:51 YP1510,,Winnipeg (YWG),Perimeter Aviation DH8A (C-FUQY),Landed 13:37,2021-06-14
+9,9,13:09 AC8544,,Vancouver (YVR),Air Canada Express CRJ9 (C-FJJZ),Landed 12:57,2021-06-14
+10,10,13:37 YP1510,,Little Grand Rapids (ZGR),Perimeter Aviation DH8A,Unknown,2021-06-14
+11,11,14:23,,Winnipeg (YWG),- BE20,Landed 15:36,2021-06-14
+12,12,14:30 MO301,,Rankin Inlet (YRT),Calm Air 73Q,Unknown,2021-06-14
+13,13,14:30 5T151,,Rankin Inlet (YRT),Canadian North B734 (C-FFNF),Landed 14:14,2021-06-14
+14,14,15:43 YP1710,,Shamattawa (ZTM),Perimeter Aviation SW4,Landed 15:32,2021-06-14
+15,15,17:36,,Red Sucker Lake (YRS),- C441,Unknown,2021-06-14
+16,16,17:49 AC8546,,Vancouver (YVR),Air Canada Express CRJ9 (C-FDJZ),Landed 17:53,2021-06-14
+17,17,17:50 MAL7060,,Thunder Bay (YQT),FedEx C208 (C-FEXH),Landed 17:50,2021-06-14
+18,18,18:30 SLQ721,,Regina (YQR),SkyLink Express B190,Landed 18:14,2021-06-14
+19,19,18:50 MO117,,Thompson (YTH),Calm Air AT7,Unknown,2021-06-14
+20,20,19:46,,Thunder Bay (YQT),- B350 (C-GVCU),Landed 19:34,2021-06-14
+21,21,20:15 MO509,,Gillam (YGX),Calm Air AT43,Landed 19:48,2021-06-14
+22,22,20:22 YP11,,Oxford House (YOH),Perimeter Aviation SW3,Diverted to YIV,2021-06-14
+23,23,22:00 MO303,,Rankin Inlet (YRT),Calm Air 73Q,Unknown,2021-06-14
+24,24,22:00 5T153,,Rankin Inlet (YRT),Canadian North B734 (C-FFNF),Landed 21:20,2021-06-14
+25,25,22:05,AC271,Toronto (YYZ),Air Canada B38M (C-GEJL),Landed 21:48,2021-06-14
+26,26,22:15 W8587,,Thunder Bay (YQT),First Air AT43 (C-FIQU),Landed 22:05,2021-06-14
+27,27,22:19 YP7,,Thompson (YTH),Perimeter Aviation SW3,Landed 22:20,2021-06-14
+28,28,22:27 YP11,,Island Lake (YIV),Perimeter Aviation SW3,Landed 22:28,2021-06-14
+29,29,23:35 W8590,,Regina (YQR),Cargojet Airways B752 (C-GTCJ),Landed 23:07,2021-06-14
+0,0,00:05 W8566,,Calgary (YYC),Cargojet Airways B763 (C-FCCJ),Landed 00:20,2021-06-15
+1,1,00:05 W8570,,Vancouver (YVR),Cargojet Airways B763 (C-FMIJ),Landed 23:58,2021-06-15
+2,2,00:08,WS526,Calgary (YYC),WestJet B737 (C-GCWJ),Landed 00:08,2021-06-15
+3,3,00:30 W8574,,Edmonton (YEG),Cargojet Airways B762 (C-FGAJ),Landed 00:29,2021-06-15
+4,4,01:05 MAL7070,,Calgary (YYC),FedEx B752 (N978FD),Landed 22:50,2021-06-15
+5,5,01:30 W8567,,Montreal (YMX),Cargojet Airways B763 (C-GOCJ),Landed 01:28,2021-06-15
+6,6,02:16 MAL7088,,Calgary (YYC),FedEx AT72 (C-FTAR),Landed 02:05,2021-06-15
+7,7,02:45 W8571,,Hamilton (YHM),Cargojet Airways B763 (C-GAJG),Landed 02:24,2021-06-15
+8,8,02:50 W8573,,Hamilton (YHM),Cargojet Airways B763 (C-FDIJ),Landed 02:44,2021-06-15
+9,9,04:22 YP2,,Island Lake (YIV),Perimeter Aviation SWM,Landed 04:25,2021-06-15
+10,10,04:35 MAL7940,,Toronto (YYZ),FedEx B752 (C-FMFG),Landed 04:17,2021-06-15
+11,11,04:48 MAL7050,,Toronto (YYZ),FedEx B752 (N978FD),Landed 02:52,2021-06-15
+12,12,06:16 CNK301,,Calgary (YYC),Sunwest Aviation SW4 (C-GSAF),Landed 06:32,2021-06-15
+13,13,07:29 5X496,,Minneapolis (MSP),UPS B752 (N465UP),Landed 07:50,2021-06-15
+14,14,07:36 FX134,,Memphis (MEM),FedEx A306 (N726FD),Unknown,2021-06-15
+15,15,09:55,AC259,Toronto (YYZ),Air Canada BCS3 (C-GNGV),Landed 09:42,2021-06-15
+16,16,10:27 MAL8940,,Thunder Bay (YQT),FedEx C208 (C-FEXE),Unknown,2021-06-15
+17,17,11:00 WQ918,,Milwaukee (MKE),DHL B734 (N307GT),Landed 10:43,2021-06-15
+18,18,11:05 FK209,,Rankin Inlet (YRT),Keewatin Air BE20,Unknown,2021-06-15
+19,19,12:24 WS268,,Calgary (YYC),WestJet B737 (C-GCWJ),Landed 12:19,2021-06-15
+20,20,12:46 YP1733,,Gillam (YGX),Perimeter Aviation SW4,Landed 12:48,2021-06-15
+21,21,13:09 AC8544,,Vancouver (YVR),Air Canada Express CRJ9 (C-FKJZ),Landed 12:55,2021-06-15
+22,22,13:15 YP1533,,Big Trout (YTL),Perimeter Aviation DH8A,Landed 13:16,2021-06-15
+23,23,14:34 SLQ7746,,Regina (YQR),SkyLink Express B190,Landed 14:01,2021-06-15
+24,24,15:00 MO141,,Churchill (YYQ),Calm Air AT43,Landed 14:36,2021-06-15
+25,25,15:16,,Cat Lake (YAC),- C441,Unknown,2021-06-15
+26,26,16:19,,Red Lake (YRL),- C441,Canceled,2021-06-15
+27,27,16:55 MO241,,Sanikiluaq (YSK),Calm Air AT4,Unknown,2021-06-15
+28,28,16:58,,Winnipeg (YWG),- BE20,Landed 12:00,2021-06-15
+29,29,17:03 YP1530,,St. Theresa Point (YST),Perimeter Aviation DH8C,Landed 17:05,2021-06-15
+30,30,17:25,,Winnipeg (YWG),- -,Unknown,2021-06-15
+31,31,17:33 MAL7060,,Thunder Bay (YQT),FedEx C208 (C-FEXH),Landed 17:33,2021-06-15
+32,32,17:49 AC8546,,Vancouver (YVR),Air Canada Express CRJ9 (C-FJZD),Landed 18:16,2021-06-15
+33,33,18:24 YP9,,Cross Lake (YCR),Perimeter Aviation SW3,Landed 18:25,2021-06-15
+34,34,18:30 MO307,,Rankin Inlet (YRT),Calm Air 732,Unknown,2021-06-15
+35,35,18:30 5T157,,Rankin Inlet (YRT),Canadian North B734 (C-FFNF),Landed 18:04,2021-06-15
+36,36,18:31 SLQ721,,Regina (YQR),SkyLink Express B190,Landed 18:08,2021-06-15
+37,37,18:50 MO117,,Thompson (YTH),Calm Air AT7,Unknown,2021-06-15
+38,38,21:00 WSG485,,Sioux Lookout (YXL),Wasaya Airways B190 (C-FQWA),Landed 20:40,2021-06-15
+39,39,22:05,AC271,Toronto (YYZ),Air Canada B38M (C-FSNQ),Landed 21:50,2021-06-15
+40,40,22:15 W8587,,Thunder Bay (YQT),First Air AT43 (C-FIQU),Landed 21:59,2021-06-15
+41,41,23:35 W8590,,Regina (YQR),Cargojet Airways B752 (C-GTCJ),Landed 22:56,2021-06-15

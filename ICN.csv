@@ -37402,3 +37402,1523 @@
 153,153,23:35,KL832,Hangzhou (HGH),KLM B772 (PH-BQC),Landed 23:07,2021-06-07
 154,154,23:55 LH8385,,Tokyo (NRT),Lufthansa Cargo B77L (D-ALFF),Landed 23:35,2021-06-07
 155,155,23:55 LH8384,,Tokyo (NRT),Lufthansa 77X,Unknown,2021-06-07
+0,0,00:00 PO276,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-08
+1,1,00:05 KE8208,,Los Angeles (LAX),Korean Air B741,Unknown,2021-06-08
+2,2,00:15 PO715,,Los Angeles (LAX),Atlas Air B744 (N445MC),Landed 23:19,2021-06-08
+3,3,00:35 OZ2511,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-08
+4,4,00:35 KE354,,Singapore (SIN),Korean Air 74Y,Unknown,2021-06-08
+5,5,01:00 OZ7761,,Haiphong (HPH),Asiana Airlines A21N (HL8364),Landed 00:17,2021-06-08
+6,6,01:35 9S247,,New York (JFK),Southern Air B77L (N703GT),Landed 02:20,2021-06-08
+7,7,01:35 OZ2057,,Los Angeles (LAX),Asiana Airlines A359 (HL7578),Landed 01:31,2021-06-08
+8,8,01:45 KE8016,,Los Angeles (LAX),Korean Air B77W (HL8347),Landed 01:49,2021-06-08
+9,9,01:55 NH8535,,Tokyo (NRT),ANA Cargo B763 (JA604F),Landed 01:14,2021-06-08
+10,10,02:00 OZ281,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-08
+11,11,02:45 KE530,,Frankfurt (FRA),Korean Air Cargo B77L (HL8046),Landed 01:19,2021-06-08
+12,12,02:45 KE9060,,Columbus (LCK),Korean Air B77W (HL8209),Landed 01:46,2021-06-08
+13,13,02:55 HT3813,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-08
+14,14,03:30 YG9073,,Yancheng (YNZ),YTO Cargo Airlines 73F,Unknown,2021-06-08
+15,15,03:30 KE8204,,Los Angeles (LAX),Korean Air Cargo B744 (HL7602),Landed 04:27,2021-06-08
+16,16,03:35 PO224,,Nagoya (NGO),DHL B763 (N644GT),Unknown,2021-06-08
+17,17,03:40 5X39,,Sydney (SYD),UPS B748 (N605UP),Landed 03:59,2021-06-08
+18,18,03:50 CF221,,Zhengzhou (CGO),China Postal Airlines 73F,Unknown,2021-06-08
+19,19,03:55 HT3815,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-08
+20,20,04:06 KD6351,,Anchorage (ANC),Western Global Airlines MD11 (N545JN),Landed 04:15,2021-06-08
+21,21,04:20,OZ203,Los Angeles (LAX),Asiana Airlines A359 (HL8359),Landed 04:02,2021-06-08
+22,22,04:20 7C2306,,Manila (MNL),Jeju Air 738,Unknown,2021-06-08
+23,23,04:30,OZ211,San Francisco (SFO),Asiana Airlines A359 (HL7771),Landed 03:53,2021-06-08
+24,24,04:40 GI4119,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-08
+25,25,04:45 8Y700,,Kalibo (KLO),Pan Pacific Airlines 320,Unknown,2021-06-08
+26,26,05:00,KE12,Los Angeles (LAX),Korean Air B77W (HL8009),Landed 04:11,2021-06-08
+27,27,05:00 KE624,,Manila (MNL),Korean Air A333 (HL8025),Landed 04:18,2021-06-08
+28,28,05:00 8Y600,,Cebu (CEB),Pan Pacific Airlines 320,Unknown,2021-06-08
+29,29,05:00 OZ2513,,Atlanta (ATL),Asiana Airlines A359 (HL8079),Landed 05:13,2021-06-08
+30,30,05:05 LJ702,,Dhaka (DAC),Jin Air B738 (HL8246),Landed 05:30,2021-06-08
+31,31,05:10 OZ704,,Manila (MNL),Asiana Airlines A333 (HL7793),Landed 03:56,2021-06-08
+32,32,05:10 5Y523,,Chicago (ORD),Atlas Air B744 (N487MC),Landed 08:00,2021-06-08
+33,33,05:25 KE680,,Hanoi (HAN),Korean Air A333 (HL7525),Landed 04:49,2021-06-08
+34,34,05:50,OZ734,Hanoi (HAN),Asiana Airlines A321 (HL8038),Landed 06:00,2021-06-08
+35,35,05:55 KE316,,Shanghai (PVG),Korean Air Cargo B77L (HL8075),Landed 05:58,2021-06-08
+36,36,05:55,TW108,Macau (MFM),T'way Air 737,Canceled,2021-06-08
+37,37,06:05,KE26,San Francisco (SFO),Korean Air A332 (HL8228),Landed 05:55,2021-06-08
+38,38,06:05,TW122,Ho Chi Minh City (SGN),T'way Air 737,Canceled,2021-06-08
+39,39,06:25,LH8404,Shanghai (PVG),Lufthansa Cargo B77L (D-ALFD),Landed 07:03,2021-06-08
+40,40,06:30 OZ241,,Seattle (SEA),Asiana Cargo B744 (HL7413),Landed 05:50,2021-06-08
+41,41,06:32 5Y8141,,Chicago (ORD),Atlas Air B744 (N499MC),Landed 06:25,2021-06-08
+42,42,06:35,TW128,Da Nang (DAD),T'way Air 737,Canceled,2021-06-08
+43,43,06:45 OZ970,,Hong Kong (HKG),Asiana Airlines 74F,Unknown,2021-06-08
+44,44,06:50,KE684,Ho Chi Minh City (SGN),Korean Air A333 (HL8002),Landed 06:34,2021-06-08
+45,45,06:50 OZ762,,Jakarta (CGK),Asiana Airlines A359 (HL8381),Landed 06:48,2021-06-08
+46,46,06:55 TG656,,Bangkok (BKK),Thai Airways 773,Unknown,2021-06-08
+47,47,06:55 7C2406,,Cebu (CEB),Jeju Air 738,Unknown,2021-06-08
+48,48,07:10 OZ988,,Shanghai (PVG),Asiana Cargo B744 (HL7419),Landed 18:27,2021-06-08
+49,49,07:25,KE652,Bangkok (BKK),Korean Air A333 (HL7710),Landed 07:13,2021-06-08
+50,50,07:25 7C2804,,Hanoi (HAN),Jeju Air 738,Unknown,2021-06-08
+51,51,07:30 GI4116,,Linyi (LYI),Longhao Airlines 73F,Unknown,2021-06-08
+52,52,07:45 LD128,,Hong Kong (HKG),DHL A306 (B-LDE),Landed 07:39,2021-06-08
+53,53,07:50 KE314,,Hong Kong (HKG),Korean Air Cargo B748 (HL7610),Landed 09:52,2021-06-08
+54,54,07:55 KE214,,San Francisco (SFO),Korean Air Cargo B748 (HL7609),Landed 07:18,2021-06-08
+55,55,08:00 GI4231,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-08
+56,56,08:00 OZ283,,San Francisco (SFO),Asiana Airlines 74F,Unknown,2021-06-08
+57,57,08:00 GI4238,,Yantai (YNT),Longhao Airlines 73F,Unknown,2021-06-08
+58,58,08:20 KE320,,Guangzhou (CAN),Korean Air Cargo B77L (HL8285),Landed 08:02,2021-06-08
+59,59,08:40 KE336,,Shanghai (PVG),Korean Air Cargo B744 (HL7602),Landed 13:06,2021-06-08
+60,60,08:55 KL895,,Amsterdam (AMS),KLM B77W (PH-BVP),Landed 08:33,2021-06-08
+61,61,08:55 LO2001,,Budapest (BUD),LOT B788 (SP-LRG),Landed 08:07,2021-06-08
+62,62,08:55 OZ948,,Shanghai (PVG),Asiana Airlines 74F,Unknown,2021-06-08
+63,63,08:55 FX5230,,Anchorage (ANC),FedEx B77L (N888FD),Landed 08:49,2021-06-08
+64,64,09:01 RU139,,Moscow (SVO),AirBridgeCargo B744 (VP-BIK),Landed 03:06,2021-06-08
+65,65,09:15,OZ742,Bangkok (BKK),Asiana Airlines A333 (HL7795),Landed 08:30,2021-06-08
+66,66,10:10 OZ2831,,San Francisco (SFO),Asiana Cargo B744 (HL7419),Landed 08:45,2021-06-08
+67,67,10:15 AA9819,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-08
+68,68,10:15 KE362,,Hanoi (HAN),Korean Air Cargo B744 (HL7603),Landed 09:59,2021-06-08
+69,69,10:15 TW164,,Hanoi (HAN),T'way Air 737,Canceled,2021-06-08
+70,70,10:20 OZ193,,Tokyo (NRT),Asiana Cargo B744 (HL7420),Landed 21:34,2021-06-08
+71,71,10:20 OZ1971,,Tokyo (NRT),Asiana Airlines 76F,Unknown,2021-06-08
+72,72,11:00 UA2770,,Chicago (ORD),United Airlines B789 (N17963),Landed 10:39,2021-06-08
+73,73,11:00 CI160,,Taipei (TPE),China Airlines B77W (B-18002),Landed 10:56,2021-06-08
+74,74,11:00 K4247,,Anchorage (ANC),Kalitta Air B744 (N708CK),Landed 11:13,2021-06-08
+75,75,11:05 CK257,,Shanghai (PVG),China Cargo Airlines B77L (B-220E),Landed 02:24,2021-06-08
+76,76,11:05 PO9693,,Los Angeles (LAX),DHL B748 (N857GT),Landed 12:29,2021-06-08
+77,77,11:15 AA9704,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-08
+78,78,11:20 LH8400,,Shanghai (PVG),Lufthansa Cargo B77L (D-ALFC),Landed 11:07,2021-06-08
+79,79,11:40 ZG41,,Tokyo (NRT),ZIPAIR B788 (JA822J),Landed 11:17,2021-06-08
+80,80,11:45 AC7291,,Vancouver (YVR),Air Canada B77W (C-FIVW),Landed 11:04,2021-06-08
+81,81,11:46 OZ2911,,Anchorage (ANC),Asiana Cargo B744 (HL7618),Landed 12:00,2021-06-08
+82,82,11:50 KE8910,,Frankfurt (FRA),Korean Air B77W (HL7202),Landed 11:14,2021-06-08
+83,83,11:55 CA139,,Hangzhou (HGH),Air China A319 (B-6023),Landed 11:49,2021-06-08
+84,84,12:20 GJ8701,,Linyi (LYI),Loong Air 73F,Unknown,2021-06-08
+85,85,12:35 AA127,,Dallas (DFW),American Airlines B789 (N822AN),Unknown,2021-06-08
+86,86,12:45 OZ588,,Brussels (BRU),Asiana Cargo B744 (HL7420),Landed 12:38,2021-06-08
+87,87,12:55 AC7297,,Toronto (YYZ),Air Canada B789 (C-FRSE),Landed 12:53,2021-06-08
+88,88,12:55 KJ232,,Yantai (YNT),Air Incheon B738 (HL8338),Landed 15:46,2021-06-08
+89,89,13:30 KE8536,,Frankfurt (FRA),Korean Air 77X,Unknown,2021-06-08
+90,90,13:35 OZ952,,Hong Kong (HKG),Asiana Airlines 74F,Unknown,2021-06-08
+91,91,13:45 PO8997,,Cincinnati (CVG),DHL B748 (N858GT),Landed 13:41,2021-06-08
+92,92,13:45 KD5271,,Anchorage (ANC),Western Global Airlines MD11 (N513SN),Landed 14:13,2021-06-08
+93,93,13:50 OZ247,,Anchorage (ANC),Asiana Airlines B744 (HL7421),Unknown,2021-06-08
+94,94,13:50 7C1301,,Osaka (KIX),Jeju Air 738,Unknown,2021-06-08
+95,95,13:55 OZ243,,Seattle (SEA),Asiana Airlines 74F,Unknown,2021-06-08
+96,96,14:05 TW670,,Taichung (RMQ),T'way Air 737,Canceled,2021-06-08
+97,97,14:10 7C1401,,Fukuoka (FUK),Jeju Air 738,Unknown,2021-06-08
+98,98,14:20 AA9718,,Dallas (DFW),American Airlines B788 (N810AN),Landed 12:43,2021-06-08
+99,99,14:20 KE806,,Tianjin (TSN),Korean Air A333 (HL7587),Landed 14:50,2021-06-08
+100,100,14:25 AC7281,,Toronto (YYZ),Air Canada B77W (C-FNNQ),Landed 14:21,2021-06-08
+101,101,14:25 EY876,,Abu Dhabi (AUH),Etihad (Abu Dhabi Grand Prix Livery) B789 (A6-BLV),Landed 14:10,2021-06-08
+102,102,14:35 KE908,,London (LHR),Korean Air B77W (HL8042),Landed 13:56,2021-06-08
+103,103,14:40 AF198,,Paris (CDG),Air France B77W (F-GSQL),Landed 14:04,2021-06-08
+104,104,14:45 KE8514,,Milan (MXP),Korean Air 77X,Unknown,2021-06-08
+105,105,14:55 KL855,,Amsterdam (AMS),KLM B77W (PH-BVO),Landed 14:38,2021-06-08
+106,106,15:05 PO751,,Anchorage (ANC),Polar Air Cargo B744,Unknown,2021-06-08
+107,107,15:05 UA893,,San Francisco (SFO),United Airlines B789 (N45956),Landed 15:00,2021-06-08
+108,108,15:05 7C2602,,Taipei (TPE),Jeju Air 738,Unknown,2021-06-08
+109,109,15:10 OZ304,,Changchun (CGQ),Asiana Airlines B744 (HL7428),Landed 15:08,2021-06-08
+110,110,15:15 AA281,,Dallas (DFW),American Airlines B788 (N815AA),Landed 15:49,2021-06-08
+111,111,15:20 DL27,,Atlanta (ATL),Delta Air Lines A359 (N514DN),Landed 15:20,2021-06-08
+112,112,15:20 KE74,,Toronto (YYZ),Korean Air B789 (HL8085),Landed 14:52,2021-06-08
+113,113,15:30 K4960,,Anchorage (ANC),Kalitta Air B744 (N713CK),Landed 15:24,2021-06-08
+114,114,15:35 SQ600,,Singapore (SIN),Singapore Airlines B78X (9V-SCO),Landed 15:10,2021-06-08
+115,115,15:35 8M801,,Yangon (RGN),Myanmar Airways International A319 (XY-ALK),Landed 16:12,2021-06-08
+116,116,15:40 AC61,,Toronto (YYZ),Air Canada B789 (C-FVNB),Landed 15:06,2021-06-08
+117,117,15:50 OZ101,,Tokyo (NRT),Asiana Airlines A21N (HL8364),Landed 15:27,2021-06-08
+118,118,15:55 KE250,,New York (JFK),Korean Air Cargo B77L (HL8077),Landed 14:45,2021-06-08
+119,119,16:00 8M803,,Yangon (RGN),Myanmar Airways International A320 (XY-ALJ),Landed 16:33,2021-06-08
+120,120,16:20 KE36,,Atlanta (ATL),Korean Air B789 (HL7208),Landed 16:42,2021-06-08
+121,121,16:20 KE364,,Penang (PEN),Korean Air 74Y,Unknown,2021-06-08
+122,122,16:35 7C1105,,Tokyo (NRT),Jeju Air 738,Canceled,2021-06-08
+123,123,16:35 KE38,,Chicago (ORD),Korean Air B77W (HL7203),Landed 15:17,2021-06-08
+124,124,16:40 KE20,,Seattle (SEA),Korean Air A333 (HL8003),Landed 16:44,2021-06-08
+125,125,16:40 KE32,,Dallas (DFW),Korean Air B789 (HL8082),Landed 17:05,2021-06-08
+126,126,16:50 KE692,,Taipei (TPE),Korean Air B789 (HL8084),Landed 16:09,2021-06-08
+127,127,16:55 QR858,,Doha (DOH),Qatar Airways B77W (A7-BED),Landed 16:28,2021-06-08
+128,128,17:00 EK322,,Dubai (DXB),Emirates B77W (A6-EQG),Landed 16:47,2021-06-08
+129,129,17:20 KE82,,New York (JFK),Korean Air B77W (HL7204),Landed 16:50,2021-06-08
+130,130,17:20 OZ221,,New York (JFK),Asiana Airlines A359 (HL8382),Landed 17:17,2021-06-08
+131,131,17:25 KJ234,,Yantai (YNT),Air Incheon 73F,Unknown,2021-06-08
+132,132,17:30 KE704,,Tokyo (NRT),Korean Air B789 (HL7206),Landed 17:11,2021-06-08
+133,133,17:30 PO717,,Tokyo (NRT),Polar Air Cargo 74Y,Unknown,2021-06-08
+134,134,17:35 OZ2811,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-08
+135,135,17:35 OZ2037,,Los Angeles (LAX),Asiana Airlines A359 (HL8360),Landed 17:45,2021-06-08
+136,136,17:40 TK90,,Istanbul (IST),Turkish Airlines B77W (TC-JJP),Landed 17:00,2021-06-08
+137,137,17:40 KE8232,,Chicago (ORD),Korean Air 77X,Unknown,2021-06-08
+138,138,17:50 KE18,,Los Angeles (LAX),Korean Air (SuperM Livery) B77W (HL8010),Landed 17:35,2021-06-08
+139,139,17:55 OZ384,,Singapore (SIN),Asiana Airlines 74F,Unknown,2021-06-08
+140,140,17:55 TW126,,Da Nang (DAD),T'way Air 737,Canceled,2021-06-08
+141,141,17:55 OZ383,,Singapore (SIN),Asiana Cargo B744 (HL7423),Unknown,2021-06-08
+142,142,18:15 7C2102,,Hong Kong (HKG),Jeju Air 738,Unknown,2021-06-08
+143,143,18:20 OZ998,,Tianjin (TSN),Asiana Cargo B763 (HL7507),Landed 17:39,2021-06-08
+144,144,18:30 RS822,,Qingdao (TAO),Air Seoul A321 (HL7789),Landed 18:45,2021-06-08
+145,145,18:40 CF201,,Xi'an (XIY),China Postal Airlines 73F,Unknown,2021-06-08
+146,146,18:45 KE318,,Tianjin (TSN),Korean Air Cargo B77L (HL8285),Landed 18:13,2021-06-08
+147,147,18:55 AA9733,,Los Angeles (LAX),American Airlines B772 (N759AN),Landed 13:34,2021-06-08
+148,148,18:55 7C3405,,Saipan (SPN),Jeju Air B738 (HL8316),Unknown,2021-06-08
+149,149,19:00 KE9808,,Xi'an (XIY),Korean Air A332 (HL8228),Landed 19:31,2021-06-08
+150,150,19:05 KE274,,Los Angeles (LAX),Korean Air Cargo B77L (HL8076),Landed 20:50,2021-06-08
+151,151,19:45 CI162,,Taipei (TPE),China Airlines A333 (B-18315),Landed 19:09,2021-06-08
+152,152,19:55 KE352,,Bangkok (BKK),Korean Air 77X,Unknown,2021-06-08
+153,153,19:55 KE9090,,New York (JFK),Korean Air B77W (HL8210),Landed 20:18,2021-06-08
+154,154,19:55 KE8242,,Dallas (DFW),Korean Air Cargo B77L (HL8005),Landed 21:29,2021-06-08
+155,155,20:00 VN416,,Hanoi (HAN),Vietnam Airlines A321 (VN-A606),Landed 19:28,2021-06-08
+156,156,20:05 AA128,,Shanghai (PVG),American Airlines B789 (N822AN),Landed 21:48,2021-06-08
+157,157,20:15 OZ2913,,Anchorage (ANC),Asiana Cargo B744 (HL7436),Landed 04:04,2021-06-08
+158,158,20:15 AC7298,,Shanghai (PVG),Air Canada B789 (C-FRSE),Landed 19:50,2021-06-08
+159,159,20:25 CX35,,Osaka (KIX),Cathay Pacific Cargo B748 (B-LJN),Landed 20:13,2021-06-08
+160,160,20:30 PO238,,Hong Kong (HKG),Polar Air Cargo 74Y,Unknown,2021-06-08
+161,161,20:50 KE554,,Osaka (KIX),Korean Air Cargo B748 (HL7623),Landed 22:00,2021-06-08
+162,162,20:50 7C2202,,Bangkok (BKK),Jeju Air 738,Unknown,2021-06-08
+163,163,21:00 VN5416,,Hanoi (HAN),Vietnam Airlines A321 (VN-A614),Landed 20:38,2021-06-08
+164,164,21:15 KE552,,Tokyo (NRT),Korean Air Cargo B748 (HL7610),Landed 20:31,2021-06-08
+165,165,21:15 7C3101,,Guam (GUM),Jeju Air 738,Unknown,2021-06-08
+166,166,21:20 KJ3116,,Tokyo (NRT),Air Incheon 73F,Unknown,2021-06-08
+167,167,21:30 7L121,,Baku (GYD),Silk Way West Airlines 74N,Unknown,2021-06-08
+168,168,21:35 PO7681,,New York (JFK),Polar Air Cargo 77F,Unknown,2021-06-08
+169,169,21:35 9S7681,,New York (JFK),DHL B77L (N777SA),Landed 21:32,2021-06-08
+170,170,22:00 7C3173,,Osaka (KIX),Jeju Air 737,Unknown,2021-06-08
+171,171,22:10 KE9232,,Chicago (ORD),Korean Air Cargo B744 (HL7601),Landed 22:05,2021-06-08
+172,172,22:35 KE8286,,Toronto (YYZ),Korean Air Cargo B77L (HL8251),Landed 22:02,2021-06-08
+173,173,22:35 PO9717,,Anchorage (ANC),DHL B744 (N453PA),Landed 00:07,2021-06-08
+174,174,22:41 5Y8049,,Miami (MIA),Atlas Air B744 (N418MC),Landed 22:21,2021-06-08
+175,175,22:50 KE8236,,Los Angeles (LAX),Korean Air B77L,Unknown,2021-06-08
+176,176,23:00 PO7970,,Cincinnati (CVG),Polar Air Cargo B744,Unknown,2021-06-08
+177,177,23:15 KE9080,,Toronto (YYZ),Korean Air B789 (HL8345),Landed 23:11,2021-06-08
+178,178,23:45 5Y9178,,Anchorage (ANC),Atlas Air B744 (N485MC),Landed 23:38,2021-06-08
+179,179,23:50 LH8385,,Tokyo (NRT),Lufthansa Cargo (Flying 100% CO₂ neutral Livery) B77L (D-ALFG),Landed 23:20,2021-06-08
+180,180,23:50 LH8384,,Tokyo (NRT),Lufthansa 77X,Unknown,2021-06-08
+181,181,23:50 5Y515,,Anchorage (ANC),Atlas Air B744 (N408MC),Landed 23:46,2021-06-08
+0,0,00:00 PO276,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-09
+1,1,00:05 5Y9327,,New York (JFK),Atlas Air B744 (N416MC),Landed 00:37,2021-06-09
+2,2,00:10 OZ2519,,Anchorage (ANC),Asiana Airlines B741,Unknown,2021-06-09
+3,3,00:25 KE288,,Anchorage (ANC),Korean Air Cargo B77L (HL8044),Landed 00:04,2021-06-09
+4,4,00:30 5Y2818,,Los Angeles (LAX),Atlas Air B744 (N429MC),Landed 23:41,2021-06-09
+5,5,00:35,AF193,Shanghai (PVG),Air France B77W (F-GSQL),Landed 00:33,2021-06-09
+6,6,00:35 5X37,,Honolulu (HNL),UPS B748 (N606UP),Landed 00:30,2021-06-09
+7,7,00:40 LH8475,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFA),Landed 00:27,2021-06-09
+8,8,00:40 LH8474,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFA),Unknown,2021-06-09
+9,9,01:10 PO97,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-09
+10,10,01:35 OZ2057,,Los Angeles (LAX),Asiana Airlines A359 (HL8078),Landed 01:15,2021-06-09
+11,11,01:45 KE8016,,Los Angeles (LAX),Korean Air B77W (HL8008),Landed 00:49,2021-06-09
+12,12,01:53 OZ247,,Anchorage (ANC),Asiana Airlines B744 (HL7421),Landed 01:49,2021-06-09
+13,13,01:55 NH8535,,Tokyo (NRT),ANA Cargo B763 (JA8323),Landed 01:24,2021-06-09
+14,14,02:20 CK257,,Shanghai (PVG),China Cargo Airlines B744 (B-2425),Unknown,2021-06-09
+15,15,02:27 K4812,,Anchorage (ANC),Kalitta Air B744 (N715CK),Landed 02:28,2021-06-09
+16,16,02:55,DL283,Detroit (DTW),Delta Air Lines A359 (N506DN),Landed 02:30,2021-06-09
+17,17,02:55 HT3813,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-09
+18,18,03:20 C88732,,Milan (MXP),Cargolux B744 (LX-TCV),Landed 04:18,2021-06-09
+19,19,03:30 QR8982,,Doha (DOH),Qatar Cargo B748 (A7-BGA),Landed 04:10,2021-06-09
+20,20,03:30 YG9073,,Yancheng (YNZ),YTO Cargo Airlines 73F,Unknown,2021-06-09
+21,21,03:35 PO224,,Nagoya (NGO),DHL B763 (N644GT),Landed 03:19,2021-06-09
+22,22,03:50 CF221,,Zhengzhou (CGO),China Postal Airlines 73F,Unknown,2021-06-09
+23,23,03:55 HT3815,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-09
+24,24,04:20,OZ203,Los Angeles (LAX),Asiana Airlines A359 (HL8308),Landed 03:33,2021-06-09
+25,25,04:20,7C2306,Manila (MNL),Jeju Air 738,Unknown,2021-06-09
+26,26,04:35 PO997,,Los Angeles (LAX),DHL B748 (N851GT),Landed 03:37,2021-06-09
+27,27,04:45 8Y700,,Kalibo (KLO),Pan Pacific Airlines 320,Unknown,2021-06-09
+28,28,05:00,KE12,Los Angeles (LAX),Korean Air B77W (HL8041),Landed 04:13,2021-06-09
+29,29,05:00 KE624,,Manila (MNL),Korean Air A333 (HL8026),Landed 04:16,2021-06-09
+30,30,05:00 8Y600,,Cebu (CEB),Pan Pacific Airlines 320,Unknown,2021-06-09
+31,31,05:00 OZ2513,,Atlanta (ATL),Asiana Airlines A359 (HL8361),Landed 04:47,2021-06-09
+32,32,05:00 KE8252,,New York (JFK),Korean Air Cargo B77L (HL8045),Landed 04:26,2021-06-09
+33,33,05:05,KE26,San Francisco (SFO),Korean Air A333 (HL8001),Landed 04:28,2021-06-09
+34,34,05:10 OZ704,,Manila (MNL),Asiana Airlines A333 (HL7793),Landed 04:08,2021-06-09
+35,35,05:25,KE680,Hanoi (HAN),Korean Air A333 (HL8027),Landed 04:55,2021-06-09
+36,36,05:25,KE608,Hong Kong (HKG),Korean Air B789 (HL7206),Landed 04:51,2021-06-09
+37,37,05:25,LJ642,Guam (GUM),Jin Air B738 (HL8246),Landed 06:34,2021-06-09
+38,38,05:25 9S8028,,Los Angeles (LAX),Southern Air B77L (N704GT),Landed 04:40,2021-06-09
+39,39,05:35 GI4119,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-09
+40,40,05:38 K4908,,Anchorage (ANC),DHL B744 (N743CK),Landed 03:29,2021-06-09
+41,41,05:38 K4908,,Anchorage (ANC),Kalitta Air B744 (N402KZ),Landed 05:58,2021-06-09
+42,42,05:50 KJ2626,,Chongqing (CKG),Air Incheon 73F,Unknown,2021-06-09
+43,43,05:55 KE542,,Oslo (OSL),Korean Air Cargo B77L (HL8043),Landed 04:43,2021-06-09
+44,44,05:55,TW108,Macau (MFM),T'way Air 737,Canceled,2021-06-09
+45,45,06:05,TW122,Ho Chi Minh City (SGN),T'way Air 737,Canceled,2021-06-09
+46,46,06:10 YG9061,,Xi'an (XIY),YTO Cargo Airlines 73F,Unknown,2021-06-09
+47,47,06:15 KE250,,New York (JFK),Korean Air B77L,Unknown,2021-06-09
+48,48,06:15 OZ3883,,Hanoi (HAN),Asiana Airlines 76F,Unknown,2021-06-09
+49,49,06:20 KE112,,Guam (GUM),Korean Air B789 (HL7208),Landed 05:22,2021-06-09
+50,50,06:30 KE9058,,Columbus (LCK),Korean Air B77W (HL8274),Landed 05:51,2021-06-09
+51,51,06:35,TW128,Da Nang (DAD),T'way Air 737,Canceled,2021-06-09
+52,52,06:40 OZ284,,San Francisco (SFO),Asiana Cargo B744 (HL7415),Unknown,2021-06-09
+53,53,06:45 OZ970,,Hong Kong (HKG),Asiana Cargo B744 (HL7420),Landed 11:53,2021-06-09
+54,54,06:50,KE684,Ho Chi Minh City (SGN),Korean Air A333 (HL8003),Landed 06:38,2021-06-09
+55,55,06:55 TG656,,Bangkok (BKK),Thai Airways B77W (HS-TKW),Landed 06:29,2021-06-09
+56,56,06:55,7C2406,Cebu (CEB),Jeju Air 738,Unknown,2021-06-09
+57,57,07:00,KE690,Phnom Penh (PNH),Korean Air B738 (HL8241),Landed 06:41,2021-06-09
+58,58,07:05,KE628,Jakarta (CGK),Korean Air A333 (HL8025),Landed 06:48,2021-06-09
+59,59,07:10,MH66,Kuala Lumpur (KUL),Malaysia Airlines A333 (9M-MTN),Landed 07:09,2021-06-09
+60,60,07:10,OZ736,Ho Chi Minh City (SGN),Asiana Airlines A333 (HL7736),Landed 07:07,2021-06-09
+61,61,07:10 OZ988,,Shanghai (PVG),Asiana Cargo B744 (HL7419),Landed 09:06,2021-06-09
+62,62,07:15,OZ740,Phnom Penh (PNH),Asiana Airlines A21N (HL8364),Landed 07:11,2021-06-09
+63,63,07:25,KE652,Bangkok (BKK),Korean Air B789 (HL8081),Landed 07:13,2021-06-09
+64,64,07:25,7C2804,Hanoi (HAN),Jeju Air 738,Unknown,2021-06-09
+65,65,07:45 KE314,,Hong Kong (HKG),Korean Air Cargo B748 (HL7610),Landed 09:13,2021-06-09
+66,66,07:45 LD128,,Hong Kong (HKG),DHL A306 (B-LDB),Landed 07:40,2021-06-09
+67,67,07:50 KJ212,,Chengdu (CTU),Air Incheon 73F,Unknown,2021-06-09
+68,68,08:00 OZ285,,San Francisco (SFO),Asiana Airlines 74F,Unknown,2021-06-09
+69,69,08:00 GI4238,,Yantai (YNT),Longhao Airlines 73F,Unknown,2021-06-09
+70,70,08:15,LH8430,Beijing (PEK),Lufthansa Cargo B77L (D-ALFF),Landed 08:43,2021-06-09
+71,71,08:20 AY41,,Helsinki (HEL),Finnair A359 (OH-LWH),Landed 07:39,2021-06-09
+72,72,08:30,GA878,Jakarta (CGK),Garuda Indonesia B77W (PK-GIE),Landed 08:05,2021-06-09
+73,73,08:35 KE214,,San Francisco (SFO),Korean Air Cargo B748 (HL7624),Landed 07:04,2021-06-09
+74,74,08:35 KE336,,Shanghai (PVG),Korean Air Cargo B77L (HL8044),Landed 08:04,2021-06-09
+75,75,08:35,KE646,Singapore (SIN),Korean Air B77W (HL8006),Landed 08:28,2021-06-09
+76,76,08:35 FX5230,,Memphis (MEM),FedEx B77L (N860FD),Landed 09:02,2021-06-09
+77,77,08:40 UL470,,Colombo (CMB),SriLankan Airlines A333 (4R-ALQ),Landed 08:37,2021-06-09
+78,78,08:45 KE324,,Xi'an (XIY),Korean Air Cargo B744 (HL7601),Landed 07:59,2021-06-09
+79,79,08:50 KE320,,Guangzhou (CAN),Korean Air Cargo B77L (HL8076),Landed 07:43,2021-06-09
+80,80,08:50 OZ9881,,Shanghai (PVG),Asiana Airlines 74F,Unknown,2021-06-09
+81,81,08:55 OZ948,,Shanghai (PVG),Asiana Airlines 74F,Unknown,2021-06-09
+82,82,09:15,OZ742,Bangkok (BKK),Asiana Airlines A333 (HL7794),Landed 08:33,2021-06-09
+83,83,09:15 K4945,,Cincinnati (CVG),Kalitta Air B744 (N741CK),Landed 09:01,2021-06-09
+84,84,10:00 VN5408,,Ho Chi Minh City (SGN),Vietnam Airlines B789 (VN-A868),Landed 09:09,2021-06-09
+85,85,10:15 AA9819,,Los Angeles (LAX),American Airlines B788 (N872AN),Unknown,2021-06-09
+86,86,10:15 PO237,,Cincinnati (CVG),Polar Air Cargo B744,Unknown,2021-06-09
+87,87,10:15 KE362,,Hanoi (HAN),Korean Air Cargo B744 (HL7603),Landed 10:06,2021-06-09
+88,88,10:15 TW164,,Hanoi (HAN),T'way Air 737,Canceled,2021-06-09
+89,89,10:20 KE234,,Seattle (SEA),Korean Air Cargo B748 (HL7639),Landed 09:35,2021-06-09
+90,90,10:20 OZ197,,Tokyo (NRT),Asiana Cargo B744 (HL7420),Landed 23:17,2021-06-09
+91,91,10:20 OZ388,,Hanoi (HAN),Asiana Airlines 76F,Unknown,2021-06-09
+92,92,10:20 KE8014,,Los Angeles (LAX),Korean Air B748 (HL7632),Landed 12:56,2021-06-09
+93,93,10:45 5X88,,Anchorage (ANC),UPS B748 (N620UP),Landed 09:55,2021-06-09
+94,94,11:00 ET3640,,Oslo (OSL),Ethiopian Cargo B77L (ET-ARK),Landed 09:16,2021-06-09
+95,95,11:00 CI160,,Taipei (TPE),China Airlines B77W (B-18003),Landed 10:44,2021-06-09
+96,96,11:05 CK257,,Shanghai (PVG),China Cargo Airlines B744 (B-2425),Landed 03:39,2021-06-09
+97,97,11:15 AA9704,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-09
+98,98,11:15 5X64,,Anchorage (ANC),UPS B748 (N611UP),Landed 11:00,2021-06-09
+99,99,11:20 LH8400,,Shanghai (PVG),Lufthansa Cargo (Cargo Human Care Livery) B77L (D-ALFI),Landed 11:50,2021-06-09
+100,100,11:25 LH712,,Frankfurt (FRA),Lufthansa A359 (D-AIXI),Landed 11:14,2021-06-09
+101,101,11:30 OM902,,Ulaanbaatar (UBN),MIAT Mongolian Airlines 73H,Canceled,2021-06-09
+102,102,11:45 AC7291,,Vancouver (YVR),Air Canada B77W (C-FKAU),Landed 11:38,2021-06-09
+103,103,11:45 OZ588,,Brussels (BRU),Asiana Airlines 74F,Unknown,2021-06-09
+104,104,11:55 AI1312,,Delhi (DEL),Air India B788 (VT-ANE),Landed 11:59,2021-06-09
+105,105,11:59 K4816,,Anchorage (ANC),Kalitta Air B744 (N706CK),Landed 11:48,2021-06-09
+106,106,12:05 KE530,,Frankfurt (FRA),Korean Air Cargo B77L (HL8046),Landed 12:06,2021-06-09
+107,107,12:10 SU5436,,Vladivostok (VVO),Aurora A319 (VP-BDM),Landed 12:04,2021-06-09
+108,108,12:20 GJ8701,,Linyi (LYI),Loong Air 73F,Unknown,2021-06-09
+109,109,12:35 KE592,,Madrid (MAD),Korean Air Cargo B748 (HL7617),Landed 11:43,2021-06-09
+110,110,12:35 DL284,,Shanghai (PVG),Delta Air Lines A359 (N506DN),Landed 12:36,2021-06-09
+111,111,12:35 AA9707,,Dallas (DFW),American Airlines B789 (N832AA),Landed 11:41,2021-06-09
+112,112,12:50 AC7279,,Vancouver (YVR),Air Canada B77W (C-FITW),Landed 12:18,2021-06-09
+113,113,12:55 AC7297,,Toronto (YYZ),Air Canada B77W (C-FIVX),Landed 12:38,2021-06-09
+114,114,12:55 KJ232,,Yantai (YNT),Air Incheon B738 (HL8338),Landed 16:03,2021-06-09
+115,115,13:00 CV7342,,Almaty (ALA),Cargolux B748 (LX-VCH),Landed 12:58,2021-06-09
+116,116,13:05 OZ2511,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-09
+117,117,13:25 ZH9031,,Shenzhen (SZX),Shenzhen Airlines B738 (B-5612),Landed 13:01,2021-06-09
+118,118,13:30 KE8536,,Frankfurt (FRA),Korean Air 77X,Unknown,2021-06-09
+119,119,13:30 AF123,,Shanghai (PVG),Air France B77W (F-GSQK),Landed 13:05,2021-06-09
+120,120,13:35 OZ952,,Hong Kong (HKG),Asiana Cargo B744 (HL7436),Landed 19:44,2021-06-09
+121,121,13:50 7C1301,,Osaka (KIX),Jeju Air 738,Unknown,2021-06-09
+122,122,13:50 AA9733,,Los Angeles (LAX),American Airlines B772 (N758AN),Landed 13:11,2021-06-09
+123,123,13:55 OZ241,,Seattle (SEA),Asiana Airlines 74F,Unknown,2021-06-09
+124,124,14:05 OZ796,,Frankfurt (FRA),Asiana Cargo B744 (HL7413),Landed 12:51,2021-06-09
+125,125,14:05 TW670,,Taichung (RMQ),T'way Air 737,Canceled,2021-06-09
+126,126,14:10 KE724,,Osaka (KIX),Korean Air B77W (HL8011),Landed 13:54,2021-06-09
+127,127,14:10 7C1401,,Fukuoka (FUK),Jeju Air 738,Unknown,2021-06-09
+128,128,14:16 5Y8764,,Los Angeles (LAX),Atlas Air B744 (N496MC),Landed 14:15,2021-06-09
+129,129,14:20 AA9718,,Dallas (DFW),American Airlines B788 (N802AN),Landed 11:33,2021-06-09
+130,130,14:25 EY876,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Thailand Livery) B789 (A6-BLO),Landed 14:03,2021-06-09
+131,131,14:50 KL857,,Amsterdam (AMS),KLM B77W (PH-BVG),Landed 14:42,2021-06-09
+132,132,14:50 7C8502,,Weihai (WEH),Jeju Air B738 (HL8090),Landed 15:51,2021-06-09
+133,133,14:50 7C8906,,Harbin (HRB),Jeju Air B738 (HL8304),Landed 16:57,2021-06-09
+134,134,15:00 KE208,,Los Angeles (LAX),Korean Air B77L,Unknown,2021-06-09
+135,135,15:05 7C2602,,Taipei (TPE),Jeju Air 738,Unknown,2021-06-09
+136,136,15:10 AA9743,,Dallas (DFW),American Airlines B788 (N811AB),Landed 14:52,2021-06-09
+137,137,15:15 DL197,,Seattle (SEA),Delta Air Lines A339 (N409DX),Landed 15:03,2021-06-09
+138,138,15:15 AA281,,Dallas (DFW),American Airlines 788,Canceled,2021-06-09
+139,139,15:20 DL27,,Atlanta (ATL),Delta Air Lines A359 (N502DN),Diverted to DTW,2021-06-09
+140,140,15:20 DL27,,Detroit (DTW),Delta Air Lines A359 (N502DN),Canceled,2021-06-09
+141,141,15:30 K4828,,Anchorage (ANC),Kalitta Air B744 (N701CK),Landed 14:44,2021-06-09
+142,142,15:35 SQ600,,Singapore (SIN),Singapore Airlines B78X (9V-SCM),Landed 15:16,2021-06-09
+143,143,15:45 OZ986,,Yantai (YNT),Asiana Airlines 74F,Unknown,2021-06-09
+144,144,15:50 OZ2813,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-09
+145,145,15:50 OZ101,,Tokyo (NRT),Asiana Airlines A321 (HL8257),Landed 15:23,2021-06-09
+146,146,16:00 KE9056,,Columbus (LCK),Korean Air B77W (HL8275),Landed 14:30,2021-06-09
+147,147,16:15 ET672,,Addis Ababa (ADD),Ethiopian Airlines B788 (ET-AOU),Landed 16:14,2021-06-09
+148,148,16:20 KE36,,Atlanta (ATL),Korean Air B789 (HL8083),Landed 15:57,2021-06-09
+149,149,16:30 DL159,,Detroit (DTW),Delta Air Lines A359 (N510DN),Landed 16:29,2021-06-09
+150,150,16:30 KE346,,Singapore (SIN),Korean Air Cargo B744 (HL7605),Landed 16:18,2021-06-09
+151,151,16:35 7C1105,,Tokyo (NRT),Jeju Air 738,Canceled,2021-06-09
+152,152,16:35 KE38,,Chicago (ORD),Korean Air B77W (HL8347),Landed 16:06,2021-06-09
+153,153,16:50 KE94,,Washington (IAD),Korean Air B789 (HL7207),Landed 16:53,2021-06-09
+154,154,16:55 OZ712,,Taipei (TPE),Asiana Airlines A333 (HL8258),Landed 16:22,2021-06-09
+155,155,16:55 QR858,,Doha (DOH),Qatar Airways B77W (A7-BEF),Landed 16:26,2021-06-09
+156,156,17:00 EK322,,Dubai (DXB),Emirates B77W (A6-EQD),Landed 16:36,2021-06-09
+157,157,17:20 KE82,,New York (JFK),Korean Air B77W (HL7205),Landed 17:36,2021-06-09
+158,158,17:20 OZ221,,New York (JFK),Asiana Airlines A359 (HL7579),Landed 17:05,2021-06-09
+159,159,17:25 KJ234,,Yantai (YNT),Air Incheon 73F,Unknown,2021-06-09
+160,160,17:30 KE704,,Tokyo (NRT),Korean Air A333 (HL8025),Landed 16:55,2021-06-09
+161,161,17:32 KD7432,,Los Angeles (LAX),Western Global Airlines B744 (N258SN),Landed 17:30,2021-06-09
+162,162,17:35 OZ2037,,Los Angeles (LAX),Asiana Airlines A359 (HL7578),Landed 16:32,2021-06-09
+163,163,17:50 KE72,,Vancouver (YVR),Korean Air A333 (HL8002),Landed 17:12,2021-06-09
+164,164,17:55 KE350,,Penang (PEN),Korean Air Cargo B77L (HL8285),Landed 17:55,2021-06-09
+165,165,17:55 KE866,,Guangzhou (CAN),Korean Air A388 (HL7614),Landed 18:06,2021-06-09
+166,166,17:55 TW126,,Da Nang (DAD),T'way Air 737,Canceled,2021-06-09
+167,167,17:58 KE480,,Hanoi (HAN),Korean Air A333 (HL7710),Landed 18:00,2021-06-09
+168,168,18:10 TW616,,Wuhan (WUH),T'Way Air B738 (HL8237),Landed 17:50,2021-06-09
+169,169,18:10 OZ396,,Singapore (SIN),Asiana Airlines 74F,Unknown,2021-06-09
+170,170,18:15 PO751,,Cincinnati (CVG),Polar Air Cargo B744,Unknown,2021-06-09
+171,171,18:15 7C2102,,Hong Kong (HKG),Jeju Air 738,Unknown,2021-06-09
+172,172,18:20 OZ998,,Tianjin (TSN),Asiana Cargo B763 (HL7507),Landed 17:46,2021-06-09
+173,173,18:45 KE318,,Tianjin (TSN),Korean Air Cargo B744 (HL7601),Landed 18:24,2021-06-09
+174,174,18:55 AA9733,,Los Angeles (LAX),American Airlines B772 (N758AN),Unknown,2021-06-09
+175,175,19:15 CX418,,Hong Kong (HKG),Cathay Pacific A35K (B-LXL),Landed 19:03,2021-06-09
+176,176,19:30 KE558,,Kitakyushu (KKJ),Korean Air Cargo B77L (HL8046),Landed 18:58,2021-06-09
+177,177,19:45 7C3405,,Saipan (SPN),Jeju Air 738,Unknown,2021-06-09
+178,178,19:50 KE8268,,Atlanta (ATL),Korean Air Cargo B77L (HL8075),Landed 19:00,2021-06-09
+179,179,19:55 AA9709,,Shanghai (PVG),American Airlines B789 (N832AA),Landed 19:24,2021-06-09
+180,180,19:58 OZ283,,Anchorage (ANC),Asiana Cargo B744 (HL7415),Landed 19:56,2021-06-09
+181,181,20:00 KE352,,Bangkok (BKK),Korean Air Cargo B77L (HL8045),Landed 22:08,2021-06-09
+182,182,20:00 VN416,,Hanoi (HAN),Vietnam Airlines 321,Unknown,2021-06-09
+183,183,20:15 AC7298,,Shanghai (PVG),Air Canada B77W (C-FIVX),Landed 20:18,2021-06-09
+184,184,20:30 PO238,,Hong Kong (HKG),Polar Air Cargo 74Y,Unknown,2021-06-09
+185,185,20:50 KE554,,Osaka (KIX),Korean Air Cargo B748 (HL7617),Landed 20:42,2021-06-09
+186,186,20:50,7C2202,Bangkok (BKK),Jeju Air 738,Unknown,2021-06-09
+187,187,21:03 AM9006,,Mexico City (MEX),Aeromexico (Quetzalcoatl Livery) B789 (XA-ADL),Landed 20:44,2021-06-09
+188,188,21:15 KE552,,Tokyo (NRT),Korean Air Cargo B748 (HL7639),Landed 20:27,2021-06-09
+189,189,21:15 7C3101,,Guam (GUM),Jeju Air 738,Unknown,2021-06-09
+190,190,21:30 K4978,,Anchorage (ANC),Kalitta Air B744 (N710CK),Landed 20:54,2021-06-09
+191,191,21:35 PO7930,,New York (JFK),Polar Air Cargo 77F,Unknown,2021-06-09
+192,192,21:35 9S7930,,New York (JFK),Southern Air B77L (N703GT),Landed 22:41,2021-06-09
+193,193,22:00,7C3173,Osaka (KIX),Jeju Air 737,Unknown,2021-06-09
+194,194,22:25 OZ191,,Osaka (KIX),Asiana Airlines 76F,Unknown,2021-06-09
+195,195,22:50 KE9236,,Los Angeles (LAX),Korean Air B741,Unknown,2021-06-09
+196,196,22:50 KE8236,,Los Angeles (LAX),Korean Air B77L,Unknown,2021-06-09
+197,197,23:05 QF7521,,Shanghai (PVG),Atlas Air B748 (N856GT),Landed 23:05,2021-06-09
+198,198,23:20,KL858,Shanghai (PVG),KLM B77W (PH-BVG),Landed 23:12,2021-06-09
+199,199,23:20 KE9014,,Los Angeles (LAX),Korean Air B789 (HL8084),Landed 22:17,2021-06-09
+200,200,23:50,ET673,Tokyo (NRT),Ethiopian Airlines B788 (ET-AOU),Landed 22:50,2021-06-09
+201,201,23:50 LH8387,,Tokyo (NRT),Lufthansa Cargo B77L (D-ALFE),Landed 23:33,2021-06-09
+202,202,23:50 RU392,,Tokyo (NRT),AirBridgeCargo B748 (VP-BIN),Landed 23:33,2021-06-09
+203,203,23:50 LH8386,,Tokyo (NRT),Lufthansa 77X,Unknown,2021-06-09
+0,0,00:00 PO276,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-10
+1,1,00:20 5Y583,,Anchorage (ANC),Atlas Air B744 (N486MC),Landed 00:34,2021-06-10
+2,2,00:50 5Y541,,Los Angeles (LAX),Atlas Air B744 (N419MC),Landed 00:27,2021-06-10
+3,3,01:10 PO97,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-10
+4,4,01:35 OZ2057,,Los Angeles (LAX),Asiana Airlines A359 (HL8360),Landed 00:34,2021-06-10
+5,5,01:55 NH8535,,Tokyo (NRT),ANA Cargo B763 (JA8323),Landed 01:20,2021-06-10
+6,6,02:00 OZ2817,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-10
+7,7,02:20 CK257,,Shanghai (PVG),China Cargo Airlines B77L (B-2077),Unknown,2021-06-10
+8,8,02:45 KE9060,,Columbus (LCK),Korean Air B77W (HL8208),Landed 01:32,2021-06-10
+9,9,02:55 HT3813,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-10
+10,10,03:20 KE8016,,Los Angeles (LAX),Korean Air B77W (HL8250),Landed 01:58,2021-06-10
+11,11,03:25 LH8473,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFD),Landed 03:13,2021-06-10
+12,12,03:25 LH8472,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFD),Unknown,2021-06-10
+13,13,03:30 YG9073,,Yancheng (YNZ),YTO Cargo Airlines 73F,Unknown,2021-06-10
+14,14,03:35 PO224,,Nagoya (NGO),DHL B763 (N644GT),Landed 03:42,2021-06-10
+15,15,03:45 5X33,,Sydney (SYD),UPS B748 (N614UP),Landed 03:41,2021-06-10
+16,16,03:50 KD6462,,Anchorage (ANC),Western Global Airlines MD11 (N545JN),Landed 03:54,2021-06-10
+17,17,03:55 HT3815,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-10
+18,18,04:05 OZ243,,Seattle (SEA),Asiana Cargo B744 (HL7618),Landed 02:52,2021-06-10
+19,19,04:15,DL289,Seattle (SEA),Delta Air Lines A339 (N407DX),Landed 03:39,2021-06-10
+20,20,04:20,OZ203,Los Angeles (LAX),Asiana Airlines A359 (HL8079),Landed 03:15,2021-06-10
+21,21,04:20 CF221,,Zhengzhou (CGO),China Postal Airlines B738 (B-5157),Landed 13:35,2021-06-10
+22,22,04:20,7C2306,Manila (MNL),Jeju Air 738,Unknown,2021-06-10
+23,23,04:30,OZ211,San Francisco (SFO),Asiana Airlines A359 (HL8359),Landed 03:04,2021-06-10
+24,24,04:35 PO997,,Los Angeles (LAX),DHL B744 (N454PA),Landed 03:36,2021-06-10
+25,25,04:45 8Y700,,Kalibo (KLO),Pan Pacific Airlines 320,Unknown,2021-06-10
+26,26,05:00,KE12,Los Angeles (LAX),Korean Air B77W (HL8009),Landed 04:03,2021-06-10
+27,27,05:00 KE624,,Manila (MNL),Korean Air B77W (HL7204),Landed 04:29,2021-06-10
+28,28,05:00 8Y600,,Cebu (CEB),Pan Pacific Airlines 320,Unknown,2021-06-10
+29,29,05:10 OZ704,,Manila (MNL),Asiana Airlines A333 (HL7793),Landed 04:13,2021-06-10
+30,30,05:20,KE672,Kuala Lumpur (KUL),Korean Air B789 (HL8082),Landed 04:54,2021-06-10
+31,31,05:25,KE680,Hanoi (HAN),Korean Air B789 (HL7207),Landed 06:10,2021-06-10
+32,32,05:35 GI4119,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-10
+33,33,05:45 CV6494,,Beijing (PEK),Cargolux B744 (LX-KCL),Landed 06:12,2021-06-10
+34,34,05:45 CV6483,,Beijing (PEK),Cargolux B744 (LX-KCL),Unknown,2021-06-10
+35,35,05:50,OZ734,Hanoi (HAN),Asiana Airlines A333 (HL8282),Landed 05:32,2021-06-10
+36,36,05:55 KE542,,Oslo (OSL),Korean Air Cargo B77L (HL8251),Landed 04:41,2021-06-10
+37,37,05:55 PO96,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-10
+38,38,06:05 KE316,,Shanghai (PVG),Korean Air Cargo B748 (HL7639),Landed 06:46,2021-06-10
+39,39,06:25,LH8402,Shanghai (PVG),Lufthansa Cargo B77L (D-ALFH),Landed 06:49,2021-06-10
+40,40,06:25 PO938,,Shanghai (PVG),DHL B748 (N853GT),Landed 08:09,2021-06-10
+41,41,06:35,TW128,Da Nang (DAD),T'way Air 737,Canceled,2021-06-10
+42,42,06:45 OZ970,,Hong Kong (HKG),Asiana Airlines 74F,Unknown,2021-06-10
+43,43,06:50,KE684,Ho Chi Minh City (SGN),Korean Air A333 (HL8025),Landed 06:43,2021-06-10
+44,44,06:50 OZ762,,Jakarta (CGK),Asiana Airlines A333 (HL7746),Landed 06:56,2021-06-10
+45,45,06:55,TG656,Bangkok (BKK),Thai Airways B77W (HS-TKW),Landed 07:13,2021-06-10
+46,46,06:55,7C2406,Cebu (CEB),Jeju Air 738,Unknown,2021-06-10
+47,47,07:05,LH8410,Chengdu (CTU),Lufthansa Cargo B77L (D-ALFF),Landed 14:28,2021-06-10
+48,48,07:10 OZ988,,Shanghai (PVG),Asiana Cargo B744 (HL7415),Landed 08:18,2021-06-10
+49,49,07:15,OZ740,Phnom Penh (PNH),Asiana Airlines 32Q,Unknown,2021-06-10
+50,50,07:25,KE652,Bangkok (BKK),Korean Air A333 (HL7587),Landed 07:02,2021-06-10
+51,51,07:25,7C2804,Hanoi (HAN),Jeju Air 738,Unknown,2021-06-10
+52,52,07:30 GI4116,,Linyi (LYI),Longhao Airlines 73F,Unknown,2021-06-10
+53,53,07:35 LH8391,,Osaka (KIX),Lufthansa Cargo B77L (D-ALFA),Landed 07:04,2021-06-10
+54,54,07:35,TW124,Ho Chi Minh City (SGN),T'way Air 737,Canceled,2021-06-10
+55,55,07:35 LH8390,,Osaka (KIX),Lufthansa 77X,Unknown,2021-06-10
+56,56,07:40,KE942,Tashkent (TAS),Korean Air A333 (HL8003),Landed 10:14,2021-06-10
+57,57,07:45 KE314,,Hong Kong (HKG),Korean Air Cargo B77L (HL8046),Landed 07:41,2021-06-10
+58,58,07:45 LD128,,Hong Kong (HKG),DHL A306 (B-LDD),Landed 07:36,2021-06-10
+59,59,07:50 KJ2123,,Chengdu (CTU),Air Incheon 73F,Unknown,2021-06-10
+60,60,07:55 OZ976,,Xi'an (XIY),Asiana Airlines 74F,Unknown,2021-06-10
+61,61,08:00 OZ283,,San Francisco (SFO),Asiana Airlines 74F,Unknown,2021-06-10
+62,62,08:00 GI4238,,Yantai (YNT),Longhao Airlines 73F,Unknown,2021-06-10
+63,63,08:15 OZ934,,Guangzhou (CAN),Asiana Cargo B744 (HL7423),Landed 10:31,2021-06-10
+64,64,08:15 OZ932,,Guangzhou (CAN),Asiana Airlines 74F,Unknown,2021-06-10
+65,65,08:20 AY41,,Helsinki (HEL),Finnair A359 (OH-LWO),Landed 07:52,2021-06-10
+66,66,08:35 KE214,,San Francisco (SFO),Korean Air Cargo B748 (HL7623),Landed 06:53,2021-06-10
+67,67,08:35 FX5230,,Memphis (MEM),FedEx B77L (N868FD),Landed 08:47,2021-06-10
+68,68,08:45 OZ574,,Tashkent (TAS),Asiana Airlines A333 (HL7795),Landed 09:52,2021-06-10
+69,69,08:45 AM9007,,Wuhan (WUH),Aeromexico (Quetzalcoatl Livery) B789 (XA-ADL),Landed 08:38,2021-06-10
+70,70,08:50 KE320,,Guangzhou (CAN),Korean Air Cargo B744 (HL7601),Landed 08:21,2021-06-10
+71,71,08:50 RU392,,Tokyo (NRT),AirBridgeCargo Airlines 74N,Unknown,2021-06-10
+72,72,08:55 KL895,,Amsterdam (AMS),KLM B77W (PH-BVS),Landed 08:30,2021-06-10
+73,73,08:55 LO97,,Warsaw (WAW),LOT B788 (SP-LRB),Landed 09:02,2021-06-10
+74,74,09:10 LH718,,Munich (MUC),Lufthansa A359 (D-AIXC),Landed 09:26,2021-06-10
+75,75,09:15,OZ742,Bangkok (BKK),Asiana Airlines A333 (HL7794),Landed 08:30,2021-06-10
+76,76,09:15 K4945,,Cincinnati (CVG),Kalitta Air B744 (N708CK),Landed 09:59,2021-06-10
+77,77,10:15 AA9819,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-10
+78,78,10:15 PO949,,Cincinnati (CVG),Polar Air Cargo B744,Unknown,2021-06-10
+79,79,10:15 KE362,,Hanoi (HAN),Korean Air Cargo B744 (HL7603),Landed 11:38,2021-06-10
+80,80,10:15,TW164,Hanoi (HAN),T'way Air 737,Canceled,2021-06-10
+81,81,10:30 QR8340,,Doha (DOH),Qatar Airways B77W (A7-BAZ),Landed 09:47,2021-06-10
+82,82,10:45 5X88,,Anchorage (ANC),UPS B748 (N618UP),Landed 09:50,2021-06-10
+83,83,11:00 UA2770,,Chicago (ORD),United Airlines B789 (N28987),Landed 10:03,2021-06-10
+84,84,11:00,CI160,Taipei (TPE),China Airlines B77W (B-18053),Landed 10:38,2021-06-10
+85,85,11:05 CK257,,Shanghai (PVG),China Cargo Airlines B77L (B-2077),Landed 02:28,2021-06-10
+86,86,11:15 AA9704,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-10
+87,87,11:15 5X64,,Anchorage (ANC),UPS B744 (N580UP),Landed 10:34,2021-06-10
+88,88,11:45 AC7291,,Vancouver (YVR),Air Canada B77W (C-FJZS),Landed 11:11,2021-06-10
+89,89,11:45 OZ588,,Brussels (BRU),Asiana Cargo B744 (HL7417),Landed 11:52,2021-06-10
+90,90,11:50 OZ542,,Frankfurt (FRA),Asiana Airlines A359 (HL8308),Landed 11:43,2021-06-10
+91,91,12:10 KE9576,,Milan (MXP),Korean Air Cargo B77L (HL8226),Landed 09:33,2021-06-10
+92,92,12:20 GJ8701,,Linyi (LYI),Loong Air 73F,Unknown,2021-06-10
+93,93,12:25,DL288,Shanghai (PVG),Delta Air Lines A339 (N407DX),Landed 12:25,2021-06-10
+94,94,12:35 AA9707,,Dallas (DFW),American Airlines B789 (N827AN),Landed 11:48,2021-06-10
+95,95,12:45 KE252,,New York (JFK),Korean Air Cargo B77L (HL8005),Landed 12:47,2021-06-10
+96,96,12:45 PO213,,Tokyo (NRT),DHL B748 (N858GT),Landed 11:55,2021-06-10
+97,97,12:55 AC7297,,Toronto (YYZ),Air Canada B77W (C-FNNQ),Landed 12:51,2021-06-10
+98,98,12:55 KJ232,,Yantai (YNT),Air Incheon B738 (HL8338),Landed 15:50,2021-06-10
+99,99,13:10,TW282,Osaka (KIX),T'way Air 737,Canceled,2021-06-10
+100,100,13:16 OZ285,,Anchorage (ANC),Asiana Cargo B744 (HL7616),Landed 08:36,2021-06-10
+101,101,13:25 OZ247,,Anchorage (ANC),Asiana Airlines 74F,Unknown,2021-06-10
+102,102,13:30 AF123,,Shanghai (PVG),Air France B77W (F-GZNL),Landed 13:03,2021-06-10
+103,103,13:35 OZ952,,Hong Kong (HKG),Asiana Airlines 74F,Unknown,2021-06-10
+104,104,13:50,CZ3061,Guangzhou (CAN),China Southern Airlines A333 (B-8358),Landed 13:28,2021-06-10
+105,105,13:50,7C1301,Osaka (KIX),Jeju Air 738,Unknown,2021-06-10
+106,106,14:05 OZ796,,Frankfurt (FRA),Asiana Cargo B744 (HL7419),Landed 15:16,2021-06-10
+107,107,14:05,TW670,Taichung (RMQ),T'way Air 737,Canceled,2021-06-10
+108,108,14:10,KE724,Osaka (KIX),Korean Air A333 (HL8025),Landed 13:43,2021-06-10
+109,109,14:10,7C1401,Fukuoka (FUK),Jeju Air 738,Unknown,2021-06-10
+110,110,14:20 AA9718,,Dallas (DFW),American Airlines B788 (N812AA),Landed 10:51,2021-06-10
+111,111,14:25,EY876,Abu Dhabi (AUH),Etihad (ADNOC - Choose Japan Livery) B789 (A6-BLK),Landed 14:14,2021-06-10
+112,112,14:30 KE540,,London (LHR),Korean Air Cargo B744 (HL7602),Landed 15:46,2021-06-10
+113,113,14:30 SC4707,,Yantai (YNT),Shandong Airlines B738 (B-1230),Landed 14:24,2021-06-10
+114,114,14:45 OZ388,,Hanoi (HAN),Asiana Cargo B763 (HL7507),Unknown,2021-06-10
+115,115,14:55 KL855,,Amsterdam (AMS),KLM B77W (PH-BVN),Landed 14:41,2021-06-10
+116,116,15:05 UA857,,San Francisco (SFO),United Airlines B77W (N2645U),Landed 14:25,2021-06-10
+117,117,15:05 UA893,,San Francisco (SFO),United Airlines B789 (N24972),Landed 14:33,2021-06-10
+118,118,15:05 7C2602,,Taipei (TPE),Jeju Air 738,Canceled,2021-06-10
+119,119,15:10 AA9743,,Dallas (DFW),American Airlines B788 (N801AC),Landed 16:08,2021-06-10
+120,120,15:15 AA281,,Dallas (DFW),American Airlines 788,Canceled,2021-06-10
+121,121,15:20,DL27,Atlanta (ATL),Delta Air Lines A359 (N514DN),Landed 15:12,2021-06-10
+122,122,15:20 KE74,,Toronto (YYZ),Korean Air B789 (HL7208),Landed 15:06,2021-06-10
+123,123,15:30 KE262,,Seattle (SEA),Korean Air Cargo B748 (HL7609),Landed 14:54,2021-06-10
+124,124,15:35 SQ600,,Singapore (SIN),Singapore Airlines B78X (9V-SCC),Landed 15:12,2021-06-10
+125,125,15:35 8M801,,Yangon (RGN),Myanmar Airways International A319 (XY-ALN),Landed 15:22,2021-06-10
+126,126,15:45 5Y8799,,Chicago (ORD),Atlas Air B744 (N415MC),Landed 14:58,2021-06-10
+127,127,15:45 K4926,,Anchorage (ANC),Kalitta Air B744 (N716CK),Landed 15:08,2021-06-10
+128,128,15:45 5Y8707,,Anchorage (ANC),Atlas Air B748 (N859GT),Landed 17:48,2021-06-10
+129,129,15:50 OZ101,,Tokyo (NRT),Asiana Airlines A21N (HL8364),Landed 16:06,2021-06-10
+130,130,16:00 AF264,,Paris (CDG),Air France B77W (F-GZNS),Landed 15:56,2021-06-10
+131,131,16:05 AC63,,Vancouver (YVR),Air Canada B789 (C-FRTG),Landed 15:26,2021-06-10
+132,132,16:05 OZ267,,Anchorage (ANC),Asiana Airlines 74F,Unknown,2021-06-10
+133,133,16:15 KE38,,Chicago (ORD),Korean Air B77W (HL8042),Landed 15:48,2021-06-10
+134,134,16:20 KE36,,Atlanta (ATL),Korean Air B789 (HL7209),Landed 15:41,2021-06-10
+135,135,16:20 KE8384,,Kuala Lumpur (KUL),Korean Air Cargo B744 (HL7605),Landed 20:53,2021-06-10
+136,136,16:25 KE92,,Boston (BOS),Korean Air B789 (HL8345),Landed 16:47,2021-06-10
+137,137,16:30 DL159,,Detroit (DTW),Delta Air Lines A359 (N509DN),Landed 17:00,2021-06-10
+138,138,16:35 OZ986,,Yantai (YNT),Asiana Airlines 76F,Unknown,2021-06-10
+139,139,16:35 7C1105,,Tokyo (NRT),Jeju Air 738,Canceled,2021-06-10
+140,140,16:40 KE20,,Seattle (SEA),Korean Air A333 (HL8001),Landed 15:56,2021-06-10
+141,141,16:40 KE32,,Dallas (DFW),Korean Air B789 (HL8081),Landed 15:34,2021-06-10
+142,142,16:45 KE510,,Stockholm (ARN),Korean Air 74N,Unknown,2021-06-10
+143,143,16:50 KE94,,Washington (IAD),Korean Air B789 (HL7206),Landed 16:52,2021-06-10
+144,144,16:55 OZ712,,Taipei (TPE),Asiana Airlines A333 (HL8258),Landed 16:27,2021-06-10
+145,145,16:55 QR858,,Doha (DOH),Qatar Airways B77W (A7-BED),Landed 16:27,2021-06-10
+146,146,17:00 EK322,,Dubai (DXB),Emirates B77W (A6-EPY),Landed 16:45,2021-06-10
+147,147,17:00 PO717,,Tokyo (NRT),Polar Air Cargo 74Y,Unknown,2021-06-10
+148,148,17:05 OZ340,,Harbin (HRB),Asiana Airlines A333 (HL8259),Landed 16:31,2021-06-10
+149,149,17:05 RS832,,Yantai (YNT),Air Seoul A321 (HL7789),Landed 17:39,2021-06-10
+150,150,17:05 5Y539,,New York (JFK),Atlas Air B744 (N416MC),Landed 18:39,2021-06-10
+151,151,17:10 KE8040,,Chicago (ORD),Korean Air (SkyTeam Livery) B77W (HL7783),Landed 16:58,2021-06-10
+152,152,17:20 KE82,,New York (JFK),Korean Air B77W (HL8007),Landed 17:20,2021-06-10
+153,153,17:20 OZ221,,New York (JFK),Asiana Airlines A359 (HL8382),Landed 17:32,2021-06-10
+154,154,17:25 KJ234,,Yantai (YNT),Air Incheon 73F,Unknown,2021-06-10
+155,155,17:30 KE704,,Tokyo (NRT),Korean Air A333 (HL7702),Landed 16:44,2021-06-10
+156,156,17:35 OZ201,,Los Angeles (LAX),Asiana Airlines A359 (HL8383),Landed 16:04,2021-06-10
+157,157,17:45 OZ271,,Seattle (SEA),Asiana Airlines A359 (HL8381),Landed 16:55,2021-06-10
+158,158,17:50 KE18,,Los Angeles (LAX),Korean Air B77W (HL8008),Landed 16:41,2021-06-10
+159,159,17:55 TW126,,Da Nang (DAD),T'way Air 737,Canceled,2021-06-10
+160,160,18:00 KE374,,Penang (PEN),Korean Air 74N,Unknown,2021-06-10
+161,161,18:00 OZ241,,Seattle (SEA),Asiana Airlines B744 (HL7421),Landed 17:10,2021-06-10
+162,162,18:05 5J188,,Manila (MNL),Cebu Pacific A333 (RP-C3348),Landed 17:56,2021-06-10
+163,163,18:05 OZ578,,Almaty (ALA),Asiana Airlines A21N (HL8356),Unknown,2021-06-10
+164,164,18:10 OZ396,,Singapore (SIN),Asiana Cargo B744 (HL7618),Landed 22:20,2021-06-10
+165,165,18:15 7C2102,,Hong Kong (HKG),Jeju Air 738,Unknown,2021-06-10
+166,166,18:40 KE278,,Vancouver (YVR),Korean Air Cargo B77L (HL8252),Landed 15:52,2021-06-10
+167,167,18:40 CF201,,Xi'an (XIY),China Postal Airlines 73F,Unknown,2021-06-10
+168,168,18:45 KE318,,Tianjin (TSN),Korean Air Cargo B77L (HL8226),Landed 18:16,2021-06-10
+169,169,18:50 KE8042,,Atlanta (ATL),Korean Air B77W (HL8041),Landed 17:29,2021-06-10
+170,170,18:55 AA9733,,Los Angeles (LAX),American Airlines B772 (N780AN),Landed 12:55,2021-06-10
+171,171,18:55 KL891,,Chengdu (CTU),KLM 772,Unknown,2021-06-10
+172,172,19:00 HA459,,Honolulu (HNL),Hawaiian Airlines A332 (N360HA),Landed 18:43,2021-06-10
+173,173,19:00 KE9056,,Columbus (LCK),Korean Air B77W (HL8209),Landed 18:08,2021-06-10
+174,174,19:10 PO654,,Hong Kong (HKG),Polar Air Cargo 74Y,Unknown,2021-06-10
+175,175,19:30 KE558,,Kitakyushu (KKJ),Korean Air Cargo B77L (HL8005),Landed 19:22,2021-06-10
+176,176,19:40 KD5273,,Chicago (ORD),Western Global Airlines MD11 (N412SN),Landed 19:27,2021-06-10
+177,177,19:45 7C3405,,Saipan (SPN),Jeju Air 738,Unknown,2021-06-10
+178,178,19:50 CI162,,Taipei (TPE),China Airlines A333 (B-18302),Landed 19:11,2021-06-10
+179,179,19:55 AA9709,,Shanghai (PVG),American Airlines B789 (N827AN),Landed 19:13,2021-06-10
+180,180,19:55 KE9090,,New York (JFK),Korean Air B77W (HL8210),Landed 19:53,2021-06-10
+181,181,20:12 5Y2918,,Anchorage (ANC),Atlas Air B744 (N485MC),Landed 20:27,2021-06-10
+182,182,20:15 OZ2911,,Anchorage (ANC),Asiana Airlines B741,Unknown,2021-06-10
+183,183,20:15 AC7298,,Shanghai (PVG),Air Canada B77W (C-FNNQ),Landed 20:22,2021-06-10
+184,184,20:25 CX35,,Osaka (KIX),Cathay Pacific Cargo B748 (B-LJK),Landed 20:19,2021-06-10
+185,185,20:30 KE8314,,Hong Kong (HKG),Korean Air 77X,Unknown,2021-06-10
+186,186,20:30 PO238,,Hong Kong (HKG),Polar Air Cargo 74Y,Unknown,2021-06-10
+187,187,20:45 KE8312,,Hong Kong (HKG),Korean Air Cargo B748 (HL7623),Landed 20:18,2021-06-10
+188,188,20:50 KE554,,Osaka (KIX),Korean Air Cargo B744 (HL7601),Landed 20:30,2021-06-10
+189,189,20:50 7C2202,,Bangkok (BKK),Jeju Air 738,Unknown,2021-06-10
+190,190,21:15 7C3101,,Guam (GUM),Jeju Air 738,Unknown,2021-06-10
+191,191,21:15 KE552,,Tokyo (NRT),Korean Air Cargo B748 (HL7609),Unknown,2021-06-10
+192,192,21:20 KJ3116,,Tokyo (NRT),Air Incheon 73F,Unknown,2021-06-10
+193,193,21:43 KE288,,Anchorage (ANC),Korean Air Cargo B77L (HL8043),Landed 21:52,2021-06-10
+194,194,22:00,7C3173,Osaka (KIX),Jeju Air 737,Unknown,2021-06-10
+195,195,22:05 5Y9783,,Dover (DOV),Atlas Air B744 (N471MC),Landed 21:47,2021-06-10
+196,196,22:40 QR8984,,Doha (DOH),Qatar Cargo B748 (A7-BGB),Landed 22:45,2021-06-10
+197,197,22:50 KE8236,,Los Angeles (LAX),Korean Air 77X,Unknown,2021-06-10
+198,198,22:55 UA858,,Shanghai (PVG),United Airlines B77W (N2645U),Landed 00:21,2021-06-10
+199,199,23:00 PO7970,,Cincinnati (CVG),Polar Air Cargo B744,Unknown,2021-06-10
+200,200,23:15 OZ191,,Osaka (KIX),Asiana Cargo B744 (HL7417),Landed 22:54,2021-06-10
+201,201,23:20 5Y8941,,Anchorage (ANC),Atlas Air B744 (N408MC),Landed 23:21,2021-06-10
+202,202,23:32 K4960,,Anchorage (ANC),Kalitta Air B744 (N713CK),Landed 23:33,2021-06-10
+203,203,23:50 LH8385,,Tokyo (NRT),Lufthansa Cargo (Cargo Human Care Livery) B77L (D-ALFI),Landed 23:24,2021-06-10
+204,204,23:50 RU492,,Tokyo (NRT),AirBridgeCargo B748 (VQ-BRJ),Landed 23:40,2021-06-10
+205,205,23:50 LH8384,,Tokyo (NRT),Lufthansa 77X,Unknown,2021-06-10
+0,0,12:00 AM PO276,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-11
+1,1,1:20 AM KE9014,,Los Angeles (LAX),Korean Air B77W (HL7784),Landed 12:32 AM,2021-06-11
+2,2,1:25 AM KE8288,,Anchorage (ANC),Korean Air 777,Unknown,2021-06-11
+3,3,1:35 AM OZ2057,,Los Angeles (LAX),Asiana Airlines A359 (HL7578),Landed 12:30 AM,2021-06-11
+4,4,1:50 AM 9S7681,,Cincinnati (CVG),Southern Air B77L,Unknown,2021-06-11
+5,5,1:55 AM NH8535,,Tokyo (NRT),ANA Cargo B763 (JA8970),Landed 1:46 AM,2021-06-11
+6,6,2:20 AM CK257,,Shanghai (PVG),China Cargo Airlines B744 (B-2425),Unknown,2021-06-11
+7,7,2:45 AM KE9060,,Columbus (LCK),Korean Air B77W (HL8217),Landed 12:51 AM,2021-06-11
+8,8,2:50 AM TK6460,,Almaty (ALA),Turkish Airlines 77X,Unknown,2021-06-11
+9,9,2:52 AM K4812,,Anchorage (ANC),Kalitta Air B744 (N715CK),Landed 3:00 AM,2021-06-11
+10,10,2:55 AM HT3813,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-11
+11,11,3:30 AM YG9073,,Yancheng (YNZ),YTO Cargo Airlines 73F,Unknown,2021-06-11
+12,12,3:35 AM PO927,,Los Angeles (LAX),DHL B748 (N855GT),Landed 3:04 AM,2021-06-11
+13,13,3:35 AM PO224,,Nagoya (NGO),DHL B763 (N644GT),Landed 3:41 AM,2021-06-11
+14,14,3:50 AM CF221,,Zhengzhou (CGO),China Postal Airlines 73F,Unknown,2021-06-11
+15,15,3:55 AM HT3815,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-11
+16,16,4:20 AM,OZ203,Los Angeles (LAX),Asiana Airlines A359 (HL7771),Landed 3:10 AM,2021-06-11
+17,17,4:20 AM,7C2306,Manila (MNL),Jeju Air 738,Unknown,2021-06-11
+18,18,4:30 AM,OZ211,San Francisco (SFO),Asiana Airlines A359 (HL8361),Landed 3:22 AM,2021-06-11
+19,19,4:45 AM 8Y700,,Kalibo (KLO),Pan Pacific Airlines 320,Unknown,2021-06-11
+20,20,5:00 AM,KE12,Los Angeles (LAX),Korean Air B77W (HL8011),Landed 3:54 AM,2021-06-11
+21,21,5:00 AM KE624,,Manila (MNL),Korean Air B77W (HL8042),Landed 4:21 AM,2021-06-11
+22,22,5:00 AM 8Y600,,Cebu (CEB),Pan Pacific Airlines 320,Unknown,2021-06-11
+23,23,5:05 AM,KE26,San Francisco (SFO),Korean Air A333 (HL8002),Landed 4:16 AM,2021-06-11
+24,24,5:05 AM TK6494,,Almaty (ALA),Turkish Airlines 33F,Unknown,2021-06-11
+25,25,5:10 AM CF201,,Xi'an (XIY),China Postal Airlines 73F,Unknown,2021-06-11
+26,26,5:10 AM QV923,,Vientiane (VTE),Lao Airlines A320 (RDPL-34199),Landed 5:29 AM,2021-06-11
+27,27,5:10 AM OZ704,,Manila (MNL),Asiana Airlines A333 (HL7793),Landed 4:22 AM,2021-06-11
+28,28,5:10 AM KE8868,,Ulaanbaatar (ULN),Korean Air A333 (HL7710),Landed 6:14 AM,2021-06-11
+29,29,5:15 AM KE8288,,Anchorage (ANC),Korean Air B77L,Unknown,2021-06-11
+30,30,5:20 AM,OZ324,Chengdu (CTU),Asiana Airlines A21N (HL8364),Landed 5:08 AM,2021-06-11
+31,31,5:25 AM,KE608,Hong Kong (HKG),Korean Air B789 (HL8084),Landed 6:10 AM,2021-06-11
+32,32,5:35 AM GI4119,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-11
+33,33,5:40 AM KE130,,Auckland (AKL),Korean Air B77W (HL8346),Landed 6:13 AM,2021-06-11
+34,34,5:45 AM KE8024,,Seattle (SEA),Korean Air B77W (HL8274),Landed 4:29 AM,2021-06-11
+35,35,5:50 AM,OZ734,Hanoi (HAN),Asiana Airlines A321 (HL8074),Landed 5:44 AM,2021-06-11
+36,36,5:55 AM PO96,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-11
+37,37,6:00 AM AM90,,Mexico City (MEX),Aeromexico B788 (N967AM),Landed 5:21 AM,2021-06-11
+38,38,6:00 AM KD6354,,Anchorage (ANC),Western Global Airlines MD11 (N581JN),Landed 6:02 AM,2021-06-11
+39,39,6:05 AM,TW122,Ho Chi Minh City (SGN),T'way Air 737,Canceled,2021-06-11
+40,40,6:05 AM KE316,,Shanghai (PVG),Korean Air Cargo B77L (HL8005),Landed 6:31 AM,2021-06-11
+41,41,6:10 AM YG9061,,Xi'an (XIY),YTO Cargo Airlines 73F,Unknown,2021-06-11
+42,42,6:20 AM,TW108,Macau (MFM),T'way Air 737,Canceled,2021-06-11
+43,43,6:30 AM KE112,,Guam (GUM),Korean Air A333 (HL7701),Landed 5:51 AM,2021-06-11
+44,44,6:35 AM,TW128,Da Nang (DAD),T'way Air 737,Canceled,2021-06-11
+45,45,6:42 AM 5X33,,Sydney (SYD),UPS B748 (N609UP),Unknown,2021-06-11
+46,46,6:45 AM OZ970,,Hong Kong (HKG),Asiana Cargo B744 (HL7618),Landed 11:33 AM,2021-06-11
+47,47,6:50 AM,KE684,Ho Chi Minh City (SGN),Korean Air B789 (HL8081),Landed 6:38 AM,2021-06-11
+48,48,6:55 AM TG656,,Bangkok (BKK),Thai Airways B77W (HS-TKN),Landed 6:23 AM,2021-06-11
+49,49,6:55 AM,7C2406,Cebu (CEB),Jeju Air 738,Unknown,2021-06-11
+50,50,7:00 AM,KE690,Phnom Penh (PNH),Korean Air A333 (HL7709),Landed 6:35 AM,2021-06-11
+51,51,7:10 AM,MH66,Kuala Lumpur (KUL),Malaysia Airlines A333 (9M-MTD),Landed 6:51 AM,2021-06-11
+52,52,7:10 AM,OZ736,Ho Chi Minh City (SGN),Asiana Airlines A333 (HL7741),Landed 7:15 AM,2021-06-11
+53,53,7:10 AM OZ988,,Shanghai (PVG),Asiana Cargo B744 (HL7417),Landed 9:11 AM,2021-06-11
+54,54,7:25 AM,7C2804,Hanoi (HAN),Jeju Air 738,Unknown,2021-06-11
+55,55,7:25 AM,KE652,Bangkok (BKK),Korean Air B789 (HL7209),Landed 7:22 AM,2021-06-11
+56,56,7:30 AM,LH8404,Shanghai (PVG),Lufthansa Cargo B77L (D-ALFE),Landed 8:16 AM,2021-06-11
+57,57,7:45 AM LD128,,Hong Kong (HKG),DHL A306 (B-LDH),Landed 7:38 AM,2021-06-11
+58,58,7:45 AM KE314,,Hong Kong (HKG),Korean Air Cargo B77L (HL8044),Landed 7:15 AM,2021-06-11
+59,59,7:50 AM KJ2123,,Chengdu (CTU),Air Incheon 73F,Unknown,2021-06-11
+60,60,7:50 AM KJ212,,Chengdu (CTU),Air Incheon 73F,Unknown,2021-06-11
+61,61,8:00 AM OZ285,,San Francisco (SFO),Asiana Cargo B744 (HL7616),Unknown,2021-06-11
+62,62,8:00 AM GI4238,,Yantai (YNT),Longhao Airlines 73F,Unknown,2021-06-11
+63,63,8:15 AM,LH8430,Beijing (PEK),Lufthansa Cargo B77L (D-ALFD),Landed 8:07 AM,2021-06-11
+64,64,8:15 AM OZ934,,Guangzhou (CAN),Asiana Airlines 74F,Unknown,2021-06-11
+65,65,8:25 AM,HY511,Tashkent (TAS),Uzbekistan Airways B788 (UK78705),Landed 8:08 AM,2021-06-11
+66,66,8:30 AM,GA878,Jakarta (CGK),Garuda Indonesia B77W (PK-GIF),Landed 8:39 AM,2021-06-11
+67,67,8:35 AM OZ956,,Chongqing (CKG),Asiana Cargo B744 (HL7419),Landed 12:36 PM,2021-06-11
+68,68,8:35 AM KE214,,San Francisco (SFO),Korean Air B744,Unknown,2021-06-11
+69,69,8:35 AM,KE646,Singapore (SIN),Korean Air B77W (HL8009),Landed 8:10 AM,2021-06-11
+70,70,8:35 AM FX5230,,Memphis (MEM),FedEx B77L (N883FD),Landed 8:59 AM,2021-06-11
+71,71,8:40 AM KE336,,Shanghai (PVG),Korean Air Cargo B77L (HL8043),Landed 8:14 AM,2021-06-11
+72,72,8:50 AM RU492,,Tokyo (NRT),AirBridgeCargo Airlines 74N,Unknown,2021-06-11
+73,73,8:50 AM KE320,,Guangzhou (CAN),Korean Air Cargo B744 (HL7603),Unknown,2021-06-11
+74,74,8:55 AM KL895,,Amsterdam (AMS),KLM B77W (PH-BVF),Landed 8:37 AM,2021-06-11
+75,75,9:00 AM,SQ608,Singapore (SIN),Singapore Airlines B78X (9V-SCN),Landed 8:34 AM,2021-06-11
+76,76,9:15 AM,OZ742,Bangkok (BKK),Asiana Airlines A333 (HL7795),Landed 8:24 AM,2021-06-11
+77,77,9:20 AM KE9210,,Seattle (SEA),Korean Air Cargo B748 (HL7610),Landed 8:27 AM,2021-06-11
+78,78,10:15 AM AA9819,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-11
+79,79,10:15 AM PO237,,Cincinnati (CVG),Polar Air Cargo B744,Unknown,2021-06-11
+80,80,10:15 AM KE362,,Hanoi (HAN),Korean Air Cargo B744 (HL7601),Landed 10:29 AM,2021-06-11
+81,81,10:15 AM,TW164,Hanoi (HAN),T'way Air 737,Canceled,2021-06-11
+82,82,10:18 AM OZ283,,Anchorage (ANC),Asiana Cargo B744 (HL7420),Landed 10:48 AM,2021-06-11
+83,83,10:20 AM OZ388,,Hanoi (HAN),Asiana Airlines 76F,Unknown,2021-06-11
+84,84,10:45 AM 5X88,,Anchorage (ANC),UPS B748 (N620UP),Landed 9:51 AM,2021-06-11
+85,85,11:05 AM KE270,,New York (JFK),Korean Air Cargo B77L (HL8285),Landed 12:33 PM,2021-06-11
+86,86,11:05 AM CK257,,Shanghai (PVG),China Cargo Airlines B744 (B-2425),Landed 2:52 AM,2021-06-11
+87,87,11:15 AM AA9704,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-11
+88,88,11:15 AM 5X64,,Anchorage (ANC),UPS Airlines B748 (N626UP),Landed 12:15 PM,2021-06-11
+89,89,11:20 AM OZ197,,Tokyo (NRT),Asiana Cargo B744 (HL7415),Landed 11:20 PM,2021-06-11
+90,90,11:20 AM,LH8400,Shanghai (PVG),Lufthansa Cargo B77L (D-ALFA),Landed 2:27 PM,2021-06-11
+91,91,11:25 AM LH712,,Frankfurt (FRA),Lufthansa A359 (D-AIXG),Landed 11:17 AM,2021-06-11
+92,92,11:30 AM,CI160,Taipei (TPE),China Airlines B77W (B-18051),Landed 11:05 AM,2021-06-11
+93,93,11:35 AM,CA123,Beijing (PEK),Air China B738 (B-1761),Landed 11:11 AM,2021-06-11
+94,94,11:40 AM ZG41,,Tokyo (NRT),ZIPAIR B788 (JA825J),Landed 11:28 AM,2021-06-11
+95,95,11:40 AM AA9718,,Dallas (DFW),American Airlines B789 (N823AN),Landed 9:45 PM,2021-06-11
+96,96,11:45 AM AC7291,,Vancouver (YVR),Air Canada B77W (C-FKAU),Landed 11:24 AM,2021-06-11
+97,97,11:45 AM 5Y4413,,Los Angeles (LAX),Atlas Air B744 (N407KZ),Landed 11:19 AM,2021-06-11
+98,98,11:55 AM,MU5041,Shanghai (PVG),China Eastern Airlines B77W (B-7882),Landed 12:24 PM,2021-06-11
+99,99,12:15 PM K4816,,Anchorage (ANC),Kalitta Air B744 (N706CK),Landed 11:29 AM,2021-06-11
+100,100,12:20 PM GJ8701,,Linyi (LYI),Loong Air 73F,Unknown,2021-06-11
+101,101,12:25 PM KE284,,Anchorage (ANC),Korean Air Cargo B748 (HL7617),Landed 11:41 AM,2021-06-11
+102,102,12:35 PM AA127,,Dallas (DFW),American Airlines B789 (N839AA),Landed 1:02 PM,2021-06-11
+103,103,12:45 PM,SU250,Moscow (SVO),Aeroflot A333 (VQ-BMX),Landed 12:44 PM,2021-06-11
+104,104,12:45 PM PO213,,Tokyo (NRT),DHL B748 (N851GT),Landed 12:03 PM,2021-06-11
+105,105,12:50 PM SC4087,,Qingdao (TAO),Shandong Airlines B738 (B-7668),Landed 12:31 PM,2021-06-11
+106,106,12:55 PM AC7297,,Toronto (YYZ),Air Canada B77W (C-FIVX),Landed 12:38 PM,2021-06-11
+107,107,12:55 PM KJ232,,Yantai (YNT),Air Incheon B738 (HL8338),Landed 3:58 PM,2021-06-11
+108,108,1:05 PM OZ121,,Nagoya (NGO),Asiana Airlines 321,Unknown,2021-06-11
+109,109,1:10 PM KE906,,Frankfurt (FRA),Korean Air 789,Canceled,2021-06-11
+110,110,1:15 PM KE832,,Shenyang (SHE),Korean Air A333 (HL7702),Landed 1:13 PM,2021-06-11
+111,111,1:20 PM OZ111,,Osaka (KIX),Asiana Airlines A21N (HL8398),Landed 1:07 PM,2021-06-11
+112,112,1:35 PM OZ952,,Hong Kong (HKG),Asiana Airlines 74F,Unknown,2021-06-11
+113,113,1:50 PM 7C1301,,Osaka (KIX),Jeju Air 738,Unknown,2021-06-11
+114,114,1:55 PM OZ241,,Seattle (SEA),Asiana Airlines 74F,Unknown,2021-06-11
+115,115,2:00 PM 9C8625,,Ningbo (NGB),Spring Airlines A320 (B-9940),Landed 2:24 PM,2021-06-11
+116,116,2:05 PM TW670,,Taichung (RMQ),T'way Air 737,Canceled,2021-06-11
+117,117,2:10 PM EY903,,Abu Dhabi (AUH),Etihad (Abu Dhabi Grand Prix Livery) B789 (A6-BLV),Landed 1:29 PM,2021-06-11
+118,118,2:10 PM 7C1401,,Fukuoka (FUK),Jeju Air 738,Unknown,2021-06-11
+119,119,2:11 PM 5Y9763,,Miami (MIA),Atlas Air B744 (N499MC),Landed 2:05 PM,2021-06-11
+120,120,2:15 PM KE538,,Frankfurt (FRA),Korean Air Cargo B748 (HL7639),Landed 2:09 PM,2021-06-11
+121,121,2:20 PM AA9718,,Dallas (DFW),American Airlines B789 (N823AN),Unknown,2021-06-11
+122,122,2:25 PM EY876,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Thailand Livery) B789 (A6-BLO),Landed 1:59 PM,2021-06-11
+123,123,2:35 PM OZ790,,Milan (MXP),Asiana Cargo B744 (HL7413),Landed 6:58 PM,2021-06-11
+124,124,2:40 PM AF198,,Paris (CDG),Air France B77W (F-GZNC),Landed 2:21 PM,2021-06-11
+125,125,2:50 PM OZ794,,Frankfurt (FRA),Asiana Cargo B744 (HL7415),Landed 3:06 PM,2021-06-11
+126,126,2:50 PM OM7301,,Ulaanbaatar (ULN),MIAT Mongolian Airlines B738 (JU-1015),Landed 2:52 PM,2021-06-11
+127,127,2:50 PM OZ793,,Frankfurt (FRA),Asiana Cargo B744 (HL7415),Unknown,2021-06-11
+128,128,2:55 PM KL831,,Amsterdam (AMS),KLM B772 (PH-BQA),Landed 2:48 PM,2021-06-11
+129,129,3:00 PM KE902,,Paris (CDG),Korean Air B77W (HL7202),Unknown,2021-06-11
+130,130,3:05 PM UA893,,San Francisco (SFO),United Airlines B789 (N24973),Landed 5:45 PM,2021-06-11
+131,131,3:05 PM 7C2602,,Taipei (TPE),Jeju Air 738,Unknown,2021-06-11
+132,132,3:05 PM KE8080,,Toronto (YYZ),Korean Air B789 (HL8083),Landed 3:04 PM,2021-06-11
+133,133,3:10 PM OM7307,,Ulaanbaatar (ULN),MIAT Mongolian Airlines (Borussia Dortmund Livery) B738 (EI-CXV),Landed 3:19 PM,2021-06-11
+134,134,3:15 PM AA281,,Dallas (DFW),American Airlines B788 (N802AN),Landed 2:42 PM,2021-06-11
+135,135,3:15 PM OZ3881,,Hanoi (HAN),Asiana Airlines 76F,Unknown,2021-06-11
+136,136,3:20 PM DL27,,Atlanta (ATL),Delta Air Lines A359 (N510DN),Unknown,2021-06-11
+137,137,3:50 PM OZ101,,Tokyo (NRT),Asiana Airlines A321 (HL8038),Landed 3:24 PM,2021-06-11
+138,138,3:50 PM TW606,,Jinan (TNA),T'Way Air B738 (HL8306),Landed 3:49 PM,2021-06-11
+139,139,4:10 PM AC7281,,Toronto (YYZ),Air Canada B77W (C-FIVS),Landed 3:43 PM,2021-06-11
+140,140,4:10 PM KE364,,Penang (PEN),Korean Air Cargo B744 (HL7605),Landed 5:47 PM,2021-06-11
+141,141,4:15 PM ET672,,Addis Ababa (ADD),Ethiopian Airlines B788 (ET-ASG),Landed 4:12 PM,2021-06-11
+142,142,4:15 PM KE396,,Singapore (SIN),Korean Air 74F,Unknown,2021-06-11
+143,143,4:20 PM KE36,,Atlanta (ATL),Korean Air B789 (HL8082),Landed 4:01 PM,2021-06-11
+144,144,4:30 PM DL159,,Detroit (DTW),Delta Air Lines A359 (N506DN),Landed 4:28 PM,2021-06-11
+145,145,4:35 PM KE278,,Vancouver (YVR),Korean Air Cargo B77L (HL8075),Landed 3:53 PM,2021-06-11
+146,146,4:35 PM 7C1105,,Tokyo (NRT),Jeju Air 738,Canceled,2021-06-11
+147,147,4:35 PM KE38,,Chicago (ORD),Korean Air B77W (HL8208),Landed 3:40 PM,2021-06-11
+148,148,4:50 PM KE692,,Taipei (TPE),Korean Air B789 (HL7208),Landed 4:33 PM,2021-06-11
+149,149,4:55 PM QR858,,Doha (DOH),Qatar Airways B77W (A7-BEL),Landed 4:26 PM,2021-06-11
+150,150,5:00 PM EK322,,Dubai (DXB),Emirates B77W (A6-ECI),Landed 4:35 PM,2021-06-11
+151,151,5:10 PM KE8040,,Chicago (ORD),Korean Air B77W (HL8006),Landed 4:50 PM,2021-06-11
+152,152,5:20 PM KE82,,New York (JFK),Korean Air B77W (HL7204),Landed 5:41 PM,2021-06-11
+153,153,5:20 PM OZ221,,New York (JFK),Asiana Airlines A359 (HL8079),Landed 4:46 PM,2021-06-11
+154,154,5:20 PM OZ722,,Hong Kong (HKG),Asiana Airlines A21N (HL8356),Landed 5:20 PM,2021-06-11
+155,155,5:25 PM KJ234,,Yantai (YNT),Air Incheon 73F,Unknown,2021-06-11
+156,156,5:30 PM KE704,,Tokyo (NRT),Korean Air B77W (HL7784),Landed 4:53 PM,2021-06-11
+157,157,5:35 PM OZ2037,,Los Angeles (LAX),Asiana Airlines A359 (HL8362),Landed 5:12 PM,2021-06-11
+158,158,5:40 PM TK90,,Istanbul (IST),Turkish Airlines B77W (TC-LJH),Landed 5:08 PM,2021-06-11
+159,159,5:50 PM KE72,,Vancouver (YVR),Korean Air A333 (HL8001),Landed 5:38 PM,2021-06-11
+160,160,5:55 PM TW126,,Da Nang (DAD),T'way Air 737,Canceled,2021-06-11
+161,161,6:00 PM 7C4604,,Angeles City (CRK),Jeju Air B738 (HL8317),Landed 5:49 PM,2021-06-11
+162,162,6:05 PM KE870,,Dalian (DLC),Korean Air (SkyTeam Livery) B77W (HL7783),Landed 5:52 PM,2021-06-11
+163,163,6:05 PM 5Y9761,,Chicago (ORD),Atlas Air B744 (N419MC),Unknown,2021-06-11
+164,164,6:10 PM OZ2511,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-11
+165,165,6:10 PM OZ396,,Singapore (SIN),Asiana Airlines 74F,Unknown,2021-06-11
+166,166,6:15 PM 7C2102,,Hong Kong (HKG),Jeju Air 738,Unknown,2021-06-11
+167,167,6:40 PM OZ998,,Tianjin (TSN),Asiana Cargo B763 (HL7507),Landed 5:43 PM,2021-06-11
+168,168,6:45 PM KE318,,Tianjin (TSN),Korean Air Cargo B77L (HL8043),Landed 6:38 PM,2021-06-11
+169,169,6:55 PM AA9733,,Los Angeles (LAX),American Airlines B772 (N766AN),Landed 1:09 PM,2021-06-11
+170,170,7:05 PM KE9204,,Los Angeles (LAX),Korean Air Cargo B77L (HL8076),Landed 6:18 PM,2021-06-11
+171,171,7:15 PM CX418,,Hong Kong (HKG),Cathay Pacific A359 (B-LRG),Landed 6:21 PM,2021-06-11
+172,172,7:15 PM KE480,,Hanoi (HAN),Korean Air B77W (HL8274),Landed 6:41 PM,2021-06-11
+173,173,7:20 PM TR896,,Taipei (TPE),Scoot B789 (9V-OJJ),Landed 6:56 PM,2021-06-11
+174,174,7:40 PM NZ1075,,Auckland (AKL),Air New Zealand B789 (ZK-NZC),Landed 7:42 PM,2021-06-11
+175,175,7:40 PM PO963,,Cincinnati (CVG),Polar Air Cargo 77F,Unknown,2021-06-11
+176,176,7:40 PM 9S963,,Cincinnati (CVG),DHL B77L (N705GT),Landed 7:24 PM,2021-06-11
+177,177,7:45 PM 7C3405,,Saipan (SPN),Jeju Air 738,Unknown,2021-06-11
+178,178,7:55 PM KE352,,Bangkok (BKK),Korean Air Cargo B77L (HL8046),Landed 6:50 PM,2021-06-11
+179,179,8:00 PM AC7327,,Vancouver (YVR),Air Canada B789 (C-FRTG),Landed 7:52 PM,2021-06-11
+180,180,8:05 PM AA128,,Shanghai (PVG),American Airlines B789 (N839AA),Landed 8:56 PM,2021-06-11
+181,181,8:15 PM AC7298,,Shanghai (PVG),Air Canada B77W (C-FIVX),Landed 8:16 PM,2021-06-11
+182,182,8:20 PM KE504,,Paris (CDG),Korean Air Cargo B77L (HL8251),Landed 7:29 PM,2021-06-11
+183,183,8:50 PM KE554,,Osaka (KIX),Korean Air Cargo B748 (HL7617),Landed 8:13 PM,2021-06-11
+184,184,8:50 PM 7C2202,,Bangkok (BKK),Jeju Air 738,Unknown,2021-06-11
+185,185,8:50 PM 5Y8366,,Los Angeles (LAX),Atlas Air B744 (N489MC),Landed 11:01 PM,2021-06-11
+186,186,9:15 PM 7C3101,,Guam (GUM),Jeju Air 738,Unknown,2021-06-11
+187,187,9:15 PM KE552,,Tokyo (NRT),Korean Air Cargo B748 (HL7610),Landed 8:31 PM,2021-06-11
+188,188,9:25 PM AF382,,Tianjin (TSN),Air France (SkyTeam Livery) B77W (F-GZNT),Landed 9:03 PM,2021-06-11
+189,189,9:30 PM K4918,,Anchorage (ANC),Kalitta Air B744 (N710CK),Landed 9:14 PM,2021-06-11
+190,190,9:35 PM PO7930,,New York (JFK),Polar Air Cargo 77F,Unknown,2021-06-11
+191,191,9:35 PM 9S7930,,New York (JFK),Southern Air B77L (N703GT),Landed 10:05 PM,2021-06-11
+192,192,10:00 PM,7C3173,Osaka (KIX),Jeju Air 737,Unknown,2021-06-11
+193,193,11:05 PM QR8980,,Doha (DOH),Qatar Cargo B748 (A7-BGB),Landed 10:58 PM,2021-06-11
+194,194,11:05 PM OZ2613,,Seattle (SEA),Asiana Cargo B744 (HL7436),Landed 11:06 PM,2021-06-11
+195,195,11:10 PM 5Y585,,Anchorage (ANC),Atlas Air B744 (N487MC),Landed 10:18 PM,2021-06-11
+196,196,11:15 PM RU447,,Moscow (SVO),AirBridgeCargo B748 (VQ-BLR),Landed 11:09 PM,2021-06-11
+197,197,11:20 PM KE8014,,Los Angeles (LAX),Korean Air B748 (HL7632),Landed 10:49 PM,2021-06-11
+198,198,11:25 PM KE8250,,Anchorage (ANC),Korean Air Cargo B77L (HL8045),Landed 6:15 PM,2021-06-11
+199,199,11:35 PM,KL832,Hangzhou (HGH),KLM B772 (PH-BQA),Landed 11:03 PM,2021-06-11
+200,200,11:50 PM LH8387,,Tokyo (NRT),Lufthansa Cargo (Flying 100% CO₂ neutral Livery) B77L (D-ALFG),Landed 11:40 PM,2021-06-11
+201,201,11:50 PM,ET673,Tokyo (NRT),Ethiopian Airlines B788 (ET-ASG),Landed 11:12 PM,2021-06-11
+202,202,11:50 PM LH8386,,Tokyo (NRT),Lufthansa 77X,Unknown,2021-06-11
+0,0,00:00 PO276,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-12
+1,1,00:35,AF193,Shanghai (PVG),Air France B77W (F-GZNC),Landed 00:23,2021-06-12
+2,2,00:40 7L614,,Osaka (KIX),Silk Way West Airlines 74Y,Unknown,2021-06-12
+3,3,01:15 K4237,,Cincinnati (CVG),Kalitta Air B744 (N742CK),Landed 01:14,2021-06-12
+4,4,01:35 LH8475,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFH),Landed 01:51,2021-06-12
+5,5,01:35 OZ2057,,Los Angeles (LAX),Asiana Airlines A359 (HL8360),Landed 00:52,2021-06-12
+6,6,01:35 LH8474,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFH),Unknown,2021-06-12
+7,7,01:40 5Y8065,,Anchorage (ANC),Atlas Air B744 (N486MC),Landed 00:45,2021-06-12
+8,8,01:55 CV7345,,Luxembourg (LUX),Cargolux (Cutaway Livery) B748 (LX-VCM),Landed 05:40,2021-06-12
+9,9,01:55 NH8535,,Tokyo (NRT),ANA Cargo B763 (JA602F),Landed 01:44,2021-06-12
+10,10,02:00 OZ2811,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-12
+11,11,02:20 CK257,,Shanghai (PVG),China Cargo Airlines B77L (B-2078),Unknown,2021-06-12
+12,12,02:45 KE9060,,Columbus (LCK),Korean Air B77W (HL7782),Landed 01:59,2021-06-12
+13,13,02:55 HT3813,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-12
+14,14,03:30 YG9073,,Yancheng (YNZ),YTO Cargo Airlines 73F,Unknown,2021-06-12
+15,15,03:40,AC25,Vancouver (YVR),Air Canada B77W (C-FIVR),Landed 03:15,2021-06-12
+16,16,03:50 CF221,,Zhengzhou (CGO),China Postal Airlines 73F,Unknown,2021-06-12
+17,17,03:55 HT3815,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-12
+18,18,04:05 PO997,,Los Angeles (LAX),DHL B744 (N451PA),Landed 15:51,2021-06-12
+19,19,04:15,DL289,Seattle (SEA),Delta Air Lines A339 (N409DX),Landed 04:05,2021-06-12
+20,20,04:20,OZ203,Los Angeles (LAX),Asiana Airlines A359 (HL8381),Landed 03:12,2021-06-12
+21,21,04:20,7C2306,Manila (MNL),Jeju Air 738,Unknown,2021-06-12
+22,22,04:45 8Y700,,Kalibo (KLO),Pan Pacific Airlines 320,Unknown,2021-06-12
+23,23,05:00,KE12,Los Angeles (LAX),Korean Air B77W (HL7203),Landed 04:18,2021-06-12
+24,24,05:00 KE624,,Manila (MNL),Korean Air B77W (HL8042),Landed 04:08,2021-06-12
+25,25,05:00 8Y600,,Cebu (CEB),Pan Pacific Airlines 320,Unknown,2021-06-12
+26,26,05:05,KE26,San Francisco (SFO),Korean Air A333 (HL8027),Landed 04:26,2021-06-12
+27,27,05:10 OZ704,,Manila (MNL),Asiana Airlines A333 (HL7793),Landed 04:12,2021-06-12
+28,28,05:20,KE672,Kuala Lumpur (KUL),Korean Air A333 (HL8002),Landed 04:59,2021-06-12
+29,29,05:25,KE680,Hanoi (HAN),Korean Air A333 (HL8025),Landed 06:28,2021-06-12
+30,30,05:35 GI4119,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-12
+31,31,05:45,LH8430,Beijing (PEK),Lufthansa Cargo B77L (D-ALFF),Landed 05:37,2021-06-12
+32,32,05:45 KE8024,,Seattle (SEA),Korean Air B77W (HL8210),Landed 04:29,2021-06-12
+33,33,05:55,TW108,Macau (MFM),T'way Air 737,Canceled,2021-06-12
+34,34,05:55 PO96,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-12
+35,35,06:00 PO224,,Nagoya (NGO),DHL B763 (N644GT),Landed 06:10,2021-06-12
+36,36,06:05,TW122,Ho Chi Minh City (SGN),T'way Air 737,Canceled,2021-06-12
+37,37,06:05 KE316,,Shanghai (PVG),Korean Air Cargo B748 (HL7617),Landed 07:29,2021-06-12
+38,38,06:20,OZ752,Singapore (SIN),Asiana Airlines A333 (HL7794),Landed 06:20,2021-06-12
+39,39,06:20 5Y8051,,Miami (MIA),Atlas Air B744 (N418MC),Landed 06:14,2021-06-12
+40,40,06:30 LX2796,,Zurich (ZRH),Swiss B77W (HB-JNJ),Landed 06:53,2021-06-12
+41,41,06:35,TW128,Da Nang (DAD),T'way Air 737,Canceled,2021-06-12
+42,42,06:40 5Y8143,,Chicago (ORD),Atlas Air B744 (N493MC),Landed 06:32,2021-06-12
+43,43,06:45 OZ970,,Hong Kong (HKG),Asiana Airlines 74F,Unknown,2021-06-12
+44,44,06:50,KE684,Ho Chi Minh City (SGN),Korean Air A333 (HL7709),Landed 06:35,2021-06-12
+45,45,06:50 OZ762,,Jakarta (CGK),Asiana Airlines A333 (HL7795),Landed 06:49,2021-06-12
+46,46,06:55,7C2406,Cebu (CEB),Jeju Air 738,Unknown,2021-06-12
+47,47,07:00,KE690,Phnom Penh (PNH),Korean Air A333 (HL7587),Landed 06:43,2021-06-12
+48,48,07:00 OZ285,,San Francisco (SFO),Asiana Cargo B744 (HL7616),Landed 06:51,2021-06-12
+49,49,07:05,KE628,Jakarta (CGK),Korean Air B77W (HL8009),Landed 07:00,2021-06-12
+50,50,07:10 OZ7705,,Bengaluru (BLR),Asiana Airlines A359 (HL8308),Landed 06:58,2021-06-12
+51,51,07:10 OZ988,,Shanghai (PVG),Asiana Cargo B744 (HL7436),Landed 08:12,2021-06-12
+52,52,07:15,OZ740,Phnom Penh (PNH),Asiana Airlines A21N (HL8364),Landed 07:15,2021-06-12
+53,53,07:25,KE652,Bangkok (BKK),Korean Air A333 (HL8026),Landed 07:13,2021-06-12
+54,54,07:25,7C2804,Hanoi (HAN),Jeju Air 738,Unknown,2021-06-12
+55,55,07:30 GI4116,,Linyi (LYI),Longhao Airlines 73F,Unknown,2021-06-12
+56,56,07:30 K4908,,Anchorage (ANC),Kalitta Air B744 (N402KZ),Landed 06:55,2021-06-12
+57,57,07:35,LH8391,Osaka (KIX),Lufthansa Cargo B77L (D-ALFC),Landed 07:10,2021-06-12
+58,58,07:45 KE314,,Hong Kong (HKG),Korean Air Cargo B77L (HL8076),Landed 07:02,2021-06-12
+59,59,07:50 KJ212,,Chengdu (CTU),Air Incheon B738 (HL8338),Landed 08:46,2021-06-12
+60,60,07:55 KE214,,San Francisco (SFO),Korean Air Cargo B748 (HL7609),Landed 07:33,2021-06-12
+61,61,08:00 PO938,,Shanghai (PVG),DHL B744 (N454PA),Landed 08:19,2021-06-12
+62,62,08:00 OZ283,,San Francisco (SFO),Asiana Airlines 74F,Unknown,2021-06-12
+63,63,08:00 GI4238,,Yantai (YNT),Longhao Airlines 73F,Unknown,2021-06-12
+64,64,08:15 OZ934,,Guangzhou (CAN),Asiana Cargo B744 (HL7419),Landed 12:20,2021-06-12
+65,65,08:20 AY41,,Helsinki (HEL),Finnair A359 (OH-LWD),Landed 08:00,2021-06-12
+66,66,08:35 LD128,,Hong Kong (HKG),DHL A306 (B-LDE),Landed 08:24,2021-06-12
+67,67,08:45 KE324,,Xi'an (XIY),Korean Air Cargo B744 (HL7603),Landed 07:57,2021-06-12
+68,68,08:50 KE320,,Guangzhou (CAN),Korean Air Cargo B77L (HL8046),Landed 08:16,2021-06-12
+69,69,08:50 KJ2123,,Chengdu (CTU),Air Incheon 73F,Unknown,2021-06-12
+70,70,08:55 LO97,,Warsaw (WAW),LOT B789 (SP-LSF),Landed 08:59,2021-06-12
+71,71,08:55 KL895,,Amsterdam (AMS),KLM B77W (PH-BVP),Landed 09:03,2021-06-12
+72,72,09:15,OZ742,Bangkok (BKK),Asiana Airlines A333 (HL8259),Landed 08:10,2021-06-12
+73,73,09:40,KE924,Moscow (SVO),Korean Air A333 (HL7586),Landed 09:15,2021-06-12
+74,74,10:15 AA9819,,Los Angeles (LAX),American Airlines B788 (N808AN),Unknown,2021-06-12
+75,75,10:15,TW164,Hanoi (HAN),T'way Air 737,Canceled,2021-06-12
+76,76,10:20 QF7557,,Chongqing (CKG),Atlas Air B748 (N854GT),Unknown,2021-06-12
+77,77,10:20 KE234,,Seattle (SEA),Korean Air Cargo B748 (HL7623),Landed 09:51,2021-06-12
+78,78,10:30 ET3640,,Oslo (OSL),Ethiopian Cargo B77L (ET-ARK),Landed 09:20,2021-06-12
+79,79,10:30 KE362,,Hanoi (HAN),Korean Air Cargo B744 (HL7605),Landed 10:32,2021-06-12
+80,80,10:55 5X26,,Anchorage (ANC),UPS B763 (N309UP),Landed 10:57,2021-06-12
+81,81,11:00,CI160,Taipei (TPE),China Airlines B77W (B-18003),Landed 10:41,2021-06-12
+82,82,11:00 UA2770,,Chicago (ORD),United Airlines B789 (N26952),Landed 10:35,2021-06-12
+83,83,11:05 CK257,,Shanghai (PVG),China Cargo Airlines B77L (B-2078),Landed 02:45,2021-06-12
+84,84,11:15 AA9704,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-12
+85,85,11:20,LH8400,Shanghai (PVG),Lufthansa Cargo (Cargo Human Care Livery) B77L (D-ALFI),Landed 11:06,2021-06-12
+86,86,11:45 OZ588,,Brussels (BRU),Asiana Airlines 74F,Unknown,2021-06-12
+87,87,11:45 PO237,,Cincinnati (CVG),DHL B748 (N858GT),Landed 10:29,2021-06-12
+88,88,11:50 OZ542,,Frankfurt (FRA),Asiana Airlines A359 (HL7771),Landed 12:01,2021-06-12
+89,89,11:55 AI1312,,Delhi (DEL),Air India 788,Unknown,2021-06-12
+90,90,12:00 KE544,,Frankfurt (FRA),Korean Air 77X,Unknown,2021-06-12
+91,91,12:07 K4947,,Anchorage (ANC),Kalitta Air B744 (N712CK),Landed 12:08,2021-06-12
+92,92,12:20 KE252,,New York (JFK),Korean Air Cargo B77L (HL8226),Landed 12:11,2021-06-12
+93,93,12:20 KE9576,,Milan (MXP),Korean Air Cargo B77L (HL8252),Landed 10:09,2021-06-12
+94,94,12:25,DL288,Shanghai (PVG),Delta Air Lines A339 (N409DX),Landed 12:23,2021-06-12
+95,95,12:35 KE592,,Madrid (MAD),Korean Air Cargo B748 (HL7624),Landed 14:26,2021-06-12
+96,96,12:35,MF871,Xiamen (XMN),Xiamen Air B738 (B-5162),Landed 13:24,2021-06-12
+97,97,12:35 AA9707,,Dallas (DFW),American Airlines B789 (N832AA),Landed 12:25,2021-06-12
+98,98,12:55 AC7297,,Toronto (YYZ),Air Canada B789 (C-FVLX),Landed 13:07,2021-06-12
+99,99,12:55 KJ232,,Yantai (YNT),Air Incheon B738 (HL8338),Landed 15:55,2021-06-12
+100,100,12:55 5Y8762,,Los Angeles (LAX),Atlas Air B744 (N496MC),Landed 12:35,2021-06-12
+101,101,13:00,KE742,Nagoya (NGO),Korean Air A333 (HL7709),Landed 12:49,2021-06-12
+102,102,13:10 KE906,,Frankfurt (FRA),Korean Air B789 (HL7207),Landed 13:02,2021-06-12
+103,103,13:10 5Y2678,,Anchorage (ANC),Atlas Air B744 (N415MC),Landed 12:57,2021-06-12
+104,104,13:25 OZ247,,Anchorage (ANC),Asiana Cargo B744 (HL7423),Landed 05:03,2021-06-12
+105,105,13:30 FX5230,,Anchorage (ANC),FedEx B77L (N860FD),Landed 13:11,2021-06-12
+106,106,13:50 7C1301,,Osaka (KIX),Jeju Air 738,Unknown,2021-06-12
+107,107,13:55,AC26,Shanghai (PVG),Air Canada B77W (C-FIVR),Landed 13:26,2021-06-12
+108,108,13:57 KE256,,Anchorage (ANC),Korean Air Cargo B744 (HL7602),Landed 13:37,2021-06-12
+109,109,14:00 PO237,,Anchorage (ANC),DHL B748 (N858GT),Unknown,2021-06-12
+110,110,14:05 OZ796,,Frankfurt (FRA),Asiana Cargo B744 (HL7417),Landed 15:47,2021-06-12
+111,111,14:05 TW670,,Taichung (RMQ),T'way Air 737,Canceled,2021-06-12
+112,112,14:10 7C1401,,Fukuoka (FUK),Jeju Air 738,Unknown,2021-06-12
+113,113,14:10 5Y9761,,Chicago (ORD),Atlas Air B744 (N419MC),Landed 13:43,2021-06-12
+114,114,14:20 AA9718,,Dallas (DFW),American Airlines B788 (N814AA),Landed 11:30,2021-06-12
+115,115,14:25 EY876,,Abu Dhabi (AUH),Etihad Airways B789 (A6-BLQ),Landed 14:15,2021-06-12
+116,116,14:45 KE510,,Stockholm (ARN),Korean Air 77X,Unknown,2021-06-12
+117,117,14:45 K4828,,Anchorage (ANC),Kalitta Air B744 (N701CK),Landed 14:59,2021-06-12
+118,118,14:50 OM7301,,Ulaanbaatar (ULN),MIAT Mongolian Airlines 73H,Unknown,2021-06-12
+119,119,14:55 KL855,,Amsterdam (AMS),KLM B77W (PH-BVB),Landed 14:43,2021-06-12
+120,120,15:05 UA857,,San Francisco (SFO),United Airlines B77W (N2737U),Landed 15:15,2021-06-12
+121,121,15:05 UA893,,San Francisco (SFO),United Airlines B789 (N13954),Landed 15:01,2021-06-12
+122,122,15:05 7C2602,,Taipei (TPE),Jeju Air 738,Unknown,2021-06-12
+123,123,15:10 AA9743,,Dallas (DFW),American Airlines B772,Unknown,2021-06-12
+124,124,15:15 DL197,,Seattle (SEA),Delta Air Lines A339 (N407DX),Landed 15:40,2021-06-12
+125,125,15:15 AA281,,Dallas (DFW),American Airlines B788 (N806AA),Landed 14:46,2021-06-12
+126,126,15:20 DL27,,Atlanta (ATL),Delta Air Lines A359 (N513DZ),Landed 15:06,2021-06-12
+127,127,15:30 KE262,,Seattle (SEA),Korean Air B744,Unknown,2021-06-12
+128,128,15:35 SQ600,,Singapore (SIN),Singapore Airlines B78X (9V-SCG),Landed 14:53,2021-06-12
+129,129,15:40 AC61,,Toronto (YYZ),Air Canada B789 (C-FVNB),Landed 15:20,2021-06-12
+130,130,15:45 KE368,,Penang (PEN),Korean Air Cargo B744 (HL7601),Landed 15:34,2021-06-12
+131,131,15:45 OZ398,,Bangkok (BKK),Asiana Airlines 74F,Unknown,2021-06-12
+132,132,15:45 K4902,,Anchorage (ANC),Kalitta Air B744 (N716CK),Landed 14:56,2021-06-12
+133,133,15:50 OZ101,,Tokyo (NRT),Asiana Airlines A21N (HL8398),Landed 15:24,2021-06-12
+134,134,15:55 KE8080,,Toronto (YYZ),Korean Air B789 (HL8081),Landed 15:13,2021-06-12
+135,135,16:00 AF264,,Paris (CDG),Air France B77W (F-GZNP),Unknown,2021-06-12
+136,136,16:05 OZ241,,Seattle (SEA),Asiana Airlines B744 (HL7421),Landed 15:37,2021-06-12
+137,137,16:15 KE38,,Chicago (ORD),Korean Air B77W (HL8346),Landed 16:18,2021-06-12
+138,138,16:20 KE36,,Atlanta (ATL),Korean Air B789 (HL7209),Landed 16:32,2021-06-12
+139,139,16:25 KE92,,Boston (BOS),Korean Air B789 (HL8345),Landed 15:59,2021-06-12
+140,140,16:30 DL159,,Detroit (DTW),Delta Air Lines A359 (N515DN),Landed 16:25,2021-06-12
+141,141,16:30 PO751,,Cincinnati (CVG),Polar Air Cargo B744,Unknown,2021-06-12
+142,142,16:35 KE278,,Vancouver (YVR),Korean Air 777,Unknown,2021-06-12
+143,143,16:35 OZ986,,Yantai (YNT),Asiana Cargo B763 (HL7507),Landed 18:28,2021-06-12
+144,144,16:35 7C1105,,Tokyo (NRT),Jeju Air B738 (HL8316),Landed 16:11,2021-06-12
+145,145,16:50 KE94,,Washington (IAD),Korean Air B789 (HL7206),Landed 16:55,2021-06-12
+146,146,16:55 OZ712,,Taipei (TPE),Asiana Airlines A333 (HL7795),Landed 16:23,2021-06-12
+147,147,16:55 QR858,,Doha (DOH),Qatar Airways B77W (A7-BEM),Landed 16:30,2021-06-12
+148,148,17:00 EK322,,Dubai (DXB),Emirates B77W (A6-ECO),Landed 16:40,2021-06-12
+149,149,17:10 KE8040,,Chicago (ORD),Korean Air B77W (HL8275),Landed 17:21,2021-06-12
+150,150,17:20 KE82,,New York (JFK),Korean Air B77W (HL8008),Landed 17:39,2021-06-12
+151,151,17:20 OZ221,,New York (JFK),Asiana Airlines A359 (HL8382),Landed 17:05,2021-06-12
+152,152,17:25 KJ234,,Yantai (YNT),Air Incheon 73F,Unknown,2021-06-12
+153,153,17:30 KE704,,Tokyo (NRT),Korean Air B77W (HL8042),Landed 17:02,2021-06-12
+154,154,17:35 OZ2037,,Los Angeles (LAX),Asiana Airlines A359 (HL8078),Landed 17:47,2021-06-12
+155,155,17:40 TK90,,Istanbul (IST),Turkish Airlines B77W (TC-JJN),Landed 17:18,2021-06-12
+156,156,17:45 OZ271,,Seattle (SEA),Asiana Airlines A359 (HL8359),Landed 17:26,2021-06-12
+157,157,17:50 KE18,,Los Angeles (LAX),Korean Air B77W (HL8041),Landed 17:07,2021-06-12
+158,158,17:50 KE72,,Vancouver (YVR),Korean Air A333 (HL8003),Landed 17:49,2021-06-12
+159,159,17:55 TW126,,Da Nang (DAD),T'way Air 737,Canceled,2021-06-12
+160,160,18:05 5J188,,Manila (MNL),Cebu Pacific A21N (RP-C4123),Landed 17:42,2021-06-12
+161,161,18:10 OZ396,,Singapore (SIN),Asiana Cargo B744 (HL7616),Landed 03:22,2021-06-12
+162,162,18:15 7C2102,,Hong Kong (HKG),Jeju Air 738,Unknown,2021-06-12
+163,163,18:20 OZ998,,Tianjin (TSN),Asiana Airlines B744 (HL7421),Landed 23:27,2021-06-12
+164,164,18:25 5Y8675,,Los Angeles (LAX),Atlas Air B744 (N406KZ),Landed 18:32,2021-06-12
+165,165,18:45 KE318,,Tianjin (TSN),Korean Air Cargo B77L (HL8252),Landed 18:23,2021-06-12
+166,166,18:55 AA9733,,Los Angeles (LAX),American Airlines B772 (N780AN),Landed 13:30,2021-06-12
+167,167,19:00 HA459,,Honolulu (HNL),Hawaiian Airlines A332 (N375HA),Landed 19:21,2021-06-12
+168,168,19:15 5Y8709,,Anchorage (ANC),Atlas Air B748 (N859GT),Landed 18:34,2021-06-12
+169,169,19:45 7C3405,,Saipan (SPN),Jeju Air 738,Unknown,2021-06-12
+170,170,19:45,CI162,Taipei (TPE),China Airlines 333,Canceled,2021-06-12
+171,171,19:50 QW9901,,Qingdao (TAO),Qingdao Airlines A20N (B-30A1),Landed 19:33,2021-06-12
+172,172,19:55 AA9709,,Shanghai (PVG),American Airlines B789 (N832AA),Landed 19:17,2021-06-12
+173,173,19:55 KE9090,,New York (JFK),Korean Air B77W (HL8209),Landed 19:57,2021-06-12
+174,174,20:00 PO277,,Bahrain (BAH),Polar Air Cargo 77F,Unknown,2021-06-12
+175,175,20:15 AC7298,,Shanghai (PVG),Air Canada B789 (C-FVLX),Landed 19:43,2021-06-12
+176,176,20:25,CX35,Osaka (KIX),Cathay Pacific Cargo B748 (B-LJE),Landed 20:43,2021-06-12
+177,177,20:50 KE554,,Osaka (KIX),Korean Air Cargo B748 (HL7624),Landed 22:00,2021-06-12
+178,178,20:50,7C2202,Bangkok (BKK),Jeju Air 738,Unknown,2021-06-12
+179,179,20:55 KE274,,Los Angeles (LAX),Korean Air Cargo B77L (HL8077),Landed 20:23,2021-06-12
+180,180,21:15 7C3101,,Guam (GUM),Jeju Air 738,Unknown,2021-06-12
+181,181,21:15 KE552,,Tokyo (NRT),Korean Air Cargo B748 (HL7623),Landed 21:30,2021-06-12
+182,182,21:20 KJ3116,,Tokyo (NRT),Air Incheon 73F,Unknown,2021-06-12
+183,183,22:00,7C3173,Osaka (KIX),Jeju Air 737,Unknown,2021-06-12
+184,184,22:30 KE558,,Kitakyushu (KKJ),Korean Air Cargo B77L (HL8226),Landed 19:54,2021-06-12
+185,185,22:55 UA858,,Shanghai (PVG),United Airlines B77W (N2737U),Landed 22:53,2021-06-12
+186,186,23:05 OZ2813,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-12
+187,187,23:15 OZ191,,Osaka (KIX),Asiana Cargo B763 (HL7507),Landed 00:14,2021-06-12
+188,188,23:20 KE9014,,Los Angeles (LAX),Korean Air B789 (HL8085),Landed 23:09,2021-06-12
+189,189,23:48 K4812,,Anchorage (ANC),Kalitta Air B744 (N715CK),Landed 23:49,2021-06-12
+190,190,23:50,LH8385,Tokyo (NRT),Lufthansa Cargo B77L (D-ALFA),Landed 23:24,2021-06-12
+191,191,23:50 RU692,,Tokyo (NRT),AirBridgeCargo B748 (VQ-BRJ),Landed 23:05,2021-06-12
+0,0,00:10 KE224,,Tokyo (NRT),Korean Air Cargo B77L (HL8285),Landed 23:02,2021-06-13
+1,1,00:10 PO226,,Taipei (TPE),DHL B763 (N644GT),Landed 01:02,2021-06-13
+2,2,00:40 KE354,,Singapore (SIN),Korean Air Cargo B744 (HL7605),Landed 02:45,2021-06-13
+3,3,00:40 5Y545,,Anchorage (ANC),Atlas Air B744 (N408MC),Landed 00:34,2021-06-13
+4,4,01:35 OZ2057,,Los Angeles (LAX),Asiana Airlines A359 (HL8362),Landed 00:52,2021-06-13
+5,5,01:45 KE8016,,Los Angeles (LAX),Korean Air B77W (HL7784),Landed 01:09,2021-06-13
+6,6,01:55 NH8535,,Tokyo (NRT),All Nippon Airways 76F,Unknown,2021-06-13
+7,7,01:55 OZ1816,,Tokyo (NRT),Asiana Airlines 76F,Unknown,2021-06-13
+8,8,02:10 PO974,,Hong Kong (HKG),Polar Air Cargo 744,Unknown,2021-06-13
+9,9,02:10 5X39,,Sydney (SYD),UPS B748 (N614UP),Landed 01:54,2021-06-13
+10,10,02:20 CK257,,Shanghai (PVG),China Cargo Airlines B77L (B-2079),Unknown,2021-06-13
+11,11,02:35 5Y539,,New York (JFK),Atlas Air B744 (N416MC),Landed 01:37,2021-06-13
+12,12,02:45 KE9060,,Columbus (LCK),Korean Air B77W (HL8250),Landed 02:12,2021-06-13
+13,13,02:48 5Y4415,,Los Angeles (LAX),Atlas Air B744 (N407KZ),Landed 02:31,2021-06-13
+14,14,02:50 TK6544,,Istanbul (ISL),Turkish Cargo B77L (TC-LJM),Landed 22:16,2021-06-13
+15,15,02:55,DL283,Detroit (DTW),Delta Air Lines A359 (N514DN),Landed 02:52,2021-06-13
+16,16,02:55 HT3813,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-13
+17,17,03:15 QR8982,,Doha (DOH),Qatar Cargo B748 (A7-BGA),Landed 03:28,2021-06-13
+18,18,03:25 O37053,,Chengdu (CTU),SF Airlines 73F,Unknown,2021-06-13
+19,19,03:35 7L128,,Baku (GYD),Silk Way West Airlines 74N,Unknown,2021-06-13
+20,20,03:55 HT3815,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-13
+21,21,04:05 LH8459,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFE),Landed 03:53,2021-06-13
+22,22,04:05 LH8458,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFE),Unknown,2021-06-13
+23,23,04:20,OZ203,Los Angeles (LAX),Asiana Airlines A359 (HL7579),Landed 03:55,2021-06-13
+24,24,04:20,7C2306,Manila (MNL),Jeju Air 738,Unknown,2021-06-13
+25,25,04:30,OZ211,San Francisco (SFO),Asiana Airlines A359 (HL8079),Landed 03:46,2021-06-13
+26,26,04:45 8Y700,,Kalibo (KLO),Pan Pacific Airlines 320,Unknown,2021-06-13
+27,27,05:00,KE12,Los Angeles (LAX),Korean Air B77W (HL7205),Landed 04:28,2021-06-13
+28,28,05:00 KE624,,Manila (MNL),Korean Air B77W (HL8007),Landed 04:17,2021-06-13
+29,29,05:00 8Y600,,Cebu (CEB),Pan Pacific Airlines 320,Unknown,2021-06-13
+30,30,05:05,KE26,San Francisco (SFO),Korean Air A333 (HL8001),Landed 04:47,2021-06-13
+31,31,05:05 9S8028,,Los Angeles (LAX),Southern Air B77L (N704GT),Landed 05:12,2021-06-13
+32,32,05:10 OZ704,,Manila (MNL),Asiana Airlines A333 (HL7794),Landed 04:21,2021-06-13
+33,33,05:25,KE608,Hong Kong (HKG),Korean Air B789 (HL7209),Landed 04:55,2021-06-13
+34,34,05:35 GI4119,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-13
+35,35,05:45 CV6486,,Beijing (PEK),Cargolux 74Y,Unknown,2021-06-13
+36,36,05:45 CV6497,,Beijing (PEK),Cargolux B744 (LX-RCV),Landed 05:34,2021-06-13
+37,37,05:50 KJ2626,,Chongqing (CKG),Air Incheon 73F,Unknown,2021-06-13
+38,38,05:55 KE542,,Oslo (OSL),Korean Air Cargo B77L (HL8045),Landed 04:44,2021-06-13
+39,39,06:00 OZ6023,,Sydney (SYD),Asiana Airlines A359 (HL8361),Landed 05:46,2021-06-13
+40,40,06:00 AM90,,Mexico City (MEX),Aeromexico B788 (XA-AMX),Landed 05:28,2021-06-13
+41,41,06:05,TW122,Ho Chi Minh City (SGN),T'way Air 737,Canceled,2021-06-13
+42,42,06:20 KE8232,,Chicago (ORD),Korean Air Cargo B77L (HL8075),Landed 06:22,2021-06-13
+43,43,06:35,TW128,Da Nang (DAD),T'way Air 737,Canceled,2021-06-13
+44,44,06:50,KE684,Ho Chi Minh City (SGN),Korean Air A333 (HL8002),Landed 06:27,2021-06-13
+45,45,06:55,7C2406,Cebu (CEB),Jeju Air 738,Unknown,2021-06-13
+46,46,07:05,KE628,Jakarta (CGK),Korean Air A333 (HL8025),Landed 07:18,2021-06-13
+47,47,07:05 PO7680,,Hong Kong (HKG),Polar Air Cargo B744,Unknown,2021-06-13
+48,48,07:10,OZ736,Ho Chi Minh City (SGN),Asiana Airlines A333 (HL8259),Landed 06:57,2021-06-13
+49,49,07:10 OZ988,,Shanghai (PVG),Asiana Cargo B744 (HL7413),Landed 07:57,2021-06-13
+50,50,07:25,KE652,Bangkok (BKK),Korean Air A333 (HL7586),Landed 07:22,2021-06-13
+51,51,07:25,7C2804,Hanoi (HAN),Jeju Air 738,Unknown,2021-06-13
+52,52,07:30,LH8402,Shanghai (PVG),Lufthansa Cargo B77L (D-ALFH),Landed 07:45,2021-06-13
+53,53,07:35,LH8410,Chengdu (CTU),Lufthansa Cargo (Flying 100% CO₂ neutral Livery) B77L (D-ALFG),Landed 14:06,2021-06-13
+54,54,07:45 KE314,,Hong Kong (HKG),Korean Air Cargo B77L (HL8005),Landed 07:29,2021-06-13
+55,55,08:00 OZ285,,San Francisco (SFO),Asiana Airlines 74F,Unknown,2021-06-13
+56,56,08:00 GI4238,,Yantai (YNT),Longhao Airlines 73F,Unknown,2021-06-13
+57,57,08:20 AY41,,Helsinki (HEL),Finnair A359 (OH-LWI),Landed 07:54,2021-06-13
+58,58,08:20 KE320,,Guangzhou (CAN),Korean Air Cargo B77L (HL8077),Landed 08:23,2021-06-13
+59,59,08:35 KE214,,San Francisco (SFO),Korean Air Cargo B748 (HL7610),Landed 08:34,2021-06-13
+60,60,08:35,KE646,Singapore (SIN),Korean Air (SuperM Livery) B77W (HL8010),Landed 08:00,2021-06-13
+61,61,08:35 KE336,,Shanghai (PVG),Korean Air 74Y,Unknown,2021-06-13
+62,62,08:50 RU692,,Tokyo (NRT),AirBridgeCargo Airlines 74N,Unknown,2021-06-13
+63,63,08:55 LD128,,Hong Kong (HKG),DHL A306 (B-LDD),Unknown,2021-06-13
+64,64,09:00,SQ608,Singapore (SIN),Singapore Airlines B78X (9V-SCB),Landed 08:27,2021-06-13
+65,65,09:10 LH718,,Munich (MUC),Lufthansa A359 (D-AIXJ),Landed 09:02,2021-06-13
+66,66,09:10 LD128,,Hong Kong (HKG),DHL A306 (B-LDE),Landed 12:58,2021-06-13
+67,67,09:15,OZ742,Bangkok (BKK),Asiana Airlines A333 (HL7795),Landed 08:14,2021-06-13
+68,68,09:17 OZ283,,Anchorage (ANC),Asiana Cargo B744 (HL7420),Landed 09:45,2021-06-13
+69,69,09:20 LO97,,Warsaw (WAW),LOT B788 (SP-LRC),Landed 09:20,2021-06-13
+70,70,10:00 VN5408,,Ho Chi Minh City (SGN),Vietnam Airlines B789 (VN-A861),Landed 08:51,2021-06-13
+71,71,10:15 KE362,,Hanoi (HAN),Korean Air Cargo B744 (HL7602),Landed 10:21,2021-06-13
+72,72,10:15 AA9819,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-13
+73,73,10:15 TW164,,Hanoi (HAN),T'way Air 737,Canceled,2021-06-13
+74,74,10:27 KL895,,Amsterdam (AMS),KLM (SkyTeam Livery) B77W (PH-BVD),Landed 10:33,2021-06-13
+75,75,10:45 5X88,,Anchorage (ANC),UPS B748 (N621UP),Landed 10:23,2021-06-13
+76,76,10:58 KD6465,,Anchorage (ANC),Western Global Airlines MD11 (N581JN),Landed 11:00,2021-06-13
+77,77,11:05 CK257,,Shanghai (PVG),China Cargo Airlines B77L (B-2079),Landed 03:48,2021-06-13
+78,78,11:10 QF7589,,Shanghai (PVG),Atlas Air B748 (N856GT),Landed 11:56,2021-06-13
+79,79,11:15 AA9704,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-13
+80,80,11:15 5X64,,Anchorage (ANC),UPS Airlines B742,Unknown,2021-06-13
+81,81,11:30 CI160,,Taipei (TPE),China Airlines B77W (B-18051),Landed 11:05,2021-06-13
+82,82,11:31 5Y9492,,Fairfield (SUU),Atlas Air B744 (N429MC),Landed 11:24,2021-06-13
+83,83,11:40 ZG41,,Tokyo (NRT),ZIPAIR B788 (JA825J),Landed 11:26,2021-06-13
+84,84,11:45 AC7291,,Vancouver (YVR),Air Canada B77W (C-FNNW),Landed 11:34,2021-06-13
+85,85,11:45 CZ681,,Shenyang (SHE),China Southern Airlines A333 (B-300U),Landed 11:21,2021-06-13
+86,86,12:05 KE530,,Frankfurt (FRA),Korean Air Cargo B748 (HL7617),Landed 11:59,2021-06-13
+87,87,12:10 KE9576,,Milan (MXP),Korean Air Cargo B77L (HL8252),Unknown,2021-06-13
+88,88,12:15 K4816,,Anchorage (ANC),Kalitta Air B744 (N706CK),Landed 14:09,2021-06-13
+89,89,12:30 K4978,,Anchorage (ANC),DHL B744 (N743CK),Landed 14:22,2021-06-13
+90,90,12:35 DL284,,Shanghai (PVG),Delta Air Lines A359 (N514DN),Landed 12:32,2021-06-13
+91,91,12:35 AA9707,,Dallas (DFW),American Airlines B789 (N841AN),Landed 12:37,2021-06-13
+92,92,12:35 FX5132,,Anchorage (ANC),FedEx MD11 (N607FE),Landed 12:41,2021-06-13
+93,93,12:50 OZ780,,Frankfurt (FRA),Asiana Airlines 74F,Unknown,2021-06-13
+94,94,12:55 AC7297,,Toronto (YYZ),Air Canada B77W (C-FIVX),Landed 12:15,2021-06-13
+95,95,13:10 KE906,,Frankfurt (FRA),Korean Air B789 (HL7208),Landed 12:48,2021-06-13
+96,96,13:10 OZ247,,Anchorage (ANC),Asiana Cargo B744 (HL7423),Landed 20:16,2021-06-13
+97,97,13:20 OZ111,,Osaka (KIX),Asiana Airlines A21N (HL8364),Landed 13:07,2021-06-13
+98,98,13:30 AF123,,Shanghai (PVG),Air France (SkyTeam Livery) B77W (F-GZNN),Landed 14:00,2021-06-13
+99,99,13:50 7C1301,,Osaka (KIX),Jeju Air B738 (HL8316),Landed 13:21,2021-06-13
+100,100,13:55 OZ241,,Seattle (SEA),Asiana Airlines 74F,Unknown,2021-06-13
+101,101,14:05 TW670,,Taichung (RMQ),T'way Air 737,Canceled,2021-06-13
+102,102,14:10 7C1401,,Fukuoka (FUK),Jeju Air 738,Unknown,2021-06-13
+103,103,14:20 AA9718,,Dallas (DFW),American Airlines B788 (N871AY),Landed 12:11,2021-06-13
+104,104,14:25 KL891,,Chengdu (CTU),KLM B77W (PH-BVF),Landed 14:13,2021-06-13
+105,105,14:25 EY876,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Italy Livery) B789 (A6-BLT),Landed 14:05,2021-06-13
+106,106,14:30 LJ981,,Seoul (ICN),Jin Air B738 (HL8246),Landed 14:26,2021-06-13
+107,107,14:35 KE908,,London (LHR),Korean Air B77W (HL8011),Landed 14:34,2021-06-13
+108,108,14:35 OZ790,,Milan (MXP),Asiana Airlines 74F,Unknown,2021-06-13
+109,109,14:40 PO249,,Tokyo (NRT),DHL B763 (N644GT),Landed 14:03,2021-06-13
+110,110,14:50 S76271,,Vladivostok (VVO),S7 Airlines A20N (VP-BWN),Landed 16:47,2021-06-13
+111,111,14:55 KL855,,Amsterdam (AMS),KLM B772 (PH-BQO),Landed 14:38,2021-06-13
+112,112,15:00 PO989,,Anchorage (ANC),DHL B748 (N851GT),Landed 20:07,2021-06-13
+113,113,15:05 UA857,,San Francisco (SFO),United Airlines B77W (N2645U),Landed 14:43,2021-06-13
+114,114,15:05 UA893,,San Francisco (SFO),United Airlines B789 (N26970),Landed 14:57,2021-06-13
+115,115,15:05 7C2602,,Taipei (TPE),Jeju Air 738,Canceled,2021-06-13
+116,116,15:15 AC7279,,Vancouver (YVR),Air Canada B789 (C-FGDX),Landed 15:03,2021-06-13
+117,117,15:15 AA281,,Dallas (DFW),American Airlines B788 (N802AN),Landed 15:30,2021-06-13
+118,118,15:20 KE74,,Toronto (YYZ),Korean Air B789 (HL8084),Landed 14:29,2021-06-13
+119,119,15:20 DL27,,Atlanta (ATL),Delta Air Lines A359 (N506DN),Landed 15:21,2021-06-13
+120,120,15:30 KE262,,Seattle (SEA),Korean Air B744,Unknown,2021-06-13
+121,121,15:30 NH8535,,Tokyo (NRT),ANA Cargo B763 (JA8323),Landed 15:11,2021-06-13
+122,122,15:45 OZ398,,Bangkok (BKK),Asiana Airlines 74F,Unknown,2021-06-13
+123,123,15:45 5Y8145,,Chicago (ORD),Atlas Air B744 (N487MC),Landed 20:42,2021-06-13
+124,124,15:50 OZ522,,London (LHR),Asiana Airlines A359 (HL8383),Landed 15:33,2021-06-13
+125,125,15:50 OZ101,,Tokyo (NRT),Asiana Airlines A21N (HL8398),Landed 15:26,2021-06-13
+126,126,16:05 OZ267,,Anchorage (ANC),Asiana Airlines 74F,Unknown,2021-06-13
+127,127,16:10 KE250,,New York (JFK),Korean Air Cargo B77L (HL8251),Landed 14:55,2021-06-13
+128,128,16:10 RU749,,Moscow (SVO),AirBridgeCargo B748 (VQ-BGZ),Landed 16:21,2021-06-13
+129,129,16:15 ET672,,Addis Ababa (ADD),Ethiopian Airlines B789 (ET-AXL),Landed 15:56,2021-06-13
+130,130,16:20 KE36,,Atlanta (ATL),Korean Air B789 (HL8082),Landed 16:32,2021-06-13
+131,131,16:25 KE8262,,Seattle (SEA),Korean Air Cargo B748 (HL7639),Landed 15:22,2021-06-13
+132,132,16:30 DL159,,Detroit (DTW),Delta Air Lines A359 (N510DN),Landed 15:50,2021-06-13
+133,133,16:30 KE346,,Singapore (SIN),Korean Air Cargo B744 (HL7603),Landed 16:53,2021-06-13
+134,134,16:35 7C1105,,Tokyo (NRT),Jeju Air 738,Canceled,2021-06-13
+135,135,16:35 KE38,,Chicago (ORD),Korean Air B77W (HL8347),Landed 16:29,2021-06-13
+136,136,16:40 KE20,,Seattle (SEA),Korean Air A333 (HL8026),Landed 16:24,2021-06-13
+137,137,16:40 KE32,,Dallas (DFW),Korean Air B789 (HL8083),Landed 16:17,2021-06-13
+138,138,16:45 HX628,,Hong Kong (HKG),Hong Kong Airlines A333 (B-LNM),Landed 16:31,2021-06-13
+139,139,16:55 QR858,,Doha (DOH),Qatar Airways B77W (A7-BEK),Landed 16:26,2021-06-13
+140,140,17:00 EK322,,Dubai (DXB),Emirates (Expo 2020 - Opportunity Livery) B77W (A6-ECD),Landed 16:36,2021-06-13
+141,141,17:00 PO217,,Tokyo (NRT),Atlas Air B744 (N445MC),Landed 16:40,2021-06-13
+142,142,17:10 KE8040,,Chicago (ORD),Korean Air B77W (HL7203),Landed 16:49,2021-06-13
+143,143,17:15 CX418,,Hong Kong (HKG),Cathay Pacific A359 (B-LRL),Landed 16:43,2021-06-13
+144,144,17:20 KE82,,New York (JFK),Korean Air B77W (HL7202),Landed 16:51,2021-06-13
+145,145,17:20 OZ221,,New York (JFK),Asiana Airlines A359 (HL8381),Landed 16:57,2021-06-13
+146,146,17:30 KE704,,Tokyo (NRT),Korean Air A333 (HL8003),Landed 17:03,2021-06-13
+147,147,17:31 PO968,,Hong Kong (HKG),DHL B748 (N858GT),Diverted to ANC,2021-06-13
+148,148,17:35 OZ201,,Los Angeles (LAX),Asiana Airlines A359 (HL7771),Landed 17:06,2021-06-13
+149,149,17:35 OZ197,,Tokyo (NRT),Asiana Cargo B744 (HL7618),Landed 21:27,2021-06-13
+150,150,17:45 OZ382,,Singapore (SIN),Asiana Airlines 74F,Unknown,2021-06-13
+151,151,17:55,TW126,Da Nang (DAD),T'way Air 737,Canceled,2021-06-13
+152,152,18:05 5X38,,Honolulu (HNL),UPS B748 (N627UP),Landed 18:04,2021-06-13
+153,153,18:15 KE350,,Penang (PEN),Korean Air Cargo B77L (HL8005),Landed 06:06,2021-06-13
+154,154,18:15,7C2102,Hong Kong (HKG),Jeju Air 738,Unknown,2021-06-13
+155,155,18:30 OZ350,,Nanjing (NKG),Asiana Airlines A333 (HL8258),Landed 19:01,2021-06-13
+156,156,18:40 KE278,,Vancouver (YVR),Korean Air Cargo B77L (HL8043),Landed 16:38,2021-06-13
+157,157,18:45,BR160,Taipei (TPE),EVA Air (Sanrio Characters Joyful Dream Livery) A333 (B-16332),Landed 18:27,2021-06-13
+158,158,18:55 AA9733,,Los Angeles (LAX),American Airlines B772 (N760AN),Delayed 11:54,2021-06-13
+159,159,19:05 OZ388,,Hanoi (HAN),Asiana Airlines 76F,Unknown,2021-06-13
+160,160,19:45 7C3405,,Saipan (SPN),Jeju Air 738,Unknown,2021-06-13
+161,161,19:50 QW9901,,Qingdao (TAO),Qingdao Airlines A20N (B-302N),Landed 19:33,2021-06-13
+162,162,19:55 KE9090,,New York (JFK),Korean Air B77W (HL8217),Landed 19:59,2021-06-13
+163,163,20:00 PO275,,Bahrain (BAH),DHL B77L (N714SA),Landed 20:04,2021-06-13
+164,164,20:00,TG654,Bangkok (BKK),Thai Airways B77W (HS-TKW),Landed 19:27,2021-06-13
+165,165,20:00 KE352,,Bangkok (BKK),Korean Air Cargo B744 (HL7601),Landed 22:30,2021-06-13
+166,166,20:05 AA9709,,Shanghai (PVG),American Airlines B789 (N841AN),Landed 18:54,2021-06-13
+167,167,20:15 HA1325,,Honolulu (HNL),Hawaiian Airlines A332 (N391HA),Landed 20:31,2021-06-13
+168,168,20:15 AC7298,,Shanghai (PVG),Air Canada B77W (C-FIVX),Landed 20:23,2021-06-13
+169,169,20:50 KE554,,Osaka (KIX),Korean Air Cargo B744 (HL7602),Landed 19:56,2021-06-13
+170,170,20:50,7C2202,Bangkok (BKK),Jeju Air 738,Unknown,2021-06-13
+171,171,21:05 KE504,,Paris (CDG),Korean Air Cargo B77L (HL8046),Landed 19:21,2021-06-13
+172,172,21:15 7C3101,,Guam (GUM),Jeju Air 738,Unknown,2021-06-13
+173,173,21:15 KE552,,Tokyo (NRT),Korean Air Cargo B748 (HL7617),Landed 20:20,2021-06-13
+174,174,21:19 KD5276,,Chicago (ORD),Western Global Airlines MD11 (N412SN),Landed 20:59,2021-06-13
+175,175,21:20 7C4604,,Angeles City (CRK),Jeju Air B738 (HL8317),Landed 21:10,2021-06-13
+176,176,21:40 RU792,,Tokyo (NRT),AirBridgeCargo B748 (VP-BIN),Landed 20:55,2021-06-13
+177,177,22:00,7C3173,Osaka (KIX),Jeju Air 737,Unknown,2021-06-13
+178,178,22:20 PO232,,Tokyo (NRT),Polar Air Cargo 74Y,Unknown,2021-06-13
+179,179,22:55 UA858,,Shanghai (PVG),United Airlines B77W (N2645U),Landed 22:42,2021-06-13
+180,180,23:00 OZ968,,Hong Kong (HKG),Asiana Cargo B744 (HL7415),Landed 22:25,2021-06-13
+181,181,23:10 5Y581,,Anchorage (ANC),Atlas Air B744 (N499MC),Landed 23:04,2021-06-13
+182,182,23:20 KE9014,,Los Angeles (LAX),Korean Air B789 (HL8345),Landed 22:33,2021-06-13
+183,183,23:30 PO751,,Leipzig (LEJ),Polar Air Cargo 77F,Unknown,2021-06-13
+184,184,23:50,LH8387,Tokyo (NRT),Lufthansa Cargo (Cargo Human Care Livery) B77L (D-ALFI),Landed 23:21,2021-06-13
+185,185,23:50,ET673,Tokyo (NRT),Ethiopian Airlines B789 (ET-AXL),Landed 23:01,2021-06-13
+186,186,23:55 LH8473,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFF),Landed 23:26,2021-06-13
+187,187,23:55 LH8472,,Hong Kong (HKG),Lufthansa Cargo B77L (D-ALFF),Unknown,2021-06-13
+0,0,00:35 OZ2811,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-14
+1,1,01:35 OZ2057,,Los Angeles (LAX),Asiana Airlines A359 (HL7578),Landed 00:41,2021-06-14
+2,2,02:06 5X48,,Anchorage (ANC),UPS B763 (N329UP),Landed 01:29,2021-06-14
+3,3,02:10 5Y8628,,Anchorage (ANC),Atlas Air B744 (N489MC),Landed 04:15,2021-06-14
+4,4,02:45 KE9060,,Columbus (LCK),Korean Air B77W (HL8274),Landed 01:48,2021-06-14
+5,5,02:55 OZ2613,,Seattle (SEA),Asiana Cargo B744 (HL7419),Landed 02:33,2021-06-14
+6,6,03:00 K4908,,Anchorage (ANC),Kalitta Air B744 (N402KZ),Landed 03:44,2021-06-14
+7,7,03:20 C88777,,Milan (MXP),Cargolux B744 (LX-TCV),Landed 07:19,2021-06-14
+8,8,03:40 AC27,,Toronto (YYZ),Air Canada B77W (C-FIVM),Landed 03:04,2021-06-14
+9,9,03:53 5X37,,Sydney (SYD),UPS Airlines B748 (N626UP),Landed 03:48,2021-06-14
+10,10,04:20,OZ203,Los Angeles (LAX),Asiana Airlines A359 (HL8382),Landed 03:34,2021-06-14
+11,11,04:20 7C2306,,Manila (MNL),Jeju Air 738,Unknown,2021-06-14
+12,12,04:40 GI4119,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-14
+13,13,04:45 8Y700,,Kalibo (KLO),Pan Pacific Airlines 320,Unknown,2021-06-14
+14,14,05:00 KE12,,Los Angeles (LAX),Korean Air B77W (HL8042),Landed 04:27,2021-06-14
+15,15,05:00 KE624,,Manila (MNL),Korean Air B77W (HL8011),Landed 04:10,2021-06-14
+16,16,05:00 8Y600,,Cebu (CEB),Pan Pacific Airlines 320,Unknown,2021-06-14
+17,17,05:10 OZ704,,Manila (MNL),Asiana Airlines A333 (HL8259),Landed 04:08,2021-06-14
+18,18,05:15 LJ22,,Cebu (CEB),Jin Air B738 (HL8246),Landed 05:49,2021-06-14
+19,19,05:20 KE672,,Kuala Lumpur (KUL),Korean Air A333 (HL8001),Landed 04:44,2021-06-14
+20,20,05:25 KE680,,Hanoi (HAN),Korean Air A333 (HL7701),Landed 05:05,2021-06-14
+21,21,05:30 OZ2513,,Atlanta (ATL),Asiana Airlines A359 (HL8359),Landed 04:51,2021-06-14
+22,22,05:45 KE8024,,Seattle (SEA),Korean Air B77W (HL8210),Landed 04:40,2021-06-14
+23,23,05:46 K4960,,Anchorage (ANC),Kalitta Air B744 (N705CK),Landed 07:55,2021-06-14
+24,24,05:50 OZ734,,Hanoi (HAN),Asiana Airlines A321 (HL8038),Landed 05:30,2021-06-14
+25,25,05:55 TW108,,Macau (MFM),T'way Air 737,Canceled,2021-06-14
+26,26,06:00 K4918,,Anchorage (ANC),Kalitta Air B744 (N710CK),Landed 05:21,2021-06-14
+27,27,06:05 KE316,,Shanghai (PVG),Korean Air Cargo B748 (HL7639),Landed 05:58,2021-06-14
+28,28,06:10 YG9061,,Xi'an (XIY),YTO Cargo Airlines B752 (B-2853),Landed 13:01,2021-06-14
+29,29,06:15 LH8430,,Beijing (PEK),Lufthansa Cargo B77L (D-ALFD),Landed 05:51,2021-06-14
+30,30,06:15 OZ752,,Singapore (SIN),Asiana Airlines 333,Unknown,2021-06-14
+31,31,06:30 K4936,,Anchorage (ANC),Kalitta Air B744 (N703CK),Landed 06:01,2021-06-14
+32,32,06:35 TW128,,Da Nang (DAD),T'way Air 737,Canceled,2021-06-14
+33,33,06:40 RU792,,Tokyo (NRT),AirBridgeCargo Airlines 74N,Unknown,2021-06-14
+34,34,06:45 OZ970,,Hong Kong (HKG),Asiana Airlines 74F,Unknown,2021-06-14
+35,35,06:50 KE258,,New York (JFK),Korean Air Cargo B77L (HL8226),Landed 06:35,2021-06-14
+36,36,06:50 KE684,,Ho Chi Minh City (SGN),Korean Air A333 (HL8003),Landed 06:38,2021-06-14
+37,37,06:50 OZ762,,Jakarta (CGK),Asiana Airlines A333 (HL7793),Landed 06:51,2021-06-14
+38,38,06:55 TG656,,Bangkok (BKK),Thai Airways B77W (HS-TKZ),Landed 06:27,2021-06-14
+39,39,06:55 7C2406,,Cebu (CEB),Jeju Air 738,Unknown,2021-06-14
+40,40,07:00 KE690,,Phnom Penh (PNH),Korean Air A332 (HL8228),Landed 06:24,2021-06-14
+41,41,07:05 KE628,,Jakarta (CGK),Korean Air A333 (HL8025),Landed 06:46,2021-06-14
+42,42,07:10 OZ988,,Shanghai (PVG),Asiana Cargo B763 (HL7507),Landed 19:11,2021-06-14
+43,43,07:15 OZ740,,Phnom Penh (PNH),Asiana Airlines A21N (HL8356),Landed 07:23,2021-06-14
+44,44,07:25 KE652,,Bangkok (BKK),Korean Air A333 (HL7702),Landed 07:10,2021-06-14
+45,45,07:25 7C2804,,Hanoi (HAN),Jeju Air 738,Unknown,2021-06-14
+46,46,07:35 TW124,,Ho Chi Minh City (SGN),T'way Air 737,Canceled,2021-06-14
+47,47,07:45 KE314,,Hong Kong (HKG),Korean Air Cargo B77L (HL8251),Landed 07:13,2021-06-14
+48,48,07:55 KE214,,San Francisco (SFO),Korean Air Cargo B748 (HL7609),Landed 13:49,2021-06-14
+49,49,08:00 GI4238,,Yantai (YNT),Longhao Airlines 73F,Unknown,2021-06-14
+50,50,08:15 OZ934,,Guangzhou (CAN),Asiana Airlines 74F,Unknown,2021-06-14
+51,51,08:15 OZ285,,Anchorage (ANC),Asiana Cargo B744 (HL7417),Landed 08:19,2021-06-14
+52,52,08:25 HY511,,Tashkent (TAS),Uzbekistan Airways A20N (UK32021),Landed 08:05,2021-06-14
+53,53,08:35 KE646,,Singapore (SIN),Korean Air B77W (HL7205),Landed 08:25,2021-06-14
+54,54,08:50 KE320,,Guangzhou (CAN),Korean Air Cargo B744 (HL7601),Landed 10:13,2021-06-14
+55,55,08:55 OZ948,,Shanghai (PVG),Asiana Airlines 74F,Unknown,2021-06-14
+56,56,09:45 KC909,,Almaty (ALA),Air Astana A21N (P4-KGA),Landed 09:17,2021-06-14
+57,57,10:10 LH8391,,Osaka (KIX),Lufthansa Cargo B77L (D-ALFA),Landed 09:21,2021-06-14
+58,58,10:15 AA9819,,Los Angeles (LAX),American Airlines B788 (N808AN),Unknown,2021-06-14
+59,59,10:15 KE362,,Hanoi (HAN),Korean Air Cargo B744 (HL7602),Landed 10:11,2021-06-14
+60,60,10:15 TW164,,Hanoi (HAN),T'way Air 737,Canceled,2021-06-14
+61,61,10:15 K4237,,New York (JFK),Kalitta Air B744 (N712CK),Landed 10:43,2021-06-14
+62,62,10:55 5Y8766,,Los Angeles (LAX),Atlas Air B744 (N496MC),Landed 12:56,2021-06-14
+63,63,11:15 AA9704,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-14
+64,64,11:20 LH8400,,Shanghai (PVG),Lufthansa Cargo B77L (D-ALFH),Landed 13:29,2021-06-14
+65,65,11:25 LH712,,Frankfurt (FRA),Lufthansa A359 (D-AIXO),Landed 10:58,2021-06-14
+66,66,11:40 FX9877,,Memphis (MEM),FedEx B77L (N892FD),Landed 11:46,2021-06-14
+67,67,11:45 SU5450,,Khabarovsk (KHV),Aurora A319 (VP-BUN),Landed 11:12,2021-06-14
+68,68,11:50 OZ542,,Frankfurt (FRA),Asiana Airlines A359 (HL7579),Landed 11:57,2021-06-14
+69,69,12:00 KE280,,Los Angeles (LAX),Korean Air Cargo B744 (HL7605),Diverted to NRT,2021-06-14
+70,70,12:10 KE9576,,Milan (MXP),Korean Air Cargo B77L (HL8252),Landed 09:49,2021-06-14
+71,71,12:20 KE544,,Frankfurt (FRA),Korean Air Cargo B77L (HL8045),Landed 10:53,2021-06-14
+72,72,12:20 GJ8701,,Linyi (LYI),Loong Air 73F,Unknown,2021-06-14
+73,73,12:25 FX5235,,Anchorage (ANC),FedEx B77L (N887FD),Landed 12:23,2021-06-14
+74,74,12:35 AA9707,,Dallas (DFW),American Airlines B789 (N837AN),Landed 12:18,2021-06-14
+75,75,12:45 OZ588,,Brussels (BRU),Asiana Airlines 74F,Unknown,2021-06-14
+76,76,12:55 AC7297,,Toronto (YYZ),Air Canada B77W (C-FNNQ),Landed 12:35,2021-06-14
+77,77,12:55 KE284,,Anchorage (ANC),Korean Air Cargo B748 (HL7623),Landed 12:25,2021-06-14
+78,78,13:25 KE260,,Chicago (ORD),Korean Air Cargo B77L (HL8285),Unknown,2021-06-14
+79,79,13:45 KE568,,Zurich (ZRH),Korean Air Cargo B77L (HL8077),Landed 13:10,2021-06-14
+80,80,13:50 7C1301,,Osaka (KIX),Jeju Air 738,Unknown,2021-06-14
+81,81,13:50 AA9733,,Los Angeles (LAX),American Airlines B772 (N780AN),Landed 17:19,2021-06-14
+82,82,13:55 KE256,,Anchorage (ANC),Korean Air B744,Unknown,2021-06-14
+83,83,14:00 AC28,,Shanghai (PVG),Air Canada B77W (C-FIVM),Landed 13:41,2021-06-14
+84,84,14:00 5Y531,,Los Angeles (LAX),Atlas Air B744 (N477MC),Unknown,2021-06-14
+85,85,14:05 OZ247,,Anchorage (ANC),Asiana Airlines 74F,Unknown,2021-06-14
+86,86,14:05 TW670,,Taichung (RMQ),T'way Air 737,Canceled,2021-06-14
+87,87,14:10 7C1401,,Fukuoka (FUK),Jeju Air 738,Unknown,2021-06-14
+88,88,14:20 AA9718,,Dallas (DFW),American Airlines B788 (N870AX),Landed 12:07,2021-06-14
+89,89,14:25 EY876,,Abu Dhabi (AUH),Etihad (ADNOC - Choose Japan Livery) B789 (A6-BLK),Landed 13:59,2021-06-14
+90,90,14:50 OZ794,,Frankfurt (FRA),Asiana Cargo B744 (HL7413),Landed 13:47,2021-06-14
+91,91,14:55 KL831,,Amsterdam (AMS),KLM B772 (PH-BQP),Landed 14:35,2021-06-14
+92,92,14:55 KL855,,Amsterdam (AMS),KLM B77W (PH-BVW),Landed 14:27,2021-06-14
+93,93,15:00 KE902,,Paris (CDG),Korean Air B77W (HL7204),Landed 14:46,2021-06-14
+94,94,15:05 KE926,,Amsterdam (AMS),Korean Air A333 (HL8027),Landed 15:10,2021-06-14
+95,95,15:05 UA857,,San Francisco (SFO),United Airlines B77W (N2331U),Landed 14:49,2021-06-14
+96,96,15:05 7C2602,,Taipei (TPE),Jeju Air 738,Unknown,2021-06-14
+97,97,15:10 AA9743,,Dallas (DFW),American Airlines B788 (N803AL),Landed 15:07,2021-06-14
+98,98,15:15 DL197,,Seattle (SEA),Delta Air Lines A339 (N407DX),Landed 15:26,2021-06-14
+99,99,15:15 AA281,,Dallas (DFW),American Airlines 788,Canceled,2021-06-14
+100,100,15:20 DL27,,Atlanta (ATL),Delta Air Lines A359 (N515DN),Landed 15:05,2021-06-14
+101,101,15:33 5Y9616,,Los Angeles (LAX),Atlas Air B744 (N406KZ),Landed 15:31,2021-06-14
+102,102,15:45 K4926,,Anchorage (ANC),Kalitta Air B744 (N716CK),Landed 19:34,2021-06-14
+103,103,15:45 5Y8711,,Anchorage (ANC),Atlas Air B748 (N859GT),Landed 18:46,2021-06-14
+104,104,15:50 KE8246,,Seattle (SEA),Korean Air Cargo B748 (HL7624),Landed 15:12,2021-06-14
+105,105,15:55 PO9601,,Los Angeles (LAX),DHL B748 (N858GT),Landed 15:37,2021-06-14
+106,106,16:00 AF264,,Paris (CDG),Air France B77W (F-GZNS),Landed 15:45,2021-06-14
+107,107,16:05 AC63,,Vancouver (YVR),Air Canada B789 (C-FGHZ),Landed 16:11,2021-06-14
+108,108,16:15 KE38,,Chicago (ORD),Korean Air (SuperM Livery) B77W (HL8010),Landed 15:42,2021-06-14
+109,109,16:20 KE36,,Atlanta (ATL),Korean Air B789 (HL8081),Landed 15:50,2021-06-14
+110,110,16:20 5Y9178,,Anchorage (ANC),Atlas Air B744 (N415MC),Landed 16:15,2021-06-14
+111,111,16:25 KE92,,Boston (BOS),Korean Air B789 (HL7207),Landed 16:48,2021-06-14
+112,112,16:25 KJ232,,Yantai (YNT),Air Incheon 73F,Unknown,2021-06-14
+113,113,16:35 7C1105,,Tokyo (NRT),Jeju Air 738,Canceled,2021-06-14
+114,114,16:45 K4906,,Los Angeles (LAX),Kalitta Air B744 (N701CK),Landed 17:05,2021-06-14
+115,115,16:50 KE94,,Washington (IAD),Korean Air B789 (HL8085),Landed 16:29,2021-06-14
+116,116,16:55 QR858,,Doha (DOH),Qatar Airways B77W (A7-BEH),Landed 16:23,2021-06-14
+117,117,16:55 5X86,,Anchorage (ANC),UPS B748 (N622UP),Landed 16:18,2021-06-14
+118,118,17:10 KE8040,,Chicago (ORD),Korean Air B77W (HL8275),Landed 17:16,2021-06-14
+119,119,17:20 KE82,,New York (JFK),Korean Air B77W (HL8009),Landed 16:51,2021-06-14
+120,120,17:20 OZ221,,New York (JFK),Asiana Airlines A359 (HL8079),Landed 17:00,2021-06-14
+121,121,17:35 KE510,,Stockholm (ARN),Korean Air Cargo B748 (HL7610),Landed 15:57,2021-06-14
+122,122,17:35 PO247,,New York (JFK),Polar Air Cargo 77F,Unknown,2021-06-14
+123,123,17:35 OZ2037,,Los Angeles (LAX),Asiana Airlines A359 (HL8078),Landed 17:43,2021-06-14
+124,124,17:45 OZ271,,Seattle (SEA),Asiana Airlines A359 (HL8361),Landed 17:41,2021-06-14
+125,125,17:50 KE18,,Los Angeles (LAX),Korean Air B77W (HL8041),Landed 17:07,2021-06-14
+126,126,17:50 KE72,,Vancouver (YVR),Korean Air A333 (HL8002),Landed 17:45,2021-06-14
+127,127,17:55 TW126,,Da Nang (DAD),T'way Air 737,Canceled,2021-06-14
+128,128,17:55 OZ384,,Singapore (SIN),Asiana Airlines 74F,Unknown,2021-06-14
+129,129,17:55 9S947,,Anchorage (ANC),DHL B77L (N706GT),Landed 20:09,2021-06-14
+130,130,18:00 KE8054,,Dallas (DFW),Korean Air B789 (HL7209),Landed 17:28,2021-06-14
+131,131,18:15 7C2102,,Hong Kong (HKG),Jeju Air 738,Unknown,2021-06-14
+132,132,18:20 OZ798,,Milan (MXP),Asiana Cargo B744 (HL7436),Landed 19:15,2021-06-14
+133,133,18:20 PO98,,Milan (MXP),Polar Air Cargo 77F,Unknown,2021-06-14
+134,134,18:25 PO947,,Cincinnati (CVG),Polar Air Cargo 77F,Unknown,2021-06-14
+135,135,18:50 KE256,,Seattle (SEA),Korean Air 74N,Unknown,2021-06-14
+136,136,18:50 KE8042,,Atlanta (ATL),Korean Air B77W (HL8250),Landed 18:47,2021-06-14
+137,137,18:50 KE280,,Tokyo (NRT),Korean Air Cargo B744 (HL7605),Landed 19:09,2021-06-14
+138,138,18:55 AA9733,,Los Angeles (LAX),American Airlines B772 (N780AN),Unknown,2021-06-14
+139,139,18:55 9C8569,,Shanghai (PVG),Spring Airlines A320 (B-8817),Landed 20:02,2021-06-14
+140,140,19:05 KE274,,Los Angeles (LAX),Korean Air Cargo B77L (HL8044),Landed 20:28,2021-06-14
+141,141,19:10 OZ3883,,Hanoi (HAN),Asiana Airlines 76F,Unknown,2021-06-14
+142,142,19:45 7C3405,,Saipan (SPN),Jeju Air 738,Unknown,2021-06-14
+143,143,19:45,CI162,Taipei (TPE),China Airlines A333 (B-18360),Landed 19:05,2021-06-14
+144,144,19:55,KE704,Tokyo (NRT),Korean Air A333 (HL8001),Landed 19:25,2021-06-14
+145,145,19:55 KE9090,,New York (JFK),Korean Air B77W (HL8208),Landed 19:41,2021-06-14
+146,146,20:05 AA9709,,Shanghai (PVG),American Airlines B789 (N837AN),Landed 19:19,2021-06-14
+147,147,20:09 5Y539,,New York (JFK),Atlas Air B744 (N416MC),Landed 20:00,2021-06-14
+148,148,20:50 7C2202,,Bangkok (BKK),Jeju Air 738,Unknown,2021-06-14
+149,149,21:15 7C3101,,Guam (GUM),Jeju Air 738,Unknown,2021-06-14
+150,150,21:40 KE484,,Hanoi (HAN),Korean Air B77W (HL8274),Landed 21:30,2021-06-14
+151,151,22:00 7C3173,,Osaka (KIX),Jeju Air 737,Unknown,2021-06-14
+152,152,22:15 PO907,,Anchorage (ANC),Polar Air Cargo 744,Unknown,2021-06-14
+153,153,22:15 KE9056,,Columbus (LCK),Korean Air B77W (HL7782),Landed 22:19,2021-06-14
+154,154,22:50 KE8236,,Los Angeles (LAX),Korean Air 74Y,Unknown,2021-06-14
+155,155,22:55 UA858,,Shanghai (PVG),United Airlines B77W (N2331U),Landed 22:44,2021-06-14
+156,156,23:00 KE8204,,Los Angeles (LAX),Korean Air Cargo B744 (HL7603),Landed 23:18,2021-06-14
+157,157,23:20 KE9014,,Los Angeles (LAX),Korean Air B789 (HL8083),Landed 22:35,2021-06-14
+158,158,23:35,KL832,Hangzhou (HGH),KLM B772 (PH-BQP),Landed 23:09,2021-06-14
+159,159,23:55 LH8385,,Tokyo (NRT),Lufthansa Cargo B77L (D-ALFB),Landed 09:36,2021-06-14
+160,160,23:55 LH8384,,Tokyo (NRT),Lufthansa 77X,Unknown,2021-06-14
+0,0,00:00 PO276,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-15
+1,1,00:05 KE8208,,Los Angeles (LAX),Korean Air B741,Unknown,2021-06-15
+2,2,00:35 OZ2511,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-15
+3,3,00:35 KE354,,Singapore (SIN),Korean Air 74Y,Unknown,2021-06-15
+4,4,01:35 OZ2057,,Los Angeles (LAX),Asiana Airlines A359 (HL8362),Landed 00:52,2021-06-15
+5,5,01:45 KE8016,,Los Angeles (LAX),Korean Air B77W (HL8347),Landed 00:34,2021-06-15
+6,6,01:55 NH8535,,Tokyo (NRT),ANA Cargo B763 (JA8664),Landed 01:18,2021-06-15
+7,7,02:00 OZ281,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-15
+8,8,02:10 OZ241,,Seattle (SEA),Asiana Cargo B744 (HL7420),Landed 01:22,2021-06-15
+9,9,02:20 CK257,,Shanghai (PVG),China Cargo Airlines 77F,Unknown,2021-06-15
+10,10,02:45 KE530,,Frankfurt (FRA),Korean Air Cargo B77L (HL8046),Landed 01:12,2021-06-15
+11,11,02:45 KE9060,,Columbus (LCK),Korean Air B77W (HL8209),Landed 03:13,2021-06-15
+12,12,02:55 HT3813,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-15
+13,13,03:30 YG9073,,Yancheng (YNZ),YTO Cargo Airlines 73F,Unknown,2021-06-15
+14,14,03:30 KD7347,,Los Angeles (LAX),Western Global Airlines B744 (N258SN),Landed 07:42,2021-06-15
+15,15,03:30 KD6351,,Anchorage (ANC),Western Global Airlines MD11 (N545JN),Landed 03:31,2021-06-15
+16,16,03:35 PO224,,Nagoya (NGO),DHL B763 (N644GT),Landed 02:52,2021-06-15
+17,17,03:40 5X39,,Sydney (SYD),UPS B748 (N610UP),Landed 03:45,2021-06-15
+18,18,03:50 CF221,,Zhengzhou (CGO),China Postal Airlines 73F,Unknown,2021-06-15
+19,19,03:55 HT3815,,Weihai (WEH),Air Horizont 73F,Unknown,2021-06-15
+20,20,04:20,OZ203,Los Angeles (LAX),Asiana Airlines A359 (HL8381),Landed 03:24,2021-06-15
+21,21,04:20 7C2306,,Manila (MNL),Jeju Air 738,Unknown,2021-06-15
+22,22,04:30,OZ211,San Francisco (SFO),Asiana Airlines A359 (HL8308),Landed 03:16,2021-06-15
+23,23,04:40 GI4119,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-15
+24,24,04:45 8Y700,,Kalibo (KLO),Pan Pacific Airlines 320,Unknown,2021-06-15
+25,25,05:00,KE12,Los Angeles (LAX),Korean Air B77W (HL8346),Landed 04:00,2021-06-15
+26,26,05:00 KE624,,Manila (MNL),Korean Air B77W (HL8009),Landed 04:37,2021-06-15
+27,27,05:00 8Y600,,Cebu (CEB),Pan Pacific Airlines 320,Unknown,2021-06-15
+28,28,05:00 OZ2513,,Atlanta (ATL),Asiana Airlines A359 (HL8383),Landed 05:01,2021-06-15
+29,29,05:05,KE26,San Francisco (SFO),Korean Air A333 (HL8026),Landed 04:06,2021-06-15
+30,30,05:10 OZ704,,Manila (MNL),Asiana Airlines A333 (HL7793),Landed 04:04,2021-06-15
+31,31,05:16 PO238,,Hong Kong (HKG),Polar Air Cargo B744 (N450PA),Diverted to ANC,2021-06-15
+32,32,05:25 KE680,,Hanoi (HAN),Korean Air A333 (HL7525),Landed 04:56,2021-06-15
+33,33,05:35 9S247,,New York (JFK),DHL B77L (N777SA),Landed 06:25,2021-06-15
+34,34,05:50,OZ734,Hanoi (HAN),Asiana Airlines A321 (HL8074),Landed 05:49,2021-06-15
+35,35,05:55 KE316,,Shanghai (PVG),Korean Air Cargo B77L (HL8075),Landed 05:28,2021-06-15
+36,36,05:55,TW108,Macau (MFM),T'way Air 737,Canceled,2021-06-15
+37,37,05:55 PO97,,Hong Kong (HKG),Polar Air Cargo 77F,Unknown,2021-06-15
+38,38,06:05,TW122,Ho Chi Minh City (SGN),T'way Air 737,Canceled,2021-06-15
+39,39,06:15 K4814,,Anchorage (ANC),Kalitta Air B744 (N745CK),Landed 05:40,2021-06-15
+40,40,06:25,LH8404,Shanghai (PVG),Lufthansa Cargo (Cargo Human Care Livery) B77L (D-ALFI),Landed 06:44,2021-06-15
+41,41,06:35,TW128,Da Nang (DAD),T'way Air 737,Canceled,2021-06-15
+42,42,06:45 OZ970,,Hong Kong (HKG),Asiana Airlines 74F,Unknown,2021-06-15
+43,43,06:50,KE684,Ho Chi Minh City (SGN),Korean Air A333 (HL8025),Landed 06:32,2021-06-15
+44,44,06:50 OZ762,,Jakarta (CGK),Asiana Airlines A359 (HL8359),Landed 06:41,2021-06-15
+45,45,06:55 7C2406,,Cebu (CEB),Jeju Air 738,Unknown,2021-06-15
+46,46,07:10 OZ988,,Shanghai (PVG),Asiana Cargo B744 (HL7420),Landed 09:54,2021-06-15
+47,47,07:25,KE652,Bangkok (BKK),Korean Air A333 (HL7584),Landed 07:06,2021-06-15
+48,48,07:25 7C2804,,Hanoi (HAN),Jeju Air 738,Unknown,2021-06-15
+49,49,07:30 GI4116,,Linyi (LYI),Longhao Airlines 73F,Unknown,2021-06-15
+50,50,07:30 5Y531,,Los Angeles (LAX),Atlas Air B744 (N477MC),Landed 13:27,2021-06-15
+51,51,07:40 KE472,,Yangon (RGN),Korean Air 333,Unknown,2021-06-15
+52,52,07:45 KE314,,Hong Kong (HKG),Korean Air Cargo B748 (HL7624),Landed 07:17,2021-06-15
+53,53,07:45 LD128,,Hong Kong (HKG),DHL A306 (B-LDD),Landed 07:33,2021-06-15
+54,54,08:00 GI4231,,Zhengzhou (CGO),Longhao Airlines 73F,Unknown,2021-06-15
+55,55,08:00 OZ283,,San Francisco (SFO),Asiana Airlines 74F,Unknown,2021-06-15
+56,56,08:00 GI4238,,Yantai (YNT),Longhao Airlines 73F,Unknown,2021-06-15
+57,57,08:35 KE214,,San Francisco (SFO),Korean Air Cargo B748 (HL7610),Unknown,2021-06-15
+58,58,08:40 KE336,,Shanghai (PVG),Korean Air Cargo B77L (HL8285),Landed 08:07,2021-06-15
+59,59,08:50 KE320,,Guangzhou (CAN),Korean Air Cargo B77L (HL8252),Landed 08:41,2021-06-15
+60,60,08:55 KL895,,Amsterdam (AMS),KLM B77W (PH-BVV),Landed 08:21,2021-06-15
+61,61,08:55 LO2001,,Budapest (BUD),LOT B788 (SP-LRC),Landed 08:12,2021-06-15
+62,62,08:55 OZ948,,Shanghai (PVG),Asiana Airlines 74F,Unknown,2021-06-15
+63,63,08:55 FX5230,,Anchorage (ANC),FedEx B77L (N890FD),Landed 08:45,2021-06-15
+64,64,09:01 RU139,,Moscow (SVO),AirBridgeCargo B748 (VQ-BGZ),Landed 23:44,2021-06-15
+65,65,09:15,OZ742,Bangkok (BKK),Asiana Airlines A333 (HL7795),Landed 08:36,2021-06-15
+66,66,09:20 KE9210,,Seattle (SEA),Korean Air Cargo B748 (HL7617),Landed 07:24,2021-06-15
+67,67,10:05 OZ2819,,Seattle (SEA),Asiana Cargo B744 (HL7419),Landed 08:39,2021-06-15
+68,68,10:15 AA9819,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-15
+69,69,10:15 TW164,,Hanoi (HAN),T'way Air 737,Canceled,2021-06-15
+70,70,10:20 OZ193,,Tokyo (NRT),Asiana Cargo B744 (HL7415),Landed 22:39,2021-06-15
+71,71,10:20 OZ1971,,Tokyo (NRT),Asiana Airlines 76F,Unknown,2021-06-15
+72,72,10:23 5Y8049,,Miami (MIA),Atlas Air B744 (N485MC),Landed 10:19,2021-06-15
+73,73,10:30 KE362,,Hanoi (HAN),Korean Air Cargo B744 (HL7603),Landed 11:16,2021-06-15
+74,74,11:00 UA2770,,Chicago (ORD),United Airlines B789 (N45956),Landed 10:21,2021-06-15
+75,75,11:00 CI160,,Taipei (TPE),China Airlines B77W (B-18002),Landed 10:32,2021-06-15
+76,76,11:05 PO9693,,Los Angeles (LAX),DHL B748 (N852GT),Landed 13:40,2021-06-15
+77,77,11:15 AA9704,,Los Angeles (LAX),American Airlines B789,Unknown,2021-06-15
+78,78,11:20 LH8400,,Shanghai (PVG),Lufthansa Cargo B77L (D-ALFF),Landed 10:43,2021-06-15
+79,79,11:40 ZG41,,Tokyo (NRT),ZIPAIR B788 (JA825J),Landed 11:21,2021-06-15
+80,80,11:45 AC7291,,Vancouver (YVR),Air Canada B77W (C-FNNW),Landed 11:18,2021-06-15
+81,81,11:50 KE8910,,Frankfurt (FRA),Korean Air B77W (HL8006),Landed 11:33,2021-06-15
+82,82,11:55 CA139,,Hangzhou (HGH),Air China A319 (B-6031),Landed 11:31,2021-06-15
+83,83,12:20 GJ8701,,Linyi (LYI),Loong Air 73F,Unknown,2021-06-15
+84,84,12:35 AA127,,Dallas (DFW),American Airlines B789 (N838AA),Landed 12:45,2021-06-15
+85,85,12:45 OZ588,,Brussels (BRU),Asiana Cargo B744 (HL7415),Landed 13:37,2021-06-15
+86,86,12:55 AC7297,,Toronto (YYZ),Air Canada B789 (C-FVLZ),Landed 13:31,2021-06-15
+87,87,12:55 KJ232,,Yantai (YNT),Air Incheon B738 (HL8338),Landed 16:24,2021-06-15
+88,88,13:30 KE8536,,Frankfurt (FRA),Korean Air 77X,Unknown,2021-06-15
+89,89,13:35 OZ952,,Hong Kong (HKG),Asiana Airlines 74F,Unknown,2021-06-15
+90,90,13:50 7C1301,,Osaka (KIX),Jeju Air 738,Unknown,2021-06-15
+91,91,13:55 OZ243,,Seattle (SEA),Asiana Airlines 74F,Unknown,2021-06-15
+92,92,14:05 TW670,,Taichung (RMQ),T'way Air 737,Canceled,2021-06-15
+93,93,14:10 7C1401,,Fukuoka (FUK),Jeju Air 738,Unknown,2021-06-15
+94,94,14:20 AA9718,,Dallas (DFW),American Airlines B788 (N815AA),Landed 11:35,2021-06-15
+95,95,14:20 KE806,,Tianjin (TSN),Korean Air A333 (HL7587),Landed 14:43,2021-06-15
+96,96,14:25 AC7281,,Toronto (YYZ),Air Canada B77W (C-FIVW),Landed 14:09,2021-06-15
+97,97,14:25 EY876,,Abu Dhabi (AUH),Etihad (ADNOC - Choose China Livery) B789 (A6-BLF),Landed 13:50,2021-06-15
+98,98,14:35 KE908,,London (LHR),Korean Air B77W (HL8042),Landed 13:25,2021-06-15
+99,99,14:40 AF198,,Paris (CDG),Air France B77W (F-GSQJ),Landed 13:45,2021-06-15
+100,100,14:45 KE8514,,Milan (MXP),Korean Air 77X,Unknown,2021-06-15
+101,101,14:55 KL855,,Amsterdam (AMS),KLM B77W (PH-BVI),Landed 14:23,2021-06-15
+102,102,15:02 K4960,,Anchorage (ANC),Kalitta Air B744 (N707CK),Landed 15:02,2021-06-15
+103,103,15:05 PO751,,Anchorage (ANC),Polar Air Cargo B744,Unknown,2021-06-15
+104,104,15:05 UA893,,San Francisco (SFO),United Airlines B789 (N38950),Landed 14:35,2021-06-15
+105,105,15:05 7C2602,,Taipei (TPE),Jeju Air 738,Unknown,2021-06-15
+106,106,15:10 OZ304,,Changchun (CGQ),Asiana Airlines B744 (HL7428),Unknown,2021-06-15
+107,107,15:15 AA281,,Dallas (DFW),American Airlines B788 (N872AN),Landed 15:23,2021-06-15
+108,108,15:20 DL27,,Atlanta (ATL),Delta Air Lines A359 (N510DN),Landed 15:44,2021-06-15
+109,109,15:20 KE74,,Toronto (YYZ),Korean Air B789 (HL8084),Landed 14:55,2021-06-15
+110,110,15:25 5Y523,,Chicago (ORD),Atlas Air B744 (N487MC),Landed 16:19,2021-06-15
+111,111,15:35 SQ600,,Singapore (SIN),Singapore Airlines B78X (9V-SCD),Landed 14:48,2021-06-15
+112,112,15:35 8M801,,Yangon (RGN),Myanmar Airways International A319 (XY-ALN),Landed 16:16,2021-06-15
+113,113,15:40 AC61,,Toronto (YYZ),Air Canada B789 (C-FRSI),Landed 15:11,2021-06-15
+114,114,15:45 5Y8051,,Chicago (ORD),Atlas Air B744 (N499MC),Landed 15:30,2021-06-15
+115,115,15:50 OZ101,,Tokyo (NRT),Asiana Airlines A21N (HL8364),Landed 15:41,2021-06-15
+116,116,15:55 KE250,,New York (JFK),Korean Air Cargo B77L (HL8043),Landed 15:29,2021-06-15
+117,117,16:00 8M803,,Yangon (RGN),Myanmar Airways International A320 (XY-ALJ),Landed 16:48,2021-06-15
+118,118,16:20 KE36,,Atlanta (ATL),Korean Air B789 (HL8345),Landed 16:21,2021-06-15
+119,119,16:20 KE364,,Penang (PEN),Korean Air 74Y,Unknown,2021-06-15
+120,120,16:33 OZ247,,Anchorage (ANC),Asiana Airlines B744 (HL7421),Landed 16:59,2021-06-15
+121,121,16:34 KE8048,,Anchorage (ANC),Korean Air B77W (HL8218),Landed 17:32,2021-06-15
+122,122,16:35 7C1105,,Tokyo (NRT),Jeju Air 738,Canceled,2021-06-15
+123,123,16:35 KE38,,Chicago (ORD),Korean Air B77W (HL7202),Landed 16:14,2021-06-15
+124,124,16:40 KE20,,Seattle (SEA),Korean Air A333 (HL8003),Landed 16:12,2021-06-15
+125,125,16:40 KE32,,Dallas (DFW),Korean Air B789 (HL7208),Landed 15:46,2021-06-15
+126,126,16:50 KE692,,Taipei (TPE),Korean Air B789 (HL7209),Landed 16:40,2021-06-15
+127,127,16:55 QR858,,Doha (DOH),Qatar Airways B77W (A7-BAO),Landed 16:09,2021-06-15
+128,128,17:00 EK322,,Dubai (DXB),Emirates B77W (A6-EPX),Landed 16:33,2021-06-15
+129,129,17:20 KE82,,New York (JFK),Korean Air B77W (HL7203),Landed 17:11,2021-06-15
+130,130,17:20 OZ221,,New York (JFK),Asiana Airlines A359 (HL7771),Landed 17:04,2021-06-15
+131,131,17:25 KJ234,,Yantai (YNT),Air Incheon 73F,Unknown,2021-06-15
+132,132,17:30 KE704,,Tokyo (NRT),Korean Air B789 (HL8083),Landed 17:32,2021-06-15
+133,133,17:30 PO717,,Tokyo (NRT),Polar Air Cargo 74Y,Unknown,2021-06-15
+134,134,17:35 OZ2811,,Los Angeles (LAX),Asiana Airlines B741,Unknown,2021-06-15
+135,135,17:35 OZ2037,,Los Angeles (LAX),Asiana Airlines A359 (HL8360),Landed 17:26,2021-06-15
+136,136,17:40 TK90,,Istanbul (IST),Turkish Airlines B77W (TC-JJG),Landed 16:58,2021-06-15
+137,137,17:40 KE8232,,Chicago (ORD),Korean Air 77X,Unknown,2021-06-15
+138,138,17:50 KE18,,Los Angeles (LAX),Korean Air B77W (HL7205),Landed 16:36,2021-06-15
+139,139,17:55 OZ384,,Singapore (SIN),Asiana Cargo B744 (HL7618),Landed 18:32,2021-06-15
+140,140,17:55 TW126,,Da Nang (DAD),T'way Air 737,Canceled,2021-06-15
+141,141,17:55 OZ383,,Singapore (SIN),Asiana Cargo B744 (HL7618),Unknown,2021-06-15
+142,142,18:10 S76303,,Irkutsk (IKT),S7 Airlines A20N (VQ-BCF),Landed 18:14,2021-06-15
+143,143,18:15 7C2102,,Hong Kong (HKG),Jeju Air 738,Unknown,2021-06-15
+144,144,18:20 OZ998,,Tianjin (TSN),Asiana Cargo B763 (HL7507),Landed 17:25,2021-06-15
+145,145,18:30 RS822,,Qingdao (TAO),Air Seoul A321 (HL8280),Landed 18:40,2021-06-15
+146,146,18:40 CF201,,Xi'an (XIY),China Postal Airlines 73F,Unknown,2021-06-15
+147,147,18:45 KE318,,Tianjin (TSN),Korean Air Cargo B77L (HL8285),Landed 18:12,2021-06-15
+148,148,18:55 AA9733,,Los Angeles (LAX),American Airlines B772 (N760AN),Landed 19:57,2021-06-15
+149,149,19:05 KE274,,Los Angeles (LAX),Korean Air Cargo B77L (HL8076),Landed 20:06,2021-06-15
+150,150,19:45 7C3405,,Saipan (SPN),Jeju Air 738,Unknown,2021-06-15
+151,151,19:45 CI162,,Taipei (TPE),China Airlines A333 (B-18317),Landed 19:24,2021-06-15
+152,152,19:55 KE352,,Bangkok (BKK),Korean Air 77X,Unknown,2021-06-15
+153,153,19:55 KE9090,,New York (JFK),Korean Air B77W (HL8210),Landed 20:20,2021-06-15
+154,154,19:55 KE8242,,Dallas (DFW),Korean Air Cargo B77L (HL8226),Landed 19:30,2021-06-15
+155,155,20:05 AA128,,Shanghai (PVG),American Airlines B789 (N838AA),Landed 20:02,2021-06-15
+156,156,20:15 HA1325,,Honolulu (HNL),Hawaiian Airlines A332 (N373HA),Landed 20:36,2021-06-15
+157,157,20:15 OZ2913,,Anchorage (ANC),Asiana Cargo B744 (HL7423),Landed 09:00,2021-06-15
+158,158,20:15 AC7298,,Shanghai (PVG),Air Canada B789 (C-FVLZ),Landed 20:10,2021-06-15
+159,159,20:25 CX35,,Osaka (KIX),Cathay Pacific Cargo B748 (B-LJK),Landed 20:18,2021-06-15
+160,160,20:30 PO238,,Hong Kong (HKG),Polar Air Cargo B744 (N450PA),Unknown,2021-06-15
+161,161,20:40 KE9232,,Chicago (ORD),Korean Air Cargo B748 (HL7609),Landed 23:37,2021-06-15
+162,162,20:50 KE554,,Osaka (KIX),Korean Air Cargo B744 (HL7602),Landed 23:23,2021-06-15
+163,163,20:50 7C2202,,Bangkok (BKK),Jeju Air 738,Unknown,2021-06-15
+164,164,21:05 KE552,,Tokyo (NRT),Korean Air Cargo B748 (HL7624),Landed 21:24,2021-06-15
+165,165,21:15 7C3101,,Guam (GUM),Jeju Air 738,Unknown,2021-06-15
+166,166,21:20 KJ3116,,Tokyo (NRT),Air Incheon 73F,Unknown,2021-06-15
+167,167,21:30 7L121,,Baku (GYD),Silk Way West Airlines 74N,Unknown,2021-06-15
+168,168,21:35 PO7681,,New York (JFK),Polar Air Cargo 77F,Unknown,2021-06-15
+169,169,21:35 9S7681,,New York (JFK),DHL B77L (N714SA),Landed 22:26,2021-06-15
+170,170,21:50 5Y9691,,Cincinnati (CVG),Atlas Air B744 (N475MC),Landed 21:51,2021-06-15
+171,171,22:00 7C3173,,Osaka (KIX),Jeju Air 737,Unknown,2021-06-15
+172,172,22:13 5Y9767,,Chicago (ORD),Atlas Air B744 (N498MC),Landed 21:58,2021-06-15
+173,173,22:26 K4812,,Anchorage (ANC),Kalitta Air B744 (N715CK),Landed 22:27,2021-06-15
+174,174,22:35 KE8286,,Toronto (YYZ),Korean Air Cargo B77L (HL8251),Landed 22:17,2021-06-15
+175,175,22:50 KE8236,,Los Angeles (LAX),Korean Air B77L,Unknown,2021-06-15
+176,176,23:00 PO7970,,Cincinnati (CVG),Polar Air Cargo B744,Unknown,2021-06-15
+177,177,23:15 KE9080,,Toronto (YYZ),Korean Air B789 (HL8085),Landed 23:03,2021-06-15
+178,178,23:18 PO8997,,Cincinnati (CVG),DHL B744 (N454PA),Landed 23:17,2021-06-15
+179,179,23:20 KE9014,,Los Angeles (LAX),Korean Air B77W (HL8011),Landed 22:40,2021-06-15
+180,180,23:50 LH8385,,Tokyo (NRT),Lufthansa Cargo B77L (D-ALFH),Landed 23:45,2021-06-15
+181,181,23:50 LH8384,,Tokyo (NRT),Lufthansa 77X,Unknown,2021-06-15
+182,182,23:50 5Y515,,Anchorage (ANC),Atlas Air B744 (N408MC),Landed 23:31,2021-06-15
+183,183,23:55 K4914,,Anchorage (ANC),Kalitta Air B744 (N742CK),Landed 23:40,2021-06-15

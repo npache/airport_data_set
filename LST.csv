@@ -1,0 +1,85 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,1:50 AM VA9562,,Melbourne (MEL),Virgin Australia 73Y,Unknown,2021-06-11
+1,1,2:45 AM QF7356,,Melbourne (MEL),Qantas Freight B733 (VH-XMR),Landed 3:35 AM,2021-06-11
+2,2,8:05 AM,JQ731,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-11
+3,3,8:25 AM,VA1360,Melbourne (MEL),Virgin Australia B738 (VH-VUH),Canceled,2021-06-11
+4,4,9:05 AM,JQ745,Sydney (SYD),Jetstar Airways A320 (VH-VFI),Landed 8:56 AM,2021-06-11
+5,5,9:35 AM,QF1541,Melbourne (MEL),Qantas 717,Canceled,2021-06-11
+6,6,10:35 AM SH893,,Burnie (BWT),- SWM,Unknown,2021-06-11
+7,7,11:35 AM,JQ735,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-11
+8,8,11:45 AM,VA1364,Melbourne (MEL),Virgin Australia B738 (VH-YIR),Landed 11:52 AM,2021-06-11
+9,9,12:50 PM SH802,,Flinders Island (FLS),- SW4 (VH-MYI),Landed 3:48 PM,2021-06-11
+10,10,2:10 PM QF1563,,Sydney (SYD),QantasLink B712 (VH-NXE),Landed 2:12 PM,2021-06-11
+11,11,2:15 PM,VA1090,Sydney (SYD),Virgin Australia B738 (VH-YFR),Landed 2:03 PM,2021-06-11
+12,12,3:20 PM SH806,,Flinders Island (FLS),- SWM,Unknown,2021-06-11
+13,13,4:15 PM,QF1545,Melbourne (MEL),QantasLink B712 (VH-NXL),Landed 4:13 PM,2021-06-11
+14,14,5:00 PM SH899,,Burnie (BWT),- SWM,Unknown,2021-06-11
+15,15,5:30 PM SH808,,Flinders Island (FLS),- SWM,Unknown,2021-06-11
+16,16,6:40 PM SH895,,Burnie (BWT),- SWM,Unknown,2021-06-11
+17,17,7:25 PM,JQ753,Brisbane (BNE),Jetstar Airways A320 (VH-VGV),Landed 7:41 PM,2021-06-11
+18,18,8:00 PM,QF1547,Melbourne (MEL),Qantas 717,Unknown,2021-06-11
+19,19,8:30 PM,JQ739,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-11
+20,20,8:45 PM,VA1378,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-11
+21,21,9:15 PM,VA1380,Melbourne (MEL),Virgin Australia B738 (VH-YIH),Canceled,2021-06-11
+0,0,08:05,JQ731,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-12
+1,1,08:25,VA1360,Melbourne (MEL),Virgin Australia B738 (VH-YQM),Canceled,2021-06-12
+2,2,08:40 SH802,,Flinders Island (FLS),- SW4 (VH-SWK),Landed 08:25,2021-06-12
+3,3,09:05,JQ745,Sydney (SYD),Jetstar Airways A320 (VH-VFL),Landed 08:56,2021-06-12
+4,4,09:35,QF1541,Melbourne (MEL),Qantas 717,Unknown,2021-06-12
+5,5,10:50 QF1563,,Sydney (SYD),QantasLink B712 (VH-NXQ),Landed 10:42,2021-06-12
+6,6,11:35,JQ735,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-12
+7,7,11:45,VA1364,Melbourne (MEL),Virgin Australia B738 (VH-YIY),Landed 11:32,2021-06-12
+8,8,13:15 SH897,,Burnie (BWT),- SWM,Unknown,2021-06-12
+9,9,14:15,VA1090,Sydney (SYD),Virgin Australia B738 (VH-YIB),Landed 14:07,2021-06-12
+10,10,16:15,QF1545,Melbourne (MEL),QantasLink B712 (VH-NXO),Landed 16:00,2021-06-12
+11,11,19:15,VA1376,Melbourne (MEL),Virgin Australia B738 (VH-YFT),Canceled,2021-06-12
+12,12,20:30,JQ739,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-12
+0,0,08:05,JQ731,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-13
+1,1,09:05,JQ745,Sydney (SYD),Jetstar Airways A320 (VH-VQH),Landed 09:18,2021-06-13
+2,2,09:35,QF1541,Melbourne (MEL),Qantas 717,Unknown,2021-06-13
+3,3,11:35,JQ735,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-13
+4,4,11:45,VA1364,Melbourne (MEL),Virgin Australia B738 (VH-VUQ),Landed 11:34,2021-06-13
+5,5,14:10 QF1563,,Sydney (SYD),QantasLink B712 (VH-NXJ),Landed 14:08,2021-06-13
+6,6,14:15,VA1090,Sydney (SYD),Virgin Australia B738 (VH-YIB),Landed 14:15,2021-06-13
+7,7,16:15,QF1545,Melbourne (MEL),QantasLink B712 (VH-NXO),Landed 16:05,2021-06-13
+8,8,17:30 SH814,,Flinders Island (FLS),- SW4 (VH-MYI),Landed 17:03,2021-06-13
+9,9,17:30 SH808,,Flinders Island (FLS),- SWM,Unknown,2021-06-13
+10,10,18:15,VA1374,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-13
+11,11,18:40 SH895,,Burnie (BWT),- SW4 (VH-SWK),Landed 18:21,2021-06-13
+12,12,19:25,JQ753,Brisbane (BNE),Jetstar Airways A320 (VH-VGV),Landed 19:20,2021-06-13
+13,13,20:00,QF1547,Melbourne (MEL),Qantas 717,Unknown,2021-06-13
+14,14,20:30,JQ739,Melbourne (MEL),Jetstar Airways A320 (VH-VQG),Landed 20:48,2021-06-13
+0,0,08:05,JQ731,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-14
+1,1,09:05,JQ745,Sydney (SYD),Jetstar Airways A320 (VH-VQH),Landed 09:02,2021-06-14
+2,2,09:35,QF1541,Melbourne (MEL),Qantas 717,Unknown,2021-06-14
+3,3,10:35 SH893,,Burnie (BWT),- SWM,Unknown,2021-06-14
+4,4,11:35,JQ735,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-14
+5,5,11:45,VA1364,Melbourne (MEL),Virgin Australia B738 (VH-YIT),Landed 11:48,2021-06-14
+6,6,12:50 SH802,,Flinders Island (FLS),- SW4 (VH-MYI),Landed 15:17,2021-06-14
+7,7,14:10 QF1563,,Sydney (SYD),QantasLink B712 (VH-NXR),Landed 14:01,2021-06-14
+8,8,14:15,VA1090,Sydney (SYD),Virgin Australia B738 (VH-YIV),Landed 14:06,2021-06-14
+9,9,15:20 SH806,,Flinders Island (FLS),- SWM,Unknown,2021-06-14
+10,10,16:15,QF1545,Melbourne (MEL),QantasLink B712 (VH-NXD),Landed 16:01,2021-06-14
+11,11,17:30 SH808,,Flinders Island (FLS),- SWM,Unknown,2021-06-14
+12,12,18:40 SH895,,Burnie (BWT),- SW4 (VH-SWK),Landed 18:43,2021-06-14
+13,13,19:25,JQ753,Brisbane (BNE),Jetstar Airways A320 (VH-VGV),Landed 19:14,2021-06-14
+14,14,20:00,QF1547,Melbourne (MEL),Qantas 717,Unknown,2021-06-14
+15,15,20:30,JQ739,Melbourne (MEL),Jetstar Airways A320 (VH-VQG),Landed 20:25,2021-06-14
+16,16,21:15,VA1380,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-14
+0,0,01:50 VA9562,,Melbourne (MEL),Virgin Australia 73Y,Unknown,2021-06-15
+1,1,02:45 QF7356,,Melbourne (MEL),Qantas Freight B733 (VH-XMR),Landed 04:06,2021-06-15
+2,2,08:05,JQ731,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-15
+3,3,09:35,QF1541,Melbourne (MEL),QantasLink B712 (VH-NXO),Landed 09:42,2021-06-15
+4,4,09:40 SH802,,Flinders Island (FLS),- SW4 (VH-MYI),Landed 09:31,2021-06-15
+5,5,10:35 SH893,,Burnie (BWT),- SWM,Unknown,2021-06-15
+6,6,11:30 ATM500,,Strahan (SRN),- CN2,Unknown,2021-06-15
+7,7,11:35,JQ735,Melbourne (MEL),Jetstar Airways 320,Canceled,2021-06-15
+8,8,11:45,VA1364,Melbourne (MEL),Virgin Australia B738 (VH-VUH),Landed 11:44,2021-06-15
+9,9,14:15,VA1090,Sydney (SYD),Virgin Australia B738 (VH-YIY),Landed 14:04,2021-06-15
+10,10,16:15,QF1545,Melbourne (MEL),Qantas 717,Unknown,2021-06-15
+11,11,17:30 SH808,,Flinders Island (FLS),- SWM,Unknown,2021-06-15
+12,12,18:40 SH895,,Burnie (BWT),- SW4 (VH-OYG),Landed 18:54,2021-06-15
+13,13,20:00,QF1547,Melbourne (MEL),Qantas 717,Unknown,2021-06-15
+14,14,20:30,JQ739,Melbourne (MEL),Jetstar Airways A320 (VH-VGT),Landed 20:52,2021-06-15
+15,15,20:30 QF7376,,Hobart (HBA),Qantas Freight B733 (VH-XMR),Landed 20:40,2021-06-15
+16,16,21:15,VA1380,Melbourne (MEL),Virgin Australia 73H,Unknown,2021-06-15

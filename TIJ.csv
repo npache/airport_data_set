@@ -1,0 +1,709 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,00:17 Y4403,,Silao (BJX),Volaris A21N (N537VL),Landed 00:13,2021-06-08
+1,1,00:24 Y4429,,Guadalajara (GDL),Volaris A320 (N509VL),Landed 23:59,2021-06-08
+2,2,00:30 VB3114,,Guadalajara (GDL),VivaAerobus A20N (XA-VIQ),Landed 00:18,2021-06-08
+3,3,06:10 Y4435,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 05:55,2021-06-08
+4,4,06:43 Y4441,,Morelia (MLM),Volaris A20N (XA-VRI),Landed 06:24,2021-06-08
+5,5,06:51,,Guadalajara (GDL),- B734,Canceled,2021-06-08
+6,6,07:01 Y4831,,Zacatecas (ZCL),Volaris A20N (N541VL),Landed 06:55,2021-06-08
+7,7,07:05 E7314,,Guadalajara (GDL),Estafeta Carga Aerea B734 (XA-EME),Landed 06:46,2021-06-08
+8,8,07:05 Y4413,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 06:58,2021-06-08
+9,9,07:05 VB1232,,Mexico City (MEX),VivaAerobus A320 (XA-VAP),Landed 06:44,2021-06-08
+10,10,07:21 Y4455,,Durango (DGO),Volaris A320 (XA-VOZ),Landed 07:14,2021-06-08
+11,11,07:38 Y4491,,Aguascalientes (AGU),Volaris A320 (N509VL),Landed 07:25,2021-06-08
+12,12,07:45 VB3104,,Guadalajara (GDL),VivaAerobus A20N (XA-VIJ),Landed 07:21,2021-06-08
+13,13,08:01 FX70,,San Diego (SAN),FedEx B752 (N961FD),Landed 08:36,2021-06-08
+14,14,08:05 VB1234,,Mexico City (MEX),VivaAerobus A320 (XA-VAA),Landed 07:47,2021-06-08
+15,15,08:13,AM170,Mexico City (MEX),Aeromexico B738 (XA-AME),Landed 07:58,2021-06-08
+16,16,08:15 VB5029,,Silao (BJX),VivaAerobus A320 (XA-VAQ),Landed 07:52,2021-06-08
+17,17,08:18 Y4531,,Acapulco (ACA),Volaris A20N (XA-VRS),Landed 08:03,2021-06-08
+18,18,08:27 Y4815,,Mexico City (MEX),Volaris A320 (N522VL),Landed 08:07,2021-06-08
+19,19,08:37 Y4487,,Morelia (MLM),Volaris A320 (XA-VOY),Landed 08:29,2021-06-08
+20,20,08:45 Y4427,,Guadalajara (GDL),Volaris A321 (XA-VLW),Landed 08:32,2021-06-08
+21,21,08:50 A82520,,Ontario (ONT),Ameriflight E120 (N179CA),Landed 08:42,2021-06-08
+22,22,08:56 Y4401,,Silao (BJX),Volaris A320 (XA-VLO),Landed 08:39,2021-06-08
+23,23,09:00 Y4509,,Guadalajara (GDL),Volaris A321 (XA-VLY),Landed 08:53,2021-06-08
+24,24,09:30 Y4541,,Oaxaca (OAX),Volaris A20N (N533VL),Landed 08:56,2021-06-08
+25,25,09:40 Y4811,,Mexico City (MEX),Volaris A320 (N514VL),Landed 09:21,2021-06-08
+26,26,10:36 Y4817,,Mexico City (MEX),Volaris A320 (N524VL),Landed 10:30,2021-06-08
+27,27,10:44 Y4581,,La Paz (LAP),Volaris A21N (N537VL),Landed 10:21,2021-06-08
+28,28,10:45 VB5003,,Culiacan (CUL),VivaAerobus A20N (XA-VIS),Landed 10:25,2021-06-08
+29,29,11:00,AM174,Mexico City (MEX),Aeromexico B788 (N965AM),Landed 10:38,2021-06-08
+30,30,11:11 Y4437,,Guadalajara (GDL),Volaris A320 (XA-VLF),Landed 11:04,2021-06-08
+31,31,11:19 Y4501,,Hermosillo (HMO),Volaris A320 (N509VL),Landed 11:11,2021-06-08
+32,32,11:37 Y4561,,Los Mochis (LMM),Volaris A320 (N505VL),Landed 11:31,2021-06-08
+33,33,12:18 Y4845,,Tepic (TPQ),Volaris A320 (XA-VLR),Landed 11:56,2021-06-08
+34,34,12:26 Y4411,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 12:10,2021-06-08
+35,35,12:41 Y4445,,Morelia (MLM),Volaris A320 (XA-VLC),Landed 12:36,2021-06-08
+36,36,13:05 Y4467,,San Jose del Cabo (SJD),Volaris A320 (XA-VOZ),Landed 12:59,2021-06-08
+37,37,13:17 Y4489,,Guadalajara (GDL),Volaris A320 (N512VL),Landed 13:27,2021-06-08
+38,38,13:25 Y4399,,Silao (BJX),Volaris A320 (N510VL),Landed 13:07,2021-06-08
+39,39,13:30 Y4843,,Colima (CLQ),Volaris A20N (XA-VRI),Landed 13:31,2021-06-08
+40,40,13:36 Y4269,,Loreto (LTO),Volaris A320 (XA-VOY),Landed 13:15,2021-06-08
+41,41,14:22 Y4419,,Culiacan (CUL),Volaris A321 (XA-VLY),Landed 14:43,2021-06-08
+42,42,14:25 VB2264,,Cancun (CUN),VivaAerobus A320 (XA-VAX),Landed 14:37,2021-06-08
+43,43,14:41,AM176,Mexico City (MEX),Aeromexico B738 (XA-AMW),Landed 14:39,2021-06-08
+44,44,15:09 Y4591,,Mazatlan (MZT),Volaris A20N (N533VL),Landed 15:08,2021-06-08
+45,45,15:10 Y4451,,San Jose del Cabo (SJD),Volaris A321 (XA-VLW),Landed 15:00,2021-06-08
+46,46,15:40 Y4495,,Aguascalientes (AGU),Volaris A20N (XA-VRS),Landed 15:44,2021-06-08
+47,47,15:50 Y4847,,Queretaro (QRO),Volaris A20N (N530VL),Landed 15:40,2021-06-08
+48,48,16:00 VB3106,,Guadalajara (GDL),VivaAerobus A320 (XA-VAQ),Landed 15:47,2021-06-08
+49,49,16:10 VB4082,,Monterrey (MTY),VivaAerobus A20N (XA-VIJ),Landed 15:51,2021-06-08
+50,50,16:10 Y4423,,Guadalajara (GDL),Volaris A321 (XA-VLH),Landed 16:01,2021-06-08
+51,51,16:46 Y4813,,Mexico City (MEX),Volaris A320 (XA-VLM),Landed 16:41,2021-06-08
+52,52,17:37 Y4513,,Monterrey (MTY),Volaris A21N (N537VL),Landed 17:27,2021-06-08
+53,53,17:52 Y4417,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 17:42,2021-06-08
+54,54,18:02 Y4425,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 18:16,2021-06-08
+55,55,18:25 Y45467,,San Jose del Cabo (SJD),Volaris A320 (N505VL),Landed 18:12,2021-06-08
+56,56,18:29 Y4477,,Ciudad Juarez (CJS),Volaris A320 (XA-VOY),Landed 18:33,2021-06-08
+57,57,18:35 VB1242,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 18:28,2021-06-08
+58,58,18:55 VB3110,,Guadalajara (GDL),VivaAerobus A320 (XA-VAT),Landed 18:45,2021-06-08
+59,59,18:56 Y4433,,Guadalajara (GDL),Volaris A20N (XA-VRE),Landed 18:58,2021-06-08
+60,60,18:59 Y4823,,Mexico City (MEX),Volaris A320 (N524VL),Landed 19:02,2021-06-08
+61,61,19:07 Y4551,,Puerto Vallarta (PVR),Volaris A320 (XA-VLC),Landed 19:14,2021-06-08
+62,62,19:14,AM188,Mexico City (MEX),Aeromexico B738 (XA-AMB),Landed 19:11,2021-06-08
+63,63,19:23 Y4461,,Puebla (PBC),Volaris A320 (N509VL),Landed 19:17,2021-06-08
+64,64,19:30 Y4407,,Ciudad Obregon (CEN),Volaris A20N (N533VL),Landed 19:25,2021-06-08
+65,65,19:31 Y4457,,Torreon (TRC),Volaris A20N (XA-VRI),Landed 19:29,2021-06-08
+66,66,19:36 Y4443,,Morelia (MLM),Volaris A320 (XA-VLR),Landed 19:32,2021-06-08
+67,67,20:18 Y4475,,San Luis Potosi (SLP),Volaris A320 (XA-VOZ),Landed 20:06,2021-06-08
+68,68,20:58 Y4409,,Silao (BJX),Volaris A21N (N542VL),Landed 20:58,2021-06-08
+69,69,21:26 Y4511,,Monterrey (MTY),Volaris A319 (XA-VOI),Landed 21:17,2021-06-08
+70,70,21:30 Y4473,,Chihuahua (CUU),Volaris A20N (XA-VRS),Landed 21:12,2021-06-08
+71,71,21:53 Y4819,,Mexico City (MEX),Volaris A320 (N517VL),Landed 21:45,2021-06-08
+72,72,22:09 Y4415,,Culiacan (CUL),Volaris A20N (N530VL),Landed 21:50,2021-06-08
+73,73,22:16,Y45471,Cancun (CUN),Volaris A20N (N538VL),Landed 22:14,2021-06-08
+74,74,22:20,AM184,Mexico City (MEX),Aeromexico B38M (XA-MAQ),Landed 23:04,2021-06-08
+75,75,22:22 Y4431,,Guadalajara (GDL),Volaris A321 (XA-VLZ),Landed 22:52,2021-06-08
+76,76,22:48 Y4503,,Hermosillo (HMO),Volaris A320 (XA-VLC),Landed 22:49,2021-06-08
+77,77,22:53 Y4543,,Oaxaca (OAX),Volaris A320 (N510VL),Landed 22:44,2021-06-08
+78,78,22:57 Y4821,,Mexico City (MEX),Volaris A320 (N519VL),Landed 02:26,2021-06-08
+79,79,23:04 Y4507,,San Jose del Cabo (SJD),Volaris A21N (N537VL),Landed 23:11,2021-06-08
+80,80,23:06 Y4565,,Durango (DGO),Volaris A20N (N541VL),Landed 22:28,2021-06-08
+81,81,23:10 VB1246,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 23:08,2021-06-08
+82,82,23:25,AM194,Mexico City (MEX),Aeromexico B738 (XA-JOY),Landed 00:20,2021-06-08
+83,83,23:25 VB5011,,Culiacan (CUL),VivaAerobus A20N (XA-VIS),Landed 23:02,2021-06-08
+84,84,23:51 Y4807,,Mexico City (MEX),Volaris A320 (N522VL),Landed 00:25,2021-06-08
+85,85,23:59 VB5017,,Morelia (MLM),VivaAerobus A20N (XA-VIJ),Landed 23:44,2021-06-08
+0,0,12:17 AM Y4403,,Silao (BJX),Volaris A321 (XA-VLH),Landed 12:00 AM,2021-06-09
+1,1,12:24 AM Y4429,,Guadalajara (GDL),Volaris A20N (XA-VRN),Landed 12:04 AM,2021-06-09
+2,2,12:30 AM VB3114,,Guadalajara (GDL),VivaAerobus A20N (XA-VIM),Landed 12:13 AM,2021-06-09
+3,3,6:10 AM Y4435,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 5:56 AM,2021-06-09
+4,4,6:43 AM Y4441,,Morelia (MLM),Volaris A320 (XA-VLD),Landed 6:33 AM,2021-06-09
+5,5,6:49 AM,,Guadalajara (GDL),- B734,Canceled,2021-06-09
+6,6,7:01 AM Y4831,,Zacatecas (ZCL),Volaris A320 (N509VL),Landed 6:55 AM,2021-06-09
+7,7,7:05 AM E7314,,Guadalajara (GDL),Estafeta Carga Aerea B734 (XA-EME),Landed 6:40 AM,2021-06-09
+8,8,7:05 AM Y4413,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 6:51 AM,2021-06-09
+9,9,7:21 AM Y4455,,Durango (DGO),Volaris A20N (XA-VRE),Landed 7:07 AM,2021-06-09
+10,10,7:45 AM VB3104,,Guadalajara (GDL),VivaAerobus A20N (XA-VIS),Landed 7:22 AM,2021-06-09
+11,11,8:01 AM FX70,,San Diego (SAN),FedEx B752 (N782FD),Landed 8:49 AM,2021-06-09
+12,12,8:05 AM VB1234,,Mexico City (MEX),VivaAerobus A320 (XA-VAO),Landed 7:39 AM,2021-06-09
+13,13,8:09 AM,AM170,Mexico City (MEX),Aeromexico B788 (XA-AMX),Landed 8:59 AM,2021-06-09
+14,14,8:15 AM VB5029,,Silao (BJX),VivaAerobus A320 (XA-VAQ),Landed 7:59 AM,2021-06-09
+15,15,8:18 AM Y4531,,Acapulco (ACA),Volaris A320 (N522VL),Landed 8:49 AM,2021-06-09
+16,16,8:27 AM Y4815,,Mexico City (MEX),Volaris A320 (N524VL),Landed 8:18 AM,2021-06-09
+17,17,8:30 AM A82520,,Ontario (ONT),Ameriflight E120 (N179CA),Landed 8:25 AM,2021-06-09
+18,18,8:37 AM Y4487,,Morelia (MLM),Volaris A20N (XA-VRL),Landed 8:21 AM,2021-06-09
+19,19,8:45 AM Y4427,,Guadalajara (GDL),Volaris A321 (XA-VLZ),Landed 8:54 AM,2021-06-09
+20,20,8:56 AM Y4401,,Silao (BJX),Volaris A320 (N511VL),Landed 8:45 AM,2021-06-09
+21,21,9:00 AM Y4509,,Guadalajara (GDL),Volaris A21N (N537VL),Landed 8:59 AM,2021-06-09
+22,22,9:30 AM Y4541,,Oaxaca (OAX),Volaris A320 (XA-VOY),Landed 9:16 AM,2021-06-09
+23,23,9:40 AM Y4811,,Mexico City (MEX),Volaris A20N (XA-VRN),Landed 9:15 AM,2021-06-09
+24,24,10:15 AM Y4545,,Tuxtla Gutierrez (TGZ),Volaris A320 (N510VL),Landed 12:03 PM,2021-06-09
+25,25,10:36 AM Y4817,,Mexico City (MEX),Volaris A20N (N541VL),Landed 10:14 AM,2021-06-09
+26,26,10:44 AM Y4581,,La Paz (LAP),Volaris A21N (N542VL),Landed 10:19 AM,2021-06-09
+27,27,10:45 AM VB5003,,Culiacan (CUL),VivaAerobus A20N (XA-VIJ),Landed 10:31 AM,2021-06-09
+28,28,11:00 AM AM174,,Mexico City (MEX),Aeromexico B788 (N783AM),Landed 10:56 AM,2021-06-09
+29,29,11:11 AM Y4437,,Guadalajara (GDL),Volaris A320 (XA-VLN),Landed 11:01 AM,2021-06-09
+30,30,11:37 AM Y4561,,Los Mochis (LMM),Volaris A20N (N529VL),Landed 11:33 AM,2021-06-09
+31,31,11:40 AM Y4593,,Mazatlan (MZT),Volaris A20N (XA-VRI),Landed 11:38 AM,2021-06-09
+32,32,12:18 PM Y4845,,Tepic (TPQ),Volaris A320 (N519VL),Landed 11:51 AM,2021-06-09
+33,33,12:26 PM Y4411,,Culiacan (CUL),Volaris A321 (XA-VLH),Landed 12:23 PM,2021-06-09
+34,34,12:41 PM Y4445,,Morelia (MLM),Volaris A20N (N538VL),Landed 12:29 PM,2021-06-09
+35,35,12:51 PM,,La Paz (LAP),- E145,Canceled,2021-06-09
+36,36,1:05 PM A7960,,La Paz (LAP),Calafia Airlines ER4,Unknown,2021-06-09
+37,37,1:17 PM Y4489,,Guadalajara (GDL),Volaris A320 (N513VL),Landed 1:35 PM,2021-06-09
+38,38,1:30 PM Y4843,,Colima (CLQ),Volaris A320 (XA-VLD),Landed 1:43 PM,2021-06-09
+39,39,1:41 PM Y4465,,Puebla (PBC),Volaris A320 (XA-VLR),Landed 1:10 PM,2021-06-09
+40,40,2:22 PM Y4419,,Culiacan (CUL),Volaris A21N (N537VL),Landed 2:19 PM,2021-06-09
+41,41,2:24 PM Y4801,,Uruapan (UPN),Volaris A20N (XA-VRE),Landed 2:34 PM,2021-06-09
+42,42,2:41 PM,AM176,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 2:37 PM,2021-06-09
+43,43,3:09 PM Y4591,,Mazatlan (MZT),Volaris A320 (XA-VOY),Landed 3:13 PM,2021-06-09
+44,44,3:10 PM Y4451,,San Jose del Cabo (SJD),Volaris A321 (XA-VLZ),Landed 2:52 PM,2021-06-09
+45,45,3:16 PM Y4575,,Zacatecas (ZCL),Volaris A20N (XA-VRL),Landed 3:06 PM,2021-06-09
+46,46,4:00 PM VB3106,,Guadalajara (GDL),VivaAerobus A20N (XA-VIS),Landed 3:38 PM,2021-06-09
+47,47,4:10 PM VB4082,,Monterrey (MTY),VivaAerobus A320 (XA-VAQ),Landed 3:33 PM,2021-06-09
+48,48,4:10 PM Y4423,,Guadalajara (GDL),Volaris A321 (XA-VLV),Landed 3:54 PM,2021-06-09
+49,49,4:11 PM Y4439,,Culiacan (CUL),Volaris A21N (N542VL),Landed 3:58 PM,2021-06-09
+50,50,4:39 PM Y4849,,Tepic (TPQ),Volaris A320 (N522VL),Landed 4:32 PM,2021-06-09
+51,51,4:46 PM Y4813,,Mexico City (MEX),Volaris A320 (N524VL),Landed 4:37 PM,2021-06-09
+52,52,5:45 PM VB5087,,Puerto Vallarta (PVR),VivaAerobus A20N (XA-VIJ),Landed 5:20 PM,2021-06-09
+53,53,5:52 PM Y4417,,Culiacan (CUL),Volaris A321 (XA-VLH),Landed 5:52 PM,2021-06-09
+54,54,6:02 PM Y4425,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 5:56 PM,2021-06-09
+55,55,6:29 PM Y4477,,Ciudad Juarez (CJS),Volaris A320 (XA-VLR),Landed 6:10 PM,2021-06-09
+56,56,6:35 PM VB1242,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 6:28 PM,2021-06-09
+57,57,6:55 PM VB3110,,Guadalajara (GDL),VivaAerobus A320 (XA-VAB),Landed 6:43 PM,2021-06-09
+58,58,6:56 PM Y4433,,Guadalajara (GDL),Volaris A20N (XA-VRJ),Landed 6:50 PM,2021-06-09
+59,59,6:59 PM Y4823,,Mexico City (MEX),Volaris A20N (XA-VRH),Landed 7:19 PM,2021-06-09
+60,60,7:07 PM Y4551,,Puerto Vallarta (PVR),Volaris A20N (N538VL),Landed 7:12 PM,2021-06-09
+61,61,7:14 PM,AM188,Mexico City (MEX),Aeromexico B738 (N368AR),Landed 8:41 PM,2021-06-09
+62,62,7:30 PM Y4407,,Ciudad Obregon (CEN),Volaris A320 (XA-VOY),Landed 7:34 PM,2021-06-09
+63,63,7:30 PM Y4459,,Durango (DGO),Volaris A320 (XA-VLD),Landed 7:27 PM,2021-06-09
+64,64,7:36 PM Y4443,,Morelia (MLM),Volaris A320 (N519VL),Landed 7:23 PM,2021-06-09
+65,65,8:03 PM Y4803,,Uruapan (UPN),Volaris A20N (XA-VRI),Landed 7:51 PM,2021-06-09
+66,66,8:58 PM Y4409,,Silao (BJX),Volaris A321 (XA-VRC),Landed 8:49 PM,2021-06-09
+67,67,9:04 PM Y4493,,Aguascalientes (AGU),Volaris A20N (XA-VRE),Landed 9:10 PM,2021-06-09
+68,68,9:26 PM Y4511,,Monterrey (MTY),Volaris A319 (XA-VOE),Landed 9:15 PM,2021-06-09
+69,69,9:30 PM Y4473,,Chihuahua (CUU),Volaris A320 (N522VL),Landed 9:38 PM,2021-06-09
+70,70,9:44 PM Y45646,,Guadalajara (GDL),Volaris A320 (XA-VLN),Landed 9:27 PM,2021-06-09
+71,71,9:45 PM VB5047,,San Jose del Cabo (SJD),VivaAerobus A320 (XA-VAQ),Landed 9:23 PM,2021-06-09
+72,72,9:53 PM Y4819,,Mexico City (MEX),Volaris A20N (XA-VRN),Landed 10:16 PM,2021-06-09
+73,73,10:09 PM Y4415,,Culiacan (CUL),Volaris A20N (XA-VRL),Landed 10:03 PM,2021-06-09
+74,74,10:16 PM,Y4471,Cancun (CUN),Volaris A20N (XA-VRS),Landed 9:58 PM,2021-06-09
+75,75,10:20 PM,AM184,Mexico City (MEX),Aeromexico B38M (XA-SSR),Landed 10:08 PM,2021-06-09
+76,76,10:22 PM Y4431,,Guadalajara (GDL),Volaris A321 (XA-VLZ),Landed 11:01 PM,2021-06-09
+77,77,10:29 PM Y4463,,Tapachula (TAP),Volaris A20N (N529VL),Landed 10:58 PM,2021-06-09
+78,78,10:36 PM Y4833,,Zacatecas (ZCL),Volaris A20N (N533VL),Landed 10:21 PM,2021-06-09
+79,79,10:48 PM Y4503,,Hermosillo (HMO),Volaris A20N (N538VL),Landed 11:07 PM,2021-06-09
+80,80,10:53 PM Y4543,,Oaxaca (OAX),Volaris A320 (N510VL),Landed 10:39 PM,2021-06-09
+81,81,10:57 PM Y4821,,Mexico City (MEX),Volaris A320 (N521VL),Unknown,2021-06-09
+82,82,11:04 PM Y4507,,San Jose del Cabo (SJD),Volaris A21N (N537VL),Landed 10:45 PM,2021-06-09
+83,83,11:10 PM VB1246,,Mexico City (MEX),VivaAerobus A21N (XA-VBA),Landed 10:48 PM,2021-06-09
+84,84,11:25 PM,AM194,Mexico City (MEX),Aeromexico B38M (XA-MAT),Landed 11:29 PM,2021-06-09
+85,85,11:25 PM VB5011,,Culiacan (CUL),VivaAerobus A20N (XA-VIJ),Landed 11:08 PM,2021-06-09
+86,86,11:51 PM Y4807,,Mexico City (MEX),Volaris A320 (XA-VLL),Landed 2:07 AM,2021-06-09
+87,87,11:59 PM VB5017,,Morelia (MLM),VivaAerobus A20N (XA-VIS),Landed 11:43 PM,2021-06-09
+0,0,00:17 Y4403,,Silao (BJX),Volaris A21N (N542VL),Landed 00:23,2021-06-10
+1,1,00:24 Y4429,,Guadalajara (GDL),Volaris A20N (XA-VRR),Landed 00:05,2021-06-10
+2,2,00:30 VB3114,,Guadalajara (GDL),VivaAerobus A320 (XA-VAT),Landed 00:20,2021-06-10
+3,3,06:10 Y4435,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 05:54,2021-06-10
+4,4,06:43 Y4441,,Morelia (MLM),Volaris A320 (XA-VLC),Landed 06:30,2021-06-10
+5,5,06:46,,Guadalajara (GDL),- B734,Canceled,2021-06-10
+6,6,07:01 Y4831,,Zacatecas (ZCL),Volaris A320 (XA-VLR),Landed 06:39,2021-06-10
+7,7,07:05 E7314,,Guadalajara (GDL),Estafeta Carga Aerea B734 (XA-EME),Landed 06:46,2021-06-10
+8,8,07:05 Y4413,,Culiacan (CUL),Volaris A321 (XA-VLH),Landed 06:51,2021-06-10
+9,9,07:21 Y4455,,Durango (DGO),Volaris A320 (N522VL),Landed 07:05,2021-06-10
+10,10,07:38 Y4491,,Aguascalientes (AGU),Volaris A20N (XA-VRI),Landed 07:36,2021-06-10
+11,11,07:45 VB3104,,Guadalajara (GDL),VivaAerobus A320 (XA-VAQ),Landed 07:28,2021-06-10
+12,12,08:01 FX70,,San Diego (SAN),FedEx B752 (N798FD),Landed 08:19,2021-06-10
+13,13,08:05 VB1234,,Mexico City (MEX),VivaAerobus A320 (XA-VAO),Landed 07:56,2021-06-10
+14,14,08:13,AM170,Mexico City (MEX),Aeromexico B738 (N368AR),Landed 08:10,2021-06-10
+15,15,08:15 VB5029,,Silao (BJX),VivaAerobus A20N (XA-VIJ),Landed 07:59,2021-06-10
+16,16,08:27 Y4815,,Mexico City (MEX),Volaris A320 (N517VL),Landed 08:16,2021-06-10
+17,17,08:41 A82520,,Ontario (ONT),Ameriflight E120 (N179CA),Landed 08:37,2021-06-10
+18,18,08:45 Y4427,,Guadalajara (GDL),Volaris A321 (XA-VRC),Landed 08:27,2021-06-10
+19,19,08:56 Y4401,,Silao (BJX),Volaris A320 (XA-VOZ),Landed 08:34,2021-06-10
+20,20,09:00 Y4509,,Guadalajara (GDL),Volaris A21N (N542VL),Landed 08:43,2021-06-10
+21,21,09:30 Y4541,,Oaxaca (OAX),Volaris A20N (N538VL),Landed 09:23,2021-06-10
+22,22,09:40 Y4811,,Mexico City (MEX),Volaris A320 (N519VL),Landed 09:01,2021-06-10
+23,23,10:36 Y4817,,Mexico City (MEX),Volaris A320 (N506VL),Landed 10:11,2021-06-10
+24,24,10:44 Y4581,,La Paz (LAP),Volaris A21N (N537VL),Landed 10:21,2021-06-10
+25,25,11:00,AM174,Mexico City (MEX),Aeromexico B788 (N966AM),Landed 11:05,2021-06-10
+26,26,11:11 Y4437,,Guadalajara (GDL),Volaris A20N (XA-VRO),Landed 10:51,2021-06-10
+27,27,11:19 Y4501,,Hermosillo (HMO),Volaris A20N (XA-VRI),Landed 11:36,2021-06-10
+28,28,11:37 Y4561,,Los Mochis (LMM),Volaris A320 (XA-VLR),Landed 11:31,2021-06-10
+29,29,11:40 Y4593,,Mazatlan (MZT),Volaris A320 (XA-VLD),Landed 11:25,2021-06-10
+30,30,12:18 Y4845,,Tepic (TPQ),Volaris A320 (N510VL),Landed 12:04,2021-06-10
+31,31,12:26 Y4411,,Culiacan (CUL),Volaris A321 (XA-VLH),Landed 12:19,2021-06-10
+32,32,12:41 Y4445,,Morelia (MLM),Volaris A320 (N521VL),Unknown,2021-06-10
+33,33,13:17 Y4489,,Guadalajara (GDL),Volaris A320 (XA-VLP),Landed 12:59,2021-06-10
+34,34,13:30 Y4843,,Colima (CLQ),Volaris A20N (N529VL),Landed 13:13,2021-06-10
+35,35,13:35 VB5005,,Culiacan (CUL),VivaAerobus A20N (XA-VIS),Landed 13:29,2021-06-10
+36,36,13:36 Y4269,,Loreto (LTO),Volaris A320 (XA-VLL),Landed 13:26,2021-06-10
+37,37,13:41 Y4465,,Puebla (PBC),Volaris A20N (XA-VRS),Landed 13:34,2021-06-10
+38,38,13:49,,La Paz (LAP),- E145,Canceled,2021-06-10
+39,39,14:05 A7960,,La Paz (LAP),Calafia Airlines ER4,Unknown,2021-06-10
+40,40,14:10 Y4467,,San Jose del Cabo (SJD),Volaris A321 (XA-VRC),Landed 14:02,2021-06-10
+41,41,14:24 Y4801,,Uruapan (UPN),Volaris A320 (N522VL),Landed 14:22,2021-06-10
+42,42,14:41,AM176,Mexico City (MEX),Aeromexico B38M (XA-MAO),Landed 14:56,2021-06-10
+43,43,15:05 A7792,,Loreto (LTO),Calafia Airlines ER4,Unknown,2021-06-10
+44,44,15:05 A7952,,La Paz (LAP),Calafia Airlines ER4,Unknown,2021-06-10
+45,45,15:09 Y4591,,Mazatlan (MZT),Volaris A20N (N538VL),Landed 15:12,2021-06-10
+46,46,15:16 Y4575,,Zacatecas (ZCL),Volaris A320 (XA-VOZ),Landed 15:16,2021-06-10
+47,47,15:30 Y4451,,San Jose del Cabo (SJD),Volaris A21N (N542VL),Landed 15:08,2021-06-10
+48,48,16:00 VB3106,,Guadalajara (GDL),VivaAerobus A320 (XA-VAQ),Landed 15:40,2021-06-10
+49,49,16:10 Y4423,,Guadalajara (GDL),Volaris A20N (N544VL),Landed 16:17,2021-06-10
+50,50,16:10 VB4082,,Monterrey (MTY),VivaAerobus A20N (XA-VIJ),Landed 15:35,2021-06-10
+51,51,16:44,Y45471,Cancun (CUN),Volaris A320 (N523VL),Landed 16:43,2021-06-10
+52,52,16:46 Y4813,,Mexico City (MEX),Volaris A320 (N517VL),Canceled,2021-06-10
+53,53,16:53 Y45581,,La Paz (LAP),Volaris A320 (XA-VLR),Landed 16:48,2021-06-10
+54,54,17:37 Y4513,,Monterrey (MTY),Volaris A21N (N537VL),Landed 17:30,2021-06-10
+55,55,17:40,,San Diego (SDM),- E55P (N500AD),Unknown,2021-06-10
+56,56,17:52 Y4417,,Culiacan (CUL),Volaris A321 (XA-VLH),Landed 17:39,2021-06-10
+57,57,18:02 Y4425,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 17:54,2021-06-10
+58,58,18:11,,Loreto (LTO),- E145,Canceled,2021-06-10
+59,59,18:29 Y4477,,Ciudad Juarez (CJS),Volaris A320 (XA-VLL),Landed 18:20,2021-06-10
+60,60,18:35 VB1242,,Mexico City (MEX),VivaAerobus A21N (XA-VBA),Landed 18:01,2021-06-10
+61,61,18:55 VB3110,,Guadalajara (GDL),VivaAerobus A320 (XA-VAU),Landed 18:45,2021-06-10
+62,62,18:56 Y4433,,Guadalajara (GDL),Volaris A320 (XA-VLX),Landed 18:54,2021-06-10
+63,63,18:59 Y4823,,Mexico City (MEX),Volaris A320 (XA-VLN),Landed 19:24,2021-06-10
+64,64,19:07 Y4551,,Puerto Vallarta (PVR),Volaris A320 (N521VL),Unknown,2021-06-10
+65,65,19:14,AM188,Mexico City (MEX),Aeromexico B738 (XA-AMA),Landed 19:01,2021-06-10
+66,66,19:23 Y4461,,Puebla (PBC),Volaris A20N (XA-VRI),Landed 19:54,2021-06-10
+67,67,19:30 Y4407,,Ciudad Obregon (CEN),Volaris A320 (XA-VLL),Landed 23:39,2021-06-10
+68,68,19:31 Y4457,,Torreon (TRC),Volaris A20N (N529VL),Landed 19:15,2021-06-10
+69,69,19:36 Y4443,,Morelia (MLM),Volaris A20N (N538VL),Landed 22:34,2021-06-10
+70,70,20:51 Y4547,,Huatulco (HUX),Volaris A320 (XA-VLD),Landed 20:41,2021-06-10
+71,71,20:58 Y4409,,Silao (BJX),Volaris A321 (XA-VLZ),Landed 20:58,2021-06-10
+72,72,21:04 Y4493,,Aguascalientes (AGU),Volaris A320 (N522VL),Landed 21:02,2021-06-10
+73,73,21:26 Y4511,,Monterrey (MTY),Volaris A319 (XA-VOE),Landed 21:09,2021-06-10
+74,74,21:37,Y4553,Puerto Vallarta (PVR),Volaris A320 (XA-VOZ),Landed 22:05,2021-06-10
+75,75,21:44 Y45646,,Guadalajara (GDL),Volaris A320 (N505VL),Landed 21:59,2021-06-10
+76,76,21:53 Y4819,,Mexico City (MEX),Volaris A320 (N510VL),Landed 21:35,2021-06-10
+77,77,22:09 Y4415,,Culiacan (CUL),Volaris A320 (XA-VLR),Landed 21:55,2021-06-10
+78,78,22:09 Y45415,,Culiacan (CUL),Volaris A320 (N523VL),Landed 22:02,2021-06-10
+79,79,22:16,Y4471,Cancun (CUN),Volaris A20N (N530VL),Landed 21:52,2021-06-10
+80,80,22:16 Y45423,,Guadalajara (GDL),Volaris A320 (N513VL),Landed 22:18,2021-06-10
+81,81,22:20,AM184,Mexico City (MEX),Aeromexico B788 (N966AM),Landed 22:09,2021-06-10
+82,82,22:22 Y4431,,Guadalajara (GDL),Volaris A321 (XA-VRC),Landed 22:25,2021-06-10
+83,83,22:48 Y4503,,Hermosillo (HMO),Volaris A320 (N521VL),Unknown,2021-06-10
+84,84,22:53 Y4543,,Oaxaca (OAX),Volaris A20N (XA-VRS),Landed 22:41,2021-06-10
+85,85,22:57 Y4821,,Mexico City (MEX),Volaris A320 (XA-VRA),Landed 22:51,2021-06-10
+86,86,23:04 Y4507,,San Jose del Cabo (SJD),Volaris A21N (N537VL),Landed 22:54,2021-06-10
+87,87,23:10 VB1246,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 23:02,2021-06-10
+88,88,23:25,AM194,Mexico City (MEX),Aeromexico B738 (XA-AMN),Landed 00:25,2021-06-10
+89,89,23:25 VB5039,,Mazatlan (MZT),VivaAerobus A20N (XA-VIS),Landed 23:04,2021-06-10
+90,90,23:25 VB5011,,Culiacan (CUL),VivaAerobus A20N (XA-VIJ),Landed 23:07,2021-06-10
+91,91,23:51 Y4807,,Mexico City (MEX),Volaris A320 (N519VL),Landed 23:56,2021-06-10
+92,92,23:59 VB5017,,Morelia (MLM),VivaAerobus A320 (XA-VAQ),Landed 23:35,2021-06-10
+0,0,00:17 Y4403,,Silao (BJX),Volaris A21N (N542VL),Landed 23:59,2021-06-11
+1,1,00:24 Y4429,,Guadalajara (GDL),Volaris A20N (N544VL),Landed 00:22,2021-06-11
+2,2,00:30 VB3114,,Guadalajara (GDL),VivaAerobus A20N (XA-VIM),Landed 00:19,2021-06-11
+3,3,00:31 Y4583,,Morelia (MLM),Volaris A320 (XA-VLC),Landed 00:15,2021-06-11
+4,4,06:10 Y4435,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 05:53,2021-06-11
+5,5,06:43 Y4441,,Morelia (MLM),Volaris A20N (XA-VRI),Landed 06:24,2021-06-11
+6,6,06:47,,Guadalajara (GDL),- B734,Canceled,2021-06-11
+7,7,07:05 E7314,,Guadalajara (GDL),Estafeta Carga Aerea B734 (XA-EST),Landed 06:44,2021-06-11
+8,8,07:05 Y4413,,Culiacan (CUL),Volaris A321 (XA-VLH),Unknown,2021-06-11
+9,9,07:21 Y4455,,Durango (DGO),Volaris A320 (XA-VLL),Landed 07:09,2021-06-11
+10,10,07:38 Y4491,,Aguascalientes (AGU),Volaris A320 (XA-VLR),Landed 07:12,2021-06-11
+11,11,07:45 VB3104,,Guadalajara (GDL),VivaAerobus A20N (XA-VIS),Landed 07:30,2021-06-11
+12,12,08:01 FX70,,San Diego (SAN),FedEx B752 (N935FD),Landed 08:09,2021-06-11
+13,13,08:05 VB1234,,Mexico City (MEX),VivaAerobus A20N (XA-VIF),Landed 07:39,2021-06-11
+14,14,08:09,AM170,Mexico City (MEX),Aeromexico B788 (N965AM),Landed 07:43,2021-06-11
+15,15,08:15 VB5029,,Silao (BJX),VivaAerobus A320 (XA-VAQ),Landed 07:59,2021-06-11
+16,16,08:18 Y4531,,Acapulco (ACA),Volaris A320 (N519VL),Landed 08:10,2021-06-11
+17,17,08:27 Y4815,,Mexico City (MEX),Volaris A20N (XA-VRH),Landed 08:15,2021-06-11
+18,18,08:32 A82520,,Ontario (ONT),Ameriflight E120 (N179CA),Landed 08:28,2021-06-11
+19,19,08:45 Y4427,,Guadalajara (GDL),Volaris A21N (N537VL),Landed 08:49,2021-06-11
+20,20,08:56 Y4401,,Silao (BJX),Volaris A320 (XA-VLQ),Landed 08:32,2021-06-11
+21,21,09:00 Y4509,,Guadalajara (GDL),Volaris A321 (XA-VRC),Landed 08:40,2021-06-11
+22,22,09:30 Y4541,,Oaxaca (OAX),Volaris A20N (XA-VRS),Landed 09:22,2021-06-11
+23,23,09:40 Y4811,,Mexico City (MEX),Volaris A320 (XA-VLM),Landed 09:14,2021-06-11
+24,24,10:15 Y4545,,Tuxtla Gutierrez (TGZ),Volaris A320 (N521VL),Unknown,2021-06-11
+25,25,10:36 Y4817,,Mexico City (MEX),Volaris A319 (N504VL),Canceled,2021-06-11
+26,26,10:44 Y4581,,La Paz (LAP),Volaris A321 (XA-VLZ),Landed 10:18,2021-06-11
+27,27,10:45 VB5003,,Culiacan (CUL),VivaAerobus A20N (XA-VIJ),Landed 10:41,2021-06-11
+28,28,11:00 AM174,,Mexico City (MEX),Aeromexico B38M (XA-MAG),Landed 11:12,2021-06-11
+29,29,11:11 Y4437,,Guadalajara (GDL),Volaris A20N (XA-VRQ),Landed 10:59,2021-06-11
+30,30,11:19 Y4501,,Hermosillo (HMO),Volaris A320,Canceled,2021-06-11
+31,31,11:19 Y45551,,Puerto Vallarta (PVR),Volaris A320 (N517VL),Landed 11:09,2021-06-11
+32,32,11:40 Y4593,,Mazatlan (MZT),Volaris A320 (XA-VLR),Landed 13:37,2021-06-11
+33,33,12:18 Y4845,,Tepic (TPQ),Volaris A20N (N529VL),Landed 11:59,2021-06-11
+34,34,12:26 Y4411,,Culiacan (CUL),Volaris A321 (XA-VLH),Landed 12:20,2021-06-11
+35,35,12:41 Y4445,,Morelia (MLM),Volaris A320 (XA-VLD),Landed 12:17,2021-06-11
+36,36,13:00 Y4549,,Zihuatanejo (ZIH),Volaris A320 (XA-VLC),Landed 12:51,2021-06-11
+37,37,13:17 Y4489,,Guadalajara (GDL),Volaris A320 (XA-VLF),Landed 13:20,2021-06-11
+38,38,13:30 Y4843,,Colima (CLQ),Volaris A20N (XA-VRI),Landed 13:25,2021-06-11
+39,39,13:39,,La Paz (LAP),- E145,Canceled,2021-06-11
+40,40,13:41 Y4465,,Puebla (PBC),Volaris A20N (N538VL),Landed 13:07,2021-06-11
+41,41,13:55 A7960,,La Paz (LAP),Calafia Airlines ER4,Unknown,2021-06-11
+42,42,14:22 Y4419,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 14:06,2021-06-11
+43,43,14:24 Y4801,,Uruapan (UPN),Volaris A320 (XA-VLL),Landed 14:20,2021-06-11
+44,44,14:41,AM176,Mexico City (MEX),Aeromexico B738 (XA-AMG),Landed 14:35,2021-06-11
+45,45,15:09 Y4591,,Mazatlan (MZT),Volaris A20N (XA-VRS),Landed 15:23,2021-06-11
+46,46,15:10 Y4451,,San Jose del Cabo (SJD),Volaris A21N (N537VL),Landed 15:02,2021-06-11
+47,47,16:00 VB3106,,Guadalajara (GDL),VivaAerobus A20N (XA-VIS),Landed 15:45,2021-06-11
+48,48,16:10 VB4082,,Monterrey (MTY),VivaAerobus A320 (XA-VAQ),Landed 15:37,2021-06-11
+49,49,16:10 Y4423,,Guadalajara (GDL),Volaris A321 (XA-VLV),Landed 15:55,2021-06-11
+50,50,16:11 Y4439,,Culiacan (CUL),Volaris A321 (XA-VLZ),Landed 15:41,2021-06-11
+51,51,16:18 Y4563,,Los Mochis (LMM),Volaris A320 (XA-VLR),Landed 18:30,2021-06-11
+52,52,16:33 Y4841,,Veracruz (VER),Volaris A20N (N529VL),Landed 20:24,2021-06-11
+53,53,16:39 Y4849,,Tepic (TPQ),Volaris A320 (N521VL),Unknown,2021-06-11
+54,54,16:46 Y4813,,Mexico City (MEX),Volaris A320 (XA-VLS),Landed 16:47,2021-06-11
+55,55,17:45 VB5087,,Puerto Vallarta (PVR),VivaAerobus A20N (XA-VIJ),Landed 17:33,2021-06-11
+56,56,17:52 Y4417,,Culiacan (CUL),Volaris A321 (XA-VLH),Landed 17:44,2021-06-11
+57,57,18:02 Y4425,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 17:50,2021-06-11
+58,58,18:29 Y4477,,Ciudad Juarez (CJS),Volaris A320 (N517VL),Landed 18:45,2021-06-11
+59,59,18:35 VB1242,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 18:09,2021-06-11
+60,60,18:55 VB3110,,Guadalajara (GDL),VivaAerobus A20N (XA-VIM),Landed 18:39,2021-06-11
+61,61,18:56 Y4433,,Guadalajara (GDL),Volaris A20N (XA-VRQ),Landed 18:42,2021-06-11
+62,62,18:59 Y4823,,Mexico City (MEX),Volaris A20N (N528VL),Landed 18:50,2021-06-11
+63,63,19:07 Y4551,,Puerto Vallarta (PVR),Volaris A320 (XA-VLD),Landed 19:05,2021-06-11
+64,64,19:14,AM188,Mexico City (MEX),Aeromexico B738 (N368AR),Landed 19:25,2021-06-11
+65,65,19:23 Y4461,,Puebla (PBC),Volaris A320 (XA-VOZ),Landed 19:00,2021-06-11
+66,66,19:30 Y4407,,Ciudad Obregon (CEN),Volaris A20N (XA-VRS),Landed 19:51,2021-06-11
+67,67,19:30 Y4459,,Durango (DGO),Volaris A20N (XA-VRI),Landed 19:30,2021-06-11
+68,68,19:36 Y4443,,Morelia (MLM),Volaris A320 (N519VL),Landed 19:58,2021-06-11
+69,69,19:57 Y45817,,Mexico City (MEX),Volaris A20N (XA-VRE),Landed 19:34,2021-06-11
+70,70,20:18 Y4475,,San Luis Potosi (SLP),Volaris A320 (XA-VLC),Landed 19:54,2021-06-11
+71,71,20:58 Y4409,,Silao (BJX),Volaris A21N (N542VL),Landed 20:44,2021-06-11
+72,72,21:04 Y4493,,Aguascalientes (AGU),Volaris A320 (XA-VLL),Landed 21:23,2021-06-11
+73,73,21:26 Y4511,,Monterrey (MTY),Volaris A319 (XA-VOI),Landed 22:12,2021-06-11
+74,74,21:30 Y4473,,Chihuahua (CUU),Volaris A320 (N517VL),Landed 23:49,2021-06-11
+75,75,21:45 VB5047,,San Jose del Cabo (SJD),VivaAerobus A320 (XA-VAQ),Landed 21:19,2021-06-11
+76,76,21:53 Y4819,,Mexico City (MEX),Volaris A20N (N532VL),Landed 21:45,2021-06-11
+77,77,22:09 Y4415,,Culiacan (CUL),Volaris A320 (XA-VLS),Landed 22:19,2021-06-11
+78,78,22:16,Y4471,Cancun (CUN),Volaris A320 (N523VL),Landed 22:02,2021-06-11
+79,79,22:20,AM184,Mexico City (MEX),Aeromexico B738 (XA-AMV),Landed 22:16,2021-06-11
+80,80,22:22 Y4431,,Guadalajara (GDL),Volaris A321 (XA-VRC),Landed 22:24,2021-06-11
+81,81,22:48 Y4503,,Hermosillo (HMO),Volaris A21N (N542VL),Landed 01:02,2021-06-11
+82,82,22:53 Y4543,,Oaxaca (OAX),Volaris A20N (N538VL),Landed 22:30,2021-06-11
+83,83,22:57 Y4821,,Mexico City (MEX),Volaris A320 (N522VL),Landed 22:38,2021-06-11
+84,84,23:04 Y4507,,San Jose del Cabo (SJD),Volaris A320 (XA-VLR),Landed 00:02,2021-06-11
+85,85,23:10 VB1246,,Mexico City (MEX),VivaAerobus A21N (XA-VBA),Landed 22:49,2021-06-11
+86,86,23:25,AM194,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 23:11,2021-06-11
+87,87,23:25 VB5011,,Culiacan (CUL),VivaAerobus A20N (XA-VIJ),Landed 23:05,2021-06-11
+88,88,23:25 Y4499,,Silao (BJX),Volaris A21N (N537VL),Landed 23:24,2021-06-11
+89,89,23:51 Y4807,,Mexico City (MEX),Volaris A320 (XA-VLE),Unknown,2021-06-11
+90,90,23:59 VB5017,,Morelia (MLM),VivaAerobus A20N (XA-VIS),Landed 23:28,2021-06-11
+0,0,12:17 AM Y4403,,Silao (BJX),Volaris A321 (XA-VLZ),Landed 12:09 AM,2021-06-12
+1,1,12:24 AM Y4429,,Guadalajara (GDL),Volaris A20N (XA-VRT),Landed 12:13 AM,2021-06-12
+2,2,12:30 AM VB3114,,Guadalajara (GDL),VivaAerobus A20N (XA-VIA),Landed 12:06 AM,2021-06-12
+3,3,6:10 AM Y4435,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 5:51 AM,2021-06-12
+4,4,6:15 AM VB1232,,Mexico City (MEX),VivaAerobus A320 (XA-VAU),Landed 5:41 AM,2021-06-12
+5,5,6:43 AM Y4441,,Morelia (MLM),Volaris A320 (N523VL),Landed 6:21 AM,2021-06-12
+6,6,7:01 AM Y4831,,Zacatecas (ZCL),Volaris A20N (N532VL),Landed 6:56 AM,2021-06-12
+7,7,7:05 AM Y4413,,Culiacan (CUL),Volaris A321 (XA-VLH),Landed 6:49 AM,2021-06-12
+8,8,7:21 AM Y4455,,Durango (DGO),Volaris A20N (XA-VRT),Landed 7:00 AM,2021-06-12
+9,9,7:38 AM Y4491,,Aguascalientes (AGU),Volaris A320 (XA-VLE),Landed 7:16 AM,2021-06-12
+10,10,7:45 AM VB3104,,Guadalajara (GDL),VivaAerobus A320 (XA-VAQ),Landed 7:23 AM,2021-06-12
+11,11,8:05 AM VB1234,,Mexico City (MEX),VivaAerobus A20N (XA-VIK),Landed 7:35 AM,2021-06-12
+12,12,8:13 AM,AM170,Mexico City (MEX),Aeromexico B38M (XA-MAG),Landed 7:56 AM,2021-06-12
+13,13,8:15 AM VB5029,,Silao (BJX),VivaAerobus A20N (XA-VIJ),Landed 7:52 AM,2021-06-12
+14,14,8:18 AM Y4531,,Acapulco (ACA),Volaris A20N (N538VL),Landed 8:10 AM,2021-06-12
+15,15,8:27 AM Y4815,,Mexico City (MEX),Volaris A320 (N521VL),Unknown,2021-06-12
+16,16,8:37 AM Y4487,,Morelia (MLM),Volaris A20N (N533VL),Landed 8:14 AM,2021-06-12
+17,17,8:45 AM Y4427,,Guadalajara (GDL),Volaris A21N (N542VL),Landed 8:49 AM,2021-06-12
+18,18,8:56 AM Y4401,,Silao (BJX),Volaris A20N (XA-VRR),Landed 8:46 AM,2021-06-12
+19,19,9:00 AM Y4509,,Guadalajara (GDL),Volaris A321 (XA-VLV),Landed 8:42 AM,2021-06-12
+20,20,9:30 AM Y4541,,Oaxaca (OAX),Volaris A320 (N517VL),Landed 9:21 AM,2021-06-12
+21,21,9:40 AM Y4811,,Mexico City (MEX),Volaris A320 (XA-VLD),Landed 9:09 AM,2021-06-12
+22,22,10:36 AM Y4817,,Mexico City (MEX),Volaris A320 (N506VL),Landed 10:09 AM,2021-06-12
+23,23,10:44 AM Y4581,,La Paz (LAP),Volaris A21N (N537VL),Landed 10:21 AM,2021-06-12
+24,24,10:45 AM VB5003,,Culiacan (CUL),VivaAerobus A20N (XA-VIS),Landed 10:28 AM,2021-06-12
+25,25,11:00 AM,AM174,Mexico City (MEX),Aeromexico B738 (XA-AMC),Landed 10:58 AM,2021-06-12
+26,26,11:11 AM Y4437,,Guadalajara (GDL),Volaris A320 (XA-VLO),Landed 10:49 AM,2021-06-12
+27,27,11:19 AM Y4501,,Hermosillo (HMO),Volaris A320 (XA-VLE),Landed 11:12 AM,2021-06-12
+28,28,11:37 AM Y4561,,Los Mochis (LMM),Volaris A320 (XA-VLR),Landed 11:22 AM,2021-06-12
+29,29,11:40 AM Y4593,,Mazatlan (MZT),Volaris A320 (XA-VLC),Landed 11:28 AM,2021-06-12
+30,30,12:18 PM Y4845,,Tepic (TPQ),Volaris A320 (N519VL),Landed 11:59 AM,2021-06-12
+31,31,12:26 PM Y4411,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 12:21 PM,2021-06-12
+32,32,12:41 PM Y4445,,Morelia (MLM),Volaris A320 (XA-VLS),Landed 12:14 PM,2021-06-12
+33,33,1:17 PM Y4489,,Guadalajara (GDL),Volaris A20N (N531VL),Landed 1:01 PM,2021-06-12
+34,34,1:30 PM Y4843,,Colima (CLQ),Volaris A320 (N523VL),Landed 1:25 PM,2021-06-12
+35,35,1:36 PM Y4269,,Loreto (LTO),Volaris A20N (N533VL),Landed 1:32 PM,2021-06-12
+36,36,1:50 PM,,La Paz (LAP),- E145,Canceled,2021-06-12
+37,37,2:05 PM A7960,,La Paz (LAP),Calafia Airlines ER4,Unknown,2021-06-12
+38,38,2:22 PM Y4419,,Culiacan (CUL),Volaris A21N (N542VL),Landed 2:17 PM,2021-06-12
+39,39,2:24 PM Y4801,,Uruapan (UPN),Volaris A20N (XA-VRT),Landed 2:31 PM,2021-06-12
+40,40,2:55 PM,AM176,Mexico City (MEX),Aeromexico B38M (XA-SSR),Landed 4:10 PM,2021-06-12
+41,41,3:09 PM Y4591,,Mazatlan (MZT),Volaris A320 (N517VL),Landed 3:16 PM,2021-06-12
+42,42,3:10 PM Y4451,,San Jose del Cabo (SJD),Volaris A321 (XA-VLV),Landed 3:04 PM,2021-06-12
+43,43,3:16 PM Y4575,,Zacatecas (ZCL),Volaris A320 (N521VL),Landed 2:57 PM,2021-06-12
+44,44,3:50 PM Y4847,,Queretaro (QRO),Volaris A20N (N538VL),Landed 3:28 PM,2021-06-12
+45,45,4:00 PM VB3106,,Guadalajara (GDL),VivaAerobus A20N (XA-VIK),Landed 3:41 PM,2021-06-12
+46,46,4:10 PM VB4082,,Monterrey (MTY),VivaAerobus A320 (XA-VAQ),Landed 3:45 PM,2021-06-12
+47,47,4:10 PM Y4423,,Guadalajara (GDL),Volaris A321 (XA-VLZ),Landed 4:02 PM,2021-06-12
+48,48,4:11 PM Y4439,,Culiacan (CUL),Volaris A21N (N537VL),Landed 5:09 PM,2021-06-12
+49,49,4:18 PM Y4563,,Los Mochis (LMM),Volaris A320 (XA-VLC),Landed 4:05 PM,2021-06-12
+50,50,4:46 PM Y4813,,Mexico City (MEX),Volaris A20N (N529VL),Landed 5:00 PM,2021-06-12
+51,51,5:52 PM Y4417,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 5:39 PM,2021-06-12
+52,52,6:02 PM Y4425,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 6:08 PM,2021-06-12
+53,53,6:29 PM Y4477,,Ciudad Juarez (CJS),Volaris A20N (N533VL),Landed 6:45 PM,2021-06-12
+54,54,6:35 PM VB1242,,Mexico City (MEX),VivaAerobus A21N (XA-VBA),Landed 6:49 PM,2021-06-12
+55,55,6:46 PM Y4389,,Silao (BJX),Volaris A320 (XA-VLR),Landed 6:38 PM,2021-06-12
+56,56,6:55 PM VB3110,,Guadalajara (GDL),VivaAerobus A320 (XA-VAN),Landed 6:32 PM,2021-06-12
+57,57,6:56 PM Y4433,,Guadalajara (GDL),Volaris A320 (N518VL),Landed 6:42 PM,2021-06-12
+58,58,6:59 PM Y4823,,Mexico City (MEX),Volaris A20N (XA-VRE),Landed 7:03 PM,2021-06-12
+59,59,7:07 PM Y4551,,Puerto Vallarta (PVR),Volaris A320 (XA-VLS),Landed 7:06 PM,2021-06-12
+60,60,7:14 PM,AM188,Mexico City (MEX),Aeromexico B738 (XA-AMW),Landed 7:10 PM,2021-06-12
+61,61,7:23 PM Y4461,,Puebla (PBC),Volaris A320 (XA-VLE),Landed 7:13 PM,2021-06-12
+62,62,7:30 PM Y4407,,Ciudad Obregon (CEN),Volaris A320 (N517VL),Landed 7:30 PM,2021-06-12
+63,63,7:36 PM Y4443,,Morelia (MLM),Volaris A320 (N519VL),Landed 7:40 PM,2021-06-12
+64,64,8:03 PM Y45513,,Monterrey (MTY),Volaris A320 (N523VL),Landed 8:13 PM,2021-06-12
+65,65,8:58 PM Y4409,,Silao (BJX),Volaris A321 (XA-VLH),Landed 8:42 PM,2021-06-12
+66,66,9:04 PM Y4493,,Aguascalientes (AGU),Volaris A20N (XA-VRT),Landed 9:14 PM,2021-06-12
+67,67,9:26 PM Y4511,,Monterrey (MTY),Volaris A320 (N510VL),Landed 12:04 AM,2021-06-12
+68,68,9:30 PM Y4473,,Chihuahua (CUU),Volaris A20N (N538VL),Landed 9:20 PM,2021-06-12
+69,69,9:37 PM,Y4553,Puerto Vallarta (PVR),Volaris A320 (N521VL),Landed 9:49 PM,2021-06-12
+70,70,9:44 PM Y45646,,Guadalajara (GDL),Volaris A20N (XA-VRJ),Landed 12:58 AM,2021-06-12
+71,71,9:45 PM VB5047,,San Jose del Cabo (SJD),VivaAerobus A20N (XA-VIK),Landed 9:27 PM,2021-06-12
+72,72,9:53 PM Y4819,,Mexico City (MEX),Volaris A21N (N535VL),Landed 12:18 AM,2021-06-12
+73,73,10:00 PM VB2268,,Cancun (CUN),VivaAerobus A20N (XA-VIS),Landed 9:24 PM,2021-06-12
+74,74,10:09 PM Y4415,,Culiacan (CUL),Volaris A320 (XA-VLC),Landed 9:55 PM,2021-06-12
+75,75,10:16 PM,Y4471,Cancun (CUN),Volaris A20N (XA-VRL),Landed 10:02 PM,2021-06-12
+76,76,10:16 PM Y45423,,Guadalajara (GDL),Volaris A20N (N541VL),Landed 9:59 PM,2021-06-12
+77,77,10:20 PM,AM184,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 10:04 PM,2021-06-12
+78,78,10:22 PM Y4431,,Guadalajara (GDL),Volaris A21N (N542VL),Landed 10:26 PM,2021-06-12
+79,79,10:48 PM Y4503,,Hermosillo (HMO),Volaris A320 (XA-VLS),Landed 10:48 PM,2021-06-12
+80,80,10:57 PM Y4821,,Mexico City (MEX),Volaris A321 (XA-VLW),Landed 11:39 PM,2021-06-12
+81,81,11:04 PM Y4507,,San Jose del Cabo (SJD),Volaris A20N (N533VL),Landed 11:57 PM,2021-06-12
+82,82,11:06 PM Y4565,,Durango (DGO),Volaris A20N (N532VL),Landed 11:50 PM,2021-06-12
+83,83,11:10 PM VB1246,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 11:35 PM,2021-06-12
+84,84,11:25 PM,AM194,Mexico City (MEX),Aeromexico B738 (XA-DRC),Landed 11:23 PM,2021-06-12
+85,85,11:51 PM Y4807,,Mexico City (MEX),Volaris A320 (XA-VLD),Landed 11:31 PM,2021-06-12
+0,0,00:17 Y4403,,Silao (BJX),Volaris A321 (XA-VLV),Landed 00:00,2021-06-13
+1,1,00:24 Y4429,,Guadalajara (GDL),Volaris A320 (XA-VLX),Landed 23:54,2021-06-13
+2,2,00:30 VB3114,,Guadalajara (GDL),VivaAerobus A320 (XA-VAA),Landed 00:07,2021-06-13
+3,3,06:10 Y4435,,Guadalajara (GDL),Volaris A321 (XA-VLU),Landed 05:58,2021-06-13
+4,4,06:43 Y4441,,Morelia (MLM),Volaris A320 (XA-VLE),Landed 06:18,2021-06-13
+5,5,07:01 Y4831,,Zacatecas (ZCL),Volaris A320 (N521VL),Landed 06:53,2021-06-13
+6,6,07:05 Y4413,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 06:58,2021-06-13
+7,7,07:21 Y4455,,Durango (DGO),Volaris A20N (XA-VRT),Landed 07:03,2021-06-13
+8,8,07:38 Y4491,,Aguascalientes (AGU),Volaris A320 (XA-VLS),Landed 07:27,2021-06-13
+9,9,07:45 VB3104,,Guadalajara (GDL),VivaAerobus A320 (XA-VAQ),Landed 07:20,2021-06-13
+10,10,08:05 VB1234,,Mexico City (MEX),VivaAerobus A20N (XA-VIB),Landed 07:31,2021-06-13
+11,11,08:13,AM170,Mexico City (MEX),Aeromexico B38M (XA-SSR),Landed 07:45,2021-06-13
+12,12,08:15 VB5029,,Silao (BJX),VivaAerobus A20N (XA-VIK),Landed 07:36,2021-06-13
+13,13,08:18 Y4531,,Acapulco (ACA),Volaris A20N (N533VL),Landed 08:18,2021-06-13
+14,14,08:27 Y4815,,Mexico City (MEX),Volaris A320 (N520VL),Landed 07:59,2021-06-13
+15,15,08:30 E7302,,Hermosillo (HMO),Estafeta Carga Aerea B734 (XA-EST),Landed 07:50,2021-06-13
+16,16,08:45 Y4427,,Guadalajara (GDL),Volaris A321 (XA-VLV),Landed 08:51,2021-06-13
+17,17,08:56 Y4401,,Silao (BJX),Volaris A20N (XA-VRF),Landed 08:34,2021-06-13
+18,18,09:00 Y4509,,Guadalajara (GDL),Volaris A321 (XA-VLH),Landed 08:47,2021-06-13
+19,19,09:12,,Hermosillo (HMO),- B734,Canceled,2021-06-13
+20,20,09:30 Y4541,,Oaxaca (OAX),Volaris A320 (N517VL),Landed 09:19,2021-06-13
+21,21,09:40 Y4811,,Mexico City (MEX),Volaris A320 (XA-VLB),Landed 09:08,2021-06-13
+22,22,10:36 Y4817,,Mexico City (MEX),Volaris A320 (N526VL),Canceled,2021-06-13
+23,23,10:44 Y4581,,La Paz (LAP),Volaris A21N (N542VL),Landed 10:19,2021-06-13
+24,24,11:00,AM174,Mexico City (MEX),Aeromexico B738 (XA-AMB),Landed 10:46,2021-06-13
+25,25,11:11 Y4437,,Guadalajara (GDL),Volaris A20N (XA-VRN),Landed 10:51,2021-06-13
+26,26,11:37 Y4561,,Los Mochis (LMM),Volaris A320 (N521VL),Unknown,2021-06-13
+27,27,11:40 Y4593,,Mazatlan (MZT),Volaris A320 (N523VL),Landed 11:26,2021-06-13
+28,28,12:18 Y4845,,Tepic (TPQ),Volaris A20N (N532VL),Landed 11:47,2021-06-13
+29,29,12:26 Y4411,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 12:27,2021-06-13
+30,30,12:41 Y4445,,Morelia (MLM),Volaris A20N (N538VL),Landed 14:24,2021-06-13
+31,31,13:00 Y4549,,Zihuatanejo (ZIH),Volaris A320 (N510VL),Landed 12:40,2021-06-13
+32,32,13:25 VB5005,,Culiacan (CUL),VivaAerobus A20N (XA-VIS),Landed 13:16,2021-06-13
+33,33,13:30 Y4843,,Colima (CLQ),Volaris A320 (XA-VLE),Landed 13:25,2021-06-13
+34,34,13:41 Y4465,,Puebla (PBC),Volaris A20N (XA-VRJ),Landed 13:00,2021-06-13
+35,35,13:57,,La Paz (LAP),- E145,Canceled,2021-06-13
+36,36,14:10 Y4467,,San Jose del Cabo (SJD),Volaris A321 (XA-VLV),Landed 14:17,2021-06-13
+37,37,14:24 Y4801,,Uruapan (UPN),Volaris A20N (XA-VRT),Landed 14:27,2021-06-13
+38,38,14:49,,Loreto (LTO),- E145,Canceled,2021-06-13
+39,39,15:05 A7952,,La Paz (LAP),Calafia Airlines ER4,Unknown,2021-06-13
+40,40,15:05 A7792,,Loreto (LTO),Calafia Airlines ER4,Unknown,2021-06-13
+41,41,15:09 Y4591,,Mazatlan (MZT),Volaris A320 (N517VL),Landed 15:12,2021-06-13
+42,42,15:16 Y4575,,Zacatecas (ZCL),Volaris A20N (N533VL),Landed 15:06,2021-06-13
+43,43,15:30 Y4451,,San Jose del Cabo (SJD),Volaris A321 (XA-VLH),Landed 15:24,2021-06-13
+44,44,15:41,AM176,Mexico City (MEX),Aeromexico B738 (XA-AMK),Landed 15:56,2021-06-13
+45,45,16:00 VB5087,,Puerto Vallarta (PVR),VivaAerobus A20N (XA-VIK),Landed 16:07,2021-06-13
+46,46,16:00 VB3106,,Guadalajara (GDL),VivaAerobus A320 (XA-VAQ),Landed 15:41,2021-06-13
+47,47,16:10 Y4423,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 16:11,2021-06-13
+48,48,16:18 Y4563,,Los Mochis (LMM),Volaris A320 (N517VL),Landed 19:55,2021-06-13
+49,49,16:44 Y45471,,Cancun (CUN),Volaris A20N (N530VL),Landed 17:28,2021-06-13
+50,50,16:46 Y4813,,Mexico City (MEX),Volaris A320 (N520VL),Landed 16:19,2021-06-13
+51,51,17:37 Y4513,,Monterrey (MTY),Volaris A21N (N542VL),Landed 17:21,2021-06-13
+52,52,17:52 Y4417,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 17:54,2021-06-13
+53,53,18:02 Y4425,,Guadalajara (GDL),Volaris A321 (XA-VLU),Landed 17:45,2021-06-13
+54,54,18:29 Y4477,,Ciudad Juarez (CJS),Volaris A320 (XA-VLE),Landed 18:17,2021-06-13
+55,55,18:35 VB1242,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 18:12,2021-06-13
+56,56,18:55 VB3110,,Guadalajara (GDL),VivaAerobus A20N (XA-VIM),Landed 18:26,2021-06-13
+57,57,18:59 Y4823,,Mexico City (MEX),Volaris A320 (N522VL),Landed 23:04,2021-06-13
+58,58,19:12 Y4551,,Puerto Vallarta (PVR),Volaris A320 (N521VL),Landed 19:02,2021-06-13
+59,59,19:14,AM188,Mexico City (MEX),Aeromexico B738 (XA-DRC),Landed 19:21,2021-06-13
+60,60,19:30 VB5037,,Mazatlan (MZT),VivaAerobus A20N (XA-VIS),Landed 19:25,2021-06-13
+61,61,19:36 Y4443,,Morelia (MLM),Volaris A20N (N538VL),Landed 22:11,2021-06-13
+62,62,20:03 Y4803,,Uruapan (UPN),Volaris A320 (N510VL),Landed 19:51,2021-06-13
+63,63,20:51 Y4547,,Huatulco (HUX),Volaris A20N (N532VL),Landed 20:30,2021-06-13
+64,64,20:58 Y4409,,Silao (BJX),Volaris A320 (XA-VLS),Landed 22:15,2021-06-13
+65,65,21:04 Y4493,,Aguascalientes (AGU),Volaris A20N (XA-VRT),Landed 21:17,2021-06-13
+66,66,21:23 FX70,,San Diego (SAN),FedEx B752 (N987FD),Landed 21:52,2021-06-13
+67,67,21:26 Y4511,,Monterrey (MTY),Volaris A320 (XA-VLD),Landed 21:14,2021-06-13
+68,68,21:30 Y4473,,Chihuahua (CUU),Volaris A320 (N517VL),Landed 00:59,2021-06-13
+69,69,21:37,Y4553,Puerto Vallarta (PVR),Volaris A20N (N533VL),Landed 21:38,2021-06-13
+70,70,21:53 Y4819,,Mexico City (MEX),Volaris A319 (XA-VOE),Landed 01:21,2021-06-13
+71,71,21:55 VB4088,,Monterrey (MTY),VivaAerobus A320 (XA-VAE),Landed 21:42,2021-06-13
+72,72,22:09 Y4415,,Culiacan (CUL),Volaris A320 (N520VL),Landed 22:01,2021-06-13
+73,73,22:16,Y4471,Cancun (CUN),Volaris A320 (N519VL),Landed 22:18,2021-06-13
+74,74,22:20,AM184,Mexico City (MEX),Aeromexico B38M (XA-MAO),Landed 22:44,2021-06-13
+75,75,22:22 Y4431,,Guadalajara (GDL),Volaris A321 (XA-VLV),Landed 22:05,2021-06-13
+76,76,22:25 Y45415,,Culiacan (CUL),Volaris A20N (N530VL),Landed 22:56,2021-06-13
+77,77,22:29 Y4463,,Tapachula (TAP),Volaris A320 (N523VL),Landed 21:47,2021-06-13
+78,78,22:48 Y4503,,Hermosillo (HMO),Volaris A320 (XA-VLE),Landed 22:53,2021-06-13
+79,79,22:53 Y4543,,Oaxaca (OAX),Volaris A20N (XA-VRJ),Landed 22:33,2021-06-13
+80,80,22:57 Y4821,,Mexico City (MEX),Volaris A320 (N514VL),Landed 23:46,2021-06-13
+81,81,23:04 Y4507,,San Jose del Cabo (SJD),Volaris A21N (N542VL),Landed 22:49,2021-06-13
+82,82,23:10 VB1246,,Mexico City (MEX),Viva Aerobus A21N (XA-VBK),Landed 23:37,2021-06-13
+83,83,23:25,AM194,Mexico City (MEX),Aeromexico B738 (XA-AMW),Landed 23:34,2021-06-13
+84,84,23:25 VB5011,,Culiacan (CUL),VivaAerobus A20N (XA-VIK),Landed 00:24,2021-06-13
+85,85,23:51 Y4807,,Mexico City (MEX),Volaris A20N (XA-VRK),Landed 23:49,2021-06-13
+86,86,23:59 VB5017,,Morelia (MLM),VivaAerobus A320 (XA-VAQ),Landed 23:25,2021-06-13
+0,0,00:17 Y4403,,Silao (BJX),Volaris A321 (XA-VLH),Landed 00:20,2021-06-14
+1,1,00:24 Y4429,,Guadalajara (GDL),Volaris A320 (XA-VLP),Landed 00:06,2021-06-14
+2,2,00:30 VB3114,,Guadalajara (GDL),Viva Aerobus A320 (XA-VAC),Landed 00:02,2021-06-14
+3,3,00:31 Y4583,,Morelia (MLM),Volaris A20N (N541VL),Landed 00:10,2021-06-14
+4,4,01:05 VB5049,,San Jose del Cabo (SJD),VivaAerobus A20N (XA-VIS),Landed 00:45,2021-06-14
+5,5,06:10 Y4435,,Guadalajara (GDL),Volaris A321 (XA-VLZ),Landed 05:51,2021-06-14
+6,6,06:43 Y4441,,Morelia (MLM),Volaris A320 (N520VL),Landed 06:10,2021-06-14
+7,7,07:05 Y4413,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 06:49,2021-06-14
+8,8,07:21 Y4455,,Durango (DGO),Volaris A320 (XA-VLP),Landed 07:04,2021-06-14
+9,9,07:38 Y4491,,Aguascalientes (AGU),Volaris A20N (N541VL),Landed 07:19,2021-06-14
+10,10,07:45 VB3104,,Guadalajara (GDL),VivaAerobus A320 (XA-VAQ),Landed 07:23,2021-06-14
+11,11,08:04 A82520,,Ontario (ONT),Ameriflight E120 (N179CA),Landed 07:51,2021-06-14
+12,12,08:05 VB1234,,Mexico City (MEX),VivaAerobus A20N (XA-VIN),Landed 07:33,2021-06-14
+13,13,08:13,AM170,Mexico City (MEX),Aeromexico B788 (N967AM),Landed 07:41,2021-06-14
+14,14,08:15 VB5029,,Silao (BJX),VivaAerobus A20N (XA-VIK),Landed 07:45,2021-06-14
+15,15,08:18 Y4531,,Acapulco (ACA),Volaris A20N (XA-VRK),Landed 08:19,2021-06-14
+16,16,08:27 Y4815,,Mexico City (MEX),Volaris A320 (N511VL),Landed 07:59,2021-06-14
+17,17,08:37 Y4487,,Morelia (MLM),Volaris A320 (XA-VLL),Landed 08:10,2021-06-14
+18,18,08:45 Y4427,,Guadalajara (GDL),Volaris A20N (XA-VRJ),Landed 08:40,2021-06-14
+19,19,08:56 Y4401,,Silao (BJX),Volaris A320 (N514VL),Landed 08:30,2021-06-14
+20,20,09:00 Y4509,,Guadalajara (GDL),Volaris A321 (XA-VLH),Landed 08:45,2021-06-14
+21,21,09:30 Y4541,,Oaxaca (OAX),Volaris A20N (N530VL),Landed 09:03,2021-06-14
+22,22,09:40 Y4811,,Mexico City (MEX),Volaris A320 (XA-VOZ),Landed 08:55,2021-06-14
+23,23,10:15 Y4545,,Tuxtla Gutierrez (TGZ),Volaris A20N (N538VL),Landed 09:43,2021-06-14
+24,24,10:36 Y4817,,Mexico City (MEX),Volaris A320 (XA-VLE),Landed 10:03,2021-06-14
+25,25,10:44 Y4581,,La Paz (LAP),Volaris A321 (XA-VLV),Landed 10:29,2021-06-14
+26,26,11:00,AM174,Mexico City (MEX),Aeromexico B738 (N825AM),Landed 10:52,2021-06-14
+27,27,11:11 Y4437,,Guadalajara (GDL),Volaris A20N (N544VL),Landed 10:49,2021-06-14
+28,28,11:19 Y4501,,Hermosillo (HMO),Volaris A20N (XA-VRJ),Landed 12:19,2021-06-14
+29,29,11:25 A7960,,La Paz (LAP),Calafia Airlines ER4,Unknown,2021-06-14
+30,30,11:37 Y4561,,Los Mochis (LMM),Volaris A320 (N520VL),Landed 11:26,2021-06-14
+31,31,12:18 Y4845,,Tepic (TPQ),Volaris A320 (N517VL),Landed 11:58,2021-06-14
+32,32,12:26 Y4411,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 12:09,2021-06-14
+33,33,12:41 Y4445,,Morelia (MLM),Volaris A320 (N519VL),Landed 12:15,2021-06-14
+34,34,12:49,,La Paz (LAP),- E145,Canceled,2021-06-14
+35,35,13:00 Y45399,,Silao (BJX),Volaris A21N (N542VL),Unknown,2021-06-14
+36,36,13:05 A7970,,Los Mochis (LMM),Calafia Airlines ER4,Unknown,2021-06-14
+37,37,13:30 Y4843,,Colima (CLQ),Volaris A320 (XA-VLS),Landed 13:08,2021-06-14
+38,38,13:35 VB5005,,Culiacan (CUL),VivaAerobus A20N (XA-VIS),Landed 13:29,2021-06-14
+39,39,13:44 Y4449,,Merida (MID),Volaris A320 (N523VL),Landed 13:15,2021-06-14
+40,40,14:22 Y4419,,Culiacan (CUL),Volaris A321,Canceled,2021-06-14
+41,41,14:24 Y4801,,Uruapan (UPN),Volaris A320 (XA-VLP),Landed 14:28,2021-06-14
+42,42,14:41,AM176,Mexico City (MEX),Aeromexico B738 (XA-ADU),Landed 14:18,2021-06-14
+43,43,15:09 Y4591,,Mazatlan (MZT),Volaris A20N (N530VL),Landed 14:59,2021-06-14
+44,44,15:10 Y4451,,San Jose del Cabo (SJD),Volaris A321 (XA-VLH),Landed 14:56,2021-06-14
+45,45,15:16 Y4575,,Zacatecas (ZCL),Volaris A320 (XA-VLL),Landed 14:52,2021-06-14
+46,46,16:00 VB3106,,Guadalajara (GDL),VivaAerobus A20N (XA-VIK),Landed 15:36,2021-06-14
+47,47,16:10 VB4082,,Monterrey (MTY),VivaAerobus A20N (XA-VIH),Landed 15:39,2021-06-14
+48,48,16:10 Y4423,,Guadalajara (GDL),Volaris A321 (XA-VLU),Landed 16:13,2021-06-14
+49,49,16:11 Y4439,,Culiacan (CUL),Volaris A321 (XA-VLV),Landed 16:04,2021-06-14
+50,50,16:33 Y4841,,Veracruz (VER),Volaris A20N (XA-VRK),Landed 16:43,2021-06-14
+51,51,16:39 Y4849,,Tepic (TPQ),Volaris A20N (N538VL),Landed 16:24,2021-06-14
+52,52,16:46 Y4813,,Mexico City (MEX),Volaris A320 (N511VL),Landed 16:39,2021-06-14
+53,53,17:52 Y4417,,Culiacan (CUL),Volaris A321 (XA-VRC),Landed 17:38,2021-06-14
+54,54,18:02 Y4425,,Guadalajara (GDL),Volaris A321 (XA-VLZ),Landed 17:43,2021-06-14
+55,55,18:29 Y4477,,Ciudad Juarez (CJS),Volaris A320 (N523VL),Landed 18:09,2021-06-14
+56,56,18:35 VB1242,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 18:02,2021-06-14
+57,57,18:55 VB3110,,Guadalajara (GDL),VivaAerobus A20N (XA-VII),Landed 18:35,2021-06-14
+58,58,18:56 Y4433,,Guadalajara (GDL),Volaris A320 (XA-VLQ),Landed 18:32,2021-06-14
+59,59,18:59 Y4823,,Mexico City (MEX),Volaris A320 (N522VL),Landed 18:52,2021-06-14
+60,60,19:12,Y4551,Puerto Vallarta (PVR),Volaris A20N (XA-VRJ),Landed 19:11,2021-06-14
+61,61,19:14,AM188,Mexico City (MEX),Aeromexico B738 (XA-AME),Landed 18:56,2021-06-14
+62,62,19:23 Y4461,,Puebla (PBC),Volaris A320 (N520VL),Landed 19:32,2021-06-14
+63,63,19:30 Y4407,,Ciudad Obregon (CEN),Volaris A20N (N530VL),Landed 19:19,2021-06-14
+64,64,19:33 Y45513,,Monterrey (MTY),Volaris A21N (N542VL),Landed 19:52,2021-06-14
+65,65,19:36 Y4443,,Morelia (MLM),Volaris A320 (N517VL),Landed 19:36,2021-06-14
+66,66,20:03 Y4803,,Uruapan (UPN),Volaris A320 (N519VL),Landed 19:55,2021-06-14
+67,67,20:40 VB5089,,Puerto Vallarta (PVR),VivaAerobus A20N (XA-VIS),Landed 20:37,2021-06-14
+68,68,20:58 Y4409,,Silao (BJX),Volaris A20N (N541VL),Landed 20:45,2021-06-14
+69,69,21:04 Y4493,,Aguascalientes (AGU),Volaris A320 (XA-VLP),Landed 21:06,2021-06-14
+70,70,21:26 Y4511,,Monterrey (MTY),Volaris A319 (XA-VOI),Landed 21:25,2021-06-14
+71,71,21:30 Y4473,,Chihuahua (CUU),Volaris A20N (XA-VRK),Landed 21:47,2021-06-14
+72,72,21:37,Y4553,Puerto Vallarta (PVR),Volaris A320 (XA-VLL),Landed 21:31,2021-06-14
+73,73,21:44 Y45646,,Guadalajara (GDL),Volaris A20N (XA-VRR),Landed 21:36,2021-06-14
+74,74,21:53 Y4819,,Mexico City (MEX),Volaris A20N (XA-VRF),Landed 22:18,2021-06-14
+75,75,22:09 Y4415,,Culiacan (CUL),Volaris A20N (N538VL),Landed 21:51,2021-06-14
+76,76,22:16,Y4471,Cancun (CUN),Volaris A20N (XA-VRI),Landed 22:07,2021-06-14
+77,77,22:16 Y45423,,Guadalajara (GDL),Volaris A320 (N521VL),Landed 21:57,2021-06-14
+78,78,22:20,AM184,Mexico City (MEX),Aeromexico B788 (N967AM),Landed 22:03,2021-06-14
+79,79,22:22 Y4431,,Guadalajara (GDL),Volaris A321 (XA-VLH),Landed 22:30,2021-06-14
+80,80,22:36 Y4833,,Zacatecas (ZCL),Volaris A320 (N510VL),Landed 22:10,2021-06-14
+81,81,22:53 Y4503,,Hermosillo (HMO),Volaris A320 (N520VL),Landed 23:34,2021-06-14
+82,82,22:53 Y4543,,Oaxaca (OAX),Volaris A320 (XA-VLS),Landed 22:23,2021-06-14
+83,83,22:57 Y4821,,Mexico City (MEX),Volaris A320 (XA-VLE),Landed 23:19,2021-06-14
+84,84,23:04 Y4507,,San Jose del Cabo (SJD),Volaris A321 (XA-VRC),Landed 23:07,2021-06-14
+85,85,23:10 VB1246,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 22:42,2021-06-14
+86,86,23:25,AM194,Mexico City (MEX),Aeromexico B738 (XA-AMC),Landed 23:15,2021-06-14
+87,87,23:25 VB5011,,Culiacan (CUL),VivaAerobus A20N (XA-VIH),Landed 23:04,2021-06-14
+88,88,23:51 Y4807,,Mexico City (MEX),Volaris A320 (XA-VOZ),Landed 23:23,2021-06-14
+89,89,23:59 VB5017,,Morelia (MLM),VivaAerobus A20N (XA-VIK),Landed 23:26,2021-06-14
+0,0,00:17 Y4403,,Silao (BJX),Volaris A321 (XA-VLU),Landed 23:56,2021-06-15
+1,1,00:24 Y4429,,Guadalajara (GDL),Volaris A320 (N512VL),Landed 00:02,2021-06-15
+2,2,00:30 VB3114,,Guadalajara (GDL),VivaAerobus A20N (XA-VIM),Landed 00:13,2021-06-15
+3,3,06:10 Y4435,,Guadalajara (GDL),Volaris A321 (XA-VLZ),Landed 05:53,2021-06-15
+4,4,06:39,,Guadalajara (GDL),- B734,Canceled,2021-06-15
+5,5,06:43 Y4441,,Morelia (MLM),Volaris A21N (N542VL),Landed 06:24,2021-06-15
+6,6,07:01 Y4831,,Zacatecas (ZCL),Volaris A320 (XA-VLS),Landed 06:36,2021-06-15
+7,7,07:05 E7314,,Guadalajara (GDL),Estafeta Carga Aerea B734 (XA-EST),Landed 06:46,2021-06-15
+8,8,07:05 VB1232,,Mexico City (MEX),VivaAerobus A20N (XA-VIB),Landed 06:31,2021-06-15
+9,9,07:05 Y4413,,Culiacan (CUL),Volaris A320 (N523VL),Landed 06:43,2021-06-15
+10,10,07:21 Y4455,,Durango (DGO),Volaris A320 (N520VL),Landed 07:12,2021-06-15
+11,11,07:38 Y4491,,Aguascalientes (AGU),Volaris A20N (N541VL),Landed 07:25,2021-06-15
+12,12,07:45 VB3104,,Guadalajara (GDL),VivaAerobus A20N (XA-VIH),Landed 07:21,2021-06-15
+13,13,08:01 FX70,,San Diego (SAN),FedEx B752 (N987FD),Landed 08:22,2021-06-15
+14,14,08:05 VB1234,,Mexico City (MEX),VivaAerobus A20N (XA-VIN),Landed 07:32,2021-06-15
+15,15,08:09,AM170,Mexico City (MEX),Aeromexico B789 (XA-MFG),Landed 07:38,2021-06-15
+16,16,08:15 VB5029,,Silao (BJX),VivaAerobus A20N (XA-VIS),Landed 07:47,2021-06-15
+17,17,08:18 Y4531,,Acapulco (ACA),Volaris A20N (XA-VRK),Landed 07:59,2021-06-15
+18,18,08:27 Y4815,,Mexico City (MEX),Volaris A20N (N528VL),Landed 08:09,2021-06-15
+19,19,08:37 Y4487,,Morelia (MLM),Volaris A20N (XA-VRT),Landed 08:02,2021-06-15
+20,20,08:39 A82520,,Ontario (ONT),Ameriflight E120 (N179CA),Landed 08:29,2021-06-15
+21,21,08:45 Y4427,,Guadalajara (GDL),Volaris A321 (XA-VRB),Landed 08:49,2021-06-15
+22,22,08:56 Y4401,,Silao (BJX),Volaris A320 (XA-VOZ),Landed 08:25,2021-06-15
+23,23,09:00 Y4509,,Guadalajara (GDL),Volaris A321 (XA-VLH),Landed 08:41,2021-06-15
+24,24,09:30 Y4541,,Oaxaca (OAX),Volaris A320 (XA-VLP),Landed 08:57,2021-06-15
+25,25,09:40 Y4811,,Mexico City (MEX),Volaris A320 (N512VL),Landed 09:21,2021-06-15
+26,26,10:36 Y4817,,Mexico City (MEX),Volaris A320 (XA-VLC),Landed 10:10,2021-06-15
+27,27,10:44 Y4581,,La Paz (LAP),Volaris A321 (XA-VRC),Landed 10:14,2021-06-15
+28,28,10:45 VB5003,,Culiacan (CUL),VivaAerobus A20N (XA-VIK),Landed 10:21,2021-06-15
+29,29,11:00,AM174,Mexico City (MEX),Aeromexico B738 (XA-MIA),Landed 10:37,2021-06-15
+30,30,11:11 Y4437,,Guadalajara (GDL),Volaris A320 (N525VL),Landed 10:53,2021-06-15
+31,31,11:19 Y4501,,Hermosillo (HMO),Volaris A320 (N520VL),Landed 11:10,2021-06-15
+32,32,11:37 Y4561,,Los Mochis (LMM),Volaris A320 (N523VL),Landed 11:25,2021-06-15
+33,33,12:18 Y4845,,Tepic (TPQ),Volaris A20N (XA-VRI),Landed 11:54,2021-06-15
+34,34,12:26 Y4411,,Culiacan (CUL),Volaris A20N (N538VL),Landed 12:17,2021-06-15
+35,35,12:41 Y4445,,Morelia (MLM),Volaris A320 (XA-VLE),Landed 12:13,2021-06-15
+36,36,13:05 Y4467,,San Jose del Cabo (SJD),Volaris A20N (N541VL),Landed 12:57,2021-06-15
+37,37,13:17 Y4489,,Guadalajara (GDL),Volaris A320 (XA-VLL),Landed 12:53,2021-06-15
+38,38,13:25 Y4399,,Silao (BJX),Volaris A20N (N532VL),Landed 14:21,2021-06-15
+39,39,13:30 Y4843,,Colima (CLQ),Volaris A20N (XA-VRF),Landed 13:45,2021-06-15
+40,40,13:36 Y4269,,Loreto (LTO),Volaris A20N (XA-VRK),Landed 13:21,2021-06-15
+41,41,14:22 Y4419,,Culiacan (CUL),Volaris A321 (XA-VLH),Landed 14:14,2021-06-15
+42,42,14:25 VB2264,,Cancun (CUN),VivaAerobus A20N (XA-VIF),Landed 14:17,2021-06-15
+43,43,14:41,AM176,Mexico City (MEX),Aeromexico B38M (XA-SSR),Landed 14:24,2021-06-15
+44,44,15:09 Y4591,,Mazatlan (MZT),Volaris A320 (XA-VLP),Landed 14:56,2021-06-15
+45,45,15:10 Y4451,,San Jose del Cabo (SJD),Volaris A320 (N523VL),Landed 16:50,2021-06-15
+46,46,15:40 Y4495,,Aguascalientes (AGU),Volaris A20N (XA-VRT),Landed 15:16,2021-06-15
+47,47,15:50 Y4847,,Queretaro (QRO),Volaris A321 (XA-VRB),Landed 16:31,2021-06-15
+48,48,16:00 VB3106,,Guadalajara (GDL),VivaAerobus A20N (XA-VIS),Landed 15:33,2021-06-15
+49,49,16:10 VB4082,,Monterrey (MTY),VivaAerobus A20N (XA-VIH),Landed 15:36,2021-06-15
+50,50,16:10 Y4423,,Guadalajara (GDL),Volaris A321 (XA-VLU),Landed 16:04,2021-06-15
+51,51,16:46 Y4813,,Mexico City (MEX),Volaris A320 (XA-VLM),Landed 16:46,2021-06-15
+52,52,17:37 Y4513,,Monterrey (MTY),Volaris A321 (XA-VRC),Landed 17:20,2021-06-15
+53,53,17:52 Y4417,,Culiacan (CUL),Volaris A20N (N538VL),Landed 17:39,2021-06-15
+54,54,18:02 Y4425,,Guadalajara (GDL),Volaris A321 (XA-VLZ),Landed 18:07,2021-06-15
+55,55,18:25 Y45467,,San Jose del Cabo (SJD),Volaris A20N (N541VL),Landed 18:22,2021-06-15
+56,56,18:29 Y4477,,Ciudad Juarez (CJS),Volaris A20N (XA-VRK),Landed 18:10,2021-06-15
+57,57,18:35 VB1242,,Mexico City (MEX),VivaAerobus A21N (XA-VBB),Landed 18:16,2021-06-15
+58,58,18:55 VB3110,,Guadalajara (GDL),VivaAerobus A20N (XA-VIM),Landed 18:29,2021-06-15
+59,59,18:56 Y4433,,Guadalajara (GDL),Volaris A320 (N525VL),Landed 18:37,2021-06-15
+60,60,18:59 Y4823,,Mexico City (MEX),Volaris A320 (XA-VLR),Landed 19:03,2021-06-15
+61,61,19:12,Y4551,Puerto Vallarta (PVR),Volaris A320 (XA-VLE),Landed 19:07,2021-06-15
+62,62,19:14,AM188,Mexico City (MEX),Aeromexico B738 (XA-AMA),Landed 18:50,2021-06-15
+63,63,19:23 Y4461,,Puebla (PBC),Volaris A320 (N520VL),Landed 19:24,2021-06-15
+64,64,19:30 Y4407,,Ciudad Obregon (CEN),Volaris A320 (XA-VLP),Landed 19:10,2021-06-15
+65,65,19:31 Y4457,,Torreon (TRC),Volaris A20N (N532VL),Landed 20:44,2021-06-15
+66,66,19:36 Y4443,,Morelia (MLM),Volaris A20N (XA-VRI),Landed 19:31,2021-06-15
+67,67,20:18 Y4475,,San Luis Potosi (SLP),Volaris A20N (XA-VRT),Landed 21:57,2021-06-15
+68,68,20:58 Y4409,,Silao (BJX),Volaris A21N (N542VL),Landed 20:48,2021-06-15
+69,69,21:26 Y4511,,Monterrey (MTY),Volaris A319 (XA-VOE),Landed 21:10,2021-06-15
+70,70,21:30 Y4473,,Chihuahua (CUU),Volaris A320 (N523VL),Landed 21:45,2021-06-15
+71,71,21:53 Y4819,,Mexico City (MEX),Volaris A320 (XA-VLN),Landed 22:02,2021-06-15
+72,72,22:02,Y45479,Cancun (CUN),Volaris A320 (N521VL),Landed 21:49,2021-06-15
+73,73,22:09 Y4415,,Culiacan (CUL),Volaris A20N (N541VL),Landed 23:44,2021-06-15
+74,74,22:16,Y45471,Cancun (CUN),Volaris A20N (XA-VRS),Landed 22:05,2021-06-15
+75,75,22:20,AM184,Mexico City (MEX),Aeromexico B38M (XA-MAK),Landed 21:54,2021-06-15
+76,76,22:22 Y4431,,Guadalajara (GDL),Volaris A321 (XA-VLH),Landed 22:10,2021-06-15
+77,77,22:53 Y4503,,Hermosillo (HMO),Volaris A320 (XA-VLE),Landed 23:06,2021-06-15
+78,78,22:53 Y4543,,Oaxaca (OAX),Volaris A20N (XA-VRF),Landed 22:43,2021-06-15
+79,79,22:57 Y4821,,Mexico City (MEX),Volaris A20N (XA-VRH),Landed 22:54,2021-06-15
+80,80,23:04 Y4507,,San Jose del Cabo (SJD),Volaris A321 (XA-VRC),Landed 22:50,2021-06-15
+81,81,23:06 Y4565,,Durango (DGO),Volaris A320 (XA-VLS),Landed 22:31,2021-06-15
+82,82,23:10 VB1246,,Mexico City (MEX),VivaAerobus A21N (XA-VBH),Landed 23:14,2021-06-15
+83,83,23:25,AM194,Mexico City (MEX),Aeromexico B38M (XA-MAQ),Landed 23:22,2021-06-15
+84,84,23:25 VB5011,,Culiacan (CUL),VivaAerobus A20N (XA-VIS),Landed 23:01,2021-06-15
+85,85,23:51 Y4807,,Mexico City (MEX),Volaris A320 (XA-VLF),Landed 23:16,2021-06-15
+86,86,23:59 VB5017,,Morelia (MLM),VivaAerobus A20N (XA-VIK),Landed 23:39,2021-06-15

@@ -1,0 +1,272 @@
+,Unnamed: 0,Estimated,Number,From,Airline,Status,date
+0,0,08:30 W61381,,Warsaw (WAW),Wizz Air 32Q,Unknown,2021-06-08
+1,1,10:55 FR4869,,Perugia (PEG),Ryanair B738 (EI-DHG),Landed 10:34,2021-06-08
+2,2,11:10 FR4567,,Figari (FSC),Ryanair B738 (EI-EBI),Landed 11:05,2021-06-08
+3,3,12:00 FR2834,,Barcelona (BCN),Ryanair B738 (EI-DYW),Landed 11:59,2021-06-08
+4,4,12:30 PC921,,Istanbul (SAW),Pegasus A20N (TC-NBB),Landed 12:45,2021-06-08
+5,5,12:45 FR2102,,Bucharest (OTP),Ryanair B738 (EI-DPM),Landed 13:25,2021-06-08
+6,6,14:05 FR1385,,Perpignan (PGF),Ryanair B738 (EI-EVM),Landed 14:07,2021-06-08
+7,7,15:10 FR2106,,Toulouse (TLS),Ryanair B738 (EI-DHG),Landed 14:45,2021-06-08
+8,8,17:25 FR5332,,Biarritz (BIQ),Ryanair B738 (EI-EGC),Landed 17:24,2021-06-08
+9,9,17:25 FR6465,,Zadar (ZAD),Ryanair B738 (EI-EVP),Landed 17:01,2021-06-08
+10,10,17:30 FR8415,,Budapest (BUD),Ryanair B738 (SP-RSI),Landed 17:30,2021-06-08
+11,11,18:15 FR1058,,Warsaw (WMI),Ryanair B738 (SP-RKG),Landed 17:58,2021-06-08
+12,12,20:20 FR9338,,Palma de Mallorca (PMI),Ryanair B738 (EI-DHD),Landed 20:06,2021-06-08
+13,13,20:55 FR4828,,Cagliari (CAG),Ryanair B738 (9H-QAN),Landed 20:52,2021-06-08
+14,14,22:20 FR9052,,Alicante (ALC),Ryanair B738 (EI-EFY),Landed 22:12,2021-06-08
+15,15,22:30 FR4443,,Comiso (CIY),Ryanair B738 (EI-DHG),Landed 22:16,2021-06-08
+16,16,22:45 FR2829,,Reus (REU),Ryanair B738 (EI-EVP),Landed 22:37,2021-06-08
+17,17,22:45 FR6272,,Chania (CHQ),Ryanair B738 (EI-EBI),Landed 22:49,2021-06-08
+18,18,22:50 FR1919,,Valencia (VLC),Ryanair B738 (EI-EKL),Landed 23:35,2021-06-08
+0,0,07:55 W63081,,Bucharest (OTP),Wizz Air A21N (HA-LVD),Scheduled,2021-06-10
+1,1,08:40 FR8415,,Budapest (BUD),Ryanair 738,Scheduled,2021-06-10
+2,2,08:45 FR1303,,Naples (NAP),Ryanair 73H,Scheduled,2021-06-10
+3,3,08:45 FR1196,,Athens (ATH),Ryanair 73H,Scheduled,2021-06-10
+4,4,09:00 W63661,,Iasi (IAS),Wizz Air 320,Scheduled,2021-06-10
+5,5,09:05 W67717,,Skopje (SKP),Wizz Air 320,Scheduled,2021-06-10
+6,6,09:25 FR5462,,Madrid (MAD),Ryanair 73H,Scheduled,2021-06-10
+7,7,09:55 FR9052,,Alicante (ALC),Ryanair 73H,Scheduled,2021-06-10
+8,8,10:05 FR6034,,Treviso (TSF),Ryanair 73H,Scheduled,2021-06-10
+9,9,10:10 FR200,,Copenhagen (CPH),Ryanair 73H,Scheduled,2021-06-10
+10,10,11:45 FR6457,,Ibiza (IBZ),Ryanair 73H,Scheduled,2021-06-10
+11,11,11:55 FR7738,,Brindisi (BDS),Ryanair 73H,Scheduled,2021-06-10
+12,12,12:00 FR1387,,Porto (OPO),Ryanair 73H,Scheduled,2021-06-10
+13,13,12:15 TB1142,,Alicante (ALC),TUIfly Belgium 73H,Scheduled,2021-06-10
+14,14,12:20 FR3746,,Pisa (PSA),Ryanair 73H,Scheduled,2021-06-10
+15,15,12:25 FR6351,,Sofia (SOF),Ryanair 73H,Scheduled,2021-06-10
+16,16,12:25 TB1272,,Murcia (RMU),TUIfly Belgium E90,Scheduled,2021-06-10
+17,17,12:30 PC921,,Istanbul (SAW),Pegasus Airlines 320,Scheduled,2021-06-10
+18,18,13:15 FR6313,,Faro (FAO),Ryanair 73H,Scheduled,2021-06-10
+19,19,13:25 FR1259,,Almeria (LEI),Ryanair 73H,Scheduled,2021-06-10
+20,20,14:20 FR8024,,Carcassonne (CCF),Ryanair 73H,Scheduled,2021-06-10
+21,21,14:50 TB2622,,Nador (NDR),TUIfly Belgium 73H,Scheduled,2021-06-10
+22,22,15:10 W62281,,Budapest (BUD),Wizz Air 320,Scheduled,2021-06-10
+23,23,15:15 FR6901,,Girona (GRO),Ryanair 73H,Scheduled,2021-06-10
+24,24,16:00 FR1389,,Bordeaux (BOD),Ryanair 73H,Scheduled,2021-06-10
+25,25,16:20 FR1301,,Lisbon (LIS),Ryanair 73H,Scheduled,2021-06-10
+26,26,16:50 FR2104,,Bucharest (OTP),Ryanair 73H,Scheduled,2021-06-10
+27,27,17:30 FR8049,,Nimes (FNI),Ryanair 73H,Scheduled,2021-06-10
+28,28,17:50 FR5015,,Pescara (PSR),Ryanair 73H,Scheduled,2021-06-10
+29,29,17:55 FR4863,,Bologna (BLQ),Ryanair 73H,Scheduled,2021-06-10
+30,30,18:00 FR6317,,Marseille (MRS),Ryanair 73H,Scheduled,2021-06-10
+31,31,18:20 FR1219,,Bergerac (EGC),Ryanair 73H,Scheduled,2021-06-10
+32,32,18:50 FR8078,,Beziers (BZR),Ryanair 73H,Scheduled,2021-06-10
+33,33,20:30 FR6445,,Seville (SVQ),Ryanair 73H,Scheduled,2021-06-10
+34,34,20:40 FR1915,,Malaga (AGP),Ryanair 73H,Scheduled,2021-06-10
+35,35,20:50 FR6106,,Rome (CIA),Ryanair 73H,Scheduled,2021-06-10
+36,36,21:00 W64535,,Varna (VAR),Wizz Air 320,Scheduled,2021-06-10
+37,37,21:00 W64327,,Sofia (SOF),Wizz Air 32Q,Scheduled,2021-06-10
+38,38,21:10 W66911,,Chisinau (KIV),Wizz Air 320,Scheduled,2021-06-10
+39,39,21:25 FR2955,,Luqa (MLA),Ryanair 73H,Scheduled,2021-06-10
+40,40,21:30 FR3222,,Manchester (MAN),Ryanair 73H,Scheduled,2021-06-10
+41,41,22:00 FR6058,,Santander (SDR),Ryanair 73H,Scheduled,2021-06-10
+42,42,22:25 FR2043,,Pula (PUY),Ryanair 73H,Scheduled,2021-06-10
+43,43,22:35 FR6447,,Thessaloniki (SKG),Ryanair 73H,Scheduled,2021-06-10
+44,44,22:40 FR8082,,Fes (FEZ),Ryanair 73H,Canceled,2021-06-10
+45,45,22:45 FR8179,,Tenerife (TFS),Ryanair 73H,Scheduled,2021-06-10
+46,46,22:45 FR9141,,Palermo (PMO),Ryanair 73H,Scheduled,2021-06-10
+47,47,22:55 FR8043,,Ancona (AOI),Ryanair 73H,Scheduled,2021-06-10
+48,48,22:55 TB1772,,Tenerife (TFS),TUIfly Belgium 73H,Scheduled,2021-06-10
+49,49,22:55 TB2672,,Tangier (TNG),TUIfly Belgium 73H,Scheduled,2021-06-10
+50,50,22:55 TB3672,,Toulon (TLN),TUIfly Belgium E90,Scheduled,2021-06-10
+0,0,7:55 AM W63081,,Bucharest (OTP),Wizz Air A21N (HA-LVD),Landed 7:37 AM,2021-06-11
+1,1,8:40 AM FR8415,,Budapest (BUD),Ryanair B738 (SP-RKW),Landed 8:21 AM,2021-06-11
+2,2,8:45 AM FR1303,,Naples (NAP),Ryanair B738 (9H-QAZ),Landed 8:35 AM,2021-06-11
+3,3,8:45 AM FR1196,,Athens (ATH),Ryanair B738 (EI-EVC),Landed 8:32 AM,2021-06-11
+4,4,9:00 AM W63661,,Iasi (IAS),Wizz Air A320 (HA-LPN),Landed 8:38 AM,2021-06-11
+5,5,9:05 AM W67717,,Skopje (SKP),Wizz Air A320 (HA-LYE),Landed 8:50 AM,2021-06-11
+6,6,9:25 AM FR5462,,Madrid (MAD),Ryanair B738 (EI-DWY),Landed 9:26 AM,2021-06-11
+7,7,9:55 AM FR9052,,Alicante (ALC),Ryanair B738 (EI-DWX),Landed 9:34 AM,2021-06-11
+8,8,10:05 AM FR6034,,Treviso (TSF),Ryanair B738 (EI-DCN),Landed 9:48 AM,2021-06-11
+9,9,10:10 AM FR200,,Copenhagen (CPH),Ryanair B738 (EI-EKL),Landed 10:07 AM,2021-06-11
+10,10,11:45 AM FR6457,,Ibiza (IBZ),Ryanair B738 (EI-DHG),Landed 11:31 AM,2021-06-11
+11,11,11:55 AM FR7738,,Brindisi (BDS),Ryanair B738 (EI-EVP),Landed 12:02 PM,2021-06-11
+12,12,12:00 PM FR1387,,Porto (OPO),Ryanair B738 (EI-DPM),Landed 12:08 PM,2021-06-11
+13,13,12:15 PM TB1142,,Alicante (ALC),TUI B738 (OO-TUK),Landed 12:05 PM,2021-06-11
+14,14,12:20 PM FR3746,,Pisa (PSA),Ryanair B738 (9H-QDA),Landed 12:32 PM,2021-06-11
+15,15,12:25 PM FR6351,,Sofia (SOF),Ryanair B738 (EI-EKK),Landed 12:04 PM,2021-06-11
+16,16,12:25 PM TB1272,,Murcia (RMU),TUI E190 (OO-JEB),Landed 11:58 AM,2021-06-11
+17,17,12:30 PM PC921,,Istanbul (SAW),Pegasus A20N (TC-NBH),Landed 12:29 PM,2021-06-11
+18,18,1:15 PM FR6313,,Faro (FAO),Ryanair B738 (EI-GXN),Landed 1:21 PM,2021-06-11
+19,19,1:25 PM FR1259,,Almeria (LEI),Ryanair B738 (EI-DWV),Landed 3:55 PM,2021-06-11
+20,20,2:20 PM FR8024,,Carcassonne (CCF),Ryanair B738 (EI-DCN),Landed 2:06 PM,2021-06-11
+21,21,2:50 PM TB2622,,Nador (NDR),TUIfly Belgium 73H,Unknown,2021-06-11
+22,22,3:10 PM W62281,,Budapest (BUD),Wizz Air A320 (HA-LWE),Landed 2:52 PM,2021-06-11
+23,23,3:15 PM FR6901,,Girona (GRO),Ryanair B738 (EI-EFY),Landed 3:06 PM,2021-06-11
+24,24,4:00 PM FR1389,,Bordeaux (BOD),Ryanair B738 (EI-DHG),Landed 3:59 PM,2021-06-11
+25,25,4:20 PM FR1301,,Lisbon (LIS),Ryanair B738 (EI-EKL),Landed 4:37 PM,2021-06-11
+26,26,4:50 PM FR2104,,Bucharest (OTP),Ryanair B738 (9H-QAG),Landed 4:27 PM,2021-06-11
+27,27,5:30 PM FR8049,,Nimes (FNI),Ryanair B738 (EI-DPM),Landed 5:24 PM,2021-06-11
+28,28,5:50 PM FR5015,,Pescara (PSR),Ryanair B738 (9H-QBW),Landed 5:27 PM,2021-06-11
+29,29,5:55 PM FR4863,,Bologna (BLQ),Ryanair B738 (9H-QEE),Landed 5:48 PM,2021-06-11
+30,30,6:00 PM FR6317,,Marseille (MRS),Ryanair B738 (EI-ENR),Landed 5:54 PM,2021-06-11
+31,31,6:20 PM FR1219,,Bergerac (EGC),Ryanair B738 (EI-EKK),Landed 6:00 PM,2021-06-11
+32,32,6:50 PM FR8078,,Beziers (BZR),Ryanair B738 (EI-DCN),Landed 6:36 PM,2021-06-11
+33,33,8:30 PM FR6445,,Seville (SVQ),Ryanair B738 (EI-DYC),Landed 8:27 PM,2021-06-11
+34,34,8:40 PM FR1915,,Malaga (AGP),Ryanair B738 (EI-DLX),Landed 8:35 PM,2021-06-11
+35,35,8:50 PM FR6106,,Rome (CIA),Ryanair B738 (9H-QBX),Landed 8:46 PM,2021-06-11
+36,36,9:00 PM W64535,,Varna (VAR),Wizz Air A320 (HA-LWZ),Landed 8:36 PM,2021-06-11
+37,37,9:00 PM W64327,,Sofia (SOF),Wizz Air A321 (HA-LXC),Landed 8:43 PM,2021-06-11
+38,38,9:10 PM W66911,,Chisinau (KIV),Wizz Air A320 (HA-LYD),Landed 8:50 PM,2021-06-11
+39,39,9:25 PM FR2955,,Luqa (MLA),Ryanair B738 (9H-QDC),Landed 9:14 PM,2021-06-11
+40,40,9:30 PM FR3222,,Manchester (MAN),Ryanair B738 (EI-EKM),Landed 9:17 PM,2021-06-11
+41,41,10:00 PM FR6058,,Santander (SDR),Ryanair B738 (EI-DPM),Landed 10:01 PM,2021-06-11
+42,42,10:25 PM FR2043,,Pula (PUY),Ryanair B738 (EI-ENR),Landed 10:18 PM,2021-06-11
+43,43,10:35 PM FR6447,,Thessaloniki (SKG),Ryanair B738 (EI-DHG),Landed 10:57 PM,2021-06-11
+44,44,10:40 PM FR8082,,Fes (FEZ),Ryanair 73H,Canceled,2021-06-11
+45,45,10:45 PM FR8179,,Tenerife (TFS),Ryanair B738 (EI-EVP),Landed 10:49 PM,2021-06-11
+46,46,10:45 PM FR9141,,Palermo (PMO),Ryanair B738 (EI-EKL),Landed 10:41 PM,2021-06-11
+47,47,10:55 PM FR8043,,Ancona (AOI),Ryanair B738 (EI-EKK),Landed 10:22 PM,2021-06-11
+48,48,10:55 PM TB1772,,Tenerife (TFS),TUI B738 (OO-TUK),Landed 10:55 PM,2021-06-11
+49,49,10:55 PM TB2672,,Tangier (TNG),TUIfly Belgium 73H,Unknown,2021-06-11
+50,50,10:55 PM TB3672,,Toulon (TLN),TUI E190 (OO-JEB),Landed 10:37 PM,2021-06-11
+0,0,07:00 KF5964,,Pointe-a-Pitre (PTP),Air Belgium 343,Unknown,2021-06-12
+1,1,08:30 W61381,,Warsaw (WAW),Wizz Air A320 (HA-LWQ),Landed 08:25,2021-06-12
+2,2,08:50 XK790,,Ajaccio (AJA),Air Corsica A320 (F-HBSA),Landed 08:32,2021-06-12
+3,3,10:20 FR3746,,Pisa (PSA),Ryanair B738 (EI-EKK),Landed 10:20,2021-06-12
+4,4,10:40 FR4869,,Perugia (PEG),Ryanair B738 (EI-ENR),Landed 10:25,2021-06-12
+5,5,10:55 FR2106,,Toulouse (TLS),Ryanair B738 (EI-DWV),Landed 10:48,2021-06-12
+6,6,11:10 FR4567,,Figari (FSC),Ryanair B738 (EI-EVP),Landed 11:10,2021-06-12
+7,7,12:00 FR2834,,Barcelona (BCN),Ryanair B738 (EI-ENV),Landed 11:52,2021-06-12
+8,8,12:10 XK792,,Bastia (BIA),Air Corsica A320 (F-HZDP),Landed 11:57,2021-06-12
+9,9,12:30 PC921,,Istanbul (SAW),Pegasus B738 (TC-CRA),Landed 12:22,2021-06-12
+10,10,12:45 FR4443,,Comiso (CIY),Ryanair B738 (EI-DHG),Landed 12:32,2021-06-12
+11,11,12:45 FR8074,,Tangier (TNG),Ryanair 73H,Canceled,2021-06-12
+12,12,13:40 FR5332,,Biarritz (BIQ),Ryanair B738 (EI-DPM),Landed 13:35,2021-06-12
+13,13,14:15 FR1385,,Perpignan (PGF),Ryanair B738 (EI-EKM),Landed 14:15,2021-06-12
+14,14,14:25 TB2532,,Casablanca (CMN),TUIfly Belgium 73H,Unknown,2021-06-12
+15,15,14:30 XK788,,Figari (FSC),Air Corsica A320 (F-HBSA),Landed 14:07,2021-06-12
+16,16,15:25 FR1058,,Warsaw (WMI),Ryanair B738 (EI-ENR),Unknown,2021-06-12
+17,17,15:50 FR2829,,Reus (REU),Ryanair B738 (EI-DWV),Landed 15:40,2021-06-12
+18,18,16:25 FR6465,,Zadar (ZAD),Ryanair B738 (EI-EVP),Landed 16:22,2021-06-12
+19,19,16:45 FR9338,,Palma de Mallorca (PMI),Ryanair B738 (EI-EKV),Landed 16:33,2021-06-12
+20,20,17:40 FR6729,,Krakow (KRK),Ryanair B738 (SP-RSY),Landed 17:25,2021-06-12
+21,21,18:45 FR6457,,Ibiza (IBZ),Ryanair B738 (EI-DHG),Landed 18:36,2021-06-12
+22,22,20:15 FR4828,,Cagliari (CAG),Ryanair B738 (9H-QAV),Landed 20:27,2021-06-12
+23,23,20:55 TB2642,,Oujda (OUD),TUIfly Belgium 73H,Unknown,2021-06-12
+24,24,21:10 FR1919,,Valencia (VLC),Ryanair B738 (EI-EVG),Landed 20:45,2021-06-12
+25,25,21:20 FR6933,,Rabat (RBA),Ryanair 73H,Canceled,2021-06-12
+26,26,21:30 FR9052,,Alicante (ALC),Ryanair B738 (EI-DCR),Landed 21:06,2021-06-12
+27,27,21:45 TB2652,,Rabat (RBA),TUIfly Belgium E90,Unknown,2021-06-12
+28,28,22:25 FR6272,,Chania (CHQ),Ryanair B738 (EI-DPM),Landed 22:10,2021-06-12
+29,29,22:50 FR2102,,Bucharest (OTP),Ryanair B738 (EI-EVP),Landed 23:01,2021-06-12
+30,30,22:55 FR6045,,Nador (NDR),Ryanair 73H,Canceled,2021-06-12
+31,31,22:55 FR6056,,Treviso (TSF),Ryanair B738 (EI-ENR),Landed 22:40,2021-06-12
+32,32,22:55 FR6317,,Marseille (MRS),Ryanair B738 (EI-DHG),Landed 22:35,2021-06-12
+33,33,22:55 FR8173,,Agadir (AGA),Ryanair 73H,Canceled,2021-06-12
+34,34,22:55 FR8076,,Marrakesh (RAK),Ryanair 73H,Canceled,2021-06-12
+0,0,08:35 FR2102,,Bucharest (OTP),Ryanair B738 (9H-QBM),Landed 08:23,2021-06-13
+1,1,08:40 FR2834,,Barcelona (BCN),Ryanair B738 (EI-DWS),Landed 08:25,2021-06-13
+2,2,08:55 FR1196,,Athens (ATH),Ryanair B738 (EI-EBZ),Landed 08:35,2021-06-13
+3,3,09:25 FR5462,,Madrid (MAD),Ryanair B738 (EI-EVT),Landed 09:13,2021-06-13
+4,4,09:30 W66625,,Tirana (TIA),Wizz Air A21N (HA-LVB),Landed 09:21,2021-06-13
+5,5,10:20 FR6313,,Faro (FAO),Ryanair B738 (EI-EXF),Landed 10:02,2021-06-13
+6,6,10:45 FR1387,,Porto (OPO),Ryanair B738 (EI-EKG),Landed 10:33,2021-06-13
+7,7,11:35 FR6106,,Rome (CIA),Ryanair B738 (EI-ENR),Landed 11:20,2021-06-13
+8,8,11:40 FR8706,,Bari (BRI),Ryanair B738 (EI-DHG),Landed 11:44,2021-06-13
+9,9,12:00 FR4863,,Bologna (BLQ),Ryanair B738 (9H-QAA),Landed 11:54,2021-06-13
+10,10,12:20 FR8609,,Lamezia Terme (SUF),Ryanair B738 (EI-DPM),Landed 12:07,2021-06-13
+11,11,12:30 PC921,,Istanbul (SAW),Pegasus A20N (TC-NCA),Landed 12:31,2021-06-13
+12,12,12:30 TB1052,,Malaga (AGP),TUIfly Belgium 73H,Unknown,2021-06-13
+13,13,12:35 KF5966,,Fort-de-France (FDF),Air Belgium 343,Unknown,2021-06-13
+14,14,12:35 XK792,,Bastia (BIA),Air Corsica A20N (F-HXKJ),Landed 12:26,2021-06-13
+15,15,12:40 FR8775,,Oujda (OUD),Ryanair 73H,Canceled,2021-06-13
+16,16,12:40 XK790,,Ajaccio (AJA),Air Corsica A20N (F-HXKB),Landed 12:29,2021-06-13
+17,17,12:45 FR6351,,Sofia (SOF),Ryanair B738 (EI-DWV),Landed 12:43,2021-06-13
+18,18,13:15 FR6252,,Corfu (CFU),Ryanair B738 (EI-EVP),Landed 13:18,2021-06-13
+19,19,13:45 FR6034,,Treviso (TSF),Ryanair B738 (EI-ENV),Landed 13:44,2021-06-13
+20,20,14:35 TB1142,,Malaga (AGP),TUI B738 (OO-TUP),Landed 14:12,2021-06-13
+21,21,15:30 FR6317,,Marseille (MRS),Ryanair B738 (EI-DCN),Landed 15:15,2021-06-13
+22,22,17:00 FR1389,,Bordeaux (BOD),Ryanair B738 (EI-DHG),Landed 16:52,2021-06-13
+23,23,17:10 FR8049,,Nimes (FNI),Ryanair B738 (EI-EFY),Landed 17:03,2021-06-13
+24,24,17:25 FR4983,,Zagreb (ZAG),Ryanair B738 (EI-DWV),Landed 17:23,2021-06-13
+25,25,17:35 FR6733,,Alghero (AHO),Ryanair B738 (EI-DPM),Landed 17:35,2021-06-13
+26,26,20:10 FR1915,,Malaga (AGP),Ryanair B738 (EI-EVE),Landed 19:51,2021-06-13
+27,27,21:25 TB2622,,Nador (NDR),TUIfly Belgium 73H,Unknown,2021-06-13
+28,28,21:25 W63351,,Cluj-Napoca (CLJ),Wizz Air A320 (HA-LYB),Landed 21:13,2021-06-13
+29,29,22:00 FR8177,,Gran Canaria (LPA),Ryanair B738 (EI-ENR),Landed 22:10,2021-06-13
+30,30,22:05 FR2106,,Toulouse (TLS),Ryanair B738 (EI-DWV),Landed 21:47,2021-06-13
+31,31,22:25 FR8415,,Budapest (BUD),Ryanair B738 (EI-DPM),Landed 22:20,2021-06-13
+32,32,22:30 FR8574,,Rhodes (RHO),Ryanair B738 (EI-ENV),Landed 22:11,2021-06-13
+33,33,22:50 FR1301,,Lisbon (LIS),Ryanair B738 (EI-DCN),Landed 22:45,2021-06-13
+34,34,22:50 FR8175,,Lanzarote (ACE),Ryanair B738 (EI-EVP),Landed 22:39,2021-06-13
+35,35,22:50 FR9052,,Alicante (ALC),Ryanair B738 (EI-DHG),Landed 22:32,2021-06-13
+36,36,22:55 TB3672,,Toulon (TLN),TUI E190 (OO-JEB),Landed 22:49,2021-06-13
+0,0,07:45 FR3746,,Pisa (PSA),Ryanair B738 (9H-QBE),Landed 07:32,2021-06-14
+1,1,07:55 W63081,,Bucharest (OTP),Wizz Air A21N (HA-LVE),Landed 07:54,2021-06-14
+2,2,09:00 W63661,,Iasi (IAS),Wizz Air A320 (HA-LPN),Landed 08:36,2021-06-14
+3,3,09:05 W67717,,Skopje (SKP),Wizz Air A21N (HA-LVH),Landed 09:08,2021-06-14
+4,4,09:45 FR1303,,Naples (NAP),Ryanair B738 (9H-QAS),Landed 09:36,2021-06-14
+5,5,10:10 FR200,,Copenhagen (CPH),Ryanair B738 (EI-DHG),Landed 10:03,2021-06-14
+6,6,10:15 FR5462,,Madrid (MAD),Ryanair B738 (EI-EBO),Landed 09:55,2021-06-14
+7,7,10:20 FR6034,,Treviso (TSF),Ryanair B738 (EI-ENV),Landed 10:13,2021-06-14
+8,8,11:35 FR1387,,Porto (OPO),Ryanair B738 (EI-DCN),Landed 11:25,2021-06-14
+9,9,12:15 TB1142,,Alicante (ALC),TUI B738 (OO-TUK),Landed 12:01,2021-06-14
+10,10,12:25 FR1259,,Almeria (LEI),Ryanair B738 (EI-EVP),Landed 12:20,2021-06-14
+11,11,12:25 PC921,,Istanbul (SAW),Pegasus A21N (TC-RBC),Landed 12:40,2021-06-14
+12,12,12:35 FR8078,,Beziers (BZR),Ryanair B738 (EI-EFY),Landed 12:28,2021-06-14
+13,13,12:55 FR1219,,Bergerac (EGC),Ryanair B738 (EI-DPM),Landed 12:43,2021-06-14
+14,14,13:20 TB2672,,Tangier (TNG),TUIfly Belgium E90,Unknown,2021-06-14
+15,15,13:20 W62927,,Ljubljana (LJU),Wizz Air 320,Unknown,2021-06-14
+16,16,14:10 W66911,,Chisinau (KIV),Wizz Air A320 (HA-LYD),Landed 13:43,2021-06-14
+17,17,14:25 FR6106,,Rome (CIA),Ryanair B738 (9H-QDK),Landed 14:08,2021-06-14
+18,18,14:25 FR8024,,Carcassonne (CCF),Ryanair B738 (EI-DHG),Landed 14:17,2021-06-14
+19,19,14:25 TB2532,,Casablanca (CMN),TUIfly Belgium 73H,Unknown,2021-06-14
+20,20,14:45 FR1301,,Lisbon (LIS),Ryanair B738 (EI-DWV),Landed 14:56,2021-06-14
+21,21,15:10 W62281,,Budapest (BUD),Wizz Air A320 (HA-LWE),Landed 15:13,2021-06-14
+22,22,15:30 W64627,,Sarajevo (SJJ),Wizz Air 320,Unknown,2021-06-14
+23,23,15:50 FR6447,,Thessaloniki (SKG),Ryanair B738 (EI-EKM),Landed 15:49,2021-06-14
+24,24,16:10 FR9141,,Palermo (PMO),Ryanair B738 (EI-ENV),Landed 16:56,2021-06-14
+25,25,16:20 FR6729,,Krakow (KRK),Ryanair B738 (EI-DCN),Landed 16:06,2021-06-14
+26,26,17:35 FR8043,,Ancona (AOI),Ryanair B738 (EI-EKK),Landed 17:26,2021-06-14
+27,27,17:40 FR2043,,Pula (PUY),Ryanair B738 (EI-DPM),Landed 17:50,2021-06-14
+28,28,17:40 FR6445,,Seville (SVQ),Ryanair B738 (EI-EMN),Landed 17:35,2021-06-14
+29,29,17:50 FR5015,,Pescara (PSR),Ryanair B738 (9H-QAO),Landed 17:28,2021-06-14
+30,30,17:55 FR3222,,Manchester (MAN),Ryanair B738 (EI-DYM),Landed 17:54,2021-06-14
+31,31,18:55 FR6317,,Marseille (MRS),Ryanair B738 (EI-EVP),Landed 18:48,2021-06-14
+32,32,19:20 FR6313,,Faro (FAO),Ryanair B738 (EI-DWG),Landed 19:14,2021-06-14
+33,33,19:55 FR1915,,Malaga (AGP),Ryanair B738 (EI-EVI),Landed 20:13,2021-06-14
+34,34,20:30 FR2955,,Luqa (MLA),Ryanair B738 (9H-QDH),Landed 20:16,2021-06-14
+35,35,21:00 W64327,,Sofia (SOF),Wizz Air A21N (HA-LVF),Landed 20:53,2021-06-14
+36,36,21:00 W64535,,Varna (VAR),Wizz Air A320 (HA-LWJ),Landed 20:35,2021-06-14
+37,37,21:30 FR9052,,Alicante (ALC),Ryanair B738 (EI-DWH),Landed 21:13,2021-06-14
+38,38,21:45 TB1272,,Murcia (RMU),TUI E190 (OO-JEB),Landed 21:20,2021-06-14
+39,39,22:00 FR6058,,Santander (SDR),Ryanair B738 (EI-EKK),Landed 21:52,2021-06-14
+40,40,22:10 FR6457,,Ibiza (IBZ),Ryanair B738 (EI-DWV),Landed 22:05,2021-06-14
+41,41,22:10 FR6901,,Girona (GRO),Ryanair B738 (EI-DHG),Landed 21:56,2021-06-14
+42,42,22:35 FR8082,,Fes (FEZ),Ryanair 73H,Unknown,2021-06-14
+43,43,22:40 FR2102,,Bucharest (OTP),Ryanair B738 (EI-EKM),Landed 22:27,2021-06-14
+44,44,22:45 FR8179,,Tenerife (TFS),Ryanair B738 (EI-EFY),Landed 22:36,2021-06-14
+45,45,22:50 FR7738,,Brindisi (BDS),Ryanair B738 (EI-DCN),Landed 22:39,2021-06-14
+46,46,22:55 TB1772,,Tenerife (TFS),TUI B738 (OO-TUK),Landed 22:14,2021-06-14
+0,0,06:30 TB2522,,Al Hoceima (AHU),TUIfly Belgium E90,Unknown,2021-06-15
+1,1,07:55 W63081,,Bucharest (OTP),Wizz Air 321,Unknown,2021-06-15
+2,2,08:00 W63931,,Bacau (BCM),Wizz Air 320,Unknown,2021-06-15
+3,3,08:30 W61381,,Warsaw (WAW),Wizz Air 320,Unknown,2021-06-15
+4,4,10:55 FR4869,,Perugia (PEG),Ryanair B738 (EI-ENV),Landed 11:00,2021-06-15
+5,5,11:00 FR8076,,Marrakesh (RAK),Ryanair B738 (EI-EBC),Unknown,2021-06-15
+6,6,11:10 FR4567,,Figari (FSC),Ryanair B738 (EI-EKM),Landed 11:08,2021-06-15
+7,7,12:00 FR2834,,Barcelona (BCN),Ryanair B738 (EI-EFO),Landed 11:53,2021-06-15
+8,8,12:25 PC921,,Istanbul (SAW),Pegasus A21N (TC-RBC),Landed 12:23,2021-06-15
+9,9,12:35 FR8074,,Tangier (TNG),Ryanair B738 (EI-EFY),Landed 12:43,2021-06-15
+10,10,12:45 FR2102,,Bucharest (OTP),Ryanair B738 (EI-ENR),Landed 12:49,2021-06-15
+11,11,12:45 FR6045,,Nador (NDR),Ryanair B738 (EI-DPM),Landed 13:03,2021-06-15
+12,12,14:05 FR1385,,Perpignan (PGF),Ryanair B738 (EI-EKK),Landed 14:28,2021-06-15
+13,13,14:25 TB2532,,Casablanca (CMN),TUI B738 (OO-TUK),Landed 14:11,2021-06-15
+14,14,15:10 FR2106,,Toulouse (TLS),Ryanair B738 (EI-ENV),Landed 15:12,2021-06-15
+15,15,15:20 W62911,,Vienna (VIE),Wizz Air 320,Unknown,2021-06-15
+16,16,17:25 FR5332,,Biarritz (BIQ),Ryanair B738 (EI-DHG),Landed 17:14,2021-06-15
+17,17,17:25 FR6465,,Zadar (ZAD),Ryanair B738 (EI-EKM),Landed 17:21,2021-06-15
+18,18,17:30 FR8415,,Budapest (BUD),Ryanair B738 (SP-RSC),Landed 17:17,2021-06-15
+19,19,18:15 FR1058,,Warsaw (WMI),Ryanair B738 (SP-RKR),Landed 18:01,2021-06-15
+20,20,20:20 FR9338,,Palma de Mallorca (PMI),Ryanair B738 (EI-DYE),Landed 19:55,2021-06-15
+21,21,20:55 FR4828,,Cagliari (CAG),Ryanair B738 (9H-QAL),Landed 20:43,2021-06-15
+22,22,20:55 TB2642,,Oujda (OUD),TUI B738 (OO-TUP),Landed 21:50,2021-06-15
+23,23,21:20 FR6933,,Rabat (RBA),Ryanair B738 (EI-EFY),Landed 21:25,2021-06-15
+24,24,22:20 FR9052,,Alicante (ALC),Ryanair B738 (EI-ENR),Landed 22:05,2021-06-15
+25,25,22:25 TB2652,,Rabat (RBA),TUI B738 (OO-TUK),Landed 22:09,2021-06-15
+26,26,22:30 FR4443,,Comiso (CIY),Ryanair B738 (EI-ENV),Landed 22:12,2021-06-15
+27,27,22:45 FR2829,,Reus (REU),Ryanair B738 (EI-EKM),Landed 22:39,2021-06-15
+28,28,22:45 FR6272,,Chania (CHQ),Ryanair B738 (EI-DWV),Landed 22:37,2021-06-15
+29,29,22:50 FR1919,,Valencia (VLC),Ryanair B738 (EI-DHG),Landed 22:28,2021-06-15
+30,30,22:55 FR8173,,Agadir (AGA),Ryanair B738 (EI-EVP),Landed 23:12,2021-06-15

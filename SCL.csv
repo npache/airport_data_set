@@ -18313,3 +18313,745 @@
 93,93,23:41 LA335,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAK),Estimated 23:35,2021-06-06
 94,94,23:49 H2307,,Arica (ARI),SKY Airline A20N (CC-AZO),Estimated 00:01,2021-06-06
 95,95,23:52 LA159,,Calama (CJC),LATAM Airlines A320 (CC-BAA),Estimated 23:39,2021-06-06
+0,0,00:50 JA1215,,Antofagasta (ANF),JetSMART (Colibri de Arica Livery) A20N (CC-AWJ),Landed 00:31,2021-06-08
+1,1,02:31 M38490,,Buenos Aires (EZE),LATAM Cargo B763 (PR-ACO),Landed 01:59,2021-06-08
+2,2,03:15 LA2379,,Lima (LIM),LATAM Airlines 789,Unknown,2021-06-08
+3,3,06:20,UA847,Houston (IAH),United Airlines B789 (N27958),Landed 06:18,2021-06-08
+4,4,06:50 LA503,,Miami (MIA),LATAM Airlines 789,Unknown,2021-06-08
+5,5,06:55 LA9575,,Miami (MIA),LATAM Airlines B789 (CC-BGN),Landed 06:21,2021-06-08
+6,6,06:59 AA957,,Miami (MIA),American Airlines B788 (N873BB),Landed 06:35,2021-06-08
+7,7,07:11 AA9717,,Miami (MIA),American Airlines B772,Unknown,2021-06-08
+8,8,07:23 JA260,,Concepcion (CCP),JetSMART (Pato BancoEstado Livery) A20N (CC-AWP),Landed 06:28,2021-06-08
+9,9,07:35 AA945,,Dallas (DFW),American Airlines B788 (N812AA),Landed 07:13,2021-06-08
+10,10,07:50,IB6833,Madrid (MAD),Iberia A332 (EC-MSY),Landed 07:55,2021-06-08
+11,11,10:15 LA361,,Iquique (IQQ),LATAM Airlines A320 (CC-BAV),Landed 10:04,2021-06-08
+12,12,10:16 LA137,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAK),Landed 10:07,2021-06-08
+13,13,10:23 H21331,,Iquique (IQQ),SKY Airline A20N (CC-AZO),Landed 10:37,2021-06-08
+14,14,10:27 LA163,,Iquique (IQQ),LATAM Airlines A320 (CC-BAT),Landed 10:16,2021-06-08
+15,15,10:52 LA230,,Temuco (ZCO),LATAM Airlines A320 (CC-BAA),Landed 10:46,2021-06-08
+16,16,11:04 LA145,,Calama (CJC),LATAM Airlines A321 (CC-BED),Landed 10:56,2021-06-08
+17,17,11:30 H2301,,Arica (ARI),SKY Airline A20N (CC-AZH),Landed 11:08,2021-06-08
+18,18,11:30 LA129,,Antofagasta (ANF),LATAM Airlines A321 (CC-BEP),Unknown,2021-06-08
+19,19,11:39 H2321,,Iquique (IQQ),Sky Airline 320,Unknown,2021-06-08
+20,20,11:44 JA1002,,Buenos Aires (EZE),JetSMART 320,Unknown,2021-06-08
+21,21,11:49 H2142,,Temuco (ZCO),Sky Airline 320,Unknown,2021-06-08
+22,22,11:55 UC1503,,Buenos Aires (EZE),LATAM Cargo Chile B77F,Unknown,2021-06-08
+23,23,12:01 H2245,,Calama (CJC),SKY Airline A20N (CC-AZF),Landed 11:51,2021-06-08
+24,24,12:02 H2451,,La Serena (LSC),SKY Airline A20N (CC-AZS),Landed 11:47,2021-06-08
+25,25,12:15 LA68,,Castro (MHC),LATAM Airlines A320 (CC-CQM),Landed 12:15,2021-06-08
+26,26,12:16 LA173,,Iquique (IQQ),LATAM Airlines A321 (CC-BEQ),Landed 12:08,2021-06-08
+27,27,12:21 LA115,,Copiapo (CPO),LATAM Airlines A320 (CC-BAL),Landed 12:05,2021-06-08
+28,28,12:28 LA133,,Antofagasta (ANF),LATAM Airlines A320 (CC-COO),Unknown,2021-06-08
+29,29,12:42 LA147,,Calama (CJC),LATAM Airlines A321 (CC-BEO),Landed 12:33,2021-06-08
+30,30,12:53 LA381,,Arica (ARI),LATAM Airlines A320 (CC-CQO),Landed 12:28,2021-06-08
+31,31,13:09 JA261,,Arica (ARI),JetSMART (Pato BancoEstado Livery) A20N (CC-AWP),Landed 13:13,2021-06-08
+32,32,13:27 LA303,,La Serena (LSC),LATAM Airlines A321 (CC-BEC),Landed 13:10,2021-06-08
+33,33,13:31 LA339,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAB),Landed 13:16,2021-06-08
+34,34,13:49 LA119,,Copiapo (CPO),LATAM Airlines A320 (CC-BAG),Landed 13:42,2021-06-08
+35,35,13:50 JA1213,,Antofagasta (ANF),JetSMART (Colibri de Arica Livery) A20N (CC-AWJ),Landed 13:34,2021-06-08
+36,36,13:55 LA224,,Lima (LIM),LATAM Airlines 788,Unknown,2021-06-08
+37,37,13:56 LA6,,Concepcion (CCP),LATAM Airlines A320 (CC-BAK),Landed 13:57,2021-06-08
+38,38,14:22 LA307,,La Serena (LSC),LATAM Airlines A320 (CC-BAT),Landed 14:18,2021-06-08
+39,39,14:24 LA125,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAZ),Landed 14:15,2021-06-08
+40,40,14:27 LA169,,Iquique (IQQ),LATAM Airlines A320 (PR-TYQ),Landed 14:07,2021-06-08
+41,41,14:30 LA225,,Antofagasta (ANF),LATAM Airlines 788,Unknown,2021-06-08
+42,42,14:51 H2122,,Valdivia (ZAL),SKY Airline A20N (CC-AZE),Landed 15:01,2021-06-08
+43,43,15:39 LA272,,Puerto Montt (PMC),LATAM Airlines A321 (CC-BEM),Landed 15:24,2021-06-08
+44,44,16:00 LA212,,Concepcion (CCP),LATAM Airlines A320 (CC-BAJ),Landed 15:47,2021-06-08
+45,45,16:11 LA167,,Iquique (IQQ),LATAM Airlines A321 (CC-BEB),Landed 15:58,2021-06-08
+46,46,16:14 LA337,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAV),Landed 16:02,2021-06-08
+47,47,16:18 LA64,,Puerto Montt (PMC),LATAM Airlines A321 (CC-BED),Landed 16:12,2021-06-08
+48,48,16:24 LA353,,Calama (CJC),LATAM Airlines A320 (CC-BAU),Landed 16:08,2021-06-08
+49,49,16:44 JA332,,Puerto Montt (PMC),JetSMART 320,Unknown,2021-06-08
+50,50,16:45 LA1160,,Punta Arenas (PUQ),LATAM Airlines B788 (CC-BBE),Landed 16:43,2021-06-08
+51,51,16:53 LA236,,Temuco (ZCO),LATAM Airlines A320 (CC-COO),Unknown,2021-06-08
+52,52,16:59 JA37,,La Serena (LSC),JetSMART (Condor Andino Livery) A320 (CC-AWD),Landed 16:54,2021-06-08
+53,53,17:02 LA250,,Osorno (ZOS),LATAM Airlines A320 (CC-CQM),Landed 16:40,2021-06-08
+54,54,17:10 H2281,,Antofagasta (ANF),SKY Airline A20N (CC-AZC),Landed 16:56,2021-06-08
+55,55,17:25 LA143,,Calama (CJC),LATAM Airlines A320 (CC-BAA),Landed 17:15,2021-06-08
+56,56,17:56 LA18,,Concepcion (CCP),LATAM Airlines A320 (CC-BAK),Landed 17:48,2021-06-08
+57,57,17:59 H2402,,Puerto Montt (PMC),Sky Airline A20N (CC-AZN),Landed 18:04,2021-06-08
+58,58,18:09 LA1265,,Iquique (IQQ),LATAM Airlines A321 (CC-BEP),Unknown,2021-06-08
+59,59,18:21 H2164,,Concepcion (CCP),SKY Airline A20N (CC-AZE),Landed 18:35,2021-06-08
+60,60,18:21 JA641,,Bogota (BOG),JetSMART 320,Unknown,2021-06-08
+61,61,18:50 LA171,,Iquique (IQQ),LATAM Airlines A321 (CC-BEQ),Landed 18:36,2021-06-08
+62,62,18:57 H21207,,La Serena (LSC),Sky Airline 320,Canceled,2021-06-08
+63,63,19:04 LA323,,Antofagasta (ANF),LATAM Airlines A321 (CC-BEC),Landed 18:39,2021-06-08
+64,64,19:08 JA495,,Trujillo (TRU),JetSMART 320,Unknown,2021-06-08
+65,65,19:14 LA347,,Calama (CJC),LATAM Airlines A320 (CC-CQO),Unknown,2021-06-08
+66,66,19:23 LA1267,,Iquique (IQQ),LATAM Airlines A321 (CC-BEO),Landed 19:13,2021-06-08
+67,67,19:35 5Y22,,Campinas (VCP),Atlas Air 74F,Unknown,2021-06-08
+68,68,19:48 H2434,,Puerto Montt (PMC),SKY Airline A20N (CC-AZO),Landed 19:44,2021-06-08
+69,69,19:48 LA117,,Copiapo (CPO),LATAM Airlines A320 (CC-BLE),Landed 19:35,2021-06-08
+70,70,19:56 LA84,,Puerto Montt (PMC),LATAM Airlines A321 (CC-BER),Landed 19:51,2021-06-08
+71,71,20:14,LA309,La Serena (LSC),LATAM Airlines A320 (CC-BAV),Landed 20:05,2021-06-08
+72,72,20:33 H2471,,La Serena (LSC),SKY Airline A20N (CC-AZM),Landed 20:30,2021-06-08
+73,73,20:40 LA351,,Calama (CJC),LATAM Airlines A320 (CC-BAT),Landed 20:24,2021-06-08
+74,74,20:43,,Buenos Aires (AEP),- A320,Canceled,2021-06-08
+75,75,20:44 LA1280,,Mataveri (IPC),LATAM Airlines B789 (CC-BGK),Unknown,2021-06-08
+76,76,20:47 LA165,,Iquique (IQQ),LATAM Airlines A320 (CC-BAB),Landed 20:40,2021-06-08
+77,77,20:49 LA12,,Concepcion (CCP),LATAM Airlines A320 (CC-CQM),Landed 20:43,2021-06-08
+78,78,20:56,LA232,Temuco (ZCO),LATAM Airlines A320 (PR-TYK),Landed 20:58,2021-06-08
+79,79,21:08,LA58,Puerto Montt (PMC),LATAM Airlines A321 (CC-BEM),Landed 20:48,2021-06-08
+80,80,21:12 LA329,,Antofagasta (ANF),LATAM Airlines A321 (CC-BEL),Landed 21:01,2021-06-08
+81,81,21:13 H2227,,Copiapo (CPO),Sky Airline 320,Canceled,2021-06-08
+82,82,21:13 LA423,,Asuncion (ASU),LATAM Airlines A320 (CC-BAG),Landed 20:52,2021-06-08
+83,83,21:22 WJ3010,,Buenos Aires (AEP),JetSMART (Cardenal Livery) A320 (LV-IVO),Landed 20:55,2021-06-08
+84,84,21:41 JA7,,Calama (CJC),JetSMART (Flamenco de James Livery) A20N (CC-AWK),Landed 21:27,2021-06-08
+85,85,21:47 JA51,,La Serena (LSC),JetSMART (Carpintero Negro Livery) A20N (CC-AWN),Landed 21:35,2021-06-08
+86,86,22:16 LA157,,Calama (CJC),LATAM Airlines A320 (CC-BAU),Landed 22:00,2021-06-08
+87,87,22:30 LA1285,,Miami (MIA),LATAM Airlines B763 (CC-CXE),Delayed 05:55,2021-06-08
+88,88,22:30 LA1283,,Miami (MIA),LATAM Airlines B763 (CC-CXK),Unknown,2021-06-08
+89,89,22:32 H21283,,Antofagasta (ANF),Sky Airline A20N (CC-AZP),Landed 22:17,2021-06-08
+90,90,22:32,LA385,Arica (ARI),LATAM Airlines A320 (CC-BAL),Landed 22:26,2021-06-08
+91,91,22:36 H2801,,Lima (LIM),SKY Airline A20N (CC-AZS),Landed 22:30,2021-06-08
+92,92,23:00 LA177,,Iquique (IQQ),LATAM Airlines A320 (CC-COO),Unknown,2021-06-08
+93,93,23:04,LA151,Calama (CJC),LATAM Airlines A321 (CC-BED),Landed 22:42,2021-06-08
+94,94,23:10,LA135,Antofagasta (ANF),LATAM Airlines A320 (CC-BAA),Landed 22:55,2021-06-08
+95,95,23:19 CM111,,Panama City (PTY),Copa Airlines B39M (HP-9909CMP),Landed 22:36,2021-06-08
+96,96,23:23 H2329,,Iquique (IQQ),SKY Airline A20N (CC-AZC),Landed 23:31,2021-06-08
+97,97,23:45 H2253,,Calama (CJC),SKY Airline A20N (CC-AZE),Landed 23:52,2021-06-08
+0,0,00:10 JA33,,Antofagasta (ANF),JetSMART (Martin Pescador Livery) A320 (CC-AWB),Landed 00:07,2021-06-09
+1,1,01:10 LA1290,,Antofagasta (ANF),LATAM Airlines B763,Canceled,2021-06-09
+2,2,01:49 JA1217,,Antofagasta (ANF),JetSMART (Condor Andino Livery) A320 (CC-AWD),Landed 01:31,2021-06-09
+3,3,02:20 ET3651,,Sao Paulo (GRU),Ethiopian Airlines 77X,Unknown,2021-06-09
+4,4,02:31 M38492,,Buenos Aires (EZE),LATAM Cargo B763 (CC-CZZ),Landed 01:43,2021-06-09
+5,5,03:25 UC1109,,Miami (MIA),LATAM Cargo B763 (N540LA),Landed 03:14,2021-06-09
+6,6,06:15 LA1233,,Miami (MIA),LATAM Airlines B789 (CC-BGI),Landed 05:34,2021-06-09
+7,7,06:30 LA601,,Lima (LIM),LATAM Airlines B788 (CC-BBB),Landed 05:51,2021-06-09
+8,8,06:59 AA957,,Miami (MIA),American Airlines B788 (N872AN),Landed 06:31,2021-06-09
+9,9,07:11 AA9717,,Miami (MIA),American Airlines B772,Unknown,2021-06-09
+10,10,07:25,IB6833,Madrid (MAD),Iberia A359 (EC-NBE),Landed 07:09,2021-06-09
+11,11,07:28 JA294,,Concepcion (CCP),JetSMART (Martin Pescador Livery) A320 (CC-AWB),Landed 07:30,2021-06-09
+12,12,07:35 AA945,,Dallas (DFW),American Airlines B789 (N823AN),Landed 07:12,2021-06-09
+13,13,08:10,AF406,Paris (CDG),Air France B77W (F-GZNJ),Landed 07:47,2021-06-09
+14,14,09:54,LA10,Concepcion (CCP),LATAM Airlines A320 (CC-BAL),Landed 09:53,2021-06-09
+15,15,10:15,LA361,Iquique (IQQ),LATAM Airlines A320 (CC-BAU),Landed 10:02,2021-06-09
+16,16,10:23 H21331,,Iquique (IQQ),SKY Airline A20N (CC-AZO),Landed 10:40,2021-06-09
+17,17,10:25 H2245,,Calama (CJC),Sky Airline A20N (CC-AZQ),Landed 10:21,2021-06-09
+18,18,10:40 LA60,,Puerto Montt (PMC),LATAM Airlines A320 (PR-TYK),Landed 10:36,2021-06-09
+19,19,10:48 H2271,,Antofagasta (ANF),Sky Airline A20N (CC-AZN),Landed 10:32,2021-06-09
+20,20,11:04 LA145,,Calama (CJC),LATAM Airlines A320 (CC-BAG),Landed 10:59,2021-06-09
+21,21,11:29 LA129,,Antofagasta (ANF),LATAM Airlines A321 (CC-BED),Landed 11:18,2021-06-09
+22,22,11:38 H2321,,Iquique (IQQ),Sky Airline 320,Unknown,2021-06-09
+23,23,11:45 MP7122,,Campinas (VCP),KLM Cargo B744 (PH-CKA),Landed 11:13,2021-06-09
+24,24,11:52 LA230,,Temuco (ZCO),LATAM Airlines A320 (CC-BAK),Landed 11:36,2021-06-09
+25,25,11:53 H2301,,Arica (ARI),Sky Airline 320,Canceled,2021-06-09
+26,26,11:53 LA115,,Copiapo (CPO),LATAM Airlines A320 (CC-CQO),Landed 11:51,2021-06-09
+27,27,12:22 LA68,,Castro (MHC),LATAM Airlines A320 (CC-BAA),Landed 12:12,2021-06-09
+28,28,12:26 LA133,,Antofagasta (ANF),LATAM Airlines A321 (CC-BEO),Landed 12:16,2021-06-09
+29,29,12:32 LA173,,Iquique (IQQ),LATAM Airlines A321 (CC-BEB),Landed 12:21,2021-06-09
+30,30,13:07 LA125,,Antofagasta (ANF),LATAM Airlines A321 (CC-BEM),Landed 13:00,2021-06-09
+31,31,13:16 LA381,,Arica (ARI),LATAM Airlines A320 (CC-BAZ),Unknown,2021-06-09
+32,32,13:17 LA119,,Copiapo (CPO),LATAM Airlines A320 (CC-BLE),Landed 13:14,2021-06-09
+33,33,13:17 LA303,,La Serena (LSC),LATAM Airlines A321 (CC-BER),Landed 13:06,2021-06-09
+34,34,13:22 JA295,,Iquique (IQQ),JetSMART (Martin Pescador Livery) A320 (CC-AWB),Landed 13:43,2021-06-09
+35,35,13:32 LA78,,Balmaceda (BBA),LATAM Airlines A320 (CC-CQM),Landed 13:22,2021-06-09
+36,36,13:37 LA155,,Calama (CJC),LATAM Airlines A320 (CC-BAJ),Landed 13:31,2021-06-09
+37,37,13:46 LA6,,Concepcion (CCP),LATAM Airlines A320 (CC-BAL),Landed 13:39,2021-06-09
+38,38,13:55 LA224,,Lima (LIM),LATAM Airlines 788,Unknown,2021-06-09
+39,39,14:05 LA9587,,Miami (MIA),LATAM Airlines B788 (CC-BBC),Landed 13:46,2021-06-09
+40,40,14:30 LA225,,Antofagasta (ANF),LATAM Airlines 788,Unknown,2021-06-09
+41,41,14:50 JA1213,,Antofagasta (ANF),JetSMART (Halcon Peregrino Austral Livery) A320 (CC-AWA),Landed 14:33,2021-06-09
+42,42,15:19 LA169,,Iquique (IQQ),LATAM Airlines A320 (PR-TYQ),Landed 15:15,2021-06-09
+43,43,15:29 LA212,,Concepcion (CCP),LATAM Airlines A320 (PR-TYK),Landed 15:18,2021-06-09
+44,44,15:36 LA307,,La Serena (LSC),LATAM Airlines A320 (CC-BAK),Landed 15:31,2021-06-09
+45,45,15:51 LA353,,Calama (CJC),LATAM Airlines A320 (CC-COO),Unknown,2021-06-09
+46,46,16:13 LA1273,,Iquique (IQQ),LATAM Airlines A321 (CC-BEC),Landed 16:01,2021-06-09
+47,47,16:14 LA337,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAU),Landed 15:55,2021-06-09
+48,48,16:45 H2102,,Osorno (ZOS),SKY Airline A20N (CC-AZE),Landed 16:56,2021-06-09
+49,49,16:53 LA236,,Temuco (ZCO),LATAM Airlines A320 (CC-BAA),Landed 16:42,2021-06-09
+50,50,16:53 LA1160,,Punta Arenas (PUQ),LATAM Airlines B788 (CC-BBF),Landed 16:47,2021-06-09
+51,51,16:59 LA266,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAG),Landed 16:45,2021-06-09
+52,52,17:14 LA167,,Iquique (IQQ),LATAM Airlines A321 (CC-BEQ),Landed 17:03,2021-06-09
+53,53,17:34 H2402,,Puerto Montt (PMC),Sky Airline 320,Canceled,2021-06-09
+54,54,17:34 LA1259,,Calama (CJC),LATAM Airlines A320 (CC-CQO),Landed 17:32,2021-06-09
+55,55,17:51 JA356,,Temuco (ZCO),JetSMART (Colibri de Arica Livery) A20N (CC-AWJ),Landed 17:37,2021-06-09
+56,56,18:05 LA12,,Concepcion (CCP),LATAM Airlines A320 (CC-CQM),Landed 17:52,2021-06-09
+57,57,18:13 LA753,,Sao Paulo (GRU),LATAM Airlines A320 (PR-TYV),Unknown,2021-06-09
+58,58,18:20 AR1282,,Buenos Aires (EZE),Aerolineas Argentinas B738 (LV-GVC),Landed 18:02,2021-06-09
+59,59,18:23 LA1265,,Iquique (IQQ),LATAM Airlines A321 (CC-BED),Landed 18:13,2021-06-09
+60,60,19:04 LA347,,Calama (CJC),LATAM Airlines A320 (CC-BAZ),Landed 18:49,2021-06-09
+61,61,19:15 JA1421,,Antofagasta (ANF),JetSMART (Carpintero Negro Livery) A20N (CC-AWN),Landed 18:55,2021-06-09
+62,62,19:20,AM10,Mexico City (MEX),Aeromexico B789 (N128AM),Landed 19:06,2021-06-09
+63,63,19:20 H2434,,Puerto Montt (PMC),SKY Airline A20N (CC-AZO),Landed 19:02,2021-06-09
+64,64,19:28 LA175,,Iquique (IQQ),LATAM Airlines A321 (CC-BEB),Landed 19:17,2021-06-09
+65,65,19:30 KL703,,Amsterdam (AMS),KLM B772 (PH-BQC),Landed 19:08,2021-06-09
+66,66,19:36 LA86,,Puerto Montt (PMC),LATAM Airlines A321 (CC-BEP),Landed 19:26,2021-06-09
+67,67,19:38 JA142,,Valdivia (ZAL),JetSMART (Tortuga Verde Livery) A20N (CC-AWO),Landed 19:20,2021-06-09
+68,68,19:50 5Y34,,Buenos Aires (EZE),Atlas Air 74F,Unknown,2021-06-09
+69,69,20:01 H2463,,La Serena (LSC),Sky Airline A20N (CC-AZQ),Unknown,2021-06-09
+70,70,20:02 LA1267,,Iquique (IQQ),LATAM Airlines A321 (CC-BEO),Landed 19:50,2021-06-09
+71,71,20:06,LA117,Copiapo (CPO),LATAM Airlines A320 (CC-BLE),Landed 20:01,2021-06-09
+72,72,20:38 LA165,,Iquique (IQQ),LATAM Airlines A321 (CC-BER),Landed 20:34,2021-06-09
+73,73,20:40 LA351,,Calama (CJC),LATAM Airlines A320 (CC-BAJ),Landed 20:26,2021-06-09
+74,74,20:46,LA309,La Serena (LSC),LATAM Airlines A321 (CC-BEQ),Unknown,2021-06-09
+75,75,20:53,LA232,Temuco (ZCO),LATAM Airlines A320 (CC-BAU),Landed 20:31,2021-06-09
+76,76,20:58,LA58,Puerto Montt (PMC),LATAM Airlines A320 (CC-COO),Landed 20:39,2021-06-09
+77,77,21:01 JA1333,,Calama (CJC),JetSMART (Gaviota Austral Livery) A320 (CC-AWE),Landed 21:00,2021-06-09
+78,78,21:04 H2451,,La Serena (LSC),SKY Airline A20N (CC-AZH),Unknown,2021-06-09
+79,79,21:05 LA202,,Concepcion (CCP),LATAM Airlines A321 (CC-BEM),Landed 20:44,2021-06-09
+80,80,21:15 H2327,,Iquique (IQQ),Sky Airline 320,Canceled,2021-06-09
+81,81,21:34 LA329,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAK),Landed 21:27,2021-06-09
+82,82,21:37 H2251,,Calama (CJC),Sky Airline 320,Unknown,2021-06-09
+83,83,21:47,LA210,Concepcion (CCP),LATAM Airlines A320 (CC-BAL),Landed 21:22,2021-06-09
+84,84,21:48 H2150,,Temuco (ZCO),Sky Airline 320,Unknown,2021-06-09
+85,85,22:32,LA383,Arica (ARI),LATAM Airlines A320 (PR-TYK),Landed 22:28,2021-06-09
+86,86,22:45 JA9018,,Concepcion (CCP),JetSMART (Flamenco de James Livery) A20N (CC-AWK),Landed 23:12,2021-06-09
+87,87,22:48,LA135,Antofagasta (ANF),LATAM Airlines A320 (CC-BAG),Landed 22:35,2021-06-09
+88,88,22:48,LA151,Calama (CJC),LATAM Airlines A321 (CC-BEC),Landed 22:45,2021-06-09
+89,89,22:59,LA177,Iquique (IQQ),LATAM Airlines A320 (CC-BAA),Landed 22:42,2021-06-09
+90,90,23:00 LA1283,,Miami (MIA),LATAM Airlines B763 (CC-CXK),Landed 02:02,2021-06-09
+91,91,23:06 JA33,,Antofagasta (ANF),JetSMART (Puma Concolor Livery) A320 (CC-AWF),Landed 23:08,2021-06-09
+92,92,23:09 JA651,,Cali (CLO),JetSMART 320,Unknown,2021-06-09
+93,93,23:17 JA11,,Calama (CJC),JetSMART (Condor Andino Livery) A320 (CC-AWD),Landed 01:55,2021-06-09
+94,94,23:19,CM111,Panama City (PTY),Copa Airlines B738 (HP-1729CMP),Landed 22:55,2021-06-09
+95,95,23:23 JA51,,La Serena (LSC),JetSMART 320,Unknown,2021-06-09
+0,0,02:31 M38492,,Buenos Aires (EZE),LATAM Cargo Brasil 76V,Unknown,2021-06-10
+1,1,02:40 LA1285,,Miami (MIA),LATAM Airlines B763 (CC-CXE),Landed 07:26,2021-06-10
+2,2,05:00 ET3739,,Sao Paulo (GRU),Ethiopian Cargo B77L (ET-ARJ),Landed 02:44,2021-06-10
+3,3,05:11 LA2481,,Lima (LIM),LATAM Airlines B789 (CC-BGB),Landed 05:03,2021-06-10
+4,4,05:55 LA581,,Bogota (BOG),LATAM Airlines B788 (CC-BBJ),Landed 05:53,2021-06-10
+5,5,06:00 LA2481,,Lima (LIM),LATAM Airlines B789 (CC-BGB),Unknown,2021-06-10
+6,6,06:20,UA847,Houston (IAH),United Airlines B789 (N29984),Landed 06:11,2021-06-10
+7,7,06:55 LA9575,,Miami (MIA),LATAM Airlines B789 (CC-BGJ),Landed 06:42,2021-06-10
+8,8,06:56 JA292,,Concepcion (CCP),JetSMART (Pato BancoEstado Livery) A20N (CC-AWP),Landed 06:48,2021-06-10
+9,9,06:59 AA957,,Miami (MIA),American Airlines B788 (N800AN),Landed 07:00,2021-06-10
+10,10,07:00,DL147,Atlanta (ATL),Delta Air Lines B763 (N181DN),Landed 07:04,2021-06-10
+11,11,07:35 AA945,,Dallas (DFW),American Airlines B789 (N832AA),Landed 08:17,2021-06-10
+12,12,07:50,IB6833,Madrid (MAD),Iberia A332 (EC-MIL),Unknown,2021-06-10
+13,13,09:44 H2271,,Antofagasta (ANF),Sky Airline 320,Canceled,2021-06-10
+14,14,10:14 LA137,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAL),Landed 10:14,2021-06-10
+15,15,10:16 LA10,,Concepcion (CCP),LATAM Airlines A320 (CC-BAU),Landed 10:06,2021-06-10
+16,16,10:23 H21331,,Iquique (IQQ),SKY Airline A20N (CC-AZO),Landed 10:18,2021-06-10
+17,17,10:30 LA361,,Iquique (IQQ),LATAM Airlines A320 (CC-BAA),Landed 10:30,2021-06-10
+18,18,11:12 LA163,,Iquique (IQQ),LATAM Airlines A320 (CC-CQO),Landed 11:10,2021-06-10
+19,19,11:52 LA230,,Temuco (ZCO),LATAM Airlines A320 (PR-TYV),Landed 11:41,2021-06-10
+20,20,11:53 H2301,,Arica (ARI),Sky Airline 320,Canceled,2021-06-10
+21,21,11:54 LA2,,Concepcion (CCP),LATAM Airlines A320 (CC-BAK),Landed 11:52,2021-06-10
+22,22,11:58 LA145,,Calama (CJC),LATAM Airlines A320 (CC-COO),Unknown,2021-06-10
+23,23,12:10 LA115,,Copiapo (CPO),LATAM Airlines A320 (CC-BAB),Landed 12:15,2021-06-10
+24,24,12:29 LA173,,Iquique (IQQ),LATAM Airlines A321 (CC-BEB),Canceled,2021-06-10
+25,25,12:33 LA133,,Antofagasta (ANF),LATAM Airlines A321 (CC-BED),Landed 12:23,2021-06-10
+26,26,12:40 UC1507,,Buenos Aires (EZE),LATAM Cargo Chile B77F,Unknown,2021-06-10
+27,27,12:45 LA303,,La Serena (LSC),LATAM Airlines A320 (CC-BAJ),Landed 12:59,2021-06-10
+28,28,12:50 JA293,,Iquique (IQQ),JetSMART (Pato BancoEstado Livery) A20N (CC-AWP),Landed 12:45,2021-06-10
+29,29,13:04 LA381,,Arica (ARI),LATAM Airlines A320 (CC-BAZ),Landed 12:50,2021-06-10
+30,30,13:55 LA155,,Calama (CJC),LATAM Airlines A321 (CC-BEO),Landed 13:43,2021-06-10
+31,31,13:55 LA224,,Lima (LIM),LATAM Airlines 788,Unknown,2021-06-10
+32,32,13:56 LA119,,Copiapo (CPO),LATAM Airlines A320 (CC-BLE),Landed 13:53,2021-06-10
+33,33,14:03 LA6,,Concepcion (CCP),LATAM Airlines A320 (CC-BAV),Landed 13:59,2021-06-10
+34,34,14:09 LA62,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAH),Landed 13:53,2021-06-10
+35,35,14:11 H2148,,Temuco (ZCO),SKY Airline A20N (CC-AZM),Landed 13:57,2021-06-10
+36,36,14:21 LA169,,Iquique (IQQ),LATAM Airlines A320 (CC-BAG),Landed 14:24,2021-06-10
+37,37,14:30 LA225,,Antofagasta (ANF),LATAM Airlines 788,Unknown,2021-06-10
+38,38,15:00 LA147,,Calama (CJC),LATAM Airlines A321 (CC-BER),Landed 14:57,2021-06-10
+39,39,15:26 LA307,,La Serena (LSC),LATAM Airlines A320 (CC-BAK),Landed 15:16,2021-06-10
+40,40,15:39 H2102,,Osorno (ZOS),SKY Airline A20N (CC-AZO),Landed 15:38,2021-06-10
+41,41,15:39 LA272,,Puerto Montt (PMC),LATAM Airlines A321 (CC-BEC),Landed 15:12,2021-06-10
+42,42,15:49 JA15,,Calama (CJC),JetSMART (Tortuga Verde Livery) A20N (CC-AWO),Landed 15:46,2021-06-10
+43,43,16:06 JA230,,Concepcion (CCP),JetSMART (Martin Pescador Livery) A320 (CC-AWB),Landed 16:02,2021-06-10
+44,44,16:14 LA337,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAL),Landed 16:14,2021-06-10
+45,45,16:15 LA1951,,Miami (MIA),LATAM Airlines B788 (CC-BBG),Landed 16:08,2021-06-10
+46,46,16:17 H2471,,La Serena (LSC),Sky Airline A20N (CC-AZP),Landed 16:21,2021-06-10
+47,47,16:23 LA353,,Calama (CJC),LATAM Airlines A320 (PR-TYK),Landed 16:18,2021-06-10
+48,48,16:32 LA34,,Temuco (ZCO),LATAM Airlines A320 (CC-BAT),Landed 16:20,2021-06-10
+49,49,16:33 LA161,,Iquique (IQQ),LATAM Airlines A320 (CC-BAU),Landed 16:37,2021-06-10
+50,50,16:57 LA240,,Valdivia (ZAL),LATAM Airlines A320 (CC-BAB),Landed 16:46,2021-06-10
+51,51,16:59 LA266,,Puerto Montt (PMC),LATAM Airlines A320 (PR-TYV),Landed 16:28,2021-06-10
+52,52,17:00 LA1160,,Punta Arenas (PUQ),LATAM Airlines B788 (CC-BBJ),Landed 16:52,2021-06-10
+53,53,17:10 LA14,,Concepcion (CCP),LATAM Airlines A321 (CC-BEL),Landed 17:00,2021-06-10
+54,54,17:23 LA323,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAA),Landed 17:07,2021-06-10
+55,55,17:31 H2122,,Valdivia (ZAL),SKY Airline A20N (CC-AZH),Landed 17:47,2021-06-10
+56,56,17:32 JA286,,Temuco (ZCO),JetSMART (Colibri de Arica Livery) A20N (CC-AWJ),Landed 17:35,2021-06-10
+57,57,18:01 LA1269,,Calama (CJC),LATAM Airlines A320 (PR-TYQ),Landed 17:58,2021-06-10
+58,58,18:10 LA1261,,Calama (CJC),LATAM Airlines A320 (PR-TYV),Canceled,2021-06-10
+59,59,18:18 JA33,,Antofagasta (ANF),JetSMART 320,Unknown,2021-06-10
+60,60,18:19 LA1265,,Iquique (IQQ),LATAM Airlines A321 (CC-BEM),Landed 21:15,2021-06-10
+61,61,18:32 H2402,,Puerto Montt (PMC),Sky Airline A20N (CC-AZN),Landed 18:09,2021-06-10
+62,62,18:51 H2434,,Puerto Montt (PMC),SKY Airline A20N (CC-AZE),Landed 18:33,2021-06-10
+63,63,18:53 LA363,,Iquique (IQQ),LATAM Airlines A320 (CC-CQO),Landed 18:37,2021-06-10
+64,64,19:23 LA12,,Concepcion (CCP),LATAM Airlines A321 (CC-BER),Landed 19:11,2021-06-10
+65,65,19:25 LA78,,Balmaceda (BBA),LATAM Airlines A320 (CC-COO),Landed 18:59,2021-06-10
+66,66,19:30 LA125,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAH),Landed 19:29,2021-06-10
+67,67,19:31 LA1267,,Iquique (IQQ),LATAM Airlines A321 (CC-BED),Landed 19:20,2021-06-10
+68,68,19:39 H2321,,Iquique (IQQ),Sky Airline 320,Canceled,2021-06-10
+69,69,19:39 LA84,,Puerto Montt (PMC),LATAM Airlines A321 (CC-BEQ),Landed 19:29,2021-06-10
+70,70,19:46 LA347,,Calama (CJC),LATAM Airlines A320 (CC-BAJ),Landed 19:35,2021-06-10
+71,71,19:58 H2225,,Copiapo (CPO),Sky Airline A20N (CC-AZP),Landed 21:41,2021-06-10
+72,72,20:18 H2451,,La Serena (LSC),SKY Airline A20N (CC-AZS),Landed 20:03,2021-06-10
+73,73,20:25 LA1280,,Mataveri (IPC),LATAM Airlines B789 (CC-BGI),Unknown,2021-06-10
+74,74,20:33 LA1263,,Copiapo (CPO),LATAM Airlines A320 (CC-BAZ),Landed 22:34,2021-06-10
+75,75,20:40 LA351,,Calama (CJC),LATAM Airlines A320 (CC-BAV),Landed 20:58,2021-06-10
+76,76,20:46,LA309,La Serena (LSC),LATAM Airlines A320 (CC-BAB),Landed 20:49,2021-06-10
+77,77,20:50 JA1211,,Antofagasta (ANF),JetSMART (Flamenco de James Livery) A20N (CC-AWK),Landed 20:46,2021-06-10
+78,78,20:52 LA165,,Iquique (IQQ),LATAM Airlines A320 (CC-BLE),Landed 20:55,2021-06-10
+79,79,20:53,LA232,Temuco (ZCO),LATAM Airlines A320 (CC-BAU),Landed 20:40,2021-06-10
+80,80,21:05 JA89,,Copiapo (CPO),JetSMART 320,Unknown,2021-06-10
+81,81,21:34 LA329,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAL),Landed 21:32,2021-06-10
+82,82,21:44 H21162,,Concepcion (CCP),SKY Airline A20N (CC-AZF),Landed 21:38,2021-06-10
+83,83,21:59 LA157,,Calama (CJC),LATAM Airlines A321 (CC-BEP),Unknown,2021-06-10
+84,84,21:59 LA385,,Arica (ARI),LATAM Airlines A320 (CC-BAK),Landed 22:02,2021-06-10
+85,85,22:10 KE274,,Campinas (VCP),Korean Air Cargo B77L (HL8077),Landed 23:19,2021-06-10
+86,86,22:12,LA117,Copiapo (CPO),LATAM Airlines A320 (PR-TYK),Landed 22:05,2021-06-10
+87,87,22:13 JA231,,Calama (CJC),JetSMART (Carpintero Negro Livery) A20N (CC-AWN),Landed 22:19,2021-06-10
+88,88,22:14,LA58,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAA),Landed 22:26,2021-06-10
+89,89,22:19 LA4,,Concepcion (CCP),LATAM Airlines A320 (CC-BAG),Landed 22:16,2021-06-10
+90,90,22:30 LA1283,,Miami (MIA),LATAM Airlines B763 (CC-CXK),Landed 02:18,2021-06-10
+91,91,22:38,LA135,Antofagasta (ANF),LATAM Airlines A321 (CC-BEO),Landed 22:53,2021-06-10
+92,92,22:58,LA151,Calama (CJC),LATAM Airlines A321 (CC-BEB),Landed 23:04,2021-06-10
+93,93,22:59 LA179,,Iquique (IQQ),LATAM Airlines A320 (CC-BAT),Landed 22:58,2021-06-10
+94,94,23:00 LA218,,Concepcion (CCP),LATAM Airlines A320 (CC-CQO),Landed 22:41,2021-06-10
+95,95,23:15 JA401,,Lima (LIM),JetSMART 320,Unknown,2021-06-10
+96,96,23:15 H2253,,Calama (CJC),Sky Airline 320,Canceled,2021-06-10
+97,97,23:19,CM111,Panama City (PTY),Copa Airlines B39M (HP-9901CMP),Landed 23:01,2021-06-10
+0,0,00:05 5Y46,,Campinas (VCP),Atlas Air B744 (N476MC),Landed 01:15,2021-06-11
+1,1,00:55 QR8147,,Campinas (VCP),Qatar Cargo B77L (A7-BFR),Landed 01:13,2021-06-11
+2,2,01:10 LA1290,,Antofagasta (ANF),LATAM Airlines B763,Canceled,2021-06-11
+3,3,02:20 ET3651,,Sao Paulo (GRU),Ethiopian Cargo B77L (ET-AWE),Landed 02:14,2021-06-11
+4,4,02:31 M38494,,Buenos Aires (EZE),LATAM Cargo Brasil 76V,Unknown,2021-06-11
+5,5,05:25 AV97,,Bogota (BOG),Avianca (Star Alliance Livery) A332 (N279AV),Landed 05:48,2021-06-11
+6,6,05:55 LA581,,Bogota (BOG),LATAM Airlines B788 (CC-BBB),Landed 05:43,2021-06-11
+7,7,06:00 LA2481,,Lima (LIM),LATAM Airlines B789 (CC-BGL),Landed 05:36,2021-06-11
+8,8,06:50 LA509,,Miami (MIA),LATAM Airlines B789 (CC-BGN),Landed 06:33,2021-06-11
+9,9,06:59 AA957,,Miami (MIA),American Airlines B788 (N818AL),Landed 06:54,2021-06-11
+10,10,07:25,IB6833,Madrid (MAD),Iberia A359 (EC-NBE),Landed 06:45,2021-06-11
+11,11,07:35 AA945,,Dallas (DFW),American Airlines B789 (N822AN),Landed 07:20,2021-06-11
+12,12,07:38 JA260,,Concepcion (CCP),JetSMART 320,Unknown,2021-06-11
+13,13,08:10,AF406,Paris (CDG),Air France B77W (F-GSQD),Landed 07:41,2021-06-11
+14,14,09:47,LA10,Concepcion (CCP),LATAM Airlines A320 (CC-BAK),Landed 09:29,2021-06-11
+15,15,10:21,LA361,Iquique (IQQ),LATAM Airlines A320 (CC-BAB),Landed 10:16,2021-06-11
+16,16,10:23 H21331,,Iquique (IQQ),SKY Airline A20N (CC-AZO),Landed 10:24,2021-06-11
+17,17,10:46 LA60,,Puerto Montt (PMC),LATAM Airlines A320 (CC-CQM),Landed 10:35,2021-06-11
+18,18,10:48 H2271,,Antofagasta (ANF),Sky Airline A20N (CC-AZQ),Landed 10:39,2021-06-11
+19,19,11:01 LA145,,Calama (CJC),LATAM Airlines A320 (CC-CQO),Landed 10:55,2021-06-11
+20,20,11:15 LA1979,,Miami (MIA),LATAM Airlines B789 (CC-BGM),Landed 10:32,2021-06-11
+21,21,11:25 LA163,,Iquique (IQQ),LATAM Airlines A320 (PR-TYQ),Landed 11:20,2021-06-11
+22,22,11:30 H2473,,La Serena (LSC),Sky Airline A20N (CC-AZP),Landed 12:25,2021-06-11
+23,23,11:38 LA129,,Antofagasta (ANF),LATAM Airlines A321 (CC-BEP),Unknown,2021-06-11
+24,24,11:45 MP7342,,Campinas (VCP),KLM Cargo B744 (PH-CKA),Landed 11:23,2021-06-11
+25,25,11:46 LA115,,Copiapo (CPO),LATAM Airlines A320 (CC-BAH),Landed 12:45,2021-06-11
+26,26,11:52 LA230,,Temuco (ZCO),LATAM Airlines A320 (CC-BAG),Landed 11:37,2021-06-11
+27,27,12:21 LA68,,Castro (MHC),LATAM Airlines A320 (CC-BAA),Landed 12:09,2021-06-11
+28,28,12:29 LA893,,La Paz (LPB),LATAM Airlines 320,Unknown,2021-06-11
+29,29,12:31 LA133,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAV),Landed 12:21,2021-06-11
+30,30,12:35 LA250,,Osorno (ZOS),LATAM Airlines A320 (CC-BAL),Landed 12:17,2021-06-11
+31,31,13:15 H2221,,Copiapo (CPO),SKY Airline A20N (CC-AZE),Landed 13:16,2021-06-11
+32,32,13:16 LA381,,Arica (ARI),LATAM Airlines A321 (CC-BEL),Unknown,2021-06-11
+33,33,13:17 LA303,,La Serena (LSC),LATAM Airlines A320 (CC-BAJ),Landed 13:31,2021-06-11
+34,34,13:20 LA125,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAT),Landed 13:18,2021-06-11
+35,35,13:35 LA78,,Balmaceda (BBA),LATAM Airlines A320 (CC-BAZ),Landed 13:26,2021-06-11
+36,36,13:52 LA6,,Concepcion (CCP),LATAM Airlines A320 (PR-TYK),Landed 13:45,2021-06-11
+37,37,13:55 LA224,,Lima (LIM),LATAM Airlines 788,Unknown,2021-06-11
+38,38,14:03 LA119,,Copiapo (CPO),LATAM Airlines A320 (CC-BAU),Landed 13:53,2021-06-11
+39,39,14:07 LA155,,Calama (CJC),LATAM Airlines A320 (CC-COO),Unknown,2021-06-11
+40,40,14:09 JA261,,Arica (ARI),JetSMART 320,Unknown,2021-06-11
+41,41,14:30 LA225,,Antofagasta (ANF),LATAM Airlines 788,Unknown,2021-06-11
+42,42,14:38 LA169,,Iquique (IQQ),LATAM Airlines A321 (CC-BEQ),Landed 14:27,2021-06-11
+43,43,14:48 LA64,,Puerto Montt (PMC),LATAM Airlines A320 (PR-TYV),Landed 14:42,2021-06-11
+44,44,15:19 LA353,,Calama (CJC),LATAM Airlines A320 (CC-BAK),Landed 15:07,2021-06-11
+45,45,15:26 LA307,,La Serena (LSC),LATAM Airlines A320 (CC-BAG),Landed 15:31,2021-06-11
+46,46,16:07 LA210,,Concepcion (CCP),LATAM Airlines A320 (CC-CQM),Landed 15:50,2021-06-11
+47,47,16:14 LA337,,Antofagasta (ANF),LATAM Airlines A321 (CC-BED),Landed 16:08,2021-06-11
+48,48,16:20 H2122,,Valdivia (ZAL),SKY Airline A20N (CC-AZM),Landed 15:59,2021-06-11
+49,49,16:21 JA15,,Calama (CJC),JetSMART (Colibri de Arica Livery) A20N (CC-AWJ),Landed 16:12,2021-06-11
+50,50,16:35 JA35,,La Serena (LSC),JetSMART (Puma Concolor Livery) A320 (CC-AWF),Landed 16:26,2021-06-11
+51,51,16:45 H2102,,Osorno (ZOS),SKY Airline A20N (CC-AZO),Landed 16:31,2021-06-11
+52,52,16:45 H2164,,Concepcion (CCP),SKY Airline A20N (CC-AZE),Landed 17:02,2021-06-11
+53,53,16:47 LA266,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAB),Landed 16:27,2021-06-11
+54,54,16:53 LA236,,Temuco (ZCO),LATAM Airlines A320 (CC-BAL),Landed 16:52,2021-06-11
+55,55,16:56 LA143,,Calama (CJC),LATAM Airlines A320 (CC-CQO),Landed 16:52,2021-06-11
+56,56,17:16 LA1160,,Punta Arenas (PUQ),LATAM Airlines B789 (CC-BGL),Landed 17:07,2021-06-11
+57,57,17:21 LA240,,Valdivia (ZAL),LATAM Airlines A320 (CC-BAA),Landed 17:14,2021-06-11
+58,58,17:44 JA332,,Puerto Montt (PMC),JetSMART (Flamenco de James Livery) A20N (CC-AWK),Landed 18:14,2021-06-11
+59,59,17:45 LA34,,Temuco (ZCO),LATAM Airlines A320 (CC-BAT),Landed 17:37,2021-06-11
+60,60,17:53 H2451,,La Serena (LSC),Sky Airline A20N (CC-AZQ),Landed 17:45,2021-06-11
+61,61,18:08 LA260,,Puerto Montt (PMC),LATAM Airlines A320 (PR-TYQ),Landed 17:58,2021-06-11
+62,62,18:47 H2402,,Puerto Montt (PMC),SKY Airline A20N (CC-AZS),Landed 18:25,2021-06-11
+63,63,18:51 JA330,,Temuco (ZCO),JetSMART (Tortuga Verde Livery) A20N (CC-AWO),Landed 18:32,2021-06-11
+64,64,18:57 LA206,,Concepcion (CCP),LATAM Airlines A320 (CC-COO),Landed 19:33,2021-06-11
+65,65,19:17 LA62,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAU),Landed 19:12,2021-06-11
+66,66,19:25 LA1265,,Iquique (IQQ),LATAM Airlines A321 (CC-BEO),Landed 19:11,2021-06-11
+67,67,19:26 LA327,,Antofagasta (ANF),LATAM Airlines A320 (PR-TYK),Landed 19:19,2021-06-11
+68,68,19:46 LA347,,Calama (CJC),LATAM Airlines A321 (CC-BEM),Landed 19:24,2021-06-11
+69,69,19:54 LA84,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BLE),Landed 19:42,2021-06-11
+70,70,19:56,LA117,Copiapo (CPO),LATAM Airlines A320 (CC-BAK),Landed 19:49,2021-06-11
+71,71,19:58 LA323,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAH),Landed 19:45,2021-06-11
+72,72,20:01 H2461,,La Serena (LSC),SKY Airline A20N (CC-AZF),Landed 19:55,2021-06-11
+73,73,20:02 LA175,,Iquique (IQQ),LATAM Airlines A320 (CC-BAZ),Landed 19:53,2021-06-11
+74,74,20:15 JA87,,Copiapo (CPO),JetSMART (Martin Pescador Livery) A320 (CC-AWB),Landed 20:20,2021-06-11
+75,75,20:29 H2434,,Puerto Montt (PMC),Sky Airline A20N (CC-AZN),Landed 20:25,2021-06-11
+76,76,20:35 LA1267,,Iquique (IQQ),LATAM Airlines A321 (CC-BEB),Landed 20:24,2021-06-11
+77,77,20:46 JA29,,Antofagasta (ANF),JetSMART (Loica Livery) A320 (CC-AWC),Landed 20:40,2021-06-11
+78,78,20:46,LA309,La Serena (LSC),LATAM Airlines A320 (CC-BAA),Landed 20:47,2021-06-11
+79,79,20:50 LA351,,Calama (CJC),LATAM Airlines A321 (CC-BEQ),Landed 20:28,2021-06-11
+80,80,20:53,LA232,Temuco (ZCO),LATAM Airlines A320 (CC-BAB),Landed 20:43,2021-06-11
+81,81,20:56 LA1102,,Buenos Aires (EZE),LATAM Airlines A321 (CC-BEP),Unknown,2021-06-11
+82,82,21:15 JA19,,La Serena (LSC),JetSMART (Condor Andino Livery) A320 (CC-AWD),Landed 21:19,2021-06-11
+83,83,21:17 LA1269,,Iquique (IQQ),LATAM Airlines A321 (CC-BEL),Landed 21:05,2021-06-11
+84,84,21:28 LA407,,Montevideo (MVD),LATAM Airlines A320 (CC-BAJ),Landed 21:09,2021-06-11
+85,85,21:33 LA165,,Iquique (IQQ),LATAM Airlines A320 (PR-TYV),Landed 21:29,2021-06-11
+86,86,21:34 LA329,,Antofagasta (ANF),LATAM Airlines A320 (CC-CQM),Landed 21:13,2021-06-11
+87,87,21:51 H2150,,Temuco (ZCO),Sky Airline A20N (CC-AZQ),Landed 21:41,2021-06-11
+88,88,22:00,LA383,Arica (ARI),LATAM Airlines A320 (CC-BAG),Landed 22:08,2021-06-11
+89,89,22:15,LA58,Puerto Montt (PMC),LATAM Airlines A320 (CC-CQO),Landed 21:49,2021-06-11
+90,90,22:15 LA1283,,Miami (MIA),LATAM Airlines B763 (CC-CXE),Canceled,2021-06-11
+91,91,22:37,LA365,Iquique (IQQ),LATAM Airlines A321 (CC-BER),Landed 22:24,2021-06-11
+92,92,22:41,LA151,Calama (CJC),LATAM Airlines A320 (CC-BAL),Landed 22:37,2021-06-11
+93,93,22:48,LA135,Antofagasta (ANF),LATAM Airlines A321 (CC-BED),Landed 22:27,2021-06-11
+94,94,22:55 LA202,,Concepcion (CCP),LATAM Airlines A320 (PR-TYQ),Landed 22:32,2021-06-11
+95,95,23:03 H2307,,Arica (ARI),SKY Airline A20N (CC-AZM),Landed 23:05,2021-06-11
+96,96,23:19,CM111,Panama City (PTY),Copa Airlines B738 (HP-1844CMP),Landed 23:16,2021-06-11
+97,97,23:23 H2329,,Iquique (IQQ),Sky Airline 320,Canceled,2021-06-11
+98,98,23:52,LA349,Calama (CJC),LATAM Airlines A320 (CC-BAT),Landed 23:41,2021-06-11
+0,0,01:15 K4539,,Miami (MIA),Kalitta Air B744 (N702CK),Landed 01:11,2021-06-12
+1,1,02:31 M38496,,Buenos Aires (EZE),LATAM Cargo Brasil 76V,Unknown,2021-06-12
+2,2,05:13 LA2481,,Lima (LIM),LATAM Airlines B789 (CC-BGB),Landed 05:03,2021-06-12
+3,3,06:00 LA2481,,Lima (LIM),LATAM Airlines B789 (CC-BGB),Unknown,2021-06-12
+4,4,06:20,UA847,Houston (IAH),United Airlines B789 (N24974),Landed 05:54,2021-06-12
+5,5,06:59 AA957,,Miami (MIA),American Airlines B788 (N803AL),Landed 07:00,2021-06-12
+6,6,07:00,DL147,Atlanta (ATL),Delta Air Lines B763 (N177DZ),Landed 06:57,2021-06-12
+7,7,07:25,IB6833,Madrid (MAD),Iberia A359 (EC-NIS),Landed 06:39,2021-06-12
+8,8,07:35 AA945,,Dallas (DFW),American Airlines B788 (N801AC),Landed 07:13,2021-06-12
+9,9,09:55 MP7551,,Campinas (VCP),Martinair Holland B744,Unknown,2021-06-12
+10,10,10:12,LA10,Concepcion (CCP),LATAM Airlines A320 (CC-BAG),Landed 09:58,2021-06-12
+11,11,10:45 UC1107,,Miami (MIA),LATAM Cargo B763 (N532LA),Landed 10:19,2021-06-12
+12,12,11:12 LA129,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAB),Landed 11:07,2021-06-12
+13,13,11:20 MP7552,,Campinas (VCP),Martinair Holland 74Y,Unknown,2021-06-12
+14,14,11:39 LA115,,Copiapo (CPO),LATAM Airlines A320 (CC-BAU),Landed 11:29,2021-06-12
+15,15,12:11 LA381,,Arica (ARI),LATAM Airlines A321 (CC-BEB),Landed 12:11,2021-06-12
+16,16,12:16 LA230,,Temuco (ZCO),LATAM Airlines A320 (CC-COO),Unknown,2021-06-12
+17,17,12:29 LA173,,Iquique (IQQ),LATAM Airlines A320 (PR-TYV),Landed 12:21,2021-06-12
+18,18,12:56 H2271,,Antofagasta (ANF),Sky Airline 320,Canceled,2021-06-12
+19,19,13:24 LA133,,Antofagasta (ANF),LATAM Airlines A320 (PR-TYQ),Landed 13:14,2021-06-12
+20,20,13:27 LA303,,La Serena (LSC),LATAM Airlines A320 (CC-BAH),Unknown,2021-06-12
+21,21,13:44 LA155,,Calama (CJC),LATAM Airlines A320 (CC-BAA),Landed 13:35,2021-06-12
+22,22,13:55 LA224,,Lima (LIM),LATAM Airlines 788,Unknown,2021-06-12
+23,23,13:58 LA64,,Puerto Montt (PMC),LATAM Airlines A320 (CC-CQO),Landed 13:55,2021-06-12
+24,24,14:18 H2321,,Iquique (IQQ),SKY Airline A20N (CC-AZS),Landed 14:31,2021-06-12
+25,25,14:30 LA225,,Antofagasta (ANF),LATAM Airlines 788,Unknown,2021-06-12
+26,26,15:03 LA6,,Concepcion (CCP),LATAM Airlines A320 (CC-CQM),Landed 14:58,2021-06-12
+27,27,15:13 LA272,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAL),Landed 14:53,2021-06-12
+28,28,15:30 LA1283,,Miami (MIA),LATAM Airlines B763 (CC-CXK),Landed 15:14,2021-06-12
+29,29,16:17 H2201,,La Serena (LSC),Sky Airline 320,Canceled,2021-06-12
+30,30,16:20 LA157,,Calama (CJC),LATAM Airlines A320 (CC-BAT),Landed 16:10,2021-06-12
+31,31,16:26 LA167,,Iquique (IQQ),LATAM Airlines A320 (PR-TYK),Landed 16:16,2021-06-12
+32,32,16:56 LA337,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAB),Landed 16:38,2021-06-12
+33,33,16:59 LA266,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAU),Landed 16:38,2021-06-12
+34,34,17:07 LA1160,,Punta Arenas (PUQ),LATAM Airlines B788 (CC-BBE),Landed 16:57,2021-06-12
+35,35,17:29 H2402,,Puerto Montt (PMC),Sky Airline A20N (CC-AZN),Landed 17:16,2021-06-12
+36,36,17:36 LA36,,Temuco (ZCO),LATAM Airlines A320 (CC-BAH),Landed 17:32,2021-06-12
+37,37,17:44 LA305,,La Serena (LSC),LATAM Airlines A320 (CC-BAT),Canceled,2021-06-12
+38,38,18:10 LA159,,Calama (CJC),LATAM Airlines A321 (CC-BEQ),Canceled,2021-06-12
+39,39,18:23,LA753,Sao Paulo (GRU),LATAM Airlines A320 (CC-BAV),Landed 18:13,2021-06-12
+40,40,18:35 H2122,,Valdivia (ZAL),SKY Airline A20N (CC-AZM),Landed 18:25,2021-06-12
+41,41,18:35 JA17,,La Serena (LSC),JetSMART (Gaviota Austral Livery) A320 (CC-AWE),Landed 18:23,2021-06-12
+42,42,18:44 LA12,,Concepcion (CCP),LATAM Airlines A320 (CC-BLE),Landed 18:35,2021-06-12
+43,43,18:53 H2434,,Puerto Montt (PMC),Sky Airline A20N (CC-AZQ),Landed 18:46,2021-06-12
+44,44,18:54 LA323,,Antofagasta (ANF),LATAM Airlines A320 (CC-COO),Unknown,2021-06-12
+45,45,19:20,AM10,Mexico City (MEX),Aeromexico B789 (N128AM),Landed 18:56,2021-06-12
+46,46,19:30 KL703,,Amsterdam (AMS),KLM B772 (PH-BQC),Landed 19:22,2021-06-12
+47,47,19:38 LA117,,Copiapo (CPO),LATAM Airlines A320 (CC-CQM),Landed 19:29,2021-06-12
+48,48,19:44 LA86,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAK),Landed 19:38,2021-06-12
+49,49,20:10 LA9595,,Miami (MIA),LATAM Airlines B789 (CC-BGN),Landed 20:11,2021-06-12
+50,50,20:15 LA1251,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAZ),Landed 20:05,2021-06-12
+51,51,20:20 5Y33,,Miami (MIA),Atlas Air B748 (N850GT),Landed 19:49,2021-06-12
+52,52,20:25 LA1280,,Mataveri (IPC),LATAM Airlines B789 (CC-BGM),Landed 20:01,2021-06-12
+53,53,20:46,LA309,La Serena (LSC),LATAM Airlines A320 (CC-BAT),Landed 20:24,2021-06-12
+54,54,20:50,LA351,Calama (CJC),LATAM Airlines A320 (CC-BAA),Landed 20:33,2021-06-12
+55,55,20:53,LA232,Temuco (ZCO),LATAM Airlines A320 (PR-TYK),Landed 20:27,2021-06-12
+56,56,21:01,LA165,Iquique (IQQ),LATAM Airlines A321 (CC-BEB),Landed 20:54,2021-06-12
+57,57,21:18,LA264,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAL),Landed 21:00,2021-06-12
+58,58,21:44,LA325,Antofagasta (ANF),LATAM Airlines A320 (PR-TYQ),Landed 21:22,2021-06-12
+59,59,22:00,LA383,Arica (ARI),LATAM Airlines A320 (CC-CQO),Landed 21:50,2021-06-12
+60,60,22:10 KE274,,Campinas (VCP),Korean Air Cargo B77L (HL8044),Landed 23:35,2021-06-12
+61,61,22:45 LA1285,,Miami (MIA),LATAM Airlines B763 (CC-CXE),Landed 22:11,2021-06-12
+62,62,23:19,CM111,Panama City (PTY),Copa Airlines B738 (HP-1821CMP),Landed 22:57,2021-06-12
+0,0,00:38 LA9577,,Miami (MIA),LATAM Airlines B788 (CC-BBA),Landed 00:14,2021-06-13
+1,1,06:50 LA509,,Miami (MIA),LATAM Airlines B789 (CC-BGP),Landed 06:17,2021-06-13
+2,2,06:59 AA957,,Miami (MIA),American Airlines B788 (N815AA),Landed 06:41,2021-06-13
+3,3,07:15 ET3807,,Sao Paulo (GRU),Ethiopian Cargo B77L (ET-ARJ),Landed 06:54,2021-06-13
+4,4,07:35 AA945,,Dallas (DFW),American Airlines B788 (N806AA),Landed 06:59,2021-06-13
+5,5,07:50,IB6833,Madrid (MAD),Iberia A332 (EC-MIL),Landed 07:14,2021-06-13
+6,6,08:10,AF406,Paris (CDG),Air France B77W (F-GZNK),Landed 07:22,2021-06-13
+7,7,09:03 JA292,,Concepcion (CCP),JetSMART (Carpintero Negro Livery) A20N (CC-AWN),Landed 08:53,2021-06-13
+8,8,10:36 LA10,,Concepcion (CCP),LATAM Airlines A320 (CC-BAG),Landed 10:30,2021-06-13
+9,9,10:40 LA9571,,Miami (MIA),LATAM Airlines B789 (CC-BGA),Landed 09:44,2021-06-13
+10,10,11:10 UC1501,,Campinas (VCP),LATAM Cargo Chile B77F,Unknown,2021-06-13
+11,11,11:16 JA1112,,Concepcion (CCP),JetSMART (Pato BancoEstado Livery) A20N (CC-AWP),Landed 11:08,2021-06-13
+12,12,11:52 LA230,,Temuco (ZCO),LATAM Airlines A320 (PR-TYV),Landed 11:43,2021-06-13
+13,13,11:56 LA115,,Copiapo (CPO),LATAM Airlines A320 (CC-BAZ),Canceled,2021-06-13
+14,14,12:10 LA68,,Castro (MHC),LATAM Airlines A320 (CC-CQO),Landed 12:04,2021-06-13
+15,15,12:11 LA381,,Arica (ARI),LATAM Airlines A320 (CC-BAU),Landed 11:51,2021-06-13
+16,16,12:35 LA250,,Osorno (ZOS),LATAM Airlines A320 (CC-BAK),Landed 12:16,2021-06-13
+17,17,13:02 LA278,,Balmaceda (BBA),LATAM Airlines A320 (CC-BAA),Landed 12:53,2021-06-13
+18,18,13:17 LA125,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAV),Landed 13:07,2021-06-13
+19,19,13:17 LA303,,La Serena (LSC),LATAM Airlines A320 (CC-BAT),Landed 12:54,2021-06-13
+20,20,13:28 LA313,,Copiapo (CPO),LATAM Airlines A320 (PR-TYQ),Landed 13:10,2021-06-13
+21,21,13:42 LA6,,Concepcion (CCP),LATAM Airlines A320 (CC-BAB),Landed 13:35,2021-06-13
+22,22,13:55 LA224,,Lima (LIM),LATAM Airlines 788,Unknown,2021-06-13
+23,23,14:30 LA225,,Antofagasta (ANF),LATAM Airlines 788,Unknown,2021-06-13
+24,24,14:32 H2281,,Antofagasta (ANF),Sky Airline 320,Unknown,2021-06-13
+25,25,14:37 LA169,,Iquique (IQQ),LATAM Airlines A320 (CC-CQM),Landed 14:20,2021-06-13
+26,26,14:57 JA293,,Iquique (IQQ),JetSMART (Flamenco de James Livery) A20N (CC-AWK),Landed 20:12,2021-06-13
+27,27,15:16 H2122,,Valdivia (ZAL),Sky Airline 320,Canceled,2021-06-13
+28,28,15:19 LA353,,Calama (CJC),LATAM Airlines A320 (CC-BAH),Landed 15:00,2021-06-13
+29,29,15:26 LA307,,La Serena (LSC),LATAM Airlines A320 (CC-BAL),Landed 15:09,2021-06-13
+30,30,15:49 JA3,,Calama (CJC),JetSMART (Halcon Peregrino Austral Livery) A320 (CC-AWA),Landed 15:35,2021-06-13
+31,31,16:14 LA337,,Antofagasta (ANF),LATAM Airlines A320 (PR-TYK),Landed 15:50,2021-06-13
+32,32,16:37 LA8,,Concepcion (CCP),LATAM Airlines A320 (CC-BAZ),Landed 16:32,2021-06-13
+33,33,16:45 H2102,,Osorno (ZOS),SKY Airline A20N (CC-AZH),Landed 16:47,2021-06-13
+34,34,16:53 LA236,,Temuco (ZCO),LATAM Airlines A321 (CC-BEB),Landed 16:49,2021-06-13
+35,35,16:58 JA1113,,Calama (CJC),JetSMART (Pato BancoEstado Livery) A20N (CC-AWP),Landed 17:08,2021-06-13
+36,36,16:59 LA266,,Puerto Montt (PMC),LATAM Airlines A320 (PR-TYV),Landed 16:40,2021-06-13
+37,37,17:04 LA1160,,Punta Arenas (PUQ),LATAM Airlines B789 (CC-BGO),Landed 16:56,2021-06-13
+38,38,17:13 LA143,,Calama (CJC),LATAM Airlines A320 (CC-BAG),Landed 17:03,2021-06-13
+39,39,17:21 H2201,,La Serena (LSC),Sky Airline 320,Canceled,2021-06-13
+40,40,17:31 H2221,,Copiapo (CPO),Sky Airline 320,Canceled,2021-06-13
+41,41,17:38 LA240,,Valdivia (ZAL),LATAM Airlines A320 (CC-BAK),Landed 17:32,2021-06-13
+42,42,17:52 LA34,,Temuco (ZCO),LATAM Airlines A320 (CC-BAT),Landed 17:40,2021-06-13
+43,43,18:20 H2402,,Puerto Montt (PMC),Sky Airline A20N (CC-AZQ),Landed 18:01,2021-06-13
+44,44,18:32 LA175,,Iquique (IQQ),LATAM Airlines A320 (CC-CQO),Landed 18:21,2021-06-13
+45,45,18:32 LA323,,Antofagasta (ANF),LATAM Airlines A320 (CC-COO),Unknown,2021-06-13
+46,46,18:40 LA276,,Balmaceda (BBA),LATAM Airlines A320 (CC-BAU),Landed 18:22,2021-06-13
+47,47,18:48 H2148,,Temuco (ZCO),Sky Airline A20N (CC-AZN),Landed 18:36,2021-06-13
+48,48,18:50 LA12,,Concepcion (CCP),LATAM Airlines A320 (CC-CQM),Landed 18:42,2021-06-13
+49,49,19:00 JA33,,Antofagasta (ANF),JetSMART (Vicuna Livery) A20N (CC-AWM),Landed 18:40,2021-06-13
+50,50,19:10 LA62,,Puerto Montt (PMC),LATAM Airlines A321 (CC-BEP),Landed 18:59,2021-06-13
+51,51,19:14 LA347,,Calama (CJC),LATAM Airlines A320 (PR-TYQ),Landed 18:53,2021-06-13
+52,52,19:20,LA309,La Serena (LSC),LATAM Airlines A320 (CC-BAH),Landed 18:56,2021-06-13
+53,53,19:38 JA142,,Valdivia (ZAL),JetSMART 320,Unknown,2021-06-13
+54,54,19:39 LA117,,Copiapo (CPO),LATAM Airlines A320 (CC-BAL),Landed 19:30,2021-06-13
+55,55,19:52 LA84,,Puerto Montt (PMC),LATAM Airlines A321 (CC-BEC),Landed 19:40,2021-06-13
+56,56,20:24 H2275,,Antofagasta (ANF),SKY Airline A20N (CC-AZE),Landed 20:06,2021-06-13
+57,57,20:39 H2434,,Puerto Montt (PMC),SKY Airline A20N (CC-AZS),Landed 20:50,2021-06-13
+58,58,20:40,LA351,Calama (CJC),LATAM Airlines A320 (CC-BAA),Landed 20:02,2021-06-13
+59,59,20:46,LA333,La Serena (LSC),LATAM Airlines A320 (CC-BAB),Unknown,2021-06-13
+60,60,20:53,LA232,Temuco (ZCO),LATAM Airlines A320 (CC-BAZ),Landed 20:37,2021-06-13
+61,61,20:57 JA9012,,Concepcion (CCP),JetSMART (Pato BancoEstado Livery) A20N (CC-AWP),Landed 20:13,2021-06-13
+62,62,21:01,LA165,Iquique (IQQ),LATAM Airlines A321 (CC-BED),Landed 20:48,2021-06-13
+63,63,21:08,LA58,Puerto Montt (PMC),LATAM Airlines A320 (PR-TYK),Landed 20:51,2021-06-13
+64,64,21:12,LA325,Antofagasta (ANF),LATAM Airlines A321 (CC-BEM),Landed 20:42,2021-06-13
+65,65,21:38 LA157,,Calama (CJC),LATAM Airlines A321 (CC-BEO),Landed 21:24,2021-06-13
+66,66,22:00,LA383,Arica (ARI),LATAM Airlines A320 (CC-BAV),Landed 21:53,2021-06-13
+67,67,22:10 KE274,,Campinas (VCP),Korean Air Cargo B77L (HL8076),Landed 23:39,2021-06-13
+68,68,22:11 H2253,,Calama (CJC),Sky Airline 320,Unknown,2021-06-13
+69,69,22:18 H2166,,Concepcion (CCP),Sky Airline A20N (CC-AZN),Landed 22:00,2021-06-13
+70,70,22:30 LA1283,,Miami (MIA),LATAM Airlines B763 (CC-CXK),Canceled,2021-06-13
+71,71,22:38 LA135,,Antofagasta (ANF),LATAM Airlines A321 (CC-BER),Landed 22:27,2021-06-13
+72,72,22:46 LA151,,Calama (CJC),LATAM Airlines A321 (CC-BEB),Landed 22:40,2021-06-13
+73,73,22:50 QR8147,,Campinas (VCP),Qatar Cargo B77L (A7-BFE),Landed 22:30,2021-06-13
+74,74,22:50,LA218,Concepcion (CCP),LATAM Airlines A320 (CC-BAU),Landed 22:46,2021-06-13
+75,75,22:51 JA53,,La Serena (LSC),JetSMART (Tortuga Verde Livery) A20N (CC-AWO),Landed 22:35,2021-06-13
+76,76,22:59,LA177,Iquique (IQQ),LATAM Airlines A320 (PR-TYV),Landed 22:49,2021-06-13
+77,77,23:05 5Y34,,Buenos Aires (EZE),Atlas Air 74F,Unknown,2021-06-13
+78,78,23:17 JA11,,Calama (CJC),JetSMART (Martin Pescador Livery) A320 (CC-AWB),Landed 23:08,2021-06-13
+79,79,23:19,CM111,Panama City (PTY),Copa Airlines B39M (HP-9903CMP),Landed 22:44,2021-06-13
+80,80,23:23 H2329,,Iquique (IQQ),SKY Airline A20N (CC-AZH),Landed 23:14,2021-06-13
+81,81,23:43 LA335,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAT),Landed 23:21,2021-06-13
+82,82,23:46 H2307,,Arica (ARI),Sky Airline A20N (CC-AZP),Landed 23:42,2021-06-13
+83,83,23:52 LA159,,Calama (CJC),LATAM Airlines A320 (CC-BAK),Landed 23:35,2021-06-13
+0,0,05:30 LA2481,,Lima (LIM),LATAM Airlines B789 (CC-BGB),Landed 05:21,2021-06-14
+1,1,05:55,LA581,Bogota (BOG),LATAM Airlines B788 (CC-BBG),Landed 05:30,2021-06-14
+2,2,06:50 LA501,,Miami (MIA),LATAM Airlines B789 (CC-BGL),Landed 06:09,2021-06-14
+3,3,06:59 AA957,,Miami (MIA),American Airlines B788 (N800AN),Landed 06:47,2021-06-14
+4,4,07:00,DL147,Atlanta (ATL),Delta Air Lines B763 (N184DN),Landed 06:53,2021-06-14
+5,5,07:11 AA9717,,Miami (MIA),American Airlines B772,Unknown,2021-06-14
+6,6,07:15 LA1285,,Miami (MIA),LATAM Airlines B763 (CC-CXK),Landed 06:50,2021-06-14
+7,7,07:25,IB6833,Madrid (MAD),Iberia A359 (EC-NJM),Landed 07:10,2021-06-14
+8,8,07:25,LA707,Madrid (MAD),LATAM Airlines B788 (CC-BBJ),Landed 07:05,2021-06-14
+9,9,07:25 UC1101,,Miami (MIA),LATAM Cargo B763 (N534LA),Landed 09:57,2021-06-14
+10,10,07:35 AA945,,Dallas (DFW),American Airlines B788 (N871AY),Landed 07:02,2021-06-14
+11,11,07:50 JA27,,Antofagasta (ANF),JetSMART 320,Unknown,2021-06-14
+12,12,08:50 UC1509,,Campinas (VCP),LATAM Cargo Chile B77F,Unknown,2021-06-14
+13,13,09:27 LA343,,Calama (CJC),LATAM Airlines A320 (CC-BAB),Landed 09:14,2021-06-14
+14,14,10:09,LA147,Calama (CJC),LATAM Airlines A321 (CC-BEB),Landed 09:53,2021-06-14
+15,15,10:10 JA1211,,Antofagasta (ANF),JetSMART (Colibri de Arica Livery) A20N (CC-AWJ),Landed 09:49,2021-06-14
+16,16,10:20,LA137,Antofagasta (ANF),LATAM Airlines A320 (CC-BAU),Landed 10:02,2021-06-14
+17,17,10:25 H2245,,Calama (CJC),SKY Airline A20N (CC-AZE),Landed 10:21,2021-06-14
+18,18,10:43 LA60,,Puerto Montt (PMC),LATAM Airlines A320 (PR-TYK),Landed 10:36,2021-06-14
+19,19,10:48 LA10,,Concepcion (CCP),LATAM Airlines A320 (CC-BAJ),Landed 10:41,2021-06-14
+20,20,10:50 JA87,,Copiapo (CPO),JetSMART (Tortuga Verde Livery) A20N (CC-AWO),Landed 14:50,2021-06-14
+21,21,10:57 LA145,,Calama (CJC),LATAM Airlines A321 (CC-BEQ),Landed 10:50,2021-06-14
+22,22,11:09 LA331,,La Serena (LSC),LATAM Airlines A320 (CC-BAK),Landed 10:46,2021-06-14
+23,23,11:11 LA163,,Iquique (IQQ),LATAM Airlines A320 (CC-BAA),Landed 11:05,2021-06-14
+24,24,11:20 LA129,,Antofagasta (ANF),LATAM Airlines A321 (CC-BEP),Unknown,2021-06-14
+25,25,11:39 H2321,,Iquique (IQQ),Sky Airline 320,Canceled,2021-06-14
+26,26,11:52 H2271,,Antofagasta (ANF),Sky Airline A20N (CC-AZN),Landed 11:45,2021-06-14
+27,27,11:52 LA230,,Temuco (ZCO),LATAM Airlines A320 (PR-TYQ),Landed 11:39,2021-06-14
+28,28,12:09 LA141,,Calama (CJC),LATAM Airlines A320 (CC-BAV),Landed 11:57,2021-06-14
+29,29,12:21 JA127,,Arica (ARI),JetSMART 320,Unknown,2021-06-14
+30,30,12:27 LA133,,Antofagasta (ANF),LATAM Airlines A321 (CC-BER),Landed 12:20,2021-06-14
+31,31,12:35 LA173,,Iquique (IQQ),LATAM Airlines A321 (CC-BEO),Landed 12:24,2021-06-14
+32,32,12:39 LA115,,Copiapo (CPO),LATAM Airlines A321 (CC-BED),Landed 12:27,2021-06-14
+33,33,12:41 LA381,,Arica (ARI),LATAM Airlines A320 (CC-COO),Unknown,2021-06-14
+34,34,12:54 LA127,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAL),Landed 12:42,2021-06-14
+35,35,12:57 LA64,,Puerto Montt (PMC),LATAM Airlines A320 (CC-CQM),Landed 12:51,2021-06-14
+36,36,13:20 JA111,,Iquique (IQQ),JetSMART 320,Unknown,2021-06-14
+37,37,13:23 JA156,,Puerto Montt (PMC),JetSMART 320,Unknown,2021-06-14
+38,38,13:44 JA106,,Concepcion (CCP),JetSMART (Martin Pescador Livery) A320 (CC-AWB),Landed 15:53,2021-06-14
+39,39,13:48 LA1243,,Calama (CJC),LATAM Airlines A320 (CC-BAG),Landed 13:37,2021-06-14
+40,40,13:49 LA303,,La Serena (LSC),LATAM Airlines A320 (CC-BAU),Landed 13:33,2021-06-14
+41,41,13:55 LA224,,Lima (LIM),LATAM Airlines 788,Unknown,2021-06-14
+42,42,13:59 LA474,,Buenos Aires (EZE),LATAM Airlines 320,Unknown,2021-06-14
+43,43,14:05 LA339,,Antofagasta (ANF),LATAM Airlines A320 (PR-TYV),Landed 13:51,2021-06-14
+44,44,14:22 LA155,,Calama (CJC),LATAM Airlines A320 (CC-BAH),Landed 14:12,2021-06-14
+45,45,14:25 LA179,,Iquique (IQQ),LATAM Airlines A321 (CC-BEM),Landed 14:17,2021-06-14
+46,46,14:30 LA225,,Antofagasta (ANF),LATAM Airlines 788,Unknown,2021-06-14
+47,47,14:55 LA6,,Concepcion (CCP),LATAM Airlines A320 (CC-BAK),Landed 14:52,2021-06-14
+48,48,15:20 LA353,,Calama (CJC),LATAM Airlines A320 (CC-BAB),Landed 15:09,2021-06-14
+49,49,15:28 JA5,,Calama (CJC),JetSMART (Gaviota Austral Livery) A320 (CC-AWE),Landed 15:55,2021-06-14
+50,50,15:41 H2102,,Osorno (ZOS),SKY Airline A20N (CC-AZM),Landed 15:32,2021-06-14
+51,51,15:53 LA236,,Temuco (ZCO),LATAM Airlines A320 (CC-BAA),Landed 15:48,2021-06-14
+52,52,15:55 H2327,,Iquique (IQQ),SKY Airline A20N (CC-AZH),Landed 15:59,2021-06-14
+53,53,15:58 LA307,,La Serena (LSC),LATAM Airlines A320 (CC-BAJ),Canceled,2021-06-14
+54,54,16:14 LA337,,Antofagasta (ANF),LATAM Airlines A320 (PR-TYK),Landed 15:51,2021-06-14
+55,55,16:29 H2122,,Valdivia (ZAL),Sky Airline A20N (CC-AZP),Landed 15:28,2021-06-14
+56,56,16:42 LA161,,Iquique (IQQ),LATAM Airlines A321 (CC-BEB),Landed 16:29,2021-06-14
+57,57,16:48 LA266,,Puerto Montt (PMC),LATAM Airlines A320 (PR-TYQ),Landed 16:32,2021-06-14
+58,58,16:50 5Y9533,,Miami (MIA),Atlas Air B744 (N419MC),Landed 16:04,2021-06-14
+59,59,16:54 LA12,,Concepcion (CCP),LATAM Airlines A321 (CC-BER),Landed 16:46,2021-06-14
+60,60,17:03 LA1160,,Punta Arenas (PUQ),LATAM Airlines B788 (CC-BBE),Landed 16:54,2021-06-14
+61,61,17:04 LA313,,Copiapo (CPO),LATAM Airlines A321 (CC-BED),Landed 16:37,2021-06-14
+62,62,17:10 H21283,,Antofagasta (ANF),SKY Airline A20N (CC-AZS),Landed 17:01,2021-06-14
+63,63,17:12 LA175,,Iquique (IQQ),LATAM Airlines A320 (CC-BAJ),Landed 16:57,2021-06-14
+64,64,17:16 LA143,,Calama (CJC),LATAM Airlines A320 (CC-CQO),Landed 17:06,2021-06-14
+65,65,17:31 LA240,,Valdivia (ZAL),LATAM Airlines A320 (CC-BAL),Landed 17:20,2021-06-14
+66,66,17:39 JA284,,Temuco (ZCO),JetSMART (Pato BancoEstado Livery) A20N (CC-AWP),Landed 18:31,2021-06-14
+67,67,17:45 LA9589,,Miami (MIA),LATAM Airlines B789 (CC-BGC),Landed 19:45,2021-06-14
+68,68,17:53 LA234,,Temuco (ZCO),LATAM Airlines A320 (CC-BAZ),Canceled,2021-06-14
+69,69,18:00 H2402,,Puerto Montt (PMC),Sky Airline A20N (CC-AZQ),Landed 17:43,2021-06-14
+70,70,18:06 LA272,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAT),Landed 17:47,2021-06-14
+71,71,18:14 H2281,,Antofagasta (ANF),Sky Airline A20N (CC-AZN),Landed 17:59,2021-06-14
+72,72,18:21 JA17,,La Serena (LSC),JetSMART 320,Unknown,2021-06-14
+73,73,18:26 LA1265,,Iquique (IQQ),LATAM Airlines A321 (CC-BEP),Unknown,2021-06-14
+74,74,18:30 LA1283,,Miami (MIA),LATAM Airlines B763 (CC-CXE),Landed 17:39,2021-06-14
+75,75,18:54 H2434,,Puerto Montt (PMC),SKY Airline A20N (CC-AZO),Landed 18:35,2021-06-14
+76,76,19:00 LA202,,Concepcion (CCP),LATAM Airlines A320 (CC-BLE),Landed 18:40,2021-06-14
+77,77,19:14 LA347,,Calama (CJC),LATAM Airlines A321 (CC-BEL),Landed 22:00,2021-06-14
+78,78,19:15 LA276,,Balmaceda (BBA),LATAM Airlines A320 (CC-COO),Landed 19:08,2021-06-14
+79,79,19:20,AM10,Mexico City (MEX),Aeromexico B789 (N183AM),Landed 18:59,2021-06-14
+80,80,19:20 LA62,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAU),Landed 19:16,2021-06-14
+81,81,19:26 LA323,,Antofagasta (ANF),LATAM Airlines A320 (PR-TYV),Landed 19:04,2021-06-14
+82,82,19:29 LA1449,,Guayaquil (GYE),LATAM Airlines A319 (HC-CPY),Unknown,2021-06-14
+83,83,19:36 LA117,,Copiapo (CPO),LATAM Airlines A320 (CC-BAB),Landed 19:24,2021-06-14
+84,84,20:09 LA1267,,Iquique (IQQ),LATAM Airlines A321 (CC-BEO),Landed 19:57,2021-06-14
+85,85,20:29 LA365,,Iquique (IQQ),LATAM Airlines A320 (CC-CQM),Landed 20:17,2021-06-14
+86,86,20:39 LA260,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAK),Landed 20:22,2021-06-14
+87,87,20:46,LA309,La Serena (LSC),LATAM Airlines A320 (CC-BAC),Landed 20:37,2021-06-14
+88,88,20:50 LA351,,Calama (CJC),LATAM Airlines A321 (CC-BEM),Landed 20:35,2021-06-14
+89,89,20:53,LA232,Temuco (ZCO),LATAM Airlines A320 (PR-TYK),Landed 20:32,2021-06-14
+90,90,20:54 JA37,,La Serena (LSC),JetSMART (Colibri de Arica Livery) A20N (CC-AWJ),Landed 22:07,2021-06-14
+91,91,21:16 H21225,,Copiapo (CPO),SKY Airline A20N (CC-AZS),Landed 21:01,2021-06-14
+92,92,21:44 H21162,,Concepcion (CCP),SKY Airline A20N (CC-AZE),Landed 21:26,2021-06-14
+93,93,21:44 LA329,,Antofagasta (ANF),LATAM Airlines A321 (CC-BEQ),Landed 21:23,2021-06-14
+94,94,22:00 LA135,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAG),Landed 21:45,2021-06-14
+95,95,22:00,LA56,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAG),Canceled,2021-06-14
+96,96,22:00,LA383,Arica (ARI),LATAM Airlines A320 (CC-BAZ),Unknown,2021-06-14
+97,97,22:11 H2253,,Calama (CJC),Sky Airline 320,Canceled,2021-06-14
+98,98,22:13,LA16,Concepcion (CCP),LATAM Airlines A320 (CC-BAT),Landed 21:53,2021-06-14
+99,99,22:28 LA369,,Iquique (IQQ),LATAM Airlines A320 (CC-BAA),Landed 22:04,2021-06-14
+100,100,22:56 LA151,,Calama (CJC),LATAM Airlines A321 (CC-BEB),Landed 22:47,2021-06-14
+101,101,23:20,LA349,Calama (CJC),LATAM Airlines A320 (CC-BAL),Landed 23:04,2021-06-14
+102,102,23:52 LA131,,Antofagasta (ANF),LATAM Airlines A321 (CC-BED),Landed 23:40,2021-06-14
+103,103,23:52 LA1245,,Calama (CJC),LATAM Airlines A320 (CC-BAJ),Landed 23:36,2021-06-14
+0,0,00:25 H2307,,Arica (ARI),Sky Airline 320,Canceled,2021-06-15
+1,1,00:50 JA1215,,Antofagasta (ANF),JetSMART (Vicuna Livery) A20N (CC-AWM),Landed 00:23,2021-06-15
+2,2,02:31 M38490,,Buenos Aires (EZE),LATAM Cargo B763 (CC-CZZ),Landed 04:16,2021-06-15
+3,3,06:20,UA847,Houston (IAH),United Airlines B789 (N27958),Landed 05:46,2021-06-15
+4,4,06:55 LA9575,,Miami (MIA),LATAM Airlines B789 (CC-BGJ),Landed 06:45,2021-06-15
+5,5,06:59 AA957,,Miami (MIA),American Airlines B788 (N809AA),Landed 06:03,2021-06-15
+6,6,07:11 AA9717,,Miami (MIA),American Airlines B772,Unknown,2021-06-15
+7,7,07:23 JA260,,Concepcion (CCP),JetSMART (Flamenco de James Livery) A20N (CC-AWK),Landed 06:33,2021-06-15
+8,8,07:25,IB6833,Madrid (MAD),Iberia A359 (EC-NIS),Landed 07:26,2021-06-15
+9,9,07:35 AA945,,Dallas (DFW),American Airlines B788 (N870AX),Landed 06:40,2021-06-15
+10,10,10:11 LA163,,Iquique (IQQ),LATAM Airlines A320 (CC-BAZ),Landed 10:09,2021-06-15
+11,11,10:21,LA137,Antofagasta (ANF),LATAM Airlines A320 (CC-BAU),Landed 10:02,2021-06-15
+12,12,10:23 H2245,,Calama (CJC),Sky Airline 320,Canceled,2021-06-15
+13,13,10:23 H21331,,Iquique (IQQ),SKY Airline A20N (CC-AZO),Landed 10:31,2021-06-15
+14,14,10:30,LA361,Iquique (IQQ),LATAM Airlines A320 (CC-BAV),Landed 10:19,2021-06-15
+15,15,10:52 LA230,,Temuco (ZCO),LATAM Airlines A320 (CC-BAA),Landed 10:48,2021-06-15
+16,16,11:06 H2321,,Iquique (IQQ),Sky Airline A20N (CC-AZQ),Landed 11:02,2021-06-15
+17,17,11:10 LA210,,Concepcion (CCP),LATAM Airlines A320 (PR-TYK),Landed 10:57,2021-06-15
+18,18,11:13 LA145,,Calama (CJC),LATAM Airlines A321 (CC-BEO),Landed 10:51,2021-06-15
+19,19,11:35 LA129,,Antofagasta (ANF),LATAM Airlines A321 (CC-BED),Landed 11:23,2021-06-15
+20,20,11:49 H2142,,Temuco (ZCO),Sky Airline 320,Canceled,2021-06-15
+21,21,11:53 H2301,,Arica (ARI),SKY Airline A20N (CC-AZH),Landed 12:13,2021-06-15
+22,22,11:55 UC1503,,Buenos Aires (EZE),LATAM Cargo Chile B77F,Unknown,2021-06-15
+23,23,12:05 JA3,,Calama (CJC),JetSMART 320,Unknown,2021-06-15
+24,24,12:19 LA173,,Iquique (IQQ),LATAM Airlines A320 (PR-TYQ),Landed 12:20,2021-06-15
+25,25,12:23 LA68,,Castro (MHC),LATAM Airlines A320 (CC-BAT),Landed 12:17,2021-06-15
+26,26,12:31 LA115,,Copiapo (CPO),LATAM Airlines A320 (CC-COO),Unknown,2021-06-15
+27,27,12:34 H2451,,La Serena (LSC),SKY Airline A20N (CC-AZF),Landed 12:46,2021-06-15
+28,28,12:49 LA147,,Calama (CJC),LATAM Airlines A320 (CC-BLE),Landed 12:32,2021-06-15
+29,29,12:49 LA133,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAG),Landed 12:28,2021-06-15
+30,30,13:06 LA381,,Arica (ARI),LATAM Airlines A320 (CC-BAC),Landed 12:57,2021-06-15
+31,31,13:09 JA261,,Arica (ARI),JetSMART (Flamenco de James Livery) A20N (CC-AWK),Landed 13:13,2021-06-15
+32,32,13:21 LA155,,Calama (CJC),LATAM Airlines A320 (PR-TYV),Landed 13:10,2021-06-15
+33,33,13:27 LA303,,La Serena (LSC),LATAM Airlines A320 (CC-BAB),Canceled,2021-06-15
+34,34,13:33 LA339,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAL),Landed 13:41,2021-06-15
+35,35,13:50 JA1213,,Antofagasta (ANF),JetSMART (Colibri de Arica Livery) A20N (CC-AWJ),Landed 13:30,2021-06-15
+36,36,13:54 LA119,,Copiapo (CPO),LATAM Airlines A320 (CC-CQM),Landed 13:53,2021-06-15
+37,37,13:55 LA224,,Lima (LIM),LATAM Airlines 788,Unknown,2021-06-15
+38,38,13:59 LA6,,Concepcion (CCP),LATAM Airlines A320 (CC-BAU),Landed 13:48,2021-06-15
+39,39,14:22 LA307,,La Serena (LSC),LATAM Airlines A320 (CC-BAA),Landed 14:11,2021-06-15
+40,40,14:30 LA225,,Antofagasta (ANF),LATAM Airlines 788,Unknown,2021-06-15
+41,41,14:37 LA125,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAB),Landed 14:13,2021-06-15
+42,42,14:37 LA169,,Iquique (IQQ),LATAM Airlines A321 (CC-BEB),Canceled,2021-06-15
+43,43,14:41 H21247,,Calama (CJC),SKY Airline A20N (CC-AZM),Landed 14:32,2021-06-15
+44,44,15:15 LA9577,,Miami (MIA),LATAM Airlines B789 (CC-BGM),Landed 14:46,2021-06-15
+45,45,15:39 LA272,,Puerto Montt (PMC),LATAM Airlines A321 (CC-BEM),Landed 15:26,2021-06-15
+46,46,15:58 LA212,,Concepcion (CCP),LATAM Airlines A320 (PR-TYQ),Landed 15:43,2021-06-15
+47,47,16:08 LA64,,Puerto Montt (PMC),LATAM Airlines A320 (CC-BAJ),Canceled,2021-06-15
+48,48,16:14 LA337,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAV),Landed 16:14,2021-06-15
+49,49,16:24 LA353,,Calama (CJC),LATAM Airlines A320 (CC-BAZ),Landed 16:11,2021-06-15
+50,50,16:43 LA236,,Temuco (ZCO),LATAM Airlines A320 (CC-BAG),Landed 16:31,2021-06-15
+51,51,16:45 LA1269,,Iquique (IQQ),LATAM Airlines A321 (CC-BEL),Landed 16:27,2021-06-15
+52,52,16:59 H2122,,Valdivia (ZAL),SKY Airline A20N (CC-AZF),Landed 17:02,2021-06-15
+53,53,17:00 JA37,,La Serena (LSC),JetSMART (Gaviota Austral Livery) A320 (CC-AWE),Landed 17:29,2021-06-15
+54,54,17:10 H2281,,Antofagasta (ANF),Sky Airline A20N (CC-AZN),Landed 16:53,2021-06-15
+55,55,17:20 LA1160,,Punta Arenas (PUQ),LATAM Airlines B789 (CC-BGO),Landed 16:59,2021-06-15
+56,56,17:21 H21207,,La Serena (LSC),Sky Airline 320,Canceled,2021-06-15
+57,57,17:26 JA332,,Puerto Montt (PMC),JetSMART (Pato BancoEstado Livery) A20N (CC-AWP),Landed 17:21,2021-06-15
+58,58,17:30 LA250,,Osorno (ZOS),LATAM Airlines A320 (CC-BAT),Landed 17:06,2021-06-15
+59,59,17:38 LA143,,Calama (CJC),LATAM Airlines A321 (CC-BED),Landed 17:18,2021-06-15
+60,60,18:06 LA867,,Santa Cruz (VVI),LATAM Airlines A320 (CC-BAK),Landed 17:40,2021-06-15
+61,61,18:07 LA18,,Concepcion (CCP),LATAM Airlines A320 (CC-CQM),Landed 17:54,2021-06-15
+62,62,18:19 LA1265,,Iquique (IQQ),LATAM Airlines A321 (CC-BEO),Landed 18:00,2021-06-15
+63,63,18:29 LA266,,Puerto Montt (PMC),LATAM Airlines A320 (CC-COO),Landed 18:08,2021-06-15
+64,64,18:34 H2402,,Puerto Montt (PMC),SKY Airline A20N (CC-AZS),Landed 18:25,2021-06-15
+65,65,18:35 H2164,,Concepcion (CCP),Sky Airline 320,Canceled,2021-06-15
+66,66,18:53 LA171,,Iquique (IQQ),LATAM Airlines A320 (CC-BAJ),Landed 18:46,2021-06-15
+67,67,19:04 LA323,,Antofagasta (ANF),LATAM Airlines A321 (CC-BEQ),Landed 18:33,2021-06-15
+68,68,19:14 LA347,,Calama (CJC),LATAM Airlines A320 (PR-TYV),Landed 18:59,2021-06-15
+69,69,19:25 LA1267,,Iquique (IQQ),LATAM Airlines A321 (CC-BEP),Unknown,2021-06-15
+70,70,19:35 5Y22,,Campinas (VCP),Atlas Air B744 (N419MC),Landed 21:31,2021-06-15
+71,71,19:48 LA117,,Copiapo (CPO),LATAM Airlines A320 (CC-BLE),Landed 19:44,2021-06-15
+72,72,20:00 LA84,,Puerto Montt (PMC),LATAM Airlines A320 (CC-CQO),Landed 19:39,2021-06-15
+73,73,20:14,LA309,La Serena (LSC),LATAM Airlines A320 (CC-BAG),Landed 20:03,2021-06-15
+74,74,20:20 H2434,,Puerto Montt (PMC),SKY Airline A20N (CC-AZH),Landed 20:10,2021-06-15
+75,75,20:33 H2471,,La Serena (LSC),SKY Airline A20N (CC-AZO),Landed 20:22,2021-06-15
+76,76,20:40 LA351,,Calama (CJC),LATAM Airlines A320 (CC-BAB),Landed 20:16,2021-06-15
+77,77,20:43,,Buenos Aires (AEP),- A320,Canceled,2021-06-15
+78,78,20:49 UC1105,,Miami (MIA),LATAM Cargo B763 (N542LA),Landed 20:34,2021-06-15
+79,79,20:56,LA232,Temuco (ZCO),LATAM Airlines A320 (PR-TYQ),Landed 20:39,2021-06-15
+80,80,21:01 LA165,,Iquique (IQQ),LATAM Airlines A320 (CC-BAL),Landed 20:49,2021-06-15
+81,81,21:08,LA58,Puerto Montt (PMC),LATAM Airlines A321 (CC-BEM),Landed 21:03,2021-06-15
+82,82,21:09 LA12,,Concepcion (CCP),LATAM Airlines A320 (CC-BAT),Landed 20:58,2021-06-15
+83,83,21:12 LA157,,Calama (CJC),LATAM Airlines A320 (CC-BAA),Landed 21:00,2021-06-15
+84,84,21:13 H2227,,Copiapo (CPO),Sky Airline 320,Canceled,2021-06-15
+85,85,21:22 WJ3010,,Buenos Aires (AEP),JetSMART Argentina 320,Unknown,2021-06-15
+86,86,21:25 LA423,,Asuncion (ASU),LATAM Airlines A320 (CC-BAC),Landed 21:07,2021-06-15
+87,87,21:34 LA329,,Antofagasta (ANF),LATAM Airlines A320 (CC-BAJ),Landed 00:27,2021-06-15
+88,88,21:41 JA7,,Calama (CJC),JetSMART (Vicuna Livery) A20N (CC-AWM),Landed 21:35,2021-06-15
+89,89,21:47 JA51,,La Serena (LSC),JetSMART (Martin Pescador Livery) A320 (CC-AWB),Landed 21:48,2021-06-15
+90,90,22:00,LA383,Arica (ARI),LATAM Airlines A320 (CC-BAU),Landed 21:39,2021-06-15
+91,91,22:30 LA1283,,Miami (MIA),LATAM Airlines B763 (CC-CXK),Canceled,2021-06-15
+92,92,22:30 LA1285,,Miami (MIA),LATAM Airlines B763 (CC-CXE),Landed 22:07,2021-06-15
+93,93,22:32 H21283,,Antofagasta (ANF),SKY Airline A20N (CC-AZM),Landed 22:11,2021-06-15
+94,94,22:36 H2801,,Lima (LIM),Sky Airline 320,Canceled,2021-06-15
+95,95,22:59 LA177,,Iquique (IQQ),LATAM Airlines A320 (CC-BAZ),Landed 22:54,2021-06-15
+96,96,23:04,LA151,Calama (CJC),LATAM Airlines A321 (CC-BEL),Landed 22:46,2021-06-15
+97,97,23:10,LA135,Antofagasta (ANF),LATAM Airlines A321 (CC-BED),Landed 22:57,2021-06-15
+98,98,23:19 CM111,,Panama City (PTY),Copa Airlines B738 (HP-1726CMP),Landed 22:27,2021-06-15
+99,99,23:23 H2329,,Iquique (IQQ),Sky Airline 320,Canceled,2021-06-15
